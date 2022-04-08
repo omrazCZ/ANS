@@ -23,8 +23,8 @@ import pandas as pd
 from datetime import datetime
 import csv
 
-from basketball_reference_web_scraper import client
-from basketball_reference_web_scraper.data import OutputType, Team
+#from basketball_reference_web_scraper import client
+#from basketball_reference_web_scraper.data import OutputType, Team
   
 
 
@@ -33,12 +33,12 @@ from basketball_reference_scraper.pbp import get_pbp
 
 
 #client.play_by_play(home_team=Team.BOSTON_CELTICS, year=2018, month=10, day=16)
-client.play_by_play(
-     home_team=Team.BOSTON_CELTICS,
-     year=2018, month=10, day=16,
-     output_type=OutputType.CSV,
-     output_file_path="./2018_10_06_BOS_PBP.csv"
-     )
+#client.play_by_play(
+#      home_team=Team.BOSTON_CELTICS,
+#      year=2018, month=10, day=16,
+#      output_type=OutputType.CSV,
+#      output_file_path="./2018_10_06_BOS_PBP.csv"
+#      )
 
 
 
@@ -59,7 +59,7 @@ with open('team_code.csv',newline='') as pscfile:
 
 
 # Get play by play stats
-i=5
+i=1300
 test = get_pbp(schedule["DATE"][i], team_code.get(schedule["HOME"][i]), team_code.get(schedule["VISITOR"][i]))
 
 
