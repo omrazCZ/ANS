@@ -50,6 +50,7 @@ schedule["DATE"]=schedule["DATE"].dt.date
 #schedule['HOME'] = schedule['HOME'].str.upper()
 #schedule['VISITOR'] = schedule['VISITOR'].str.upper()
 
+schedule.to_csv('Schedule_2019.csv', index=False, header=True)
 
 # Load team code as dictionary
 with open('team_code.csv',newline='') as pscfile:
@@ -59,7 +60,7 @@ with open('team_code.csv',newline='') as pscfile:
 
 
 # Get play by play stats
-i=1300
+i = 1300
 test = get_pbp(schedule["DATE"][i], team_code.get(schedule["HOME"][i]), team_code.get(schedule["VISITOR"][i]))
 
-
+test.to_csv('pbp_' + str(schedule["DATE"][i]) + '_' + schedule["HOME"][i] + '_' + schedule["VISITOR"][i] + '.csv', index=False, header=True)
