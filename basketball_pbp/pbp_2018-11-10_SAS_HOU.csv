@@ -1,0 +1,466 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,SAN ANTONIO_ACTION,HOUSTON_SCORE,SAN ANTONIO_SCORE
+1,11:36.0,J. Harden misses 2-pt jump shot from 3 ft,,0,0
+1,11:36.0,,Defensive rebound by Team,0,0
+1,11:16.0,,D. DeRozan makes 2-pt jump shot from 14 ft,0,2
+1,11:05.0,C. Paul misses 2-pt layup from 3 ft,,0,2
+1,11:03.0,,Defensive rebound by L. Aldridge,0,2
+1,10:54.0,,B. Forbes makes 2-pt jump shot from 22 ft (assist by L. Aldridge),0,4
+1,10:41.0,P. Tucker makes 3-pt jump shot from 25 ft (assist by J. Harden),,3,4
+1,10:21.0,,Turnover by L. Aldridge (lost ball; steal by C. Paul),3,4
+1,10:18.0,Turnover by C. Capela (traveling),,3,4
+1,10:04.0,,D. DeRozan makes 2-pt jump shot from 15 ft (assist by D. White),3,6
+1,9:49.0,C. Capela misses 2-pt hook shot from 7 ft,,3,6
+1,9:47.0,Offensive rebound by C. Capela,,3,6
+1,9:45.0,J. Harden misses 3-pt jump shot from 26 ft,,3,6
+1,9:43.0,,Defensive rebound by L. Aldridge,3,6
+1,9:29.0,,D. Cunningham makes 2-pt jump shot from 10 ft (assist by D. DeRozan),3,8
+1,9:19.0,Shooting foul by D. Cunningham (drawn by J. Harden),,3,8
+1,9:19.0,J. Harden misses free throw 1 of 2,,3,8
+1,9:19.0,Offensive rebound by Team,,3,8
+1,9:19.0,J. Harden makes free throw 2 of 2,,4,8
+1,9:01.0,,L. Aldridge makes 2-pt jump shot from 14 ft,4,10
+1,8:43.0,J. Harden misses 2-pt layup from 2 ft,,4,10
+1,8:41.0,,Defensive rebound by D. DeRozan,4,10
+1,8:29.0,,L. Aldridge makes 2-pt jump shot from 3 ft (assist by D. White),4,12
+1,8:11.0,C. Capela misses 2-pt layup from 2 ft,,4,12
+1,8:09.0,,Defensive rebound by D. Cunningham,4,12
+1,8:04.0,,Turnover by D. White (out of bounds lost ball),4,12
+1,7:57.0,Personal foul by B. Forbes (drawn by C. Paul),,4,12
+1,7:52.0,Shooting foul by B. Forbes (drawn by C. Paul),,4,12
+1,7:52.0,C. Paul makes free throw 1 of 2,,5,12
+1,7:52.0,,P. Mills enters the game for B. Forbes,5,12
+1,7:52.0,C. Paul misses free throw 2 of 2,,5,12
+1,7:49.0,,Defensive rebound by D. White,5,12
+1,7:27.0,,D. White misses 2-pt jump shot from 9 ft,5,12
+1,7:25.0,Defensive rebound by C. Capela,,5,12
+1,7:23.0,Shooting foul by D. Cunningham (drawn by J. Harden),,5,12
+1,7:23.0,J. Harden misses free throw 1 of 2,,5,12
+1,7:23.0,Offensive rebound by Team,,5,12
+1,7:23.0,,D. Bertāns enters the game for D. Cunningham,5,12
+1,7:23.0,J. Harden makes free throw 2 of 2,,6,12
+1,7:07.0,,L. Aldridge misses 2-pt jump shot from 9 ft,6,12
+1,7:05.0,Defensive rebound by P. Tucker,,6,12
+1,6:46.0,J. Ennis misses 3-pt jump shot from 26 ft,,6,12
+1,6:46.0,,Defensive rebound by Team,6,12
+1,6:46.0,,San Antonio full timeout,6,12
+1,6:46.0,G. Clark enters the game for J. Ennis,,6,12
+1,6:46.0,E. Gordon enters the game for C. Paul,,6,12
+1,6:46.0,,M. Belinelli enters the game for D. Bertāns,6,12
+1,6:24.0,,M. Belinelli makes 2-pt layup from 1 ft,6,14
+1,6:04.0,C. Capela makes 2-pt dunk from 2 ft,,8,14
+1,6:04.0,,D. Bertāns enters the game for D. White,8,14
+1,5:31.0,,D. Bertāns makes 3-pt jump shot from 23 ft (assist by P. Mills),8,17
+1,5:14.0,E. Gordon makes 2-pt layup from 2 ft,,10,17
+1,5:02.0,,D. DeRozan misses 2-pt jump shot from 17 ft,10,17
+1,5:00.0,Defensive rebound by C. Capela,,10,17
+1,4:59.0,Personal foul by D. DeRozan (drawn by J. Harden),,10,17
+1,4:59.0,J. Harden makes free throw 1 of 2,,11,17
+1,4:59.0,G. Green enters the game for P. Tucker,,11,17
+1,4:59.0,J. Harden misses free throw 2 of 2,,11,17
+1,4:56.0,,Defensive rebound by M. Belinelli,11,17
+1,4:43.0,,L. Aldridge misses 2-pt jump shot from 14 ft,11,17
+1,4:43.0,Defensive rebound by E. Gordon,,11,17
+1,4:33.0,Shooting foul by D. Bertāns (drawn by C. Capela),,11,17
+1,4:33.0,C. Capela makes free throw 1 of 2,,12,17
+1,4:33.0,,C. Metu enters the game for L. Aldridge,12,17
+1,4:33.0,C. Capela misses free throw 2 of 2,,12,17
+1,4:30.0,,Defensive rebound by D. DeRozan,12,17
+1,4:14.0,,D. Bertāns misses 3-pt jump shot from 26 ft,12,17
+1,4:11.0,,Offensive rebound by C. Metu,12,17
+1,4:10.0,,C. Metu misses 2-pt layup from 3 ft,12,17
+1,4:07.0,,Offensive rebound by C. Metu,12,17
+1,4:03.0,,M. Belinelli misses 3-pt jump shot from 26 ft,12,17
+1,4:00.0,Defensive rebound by C. Capela,,12,17
+1,3:58.0,E. Gordon misses 2-pt layup from 2 ft (block by D. Bertāns),,12,17
+1,3:58.0,Offensive rebound by Team,,12,17
+1,3:58.0,I. Hartenstein enters the game for C. Capela,,12,17
+1,3:47.0,G. Clark misses 3-pt jump shot from 26 ft,,12,17
+1,3:43.0,Offensive rebound by I. Hartenstein,,12,17
+1,3:41.0,G. Green misses 3-pt jump shot from 26 ft,,12,17
+1,3:38.0,,Defensive rebound by D. Bertāns,12,17
+1,3:36.0,,San Antonio full timeout,12,17
+1,3:18.0,,D. DeRozan misses 3-pt jump shot from 24 ft,12,17
+1,3:16.0,,Offensive rebound by P. Mills,12,17
+1,3:14.0,,M. Belinelli misses 3-pt jump shot from 26 ft,12,17
+1,3:10.0,Defensive rebound by G. Green,,12,17
+1,2:56.0,J. Harden misses 3-pt jump shot from 23 ft,,12,17
+1,2:53.0,,Defensive rebound by P. Mills,12,17
+1,2:46.0,,P. Mills misses 2-pt jump shot from 19 ft,12,17
+1,2:42.0,Defensive rebound by G. Clark,,12,17
+1,2:29.0,Personal foul by D. DeRozan (drawn by I. Hartenstein),,12,17
+1,2:29.0,I. Hartenstein makes free throw 1 of 2,,13,17
+1,2:29.0,C. Paul enters the game for J. Harden,,13,17
+1,2:29.0,,Q. Pondexter enters the game for D. DeRozan,13,17
+1,2:29.0,I. Hartenstein misses free throw 2 of 2,,13,17
+1,2:25.0,Offensive rebound by E. Gordon,,13,17
+1,2:25.0,E. Gordon misses 3-pt jump shot from 25 ft,,13,17
+1,2:25.0,,Defensive rebound by Team,13,17
+1,2:25.0,Loose ball foul by G. Clark (drawn by D. Bertāns),,13,17
+1,2:15.0,,Personal foul by G. Clark (drawn by M. Belinelli),13,17
+1,2:10.0,,M. Belinelli misses 2-pt jump shot from 16 ft,13,17
+1,2:08.0,Defensive rebound by G. Green,,13,17
+1,2:05.0,Personal foul by Q. Pondexter (drawn by C. Paul),,13,17
+1,2:05.0,C. Paul makes free throw 1 of 2,,14,17
+1,2:05.0,C. Paul makes free throw 2 of 2,,15,17
+1,1:51.0,,Turnover by C. Metu (bad pass),15,17
+1,1:36.0,E. Gordon makes 2-pt dunk from 1 ft,,17,17
+1,1:05.0,,Turnover by C. Metu (lost ball; steal by E. Gordon),17,17
+1,1:01.0,E. Gordon makes 2-pt layup from 1 ft,,19,17
+1,0:41.0,,P. Mills makes 3-pt jump shot from 25 ft,19,20
+1,0:26.0,C. Paul makes 2-pt layup from 1 ft,,21,20
+1,0:26.0,,Violation by Team (def goaltending),21,20
+1,0:06.0,,D. Bertāns misses 3-pt jump shot from 28 ft,21,20
+1,0:03.0,Defensive rebound by E. Gordon,,21,20
+1,0:00.0,E. Gordon misses 2-pt layup from 3 ft (block by P. Mills),,21,20
+1,0:00.0,,Defensive rebound by Team,21,20
+2,11:43.0,,L. Aldridge makes 2-pt jump shot from 13 ft (assist by M. Belinelli),21,22
+2,11:26.0,E. Gordon makes 3-pt jump shot from 25 ft (assist by C. Paul),,24,22
+2,11:04.0,,Shooting foul by C. Capela (drawn by Q. Pondexter),24,22
+2,11:04.0,,Q. Pondexter makes free throw 1 of 2,24,23
+2,11:04.0,J. Ennis enters the game for G. Clark,,24,23
+2,11:04.0,P. Tucker enters the game for G. Green,,24,23
+2,11:04.0,,B. Forbes enters the game for M. Belinelli,24,23
+2,11:04.0,,D. White enters the game for P. Mills,24,23
+2,11:04.0,,Q. Pondexter makes free throw 2 of 2,24,24
+2,10:42.0,E. Gordon makes 2-pt layup from 1 ft (assist by C. Paul),,26,24
+2,10:30.0,,Personal foul by E. Gordon (drawn by L. Aldridge),26,24
+2,10:20.0,,Shooting foul by P. Tucker (drawn by L. Aldridge),26,24
+2,10:20.0,,L. Aldridge misses free throw 1 of 2,26,24
+2,10:20.0,,Offensive rebound by Team,26,24
+2,10:20.0,,L. Aldridge makes free throw 2 of 2,26,25
+2,10:03.0,C. Paul misses 2-pt layup from 3 ft,,26,25
+2,10:01.0,,Defensive rebound by D. White,26,25
+2,9:55.0,,Q. Pondexter makes 3-pt jump shot from 23 ft (assist by D. White),26,28
+2,9:48.0,E. Gordon misses 2-pt jump shot from 7 ft,,26,28
+2,9:46.0,Offensive rebound by C. Capela,,26,28
+2,9:45.0,Shooting foul by L. Aldridge (drawn by C. Capela),,26,28
+2,9:45.0,C. Capela makes free throw 1 of 2,,27,28
+2,9:45.0,J. Harden enters the game for E. Gordon,,27,28
+2,9:45.0,,D. DeRozan enters the game for D. Bertāns,27,28
+2,9:45.0,C. Capela makes free throw 2 of 2,,28,28
+2,9:32.0,,Shooting foul by J. Harden (drawn by Q. Pondexter),28,28
+2,9:32.0,,Q. Pondexter makes free throw 1 of 2,28,29
+2,9:32.0,,Q. Pondexter makes free throw 2 of 2,28,30
+2,9:13.0,Offensive foul by J. Ennis (drawn by D. White),,28,30
+2,9:13.0,Turnover by J. Ennis (offensive foul),,28,30
+2,9:08.0,,Offensive foul by D. White (drawn by J. Ennis),28,30
+2,9:08.0,,Turnover by D. White (offensive foul),28,30
+2,8:53.0,J. Harden misses 3-pt jump shot from 26 ft,,28,30
+2,8:51.0,,Defensive rebound by Q. Pondexter,28,30
+2,8:47.0,,B. Forbes makes 3-pt jump shot from 22 ft (assist by D. White),28,33
+2,8:29.0,Shooting foul by L. Aldridge (drawn by J. Ennis),,28,33
+2,8:29.0,J. Ennis misses free throw 1 of 2,,28,33
+2,8:29.0,Offensive rebound by Team,,28,33
+2,8:29.0,J. Ennis makes free throw 2 of 2,,29,33
+2,8:16.0,,L. Aldridge misses 2-pt jump shot from 9 ft (block by C. Capela),29,33
+2,8:14.0,,Offensive rebound by L. Aldridge,29,33
+2,8:14.0,,Turnover by L. Aldridge (bad pass),29,33
+2,7:53.0,J. Harden makes 2-pt jump shot from 6 ft,,31,33
+2,7:53.0,Shooting foul by Q. Pondexter (drawn by J. Harden),,31,33
+2,7:53.0,,D. Cunningham enters the game for Q. Pondexter,31,33
+2,7:53.0,J. Harden makes free throw 1 of 1,,32,33
+2,7:31.0,,L. Aldridge makes 2-pt layup from 1 ft (assist by D. White),32,35
+2,7:08.0,J. Ennis misses 3-pt jump shot from 29 ft,,32,35
+2,7:04.0,,Defensive rebound by L. Aldridge,32,35
+2,6:55.0,,Turnover by D. DeRozan (bad pass; steal by J. Ennis),32,35
+2,6:41.0,C. Paul makes 3-pt jump shot from 27 ft,,35,35
+2,6:39.0,,San Antonio full timeout,35,35
+2,6:17.0,,D. DeRozan misses 3-pt jump shot from 23 ft,35,35
+2,6:15.0,Defensive rebound by C. Capela,,35,35
+2,6:04.0,J. Harden misses 3-pt jump shot from 26 ft,,35,35
+2,6:01.0,,Defensive rebound by D. DeRozan,35,35
+2,5:55.0,,Shooting foul by C. Paul (drawn by D. White),35,35
+2,5:55.0,,D. White makes free throw 1 of 2,35,36
+2,5:55.0,,D. White makes free throw 2 of 2,35,37
+2,5:45.0,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),,37,37
+2,5:34.0,,Personal foul by J. Ennis (drawn by D. DeRozan),37,37
+2,5:34.0,,D. DeRozan makes free throw 1 of 2,37,38
+2,5:34.0,E. Gordon enters the game for J. Ennis,,37,38
+2,5:34.0,,D. DeRozan makes free throw 2 of 2,37,39
+2,5:18.0,Turnover by P. Tucker (bad pass; steal by D. Cunningham),,37,39
+2,5:12.0,,Turnover by B. Forbes (bad pass; steal by J. Harden),37,39
+2,4:55.0,C. Paul makes 3-pt jump shot from 23 ft,,40,39
+2,4:40.0,,B. Forbes makes 2-pt layup from 2 ft,40,41
+2,4:40.0,,Shooting foul by C. Capela (drawn by B. Forbes),40,41
+2,4:40.0,I. Hartenstein enters the game for C. Capela,,40,41
+2,4:40.0,,C. Metu enters the game for L. Aldridge,40,41
+2,4:40.0,,P. Mills enters the game for D. White,40,41
+2,4:40.0,,B. Forbes misses free throw 1 of 1,40,41
+2,4:40.0,Defensive rebound by P. Tucker,,40,41
+2,4:23.0,C. Paul misses 2-pt jump shot from 2 ft,,40,41
+2,4:20.0,Offensive rebound by I. Hartenstein,,40,41
+2,4:20.0,I. Hartenstein misses 2-pt layup from 1 ft (block by C. Metu),,40,41
+2,4:17.0,,Defensive rebound by D. Cunningham,40,41
+2,4:15.0,,Turnover by D. Cunningham (lost ball; steal by C. Paul),40,41
+2,3:57.0,J. Harden makes 2-pt layup from 1 ft,,42,41
+2,3:49.0,,Turnover by D. DeRozan (lost ball; steal by C. Paul),42,41
+2,3:45.0,E. Gordon misses 2-pt jump shot from 8 ft,,42,41
+2,3:43.0,Offensive rebound by I. Hartenstein,,42,41
+2,3:39.0,E. Gordon misses 3-pt jump shot from 30 ft,,42,41
+2,3:35.0,Offensive rebound by I. Hartenstein,,42,41
+2,3:26.0,P. Tucker misses 3-pt jump shot from 22 ft,,42,41
+2,3:23.0,,Defensive rebound by P. Mills,42,41
+2,3:16.0,,Turnover by D. DeRozan (lost ball; steal by J. Harden),42,41
+2,3:09.0,E. Gordon misses 3-pt jump shot from 26 ft,,42,41
+2,3:05.0,,Defensive rebound by B. Forbes,42,41
+2,3:00.0,,B. Forbes makes 3-pt jump shot from 25 ft,42,44
+2,2:59.0,Houston full timeout,,42,44
+2,2:59.0,C. Capela enters the game for I. Hartenstein,,42,44
+2,2:59.0,,L. Aldridge enters the game for B. Forbes,42,44
+2,2:59.0,,M. Belinelli enters the game for C. Metu,42,44
+2,2:44.0,J. Harden misses 2-pt jump shot from 2 ft,,42,44
+2,2:44.0,Offensive rebound by Team,,42,44
+2,2:44.0,,Loose ball foul by D. Cunningham (drawn by C. Capela),42,44
+2,2:44.0,,D. Bertāns enters the game for D. Cunningham,42,44
+2,2:30.0,C. Capela misses 2-pt layup from 1 ft,,42,44
+2,2:30.0,Offensive rebound by C. Capela,,42,44
+2,2:30.0,Personal foul by L. Aldridge (drawn by C. Capela),,42,44
+2,2:30.0,C. Capela misses free throw 1 of 2,,42,44
+2,2:30.0,Offensive rebound by Team,,42,44
+2,2:30.0,,C. Metu enters the game for L. Aldridge,42,44
+2,2:30.0,C. Capela makes free throw 2 of 2,,43,44
+2,2:14.0,,D. DeRozan misses 2-pt jump shot from 13 ft,43,44
+2,2:11.0,Defensive rebound by C. Paul,,43,44
+2,2:05.0,C. Paul makes 2-pt layup from 2 ft,,45,44
+2,1:52.0,,M. Belinelli makes 3-pt jump shot from 23 ft (assist by D. DeRozan),45,47
+2,1:35.0,J. Harden makes 3-pt jump shot from 26 ft,,48,47
+2,1:23.0,,D. Bertāns makes 3-pt jump shot from 24 ft (assist by D. DeRozan),48,50
+2,1:04.0,E. Gordon makes 2-pt jump shot from 3 ft,,50,50
+2,0:46.0,,P. Mills makes 2-pt layup from 2 ft (assist by M. Belinelli),50,52
+2,0:28.0,J. Harden misses 3-pt jump shot from 25 ft,,50,52
+2,0:28.0,,Defensive rebound by Team,50,52
+2,0:06.0,,D. DeRozan misses 2-pt jump shot from 14 ft (block by J. Harden),50,52
+2,0:05.0,,Offensive rebound by D. DeRozan,50,52
+2,0:04.0,,Turnover by Team (shot clock),50,52
+2,0:00.0,C. Paul misses 3-pt jump shot from 26 ft,,50,52
+2,0:00.0,Offensive rebound by Team,,50,52
+3,11:37.0,,D. Cunningham misses 2-pt jump shot from 9 ft,50,52
+3,11:34.0,Defensive rebound by P. Tucker,,50,52
+3,11:21.0,Shooting foul by D. Cunningham (drawn by J. Harden),,50,52
+3,11:21.0,J. Harden makes free throw 1 of 2,,51,52
+3,11:21.0,,D. Bertāns enters the game for D. Cunningham,51,52
+3,11:21.0,J. Harden makes free throw 2 of 2,,52,52
+3,11:12.0,,Personal foul by J. Harden (drawn by L. Aldridge),52,52
+3,11:01.0,,D. White makes 2-pt jump shot from 10 ft (assist by D. Bertāns),52,54
+3,10:46.0,J. Harden misses 3-pt jump shot from 24 ft,,52,54
+3,10:41.0,Offensive rebound by C. Capela,,52,54
+3,10:33.0,C. Paul misses 2-pt jump shot from 18 ft,,52,54
+3,10:29.0,,Defensive rebound by B. Forbes,52,54
+3,10:21.0,,Shooting foul by J. Harden (drawn by L. Aldridge),52,54
+3,10:21.0,,L. Aldridge makes free throw 1 of 2,52,55
+3,10:21.0,,L. Aldridge makes free throw 2 of 2,52,56
+3,10:07.0,J. Harden makes 2-pt jump shot from 8 ft,,54,56
+3,9:46.0,,D. DeRozan misses 2-pt jump shot from 18 ft,54,56
+3,9:44.0,Defensive rebound by J. Harden,,54,56
+3,9:42.0,Turnover by J. Harden (bad pass),,54,56
+3,9:24.0,,L. Aldridge misses 2-pt jump shot from 13 ft,54,56
+3,9:22.0,Defensive rebound by C. Paul,,54,56
+3,9:17.0,Personal foul by D. White (drawn by J. Harden),,54,56
+3,9:03.0,J. Harden misses 3-pt jump shot from 25 ft,,54,56
+3,8:59.0,,Defensive rebound by D. DeRozan,54,56
+3,8:42.0,,L. Aldridge misses 2-pt layup from 2 ft,54,56
+3,8:39.0,Defensive rebound by C. Capela,,54,56
+3,8:37.0,Shooting foul by D. Bertāns (drawn by J. Harden),,54,56
+3,8:37.0,J. Harden makes free throw 1 of 2,,55,56
+3,8:37.0,J. Harden makes free throw 2 of 2,,56,56
+3,8:21.0,,D. DeRozan makes 2-pt layup from 3 ft,56,58
+3,7:58.0,Turnover by C. Paul (bad pass; steal by D. White),,56,58
+3,7:52.0,,D. White makes 2-pt dunk at rim,56,60
+3,7:48.0,J. Ennis misses 3-pt jump shot from 26 ft,,56,60
+3,7:48.0,,Defensive rebound by B. Forbes,56,60
+3,7:39.0,,B. Forbes misses 2-pt jump shot from 4 ft,56,60
+3,7:37.0,Defensive rebound by P. Tucker,,56,60
+3,7:28.0,J. Ennis misses 3-pt jump shot from 26 ft,,56,60
+3,7:27.0,,Defensive rebound by D. DeRozan,56,60
+3,7:23.0,,B. Forbes makes 3-pt jump shot from 26 ft,56,63
+3,7:02.0,J. Harden misses 3-pt jump shot from 26 ft,,56,63
+3,7:02.0,,Defensive rebound by D. DeRozan,56,63
+3,6:46.0,,L. Aldridge misses 2-pt jump shot from 11 ft,56,63
+3,6:46.0,Defensive rebound by C. Paul,,56,63
+3,6:28.0,C. Paul misses 2-pt layup from 1 ft,,56,63
+3,6:27.0,,Defensive rebound by L. Aldridge,56,63
+3,6:21.0,,D. White misses 2-pt layup from 3 ft (block by J. Harden),56,63
+3,6:18.0,Defensive rebound by C. Capela,,56,63
+3,6:13.0,J. Harden misses 2-pt layup from 1 ft,,56,63
+3,6:11.0,,Defensive rebound by D. Bertāns,56,63
+3,5:59.0,,B. Forbes misses 2-pt jump shot from 2 ft,56,63
+3,5:58.0,,Offensive rebound by B. Forbes,56,63
+3,5:53.0,,L. Aldridge makes 2-pt dunk from 1 ft (assist by D. White),56,65
+3,5:53.0,Houston full timeout,,56,65
+3,5:53.0,G. Clark enters the game for J. Ennis,,56,65
+3,5:53.0,E. Gordon enters the game for C. Paul,,56,65
+3,5:53.0,,M. Belinelli enters the game for D. DeRozan,56,65
+3,5:53.0,,P. Mills enters the game for D. White,56,65
+3,5:29.0,J. Harden misses 3-pt jump shot from 27 ft,,56,65
+3,5:25.0,,Defensive rebound by P. Mills,56,65
+3,5:09.0,,B. Forbes misses 2-pt layup from 4 ft (block by C. Capela),56,65
+3,5:06.0,Defensive rebound by C. Capela,,56,65
+3,5:02.0,E. Gordon misses 3-pt jump shot from 26 ft,,56,65
+3,4:59.0,,Defensive rebound by L. Aldridge,56,65
+3,4:48.0,,L. Aldridge makes 2-pt layup from 2 ft (assist by P. Mills),56,67
+3,4:42.0,C. Capela misses 2-pt layup from 3 ft (block by D. Bertāns),,56,67
+3,4:42.0,Offensive rebound by C. Capela,,56,67
+3,4:35.0,E. Gordon makes 3-pt jump shot from 25 ft (assist by C. Capela),,59,67
+3,4:19.0,,L. Aldridge misses 2-pt layup from 1 ft,59,67
+3,4:18.0,,Offensive rebound by M. Belinelli,59,67
+3,4:16.0,,M. Belinelli makes 3-pt jump shot from 25 ft,59,70
+3,3:51.0,J. Harden misses 3-pt jump shot from 26 ft,,59,70
+3,3:47.0,,Defensive rebound by P. Mills,59,70
+3,3:40.0,,L. Aldridge misses 2-pt layup from 1 ft,59,70
+3,3:37.0,Defensive rebound by C. Capela,,59,70
+3,3:33.0,J. Harden misses 2-pt layup from 2 ft,,59,70
+3,3:33.0,Offensive rebound by C. Capela,,59,70
+3,3:33.0,Personal foul by P. Mills (drawn by C. Capela),,59,70
+3,3:33.0,G. Green enters the game for C. Capela,,59,70
+3,3:33.0,I. Hartenstein enters the game for P. Tucker,,59,70
+3,3:33.0,,D. DeRozan enters the game for L. Aldridge,59,70
+3,3:33.0,,C. Metu enters the game for B. Forbes,59,70
+3,3:25.0,Personal foul by M. Belinelli (drawn by G. Green),,59,70
+3,3:25.0,G. Green misses free throw 1 of 2,,59,70
+3,3:25.0,Offensive rebound by Team,,59,70
+3,3:25.0,G. Green makes free throw 2 of 2,,60,70
+3,3:14.0,,Turnover by D. DeRozan (bad pass; steal by I. Hartenstein),60,70
+3,3:08.0,E. Gordon makes 2-pt layup from 2 ft,,62,70
+3,2:53.0,,D. Bertāns misses 3-pt jump shot from 22 ft,62,70
+3,2:51.0,Defensive rebound by G. Clark,,62,70
+3,2:44.0,J. Harden makes 2-pt layup from 2 ft,,64,70
+3,2:22.0,,M. Belinelli misses 2-pt jump shot from 20 ft,64,70
+3,2:22.0,Defensive rebound by Team,,64,70
+3,2:22.0,,San Antonio full timeout,64,70
+3,2:22.0,C. Paul enters the game for G. Green,,64,70
+3,2:22.0,,D. White enters the game for D. Bertāns,64,70
+3,2:13.0,Offensive foul by I. Hartenstein (drawn by D. White),,64,70
+3,2:13.0,Turnover by I. Hartenstein (offensive foul),,64,70
+3,2:02.0,,Turnover by C. Metu (bad pass),64,70
+3,1:53.0,J. Harden makes 2-pt layup from 3 ft,,66,70
+3,1:40.0,,Personal foul by E. Gordon (drawn by M. Belinelli),66,70
+3,1:28.0,,D. White misses 3-pt jump shot from 25 ft,66,70
+3,1:25.0,Defensive rebound by J. Harden,,66,70
+3,1:18.0,Turnover by J. Harden (bad pass; steal by D. White),,66,70
+3,1:13.0,,D. White makes 2-pt layup at rim,66,72
+3,1:02.0,I. Hartenstein makes 2-pt dunk from 1 ft (assist by C. Paul),,68,72
+3,0:46.0,,D. White misses 2-pt jump shot from 4 ft,68,72
+3,0:44.0,Defensive rebound by I. Hartenstein,,68,72
+3,0:28.0,J. Harden misses 2-pt layup from 1 ft,,68,72
+3,0:27.0,Offensive rebound by I. Hartenstein,,68,72
+3,0:25.0,E. Gordon makes 3-pt jump shot from 26 ft (assist by I. Hartenstein),,71,72
+3,0:03.0,,Turnover by C. Metu (lost ball; steal by G. Clark),71,72
+4,11:48.0,C. Paul misses 2-pt jump shot from 8 ft,,71,72
+4,11:46.0,,Defensive rebound by P. Mills,71,72
+4,11:37.0,,L. Aldridge misses 2-pt jump shot from 15 ft,71,72
+4,11:35.0,Defensive rebound by C. Capela,,71,72
+4,11:26.0,E. Gordon misses 3-pt jump shot from 25 ft,,71,72
+4,11:24.0,,Defensive rebound by L. Aldridge,71,72
+4,11:08.0,,D. DeRozan misses 3-pt jump shot from 26 ft,71,72
+4,11:05.0,Defensive rebound by P. Tucker,,71,72
+4,10:56.0,C. Capela misses 2-pt hook shot from 3 ft,,71,72
+4,10:56.0,,Defensive rebound by Team,71,72
+4,10:56.0,Loose ball foul by C. Capela (drawn by L. Aldridge),,71,72
+4,10:42.0,,Shooting foul by G. Clark (drawn by Q. Pondexter),71,72
+4,10:42.0,,Q. Pondexter makes free throw 1 of 2,71,73
+4,10:42.0,,Q. Pondexter misses free throw 2 of 2,71,73
+4,10:42.0,Defensive rebound by Team,,71,73
+4,10:32.0,E. Gordon misses 3-pt jump shot from 26 ft,,71,73
+4,10:27.0,,Defensive rebound by L. Aldridge,71,73
+4,10:23.0,,Shooting foul by C. Capela (drawn by D. White),71,73
+4,10:23.0,,D. White misses free throw 1 of 2,71,73
+4,10:23.0,,Offensive rebound by Team,71,73
+4,10:23.0,,D. White makes free throw 2 of 2,71,74
+4,10:04.0,E. Gordon misses 3-pt jump shot from 26 ft,,71,74
+4,10:01.0,Offensive rebound by C. Capela,,71,74
+4,9:49.0,C. Paul misses 2-pt jump shot from 8 ft,,71,74
+4,9:46.0,,Defensive rebound by Q. Pondexter,71,74
+4,9:34.0,,L. Aldridge makes 2-pt hook shot from 2 ft,71,76
+4,9:19.0,G. Clark makes 3-pt jump shot from 25 ft (assist by E. Gordon),,74,76
+4,9:19.0,,B. Forbes enters the game for P. Mills,74,76
+4,8:53.0,,D. White misses 2-pt jump shot from 18 ft,74,76
+4,8:51.0,Defensive rebound by C. Paul,,74,76
+4,8:43.0,E. Gordon makes 2-pt layup from 2 ft,,76,76
+4,8:30.0,,D. DeRozan makes 2-pt layup from 2 ft,76,78
+4,8:16.0,E. Gordon misses 2-pt jump shot from 16 ft,,76,78
+4,8:15.0,,Defensive rebound by B. Forbes,76,78
+4,7:58.0,,B. Forbes misses 2-pt jump shot from 4 ft,76,78
+4,7:58.0,,Offensive rebound by Team,76,78
+4,7:58.0,Loose ball foul by C. Paul (drawn by L. Aldridge),,76,78
+4,7:52.0,,L. Aldridge makes 2-pt layup from 1 ft (assist by D. White),76,80
+4,7:35.0,E. Gordon misses 3-pt jump shot from 25 ft,,76,80
+4,7:33.0,,Defensive rebound by D. White,76,80
+4,7:19.0,,Q. Pondexter misses 2-pt jump shot from 13 ft (block by C. Paul),76,80
+4,7:16.0,Defensive rebound by E. Gordon,,76,80
+4,7:15.0,Offensive foul by C. Capela (drawn by D. White),,76,80
+4,7:15.0,Turnover by C. Capela (offensive foul),,76,80
+4,7:15.0,Houston full timeout,,76,80
+4,7:15.0,J. Ennis enters the game for C. Capela,,76,80
+4,7:15.0,J. Harden enters the game for G. Clark,,76,80
+4,7:15.0,I. Hartenstein enters the game for E. Gordon,,76,80
+4,7:07.0,,L. Aldridge makes 2-pt layup from 2 ft (assist by D. White),76,82
+4,6:50.0,C. Paul misses 2-pt jump shot from 11 ft,,76,82
+4,6:47.0,Offensive rebound by I. Hartenstein,,76,82
+4,6:47.0,I. Hartenstein misses 2-pt layup from 1 ft,,76,82
+4,6:44.0,,Defensive rebound by D. DeRozan,76,82
+4,6:36.0,,Personal foul by J. Ennis (drawn by Q. Pondexter),76,82
+4,6:36.0,,Q. Pondexter misses free throw 1 of 2,76,82
+4,6:36.0,,Offensive rebound by Team,76,82
+4,6:36.0,G. Clark enters the game for I. Hartenstein,,76,82
+4,6:36.0,,M. Belinelli enters the game for D. DeRozan,76,82
+4,6:36.0,,P. Mills enters the game for D. White,76,82
+4,6:36.0,,Q. Pondexter misses free throw 2 of 2,76,82
+4,6:33.0,Defensive rebound by J. Harden,,76,82
+4,6:14.0,J. Harden misses 3-pt jump shot from 25 ft,,76,82
+4,6:11.0,,Defensive rebound by L. Aldridge,76,82
+4,5:51.0,,B. Forbes misses 2-pt jump shot from 10 ft,76,82
+4,5:51.0,,Offensive rebound by L. Aldridge,76,82
+4,5:51.0,,Shooting foul by P. Tucker (drawn by L. Aldridge),76,82
+4,5:51.0,,L. Aldridge makes free throw 1 of 2,76,83
+4,5:51.0,,L. Aldridge makes free throw 2 of 2,76,84
+4,5:34.0,G. Clark makes 3-pt jump shot from 26 ft (assist by C. Paul),,79,84
+4,5:09.0,,L. Aldridge misses 2-pt jump shot from 15 ft,79,84
+4,5:07.0,Defensive rebound by J. Harden,,79,84
+4,4:59.0,Shooting foul by Q. Pondexter (drawn by J. Harden),,79,84
+4,4:59.0,J. Harden makes free throw 1 of 2,,80,84
+4,4:59.0,E. Gordon enters the game for J. Ennis,,80,84
+4,4:59.0,,San Antonio full timeout,80,84
+4,4:59.0,,D. DeRozan enters the game for M. Belinelli,80,84
+4,4:59.0,J. Harden makes free throw 2 of 2,,81,84
+4,4:37.0,,D. DeRozan makes 2-pt jump shot from 12 ft,81,86
+4,4:15.0,G. Clark makes 2-pt dunk from 1 ft (assist by J. Harden),,83,86
+4,4:02.0,,P. Mills misses 3-pt jump shot from 25 ft,83,86
+4,3:59.0,Defensive rebound by J. Harden,,83,86
+4,3:39.0,J. Harden makes 2-pt layup from 3 ft,,85,86
+4,3:14.0,,Turnover by P. Mills (bad pass; steal by E. Gordon),85,86
+4,3:07.0,J. Harden misses 2-pt jump shot from 6 ft (block by L. Aldridge),,85,86
+4,3:07.0,,Defensive rebound by Team,85,86
+4,3:07.0,Houston full timeout,,85,86
+4,3:07.0,,D. White enters the game for Q. Pondexter,85,86
+4,2:48.0,,D. White makes 3-pt jump shot from 26 ft,85,89
+4,2:29.0,E. Gordon misses 3-pt jump shot from 25 ft,,85,89
+4,2:27.0,,Defensive rebound by D. White,85,89
+4,2:09.0,,L. Aldridge makes 2-pt jump shot from 13 ft,85,91
+4,1:54.0,J. Harden misses 3-pt jump shot from 26 ft,,85,91
+4,1:52.0,,Defensive rebound by D. DeRozan,85,91
+4,1:36.0,,B. Forbes misses 2-pt layup from 2 ft,85,91
+4,1:33.0,Defensive rebound by P. Tucker,,85,91
+4,1:25.0,P. Tucker misses 3-pt jump shot from 26 ft,,85,91
+4,1:23.0,,Defensive rebound by Team,85,91
+4,1:23.0,Loose ball foul by C. Paul (drawn by D. DeRozan),,85,91
+4,1:23.0,,D. DeRozan makes free throw 1 of 2,85,92
+4,1:23.0,C. Capela enters the game for G. Clark,,85,92
+4,1:23.0,,D. DeRozan misses free throw 2 of 2,85,92
+4,1:20.0,Defensive rebound by P. Tucker,,85,92
+4,1:14.0,E. Gordon misses 3-pt jump shot from 27 ft,,85,92
+4,1:11.0,,Defensive rebound by D. DeRozan,85,92
+4,1:07.0,,San Antonio full timeout,85,92
+4,1:04.0,,Personal foul by P. Tucker (drawn by L. Aldridge),85,92
+4,1:04.0,,L. Aldridge makes free throw 1 of 2,85,93
+4,1:04.0,,L. Aldridge makes free throw 2 of 2,85,94
+4,0:54.0,J. Harden misses 2-pt layup from 3 ft,,85,94
+4,0:53.0,Offensive rebound by C. Capela,,85,94
+4,0:53.0,C. Capela makes 2-pt layup from 1 ft,,87,94
+4,0:30.0,,L. Aldridge misses 2-pt jump shot from 12 ft,87,94
+4,0:28.0,Defensive rebound by J. Harden,,87,94
+4,0:25.0,E. Gordon misses 3-pt jump shot from 28 ft,,87,94
+4,0:21.0,,Defensive rebound by D. DeRozan,87,94
+4,0:11.0,,Personal take foul by C. Paul (drawn by D. White),87,94
+4,0:11.0,,D. White makes free throw 1 of 2,87,95
+4,0:11.0,,D. White makes free throw 2 of 2,87,96
+4,0:04.0,C. Capela makes 2-pt dunk from 1 ft (assist by E. Gordon),,89,96

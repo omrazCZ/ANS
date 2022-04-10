@@ -1,0 +1,477 @@
+QUARTER,TIME_REMAINING,MILWAUKEE_ACTION,BOSTON_ACTION,MILWAUKEE_SCORE,BOSTON_SCORE
+1,11:44.0,Personal foul by S. Ojeleye (drawn by B. Lopez),,0,0
+1,11:35.0,K. Middleton misses 3-pt jump shot from 25 ft,,0,0
+1,11:31.0,Offensive rebound by G. Antetokounmpo,,0,0
+1,11:26.0,G. Antetokounmpo misses 2-pt jump shot from 17 ft,,0,0
+1,11:23.0,,Defensive rebound by S. Ojeleye,0,0
+1,11:13.0,,G. Hayward makes 3-pt jump shot from 27 ft (assist by A. Horford),0,3
+1,11:01.0,E. Bledsoe makes 3-pt jump shot from 24 ft (assist by M. Brogdon),,3,3
+1,10:43.0,,K. Irving makes 2-pt jump shot from 9 ft (assist by J. Tatum),3,5
+1,10:23.0,M. Brogdon misses 2-pt layup from 2 ft (block by G. Hayward),,3,5
+1,10:19.0,,Defensive rebound by G. Hayward,3,5
+1,10:15.0,,G. Hayward makes 2-pt jump shot from 7 ft,3,7
+1,9:51.0,Turnover by M. Brogdon (back court),,3,7
+1,9:38.0,,G. Hayward misses 2-pt layup from 5 ft (block by B. Lopez),3,7
+1,9:35.0,,Offensive rebound by J. Tatum,3,7
+1,9:33.0,,J. Tatum misses 2-pt jump shot from 18 ft,3,7
+1,9:33.0,Defensive rebound by B. Lopez,,3,7
+1,9:14.0,G. Antetokounmpo makes 2-pt dunk from 1 ft,,5,7
+1,9:01.0,,K. Irving misses 3-pt jump shot from 25 ft,5,7
+1,8:58.0,Defensive rebound by G. Antetokounmpo,,5,7
+1,8:45.0,Turnover by K. Middleton (discontinued dribble),,5,7
+1,8:29.0,,A. Horford makes 3-pt jump shot from 27 ft (assist by K. Irving),5,10
+1,8:12.0,B. Lopez makes 2-pt dunk at rim (assist by E. Bledsoe),,7,10
+1,7:53.0,,S. Ojeleye misses 3-pt jump shot from 26 ft,7,10
+1,7:52.0,Defensive rebound by B. Lopez,,7,10
+1,7:41.0,Personal foul by S. Ojeleye (drawn by G. Antetokounmpo),,7,10
+1,7:32.0,Turnover by B. Lopez (bad pass; steal by S. Ojeleye),,7,10
+1,7:28.0,,Turnover by J. Tatum (bad pass),7,10
+1,7:28.0,E. İlyasova enters the game for M. Brogdon,,7,10
+1,7:18.0,K. Middleton misses 2-pt jump shot from 20 ft,,7,10
+1,7:14.0,,Defensive rebound by S. Ojeleye,7,10
+1,7:07.0,,A. Horford makes 3-pt jump shot from 25 ft (assist by K. Irving),7,13
+1,6:43.0,,Boston full timeout,7,13
+1,6:39.0,Turnover by E. Bledsoe (lost ball; steal by S. Ojeleye),,7,13
+1,6:26.0,,A. Horford misses 3-pt jump shot from 25 ft,7,13
+1,6:22.0,Defensive rebound by E. İlyasova,,7,13
+1,6:15.0,K. Middleton misses 3-pt jump shot from 25 ft,,7,13
+1,6:14.0,,Defensive rebound by S. Ojeleye,7,13
+1,6:01.0,,J. Tatum misses 3-pt jump shot from 25 ft,7,13
+1,5:57.0,Defensive rebound by B. Lopez,,7,13
+1,5:45.0,G. Antetokounmpo misses 2-pt layup from 2 ft (block by A. Horford),,7,13
+1,5:41.0,,Defensive rebound by A. Horford,7,13
+1,5:36.0,,S. Ojeleye makes 3-pt jump shot from 26 ft (assist by J. Tatum),7,16
+1,5:18.0,Turnover by G. Antetokounmpo (lost ball; steal by K. Irving),,7,16
+1,5:07.0,,Personal foul by E. Bledsoe (drawn by A. Horford),7,16
+1,5:07.0,D. DiVincenzo enters the game for G. Antetokounmpo,,7,16
+1,5:07.0,J. Henson enters the game for B. Lopez,,7,16
+1,5:07.0,,M. Morris enters the game for G. Hayward,7,16
+1,5:07.0,,T. Rozier enters the game for S. Ojeleye,7,16
+1,5:07.0,,M. Smart enters the game for J. Tatum,7,16
+1,4:55.0,,A. Horford misses 3-pt jump shot from 27 ft,7,16
+1,4:52.0,Defensive rebound by E. İlyasova,,7,16
+1,4:39.0,K. Middleton misses 2-pt jump shot from 14 ft,,7,16
+1,4:37.0,Offensive rebound by Team,,7,16
+1,4:34.0,K. Middleton makes 2-pt layup from 1 ft (assist by D. DiVincenzo),,9,16
+1,4:21.0,,Turnover by K. Irving (lost ball; steal by E. İlyasova),9,16
+1,4:17.0,E. Bledsoe misses 3-pt jump shot from 25 ft,,9,16
+1,4:14.0,,Defensive rebound by T. Rozier,9,16
+1,4:10.0,,K. Irving misses 3-pt jump shot from 27 ft,9,16
+1,4:07.0,Defensive rebound by J. Henson,,9,16
+1,3:52.0,K. Middleton misses 3-pt jump shot from 25 ft,,9,16
+1,3:48.0,,Defensive rebound by T. Rozier,9,16
+1,3:44.0,,M. Smart misses 3-pt jump shot from 26 ft,9,16
+1,3:41.0,Defensive rebound by K. Middleton,,9,16
+1,3:33.0,D. DiVincenzo makes 3-pt jump shot from 25 ft (assist by K. Middleton),,12,16
+1,3:16.0,,K. Irving makes 2-pt layup from 2 ft (assist by A. Horford),12,18
+1,3:09.0,J. Henson makes 2-pt dunk from 1 ft (assist by K. Middleton),,14,18
+1,2:55.0,,T. Rozier misses 3-pt jump shot from 26 ft,14,18
+1,2:53.0,,Offensive rebound by M. Smart,14,18
+1,2:52.0,,T. Rozier misses 2-pt layup from 3 ft,14,18
+1,2:50.0,,Offensive rebound by Team,14,18
+1,2:50.0,Milwaukee full timeout,,14,18
+1,2:50.0,M. Brogdon enters the game for E. Bledsoe,,14,18
+1,2:50.0,T. Snell enters the game for K. Middleton,,14,18
+1,2:50.0,,A. Baynes enters the game for A. Horford,14,18
+1,2:39.0,,M. Smart misses 3-pt jump shot from 22 ft,14,18
+1,2:39.0,,Offensive rebound by Team,14,18
+1,2:39.0,,Turnover by Team (shot clock),14,18
+1,2:23.0,Turnover by T. Snell (bad pass; steal by M. Smart),,14,18
+1,2:14.0,,K. Irving misses 2-pt jump shot from 16 ft,14,18
+1,2:11.0,Defensive rebound by T. Snell,,14,18
+1,2:03.0,T. Snell misses 3-pt jump shot from 25 ft,,14,18
+1,1:58.0,Offensive rebound by E. İlyasova,,14,18
+1,1:58.0,E. İlyasova makes 2-pt layup from 1 ft,,16,18
+1,1:47.0,,T. Rozier makes 2-pt jump shot from 9 ft,16,20
+1,1:32.0,J. Henson misses 3-pt jump shot from 26 ft,,16,20
+1,1:32.0,,Defensive rebound by T. Rozier,16,20
+1,1:22.0,,M. Morris makes 3-pt jump shot from 25 ft (assist by A. Baynes),16,23
+1,1:10.0,D. DiVincenzo misses 3-pt jump shot from 25 ft,,16,23
+1,1:10.0,,Defensive rebound by M. Morris,16,23
+1,1:00.0,,K. Irving misses 2-pt jump shot from 16 ft,16,23
+1,0:57.0,Defensive rebound by D. DiVincenzo,,16,23
+1,0:49.0,E. İlyasova misses 2-pt layup from 1 ft,,16,23
+1,0:47.0,,Defensive rebound by M. Smart,16,23
+1,0:33.0,,T. Rozier misses 2-pt jump shot from 14 ft,16,23
+1,0:31.0,Defensive rebound by J. Henson,,16,23
+1,0:21.0,J. Henson misses 2-pt layup from 2 ft,,16,23
+1,0:19.0,,Defensive rebound by A. Baynes,16,23
+1,0:07.0,,Personal foul by T. Snell (drawn by M. Smart),16,23
+1,0:07.0,G. Antetokounmpo enters the game for E. İlyasova,,16,23
+1,0:07.0,,A. Horford enters the game for A. Baynes,16,23
+1,0:05.0,,Turnover by A. Horford (traveling),16,23
+1,0:05.0,B. Lopez enters the game for J. Henson,,16,23
+1,0:03.0,B. Lopez misses 3-pt jump shot from 27 ft,,16,23
+1,0:03.0,,Defensive rebound by K. Irving,16,23
+2,11:45.0,,M. Morris misses 3-pt jump shot from 27 ft,16,23
+2,11:42.0,Defensive rebound by D. DiVincenzo,,16,23
+2,11:38.0,B. Lopez misses 3-pt jump shot from 24 ft,,16,23
+2,11:36.0,,Defensive rebound by M. Morris,16,23
+2,11:23.0,,Turnover by M. Morris (bad pass; steal by B. Lopez),16,23
+2,11:17.0,G. Antetokounmpo makes 2-pt layup from 1 ft,,18,23
+2,11:05.0,,J. Tatum misses 2-pt jump shot from 12 ft,18,23
+2,11:03.0,Defensive rebound by D. DiVincenzo,,18,23
+2,10:55.0,T. Snell makes 2-pt layup from 1 ft (assist by M. Brogdon),,20,23
+2,10:55.0,Shooting foul by J. Tatum (drawn by T. Snell),,20,23
+2,10:55.0,P. Connaughton enters the game for D. DiVincenzo,,20,23
+2,10:55.0,T. Snell makes free throw 1 of 1,,21,23
+2,10:44.0,,J. Tatum misses 2-pt jump shot from 15 ft,21,23
+2,10:40.0,Defensive rebound by T. Snell,,21,23
+2,10:36.0,Turnover by G. Antetokounmpo (offensive foul),,21,23
+2,10:36.0,Offensive foul by G. Antetokounmpo (drawn by A. Baynes),,21,23
+2,10:27.0,,Personal foul by M. Brogdon (drawn by M. Morris),21,23
+2,10:20.0,,A. Baynes misses 3-pt jump shot from 27 ft,21,23
+2,10:18.0,Defensive rebound by G. Antetokounmpo,,21,23
+2,10:15.0,Turnover by B. Lopez (offensive foul),,21,23
+2,10:15.0,Offensive foul by B. Lopez (drawn by M. Smart),,21,23
+2,10:03.0,,M. Smart makes 2-pt jump shot from 12 ft,21,25
+2,9:48.0,P. Connaughton misses 3-pt jump shot from 23 ft,,21,25
+2,9:46.0,,Defensive rebound by J. Tatum,21,25
+2,9:33.0,,T. Rozier misses 2-pt jump shot from 19 ft,21,25
+2,9:31.0,Defensive rebound by P. Connaughton,,21,25
+2,9:27.0,Shooting foul by M. Morris (drawn by G. Antetokounmpo),,21,25
+2,9:27.0,G. Antetokounmpo makes free throw 1 of 2,,22,25
+2,9:27.0,,G. Hayward enters the game for M. Smart,22,25
+2,9:27.0,G. Antetokounmpo makes free throw 2 of 2,,23,25
+2,9:10.0,,J. Tatum misses 2-pt jump shot from 12 ft,23,25
+2,9:07.0,Defensive rebound by G. Antetokounmpo,,23,25
+2,8:51.0,M. Brogdon misses 2-pt layup from 5 ft,,23,25
+2,8:50.0,Offensive rebound by G. Antetokounmpo,,23,25
+2,8:50.0,G. Antetokounmpo misses 2-pt layup from 2 ft (block by T. Rozier),,23,25
+2,8:50.0,Offensive rebound by Team,,23,25
+2,8:50.0,,S. Ojeleye enters the game for J. Tatum,23,25
+2,8:47.0,G. Antetokounmpo misses 2-pt jump shot from 20 ft,,23,25
+2,8:45.0,Offensive rebound by M. Brogdon,,23,25
+2,8:43.0,M. Brogdon makes 2-pt layup from 2 ft,,25,25
+2,8:27.0,,A. Baynes misses 3-pt jump shot from 27 ft,25,25
+2,8:25.0,Defensive rebound by P. Connaughton,,25,25
+2,8:20.0,Personal foul by T. Rozier (drawn by M. Brogdon),,25,25
+2,8:20.0,K. Middleton enters the game for T. Snell,,25,25
+2,8:16.0,G. Antetokounmpo makes 2-pt layup from 1 ft,,27,25
+2,8:03.0,,A. Baynes misses 3-pt jump shot from 26 ft,27,25
+2,8:01.0,Defensive rebound by P. Connaughton,,27,25
+2,7:54.0,G. Antetokounmpo makes 2-pt dunk from 1 ft,,29,25
+2,7:39.0,,T. Rozier makes 3-pt jump shot from 26 ft (assist by G. Hayward),29,28
+2,7:18.0,G. Antetokounmpo makes 2-pt layup from 1 ft,,31,28
+2,6:56.0,,S. Ojeleye makes 3-pt jump shot from 26 ft (assist by G. Hayward),31,31
+2,6:38.0,M. Brogdon makes 2-pt jump shot from 11 ft (assist by P. Connaughton),,33,31
+2,6:20.0,,M. Morris makes 3-pt jump shot from 23 ft (assist by A. Baynes),33,34
+2,6:18.0,Milwaukee full timeout,,33,34
+2,6:18.0,E. Bledsoe enters the game for M. Brogdon,,33,34
+2,6:18.0,E. İlyasova enters the game for B. Lopez,,33,34
+2,6:18.0,,A. Horford enters the game for A. Baynes,33,34
+2,6:18.0,,K. Irving enters the game for T. Rozier,33,34
+2,6:09.0,Personal foul by K. Irving (drawn by P. Connaughton),,33,34
+2,6:02.0,Turnover by E. Bledsoe (traveling),,33,34
+2,5:52.0,,Personal foul by E. İlyasova (drawn by A. Horford),33,34
+2,5:46.0,,Turnover by G. Hayward (lost ball; steal by K. Middleton),33,34
+2,5:41.0,E. Bledsoe makes 2-pt layup from 2 ft (assist by K. Middleton),,35,34
+2,5:25.0,,G. Hayward makes 2-pt jump shot from 16 ft (assist by K. Irving),35,36
+2,5:04.0,G. Antetokounmpo makes 2-pt jump shot from 12 ft (assist by E. Bledsoe),,37,36
+2,4:48.0,,G. Hayward makes 3-pt jump shot from 26 ft,37,39
+2,4:35.0,P. Connaughton makes 2-pt layup from 1 ft (assist by K. Middleton),,39,39
+2,4:35.0,,Violation by Team (def goaltending),39,39
+2,4:24.0,,Shooting foul by P. Connaughton (drawn by G. Hayward),39,39
+2,4:24.0,,G. Hayward makes free throw 1 of 3,39,40
+2,4:24.0,,G. Hayward makes free throw 2 of 3,39,41
+2,4:24.0,D. DiVincenzo enters the game for G. Antetokounmpo,,39,41
+2,4:24.0,,M. Smart enters the game for M. Morris,39,41
+2,4:24.0,,G. Hayward makes free throw 3 of 3,39,42
+2,4:15.0,K. Middleton makes 3-pt jump shot from 25 ft,,42,42
+2,3:59.0,,S. Ojeleye makes 2-pt dunk from 2 ft (assist by A. Horford),42,44
+2,3:43.0,D. DiVincenzo makes 2-pt layup from 1 ft (assist by P. Connaughton),,44,44
+2,3:31.0,,A. Horford makes 3-pt jump shot from 27 ft (assist by K. Irving),44,47
+2,3:21.0,E. İlyasova misses 3-pt jump shot from 26 ft,,44,47
+2,3:21.0,,Defensive rebound by S. Ojeleye,44,47
+2,3:12.0,,Turnover by A. Horford (lost ball; steal by E. Bledsoe),44,47
+2,3:08.0,D. DiVincenzo makes 2-pt layup from 1 ft (assist by E. Bledsoe),,46,47
+2,3:08.0,Shooting foul by M. Smart (drawn by D. DiVincenzo),,46,47
+2,3:08.0,D. DiVincenzo makes free throw 1 of 1,,47,47
+2,2:56.0,,A. Horford misses 3-pt jump shot from 25 ft,47,47
+2,2:53.0,,Offensive rebound by A. Horford,47,47
+2,2:51.0,,K. Irving misses 3-pt jump shot from 23 ft,47,47
+2,2:49.0,Defensive rebound by E. Bledsoe,,47,47
+2,2:45.0,E. Bledsoe misses 2-pt layup from 2 ft,,47,47
+2,2:45.0,,Defensive rebound by K. Irving,47,47
+2,2:42.0,,A. Horford makes 2-pt dunk from 2 ft (assist by K. Irving),47,49
+2,2:24.0,K. Middleton makes 2-pt layup from 3 ft,,49,49
+2,2:01.0,,Turnover by K. Irving (step out of bounds),49,49
+2,2:01.0,,Boston full timeout,49,49
+2,2:01.0,G. Antetokounmpo enters the game for P. Connaughton,,49,49
+2,2:01.0,,T. Rozier enters the game for G. Hayward,49,49
+2,2:01.0,,J. Tatum enters the game for S. Ojeleye,49,49
+2,1:43.0,E. İlyasova makes 2-pt layup at rim (assist by G. Antetokounmpo),,51,49
+2,1:25.0,,K. Irving makes 3-pt jump shot from 23 ft (assist by T. Rozier),51,52
+2,1:13.0,E. İlyasova misses 2-pt layup from 2 ft (block by K. Irving),,51,52
+2,1:12.0,,Defensive rebound by Team,51,52
+2,1:12.0,Loose ball foul by E. Bledsoe (drawn by K. Irving),,51,52
+2,0:58.0,,K. Irving makes 3-pt jump shot from 27 ft (assist by T. Rozier),51,55
+2,0:45.0,G. Antetokounmpo misses 2-pt layup from 1 ft (block by M. Smart),,51,55
+2,0:42.0,,Defensive rebound by T. Rozier,51,55
+2,0:29.0,,A. Horford misses 2-pt hook shot from 8 ft,51,55
+2,0:27.0,Defensive rebound by D. DiVincenzo,,51,55
+2,0:04.0,K. Middleton misses 2-pt layup from 1 ft,,51,55
+2,0:02.0,Offensive rebound by E. İlyasova,,51,55
+2,0:02.0,E. İlyasova makes 2-pt layup from 1 ft,,53,55
+2,0:00.0,,M. Smart misses 3-pt jump shot from 36 ft,53,55
+2,0:00.0,,Offensive rebound by Team,53,55
+3,11:47.0,,K. Irving makes 3-pt jump shot from 23 ft (assist by G. Hayward),53,58
+3,11:37.0,Shooting foul by G. Hayward (drawn by G. Antetokounmpo),,53,58
+3,11:37.0,G. Antetokounmpo makes free throw 1 of 2,,54,58
+3,11:37.0,G. Antetokounmpo misses free throw 2 of 2,,54,58
+3,11:37.0,,Defensive rebound by G. Hayward,54,58
+3,11:23.0,,A. Horford misses 3-pt jump shot from 24 ft,54,58
+3,11:21.0,Defensive rebound by G. Antetokounmpo,,54,58
+3,11:11.0,M. Brogdon makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),,56,58
+3,10:59.0,,K. Irving makes 3-pt jump shot from 24 ft,56,61
+3,10:43.0,E. Bledsoe misses 2-pt layup from 3 ft,,56,61
+3,10:41.0,,Defensive rebound by S. Ojeleye,56,61
+3,10:34.0,,K. Irving makes 3-pt jump shot from 25 ft (assist by J. Tatum),56,64
+3,10:18.0,Personal foul by J. Tatum (drawn by E. Bledsoe),,56,64
+3,10:18.0,,M. Smart enters the game for G. Hayward,56,64
+3,10:13.0,K. Middleton misses 3-pt jump shot from 27 ft (block by K. Irving),,56,64
+3,10:10.0,Offensive rebound by K. Middleton,,56,64
+3,10:08.0,B. Lopez misses 3-pt jump shot from 26 ft,,56,64
+3,10:05.0,,Defensive rebound by J. Tatum,56,64
+3,10:00.0,,J. Tatum makes 3-pt jump shot from 23 ft (assist by K. Irving),56,67
+3,9:59.0,Milwaukee full timeout,,56,67
+3,9:44.0,G. Antetokounmpo makes 2-pt jump shot from 15 ft,,58,67
+3,9:35.0,,Personal foul by E. Bledsoe (drawn by K. Irving),58,67
+3,9:28.0,,Turnover by A. Horford (bad pass; steal by K. Middleton),58,67
+3,9:26.0,Personal foul by M. Smart (drawn by K. Middleton),,58,67
+3,9:15.0,Turnover by G. Antetokounmpo (bad pass),,58,67
+3,8:59.0,,S. Ojeleye misses 3-pt jump shot from 25 ft,58,67
+3,8:57.0,Defensive rebound by G. Antetokounmpo,,58,67
+3,8:50.0,M. Brogdon makes 3-pt jump shot from 23 ft (assist by E. Bledsoe),,61,67
+3,8:42.0,,K. Irving misses 2-pt jump shot from 9 ft (block by M. Brogdon),61,67
+3,8:40.0,Defensive rebound by M. Brogdon,,61,67
+3,8:30.0,G. Antetokounmpo misses 2-pt jump shot from 8 ft,,61,67
+3,8:27.0,,Defensive rebound by M. Smart,61,67
+3,8:20.0,,Personal foul by K. Middleton (drawn by J. Tatum),61,67
+3,8:07.0,,A. Horford makes 2-pt jump shot from 20 ft,61,69
+3,7:54.0,K. Middleton misses 3-pt jump shot from 26 ft,,61,69
+3,7:53.0,,Defensive rebound by Team,61,69
+3,7:37.0,,A. Horford misses 3-pt jump shot from 25 ft,61,69
+3,7:35.0,Defensive rebound by G. Antetokounmpo,,61,69
+3,7:26.0,M. Brogdon misses 3-pt jump shot from 26 ft,,61,69
+3,7:26.0,,Defensive rebound by J. Tatum,61,69
+3,7:19.0,,S. Ojeleye makes 2-pt dunk from 1 ft (assist by J. Tatum),61,71
+3,6:58.0,K. Middleton misses 2-pt hook shot from 5 ft,,61,71
+3,6:56.0,,Defensive rebound by J. Tatum,61,71
+3,6:45.0,,A. Horford makes 3-pt jump shot from 24 ft (assist by K. Irving),61,74
+3,6:44.0,Milwaukee full timeout,,61,74
+3,6:44.0,D. DiVincenzo enters the game for E. Bledsoe,,61,74
+3,6:44.0,E. İlyasova enters the game for B. Lopez,,61,74
+3,6:28.0,M. Brogdon makes 3-pt jump shot from 29 ft (assist by D. DiVincenzo),,64,74
+3,6:14.0,,Personal foul by D. DiVincenzo (drawn by M. Smart),64,74
+3,6:05.0,,K. Irving makes 2-pt jump shot from 21 ft,64,76
+3,5:50.0,G. Antetokounmpo makes 2-pt layup from 1 ft,,66,76
+3,5:50.0,,Violation by Team (def goaltending),66,76
+3,5:38.0,,K. Irving misses 3-pt jump shot from 26 ft,66,76
+3,5:35.0,Defensive rebound by G. Antetokounmpo,,66,76
+3,5:24.0,Personal foul by M. Smart (drawn by G. Antetokounmpo),,66,76
+3,5:24.0,,M. Morris enters the game for A. Horford,66,76
+3,5:17.0,Def 3 sec tech foul by Team,,66,76
+3,5:17.0,K. Middleton makes technical free throw,,67,76
+3,5:07.0,Personal foul by K. Irving (drawn by G. Antetokounmpo),,67,76
+3,5:07.0,G. Antetokounmpo misses free throw 1 of 2,,67,76
+3,5:07.0,Offensive rebound by Team,,67,76
+3,5:07.0,G. Antetokounmpo misses free throw 2 of 2,,67,76
+3,5:05.0,,Defensive rebound by J. Tatum,67,76
+3,4:53.0,,Personal foul by M. Brogdon (drawn by K. Irving),67,76
+3,4:53.0,J. Henson enters the game for G. Antetokounmpo,,67,76
+3,4:53.0,,A. Baynes enters the game for S. Ojeleye,67,76
+3,4:44.0,,M. Morris misses 2-pt layup from 2 ft,67,76
+3,4:42.0,Defensive rebound by K. Middleton,,67,76
+3,4:38.0,Turnover by K. Middleton (bad pass; steal by M. Morris),,67,76
+3,4:33.0,,Personal foul by D. DiVincenzo (drawn by J. Tatum),67,76
+3,4:33.0,,J. Tatum makes free throw 1 of 2,67,77
+3,4:33.0,,T. Rozier enters the game for K. Irving,67,77
+3,4:33.0,,J. Tatum makes free throw 2 of 2,67,78
+3,4:20.0,K. Middleton misses 3-pt jump shot from 26 ft,,67,78
+3,4:14.0,,Defensive rebound by T. Rozier,67,78
+3,4:00.0,,T. Rozier misses 2-pt jump shot from 17 ft,67,78
+3,3:58.0,Defensive rebound by M. Brogdon,,67,78
+3,3:55.0,Shooting foul by T. Rozier (drawn by M. Brogdon),,67,78
+3,3:55.0,M. Brogdon makes free throw 1 of 2,,68,78
+3,3:55.0,E. Bledsoe enters the game for K. Middleton,,68,78
+3,3:55.0,M. Brogdon makes free throw 2 of 2,,69,78
+3,3:55.0,T. Snell enters the game for M. Brogdon,,69,78
+3,3:38.0,,Personal foul by T. Snell (drawn by A. Baynes),69,78
+3,3:38.0,,A. Baynes misses free throw 1 of 2,69,78
+3,3:38.0,,Offensive rebound by Team,69,78
+3,3:38.0,,A. Baynes makes free throw 2 of 2,69,79
+3,3:31.0,Personal foul by M. Morris (drawn by E. İlyasova),,69,79
+3,3:31.0,E. İlyasova makes free throw 1 of 2,,70,79
+3,3:31.0,E. İlyasova makes free throw 2 of 2,,71,79
+3,3:14.0,,M. Morris misses 2-pt jump shot from 8 ft,71,79
+3,3:13.0,,Offensive rebound by M. Morris,71,79
+3,3:11.0,,M. Morris makes 2-pt layup from 3 ft,71,81
+3,2:57.0,D. DiVincenzo misses 3-pt jump shot from 27 ft,,71,81
+3,2:57.0,,Defensive rebound by A. Baynes,71,81
+3,2:43.0,,A. Baynes makes 3-pt jump shot from 24 ft (assist by M. Morris),71,84
+3,2:27.0,E. Bledsoe misses 2-pt layup from 4 ft (block by M. Morris),,71,84
+3,2:24.0,,Defensive rebound by M. Smart,71,84
+3,2:19.0,,M. Morris misses 3-pt jump shot from 25 ft,71,84
+3,2:17.0,Defensive rebound by J. Henson,,71,84
+3,2:09.0,Personal foul by A. Baynes (drawn by J. Henson),,71,84
+3,2:09.0,J. Henson makes free throw 1 of 2,,72,84
+3,2:09.0,,G. Hayward enters the game for J. Tatum,72,84
+3,2:09.0,J. Henson misses free throw 2 of 2,,72,84
+3,2:09.0,,Defensive rebound by M. Morris,72,84
+3,1:52.0,,M. Morris makes 3-pt jump shot from 25 ft (assist by G. Hayward),72,87
+3,1:33.0,J. Henson makes 3-pt jump shot from 27 ft (assist by E. Bledsoe),,75,87
+3,1:16.0,,M. Morris makes 3-pt jump shot from 26 ft (assist by G. Hayward),75,90
+3,1:04.0,E. Bledsoe makes 2-pt jump shot from 7 ft,,77,90
+3,0:42.0,,G. Hayward misses 2-pt layup at rim,77,90
+3,0:41.0,,Offensive rebound by G. Hayward,77,90
+3,0:41.0,,G. Hayward makes 2-pt layup from 1 ft,77,92
+3,0:32.0,Shooting foul by T. Rozier (drawn by E. Bledsoe),,77,92
+3,0:32.0,E. Bledsoe makes free throw 1 of 2,,78,92
+3,0:32.0,G. Antetokounmpo enters the game for E. İlyasova,,78,92
+3,0:32.0,,S. Ojeleye enters the game for M. Smart,78,92
+3,0:32.0,E. Bledsoe misses free throw 2 of 2,,78,92
+3,0:32.0,,Defensive rebound by Team,78,92
+3,0:13.0,,Personal foul by G. Antetokounmpo (drawn by A. Baynes),78,92
+3,0:13.0,,A. Baynes misses free throw 1 of 2,78,92
+3,0:13.0,,Offensive rebound by Team,78,92
+3,0:13.0,,M. Smart enters the game for G. Hayward,78,92
+3,0:13.0,,A. Baynes makes free throw 2 of 2,78,93
+3,0:04.0,G. Antetokounmpo misses 2-pt layup from 4 ft,,78,93
+3,0:02.0,,Defensive rebound by A. Baynes,78,93
+3,0:02.0,,Boston full timeout,78,93
+3,0:02.0,B. Lopez enters the game for T. Snell,,78,93
+3,0:02.0,,A. Horford enters the game for A. Baynes,78,93
+3,0:02.0,,K. Irving enters the game for S. Ojeleye,78,93
+3,0:00.0,,T. Rozier misses 3-pt jump shot from 29 ft,78,93
+3,0:00.0,,Offensive rebound by Team,78,93
+4,11:49.0,Personal foul by T. Rozier (drawn by G. Antetokounmpo),,78,93
+4,11:40.0,Shooting foul by S. Ojeleye (drawn by E. Bledsoe),,78,93
+4,11:40.0,E. Bledsoe misses free throw 1 of 3,,78,93
+4,11:40.0,Offensive rebound by Team,,78,93
+4,11:40.0,E. Bledsoe makes free throw 2 of 3,,79,93
+4,11:40.0,E. Bledsoe makes free throw 3 of 3,,80,93
+4,11:23.0,,T. Rozier misses 2-pt layup from 3 ft,80,93
+4,11:21.0,Defensive rebound by B. Lopez,,80,93
+4,11:13.0,T. Snell makes 2-pt layup from 2 ft (assist by E. Bledsoe),,82,93
+4,10:57.0,,A. Baynes misses 3-pt jump shot from 25 ft,82,93
+4,10:54.0,Defensive rebound by G. Antetokounmpo,,82,93
+4,10:51.0,Shooting foul by S. Ojeleye (drawn by G. Antetokounmpo),,82,93
+4,10:51.0,G. Antetokounmpo makes free throw 1 of 2,,83,93
+4,10:51.0,,K. Irving enters the game for S. Ojeleye,83,93
+4,10:51.0,G. Antetokounmpo makes free throw 2 of 2,,84,93
+4,10:39.0,,T. Rozier misses 3-pt jump shot from 25 ft,84,93
+4,10:35.0,Defensive rebound by B. Lopez,,84,93
+4,10:26.0,G. Antetokounmpo makes 2-pt dunk from 1 ft,,86,93
+4,10:25.0,,Boston full timeout,86,93
+4,10:11.0,,K. Irving misses 3-pt jump shot from 25 ft,86,93
+4,10:09.0,,Offensive rebound by M. Morris,86,93
+4,10:07.0,,Personal foul by T. Snell (drawn by M. Morris),86,93
+4,9:58.0,,Turnover by M. Morris (bad pass; steal by G. Antetokounmpo),86,93
+4,9:44.0,Def 3 sec tech foul by Team,,86,93
+4,9:44.0,T. Snell makes technical free throw,,87,93
+4,9:44.0,,A. Horford enters the game for A. Baynes,87,93
+4,9:44.0,,J. Tatum enters the game for G. Hayward,87,93
+4,9:31.0,T. Snell makes 3-pt jump shot from 27 ft (assist by E. Bledsoe),,90,93
+4,9:13.0,,J. Tatum makes 3-pt jump shot from 24 ft (assist by A. Horford),90,96
+4,9:03.0,Shooting foul by J. Tatum (drawn by E. Bledsoe),,90,96
+4,9:03.0,E. Bledsoe makes free throw 1 of 2,,91,96
+4,9:03.0,E. Bledsoe makes free throw 2 of 2,,92,96
+4,8:51.0,,K. Irving makes 2-pt jump shot from 18 ft,92,98
+4,8:42.0,Turnover by G. Antetokounmpo (traveling),,92,98
+4,8:42.0,K. Middleton enters the game for D. DiVincenzo,,92,98
+4,8:30.0,,M. Morris misses 3-pt jump shot from 25 ft,92,98
+4,8:28.0,Defensive rebound by K. Middleton,,92,98
+4,8:19.0,G. Antetokounmpo makes 2-pt layup from 2 ft,,94,98
+4,8:19.0,Shooting foul by M. Morris (drawn by G. Antetokounmpo),,94,98
+4,8:19.0,G. Antetokounmpo makes free throw 1 of 1,,95,98
+4,8:00.0,,K. Irving makes 3-pt jump shot from 25 ft (assist by A. Horford),95,101
+4,7:48.0,E. Bledsoe misses 2-pt layup from 3 ft,,95,101
+4,7:45.0,,Defensive rebound by A. Horford,95,101
+4,7:37.0,,M. Morris makes 3-pt jump shot from 25 ft (assist by A. Horford),95,104
+4,7:35.0,Milwaukee full timeout,,95,104
+4,7:35.0,M. Brogdon enters the game for T. Snell,,95,104
+4,7:23.0,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by K. Middleton),,97,104
+4,7:02.0,,Turnover by T. Rozier (traveling),97,104
+4,7:02.0,D. DiVincenzo enters the game for E. Bledsoe,,97,104
+4,6:44.0,K. Middleton misses 2-pt jump shot from 6 ft,,97,104
+4,6:42.0,,Defensive rebound by T. Rozier,97,104
+4,6:33.0,,A. Horford misses 2-pt layup from 4 ft (block by B. Lopez),97,104
+4,6:32.0,,Offensive rebound by Team,97,104
+4,6:32.0,E. İlyasova enters the game for B. Lopez,,97,104
+4,6:32.0,,G. Hayward enters the game for K. Irving,97,104
+4,6:32.0,,M. Smart enters the game for M. Morris,97,104
+4,6:30.0,,Turnover by M. Smart (bad pass; steal by G. Antetokounmpo),97,104
+4,6:18.0,G. Antetokounmpo makes 2-pt layup from 5 ft,,99,104
+4,5:58.0,,J. Tatum makes 2-pt layup from 1 ft (assist by A. Horford),99,106
+4,5:46.0,M. Brogdon misses 2-pt jump shot from 6 ft (block by T. Rozier),,99,106
+4,5:44.0,Offensive rebound by M. Brogdon,,99,106
+4,5:41.0,D. DiVincenzo misses 3-pt jump shot from 24 ft,,99,106
+4,5:39.0,,Defensive rebound by T. Rozier,99,106
+4,5:24.0,,G. Hayward makes 3-pt jump shot from 23 ft (assist by A. Horford),99,109
+4,5:03.0,G. Antetokounmpo makes 2-pt layup from 2 ft,,101,109
+4,4:51.0,,Personal foul by E. İlyasova (drawn by T. Rozier),101,109
+4,4:46.0,,G. Hayward misses 3-pt jump shot from 25 ft,101,109
+4,4:44.0,Defensive rebound by D. DiVincenzo,,101,109
+4,4:38.0,Turnover by M. Brogdon (bad pass),,101,109
+4,4:24.0,,T. Rozier makes 2-pt jump shot from 10 ft,101,111
+4,4:14.0,K. Middleton makes 3-pt jump shot from 25 ft,,104,111
+4,3:48.0,,J. Tatum makes 2-pt jump shot from 10 ft (assist by T. Rozier),104,113
+4,3:27.0,K. Middleton makes 3-pt jump shot from 26 ft,,107,113
+4,3:16.0,,Boston full timeout,107,113
+4,3:16.0,E. Bledsoe enters the game for D. DiVincenzo,,107,113
+4,3:16.0,,K. Irving enters the game for T. Rozier,107,113
+4,3:04.0,,K. Irving misses 2-pt jump shot from 16 ft,107,113
+4,2:59.0,Defensive rebound by Team,,107,113
+4,2:38.0,K. Middleton misses 3-pt jump shot from 27 ft,,107,113
+4,2:35.0,Offensive rebound by M. Brogdon,,107,113
+4,2:23.0,K. Middleton makes 2-pt layup from 3 ft,,109,113
+4,1:57.0,,G. Hayward misses 2-pt jump shot from 20 ft,109,113
+4,1:55.0,Defensive rebound by M. Brogdon,,109,113
+4,1:45.0,M. Brogdon makes 2-pt layup from 1 ft,,111,113
+4,1:23.0,,A. Horford misses 3-pt jump shot from 26 ft,111,113
+4,1:17.0,,Offensive rebound by K. Irving,111,113
+4,1:07.0,,K. Irving misses 3-pt jump shot from 25 ft,111,113
+4,1:05.0,,Offensive rebound by G. Hayward,111,113
+4,1:02.0,,G. Hayward misses 3-pt jump shot from 25 ft,111,113
+4,1:00.0,Defensive rebound by G. Antetokounmpo,,111,113
+4,0:51.0,Turnover by K. Middleton (out of bounds lost ball),,111,113
+4,0:51.0,,M. Morris enters the game for M. Smart,111,113
+4,0:28.0,,A. Horford misses 3-pt jump shot from 25 ft,111,113
+4,0:25.0,Defensive rebound by E. İlyasova,,111,113
+4,0:18.0,G. Antetokounmpo misses 2-pt layup from 2 ft,,111,113
+4,0:16.0,,Defensive rebound by A. Horford,111,113
+4,0:16.0,,Personal take foul by E. Bledsoe (drawn by M. Morris),111,113
+4,0:14.0,,Turnover by J. Tatum (lost ball; steal by G. Antetokounmpo),111,113
+4,0:13.0,Personal foul by J. Tatum (drawn by E. Bledsoe),,111,113
+4,0:13.0,E. Bledsoe misses free throw 1 of 2,,111,113
+4,0:13.0,Offensive rebound by Team,,111,113
+4,0:13.0,,A. Baynes enters the game for K. Irving,111,113
+4,0:13.0,E. Bledsoe makes free throw 2 of 2,,112,113
+4,0:13.0,,Boston full timeout,112,113
+4,0:13.0,,K. Irving enters the game for A. Baynes,112,113
+4,0:12.0,,Personal take foul by E. İlyasova (drawn by K. Irving),112,113
+4,0:12.0,,K. Irving makes free throw 1 of 2,112,114
+4,0:12.0,,K. Irving makes free throw 2 of 2,112,115
+4,0:12.0,,M. Smart enters the game for G. Hayward,112,115
+4,0:06.0,E. Bledsoe misses 2-pt layup from 4 ft,,112,115
+4,0:05.0,Offensive rebound by Team,,112,115
+4,0:05.0,Milwaukee full timeout,,112,115
+4,0:05.0,B. Lopez enters the game for E. İlyasova,,112,115
+4,0:05.0,,G. Hayward enters the game for K. Irving,112,115
+4,0:05.0,,T. Rozier enters the game for M. Morris,112,115
+4,0:04.0,Shooting foul by M. Smart (drawn by G. Antetokounmpo),,112,115
+4,0:04.0,G. Antetokounmpo makes free throw 1 of 2,,113,115
+4,0:04.0,E. İlyasova enters the game for B. Lopez,,113,115
+4,0:04.0,,A. Baynes enters the game for T. Rozier,113,115
+4,0:04.0,G. Antetokounmpo misses free throw 2 of 2,,113,115
+4,0:02.0,,Defensive rebound by A. Horford,113,115
+4,0:02.0,,Personal take foul by K. Middleton (drawn by A. Horford),113,115
+4,0:02.0,,A. Horford makes free throw 1 of 2,113,116
+4,0:02.0,,T. Rozier enters the game for A. Baynes,113,116
+4,0:02.0,,A. Horford makes free throw 2 of 2,113,117
+4,0:02.0,Milwaukee full timeout,,113,117
+4,0:02.0,B. Lopez enters the game for E. Bledsoe,,113,117
+4,0:02.0,,R. Williams enters the game for T. Rozier,113,117
+4,0:00.0,G. Antetokounmpo misses 3-pt jump shot from 25 ft,,113,117
+4,0:00.0,Offensive rebound by Team,,113,117

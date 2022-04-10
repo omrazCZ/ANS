@@ -1,0 +1,414 @@
+QUARTER,TIME_REMAINING,PHILADELPHIA_ACTION,SAN ANTONIO_ACTION,PHILADELPHIA_SCORE,SAN ANTONIO_SCORE
+1,11:48.0,J. Redick makes 2-pt jump shot from 21 ft (assist by J. Embiid),,2,0
+1,11:25.0,,B. Forbes misses 2-pt jump shot from 18 ft,2,0
+1,11:22.0,Defensive rebound by B. Simmons,,2,0
+1,11:10.0,J. Butler misses 3-pt jump shot from 25 ft,,2,0
+1,11:07.0,,Defensive rebound by R. Gay,2,0
+1,10:56.0,,L. Aldridge makes 2-pt jump shot from 20 ft (assist by D. DeRozan),2,2
+1,10:48.0,Personal foul by B. Forbes (drawn by J. Redick),,2,2
+1,10:44.0,Personal foul by L. Aldridge (drawn by J. Redick),,2,2
+1,10:36.0,J. Embiid misses 3-pt jump shot from 26 ft,,2,2
+1,10:33.0,,Defensive rebound by R. Gay,2,2
+1,10:27.0,,R. Gay misses 2-pt jump shot from 17 ft,2,2
+1,10:23.0,Defensive rebound by B. Simmons,,2,2
+1,10:18.0,J. Embiid makes 2-pt jump shot from 18 ft (assist by B. Simmons),,4,2
+1,10:06.0,,L. Aldridge makes 2-pt jump shot from 20 ft (assist by D. DeRozan),4,4
+1,9:50.0,B. Simmons misses 2-pt layup from 4 ft (block by L. Aldridge),,4,4
+1,9:50.0,Offensive rebound by J. Embiid,,4,4
+1,9:43.0,J. Embiid makes 2-pt layup at rim,,6,4
+1,9:37.0,,B. Forbes makes 2-pt jump shot from 21 ft,6,6
+1,9:25.0,J. Redick makes 3-pt jump shot from 25 ft (assist by J. Embiid),,9,6
+1,9:13.0,,D. DeRozan misses 2-pt jump shot from 18 ft,9,6
+1,9:13.0,Defensive rebound by J. Embiid,,9,6
+1,8:52.0,W. Chandler makes 3-pt jump shot from 26 ft (assist by B. Simmons),,12,6
+1,8:26.0,,Turnover by D. Cunningham (bad pass; steal by J. Redick),12,6
+1,8:16.0,Turnover by B. Simmons (bad pass; steal by D. Cunningham),,12,6
+1,8:10.0,,B. Forbes misses 3-pt jump shot from 25 ft,12,6
+1,8:07.0,Defensive rebound by J. Redick,,12,6
+1,7:48.0,J. Redick makes 2-pt jump shot from 20 ft (assist by W. Chandler),,14,6
+1,7:48.0,,San Antonio full timeout,14,6
+1,7:38.0,,D. DeRozan makes 2-pt layup from 1 ft,14,8
+1,7:25.0,J. Embiid makes 2-pt jump shot from 10 ft (assist by W. Chandler),,16,8
+1,7:25.0,Shooting foul by L. Aldridge (drawn by J. Embiid),,16,8
+1,7:25.0,T. McConnell enters the game for W. Chandler,,16,8
+1,7:25.0,L. Shamet enters the game for J. Redick,,16,8
+1,7:25.0,,J. Poeltl enters the game for L. Aldridge,16,8
+1,7:25.0,J. Embiid makes free throw 1 of 1,,17,8
+1,7:08.0,,B. Forbes misses 2-pt jump shot from 11 ft,17,8
+1,7:05.0,Defensive rebound by J. Embiid,,17,8
+1,6:48.0,L. Shamet misses 2-pt jump shot from 13 ft,,17,8
+1,6:46.0,,Defensive rebound by R. Gay,17,8
+1,6:36.0,,R. Gay makes 2-pt dunk from 2 ft,17,10
+1,6:23.0,J. Embiid makes 2-pt dunk at rim,,19,10
+1,6:06.0,,D. DeRozan makes 2-pt jump shot from 11 ft,19,12
+1,6:06.0,,Shooting foul by T. McConnell (drawn by D. DeRozan),19,12
+1,6:06.0,M. Muscala enters the game for J. Embiid,,19,12
+1,6:06.0,,D. DeRozan makes free throw 1 of 1,19,13
+1,5:55.0,M. Muscala misses 2-pt layup from 4 ft (block by D. Cunningham),,19,13
+1,5:54.0,Offensive rebound by Team,,19,13
+1,5:54.0,,P. Mills enters the game for B. Forbes,19,13
+1,5:50.0,J. Butler misses 2-pt jump shot from 13 ft,,19,13
+1,5:46.0,,Defensive rebound by D. Cunningham,19,13
+1,5:36.0,,D. Cunningham misses 2-pt jump shot from 6 ft,19,13
+1,5:33.0,Defensive rebound by B. Simmons,,19,13
+1,5:28.0,B. Simmons makes 2-pt hook shot from 7 ft,,21,13
+1,5:17.0,,Personal foul by T. McConnell (drawn by P. Mills),21,13
+1,5:17.0,F. Korkmaz enters the game for J. Butler,,21,13
+1,5:17.0,,D. Bertāns enters the game for D. Cunningham,21,13
+1,5:13.0,,D. DeRozan makes 2-pt jump shot from 16 ft (assist by P. Mills),21,15
+1,4:49.0,B. Simmons makes 2-pt jump shot from 5 ft (assist by F. Korkmaz),,23,15
+1,4:35.0,,D. DeRozan misses 2-pt layup from 5 ft (block by M. Muscala),23,15
+1,4:35.0,,Offensive rebound by D. DeRozan,23,15
+1,4:29.0,,D. DeRozan makes 2-pt layup from 1 ft,23,17
+1,4:15.0,B. Simmons makes 2-pt jump shot from 3 ft (assist by T. McConnell),,25,17
+1,3:57.0,,D. DeRozan makes 2-pt jump shot from 12 ft,25,19
+1,3:40.0,T. McConnell misses 2-pt jump shot from 16 ft,,25,19
+1,3:32.0,,Defensive rebound by P. Mills,25,19
+1,3:32.0,,D. Bertāns makes 3-pt jump shot from 27 ft (assist by P. Mills),25,22
+1,3:32.0,Philadelphia full timeout,,25,22
+1,3:32.0,J. Embiid enters the game for L. Shamet,,25,22
+1,3:32.0,J. Redick enters the game for B. Simmons,,25,22
+1,3:32.0,,M. Belinelli enters the game for R. Gay,25,22
+1,3:11.0,F. Korkmaz makes 3-pt jump shot from 26 ft (assist by J. Redick),,28,22
+1,2:49.0,,J. Poeltl makes 2-pt dunk from 2 ft (assist by D. Bertāns),28,24
+1,2:36.0,M. Muscala makes 2-pt layup at rim (assist by J. Embiid),,30,24
+1,2:27.0,,P. Mills misses 3-pt jump shot from 27 ft,30,24
+1,2:27.0,Defensive rebound by T. McConnell,,30,24
+1,2:07.0,J. Redick misses 2-pt jump shot from 22 ft,,30,24
+1,2:04.0,Offensive rebound by M. Muscala,,30,24
+1,2:00.0,J. Embiid misses 2-pt jump shot from 15 ft,,30,24
+1,1:57.0,,Defensive rebound by D. Bertāns,30,24
+1,1:52.0,,D. DeRozan misses 2-pt jump shot from 6 ft,30,24
+1,1:48.0,Defensive rebound by F. Korkmaz,,30,24
+1,1:39.0,J. Redick makes 2-pt jump shot from 14 ft,,32,24
+1,1:19.0,,D. DeRozan makes 2-pt layup from 7 ft (assist by D. Bertāns),32,26
+1,1:19.0,,Shooting foul by F. Korkmaz (drawn by D. DeRozan),32,26
+1,1:19.0,,D. DeRozan makes free throw 1 of 1,32,27
+1,1:03.0,T. McConnell misses 3-pt jump shot from 23 ft,,32,27
+1,1:00.0,,Defensive rebound by D. DeRozan,32,27
+1,0:52.0,,M. Belinelli misses 3-pt jump shot from 27 ft,32,27
+1,0:48.0,Defensive rebound by J. Embiid,,32,27
+1,0:34.0,J. Redick misses 2-pt jump shot from 21 ft,,32,27
+1,0:31.0,,Defensive rebound by D. Bertāns,32,27
+1,0:13.0,,Personal foul by F. Korkmaz (drawn by P. Mills),32,27
+1,0:13.0,,P. Mills makes free throw 1 of 2,32,28
+1,0:13.0,,B. Forbes enters the game for D. DeRozan,32,28
+1,0:13.0,,P. Mills makes free throw 2 of 2,32,29
+1,0:03.0,J. Embiid misses 2-pt jump shot from 17 ft,,32,29
+1,0:03.0,,Defensive rebound by D. Bertāns,32,29
+2,11:45.0,,Turnover by P. Mills (bad pass; steal by J. Butler),32,29
+2,11:35.0,J. Butler misses 2-pt layup from 1 ft,,32,29
+2,11:31.0,Offensive rebound by J. Embiid,,32,29
+2,11:31.0,J. Embiid makes 2-pt layup at rim,,34,29
+2,11:18.0,,D. Bertāns misses 2-pt jump shot from 6 ft,34,29
+2,11:16.0,Defensive rebound by J. Embiid,,34,29
+2,11:07.0,Turnover by J. Embiid (bad pass; steal by P. Mills),,34,29
+2,10:56.0,,D. Bertāns makes 3-pt jump shot from 26 ft (assist by B. Forbes),34,32
+2,10:40.0,J. Butler makes 2-pt dunk from 4 ft (assist by W. Chandler),,36,32
+2,10:28.0,,Shooting foul by W. Chandler (drawn by D. Bertāns),36,32
+2,10:28.0,,D. Bertāns makes free throw 1 of 3,36,33
+2,10:28.0,,L. Aldridge enters the game for P. Mills,36,33
+2,10:28.0,,D. White enters the game for J. Poeltl,36,33
+2,10:28.0,,D. Bertāns makes free throw 2 of 3,36,34
+2,10:28.0,,D. Bertāns makes free throw 3 of 3,36,35
+2,10:10.0,J. Embiid misses 3-pt jump shot from 24 ft,,36,35
+2,10:06.0,Offensive rebound by T. McConnell,,36,35
+2,10:05.0,J. Redick misses 3-pt jump shot from 26 ft,,36,35
+2,10:02.0,,Defensive rebound by L. Aldridge,36,35
+2,9:54.0,,D. White misses 2-pt jump shot from 7 ft,36,35
+2,9:51.0,Defensive rebound by J. Embiid,,36,35
+2,9:41.0,J. Embiid misses 2-pt hook shot from 6 ft,,36,35
+2,9:38.0,,Defensive rebound by D. White,36,35
+2,9:28.0,,L. Aldridge misses 2-pt jump shot from 13 ft,36,35
+2,9:25.0,Defensive rebound by J. Redick,,36,35
+2,9:19.0,Turnover by T. McConnell (out of bounds lost ball),,36,35
+2,9:19.0,L. Shamet enters the game for T. McConnell,,36,35
+2,9:19.0,B. Simmons enters the game for J. Redick,,36,35
+2,9:06.0,,Turnover by D. White (bad pass),36,35
+2,9:06.0,,R. Gay enters the game for D. Bertāns,36,35
+2,8:51.0,B. Simmons misses 2-pt jump shot from 5 ft (block by D. White),,36,35
+2,8:44.0,,Defensive rebound by L. Aldridge,36,35
+2,8:38.0,,B. Forbes makes 2-pt layup from 1 ft (assist by D. White),36,37
+2,8:36.0,Philadelphia full timeout,,36,37
+2,8:17.0,J. Butler misses 2-pt jump shot from 15 ft,,36,37
+2,8:15.0,,Defensive rebound by R. Gay,36,37
+2,8:09.0,,L. Aldridge makes 2-pt hook shot from 6 ft (assist by B. Forbes),36,39
+2,7:49.0,W. Chandler misses 2-pt jump shot from 7 ft (block by D. White),,36,39
+2,7:46.0,,Defensive rebound by M. Belinelli,36,39
+2,7:34.0,,R. Gay makes 2-pt jump shot from 6 ft (assist by B. Forbes),36,41
+2,7:24.0,Personal foul by M. Belinelli (drawn by B. Simmons),,36,41
+2,7:24.0,M. Muscala enters the game for J. Embiid,,36,41
+2,7:14.0,J. Butler misses 2-pt jump shot from 17 ft,,36,41
+2,7:10.0,Offensive rebound by W. Chandler,,36,41
+2,7:09.0,J. Butler makes 2-pt jump shot from 19 ft (assist by B. Simmons),,38,41
+2,6:53.0,,Personal foul by M. Muscala (drawn by L. Aldridge),38,41
+2,6:43.0,,Shooting foul by M. Muscala (drawn by L. Aldridge),38,41
+2,6:43.0,,L. Aldridge makes free throw 1 of 2,38,42
+2,6:43.0,,D. DeRozan enters the game for M. Belinelli,38,42
+2,6:43.0,,L. Aldridge makes free throw 2 of 2,38,43
+2,6:26.0,M. Muscala misses 3-pt jump shot from 26 ft,,38,43
+2,6:26.0,Offensive rebound by J. Butler,,38,43
+2,6:20.0,W. Chandler makes 3-pt jump shot from 25 ft (assist by B. Simmons),,41,43
+2,6:04.0,,L. Aldridge makes 2-pt hook shot from 5 ft,41,45
+2,5:56.0,W. Chandler misses 3-pt jump shot from 27 ft,,41,45
+2,5:56.0,,Defensive rebound by B. Forbes,41,45
+2,5:45.0,,L. Aldridge misses 2-pt hook shot from 8 ft,41,45
+2,5:43.0,Defensive rebound by B. Simmons,,41,45
+2,5:40.0,Offensive foul by B. Simmons (drawn by R. Gay),,41,45
+2,5:40.0,Turnover by B. Simmons (offensive foul),,41,45
+2,5:24.0,,Shooting foul by M. Muscala (drawn by L. Aldridge),41,45
+2,5:24.0,,L. Aldridge makes free throw 1 of 2,41,46
+2,5:24.0,J. Embiid enters the game for M. Muscala,,41,46
+2,5:24.0,,P. Mills enters the game for B. Forbes,41,46
+2,5:24.0,,L. Aldridge makes free throw 2 of 2,41,47
+2,5:08.0,J. Butler misses 2-pt jump shot from 13 ft,,41,47
+2,5:06.0,,Defensive rebound by D. White,41,47
+2,4:58.0,,D. White makes 2-pt layup from 1 ft,41,49
+2,4:49.0,L. Shamet misses 3-pt jump shot from 25 ft,,41,49
+2,4:45.0,,Defensive rebound by L. Aldridge,41,49
+2,4:38.0,,D. DeRozan misses 2-pt jump shot from 18 ft,41,49
+2,4:35.0,Defensive rebound by B. Simmons,,41,49
+2,4:18.0,J. Embiid makes 2-pt hook shot from 5 ft,,43,49
+2,4:11.0,,San Antonio full timeout,43,49
+2,4:11.0,J. Redick enters the game for L. Shamet,,43,49
+2,4:01.0,,L. Aldridge misses 2-pt jump shot from 22 ft,43,49
+2,3:57.0,Defensive rebound by J. Embiid,,43,49
+2,3:53.0,Personal foul by P. Mills (drawn by J. Redick),,43,49
+2,3:53.0,,D. Bertāns enters the game for D. White,43,49
+2,3:37.0,J. Embiid misses 2-pt jump shot from 3 ft (block by L. Aldridge),,43,49
+2,3:33.0,,Defensive rebound by D. DeRozan,43,49
+2,3:31.0,,R. Gay misses 3-pt jump shot from 26 ft,43,49
+2,3:27.0,Defensive rebound by B. Simmons,,43,49
+2,3:14.0,W. Chandler misses 3-pt jump shot from 27 ft,,43,49
+2,3:11.0,,Defensive rebound by R. Gay,43,49
+2,3:03.0,,R. Gay makes 2-pt jump shot from 19 ft,43,51
+2,2:46.0,B. Simmons makes 2-pt layup from 2 ft (assist by J. Butler),,45,51
+2,2:24.0,,L. Aldridge makes 2-pt layup from 1 ft (assist by R. Gay),45,53
+2,2:10.0,J. Redick makes 2-pt layup from 1 ft (assist by J. Embiid),,47,53
+2,1:53.0,,D. DeRozan makes 2-pt jump shot from 15 ft,47,55
+2,1:28.0,J. Embiid misses 2-pt hook shot from 6 ft,,47,55
+2,1:26.0,,Defensive rebound by L. Aldridge,47,55
+2,1:17.0,,D. Bertāns misses 3-pt jump shot from 25 ft,47,55
+2,1:14.0,Defensive rebound by Team,,47,55
+2,1:14.0,T. McConnell enters the game for W. Chandler,,47,55
+2,1:00.0,Turnover by J. Embiid (lost ball; steal by R. Gay),,47,55
+2,0:57.0,,R. Gay makes 2-pt dunk from 3 ft (assist by D. Bertāns),47,57
+2,0:43.0,B. Simmons makes 2-pt dunk from 1 ft,,49,57
+2,0:28.0,,D. Bertāns makes 3-pt jump shot from 28 ft (assist by D. DeRozan),49,60
+2,0:02.0,J. Embiid misses 3-pt jump shot from 23 ft (block by P. Mills),,49,60
+2,0:02.0,Offensive rebound by J. Embiid,,49,60
+2,0:02.0,J. Embiid misses 3-pt jump shot from 23 ft,,49,60
+2,0:02.0,Offensive rebound by Team,,49,60
+2,0:02.0,Turnover by Team (shot clock),,49,60
+2,0:02.0,,Turnover by D. Bertāns (inbound),49,60
+2,0:00.0,J. Embiid misses 3-pt jump shot from 26 ft,,49,60
+2,0:00.0,Offensive rebound by Team,,49,60
+3,11:40.0,,L. Aldridge misses 2-pt jump shot from 18 ft,49,60
+3,11:37.0,Defensive rebound by J. Butler,,49,60
+3,11:15.0,B. Simmons misses 2-pt jump shot from 6 ft (block by L. Aldridge),,49,60
+3,11:15.0,Offensive rebound by Team,,49,60
+3,11:12.0,W. Chandler misses 3-pt jump shot from 31 ft,,49,60
+3,11:09.0,,Defensive rebound by B. Forbes,49,60
+3,10:57.0,,L. Aldridge misses 2-pt jump shot from 19 ft,49,60
+3,10:54.0,,Offensive rebound by D. Bertāns,49,60
+3,10:43.0,,D. DeRozan misses 2-pt jump shot from 15 ft,49,60
+3,10:36.0,,Offensive rebound by L. Aldridge,49,60
+3,10:36.0,,L. Aldridge makes 2-pt layup at rim,49,62
+3,10:26.0,Turnover by J. Embiid (bad pass; steal by D. Bertāns),,49,62
+3,10:21.0,,D. DeRozan misses 2-pt layup from 3 ft,49,62
+3,10:18.0,Defensive rebound by J. Redick,,49,62
+3,10:01.0,B. Simmons makes 2-pt dunk from 2 ft (assist by J. Embiid),,51,62
+3,9:43.0,,L. Aldridge makes 2-pt jump shot from 18 ft (assist by B. Forbes),51,64
+3,9:27.0,Offensive foul by W. Chandler (drawn by D. Bertāns),,51,64
+3,9:27.0,Turnover by W. Chandler (offensive foul),,51,64
+3,9:13.0,,R. Gay misses 3-pt jump shot from 23 ft,51,64
+3,9:09.0,Defensive rebound by J. Embiid,,51,64
+3,9:07.0,Shooting foul by D. Bertāns (drawn by B. Simmons),,51,64
+3,9:07.0,B. Simmons makes free throw 1 of 2,,52,64
+3,9:07.0,B. Simmons makes free throw 2 of 2,,53,64
+3,8:55.0,,R. Gay misses 3-pt jump shot from 23 ft,53,64
+3,8:51.0,Defensive rebound by W. Chandler,,53,64
+3,8:46.0,J. Redick misses 3-pt jump shot from 24 ft,,53,64
+3,8:43.0,,Defensive rebound by D. Bertāns,53,64
+3,8:32.0,,R. Gay makes 2-pt jump shot from 12 ft,53,66
+3,8:23.0,J. Butler misses 2-pt jump shot from 19 ft,,53,66
+3,8:23.0,,Defensive rebound by L. Aldridge,53,66
+3,8:13.0,,R. Gay makes 2-pt jump shot from 16 ft (assist by D. DeRozan),53,68
+3,8:11.0,Philadelphia full timeout,,53,68
+3,8:11.0,L. Shamet enters the game for J. Redick,,53,68
+3,7:58.0,J. Butler misses 3-pt jump shot from 24 ft,,53,68
+3,7:54.0,,Defensive rebound by D. DeRozan,53,68
+3,7:45.0,,B. Forbes makes 2-pt jump shot from 18 ft (assist by L. Aldridge),53,70
+3,7:33.0,L. Shamet misses 2-pt layup from 3 ft (block by R. Gay),,53,70
+3,7:33.0,Offensive rebound by Team,,53,70
+3,7:20.0,J. Butler misses 2-pt jump shot from 17 ft,,53,70
+3,7:16.0,,Defensive rebound by L. Aldridge,53,70
+3,7:06.0,,B. Forbes misses 3-pt jump shot from 26 ft,53,70
+3,7:03.0,Defensive rebound by W. Chandler,,53,70
+3,6:52.0,J. Embiid misses 3-pt jump shot from 27 ft,,53,70
+3,6:48.0,,Defensive rebound by D. DeRozan,53,70
+3,6:34.0,,D. DeRozan makes 2-pt layup from 2 ft,53,72
+3,6:19.0,Personal foul by R. Gay (drawn by J. Embiid),,53,72
+3,6:19.0,T. McConnell enters the game for W. Chandler,,53,72
+3,6:19.0,M. Muscala enters the game for J. Embiid,,53,72
+3,6:06.0,T. McConnell misses 2-pt jump shot from 12 ft,,53,72
+3,6:02.0,,Defensive rebound by L. Aldridge,53,72
+3,5:50.0,,R. Gay makes 2-pt jump shot from 10 ft,53,74
+3,5:50.0,Philadelphia full timeout,,53,74
+3,5:50.0,,M. Belinelli enters the game for D. Bertāns,53,74
+3,5:50.0,,P. Mills enters the game for B. Forbes,53,74
+3,5:38.0,M. Muscala misses 2-pt jump shot from 20 ft,,53,74
+3,5:35.0,,Defensive rebound by D. DeRozan,53,74
+3,5:26.0,,P. Mills makes 3-pt jump shot from 25 ft (assist by D. DeRozan),53,77
+3,5:09.0,L. Shamet misses 2-pt jump shot from 19 ft,,53,77
+3,5:07.0,,Defensive rebound by R. Gay,53,77
+3,4:56.0,,R. Gay makes 2-pt jump shot from 16 ft,53,79
+3,4:46.0,M. Muscala makes 3-pt jump shot from 26 ft (assist by B. Simmons),,56,79
+3,4:27.0,,R. Gay makes 3-pt jump shot from 24 ft (assist by D. DeRozan),56,82
+3,4:16.0,Personal foul by L. Aldridge (drawn by L. Shamet),,56,82
+3,4:16.0,W. Chandler enters the game for J. Butler,,56,82
+3,4:16.0,F. Korkmaz enters the game for B. Simmons,,56,82
+3,4:05.0,F. Korkmaz misses 3-pt jump shot from 26 ft,,56,82
+3,4:01.0,,Defensive rebound by L. Aldridge,56,82
+3,3:54.0,,D. DeRozan makes 2-pt layup from 1 ft,56,84
+3,3:53.0,Philadelphia full timeout,,56,84
+3,3:53.0,,B. Forbes enters the game for L. Aldridge,56,84
+3,3:53.0,,J. Poeltl enters the game for R. Gay,56,84
+3,3:42.0,Shooting foul by D. DeRozan (drawn by W. Chandler),,56,84
+3,3:42.0,W. Chandler makes free throw 1 of 2,,57,84
+3,3:42.0,W. Chandler makes free throw 2 of 2,,58,84
+3,3:21.0,,P. Mills makes 3-pt jump shot from 23 ft (assist by D. DeRozan),58,87
+3,3:08.0,M. Muscala makes 3-pt jump shot from 26 ft (assist by T. McConnell),,61,87
+3,2:53.0,,M. Belinelli misses 3-pt jump shot from 23 ft,61,87
+3,2:51.0,Defensive rebound by T. McConnell,,61,87
+3,2:40.0,W. Chandler makes 2-pt layup from 2 ft (assist by M. Muscala),,63,87
+3,2:40.0,,San Antonio full timeout,63,87
+3,2:40.0,,D. White enters the game for B. Forbes,63,87
+3,2:19.0,,Shooting foul by W. Chandler (drawn by J. Poeltl),63,87
+3,2:19.0,,J. Poeltl makes free throw 1 of 2,63,88
+3,2:19.0,,J. Poeltl makes free throw 2 of 2,63,89
+3,2:05.0,L. Shamet makes 3-pt jump shot from 26 ft (assist by M. Muscala),,66,89
+3,1:55.0,,M. Belinelli misses 3-pt jump shot from 27 ft,66,89
+3,1:52.0,Defensive rebound by L. Shamet,,66,89
+3,1:46.0,M. Muscala makes 3-pt jump shot from 26 ft (assist by W. Chandler),,69,89
+3,1:35.0,,D. DeRozan misses 2-pt layup from 4 ft (block by W. Chandler),69,89
+3,1:32.0,Defensive rebound by W. Chandler,,69,89
+3,1:29.0,L. Shamet misses 3-pt jump shot from 29 ft,,69,89
+3,1:25.0,,Defensive rebound by J. Poeltl,69,89
+3,1:10.0,,D. White misses 2-pt layup from 3 ft,69,89
+3,1:08.0,Defensive rebound by W. Chandler,,69,89
+3,1:03.0,Turnover by T. McConnell (bad pass; steal by P. Mills),,69,89
+3,1:01.0,,Personal foul by W. Chandler (drawn by D. DeRozan),69,89
+3,1:01.0,J. Bolden enters the game for W. Chandler,,69,89
+3,1:01.0,,D. Bertāns enters the game for D. DeRozan,69,89
+3,0:48.0,,P. Mills misses 3-pt jump shot from 26 ft,69,89
+3,0:45.0,,Offensive rebound by J. Poeltl,69,89
+3,0:35.0,,J. Poeltl makes 2-pt dunk from 2 ft (assist by M. Belinelli),69,91
+3,0:26.0,T. McConnell misses 2-pt jump shot from 19 ft,,69,91
+3,0:26.0,,Defensive rebound by Team,69,91
+3,0:24.0,Loose ball foul by J. Bolden (drawn by D. Bertāns),,69,91
+3,0:24.0,,D. Bertāns makes free throw 1 of 2,69,92
+3,0:24.0,,D. Bertāns makes free throw 2 of 2,69,93
+3,0:04.0,T. McConnell misses 2-pt layup from 2 ft,,69,93
+3,0:02.0,Offensive rebound by F. Korkmaz,,69,93
+3,0:02.0,F. Korkmaz misses 2-pt dunk from 1 ft,,69,93
+3,0:00.0,Offensive rebound by F. Korkmaz,,69,93
+3,0:00.0,F. Korkmaz makes 2-pt layup from 1 ft,,71,93
+3,0:00.0,,D. White misses 2-pt jump shot from 11 ft,71,93
+3,0:00.0,,Offensive rebound by Team,71,93
+4,11:47.0,Turnover by J. Embiid (out of bounds lost ball),,71,93
+4,11:26.0,,R. Gay makes 2-pt jump shot from 20 ft,71,95
+4,11:11.0,B. Simmons makes 2-pt layup from 2 ft (assist by M. Muscala),,73,95
+4,10:50.0,,M. Belinelli makes 3-pt jump shot from 24 ft (assist by R. Gay),73,98
+4,10:39.0,J. Redick makes 3-pt jump shot from 26 ft (assist by B. Simmons),,76,98
+4,10:26.0,,R. Gay misses 3-pt jump shot from 25 ft,76,98
+4,10:22.0,Defensive rebound by J. Embiid,,76,98
+4,10:19.0,Offensive foul by B. Simmons (drawn by D. Bertāns),,76,98
+4,10:19.0,Turnover by B. Simmons (offensive foul),,76,98
+4,10:03.0,,L. Aldridge makes 2-pt jump shot from 16 ft (assist by P. Mills),76,100
+4,9:55.0,Personal foul by P. Mills (drawn by J. Redick),,76,100
+4,9:53.0,J. Redick makes 2-pt layup from 3 ft (assist by J. Butler),,78,100
+4,9:37.0,,L. Aldridge misses 2-pt jump shot from 11 ft,78,100
+4,9:35.0,Defensive rebound by J. Butler,,78,100
+4,9:29.0,J. Butler makes 2-pt jump shot from 3 ft,,80,100
+4,9:29.0,,San Antonio full timeout,80,100
+4,9:29.0,,B. Forbes enters the game for P. Mills,80,100
+4,9:18.0,,M. Belinelli makes 3-pt jump shot from 23 ft (assist by R. Gay),80,103
+4,8:52.0,M. Muscala misses 2-pt hook shot from 4 ft,,80,103
+4,8:52.0,,Defensive rebound by D. Bertāns,80,103
+4,8:36.0,,M. Belinelli misses 3-pt jump shot from 26 ft,80,103
+4,8:33.0,Defensive rebound by Team,,80,103
+4,8:26.0,J. Butler misses 3-pt jump shot from 25 ft,,80,103
+4,8:21.0,,Defensive rebound by L. Aldridge,80,103
+4,8:05.0,,D. Bertāns makes 2-pt layup from 2 ft (assist by L. Aldridge),80,105
+4,8:05.0,Philadelphia full timeout,,80,105
+4,8:05.0,J. Bolden enters the game for J. Butler,,80,105
+4,8:05.0,A. Johnson enters the game for J. Embiid,,80,105
+4,8:05.0,F. Korkmaz enters the game for M. Muscala,,80,105
+4,8:05.0,T. McConnell enters the game for J. Redick,,80,105
+4,8:05.0,S. Milton enters the game for B. Simmons,,80,105
+4,8:05.0,,J. Poeltl enters the game for L. Aldridge,80,105
+4,8:05.0,,Q. Pondexter enters the game for M. Belinelli,80,105
+4,8:05.0,,D. White enters the game for R. Gay,80,105
+4,7:57.0,Personal foul by Q. Pondexter (drawn by F. Korkmaz),,80,105
+4,7:42.0,S. Milton misses 3-pt jump shot from 26 ft,,80,105
+4,7:39.0,,Defensive rebound by J. Poeltl,80,105
+4,7:27.0,,Q. Pondexter makes 3-pt jump shot from 25 ft (assist by D. White),80,108
+4,7:15.0,F. Korkmaz misses 3-pt jump shot from 26 ft,,80,108
+4,7:12.0,Offensive rebound by S. Milton,,80,108
+4,7:03.0,Shooting foul by B. Forbes (drawn by J. Bolden),,80,108
+4,7:03.0,J. Bolden misses free throw 1 of 2,,80,108
+4,7:03.0,Offensive rebound by Team,,80,108
+4,7:03.0,J. Bolden misses free throw 2 of 2,,80,108
+4,7:01.0,,Defensive rebound by J. Poeltl,80,108
+4,7:01.0,,D. Cunningham enters the game for D. Bertāns,80,108
+4,6:44.0,,Offensive foul by B. Forbes (drawn by S. Milton),80,108
+4,6:44.0,,Turnover by B. Forbes (offensive foul),80,108
+4,6:44.0,,D. Eubanks enters the game for B. Forbes,80,108
+4,6:36.0,S. Milton makes 3-pt jump shot from 25 ft (assist by T. McConnell),,83,108
+4,6:18.0,,D. White misses 2-pt layup from 4 ft (block by J. Bolden),83,108
+4,6:18.0,,Offensive rebound by Team,83,108
+4,6:11.0,,J. Poeltl misses 2-pt layup from 6 ft (block by J. Bolden),83,108
+4,6:07.0,Defensive rebound by F. Korkmaz,,83,108
+4,5:48.0,A. Johnson makes 2-pt layup from 3 ft (assist by T. McConnell),,85,108
+4,5:33.0,,J. Poeltl makes 2-pt hook shot from 2 ft (assist by D. White),85,110
+4,5:19.0,J. Bolden misses 3-pt jump shot from 27 ft,,85,110
+4,5:19.0,,Defensive rebound by D. Eubanks,85,110
+4,5:06.0,,D. White makes 2-pt jump shot from 14 ft (assist by D. Eubanks),85,112
+4,5:05.0,Philadelphia full timeout,,85,112
+4,4:53.0,S. Milton makes 2-pt jump shot from 22 ft (assist by A. Johnson),,87,112
+4,4:42.0,,D. White makes 2-pt layup from 2 ft,87,114
+4,4:42.0,Violation by Team (def goaltending),,87,114
+4,4:34.0,F. Korkmaz misses 3-pt jump shot from 26 ft,,87,114
+4,4:31.0,,Defensive rebound by D. White,87,114
+4,4:21.0,,Turnover by D. White (bad pass; steal by T. McConnell),87,114
+4,4:10.0,S. Milton misses 2-pt jump shot from 7 ft,,87,114
+4,4:08.0,Offensive rebound by S. Milton,,87,114
+4,4:08.0,S. Milton makes 2-pt layup from 1 ft,,89,114
+4,3:48.0,,D. Eubanks makes 2-pt hook shot from 4 ft,89,116
+4,3:32.0,A. Johnson misses 3-pt jump shot from 26 ft,,89,116
+4,3:32.0,,Defensive rebound by J. Poeltl,89,116
+4,3:18.0,,D. White makes 2-pt jump shot from 20 ft,89,118
+4,2:58.0,F. Korkmaz misses 2-pt jump shot from 8 ft (block by D. White),,89,118
+4,2:58.0,,Defensive rebound by Q. Pondexter,89,118
+4,2:38.0,,D. White misses 3-pt jump shot from 26 ft,89,118
+4,2:35.0,Defensive rebound by S. Milton,,89,118
+4,2:27.0,F. Korkmaz misses 3-pt jump shot from 26 ft,,89,118
+4,2:23.0,Offensive rebound by S. Milton,,89,118
+4,2:23.0,S. Milton makes 3-pt jump shot from 24 ft,,92,118
+4,2:08.0,,Shooting foul by S. Milton (drawn by Q. Pondexter),92,118
+4,2:08.0,,Q. Pondexter misses free throw 1 of 2,92,118
+4,2:08.0,,Offensive rebound by Team,92,118
+4,2:08.0,,Q. Pondexter makes free throw 2 of 2,92,119
+4,1:54.0,T. McConnell makes 2-pt jump shot from 16 ft (assist by A. Johnson),,94,119
+4,1:43.0,,D. Eubanks makes 2-pt hook shot from 8 ft (assist by D. White),94,121
+4,1:33.0,Personal foul by D. White (drawn by F. Korkmaz),,94,121
+4,1:23.0,T. McConnell makes 2-pt jump shot from 12 ft (assist by A. Johnson),,96,121
+4,1:07.0,,D. Eubanks makes 2-pt hook shot from 7 ft,96,123
+4,0:56.0,S. Milton misses 2-pt layup from 3 ft,,96,123
+4,0:56.0,,Defensive rebound by D. Cunningham,96,123
+4,0:32.0,,J. Poeltl misses 2-pt layup from 4 ft (block by T. McConnell),96,123
+4,0:32.0,,Offensive rebound by Team,96,123
+4,0:31.0,,Turnover by Team (shot clock),96,123
+4,0:13.0,J. Bolden misses 3-pt jump shot from 26 ft,,96,123
+4,0:08.0,,Defensive rebound by Q. Pondexter,96,123

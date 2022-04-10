@@ -1,0 +1,467 @@
+QUARTER,TIME_REMAINING,CHICAGO_ACTION,INDIANA_ACTION,CHICAGO_SCORE,INDIANA_SCORE
+1,11:38.0,,T. Young makes 3-pt jump shot from 23 ft (assist by W. Matthews),0,3
+1,11:14.0,R. Lopez misses 2-pt layup from 2 ft,,0,3
+1,11:13.0,,Defensive rebound by M. Turner,0,3
+1,10:59.0,,Turnover by D. Collison (bad pass; steal by O. Porter),0,3
+1,10:57.0,Turnover by O. Porter (lost ball; steal by D. Collison),,0,3
+1,10:50.0,,T. Young misses 3-pt jump shot from 24 ft,0,3
+1,10:47.0,Defensive rebound by K. Dunn,,0,3
+1,10:43.0,O. Porter misses 3-pt jump shot from 24 ft,,0,3
+1,10:40.0,,Defensive rebound by T. Young,0,3
+1,10:32.0,,Shooting foul by Z. LaVine (drawn by B. Bogdanović),0,3
+1,10:32.0,,B. Bogdanović makes free throw 1 of 2,0,4
+1,10:32.0,,B. Bogdanović misses free throw 2 of 2,0,4
+1,10:31.0,Defensive rebound by R. Lopez,,0,4
+1,10:10.0,R. Lopez makes 2-pt hook shot from 5 ft (assist by Z. LaVine),,2,4
+1,9:58.0,,W. Matthews misses 3-pt jump shot from 24 ft,2,4
+1,9:53.0,Defensive rebound by O. Porter,,2,4
+1,9:46.0,O. Porter misses 2-pt jump shot from 17 ft,,2,4
+1,9:43.0,,Defensive rebound by T. Young,2,4
+1,9:31.0,,D. Collison makes 2-pt jump shot from 14 ft,2,6
+1,9:07.0,K. Dunn misses 3-pt jump shot from 27 ft,,2,6
+1,9:04.0,,Defensive rebound by T. Young,2,6
+1,8:55.0,,M. Turner misses 2-pt jump shot from 17 ft,2,6
+1,8:53.0,Defensive rebound by Z. LaVine,,2,6
+1,8:47.0,L. Markkanen makes 3-pt jump shot from 31 ft (assist by Z. LaVine),,5,6
+1,8:27.0,,T. Young misses 2-pt layup at rim (block by R. Lopez),5,6
+1,8:23.0,Defensive rebound by R. Lopez,,5,6
+1,8:15.0,K. Dunn misses 2-pt jump shot from 20 ft,,5,6
+1,8:11.0,,Defensive rebound by B. Bogdanović,5,6
+1,8:05.0,,D. Collison makes 2-pt jump shot from 21 ft (assist by T. Young),5,8
+1,7:50.0,Turnover by Z. LaVine (3 sec),,5,8
+1,7:33.0,,D. Collison makes 3-pt jump shot from 27 ft,5,11
+1,7:16.0,Z. LaVine misses 2-pt layup from 4 ft (block by M. Turner),,5,11
+1,7:14.0,,Defensive rebound by W. Matthews,5,11
+1,7:10.0,,B. Bogdanović makes 2-pt layup from 2 ft (assist by W. Matthews),5,13
+1,7:09.0,Chicago full timeout,,5,13
+1,6:57.0,O. Porter misses 2-pt jump shot from 20 ft,,5,13
+1,6:55.0,,Defensive rebound by T. Young,5,13
+1,6:42.0,,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by M. Turner),5,16
+1,6:18.0,O. Porter makes 2-pt jump shot from 10 ft (assist by K. Dunn),,7,16
+1,5:59.0,,W. Matthews makes 2-pt jump shot from 19 ft (assist by T. Young),7,18
+1,5:41.0,Shooting foul by T. Young (drawn by R. Lopez),,7,18
+1,5:41.0,R. Lopez makes free throw 1 of 2,,8,18
+1,5:41.0,R. Arcidiacono enters the game for K. Dunn,,8,18
+1,5:41.0,R. Lopez makes free throw 2 of 2,,9,18
+1,5:30.0,,W. Matthews misses 3-pt jump shot from 26 ft,9,18
+1,5:27.0,Defensive rebound by L. Markkanen,,9,18
+1,5:06.0,R. Lopez makes 2-pt layup from 1 ft,,11,18
+1,4:53.0,,B. Bogdanović makes 2-pt layup from 1 ft (assist by W. Matthews),11,20
+1,4:34.0,R. Lopez misses 2-pt jump shot from 18 ft,,11,20
+1,4:32.0,,Defensive rebound by Team,11,20
+1,4:20.0,,T. Young misses 2-pt layup from 2 ft (block by R. Lopez),11,20
+1,4:17.0,Defensive rebound by R. Lopez,,11,20
+1,3:58.0,R. Lopez misses 2-pt layup from 2 ft,,11,20
+1,3:56.0,,Defensive rebound by M. Turner,11,20
+1,3:49.0,,D. Collison misses 3-pt jump shot from 26 ft,11,20
+1,3:46.0,Defensive rebound by L. Markkanen,,11,20
+1,3:41.0,R. Arcidiacono makes 2-pt layup from 2 ft (assist by L. Markkanen),,13,20
+1,3:40.0,,Indiana full timeout,13,20
+1,3:40.0,W. Selden enters the game for O. Porter,,13,20
+1,3:40.0,,C. Joseph enters the game for B. Bogdanović,13,20
+1,3:25.0,,M. Turner misses 2-pt jump shot from 20 ft,13,20
+1,3:23.0,Defensive rebound by Z. LaVine,,13,20
+1,3:15.0,L. Markkanen misses 3-pt jump shot from 27 ft,,13,20
+1,3:12.0,,Defensive rebound by M. Turner,13,20
+1,2:53.0,,C. Joseph misses 2-pt jump shot from 10 ft,13,20
+1,2:50.0,Defensive rebound by W. Selden,,13,20
+1,2:42.0,L. Markkanen makes 2-pt layup at rim (assist by W. Selden),,15,20
+1,2:17.0,,W. Matthews makes 3-pt jump shot from 23 ft (assist by T. Young),15,23
+1,2:05.0,L. Markkanen misses 2-pt hook shot from 8 ft,,15,23
+1,2:02.0,,Defensive rebound by M. Turner,15,23
+1,1:50.0,,T. Young misses 2-pt layup from 2 ft,15,23
+1,1:47.0,Defensive rebound by L. Markkanen,,15,23
+1,1:33.0,Z. LaVine misses 3-pt jump shot from 30 ft,,15,23
+1,1:31.0,,Defensive rebound by M. Turner,15,23
+1,1:25.0,,Shooting foul by R. Arcidiacono (drawn by D. Collison),15,23
+1,1:25.0,,D. Collison makes free throw 1 of 2,15,24
+1,1:25.0,,T. Leaf enters the game for W. Matthews,15,24
+1,1:25.0,,D. McDermott enters the game for T. Young,15,24
+1,1:25.0,,D. Collison makes free throw 2 of 2,15,25
+1,1:17.0,L. Markkanen misses 3-pt jump shot from 28 ft,,15,25
+1,1:13.0,,Defensive rebound by M. Turner,15,25
+1,1:06.0,,M. Turner misses 2-pt jump shot from 14 ft,15,25
+1,1:04.0,,Offensive rebound by T. Leaf,15,25
+1,1:04.0,,T. Leaf makes 2-pt layup at rim,15,27
+1,0:50.0,R. Arcidiacono misses 2-pt layup at rim,,15,27
+1,0:47.0,Offensive rebound by R. Arcidiacono,,15,27
+1,0:40.0,Shooting foul by M. Turner (drawn by Z. LaVine),,15,27
+1,0:40.0,Z. LaVine makes free throw 1 of 2,,16,27
+1,0:40.0,C. Felício enters the game for R. Lopez,,16,27
+1,0:40.0,O. Porter enters the game for L. Markkanen,,16,27
+1,0:40.0,,K. O'Quinn enters the game for M. Turner,16,27
+1,0:40.0,Z. LaVine misses free throw 2 of 2,,16,27
+1,0:39.0,,Defensive rebound by D. McDermott,16,27
+1,0:28.0,,K. O'Quinn misses 2-pt jump shot from 17 ft,16,27
+1,0:26.0,Defensive rebound by R. Arcidiacono,,16,27
+1,0:06.0,Shooting foul by K. O'Quinn (drawn by C. Felício),,16,27
+1,0:06.0,C. Felício makes free throw 1 of 2,,17,27
+1,0:06.0,S. Harrison enters the game for Z. LaVine,,17,27
+1,0:06.0,C. Felício misses free throw 2 of 2,,17,27
+1,0:05.0,,Defensive rebound by T. Leaf,17,27
+2,11:47.0,W. Selden misses 2-pt jump shot from 7 ft,,17,27
+2,11:45.0,,Defensive rebound by K. O'Quinn,17,27
+2,11:30.0,,D. McDermott misses 2-pt layup from 2 ft,17,27
+2,11:28.0,,Offensive rebound by T. Leaf,17,27
+2,11:28.0,,T. Leaf makes 2-pt layup at rim,17,29
+2,11:12.0,C. Felício misses 2-pt jump shot from 20 ft,,17,29
+2,11:12.0,,Defensive rebound by T. Leaf,17,29
+2,11:03.0,,T. Leaf misses 3-pt jump shot from 27 ft,17,29
+2,11:00.0,,Offensive rebound by D. McDermott,17,29
+2,10:59.0,,Shooting foul by C. Felício (drawn by D. McDermott),17,29
+2,10:59.0,,D. McDermott makes free throw 1 of 2,17,30
+2,10:59.0,,D. McDermott makes free throw 2 of 2,17,31
+2,10:45.0,R. Arcidiacono misses 2-pt jump shot from 7 ft,,17,31
+2,10:42.0,,Defensive rebound by K. O'Quinn,17,31
+2,10:33.0,,C. Joseph makes 2-pt jump shot from 22 ft (assist by K. O'Quinn),17,33
+2,10:30.0,Chicago full timeout,,17,33
+2,10:30.0,K. Dunn enters the game for R. Arcidiacono,,17,33
+2,10:18.0,Shooting foul by T. Leaf (drawn by W. Selden),,17,33
+2,10:18.0,W. Selden makes free throw 1 of 2,,18,33
+2,10:18.0,W. Selden makes free throw 2 of 2,,19,33
+2,10:09.0,,T. Evans makes 2-pt jump shot from 20 ft,19,35
+2,9:49.0,O. Porter makes 2-pt jump shot from 5 ft (assist by K. Dunn),,21,35
+2,9:32.0,,T. Evans misses 3-pt jump shot from 28 ft,21,35
+2,9:29.0,Defensive rebound by K. Dunn,,21,35
+2,9:24.0,K. Dunn misses 2-pt layup from 6 ft (block by C. Joseph),,21,35
+2,9:24.0,Offensive rebound by Team,,21,35
+2,9:20.0,W. Selden misses 3-pt jump shot from 24 ft,,21,35
+2,9:20.0,,Defensive rebound by K. O'Quinn,21,35
+2,9:09.0,,Personal foul by W. Selden (drawn by T. Leaf),21,35
+2,9:04.0,,Offensive foul by K. O'Quinn (drawn by K. Dunn),21,35
+2,9:04.0,,Turnover by K. O'Quinn (offensive foul),21,35
+2,8:54.0,O. Porter misses 2-pt jump shot from 15 ft,,21,35
+2,8:52.0,Offensive rebound by C. Felício,,21,35
+2,8:45.0,S. Harrison makes 2-pt layup from 1 ft,,23,35
+2,8:32.0,,Shooting foul by C. Felício (drawn by K. O'Quinn),23,35
+2,8:32.0,,K. O'Quinn misses free throw 1 of 2,23,35
+2,8:32.0,,Offensive rebound by Team,23,35
+2,8:32.0,,T. Young enters the game for T. Leaf,23,35
+2,8:32.0,,K. O'Quinn makes free throw 2 of 2,23,36
+2,8:22.0,C. Felício makes 2-pt dunk at rim (assist by K. Dunn),,25,36
+2,8:09.0,,Offensive foul by D. McDermott (drawn by W. Selden),25,36
+2,8:09.0,,Turnover by D. McDermott (offensive foul),25,36
+2,7:58.0,K. Dunn misses 3-pt jump shot from 29 ft,,25,36
+2,7:54.0,,Defensive rebound by T. Evans,25,36
+2,7:46.0,,T. Evans misses 2-pt jump shot from 21 ft,25,36
+2,7:43.0,Defensive rebound by W. Selden,,25,36
+2,7:38.0,W. Selden misses 2-pt layup from 6 ft,,25,36
+2,7:37.0,,Defensive rebound by Team,25,36
+2,7:37.0,Loose ball foul by C. Felício (drawn by K. O'Quinn),,25,36
+2,7:37.0,Z. LaVine enters the game for C. Felício,,25,36
+2,7:37.0,L. Markkanen enters the game for W. Selden,,25,36
+2,7:25.0,,Shooting foul by Z. LaVine (drawn by T. Evans),25,36
+2,7:25.0,,T. Evans makes free throw 1 of 2,25,37
+2,7:25.0,,B. Bogdanović enters the game for D. McDermott,25,37
+2,7:25.0,,T. Evans misses free throw 2 of 2,25,37
+2,7:24.0,Defensive rebound by L. Markkanen,,25,37
+2,7:10.0,Shooting foul by K. O'Quinn (drawn by L. Markkanen),,25,37
+2,7:10.0,L. Markkanen makes free throw 1 of 2,,26,37
+2,7:10.0,,M. Turner enters the game for K. O'Quinn,26,37
+2,7:10.0,L. Markkanen makes free throw 2 of 2,,27,37
+2,6:47.0,,T. Evans makes 2-pt layup from 3 ft,27,39
+2,6:29.0,S. Harrison makes 2-pt layup at rim (assist by K. Dunn),,29,39
+2,6:18.0,,C. Joseph makes 2-pt jump shot from 19 ft,29,41
+2,6:04.0,Z. LaVine misses 2-pt jump shot from 18 ft,,29,41
+2,6:02.0,,Defensive rebound by B. Bogdanović,29,41
+2,5:48.0,,T. Evans misses 2-pt layup from 1 ft (block by O. Porter),29,41
+2,5:44.0,,Offensive rebound by T. Young,29,41
+2,5:44.0,,T. Young makes 2-pt layup at rim,29,43
+2,5:36.0,Shooting foul by T. Young (drawn by L. Markkanen),,29,43
+2,5:36.0,L. Markkanen misses free throw 1 of 2,,29,43
+2,5:36.0,Offensive rebound by Team,,29,43
+2,5:36.0,R. Arcidiacono enters the game for S. Harrison,,29,43
+2,5:36.0,,W. Matthews enters the game for T. Evans,29,43
+2,5:36.0,L. Markkanen makes free throw 2 of 2,,30,43
+2,5:24.0,,Turnover by T. Young (lost ball; steal by O. Porter),30,43
+2,5:19.0,L. Markkanen misses 3-pt jump shot from 27 ft,,30,43
+2,5:16.0,,Defensive rebound by W. Matthews,30,43
+2,5:09.0,,Turnover by B. Bogdanović (bad pass; steal by O. Porter),30,43
+2,5:05.0,Z. LaVine makes 2-pt layup from 1 ft (assist by O. Porter),,32,43
+2,5:04.0,,Indiana full timeout,32,43
+2,4:58.0,,M. Turner misses 2-pt jump shot from 20 ft,32,43
+2,4:55.0,Defensive rebound by O. Porter,,32,43
+2,4:39.0,Personal foul by W. Matthews (drawn by L. Markkanen),,32,43
+2,4:39.0,W. Selden enters the game for O. Porter,,32,43
+2,4:39.0,,D. Collison enters the game for C. Joseph,32,43
+2,4:33.0,Z. LaVine makes 2-pt layup at rim,,34,43
+2,4:22.0,,Turnover by W. Matthews (discontinued dribble),34,43
+2,4:10.0,Z. LaVine misses 3-pt jump shot from 28 ft,,34,43
+2,4:07.0,,Defensive rebound by D. Collison,34,43
+2,3:56.0,,M. Turner makes 2-pt dunk from 1 ft (assist by T. Young),34,45
+2,3:42.0,,Violation by Team (kicked ball),34,45
+2,3:32.0,L. Markkanen misses 2-pt layup from 5 ft (block by M. Turner),,34,45
+2,3:29.0,Offensive rebound by L. Markkanen,,34,45
+2,3:29.0,L. Markkanen makes 2-pt layup from 1 ft,,36,45
+2,3:06.0,,B. Bogdanović misses 3-pt jump shot from 29 ft,36,45
+2,3:02.0,Defensive rebound by K. Dunn,,36,45
+2,2:58.0,Z. LaVine misses 2-pt layup from 1 ft (block by M. Turner),,36,45
+2,2:57.0,Offensive rebound by L. Markkanen,,36,45
+2,2:57.0,L. Markkanen makes 2-pt dunk from 1 ft,,38,45
+2,2:28.0,,D. Collison misses 2-pt jump shot from 19 ft,38,45
+2,2:25.0,Defensive rebound by K. Dunn,,38,45
+2,2:06.0,Turnover by Z. LaVine (bad pass; steal by B. Bogdanović),,38,45
+2,1:53.0,,W. Matthews makes 2-pt layup at rim (assist by T. Young),38,47
+2,1:35.0,K. Dunn misses 2-pt jump shot from 2 ft (block by M. Turner),,38,47
+2,1:32.0,Offensive rebound by K. Dunn,,38,47
+2,1:32.0,K. Dunn makes 2-pt layup from 1 ft,,40,47
+2,1:18.0,,B. Bogdanović misses 2-pt jump shot from 2 ft (block by W. Selden),40,47
+2,1:15.0,Defensive rebound by L. Markkanen,,40,47
+2,1:12.0,Z. LaVine misses 2-pt layup from 1 ft (block by M. Turner),,40,47
+2,1:09.0,Offensive rebound by W. Selden,,40,47
+2,1:09.0,W. Selden makes 2-pt layup from 1 ft,,42,47
+2,0:58.0,,Offensive foul by M. Turner (drawn by R. Arcidiacono),42,47
+2,0:58.0,,Turnover by M. Turner (offensive foul),42,47
+2,0:58.0,O. Porter enters the game for Z. LaVine,,42,47
+2,0:58.0,,C. Joseph enters the game for M. Turner,42,47
+2,0:58.0,,T. Leaf enters the game for T. Young,42,47
+2,0:49.0,L. Markkanen misses 2-pt jump shot from 11 ft,,42,47
+2,0:47.0,,Defensive rebound by T. Leaf,42,47
+2,0:38.0,,W. Matthews misses 3-pt jump shot from 23 ft,42,47
+2,0:35.0,Defensive rebound by O. Porter,,42,47
+2,0:31.0,Turnover by O. Porter (out of bounds lost ball),,42,47
+2,0:15.0,,Personal foul by K. Dunn (drawn by B. Bogdanović),42,47
+2,0:15.0,,B. Bogdanović makes free throw 1 of 2,42,48
+2,0:15.0,T. Luwawu-Cabarrot enters the game for K. Dunn,,42,48
+2,0:15.0,,B. Bogdanović makes free throw 2 of 2,42,49
+2,0:04.0,Turnover by O. Porter (bad pass; steal by B. Bogdanović),,42,49
+2,0:00.0,,T. Leaf misses 2-pt jump shot from 14 ft,42,49
+2,0:00.0,,Offensive rebound by Team,42,49
+3,11:46.0,L. Markkanen misses 2-pt jump shot from 13 ft,,42,49
+3,11:43.0,,Defensive rebound by D. Collison,42,49
+3,11:34.0,,B. Bogdanović makes 2-pt jump shot from 16 ft,42,51
+3,11:16.0,R. Lopez makes 2-pt layup from 1 ft (assist by Z. LaVine),,44,51
+3,11:03.0,,T. Young misses 3-pt jump shot from 26 ft,44,51
+3,11:00.0,Defensive rebound by K. Dunn,,44,51
+3,10:56.0,Shooting foul by B. Bogdanović (drawn by Z. LaVine),,44,51
+3,10:56.0,Z. LaVine makes free throw 1 of 2,,45,51
+3,10:56.0,Z. LaVine makes free throw 2 of 2,,46,51
+3,10:45.0,,W. Matthews misses 3-pt jump shot from 27 ft,46,51
+3,10:43.0,Defensive rebound by L. Markkanen,,46,51
+3,10:27.0,L. Markkanen misses 3-pt jump shot from 26 ft,,46,51
+3,10:23.0,Offensive rebound by R. Lopez,,46,51
+3,10:23.0,R. Lopez misses 2-pt layup at rim,,46,51
+3,10:22.0,Offensive rebound by R. Lopez,,46,51
+3,10:22.0,R. Lopez misses 2-pt layup at rim,,46,51
+3,10:21.0,Offensive rebound by R. Lopez,,46,51
+3,10:21.0,R. Lopez makes 2-pt layup at rim,,48,51
+3,10:13.0,,M. Turner misses 2-pt jump shot from 4 ft,48,51
+3,10:10.0,Defensive rebound by L. Markkanen,,48,51
+3,10:06.0,O. Porter makes 3-pt jump shot from 27 ft (assist by L. Markkanen),,51,51
+3,10:04.0,,Indiana full timeout,51,51
+3,9:51.0,,B. Bogdanović makes 2-pt jump shot from 13 ft,51,53
+3,9:39.0,Personal foul by B. Bogdanović (drawn by O. Porter),,51,53
+3,9:35.0,Z. LaVine makes 2-pt dunk at rim,,53,53
+3,9:25.0,,Personal foul by K. Dunn (drawn by W. Matthews),53,53
+3,9:18.0,,Personal foul by K. Dunn (drawn by B. Bogdanović),53,53
+3,9:05.0,,D. Collison makes 2-pt jump shot from 21 ft,53,55
+3,8:41.0,R. Lopez makes 2-pt hook shot from 7 ft,,55,55
+3,8:26.0,,T. Young misses 2-pt layup from 1 ft,55,55
+3,8:25.0,,Offensive rebound by T. Young,55,55
+3,8:22.0,,M. Turner misses 2-pt dunk from 1 ft,55,55
+3,8:20.0,,Offensive rebound by M. Turner,55,55
+3,8:17.0,,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by M. Turner),55,58
+3,7:57.0,R. Lopez makes 2-pt dunk from 1 ft,,57,58
+3,7:39.0,,B. Bogdanović misses 2-pt layup from 1 ft,57,58
+3,7:37.0,Defensive rebound by L. Markkanen,,57,58
+3,7:34.0,O. Porter misses 3-pt jump shot from 26 ft,,57,58
+3,7:30.0,,Defensive rebound by M. Turner,57,58
+3,7:17.0,,Shooting foul by L. Markkanen (drawn by M. Turner),57,58
+3,7:17.0,,M. Turner makes free throw 1 of 2,57,59
+3,7:17.0,W. Selden enters the game for L. Markkanen,,57,59
+3,7:17.0,,M. Turner misses free throw 2 of 2,57,59
+3,7:16.0,Defensive rebound by O. Porter,,57,59
+3,7:00.0,Z. LaVine makes 2-pt dunk from 1 ft (assist by K. Dunn),,59,59
+3,6:40.0,,M. Turner makes 3-pt jump shot from 27 ft (assist by D. Collison),59,62
+3,6:25.0,K. Dunn misses 2-pt jump shot from 4 ft,,59,62
+3,6:23.0,,Defensive rebound by M. Turner,59,62
+3,6:10.0,,Turnover by D. Collison (bad pass; steal by K. Dunn),59,62
+3,5:59.0,Z. LaVine makes 3-pt jump shot from 27 ft,,62,62
+3,5:45.0,,W. Matthews makes 3-pt jump shot from 30 ft (assist by T. Young),62,65
+3,5:27.0,Z. LaVine misses 3-pt jump shot from 28 ft,,62,65
+3,5:24.0,,Defensive rebound by B. Bogdanović,62,65
+3,5:14.0,,M. Turner misses 2-pt dunk from 3 ft (block by W. Selden),62,65
+3,5:11.0,,Offensive rebound by T. Young,62,65
+3,5:10.0,,T. Young makes 2-pt jump shot from 2 ft,62,67
+3,5:08.0,Chicago full timeout,,62,67
+3,5:08.0,R. Arcidiacono enters the game for O. Porter,,62,67
+3,4:48.0,R. Lopez makes 2-pt dunk from 2 ft,,64,67
+3,4:33.0,,T. Young misses 2-pt layup from 2 ft,64,67
+3,4:31.0,Defensive rebound by R. Lopez,,64,67
+3,4:27.0,Z. LaVine misses 2-pt layup from 2 ft (block by M. Turner),,64,67
+3,4:24.0,,Defensive rebound by W. Matthews,64,67
+3,4:12.0,,M. Turner misses 2-pt jump shot from 18 ft,64,67
+3,4:10.0,Defensive rebound by Team,,64,67
+3,4:10.0,,C. Joseph enters the game for B. Bogdanović,64,67
+3,3:52.0,K. Dunn makes 2-pt layup from 3 ft,,66,67
+3,3:52.0,Shooting foul by T. Young (drawn by K. Dunn),,66,67
+3,3:52.0,K. Dunn makes free throw 1 of 1,,67,67
+3,3:43.0,,D. Collison makes 2-pt jump shot from 22 ft,67,69
+3,3:31.0,Turnover by K. Dunn (lost ball; steal by D. Collison),,67,69
+3,3:31.0,S. Harrison enters the game for Z. LaVine,,67,69
+3,3:29.0,,Turnover by D. Collison (lost ball; steal by K. Dunn),67,69
+3,3:07.0,W. Selden misses 3-pt jump shot from 29 ft,,67,69
+3,3:03.0,,Defensive rebound by D. Collison,67,69
+3,2:58.0,,Personal foul by K. Dunn (drawn by D. Collison),67,69
+3,2:58.0,T. Luwawu-Cabarrot enters the game for K. Dunn,,67,69
+3,2:58.0,,T. Evans enters the game for T. Young,67,69
+3,2:53.0,,D. Collison makes 3-pt jump shot from 26 ft (assist by C. Joseph),67,72
+3,2:32.0,R. Lopez makes 2-pt hook shot from 13 ft,,69,72
+3,2:12.0,,Turnover by M. Turner (lost ball; steal by S. Harrison),69,72
+3,2:11.0,Personal foul by C. Joseph (drawn by R. Arcidiacono),,69,72
+3,2:11.0,,D. McDermott enters the game for W. Matthews,69,72
+3,2:02.0,R. Lopez misses 2-pt layup from 8 ft (block by M. Turner),,69,72
+3,2:02.0,Offensive rebound by Team,,69,72
+3,1:53.0,R. Lopez misses 2-pt hook shot from 7 ft,,69,72
+3,1:49.0,Offensive rebound by S. Harrison,,69,72
+3,1:49.0,S. Harrison misses 2-pt layup at rim,,69,72
+3,1:48.0,Offensive rebound by S. Harrison,,69,72
+3,1:48.0,S. Harrison makes 2-pt layup at rim,,71,72
+3,1:36.0,,Personal foul by W. Selden (drawn by M. Turner),71,72
+3,1:36.0,,M. Turner makes free throw 1 of 2,71,73
+3,1:36.0,,B. Bogdanović enters the game for D. Collison,71,73
+3,1:36.0,,M. Turner makes free throw 2 of 2,71,74
+3,1:26.0,W. Selden makes 2-pt layup from 1 ft (assist by R. Arcidiacono),,73,74
+3,1:08.0,,T. Evans makes 2-pt layup from 2 ft,73,76
+3,0:59.0,Personal foul by C. Joseph (drawn by R. Arcidiacono),,73,76
+3,0:59.0,R. Arcidiacono makes free throw 1 of 2,,74,76
+3,0:59.0,C. Felício enters the game for R. Lopez,,74,76
+3,0:59.0,,K. O'Quinn enters the game for M. Turner,74,76
+3,0:59.0,R. Arcidiacono makes free throw 2 of 2,,75,76
+3,0:43.0,,Shooting foul by S. Harrison (drawn by T. Evans),75,76
+3,0:43.0,,T. Evans makes free throw 1 of 2,75,77
+3,0:43.0,,T. Evans misses free throw 2 of 2,75,77
+3,0:39.0,,Offensive rebound by T. Evans,75,77
+3,0:33.0,,B. Bogdanović misses 2-pt layup from 1 ft,75,77
+3,0:31.0,Defensive rebound by C. Felício,,75,77
+3,0:11.0,Turnover by R. Arcidiacono (step out of bounds),,75,77
+3,0:00.0,,T. Evans misses 2-pt jump shot from 18 ft,75,77
+3,0:00.0,,Offensive rebound by Team,75,77
+4,11:47.0,,K. O'Quinn misses 2-pt jump shot from 19 ft,75,77
+4,11:44.0,Defensive rebound by R. Arcidiacono,,75,77
+4,11:32.0,R. Arcidiacono makes 2-pt jump shot from 16 ft,,77,77
+4,11:18.0,,D. McDermott makes 2-pt layup at rim (assist by T. Evans),77,79
+4,11:18.0,Violation by Team (def goaltending),,77,79
+4,11:05.0,Personal foul by T. Evans (drawn by S. Harrison),,77,79
+4,10:57.0,Turnover by R. Arcidiacono (bad pass; steal by D. McDermott),,77,79
+4,10:53.0,,B. Bogdanović makes 2-pt dunk from 1 ft (assist by D. McDermott),77,81
+4,10:53.0,Z. LaVine enters the game for C. Felício,,77,81
+4,10:53.0,L. Markkanen enters the game for T. Luwawu-Cabarrot,,77,81
+4,10:30.0,Shooting foul by D. McDermott (drawn by R. Arcidiacono),,77,81
+4,10:30.0,R. Arcidiacono makes free throw 1 of 2,,78,81
+4,10:30.0,R. Arcidiacono makes free throw 2 of 2,,79,81
+4,10:19.0,,T. Evans misses 3-pt jump shot from 30 ft,79,81
+4,10:17.0,,Offensive rebound by Team,79,81
+4,10:17.0,Loose ball foul by L. Markkanen (drawn by K. O'Quinn),,79,81
+4,10:05.0,,C. Joseph misses 2-pt jump shot from 21 ft,79,81
+4,10:01.0,Defensive rebound by R. Arcidiacono,,79,81
+4,9:48.0,S. Harrison misses 3-pt jump shot from 23 ft (block by K. O'Quinn),,79,81
+4,9:47.0,Offensive rebound by Team,,79,81
+4,9:47.0,R. Lopez enters the game for W. Selden,,79,81
+4,9:47.0,,T. Young enters the game for B. Bogdanović,79,81
+4,9:42.0,Personal foul by D. McDermott (drawn by R. Arcidiacono),,79,81
+4,9:32.0,L. Markkanen misses 3-pt jump shot from 29 ft,,79,81
+4,9:29.0,,Defensive rebound by C. Joseph,79,81
+4,9:23.0,,T. Evans misses 2-pt layup from 1 ft,79,81
+4,9:19.0,,Offensive rebound by K. O'Quinn,79,81
+4,9:19.0,,K. O'Quinn makes 2-pt layup from 1 ft,79,83
+4,8:59.0,R. Arcidiacono misses 3-pt jump shot from 26 ft,,79,83
+4,8:56.0,,Defensive rebound by K. O'Quinn,79,83
+4,8:46.0,,C. Joseph misses 2-pt jump shot from 17 ft,79,83
+4,8:42.0,,Offensive rebound by C. Joseph,79,83
+4,8:41.0,,C. Joseph makes 2-pt layup at rim,79,85
+4,8:40.0,Chicago full timeout,,79,85
+4,8:40.0,O. Porter enters the game for S. Harrison,,79,85
+4,8:26.0,Z. LaVine makes 2-pt jump shot from 8 ft,,81,85
+4,7:58.0,,C. Joseph misses 2-pt layup from 1 ft (block by O. Porter),81,85
+4,7:58.0,Defensive rebound by Team,,81,85
+4,7:42.0,Z. LaVine makes 3-pt jump shot from 30 ft (assist by R. Lopez),,84,85
+4,7:33.0,,Indiana full timeout,84,85
+4,7:33.0,,B. Bogdanović enters the game for T. Evans,84,85
+4,7:33.0,,W. Matthews enters the game for D. McDermott,84,85
+4,7:33.0,,M. Turner enters the game for K. O'Quinn,84,85
+4,7:25.0,,C. Joseph misses 2-pt layup at rim,84,85
+4,7:22.0,Defensive rebound by L. Markkanen,,84,85
+4,7:08.0,Z. LaVine makes 2-pt dunk from 1 ft (assist by R. Arcidiacono),,86,85
+4,6:44.0,,W. Matthews misses 3-pt jump shot from 25 ft,86,85
+4,6:42.0,Defensive rebound by R. Arcidiacono,,86,85
+4,6:18.0,Turnover by Team (shot clock),,86,85
+4,6:18.0,K. Dunn enters the game for R. Arcidiacono,,86,85
+4,6:18.0,,D. Collison enters the game for C. Joseph,86,85
+4,6:05.0,,Turnover by T. Young (bad pass),86,85
+4,5:51.0,Turnover by Z. LaVine (bad pass; steal by W. Matthews),,86,85
+4,5:47.0,,Shooting foul by K. Dunn (drawn by B. Bogdanović),86,85
+4,5:47.0,,B. Bogdanović makes free throw 1 of 2,86,86
+4,5:47.0,,B. Bogdanović makes free throw 2 of 2,86,87
+4,5:35.0,K. Dunn misses 2-pt jump shot from 3 ft,,86,87
+4,5:34.0,Offensive rebound by R. Lopez,,86,87
+4,5:34.0,R. Lopez misses 2-pt layup from 2 ft,,86,87
+4,5:32.0,,Defensive rebound by B. Bogdanović,86,87
+4,5:23.0,,W. Matthews misses 3-pt jump shot from 28 ft,86,87
+4,5:20.0,Defensive rebound by K. Dunn,,86,87
+4,5:11.0,O. Porter misses 2-pt layup from 1 ft,,86,87
+4,5:08.0,,Defensive rebound by M. Turner,86,87
+4,5:04.0,,B. Bogdanović makes 3-pt jump shot from 27 ft (assist by D. Collison),86,90
+4,4:46.0,Personal foul by D. Collison (drawn by L. Markkanen),,86,90
+4,4:44.0,Z. LaVine misses 2-pt jump shot from 21 ft,,86,90
+4,4:41.0,,Defensive rebound by B. Bogdanović,86,90
+4,4:28.0,,D. Collison makes 3-pt jump shot from 28 ft,86,93
+4,4:25.0,Chicago full timeout,,86,93
+4,4:17.0,O. Porter misses 3-pt jump shot from 26 ft,,86,93
+4,4:14.0,,Defensive rebound by B. Bogdanović,86,93
+4,4:14.0,,Personal foul by O. Porter (drawn by B. Bogdanović),86,93
+4,4:03.0,,B. Bogdanović misses 2-pt layup from 1 ft (block by R. Lopez),86,93
+4,4:00.0,,Offensive rebound by Team,86,93
+4,3:58.0,,M. Turner makes 2-pt dunk from 1 ft (assist by B. Bogdanović),86,95
+4,3:34.0,Z. LaVine makes 2-pt jump shot from 3 ft,,88,95
+4,3:34.0,Shooting foul by W. Matthews (drawn by Z. LaVine),,88,95
+4,3:34.0,Z. LaVine misses free throw 1 of 1,,88,95
+4,3:34.0,,Defensive rebound by T. Young,88,95
+4,3:28.0,,Indiana full timeout,88,95
+4,3:13.0,,D. Collison misses 3-pt jump shot from 30 ft,88,95
+4,3:10.0,,Offensive rebound by T. Young,88,95
+4,3:10.0,,T. Young misses 2-pt layup from 1 ft,88,95
+4,3:09.0,Defensive rebound by L. Markkanen,,88,95
+4,2:55.0,Z. LaVine misses 2-pt jump shot from 11 ft,,88,95
+4,2:52.0,Offensive rebound by L. Markkanen,,88,95
+4,2:47.0,O. Porter misses 3-pt jump shot from 28 ft,,88,95
+4,2:44.0,,Defensive rebound by T. Young,88,95
+4,2:27.0,,T. Young makes 2-pt layup from 1 ft,88,97
+4,2:10.0,R. Lopez makes 2-pt layup from 1 ft (assist by O. Porter),,90,97
+4,1:48.0,,Turnover by W. Matthews (bad pass; steal by O. Porter),90,97
+4,1:46.0,Personal take foul by M. Turner (drawn by Z. LaVine),,90,97
+4,1:46.0,Z. LaVine makes free throw 1 of 2,,91,97
+4,1:46.0,W. Selden enters the game for R. Lopez,,91,97
+4,1:46.0,Z. LaVine makes free throw 2 of 2,,92,97
+4,1:33.0,,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by W. Matthews),92,100
+4,1:25.0,Z. LaVine makes 2-pt layup at rim,,94,100
+4,1:08.0,,T. Young makes 2-pt layup from 1 ft,94,102
+4,1:08.0,Chicago full timeout,,94,102
+4,1:08.0,R. Lopez enters the game for W. Selden,,94,102
+4,0:56.0,L. Markkanen misses 3-pt jump shot from 27 ft,,94,102
+4,0:53.0,Offensive rebound by R. Lopez,,94,102
+4,0:53.0,R. Lopez misses 2-pt layup at rim,,94,102
+4,0:52.0,Offensive rebound by R. Lopez,,94,102
+4,0:48.0,Z. LaVine misses 3-pt jump shot from 28 ft,,94,102
+4,0:45.0,Offensive rebound by Team,,94,102
+4,0:45.0,,Loose ball foul by B. Bogdanović (drawn by L. Markkanen),94,102
+4,0:45.0,L. Markkanen makes free throw 1 of 2,,95,102
+4,0:45.0,R. Arcidiacono enters the game for K. Dunn,,95,102
+4,0:45.0,W. Selden enters the game for R. Lopez,,95,102
+4,0:45.0,L. Markkanen makes free throw 2 of 2,,96,102
+4,0:36.0,,Personal take foul by L. Markkanen (drawn by D. Collison),96,102
+4,0:34.0,,Personal take foul by Z. LaVine (drawn by D. Collison),96,102
+4,0:34.0,,D. Collison makes free throw 1 of 2,96,103
+4,0:34.0,,D. Collison makes free throw 2 of 2,96,104
+4,0:25.0,Z. LaVine misses 2-pt layup from 1 ft,,96,104
+4,0:25.0,,Defensive rebound by D. Collison,96,104
+4,0:20.0,,Personal foul by R. Arcidiacono (drawn by D. Collison),96,104
+4,0:20.0,A. Blakeney enters the game for Z. LaVine,,96,104
+4,0:20.0,S. Harrison enters the game for L. Markkanen,,96,104
+4,0:20.0,T. Luwawu-Cabarrot enters the game for O. Porter,,96,104
+4,0:20.0,,D. Collison makes free throw 1 of 2,96,105
+4,0:20.0,,D. Collison misses free throw 2 of 2,96,105
+4,0:20.0,Defensive rebound by W. Selden,,96,105
+4,0:20.0,Chicago full timeout,,96,105
+4,0:14.0,T. Luwawu-Cabarrot misses 3-pt jump shot from 29 ft,,96,105
+4,0:11.0,,Defensive rebound by M. Turner,96,105

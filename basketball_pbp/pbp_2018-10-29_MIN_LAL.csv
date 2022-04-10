@@ -1,0 +1,501 @@
+QUARTER,TIME_REMAINING,LA LAKERS_ACTION,MINNESOTA_ACTION,LA LAKERS_SCORE,MINNESOTA_SCORE
+1,11:40.0,,J. Teague misses 2-pt layup from 2 ft (block by J. McGee),0,0
+1,11:37.0,Defensive rebound by B. Ingram,,0,0
+1,11:35.0,K. Kuzma misses 2-pt layup from 1 ft,,0,0
+1,11:32.0,,Defensive rebound by J. Okogie,0,0
+1,11:26.0,,J. Butler makes 2-pt jump shot from 14 ft,0,2
+1,11:18.0,J. McGee makes 2-pt dunk at rim (assist by B. Ingram),,2,2
+1,11:00.0,,J. Butler misses 2-pt jump shot from 7 ft,2,2
+1,10:57.0,Defensive rebound by L. James,,2,2
+1,10:53.0,K. Kuzma misses 3-pt jump shot from 25 ft (block by T. Gibson),,2,2
+1,10:49.0,,Defensive rebound by J. Okogie,2,2
+1,10:47.0,,J. Butler makes 2-pt dunk from 1 ft (assist by J. Okogie),2,4
+1,10:29.0,Personal foul by J. Okogie (drawn by J. McGee),,2,4
+1,10:22.0,K. Kuzma makes 2-pt dunk from 1 ft,,4,4
+1,10:09.0,,Turnover by K. Towns (lost ball; steal by J. McGee),4,4
+1,10:05.0,Turnover by L. Ball (bad pass),,4,4
+1,9:54.0,,K. Towns makes 2-pt layup from 1 ft (assist by J. Teague),4,6
+1,9:41.0,K. Kuzma makes 2-pt jump shot from 4 ft (assist by L. James),,6,6
+1,9:23.0,,T. Gibson makes 2-pt layup from 3 ft (assist by J. Butler),6,8
+1,9:05.0,K. Kuzma makes 3-pt jump shot from 26 ft (assist by L. James),,9,8
+1,8:51.0,,J. Okogie makes 3-pt jump shot from 23 ft (assist by J. Teague),9,11
+1,8:40.0,Offensive foul by B. Ingram (drawn by J. Okogie),,9,11
+1,8:40.0,Turnover by B. Ingram (offensive foul),,9,11
+1,8:22.0,,K. Towns makes 3-pt jump shot from 24 ft (assist by J. Okogie),9,14
+1,8:05.0,L. James misses 2-pt layup from 2 ft (block by K. Towns),,9,14
+1,8:04.0,Offensive rebound by Team,,9,14
+1,8:01.0,Turnover by L. James (bad pass; steal by K. Towns),,9,14
+1,7:58.0,,K. Towns makes 2-pt dunk from 1 ft (assist by J. Teague),9,16
+1,7:49.0,Turnover by B. Ingram (bad pass; steal by J. Butler),,9,16
+1,7:38.0,,Turnover by K. Towns (bad pass; steal by L. James),9,16
+1,7:35.0,K. Kuzma makes 2-pt dunk at rim (assist by L. James),,11,16
+1,7:26.0,,Turnover by T. Gibson (lost ball; steal by J. McGee),11,16
+1,7:23.0,K. Kuzma makes 2-pt dunk from 1 ft (assist by L. Ball),,13,16
+1,7:05.0,,J. Butler makes 2-pt layup from 2 ft (assist by K. Towns),13,18
+1,6:59.0,B. Ingram misses 2-pt layup from 2 ft (block by K. Towns),,13,18
+1,6:59.0,,Defensive rebound by J. Teague,13,18
+1,6:58.0,,Technical foul by L. Walton,13,18
+1,6:58.0,,Minnesota full timeout,13,18
+1,6:58.0,J. Hart enters the game for L. James,,13,18
+1,6:58.0,J. Williams enters the game for J. McGee,,13,18
+1,6:58.0,,J. Teague makes technical free throw,13,19
+1,6:47.0,,Shooting foul by J. Hart (drawn by J. Teague),13,19
+1,6:47.0,,J. Teague makes free throw 1 of 2,13,20
+1,6:47.0,,J. Teague makes free throw 2 of 2,13,21
+1,6:37.0,L. Ball misses 3-pt jump shot from 26 ft,,13,21
+1,6:34.0,,Defensive rebound by J. Okogie,13,21
+1,6:29.0,,J. Teague misses 2-pt jump shot from 24 ft,13,21
+1,6:26.0,Defensive rebound by K. Kuzma,,13,21
+1,6:22.0,Personal foul by K. Towns (drawn by J. Williams),,13,21
+1,6:04.0,L. Ball makes 2-pt jump shot from 8 ft (assist by K. Kuzma),,15,21
+1,5:51.0,,J. Butler misses 2-pt jump shot from 8 ft,15,21
+1,5:47.0,Defensive rebound by K. Kuzma,,15,21
+1,5:43.0,K. Kuzma misses 2-pt layup from 1 ft,,15,21
+1,5:41.0,Offensive rebound by B. Ingram,,15,21
+1,5:41.0,Shooting foul by K. Towns (drawn by B. Ingram),,15,21
+1,5:41.0,,G. Dieng enters the game for J. Butler,15,21
+1,5:41.0,,D. Rose enters the game for K. Towns,15,21
+1,5:41.0,B. Ingram makes free throw 1 of 2,,16,21
+1,5:41.0,B. Ingram misses free throw 2 of 2,,16,21
+1,5:39.0,,Defensive rebound by T. Gibson,16,21
+1,5:39.0,R. Rondo enters the game for L. Ball,,16,21
+1,5:26.0,,D. Rose makes 2-pt jump shot from 11 ft (assist by J. Teague),16,23
+1,5:12.0,B. Ingram makes 2-pt layup from 1 ft,,18,23
+1,5:00.0,,G. Dieng makes 2-pt dunk from 1 ft (assist by D. Rose),18,25
+1,4:44.0,B. Ingram makes 2-pt jump shot from 14 ft (assist by K. Kuzma),,20,25
+1,4:31.0,,D. Rose makes 2-pt layup from 1 ft,20,27
+1,4:18.0,J. Hart makes 3-pt jump shot from 25 ft (assist by K. Kuzma),,23,27
+1,4:04.0,,G. Dieng makes 2-pt jump shot from 9 ft (assist by D. Rose),23,29
+1,3:52.0,Shooting foul by J. Okogie (drawn by B. Ingram),,23,29
+1,3:52.0,B. Ingram makes free throw 1 of 2,,24,29
+1,3:52.0,J. McGee enters the game for K. Kuzma,,24,29
+1,3:52.0,L. Stephenson enters the game for J. Williams,,24,29
+1,3:52.0,,A. Tolliver enters the game for T. Gibson,24,29
+1,3:52.0,B. Ingram makes free throw 2 of 2,,25,29
+1,3:37.0,,G. Dieng misses 3-pt jump shot from 25 ft,25,29
+1,3:34.0,Defensive rebound by R. Rondo,,25,29
+1,3:27.0,Turnover by B. Ingram (lost ball; steal by J. Teague),,25,29
+1,3:17.0,,Turnover by J. Teague (lost ball; steal by L. Stephenson),25,29
+1,3:03.0,L. Stephenson misses 2-pt jump shot from 22 ft,,25,29
+1,3:00.0,Offensive rebound by J. McGee,,25,29
+1,2:57.0,B. Ingram makes 3-pt jump shot from 23 ft (assist by R. Rondo),,28,29
+1,2:49.0,,Minnesota full timeout,28,29
+1,2:49.0,L. James enters the game for B. Ingram,,28,29
+1,2:41.0,,D. Rose misses 2-pt jump shot from 19 ft,28,29
+1,2:39.0,,Offensive rebound by A. Tolliver,28,29
+1,2:35.0,,D. Rose misses 3-pt jump shot from 24 ft,28,29
+1,2:35.0,Defensive rebound by R. Rondo,,28,29
+1,2:13.0,Turnover by R. Rondo (lost ball; steal by G. Dieng),,28,29
+1,2:03.0,,J. Teague misses 2-pt dunk from 1 ft,28,29
+1,2:00.0,Defensive rebound by R. Rondo,,28,29
+1,1:57.0,L. Stephenson makes 2-pt layup from 1 ft (assist by R. Rondo),,30,29
+1,1:45.0,,D. Rose misses 2-pt layup from 1 ft,30,29
+1,1:45.0,Defensive rebound by J. McGee,,30,29
+1,1:40.0,Offensive foul by L. Stephenson (drawn by A. Tolliver),,30,29
+1,1:40.0,Turnover by L. Stephenson (offensive foul),,30,29
+1,1:40.0,,T. Jones enters the game for J. Teague,30,29
+1,1:30.0,,D. Rose misses 2-pt layup from 2 ft (block by J. McGee),30,29
+1,1:27.0,Defensive rebound by J. McGee,,30,29
+1,1:23.0,R. Rondo misses 2-pt layup from 3 ft,,30,29
+1,1:21.0,,Defensive rebound by D. Rose,30,29
+1,1:18.0,,J. Okogie makes 2-pt jump shot from 14 ft (assist by D. Rose),30,31
+1,0:59.0,L. James misses 2-pt layup from 1 ft,,30,31
+1,0:59.0,Offensive rebound by Team,,30,31
+1,0:56.0,J. McGee makes 2-pt jump shot from 5 ft (assist by R. Rondo),,32,31
+1,0:48.0,,J. Okogie misses 3-pt jump shot from 24 ft,32,31
+1,0:45.0,Defensive rebound by L. James,,32,31
+1,0:43.0,Turnover by L. James (bad pass; steal by J. Okogie),,32,31
+1,0:40.0,,J. Okogie makes 2-pt layup from 1 ft,32,33
+1,0:40.0,Violation by Team (def goaltending),,32,33
+1,0:30.0,J. McGee misses 2-pt jump shot from 11 ft,,32,33
+1,0:25.0,Offensive rebound by J. Hart,,32,33
+1,0:25.0,J. Hart misses 2-pt layup from 1 ft,,32,33
+1,0:23.0,Offensive rebound by L. James,,32,33
+1,0:23.0,L. James misses 2-pt layup from 1 ft,,32,33
+1,0:22.0,,Defensive rebound by G. Dieng,32,33
+1,0:02.0,,G. Dieng makes 3-pt jump shot from 23 ft (assist by D. Rose),32,36
+2,11:49.0,Shooting foul by G. Dieng (drawn by J. McGee),,32,36
+2,11:49.0,J. McGee misses free throw 1 of 2,,32,36
+2,11:49.0,Offensive rebound by Team,,32,36
+2,11:49.0,J. McGee makes free throw 2 of 2,,33,36
+2,11:31.0,,T. Jones misses 2-pt jump shot from 17 ft,33,36
+2,11:28.0,Defensive rebound by L. Stephenson,,33,36
+2,11:23.0,L. Stephenson makes 3-pt jump shot from 26 ft (assist by R. Rondo),,36,36
+2,11:04.0,,D. Rose misses 2-pt jump shot from 16 ft,36,36
+2,10:59.0,,Offensive rebound by J. Butler,36,36
+2,10:59.0,,J. Butler makes 2-pt layup at rim,36,38
+2,10:42.0,J. McGee misses 2-pt hook shot from 12 ft,,36,38
+2,10:42.0,Offensive rebound by L. Stephenson,,36,38
+2,10:42.0,Shooting foul by J. Butler (drawn by L. Stephenson),,36,38
+2,10:42.0,L. Stephenson misses free throw 1 of 2,,36,38
+2,10:42.0,Offensive rebound by Team,,36,38
+2,10:42.0,L. Stephenson makes free throw 2 of 2,,37,38
+2,10:22.0,,Turnover by A. Tolliver (bad pass; steal by J. Hart),37,38
+2,10:11.0,L. Stephenson misses 2-pt layup from 4 ft (block by A. Tolliver),,37,38
+2,10:09.0,,Defensive rebound by D. Rose,37,38
+2,10:07.0,,Turnover by D. Rose (bad pass),37,38
+2,10:03.0,L. James misses 2-pt layup from 2 ft,,37,38
+2,10:01.0,,Defensive rebound by G. Dieng,37,38
+2,9:49.0,,Offensive foul by G. Dieng (drawn by L. Stephenson),37,38
+2,9:49.0,,Turnover by G. Dieng (offensive foul),37,38
+2,9:49.0,,Technical foul by G. Dieng,37,38
+2,9:49.0,L. James makes technical free throw,,38,38
+2,9:40.0,L. James misses 3-pt jump shot from 26 ft,,38,38
+2,9:37.0,,Defensive rebound by G. Dieng,38,38
+2,9:31.0,,A. Tolliver makes 3-pt jump shot from 23 ft (assist by T. Jones),38,41
+2,9:15.0,L. James makes 2-pt jump shot from 8 ft,,40,41
+2,9:01.0,,J. Butler misses 2-pt layup from 2 ft,40,41
+2,8:59.0,Defensive rebound by J. Hart,,40,41
+2,8:56.0,L. Stephenson misses 3-pt jump shot from 23 ft,,40,41
+2,8:52.0,,Defensive rebound by A. Tolliver,40,41
+2,8:44.0,,Turnover by G. Dieng (lost ball; steal by L. Stephenson),40,41
+2,8:32.0,J. McGee makes 2-pt dunk from 1 ft (assist by L. James),,42,41
+2,8:21.0,,Minnesota full timeout,42,41
+2,8:21.0,L. Ball enters the game for J. Hart,,42,41
+2,8:21.0,K. Kuzma enters the game for L. James,,42,41
+2,8:21.0,,K. Towns enters the game for G. Dieng,42,41
+2,8:18.0,,Personal foul by K. Kuzma (drawn by A. Tolliver),42,41
+2,8:11.0,,J. Butler makes 2-pt jump shot from 12 ft,42,43
+2,7:52.0,Turnover by R. Rondo (bad pass; steal by T. Jones),,42,43
+2,7:48.0,,A. Tolliver makes 2-pt dunk from 1 ft (assist by J. Butler),42,45
+2,7:30.0,K. Kuzma misses 2-pt layup from 8 ft,,42,45
+2,7:28.0,,Defensive rebound by K. Towns,42,45
+2,7:25.0,,D. Rose misses 2-pt layup from 1 ft,42,45
+2,7:23.0,,Offensive rebound by D. Rose,42,45
+2,7:23.0,,D. Rose misses 2-pt layup at rim,42,45
+2,7:23.0,,Offensive rebound by D. Rose,42,45
+2,7:23.0,,Shooting foul by L. Stephenson (drawn by D. Rose),42,45
+2,7:23.0,,D. Rose misses free throw 1 of 2,42,45
+2,7:23.0,,Offensive rebound by Team,42,45
+2,7:23.0,B. Ingram enters the game for L. Stephenson,,42,45
+2,7:23.0,,J. Okogie enters the game for J. Butler,42,45
+2,7:23.0,,D. Rose makes free throw 2 of 2,42,46
+2,7:10.0,B. Ingram makes 2-pt dunk from 2 ft (assist by R. Rondo),,44,46
+2,6:57.0,,Def 3 sec tech foul by Team,44,46
+2,6:57.0,,D. Rose makes technical free throw,44,47
+2,6:53.0,,K. Towns makes 3-pt jump shot from 25 ft (assist by D. Rose),44,50
+2,6:40.0,K. Kuzma makes 2-pt layup from 4 ft (assist by B. Ingram),,46,50
+2,6:26.0,,T. Jones misses 3-pt jump shot from 25 ft,46,50
+2,6:24.0,,Offensive rebound by K. Towns,46,50
+2,6:22.0,,K. Towns misses 2-pt hook shot from 6 ft,46,50
+2,6:20.0,,Offensive rebound by K. Towns,46,50
+2,6:19.0,,K. Towns misses 2-pt hook shot from 6 ft,46,50
+2,6:17.0,Defensive rebound by R. Rondo,,46,50
+2,6:12.0,B. Ingram makes 2-pt layup at rim (assist by R. Rondo),,48,50
+2,6:03.0,,D. Rose misses 2-pt jump shot from 17 ft,48,50
+2,6:03.0,,Offensive rebound by Team,48,50
+2,6:03.0,Loose ball foul by B. Ingram (drawn by K. Towns),,48,50
+2,6:03.0,J. Williams enters the game for J. McGee,,48,50
+2,6:03.0,,T. Gibson enters the game for T. Jones,48,50
+2,6:03.0,,J. Teague enters the game for A. Tolliver,48,50
+2,5:54.0,,J. Okogie misses 2-pt jump shot from 9 ft,48,50
+2,5:51.0,,Offensive rebound by K. Towns,48,50
+2,5:48.0,,J. Okogie makes 2-pt layup at rim (assist by K. Towns),48,52
+2,5:32.0,R. Rondo makes 3-pt jump shot from 24 ft,,51,52
+2,5:16.0,,J. Teague makes 2-pt layup at rim (assist by K. Towns),51,54
+2,5:07.0,J. Williams misses 2-pt layup from 4 ft (block by K. Towns),,51,54
+2,5:04.0,Offensive rebound by J. Williams,,51,54
+2,5:03.0,B. Ingram makes 3-pt jump shot from 23 ft (assist by J. Williams),,54,54
+2,4:41.0,,J. Teague misses 2-pt jump shot from 7 ft,54,54
+2,4:40.0,,Offensive rebound by K. Towns,54,54
+2,4:39.0,,K. Towns misses 2-pt layup from 4 ft (block by B. Ingram),54,54
+2,4:39.0,,Offensive rebound by K. Towns,54,54
+2,4:38.0,,K. Towns misses 2-pt layup from 3 ft,54,54
+2,4:37.0,,Offensive rebound by K. Towns,54,54
+2,4:36.0,,K. Towns makes 2-pt layup from 2 ft,54,56
+2,4:29.0,LA Lakers full timeout,,54,56
+2,4:29.0,L. James enters the game for R. Rondo,,54,56
+2,4:29.0,J. McGee enters the game for J. Williams,,54,56
+2,4:29.0,,J. Butler enters the game for D. Rose,54,56
+2,4:21.0,K. Kuzma misses 3-pt jump shot from 23 ft,,54,56
+2,4:19.0,,Defensive rebound by J. Butler,54,56
+2,4:01.0,,J. Okogie makes 2-pt layup from 2 ft,54,58
+2,3:53.0,Offensive foul by J. McGee (drawn by K. Towns),,54,58
+2,3:53.0,Turnover by J. McGee (offensive foul),,54,58
+2,3:43.0,,Turnover by K. Towns (traveling),54,58
+2,3:36.0,Shooting foul by J. Teague (drawn by L. James),,54,58
+2,3:36.0,L. James makes free throw 1 of 2,,55,58
+2,3:36.0,L. James makes free throw 2 of 2,,56,58
+2,3:20.0,,Turnover by K. Towns (traveling),56,58
+2,3:20.0,,Technical foul by K. Towns,56,58
+2,3:20.0,L. James misses technical free throw,,56,58
+2,3:20.0,Offensive rebound by Team,,56,58
+2,3:12.0,Turnover by J. McGee (bad pass; steal by J. Okogie),,56,58
+2,3:09.0,,Shooting foul by B. Ingram (drawn by J. Okogie),56,58
+2,3:09.0,,J. Okogie makes free throw 1 of 2,56,59
+2,3:09.0,K. Caldwell-Pope enters the game for B. Ingram,,56,59
+2,3:09.0,,J. Okogie makes free throw 2 of 2,56,60
+2,2:59.0,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,,56,60
+2,2:54.0,,Defensive rebound by K. Towns,56,60
+2,2:45.0,,T. Gibson makes 2-pt hook shot from 4 ft (assist by J. Butler),56,62
+2,2:34.0,J. McGee makes 2-pt dunk from 1 ft (assist by L. James),,58,62
+2,2:18.0,,J. Okogie misses 3-pt jump shot from 23 ft,58,62
+2,2:16.0,Defensive rebound by K. Caldwell-Pope,,58,62
+2,2:12.0,L. James misses 2-pt layup from 2 ft,,58,62
+2,2:10.0,,Defensive rebound by J. Butler,58,62
+2,2:06.0,,J. Teague misses 3-pt jump shot from 25 ft,58,62
+2,2:05.0,,Offensive rebound by T. Gibson,58,62
+2,2:04.0,,J. Okogie misses 2-pt jump shot from 19 ft,58,62
+2,2:03.0,Defensive rebound by L. Ball,,58,62
+2,1:53.0,L. James makes 2-pt layup from 2 ft,,60,62
+2,1:53.0,Shooting foul by J. Teague (drawn by L. James),,60,62
+2,1:53.0,L. James makes free throw 1 of 1,,61,62
+2,1:39.0,,Shooting foul by L. Ball (drawn by J. Butler),61,62
+2,1:39.0,,J. Butler makes free throw 1 of 2,61,63
+2,1:39.0,,J. Butler makes free throw 2 of 2,61,64
+2,1:25.0,Turnover by L. James (bad pass; steal by T. Gibson),,61,64
+2,1:11.0,,T. Gibson misses 2-pt layup from 2 ft (block by L. James),61,64
+2,1:09.0,Defensive rebound by K. Kuzma,,61,64
+2,1:06.0,K. Kuzma misses 2-pt layup from 2 ft,,61,64
+2,1:06.0,Offensive rebound by L. James,,61,64
+2,0:59.0,L. James makes 2-pt dunk from 1 ft,,63,64
+2,0:50.0,,Turnover by J. Teague (bad pass; steal by L. James),63,64
+2,0:46.0,K. Kuzma makes 3-pt jump shot from 25 ft (assist by L. James),,66,64
+2,0:28.0,,T. Gibson misses 2-pt jump shot from 15 ft,66,64
+2,0:25.0,Defensive rebound by L. James,,66,64
+2,0:06.0,K. Kuzma misses 3-pt jump shot from 23 ft,,66,64
+2,0:03.0,,Defensive rebound by J. Butler,66,64
+3,11:44.0,B. Ingram misses 2-pt layup from 1 ft,,66,64
+3,11:41.0,Offensive rebound by B. Ingram,,66,64
+3,11:40.0,B. Ingram misses 2-pt layup from 1 ft,,66,64
+3,11:39.0,Offensive rebound by B. Ingram,,66,64
+3,11:39.0,B. Ingram makes 2-pt layup at rim,,68,64
+3,11:20.0,,T. Gibson misses 2-pt layup from 2 ft,68,64
+3,11:17.0,,Offensive rebound by T. Gibson,68,64
+3,11:17.0,,Shooting foul by K. Kuzma (drawn by T. Gibson),68,64
+3,11:17.0,,T. Gibson makes free throw 1 of 2,68,65
+3,11:17.0,,T. Gibson makes free throw 2 of 2,68,66
+3,11:03.0,B. Ingram misses 2-pt jump shot from 14 ft (block by J. Okogie),,68,66
+3,11:00.0,,Defensive rebound by K. Towns,68,66
+3,10:58.0,,J. Okogie makes 2-pt dunk from 1 ft (assist by K. Towns),68,68
+3,10:39.0,L. James makes 2-pt layup from 1 ft,,70,68
+3,10:28.0,,Personal foul by B. Ingram (drawn by J. Butler),70,68
+3,10:28.0,J. Hart enters the game for B. Ingram,,70,68
+3,10:23.0,,Personal foul by J. Hart (drawn by J. Butler),70,68
+3,10:15.0,,K. Towns misses 3-pt jump shot from 25 ft,70,68
+3,10:12.0,Defensive rebound by J. Hart,,70,68
+3,10:09.0,J. McGee makes 2-pt dunk from 1 ft (assist by J. Hart),,72,68
+3,9:54.0,,Personal foul by J. Hart (drawn by J. Butler),72,68
+3,9:45.0,,J. Butler makes 3-pt jump shot from 25 ft (assist by J. Teague),72,71
+3,9:32.0,L. Ball misses 3-pt jump shot from 25 ft,,72,71
+3,9:31.0,,Defensive rebound by Team,72,71
+3,9:24.0,,J. Teague misses 3-pt jump shot from 24 ft,72,71
+3,9:20.0,Defensive rebound by J. Hart,,72,71
+3,9:19.0,Personal foul by J. Teague (drawn by J. Hart),,72,71
+3,9:11.0,L. Ball makes 2-pt layup from 1 ft (assist by L. James),,74,71
+3,8:47.0,,J. Okogie misses 3-pt jump shot from 25 ft,74,71
+3,8:44.0,,Offensive rebound by T. Gibson,74,71
+3,8:33.0,,K. Towns misses 3-pt jump shot from 25 ft,74,71
+3,8:32.0,,Offensive rebound by Team,74,71
+3,8:32.0,,Turnover by Team (shot clock),74,71
+3,8:21.0,L. Ball misses 3-pt jump shot from 25 ft,,74,71
+3,8:18.0,,Defensive rebound by J. Okogie,74,71
+3,8:07.0,,K. Towns misses 2-pt jump shot from 13 ft,74,71
+3,8:05.0,,Offensive rebound by K. Towns,74,71
+3,8:03.0,,K. Towns makes 2-pt layup from 1 ft,74,73
+3,7:53.0,K. Kuzma misses 2-pt layup from 2 ft (block by K. Towns),,74,73
+3,7:53.0,Offensive rebound by Team,,74,73
+3,7:51.0,L. James misses 2-pt layup from 1 ft (block by J. Butler),,74,73
+3,7:48.0,,Defensive rebound by J. Teague,74,73
+3,7:43.0,,J. Okogie misses 3-pt jump shot from 23 ft,74,73
+3,7:43.0,,Offensive rebound by K. Towns,74,73
+3,7:40.0,,Shooting foul by J. McGee (drawn by K. Towns),74,73
+3,7:40.0,,K. Towns makes free throw 1 of 2,74,74
+3,7:40.0,,K. Towns makes free throw 2 of 2,74,75
+3,7:38.0,Turnover by J. McGee (bad pass; steal by J. Okogie),,74,75
+3,7:34.0,,J. Okogie misses 2-pt layup at rim,74,75
+3,7:31.0,Defensive rebound by J. Hart,,74,75
+3,7:26.0,L. James makes 2-pt jump shot from 12 ft,,76,75
+3,7:14.0,,J. Butler makes 2-pt layup from 2 ft,76,77
+3,6:57.0,L. James misses 2-pt jump shot from 14 ft,,76,77
+3,6:55.0,,Defensive rebound by K. Towns,76,77
+3,6:52.0,,Personal foul by L. James (drawn by T. Gibson),76,77
+3,6:52.0,,Minnesota full timeout,76,77
+3,6:52.0,R. Rondo enters the game for L. Ball,,76,77
+3,6:52.0,J. Williams enters the game for J. McGee,,76,77
+3,6:52.0,,T. Gibson misses free throw 1 of 2,76,77
+3,6:52.0,,Offensive rebound by Team,76,77
+3,6:52.0,,T. Gibson misses free throw 2 of 2,76,77
+3,6:50.0,Defensive rebound by L. James,,76,77
+3,6:34.0,Turnover by R. Rondo (bad pass; steal by J. Teague),,76,77
+3,6:29.0,,T. Gibson makes 2-pt dunk from 1 ft (assist by K. Towns),76,79
+3,6:14.0,J. Hart makes 2-pt dunk from 1 ft (assist by R. Rondo),,78,79
+3,6:03.0,,J. Teague misses 2-pt jump shot from 6 ft,78,79
+3,6:02.0,Defensive rebound by Team,,78,79
+3,6:02.0,LA Lakers full timeout,,78,79
+3,6:02.0,L. Stephenson enters the game for L. James,,78,79
+3,5:53.0,R. Rondo makes 2-pt layup from 3 ft,,80,79
+3,5:29.0,,J. Butler misses 3-pt jump shot from 25 ft,80,79
+3,5:25.0,Defensive rebound by L. Stephenson,,80,79
+3,5:15.0,L. Stephenson makes 2-pt jump shot from 11 ft,,82,79
+3,4:59.0,,J. Teague makes 2-pt jump shot from 10 ft (assist by K. Towns),82,81
+3,4:44.0,J. Hart misses 3-pt jump shot from 25 ft,,82,81
+3,4:39.0,,Defensive rebound by J. Teague,82,81
+3,4:30.0,,Turnover by K. Towns (lost ball; steal by L. Stephenson),82,81
+3,4:18.0,L. Stephenson misses 2-pt jump shot from 19 ft,,82,81
+3,4:18.0,Offensive rebound by J. Williams,,82,81
+3,4:14.0,J. Williams makes 2-pt layup from 1 ft,,84,81
+3,4:05.0,,Personal foul by J. Williams (drawn by K. Towns),84,81
+3,4:05.0,,K. Towns makes free throw 1 of 2,84,82
+3,4:05.0,L. James enters the game for K. Kuzma,,84,82
+3,4:05.0,,D. Rose enters the game for J. Butler,84,82
+3,4:05.0,,K. Towns makes free throw 2 of 2,84,83
+3,3:56.0,L. James makes 3-pt jump shot from 25 ft,,87,83
+3,3:41.0,,Shooting foul by L. Stephenson (drawn by J. Teague),87,83
+3,3:41.0,,J. Teague makes free throw 1 of 2,87,84
+3,3:41.0,,A. Tolliver enters the game for T. Gibson,87,84
+3,3:41.0,,J. Teague makes free throw 2 of 2,87,85
+3,3:28.0,L. Stephenson makes 3-pt jump shot from 22 ft (assist by L. James),,90,85
+3,3:27.0,,Minnesota full timeout,90,85
+3,3:10.0,,J. Teague misses 2-pt jump shot from 12 ft,90,85
+3,3:08.0,,Offensive rebound by K. Towns,90,85
+3,3:05.0,,K. Towns misses 2-pt hook shot from 6 ft,90,85
+3,3:04.0,Defensive rebound by J. Williams,,90,85
+3,2:48.0,Turnover by R. Rondo (bad pass),,90,85
+3,2:48.0,Loose ball foul by L. James (drawn by J. Okogie),,90,85
+3,2:48.0,,J. Okogie makes free throw 1 of 2,90,86
+3,2:48.0,,J. Okogie makes free throw 2 of 2,90,87
+3,2:33.0,L. Stephenson misses 2-pt jump shot from 19 ft,,90,87
+3,2:32.0,Offensive rebound by Team,,90,87
+3,2:32.0,,G. Dieng enters the game for J. Teague,90,87
+3,2:32.0,,T. Jones enters the game for K. Towns,90,87
+3,2:26.0,R. Rondo misses 3-pt jump shot from 23 ft,,90,87
+3,2:24.0,,Defensive rebound by G. Dieng,90,87
+3,2:18.0,,D. Rose misses 2-pt layup from 1 ft (block by L. James),90,87
+3,2:15.0,Defensive rebound by L. Stephenson,,90,87
+3,2:10.0,J. Hart misses 2-pt layup from 2 ft,,90,87
+3,2:07.0,Offensive rebound by J. Williams,,90,87
+3,2:07.0,J. Williams misses 2-pt layup at rim,,90,87
+3,2:06.0,,Defensive rebound by G. Dieng,90,87
+3,2:02.0,,A. Tolliver makes 2-pt dunk from 1 ft (assist by J. Okogie),90,89
+3,2:01.0,LA Lakers full timeout,,90,89
+3,1:42.0,L. Stephenson misses 3-pt jump shot from 25 ft,,90,89
+3,1:37.0,,Defensive rebound by A. Tolliver,90,89
+3,1:32.0,,D. Rose makes 2-pt layup from 1 ft,90,91
+3,1:18.0,Personal foul by T. Jones (drawn by R. Rondo),,90,91
+3,1:18.0,K. Caldwell-Pope enters the game for J. Hart,,90,91
+3,1:18.0,,J. Butler enters the game for J. Okogie,90,91
+3,1:03.0,R. Rondo makes 2-pt layup from 2 ft,,92,91
+3,0:51.0,,D. Rose makes 2-pt jump shot from 16 ft,92,93
+3,0:35.0,L. James misses 3-pt jump shot from 26 ft,,92,93
+3,0:31.0,Offensive rebound by R. Rondo,,92,93
+3,0:20.0,L. James makes 2-pt jump shot from 22 ft,,94,93
+3,0:00.0,,D. Rose misses 2-pt jump shot from 7 ft,94,93
+3,0:00.0,,Offensive rebound by Team,94,93
+4,11:43.0,,D. Rose misses 2-pt layup at rim,94,93
+4,11:41.0,,Offensive rebound by D. Rose,94,93
+4,11:39.0,,G. Dieng misses 2-pt jump shot from 17 ft,94,93
+4,11:36.0,Defensive rebound by L. James,,94,93
+4,11:27.0,R. Rondo misses 2-pt layup at rim (block by A. Tolliver),,94,93
+4,11:24.0,,Defensive rebound by A. Tolliver,94,93
+4,11:21.0,,A. Tolliver makes 3-pt jump shot from 25 ft (assist by D. Rose),94,96
+4,10:57.0,L. James makes 3-pt jump shot from 24 ft,,97,96
+4,10:40.0,,Shooting foul by J. Williams (drawn by D. Rose),97,96
+4,10:40.0,,D. Rose misses free throw 1 of 2,97,96
+4,10:40.0,,Offensive rebound by Team,97,96
+4,10:40.0,,D. Rose makes free throw 2 of 2,97,97
+4,10:30.0,,Violation by Team (kicked ball),97,97
+4,10:25.0,Turnover by B. Ingram (bad pass),,97,97
+4,10:12.0,,Turnover by G. Dieng (traveling),97,97
+4,9:54.0,R. Rondo makes 2-pt layup from 1 ft,,99,97
+4,9:42.0,,Shooting foul by J. Williams (drawn by G. Dieng),99,97
+4,9:42.0,,G. Dieng makes free throw 1 of 2,99,98
+4,9:42.0,L. Ball enters the game for K. Caldwell-Pope,,99,98
+4,9:42.0,,G. Dieng makes free throw 2 of 2,99,99
+4,9:27.0,L. Ball misses 3-pt jump shot from 25 ft,,99,99
+4,9:24.0,,Defensive rebound by J. Butler,99,99
+4,9:18.0,,J. Butler makes 3-pt jump shot from 26 ft,99,102
+4,9:16.0,LA Lakers full timeout,,99,102
+4,9:16.0,J. McGee enters the game for J. Williams,,99,102
+4,9:01.0,L. James makes 2-pt jump shot from 17 ft,,101,102
+4,8:36.0,,J. Butler makes 3-pt jump shot from 25 ft,101,105
+4,8:20.0,R. Rondo makes 2-pt layup from 4 ft,,103,105
+4,8:05.0,,J. Butler misses 2-pt jump shot from 15 ft,103,105
+4,8:01.0,Defensive rebound by B. Ingram,,103,105
+4,7:52.0,Personal foul by A. Tolliver (drawn by J. McGee),,103,105
+4,7:52.0,K. Kuzma enters the game for L. James,,103,105
+4,7:52.0,,K. Towns enters the game for G. Dieng,103,105
+4,7:37.0,B. Ingram makes 2-pt layup from 1 ft,,105,105
+4,7:19.0,,Personal foul by R. Rondo (drawn by K. Towns),105,105
+4,7:17.0,,Personal foul by B. Ingram (drawn by J. Butler),105,105
+4,7:17.0,J. Hart enters the game for B. Ingram,,105,105
+4,7:05.0,,D. Rose misses 2-pt layup from 4 ft (block by J. McGee),105,105
+4,7:01.0,Defensive rebound by J. McGee,,105,105
+4,6:49.0,R. Rondo makes 2-pt layup from 2 ft,,107,105
+4,6:36.0,,T. Jones makes 3-pt jump shot from 27 ft,107,108
+4,6:24.0,J. Hart misses 3-pt jump shot from 25 ft,,107,108
+4,6:22.0,,Defensive rebound by Team,107,108
+4,6:22.0,,T. Gibson enters the game for T. Jones,107,108
+4,6:22.0,,J. Teague enters the game for A. Tolliver,107,108
+4,6:12.0,,K. Towns misses 3-pt jump shot from 25 ft,107,108
+4,6:08.0,,Offensive rebound by D. Rose,107,108
+4,6:06.0,,J. Butler makes 3-pt jump shot from 25 ft (assist by D. Rose),107,111
+4,6:06.0,LA Lakers full timeout,,107,111
+4,6:06.0,L. James enters the game for L. Ball,,107,111
+4,5:58.0,L. James misses 2-pt jump shot from 22 ft,,107,111
+4,5:54.0,,Defensive rebound by D. Rose,107,111
+4,5:44.0,,J. Butler makes 3-pt jump shot from 25 ft,107,114
+4,5:30.0,K. Kuzma misses 3-pt jump shot from 25 ft,,107,114
+4,5:28.0,,Defensive rebound by K. Towns,107,114
+4,5:28.0,,Personal foul by J. McGee (drawn by K. Towns),107,114
+4,5:28.0,,K. Towns makes free throw 1 of 2,107,115
+4,5:28.0,B. Ingram enters the game for J. Hart,,107,115
+4,5:28.0,,K. Towns makes free throw 2 of 2,107,116
+4,5:13.0,B. Ingram misses 2-pt jump shot from 12 ft,,107,116
+4,5:10.0,Offensive rebound by J. McGee,,107,116
+4,5:07.0,J. McGee makes 2-pt layup from 1 ft,,109,116
+4,4:56.0,,K. Towns makes 3-pt jump shot from 26 ft (assist by J. Butler),109,119
+4,4:38.0,L. James makes 3-pt jump shot from 24 ft,,112,119
+4,4:20.0,,J. Butler misses 2-pt jump shot from 12 ft,112,119
+4,4:20.0,Defensive rebound by Team,,112,119
+4,4:20.0,,Loose ball foul by K. Towns (drawn by K. Kuzma),112,119
+4,4:11.0,Turnover by L. James (bad pass; steal by T. Gibson),,112,119
+4,3:58.0,,K. Towns misses 2-pt jump shot from 19 ft,112,119
+4,3:55.0,,Offensive rebound by T. Gibson,112,119
+4,3:54.0,,T. Gibson misses 2-pt layup from 2 ft (block by B. Ingram),112,119
+4,3:54.0,Defensive rebound by Team,,112,119
+4,3:48.0,L. James misses 2-pt layup from 1 ft,,112,119
+4,3:44.0,Offensive rebound by L. James,,112,119
+4,3:43.0,B. Ingram misses 3-pt jump shot from 24 ft,,112,119
+4,3:41.0,,Defensive rebound by K. Towns,112,119
+4,3:25.0,,J. Butler misses 2-pt jump shot from 22 ft,112,119
+4,3:22.0,,Offensive rebound by T. Gibson,112,119
+4,3:19.0,,J. Teague misses 3-pt jump shot from 27 ft,112,119
+4,3:14.0,Defensive rebound by L. James,,112,119
+4,2:54.0,B. Ingram misses 3-pt jump shot from 24 ft,,112,119
+4,2:52.0,Offensive rebound by K. Kuzma,,112,119
+4,2:52.0,Shooting foul by K. Towns (drawn by K. Kuzma),,112,119
+4,2:52.0,K. Kuzma misses free throw 1 of 2,,112,119
+4,2:52.0,Offensive rebound by Team,,112,119
+4,2:52.0,J. Hart enters the game for J. McGee,,112,119
+4,2:52.0,K. Kuzma makes free throw 2 of 2,,113,119
+4,2:28.0,,J. Teague misses 3-pt jump shot from 26 ft,113,119
+4,2:24.0,Defensive rebound by R. Rondo,,113,119
+4,2:21.0,B. Ingram misses 2-pt layup from 2 ft,,113,119
+4,2:16.0,Offensive rebound by K. Kuzma,,113,119
+4,2:16.0,K. Kuzma makes 2-pt layup at rim,,115,119
+4,1:58.0,,J. Butler misses 2-pt jump shot from 11 ft (block by B. Ingram),115,119
+4,1:55.0,Defensive rebound by L. James,,115,119
+4,1:53.0,B. Ingram misses 2-pt layup from 1 ft (block by J. Butler),,115,119
+4,1:53.0,Offensive rebound by Team,,115,119
+4,1:53.0,LA Lakers full timeout,,115,119
+4,1:43.0,Turnover by L. James (back court),,115,119
+4,1:27.0,,Turnover by D. Rose (traveling),115,119
+4,1:18.0,L. James makes 2-pt layup from 1 ft,,117,119
+4,1:18.0,,Minnesota full timeout,117,119
+4,1:02.0,,K. Towns misses 2-pt hook shot from 7 ft,117,119
+4,0:58.0,Defensive rebound by K. Kuzma,,117,119
+4,0:38.0,K. Kuzma misses 3-pt jump shot from 25 ft (block by T. Gibson),,117,119
+4,0:35.0,,Defensive rebound by J. Butler,117,119
+4,0:19.0,,J. Butler makes 3-pt jump shot from 26 ft,117,122
+4,0:18.0,LA Lakers full timeout,,117,122
+4,0:16.0,L. James misses 3-pt jump shot from 22 ft,,117,122
+4,0:13.0,Offensive rebound by J. Hart,,117,122
+4,0:13.0,J. Hart misses 2-pt layup from 1 ft (block by T. Gibson),,117,122
+4,0:13.0,Offensive rebound by Team,,117,122
+4,0:11.0,J. Hart misses 3-pt jump shot from 24 ft,,117,122
+4,0:08.0,,Defensive rebound by K. Towns,117,122
+4,0:08.0,,Personal take foul by R. Rondo (drawn by K. Towns),117,122
+4,0:08.0,,K. Towns makes free throw 1 of 2,117,123
+4,0:08.0,,K. Towns makes free throw 2 of 2,117,124
+4,0:04.0,B. Ingram makes 3-pt jump shot from 23 ft (assist by R. Rondo),,120,124

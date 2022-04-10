@@ -1,0 +1,445 @@
+QUARTER,TIME_REMAINING,BROOKLYN_ACTION,CLEVELAND_ACTION,BROOKLYN_SCORE,CLEVELAND_SCORE
+1,11:44.0,J. Allen misses 2-pt layup at rim,,0,0
+1,11:42.0,,Defensive rebound by T. Thompson,0,0
+1,11:28.0,,C. Osman makes 2-pt jump shot from 16 ft,0,2
+1,11:14.0,C. LeVert misses 2-pt layup from 3 ft,,0,2
+1,11:11.0,,Defensive rebound by K. Love,0,2
+1,11:01.0,,T. Thompson misses 2-pt layup from 2 ft,0,2
+1,10:59.0,Defensive rebound by J. Dudley,,0,2
+1,10:47.0,D. Russell misses 3-pt jump shot from 23 ft,,0,2
+1,10:44.0,,Defensive rebound by R. Hood,0,2
+1,10:35.0,,R. Hood misses 2-pt jump shot from 11 ft,0,2
+1,10:32.0,Defensive rebound by J. Harris,,0,2
+1,10:20.0,J. Dudley makes 3-pt jump shot from 23 ft (assist by C. LeVert),,3,2
+1,10:00.0,,T. Thompson misses 2-pt jump shot from 13 ft,3,2
+1,9:58.0,,Offensive rebound by T. Thompson,3,2
+1,9:53.0,,G. Hill makes 2-pt jump shot from 17 ft,3,4
+1,9:39.0,D. Russell makes 2-pt jump shot from 15 ft,,5,4
+1,9:39.0,Shooting foul by C. Osman (drawn by D. Russell),,5,4
+1,9:39.0,D. Russell makes free throw 1 of 1,,6,4
+1,9:25.0,,R. Hood makes 2-pt jump shot from 9 ft (assist by T. Thompson),6,6
+1,9:15.0,J. Harris makes 3-pt jump shot from 27 ft (assist by J. Allen),,9,6
+1,9:03.0,,C. Osman misses 2-pt layup from 1 ft,9,6
+1,9:02.0,,Offensive rebound by T. Thompson,9,6
+1,9:00.0,,K. Love makes 3-pt jump shot from 26 ft (assist by T. Thompson),9,9
+1,8:58.0,Brooklyn full timeout,,9,9
+1,8:38.0,D. Russell misses 2-pt jump shot from 20 ft,,9,9
+1,8:35.0,,Defensive rebound by T. Thompson,9,9
+1,8:24.0,,T. Thompson misses 2-pt layup from 2 ft (block by J. Allen),9,9
+1,8:21.0,Defensive rebound by J. Allen,,9,9
+1,8:16.0,,Violation by Team (kicked ball),9,9
+1,8:08.0,J. Allen makes 2-pt dunk from 2 ft (assist by C. LeVert),,11,9
+1,7:52.0,,Turnover by C. Osman (bad pass; steal by J. Allen),11,9
+1,7:44.0,D. Russell misses 2-pt jump shot from 6 ft,,11,9
+1,7:42.0,,Defensive rebound by K. Love,11,9
+1,7:33.0,,G. Hill makes 2-pt jump shot from 15 ft,11,11
+1,7:15.0,J. Harris misses 2-pt jump shot from 13 ft,,11,11
+1,7:12.0,,Defensive rebound by T. Thompson,11,11
+1,7:05.0,,C. Osman misses 3-pt jump shot from 26 ft,11,11
+1,7:03.0,Defensive rebound by C. LeVert,,11,11
+1,6:56.0,C. LeVert misses 2-pt jump shot from 11 ft,,11,11
+1,6:54.0,,Defensive rebound by C. Osman,11,11
+1,6:54.0,,Personal foul by J. Dudley (drawn by C. Osman),11,11
+1,6:52.0,,Personal foul by J. Harris (drawn by R. Hood),11,11
+1,6:49.0,,K. Love misses 2-pt jump shot from 17 ft,11,11
+1,6:44.0,,Offensive rebound by T. Thompson,11,11
+1,6:44.0,,T. Thompson misses 2-pt layup at rim,11,11
+1,6:43.0,Defensive rebound by J. Allen,,11,11
+1,6:33.0,D. Russell makes 2-pt jump shot from 12 ft,,13,11
+1,6:18.0,,R. Hood misses 2-pt jump shot from 9 ft,13,11
+1,6:13.0,,Offensive rebound by R. Hood,13,11
+1,6:13.0,,R. Hood misses 2-pt dunk at rim,13,11
+1,6:12.0,Defensive rebound by J. Allen,,13,11
+1,6:06.0,J. Dudley misses 3-pt jump shot from 25 ft,,13,11
+1,6:04.0,,Defensive rebound by K. Love,13,11
+1,5:56.0,,K. Love misses 3-pt jump shot from 26 ft,13,11
+1,5:53.0,Defensive rebound by J. Allen,,13,11
+1,5:46.0,C. LeVert misses 3-pt jump shot from 26 ft,,13,11
+1,5:43.0,,Defensive rebound by K. Love,13,11
+1,5:40.0,,Turnover by K. Love (bad pass; steal by C. LeVert),13,11
+1,5:33.0,J. Allen makes 2-pt layup at rim (assist by J. Dudley),,15,11
+1,5:33.0,Shooting foul by T. Thompson (drawn by J. Allen),,15,11
+1,5:33.0,A. Crabbe enters the game for J. Dudley,,15,11
+1,5:33.0,R. Hollis-Jefferson enters the game for J. Harris,,15,11
+1,5:33.0,J. Allen misses free throw 1 of 1,,15,11
+1,5:20.0,,Defensive rebound by C. Osman,15,11
+1,5:16.0,,T. Thompson misses 2-pt dunk from 1 ft,15,11
+1,5:13.0,,Offensive rebound by G. Hill,15,11
+1,5:13.0,,G. Hill misses 2-pt layup at rim,15,11
+1,5:12.0,,Offensive rebound by G. Hill,15,11
+1,5:06.0,,Shooting foul by J. Allen (drawn by R. Hood),15,11
+1,5:06.0,,R. Hood makes free throw 1 of 2,15,12
+1,5:06.0,E. Davis enters the game for J. Allen,,15,12
+1,5:06.0,S. Dinwiddie enters the game for D. Russell,,15,12
+1,5:06.0,,R. Hood makes free throw 2 of 2,15,13
+1,4:48.0,R. Hollis-Jefferson misses 2-pt layup from 3 ft (block by K. Love),,15,13
+1,4:45.0,Offensive rebound by E. Davis,,15,13
+1,4:45.0,E. Davis misses 2-pt layup from 1 ft,,15,13
+1,4:45.0,Offensive rebound by E. Davis,,15,13
+1,4:43.0,R. Hollis-Jefferson misses 2-pt layup from 1 ft,,15,13
+1,4:43.0,Offensive rebound by E. Davis,,15,13
+1,4:43.0,E. Davis makes 2-pt layup from 1 ft,,17,13
+1,4:27.0,,C. Osman makes 2-pt jump shot from 16 ft,17,15
+1,4:22.0,A. Crabbe misses 2-pt jump shot from 19 ft,,17,15
+1,4:22.0,,Defensive rebound by K. Love,17,15
+1,4:13.0,,C. Osman misses 2-pt jump shot from 17 ft,17,15
+1,4:10.0,Defensive rebound by E. Davis,,17,15
+1,4:10.0,,K. Korver enters the game for R. Hood,17,15
+1,4:10.0,,L. Nance enters the game for T. Thompson,17,15
+1,3:59.0,C. LeVert makes 2-pt layup from 1 ft,,19,15
+1,3:43.0,,G. Hill misses 3-pt jump shot from 27 ft,19,15
+1,3:43.0,Defensive rebound by Team,,19,15
+1,3:43.0,,C. Sexton enters the game for G. Hill,19,15
+1,3:26.0,C. LeVert misses 2-pt jump shot from 18 ft,,19,15
+1,3:23.0,,Defensive rebound by K. Love,19,15
+1,3:12.0,,Shooting foul by A. Crabbe (drawn by K. Love),19,15
+1,3:12.0,,K. Love makes free throw 1 of 2,19,16
+1,3:12.0,S. Napier enters the game for C. LeVert,,19,16
+1,3:12.0,,J. Clarkson enters the game for C. Osman,19,16
+1,3:12.0,,K. Love makes free throw 2 of 2,19,17
+1,2:56.0,Turnover by A. Crabbe (bad pass),,19,17
+1,2:56.0,,Cleveland full timeout,19,17
+1,2:56.0,,J. Smith enters the game for K. Love,19,17
+1,2:45.0,,Turnover by C. Sexton (palming),19,17
+1,2:37.0,A. Crabbe misses 3-pt jump shot from 28 ft,,19,17
+1,2:33.0,,Defensive rebound by J. Smith,19,17
+1,2:23.0,,C. Sexton misses 3-pt jump shot from 27 ft,19,17
+1,2:20.0,Defensive rebound by S. Dinwiddie,,19,17
+1,2:16.0,S. Dinwiddie misses 3-pt jump shot from 27 ft,,19,17
+1,2:12.0,Offensive rebound by E. Davis,,19,17
+1,2:04.0,Personal foul by J. Clarkson (drawn by R. Hollis-Jefferson),,19,17
+1,1:49.0,S. Napier misses 3-pt jump shot from 29 ft,,19,17
+1,1:45.0,,Defensive rebound by L. Nance,19,17
+1,1:36.0,,L. Nance misses 2-pt jump shot from 8 ft,19,17
+1,1:34.0,,Offensive rebound by J. Clarkson,19,17
+1,1:33.0,,J. Clarkson misses 2-pt layup from 1 ft,19,17
+1,1:31.0,Defensive rebound by R. Hollis-Jefferson,,19,17
+1,1:16.0,Personal foul by J. Smith (drawn by R. Hollis-Jefferson),,19,17
+1,1:02.0,E. Davis makes 2-pt layup from 1 ft,,21,17
+1,0:54.0,,J. Clarkson misses 3-pt jump shot from 23 ft,21,17
+1,0:52.0,Defensive rebound by E. Davis,,21,17
+1,0:48.0,Turnover by S. Dinwiddie (traveling),,21,17
+1,0:40.0,,J. Smith misses 3-pt jump shot from 26 ft,21,17
+1,0:37.0,Defensive rebound by E. Davis,,21,17
+1,0:32.0,S. Dinwiddie makes 3-pt jump shot from 26 ft,,24,17
+1,0:13.0,,Turnover by J. Clarkson (palming),24,17
+1,0:00.0,S. Napier misses 3-pt jump shot from 26 ft,,24,17
+1,0:00.0,,Defensive rebound by L. Nance,24,17
+2,11:52.0,,Turnover by K. Korver (bad pass; steal by S. Napier),24,17
+2,11:41.0,Turnover by S. Napier (out of bounds lost ball),,24,17
+2,11:26.0,,K. Korver makes 2-pt jump shot from 13 ft (assist by L. Nance),24,19
+2,11:07.0,Turnover by S. Dinwiddie (bad pass; steal by K. Korver),,24,19
+2,10:59.0,,J. Smith makes 2-pt jump shot from 5 ft (assist by K. Korver),24,21
+2,10:44.0,S. Napier misses 2-pt jump shot from 20 ft,,24,21
+2,10:41.0,,Defensive rebound by K. Korver,24,21
+2,10:33.0,,C. Sexton makes 2-pt layup from 1 ft (assist by K. Korver),24,23
+2,10:19.0,A. Crabbe misses 2-pt jump shot from 16 ft,,24,23
+2,10:19.0,Offensive rebound by Team,,24,23
+2,10:19.0,,Loose ball foul by K. Korver (drawn by E. Davis),24,23
+2,10:07.0,J. Harris misses 2-pt layup at rim,,24,23
+2,10:04.0,Offensive rebound by J. Harris,,24,23
+2,10:03.0,Turnover by J. Harris (lost ball; steal by L. Nance),,24,23
+2,9:53.0,,Turnover by L. Nance (bad pass; steal by J. Harris),24,23
+2,9:42.0,J. Harris makes 3-pt jump shot from 23 ft (assist by A. Crabbe),,27,23
+2,9:28.0,,L. Nance misses 3-pt jump shot from 26 ft,27,23
+2,9:26.0,Defensive rebound by E. Davis,,27,23
+2,9:17.0,S. Napier makes 3-pt jump shot from 27 ft,,30,23
+2,9:16.0,,Cleveland full timeout,30,23
+2,9:16.0,J. Dudley enters the game for S. Napier,,30,23
+2,9:06.0,,J. Clarkson misses 2-pt jump shot from 20 ft,30,23
+2,9:02.0,Defensive rebound by A. Crabbe,,30,23
+2,8:56.0,A. Crabbe misses 3-pt jump shot from 28 ft,,30,23
+2,8:53.0,,Defensive rebound by J. Clarkson,30,23
+2,8:51.0,,Turnover by J. Clarkson (traveling),30,23
+2,8:39.0,Turnover by S. Dinwiddie (bad pass),,30,23
+2,8:19.0,,Shooting foul by J. Harris (drawn by J. Clarkson),30,23
+2,8:19.0,,J. Clarkson makes free throw 1 of 2,30,24
+2,8:19.0,,J. Clarkson makes free throw 2 of 2,30,25
+2,7:58.0,A. Crabbe misses 2-pt jump shot from 17 ft,,30,25
+2,7:56.0,,Defensive rebound by L. Nance,30,25
+2,7:52.0,,Shooting foul by A. Crabbe (drawn by J. Clarkson),30,25
+2,7:52.0,,J. Clarkson makes free throw 1 of 2,30,26
+2,7:52.0,J. Allen enters the game for A. Crabbe,,30,26
+2,7:52.0,C. LeVert enters the game for E. Davis,,30,26
+2,7:52.0,D. Russell enters the game for S. Dinwiddie,,30,26
+2,7:52.0,,G. Hill enters the game for K. Korver,30,26
+2,7:52.0,,K. Love enters the game for L. Nance,30,26
+2,7:52.0,,C. Osman enters the game for C. Sexton,30,26
+2,7:52.0,,T. Thompson enters the game for J. Smith,30,26
+2,7:52.0,,J. Clarkson makes free throw 2 of 2,30,27
+2,7:41.0,J. Allen misses 2-pt hook shot from 10 ft,,30,27
+2,7:38.0,,Defensive rebound by K. Love,30,27
+2,7:26.0,,J. Clarkson misses 2-pt layup from 3 ft,30,27
+2,7:23.0,,Offensive rebound by T. Thompson,30,27
+2,7:23.0,,T. Thompson misses 2-pt layup at rim,30,27
+2,7:22.0,Defensive rebound by C. LeVert,,30,27
+2,7:19.0,Turnover by J. Harris (lost ball; steal by C. Osman),,30,27
+2,7:13.0,,C. Osman makes 2-pt dunk from 1 ft,30,29
+2,6:59.0,D. Russell misses 2-pt layup from 2 ft,,30,29
+2,6:56.0,,Defensive rebound by C. Osman,30,29
+2,6:45.0,,Turnover by J. Clarkson (bad pass),30,29
+2,6:45.0,,R. Hood enters the game for J. Clarkson,30,29
+2,6:38.0,Personal foul by K. Love (drawn by J. Allen),,30,29
+2,6:28.0,J. Allen misses 2-pt layup from 2 ft,,30,29
+2,6:28.0,,Defensive rebound by Team,30,29
+2,6:12.0,,K. Love makes 2-pt layup from 1 ft (assist by T. Thompson),30,31
+2,5:44.0,J. Harris makes 3-pt jump shot from 26 ft (assist by D. Russell),,33,31
+2,5:27.0,,K. Love misses 2-pt jump shot from 21 ft,33,31
+2,5:25.0,,Offensive rebound by C. Osman,33,31
+2,5:14.0,,C. Osman misses 3-pt jump shot from 25 ft,33,31
+2,5:12.0,,Offensive rebound by T. Thompson,33,31
+2,5:09.0,,K. Love makes 3-pt jump shot from 24 ft (assist by T. Thompson),33,34
+2,5:08.0,Brooklyn full timeout,,33,34
+2,4:54.0,Personal foul by C. Osman (drawn by J. Harris),,33,34
+2,4:46.0,D. Russell makes 2-pt layup from 2 ft,,35,34
+2,4:32.0,,R. Hood makes 2-pt jump shot from 17 ft,35,36
+2,4:23.0,C. LeVert misses 2-pt layup from 1 ft,,35,36
+2,4:21.0,,Defensive rebound by C. Osman,35,36
+2,4:13.0,,R. Hood misses 2-pt jump shot from 7 ft,35,36
+2,4:11.0,Defensive rebound by C. LeVert,,35,36
+2,4:07.0,C. LeVert misses 3-pt jump shot from 25 ft,,35,36
+2,4:04.0,,Defensive rebound by C. Osman,35,36
+2,3:59.0,,C. Osman misses 2-pt layup from 1 ft,35,36
+2,3:56.0,Defensive rebound by C. LeVert,,35,36
+2,3:51.0,J. Allen makes 2-pt layup from 1 ft (assist by D. Russell),,37,36
+2,3:36.0,,Personal foul by D. Russell (drawn by K. Love),37,36
+2,3:36.0,S. Dinwiddie enters the game for J. Dudley,,37,36
+2,3:36.0,R. Hollis-Jefferson enters the game for J. Harris,,37,36
+2,3:31.0,,C. Osman makes 2-pt layup from 2 ft (assist by K. Love),37,38
+2,3:16.0,D. Russell misses 2-pt jump shot from 12 ft,,37,38
+2,3:13.0,,Defensive rebound by K. Love,37,38
+2,3:08.0,,C. Osman misses 2-pt layup from 1 ft,37,38
+2,3:08.0,,Offensive rebound by T. Thompson,37,38
+2,3:04.0,,T. Thompson makes 2-pt layup at rim,37,40
+2,2:58.0,D. Russell makes 3-pt jump shot from 23 ft (assist by S. Dinwiddie),,40,40
+2,2:38.0,,T. Thompson misses 2-pt jump shot from 9 ft,40,40
+2,2:38.0,Defensive rebound by J. Allen,,40,40
+2,2:21.0,D. Russell misses 3-pt jump shot from 23 ft,,40,40
+2,2:19.0,,Defensive rebound by K. Love,40,40
+2,2:03.0,,K. Love misses 3-pt jump shot from 26 ft,40,40
+2,2:01.0,Defensive rebound by C. LeVert,,40,40
+2,1:54.0,Turnover by C. LeVert (traveling),,40,40
+2,1:54.0,,J. Clarkson enters the game for C. Osman,40,40
+2,1:36.0,,G. Hill makes 3-pt jump shot from 23 ft (assist by K. Love),40,43
+2,1:18.0,Personal foul by G. Hill (drawn by D. Russell),,40,43
+2,1:11.0,Shooting foul by G. Hill (drawn by D. Russell),,40,43
+2,1:11.0,D. Russell makes free throw 1 of 2,,41,43
+2,1:11.0,,C. Sexton enters the game for G. Hill,41,43
+2,1:11.0,D. Russell makes free throw 2 of 2,,42,43
+2,0:54.0,,R. Hood misses 2-pt jump shot from 19 ft,42,43
+2,0:52.0,,Offensive rebound by R. Hood,42,43
+2,0:48.0,,T. Thompson misses 2-pt hook shot from 11 ft,42,43
+2,0:46.0,Defensive rebound by R. Hollis-Jefferson,,42,43
+2,0:38.0,Shooting foul by C. Sexton (drawn by D. Russell),,42,43
+2,0:38.0,D. Russell makes free throw 1 of 3,,43,43
+2,0:38.0,D. Russell makes free throw 2 of 3,,44,43
+2,0:38.0,D. Russell makes free throw 3 of 3,,45,43
+2,0:30.0,,J. Clarkson makes 2-pt jump shot from 16 ft,45,45
+2,0:08.0,J. Allen misses 2-pt layup from 1 ft,,45,45
+2,0:06.0,,Defensive rebound by J. Clarkson,45,45
+2,0:00.0,,J. Clarkson misses 2-pt jump shot from 12 ft,45,45
+2,0:00.0,,Offensive rebound by Team,45,45
+3,11:46.0,,G. Hill misses 3-pt jump shot from 27 ft,45,45
+3,11:42.0,Defensive rebound by J. Harris,,45,45
+3,11:28.0,J. Harris makes 2-pt layup from 2 ft (assist by D. Russell),,47,45
+3,11:13.0,,R. Hood makes 2-pt jump shot from 16 ft,47,47
+3,11:02.0,J. Harris makes 3-pt jump shot from 26 ft (assist by D. Russell),,50,47
+3,10:55.0,,Cleveland full timeout,50,47
+3,10:42.0,,C. Osman misses 2-pt layup from 1 ft,50,47
+3,10:40.0,Defensive rebound by J. Harris,,50,47
+3,10:28.0,Offensive foul by C. LeVert (drawn by K. Love),,50,47
+3,10:28.0,Turnover by C. LeVert (offensive foul),,50,47
+3,10:07.0,,R. Hood makes 2-pt jump shot from 16 ft,50,49
+3,9:55.0,J. Allen makes 2-pt dunk from 2 ft (assist by D. Russell),,52,49
+3,9:49.0,,Turnover by G. Hill (bad pass; steal by J. Dudley),52,49
+3,9:48.0,Personal foul by R. Hood (drawn by C. LeVert),,52,49
+3,9:38.0,J. Dudley makes 3-pt jump shot from 30 ft (assist by J. Harris),,55,49
+3,9:20.0,,Personal foul by D. Russell (drawn by T. Thompson),55,49
+3,9:15.0,,G. Hill misses 2-pt jump shot from 20 ft,55,49
+3,9:11.0,Defensive rebound by C. LeVert,,55,49
+3,9:04.0,D. Russell makes 3-pt jump shot from 27 ft (assist by C. LeVert),,58,49
+3,8:41.0,,C. Osman misses 2-pt jump shot from 12 ft,58,49
+3,8:39.0,,Offensive rebound by T. Thompson,58,49
+3,8:36.0,,Turnover by T. Thompson (bad pass),58,49
+3,8:23.0,D. Russell misses 3-pt jump shot from 28 ft,,58,49
+3,8:21.0,Offensive rebound by Team,,58,49
+3,8:21.0,,Loose ball foul by K. Love (drawn by J. Dudley),58,49
+3,8:07.0,C. LeVert makes 2-pt layup from 1 ft,,60,49
+3,8:07.0,,Cleveland full timeout,60,49
+3,8:07.0,,L. Nance enters the game for T. Thompson,60,49
+3,7:47.0,,R. Hood misses 2-pt jump shot from 17 ft,60,49
+3,7:44.0,Defensive rebound by Team,,60,49
+3,7:23.0,J. Dudley makes 3-pt jump shot from 24 ft (assist by J. Allen),,63,49
+3,7:03.0,,Turnover by C. Osman (step out of bounds),63,49
+3,6:52.0,J. Harris makes 2-pt layup from 2 ft (assist by D. Russell),,65,49
+3,6:39.0,,Def 3 sec tech foul by Team,65,49
+3,6:39.0,,K. Love makes technical free throw,65,50
+3,6:39.0,,K. Korver enters the game for G. Hill,65,50
+3,6:39.0,,C. Sexton enters the game for C. Osman,65,50
+3,6:23.0,,L. Nance misses 2-pt jump shot from 11 ft,65,50
+3,6:21.0,Defensive rebound by J. Allen,,65,50
+3,6:12.0,J. Dudley makes 3-pt jump shot from 24 ft (assist by D. Russell),,68,50
+3,6:10.0,,Cleveland full timeout,68,50
+3,5:52.0,,L. Nance makes 2-pt hook shot from 7 ft (assist by K. Korver),68,52
+3,5:34.0,C. LeVert makes 2-pt layup from 3 ft (assist by J. Allen),,70,52
+3,5:27.0,,C. Sexton misses 2-pt jump shot from 19 ft,70,52
+3,5:24.0,Defensive rebound by J. Allen,,70,52
+3,5:01.0,C. LeVert makes 2-pt jump shot from 10 ft,,72,52
+3,4:46.0,,C. Sexton makes 2-pt jump shot from 17 ft,72,54
+3,4:23.0,,Loose ball foul by R. Hood (drawn by J. Dudley),72,54
+3,4:23.0,Brooklyn full timeout,,72,54
+3,4:23.0,A. Crabbe enters the game for J. Dudley,,72,54
+3,4:23.0,R. Hollis-Jefferson enters the game for J. Harris,,72,54
+3,4:23.0,,J. Clarkson enters the game for R. Hood,72,54
+3,4:23.0,,J. Smith enters the game for K. Love,72,54
+3,4:17.0,D. Russell misses 3-pt jump shot from 27 ft,,72,54
+3,4:13.0,,Defensive rebound by C. Sexton,72,54
+3,3:57.0,,J. Clarkson misses 2-pt layup from 1 ft,72,54
+3,3:49.0,,Offensive rebound by J. Clarkson,72,54
+3,3:49.0,,J. Clarkson makes 2-pt layup from 1 ft,72,56
+3,3:29.0,R. Hollis-Jefferson makes 2-pt layup from 1 ft (assist by C. LeVert),,74,56
+3,3:09.0,,L. Nance misses 2-pt jump shot from 17 ft,74,56
+3,3:07.0,Defensive rebound by R. Hollis-Jefferson,,74,56
+3,2:59.0,R. Hollis-Jefferson misses 2-pt jump shot from 12 ft,,74,56
+3,2:52.0,Offensive rebound by J. Allen,,74,56
+3,2:52.0,J. Allen makes 2-pt dunk at rim,,76,56
+3,2:32.0,,J. Clarkson makes 2-pt jump shot from 14 ft (assist by L. Nance),76,58
+3,2:13.0,D. Russell misses 3-pt jump shot from 27 ft,,76,58
+3,2:10.0,,Defensive rebound by L. Nance,76,58
+3,2:03.0,,Turnover by L. Nance (bad pass; steal by R. Hollis-Jefferson),76,58
+3,2:00.0,R. Hollis-Jefferson makes 2-pt layup from 2 ft,,78,58
+3,1:47.0,,C. Sexton misses 2-pt jump shot from 23 ft,78,58
+3,1:45.0,Defensive rebound by R. Hollis-Jefferson,,78,58
+3,1:33.0,R. Hollis-Jefferson misses 3-pt jump shot from 26 ft,,78,58
+3,1:31.0,,Defensive rebound by L. Nance,78,58
+3,1:25.0,,C. Sexton makes 2-pt layup from 1 ft (assist by J. Clarkson),78,60
+3,1:09.0,R. Hollis-Jefferson makes 2-pt layup from 1 ft (assist by D. Russell),,80,60
+3,1:08.0,,Cleveland full timeout,80,60
+3,1:08.0,E. Davis enters the game for J. Allen,,80,60
+3,1:08.0,S. Dinwiddie enters the game for C. LeVert,,80,60
+3,1:08.0,S. Napier enters the game for D. Russell,,80,60
+3,0:58.0,,Shooting foul by S. Dinwiddie (drawn by J. Clarkson),80,60
+3,0:58.0,,J. Clarkson makes free throw 1 of 2,80,61
+3,0:58.0,,J. Clarkson makes free throw 2 of 2,80,62
+3,0:38.0,A. Crabbe misses 2-pt jump shot from 21 ft,,80,62
+3,0:35.0,,Defensive rebound by C. Sexton,80,62
+3,0:12.0,,J. Clarkson misses 3-pt jump shot from 25 ft,80,62
+3,0:09.0,Defensive rebound by R. Hollis-Jefferson,,80,62
+3,0:01.0,S. Napier makes 3-pt jump shot from 27 ft,,83,62
+4,11:37.0,E. Davis misses 2-pt layup from 2 ft,,83,62
+4,11:37.0,Offensive rebound by Team,,83,62
+4,11:35.0,Personal foul by J. Smith (drawn by R. Hollis-Jefferson),,83,62
+4,11:29.0,E. Davis makes 2-pt layup from 1 ft (assist by A. Crabbe),,85,62
+4,11:09.0,,Shooting foul by E. Davis (drawn by C. Sexton),85,62
+4,11:09.0,,C. Sexton makes free throw 1 of 2,85,63
+4,11:09.0,,C. Sexton makes free throw 2 of 2,85,64
+4,10:59.0,Shooting foul by C. Sexton (drawn by S. Napier),,85,64
+4,10:59.0,S. Napier makes free throw 1 of 2,,86,64
+4,10:59.0,S. Napier makes free throw 2 of 2,,87,64
+4,10:53.0,,Personal foul by A. Crabbe (drawn by K. Korver),87,64
+4,10:44.0,,J. Smith makes 2-pt jump shot from 22 ft (assist by L. Nance),87,66
+4,10:34.0,Turnover by E. Davis (bad pass; steal by J. Smith),,87,66
+4,10:29.0,,L. Nance makes 2-pt dunk from 1 ft (assist by C. Sexton),87,68
+4,10:14.0,Shooting foul by L. Nance (drawn by R. Hollis-Jefferson),,87,68
+4,10:14.0,R. Hollis-Jefferson misses free throw 1 of 2,,87,68
+4,10:14.0,Offensive rebound by Team,,87,68
+4,10:14.0,R. Hollis-Jefferson makes free throw 2 of 2,,88,68
+4,10:03.0,,C. Sexton misses 2-pt jump shot from 16 ft,88,68
+4,9:59.0,Defensive rebound by R. Hollis-Jefferson,,88,68
+4,9:54.0,Turnover by R. Hollis-Jefferson (lost ball; steal by L. Nance),,88,68
+4,9:52.0,,C. Sexton makes 2-pt layup from 1 ft (assist by L. Nance),88,70
+4,9:36.0,,Loose ball foul by L. Nance (drawn by S. Napier),88,70
+4,9:21.0,R. Hollis-Jefferson misses 2-pt layup from 2 ft,,88,70
+4,9:20.0,Offensive rebound by E. Davis,,88,70
+4,9:20.0,Shooting foul by K. Korver (drawn by E. Davis),,88,70
+4,9:20.0,E. Davis makes free throw 1 of 2,,89,70
+4,9:20.0,E. Davis makes free throw 2 of 2,,90,70
+4,9:08.0,,K. Korver misses 2-pt jump shot from 17 ft,90,70
+4,9:06.0,Defensive rebound by R. Hollis-Jefferson,,90,70
+4,8:56.0,S. Dinwiddie makes 2-pt jump shot from 11 ft (assist by S. Napier),,92,70
+4,8:41.0,,J. Clarkson misses 2-pt jump shot from 17 ft,92,70
+4,8:37.0,,Offensive rebound by L. Nance,92,70
+4,8:37.0,,L. Nance misses 2-pt layup from 1 ft,92,70
+4,8:36.0,Defensive rebound by S. Dinwiddie,,92,70
+4,8:31.0,R. Hollis-Jefferson misses 2-pt layup from 3 ft,,92,70
+4,8:29.0,,Defensive rebound by C. Sexton,92,70
+4,8:26.0,,J. Clarkson misses 3-pt jump shot from 25 ft,92,70
+4,8:26.0,Defensive rebound by S. Dinwiddie,,92,70
+4,8:18.0,A. Crabbe misses 3-pt jump shot from 23 ft,,92,70
+4,8:17.0,,Defensive rebound by Team,92,70
+4,8:17.0,J. Dudley enters the game for R. Hollis-Jefferson,,92,70
+4,7:59.0,,J. Smith makes 2-pt layup from 1 ft,92,72
+4,7:59.0,,Shooting foul by J. Dudley (drawn by J. Smith),92,72
+4,7:59.0,J. Harris enters the game for A. Crabbe,,92,72
+4,7:59.0,C. LeVert enters the game for S. Napier,,92,72
+4,7:59.0,,G. Hill enters the game for J. Clarkson,92,72
+4,7:59.0,,K. Love enters the game for K. Korver,92,72
+4,7:59.0,,C. Osman enters the game for L. Nance,92,72
+4,7:59.0,,T. Thompson enters the game for C. Sexton,92,72
+4,7:59.0,,J. Smith makes free throw 1 of 1,92,73
+4,7:40.0,S. Dinwiddie misses 3-pt jump shot from 30 ft,,92,73
+4,7:35.0,Offensive rebound by E. Davis,,92,73
+4,7:27.0,S. Dinwiddie makes 3-pt jump shot from 28 ft,,95,73
+4,7:17.0,,Personal foul by J. Dudley (drawn by K. Love),95,73
+4,7:09.0,,J. Smith misses 2-pt jump shot from 18 ft,95,73
+4,7:07.0,Defensive rebound by J. Harris,,95,73
+4,6:49.0,S. Dinwiddie misses 3-pt jump shot from 29 ft,,95,73
+4,6:46.0,,Defensive rebound by T. Thompson,95,73
+4,6:38.0,,K. Love makes 2-pt jump shot from 15 ft,95,75
+4,6:19.0,J. Harris misses 3-pt jump shot from 27 ft,,95,75
+4,6:17.0,,Defensive rebound by K. Love,95,75
+4,6:01.0,,T. Thompson misses 2-pt jump shot from 9 ft,95,75
+4,5:58.0,Defensive rebound by J. Harris,,95,75
+4,5:40.0,E. Davis makes 2-pt layup from 1 ft (assist by J. Harris),,97,75
+4,5:21.0,,Shooting foul by J. Harris (drawn by K. Love),97,75
+4,5:21.0,,Cleveland full timeout,97,75
+4,5:21.0,J. Allen enters the game for E. Davis,,97,75
+4,5:21.0,D. Russell enters the game for S. Dinwiddie,,97,75
+4,5:21.0,,C. Sexton enters the game for J. Smith,97,75
+4,5:21.0,,K. Love misses free throw 1 of 2,97,75
+4,5:21.0,,Offensive rebound by Team,97,75
+4,5:21.0,,K. Love makes free throw 2 of 2,97,76
+4,4:55.0,C. LeVert makes 2-pt jump shot from 1 ft,,99,76
+4,4:42.0,,G. Hill misses 3-pt jump shot from 24 ft,99,76
+4,4:40.0,,Offensive rebound by G. Hill,99,76
+4,4:37.0,,K. Love misses 3-pt jump shot from 23 ft,99,76
+4,4:34.0,Defensive rebound by D. Russell,,99,76
+4,4:13.0,C. LeVert misses 2-pt jump shot from 21 ft,,99,76
+4,4:10.0,,Defensive rebound by K. Love,99,76
+4,4:02.0,,Turnover by C. Sexton (step out of bounds),99,76
+4,4:02.0,,A. Žižić enters the game for T. Thompson,99,76
+4,3:50.0,Offensive foul by D. Russell (drawn by C. Sexton),,99,76
+4,3:50.0,Turnover by D. Russell (offensive foul),,99,76
+4,3:50.0,Brooklyn full timeout,,99,76
+4,3:50.0,K. Faried enters the game for J. Allen,,99,76
+4,3:50.0,R. Hollis-Jefferson enters the game for J. Dudley,,99,76
+4,3:50.0,D. Musa enters the game for J. Harris,,99,76
+4,3:50.0,S. Napier enters the game for C. LeVert,,99,76
+4,3:50.0,T. Pinson enters the game for D. Russell,,99,76
+4,3:50.0,,J. Clarkson enters the game for G. Hill,99,76
+4,3:50.0,,S. Dekker enters the game for K. Love,99,76
+4,3:50.0,,D. Nwaba enters the game for C. Osman,99,76
+4,3:31.0,,Turnover by J. Clarkson (bad pass; steal by D. Musa),99,76
+4,3:15.0,R. Hollis-Jefferson misses 3-pt jump shot from 23 ft,,99,76
+4,3:12.0,,Defensive rebound by A. Žižić,99,76
+4,3:04.0,,C. Sexton makes 2-pt jump shot from 22 ft,99,78
+4,2:50.0,Personal foul by D. Nwaba (drawn by R. Hollis-Jefferson),,99,78
+4,2:50.0,R. Hollis-Jefferson makes free throw 1 of 2,,100,78
+4,2:50.0,R. Hollis-Jefferson misses free throw 2 of 2,,100,78
+4,2:48.0,,Defensive rebound by A. Žižić,100,78
+4,2:37.0,,J. Clarkson makes 2-pt layup at rim (assist by D. Nwaba),100,80
+4,2:15.0,K. Faried misses 2-pt dunk from 1 ft,,100,80
+4,2:13.0,,Defensive rebound by J. Clarkson,100,80
+4,2:07.0,,S. Dekker makes 2-pt layup from 1 ft (assist by J. Clarkson),100,82
+4,1:45.0,D. Musa makes 2-pt layup at rim (assist by T. Pinson),,102,82
+4,1:38.0,,S. Dekker makes 2-pt dunk from 1 ft (assist by J. Clarkson),102,84
+4,1:17.0,Turnover by S. Napier (bad pass),,102,84
+4,1:07.0,,Turnover by A. Žižić (lost ball; steal by S. Napier),102,84
+4,1:04.0,D. Musa misses 2-pt layup from 3 ft (block by D. Nwaba),,102,84
+4,1:04.0,Offensive rebound by Team,,102,84
+4,0:58.0,S. Napier misses 3-pt jump shot from 26 ft,,102,84
+4,0:52.0,,Defensive rebound by S. Dekker,102,84
+4,0:45.0,,J. Clarkson misses 3-pt jump shot from 25 ft,102,84
+4,0:42.0,Defensive rebound by R. Hollis-Jefferson,,102,84
+4,0:31.0,Turnover by D. Musa (out of bounds lost ball),,102,84
+4,0:20.0,,C. Sexton makes 2-pt jump shot from 23 ft,102,86

@@ -1,0 +1,427 @@
+QUARTER,TIME_REMAINING,PORTLAND_ACTION,DENVER_ACTION,PORTLAND_SCORE,DENVER_SCORE
+1,11:43.0,J. Layman makes 2-pt dunk from 1 ft (assist by J. Nurkić),,2,0
+1,11:32.0,,Personal foul by J. Nurkić (drawn by N. Jokić),2,0
+1,11:24.0,,Turnover by J. Murray (bad pass; steal by A. Aminu),2,0
+1,11:16.0,D. Lillard makes 3-pt jump shot from 26 ft,,5,0
+1,10:57.0,,N. Jokić makes 2-pt layup from 2 ft,5,2
+1,10:35.0,A. Aminu misses 3-pt jump shot from 25 ft,,5,2
+1,10:33.0,,Defensive rebound by P. Millsap,5,2
+1,10:11.0,,N. Jokić misses 2-pt hook shot from 5 ft,5,2
+1,10:10.0,,Offensive rebound by N. Jokić,5,2
+1,10:09.0,,N. Jokić makes 2-pt layup from 2 ft,5,4
+1,9:47.0,Shooting foul by P. Millsap (drawn by J. Nurkić),,5,4
+1,9:47.0,J. Nurkić makes free throw 1 of 2,,6,4
+1,9:47.0,J. Nurkić makes free throw 2 of 2,,7,4
+1,9:31.0,,N. Jokić misses 3-pt jump shot from 25 ft,7,4
+1,9:28.0,Defensive rebound by J. Nurkić,,7,4
+1,9:19.0,C. McCollum misses 3-pt jump shot from 25 ft,,7,4
+1,9:16.0,,Defensive rebound by T. Craig,7,4
+1,9:02.0,,N. Jokić makes 2-pt hook shot from 3 ft,7,6
+1,8:44.0,Turnover by A. Aminu (bad pass; steal by M. Beasley),,7,6
+1,8:34.0,,N. Jokić misses 2-pt jump shot from 5 ft,7,6
+1,8:30.0,Defensive rebound by A. Aminu,,7,6
+1,8:25.0,C. McCollum makes 2-pt jump shot from 8 ft,,9,6
+1,8:03.0,,P. Millsap makes 2-pt jump shot from 12 ft,9,8
+1,7:47.0,D. Lillard makes 3-pt jump shot from 30 ft (assist by C. McCollum),,12,8
+1,7:29.0,,T. Craig misses 2-pt layup from 3 ft,12,8
+1,7:28.0,Defensive rebound by A. Aminu,,12,8
+1,7:22.0,D. Lillard misses 3-pt jump shot from 26 ft,,12,8
+1,7:19.0,,Defensive rebound by J. Murray,12,8
+1,7:15.0,,T. Craig misses 3-pt jump shot from 22 ft,12,8
+1,7:12.0,Defensive rebound by C. McCollum,,12,8
+1,7:03.0,J. Nurkić makes 2-pt jump shot from 7 ft (assist by C. McCollum),,14,8
+1,6:46.0,,N. Jokić misses 3-pt jump shot from 25 ft,14,8
+1,6:44.0,Defensive rebound by A. Aminu,,14,8
+1,6:37.0,J. Layman makes 3-pt jump shot from 25 ft,,17,8
+1,6:35.0,,Denver full timeout,17,8
+1,6:18.0,,Turnover by P. Millsap (lost ball; steal by J. Nurkić),17,8
+1,6:12.0,Offensive foul by J. Nurkić (drawn by P. Millsap),,17,8
+1,6:12.0,Turnover by J. Nurkić (offensive foul),,17,8
+1,6:01.0,,J. Murray makes 2-pt jump shot from 10 ft (assist by T. Craig),17,10
+1,5:42.0,A. Aminu misses 3-pt jump shot from 23 ft,,17,10
+1,5:41.0,,Defensive rebound by P. Millsap,17,10
+1,5:36.0,,P. Millsap makes 2-pt jump shot from 11 ft,17,12
+1,5:36.0,,Shooting foul by J. Layman (drawn by P. Millsap),17,12
+1,5:36.0,M. Leonard enters the game for J. Layman,,17,12
+1,5:36.0,E. Turner enters the game for J. Nurkić,,17,12
+1,5:36.0,,P. Millsap makes free throw 1 of 1,17,13
+1,5:26.0,Def 3 sec tech foul by Team,,17,13
+1,5:26.0,D. Lillard makes technical free throw,,18,13
+1,5:26.0,,M. Plumlee enters the game for P. Millsap,18,13
+1,5:19.0,C. McCollum misses 2-pt jump shot from 7 ft,,18,13
+1,5:16.0,,Defensive rebound by N. Jokić,18,13
+1,5:12.0,,M. Beasley makes 3-pt jump shot from 22 ft (assist by T. Craig),18,16
+1,4:52.0,M. Leonard makes 3-pt jump shot from 26 ft (assist by D. Lillard),,21,16
+1,4:37.0,,M. Plumlee misses 2-pt hook shot from 7 ft,21,16
+1,4:35.0,Defensive rebound by M. Leonard,,21,16
+1,4:27.0,D. Lillard makes 2-pt jump shot from 13 ft,,23,16
+1,4:08.0,,N. Jokić makes 2-pt hook shot from 5 ft,23,18
+1,3:55.0,C. McCollum misses 3-pt jump shot from 26 ft,,23,18
+1,3:53.0,,Defensive rebound by M. Plumlee,23,18
+1,3:42.0,,Turnover by T. Craig (discontinued dribble),23,18
+1,3:28.0,D. Lillard misses 3-pt jump shot from 26 ft,,23,18
+1,3:25.0,,Defensive rebound by N. Jokić,23,18
+1,3:22.0,,T. Craig makes 2-pt layup from 3 ft (assist by N. Jokić),23,20
+1,3:22.0,,Shooting foul by E. Turner (drawn by T. Craig),23,20
+1,3:22.0,Portland full timeout,,23,20
+1,3:22.0,S. Curry enters the game for C. McCollum,,23,20
+1,3:22.0,,M. Morris enters the game for J. Murray,23,20
+1,3:22.0,,T. Craig makes free throw 1 of 1,23,21
+1,3:13.0,D. Lillard misses 2-pt jump shot from 19 ft,,23,21
+1,3:10.0,,Defensive rebound by N. Jokić,23,21
+1,3:01.0,,M. Beasley misses 3-pt jump shot from 24 ft,23,21
+1,2:58.0,Defensive rebound by S. Curry,,23,21
+1,2:47.0,E. Turner makes 2-pt jump shot from 10 ft,,25,21
+1,2:32.0,,N. Jokić makes 2-pt jump shot from 10 ft (assist by M. Beasley),25,23
+1,2:13.0,Turnover by D. Lillard (lost ball; steal by M. Morris),,25,23
+1,2:09.0,,M. Morris makes 2-pt layup from 1 ft,25,25
+1,1:47.0,S. Curry misses 2-pt jump shot from 19 ft,,25,25
+1,1:43.0,,Defensive rebound by M. Plumlee,25,25
+1,1:37.0,,N. Jokić makes 3-pt jump shot from 25 ft (assist by M. Morris),25,28
+1,1:17.0,Personal foul by N. Jokić (drawn by D. Lillard),,25,28
+1,1:17.0,Z. Collins enters the game for A. Aminu,,25,28
+1,1:17.0,,W. Barton enters the game for M. Beasley,25,28
+1,1:17.0,,J. Hernangómez enters the game for N. Jokić,25,28
+1,1:12.0,Personal foul by T. Craig (drawn by D. Lillard),,25,28
+1,1:12.0,D. Lillard makes free throw 1 of 2,,26,28
+1,1:12.0,D. Lillard makes free throw 2 of 2,,27,28
+1,1:04.0,,W. Barton makes 2-pt jump shot from 20 ft,27,30
+1,0:44.0,Z. Collins makes 3-pt jump shot from 25 ft (assist by D. Lillard),,30,30
+1,0:35.0,,M. Morris makes 2-pt jump shot from 10 ft,30,32
+1,0:28.0,Shooting foul by T. Craig (drawn by D. Lillard),,30,32
+1,0:28.0,D. Lillard makes free throw 1 of 2,,31,32
+1,0:28.0,,T. Lydon enters the game for T. Craig,31,32
+1,0:28.0,D. Lillard makes free throw 2 of 2,,32,32
+1,0:09.0,,M. Morris makes 2-pt jump shot from 11 ft,32,34
+1,0:00.0,Z. Collins misses 3-pt jump shot from 25 ft,,32,34
+1,0:00.0,Offensive rebound by Team,,32,34
+2,11:52.0,,M. Plumlee makes 2-pt hook shot from 3 ft (assist by M. Morris),32,36
+2,11:52.0,,Shooting foul by Z. Collins (drawn by M. Plumlee),32,36
+2,11:52.0,,M. Plumlee misses free throw 1 of 1,32,36
+2,11:52.0,Defensive rebound by Team,,32,36
+2,11:52.0,,Loose ball foul by T. Lydon (drawn by Z. Collins),32,36
+2,11:35.0,E. Turner makes 2-pt layup from 2 ft (assist by M. Leonard),,34,36
+2,11:18.0,,W. Barton misses 3-pt jump shot from 27 ft,34,36
+2,11:15.0,Defensive rebound by Z. Collins,,34,36
+2,11:09.0,M. Leonard misses 3-pt jump shot from 25 ft,,34,36
+2,11:06.0,,Defensive rebound by M. Morris,34,36
+2,11:00.0,,J. Hernangómez misses 3-pt jump shot from 24 ft,34,36
+2,10:56.0,Defensive rebound by S. Curry,,34,36
+2,10:45.0,E. Turner misses 2-pt jump shot from 9 ft,,34,36
+2,10:41.0,,Defensive rebound by M. Plumlee,34,36
+2,10:22.0,,M. Plumlee makes 2-pt hook shot from 2 ft (assist by J. Hernangómez),34,38
+2,9:57.0,M. Leonard makes 2-pt jump shot from 15 ft (assist by E. Turner),,36,38
+2,9:46.0,,Shooting foul by Z. Collins (drawn by W. Barton),36,38
+2,9:46.0,,W. Barton makes free throw 1 of 2,36,39
+2,9:46.0,,W. Barton makes free throw 2 of 2,36,40
+2,9:27.0,N. Stauskas misses 2-pt jump shot from 19 ft,,36,40
+2,9:23.0,,Defensive rebound by T. Lydon,36,40
+2,9:19.0,,M. Plumlee makes 2-pt dunk from 1 ft (assist by M. Morris),36,42
+2,9:00.0,N. Stauskas misses 2-pt jump shot from 23 ft,,36,42
+2,8:58.0,,Defensive rebound by M. Plumlee,36,42
+2,8:51.0,,W. Barton misses 2-pt jump shot from 10 ft,36,42
+2,8:48.0,Defensive rebound by N. Stauskas,,36,42
+2,8:42.0,E. Turner makes 2-pt jump shot from 12 ft,,38,42
+2,8:22.0,,M. Plumlee misses 2-pt jump shot from 19 ft,38,42
+2,8:17.0,Defensive rebound by M. Leonard,,38,42
+2,8:12.0,Z. Collins makes 3-pt jump shot from 25 ft (assist by E. Turner),,41,42
+2,8:10.0,,Denver full timeout,41,42
+2,8:10.0,,P. Millsap enters the game for M. Morris,41,42
+2,8:10.0,,J. Murray enters the game for M. Plumlee,41,42
+2,8:01.0,,Offensive foul by P. Millsap (drawn by N. Stauskas),41,42
+2,8:01.0,,Turnover by P. Millsap (offensive foul),41,42
+2,7:45.0,M. Leonard misses 2-pt layup from 4 ft,,41,42
+2,7:42.0,,Defensive rebound by J. Hernangómez,41,42
+2,7:40.0,,Turnover by J. Hernangómez (lost ball; steal by S. Curry),41,42
+2,7:36.0,N. Stauskas makes 3-pt jump shot from 22 ft (assist by S. Curry),,44,42
+2,7:10.0,,J. Murray makes 2-pt jump shot from 19 ft,44,44
+2,6:49.0,Z. Collins makes 2-pt layup from 3 ft (assist by N. Stauskas),,46,44
+2,6:39.0,,J. Murray makes 2-pt jump shot from 19 ft,46,46
+2,6:25.0,Personal foul by W. Barton (drawn by N. Stauskas),,46,46
+2,6:25.0,C. McCollum enters the game for M. Leonard,,46,46
+2,6:25.0,J. Nurkić enters the game for E. Turner,,46,46
+2,6:25.0,,M. Beasley enters the game for W. Barton,46,46
+2,6:25.0,,N. Jokić enters the game for T. Lydon,46,46
+2,6:12.0,J. Nurkić makes 2-pt dunk from 2 ft (assist by Z. Collins),,48,46
+2,6:00.0,,N. Jokić makes 3-pt jump shot from 25 ft (assist by J. Murray),48,49
+2,5:38.0,J. Nurkić makes 2-pt hook shot from 3 ft,,50,49
+2,5:21.0,,Personal foul by S. Curry (drawn by J. Murray),50,49
+2,5:21.0,D. Lillard enters the game for S. Curry,,50,49
+2,5:21.0,,T. Craig enters the game for J. Hernangómez,50,49
+2,5:09.0,,J. Murray makes 2-pt layup from 1 ft (assist by N. Jokić),50,51
+2,4:58.0,D. Lillard misses 3-pt jump shot from 27 ft,,50,51
+2,4:54.0,,Defensive rebound by T. Craig,50,51
+2,4:50.0,,Personal foul by D. Lillard (drawn by J. Murray),50,51
+2,4:50.0,A. Aminu enters the game for Z. Collins,,50,51
+2,4:35.0,,T. Craig misses 3-pt jump shot from 23 ft,50,51
+2,4:33.0,Defensive rebound by D. Lillard,,50,51
+2,4:16.0,J. Nurkić misses 2-pt hook shot from 8 ft,,50,51
+2,4:14.0,,Defensive rebound by J. Murray,50,51
+2,4:11.0,,M. Beasley makes 2-pt layup from 1 ft (assist by J. Murray),50,53
+2,4:11.0,Portland full timeout,,50,53
+2,4:11.0,E. Turner enters the game for N. Stauskas,,50,53
+2,3:56.0,J. Nurkić misses 2-pt layup from 2 ft,,50,53
+2,3:53.0,,Defensive rebound by N. Jokić,50,53
+2,3:50.0,,J. Murray misses 3-pt jump shot from 24 ft,50,53
+2,3:47.0,Defensive rebound by A. Aminu,,50,53
+2,3:41.0,C. McCollum misses 2-pt jump shot from 23 ft,,50,53
+2,3:38.0,,Defensive rebound by N. Jokić,50,53
+2,3:32.0,,Turnover by N. Jokić (bad pass),50,53
+2,3:10.0,D. Lillard misses 3-pt jump shot from 27 ft,,50,53
+2,3:10.0,,Defensive rebound by Team,50,53
+2,2:56.0,,P. Millsap misses 2-pt jump shot from 8 ft,50,53
+2,2:54.0,Defensive rebound by J. Nurkić,,50,53
+2,2:52.0,Shooting foul by T. Craig (drawn by E. Turner),,50,53
+2,2:52.0,E. Turner makes free throw 1 of 2,,51,53
+2,2:52.0,,M. Morris enters the game for T. Craig,51,53
+2,2:52.0,E. Turner misses free throw 2 of 2,,51,53
+2,2:50.0,,Defensive rebound by P. Millsap,51,53
+2,2:39.0,,J. Murray misses 2-pt layup from 4 ft,51,53
+2,2:38.0,Defensive rebound by E. Turner,,51,53
+2,2:23.0,J. Nurkić misses 2-pt jump shot from 18 ft,,51,53
+2,2:21.0,Offensive rebound by A. Aminu,,51,53
+2,2:16.0,J. Nurkić makes 2-pt layup from 3 ft (assist by A. Aminu),,53,53
+2,1:54.0,,P. Millsap misses 2-pt jump shot from 10 ft,53,53
+2,1:51.0,Defensive rebound by J. Nurkić,,53,53
+2,1:42.0,D. Lillard misses 2-pt layup from 2 ft,,53,53
+2,1:39.0,Offensive rebound by D. Lillard,,53,53
+2,1:38.0,D. Lillard makes 2-pt layup from 1 ft,,55,53
+2,1:28.0,,Shooting foul by E. Turner (drawn by N. Jokić),55,53
+2,1:28.0,,N. Jokić misses free throw 1 of 2,55,53
+2,1:28.0,,Offensive rebound by Team,55,53
+2,1:28.0,,N. Jokić makes free throw 2 of 2,55,54
+2,1:14.0,J. Nurkić misses 2-pt hook shot from 7 ft,,55,54
+2,1:14.0,,Defensive rebound by Team,55,54
+2,1:02.0,,Turnover by M. Beasley (bad pass; steal by J. Nurkić),55,54
+2,0:59.0,C. McCollum misses 3-pt jump shot from 25 ft,,55,54
+2,0:57.0,Offensive rebound by J. Nurkić,,55,54
+2,0:57.0,J. Nurkić makes 2-pt layup from 1 ft,,57,54
+2,0:36.0,,Shooting foul by C. McCollum (drawn by P. Millsap),57,54
+2,0:36.0,,P. Millsap makes free throw 1 of 2,57,55
+2,0:36.0,,P. Millsap makes free throw 2 of 2,57,56
+2,0:24.0,A. Aminu makes 3-pt jump shot from 25 ft (assist by D. Lillard),,60,56
+2,0:04.0,,N. Jokić misses 2-pt layup from 1 ft,60,56
+2,0:04.0,,Offensive rebound by P. Millsap,60,56
+2,0:04.0,,P. Millsap makes 2-pt layup at rim,60,58
+2,0:00.0,D. Lillard misses 3-pt jump shot from 30 ft,,60,58
+2,0:00.0,Offensive rebound by Team,,60,58
+3,11:49.0,,J. Murray makes 3-pt jump shot from 25 ft,60,61
+3,11:33.0,J. Layman makes 2-pt dunk from 1 ft (assist by J. Nurkić),,62,61
+3,11:13.0,,J. Murray misses 3-pt jump shot from 24 ft,62,61
+3,11:08.0,Defensive rebound by A. Aminu,,62,61
+3,11:01.0,C. McCollum makes 3-pt jump shot from 24 ft (assist by J. Nurkić),,65,61
+3,10:39.0,,M. Beasley misses 2-pt layup from 2 ft (block by J. Nurkić),65,61
+3,10:36.0,Defensive rebound by J. Nurkić,,65,61
+3,10:22.0,J. Layman makes 2-pt jump shot from 4 ft (assist by D. Lillard),,67,61
+3,10:08.0,,N. Jokić makes 2-pt jump shot from 5 ft,67,63
+3,9:57.0,A. Aminu misses 3-pt jump shot from 24 ft,,67,63
+3,9:53.0,,Defensive rebound by T. Craig,67,63
+3,9:46.0,,Shooting foul by J. Nurkić (drawn by J. Murray),67,63
+3,9:46.0,,J. Murray makes free throw 1 of 2,67,64
+3,9:46.0,,J. Murray makes free throw 2 of 2,67,65
+3,9:46.0,,M. Morris enters the game for J. Murray,67,65
+3,9:32.0,C. McCollum makes 3-pt jump shot from 25 ft (assist by J. Nurkić),,70,65
+3,9:31.0,,Denver full timeout,70,65
+3,9:31.0,,J. Murray enters the game for M. Morris,70,65
+3,9:19.0,,Shooting foul by J. Nurkić (drawn by N. Jokić),70,65
+3,9:19.0,,N. Jokić makes free throw 1 of 2,70,66
+3,9:19.0,,N. Jokić misses free throw 2 of 2,70,66
+3,9:15.0,Defensive rebound by A. Aminu,,70,66
+3,9:09.0,Turnover by C. McCollum (traveling),,70,66
+3,8:59.0,,N. Jokić makes 3-pt jump shot from 25 ft (assist by M. Beasley),70,69
+3,8:37.0,D. Lillard misses 3-pt jump shot from 24 ft,,70,69
+3,8:35.0,Offensive rebound by Team,,70,69
+3,8:35.0,M. Leonard enters the game for J. Nurkić,,70,69
+3,8:35.0,Offensive foul by M. Leonard (drawn by M. Beasley),,70,69
+3,8:35.0,Turnover by M. Leonard (offensive foul),,70,69
+3,8:25.0,,N. Jokić makes 3-pt jump shot from 25 ft (assist by M. Beasley),70,72
+3,8:05.0,M. Leonard makes 2-pt layup from 1 ft (assist by D. Lillard),,72,72
+3,7:54.0,,Offensive foul by J. Murray (drawn by M. Leonard),72,72
+3,7:54.0,,Turnover by J. Murray (offensive foul),72,72
+3,7:44.0,Personal foul by N. Jokić (drawn by D. Lillard),,72,72
+3,7:35.0,J. Layman makes 2-pt jump shot from 19 ft (assist by D. Lillard),,74,72
+3,7:23.0,,J. Murray makes 2-pt layup from 2 ft (assist by N. Jokić),74,74
+3,7:07.0,J. Layman misses 3-pt jump shot from 24 ft,,74,74
+3,7:05.0,,Defensive rebound by N. Jokić,74,74
+3,6:58.0,,Personal foul by M. Leonard (drawn by N. Jokić),74,74
+3,6:43.0,,N. Jokić makes 2-pt jump shot from 11 ft,74,76
+3,6:30.0,C. McCollum makes 2-pt jump shot from 20 ft (assist by D. Lillard),,76,76
+3,6:18.0,,J. Murray misses 2-pt jump shot from 17 ft,76,76
+3,6:17.0,Defensive rebound by J. Layman,,76,76
+3,6:17.0,Personal foul by N. Jokić (drawn by J. Layman),,76,76
+3,6:03.0,C. McCollum misses 3-pt jump shot from 25 ft,,76,76
+3,6:00.0,,Defensive rebound by J. Murray,76,76
+3,5:55.0,,J. Murray misses 2-pt layup from 3 ft,76,76
+3,5:54.0,Defensive rebound by C. McCollum,,76,76
+3,5:48.0,D. Lillard makes 2-pt layup from 1 ft (assist by C. McCollum),,78,76
+3,5:31.0,,Turnover by N. Jokić (bad pass),78,76
+3,5:31.0,,M. Morris enters the game for P. Millsap,78,76
+3,5:31.0,,M. Plumlee enters the game for J. Murray,78,76
+3,5:12.0,M. Leonard misses 3-pt jump shot from 25 ft,,78,76
+3,5:09.0,,Defensive rebound by T. Craig,78,76
+3,5:02.0,,M. Beasley misses 2-pt jump shot from 8 ft,78,76
+3,5:02.0,Defensive rebound by D. Lillard,,78,76
+3,5:02.0,Personal foul by M. Plumlee (drawn by D. Lillard),,78,76
+3,4:47.0,C. McCollum misses 3-pt jump shot from 25 ft,,78,76
+3,4:44.0,,Defensive rebound by Team,78,76
+3,4:38.0,,Personal foul by A. Aminu (drawn by N. Jokić),78,76
+3,4:22.0,,M. Plumlee makes 2-pt dunk at rim (assist by N. Jokić),78,78
+3,4:22.0,Portland full timeout,,78,78
+3,4:22.0,E. Turner enters the game for J. Layman,,78,78
+3,4:03.0,C. McCollum misses 2-pt jump shot from 19 ft,,78,78
+3,4:00.0,,Defensive rebound by M. Beasley,78,78
+3,3:40.0,,N. Jokić makes 2-pt layup from 2 ft,78,80
+3,3:19.0,A. Aminu misses 2-pt jump shot from 18 ft,,78,80
+3,3:16.0,,Defensive rebound by M. Plumlee,78,80
+3,3:01.0,,N. Jokić makes 2-pt hook shot from 1 ft,78,82
+3,2:42.0,C. McCollum makes 3-pt jump shot from 24 ft (assist by E. Turner),,81,82
+3,2:22.0,,M. Beasley makes 3-pt jump shot from 25 ft (assist by N. Jokić),81,85
+3,1:58.0,Turnover by D. Lillard (lost ball; steal by M. Beasley),,81,85
+3,1:53.0,,M. Beasley makes 3-pt jump shot from 25 ft (assist by M. Plumlee),81,88
+3,1:50.0,Portland full timeout,,81,88
+3,1:50.0,Z. Collins enters the game for A. Aminu,,81,88
+3,1:50.0,S. Curry enters the game for M. Leonard,,81,88
+3,1:50.0,J. Nurkić enters the game for C. McCollum,,81,88
+3,1:50.0,,W. Barton enters the game for T. Craig,81,88
+3,1:28.0,S. Curry makes 2-pt jump shot from 14 ft,,83,88
+3,1:06.0,,M. Beasley makes 2-pt layup from 3 ft (assist by N. Jokić),83,90
+3,0:46.0,D. Lillard misses 3-pt jump shot from 25 ft,,83,90
+3,0:44.0,,Defensive rebound by N. Jokić,83,90
+3,0:36.0,,W. Barton makes 3-pt jump shot from 23 ft (assist by N. Jokić),83,93
+3,0:30.0,Personal foul by M. Beasley (drawn by D. Lillard),,83,93
+3,0:30.0,,J. Hernangómez enters the game for N. Jokić,83,93
+3,0:26.0,Shooting foul by M. Beasley (drawn by D. Lillard),,83,93
+3,0:26.0,D. Lillard makes free throw 1 of 3,,84,93
+3,0:26.0,D. Lillard makes free throw 2 of 3,,85,93
+3,0:26.0,A. Aminu enters the game for J. Nurkić,,85,93
+3,0:26.0,D. Lillard makes free throw 3 of 3,,86,93
+3,0:07.0,,M. Morris misses 2-pt jump shot from 19 ft,86,93
+3,0:03.0,Defensive rebound by E. Turner,,86,93
+3,0:00.0,D. Lillard makes 2-pt layup from 1 ft (assist by E. Turner),,88,93
+4,11:48.0,Shooting foul by J. Murray (drawn by J. Layman),,88,93
+4,11:48.0,J. Layman makes free throw 1 of 2,,89,93
+4,11:48.0,J. Layman makes free throw 2 of 2,,90,93
+4,11:23.0,,Turnover by Team (shot clock),90,93
+4,11:16.0,Personal foul by W. Barton (drawn by J. Layman),,90,93
+4,11:07.0,Turnover by C. McCollum (bad pass; steal by J. Murray),,90,93
+4,10:57.0,,W. Barton misses 2-pt jump shot from 7 ft,90,93
+4,10:55.0,Defensive rebound by J. Layman,,90,93
+4,10:46.0,Shooting foul by W. Barton (drawn by E. Turner),,90,93
+4,10:46.0,E. Turner makes free throw 1 of 2,,91,93
+4,10:46.0,E. Turner makes free throw 2 of 2,,92,93
+4,10:37.0,,W. Barton misses 2-pt jump shot from 3 ft,92,93
+4,10:34.0,Defensive rebound by Z. Collins,,92,93
+4,10:26.0,E. Turner makes 2-pt jump shot from 12 ft,,94,93
+4,10:25.0,,Denver full timeout,94,93
+4,10:09.0,,M. Morris makes 2-pt layup from 4 ft,94,95
+4,9:44.0,C. McCollum makes 2-pt jump shot from 6 ft,,96,95
+4,9:29.0,,J. Murray makes 2-pt jump shot from 13 ft,96,97
+4,9:05.0,C. McCollum misses 2-pt jump shot from 11 ft,,96,97
+4,9:02.0,,Defensive rebound by M. Plumlee,96,97
+4,8:56.0,,Personal foul by Z. Collins (drawn by M. Plumlee),96,97
+4,8:56.0,,Away from play foul by E. Turner (drawn by J. Murray),96,97
+4,8:56.0,,J. Murray makes free throw 1 of 1,96,98
+4,8:50.0,,J. Murray makes 2-pt jump shot from 15 ft,96,100
+4,8:39.0,Offensive foul by Z. Collins (drawn by M. Morris),,96,100
+4,8:39.0,Turnover by Z. Collins (offensive foul),,96,100
+4,8:39.0,D. Lillard enters the game for E. Turner,,96,100
+4,8:22.0,,M. Plumlee misses 2-pt layup from 4 ft,96,100
+4,8:20.0,Defensive rebound by C. McCollum,,96,100
+4,8:15.0,D. Lillard misses 2-pt layup from 3 ft,,96,100
+4,8:11.0,Offensive rebound by Z. Collins,,96,100
+4,8:11.0,Portland full timeout,,96,100
+4,8:11.0,A. Aminu enters the game for Z. Collins,,96,100
+4,8:11.0,J. Nurkić enters the game for J. Layman,,96,100
+4,8:11.0,,N. Jokić enters the game for J. Hernangómez,96,100
+4,8:11.0,Shooting foul by M. Plumlee (drawn by A. Aminu),,96,100
+4,8:11.0,A. Aminu makes free throw 1 of 2,,97,100
+4,8:11.0,,M. Beasley enters the game for J. Murray,97,100
+4,8:11.0,A. Aminu makes free throw 2 of 2,,98,100
+4,7:47.0,,M. Beasley misses 3-pt jump shot from 25 ft,98,100
+4,7:43.0,Defensive rebound by A. Aminu,,98,100
+4,7:28.0,J. Nurkić misses 2-pt jump shot from 16 ft,,98,100
+4,7:25.0,,Defensive rebound by M. Plumlee,98,100
+4,7:15.0,,M. Morris makes 2-pt jump shot from 5 ft (assist by N. Jokić),98,102
+4,6:59.0,C. McCollum misses 2-pt jump shot from 18 ft,,98,102
+4,6:57.0,Offensive rebound by A. Aminu,,98,102
+4,6:54.0,S. Curry makes 2-pt jump shot from 18 ft (assist by A. Aminu),,100,102
+4,6:34.0,,Turnover by W. Barton (bad pass),100,102
+4,6:34.0,,J. Murray enters the game for W. Barton,100,102
+4,6:20.0,A. Aminu misses 3-pt jump shot from 24 ft,,100,102
+4,6:16.0,,Defensive rebound by J. Murray,100,102
+4,6:16.0,,P. Millsap enters the game for M. Plumlee,100,102
+4,6:03.0,,J. Murray misses 3-pt jump shot from 25 ft,100,102
+4,6:01.0,Defensive rebound by J. Nurkić,,100,102
+4,5:53.0,C. McCollum misses 3-pt jump shot from 24 ft,,100,102
+4,5:50.0,Offensive rebound by J. Nurkić,,100,102
+4,5:46.0,Shooting foul by N. Jokić (drawn by A. Aminu),,100,102
+4,5:46.0,A. Aminu makes free throw 1 of 2,,101,102
+4,5:46.0,A. Aminu makes free throw 2 of 2,,102,102
+4,5:30.0,,Turnover by N. Jokić (lost ball; steal by J. Nurkić),102,102
+4,5:25.0,Turnover by J. Nurkić (bad pass; steal by M. Morris),,102,102
+4,5:11.0,,N. Jokić makes 2-pt jump shot from 17 ft (assist by J. Murray),102,104
+4,4:51.0,J. Nurkić misses 2-pt jump shot from 18 ft,,102,104
+4,4:47.0,,Defensive rebound by N. Jokić,102,104
+4,4:42.0,Violation by Team (kicked ball),,102,104
+4,4:42.0,E. Turner enters the game for S. Curry,,102,104
+4,4:27.0,,J. Murray misses 2-pt jump shot from 4 ft,102,104
+4,4:26.0,Defensive rebound by A. Aminu,,102,104
+4,4:18.0,D. Lillard misses 2-pt jump shot from 7 ft,,102,104
+4,4:15.0,Offensive rebound by A. Aminu,,102,104
+4,4:15.0,A. Aminu makes 2-pt hook shot from 3 ft,,104,104
+4,3:46.0,,N. Jokić misses 2-pt layup from 4 ft,104,104
+4,3:46.0,,Offensive rebound by Team,104,104
+4,3:46.0,,Denver full timeout,104,104
+4,3:44.0,,N. Jokić misses 3-pt jump shot from 27 ft,104,104
+4,3:39.0,Defensive rebound by D. Lillard,,104,104
+4,3:28.0,J. Nurkić misses 2-pt hook shot from 5 ft,,104,104
+4,3:28.0,Offensive rebound by Team,,104,104
+4,3:22.0,Shooting foul by J. Murray (drawn by E. Turner),,104,104
+4,3:22.0,E. Turner makes free throw 1 of 2,,105,104
+4,3:22.0,E. Turner makes free throw 2 of 2,,106,104
+4,3:07.0,,Shooting foul by E. Turner (drawn by N. Jokić),106,104
+4,3:07.0,,N. Jokić makes free throw 1 of 2,106,105
+4,3:07.0,,N. Jokić makes free throw 2 of 2,106,106
+4,2:54.0,C. McCollum misses 2-pt jump shot from 14 ft,,106,106
+4,2:51.0,Offensive rebound by J. Nurkić,,106,106
+4,2:48.0,J. Nurkić misses 2-pt hook shot from 4 ft,,106,106
+4,2:48.0,,Defensive rebound by Team,106,106
+4,2:36.0,,N. Jokić misses 2-pt layup from 5 ft,106,106
+4,2:32.0,,Offensive rebound by P. Millsap,106,106
+4,2:31.0,,P. Millsap misses 2-pt layup from 1 ft,106,106
+4,2:29.0,,Offensive rebound by P. Millsap,106,106
+4,2:29.0,,P. Millsap makes 2-pt layup from 1 ft,106,108
+4,2:14.0,D. Lillard makes 2-pt layup from 1 ft,,108,108
+4,1:49.0,,J. Murray misses 3-pt jump shot from 25 ft,108,108
+4,1:42.0,Defensive rebound by A. Aminu,,108,108
+4,1:27.0,D. Lillard misses 2-pt jump shot from 17 ft,,108,108
+4,1:27.0,,Defensive rebound by Team,108,108
+4,1:27.0,Loose ball foul by A. Aminu (drawn by P. Millsap),,108,108
+4,1:07.0,,N. Jokić makes 2-pt hook shot from 5 ft,108,110
+4,0:55.0,J. Nurkić misses 2-pt layup from 2 ft,,108,110
+4,0:54.0,,Defensive rebound by N. Jokić,108,110
+4,0:54.0,,Personal foul by J. Nurkić (drawn by N. Jokić),108,110
+4,0:54.0,,N. Jokić makes free throw 1 of 2,108,111
+4,0:54.0,,T. Craig enters the game for M. Morris,108,111
+4,0:54.0,,N. Jokić makes free throw 2 of 2,108,112
+4,0:48.0,D. Lillard makes 2-pt dunk from 1 ft,,110,112
+4,0:30.0,,J. Murray makes 2-pt jump shot from 6 ft,110,114
+4,0:30.0,Portland full timeout,,110,114
+4,0:30.0,J. Layman enters the game for J. Nurkić,,110,114
+4,0:30.0,,M. Plumlee enters the game for N. Jokić,110,114
+4,0:27.0,C. McCollum makes 3-pt jump shot from 23 ft (assist by E. Turner),,113,114
+4,0:27.0,,Denver full timeout,113,114
+4,0:27.0,,N. Jokić enters the game for T. Craig,113,114
+4,0:27.0,,M. Morris enters the game for M. Plumlee,113,114
+4,0:05.0,,J. Murray misses 2-pt jump shot from 14 ft,113,114
+4,0:03.0,,Offensive rebound by Team,113,114
+4,0:03.0,,Personal foul by C. McCollum (drawn by J. Murray),113,114
+4,0:03.0,,J. Murray makes free throw 1 of 2,113,115
+4,0:03.0,J. Nurkić enters the game for J. Layman,,113,115
+4,0:03.0,,J. Murray makes free throw 2 of 2,113,116
+4,0:03.0,Portland full timeout,,113,116
+4,0:03.0,J. Layman enters the game for A. Aminu,,113,116
+4,0:03.0,,T. Craig enters the game for N. Jokić,113,116
+4,0:03.0,,M. Plumlee enters the game for M. Morris,113,116
+4,0:00.0,D. Lillard misses 3-pt jump shot from 33 ft,,113,116
+4,0:00.0,Offensive rebound by Team,,113,116

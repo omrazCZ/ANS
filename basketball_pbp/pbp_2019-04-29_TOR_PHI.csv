@@ -1,0 +1,444 @@
+QUARTER,TIME_REMAINING,PHILADELPHIA_ACTION,TORONTO_ACTION,PHILADELPHIA_SCORE,TORONTO_SCORE
+1,11:33.0,,M. Gasol misses 2-pt jump shot from 11 ft,0,0
+1,11:30.0,Defensive rebound by T. Harris,,0,0
+1,11:12.0,T. Harris misses 3-pt jump shot from 24 ft,,0,0
+1,11:10.0,,Defensive rebound by K. Lowry,0,0
+1,11:05.0,,K. Lowry makes 2-pt jump shot from 5 ft,0,2
+1,10:38.0,Turnover by J. Embiid (step out of bounds),,0,2
+1,10:26.0,,P. Siakam misses 2-pt jump shot from 14 ft,0,2
+1,10:24.0,Defensive rebound by T. Harris,,0,2
+1,10:18.0,Turnover by B. Simmons (bad pass; steal by K. Leonard),,0,2
+1,10:01.0,,P. Siakam makes 2-pt hook shot from 3 ft,0,4
+1,9:39.0,J. Butler misses 2-pt jump shot from 15 ft,,0,4
+1,9:37.0,,Defensive rebound by D. Green,0,4
+1,9:32.0,,K. Lowry misses 2-pt layup from 1 ft (block by J. Butler),0,4
+1,9:32.0,,Offensive rebound by Team,0,4
+1,9:21.0,,M. Gasol misses 2-pt jump shot from 5 ft,0,4
+1,9:17.0,Defensive rebound by B. Simmons,,0,4
+1,9:12.0,B. Simmons makes 2-pt layup from 1 ft,,2,4
+1,8:58.0,,Turnover by D. Green (traveling),2,4
+1,8:47.0,J. Redick misses 3-pt jump shot from 26 ft,,2,4
+1,8:45.0,,Defensive rebound by M. Gasol,2,4
+1,8:32.0,,M. Gasol misses 3-pt jump shot from 25 ft,2,4
+1,8:28.0,Defensive rebound by J. Butler,,2,4
+1,8:21.0,B. Simmons misses 2-pt layup from 2 ft (block by M. Gasol),,2,4
+1,8:21.0,,Defensive rebound by Team,2,4
+1,8:15.0,,P. Siakam misses 3-pt jump shot from 24 ft,2,4
+1,8:12.0,Defensive rebound by B. Simmons,,2,4
+1,8:02.0,J. Butler makes 3-pt jump shot from 24 ft (assist by J. Embiid),,5,4
+1,7:38.0,,K. Lowry makes 2-pt jump shot from 8 ft (assist by M. Gasol),5,6
+1,7:38.0,,Shooting foul by T. Harris (drawn by K. Lowry),5,6
+1,7:38.0,,K. Lowry makes free throw 1 of 1,5,7
+1,7:29.0,J. Butler makes 3-pt jump shot from 23 ft (assist by B. Simmons),,8,7
+1,7:19.0,,K. Lowry misses 3-pt jump shot from 23 ft,8,7
+1,7:17.0,Defensive rebound by J. Embiid,,8,7
+1,7:11.0,J. Butler misses 3-pt jump shot from 24 ft,,8,7
+1,7:08.0,,Defensive rebound by K. Leonard,8,7
+1,6:53.0,,K. Leonard makes 2-pt jump shot from 10 ft,8,9
+1,6:41.0,Personal foul by D. Green (drawn by J. Embiid),,8,9
+1,6:41.0,,Toronto full timeout,8,9
+1,6:41.0,G. Monroe enters the game for J. Embiid,,8,9
+1,6:27.0,T. Harris makes 3-pt jump shot from 26 ft (assist by J. Butler),,11,9
+1,6:00.0,,Turnover by Team (shot clock),11,9
+1,6:00.0,J. Ennis enters the game for J. Redick,,11,9
+1,5:48.0,T. Harris misses 2-pt jump shot from 12 ft,,11,9
+1,5:46.0,,Defensive rebound by M. Gasol,11,9
+1,5:33.0,,D. Green misses 3-pt jump shot from 24 ft (block by B. Simmons),11,9
+1,5:30.0,Defensive rebound by G. Monroe,,11,9
+1,5:24.0,J. Ennis misses 3-pt jump shot from 23 ft,,11,9
+1,5:20.0,,Defensive rebound by M. Gasol,11,9
+1,5:04.0,,D. Green misses 2-pt hook shot from 3 ft,11,9
+1,5:01.0,Defensive rebound by J. Ennis,,11,9
+1,4:54.0,T. Harris makes 2-pt layup from 1 ft (assist by B. Simmons),,13,9
+1,4:45.0,,P. Siakam misses 2-pt jump shot from 4 ft,13,9
+1,4:43.0,,Offensive rebound by K. Leonard,13,9
+1,4:38.0,,K. Leonard misses 2-pt jump shot from 17 ft,13,9
+1,4:35.0,Defensive rebound by G. Monroe,,13,9
+1,4:21.0,G. Monroe makes 2-pt layup from 1 ft (assist by T. Harris),,15,9
+1,4:01.0,,P. Siakam makes 2-pt layup from 3 ft (assist by M. Gasol),15,11
+1,4:01.0,Philadelphia full timeout,,15,11
+1,3:49.0,J. Butler misses 2-pt jump shot from 21 ft,,15,11
+1,3:46.0,Offensive rebound by G. Monroe,,15,11
+1,3:44.0,G. Monroe misses 2-pt layup from 2 ft (block by D. Green),,15,11
+1,3:38.0,Offensive rebound by G. Monroe,,15,11
+1,3:38.0,G. Monroe misses 2-pt layup from 1 ft,,15,11
+1,3:36.0,Offensive rebound by J. Butler,,15,11
+1,3:35.0,J. Butler misses 2-pt layup from 1 ft,,15,11
+1,3:35.0,,Defensive rebound by K. Lowry,15,11
+1,3:34.0,,D. Green misses 3-pt jump shot from 22 ft,15,11
+1,3:34.0,Defensive rebound by J. Ennis,,15,11
+1,3:18.0,J. Butler misses 2-pt layup from 2 ft,,15,11
+1,3:14.0,Offensive rebound by G. Monroe,,15,11
+1,3:14.0,G. Monroe makes 2-pt layup from 1 ft,,17,11
+1,2:58.0,,P. Siakam misses 2-pt hook shot from 2 ft,17,11
+1,2:56.0,Defensive rebound by J. Butler,,17,11
+1,2:49.0,J. Ennis makes 2-pt layup from 1 ft (assist by T. Harris),,19,11
+1,2:49.0,,Toronto full timeout,19,11
+1,2:49.0,J. Embiid enters the game for J. Butler,,19,11
+1,2:49.0,J. Redick enters the game for G. Monroe,,19,11
+1,2:49.0,,S. Ibaka enters the game for M. Gasol,19,11
+1,2:49.0,,N. Powell enters the game for D. Green,19,11
+1,2:49.0,,F. VanVleet enters the game for K. Lowry,19,11
+1,2:35.0,,Shooting foul by T. Harris (drawn by P. Siakam),19,11
+1,2:35.0,,P. Siakam misses free throw 1 of 2,19,11
+1,2:35.0,,Offensive rebound by Team,19,11
+1,2:35.0,J. Bolden enters the game for T. Harris,,19,11
+1,2:35.0,,P. Siakam makes free throw 2 of 2,19,12
+1,2:26.0,Turnover by B. Simmons (traveling),,19,12
+1,2:08.0,,K. Leonard makes 2-pt layup from 2 ft,19,14
+1,1:49.0,Personal foul by F. VanVleet (drawn by J. Embiid),,19,14
+1,1:41.0,Personal foul by K. Leonard (drawn by J. Embiid),,19,14
+1,1:41.0,J. Embiid makes free throw 1 of 2,,20,14
+1,1:41.0,J. Embiid makes free throw 2 of 2,,21,14
+1,1:21.0,,N. Powell misses 2-pt jump shot from 19 ft,21,14
+1,1:18.0,Defensive rebound by B. Simmons,,21,14
+1,1:05.0,J. Ennis misses 2-pt jump shot from 19 ft,,21,14
+1,1:04.0,,Defensive rebound by N. Powell,21,14
+1,0:59.0,,N. Powell misses 2-pt hook shot from 5 ft (block by J. Embiid),21,14
+1,0:59.0,,Offensive rebound by Team,21,14
+1,0:59.0,,D. Green enters the game for K. Leonard,21,14
+1,0:55.0,,S. Ibaka misses 3-pt jump shot from 25 ft,21,14
+1,0:52.0,Defensive rebound by B. Simmons,,21,14
+1,0:42.0,Personal foul by S. Ibaka (drawn by J. Embiid),,21,14
+1,0:42.0,J. Embiid makes free throw 1 of 2,,22,14
+1,0:42.0,J. Embiid makes free throw 2 of 2,,23,14
+1,0:28.0,,N. Powell makes 3-pt jump shot from 26 ft (assist by P. Siakam),23,17
+1,0:06.0,J. Ennis makes 3-pt jump shot from 24 ft (assist by B. Simmons),,26,17
+1,0:00.0,,F. VanVleet misses 3-pt jump shot from 27 ft (block by J. Ennis),26,17
+1,0:00.0,Defensive rebound by B. Simmons,,26,17
+2,11:42.0,Turnover by J. Redick (lost ball; steal by F. VanVleet),,26,17
+2,11:39.0,,Turnover by S. Ibaka (step out of bounds),26,17
+2,11:17.0,J. Butler makes 2-pt hook shot from 4 ft (assist by B. Simmons),,28,17
+2,10:58.0,,P. Siakam misses 3-pt jump shot from 25 ft,28,17
+2,10:55.0,Defensive rebound by B. Simmons,,28,17
+2,10:49.0,Turnover by J. Embiid (traveling),,28,17
+2,10:40.0,,K. Lowry misses 3-pt jump shot from 29 ft,28,17
+2,10:37.0,Defensive rebound by T. Harris,,28,17
+2,10:31.0,T. Harris misses 2-pt layup from 2 ft,,28,17
+2,10:31.0,,Defensive rebound by Team,28,17
+2,10:31.0,Loose ball foul by J. Embiid (drawn by K. Lowry),,28,17
+2,10:22.0,,P. Siakam misses 2-pt jump shot from 7 ft,28,17
+2,10:19.0,Defensive rebound by T. Harris,,28,17
+2,10:13.0,Personal foul by S. Ibaka (drawn by J. Embiid),,28,17
+2,10:13.0,,K. Leonard enters the game for P. Siakam,28,17
+2,10:04.0,J. Redick makes 3-pt jump shot from 25 ft (assist by J. Embiid),,31,17
+2,9:53.0,,K. Lowry misses 2-pt layup from 3 ft,31,17
+2,9:53.0,Defensive rebound by J. Embiid,,31,17
+2,9:49.0,T. Harris misses 3-pt jump shot from 25 ft,,31,17
+2,9:49.0,,Defensive rebound by Team,31,17
+2,9:36.0,,Shooting foul by J. Butler (drawn by K. Leonard),31,17
+2,9:36.0,,K. Leonard makes free throw 1 of 2,31,18
+2,9:36.0,,K. Leonard makes free throw 2 of 2,31,19
+2,9:24.0,Turnover by J. Embiid (bad pass; steal by K. Lowry),,31,19
+2,9:13.0,,K. Leonard makes 3-pt jump shot from 25 ft,31,22
+2,9:01.0,J. Redick makes 3-pt jump shot from 27 ft (assist by J. Embiid),,34,22
+2,8:51.0,,K. Leonard misses 3-pt jump shot from 26 ft,34,22
+2,8:49.0,Defensive rebound by J. Redick,,34,22
+2,8:39.0,J. Embiid misses 3-pt jump shot from 26 ft,,34,22
+2,8:37.0,,Defensive rebound by Team,34,22
+2,8:37.0,J. Ennis enters the game for B. Simmons,,34,22
+2,8:31.0,,K. Leonard misses 2-pt jump shot from 16 ft,34,22
+2,8:28.0,Defensive rebound by J. Ennis,,34,22
+2,8:18.0,J. Redick makes 2-pt jump shot from 20 ft (assist by T. Harris),,36,22
+2,7:59.0,,S. Ibaka misses 2-pt hook shot from 5 ft,36,22
+2,7:56.0,Defensive rebound by J. Embiid,,36,22
+2,7:56.0,G. Monroe enters the game for J. Embiid,,36,22
+2,7:40.0,Turnover by J. Butler (bad pass),,36,22
+2,7:25.0,,S. Ibaka misses 2-pt jump shot from 14 ft,36,22
+2,7:21.0,Defensive rebound by J. Butler,,36,22
+2,7:14.0,T. Harris misses 2-pt jump shot from 8 ft (block by F. VanVleet),,36,22
+2,7:11.0,,Defensive rebound by F. VanVleet,36,22
+2,7:10.0,,K. Leonard makes 2-pt dunk from 1 ft (assist by K. Lowry),36,24
+2,7:10.0,Philadelphia full timeout,,36,24
+2,7:10.0,B. Simmons enters the game for J. Redick,,36,24
+2,7:10.0,,M. Gasol enters the game for S. Ibaka,36,24
+2,6:49.0,T. Harris misses 2-pt jump shot from 8 ft,,36,24
+2,6:46.0,Offensive rebound by T. Harris,,36,24
+2,6:35.0,Shooting foul by M. Gasol (drawn by G. Monroe),,36,24
+2,6:35.0,G. Monroe makes free throw 1 of 2,,37,24
+2,6:35.0,G. Monroe makes free throw 2 of 2,,38,24
+2,6:15.0,,K. Leonard misses 3-pt jump shot from 23 ft,38,24
+2,6:12.0,Defensive rebound by T. Harris,,38,24
+2,5:56.0,Turnover by G. Monroe (bad pass; steal by F. VanVleet),,38,24
+2,5:52.0,,K. Lowry makes 2-pt layup from 1 ft (assist by N. Powell),38,26
+2,5:28.0,J. Ennis makes 2-pt jump shot from 4 ft (assist by T. Harris),,40,26
+2,5:28.0,Shooting foul by K. Lowry (drawn by J. Ennis),,40,26
+2,5:28.0,,P. Siakam enters the game for N. Powell,40,26
+2,5:28.0,J. Ennis makes free throw 1 of 1,,41,26
+2,5:10.0,,Offensive foul by P. Siakam (drawn by J. Ennis),41,26
+2,5:10.0,,Turnover by P. Siakam (offensive foul),41,26
+2,4:46.0,Turnover by Team (shot clock),,41,26
+2,4:25.0,,K. Lowry misses 2-pt jump shot from 5 ft (block by G. Monroe),41,26
+2,4:22.0,Defensive rebound by J. Butler,,41,26
+2,4:19.0,J. Ennis makes 3-pt jump shot from 24 ft (assist by G. Monroe),,44,26
+2,4:18.0,,Toronto full timeout,44,26
+2,4:18.0,Technical foul by N. Nurse,,44,26
+2,4:18.0,J. Embiid enters the game for G. Monroe,,44,26
+2,4:18.0,,D. Green enters the game for F. VanVleet,44,26
+2,4:18.0,J. Butler makes technical free throw,,45,26
+2,4:07.0,,P. Siakam misses 2-pt jump shot from 9 ft,45,26
+2,4:04.0,,Offensive rebound by M. Gasol,45,26
+2,3:56.0,,P. Siakam misses 2-pt jump shot from 4 ft,45,26
+2,3:54.0,Defensive rebound by T. Harris,,45,26
+2,3:46.0,Turnover by T. Harris (out of bounds lost ball),,45,26
+2,3:23.0,,K. Leonard makes 2-pt jump shot from 12 ft,45,28
+2,3:04.0,B. Simmons misses 2-pt dunk from 2 ft (block by P. Siakam),,45,28
+2,3:03.0,Offensive rebound by Team,,45,28
+2,3:03.0,J. Redick enters the game for T. Harris,,45,28
+2,3:00.0,J. Redick misses 3-pt jump shot from 27 ft,,45,28
+2,2:57.0,,Defensive rebound by K. Leonard,45,28
+2,2:53.0,,Turnover by K. Leonard (lost ball; steal by B. Simmons),45,28
+2,2:50.0,Shooting foul by K. Lowry (drawn by J. Ennis),,45,28
+2,2:50.0,J. Ennis misses free throw 1 of 2,,45,28
+2,2:50.0,Offensive rebound by Team,,45,28
+2,2:50.0,J. Ennis makes free throw 2 of 2,,46,28
+2,2:36.0,,K. Lowry makes 2-pt layup at rim,46,30
+2,2:36.0,,Shooting foul by J. Ennis (drawn by K. Lowry),46,30
+2,2:36.0,,K. Lowry makes free throw 1 of 1,46,31
+2,2:23.0,Offensive foul by J. Embiid (drawn by D. Green),,46,31
+2,2:23.0,Turnover by J. Embiid (offensive foul),,46,31
+2,2:09.0,,P. Siakam makes 2-pt layup at rim (assist by K. Lowry),46,33
+2,1:55.0,J. Butler makes 3-pt jump shot from 26 ft (assist by J. Embiid),,49,33
+2,1:55.0,Shooting foul by D. Green (drawn by J. Butler),,49,33
+2,1:55.0,,Technical foul by D. Green,49,33
+2,1:55.0,J. Redick makes technical free throw,,50,33
+2,1:55.0,J. Butler makes free throw 1 of 1,,51,33
+2,1:48.0,,K. Lowry misses 2-pt layup from 2 ft,51,33
+2,1:46.0,Defensive rebound by J. Butler,,51,33
+2,1:38.0,B. Simmons misses 2-pt layup from 4 ft,,51,33
+2,1:38.0,,Defensive rebound by Team,51,33
+2,1:38.0,Loose ball foul by J. Embiid (drawn by M. Gasol),,51,33
+2,1:38.0,G. Monroe enters the game for J. Embiid,,51,33
+2,1:19.0,,M. Gasol misses 3-pt jump shot from 23 ft,51,33
+2,1:16.0,Defensive rebound by J. Ennis,,51,33
+2,1:03.0,Offensive foul by J. Butler (drawn by K. Lowry),,51,33
+2,1:03.0,Turnover by J. Butler (offensive foul),,51,33
+2,0:56.0,,K. Leonard makes 2-pt layup from 3 ft (assist by K. Lowry),51,35
+2,0:33.0,G. Monroe misses 2-pt jump shot from 20 ft,,51,35
+2,0:30.0,Offensive rebound by J. Butler,,51,35
+2,0:16.0,Turnover by B. Simmons (lost ball; steal by D. Green),,51,35
+2,0:12.0,,D. Green makes 3-pt jump shot from 28 ft (assist by K. Leonard),51,38
+2,0:01.0,J. Redick misses 3-pt jump shot from 27 ft,,51,38
+2,0:01.0,,Defensive rebound by P. Siakam,51,38
+3,11:48.0,Turnover by B. Simmons (bad pass; steal by P. Siakam),,51,38
+3,11:35.0,,M. Gasol misses 3-pt jump shot from 27 ft,51,38
+3,11:32.0,Defensive rebound by T. Harris,,51,38
+3,11:24.0,T. Harris misses 3-pt jump shot from 25 ft,,51,38
+3,11:21.0,,Defensive rebound by M. Gasol,51,38
+3,11:10.0,,D. Green misses 2-pt jump shot from 5 ft,51,38
+3,11:08.0,,Offensive rebound by D. Green,51,38
+3,11:06.0,,P. Siakam misses 3-pt jump shot from 23 ft,51,38
+3,11:06.0,,Offensive rebound by Team,51,38
+3,10:56.0,,Turnover by K. Lowry (bad pass; steal by T. Harris),51,38
+3,10:49.0,J. Butler misses 3-pt jump shot from 25 ft,,51,38
+3,10:46.0,,Defensive rebound by P. Siakam,51,38
+3,10:41.0,,K. Leonard makes 3-pt jump shot from 27 ft (assist by P. Siakam),51,41
+3,10:22.0,Personal foul by P. Siakam (drawn by T. Harris),,51,41
+3,10:11.0,J. Embiid misses 2-pt jump shot from 6 ft,,51,41
+3,10:09.0,,Defensive rebound by K. Leonard,51,41
+3,10:06.0,,K. Leonard misses 3-pt jump shot from 27 ft,51,41
+3,10:01.0,Defensive rebound by J. Embiid,,51,41
+3,9:56.0,J. Embiid misses 3-pt jump shot from 25 ft,,51,41
+3,9:53.0,,Defensive rebound by M. Gasol,51,41
+3,9:48.0,,P. Siakam misses 2-pt jump shot from 9 ft,51,41
+3,9:47.0,Defensive rebound by J. Redick,,51,41
+3,9:47.0,Turnover by J. Redick (step out of bounds),,51,41
+3,9:36.0,,K. Leonard misses 3-pt jump shot from 26 ft,51,41
+3,9:33.0,Defensive rebound by J. Butler,,51,41
+3,9:19.0,T. Harris misses 3-pt jump shot from 23 ft,,51,41
+3,9:16.0,,Defensive rebound by K. Leonard,51,41
+3,9:08.0,,K. Leonard makes 2-pt dunk from 1 ft (assist by M. Gasol),51,43
+3,9:08.0,Philadelphia full timeout,,51,43
+3,8:46.0,J. Embiid makes 2-pt layup from 2 ft,,53,43
+3,8:36.0,,Personal foul by T. Harris (drawn by M. Gasol),53,43
+3,8:23.0,,P. Siakam makes 3-pt jump shot from 23 ft (assist by K. Leonard),53,46
+3,7:59.0,J. Embiid misses 2-pt jump shot from 13 ft,,53,46
+3,7:56.0,,Defensive rebound by M. Gasol,53,46
+3,7:41.0,,P. Siakam makes 2-pt layup from 1 ft (assist by M. Gasol),53,48
+3,7:28.0,J. Butler makes 2-pt jump shot from 12 ft,,55,48
+3,7:20.0,,Turnover by K. Lowry (out of bounds lost ball),55,48
+3,7:20.0,G. Monroe enters the game for J. Embiid,,55,48
+3,7:06.0,J. Butler misses 2-pt jump shot from 12 ft,,55,48
+3,7:04.0,,Defensive rebound by Team,55,48
+3,6:42.0,,K. Leonard makes 3-pt jump shot from 23 ft,55,51
+3,6:28.0,Personal foul by K. Lowry (drawn by J. Redick),,55,51
+3,6:17.0,G. Monroe makes 2-pt layup from 3 ft (assist by J. Butler),,57,51
+3,5:59.0,,K. Leonard misses 2-pt jump shot from 7 ft,57,51
+3,5:57.0,Defensive rebound by J. Redick,,57,51
+3,5:50.0,Turnover by J. Redick (out of bounds lost ball),,57,51
+3,5:50.0,J. Ennis enters the game for J. Redick,,57,51
+3,5:35.0,,P. Siakam misses 2-pt layup from 2 ft,57,51
+3,5:32.0,Defensive rebound by T. Harris,,57,51
+3,5:30.0,J. Ennis misses 3-pt jump shot from 27 ft,,57,51
+3,5:26.0,,Defensive rebound by P. Siakam,57,51
+3,5:23.0,,P. Siakam makes 2-pt layup from 2 ft,57,53
+3,5:11.0,B. Simmons makes 2-pt hook shot from 1 ft (assist by J. Ennis),,59,53
+3,5:02.0,,Shooting foul by T. Harris (drawn by K. Lowry),59,53
+3,5:02.0,,K. Lowry makes free throw 1 of 2,59,54
+3,5:02.0,J. Redick enters the game for J. Butler,,59,54
+3,5:02.0,,K. Lowry makes free throw 2 of 2,59,55
+3,4:41.0,G. Monroe makes 2-pt hook shot from 4 ft (assist by J. Ennis),,61,55
+3,4:33.0,,Personal foul by J. Ennis (drawn by K. Lowry),61,55
+3,4:33.0,J. Bolden enters the game for G. Monroe,,61,55
+3,4:15.0,,K. Lowry misses 2-pt jump shot from 14 ft,61,55
+3,4:15.0,,Offensive rebound by Team,61,55
+3,4:15.0,,Turnover by Team (shot clock),61,55
+3,4:15.0,B. Marjanović enters the game for T. Harris,,61,55
+3,4:03.0,J. Ennis misses 3-pt jump shot from 23 ft,,61,55
+3,4:01.0,,Defensive rebound by D. Green,61,55
+3,3:41.0,,M. Gasol makes 3-pt jump shot from 25 ft (assist by K. Leonard),61,58
+3,3:11.0,J. Bolden misses 3-pt jump shot from 26 ft,,61,58
+3,3:10.0,Offensive rebound by J. Ennis,,61,58
+3,3:05.0,J. Ennis misses 2-pt layup from 1 ft,,61,58
+3,3:03.0,,Defensive rebound by D. Green,61,58
+3,3:02.0,,Turnover by D. Green (bad pass; steal by B. Simmons),61,58
+3,2:57.0,J. Ennis misses 3-pt jump shot from 26 ft,,61,58
+3,2:54.0,Offensive rebound by B. Marjanović,,61,58
+3,2:52.0,Turnover by B. Marjanović (bad pass; steal by D. Green),,61,58
+3,2:50.0,,Shooting foul by J. Redick (drawn by M. Gasol),61,58
+3,2:50.0,,Toronto full timeout,61,58
+3,2:50.0,J. Butler enters the game for B. Marjanović,,61,58
+3,2:50.0,J. Embiid enters the game for B. Simmons,,61,58
+3,2:50.0,,N. Powell enters the game for D. Green,61,58
+3,2:50.0,,F. VanVleet enters the game for K. Lowry,61,58
+3,2:50.0,,M. Gasol makes free throw 1 of 2,61,59
+3,2:50.0,,M. Gasol makes free throw 2 of 2,61,60
+3,2:38.0,Shooting foul by P. Siakam (drawn by J. Embiid),,61,60
+3,2:38.0,J. Embiid makes free throw 1 of 2,,62,60
+3,2:38.0,J. Embiid makes free throw 2 of 2,,63,60
+3,2:14.0,,Turnover by Team (shot clock),63,60
+3,2:14.0,,S. Ibaka enters the game for M. Gasol,63,60
+3,1:53.0,J. Butler misses 3-pt jump shot from 29 ft,,63,60
+3,1:49.0,,Defensive rebound by F. VanVleet,63,60
+3,1:42.0,,P. Siakam misses 3-pt jump shot from 23 ft,63,60
+3,1:40.0,,Offensive rebound by S. Ibaka,63,60
+3,1:30.0,,Shooting foul by J. Bolden (drawn by K. Leonard),63,60
+3,1:30.0,,K. Leonard makes free throw 1 of 2,63,61
+3,1:30.0,,J. Meeks enters the game for P. Siakam,63,61
+3,1:30.0,,K. Leonard misses free throw 2 of 2,63,61
+3,1:27.0,Defensive rebound by J. Ennis,,63,61
+3,1:19.0,J. Butler makes 2-pt jump shot from 3 ft,,65,61
+3,1:19.0,Shooting foul by F. VanVleet (drawn by J. Butler),,65,61
+3,1:19.0,J. Butler makes free throw 1 of 1,,66,61
+3,1:01.0,,K. Leonard makes 2-pt jump shot from 11 ft,66,63
+3,0:41.0,J. Butler misses 3-pt jump shot from 26 ft,,66,63
+3,0:39.0,Offensive rebound by Team,,66,63
+3,0:39.0,,Loose ball foul by K. Leonard (drawn by J. Ennis),66,63
+3,0:39.0,J. Ennis makes free throw 1 of 2,,67,63
+3,0:39.0,B. Simmons enters the game for J. Redick,,67,63
+3,0:39.0,J. Ennis misses free throw 2 of 2,,67,63
+3,0:37.0,Offensive rebound by J. Bolden,,67,63
+3,0:31.0,Shooting foul by S. Ibaka (drawn by J. Embiid),,67,63
+3,0:31.0,J. Embiid makes free throw 1 of 2,,68,63
+3,0:31.0,J. Embiid makes free throw 2 of 2,,69,63
+3,0:18.0,,J. Meeks misses 3-pt jump shot from 24 ft,69,63
+3,0:15.0,,Offensive rebound by K. Leonard,69,63
+3,0:06.0,,Turnover by J. Meeks (bad pass; steal by J. Bolden),69,63
+3,0:00.0,J. Butler misses 3-pt jump shot from 26 ft,,69,63
+3,0:00.0,Offensive rebound by Team,,69,63
+4,11:50.0,,K. Lowry misses 2-pt jump shot from 22 ft,69,63
+4,11:47.0,Defensive rebound by B. Simmons,,69,63
+4,11:39.0,J. Bolden makes 3-pt jump shot from 24 ft (assist by B. Simmons),,72,63
+4,11:21.0,,P. Siakam misses 3-pt jump shot from 24 ft,72,63
+4,11:18.0,Defensive rebound by J. Bolden,,72,63
+4,11:06.0,J. Redick misses 3-pt jump shot from 26 ft,,72,63
+4,11:06.0,Offensive rebound by Team,,72,63
+4,10:59.0,Personal foul by S. Ibaka (drawn by J. Embiid),,72,63
+4,10:50.0,J. Bolden misses 3-pt jump shot from 27 ft,,72,63
+4,10:47.0,,Defensive rebound by F. VanVleet,72,63
+4,10:33.0,,F. VanVleet misses 2-pt jump shot from 19 ft,72,63
+4,10:29.0,Defensive rebound by J. Butler,,72,63
+4,10:09.0,J. Butler misses 3-pt jump shot from 24 ft,,72,63
+4,10:05.0,,Defensive rebound by F. VanVleet,72,63
+4,9:53.0,,S. Ibaka makes 2-pt jump shot from 15 ft (assist by K. Lowry),72,65
+4,9:52.0,Philadelphia full timeout,,72,65
+4,9:52.0,T. Harris enters the game for J. Bolden,,72,65
+4,9:33.0,J. Redick makes 2-pt layup from 1 ft (assist by J. Butler),,74,65
+4,9:23.0,,S. Ibaka misses 2-pt hook shot from 4 ft,74,65
+4,9:20.0,Defensive rebound by J. Embiid,,74,65
+4,8:57.0,Turnover by J. Embiid (lost ball; steal by P. Siakam),,74,65
+4,8:52.0,,K. Lowry misses 3-pt jump shot from 24 ft,74,65
+4,8:50.0,Defensive rebound by J. Butler,,74,65
+4,8:44.0,B. Simmons makes 2-pt layup at rim (assist by J. Butler),,76,65
+4,8:37.0,,Toronto full timeout,76,65
+4,8:37.0,,M. Gasol enters the game for S. Ibaka,76,65
+4,8:37.0,,D. Green enters the game for N. Powell,76,65
+4,8:37.0,,K. Leonard enters the game for P. Siakam,76,65
+4,8:19.0,,K. Leonard misses 3-pt jump shot from 30 ft,76,65
+4,8:17.0,Defensive rebound by T. Harris,,76,65
+4,8:04.0,J. Redick misses 3-pt jump shot from 27 ft,,76,65
+4,8:01.0,,Defensive rebound by Team,76,65
+4,7:50.0,,Personal foul by J. Butler (drawn by K. Leonard),76,65
+4,7:50.0,J. Ennis enters the game for J. Embiid,,76,65
+4,7:50.0,A. Johnson enters the game for J. Redick,,76,65
+4,7:38.0,,K. Lowry makes 2-pt jump shot from 10 ft (assist by M. Gasol),76,67
+4,7:14.0,Shooting foul by M. Gasol (drawn by J. Butler),,76,67
+4,7:14.0,J. Butler makes free throw 1 of 2,,77,67
+4,7:14.0,J. Butler makes free throw 2 of 2,,78,67
+4,6:59.0,,K. Leonard makes 2-pt hook shot from 2 ft (assist by K. Lowry),78,69
+4,6:59.0,,Shooting foul by B. Simmons (drawn by K. Leonard),78,69
+4,6:59.0,,P. Siakam enters the game for F. VanVleet,78,69
+4,6:59.0,,K. Leonard makes free throw 1 of 1,78,70
+4,6:37.0,J. Butler misses 2-pt jump shot from 19 ft,,78,70
+4,6:33.0,,Defensive rebound by K. Lowry,78,70
+4,6:25.0,,D. Green misses 3-pt jump shot from 23 ft,78,70
+4,6:23.0,Defensive rebound by J. Butler,,78,70
+4,6:18.0,J. Butler makes 2-pt jump shot from 4 ft,,80,70
+4,6:18.0,Shooting foul by P. Siakam (drawn by J. Butler),,80,70
+4,6:18.0,J. Butler makes free throw 1 of 1,,81,70
+4,6:05.0,,K. Leonard misses 3-pt jump shot from 27 ft,81,70
+4,6:02.0,Defensive rebound by A. Johnson,,81,70
+4,5:44.0,T. Harris makes 2-pt jump shot from 7 ft,,83,70
+4,5:21.0,,P. Siakam misses 2-pt jump shot from 14 ft,83,70
+4,5:19.0,,Offensive rebound by K. Leonard,83,70
+4,5:19.0,,K. Leonard makes 2-pt layup from 1 ft,83,72
+4,5:19.0,,Shooting foul by B. Simmons (drawn by K. Leonard),83,72
+4,5:19.0,J. Embiid enters the game for A. Johnson,,83,72
+4,5:19.0,,K. Leonard makes free throw 1 of 1,83,73
+4,5:01.0,Turnover by J. Embiid (lost ball; steal by P. Siakam),,83,73
+4,4:49.0,,P. Siakam makes 2-pt layup from 2 ft (assist by K. Leonard),83,75
+4,4:49.0,Philadelphia full timeout,,83,75
+4,4:49.0,J. Redick enters the game for J. Ennis,,83,75
+4,4:29.0,J. Butler misses 2-pt jump shot from 17 ft,,83,75
+4,4:26.0,,Defensive rebound by P. Siakam,83,75
+4,4:19.0,,Turnover by P. Siakam (lost ball),83,75
+4,4:19.0,,Loose ball foul by P. Siakam (drawn by J. Butler),83,75
+4,4:06.0,J. Redick misses 3-pt jump shot from 26 ft,,83,75
+4,4:03.0,,Defensive rebound by P. Siakam,83,75
+4,3:50.0,,K. Lowry misses 3-pt jump shot from 26 ft,83,75
+4,3:46.0,,Offensive rebound by K. Lowry,83,75
+4,3:39.0,,P. Siakam misses 2-pt jump shot from 4 ft,83,75
+4,3:39.0,,Offensive rebound by Team,83,75
+4,3:39.0,Loose ball foul by J. Redick (drawn by P. Siakam),,83,75
+4,3:30.0,,K. Leonard makes 2-pt jump shot from 10 ft,83,77
+4,3:30.0,,Shooting foul by B. Simmons (drawn by K. Leonard),83,77
+4,3:30.0,,K. Leonard makes free throw 1 of 1,83,78
+4,3:15.0,J. Embiid misses 3-pt jump shot from 26 ft,,83,78
+4,3:12.0,,Defensive rebound by K. Lowry,83,78
+4,3:03.0,,K. Leonard misses 2-pt hook shot from 2 ft,83,78
+4,3:01.0,Defensive rebound by J. Embiid,,83,78
+4,2:55.0,J. Butler makes 2-pt layup from 2 ft,,85,78
+4,2:41.0,,P. Siakam makes 3-pt jump shot from 22 ft (assist by K. Leonard),85,81
+4,2:14.0,J. Butler makes 3-pt jump shot from 28 ft (assist by J. Embiid),,88,81
+4,2:11.0,,Toronto full timeout,88,81
+4,2:00.0,,K. Lowry makes 3-pt jump shot from 27 ft (assist by P. Siakam),88,84
+4,1:42.0,Shooting foul by M. Gasol (drawn by J. Butler),,88,84
+4,1:42.0,J. Butler makes free throw 1 of 2,,89,84
+4,1:42.0,J. Butler makes free throw 2 of 2,,90,84
+4,1:36.0,,K. Lowry makes 3-pt jump shot from 26 ft (assist by K. Leonard),90,87
+4,1:16.0,Turnover by T. Harris (bad pass; steal by P. Siakam),,90,87
+4,1:01.0,,D. Green misses 3-pt jump shot from 25 ft,90,87
+4,0:58.0,,Offensive rebound by P. Siakam,90,87
+4,0:48.0,,P. Siakam misses 2-pt layup from 3 ft,90,87
+4,0:46.0,,Offensive rebound by P. Siakam,90,87
+4,0:46.0,,P. Siakam makes 2-pt layup from 2 ft,90,89
+4,0:24.0,J. Embiid makes 2-pt hook shot from 1 ft (assist by J. Butler),,92,89
+4,0:24.0,,Toronto full timeout,92,89
+4,0:24.0,J. Ennis enters the game for J. Redick,,92,89
+4,0:10.0,,D. Green misses 3-pt jump shot from 26 ft,92,89
+4,0:04.0,Defensive rebound by T. Harris,,92,89
+4,0:03.0,Personal foul by D. Green (drawn by T. Harris),,92,89
+4,0:03.0,T. Harris makes free throw 1 of 2,,93,89
+4,0:03.0,T. Harris makes free throw 2 of 2,,94,89
+4,0:01.0,,K. Leonard misses 3-pt jump shot from 27 ft,94,89
+4,0:01.0,,Offensive rebound by Team,94,89

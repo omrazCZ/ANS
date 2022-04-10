@@ -1,0 +1,539 @@
+QUARTER,TIME_REMAINING,PHILADELPHIA_ACTION,MILWAUKEE_ACTION,PHILADELPHIA_SCORE,MILWAUKEE_SCORE
+1,11:49.0,D. Šarić makes 3-pt jump shot from 25 ft (assist by B. Simmons),,3,0
+1,11:43.0,,B. Lopez misses 3-pt jump shot from 26 ft,3,0
+1,11:42.0,Defensive rebound by J. Embiid,,3,0
+1,11:27.0,M. Fultz makes 2-pt jump shot from 21 ft (assist by J. Embiid),,5,0
+1,11:12.0,,K. Middleton misses 2-pt jump shot from 16 ft,5,0
+1,11:05.0,Defensive rebound by J. Embiid,,5,0
+1,11:03.0,Turnover by J. Embiid (bad pass),,5,0
+1,10:50.0,,B. Lopez misses 3-pt jump shot from 22 ft,5,0
+1,10:50.0,Defensive rebound by Team,,5,0
+1,10:30.0,J. Embiid misses 2-pt jump shot from 15 ft,,5,0
+1,10:30.0,,Defensive rebound by K. Middleton,5,0
+1,10:26.0,,Shooting foul by B. Simmons (drawn by K. Middleton),5,0
+1,10:26.0,,K. Middleton makes free throw 1 of 3,5,1
+1,10:26.0,,K. Middleton makes free throw 2 of 3,5,2
+1,10:26.0,,K. Middleton makes free throw 3 of 3,5,3
+1,10:11.0,B. Simmons makes 2-pt layup from 1 ft (assist by M. Fultz),,7,3
+1,10:02.0,,G. Antetokounmpo misses 2-pt layup from 3 ft,7,3
+1,10:02.0,,Offensive rebound by G. Antetokounmpo,7,3
+1,10:02.0,,G. Antetokounmpo makes 2-pt layup from 1 ft,7,5
+1,10:02.0,,Shooting foul by D. Šarić (drawn by G. Antetokounmpo),7,5
+1,10:02.0,,G. Antetokounmpo makes free throw 1 of 1,7,6
+1,9:46.0,B. Simmons misses 2-pt layup from 1 ft (block by G. Antetokounmpo),,7,6
+1,9:46.0,Offensive rebound by B. Simmons,,7,6
+1,9:40.0,B. Simmons misses 2-pt layup from 2 ft,,7,6
+1,9:37.0,Offensive rebound by B. Simmons,,7,6
+1,9:36.0,B. Simmons makes 2-pt layup from 1 ft,,9,6
+1,9:10.0,,E. Bledsoe misses 3-pt jump shot from 30 ft,9,6
+1,9:10.0,,Offensive rebound by E. Bledsoe,9,6
+1,9:05.0,,Turnover by M. Brogdon (lost ball; steal by B. Simmons),9,6
+1,9:04.0,Personal foul by M. Brogdon (drawn by B. Simmons),,9,6
+1,8:56.0,R. Covington misses 2-pt jump shot from 16 ft,,9,6
+1,8:54.0,,Defensive rebound by G. Antetokounmpo,9,6
+1,8:41.0,,B. Lopez misses 3-pt jump shot from 27 ft,9,6
+1,8:38.0,Defensive rebound by B. Simmons,,9,6
+1,8:34.0,D. Šarić makes 2-pt layup from 2 ft (assist by B. Simmons),,11,6
+1,8:21.0,,B. Lopez misses 3-pt jump shot from 28 ft,11,6
+1,8:18.0,Defensive rebound by J. Embiid,,11,6
+1,8:18.0,Personal foul by G. Antetokounmpo (drawn by J. Embiid),,11,6
+1,8:08.0,J. Embiid makes 2-pt jump shot from 9 ft,,13,6
+1,8:08.0,Shooting foul by B. Lopez (drawn by J. Embiid),,13,6
+1,8:08.0,,Milwaukee full timeout,13,6
+1,8:08.0,J. Embiid makes free throw 1 of 1,,14,6
+1,7:55.0,,Turnover by G. Antetokounmpo (lost ball; steal by M. Fultz),14,6
+1,7:50.0,B. Simmons makes 2-pt layup from 1 ft (assist by M. Fultz),,16,6
+1,7:28.0,,M. Brogdon misses 2-pt jump shot from 11 ft,16,6
+1,7:26.0,Defensive rebound by J. Embiid,,16,6
+1,7:03.0,J. Embiid misses 2-pt hook shot from 4 ft,,16,6
+1,7:00.0,,Defensive rebound by M. Brogdon,16,6
+1,6:59.0,,Shooting foul by R. Covington (drawn by M. Brogdon),16,6
+1,6:59.0,,M. Brogdon makes free throw 1 of 2,16,7
+1,6:59.0,A. Johnson enters the game for J. Embiid,,16,7
+1,6:59.0,J. Redick enters the game for M. Fultz,,16,7
+1,6:59.0,,M. Brogdon makes free throw 2 of 2,16,8
+1,6:46.0,R. Covington misses 2-pt jump shot from 8 ft,,16,8
+1,6:46.0,,Defensive rebound by Team,16,8
+1,6:46.0,Loose ball foul by A. Johnson (drawn by M. Brogdon),,16,8
+1,6:46.0,,E. İlyasova enters the game for M. Brogdon,16,8
+1,6:28.0,,E. Bledsoe misses 2-pt jump shot from 23 ft,16,8
+1,6:25.0,Defensive rebound by B. Simmons,,16,8
+1,6:21.0,R. Covington makes 3-pt jump shot from 27 ft (assist by B. Simmons),,19,8
+1,6:12.0,,Turnover by G. Antetokounmpo (out of bounds lost ball),19,8
+1,5:53.0,J. Redick misses 2-pt jump shot from 15 ft,,19,8
+1,5:50.0,,Defensive rebound by E. İlyasova,19,8
+1,5:44.0,,E. İlyasova makes 2-pt layup from 1 ft (assist by E. Bledsoe),19,10
+1,5:39.0,Turnover by R. Covington (traveling),,19,10
+1,5:39.0,,J. Henson enters the game for B. Lopez,19,10
+1,5:26.0,,J. Henson misses 3-pt jump shot from 23 ft,19,10
+1,5:23.0,,Offensive rebound by E. İlyasova,19,10
+1,5:16.0,,E. Bledsoe misses 3-pt jump shot from 24 ft,19,10
+1,5:12.0,Defensive rebound by B. Simmons,,19,10
+1,5:09.0,Turnover by B. Simmons (bad pass; steal by E. İlyasova),,19,10
+1,4:56.0,,K. Middleton makes 2-pt jump shot from 6 ft,19,12
+1,4:55.0,Philadelphia full timeout,,19,12
+1,4:55.0,M. Fultz enters the game for B. Simmons,,19,12
+1,4:55.0,,D. DiVincenzo enters the game for G. Antetokounmpo,19,12
+1,4:44.0,J. Redick misses 3-pt jump shot from 23 ft,,19,12
+1,4:41.0,,Defensive rebound by D. DiVincenzo,19,12
+1,4:38.0,,K. Middleton misses 2-pt layup from 3 ft (block by R. Covington),19,12
+1,4:37.0,Defensive rebound by Team,,19,12
+1,4:27.0,Offensive foul by D. Šarić (drawn by E. İlyasova),,19,12
+1,4:27.0,Turnover by D. Šarić (offensive foul),,19,12
+1,4:27.0,M. Muscala enters the game for R. Covington,,19,12
+1,4:27.0,L. Shamet enters the game for D. Šarić,,19,12
+1,4:14.0,,D. DiVincenzo misses 3-pt jump shot from 28 ft,19,12
+1,4:14.0,,Offensive rebound by Team,19,12
+1,4:14.0,Loose ball foul by L. Shamet (drawn by K. Middleton),,19,12
+1,4:14.0,,M. Brogdon enters the game for E. Bledsoe,19,12
+1,4:14.0,,K. Middleton makes free throw 1 of 2,19,13
+1,4:14.0,,K. Middleton makes free throw 2 of 2,19,14
+1,3:55.0,M. Fultz misses 2-pt jump shot from 7 ft,,19,14
+1,3:52.0,,Defensive rebound by J. Henson,19,14
+1,3:43.0,,K. Middleton misses 2-pt jump shot from 11 ft,19,14
+1,3:41.0,,Offensive rebound by J. Henson,19,14
+1,3:38.0,,Shooting foul by M. Muscala (drawn by E. İlyasova),19,14
+1,3:38.0,,E. İlyasova makes free throw 1 of 2,19,15
+1,3:38.0,J. Embiid enters the game for A. Johnson,,19,15
+1,3:38.0,,E. İlyasova misses free throw 2 of 2,19,15
+1,3:36.0,Defensive rebound by M. Muscala,,19,15
+1,3:23.0,J. Embiid misses 2-pt jump shot from 18 ft (block by E. İlyasova),,19,15
+1,3:19.0,,Defensive rebound by J. Henson,19,15
+1,3:18.0,,Turnover by D. DiVincenzo (lost ball; steal by L. Shamet),19,15
+1,3:12.0,M. Fultz misses 2-pt layup from 2 ft (block by D. DiVincenzo),,19,15
+1,3:09.0,Offensive rebound by J. Embiid,,19,15
+1,3:08.0,J. Embiid misses 2-pt layup from 4 ft,,19,15
+1,3:03.0,Offensive rebound by J. Embiid,,19,15
+1,3:03.0,J. Embiid makes 2-pt layup from 1 ft,,21,15
+1,2:55.0,,J. Henson makes 2-pt dunk from 2 ft (assist by M. Brogdon),21,17
+1,2:36.0,M. Muscala makes 3-pt jump shot from 26 ft (assist by J. Redick),,24,17
+1,2:27.0,,Offensive foul by E. İlyasova (drawn by L. Shamet),24,17
+1,2:27.0,,Turnover by E. İlyasova (offensive foul),24,17
+1,2:27.0,,G. Antetokounmpo enters the game for K. Middleton,24,17
+1,2:06.0,Shooting foul by J. Henson (drawn by J. Embiid),,24,17
+1,2:06.0,J. Embiid makes free throw 1 of 2,,25,17
+1,2:06.0,J. Embiid misses free throw 2 of 2,,25,17
+1,2:03.0,,Defensive rebound by J. Henson,25,17
+1,1:53.0,,G. Antetokounmpo misses 2-pt jump shot from 8 ft,25,17
+1,1:53.0,Defensive rebound by Team,,25,17
+1,1:43.0,L. Shamet misses 3-pt jump shot from 25 ft,,25,17
+1,1:42.0,Offensive rebound by Team,,25,17
+1,1:34.0,J. Redick makes 3-pt jump shot from 27 ft (assist by M. Muscala),,28,17
+1,1:13.0,,M. Brogdon misses 3-pt jump shot from 24 ft,28,17
+1,1:10.0,Defensive rebound by M. Muscala,,28,17
+1,0:57.0,J. Embiid misses 2-pt jump shot from 5 ft (block by J. Henson),,28,17
+1,0:57.0,Offensive rebound by Team,,28,17
+1,0:57.0,,B. Lopez enters the game for E. İlyasova,28,17
+1,0:49.0,L. Shamet makes 3-pt jump shot from 27 ft (assist by J. Embiid),,31,17
+1,0:37.0,,B. Lopez makes 3-pt jump shot from 22 ft (assist by D. DiVincenzo),31,20
+1,0:31.0,Turnover by M. Fultz (lost ball; steal by J. Henson),,31,20
+1,0:28.0,,Shooting foul by M. Muscala (drawn by G. Antetokounmpo),31,20
+1,0:28.0,,G. Antetokounmpo makes free throw 1 of 2,31,21
+1,0:28.0,,T. Snell enters the game for J. Henson,31,21
+1,0:28.0,,G. Antetokounmpo makes free throw 2 of 2,31,22
+1,0:07.0,J. Redick makes 3-pt jump shot from 24 ft (assist by J. Embiid),,34,22
+1,0:00.0,,M. Brogdon misses 3-pt jump shot from 26 ft,34,22
+1,0:00.0,,Offensive rebound by Team,34,22
+2,11:45.0,,G. Antetokounmpo makes 2-pt dunk from 2 ft,34,24
+2,11:29.0,Def 3 sec tech foul by Team,,34,24
+2,11:29.0,M. Muscala makes technical free throw,,35,24
+2,11:17.0,J. Embiid misses 2-pt jump shot from 14 ft,,35,24
+2,11:14.0,,Defensive rebound by D. DiVincenzo,35,24
+2,11:10.0,,Turnover by G. Antetokounmpo (bad pass),35,24
+2,10:58.0,R. Covington makes 2-pt layup from 5 ft (assist by M. Fultz),,37,24
+2,10:41.0,,B. Lopez makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),37,27
+2,10:27.0,R. Covington makes 2-pt jump shot from 15 ft (assist by J. Embiid),,39,27
+2,10:14.0,,G. Antetokounmpo makes 2-pt layup from 4 ft (assist by M. Brogdon),39,29
+2,10:14.0,,Shooting foul by M. Muscala (drawn by G. Antetokounmpo),39,29
+2,10:14.0,D. Šarić enters the game for M. Muscala,,39,29
+2,10:14.0,,E. Bledsoe enters the game for M. Brogdon,39,29
+2,10:14.0,,K. Middleton enters the game for D. DiVincenzo,39,29
+2,10:14.0,,G. Antetokounmpo makes free throw 1 of 1,39,30
+2,9:59.0,J. Embiid misses 3-pt jump shot from 25 ft,,39,30
+2,9:56.0,,Defensive rebound by G. Antetokounmpo,39,30
+2,9:52.0,,B. Lopez makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),39,33
+2,9:45.0,Turnover by L. Shamet (bad pass; steal by G. Antetokounmpo),,39,33
+2,9:43.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft,39,35
+2,9:43.0,Philadelphia full timeout,,39,35
+2,9:43.0,B. Simmons enters the game for L. Shamet,,39,35
+2,9:30.0,Personal foul by B. Lopez (drawn by J. Embiid),,39,35
+2,9:17.0,J. Embiid misses 2-pt hook shot from 11 ft,,39,35
+2,9:15.0,,Defensive rebound by G. Antetokounmpo,39,35
+2,9:06.0,,B. Lopez makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),39,38
+2,8:50.0,Shooting foul by K. Middleton (drawn by D. Šarić),,39,38
+2,8:50.0,D. Šarić makes free throw 1 of 2,,40,38
+2,8:50.0,D. Šarić misses free throw 2 of 2,,40,38
+2,8:47.0,,Defensive rebound by G. Antetokounmpo,40,38
+2,8:27.0,,Shooting foul by M. Fultz (drawn by E. Bledsoe),40,38
+2,8:27.0,,E. Bledsoe makes free throw 1 of 2,40,39
+2,8:27.0,,E. Bledsoe makes free throw 2 of 2,40,40
+2,8:16.0,Personal foul by E. Bledsoe (drawn by D. Šarić),,40,40
+2,8:13.0,Shooting foul by G. Antetokounmpo (drawn by B. Simmons),,40,40
+2,8:13.0,B. Simmons makes free throw 1 of 2,,41,40
+2,8:13.0,B. Simmons misses free throw 2 of 2,,41,40
+2,8:13.0,,Defensive rebound by G. Antetokounmpo,41,40
+2,8:04.0,,K. Middleton makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),41,43
+2,7:56.0,R. Covington misses 3-pt jump shot from 24 ft,,41,43
+2,7:54.0,,Defensive rebound by G. Antetokounmpo,41,43
+2,7:50.0,,B. Lopez makes 3-pt jump shot from 28 ft (assist by G. Antetokounmpo),41,46
+2,7:36.0,Shooting foul by G. Antetokounmpo (drawn by R. Covington),,41,46
+2,7:36.0,R. Covington makes free throw 1 of 2,,42,46
+2,7:36.0,A. Johnson enters the game for J. Embiid,,42,46
+2,7:36.0,J. Redick enters the game for M. Fultz,,42,46
+2,7:36.0,,E. İlyasova enters the game for G. Antetokounmpo,42,46
+2,7:36.0,R. Covington misses free throw 2 of 2,,42,46
+2,7:25.0,,Defensive rebound by T. Snell,42,46
+2,7:17.0,,E. İlyasova misses 3-pt jump shot from 23 ft,42,46
+2,7:14.0,Defensive rebound by A. Johnson,,42,46
+2,7:10.0,B. Simmons makes 2-pt layup from 1 ft,,44,46
+2,7:04.0,,E. Bledsoe makes 2-pt layup from 2 ft (assist by K. Middleton),44,48
+2,6:57.0,D. Šarić misses 3-pt jump shot from 27 ft,,44,48
+2,6:52.0,,Defensive rebound by E. İlyasova,44,48
+2,6:48.0,,T. Snell misses 3-pt jump shot from 27 ft,44,48
+2,6:45.0,Defensive rebound by D. Šarić,,44,48
+2,6:32.0,Turnover by R. Covington (bad pass; steal by E. Bledsoe),,44,48
+2,6:27.0,,T. Snell makes 2-pt layup from 2 ft (assist by E. Bledsoe),44,50
+2,6:08.0,Shooting foul by E. İlyasova (drawn by A. Johnson),,44,50
+2,6:08.0,A. Johnson makes free throw 1 of 2,,45,50
+2,6:08.0,,J. Henson enters the game for B. Lopez,45,50
+2,6:08.0,A. Johnson makes free throw 2 of 2,,46,50
+2,5:46.0,,E. Bledsoe misses 2-pt jump shot from 9 ft (block by R. Covington),46,50
+2,5:44.0,,Offensive rebound by E. Bledsoe,46,50
+2,5:44.0,,Shooting foul by B. Simmons (drawn by K. Middleton),46,50
+2,5:44.0,,K. Middleton makes free throw 1 of 2,46,51
+2,5:44.0,F. Korkmaz enters the game for R. Covington,,46,51
+2,5:44.0,,K. Middleton makes free throw 2 of 2,46,52
+2,5:32.0,J. Redick makes 2-pt jump shot from 17 ft (assist by B. Simmons),,48,52
+2,5:24.0,,E. Bledsoe misses 2-pt jump shot from 17 ft,48,52
+2,5:20.0,Defensive rebound by A. Johnson,,48,52
+2,5:16.0,Shooting foul by E. Bledsoe (drawn by J. Redick),,48,52
+2,5:16.0,,Milwaukee full timeout,48,52
+2,5:16.0,J. Redick makes free throw 1 of 3,,49,52
+2,5:16.0,J. Redick makes free throw 2 of 3,,50,52
+2,5:16.0,J. Redick makes free throw 3 of 3,,51,52
+2,4:55.0,,K. Middleton makes 3-pt jump shot from 26 ft,51,55
+2,4:46.0,Personal foul by E. İlyasova (drawn by B. Simmons),,51,55
+2,4:46.0,B. Simmons misses free throw 1 of 2,,51,55
+2,4:46.0,Offensive rebound by Team,,51,55
+2,4:46.0,B. Simmons makes free throw 2 of 2,,52,55
+2,4:32.0,,K. Middleton makes 3-pt jump shot from 27 ft,52,58
+2,4:09.0,Turnover by J. Redick (step out of bounds),,52,58
+2,4:09.0,J. Embiid enters the game for A. Johnson,,52,58
+2,4:09.0,,G. Antetokounmpo enters the game for E. İlyasova,52,58
+2,4:09.0,,M. Brogdon enters the game for T. Snell,52,58
+2,3:55.0,,K. Middleton makes 2-pt jump shot from 15 ft,52,60
+2,3:42.0,Shooting foul by K. Middleton (drawn by J. Embiid),,52,60
+2,3:42.0,J. Embiid makes free throw 1 of 2,,53,60
+2,3:42.0,J. Embiid makes free throw 2 of 2,,54,60
+2,3:29.0,,K. Middleton misses 3-pt jump shot from 24 ft,54,60
+2,3:27.0,,Offensive rebound by J. Henson,54,60
+2,3:18.0,,E. Bledsoe misses 2-pt jump shot from 16 ft,54,60
+2,3:18.0,Defensive rebound by J. Embiid,,54,60
+2,3:11.0,F. Korkmaz makes 2-pt layup at rim (assist by B. Simmons),,56,60
+2,2:57.0,,G. Antetokounmpo makes 2-pt jump shot from 18 ft,56,62
+2,2:49.0,D. Šarić misses 3-pt jump shot from 28 ft,,56,62
+2,2:49.0,,Defensive rebound by G. Antetokounmpo,56,62
+2,2:38.0,,G. Antetokounmpo misses 2-pt hook shot from 6 ft,56,62
+2,2:36.0,Defensive rebound by D. Šarić,,56,62
+2,2:31.0,F. Korkmaz misses 3-pt jump shot from 27 ft,,56,62
+2,2:23.0,,Defensive rebound by M. Brogdon,56,62
+2,2:21.0,,M. Brogdon misses 3-pt jump shot from 28 ft,56,62
+2,2:19.0,,Offensive rebound by M. Brogdon,56,62
+2,2:16.0,,J. Henson misses 2-pt hook shot from 8 ft,56,62
+2,2:13.0,Defensive rebound by D. Šarić,,56,62
+2,2:08.0,J. Redick makes 2-pt layup at rim (assist by B. Simmons),,58,62
+2,1:53.0,,M. Brogdon misses 2-pt jump shot from 12 ft,58,62
+2,1:49.0,Defensive rebound by J. Embiid,,58,62
+2,1:45.0,Shooting foul by J. Henson (drawn by J. Embiid),,58,62
+2,1:45.0,J. Embiid misses free throw 1 of 2,,58,62
+2,1:45.0,Offensive rebound by Team,,58,62
+2,1:45.0,,D. DiVincenzo enters the game for E. Bledsoe,58,62
+2,1:45.0,,B. Lopez enters the game for J. Henson,58,62
+2,1:45.0,,T. Snell enters the game for K. Middleton,58,62
+2,1:45.0,J. Embiid makes free throw 2 of 2,,59,62
+2,1:33.0,,G. Antetokounmpo makes 2-pt dunk from 2 ft,59,64
+2,1:21.0,J. Redick makes 3-pt jump shot from 27 ft (assist by B. Simmons),,62,64
+2,1:11.0,,Personal foul by F. Korkmaz (drawn by D. DiVincenzo),62,64
+2,1:11.0,R. Covington enters the game for F. Korkmaz,,62,64
+2,1:04.0,,D. DiVincenzo makes 3-pt jump shot from 29 ft (assist by G. Antetokounmpo),62,67
+2,0:48.0,J. Embiid makes 2-pt dunk from 1 ft (assist by R. Covington),,64,67
+2,0:40.0,,G. Antetokounmpo misses 2-pt layup from 5 ft,64,67
+2,0:39.0,,Offensive rebound by G. Antetokounmpo,64,67
+2,0:38.0,,G. Antetokounmpo makes 2-pt layup from 1 ft,64,69
+2,0:31.0,J. Redick misses 3-pt jump shot from 27 ft,,64,69
+2,0:28.0,,Defensive rebound by D. DiVincenzo,64,69
+2,0:10.0,,G. Antetokounmpo misses 3-pt jump shot from 27 ft,64,69
+2,0:08.0,Defensive rebound by J. Embiid,,64,69
+2,0:08.0,Turnover by J. Embiid (out of bounds lost ball),,64,69
+2,0:06.0,,G. Antetokounmpo makes 2-pt hook shot from 4 ft (assist by M. Brogdon),64,71
+2,0:00.0,J. Embiid misses 3-pt jump shot from 30 ft,,64,71
+2,0:00.0,Offensive rebound by Team,,64,71
+3,11:39.0,,G. Antetokounmpo misses 2-pt hook shot from 7 ft,64,71
+3,11:37.0,,Offensive rebound by G. Antetokounmpo,64,71
+3,11:36.0,,G. Antetokounmpo makes 2-pt layup from 1 ft,64,73
+3,11:15.0,D. Šarić makes 2-pt layup from 2 ft (assist by J. Redick),,66,73
+3,11:03.0,,K. Middleton misses 2-pt jump shot from 6 ft,66,73
+3,11:03.0,,Offensive rebound by Team,66,73
+3,11:02.0,,B. Lopez makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),66,75
+3,11:02.0,,Shooting foul by J. Embiid (drawn by B. Lopez),66,75
+3,11:02.0,,B. Lopez makes free throw 1 of 1,66,76
+3,10:53.0,J. Embiid makes 2-pt jump shot from 6 ft (assist by B. Simmons),,68,76
+3,10:33.0,,G. Antetokounmpo misses 2-pt jump shot from 12 ft,68,76
+3,10:31.0,Defensive rebound by R. Covington,,68,76
+3,10:25.0,B. Simmons misses 2-pt layup from 3 ft,,68,76
+3,10:23.0,,Defensive rebound by G. Antetokounmpo,68,76
+3,10:21.0,,K. Middleton misses 3-pt jump shot from 29 ft,68,76
+3,10:16.0,Defensive rebound by J. Embiid,,68,76
+3,10:05.0,D. Šarić misses 3-pt jump shot from 27 ft,,68,76
+3,10:02.0,,Defensive rebound by G. Antetokounmpo,68,76
+3,9:57.0,,B. Lopez misses 3-pt jump shot from 30 ft,68,76
+3,9:54.0,Defensive rebound by R. Covington,,68,76
+3,9:50.0,J. Redick misses 2-pt jump shot from 14 ft,,68,76
+3,9:46.0,,Defensive rebound by K. Middleton,68,76
+3,9:25.0,,K. Middleton misses 3-pt jump shot from 26 ft,68,76
+3,9:22.0,Defensive rebound by B. Simmons,,68,76
+3,9:14.0,Def 3 sec tech foul by Team,,68,76
+3,9:14.0,J. Redick makes technical free throw,,69,76
+3,9:09.0,Turnover by J. Redick (3 sec),,69,76
+3,8:56.0,,B. Lopez misses 3-pt jump shot from 27 ft,69,76
+3,8:53.0,Defensive rebound by J. Redick,,69,76
+3,8:40.0,J. Embiid misses 2-pt hook shot from 6 ft,,69,76
+3,8:38.0,,Defensive rebound by G. Antetokounmpo,69,76
+3,8:37.0,,Turnover by G. Antetokounmpo (bad pass),69,76
+3,8:23.0,,Violation by Team (kicked ball),69,76
+3,8:22.0,Personal foul by M. Brogdon (drawn by R. Covington),,69,76
+3,8:19.0,Offensive foul by B. Simmons (drawn by G. Antetokounmpo),,69,76
+3,8:19.0,Turnover by B. Simmons (offensive foul),,69,76
+3,8:09.0,,Personal foul by R. Covington (drawn by G. Antetokounmpo),69,76
+3,7:53.0,,E. Bledsoe misses 3-pt jump shot from 26 ft,69,76
+3,7:50.0,Defensive rebound by J. Embiid,,69,76
+3,7:45.0,J. Redick misses 3-pt jump shot from 27 ft,,69,76
+3,7:42.0,,Defensive rebound by E. Bledsoe,69,76
+3,7:31.0,,G. Antetokounmpo misses 2-pt layup from 1 ft,69,76
+3,7:28.0,Defensive rebound by B. Simmons,,69,76
+3,7:25.0,D. Šarić misses 3-pt jump shot from 24 ft,,69,76
+3,7:22.0,,Defensive rebound by G. Antetokounmpo,69,76
+3,7:15.0,,M. Brogdon misses 3-pt jump shot from 28 ft,69,76
+3,7:12.0,Defensive rebound by J. Embiid,,69,76
+3,7:02.0,Offensive foul by J. Redick (drawn by B. Lopez),,69,76
+3,7:02.0,Turnover by J. Redick (offensive foul),,69,76
+3,7:02.0,,Milwaukee full timeout,69,76
+3,7:02.0,T. McConnell enters the game for J. Embiid,,69,76
+3,7:02.0,M. Muscala enters the game for J. Redick,,69,76
+3,7:02.0,,E. İlyasova enters the game for M. Brogdon,69,76
+3,6:49.0,,K. Middleton misses 2-pt jump shot from 16 ft,69,76
+3,6:46.0,Defensive rebound by D. Šarić,,69,76
+3,6:29.0,D. Šarić misses 2-pt layup from 5 ft (block by G. Antetokounmpo),,69,76
+3,6:25.0,,Defensive rebound by B. Lopez,69,76
+3,6:18.0,,E. Bledsoe makes 3-pt jump shot from 26 ft (assist by B. Lopez),69,79
+3,6:11.0,Personal foul by E. İlyasova (drawn by D. Šarić),,69,79
+3,6:11.0,,J. Henson enters the game for B. Lopez,69,79
+3,6:02.0,B. Simmons misses 2-pt layup from 4 ft,,69,79
+3,5:59.0,,Defensive rebound by J. Henson,69,79
+3,5:55.0,,Turnover by K. Middleton (traveling),69,79
+3,5:55.0,,D. DiVincenzo enters the game for G. Antetokounmpo,69,79
+3,5:43.0,Turnover by R. Covington (lost ball; steal by J. Henson),,69,79
+3,5:39.0,,E. Bledsoe makes 2-pt layup from 1 ft (assist by K. Middleton),69,81
+3,5:39.0,Philadelphia full timeout,,69,81
+3,5:27.0,M. Muscala misses 3-pt jump shot from 26 ft,,69,81
+3,5:26.0,Offensive rebound by Team,,69,81
+3,5:26.0,M. Fultz enters the game for B. Simmons,,69,81
+3,5:18.0,M. Fultz misses 2-pt jump shot from 15 ft,,69,81
+3,5:16.0,,Defensive rebound by E. İlyasova,69,81
+3,5:03.0,,E. Bledsoe misses 2-pt jump shot from 13 ft,69,81
+3,5:00.0,Defensive rebound by M. Muscala,,69,81
+3,4:55.0,Turnover by M. Fultz (bad pass; steal by K. Middleton),,69,81
+3,4:47.0,,Def 3 sec tech foul by Team,69,81
+3,4:47.0,,K. Middleton makes technical free throw,69,82
+3,4:47.0,J. Embiid enters the game for D. Šarić,,69,82
+3,4:47.0,,M. Brogdon enters the game for E. Bledsoe,69,82
+3,4:41.0,,K. Middleton misses 3-pt jump shot from 27 ft,69,82
+3,4:38.0,Defensive rebound by J. Embiid,,69,82
+3,4:28.0,R. Covington misses 3-pt jump shot from 25 ft,,69,82
+3,4:25.0,Offensive rebound by J. Embiid,,69,82
+3,4:14.0,R. Covington misses 3-pt jump shot from 26 ft,,69,82
+3,4:12.0,,Defensive rebound by D. DiVincenzo,69,82
+3,4:05.0,,K. Middleton makes 2-pt layup from 2 ft (assist by D. DiVincenzo),69,84
+3,3:51.0,T. McConnell makes 2-pt jump shot from 11 ft (assist by J. Embiid),,71,84
+3,3:41.0,,K. Middleton misses 2-pt layup from 2 ft (block by J. Embiid),71,84
+3,3:41.0,,Offensive rebound by Team,71,84
+3,3:41.0,J. Redick enters the game for R. Covington,,71,84
+3,3:41.0,B. Simmons enters the game for T. McConnell,,71,84
+3,3:25.0,,K. Middleton misses 2-pt jump shot from 16 ft,71,84
+3,3:23.0,Defensive rebound by J. Embiid,,71,84
+3,3:20.0,Personal foul by K. Middleton (drawn by B. Simmons),,71,84
+3,3:20.0,,G. Antetokounmpo enters the game for K. Middleton,71,84
+3,3:05.0,B. Simmons misses 2-pt layup from 2 ft,,71,84
+3,3:01.0,,Defensive rebound by E. İlyasova,71,84
+3,2:54.0,,J. Henson misses 3-pt jump shot from 26 ft,71,84
+3,2:50.0,Defensive rebound by B. Simmons,,71,84
+3,2:40.0,J. Embiid makes 3-pt jump shot from 28 ft (assist by M. Fultz),,74,84
+3,2:33.0,,Shooting foul by M. Fultz (drawn by G. Antetokounmpo),74,84
+3,2:33.0,,G. Antetokounmpo misses free throw 1 of 2,74,84
+3,2:33.0,,Offensive rebound by Team,74,84
+3,2:33.0,,T. Snell enters the game for E. İlyasova,74,84
+3,2:33.0,,G. Antetokounmpo makes free throw 2 of 2,74,85
+3,2:17.0,Shooting foul by J. Henson (drawn by J. Embiid),,74,85
+3,2:17.0,J. Embiid makes free throw 1 of 2,,75,85
+3,2:17.0,J. Embiid misses free throw 2 of 2,,75,85
+3,2:14.0,,Defensive rebound by G. Antetokounmpo,75,85
+3,1:58.0,,Turnover by G. Antetokounmpo (bad pass; steal by M. Fultz),75,85
+3,1:53.0,M. Fultz misses 2-pt layup from 2 ft (block by D. DiVincenzo),,75,85
+3,1:49.0,,Defensive rebound by D. DiVincenzo,75,85
+3,1:45.0,,D. DiVincenzo misses 3-pt jump shot from 23 ft,75,85
+3,1:42.0,Defensive rebound by J. Redick,,75,85
+3,1:31.0,Turnover by M. Muscala (lost ball; steal by G. Antetokounmpo),,75,85
+3,1:28.0,,D. DiVincenzo makes 2-pt dunk from 2 ft (assist by G. Antetokounmpo),75,87
+3,1:07.0,Shooting foul by M. Brogdon (drawn by J. Embiid),,75,87
+3,1:07.0,J. Embiid makes free throw 1 of 2,,76,87
+3,1:07.0,,B. Lopez enters the game for J. Henson,76,87
+3,1:07.0,J. Embiid makes free throw 2 of 2,,77,87
+3,0:57.0,,G. Antetokounmpo misses 3-pt jump shot from 27 ft,77,87
+3,0:53.0,Defensive rebound by J. Embiid,,77,87
+3,0:36.0,J. Redick makes 2-pt jump shot from 18 ft (assist by J. Embiid),,79,87
+3,0:26.0,,M. Brogdon makes 2-pt layup from 1 ft,79,89
+3,0:07.0,B. Simmons makes 2-pt dunk from 1 ft,,81,89
+3,0:01.0,,M. Brogdon makes 2-pt layup from 1 ft,81,91
+3,0:01.0,,Shooting foul by M. Fultz (drawn by M. Brogdon),81,91
+3,0:01.0,,M. Brogdon makes free throw 1 of 1,81,92
+3,0:00.0,J. Embiid misses 3-pt jump shot from 39 ft,,81,92
+3,0:00.0,Offensive rebound by Team,,81,92
+4,11:42.0,J. Embiid makes 2-pt jump shot from 13 ft (assist by J. Redick),,83,92
+4,11:29.0,,M. Brogdon misses 2-pt layup from 1 ft (block by J. Embiid),83,92
+4,11:25.0,Defensive rebound by J. Embiid,,83,92
+4,11:23.0,M. Muscala misses 3-pt jump shot from 26 ft,,83,92
+4,11:18.0,,Defensive rebound by G. Antetokounmpo,83,92
+4,11:14.0,,Personal foul by M. Muscala (drawn by G. Antetokounmpo),83,92
+4,11:04.0,,B. Lopez makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),83,94
+4,11:04.0,,Shooting foul by J. Embiid (drawn by B. Lopez),83,94
+4,11:04.0,,B. Lopez makes free throw 1 of 1,83,95
+4,10:54.0,M. Muscala makes 2-pt jump shot from 16 ft (assist by B. Simmons),,85,95
+4,10:36.0,,T. Snell misses 3-pt jump shot from 27 ft,85,95
+4,10:33.0,Defensive rebound by B. Simmons,,85,95
+4,10:30.0,J. Redick misses 3-pt jump shot from 29 ft,,85,95
+4,10:28.0,,Defensive rebound by Team,85,95
+4,10:12.0,,T. Snell makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),85,98
+4,10:01.0,Personal foul by M. Brogdon (drawn by J. Embiid),,85,98
+4,10:01.0,D. Šarić enters the game for M. Muscala,,85,98
+4,10:01.0,,E. Bledsoe enters the game for M. Brogdon,85,98
+4,9:53.0,J. Embiid misses 3-pt jump shot from 26 ft,,85,98
+4,9:50.0,Offensive rebound by D. Šarić,,85,98
+4,9:49.0,D. Šarić makes 2-pt layup at rim,,87,98
+4,9:41.0,,Personal foul by M. Fultz (drawn by E. Bledsoe),87,98
+4,9:23.0,,G. Antetokounmpo misses 3-pt jump shot from 28 ft,87,98
+4,9:20.0,Defensive rebound by B. Simmons,,87,98
+4,9:16.0,J. Embiid misses 2-pt dunk from 2 ft (block by B. Lopez),,87,98
+4,9:12.0,,Defensive rebound by E. Bledsoe,87,98
+4,9:08.0,,G. Antetokounmpo misses 2-pt jump shot from 18 ft,87,98
+4,9:08.0,Defensive rebound by D. Šarić,,87,98
+4,8:53.0,M. Fultz makes 3-pt jump shot from 24 ft (assist by J. Redick),,90,98
+4,8:29.0,,E. Bledsoe makes 2-pt jump shot from 19 ft,90,100
+4,8:18.0,Personal foul by D. DiVincenzo (drawn by J. Redick),,90,100
+4,8:18.0,M. Muscala enters the game for J. Embiid,,90,100
+4,8:18.0,,M. Brogdon enters the game for G. Antetokounmpo,90,100
+4,8:18.0,,E. İlyasova enters the game for D. DiVincenzo,90,100
+4,8:18.0,,K. Middleton enters the game for B. Lopez,90,100
+4,8:08.0,Offensive foul by B. Simmons (drawn by E. İlyasova),,90,100
+4,8:08.0,Turnover by B. Simmons (offensive foul),,90,100
+4,7:59.0,,Personal foul by M. Muscala (drawn by E. Bledsoe),90,100
+4,7:54.0,,K. Middleton misses 3-pt jump shot from 26 ft,90,100
+4,7:54.0,Defensive rebound by Team,,90,100
+4,7:54.0,,Loose ball foul by E. İlyasova (drawn by M. Muscala),90,100
+4,7:54.0,Philadelphia full timeout,,90,100
+4,7:54.0,,G. Antetokounmpo enters the game for E. İlyasova,90,100
+4,7:54.0,,J. Henson enters the game for T. Snell,90,100
+4,7:35.0,M. Muscala misses 3-pt jump shot from 26 ft,,90,100
+4,7:32.0,,Defensive rebound by G. Antetokounmpo,90,100
+4,7:25.0,,Offensive foul by K. Middleton (drawn by M. Muscala),90,100
+4,7:25.0,,Turnover by K. Middleton (offensive foul),90,100
+4,7:25.0,R. Covington enters the game for J. Redick,,90,100
+4,7:16.0,R. Covington misses 2-pt jump shot from 17 ft,,90,100
+4,7:14.0,,Defensive rebound by Team,90,100
+4,6:58.0,,G. Antetokounmpo makes 2-pt layup at rim,90,102
+4,6:50.0,B. Simmons misses 2-pt layup from 2 ft,,90,102
+4,6:47.0,,Defensive rebound by K. Middleton,90,102
+4,6:46.0,,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by K. Middleton),90,104
+4,6:46.0,,Shooting foul by M. Fultz (drawn by G. Antetokounmpo),90,104
+4,6:46.0,J. Embiid enters the game for M. Muscala,,90,104
+4,6:46.0,,B. Lopez enters the game for J. Henson,90,104
+4,6:46.0,,G. Antetokounmpo makes free throw 1 of 1,90,105
+4,6:39.0,Personal foul by B. Lopez (drawn by R. Covington),,90,105
+4,6:26.0,J. Embiid makes 2-pt hook shot from 7 ft,,92,105
+4,6:12.0,,M. Brogdon makes 2-pt layup from 1 ft (assist by E. Bledsoe),92,107
+4,6:11.0,Philadelphia full timeout,,92,107
+4,6:11.0,J. Redick enters the game for M. Fultz,,92,107
+4,5:54.0,B. Simmons makes 2-pt dunk from 2 ft,,94,107
+4,5:46.0,,E. Bledsoe makes 3-pt jump shot from 27 ft (assist by K. Middleton),94,110
+4,5:29.0,D. Šarić makes 2-pt layup from 2 ft (assist by J. Redick),,96,110
+4,5:20.0,,E. Bledsoe misses 3-pt jump shot from 29 ft,96,110
+4,5:20.0,Defensive rebound by D. Šarić,,96,110
+4,5:12.0,J. Embiid makes 3-pt jump shot from 27 ft (assist by B. Simmons),,99,110
+4,4:50.0,,E. Bledsoe misses 3-pt jump shot from 23 ft,99,110
+4,4:48.0,Defensive rebound by B. Simmons,,99,110
+4,4:44.0,D. Šarić makes 3-pt jump shot from 25 ft (assist by B. Simmons),,102,110
+4,4:40.0,,Milwaukee full timeout,102,110
+4,4:28.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by E. Bledsoe),102,112
+4,4:05.0,J. Embiid misses 2-pt layup from 6 ft (block by G. Antetokounmpo),,102,112
+4,4:03.0,,Defensive rebound by E. Bledsoe,102,112
+4,3:52.0,,E. Bledsoe misses 2-pt jump shot from 19 ft,102,112
+4,3:49.0,Defensive rebound by J. Embiid,,102,112
+4,3:39.0,B. Simmons misses 2-pt layup from 3 ft (block by B. Lopez),,102,112
+4,3:39.0,Offensive rebound by Team,,102,112
+4,3:37.0,J. Embiid misses 3-pt jump shot from 29 ft,,102,112
+4,3:34.0,Offensive rebound by B. Simmons,,102,112
+4,3:32.0,B. Simmons misses 2-pt hook shot from 4 ft,,102,112
+4,3:32.0,,Defensive rebound by Team,102,112
+4,3:32.0,Loose ball foul by D. Šarić (drawn by K. Middleton),,102,112
+4,3:32.0,,K. Middleton makes free throw 1 of 2,102,113
+4,3:32.0,,E. İlyasova enters the game for G. Antetokounmpo,102,113
+4,3:32.0,,K. Middleton makes free throw 2 of 2,102,114
+4,3:24.0,J. Redick misses 3-pt jump shot from 28 ft (block by E. Bledsoe),,102,114
+4,3:22.0,,Defensive rebound by E. Bledsoe,102,114
+4,3:21.0,Personal foul by E. Bledsoe (drawn by J. Embiid),,102,114
+4,3:21.0,,Turnover by E. Bledsoe (lost ball),102,114
+4,3:21.0,J. Embiid makes free throw 1 of 2,,103,114
+4,3:21.0,J. Embiid makes free throw 2 of 2,,104,114
+4,3:18.0,,Milwaukee full timeout,104,114
+4,3:18.0,,G. Antetokounmpo enters the game for E. İlyasova,104,114
+4,3:06.0,,G. Antetokounmpo misses 2-pt hook shot from 2 ft,104,114
+4,3:04.0,Defensive rebound by J. Embiid,,104,114
+4,2:48.0,B. Simmons misses 2-pt jump shot from 10 ft,,104,114
+4,2:44.0,,Defensive rebound by K. Middleton,104,114
+4,2:30.0,,M. Brogdon misses 2-pt layup from 2 ft (block by J. Embiid),104,114
+4,2:27.0,Defensive rebound by B. Simmons,,104,114
+4,2:21.0,J. Embiid makes 2-pt hook shot from 4 ft (assist by J. Redick),,106,114
+4,2:08.0,,Personal foul by B. Simmons (drawn by G. Antetokounmpo),106,114
+4,2:08.0,,G. Antetokounmpo makes free throw 1 of 2,106,115
+4,2:08.0,,G. Antetokounmpo makes free throw 2 of 2,106,116
+4,2:05.0,Personal foul by G. Antetokounmpo (drawn by B. Simmons),,106,116
+4,2:05.0,B. Simmons misses free throw 1 of 2,,106,116
+4,2:05.0,Offensive rebound by Team,,106,116
+4,2:05.0,B. Simmons misses free throw 2 of 2,,106,116
+4,2:02.0,,Defensive rebound by G. Antetokounmpo,106,116
+4,1:45.0,,E. Bledsoe makes 2-pt layup from 1 ft,106,118
+4,1:45.0,Philadelphia full timeout,,106,118
+4,1:32.0,R. Covington misses 3-pt jump shot from 28 ft,,106,118
+4,1:31.0,,Defensive rebound by E. Bledsoe,106,118
+4,1:31.0,,Personal take foul by R. Covington (drawn by E. Bledsoe),106,118
+4,1:31.0,,E. Bledsoe makes free throw 1 of 2,106,119
+4,1:31.0,M. Fultz enters the game for R. Covington,,106,119
+4,1:31.0,F. Korkmaz enters the game for J. Embiid,,106,119
+4,1:31.0,T. McConnell enters the game for J. Redick,,106,119
+4,1:31.0,M. Muscala enters the game for D. Šarić,,106,119
+4,1:31.0,L. Shamet enters the game for B. Simmons,,106,119
+4,1:31.0,,D. DiVincenzo enters the game for G. Antetokounmpo,106,119
+4,1:31.0,,E. İlyasova enters the game for K. Middleton,106,119
+4,1:31.0,,E. Bledsoe makes free throw 2 of 2,106,120
+4,1:14.0,L. Shamet misses 2-pt jump shot from 7 ft,,106,120
+4,1:13.0,Offensive rebound by M. Muscala,,106,120
+4,1:12.0,,Violation by Team (def goaltending),106,120
+4,1:12.0,M. Muscala makes 2-pt layup from 1 ft,,108,120
+4,0:59.0,,E. Bledsoe misses 2-pt jump shot from 16 ft,108,120
+4,0:56.0,Defensive rebound by F. Korkmaz,,108,120
+4,0:38.0,L. Shamet misses 2-pt jump shot from 18 ft,,108,120
+4,0:35.0,,Defensive rebound by D. DiVincenzo,108,120
+4,0:20.0,,M. Brogdon misses 2-pt layup from 2 ft,108,120
+4,0:19.0,,Offensive rebound by Team,108,120
+4,0:19.0,,J. Henson enters the game for E. Bledsoe,108,120
+4,0:19.0,,T. Snell enters the game for B. Lopez,108,120
+4,0:08.0,,T. Snell makes 3-pt jump shot from 28 ft,108,123

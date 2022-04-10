@@ -1,0 +1,503 @@
+QUARTER,TIME_REMAINING,PHOENIX_ACTION,ATLANTA_ACTION,PHOENIX_SCORE,ATLANTA_SCORE
+1,11:44.0,,J. Collins misses 2-pt layup from 9 ft (block by D. Ayton),0,0
+1,11:43.0,Defensive rebound by Team,,0,0
+1,11:25.0,J. Jackson makes 2-pt jump shot from 5 ft (assist by T. Johnson),,2,0
+1,11:02.0,,K. Bazemore misses 2-pt layup from 1 ft,2,0
+1,10:59.0,Defensive rebound by K. Oubre,,2,0
+1,10:56.0,T. Johnson makes 2-pt layup from 1 ft (assist by J. Jackson),,4,0
+1,10:43.0,,Shooting foul by K. Oubre (drawn by J. Collins),4,0
+1,10:43.0,,J. Collins makes free throw 1 of 2,4,1
+1,10:43.0,,J. Collins makes free throw 2 of 2,4,2
+1,10:27.0,Personal foul by D. Dedmon (drawn by D. Ayton),,4,2
+1,10:17.0,D. Ayton makes 2-pt dunk from 1 ft (assist by D. Booker),,6,2
+1,10:09.0,,K. Bazemore misses 3-pt jump shot from 24 ft,6,2
+1,10:03.0,Defensive rebound by D. Ayton,,6,2
+1,9:54.0,K. Oubre misses 3-pt jump shot from 25 ft,,6,2
+1,9:52.0,,Defensive rebound by T. Prince,6,2
+1,9:45.0,,D. Dedmon makes 2-pt dunk from 1 ft (assist by T. Prince),6,4
+1,9:25.0,D. Booker misses 2-pt layup from 2 ft,,6,4
+1,9:21.0,Offensive rebound by D. Ayton,,6,4
+1,9:21.0,D. Ayton makes 2-pt layup at rim,,8,4
+1,9:09.0,,T. Young misses 3-pt jump shot from 28 ft,8,4
+1,9:06.0,Defensive rebound by D. Ayton,,8,4
+1,8:57.0,K. Oubre misses 2-pt layup from 4 ft (block by D. Dedmon),,8,4
+1,8:53.0,,Defensive rebound by J. Collins,8,4
+1,8:47.0,,T. Prince makes 2-pt layup from 2 ft (assist by T. Young),8,6
+1,8:47.0,,Shooting foul by J. Jackson (drawn by T. Prince),8,6
+1,8:47.0,,T. Prince makes free throw 1 of 1,8,7
+1,8:35.0,D. Booker misses 2-pt jump shot from 20 ft,,8,7
+1,8:32.0,,Defensive rebound by J. Collins,8,7
+1,8:29.0,,K. Bazemore makes 3-pt jump shot from 23 ft (assist by T. Prince),8,10
+1,8:15.0,K. Oubre misses 2-pt layup from 2 ft (block by D. Dedmon),,8,10
+1,8:15.0,Offensive rebound by Team,,8,10
+1,8:08.0,D. Booker makes 3-pt jump shot from 27 ft,,11,10
+1,7:55.0,,D. Dedmon misses 3-pt jump shot from 23 ft,11,10
+1,7:50.0,Defensive rebound by D. Booker,,11,10
+1,7:45.0,T. Johnson misses 2-pt jump shot from 9 ft,,11,10
+1,7:42.0,Offensive rebound by D. Ayton,,11,10
+1,7:41.0,D. Ayton makes 2-pt layup from 2 ft,,13,10
+1,7:23.0,,J. Collins makes 2-pt layup from 1 ft (assist by T. Young),13,12
+1,7:16.0,D. Booker misses 2-pt layup from 3 ft (block by D. Dedmon),,13,12
+1,7:16.0,,Defensive rebound by T. Prince,13,12
+1,7:11.0,,K. Bazemore makes 3-pt jump shot from 26 ft (assist by T. Prince),13,15
+1,7:09.0,Phoenix full timeout,,13,15
+1,6:59.0,K. Oubre misses 2-pt layup from 1 ft (block by K. Bazemore),,13,15
+1,6:59.0,Offensive rebound by Team,,13,15
+1,6:48.0,K. Oubre makes 3-pt jump shot from 23 ft (assist by T. Johnson),,16,15
+1,6:33.0,,T. Prince makes 3-pt jump shot from 26 ft (assist by D. Dedmon),16,18
+1,6:10.0,K. Oubre makes 3-pt jump shot from 25 ft (assist by D. Booker),,19,18
+1,5:58.0,,T. Young misses 3-pt jump shot from 26 ft,19,18
+1,5:55.0,Defensive rebound by D. Ayton,,19,18
+1,5:48.0,Offensive rebound by Team,,19,18
+1,5:48.0,J. Jackson misses 2-pt layup from 1 ft,,19,18
+1,5:47.0,,Loose ball foul by D. Dedmon (drawn by K. Oubre),19,18
+1,5:47.0,,D. Bembry enters the game for K. Bazemore,19,18
+1,5:47.0,,A. Len enters the game for D. Dedmon,19,18
+1,5:37.0,J. Jackson misses 3-pt jump shot from 26 ft,,19,18
+1,5:32.0,,Defensive rebound by D. Bembry,19,18
+1,5:29.0,,J. Collins makes 2-pt layup from 1 ft (assist by T. Young),19,20
+1,5:18.0,D. Booker makes 2-pt jump shot from 3 ft (assist by T. Johnson),,21,20
+1,5:18.0,Shooting foul by D. Bembry (drawn by D. Booker),,21,20
+1,5:18.0,D. Bender enters the game for J. Jackson,,21,20
+1,5:18.0,M. Bridges enters the game for K. Oubre,,21,20
+1,5:18.0,D. Booker makes free throw 1 of 1,,22,20
+1,5:04.0,,T. Prince misses 2-pt layup from 8 ft,22,20
+1,4:58.0,,Offensive rebound by T. Prince,22,20
+1,4:58.0,,T. Prince makes 2-pt layup from 1 ft,22,22
+1,4:52.0,D. Booker misses 2-pt jump shot from 21 ft,,22,22
+1,4:49.0,,Defensive rebound by J. Collins,22,22
+1,4:42.0,,J. Collins misses 3-pt jump shot from 25 ft,22,22
+1,4:38.0,Defensive rebound by D. Bender,,22,22
+1,4:33.0,D. Booker misses 2-pt jump shot from 6 ft,,22,22
+1,4:30.0,,Defensive rebound by A. Len,22,22
+1,4:28.0,,T. Young makes 3-pt jump shot from 26 ft (assist by A. Len),22,25
+1,4:07.0,D. Ayton misses 2-pt jump shot from 15 ft,,22,25
+1,4:05.0,,Defensive rebound by D. Bembry,22,25
+1,3:56.0,,Shooting foul by D. Booker (drawn by T. Prince),22,25
+1,3:56.0,,T. Prince makes free throw 1 of 3,22,26
+1,3:56.0,,T. Prince makes free throw 2 of 3,22,27
+1,3:56.0,,J. Adams enters the game for J. Collins,22,27
+1,3:56.0,,O. Spellman enters the game for T. Young,22,27
+1,3:56.0,,T. Prince makes free throw 3 of 3,22,28
+1,3:49.0,T. Johnson makes 2-pt dunk from 1 ft (assist by D. Booker),,24,28
+1,3:34.0,,A. Len misses 2-pt hook shot from 11 ft,24,28
+1,3:28.0,Defensive rebound by D. Bender,,24,28
+1,3:26.0,D. Booker misses 2-pt layup from 1 ft,,24,28
+1,3:26.0,,J. Anderson enters the game for T. Prince,24,28
+1,3:26.0,,Defensive rebound by Team,24,28
+1,3:09.0,,Turnover by J. Adams (bad pass),24,28
+1,2:56.0,T. Johnson misses 2-pt jump shot from 22 ft,,24,28
+1,2:54.0,,Defensive rebound by O. Spellman,24,28
+1,2:45.0,,J. Anderson misses 2-pt layup from 2 ft,24,28
+1,2:41.0,Defensive rebound by T. Johnson,,24,28
+1,2:34.0,D. Booker misses 2-pt jump shot from 12 ft,,24,28
+1,2:30.0,,Defensive rebound by D. Bembry,24,28
+1,2:23.0,,Shooting foul by D. Bender (drawn by D. Bembry),24,28
+1,2:23.0,,Atlanta full timeout,24,28
+1,2:23.0,R. Holmes enters the game for D. Ayton,,24,28
+1,2:23.0,D. Melton enters the game for T. Johnson,,24,28
+1,2:23.0,,Offensive rebound by Team,24,28
+1,2:23.0,,D. Bembry misses free throw 1 of 2,24,28
+1,2:23.0,,D. Bembry makes free throw 2 of 2,24,29
+1,2:01.0,D. Booker makes 2-pt jump shot from 18 ft (assist by M. Bridges),,26,29
+1,1:44.0,,Turnover by O. Spellman (offensive foul),26,29
+1,1:44.0,,Offensive foul by O. Spellman (drawn by D. Booker),26,29
+1,1:44.0,T. Daniels enters the game for D. Booker,,26,29
+1,1:24.0,D. Melton makes 2-pt jump shot from 9 ft,,28,29
+1,1:12.0,,Turnover by D. Bembry (bad pass),28,29
+1,0:56.0,T. Daniels misses 3-pt jump shot from 25 ft,,28,29
+1,0:53.0,Offensive rebound by R. Holmes,,28,29
+1,0:52.0,D. Bender makes 3-pt jump shot from 25 ft (assist by R. Holmes),,31,29
+1,0:42.0,,J. Anderson makes 2-pt jump shot from 16 ft,31,31
+1,0:27.0,D. Bender misses 3-pt jump shot from 26 ft,,31,31
+1,0:24.0,,Defensive rebound by J. Anderson,31,31
+1,0:08.0,,D. Bembry makes 2-pt layup from 1 ft,31,33
+1,0:00.0,D. Melton makes 2-pt jump shot from 23 ft,,33,33
+2,11:48.0,M. Bridges makes 3-pt jump shot from 25 ft (assist by T. Daniels),,36,33
+2,11:32.0,,Personal foul by D. Melton (drawn by D. Bembry),36,33
+2,11:21.0,,O. Spellman makes 2-pt layup from 2 ft (assist by D. Bembry),36,35
+2,11:14.0,T. Daniels makes 3-pt jump shot from 27 ft (assist by D. Melton),,39,35
+2,11:01.0,,J. Anderson misses 2-pt layup from 2 ft,39,35
+2,10:59.0,Defensive rebound by D. Bender,,39,35
+2,10:48.0,T. Daniels misses 3-pt jump shot from 26 ft,,39,35
+2,10:45.0,,Defensive rebound by D. Bembry,39,35
+2,10:34.0,,A. Len misses 3-pt jump shot from 23 ft,39,35
+2,10:32.0,,Offensive rebound by Team,39,35
+2,10:20.0,,T. Young misses 2-pt layup from 1 ft,39,35
+2,10:16.0,Defensive rebound by T. Daniels,,39,35
+2,10:09.0,T. Daniels makes 2-pt jump shot from 13 ft,,41,35
+2,9:51.0,,D. Bembry makes 2-pt dunk from 1 ft (assist by O. Spellman),41,37
+2,9:27.0,R. Holmes makes 2-pt hook shot from 2 ft (assist by M. Bridges),,43,37
+2,9:10.0,,Personal foul by T. Daniels (drawn by O. Spellman),43,37
+2,9:10.0,,K. Bazemore enters the game for J. Anderson,43,37
+2,9:10.0,,V. Carter enters the game for D. Bembry,43,37
+2,9:10.0,,J. Collins enters the game for A. Len,43,37
+2,9:10.0,,D. Dedmon enters the game for O. Spellman,43,37
+2,9:06.0,,Personal foul by D. Melton (drawn by T. Young),43,37
+2,9:00.0,,T. Young makes 2-pt jump shot from 20 ft,43,39
+2,8:45.0,Turnover by T. Daniels (out of bounds lost ball),,43,39
+2,8:33.0,,K. Bazemore misses 2-pt jump shot from 12 ft,43,39
+2,8:30.0,,Offensive rebound by J. Collins,43,39
+2,8:27.0,,D. Dedmon misses 2-pt layup from 1 ft,43,39
+2,8:27.0,Defensive rebound by R. Holmes,,43,39
+2,8:07.0,D. Melton misses 3-pt jump shot from 23 ft,,43,39
+2,8:05.0,,Defensive rebound by K. Bazemore,43,39
+2,7:58.0,,Turnover by T. Young (bad pass; steal by M. Bridges),43,39
+2,7:58.0,Personal foul by J. Collins (drawn by M. Bridges),,43,39
+2,7:58.0,J. Jackson enters the game for D. Bender,,43,39
+2,7:58.0,K. Oubre enters the game for T. Daniels,,43,39
+2,7:45.0,J. Jackson makes 2-pt layup from 1 ft (assist by D. Melton),,45,39
+2,7:32.0,,K. Bazemore misses 3-pt jump shot from 23 ft,45,39
+2,7:30.0,Defensive rebound by J. Jackson,,45,39
+2,7:23.0,J. Jackson makes 2-pt jump shot from 22 ft,,47,39
+2,7:08.0,,Shooting foul by J. Jackson (drawn by J. Collins),47,39
+2,7:08.0,,J. Collins makes free throw 1 of 2,47,40
+2,7:08.0,,J. Collins makes free throw 2 of 2,47,41
+2,6:56.0,M. Bridges misses 3-pt jump shot from 25 ft,,47,41
+2,6:52.0,,Defensive rebound by D. Dedmon,47,41
+2,6:39.0,,Personal foul by R. Holmes (drawn by T. Young),47,41
+2,6:39.0,,Atlanta full timeout,47,41
+2,6:39.0,D. Ayton enters the game for R. Holmes,,47,41
+2,6:39.0,T. Johnson enters the game for D. Melton,,47,41
+2,6:39.0,,T. Young makes free throw 1 of 2,47,42
+2,6:39.0,,T. Young makes free throw 2 of 2,47,43
+2,6:24.0,J. Jackson misses 3-pt jump shot from 25 ft,,47,43
+2,6:20.0,,Defensive rebound by D. Dedmon,47,43
+2,6:07.0,,Shooting foul by J. Jackson (drawn by J. Collins),47,43
+2,6:07.0,,J. Collins makes free throw 1 of 2,47,44
+2,6:07.0,D. Booker enters the game for J. Jackson,,47,44
+2,6:07.0,,T. Prince enters the game for K. Bazemore,47,44
+2,6:07.0,,J. Collins makes free throw 2 of 2,47,45
+2,5:54.0,Offensive foul by K. Oubre (drawn by V. Carter),,47,45
+2,5:54.0,Turnover by K. Oubre (offensive foul),,47,45
+2,5:54.0,,J. Adams enters the game for T. Young,47,45
+2,5:41.0,,D. Dedmon makes 2-pt layup from 1 ft,47,47
+2,5:25.0,T. Johnson makes 2-pt jump shot from 8 ft,,49,47
+2,5:14.0,,V. Carter misses 3-pt jump shot from 24 ft,49,47
+2,5:14.0,Defensive rebound by D. Ayton,,49,47
+2,5:05.0,Personal foul by J. Adams (drawn by T. Johnson),,49,47
+2,4:57.0,M. Bridges misses 3-pt jump shot from 23 ft,,49,47
+2,4:55.0,,Defensive rebound by D. Dedmon,49,47
+2,4:49.0,,D. Dedmon misses 3-pt jump shot from 25 ft,49,47
+2,4:42.0,,Offensive rebound by J. Collins,49,47
+2,4:42.0,,J. Collins misses 2-pt layup from 1 ft,49,47
+2,4:41.0,Defensive rebound by D. Ayton,,49,47
+2,4:35.0,D. Booker makes 3-pt jump shot from 25 ft (assist by K. Oubre),,52,47
+2,4:17.0,,V. Carter misses 2-pt layup from 1 ft,52,47
+2,4:11.0,,Offensive rebound by J. Collins,52,47
+2,4:11.0,,J. Collins makes 2-pt layup from 1 ft,52,49
+2,3:57.0,K. Oubre misses 3-pt jump shot from 25 ft,,52,49
+2,3:53.0,,Defensive rebound by T. Prince,52,49
+2,3:51.0,,J. Adams misses 3-pt jump shot from 26 ft,52,49
+2,3:49.0,,Offensive rebound by J. Adams,52,49
+2,3:45.0,,T. Prince misses 2-pt layup from 1 ft,52,49
+2,3:45.0,Defensive rebound by T. Johnson,,52,49
+2,3:36.0,D. Booker misses 2-pt layup from 1 ft,,52,49
+2,3:35.0,,Defensive rebound by Team,52,49
+2,3:35.0,,K. Bazemore enters the game for V. Carter,52,49
+2,3:19.0,,K. Bazemore makes 2-pt jump shot from 13 ft (assist by J. Adams),52,51
+2,3:02.0,D. Ayton misses 2-pt jump shot from 20 ft,,52,51
+2,2:59.0,,Defensive rebound by J. Collins,52,51
+2,2:53.0,,K. Bazemore makes 2-pt layup from 1 ft,52,53
+2,2:53.0,Phoenix full timeout,,52,53
+2,2:53.0,,O. Spellman enters the game for J. Collins,52,53
+2,2:38.0,Turnover by D. Booker (bad pass; steal by K. Bazemore),,52,53
+2,2:19.0,,K. Bazemore misses 2-pt jump shot from 10 ft,52,53
+2,2:13.0,,Offensive rebound by K. Bazemore,52,53
+2,2:13.0,,K. Bazemore makes 2-pt layup from 1 ft,52,55
+2,2:08.0,Personal foul by T. Prince (drawn by D. Booker),,52,55
+2,1:58.0,K. Oubre misses 2-pt jump shot from 9 ft,,52,55
+2,1:54.0,,Defensive rebound by T. Prince,52,55
+2,1:53.0,,T. Prince makes 2-pt layup from 3 ft,52,57
+2,1:53.0,,Shooting foul by T. Johnson (drawn by T. Prince),52,57
+2,1:53.0,,T. Young enters the game for J. Adams,52,57
+2,1:53.0,,T. Prince makes free throw 1 of 1,52,58
+2,1:39.0,T. Johnson makes 2-pt jump shot from 12 ft,,54,58
+2,1:23.0,,K. Bazemore makes 3-pt jump shot from 26 ft (assist by T. Young),54,61
+2,1:04.0,Personal foul by T. Prince (drawn by D. Booker),,54,61
+2,0:54.0,Turnover by M. Bridges (bad pass; steal by O. Spellman),,54,61
+2,0:47.0,,D. Dedmon misses 2-pt layup at rim,54,61
+2,0:46.0,,Offensive rebound by O. Spellman,54,61
+2,0:46.0,,O. Spellman makes 2-pt layup from 1 ft,54,63
+2,0:34.0,D. Booker makes 2-pt jump shot from 16 ft,,56,63
+2,0:25.0,,D. Dedmon misses 2-pt jump shot from 21 ft,56,63
+2,0:22.0,Defensive rebound by T. Johnson,,56,63
+2,0:03.0,K. Oubre makes 3-pt jump shot from 25 ft (assist by M. Bridges),,59,63
+2,0:00.0,,T. Prince misses 3-pt jump shot from 49 ft,59,63
+2,0:00.0,,Offensive rebound by Team,59,63
+3,11:46.0,T. Johnson makes 3-pt jump shot from 26 ft (assist by J. Jackson),,62,63
+3,11:30.0,,T. Prince misses 3-pt jump shot from 25 ft,62,63
+3,11:25.0,,Offensive rebound by D. Dedmon,62,63
+3,11:20.0,,Def 3 sec tech foul by Team,62,63
+3,11:20.0,,D. Dedmon makes technical free throw,62,64
+3,11:06.0,,Turnover by T. Young (bad pass; steal by D. Ayton),62,64
+3,10:59.0,,Violation by Team (kicked ball),62,64
+3,10:56.0,Turnover by K. Oubre (bad pass; steal by T. Prince),,62,64
+3,10:50.0,,Turnover by T. Prince (bad pass; steal by T. Johnson),62,64
+3,10:47.0,T. Johnson misses 2-pt layup at rim,,62,64
+3,10:47.0,Offensive rebound by T. Johnson,,62,64
+3,10:47.0,Shooting foul by T. Young (drawn by T. Johnson),,62,64
+3,10:47.0,T. Johnson makes free throw 1 of 2,,63,64
+3,10:47.0,T. Johnson makes free throw 2 of 2,,64,64
+3,10:33.0,,D. Dedmon misses 3-pt jump shot from 24 ft,64,64
+3,10:30.0,Defensive rebound by T. Johnson,,64,64
+3,10:23.0,K. Oubre misses 3-pt jump shot from 24 ft,,64,64
+3,10:19.0,,Defensive rebound by K. Bazemore,64,64
+3,10:12.0,,J. Collins makes 3-pt jump shot from 24 ft (assist by K. Bazemore),64,67
+3,9:50.0,D. Ayton makes 2-pt layup from 1 ft (assist by J. Jackson),,66,67
+3,9:42.0,,Personal foul by T. Johnson (drawn by T. Young),66,67
+3,9:39.0,,J. Collins misses 3-pt jump shot from 25 ft,66,67
+3,9:35.0,Defensive rebound by K. Oubre,,66,67
+3,9:27.0,K. Oubre misses 2-pt layup from 2 ft (block by D. Dedmon),,66,67
+3,9:27.0,Offensive rebound by Team,,66,67
+3,9:24.0,D. Booker misses 2-pt jump shot from 16 ft,,66,67
+3,9:21.0,,Defensive rebound by T. Young,66,67
+3,9:16.0,,T. Young misses 3-pt jump shot from 26 ft,66,67
+3,9:14.0,Defensive rebound by D. Booker,,66,67
+3,9:13.0,T. Johnson makes 2-pt layup from 1 ft (assist by D. Booker),,68,67
+3,9:13.0,,Violation by Team (def goaltending),68,67
+3,8:58.0,,K. Bazemore misses 3-pt jump shot from 22 ft,68,67
+3,8:52.0,,D. Dedmon makes 2-pt dunk at rim,68,69
+3,8:52.0,,Offensive rebound by D. Dedmon,68,69
+3,8:43.0,T. Johnson makes 3-pt jump shot from 26 ft (assist by D. Booker),,71,69
+3,8:27.0,,J. Collins misses 2-pt layup from 2 ft,71,69
+3,8:26.0,,Offensive rebound by Team,71,69
+3,8:26.0,Loose ball foul by D. Ayton (drawn by J. Collins),,71,69
+3,8:26.0,Technical foul by J. Jackson,,71,69
+3,8:26.0,,D. Dedmon misses technical free throw,71,69
+3,8:26.0,,Offensive rebound by Team,71,69
+3,8:22.0,,T. Young makes 2-pt layup from 1 ft (assist by D. Dedmon),71,71
+3,8:13.0,Personal foul by K. Bazemore (drawn by D. Booker),,71,71
+3,8:07.0,Shooting foul by J. Collins (drawn by T. Johnson),,71,71
+3,8:07.0,T. Johnson makes free throw 1 of 2,,72,71
+3,8:07.0,T. Johnson misses free throw 2 of 2,,72,71
+3,8:05.0,,Defensive rebound by J. Collins,72,71
+3,7:53.0,,K. Bazemore misses 2-pt jump shot from 16 ft (block by D. Booker),72,71
+3,7:53.0,,Offensive rebound by Team,72,71
+3,7:43.0,,Turnover by Team (shot clock),72,71
+3,7:22.0,K. Oubre misses 2-pt jump shot from 15 ft,,72,71
+3,7:19.0,,Defensive rebound by T. Prince,72,71
+3,7:08.0,,T. Young makes 2-pt jump shot from 14 ft,72,73
+3,7:00.0,T. Johnson misses 3-pt jump shot from 25 ft,,72,73
+3,7:00.0,,Defensive rebound by J. Collins,72,73
+3,6:51.0,,D. Dedmon makes 3-pt jump shot from 26 ft (assist by T. Young),72,76
+3,6:49.0,Phoenix full timeout,,72,76
+3,6:49.0,,D. Bembry enters the game for K. Bazemore,72,76
+3,6:49.0,,O. Spellman enters the game for J. Collins,72,76
+3,6:24.0,K. Oubre misses 2-pt layup from 1 ft (block by D. Dedmon),,72,76
+3,6:20.0,,Defensive rebound by D. Bembry,72,76
+3,6:00.0,,D. Bembry misses 2-pt layup from 2 ft,72,76
+3,5:57.0,Defensive rebound by D. Ayton,,72,76
+3,5:51.0,D. Booker misses 3-pt jump shot from 25 ft,,72,76
+3,5:47.0,,Defensive rebound by O. Spellman,72,76
+3,5:31.0,,O. Spellman misses 2-pt jump shot from 14 ft,72,76
+3,5:28.0,,Offensive rebound by D. Dedmon,72,76
+3,5:28.0,,D. Dedmon makes 2-pt dunk at rim,72,78
+3,5:08.0,T. Johnson makes 3-pt jump shot from 25 ft (assist by D. Booker),,75,78
+3,4:47.0,,Turnover by D. Bembry (bad pass; steal by T. Johnson),75,78
+3,4:40.0,D. Ayton makes 2-pt jump shot from 14 ft (assist by T. Johnson),,77,78
+3,4:35.0,,Atlanta full timeout,77,78
+3,4:35.0,D. Bender enters the game for J. Jackson,,77,78
+3,4:35.0,M. Bridges enters the game for K. Oubre,,77,78
+3,4:35.0,,J. Adams enters the game for D. Dedmon,77,78
+3,4:35.0,,K. Bazemore enters the game for T. Prince,77,78
+3,4:35.0,,A. Len enters the game for T. Young,77,78
+3,4:11.0,,K. Bazemore makes 3-pt jump shot from 23 ft (assist by D. Bembry),77,81
+3,3:56.0,D. Ayton makes 2-pt dunk from 1 ft (assist by M. Bridges),,79,81
+3,3:39.0,,D. Bembry misses 2-pt layup at rim,79,81
+3,3:35.0,Defensive rebound by D. Bender,,79,81
+3,3:20.0,M. Bridges misses 2-pt layup at rim (block by O. Spellman),,79,81
+3,3:16.0,,Defensive rebound by D. Bembry,79,81
+3,3:14.0,,K. Bazemore misses 3-pt jump shot from 26 ft,79,81
+3,3:12.0,Defensive rebound by D. Booker,,79,81
+3,3:01.0,T. Johnson makes 3-pt jump shot from 22 ft (assist by D. Booker),,82,81
+3,2:41.0,,O. Spellman misses 3-pt jump shot from 24 ft,82,81
+3,2:38.0,Defensive rebound by D. Booker,,82,81
+3,2:37.0,Personal foul by D. Bembry (drawn by D. Booker),,82,81
+3,2:37.0,R. Holmes enters the game for D. Ayton,,82,81
+3,2:37.0,D. Melton enters the game for T. Johnson,,82,81
+3,2:29.0,D. Booker makes 2-pt jump shot from 14 ft,,84,81
+3,2:13.0,,K. Bazemore makes 2-pt jump shot from 3 ft,84,83
+3,1:50.0,Turnover by D. Bender (bad pass),,84,83
+3,1:35.0,,D. Bembry misses 2-pt jump shot from 10 ft,84,83
+3,1:33.0,Defensive rebound by Team,,84,83
+3,1:19.0,D. Booker misses 3-pt jump shot from 27 ft,,84,83
+3,1:15.0,Offensive rebound by R. Holmes,,84,83
+3,1:13.0,M. Bridges misses 3-pt jump shot from 23 ft,,84,83
+3,1:12.0,Offensive rebound by Team,,84,83
+3,1:12.0,,Loose ball foul by J. Adams (drawn by D. Bender),84,83
+3,1:12.0,D. Bender misses free throw 1 of 2,,84,83
+3,1:12.0,Offensive rebound by Team,,84,83
+3,1:12.0,K. Oubre enters the game for D. Booker,,84,83
+3,1:12.0,D. Bender makes free throw 2 of 2,,85,83
+3,0:51.0,,K. Bazemore makes 3-pt jump shot from 28 ft,85,86
+3,0:43.0,R. Holmes makes 2-pt layup from 1 ft,,87,86
+3,0:43.0,Violation by Team (delay of game),,87,86
+3,0:32.0,,K. Bazemore misses 2-pt jump shot from 15 ft,87,86
+3,0:28.0,Defensive rebound by D. Melton,,87,86
+3,0:06.0,K. Oubre misses 3-pt jump shot from 23 ft (block by D. Bembry),,87,86
+3,0:03.0,,Defensive rebound by J. Adams,87,86
+3,0:00.0,,Turnover by J. Adams (lost ball; steal by M. Bridges),87,86
+4,11:41.0,,J. Collins misses 2-pt hook shot from 9 ft,87,86
+4,11:37.0,Defensive rebound by D. Melton,,87,86
+4,11:23.0,M. Bridges makes 3-pt jump shot from 23 ft (assist by D. Melton),,90,86
+4,11:09.0,,Turnover by T. Prince (bad pass; steal by D. Melton),90,86
+4,10:52.0,Turnover by M. Bridges (bad pass; steal by K. Bazemore),,90,86
+4,10:46.0,,T. Prince misses 2-pt layup from 1 ft,90,86
+4,10:43.0,Defensive rebound by D. Bender,,90,86
+4,10:38.0,Personal foul by K. Bazemore (drawn by R. Holmes),,90,86
+4,10:26.0,K. Oubre misses 2-pt jump shot from 15 ft,,90,86
+4,10:26.0,,Defensive rebound by Team,90,86
+4,10:13.0,,Turnover by O. Spellman (bad pass; steal by K. Oubre),90,86
+4,10:09.0,K. Oubre makes 2-pt dunk from 1 ft,,92,86
+4,10:09.0,,Atlanta full timeout,92,86
+4,10:09.0,,D. Dedmon enters the game for J. Adams,92,86
+4,10:09.0,,T. Young enters the game for O. Spellman,92,86
+4,9:51.0,,Turnover by J. Collins (bad pass; steal by K. Oubre),92,86
+4,9:47.0,K. Oubre makes 2-pt dunk at rim,,94,86
+4,9:36.0,,T. Prince misses 3-pt jump shot from 23 ft,94,86
+4,9:35.0,,Offensive rebound by Team,94,86
+4,9:35.0,Loose ball foul by R. Holmes (drawn by J. Collins),,94,86
+4,9:33.0,,Personal foul by R. Holmes (drawn by J. Collins),94,86
+4,9:22.0,,Shooting foul by R. Holmes (drawn by D. Dedmon),94,86
+4,9:22.0,,D. Dedmon makes free throw 1 of 2,94,87
+4,9:22.0,,D. Dedmon makes free throw 2 of 2,94,88
+4,9:11.0,K. Oubre misses 3-pt jump shot from 25 ft,,94,88
+4,9:08.0,,Defensive rebound by K. Bazemore,94,88
+4,9:01.0,,Turnover by K. Bazemore (lost ball; steal by M. Bridges),94,88
+4,8:56.0,Turnover by D. Bender (bad pass; steal by T. Young),,94,88
+4,8:55.0,,T. Prince makes 3-pt jump shot from 24 ft (assist by T. Young),94,91
+4,8:55.0,Phoenix full timeout,,94,91
+4,8:55.0,D. Booker enters the game for D. Bender,,94,91
+4,8:55.0,T. Johnson enters the game for D. Melton,,94,91
+4,8:45.0,Personal foul by K. Bazemore (drawn by K. Oubre),,94,91
+4,8:42.0,T. Johnson misses 3-pt jump shot from 23 ft,,94,91
+4,8:38.0,,Defensive rebound by J. Collins,94,91
+4,8:27.0,Violation by Team (kicked ball),,94,91
+4,8:23.0,,Personal foul by K. Oubre (drawn by D. Dedmon),94,91
+4,8:12.0,,D. Dedmon misses 2-pt layup from 2 ft (block by R. Holmes),94,91
+4,8:12.0,,Offensive rebound by Team,94,91
+4,8:08.0,,T. Young misses 3-pt jump shot from 23 ft,94,91
+4,8:05.0,Defensive rebound by K. Oubre,,94,91
+4,8:02.0,Shooting foul by T. Prince (drawn by D. Booker),,94,91
+4,8:02.0,D. Booker makes free throw 1 of 2,,95,91
+4,8:02.0,D. Booker makes free throw 2 of 2,,96,91
+4,7:52.0,,Shooting foul by T. Johnson (drawn by T. Young),96,91
+4,7:52.0,,T. Young makes free throw 1 of 2,96,92
+4,7:52.0,,T. Young makes free throw 2 of 2,96,93
+4,7:42.0,Turnover by R. Holmes (offensive foul),,96,93
+4,7:42.0,Offensive foul by R. Holmes (drawn by T. Prince),,96,93
+4,7:42.0,D. Ayton enters the game for R. Holmes,,96,93
+4,7:27.0,,T. Prince misses 3-pt jump shot from 25 ft,96,93
+4,7:24.0,Defensive rebound by D. Ayton,,96,93
+4,7:20.0,Turnover by D. Booker (lost ball; steal by T. Prince),,96,93
+4,7:14.0,,T. Prince misses 2-pt layup from 1 ft,96,93
+4,7:12.0,Defensive rebound by M. Bridges,,96,93
+4,7:09.0,Shooting foul by D. Dedmon (drawn by K. Oubre),,96,93
+4,7:09.0,K. Oubre misses free throw 1 of 2,,96,93
+4,7:09.0,Offensive rebound by Team,,96,93
+4,7:09.0,K. Oubre makes free throw 2 of 2,,97,93
+4,6:58.0,,T. Young misses 2-pt jump shot from 13 ft (block by T. Johnson),97,93
+4,6:54.0,,Offensive rebound by J. Collins,97,93
+4,6:45.0,,D. Dedmon makes 2-pt layup from 1 ft (assist by T. Prince),97,95
+4,6:32.0,D. Booker makes 2-pt layup from 2 ft,,99,95
+4,6:17.0,,T. Young misses 2-pt layup from 2 ft,99,95
+4,6:13.0,Defensive rebound by D. Ayton,,99,95
+4,6:09.0,D. Booker makes 2-pt layup from 1 ft,,101,95
+4,6:09.0,,Atlanta full timeout,101,95
+4,6:09.0,,D. Bembry enters the game for K. Bazemore,101,95
+4,6:09.0,,O. Spellman enters the game for J. Collins,101,95
+4,5:51.0,,T. Prince misses 2-pt jump shot from 8 ft,101,95
+4,5:47.0,,Offensive rebound by D. Dedmon,101,95
+4,5:46.0,,D. Dedmon misses 2-pt jump shot from 9 ft,101,95
+4,5:46.0,Defensive rebound by Team,,101,95
+4,5:46.0,,Loose ball foul by O. Spellman (drawn by D. Ayton),101,95
+4,5:46.0,D. Ayton makes free throw 1 of 2,,102,95
+4,5:46.0,D. Ayton makes free throw 2 of 2,,103,95
+4,5:39.0,,O. Spellman makes 3-pt jump shot from 23 ft (assist by T. Young),103,98
+4,5:18.0,Turnover by K. Oubre (lost ball; steal by T. Prince),,103,98
+4,5:04.0,,T. Young misses 2-pt layup from 1 ft,103,98
+4,5:03.0,,Offensive rebound by Team,103,98
+4,4:50.0,,O. Spellman makes 2-pt layup from 1 ft (assist by T. Young),103,100
+4,4:50.0,,Shooting foul by D. Booker (drawn by O. Spellman),103,100
+4,4:50.0,,J. Collins enters the game for D. Dedmon,103,100
+4,4:50.0,,O. Spellman misses free throw 1 of 1,103,100
+4,4:48.0,Defensive rebound by D. Ayton,,103,100
+4,4:33.0,D. Booker misses 3-pt jump shot from 25 ft,,103,100
+4,4:30.0,,Defensive rebound by J. Collins,103,100
+4,4:27.0,,Personal foul by D. Booker (drawn by T. Young),103,100
+4,4:27.0,,T. Young makes free throw 1 of 2,103,101
+4,4:27.0,,T. Young makes free throw 2 of 2,103,102
+4,4:16.0,T. Johnson makes 2-pt jump shot from 11 ft (assist by D. Booker),,105,102
+4,4:05.0,,T. Young makes 3-pt jump shot from 29 ft (assist by J. Collins),105,105
+4,4:03.0,Phoenix full timeout,,105,105
+4,4:03.0,,K. Bazemore enters the game for T. Prince,105,105
+4,3:48.0,K. Oubre misses 3-pt jump shot from 24 ft,,105,105
+4,3:47.0,,Defensive rebound by Team,105,105
+4,3:36.0,,Shooting foul by K. Oubre (drawn by J. Collins),105,105
+4,3:36.0,,J. Collins makes free throw 1 of 2,105,106
+4,3:36.0,,J. Collins makes free throw 2 of 2,105,107
+4,3:29.0,Shooting foul by T. Young (drawn by T. Johnson),,105,107
+4,3:29.0,T. Johnson makes free throw 1 of 2,,106,107
+4,3:29.0,T. Johnson makes free throw 2 of 2,,107,107
+4,3:19.0,,Offensive foul by J. Collins (drawn by K. Oubre),107,107
+4,3:19.0,,Turnover by J. Collins (offensive foul),107,107
+4,3:05.0,D. Booker misses 2-pt jump shot from 17 ft,,107,107
+4,3:00.0,,Defensive rebound by J. Collins,107,107
+4,2:56.0,,Personal foul by D. Ayton (drawn by T. Young),107,107
+4,2:56.0,,T. Young makes free throw 1 of 2,107,108
+4,2:56.0,,D. Dedmon enters the game for D. Bembry,107,108
+4,2:56.0,,T. Prince enters the game for O. Spellman,107,108
+4,2:56.0,,T. Young makes free throw 2 of 2,107,109
+4,2:43.0,M. Bridges misses 3-pt jump shot from 25 ft,,107,109
+4,2:39.0,,Defensive rebound by T. Prince,107,109
+4,2:19.0,,K. Bazemore misses 2-pt jump shot from 7 ft,107,109
+4,2:16.0,Defensive rebound by D. Booker,,107,109
+4,2:13.0,D. Booker misses 2-pt layup from 2 ft (block by D. Dedmon),,107,109
+4,2:10.0,,Defensive rebound by T. Prince,107,109
+4,2:09.0,,T. Prince makes 2-pt layup from 2 ft,107,111
+4,2:09.0,,Shooting foul by M. Bridges (drawn by T. Prince),107,111
+4,2:09.0,,Technical foul by I. Kokoskov,107,111
+4,2:09.0,,T. Prince makes technical free throw,107,112
+4,2:09.0,,T. Prince misses free throw 1 of 1,107,112
+4,2:06.0,Defensive rebound by D. Ayton,,107,112
+4,1:55.0,Personal foul by K. Bazemore (drawn by D. Booker),,107,112
+4,1:55.0,D. Booker makes free throw 1 of 2,,108,112
+4,1:55.0,D. Booker makes free throw 2 of 2,,109,112
+4,1:45.0,,Shooting foul by D. Ayton (drawn by T. Prince),109,112
+4,1:45.0,,T. Prince makes free throw 1 of 2,109,113
+4,1:45.0,,T. Prince misses free throw 2 of 2,109,113
+4,1:43.0,Defensive rebound by D. Booker,,109,113
+4,1:24.0,Turnover by D. Ayton (bad pass; steal by D. Dedmon),,109,113
+4,1:11.0,,T. Young misses 2-pt jump shot from 9 ft,109,113
+4,1:07.0,Defensive rebound by D. Booker,,109,113
+4,1:03.0,M. Bridges misses 3-pt jump shot from 23 ft,,109,113
+4,0:59.0,,Defensive rebound by K. Bazemore,109,113
+4,0:58.0,,Atlanta full timeout,109,113
+4,0:47.0,,D. Dedmon makes 2-pt dunk from 1 ft (assist by J. Collins),109,115
+4,0:40.0,T. Johnson misses 2-pt layup from 3 ft,,109,115
+4,0:36.0,,Defensive rebound by J. Collins,109,115
+4,0:30.0,,Personal foul by M. Bridges (drawn by T. Young),109,115
+4,0:30.0,,Offensive rebound by Team,109,115
+4,0:30.0,,T. Young misses free throw 1 of 2,109,115
+4,0:30.0,R. Holmes enters the game for T. Johnson,,109,115
+4,0:30.0,,T. Young makes free throw 2 of 2,109,116
+4,0:30.0,Phoenix full timeout,,109,116
+4,0:30.0,T. Johnson enters the game for R. Holmes,,109,116
+4,0:28.0,D. Booker misses 3-pt jump shot from 25 ft,,109,116
+4,0:23.0,Offensive rebound by M. Bridges,,109,116
+4,0:23.0,M. Bridges misses 2-pt layup from 1 ft,,109,116
+4,0:22.0,,Defensive rebound by D. Dedmon,109,116
+4,0:19.0,,Personal foul by K. Oubre (drawn by J. Collins),109,116
+4,0:19.0,,J. Collins makes free throw 1 of 2,109,117
+4,0:19.0,,J. Collins makes free throw 2 of 2,109,118
+4,0:13.0,Shooting foul by K. Bazemore (drawn by D. Booker),,109,118
+4,0:13.0,D. Booker makes free throw 1 of 3,,110,118
+4,0:13.0,D. Booker makes free throw 2 of 3,,111,118
+4,0:13.0,D. Booker makes free throw 3 of 3,,112,118
+4,0:12.0,,Personal take foul by K. Oubre (drawn by T. Young),112,118
+4,0:12.0,,T. Young makes free throw 1 of 2,112,119
+4,0:12.0,D. Melton enters the game for K. Oubre,,112,119
+4,0:12.0,,T. Young makes free throw 2 of 2,112,120
+4,0:04.0,M. Bridges misses 3-pt jump shot from 26 ft,,112,120
+4,0:00.0,,Defensive rebound by T. Young,112,120

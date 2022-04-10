@@ -1,0 +1,444 @@
+QUARTER,TIME_REMAINING,PHOENIX_ACTION,HOUSTON_ACTION,PHOENIX_SCORE,HOUSTON_SCORE
+1,11:47.0,,E. Gordon misses 3-pt jump shot from 25 ft,0,0
+1,11:44.0,,Offensive rebound by C. Capela,0,0
+1,11:42.0,,C. Capela makes 2-pt dunk at rim,0,2
+1,11:19.0,J. Jackson makes 2-pt jump shot from 15 ft,,2,2
+1,11:06.0,,P. Tucker makes 3-pt jump shot from 23 ft (assist by C. Capela),2,5
+1,10:52.0,Turnover by E. Okobo (bad pass; steal by J. Harden),,2,5
+1,10:34.0,,C. Paul makes 3-pt jump shot from 26 ft,2,8
+1,10:12.0,E. Okobo misses 3-pt jump shot from 23 ft,,2,8
+1,10:10.0,,Defensive rebound by J. Harden,2,8
+1,10:04.0,,Turnover by J. Harden (bad pass; steal by D. Bender),2,8
+1,9:59.0,M. Bridges makes 3-pt jump shot from 23 ft (assist by E. Okobo),,5,8
+1,9:37.0,,E. Gordon makes 3-pt jump shot from 28 ft (assist by C. Paul),5,11
+1,9:23.0,M. Bridges misses 3-pt jump shot from 26 ft,,5,11
+1,9:20.0,,Defensive rebound by C. Capela,5,11
+1,9:12.0,,P. Tucker misses 3-pt jump shot from 22 ft,5,11
+1,9:10.0,Defensive rebound by D. Bender,,5,11
+1,8:59.0,R. Spalding misses 2-pt layup from 6 ft,,5,11
+1,8:57.0,,Defensive rebound by C. Capela,5,11
+1,8:53.0,,Personal foul by E. Okobo (drawn by J. Harden),5,11
+1,8:47.0,,P. Tucker misses 3-pt jump shot from 25 ft,5,11
+1,8:45.0,Defensive rebound by J. Jackson,,5,11
+1,8:37.0,Turnover by R. Spalding (bad pass; steal by E. Gordon),,5,11
+1,8:27.0,,J. Harden misses 2-pt layup from 4 ft,5,11
+1,8:22.0,Defensive rebound by J. Jackson,,5,11
+1,8:20.0,J. Jackson misses 2-pt jump shot from 7 ft,,5,11
+1,8:13.0,J. Jackson makes 2-pt layup at rim,,7,11
+1,8:13.0,Offensive rebound by J. Jackson,,7,11
+1,8:12.0,,Shooting foul by R. Spalding (drawn by C. Capela),7,11
+1,8:12.0,,C. Capela makes free throw 1 of 2,7,12
+1,8:12.0,,C. Capela makes free throw 2 of 2,7,13
+1,8:00.0,M. Bridges makes 2-pt layup from 2 ft (assist by J. Jackson),,9,13
+1,7:39.0,,P. Tucker misses 2-pt layup from 2 ft,9,13
+1,7:33.0,,Offensive rebound by C. Capela,9,13
+1,7:33.0,,C. Capela makes 2-pt dunk from 1 ft,9,15
+1,7:18.0,J. Jackson misses 3-pt jump shot from 25 ft,,9,15
+1,7:16.0,,Defensive rebound by J. Harden,9,15
+1,7:13.0,,Personal foul by M. Bridges (drawn by J. Harden),9,15
+1,7:06.0,,P. Tucker misses 3-pt jump shot from 25 ft,9,15
+1,7:02.0,,Offensive rebound by C. Capela,9,15
+1,7:00.0,,C. Capela misses 2-pt hook shot from 5 ft,9,15
+1,6:58.0,,Offensive rebound by P. Tucker,9,15
+1,6:56.0,,C. Paul makes 3-pt jump shot from 26 ft (assist by P. Tucker),9,18
+1,6:56.0,Phoenix full timeout,,9,18
+1,6:56.0,T. Daniels enters the game for R. Spalding,,9,18
+1,6:56.0,,D. House enters the game for C. Paul,9,18
+1,6:51.0,J. Jackson misses 3-pt jump shot from 23 ft,,9,18
+1,6:50.0,,Defensive rebound by D. House,9,18
+1,6:44.0,,E. Gordon makes 3-pt jump shot from 25 ft (assist by J. Harden),9,21
+1,6:22.0,D. Bender makes 2-pt hook shot from 4 ft (assist by J. Jackson),,11,21
+1,6:11.0,,C. Capela makes 2-pt layup from 2 ft (assist by P. Tucker),11,23
+1,5:52.0,D. Bender misses 2-pt hook shot from 11 ft,,11,23
+1,5:48.0,,Defensive rebound by D. House,11,23
+1,5:36.0,,E. Gordon misses 3-pt jump shot from 25 ft,11,23
+1,5:34.0,Defensive rebound by D. Bender,,11,23
+1,5:22.0,T. Daniels misses 2-pt jump shot from 22 ft,,11,23
+1,5:21.0,,Defensive rebound by J. Harden,11,23
+1,5:15.0,,C. Capela makes 2-pt layup from 1 ft (assist by J. Harden),11,25
+1,4:59.0,T. Daniels misses 3-pt jump shot from 25 ft,,11,25
+1,4:55.0,,Defensive rebound by C. Capela,11,25
+1,4:44.0,,Turnover by J. Harden (lost ball; steal by T. Daniels),11,25
+1,4:42.0,Personal foul by P. Tucker (drawn by T. Daniels),,11,25
+1,4:42.0,,A. Rivers enters the game for E. Gordon,11,25
+1,4:42.0,,I. Shumpert enters the game for P. Tucker,11,25
+1,4:30.0,D. Bender misses 3-pt jump shot from 26 ft,,11,25
+1,4:27.0,,Defensive rebound by D. House,11,25
+1,4:15.0,,I. Shumpert misses 3-pt jump shot from 25 ft,11,25
+1,4:13.0,Defensive rebound by E. Okobo,,11,25
+1,4:07.0,E. Okobo misses 2-pt layup from 1 ft,,11,25
+1,4:06.0,Offensive rebound by D. Bender,,11,25
+1,4:06.0,D. Bender makes 2-pt layup at rim,,13,25
+1,3:54.0,,J. Harden makes 2-pt layup from 1 ft,13,27
+1,3:40.0,Personal foul by J. Harden (drawn by D. Bender),,13,27
+1,3:40.0,J. Crawford enters the game for M. Bridges,,13,27
+1,3:25.0,D. Bender misses 2-pt layup from 4 ft,,13,27
+1,3:24.0,,Defensive rebound by C. Capela,13,27
+1,3:18.0,,Offensive foul by J. Harden (drawn by J. Jackson),13,27
+1,3:18.0,,Turnover by J. Harden (offensive foul),13,27
+1,3:02.0,J. Crawford makes 2-pt layup from 3 ft,,15,27
+1,2:53.0,,Houston full timeout,15,27
+1,2:53.0,,N. Hilário enters the game for C. Capela,15,27
+1,2:53.0,,C. Paul enters the game for J. Harden,15,27
+1,2:39.0,,D. House misses 3-pt jump shot from 26 ft,15,27
+1,2:37.0,Defensive rebound by T. Daniels,,15,27
+1,2:20.0,T. Daniels misses 2-pt jump shot from 16 ft,,15,27
+1,2:19.0,,Defensive rebound by D. House,15,27
+1,2:12.0,,I. Shumpert misses 2-pt jump shot from 21 ft,15,27
+1,2:11.0,Defensive rebound by E. Okobo,,15,27
+1,2:05.0,Shooting foul by C. Paul (drawn by D. Bender),,15,27
+1,2:05.0,D. Bender makes free throw 1 of 2,,16,27
+1,2:05.0,M. Bridges enters the game for J. Jackson,,16,27
+1,2:05.0,D. Melton enters the game for E. Okobo,,16,27
+1,2:05.0,D. Bender makes free throw 2 of 2,,17,27
+1,1:47.0,,N. Hilário misses 2-pt jump shot from 11 ft,17,27
+1,1:45.0,Defensive rebound by J. Crawford,,17,27
+1,1:35.0,Shooting foul by N. Hilário (drawn by J. Crawford),,17,27
+1,1:35.0,J. Crawford makes free throw 1 of 3,,18,27
+1,1:35.0,J. Crawford makes free throw 2 of 3,,19,27
+1,1:35.0,J. Crawford makes free throw 3 of 3,,20,27
+1,1:22.0,,A. Rivers makes 2-pt jump shot from 9 ft (assist by C. Paul),20,29
+1,1:09.0,Turnover by J. Crawford (bad pass; steal by C. Paul),,20,29
+1,1:01.0,,D. House misses 2-pt layup from 4 ft,20,29
+1,0:58.0,Defensive rebound by D. Bender,,20,29
+1,0:49.0,D. Bender misses 2-pt layup from 1 ft (block by N. Hilário),,20,29
+1,0:48.0,Offensive rebound by D. Bender,,20,29
+1,0:48.0,Shooting foul by N. Hilário (drawn by D. Bender),,20,29
+1,0:48.0,Offensive rebound by Team,,20,29
+1,0:48.0,D. Bender misses free throw 1 of 2,,20,29
+1,0:48.0,D. Bender makes free throw 2 of 2,,21,29
+1,0:39.0,,A. Rivers makes 3-pt jump shot from 25 ft (assist by C. Paul),21,32
+1,0:32.0,D. Melton makes 3-pt jump shot from 23 ft (assist by J. Crawford),,24,32
+1,0:20.0,,A. Rivers misses 2-pt layup from 4 ft,24,32
+1,0:19.0,,Offensive rebound by N. Hilário,24,32
+1,0:19.0,,N. Hilário makes 2-pt dunk from 1 ft,24,34
+1,0:00.0,D. Bender misses 2-pt layup from 3 ft,,24,34
+1,0:00.0,Offensive rebound by Team,,24,34
+2,11:44.0,J. Crawford misses 2-pt jump shot from 20 ft,,24,34
+2,11:42.0,,Defensive rebound by C. Paul,24,34
+2,11:26.0,,C. Paul misses 3-pt jump shot from 24 ft,24,34
+2,11:25.0,Defensive rebound by M. Bridges,,24,34
+2,11:18.0,M. Bridges misses 2-pt jump shot from 22 ft,,24,34
+2,11:16.0,,Defensive rebound by D. House,24,34
+2,11:09.0,,N. Hilário makes 2-pt jump shot from 17 ft (assist by A. Rivers),24,36
+2,10:44.0,J. Crawford makes 3-pt jump shot from 25 ft (assist by D. Melton),,27,36
+2,10:27.0,,D. House makes 3-pt jump shot from 23 ft (assist by N. Hilário),27,39
+2,10:09.0,R. Spalding makes 2-pt jump shot from 11 ft (assist by J. Crawford),,29,39
+2,9:51.0,,E. Gordon misses 3-pt jump shot from 26 ft,29,39
+2,9:49.0,Defensive rebound by M. Bridges,,29,39
+2,9:43.0,J. Crawford misses 3-pt jump shot from 26 ft,,29,39
+2,9:39.0,,Defensive rebound by D. House,29,39
+2,9:32.0,,Turnover by C. Paul (lost ball; steal by R. Spalding),29,39
+2,9:30.0,Turnover by D. Melton (bad pass; steal by C. Paul),,29,39
+2,9:28.0,,Turnover by C. Paul (bad pass; steal by J. Crawford),29,39
+2,9:24.0,D. Melton misses 2-pt layup from 2 ft (block by D. House),,29,39
+2,9:22.0,Offensive rebound by Team,,29,39
+2,9:22.0,J. Jackson enters the game for T. Daniels,,29,39
+2,9:17.0,M. Bridges makes 2-pt layup from 2 ft (assist by D. Melton),,31,39
+2,9:08.0,,E. Gordon makes 2-pt layup from 1 ft,31,41
+2,8:48.0,J. Jackson makes 2-pt layup from 2 ft,,33,41
+2,8:42.0,,Shooting foul by R. Spalding (drawn by N. Hilário),33,41
+2,8:42.0,,N. Hilário makes free throw 1 of 2,33,42
+2,8:42.0,,N. Hilário makes free throw 2 of 2,33,43
+2,8:21.0,J. Jackson misses 2-pt layup from 3 ft,,33,43
+2,8:18.0,,Defensive rebound by N. Hilário,33,43
+2,8:11.0,,C. Paul misses 2-pt jump shot from 11 ft,33,43
+2,8:08.0,Defensive rebound by J. Jackson,,33,43
+2,8:03.0,Turnover by D. Melton (bad pass; steal by D. House),,33,43
+2,7:53.0,,E. Gordon makes 3-pt jump shot from 26 ft (assist by D. House),33,46
+2,7:53.0,Phoenix full timeout,,33,46
+2,7:53.0,D. Bender enters the game for R. Spalding,,33,46
+2,7:53.0,,C. Capela enters the game for N. Hilário,33,46
+2,7:53.0,,J. Harden enters the game for D. House,33,46
+2,7:53.0,,I. Shumpert enters the game for C. Paul,33,46
+2,7:53.0,,P. Tucker enters the game for A. Rivers,33,46
+2,7:42.0,D. Melton misses 3-pt jump shot from 23 ft,,33,46
+2,7:39.0,,Defensive rebound by P. Tucker,33,46
+2,7:22.0,,C. Capela makes 2-pt layup from 1 ft (assist by J. Harden),33,48
+2,7:03.0,J. Crawford makes 2-pt jump shot from 19 ft (assist by D. Melton),,35,48
+2,6:41.0,,Turnover by E. Gordon (bad pass; steal by J. Jackson),35,48
+2,6:41.0,Turnover by D. Melton (lost ball; steal by C. Capela),,35,48
+2,6:36.0,,J. Harden makes 2-pt layup from 4 ft,35,50
+2,6:36.0,,Shooting foul by J. Jackson (drawn by J. Harden),35,50
+2,6:36.0,,J. Harden misses free throw 1 of 1,35,50
+2,6:36.0,Defensive rebound by J. Jackson,,35,50
+2,6:20.0,J. Crawford makes 2-pt jump shot from 8 ft,,37,50
+2,6:07.0,,P. Tucker misses 3-pt jump shot from 23 ft,37,50
+2,6:05.0,,Offensive rebound by C. Capela,37,50
+2,6:01.0,,E. Gordon makes 3-pt jump shot from 22 ft (assist by J. Harden),37,53
+2,5:42.0,J. Crawford makes 2-pt layup from 3 ft,,39,53
+2,5:17.0,,Shooting foul by D. Bender (drawn by C. Capela),39,53
+2,5:17.0,,C. Capela makes free throw 1 of 2,39,54
+2,5:17.0,T. Daniels enters the game for D. Melton,,39,54
+2,5:17.0,,D. House enters the game for E. Gordon,39,54
+2,5:17.0,,C. Capela misses free throw 2 of 2,39,54
+2,5:17.0,Defensive rebound by J. Jackson,,39,54
+2,4:58.0,J. Crawford misses 3-pt jump shot from 23 ft,,39,54
+2,4:55.0,,Defensive rebound by J. Harden,39,54
+2,4:44.0,,D. House makes 2-pt dunk from 1 ft (assist by J. Harden),39,56
+2,4:25.0,D. Bender makes 2-pt layup from 2 ft (assist by J. Crawford),,41,56
+2,4:08.0,,Shooting foul by D. Bender (drawn by J. Harden),41,56
+2,4:08.0,,J. Harden makes free throw 1 of 2,41,57
+2,4:08.0,,J. Harden makes free throw 2 of 2,41,58
+2,3:56.0,J. Jackson misses 2-pt layup from 4 ft (block by C. Capela),,41,58
+2,3:53.0,,Defensive rebound by J. Harden,41,58
+2,3:50.0,,J. Harden makes 3-pt jump shot from 25 ft,41,61
+2,3:48.0,Phoenix full timeout,,41,61
+2,3:48.0,,C. Paul enters the game for I. Shumpert,41,61
+2,3:37.0,M. Bridges misses 2-pt jump shot from 9 ft,,41,61
+2,3:35.0,,Defensive rebound by C. Capela,41,61
+2,3:23.0,,J. Harden makes 2-pt layup from 2 ft (assist by C. Paul),41,63
+2,3:08.0,Shooting foul by D. House (drawn by D. Bender),,41,63
+2,3:08.0,D. Bender makes free throw 1 of 2,,42,63
+2,3:08.0,,E. Gordon enters the game for D. House,42,63
+2,3:08.0,D. Bender misses free throw 2 of 2,,42,63
+2,3:08.0,,Defensive rebound by J. Harden,42,63
+2,2:46.0,,P. Tucker misses 2-pt jump shot from 8 ft,42,63
+2,2:46.0,,Offensive rebound by Team,42,63
+2,2:46.0,Loose ball foul by T. Daniels (drawn by C. Capela),,42,63
+2,2:46.0,,C. Capela makes free throw 1 of 2,42,64
+2,2:46.0,,C. Capela makes free throw 2 of 2,42,65
+2,2:29.0,D. Bender makes 2-pt layup from 2 ft (assist by J. Jackson),,44,65
+2,2:08.0,,E. Gordon makes 3-pt jump shot from 26 ft (assist by C. Paul),44,68
+2,1:58.0,J. Crawford misses 2-pt jump shot from 5 ft,,44,68
+2,1:55.0,,Defensive rebound by C. Paul,44,68
+2,1:51.0,,J. Harden misses 3-pt jump shot from 28 ft,44,68
+2,1:47.0,Defensive rebound by J. Crawford,,44,68
+2,1:44.0,M. Bridges misses 3-pt jump shot from 26 ft,,44,68
+2,1:42.0,,Defensive rebound by J. Harden,44,68
+2,1:29.0,,C. Paul misses 2-pt jump shot from 19 ft,44,68
+2,1:27.0,Defensive rebound by J. Jackson,,44,68
+2,1:22.0,Turnover by J. Jackson (bad pass; steal by C. Paul),,44,68
+2,1:19.0,,Shooting foul by T. Daniels (drawn by C. Capela),44,68
+2,1:19.0,,C. Capela makes free throw 1 of 2,44,69
+2,1:19.0,,C. Capela misses free throw 2 of 2,44,69
+2,1:19.0,Defensive rebound by D. Bender,,44,69
+2,1:03.0,Shooting foul by P. Tucker (drawn by J. Jackson),,44,69
+2,1:03.0,J. Jackson misses free throw 1 of 2,,44,69
+2,1:03.0,Offensive rebound by Team,,44,69
+2,1:03.0,J. Jackson makes free throw 2 of 2,,45,69
+2,0:49.0,,C. Capela makes 2-pt dunk from 1 ft (assist by C. Paul),45,71
+2,0:36.0,J. Crawford makes 2-pt jump shot from 8 ft,,47,71
+2,0:30.0,,J. Harden makes 3-pt jump shot from 29 ft,47,74
+2,0:10.0,J. Crawford misses 2-pt jump shot from 21 ft,,47,74
+2,0:08.0,,Defensive rebound by C. Capela,47,74
+2,0:00.0,,P. Tucker makes 3-pt jump shot from 24 ft (assist by C. Capela),47,77
+2,0:00.0,Turnover by D. Bender (bad pass; steal by J. Harden),,47,77
+3,11:39.0,Turnover by D. Bender (bad pass; steal by P. Tucker),,47,77
+3,11:28.0,,J. Harden misses 2-pt layup from 3 ft,47,77
+3,11:23.0,,Offensive rebound by C. Capela,47,77
+3,11:23.0,,C. Capela misses 2-pt layup at rim,47,77
+3,11:22.0,Defensive rebound by D. Bender,,47,77
+3,11:12.0,J. Jackson misses 2-pt jump shot from 11 ft,,47,77
+3,11:10.0,,Defensive rebound by J. Harden,47,77
+3,10:56.0,,C. Paul misses 3-pt jump shot from 23 ft,47,77
+3,10:56.0,Defensive rebound by Team,,47,77
+3,10:56.0,,Loose ball foul by C. Capela (drawn by R. Spalding),47,77
+3,10:40.0,Turnover by J. Jackson (step out of bounds),,47,77
+3,10:22.0,,E. Gordon misses 3-pt jump shot from 23 ft,47,77
+3,10:21.0,Defensive rebound by R. Spalding,,47,77
+3,10:15.0,M. Bridges makes 2-pt layup from 2 ft,,49,77
+3,9:59.0,,P. Tucker misses 2-pt jump shot from 5 ft,49,77
+3,9:57.0,Defensive rebound by J. Jackson,,49,77
+3,9:46.0,D. Bender misses 2-pt hook shot from 4 ft,,49,77
+3,9:45.0,,Defensive rebound by J. Harden,49,77
+3,9:35.0,,E. Gordon misses 3-pt jump shot from 22 ft,49,77
+3,9:34.0,,Offensive rebound by C. Capela,49,77
+3,9:34.0,,Shooting foul by E. Okobo (drawn by C. Capela),49,77
+3,9:34.0,,C. Capela makes free throw 1 of 2,49,78
+3,9:34.0,,C. Capela makes free throw 2 of 2,49,79
+3,9:22.0,Turnover by J. Jackson (bad pass; steal by C. Paul),,49,79
+3,9:21.0,,Personal take foul by M. Bridges (drawn by C. Paul),49,79
+3,9:07.0,,P. Tucker makes 3-pt jump shot from 23 ft (assist by J. Harden),49,82
+3,8:51.0,E. Okobo misses 2-pt jump shot from 9 ft,,49,82
+3,8:49.0,,Defensive rebound by E. Gordon,49,82
+3,8:34.0,,P. Tucker misses 3-pt jump shot from 24 ft,49,82
+3,8:33.0,Defensive rebound by R. Spalding,,49,82
+3,8:27.0,R. Spalding makes 2-pt layup from 2 ft,,51,82
+3,8:09.0,,C. Paul misses 3-pt jump shot from 26 ft,51,82
+3,8:06.0,Defensive rebound by J. Jackson,,51,82
+3,8:00.0,R. Spalding makes 2-pt layup from 2 ft (assist by J. Jackson),,53,82
+3,8:00.0,Shooting foul by J. Harden (drawn by R. Spalding),,53,82
+3,8:00.0,R. Spalding makes free throw 1 of 1,,54,82
+3,7:47.0,,E. Gordon makes 3-pt jump shot from 25 ft (assist by C. Paul),54,85
+3,7:29.0,Personal foul by C. Capela (drawn by E. Okobo),,54,85
+3,7:29.0,,Houston full timeout,54,85
+3,7:23.0,M. Bridges misses 3-pt jump shot from 26 ft,,54,85
+3,7:23.0,Offensive rebound by E. Okobo,,54,85
+3,7:19.0,M. Bridges makes 3-pt jump shot from 25 ft (assist by E. Okobo),,57,85
+3,7:06.0,,P. Tucker makes 3-pt jump shot from 24 ft (assist by C. Capela),57,88
+3,6:55.0,E. Okobo makes 2-pt layup from 1 ft (assist by M. Bridges),,59,88
+3,6:40.0,,J. Harden makes 2-pt jump shot from 9 ft,59,90
+3,6:26.0,J. Jackson makes 3-pt jump shot from 26 ft (assist by E. Okobo),,62,90
+3,6:15.0,,Turnover by J. Harden (lost ball; steal by R. Spalding),62,90
+3,6:10.0,R. Spalding makes 2-pt dunk from 2 ft (assist by M. Bridges),,64,90
+3,5:52.0,,C. Paul misses 2-pt jump shot from 16 ft,64,90
+3,5:50.0,Defensive rebound by R. Spalding,,64,90
+3,5:41.0,M. Bridges misses 2-pt jump shot from 21 ft,,64,90
+3,5:40.0,,Defensive rebound by C. Capela,64,90
+3,5:35.0,,E. Gordon makes 3-pt jump shot from 25 ft (assist by C. Paul),64,93
+3,5:12.0,J. Jackson makes 2-pt layup from 2 ft,,66,93
+3,4:56.0,,E. Gordon makes 3-pt jump shot from 23 ft (assist by C. Capela),66,96
+3,4:55.0,Phoenix full timeout,,66,96
+3,4:55.0,T. Daniels enters the game for R. Spalding,,66,96
+3,4:55.0,,D. House enters the game for E. Gordon,66,96
+3,4:55.0,,A. Rivers enters the game for C. Paul,66,96
+3,4:55.0,,I. Shumpert enters the game for P. Tucker,66,96
+3,4:40.0,D. Bender misses 2-pt layup from 3 ft,,66,96
+3,4:38.0,,Defensive rebound by J. Harden,66,96
+3,4:35.0,,C. Capela makes 2-pt layup from 2 ft (assist by J. Harden),66,98
+3,4:26.0,Shooting foul by A. Rivers (drawn by M. Bridges),,66,98
+3,4:26.0,M. Bridges makes free throw 1 of 2,,67,98
+3,4:26.0,R. Spalding enters the game for D. Bender,,67,98
+3,4:26.0,M. Bridges makes free throw 2 of 2,,68,98
+3,4:16.0,Violation by Team (kicked ball),,68,98
+3,4:16.0,J. Crawford enters the game for M. Bridges,,68,98
+3,4:13.0,,J. Harden makes 3-pt jump shot from 23 ft (assist by A. Rivers),68,101
+3,3:52.0,J. Jackson misses 3-pt jump shot from 24 ft,,68,101
+3,3:51.0,,Defensive rebound by J. Harden,68,101
+3,3:50.0,,Turnover by J. Harden (lost ball; steal by E. Okobo),68,101
+3,3:49.0,Shooting foul by I. Shumpert (drawn by E. Okobo),,68,101
+3,3:49.0,E. Okobo makes free throw 1 of 2,,69,101
+3,3:49.0,E. Okobo makes free throw 2 of 2,,70,101
+3,3:36.0,,Personal foul by J. Jackson (drawn by J. Harden),70,101
+3,3:36.0,,N. Hilário enters the game for C. Capela,70,101
+3,3:24.0,,N. Hilário misses 2-pt dunk from 3 ft,70,101
+3,3:22.0,Defensive rebound by J. Crawford,,70,101
+3,3:15.0,E. Okobo makes 2-pt layup from 2 ft (assist by J. Jackson),,72,101
+3,3:05.0,,Shooting foul by R. Spalding (drawn by J. Harden),72,101
+3,3:05.0,,J. Harden misses free throw 1 of 2,72,101
+3,3:05.0,,Offensive rebound by Team,72,101
+3,3:05.0,,C. Paul enters the game for A. Rivers,72,101
+3,3:05.0,,J. Harden makes free throw 2 of 2,72,102
+3,2:48.0,T. Daniels misses 3-pt jump shot from 27 ft,,72,102
+3,2:47.0,,Defensive rebound by J. Harden,72,102
+3,2:39.0,,J. Harden makes 2-pt layup from 2 ft,72,104
+3,2:21.0,R. Spalding misses 2-pt layup from 2 ft,,72,104
+3,2:19.0,,Defensive rebound by C. Paul,72,104
+3,2:14.0,,J. Harden makes 3-pt jump shot from 28 ft (assist by C. Paul),72,107
+3,2:03.0,J. Crawford misses 2-pt jump shot from 18 ft,,72,107
+3,2:02.0,,Defensive rebound by Team,72,107
+3,1:54.0,,D. House makes 3-pt jump shot from 23 ft (assist by J. Harden),72,110
+3,1:32.0,J. Crawford makes 3-pt jump shot from 25 ft,,75,110
+3,1:19.0,,I. Shumpert misses 3-pt jump shot from 23 ft,75,110
+3,1:16.0,,Offensive rebound by Team,75,110
+3,1:16.0,D. Bender enters the game for E. Okobo,,75,110
+3,1:16.0,D. Melton enters the game for R. Spalding,,75,110
+3,1:13.0,,Personal foul by J. Jackson (drawn by J. Harden),75,110
+3,1:13.0,,J. Harden makes free throw 1 of 2,75,111
+3,1:13.0,,J. Harden makes free throw 2 of 2,75,112
+3,1:02.0,Turnover by D. Melton (lost ball; steal by C. Paul),,75,112
+3,1:00.0,,N. Hilário makes 2-pt dunk from 2 ft (assist by J. Harden),75,114
+3,0:51.0,T. Daniels misses 3-pt jump shot from 22 ft,,75,114
+3,0:46.0,,Defensive rebound by J. Harden,75,114
+3,0:41.0,,Turnover by J. Harden (bad pass; steal by J. Jackson),75,114
+3,0:36.0,D. Bender makes 2-pt layup from 2 ft (assist by J. Jackson),,77,114
+3,0:27.0,,J. Harden misses 2-pt jump shot from 7 ft,77,114
+3,0:25.0,Defensive rebound by T. Daniels,,77,114
+3,0:07.0,Shooting foul by D. House (drawn by D. Bender),,77,114
+3,0:07.0,D. Bender misses free throw 1 of 2,,77,114
+3,0:07.0,Offensive rebound by Team,,77,114
+3,0:07.0,E. Okobo enters the game for J. Crawford,,77,114
+3,0:07.0,D. Bender misses free throw 2 of 2,,77,114
+3,0:07.0,,Defensive rebound by N. Hilário,77,114
+3,0:00.0,,J. Harden makes 3-pt jump shot from 34 ft,77,117
+4,11:47.0,,I. Shumpert makes 3-pt jump shot from 26 ft (assist by N. Hilário),77,120
+4,11:31.0,T. Daniels makes 3-pt jump shot from 23 ft (assist by D. Melton),,80,120
+4,11:14.0,,N. Hilário makes 2-pt jump shot from 18 ft (assist by A. Rivers),80,122
+4,10:56.0,D. Bender makes 2-pt layup from 1 ft (assist by J. Crawford),,82,122
+4,10:45.0,,D. House makes 3-pt jump shot from 26 ft (assist by N. Hilário),82,125
+4,10:30.0,Shooting foul by N. Hilário (drawn by J. Crawford),,82,125
+4,10:30.0,J. Crawford makes free throw 1 of 2,,83,125
+4,10:30.0,J. Crawford makes free throw 2 of 2,,84,125
+4,10:22.0,,A. Rivers misses 3-pt jump shot from 25 ft,84,125
+4,10:21.0,Defensive rebound by M. Bridges,,84,125
+4,10:14.0,T. Daniels misses 3-pt jump shot from 26 ft,,84,125
+4,10:12.0,Offensive rebound by D. Melton,,84,125
+4,10:10.0,J. Crawford misses 3-pt jump shot from 25 ft,,84,125
+4,10:07.0,,Defensive rebound by G. Green,84,125
+4,9:49.0,,G. Green misses 3-pt jump shot from 24 ft,84,125
+4,9:45.0,Defensive rebound by J. Crawford,,84,125
+4,9:37.0,M. Bridges makes 3-pt jump shot from 22 ft (assist by J. Crawford),,87,125
+4,9:15.0,,D. House makes 2-pt layup from 6 ft,87,127
+4,9:01.0,D. Bender misses 3-pt jump shot from 24 ft,,87,127
+4,8:59.0,Offensive rebound by T. Daniels,,87,127
+4,8:55.0,M. Bridges makes 2-pt layup from 2 ft (assist by T. Daniels),,89,127
+4,8:43.0,,N. Hilário misses 3-pt jump shot from 25 ft,89,127
+4,8:40.0,Defensive rebound by M. Bridges,,89,127
+4,8:36.0,D. Bender makes 3-pt jump shot from 25 ft (assist by J. Crawford),,92,127
+4,8:27.0,,Personal foul by D. Melton (drawn by I. Shumpert),92,127
+4,8:27.0,,G. Clark enters the game for D. House,92,127
+4,8:17.0,,A. Rivers misses 2-pt layup from 1 ft,92,127
+4,8:15.0,Defensive rebound by D. Bender,,92,127
+4,8:12.0,J. Crawford makes 3-pt jump shot from 26 ft,,95,127
+4,8:05.0,,Houston full timeout,95,127
+4,8:05.0,,K. Faried enters the game for N. Hilário,95,127
+4,7:55.0,,G. Green misses 3-pt jump shot from 25 ft,95,127
+4,7:52.0,Defensive rebound by M. Bridges,,95,127
+4,7:39.0,D. Bender misses 2-pt hook shot from 8 ft,,95,127
+4,7:36.0,,Defensive rebound by K. Faried,95,127
+4,7:23.0,,K. Faried makes 2-pt layup from 2 ft (assist by A. Rivers),95,129
+4,7:23.0,,Shooting foul by D. Bender (drawn by K. Faried),95,129
+4,7:23.0,,K. Faried makes free throw 1 of 1,95,130
+4,7:08.0,J. Crawford makes 3-pt jump shot from 25 ft,,98,130
+4,6:50.0,,G. Clark makes 3-pt jump shot from 26 ft (assist by A. Rivers),98,133
+4,6:31.0,T. Daniels misses 3-pt jump shot from 27 ft,,98,133
+4,6:29.0,,Defensive rebound by G. Clark,98,133
+4,6:24.0,,G. Green misses 3-pt jump shot from 26 ft,98,133
+4,6:21.0,Defensive rebound by D. Melton,,98,133
+4,6:16.0,D. Melton makes 2-pt layup from 1 ft,,100,133
+4,5:58.0,,K. Faried misses 3-pt jump shot from 25 ft,100,133
+4,5:56.0,Defensive rebound by D. Melton,,100,133
+4,5:51.0,J. Crawford misses 3-pt jump shot from 26 ft,,100,133
+4,5:48.0,Offensive rebound by M. Bridges,,100,133
+4,5:46.0,D. Bender misses 3-pt jump shot from 25 ft,,100,133
+4,5:43.0,,Defensive rebound by G. Clark,100,133
+4,5:31.0,,I. Shumpert makes 2-pt jump shot from 20 ft,100,135
+4,5:19.0,D. Melton misses 2-pt layup from 2 ft,,100,135
+4,5:18.0,,Defensive rebound by I. Shumpert,100,135
+4,5:18.0,J. Fredette enters the game for T. Daniels,,100,135
+4,5:18.0,,C. Chiozza enters the game for I. Shumpert,100,135
+4,4:59.0,,C. Chiozza misses 3-pt jump shot from 25 ft,100,135
+4,4:53.0,,Offensive rebound by K. Faried,100,135
+4,4:53.0,,K. Faried makes 2-pt layup at rim,100,137
+4,4:42.0,Turnover by J. Crawford (bad pass; steal by A. Rivers),,100,137
+4,4:34.0,,G. Clark misses 3-pt jump shot from 27 ft,100,137
+4,4:32.0,Defensive rebound by Team,,100,137
+4,4:32.0,Phoenix full timeout,,100,137
+4,4:32.0,E. Okobo enters the game for D. Bender,,100,137
+4,4:32.0,R. Spalding enters the game for J. Crawford,,100,137
+4,4:08.0,E. Okobo misses 3-pt jump shot from 25 ft,,100,137
+4,4:05.0,Offensive rebound by J. Fredette,,100,137
+4,3:59.0,E. Okobo makes 2-pt jump shot from 3 ft (assist by D. Melton),,102,137
+4,3:43.0,,G. Green makes 2-pt layup from 1 ft (assist by C. Chiozza),102,139
+4,3:32.0,J. Fredette misses 3-pt jump shot from 23 ft (block by C. Chiozza),,102,139
+4,3:32.0,Offensive rebound by Team,,102,139
+4,3:25.0,E. Okobo makes 2-pt layup from 3 ft,,104,139
+4,3:04.0,,G. Clark makes 3-pt jump shot from 25 ft,104,142
+4,2:53.0,D. Melton makes 2-pt dunk from 1 ft (assist by E. Okobo),,106,142
+4,2:38.0,,A. Rivers makes 2-pt layup from 2 ft,106,144
+4,2:38.0,,Shooting foul by R. Spalding (drawn by A. Rivers),106,144
+4,2:38.0,,A. Rivers misses free throw 1 of 1,106,144
+4,2:38.0,Defensive rebound by D. Melton,,106,144
+4,2:14.0,D. Melton makes 2-pt layup from 3 ft (assist by J. Fredette),,108,144
+4,2:00.0,,G. Green misses 3-pt jump shot from 25 ft,108,144
+4,1:59.0,,Offensive rebound by K. Faried,108,144
+4,1:59.0,,K. Faried makes 2-pt layup from 1 ft,108,146
+4,1:52.0,E. Okobo misses 2-pt layup from 2 ft (block by K. Faried),,108,146
+4,1:49.0,,Defensive rebound by C. Chiozza,108,146
+4,1:44.0,,A. Rivers misses 3-pt jump shot from 23 ft,108,146
+4,1:42.0,,Offensive rebound by G. Clark,108,146
+4,1:39.0,,G. Green misses 3-pt jump shot from 26 ft,108,146
+4,1:39.0,,Offensive rebound by G. Clark,108,146
+4,1:34.0,,G. Clark misses 3-pt jump shot from 25 ft,108,146
+4,1:31.0,Defensive rebound by R. Spalding,,108,146
+4,1:27.0,D. Melton makes 2-pt layup from 2 ft,,110,146
+4,1:27.0,Shooting foul by G. Green (drawn by D. Melton),,110,146
+4,1:27.0,D. Melton makes free throw 1 of 1,,111,146
+4,1:16.0,,Personal foul by R. Spalding (drawn by A. Rivers),111,146
+4,1:09.0,,A. Rivers makes 3-pt jump shot from 25 ft,111,149
+4,0:56.0,E. Okobo makes 2-pt dunk from 1 ft (assist by D. Melton),,113,149
+4,0:39.0,,A. Rivers misses 3-pt jump shot from 25 ft,113,149
+4,0:37.0,Defensive rebound by Team,,113,149
+4,0:21.0,R. Spalding misses 3-pt jump shot from 27 ft,,113,149
+4,0:18.0,,Defensive rebound by G. Green,113,149

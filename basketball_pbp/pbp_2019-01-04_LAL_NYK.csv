@@ -1,0 +1,512 @@
+QUARTER,TIME_REMAINING,NEW YORK_ACTION,LA LAKERS_ACTION,NEW YORK_SCORE,LA LAKERS_SCORE
+1,11:49.0,,Turnover by L. Ball (bad pass; steal by N. Vonleh),0,0
+1,11:44.0,N. Vonleh misses 3-pt jump shot from 26 ft,,0,0
+1,11:40.0,,Defensive rebound by B. Ingram,0,0
+1,11:20.0,,B. Ingram misses 3-pt jump shot from 27 ft,0,0
+1,11:16.0,Defensive rebound by T. Hardaway,,0,0
+1,10:59.0,L. Kornet misses 2-pt jump shot from 14 ft,,0,0
+1,10:56.0,Offensive rebound by N. Vonleh,,0,0
+1,10:53.0,T. Hardaway makes 3-pt jump shot from 29 ft (assist by N. Vonleh),,3,0
+1,10:41.0,,L. Ball makes 3-pt jump shot from 28 ft (assist by J. McGee),3,3
+1,10:17.0,N. Vonleh makes 3-pt jump shot from 26 ft (assist by E. Mudiay),,6,3
+1,10:03.0,,Personal foul by N. Vonleh (drawn by B. Ingram),6,3
+1,9:54.0,,Turnover by L. Ball (bad pass; steal by L. Kornet),6,3
+1,9:36.0,Personal foul by L. Ball (drawn by N. Vonleh),,6,3
+1,9:30.0,E. Mudiay misses 3-pt jump shot from 25 ft,,6,3
+1,9:27.0,,Defensive rebound by B. Ingram,6,3
+1,9:25.0,,Turnover by B. Ingram (bad pass; steal by N. Vonleh),6,3
+1,9:20.0,K. Knox makes 3-pt jump shot from 23 ft (assist by E. Mudiay),,9,3
+1,9:07.0,,B. Ingram makes 2-pt layup from 2 ft,9,5
+1,8:54.0,N. Vonleh misses 3-pt jump shot from 25 ft,,9,5
+1,8:50.0,,Defensive rebound by K. Caldwell-Pope,9,5
+1,8:43.0,,J. McGee misses 2-pt hook shot from 11 ft,9,5
+1,8:40.0,Defensive rebound by N. Vonleh,,9,5
+1,8:28.0,K. Knox makes 3-pt jump shot from 24 ft (assist by E. Mudiay),,12,5
+1,8:10.0,,L. Ball misses 3-pt jump shot from 25 ft,12,5
+1,8:08.0,Defensive rebound by N. Vonleh,,12,5
+1,8:00.0,E. Mudiay misses 2-pt layup from 4 ft (block by J. Hart),,12,5
+1,7:57.0,,Defensive rebound by J. Hart,12,5
+1,7:50.0,,K. Caldwell-Pope misses 2-pt layup from 2 ft,12,5
+1,7:47.0,Defensive rebound by L. Kornet,,12,5
+1,7:44.0,T. Hardaway makes 3-pt jump shot from 26 ft,,15,5
+1,7:43.0,,LA Lakers full timeout,15,5
+1,7:30.0,,J. Hart misses 3-pt jump shot from 23 ft,15,5
+1,7:27.0,Defensive rebound by N. Vonleh,,15,5
+1,7:15.0,T. Hardaway misses 3-pt jump shot from 27 ft,,15,5
+1,7:13.0,,Defensive rebound by L. Ball,15,5
+1,7:08.0,,L. Ball misses 2-pt jump shot from 4 ft,15,5
+1,7:05.0,Defensive rebound by E. Mudiay,,15,5
+1,6:57.0,T. Hardaway makes 3-pt jump shot from 23 ft (assist by E. Mudiay),,18,5
+1,6:42.0,,B. Ingram misses 2-pt jump shot from 19 ft,18,5
+1,6:40.0,Defensive rebound by K. Knox,,18,5
+1,6:38.0,T. Hardaway misses 3-pt jump shot from 28 ft,,18,5
+1,6:35.0,Offensive rebound by N. Vonleh,,18,5
+1,6:35.0,Shooting foul by J. Hart (drawn by N. Vonleh),,18,5
+1,6:35.0,N. Vonleh makes free throw 1 of 2,,19,5
+1,6:35.0,,I. Zubac enters the game for J. McGee,19,5
+1,6:35.0,N. Vonleh makes free throw 2 of 2,,20,5
+1,6:26.0,,Turnover by B. Ingram (lost ball; steal by N. Vonleh),20,5
+1,6:19.0,E. Mudiay misses 2-pt layup from 2 ft,,20,5
+1,6:17.0,,Defensive rebound by I. Zubac,20,5
+1,6:14.0,,B. Ingram misses 2-pt layup from 1 ft,20,5
+1,6:08.0,,Offensive rebound by I. Zubac,20,5
+1,6:08.0,,I. Zubac misses 2-pt layup from 1 ft,20,5
+1,6:08.0,Defensive rebound by K. Knox,,20,5
+1,6:00.0,K. Knox makes 2-pt dunk from 2 ft (assist by L. Kornet),,22,5
+1,5:38.0,,K. Caldwell-Pope makes 3-pt jump shot from 27 ft (assist by I. Zubac),22,8
+1,5:21.0,N. Vonleh makes 2-pt layup from 1 ft,,24,8
+1,5:10.0,,L. Ball makes 3-pt jump shot from 27 ft,24,11
+1,4:58.0,K. Knox misses 2-pt jump shot from 4 ft,,24,11
+1,4:56.0,,Defensive rebound by L. Ball,24,11
+1,4:54.0,,Shooting foul by E. Mudiay (drawn by L. Ball),24,11
+1,4:54.0,,L. Ball misses free throw 1 of 2,24,11
+1,4:54.0,,Offensive rebound by Team,24,11
+1,4:54.0,D. Dotson enters the game for K. Knox,,24,11
+1,4:54.0,F. Ntilikina enters the game for E. Mudiay,,24,11
+1,4:54.0,,L. Stephenson enters the game for B. Ingram,24,11
+1,4:54.0,,L. Ball misses free throw 2 of 2,24,11
+1,4:49.0,Defensive rebound by F. Ntilikina,,24,11
+1,4:36.0,L. Kornet misses 2-pt jump shot from 11 ft,,24,11
+1,4:32.0,Offensive rebound by N. Vonleh,,24,11
+1,4:31.0,N. Vonleh misses 2-pt layup from 3 ft,,24,11
+1,4:31.0,Offensive rebound by L. Kornet,,24,11
+1,4:27.0,L. Kornet misses 2-pt layup at rim,,24,11
+1,4:27.0,,Defensive rebound by I. Zubac,24,11
+1,4:27.0,,J. Hart makes 2-pt layup from 2 ft,24,13
+1,4:27.0,,Shooting foul by F. Ntilikina (drawn by J. Hart),24,13
+1,4:27.0,E. Freedom enters the game for L. Kornet,,24,13
+1,4:27.0,,J. Hart makes free throw 1 of 1,24,14
+1,4:10.0,Turnover by F. Ntilikina (lost ball; steal by L. Ball),,24,14
+1,4:05.0,,L. Ball makes 2-pt layup from 2 ft,24,16
+1,3:58.0,New York full timeout,,24,16
+1,3:58.0,T. Burke enters the game for F. Ntilikina,,24,16
+1,3:53.0,T. Hardaway misses 3-pt jump shot from 26 ft,,24,16
+1,3:49.0,,Defensive rebound by L. Stephenson,24,16
+1,3:33.0,,L. Stephenson misses 3-pt jump shot from 25 ft,24,16
+1,3:29.0,Defensive rebound by E. Freedom,,24,16
+1,3:16.0,E. Freedom misses 2-pt layup from 3 ft (block by L. Stephenson),,24,16
+1,3:13.0,,Defensive rebound by L. Stephenson,24,16
+1,3:10.0,,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,24,16
+1,3:07.0,Defensive rebound by N. Vonleh,,24,16
+1,3:00.0,D. Dotson misses 3-pt jump shot from 27 ft,,24,16
+1,2:58.0,,Defensive rebound by I. Zubac,24,16
+1,2:53.0,,J. Hart misses 3-pt jump shot from 28 ft,24,16
+1,2:50.0,Defensive rebound by E. Freedom,,24,16
+1,2:42.0,T. Burke misses 2-pt jump shot from 5 ft,,24,16
+1,2:38.0,,Defensive rebound by I. Zubac,24,16
+1,2:36.0,,Turnover by L. Ball (bad pass; steal by D. Dotson),24,16
+1,2:31.0,T. Hardaway makes 2-pt dunk from 1 ft (assist by D. Dotson),,26,16
+1,2:26.0,,Personal foul by N. Vonleh (drawn by L. Ball),26,16
+1,2:26.0,K. Knox enters the game for N. Vonleh,,26,16
+1,2:19.0,,I. Zubac makes 2-pt dunk from 3 ft (assist by K. Caldwell-Pope),26,18
+1,2:02.0,E. Freedom makes 2-pt hook shot from 5 ft (assist by D. Dotson),,28,18
+1,2:02.0,Shooting foul by L. Ball (drawn by E. Freedom),,28,18
+1,2:02.0,,S. Mykhailiuk enters the game for L. Ball,28,18
+1,2:02.0,E. Freedom makes free throw 1 of 1,,29,18
+1,1:45.0,,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,29,18
+1,1:43.0,Defensive rebound by E. Freedom,,29,18
+1,1:38.0,E. Freedom makes 3-pt jump shot from 27 ft (assist by T. Hardaway),,32,18
+1,1:24.0,,Shooting foul by D. Dotson (drawn by I. Zubac),32,18
+1,1:24.0,,I. Zubac makes free throw 1 of 2,32,19
+1,1:24.0,A. Trier enters the game for T. Hardaway,,32,19
+1,1:24.0,,I. Zubac makes free throw 2 of 2,32,20
+1,1:16.0,Shooting foul by I. Zubac (drawn by E. Freedom),,32,20
+1,1:16.0,E. Freedom misses free throw 1 of 2,,32,20
+1,1:16.0,Offensive rebound by Team,,32,20
+1,1:16.0,E. Freedom makes free throw 2 of 2,,33,20
+1,1:04.0,,K. Caldwell-Pope makes 2-pt jump shot from 15 ft (assist by I. Zubac),33,22
+1,1:04.0,,Shooting foul by A. Trier (drawn by K. Caldwell-Pope),33,22
+1,1:04.0,,K. Caldwell-Pope makes free throw 1 of 1,33,23
+1,0:55.0,T. Burke makes 2-pt layup from 3 ft,,35,23
+1,0:41.0,,Turnover by S. Mykhailiuk (lost ball; steal by K. Knox),35,23
+1,0:38.0,T. Burke misses 2-pt layup from 2 ft (block by L. Stephenson),,35,23
+1,0:38.0,Offensive rebound by Team,,35,23
+1,0:31.0,D. Dotson makes 2-pt jump shot from 20 ft (assist by A. Trier),,37,23
+1,0:18.0,,I. Zubac misses 2-pt hook shot from 10 ft (block by E. Freedom),37,23
+1,0:17.0,,Offensive rebound by I. Zubac,37,23
+1,0:17.0,,I. Zubac makes 2-pt layup from 2 ft,37,25
+1,0:01.0,T. Burke makes 2-pt jump shot from 3 ft,,39,25
+2,11:50.0,K. Knox misses 2-pt layup from 1 ft,,39,25
+2,11:50.0,,Defensive rebound by Team,39,25
+2,11:37.0,,B. Ingram misses 2-pt layup from 2 ft,39,25
+2,11:34.0,Defensive rebound by K. Knox,,39,25
+2,11:25.0,T. Burke misses 2-pt jump shot from 18 ft,,39,25
+2,11:24.0,,Defensive rebound by M. Beasley,39,25
+2,11:22.0,,Shooting foul by K. Knox (drawn by T. Chandler),39,25
+2,11:22.0,,T. Chandler makes free throw 1 of 2,39,26
+2,11:22.0,,T. Chandler makes free throw 2 of 2,39,27
+2,11:11.0,Turnover by A. Trier (bad pass; steal by S. Mykhailiuk),,39,27
+2,11:09.0,,Shooting foul by E. Freedom (drawn by M. Beasley),39,27
+2,11:09.0,,M. Beasley misses free throw 1 of 2,39,27
+2,11:09.0,,Offensive rebound by Team,39,27
+2,11:09.0,,M. Beasley misses free throw 2 of 2,39,27
+2,11:06.0,Defensive rebound by D. Dotson,,39,27
+2,10:54.0,K. Knox misses 2-pt layup from 2 ft,,39,27
+2,10:54.0,Offensive rebound by Team,,39,27
+2,10:46.0,D. Dotson makes 3-pt jump shot from 28 ft (assist by T. Burke),,42,27
+2,10:26.0,,M. Beasley makes 2-pt layup from 2 ft (assist by B. Ingram),42,29
+2,10:11.0,K. Knox misses 3-pt jump shot from 26 ft,,42,29
+2,10:10.0,,Defensive rebound by B. Ingram,42,29
+2,10:08.0,,B. Ingram makes 2-pt jump shot from 2 ft,42,31
+2,10:08.0,,Shooting foul by A. Trier (drawn by B. Ingram),42,31
+2,10:08.0,,B. Ingram makes free throw 1 of 1,42,32
+2,10:02.0,New York full timeout,,42,32
+2,9:48.0,Shooting foul by B. Ingram (drawn by A. Trier),,42,32
+2,9:48.0,A. Trier makes free throw 1 of 2,,43,32
+2,9:48.0,A. Trier makes free throw 2 of 2,,44,32
+2,9:35.0,,T. Chandler makes 2-pt dunk from 1 ft (assist by M. Beasley),44,34
+2,9:22.0,E. Freedom misses 3-pt jump shot from 26 ft,,44,34
+2,9:18.0,,Defensive rebound by T. Chandler,44,34
+2,9:13.0,,L. Stephenson makes 2-pt layup from 1 ft,44,36
+2,8:57.0,A. Trier misses 2-pt jump shot from 17 ft,,44,36
+2,8:54.0,,Defensive rebound by M. Beasley,44,36
+2,8:46.0,,Turnover by L. Stephenson (bad pass; steal by D. Dotson),44,36
+2,8:40.0,T. Burke makes 2-pt layup from 2 ft,,46,36
+2,8:32.0,,B. Ingram misses 2-pt layup from 2 ft,46,36
+2,8:32.0,Defensive rebound by E. Freedom,,46,36
+2,8:24.0,Turnover by A. Trier (bad pass; steal by B. Ingram),,46,36
+2,8:21.0,,B. Ingram makes 2-pt dunk from 2 ft (assist by L. Stephenson),46,38
+2,8:06.0,T. Burke makes 2-pt jump shot from 14 ft,,48,38
+2,8:04.0,,LA Lakers full timeout,48,38
+2,8:04.0,T. Hardaway enters the game for K. Knox,,48,38
+2,8:04.0,N. Vonleh enters the game for A. Trier,,48,38
+2,8:04.0,,K. Caldwell-Pope enters the game for S. Mykhailiuk,48,38
+2,7:51.0,,Turnover by B. Ingram (bad pass; steal by N. Vonleh),48,38
+2,7:48.0,D. Dotson makes 2-pt layup from 1 ft,,50,38
+2,7:25.0,,M. Beasley makes 2-pt layup from 2 ft,50,40
+2,7:09.0,T. Hardaway misses 3-pt jump shot from 26 ft,,50,40
+2,7:07.0,,Defensive rebound by B. Ingram,50,40
+2,7:03.0,,B. Ingram misses 2-pt jump shot from 18 ft,50,40
+2,6:58.0,Defensive rebound by T. Hardaway,,50,40
+2,6:47.0,E. Freedom misses 2-pt hook shot from 8 ft,,50,40
+2,6:46.0,,Defensive rebound by L. Stephenson,50,40
+2,6:46.0,,Personal foul by N. Vonleh (drawn by L. Stephenson),50,40
+2,6:46.0,K. Knox enters the game for N. Vonleh,,50,40
+2,6:46.0,,L. Ball enters the game for B. Ingram,50,40
+2,6:27.0,,K. Caldwell-Pope misses 2-pt layup from 3 ft,50,40
+2,6:25.0,,Offensive rebound by T. Chandler,50,40
+2,6:24.0,,Turnover by L. Ball (bad pass; steal by T. Burke),50,40
+2,6:20.0,T. Burke makes 2-pt layup from 2 ft,,52,40
+2,5:58.0,,L. Ball misses 3-pt jump shot from 24 ft,52,40
+2,5:54.0,Defensive rebound by E. Freedom,,52,40
+2,5:47.0,T. Burke misses 2-pt jump shot from 10 ft,,52,40
+2,5:45.0,,Defensive rebound by M. Beasley,52,40
+2,5:35.0,,Shooting foul by E. Freedom (drawn by M. Beasley),52,40
+2,5:35.0,,LA Lakers full timeout,52,40
+2,5:35.0,L. Kornet enters the game for T. Burke,,52,40
+2,5:35.0,E. Mudiay enters the game for E. Freedom,,52,40
+2,5:35.0,,J. Hart enters the game for T. Chandler,52,40
+2,5:35.0,,J. McGee enters the game for L. Stephenson,52,40
+2,5:35.0,,M. Beasley makes free throw 1 of 2,52,41
+2,5:35.0,,M. Beasley makes free throw 2 of 2,52,42
+2,5:16.0,D. Dotson misses 2-pt jump shot from 20 ft,,52,42
+2,5:12.0,,Defensive rebound by J. McGee,52,42
+2,4:58.0,,J. McGee misses 2-pt layup from 1 ft,52,42
+2,4:54.0,,Offensive rebound by J. McGee,52,42
+2,4:54.0,,J. McGee makes 2-pt layup from 2 ft,52,44
+2,4:38.0,Personal foul by J. McGee (drawn by L. Kornet),,52,44
+2,4:38.0,,B. Ingram enters the game for M. Beasley,52,44
+2,4:29.0,T. Hardaway misses 3-pt jump shot from 29 ft,,52,44
+2,4:27.0,,Defensive rebound by K. Caldwell-Pope,52,44
+2,4:22.0,,Turnover by B. Ingram (bad pass; steal by D. Dotson),52,44
+2,4:17.0,D. Dotson misses 2-pt layup from 3 ft,,52,44
+2,4:17.0,Offensive rebound by K. Knox,,52,44
+2,4:17.0,Shooting foul by B. Ingram (drawn by K. Knox),,52,44
+2,4:17.0,K. Knox makes free throw 1 of 2,,53,44
+2,4:17.0,T. Burke enters the game for D. Dotson,,53,44
+2,4:17.0,K. Knox makes free throw 2 of 2,,54,44
+2,3:57.0,,L. Ball makes 3-pt jump shot from 25 ft (assist by J. Hart),54,47
+2,3:33.0,T. Burke misses 3-pt jump shot from 26 ft,,54,47
+2,3:29.0,,Defensive rebound by K. Caldwell-Pope,54,47
+2,3:24.0,,J. Hart misses 2-pt layup from 2 ft,54,47
+2,3:22.0,Defensive rebound by L. Kornet,,54,47
+2,3:17.0,E. Mudiay misses 2-pt layup from 3 ft,,54,47
+2,3:14.0,,Defensive rebound by J. Hart,54,47
+2,3:10.0,,K. Caldwell-Pope makes 3-pt jump shot from 25 ft (assist by J. Hart),54,50
+2,3:09.0,New York full timeout,,54,50
+2,2:48.0,L. Kornet makes 2-pt hook shot from 2 ft,,56,50
+2,2:29.0,,J. McGee misses 2-pt hook shot from 6 ft,56,50
+2,2:27.0,Defensive rebound by T. Hardaway,,56,50
+2,2:24.0,T. Hardaway makes 2-pt jump shot from 11 ft,,58,50
+2,2:24.0,Shooting foul by J. Hart (drawn by T. Hardaway),,58,50
+2,2:24.0,T. Hardaway makes free throw 1 of 1,,59,50
+2,2:12.0,,B. Ingram misses 2-pt layup from 2 ft,59,50
+2,2:09.0,,Offensive rebound by J. McGee,59,50
+2,2:08.0,,J. McGee makes 2-pt layup from 2 ft,59,52
+2,1:50.0,T. Burke misses 2-pt layup from 3 ft (block by J. Hart),,59,52
+2,1:50.0,Offensive rebound by Team,,59,52
+2,1:48.0,L. Kornet misses 3-pt jump shot from 25 ft,,59,52
+2,1:43.0,Offensive rebound by E. Mudiay,,59,52
+2,1:42.0,Turnover by E. Mudiay (bad pass; steal by L. Ball),,59,52
+2,1:36.0,,K. Caldwell-Pope misses 3-pt jump shot from 27 ft,59,52
+2,1:34.0,Defensive rebound by T. Hardaway,,59,52
+2,1:32.0,E. Mudiay misses 2-pt layup from 2 ft,,59,52
+2,1:32.0,,Defensive rebound by L. Ball,59,52
+2,1:23.0,,Personal foul by L. Kornet (drawn by K. Caldwell-Pope),59,52
+2,1:23.0,,K. Caldwell-Pope makes free throw 1 of 2,59,53
+2,1:23.0,,L. Stephenson enters the game for J. Hart,59,53
+2,1:23.0,,K. Caldwell-Pope makes free throw 2 of 2,59,54
+2,1:08.0,T. Hardaway makes 2-pt dunk from 2 ft,,61,54
+2,0:51.0,,L. Stephenson misses 3-pt jump shot from 23 ft,61,54
+2,0:47.0,Defensive rebound by T. Burke,,61,54
+2,0:44.0,Personal foul by L. Stephenson (drawn by T. Burke),,61,54
+2,0:44.0,T. Burke makes free throw 1 of 2,,62,54
+2,0:44.0,T. Burke makes free throw 2 of 2,,63,54
+2,0:32.0,,K. Caldwell-Pope makes 3-pt jump shot from 26 ft (assist by L. Stephenson),63,57
+2,0:16.0,E. Mudiay misses 2-pt layup from 3 ft (block by L. Ball),,63,57
+2,0:13.0,,Defensive rebound by J. McGee,63,57
+2,0:00.0,,B. Ingram makes 2-pt layup from 3 ft,63,59
+3,11:40.0,T. Hardaway misses 2-pt jump shot from 3 ft,,63,59
+3,11:36.0,Offensive rebound by T. Hardaway,,63,59
+3,11:36.0,T. Hardaway makes 2-pt layup from 1 ft,,65,59
+3,11:22.0,,L. Ball misses 2-pt jump shot from 12 ft,65,59
+3,11:19.0,Defensive rebound by E. Mudiay,,65,59
+3,11:13.0,E. Mudiay makes 2-pt layup from 3 ft,,67,59
+3,10:51.0,,K. Caldwell-Pope makes 2-pt jump shot from 20 ft,67,61
+3,10:27.0,K. Knox misses 3-pt jump shot from 25 ft,,67,61
+3,10:23.0,,Defensive rebound by K. Caldwell-Pope,67,61
+3,10:17.0,,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,67,61
+3,10:14.0,Defensive rebound by E. Mudiay,,67,61
+3,10:10.0,E. Mudiay makes 3-pt jump shot from 24 ft (assist by T. Hardaway),,70,61
+3,9:43.0,,J. McGee makes 2-pt layup from 2 ft,70,63
+3,9:28.0,L. Kornet misses 3-pt jump shot from 27 ft,,70,63
+3,9:25.0,,Defensive rebound by K. Caldwell-Pope,70,63
+3,9:16.0,,Offensive rebound by Team,70,63
+3,9:16.0,,L. Ball misses 2-pt jump shot from 9 ft,70,63
+3,9:16.0,,Turnover by L. Ball (traveling),70,63
+3,9:13.0,Personal take foul by K. Caldwell-Pope (drawn by T. Hardaway),,70,63
+3,9:05.0,E. Mudiay misses 2-pt layup from 2 ft (block by J. McGee),,70,63
+3,9:02.0,,Defensive rebound by M. Beasley,70,63
+3,8:49.0,,J. McGee makes 2-pt dunk from 1 ft (assist by B. Ingram),70,65
+3,8:34.0,Shooting foul by M. Beasley (drawn by L. Kornet),,70,65
+3,8:34.0,L. Kornet makes free throw 1 of 2,,71,65
+3,8:34.0,L. Kornet misses free throw 2 of 2,,71,65
+3,8:31.0,,Defensive rebound by L. Ball,71,65
+3,8:24.0,,B. Ingram makes 2-pt layup from 2 ft,71,67
+3,8:24.0,,Shooting foul by K. Knox (drawn by B. Ingram),71,67
+3,8:24.0,,B. Ingram makes free throw 1 of 1,71,68
+3,8:16.0,E. Mudiay makes 2-pt layup from 1 ft,,73,68
+3,8:16.0,Shooting foul by B. Ingram (drawn by E. Mudiay),,73,68
+3,8:16.0,E. Mudiay makes free throw 1 of 1,,74,68
+3,8:02.0,,B. Ingram misses 3-pt jump shot from 25 ft,74,68
+3,7:58.0,,Offensive rebound by J. McGee,74,68
+3,7:53.0,,M. Beasley misses 2-pt jump shot from 2 ft,74,68
+3,7:49.0,,Offensive rebound by J. McGee,74,68
+3,7:49.0,,J. McGee misses 2-pt layup at rim,74,68
+3,7:47.0,Defensive rebound by L. Kornet,,74,68
+3,7:45.0,Shooting foul by L. Ball (drawn by E. Mudiay),,74,68
+3,7:45.0,E. Mudiay makes free throw 1 of 2,,75,68
+3,7:45.0,,J. Hart enters the game for M. Beasley,75,68
+3,7:45.0,E. Mudiay makes free throw 2 of 2,,76,68
+3,7:35.0,,K. Caldwell-Pope makes 3-pt jump shot from 26 ft (assist by B. Ingram),76,71
+3,7:16.0,T. Hardaway misses 3-pt jump shot from 26 ft,,76,71
+3,7:14.0,Offensive rebound by N. Vonleh,,76,71
+3,7:10.0,K. Knox misses 2-pt layup from 2 ft,,76,71
+3,7:08.0,,Defensive rebound by J. Hart,76,71
+3,7:01.0,,Shooting foul by N. Vonleh (drawn by B. Ingram),76,71
+3,7:01.0,,B. Ingram makes free throw 1 of 2,76,72
+3,7:01.0,,L. Stephenson enters the game for L. Ball,76,72
+3,7:01.0,,B. Ingram makes free throw 2 of 2,76,73
+3,6:49.0,L. Kornet makes 3-pt jump shot from 26 ft (assist by K. Knox),,79,73
+3,6:41.0,,B. Ingram misses 2-pt jump shot from 17 ft,79,73
+3,6:37.0,,Offensive rebound by J. McGee,79,73
+3,6:33.0,,J. Hart misses 3-pt jump shot from 26 ft,79,73
+3,6:31.0,Defensive rebound by N. Vonleh,,79,73
+3,6:23.0,N. Vonleh misses 2-pt layup from 1 ft,,79,73
+3,6:20.0,Offensive rebound by N. Vonleh,,79,73
+3,6:18.0,K. Knox misses 3-pt jump shot from 26 ft,,79,73
+3,6:15.0,,Defensive rebound by J. Hart,79,73
+3,5:57.0,,J. McGee makes 2-pt hook shot from 2 ft (assist by L. Stephenson),79,75
+3,5:49.0,Personal foul by L. Stephenson (drawn by E. Mudiay),,79,75
+3,5:49.0,,LA Lakers full timeout,79,75
+3,5:49.0,D. Dotson enters the game for N. Vonleh,,79,75
+3,5:49.0,E. Mudiay makes free throw 1 of 2,,80,75
+3,5:49.0,E. Mudiay makes free throw 2 of 2,,81,75
+3,5:25.0,,J. McGee makes 2-pt hook shot from 4 ft (assist by K. Caldwell-Pope),81,77
+3,5:10.0,L. Kornet misses 3-pt jump shot from 27 ft,,81,77
+3,5:08.0,,Defensive rebound by J. McGee,81,77
+3,4:58.0,,K. Caldwell-Pope misses 3-pt jump shot from 27 ft,81,77
+3,4:56.0,Defensive rebound by L. Kornet,,81,77
+3,4:49.0,D. Dotson makes 2-pt layup from 2 ft (assist by E. Mudiay),,83,77
+3,4:36.0,,J. McGee makes 2-pt layup from 1 ft (assist by L. Stephenson),83,79
+3,4:17.0,D. Dotson misses 3-pt jump shot from 26 ft,,83,79
+3,4:13.0,,Defensive rebound by K. Caldwell-Pope,83,79
+3,4:03.0,,J. McGee makes 2-pt jump shot from 2 ft (assist by L. Stephenson),83,81
+3,3:57.0,New York full timeout,,83,81
+3,3:57.0,E. Freedom enters the game for L. Kornet,,83,81
+3,3:57.0,,S. Mykhailiuk enters the game for K. Caldwell-Pope,83,81
+3,3:57.0,,I. Zubac enters the game for J. McGee,83,81
+3,3:46.0,Personal foul by J. Hart (drawn by E. Freedom),,83,81
+3,3:46.0,E. Freedom misses free throw 1 of 2,,83,81
+3,3:46.0,Offensive rebound by Team,,83,81
+3,3:46.0,E. Freedom makes free throw 2 of 2,,84,81
+3,3:33.0,,I. Zubac makes 2-pt layup from 4 ft (assist by L. Stephenson),84,83
+3,3:20.0,T. Hardaway misses 2-pt layup from 3 ft (block by I. Zubac),,84,83
+3,3:17.0,,Defensive rebound by B. Ingram,84,83
+3,3:15.0,,B. Ingram makes 2-pt layup from 2 ft,84,85
+3,2:48.0,E. Mudiay misses 3-pt jump shot from 28 ft,,84,85
+3,2:44.0,,Defensive rebound by J. Hart,84,85
+3,2:40.0,,S. Mykhailiuk makes 3-pt jump shot from 26 ft (assist by J. Hart),84,88
+3,2:39.0,New York full timeout,,84,88
+3,2:29.0,K. Knox misses 2-pt jump shot from 9 ft,,84,88
+3,2:28.0,,Defensive rebound by Team,84,88
+3,2:28.0,Loose ball foul by K. Knox (drawn by L. Stephenson),,84,88
+3,2:16.0,,L. Stephenson misses 3-pt jump shot from 25 ft,84,88
+3,2:12.0,Defensive rebound by E. Mudiay,,84,88
+3,2:09.0,E. Mudiay makes 2-pt layup from 2 ft,,86,88
+3,1:47.0,,Turnover by I. Zubac (out of bounds lost ball),86,88
+3,1:30.0,E. Mudiay misses 3-pt jump shot from 25 ft,,86,88
+3,1:30.0,,Defensive rebound by Team,86,88
+3,1:30.0,Loose ball foul by K. Knox (drawn by L. Stephenson),,86,88
+3,1:30.0,M. Hezonja enters the game for K. Knox,,86,88
+3,1:15.0,,I. Zubac makes 2-pt dunk from 2 ft (assist by L. Stephenson),86,90
+3,0:47.0,E. Freedom misses 2-pt hook shot from 10 ft,,86,90
+3,0:44.0,,Defensive rebound by B. Ingram,86,90
+3,0:38.0,,L. Stephenson misses 2-pt layup from 4 ft (block by E. Freedom),86,90
+3,0:34.0,Defensive rebound by E. Freedom,,86,90
+3,0:22.0,D. Dotson misses 3-pt jump shot from 25 ft,,86,90
+3,0:15.0,Offensive rebound by E. Freedom,,86,90
+3,0:15.0,E. Freedom misses 2-pt layup from 1 ft,,86,90
+3,0:15.0,,Defensive rebound by L. Stephenson,86,90
+3,0:02.0,,B. Ingram makes 2-pt jump shot from 19 ft,86,92
+4,11:39.0,,S. Mykhailiuk misses 3-pt jump shot from 27 ft,86,92
+4,11:35.0,Defensive rebound by E. Freedom,,86,92
+4,11:21.0,Shooting foul by J. Hart (drawn by T. Burke),,86,92
+4,11:21.0,T. Burke makes free throw 1 of 2,,87,92
+4,11:21.0,T. Burke makes free throw 2 of 2,,88,92
+4,11:06.0,,L. Stephenson misses 2-pt layup from 2 ft,88,92
+4,11:03.0,Defensive rebound by E. Freedom,,88,92
+4,10:59.0,M. Hezonja makes 2-pt layup from 1 ft (assist by E. Freedom),,90,92
+4,10:59.0,,LA Lakers full timeout,90,92
+4,10:59.0,,T. Chandler enters the game for I. Zubac,90,92
+4,10:47.0,,S. Mykhailiuk misses 3-pt jump shot from 28 ft,90,92
+4,10:45.0,,Offensive rebound by T. Chandler,90,92
+4,10:43.0,,S. Mykhailiuk misses 3-pt jump shot from 26 ft,90,92
+4,10:40.0,Defensive rebound by M. Hezonja,,90,92
+4,10:30.0,Shooting foul by L. Ball (drawn by M. Hezonja),,90,92
+4,10:30.0,M. Hezonja misses free throw 1 of 2,,90,92
+4,10:30.0,Offensive rebound by Team,,90,92
+4,10:30.0,,K. Caldwell-Pope enters the game for S. Mykhailiuk,90,92
+4,10:30.0,M. Hezonja makes free throw 2 of 2,,91,92
+4,10:12.0,,J. Hart makes 3-pt jump shot from 28 ft (assist by L. Ball),91,95
+4,9:56.0,Personal foul by L. Stephenson (drawn by M. Hezonja),,91,95
+4,9:50.0,M. Hezonja makes 3-pt jump shot from 26 ft (assist by D. Dotson),,94,95
+4,9:36.0,,L. Stephenson makes 2-pt layup from 3 ft,94,97
+4,9:36.0,,Shooting foul by A. Trier (drawn by L. Stephenson),94,97
+4,9:36.0,,L. Stephenson misses free throw 1 of 1,94,97
+4,9:33.0,Defensive rebound by D. Dotson,,94,97
+4,9:19.0,T. Burke makes 2-pt jump shot from 15 ft (assist by E. Freedom),,96,97
+4,9:06.0,,J. Hart misses 3-pt jump shot from 24 ft,96,97
+4,9:02.0,Defensive rebound by A. Trier,,96,97
+4,8:56.0,E. Freedom misses 2-pt jump shot from 13 ft,,96,97
+4,8:54.0,,Defensive rebound by T. Chandler,96,97
+4,8:47.0,,J. Hart misses 3-pt jump shot from 24 ft,96,97
+4,8:42.0,,Offensive rebound by Team,96,97
+4,8:38.0,,K. Caldwell-Pope misses 3-pt jump shot from 27 ft,96,97
+4,8:35.0,Defensive rebound by A. Trier,,96,97
+4,8:31.0,Shooting foul by L. Stephenson (drawn by M. Hezonja),,96,97
+4,8:31.0,M. Hezonja misses free throw 1 of 2,,96,97
+4,8:31.0,Offensive rebound by Team,,96,97
+4,8:31.0,E. Mudiay enters the game for A. Trier,,96,97
+4,8:31.0,M. Hezonja makes free throw 2 of 2,,97,97
+4,8:15.0,,L. Stephenson makes 2-pt layup from 2 ft,97,99
+4,7:59.0,T. Burke misses 2-pt jump shot from 20 ft,,97,99
+4,7:57.0,,Defensive rebound by J. Hart,97,99
+4,7:48.0,,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,97,99
+4,7:46.0,Defensive rebound by E. Freedom,,97,99
+4,7:42.0,Shooting foul by K. Caldwell-Pope (drawn by D. Dotson),,97,99
+4,7:42.0,D. Dotson makes free throw 1 of 2,,98,99
+4,7:42.0,T. Hardaway enters the game for T. Burke,,98,99
+4,7:42.0,,B. Ingram enters the game for J. Hart,98,99
+4,7:42.0,D. Dotson makes free throw 2 of 2,,99,99
+4,7:23.0,,Turnover by L. Stephenson (bad pass; steal by D. Dotson),99,99
+4,7:14.0,Shooting foul by T. Chandler (drawn by E. Freedom),,99,99
+4,7:14.0,E. Freedom makes free throw 1 of 2,,100,99
+4,7:14.0,E. Freedom makes free throw 2 of 2,,101,99
+4,6:56.0,,L. Ball makes 3-pt jump shot from 25 ft (assist by K. Caldwell-Pope),101,102
+4,6:41.0,M. Hezonja misses 3-pt jump shot from 27 ft,,101,102
+4,6:36.0,Offensive rebound by E. Freedom,,101,102
+4,6:27.0,D. Dotson misses 3-pt jump shot from 25 ft,,101,102
+4,6:27.0,Offensive rebound by Team,,101,102
+4,6:27.0,,J. McGee enters the game for T. Chandler,101,102
+4,6:16.0,Personal foul by K. Caldwell-Pope (drawn by E. Mudiay),,101,102
+4,6:16.0,,Violation by Team (delay of game),101,102
+4,6:16.0,E. Mudiay misses free throw 1 of 2,,101,102
+4,6:16.0,Offensive rebound by Team,,101,102
+4,6:16.0,Violation by Team (delay of game),,101,102
+4,6:16.0,K. Knox enters the game for D. Dotson,,101,102
+4,6:16.0,E. Mudiay makes free throw 2 of 2,,102,102
+4,6:03.0,,B. Ingram misses 2-pt hook shot from 6 ft (block by M. Hezonja),102,102
+4,6:00.0,Defensive rebound by T. Hardaway,,102,102
+4,5:56.0,T. Hardaway misses 2-pt layup from 2 ft,,102,102
+4,5:56.0,Offensive rebound by E. Freedom,,102,102
+4,5:53.0,E. Freedom makes 2-pt layup from 2 ft,,104,102
+4,5:42.0,,Offensive foul by J. McGee (drawn by T. Hardaway),104,102
+4,5:42.0,,Turnover by J. McGee (offensive foul),104,102
+4,5:34.0,Offensive foul by E. Freedom (drawn by K. Caldwell-Pope),,104,102
+4,5:34.0,Turnover by E. Freedom (offensive foul),,104,102
+4,5:18.0,,B. Ingram makes 2-pt layup from 1 ft,104,104
+4,5:18.0,,Shooting foul by E. Freedom (drawn by B. Ingram),104,104
+4,5:18.0,,B. Ingram makes free throw 1 of 1,104,105
+4,5:06.0,Shooting foul by K. Caldwell-Pope (drawn by T. Hardaway),,104,105
+4,5:06.0,T. Hardaway makes free throw 1 of 2,,105,105
+4,5:06.0,T. Hardaway makes free throw 2 of 2,,106,105
+4,4:56.0,,Personal foul by M. Hezonja (drawn by B. Ingram),106,105
+4,4:56.0,,J. Hart enters the game for K. Caldwell-Pope,106,105
+4,4:47.0,,L. Stephenson makes 2-pt layup from 2 ft,106,107
+4,4:34.0,T. Hardaway misses 2-pt jump shot from 18 ft,,106,107
+4,4:31.0,,Defensive rebound by B. Ingram,106,107
+4,4:20.0,,B. Ingram misses 2-pt jump shot from 4 ft,106,107
+4,4:17.0,Defensive rebound by E. Mudiay,,106,107
+4,4:13.0,M. Hezonja makes 2-pt layup from 2 ft (assist by E. Mudiay),,108,107
+4,4:00.0,,J. McGee makes 2-pt layup from 2 ft (assist by L. Ball),108,109
+4,3:45.0,Shooting foul by J. McGee (drawn by K. Knox),,108,109
+4,3:45.0,K. Knox makes free throw 1 of 2,,109,109
+4,3:45.0,K. Knox makes free throw 2 of 2,,110,109
+4,3:31.0,,B. Ingram misses 2-pt layup from 2 ft (block by E. Freedom),110,109
+4,3:28.0,Defensive rebound by K. Knox,,110,109
+4,3:28.0,Shooting foul by L. Stephenson (drawn by T. Hardaway),,110,109
+4,3:28.0,T. Hardaway makes free throw 1 of 2,,111,109
+4,3:28.0,T. Hardaway makes free throw 2 of 2,,112,109
+4,3:12.0,,J. Hart misses 3-pt jump shot from 26 ft,112,109
+4,3:08.0,Defensive rebound by E. Freedom,,112,109
+4,2:53.0,T. Hardaway misses 3-pt jump shot from 26 ft,,112,109
+4,2:51.0,,Defensive rebound by J. McGee,112,109
+4,2:42.0,,L. Ball misses 2-pt layup from 2 ft,112,109
+4,2:38.0,,Offensive rebound by L. Ball,112,109
+4,2:38.0,,L. Ball misses 2-pt layup at rim,112,109
+4,2:37.0,Defensive rebound by E. Mudiay,,112,109
+4,2:34.0,E. Mudiay misses 2-pt layup from 3 ft,,112,109
+4,2:32.0,,Defensive rebound by B. Ingram,112,109
+4,2:28.0,,Turnover by B. Ingram (out of bounds lost ball),112,109
+4,2:28.0,New York full timeout,,112,109
+4,2:28.0,,K. Caldwell-Pope enters the game for L. Stephenson,112,109
+4,2:12.0,E. Mudiay misses 3-pt jump shot from 27 ft,,112,109
+4,2:10.0,,Defensive rebound by B. Ingram,112,109
+4,1:56.0,,B. Ingram misses 2-pt hook shot from 3 ft,112,109
+4,1:56.0,Defensive rebound by Team,,112,109
+4,1:40.0,K. Knox makes 2-pt jump shot from 2 ft (assist by E. Freedom),,114,109
+4,1:40.0,,LA Lakers full timeout,114,109
+4,1:40.0,,Turnover by (5 sec),114,109
+4,1:29.0,Turnover by M. Hezonja (bad pass),,114,109
+4,1:17.0,,J. McGee misses 2-pt hook shot from 4 ft,114,109
+4,1:14.0,,Offensive rebound by J. Hart,114,109
+4,1:13.0,,L. Ball makes 3-pt jump shot from 26 ft (assist by J. Hart),114,112
+4,0:55.0,E. Freedom makes 2-pt layup from 2 ft (assist by M. Hezonja),,116,112
+4,0:55.0,,Violation by Team (def goaltending),116,112
+4,0:47.0,,Turnover by L. Ball (bad pass; steal by M. Hezonja),116,112
+4,0:33.0,E. Mudiay misses 2-pt layup from 2 ft,,116,112
+4,0:33.0,Offensive rebound by E. Freedom,,116,112
+4,0:33.0,E. Freedom makes 2-pt layup from 1 ft,,118,112
+4,0:33.0,,LA Lakers full timeout,118,112
+4,0:33.0,,T. Chandler enters the game for J. McGee,118,112
+4,0:31.0,,J. Hart misses 3-pt jump shot from 27 ft,118,112
+4,0:26.0,,Offensive rebound by L. Ball,118,112
+4,0:24.0,,J. Hart misses 3-pt jump shot from 28 ft,118,112
+4,0:22.0,Defensive rebound by M. Hezonja,,118,112
+4,0:20.0,Personal take foul by J. Hart (drawn by M. Hezonja),,118,112
+4,0:20.0,M. Hezonja misses free throw 1 of 2,,118,112
+4,0:20.0,Offensive rebound by Team,,118,112
+4,0:20.0,M. Hezonja makes free throw 2 of 2,,119,112
+4,0:17.0,,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,119,112
+4,0:13.0,Defensive rebound by E. Freedom,,119,112

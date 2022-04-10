@@ -1,0 +1,431 @@
+QUARTER,TIME_REMAINING,DETROIT_ACTION,MIAMI_ACTION,DETROIT_SCORE,MIAMI_SCORE
+1,11:40.0,B. Griffin misses 3-pt jump shot from 23 ft,,0,0
+1,11:38.0,Offensive rebound by A. Drummond,,0,0
+1,11:34.0,R. Jackson misses 3-pt jump shot from 25 ft,,0,0
+1,11:33.0,,Defensive rebound by B. Adebayo,0,0
+1,11:21.0,,J. Winslow makes 3-pt jump shot from 27 ft (assist by B. Adebayo),0,3
+1,11:04.0,W. Ellington misses 3-pt jump shot from 25 ft,,0,3
+1,11:02.0,,Defensive rebound by J. Richardson,0,3
+1,10:57.0,,B. Adebayo makes 2-pt layup from 1 ft (assist by J. Richardson),0,5
+1,10:57.0,,Shooting foul by A. Drummond (drawn by B. Adebayo),0,5
+1,10:57.0,,B. Adebayo makes free throw 1 of 1,0,6
+1,10:43.0,Turnover by A. Drummond (lost ball; steal by D. Waiters),,0,6
+1,10:38.0,,J. Richardson misses 2-pt layup from 2 ft (block by B. Brown),0,6
+1,10:37.0,Defensive rebound by Team,,0,6
+1,10:23.0,Turnover by R. Jackson (bad pass; steal by J. Richardson),,0,6
+1,10:20.0,,J. Richardson makes 2-pt dunk from 1 ft,0,8
+1,10:12.0,Personal foul by J. Winslow (drawn by B. Griffin),,0,8
+1,10:04.0,R. Jackson misses 2-pt layup from 2 ft,,0,8
+1,10:02.0,,Defensive rebound by J. Richardson,0,8
+1,9:59.0,,Shooting foul by B. Brown (drawn by D. Waiters),0,8
+1,9:59.0,,D. Waiters misses free throw 1 of 2,0,8
+1,9:59.0,,Offensive rebound by Team,0,8
+1,9:59.0,,D. Waiters misses free throw 2 of 2,0,8
+1,9:57.0,Defensive rebound by A. Drummond,,0,8
+1,9:31.0,R. Jackson makes 2-pt jump shot from 9 ft,,2,8
+1,9:08.0,,D. Waiters makes 3-pt jump shot from 25 ft,2,11
+1,8:53.0,B. Griffin makes 3-pt jump shot from 23 ft,,5,11
+1,8:46.0,,Offensive foul by B. Adebayo (drawn by R. Jackson),5,11
+1,8:46.0,,Turnover by B. Adebayo (offensive foul),5,11
+1,8:30.0,B. Griffin misses 3-pt jump shot from 27 ft,,5,11
+1,8:28.0,,Defensive rebound by B. Adebayo,5,11
+1,8:10.0,,J. Richardson makes 2-pt jump shot from 13 ft,5,13
+1,7:45.0,R. Jackson misses 3-pt jump shot from 23 ft,,5,13
+1,7:43.0,Offensive rebound by B. Brown,,5,13
+1,7:38.0,W. Ellington makes 3-pt jump shot from 23 ft (assist by B. Brown),,8,13
+1,7:29.0,,Personal foul by B. Griffin (drawn by K. Olynyk),8,13
+1,7:22.0,,Turnover by J. Richardson (bad pass; steal by B. Brown),8,13
+1,7:17.0,B. Brown misses 2-pt layup from 1 ft,,8,13
+1,7:11.0,Offensive rebound by A. Drummond,,8,13
+1,7:11.0,A. Drummond makes 2-pt dunk from 1 ft,,10,13
+1,6:57.0,,J. Winslow makes 2-pt hook shot from 2 ft (assist by D. Waiters),10,15
+1,6:49.0,Shooting foul by B. Adebayo (drawn by B. Griffin),,10,15
+1,6:49.0,,Miami full timeout,10,15
+1,6:49.0,,D. Jones enters the game for B. Adebayo,10,15
+1,6:49.0,B. Griffin misses free throw 1 of 2,,10,15
+1,6:49.0,Offensive rebound by Team,,10,15
+1,6:49.0,B. Griffin makes free throw 2 of 2,,11,15
+1,6:32.0,,J. Richardson makes 3-pt jump shot from 23 ft (assist by J. Winslow),11,18
+1,6:11.0,Turnover by A. Drummond (bad pass; steal by J. Winslow),,11,18
+1,6:06.0,,D. Waiters misses 3-pt jump shot from 23 ft,11,18
+1,6:02.0,Defensive rebound by R. Jackson,,11,18
+1,5:51.0,W. Ellington misses 3-pt jump shot from 24 ft,,11,18
+1,5:48.0,,Defensive rebound by K. Olynyk,11,18
+1,5:39.0,,Personal foul by W. Ellington (drawn by J. Winslow),11,18
+1,5:39.0,T. Maker enters the game for A. Drummond,,11,18
+1,5:39.0,,D. Wade enters the game for J. Richardson,11,18
+1,5:26.0,,Turnover by D. Jones (lost ball; steal by B. Griffin),11,18
+1,5:04.0,T. Maker misses 2-pt jump shot from 10 ft (block by D. Wade),,11,18
+1,5:03.0,Offensive rebound by Team,,11,18
+1,5:02.0,Turnover by Team (shot clock),,11,18
+1,4:42.0,,D. Wade makes 2-pt layup from 2 ft (assist by D. Waiters),11,20
+1,4:37.0,Detroit full timeout,,11,20
+1,4:37.0,L. Galloway enters the game for B. Brown,,11,20
+1,4:37.0,L. Kennard enters the game for W. Ellington,,11,20
+1,4:16.0,L. Kennard makes 3-pt jump shot from 24 ft (assist by L. Galloway),,14,20
+1,3:51.0,,J. Winslow misses 3-pt jump shot from 24 ft,14,20
+1,3:49.0,Defensive rebound by T. Maker,,14,20
+1,3:34.0,L. Kennard makes 2-pt jump shot from 14 ft (assist by L. Galloway),,16,20
+1,3:22.0,,D. Waiters makes 3-pt jump shot from 23 ft (assist by D. Jones),16,23
+1,3:05.0,L. Galloway misses 3-pt jump shot from 24 ft,,16,23
+1,3:03.0,,Defensive rebound by J. Winslow,16,23
+1,2:57.0,,J. Winslow makes 2-pt layup from 1 ft,16,25
+1,2:57.0,I. Smith enters the game for R. Jackson,,16,25
+1,2:57.0,,G. Dragić enters the game for D. Waiters,16,25
+1,2:57.0,,J. Richardson enters the game for J. Winslow,16,25
+1,2:42.0,B. Griffin misses 2-pt layup from 1 ft (block by K. Olynyk),,16,25
+1,2:42.0,Offensive rebound by Team,,16,25
+1,2:37.0,T. Maker misses 2-pt jump shot from 7 ft,,16,25
+1,2:34.0,,Defensive rebound by G. Dragić,16,25
+1,2:26.0,,G. Dragić misses 3-pt jump shot from 26 ft,16,25
+1,2:24.0,Defensive rebound by B. Griffin,,16,25
+1,2:17.0,Turnover by B. Griffin (bad pass),,16,25
+1,2:06.0,,D. Wade misses 2-pt jump shot from 14 ft,16,25
+1,2:04.0,Defensive rebound by T. Maker,,16,25
+1,2:04.0,A. Drummond enters the game for B. Griffin,,16,25
+1,2:04.0,,H. Whiteside enters the game for K. Olynyk,16,25
+1,1:57.0,L. Galloway misses 2-pt layup from 2 ft (block by J. Richardson),,16,25
+1,1:57.0,Offensive rebound by Team,,16,25
+1,1:48.0,L. Galloway misses 3-pt jump shot from 25 ft,,16,25
+1,1:47.0,,Defensive rebound by J. Richardson,16,25
+1,1:32.0,,Shooting foul by L. Kennard (drawn by D. Wade),16,25
+1,1:32.0,,D. Wade misses free throw 1 of 2,16,25
+1,1:32.0,,Offensive rebound by Team,16,25
+1,1:32.0,,D. Wade makes free throw 2 of 2,16,26
+1,1:20.0,T. Maker makes 2-pt jump shot from 10 ft (assist by L. Kennard),,18,26
+1,1:00.0,,G. Dragić misses 2-pt layup from 2 ft,18,26
+1,0:59.0,,Offensive rebound by H. Whiteside,18,26
+1,0:59.0,,H. Whiteside makes 2-pt layup at rim,18,28
+1,0:43.0,Personal foul by D. Wade (drawn by L. Galloway),,18,28
+1,0:27.0,L. Kennard misses 3-pt jump shot from 26 ft,,18,28
+1,0:24.0,,Defensive rebound by D. Wade,18,28
+1,0:04.0,,D. Wade makes 2-pt jump shot from 14 ft,18,30
+2,11:45.0,,Personal foul by G. Robinson (drawn by D. Jones),18,30
+2,11:30.0,,D. Jones misses 2-pt jump shot from 6 ft,18,30
+2,11:27.0,Defensive rebound by A. Drummond,,18,30
+2,11:21.0,Shooting foul by D. Jones (drawn by A. Drummond),,18,30
+2,11:21.0,A. Drummond makes free throw 1 of 2,,19,30
+2,11:21.0,A. Drummond misses free throw 2 of 2,,19,30
+2,11:19.0,,Defensive rebound by D. Jones,19,30
+2,11:10.0,,Shooting foul by I. Smith (drawn by D. Wade),19,30
+2,11:10.0,,D. Wade makes free throw 1 of 2,19,31
+2,11:10.0,,D. Wade makes free throw 2 of 2,19,32
+2,11:03.0,Personal foul by D. Jones (drawn by I. Smith),,19,32
+2,10:39.0,I. Smith makes 2-pt jump shot from 14 ft (assist by L. Kennard),,21,32
+2,10:26.0,,G. Dragić misses 2-pt jump shot from 17 ft,21,32
+2,10:23.0,,Offensive rebound by H. Whiteside,21,32
+2,10:23.0,,H. Whiteside makes 2-pt layup from 1 ft,21,34
+2,10:23.0,,Shooting foul by A. Drummond (drawn by H. Whiteside),21,34
+2,10:23.0,,H. Whiteside makes free throw 1 of 1,21,35
+2,10:08.0,I. Smith makes 2-pt jump shot from 10 ft,,23,35
+2,9:50.0,,D. Wade misses 2-pt jump shot from 6 ft,23,35
+2,9:49.0,,Offensive rebound by H. Whiteside,23,35
+2,9:48.0,,H. Whiteside misses 2-pt layup from 3 ft,23,35
+2,9:47.0,,Offensive rebound by H. Whiteside,23,35
+2,9:45.0,,H. Whiteside misses 2-pt layup at rim,23,35
+2,9:43.0,,Offensive rebound by H. Whiteside,23,35
+2,9:43.0,,H. Whiteside misses 2-pt layup at rim (block by A. Drummond),23,35
+2,9:42.0,Defensive rebound by A. Drummond,,23,35
+2,9:27.0,L. Kennard makes 2-pt layup from 5 ft (assist by I. Smith),,25,35
+2,9:10.0,,J. Richardson misses 2-pt layup from 2 ft (block by A. Drummond),25,35
+2,9:10.0,,Offensive rebound by Team,25,35
+2,9:10.0,Z. Pachulia enters the game for A. Drummond,,25,35
+2,9:04.0,,D. Wade misses 2-pt jump shot from 18 ft,25,35
+2,9:01.0,Defensive rebound by I. Smith,,25,35
+2,8:57.0,L. Kennard misses 3-pt jump shot from 23 ft,,25,35
+2,8:57.0,,Defensive rebound by J. Richardson,25,35
+2,8:36.0,,H. Whiteside makes 2-pt hook shot from 6 ft (assist by G. Dragić),25,37
+2,8:25.0,G. Robinson makes 2-pt layup from 1 ft (assist by Z. Pachulia),,27,37
+2,8:10.0,,G. Dragić misses 2-pt layup from 2 ft,27,37
+2,8:08.0,Defensive rebound by Z. Pachulia,,27,37
+2,7:58.0,L. Galloway makes 3-pt jump shot from 25 ft (assist by Z. Pachulia),,30,37
+2,7:56.0,,Miami full timeout,30,37
+2,7:56.0,B. Griffin enters the game for G. Robinson,,30,37
+2,7:56.0,,J. Winslow enters the game for J. Richardson,30,37
+2,7:38.0,,H. Whiteside makes 2-pt layup from 2 ft (assist by D. Wade),30,39
+2,7:13.0,I. Smith misses 3-pt jump shot from 26 ft,,30,39
+2,7:10.0,,Defensive rebound by J. Winslow,30,39
+2,6:56.0,,J. Winslow makes 2-pt jump shot from 20 ft (assist by G. Dragić),30,41
+2,6:38.0,L. Kennard misses 3-pt jump shot from 26 ft,,30,41
+2,6:36.0,,Defensive rebound by D. Wade,30,41
+2,6:28.0,,D. Wade misses 2-pt jump shot from 12 ft,30,41
+2,6:27.0,Defensive rebound by L. Kennard,,30,41
+2,6:21.0,Turnover by L. Kennard (lost ball; steal by G. Dragić),,30,41
+2,6:14.0,,G. Dragić makes 2-pt layup from 1 ft (assist by H. Whiteside),30,43
+2,6:10.0,Detroit full timeout,,30,43
+2,6:10.0,A. Drummond enters the game for L. Galloway,,30,43
+2,6:10.0,W. Ellington enters the game for Z. Pachulia,,30,43
+2,6:10.0,,R. McGruder enters the game for G. Dragić,30,43
+2,6:10.0,,D. Waiters enters the game for D. Wade,30,43
+2,5:53.0,B. Griffin makes 2-pt layup from 2 ft (assist by W. Ellington),,32,43
+2,5:28.0,,H. Whiteside misses 2-pt hook shot from 6 ft,32,43
+2,5:26.0,Defensive rebound by L. Kennard,,32,43
+2,5:09.0,B. Griffin makes 2-pt hook shot from 7 ft,,34,43
+2,4:59.0,,D. Waiters misses 2-pt layup from 1 ft,34,43
+2,4:57.0,Defensive rebound by L. Kennard,,34,43
+2,4:52.0,W. Ellington makes 3-pt jump shot from 24 ft (assist by L. Kennard),,37,43
+2,4:34.0,,D. Jones makes 3-pt jump shot from 23 ft (assist by R. McGruder),37,46
+2,4:10.0,A. Drummond misses 2-pt jump shot from 3 ft,,37,46
+2,4:08.0,Offensive rebound by A. Drummond,,37,46
+2,4:08.0,Shooting foul by H. Whiteside (drawn by A. Drummond),,37,46
+2,4:08.0,R. Jackson enters the game for I. Smith,,37,46
+2,4:08.0,,B. Adebayo enters the game for D. Jones,37,46
+2,4:08.0,,K. Olynyk enters the game for H. Whiteside,37,46
+2,4:08.0,A. Drummond makes free throw 1 of 2,,38,46
+2,4:08.0,A. Drummond makes free throw 2 of 2,,39,46
+2,3:57.0,,J. Winslow makes 2-pt jump shot from 10 ft,39,48
+2,3:49.0,Personal foul by K. Olynyk (drawn by B. Griffin),,39,48
+2,3:49.0,L. Galloway enters the game for L. Kennard,,39,48
+2,3:29.0,R. Jackson misses 2-pt jump shot from 10 ft,,39,48
+2,3:27.0,,Defensive rebound by B. Adebayo,39,48
+2,3:26.0,,Personal foul by L. Galloway (drawn by D. Waiters),39,48
+2,3:16.0,,K. Olynyk misses 2-pt layup from 2 ft,39,48
+2,3:13.0,Defensive rebound by B. Griffin,,39,48
+2,3:07.0,W. Ellington makes 3-pt jump shot from 26 ft (assist by B. Griffin),,42,48
+2,2:37.0,,D. Waiters misses 3-pt jump shot from 23 ft,42,48
+2,2:37.0,Defensive rebound by Team,,42,48
+2,2:37.0,,Loose ball foul by K. Olynyk (drawn by W. Ellington),42,48
+2,2:37.0,W. Ellington makes free throw 1 of 2,,43,48
+2,2:37.0,,J. Richardson enters the game for D. Waiters,43,48
+2,2:37.0,W. Ellington makes free throw 2 of 2,,44,48
+2,2:14.0,,J. Winslow misses 3-pt jump shot from 23 ft,44,48
+2,2:13.0,,Offensive rebound by B. Adebayo,44,48
+2,2:13.0,,J. Richardson misses 3-pt jump shot from 25 ft,44,48
+2,2:12.0,,Offensive rebound by Team,44,48
+2,2:10.0,Loose ball foul by R. Jackson (drawn by K. Olynyk),,44,48
+2,2:10.0,,K. Olynyk makes free throw 1 of 2,44,49
+2,2:10.0,,K. Olynyk makes free throw 2 of 2,44,50
+2,1:54.0,Turnover by A. Drummond (lost ball; steal by J. Winslow),,44,50
+2,1:41.0,,K. Olynyk makes 2-pt layup from 2 ft,44,52
+2,1:31.0,R. Jackson makes 2-pt jump shot from 9 ft,,46,52
+2,1:16.0,,K. Olynyk misses 3-pt jump shot from 26 ft,46,52
+2,1:14.0,,Offensive rebound by R. McGruder,46,52
+2,1:03.0,,Turnover by R. McGruder (bad pass; steal by W. Ellington),46,52
+2,0:51.0,B. Griffin misses 3-pt jump shot from 26 ft,,46,52
+2,0:48.0,,Defensive rebound by R. McGruder,46,52
+2,0:29.0,,R. McGruder misses 3-pt jump shot from 22 ft,46,52
+2,0:27.0,,Offensive rebound by J. Richardson,46,52
+2,0:18.0,,J. Richardson makes 2-pt layup from 1 ft,46,54
+2,0:02.0,B. Griffin makes 3-pt jump shot from 26 ft (assist by R. Jackson),,49,54
+3,11:41.0,,K. Olynyk makes 2-pt layup from 1 ft,49,56
+3,11:41.0,,Shooting foul by A. Drummond (drawn by K. Olynyk),49,56
+3,11:41.0,,K. Olynyk makes free throw 1 of 1,49,57
+3,11:28.0,Turnover by W. Ellington (lost ball),,49,57
+3,11:28.0,,Personal foul by W. Ellington (drawn by J. Richardson),49,57
+3,11:20.0,,J. Richardson misses 2-pt jump shot from 14 ft,49,57
+3,11:18.0,Defensive rebound by A. Drummond,,49,57
+3,11:07.0,Turnover by A. Drummond (3 sec),,49,57
+3,10:49.0,,Shooting foul by A. Drummond (drawn by B. Adebayo),49,57
+3,10:49.0,,B. Adebayo makes free throw 1 of 2,49,58
+3,10:49.0,Z. Pachulia enters the game for A. Drummond,,49,58
+3,10:49.0,,B. Adebayo makes free throw 2 of 2,49,59
+3,10:31.0,W. Ellington misses 3-pt jump shot from 25 ft,,49,59
+3,10:29.0,,Defensive rebound by D. Waiters,49,59
+3,10:13.0,,D. Waiters makes 3-pt jump shot from 24 ft (assist by K. Olynyk),49,62
+3,9:56.0,Turnover by B. Griffin (lost ball; steal by J. Richardson),,49,62
+3,9:52.0,,B. Adebayo makes 2-pt dunk from 1 ft (assist by J. Richardson),49,64
+3,9:49.0,Detroit full timeout,,49,64
+3,9:49.0,L. Kennard enters the game for B. Brown,,49,64
+3,9:30.0,R. Jackson misses 3-pt jump shot from 23 ft,,49,64
+3,9:28.0,,Defensive rebound by J. Winslow,49,64
+3,9:20.0,,Personal foul by R. Jackson (drawn by B. Adebayo),49,64
+3,9:04.0,,J. Winslow misses 2-pt hook shot from 9 ft,49,64
+3,9:04.0,Defensive rebound by Team,,49,64
+3,8:53.0,W. Ellington misses 3-pt jump shot from 25 ft,,49,64
+3,8:50.0,,Defensive rebound by B. Adebayo,49,64
+3,8:47.0,,B. Adebayo makes 2-pt layup from 1 ft,49,66
+3,8:47.0,,Shooting foul by R. Jackson (drawn by B. Adebayo),49,66
+3,8:47.0,,Technical foul by D. Casey,49,66
+3,8:47.0,,J. Richardson makes technical free throw,49,67
+3,8:47.0,,B. Adebayo makes free throw 1 of 1,49,68
+3,8:38.0,Personal foul by B. Adebayo (drawn by B. Griffin),,49,68
+3,8:32.0,R. Jackson misses 2-pt layup from 5 ft,,49,68
+3,8:28.0,,Defensive rebound by K. Olynyk,49,68
+3,8:22.0,,J. Richardson misses 2-pt jump shot from 20 ft,49,68
+3,8:19.0,Defensive rebound by B. Griffin,,49,68
+3,8:12.0,R. Jackson misses 3-pt jump shot from 25 ft,,49,68
+3,8:10.0,Offensive rebound by Team,,49,68
+3,8:10.0,,Loose ball foul by K. Olynyk (drawn by Z. Pachulia),49,68
+3,8:05.0,Personal foul by J. Richardson (drawn by R. Jackson),,49,68
+3,7:58.0,Offensive foul by R. Jackson (drawn by J. Winslow),,49,68
+3,7:58.0,Turnover by R. Jackson (offensive foul),,49,68
+3,7:58.0,I. Smith enters the game for R. Jackson,,49,68
+3,7:58.0,Technical foul by R. Jackson,,49,68
+3,7:58.0,,Offensive rebound by Team,49,68
+3,7:58.0,,J. Richardson misses technical free throw,49,68
+3,7:40.0,,Personal foul by B. Griffin (drawn by K. Olynyk),49,68
+3,7:40.0,Violation by Team (delay of game),,49,68
+3,7:40.0,,K. Olynyk makes free throw 1 of 2,49,69
+3,7:40.0,,K. Olynyk makes free throw 2 of 2,49,70
+3,7:19.0,L. Kennard misses 2-pt jump shot from 15 ft,,49,70
+3,7:16.0,,Defensive rebound by J. Richardson,49,70
+3,7:12.0,,D. Waiters misses 2-pt layup from 1 ft (block by B. Griffin),49,70
+3,7:11.0,Defensive rebound by Team,,49,70
+3,6:48.0,I. Smith misses 3-pt jump shot from 26 ft,,49,70
+3,6:44.0,,Defensive rebound by J. Richardson,49,70
+3,6:28.0,,D. Waiters makes 2-pt jump shot from 16 ft (assist by J. Winslow),49,72
+3,6:27.0,Detroit full timeout,,49,72
+3,6:27.0,L. Galloway enters the game for W. Ellington,,49,72
+3,6:27.0,T. Maker enters the game for Z. Pachulia,,49,72
+3,6:10.0,L. Kennard misses 3-pt jump shot from 26 ft,,49,72
+3,6:08.0,,Defensive rebound by D. Waiters,49,72
+3,5:59.0,,J. Winslow makes 3-pt jump shot from 23 ft (assist by J. Richardson),49,75
+3,5:44.0,B. Griffin misses 3-pt jump shot from 24 ft,,49,75
+3,5:42.0,,Defensive rebound by K. Olynyk,49,75
+3,5:39.0,,Turnover by D. Waiters (out of bounds lost ball),49,75
+3,5:27.0,Shooting foul by K. Olynyk (drawn by B. Griffin),,49,75
+3,5:27.0,B. Griffin makes free throw 1 of 2,,50,75
+3,5:27.0,,D. Wade enters the game for J. Richardson,50,75
+3,5:27.0,B. Griffin makes free throw 2 of 2,,51,75
+3,5:14.0,,J. Winslow makes 2-pt layup from 1 ft,51,77
+3,4:59.0,Turnover by I. Smith (lost ball; steal by D. Waiters),,51,77
+3,4:54.0,,D. Waiters misses 3-pt jump shot from 24 ft,51,77
+3,4:51.0,Defensive rebound by B. Griffin,,51,77
+3,4:43.0,Shooting foul by D. Wade (drawn by T. Maker),,51,77
+3,4:43.0,T. Maker misses free throw 1 of 2,,51,77
+3,4:43.0,Offensive rebound by Team,,51,77
+3,4:43.0,,D. Jones enters the game for K. Olynyk,51,77
+3,4:43.0,T. Maker makes free throw 2 of 2,,52,77
+3,4:30.0,,J. Winslow misses 2-pt jump shot from 6 ft,52,77
+3,4:28.0,Defensive rebound by T. Maker,,52,77
+3,4:22.0,Shooting foul by B. Adebayo (drawn by T. Maker),,52,77
+3,4:22.0,T. Maker misses free throw 1 of 2,,52,77
+3,4:22.0,Offensive rebound by Team,,52,77
+3,4:22.0,,H. Whiteside enters the game for B. Adebayo,52,77
+3,4:22.0,T. Maker misses free throw 2 of 2,,52,77
+3,4:17.0,,Defensive rebound by J. Winslow,52,77
+3,4:06.0,,Turnover by H. Whiteside (3 sec),52,77
+3,4:06.0,,G. Dragić enters the game for D. Waiters,52,77
+3,3:51.0,L. Galloway misses 3-pt jump shot from 23 ft,,52,77
+3,3:50.0,Offensive rebound by T. Maker,,52,77
+3,3:50.0,Shooting foul by H. Whiteside (drawn by T. Maker),,52,77
+3,3:50.0,T. Maker makes free throw 1 of 2,,53,77
+3,3:50.0,T. Maker misses free throw 2 of 2,,53,77
+3,3:48.0,,Defensive rebound by J. Winslow,53,77
+3,3:32.0,,Shooting foul by L. Galloway (drawn by D. Wade),53,77
+3,3:32.0,,D. Wade makes free throw 1 of 2,53,78
+3,3:32.0,,J. Richardson enters the game for J. Winslow,53,78
+3,3:32.0,,D. Wade makes free throw 2 of 2,53,79
+3,3:16.0,I. Smith misses 2-pt jump shot from 19 ft,,53,79
+3,3:15.0,,Defensive rebound by D. Wade,53,79
+3,3:05.0,,H. Whiteside misses 2-pt layup from 5 ft (block by T. Maker),53,79
+3,3:02.0,,Offensive rebound by H. Whiteside,53,79
+3,3:01.0,,H. Whiteside misses 2-pt layup from 1 ft (block by T. Maker),53,79
+3,2:58.0,Defensive rebound by T. Maker,,53,79
+3,2:52.0,T. Maker makes 2-pt jump shot from 9 ft (assist by B. Griffin),,55,79
+3,2:32.0,,G. Dragić makes 3-pt jump shot from 25 ft (assist by D. Jones),55,82
+3,2:19.0,T. Maker misses 2-pt layup from 1 ft,,55,82
+3,2:17.0,,Defensive rebound by H. Whiteside,55,82
+3,2:08.0,,D. Wade misses 2-pt jump shot from 11 ft,55,82
+3,2:07.0,Defensive rebound by I. Smith,,55,82
+3,1:58.0,T. Maker misses 3-pt jump shot from 25 ft,,55,82
+3,1:56.0,,Defensive rebound by H. Whiteside,55,82
+3,1:46.0,,J. Richardson makes 3-pt jump shot from 26 ft (assist by G. Dragić),55,85
+3,1:26.0,T. Maker makes 2-pt dunk from 1 ft (assist by B. Griffin),,57,85
+3,1:05.0,,Turnover by J. Richardson (lost ball; steal by L. Galloway),57,85
+3,0:57.0,I. Smith misses 3-pt jump shot from 24 ft,,57,85
+3,0:55.0,,Defensive rebound by G. Dragić,57,85
+3,0:33.0,,D. Jones misses 3-pt jump shot from 26 ft,57,85
+3,0:28.0,Defensive rebound by T. Maker,,57,85
+3,0:11.0,Turnover by B. Griffin (bad pass),,57,85
+3,0:00.0,,G. Dragić makes 2-pt jump shot from 14 ft,57,87
+4,11:41.0,R. Jackson misses 2-pt jump shot from 12 ft,,57,87
+4,11:40.0,Offensive rebound by A. Drummond,,57,87
+4,11:39.0,A. Drummond misses 2-pt layup from 1 ft,,57,87
+4,11:39.0,,Defensive rebound by H. Whiteside,57,87
+4,11:13.0,,D. Jones misses 2-pt layup from 1 ft,57,87
+4,11:07.0,,Offensive rebound by D. Jones,57,87
+4,11:02.0,,Offensive foul by G. Dragić (drawn by G. Robinson),57,87
+4,11:02.0,,Turnover by G. Dragić (offensive foul),57,87
+4,10:49.0,R. Jackson misses 2-pt layup from 1 ft (block by H. Whiteside),,57,87
+4,10:49.0,Offensive rebound by Team,,57,87
+4,10:37.0,R. Jackson misses 2-pt jump shot from 10 ft,,57,87
+4,10:35.0,,Defensive rebound by H. Whiteside,57,87
+4,10:24.0,,D. Wade misses 2-pt jump shot from 18 ft,57,87
+4,10:22.0,,Offensive rebound by J. Richardson,57,87
+4,10:22.0,,Personal foul by A. Drummond (drawn by J. Richardson),57,87
+4,10:13.0,,H. Whiteside makes 2-pt dunk from 1 ft (assist by J. Richardson),57,89
+4,9:51.0,R. Jackson makes 2-pt jump shot from 9 ft (assist by L. Kennard),,59,89
+4,9:26.0,,H. Whiteside makes 2-pt hook shot from 5 ft (assist by G. Dragić),59,91
+4,9:11.0,Turnover by R. Jackson (bad pass; steal by D. Jones),,59,91
+4,9:08.0,,D. Jones makes 2-pt dunk from 1 ft (assist by J. Richardson),59,93
+4,9:07.0,Detroit full timeout,,59,93
+4,8:52.0,R. Jackson misses 3-pt jump shot from 26 ft,,59,93
+4,8:46.0,Offensive rebound by G. Robinson,,59,93
+4,8:37.0,L. Kennard makes 3-pt jump shot from 25 ft (assist by R. Jackson),,62,93
+4,8:24.0,,Shooting foul by L. Kennard (drawn by D. Wade),62,93
+4,8:24.0,,D. Wade makes free throw 1 of 2,62,94
+4,8:24.0,,D. Wade makes free throw 2 of 2,62,95
+4,8:01.0,R. Jackson misses 3-pt jump shot from 25 ft,,62,95
+4,7:59.0,,Defensive rebound by H. Whiteside,62,95
+4,7:36.0,,G. Dragić misses 3-pt jump shot from 25 ft,62,95
+4,7:32.0,,Offensive rebound by D. Jones,62,95
+4,7:27.0,,Turnover by D. Wade (bad pass; steal by W. Ellington),62,95
+4,7:24.0,G. Robinson makes 2-pt dunk from 1 ft (assist by R. Jackson),,64,95
+4,7:03.0,,D. Wade misses 3-pt jump shot from 25 ft,64,95
+4,7:01.0,Defensive rebound by A. Drummond,,64,95
+4,6:56.0,Shooting foul by H. Whiteside (drawn by R. Jackson),,64,95
+4,6:56.0,R. Jackson makes free throw 1 of 2,,65,95
+4,6:56.0,,R. McGruder enters the game for J. Richardson,65,95
+4,6:56.0,,D. Waiters enters the game for D. Wade,65,95
+4,6:56.0,R. Jackson makes free throw 2 of 2,,66,95
+4,6:47.0,,G. Dragić makes 3-pt jump shot from 26 ft,66,98
+4,6:30.0,Offensive foul by A. Drummond (drawn by D. Jones),,66,98
+4,6:30.0,Turnover by A. Drummond (offensive foul),,66,98
+4,6:30.0,Z. Pachulia enters the game for A. Drummond,,66,98
+4,6:30.0,,U. Haslem enters the game for H. Whiteside,66,98
+4,6:15.0,,D. Jones misses 3-pt jump shot from 23 ft,66,98
+4,6:13.0,Defensive rebound by W. Ellington,,66,98
+4,6:07.0,Turnover by W. Ellington (lost ball; steal by G. Dragić),,66,98
+4,5:55.0,,R. McGruder misses 3-pt jump shot from 24 ft,66,98
+4,5:51.0,Defensive rebound by G. Robinson,,66,98
+4,5:51.0,Detroit full timeout,,66,98
+4,5:51.0,T. Maker enters the game for W. Ellington,,66,98
+4,5:51.0,S. Mykhailiuk enters the game for R. Jackson,,66,98
+4,5:51.0,K. Thomas enters the game for L. Kennard,,66,98
+4,5:51.0,,R. Anderson enters the game for G. Dragić,66,98
+4,5:31.0,G. Robinson makes 2-pt jump shot from 10 ft (assist by Z. Pachulia),,68,98
+4,5:15.0,,R. McGruder misses 2-pt jump shot from 9 ft (block by K. Thomas),68,98
+4,5:13.0,Defensive rebound by K. Thomas,,68,98
+4,4:54.0,K. Thomas misses 2-pt jump shot from 3 ft,,68,98
+4,4:52.0,,Defensive rebound by U. Haslem,68,98
+4,4:44.0,,Shooting foul by Z. Pachulia (drawn by D. Jones),68,98
+4,4:44.0,,Offensive rebound by Team,68,98
+4,4:44.0,,D. Jones misses free throw 1 of 2,68,98
+4,4:44.0,,D. Jones makes free throw 2 of 2,68,99
+4,4:29.0,K. Thomas misses 2-pt jump shot from 12 ft,,68,99
+4,4:26.0,,Defensive rebound by D. Waiters,68,99
+4,4:20.0,,R. Anderson misses 3-pt jump shot from 28 ft,68,99
+4,4:17.0,Defensive rebound by Z. Pachulia,,68,99
+4,4:05.0,K. Thomas misses 3-pt jump shot from 24 ft,,68,99
+4,4:03.0,,Defensive rebound by U. Haslem,68,99
+4,3:48.0,,U. Haslem makes 2-pt jump shot from 16 ft (assist by D. Waiters),68,101
+4,3:29.0,Z. Pachulia makes 2-pt jump shot from 14 ft (assist by G. Robinson),,70,101
+4,3:07.0,,D. Waiters makes 3-pt jump shot from 25 ft (assist by D. Jones),70,104
+4,2:46.0,G. Robinson misses 3-pt jump shot from 25 ft,,70,104
+4,2:42.0,Offensive rebound by Z. Pachulia,,70,104
+4,2:40.0,S. Mykhailiuk misses 3-pt jump shot from 23 ft,,70,104
+4,2:40.0,,Defensive rebound by U. Haslem,70,104
+4,2:27.0,,Turnover by R. Anderson (lost ball; steal by S. Mykhailiuk),70,104
+4,2:21.0,S. Mykhailiuk misses 2-pt layup from 1 ft (block by D. Waiters),,70,104
+4,2:19.0,Offensive rebound by S. Mykhailiuk,,70,104
+4,2:15.0,Z. Pachulia misses 2-pt layup from 2 ft,,70,104
+4,2:14.0,Offensive rebound by Z. Pachulia,,70,104
+4,2:13.0,Z. Pachulia misses 2-pt layup from 2 ft,,70,104
+4,2:12.0,,Defensive rebound by U. Haslem,70,104
+4,1:50.0,,D. Waiters misses 3-pt jump shot from 23 ft,70,104
+4,1:48.0,Defensive rebound by Z. Pachulia,,70,104
+4,1:44.0,Z. Pachulia makes 2-pt layup from 2 ft (assist by K. Thomas),,72,104
+4,1:28.0,,R. McGruder makes 2-pt layup from 1 ft,72,106
+4,1:13.0,Violation by Team (kicked ball),,72,106
+4,1:02.0,,U. Haslem misses 3-pt jump shot from 25 ft,72,106
+4,1:02.0,Defensive rebound by Z. Pachulia,,72,106
+4,0:51.0,K. Thomas makes 2-pt jump shot from 14 ft,,74,106
+4,0:36.0,,Turnover by R. McGruder (bad pass; steal by G. Robinson),74,106
+4,0:33.0,Turnover by G. Robinson (lost ball; steal by D. Jones),,74,106
+4,0:32.0,,Personal foul by G. Robinson (drawn by D. Jones),74,106
+4,0:08.0,,D. Waiters misses 2-pt jump shot from 20 ft,74,106
+4,0:05.0,,Offensive rebound by D. Jones,74,106
+4,0:05.0,,D. Jones makes 2-pt layup from 1 ft,74,108
+4,0:04.0,K. Thomas misses 3-pt jump shot from 24 ft,,74,108
+4,0:03.0,,Defensive rebound by D. Waiters,74,108

@@ -1,0 +1,429 @@
+QUARTER,TIME_REMAINING,MILWAUKEE_ACTION,WASHINGTON_ACTION,MILWAUKEE_SCORE,WASHINGTON_SCORE
+1,11:36.0,B. Lopez makes 3-pt jump shot from 31 ft (assist by M. Brogdon),,3,0
+1,11:18.0,,B. Beal makes 2-pt jump shot from 7 ft (assist by T. Ariza),3,2
+1,11:09.0,M. Brogdon misses 2-pt jump shot from 8 ft,,3,2
+1,11:08.0,,Defensive rebound by T. Satoranský,3,2
+1,11:01.0,,T. Satoranský makes 2-pt jump shot from 16 ft,3,4
+1,10:45.0,E. İlyasova makes 2-pt layup from 2 ft (assist by E. Bledsoe),,5,4
+1,10:24.0,,J. Green makes 2-pt jump shot from 19 ft,5,6
+1,10:09.0,E. Bledsoe misses 2-pt layup from 5 ft,,5,6
+1,10:07.0,Offensive rebound by E. Bledsoe,,5,6
+1,10:07.0,E. Bledsoe misses 2-pt layup from 5 ft,,5,6
+1,10:05.0,,Defensive rebound by J. Green,5,6
+1,9:56.0,,B. Beal misses 2-pt jump shot from 18 ft,5,6
+1,9:54.0,Defensive rebound by E. İlyasova,,5,6
+1,9:48.0,K. Middleton misses 3-pt jump shot from 26 ft,,5,6
+1,9:45.0,,Defensive rebound by T. Bryant,5,6
+1,9:37.0,,T. Satoranský makes 2-pt jump shot from 9 ft,5,8
+1,9:24.0,M. Brogdon misses 2-pt jump shot from 17 ft,,5,8
+1,9:24.0,,Defensive rebound by T. Satoranský,5,8
+1,9:11.0,,Personal foul by E. İlyasova (drawn by T. Satoranský),5,8
+1,9:06.0,,T. Bryant makes 3-pt jump shot from 26 ft,5,11
+1,8:47.0,Shooting foul by J. Green (drawn by K. Middleton),,5,11
+1,8:47.0,K. Middleton makes free throw 1 of 2,,6,11
+1,8:47.0,K. Middleton makes free throw 2 of 2,,7,11
+1,8:34.0,,J. Green makes 3-pt jump shot from 27 ft (assist by T. Satoranský),7,14
+1,8:22.0,B. Lopez makes 2-pt dunk from 1 ft (assist by E. Bledsoe),,9,14
+1,8:12.0,,T. Satoranský misses 2-pt jump shot from 10 ft,9,14
+1,8:10.0,,Offensive rebound by T. Satoranský,9,14
+1,8:09.0,,T. Bryant makes 2-pt dunk from 3 ft (assist by T. Satoranský),9,16
+1,8:09.0,Milwaukee full timeout,,9,16
+1,7:58.0,B. Lopez makes 3-pt jump shot from 30 ft (assist by E. Bledsoe),,12,16
+1,7:33.0,,T. Ariza misses 3-pt jump shot from 24 ft,12,16
+1,7:32.0,,Offensive rebound by B. Beal,12,16
+1,7:32.0,,Personal foul by E. İlyasova (drawn by B. Beal),12,16
+1,7:32.0,D. Wilson enters the game for E. İlyasova,,12,16
+1,7:25.0,,T. Bryant misses 2-pt dunk from 10 ft (block by B. Lopez),12,16
+1,7:22.0,Defensive rebound by M. Brogdon,,12,16
+1,7:21.0,E. Bledsoe makes 2-pt layup from 1 ft (assist by M. Brogdon),,14,16
+1,7:09.0,,Personal foul by K. Middleton (drawn by B. Beal),14,16
+1,7:09.0,S. Brown enters the game for M. Brogdon,,14,16
+1,7:04.0,,Turnover by B. Beal (traveling),14,16
+1,6:52.0,E. Bledsoe misses 2-pt layup at rim,,14,16
+1,6:49.0,,Defensive rebound by J. Green,14,16
+1,6:45.0,,B. Beal makes 3-pt jump shot from 26 ft (assist by T. Satoranský),14,19
+1,6:29.0,B. Lopez misses 3-pt jump shot from 28 ft,,14,19
+1,6:26.0,,Defensive rebound by T. Satoranský,14,19
+1,6:17.0,,T. Satoranský makes 2-pt jump shot from 9 ft,14,21
+1,6:01.0,E. Bledsoe makes 2-pt layup from 1 ft,,16,21
+1,5:43.0,,B. Beal misses 2-pt jump shot from 14 ft,16,21
+1,5:41.0,Defensive rebound by S. Brown,,16,21
+1,5:37.0,K. Middleton makes 2-pt jump shot from 6 ft,,18,21
+1,5:37.0,Shooting foul by T. Ariza (drawn by K. Middleton),,18,21
+1,5:37.0,K. Middleton makes free throw 1 of 1,,19,21
+1,5:24.0,,Turnover by T. Satoranský (bad pass; steal by E. Bledsoe),19,21
+1,5:21.0,Shooting foul by T. Satoranský (drawn by K. Middleton),,19,21
+1,5:21.0,S. Brown misses free throw 1 of 2,,19,21
+1,5:21.0,Offensive rebound by Team,,19,21
+1,5:21.0,G. Hill enters the game for E. Bledsoe,,19,21
+1,5:21.0,T. Maker enters the game for B. Lopez,,19,21
+1,5:21.0,S. Brown makes free throw 2 of 2,,20,21
+1,5:08.0,,B. Beal makes 2-pt jump shot from 7 ft,20,23
+1,5:08.0,,Shooting foul by G. Hill (drawn by B. Beal),20,23
+1,5:08.0,,B. Beal makes free throw 1 of 1,20,24
+1,4:56.0,G. Hill misses 2-pt jump shot from 2 ft,,20,24
+1,4:52.0,,Defensive rebound by T. Satoranský,20,24
+1,4:49.0,,T. Ariza makes 2-pt dunk from 1 ft (assist by J. Green),20,26
+1,4:38.0,Personal foul by T. Ariza (drawn by K. Middleton),,20,26
+1,4:38.0,,O. Porter enters the game for T. Ariza,20,26
+1,4:30.0,Turnover by K. Middleton (out of bounds lost ball),,20,26
+1,4:22.0,,Turnover by T. Satoranský (lost ball; steal by D. Wilson),20,26
+1,4:12.0,Turnover by S. Brown (bad pass; steal by O. Porter),,20,26
+1,4:08.0,,B. Beal makes 3-pt jump shot from 27 ft (assist by T. Satoranský),20,29
+1,4:04.0,D. Wilson misses 3-pt jump shot from 26 ft,,20,29
+1,3:44.0,Offensive rebound by S. Brown,,20,29
+1,3:40.0,S. Brown makes 2-pt layup from 1 ft,,22,29
+1,3:39.0,,Washington full timeout,22,29
+1,3:39.0,T. Snell enters the game for K. Middleton,,22,29
+1,3:39.0,,S. Dekker enters the game for J. Green,22,29
+1,3:24.0,,T. Satoranský makes 3-pt jump shot from 26 ft (assist by B. Beal),22,32
+1,2:56.0,Turnover by T. Snell (bad pass; steal by B. Beal),,22,32
+1,2:52.0,,T. Bryant misses 2-pt layup from 4 ft,22,32
+1,2:49.0,Defensive rebound by S. Brown,,22,32
+1,2:42.0,G. Hill misses 2-pt layup from 1 ft,,22,32
+1,2:40.0,,Defensive rebound by O. Porter,22,32
+1,2:37.0,,Shooting foul by D. Wilson (drawn by O. Porter),22,32
+1,2:37.0,M. Brogdon enters the game for D. Wilson,,22,32
+1,2:37.0,,C. Randle enters the game for T. Satoranský,22,32
+1,2:37.0,,O. Porter makes free throw 1 of 2,22,33
+1,2:37.0,,O. Porter makes free throw 2 of 2,22,34
+1,2:24.0,Shooting foul by B. Beal (drawn by M. Brogdon),,22,34
+1,2:24.0,M. Brogdon makes free throw 1 of 2,,23,34
+1,2:24.0,M. Brogdon makes free throw 2 of 2,,24,34
+1,2:08.0,,T. Bryant makes 2-pt hook shot from 4 ft (assist by O. Porter),24,36
+1,1:53.0,S. Brown misses 3-pt jump shot from 26 ft,,24,36
+1,1:50.0,,Defensive rebound by T. Bryant,24,36
+1,1:41.0,,C. Randle misses 3-pt jump shot from 26 ft,24,36
+1,1:36.0,Defensive rebound by M. Brogdon,,24,36
+1,1:27.0,T. Maker makes 2-pt dunk from 1 ft (assist by M. Brogdon),,26,36
+1,1:18.0,,B. Beal makes 2-pt jump shot from 10 ft,26,38
+1,0:58.0,T. Snell misses 3-pt jump shot from 24 ft,,26,38
+1,0:56.0,,Defensive rebound by O. Porter,26,38
+1,0:50.0,,Personal foul by M. Brogdon (drawn by B. Beal),26,38
+1,0:50.0,,B. Beal makes free throw 1 of 2,26,39
+1,0:50.0,,B. Beal makes free throw 2 of 2,26,40
+1,0:36.0,T. Snell misses 2-pt layup from 2 ft,,26,40
+1,0:34.0,,Defensive rebound by S. Dekker,26,40
+1,0:28.0,,O. Porter misses 3-pt jump shot from 24 ft,26,40
+1,0:25.0,Defensive rebound by M. Brogdon,,26,40
+1,0:04.0,T. Snell misses 3-pt jump shot from 23 ft,,26,40
+1,0:01.0,Offensive rebound by M. Brogdon,,26,40
+1,0:00.0,M. Brogdon misses 2-pt layup from 4 ft (block by T. Bryant),,26,40
+1,0:00.0,,Defensive rebound by O. Porter,26,40
+2,11:46.0,,J. Green misses 2-pt layup from 3 ft (block by B. Lopez),26,40
+2,11:46.0,,Offensive rebound by Team,26,40
+2,11:36.0,,Shooting foul by T. Snell (drawn by O. Porter),26,40
+2,11:36.0,,O. Porter misses free throw 1 of 2,26,40
+2,11:36.0,,Offensive rebound by Team,26,40
+2,11:36.0,,O. Porter misses free throw 2 of 2,26,40
+2,11:33.0,Defensive rebound by K. Middleton,,26,40
+2,11:24.0,Turnover by M. Brogdon (bad pass; steal by O. Porter),,26,40
+2,11:17.0,,J. Green misses 2-pt hook shot from 6 ft,26,40
+2,11:15.0,Defensive rebound by K. Middleton,,26,40
+2,11:10.0,E. Bledsoe misses 3-pt jump shot from 25 ft,,26,40
+2,11:06.0,,Defensive rebound by I. Mahinmi,26,40
+2,10:59.0,,O. Porter misses 2-pt layup from 7 ft (block by M. Brogdon),26,40
+2,10:57.0,,Offensive rebound by O. Porter,26,40
+2,10:54.0,,I. Mahinmi makes 2-pt hook shot from 8 ft (assist by O. Porter),26,42
+2,10:47.0,Shooting foul by O. Porter (drawn by M. Brogdon),,26,42
+2,10:47.0,M. Brogdon makes free throw 1 of 2,,27,42
+2,10:47.0,E. İlyasova enters the game for T. Snell,,27,42
+2,10:47.0,M. Brogdon makes free throw 2 of 2,,28,42
+2,10:32.0,,C. Randle misses 2-pt layup from 4 ft (block by B. Lopez),28,42
+2,10:32.0,,Offensive rebound by Team,28,42
+2,10:25.0,,J. Green misses 2-pt jump shot from 19 ft,28,42
+2,10:23.0,Defensive rebound by K. Middleton,,28,42
+2,10:17.0,Turnover by E. Bledsoe (lost ball; steal by C. Randle),,28,42
+2,10:08.0,,Turnover by O. Porter (bad pass; steal by K. Middleton),28,42
+2,9:59.0,E. İlyasova makes 2-pt layup from 1 ft (assist by M. Brogdon),,30,42
+2,9:50.0,,Turnover by J. Green (bad pass),30,42
+2,9:37.0,K. Middleton makes 2-pt jump shot from 16 ft (assist by E. Bledsoe),,32,42
+2,9:14.0,,O. Porter misses 2-pt jump shot from 22 ft,32,42
+2,9:11.0,Defensive rebound by E. Bledsoe,,32,42
+2,9:06.0,Personal foul by I. Mahinmi (drawn by B. Lopez),,32,42
+2,8:59.0,K. Middleton misses 2-pt jump shot from 18 ft,,32,42
+2,8:56.0,,Defensive rebound by J. Green,32,42
+2,8:50.0,,Turnover by J. Green (lost ball; steal by E. Bledsoe),32,42
+2,8:46.0,M. Brogdon makes 2-pt layup from 2 ft (assist by E. İlyasova),,34,42
+2,8:46.0,,Washington full timeout,34,42
+2,8:46.0,G. Hill enters the game for M. Brogdon,,34,42
+2,8:46.0,,T. Ariza enters the game for S. Dekker,34,42
+2,8:46.0,,T. Satoranský enters the game for C. Randle,34,42
+2,8:24.0,,J. Green misses 2-pt jump shot from 15 ft,34,42
+2,8:21.0,Defensive rebound by E. Bledsoe,,34,42
+2,8:14.0,Turnover by B. Lopez (traveling),,34,42
+2,7:54.0,,T. Satoranský makes 3-pt jump shot from 24 ft (assist by J. Green),34,45
+2,7:41.0,Turnover by K. Middleton (bad pass; steal by T. Satoranský),,34,45
+2,7:39.0,,Turnover by T. Satoranský (bad pass; steal by E. Bledsoe),34,45
+2,7:35.0,E. İlyasova makes 2-pt layup from 2 ft (assist by E. Bledsoe),,36,45
+2,7:23.0,,Turnover by O. Porter (lost ball; steal by E. İlyasova),36,45
+2,7:20.0,Offensive foul by G. Hill (drawn by O. Porter),,36,45
+2,7:20.0,Turnover by G. Hill (offensive foul),,36,45
+2,7:20.0,,B. Beal enters the game for O. Porter,36,45
+2,7:10.0,,T. Ariza misses 3-pt jump shot from 25 ft,36,45
+2,7:07.0,Defensive rebound by B. Lopez,,36,45
+2,6:49.0,E. İlyasova misses 2-pt jump shot from 18 ft,,36,45
+2,6:46.0,,Defensive rebound by T. Satoranský,36,45
+2,6:32.0,,Turnover by T. Satoranský (bad pass),36,45
+2,6:32.0,,T. Bryant enters the game for I. Mahinmi,36,45
+2,6:17.0,K. Middleton misses 2-pt hook shot from 11 ft,,36,45
+2,6:15.0,Offensive rebound by Team,,36,45
+2,6:15.0,D. Wilson enters the game for B. Lopez,,36,45
+2,6:08.0,G. Hill misses 3-pt jump shot from 26 ft,,36,45
+2,6:05.0,,Defensive rebound by T. Bryant,36,45
+2,6:00.0,,Shooting foul by E. İlyasova (drawn by B. Beal),36,45
+2,6:00.0,,B. Beal makes free throw 1 of 2,36,46
+2,6:00.0,,B. Beal makes free throw 2 of 2,36,47
+2,5:49.0,E. İlyasova makes 2-pt layup from 2 ft (assist by E. Bledsoe),,38,47
+2,5:30.0,,T. Bryant makes 2-pt jump shot from 14 ft (assist by T. Ariza),38,49
+2,5:17.0,E. Bledsoe misses 3-pt jump shot from 26 ft,,38,49
+2,5:14.0,,Defensive rebound by T. Bryant,38,49
+2,5:09.0,,Offensive foul by B. Beal (drawn by E. İlyasova),38,49
+2,5:09.0,,Turnover by B. Beal (offensive foul),38,49
+2,5:09.0,M. Brogdon enters the game for E. Bledsoe,,38,49
+2,5:09.0,S. Brown enters the game for G. Hill,,38,49
+2,5:09.0,B. Lopez enters the game for E. İlyasova,,38,49
+2,4:59.0,B. Lopez makes 2-pt dunk from 2 ft,,40,49
+2,4:38.0,,B. Beal makes 2-pt layup from 2 ft,40,51
+2,4:29.0,B. Lopez misses 3-pt jump shot from 30 ft,,40,51
+2,4:27.0,,Defensive rebound by Team,40,51
+2,4:27.0,T. Snell enters the game for K. Middleton,,40,51
+2,4:11.0,,Personal foul by D. Wilson (drawn by T. Satoranský),40,51
+2,4:04.0,,J. Green misses 3-pt jump shot from 26 ft,40,51
+2,3:58.0,Defensive rebound by S. Brown,,40,51
+2,3:42.0,M. Brogdon makes 3-pt jump shot from 26 ft (assist by S. Brown),,43,51
+2,3:24.0,,B. Beal misses 2-pt jump shot from 11 ft,43,51
+2,3:22.0,,Offensive rebound by B. Beal,43,51
+2,3:16.0,,B. Beal makes 2-pt jump shot from 6 ft,43,53
+2,3:04.0,D. Wilson misses 3-pt jump shot from 23 ft,,43,53
+2,3:01.0,,Defensive rebound by T. Ariza,43,53
+2,2:46.0,,B. Beal misses 2-pt jump shot from 18 ft,43,53
+2,2:43.0,Defensive rebound by T. Snell,,43,53
+2,2:38.0,Milwaukee full timeout,,43,53
+2,2:38.0,K. Middleton enters the game for D. Wilson,,43,53
+2,2:38.0,,O. Porter enters the game for J. Green,43,53
+2,2:31.0,K. Middleton misses 3-pt jump shot from 25 ft,,43,53
+2,2:28.0,,Defensive rebound by B. Beal,43,53
+2,2:09.0,,Personal foul by B. Lopez (drawn by T. Bryant),43,53
+2,2:03.0,,Shooting foul by S. Brown (drawn by T. Bryant),43,53
+2,2:03.0,,T. Bryant makes free throw 1 of 2,43,54
+2,2:03.0,,T. Bryant makes free throw 2 of 2,43,55
+2,1:42.0,M. Brogdon makes 2-pt jump shot from 15 ft (assist by K. Middleton),,45,55
+2,1:21.0,,T. Satoranský makes 2-pt layup from 5 ft (assist by T. Ariza),45,57
+2,1:11.0,Personal foul by O. Porter (drawn by B. Lopez),,45,57
+2,1:01.0,Turnover by K. Middleton (lost ball; steal by T. Satoranský),,45,57
+2,0:51.0,,T. Bryant misses 2-pt hook shot from 5 ft,45,57
+2,0:49.0,Defensive rebound by B. Lopez,,45,57
+2,0:40.0,M. Brogdon makes 2-pt layup from 2 ft (assist by B. Lopez),,47,57
+2,0:28.0,,B. Beal misses 2-pt jump shot from 20 ft,47,57
+2,0:25.0,Defensive rebound by K. Middleton,,47,57
+2,0:05.0,K. Middleton misses 3-pt jump shot from 25 ft,,47,57
+2,0:03.0,,Defensive rebound by T. Ariza,47,57
+2,0:00.0,,Turnover by T. Ariza (bad pass),47,57
+3,11:39.0,,J. Green misses 2-pt jump shot from 15 ft,47,57
+3,11:35.0,Defensive rebound by E. Bledsoe,,47,57
+3,11:27.0,E. Bledsoe makes 3-pt jump shot from 27 ft,,50,57
+3,11:02.0,,Turnover by T. Satoranský (bad pass),50,57
+3,10:49.0,E. Bledsoe makes 2-pt layup from 2 ft,,52,57
+3,10:33.0,,Offensive foul by T. Satoranský (drawn by E. İlyasova),52,57
+3,10:33.0,,Turnover by T. Satoranský (offensive foul),52,57
+3,10:23.0,E. Bledsoe misses 2-pt layup from 5 ft,,52,57
+3,10:21.0,Offensive rebound by E. İlyasova,,52,57
+3,10:19.0,K. Middleton makes 3-pt jump shot from 23 ft (assist by E. İlyasova),,55,57
+3,10:19.0,,Washington full timeout,55,57
+3,10:02.0,,T. Ariza makes 3-pt jump shot from 24 ft (assist by T. Satoranský),55,60
+3,9:52.0,E. Bledsoe misses 2-pt layup from 3 ft,,55,60
+3,9:50.0,,Defensive rebound by T. Bryant,55,60
+3,9:45.0,,T. Ariza misses 3-pt jump shot from 25 ft,55,60
+3,9:43.0,,Offensive rebound by T. Satoranský,55,60
+3,9:41.0,,B. Beal makes 3-pt jump shot from 24 ft (assist by T. Satoranský),55,63
+3,9:19.0,E. Bledsoe misses 3-pt jump shot from 26 ft,,55,63
+3,9:15.0,,Defensive rebound by T. Satoranský,55,63
+3,9:12.0,,J. Green misses 3-pt jump shot from 26 ft,55,63
+3,9:08.0,,Offensive rebound by T. Satoranský,55,63
+3,8:55.0,,T. Ariza misses 2-pt jump shot from 19 ft (block by B. Lopez),55,63
+3,8:55.0,,Offensive rebound by Team,55,63
+3,8:55.0,,Turnover by Team (shot clock),55,63
+3,8:37.0,K. Middleton misses 2-pt layup from 3 ft,,55,63
+3,8:32.0,Offensive rebound by B. Lopez,,55,63
+3,8:28.0,E. İlyasova makes 2-pt layup from 2 ft (assist by E. Bledsoe),,57,63
+3,8:07.0,,J. Green misses 2-pt dunk from 2 ft (block by B. Lopez),57,63
+3,8:06.0,Defensive rebound by E. Bledsoe,,57,63
+3,7:58.0,B. Lopez makes 3-pt jump shot from 27 ft (assist by M. Brogdon),,60,63
+3,7:36.0,,T. Ariza misses 3-pt jump shot from 26 ft,60,63
+3,7:35.0,Defensive rebound by Team,,60,63
+3,7:35.0,,Loose ball foul by T. Bryant (drawn by B. Lopez),60,63
+3,7:21.0,B. Lopez misses 3-pt jump shot from 27 ft,,60,63
+3,7:18.0,,Defensive rebound by B. Beal,60,63
+3,7:13.0,,B. Beal misses 2-pt jump shot from 11 ft,60,63
+3,7:10.0,Defensive rebound by E. Bledsoe,,60,63
+3,7:05.0,K. Middleton misses 3-pt jump shot from 25 ft,,60,63
+3,7:00.0,Offensive rebound by E. İlyasova,,60,63
+3,6:59.0,E. Bledsoe makes 3-pt jump shot from 28 ft (assist by B. Lopez),,63,63
+3,6:41.0,,T. Ariza makes 3-pt jump shot from 24 ft (assist by B. Beal),63,66
+3,6:28.0,K. Middleton makes 3-pt jump shot from 28 ft (assist by E. Bledsoe),,66,66
+3,6:18.0,Violation by Team (kicked ball),,66,66
+3,6:18.0,S. Brown enters the game for M. Brogdon,,66,66
+3,6:18.0,D. Wilson enters the game for E. İlyasova,,66,66
+3,6:18.0,,O. Porter enters the game for T. Bryant,66,66
+3,6:14.0,,J. Green makes 2-pt layup from 2 ft (assist by T. Satoranský),66,68
+3,6:14.0,,Shooting foul by D. Wilson (drawn by J. Green),66,68
+3,6:14.0,,J. Green makes free throw 1 of 1,66,69
+3,6:04.0,E. Bledsoe misses 3-pt jump shot from 26 ft,,66,69
+3,6:01.0,Offensive rebound by S. Brown,,66,69
+3,6:00.0,S. Brown makes 2-pt layup from 3 ft,,68,69
+3,5:49.0,,O. Porter makes 3-pt jump shot from 25 ft (assist by B. Beal),68,72
+3,5:41.0,E. Bledsoe misses 2-pt layup from 1 ft (block by B. Beal),,68,72
+3,5:40.0,Offensive rebound by Team,,68,72
+3,5:27.0,D. Wilson makes 2-pt layup from 1 ft (assist by B. Lopez),,70,72
+3,5:11.0,,O. Porter makes 3-pt jump shot from 26 ft (assist by B. Beal),70,75
+3,5:06.0,Milwaukee full timeout,,70,75
+3,5:06.0,T. Snell enters the game for B. Lopez,,70,75
+3,4:59.0,K. Middleton misses 3-pt jump shot from 28 ft,,70,75
+3,4:57.0,Offensive rebound by S. Brown,,70,75
+3,4:52.0,Turnover by S. Brown (bad pass),,70,75
+3,4:41.0,,T. Satoranský misses 2-pt jump shot from 10 ft,70,75
+3,4:37.0,Defensive rebound by S. Brown,,70,75
+3,4:32.0,E. Bledsoe makes 2-pt layup from 2 ft,,72,75
+3,4:26.0,,B. Beal makes 2-pt layup from 2 ft,72,77
+3,4:26.0,Violation by Team (def goaltending),,72,77
+3,4:14.0,E. Bledsoe misses 3-pt jump shot from 25 ft,,72,77
+3,4:11.0,,Defensive rebound by O. Porter,72,77
+3,4:10.0,,Turnover by O. Porter (bad pass; steal by D. Wilson),72,77
+3,4:06.0,Turnover by D. Wilson (bad pass; steal by B. Beal),,72,77
+3,4:04.0,,T. Ariza makes 3-pt jump shot from 25 ft (assist by B. Beal),72,80
+3,3:44.0,K. Middleton makes 2-pt layup from 2 ft,,74,80
+3,3:27.0,,O. Porter misses 3-pt jump shot from 27 ft,74,80
+3,3:23.0,Defensive rebound by D. Wilson,,74,80
+3,3:19.0,T. Snell makes 3-pt jump shot from 26 ft (assist by E. Bledsoe),,77,80
+3,3:00.0,,T. Satoranský makes 2-pt layup from 1 ft,77,82
+3,2:36.0,Shooting foul by T. Satoranský (drawn by K. Middleton),,77,82
+3,2:36.0,K. Middleton makes free throw 1 of 2,,78,82
+3,2:36.0,G. Hill enters the game for E. Bledsoe,,78,82
+3,2:36.0,,S. Dekker enters the game for J. Green,78,82
+3,2:36.0,,C. Randle enters the game for T. Satoranský,78,82
+3,2:36.0,K. Middleton misses free throw 2 of 2,,78,82
+3,2:32.0,,Defensive rebound by T. Ariza,78,82
+3,2:20.0,,B. Beal misses 2-pt jump shot from 20 ft,78,82
+3,2:16.0,Defensive rebound by G. Hill,,78,82
+3,2:12.0,K. Middleton makes 2-pt layup from 2 ft,,80,82
+3,1:51.0,,Shooting foul by K. Middleton (drawn by S. Dekker),80,82
+3,1:51.0,,S. Dekker misses free throw 1 of 2,80,82
+3,1:51.0,,Offensive rebound by Team,80,82
+3,1:51.0,M. Brogdon enters the game for K. Middleton,,80,82
+3,1:51.0,B. Lopez enters the game for D. Wilson,,80,82
+3,1:51.0,,S. Dekker misses free throw 2 of 2,80,82
+3,1:49.0,Defensive rebound by T. Snell,,80,82
+3,1:36.0,Personal foul by T. Ariza (drawn by T. Snell),,80,82
+3,1:24.0,G. Hill misses 2-pt layup from 5 ft,,80,82
+3,1:22.0,,Defensive rebound by B. Beal,80,82
+3,1:17.0,,B. Beal misses 2-pt layup from 2 ft,80,82
+3,1:15.0,Defensive rebound by M. Brogdon,,80,82
+3,1:09.0,S. Brown misses 2-pt layup from 4 ft (block by S. Dekker),,80,82
+3,1:05.0,,Defensive rebound by S. Dekker,80,82
+3,1:01.0,,T. Ariza makes 3-pt jump shot from 25 ft (assist by C. Randle),80,85
+3,0:43.0,Turnover by M. Brogdon (lost ball; steal by B. Beal),,80,85
+3,0:29.0,,B. Beal misses 2-pt layup from 2 ft,80,85
+3,0:27.0,Defensive rebound by M. Brogdon,,80,85
+3,0:23.0,M. Brogdon makes 2-pt layup from 2 ft,,82,85
+3,0:06.0,,B. Beal misses 3-pt jump shot from 26 ft,82,85
+3,0:05.0,Defensive rebound by Team,,82,85
+3,0:02.0,Turnover by G. Hill (lost ball; steal by T. Ariza),,82,85
+3,0:01.0,,S. Dekker misses 3-pt jump shot from 38 ft,82,85
+3,0:01.0,,Offensive rebound by Team,82,85
+4,11:47.0,T. Snell misses 3-pt jump shot from 26 ft,,82,85
+4,11:40.0,,Defensive rebound by J. Green,82,85
+4,11:26.0,,Turnover by O. Porter (lost ball; steal by E. İlyasova),82,85
+4,11:16.0,T. Snell misses 2-pt layup from 6 ft,,82,85
+4,11:13.0,,Defensive rebound by O. Porter,82,85
+4,10:59.0,,J. Green makes 3-pt jump shot from 26 ft (assist by O. Porter),82,88
+4,10:40.0,T. Snell makes 3-pt jump shot from 24 ft (assist by M. Brogdon),,85,88
+4,10:13.0,,O. Porter misses 2-pt jump shot from 15 ft,85,88
+4,10:10.0,Defensive rebound by E. İlyasova,,85,88
+4,9:59.0,Turnover by M. Brogdon (bad pass; steal by T. Ariza),,85,88
+4,9:46.0,,J. Green misses 2-pt jump shot from 15 ft,85,88
+4,9:42.0,Defensive rebound by E. İlyasova,,85,88
+4,9:38.0,Turnover by M. Brogdon (bad pass),,85,88
+4,9:21.0,,C. Randle makes 2-pt layup from 3 ft,85,90
+4,9:02.0,E. İlyasova misses 2-pt jump shot from 13 ft,,85,90
+4,8:59.0,,Defensive rebound by O. Porter,85,90
+4,8:50.0,,J. Green makes 3-pt jump shot from 25 ft (assist by C. Randle),85,93
+4,8:39.0,Milwaukee full timeout,,85,93
+4,8:39.0,E. Bledsoe enters the game for M. Brogdon,,85,93
+4,8:39.0,K. Middleton enters the game for G. Hill,,85,93
+4,8:39.0,D. Wilson enters the game for B. Lopez,,85,93
+4,8:30.0,T. Snell misses 3-pt jump shot from 23 ft,,85,93
+4,8:27.0,,Defensive rebound by C. Randle,85,93
+4,8:21.0,,C. Randle misses 2-pt layup from 1 ft,85,93
+4,8:18.0,Defensive rebound by K. Middleton,,85,93
+4,8:06.0,D. Wilson misses 3-pt jump shot from 23 ft,,85,93
+4,8:05.0,Offensive rebound by Team,,85,93
+4,8:05.0,S. Brown enters the game for T. Snell,,85,93
+4,8:05.0,,B. Beal enters the game for S. Dekker,85,93
+4,7:57.0,Shooting foul by C. Randle (drawn by E. Bledsoe),,85,93
+4,7:57.0,E. Bledsoe misses free throw 1 of 2,,85,93
+4,7:57.0,Offensive rebound by Team,,85,93
+4,7:57.0,E. Bledsoe makes free throw 2 of 2,,86,93
+4,7:45.0,,Turnover by J. Green (bad pass),86,93
+4,7:45.0,,T. Satoranský enters the game for C. Randle,86,93
+4,7:35.0,E. Bledsoe makes 2-pt layup from 3 ft,,88,93
+4,7:24.0,,T. Satoranský misses 3-pt jump shot from 26 ft,88,93
+4,7:24.0,Defensive rebound by D. Wilson,,88,93
+4,7:10.0,E. Bledsoe misses 3-pt jump shot from 25 ft,,88,93
+4,7:07.0,,Defensive rebound by T. Satoranský,88,93
+4,6:49.0,,J. Green makes 2-pt jump shot from 21 ft (assist by T. Satoranský),88,95
+4,6:38.0,Shooting foul by B. Beal (drawn by E. Bledsoe),,88,95
+4,6:38.0,E. Bledsoe makes free throw 1 of 2,,89,95
+4,6:38.0,E. Bledsoe misses free throw 2 of 2,,89,95
+4,6:34.0,,Defensive rebound by J. Green,89,95
+4,6:23.0,,B. Beal makes 2-pt dunk from 2 ft (assist by J. Green),89,97
+4,6:22.0,,Violation by Team (delay of game),89,97
+4,6:06.0,K. Middleton makes 3-pt jump shot from 27 ft,,92,97
+4,5:49.0,,Shooting foul by D. Wilson (drawn by B. Beal),92,97
+4,5:49.0,,B. Beal makes free throw 1 of 2,92,98
+4,5:49.0,,B. Beal makes free throw 2 of 2,92,99
+4,5:42.0,E. Bledsoe misses 2-pt layup from 2 ft,,92,99
+4,5:40.0,Offensive rebound by E. Bledsoe,,92,99
+4,5:37.0,S. Brown misses 3-pt jump shot from 24 ft,,92,99
+4,5:34.0,,Defensive rebound by T. Satoranský,92,99
+4,5:30.0,,Washington full timeout,92,99
+4,5:30.0,B. Lopez enters the game for E. İlyasova,,92,99
+4,5:21.0,,Shooting foul by B. Lopez (drawn by J. Green),92,99
+4,5:21.0,,J. Green makes free throw 1 of 2,92,100
+4,5:21.0,,J. Green misses free throw 2 of 2,92,100
+4,5:18.0,Defensive rebound by K. Middleton,,92,100
+4,5:01.0,B. Lopez misses 2-pt jump shot from 17 ft,,92,100
+4,4:58.0,Offensive rebound by E. Bledsoe,,92,100
+4,4:44.0,E. Bledsoe misses 3-pt jump shot from 29 ft,,92,100
+4,4:41.0,,Defensive rebound by T. Satoranský,92,100
+4,4:18.0,,T. Ariza makes 3-pt jump shot from 26 ft (assist by B. Beal),92,103
+4,4:09.0,S. Brown makes 3-pt jump shot from 24 ft (assist by K. Middleton),,95,103
+4,3:48.0,,J. Green makes 3-pt jump shot from 27 ft (assist by T. Satoranský),95,106
+4,3:47.0,Milwaukee full timeout,,95,106
+4,3:47.0,M. Brogdon enters the game for E. Bledsoe,,95,106
+4,3:47.0,E. İlyasova enters the game for B. Lopez,,95,106
+4,3:25.0,S. Brown makes 2-pt dunk from 2 ft (assist by M. Brogdon),,97,106
+4,3:01.0,,J. Green misses 3-pt jump shot from 26 ft,97,106
+4,2:58.0,Defensive rebound by K. Middleton,,97,106
+4,2:46.0,E. İlyasova makes 2-pt jump shot from 7 ft (assist by K. Middleton),,99,106
+4,2:27.0,,T. Ariza makes 3-pt jump shot from 24 ft (assist by B. Beal),99,109
+4,2:11.0,Personal foul by J. Green (drawn by M. Brogdon),,99,109
+4,2:11.0,T. Snell enters the game for D. Wilson,,99,109
+4,2:00.0,K. Middleton makes 2-pt layup from 2 ft,,101,109
+4,1:43.0,,B. Beal makes 2-pt dunk from 1 ft (assist by T. Satoranský),101,111
+4,1:37.0,Shooting foul by T. Ariza (drawn by K. Middleton),,101,111
+4,1:37.0,K. Middleton makes free throw 1 of 2,,102,111
+4,1:37.0,K. Middleton makes free throw 2 of 2,,103,111
+4,1:11.0,,T. Ariza misses 3-pt jump shot from 27 ft,103,111
+4,1:08.0,Defensive rebound by K. Middleton,,103,111
+4,1:00.0,K. Middleton misses 3-pt jump shot from 26 ft,,103,111
+4,0:57.0,,Defensive rebound by O. Porter,103,111
+4,0:42.0,,Shooting foul by T. Snell (drawn by T. Satoranský),103,111
+4,0:42.0,,T. Satoranský makes free throw 1 of 2,103,112
+4,0:42.0,D. Wilson enters the game for K. Middleton,,103,112
+4,0:42.0,,T. Satoranský makes free throw 2 of 2,103,113
+4,0:38.0,M. Brogdon misses 3-pt jump shot from 30 ft,,103,113
+4,0:34.0,,Defensive rebound by O. Porter,103,113
+4,0:16.0,,T. Ariza misses 3-pt jump shot from 24 ft,103,113
+4,0:12.0,Defensive rebound by D. Wilson,,103,113
+4,0:02.0,D. Wilson makes 3-pt jump shot from 30 ft (assist by M. Brogdon),,106,113

@@ -1,0 +1,452 @@
+QUARTER,TIME_REMAINING,PHOENIX_ACTION,DENVER_ACTION,PHOENIX_SCORE,DENVER_SCORE
+1,11:44.0,,G. Harris makes 3-pt jump shot from 22 ft (assist by J. Murray),0,3
+1,11:27.0,Turnover by J. Jackson (bad pass; steal by P. Millsap),,0,3
+1,11:20.0,,W. Barton misses 3-pt jump shot from 24 ft,0,3
+1,11:18.0,Defensive rebound by D. Bender,,0,3
+1,11:08.0,E. Okobo misses 3-pt jump shot from 25 ft,,0,3
+1,11:04.0,,Defensive rebound by P. Millsap,0,3
+1,10:57.0,,J. Murray makes 3-pt jump shot from 25 ft (assist by M. Plumlee),0,6
+1,10:43.0,J. Jackson makes 2-pt layup from 4 ft (assist by D. Bender),,2,6
+1,10:43.0,Shooting foul by J. Murray (drawn by J. Jackson),,2,6
+1,10:43.0,J. Jackson makes free throw 1 of 1,,3,6
+1,10:32.0,,J. Murray makes 2-pt jump shot from 16 ft,3,8
+1,10:14.0,D. Booker misses 2-pt jump shot from 12 ft,,3,8
+1,10:12.0,,Defensive rebound by P. Millsap,3,8
+1,10:03.0,,P. Millsap makes 2-pt dunk from 2 ft (assist by M. Plumlee),3,10
+1,9:49.0,Offensive foul by D. Booker (drawn by M. Plumlee),,3,10
+1,9:49.0,Turnover by D. Booker (offensive foul),,3,10
+1,9:39.0,,J. Murray misses 2-pt jump shot from 14 ft,3,10
+1,9:34.0,Defensive rebound by E. Okobo,,3,10
+1,9:33.0,,Violation by Team (kicked ball),3,10
+1,9:21.0,D. Booker misses 3-pt jump shot from 24 ft,,3,10
+1,9:17.0,,Defensive rebound by P. Millsap,3,10
+1,9:13.0,,W. Barton makes 2-pt dunk at rim (assist by P. Millsap),3,12
+1,9:09.0,Phoenix full timeout,,3,12
+1,9:00.0,J. Jackson makes 2-pt layup from 1 ft (assist by E. Okobo),,5,12
+1,8:34.0,,P. Millsap misses 2-pt layup from 2 ft (block by J. Jackson),5,12
+1,8:32.0,Defensive rebound by M. Bridges,,5,12
+1,8:29.0,D. Booker misses 2-pt layup from 1 ft,,5,12
+1,8:26.0,,Defensive rebound by G. Harris,5,12
+1,8:23.0,,Shooting foul by E. Okobo (drawn by G. Harris),5,12
+1,8:23.0,,G. Harris makes free throw 1 of 2,5,13
+1,8:23.0,,G. Harris makes free throw 2 of 2,5,14
+1,8:05.0,Turnover by D. Booker (bad pass; steal by G. Harris),,5,14
+1,7:49.0,,Turnover by P. Millsap (bad pass; steal by D. Bender),5,14
+1,7:44.0,J. Jackson misses 2-pt layup from 2 ft,,5,14
+1,7:42.0,,Defensive rebound by P. Millsap,5,14
+1,7:38.0,,J. Murray makes 3-pt jump shot from 25 ft,5,17
+1,7:19.0,D. Booker makes 3-pt jump shot from 28 ft (assist by E. Okobo),,8,17
+1,7:00.0,,J. Murray misses 2-pt layup from 6 ft,8,17
+1,6:56.0,,Offensive rebound by M. Plumlee,8,17
+1,6:56.0,,M. Plumlee misses 2-pt layup from 1 ft,8,17
+1,6:55.0,Defensive rebound by M. Bridges,,8,17
+1,6:51.0,D. Booker makes 2-pt jump shot from 4 ft,,10,17
+1,6:28.0,,G. Harris misses 3-pt jump shot from 26 ft,10,17
+1,6:26.0,Defensive rebound by Team,,10,17
+1,6:26.0,K. Oubre enters the game for M. Bridges,,10,17
+1,6:11.0,D. Booker makes 2-pt layup from 2 ft,,12,17
+1,6:02.0,,Personal foul by J. Jackson (drawn by P. Millsap),12,17
+1,6:02.0,,T. Craig enters the game for G. Harris,12,17
+1,5:53.0,,M. Plumlee makes 2-pt dunk from 2 ft (assist by P. Millsap),12,19
+1,5:37.0,D. Bender makes 3-pt jump shot from 25 ft (assist by K. Oubre),,15,19
+1,5:23.0,,J. Murray makes 2-pt layup from 3 ft,15,21
+1,5:11.0,Shooting foul by P. Millsap (drawn by J. Jackson),,15,21
+1,5:11.0,J. Jackson makes free throw 1 of 2,,16,21
+1,5:11.0,,T. Lyles enters the game for M. Plumlee,16,21
+1,5:11.0,J. Jackson makes free throw 2 of 2,,17,21
+1,4:56.0,,P. Millsap makes 3-pt jump shot from 25 ft (assist by J. Murray),17,24
+1,4:45.0,D. Booker makes 2-pt jump shot from 6 ft (assist by E. Okobo),,19,24
+1,4:45.0,Violation by Team (delay of game),,19,24
+1,4:31.0,,J. Murray makes 3-pt jump shot from 25 ft,19,27
+1,4:23.0,Shooting foul by T. Craig (drawn by D. Booker),,19,27
+1,4:23.0,D. Booker makes free throw 1 of 2,,20,27
+1,4:23.0,Q. Acy enters the game for D. Bender,,20,27
+1,4:23.0,M. Bridges enters the game for J. Jackson,,20,27
+1,4:23.0,,J. Hernangómez enters the game for P. Millsap,20,27
+1,4:23.0,D. Booker makes free throw 2 of 2,,21,27
+1,4:10.0,,T. Lyles makes 2-pt layup from 1 ft (assist by W. Barton),21,29
+1,3:44.0,E. Okobo makes 3-pt jump shot from 28 ft (assist by Q. Acy),,24,29
+1,3:20.0,,J. Murray misses 3-pt jump shot from 29 ft,24,29
+1,3:17.0,,Offensive rebound by T. Lyles,24,29
+1,3:14.0,,T. Lyles makes 3-pt jump shot from 24 ft,24,32
+1,2:51.0,K. Oubre makes 2-pt layup from 2 ft (assist by D. Booker),,26,32
+1,2:34.0,,T. Lyles misses 2-pt hook shot from 5 ft,26,32
+1,2:32.0,Defensive rebound by Q. Acy,,26,32
+1,2:23.0,E. Okobo misses 3-pt jump shot from 25 ft,,26,32
+1,2:19.0,,Defensive rebound by T. Craig,26,32
+1,2:10.0,,T. Lyles misses 2-pt layup from 3 ft (block by K. Oubre),26,32
+1,2:09.0,,Offensive rebound by W. Barton,26,32
+1,2:09.0,,W. Barton makes 2-pt layup from 2 ft,26,34
+1,2:09.0,,Shooting foul by E. Okobo (drawn by W. Barton),26,34
+1,2:09.0,,Denver full timeout,26,34
+1,2:09.0,J. Crawford enters the game for E. Okobo,,26,34
+1,2:09.0,,W. Barton makes free throw 1 of 1,26,35
+1,1:56.0,Shooting foul by W. Barton (drawn by K. Oubre),,26,35
+1,1:56.0,K. Oubre makes free throw 1 of 2,,27,35
+1,1:56.0,,M. Beasley enters the game for W. Barton,27,35
+1,1:56.0,K. Oubre makes free throw 2 of 2,,28,35
+1,1:47.0,,Turnover by J. Hernangómez (bad pass; steal by J. Crawford),28,35
+1,1:42.0,K. Oubre misses 3-pt jump shot from 24 ft,,28,35
+1,1:38.0,,Defensive rebound by J. Hernangómez,28,35
+1,1:24.0,,T. Craig misses 2-pt layup from 2 ft,28,35
+1,1:21.0,,Offensive rebound by T. Lyles,28,35
+1,1:21.0,,T. Lyles makes 2-pt layup from 1 ft,28,37
+1,1:04.0,Personal foul by J. Hernangómez (drawn by D. Booker),,28,37
+1,1:04.0,D. Booker makes free throw 1 of 2,,29,37
+1,1:04.0,,M. Morris enters the game for J. Murray,29,37
+1,1:04.0,D. Booker makes free throw 2 of 2,,30,37
+1,0:50.0,,T. Lyles misses 2-pt jump shot from 7 ft,30,37
+1,0:48.0,Defensive rebound by Q. Acy,,30,37
+1,0:40.0,Shooting foul by M. Beasley (drawn by D. Booker),,30,37
+1,0:40.0,D. Booker makes free throw 1 of 2,,31,37
+1,0:40.0,D. Booker makes free throw 2 of 2,,32,37
+1,0:32.0,,J. Hernangómez misses 3-pt jump shot from 25 ft,32,37
+1,0:29.0,Defensive rebound by J. Crawford,,32,37
+1,0:08.0,D. Booker misses 2-pt layup from 2 ft,,32,37
+1,0:05.0,,Defensive rebound by J. Hernangómez,32,37
+1,0:03.0,,Personal foul by J. Crawford (drawn by T. Craig),32,37
+1,0:01.0,,T. Lyles misses 3-pt jump shot from 26 ft,32,37
+1,0:01.0,,Offensive rebound by Team,32,37
+2,11:44.0,J. Jackson misses 2-pt jump shot from 18 ft,,32,37
+2,11:40.0,,Defensive rebound by T. Lyles,32,37
+2,11:27.0,,Shooting foul by J. Jackson (drawn by M. Beasley),32,37
+2,11:27.0,,M. Beasley makes free throw 1 of 2,32,38
+2,11:27.0,,M. Beasley makes free throw 2 of 2,32,39
+2,11:09.0,K. Oubre misses 2-pt jump shot from 24 ft,,32,39
+2,11:06.0,,Defensive rebound by T. Craig,32,39
+2,10:56.0,,J. Hernangómez misses 2-pt layup from 3 ft (block by J. Jackson),32,39
+2,10:53.0,,Offensive rebound by J. Hernangómez,32,39
+2,10:48.0,,J. Hernangómez misses 2-pt layup from 2 ft,32,39
+2,10:46.0,Defensive rebound by Q. Acy,,32,39
+2,10:40.0,J. Jackson makes 2-pt layup from 2 ft,,34,39
+2,10:23.0,,T. Lyles misses 2-pt jump shot from 3 ft,34,39
+2,10:21.0,Defensive rebound by Q. Acy,,34,39
+2,10:13.0,Personal foul by T. Lyles (drawn by Q. Acy),,34,39
+2,10:09.0,M. Bridges misses 3-pt jump shot from 25 ft,,34,39
+2,10:05.0,,Defensive rebound by T. Lyles,34,39
+2,9:58.0,,M. Morris makes 2-pt jump shot from 20 ft,34,41
+2,9:38.0,M. Bridges makes 2-pt layup from 2 ft (assist by J. Crawford),,36,41
+2,9:18.0,,T. Lyles misses 2-pt hook shot from 6 ft,36,41
+2,9:16.0,Defensive rebound by J. Jackson,,36,41
+2,9:13.0,K. Oubre makes 2-pt dunk from 1 ft (assist by J. Jackson),,38,41
+2,9:12.0,,Denver full timeout,38,41
+2,9:12.0,D. Bender enters the game for Q. Acy,,38,41
+2,9:12.0,E. Okobo enters the game for M. Bridges,,38,41
+2,9:12.0,,M. Plumlee enters the game for J. Hernangómez,38,41
+2,8:58.0,,M. Beasley misses 3-pt jump shot from 25 ft,38,41
+2,8:54.0,Defensive rebound by J. Jackson,,38,41
+2,8:41.0,K. Oubre makes 2-pt jump shot from 6 ft (assist by J. Crawford),,40,41
+2,8:18.0,,M. Plumlee makes 2-pt hook shot from 4 ft,40,43
+2,8:03.0,D. Bender misses 3-pt jump shot from 24 ft,,40,43
+2,8:01.0,,Defensive rebound by M. Morris,40,43
+2,7:58.0,,T. Craig makes 2-pt dunk at rim (assist by M. Morris),40,45
+2,7:39.0,J. Jackson makes 3-pt jump shot from 25 ft,,43,45
+2,7:25.0,,M. Plumlee misses 2-pt layup from 2 ft (block by J. Crawford),43,45
+2,7:22.0,Defensive rebound by D. Bender,,43,45
+2,7:18.0,Shooting foul by T. Craig (drawn by J. Jackson),,43,45
+2,7:18.0,J. Jackson makes free throw 1 of 2,,44,45
+2,7:18.0,,G. Harris enters the game for M. Beasley,44,45
+2,7:18.0,,P. Millsap enters the game for T. Lyles,44,45
+2,7:18.0,J. Jackson makes free throw 2 of 2,,45,45
+2,7:05.0,,M. Plumlee makes 2-pt layup from 1 ft (assist by G. Harris),45,47
+2,6:54.0,D. Bender makes 2-pt layup from 3 ft (assist by J. Crawford),,47,47
+2,6:41.0,,Personal foul by K. Oubre (drawn by G. Harris),47,47
+2,6:41.0,,J. Murray enters the game for M. Morris,47,47
+2,6:33.0,,Offensive foul by M. Plumlee (drawn by D. Bender),47,47
+2,6:33.0,,Turnover by M. Plumlee (offensive foul),47,47
+2,6:15.0,J. Jackson misses 3-pt jump shot from 25 ft,,47,47
+2,6:12.0,,Defensive rebound by J. Murray,47,47
+2,6:12.0,,Personal foul by K. Oubre (drawn by T. Craig),47,47
+2,6:06.0,,Shooting foul by J. Jackson (drawn by M. Plumlee),47,47
+2,6:06.0,,M. Plumlee makes free throw 1 of 2,47,48
+2,6:06.0,,M. Plumlee makes free throw 2 of 2,47,49
+2,6:02.0,Phoenix full timeout,,47,49
+2,6:02.0,D. Booker enters the game for J. Crawford,,47,49
+2,6:02.0,M. Bridges enters the game for J. Jackson,,47,49
+2,5:45.0,K. Oubre misses 2-pt jump shot from 4 ft,,47,49
+2,5:43.0,,Defensive rebound by P. Millsap,47,49
+2,5:35.0,,M. Plumlee makes 2-pt dunk from 1 ft (assist by J. Murray),47,51
+2,5:20.0,D. Bender misses 2-pt layup from 1 ft,,47,51
+2,5:17.0,,Defensive rebound by P. Millsap,47,51
+2,5:14.0,,G. Harris misses 2-pt jump shot from 23 ft,47,51
+2,5:10.0,,Offensive rebound by M. Plumlee,47,51
+2,5:09.0,,G. Harris makes 3-pt jump shot from 27 ft (assist by M. Plumlee),47,54
+2,5:06.0,Phoenix full timeout,,47,54
+2,5:06.0,,W. Barton enters the game for T. Craig,47,54
+2,4:42.0,Turnover by D. Bender (lost ball; steal by P. Millsap),,47,54
+2,4:38.0,,G. Harris misses 3-pt jump shot from 22 ft,47,54
+2,4:34.0,,Offensive rebound by W. Barton,47,54
+2,4:22.0,,J. Murray misses 3-pt jump shot from 25 ft,47,54
+2,4:18.0,Defensive rebound by D. Booker,,47,54
+2,4:10.0,M. Bridges misses 3-pt jump shot from 23 ft,,47,54
+2,4:07.0,,Defensive rebound by G. Harris,47,54
+2,4:06.0,,Turnover by G. Harris (bad pass),47,54
+2,4:06.0,J. Crawford enters the game for E. Okobo,,47,54
+2,4:06.0,J. Jackson enters the game for K. Oubre,,47,54
+2,3:54.0,D. Bender makes 2-pt layup from 2 ft (assist by J. Crawford),,49,54
+2,3:35.0,,Turnover by M. Plumlee (3 sec),49,54
+2,3:25.0,Personal foul by M. Plumlee (drawn by D. Bender),,49,54
+2,3:18.0,D. Booker makes 2-pt layup from 1 ft,,51,54
+2,2:51.0,,W. Barton makes 3-pt jump shot from 27 ft (assist by G. Harris),51,57
+2,2:36.0,J. Jackson misses 3-pt jump shot from 22 ft,,51,57
+2,2:34.0,,Defensive rebound by W. Barton,51,57
+2,2:29.0,,W. Barton makes 2-pt jump shot from 15 ft,51,59
+2,2:14.0,Turnover by J. Crawford (bad pass),,51,59
+2,2:14.0,,M. Morris enters the game for J. Murray,51,59
+2,2:05.0,,Turnover by M. Plumlee (bad pass; steal by M. Bridges),51,59
+2,2:01.0,D. Booker misses 2-pt layup from 3 ft,,51,59
+2,1:59.0,,Defensive rebound by M. Plumlee,51,59
+2,1:55.0,,Shooting foul by D. Bender (drawn by P. Millsap),51,59
+2,1:55.0,,P. Millsap makes free throw 1 of 2,51,60
+2,1:55.0,,P. Millsap misses free throw 2 of 2,51,60
+2,1:53.0,Defensive rebound by D. Bender,,51,60
+2,1:44.0,Shooting foul by P. Millsap (drawn by D. Booker),,51,60
+2,1:44.0,D. Booker makes free throw 1 of 2,,52,60
+2,1:44.0,D. Booker makes free throw 2 of 2,,53,60
+2,1:28.0,,P. Millsap makes 2-pt jump shot from 3 ft,53,62
+2,1:20.0,D. Booker makes 2-pt layup from 1 ft (assist by J. Crawford),,55,62
+2,1:06.0,,W. Barton misses 3-pt jump shot from 25 ft,55,62
+2,1:04.0,,Offensive rebound by M. Morris,55,62
+2,1:03.0,,M. Morris makes 3-pt jump shot from 25 ft,55,65
+2,0:46.0,Turnover by J. Crawford (out of bounds lost ball),,55,65
+2,0:33.0,,P. Millsap makes 2-pt jump shot from 9 ft,55,67
+2,0:33.0,,Shooting foul by J. Jackson (drawn by P. Millsap),55,67
+2,0:33.0,K. Oubre enters the game for J. Jackson,,55,67
+2,0:33.0,,T. Lyles enters the game for M. Plumlee,55,67
+2,0:33.0,,P. Millsap makes free throw 1 of 1,55,68
+2,0:13.0,Turnover by J. Crawford (lost ball; steal by T. Lyles),,55,68
+2,0:10.0,,Shooting foul by D. Bender (drawn by W. Barton),55,68
+2,0:10.0,,W. Barton makes free throw 1 of 2,55,69
+2,0:10.0,,M. Beasley enters the game for P. Millsap,55,69
+2,0:10.0,,W. Barton makes free throw 2 of 2,55,70
+2,0:00.0,K. Oubre misses 3-pt jump shot from 24 ft,,55,70
+2,0:00.0,,Defensive rebound by W. Barton,55,70
+3,11:37.0,Turnover by E. Okobo (traveling),,55,70
+3,11:21.0,,P. Millsap misses 2-pt hook shot from 5 ft (block by M. Bridges),55,70
+3,11:17.0,Defensive rebound by D. Booker,,55,70
+3,11:15.0,Turnover by D. Booker (bad pass),,55,70
+3,11:01.0,,W. Barton misses 2-pt jump shot from 11 ft (block by M. Bridges),55,70
+3,10:56.0,Defensive rebound by M. Bridges,,55,70
+3,10:56.0,D. Booker misses 2-pt layup from 2 ft,,55,70
+3,10:53.0,Offensive rebound by M. Bridges,,55,70
+3,10:53.0,M. Bridges makes 2-pt layup from 1 ft,,57,70
+3,10:30.0,,M. Plumlee misses 2-pt hook shot from 5 ft,57,70
+3,10:28.0,Defensive rebound by D. Bender,,57,70
+3,10:10.0,D. Booker makes 2-pt jump shot from 13 ft,,59,70
+3,9:46.0,,P. Millsap makes 3-pt jump shot from 23 ft (assist by J. Murray),59,73
+3,9:35.0,Shooting foul by G. Harris (drawn by D. Booker),,59,73
+3,9:35.0,D. Booker makes free throw 1 of 2,,60,73
+3,9:35.0,D. Booker makes free throw 2 of 2,,61,73
+3,9:15.0,,W. Barton misses 3-pt jump shot from 23 ft,61,73
+3,9:13.0,Defensive rebound by M. Bridges,,61,73
+3,9:09.0,Personal foul by J. Murray (drawn by D. Booker),,61,73
+3,9:04.0,D. Booker misses 3-pt jump shot from 27 ft,,61,73
+3,9:02.0,,Defensive rebound by G. Harris,61,73
+3,8:54.0,,M. Plumlee makes 2-pt dunk from 1 ft (assist by G. Harris),61,75
+3,8:31.0,D. Booker misses 2-pt jump shot from 17 ft,,61,75
+3,8:29.0,,Defensive rebound by M. Plumlee,61,75
+3,8:17.0,,Personal foul by D. Booker (drawn by P. Millsap),61,75
+3,8:12.0,,G. Harris misses 3-pt jump shot from 24 ft,61,75
+3,8:09.0,,Offensive rebound by P. Millsap,61,75
+3,8:07.0,,Shooting foul by M. Bridges (drawn by P. Millsap),61,75
+3,8:07.0,,P. Millsap makes free throw 1 of 2,61,76
+3,8:07.0,,P. Millsap makes free throw 2 of 2,61,77
+3,7:51.0,J. Jackson misses 3-pt jump shot from 25 ft,,61,77
+3,7:50.0,,Defensive rebound by M. Plumlee,61,77
+3,7:48.0,,Turnover by M. Plumlee (bad pass; steal by J. Jackson),61,77
+3,7:40.0,D. Booker misses 2-pt layup from 2 ft (block by W. Barton),,61,77
+3,7:37.0,,Defensive rebound by M. Plumlee,61,77
+3,7:35.0,,P. Millsap makes 2-pt dunk from 1 ft (assist by M. Plumlee),61,79
+3,7:34.0,Phoenix full timeout,,61,79
+3,7:34.0,J. Crawford enters the game for M. Bridges,,61,79
+3,7:34.0,K. Oubre enters the game for E. Okobo,,61,79
+3,7:34.0,,M. Morris enters the game for W. Barton,61,79
+3,7:23.0,J. Jackson misses 2-pt jump shot from 11 ft,,61,79
+3,7:20.0,,Defensive rebound by M. Plumlee,61,79
+3,7:08.0,,G. Harris makes 2-pt layup from 1 ft,61,81
+3,7:03.0,J. Jackson makes 2-pt dunk from 1 ft,,63,81
+3,6:40.0,,M. Morris misses 2-pt jump shot from 8 ft,63,81
+3,6:40.0,,Offensive rebound by P. Millsap,63,81
+3,6:40.0,,Shooting foul by J. Jackson (drawn by P. Millsap),63,81
+3,6:40.0,,P. Millsap makes free throw 1 of 2,63,82
+3,6:40.0,T. Daniels enters the game for J. Jackson,,63,82
+3,6:40.0,,P. Millsap makes free throw 2 of 2,63,83
+3,6:26.0,Turnover by D. Bender (lost ball; steal by P. Millsap),,63,83
+3,6:20.0,,M. Morris makes 2-pt layup from 1 ft (assist by M. Plumlee),63,85
+3,6:07.0,T. Daniels makes 3-pt jump shot from 23 ft (assist by D. Booker),,66,85
+3,5:46.0,,M. Plumlee makes 2-pt dunk from 1 ft (assist by J. Murray),66,87
+3,5:30.0,K. Oubre makes 3-pt jump shot from 25 ft (assist by D. Bender),,69,87
+3,5:10.0,,G. Harris misses 2-pt jump shot from 7 ft,69,87
+3,5:07.0,,Offensive rebound by J. Murray,69,87
+3,5:06.0,,G. Harris misses 3-pt jump shot from 24 ft,69,87
+3,5:03.0,Defensive rebound by K. Oubre,,69,87
+3,4:51.0,D. Bender misses 3-pt jump shot from 25 ft,,69,87
+3,4:49.0,,Defensive rebound by P. Millsap,69,87
+3,4:37.0,,Turnover by P. Millsap (bad pass),69,87
+3,4:37.0,Q. Acy enters the game for D. Bender,,69,87
+3,4:37.0,,T. Craig enters the game for G. Harris,69,87
+3,4:28.0,Shooting foul by T. Craig (drawn by D. Booker),,69,87
+3,4:28.0,D. Booker misses free throw 1 of 2,,69,87
+3,4:28.0,Offensive rebound by Team,,69,87
+3,4:28.0,,T. Lyles enters the game for P. Millsap,69,87
+3,4:28.0,D. Booker makes free throw 2 of 2,,70,87
+3,4:13.0,,M. Morris makes 2-pt jump shot from 12 ft (assist by M. Plumlee),70,89
+3,4:06.0,Shooting foul by M. Morris (drawn by D. Booker),,70,89
+3,4:06.0,D. Booker makes free throw 1 of 2,,71,89
+3,4:06.0,,M. Beasley enters the game for J. Murray,71,89
+3,4:06.0,D. Booker makes free throw 2 of 2,,72,89
+3,3:48.0,,Personal foul by K. Oubre (drawn by M. Beasley),72,89
+3,3:44.0,,Personal foul by T. Daniels (drawn by M. Plumlee),72,89
+3,3:44.0,,M. Plumlee makes free throw 1 of 2,72,90
+3,3:44.0,,M. Plumlee makes free throw 2 of 2,72,91
+3,3:31.0,Turnover by Q. Acy (lost ball; steal by M. Plumlee),,72,91
+3,3:26.0,,T. Craig misses 3-pt jump shot from 24 ft,72,91
+3,3:22.0,Defensive rebound by D. Booker,,72,91
+3,3:16.0,D. Booker makes 3-pt jump shot from 25 ft,,75,91
+3,3:03.0,,M. Morris makes 3-pt jump shot from 24 ft,75,94
+3,2:50.0,K. Oubre misses 3-pt jump shot from 24 ft,,75,94
+3,2:46.0,,Defensive rebound by T. Craig,75,94
+3,2:30.0,,Turnover by T. Lyles (traveling),75,94
+3,2:30.0,,Denver full timeout,75,94
+3,2:30.0,,J. Hernangómez enters the game for M. Plumlee,75,94
+3,2:22.0,Turnover by D. Booker (step out of bounds),,75,94
+3,2:11.0,,J. Hernangómez misses 3-pt jump shot from 22 ft,75,94
+3,2:08.0,Defensive rebound by Q. Acy,,75,94
+3,2:01.0,D. Booker misses 2-pt layup from 3 ft,,75,94
+3,1:59.0,,Defensive rebound by J. Hernangómez,75,94
+3,1:56.0,,Shooting foul by Q. Acy (drawn by M. Beasley),75,94
+3,1:56.0,,M. Beasley makes free throw 1 of 2,75,95
+3,1:56.0,,M. Beasley makes free throw 2 of 2,75,96
+3,1:41.0,K. Oubre misses 2-pt layup from 3 ft,,75,96
+3,1:38.0,,Defensive rebound by T. Lyles,75,96
+3,1:23.0,,T. Lyles misses 2-pt jump shot from 11 ft,75,96
+3,1:20.0,Defensive rebound by Q. Acy,,75,96
+3,1:17.0,Shooting foul by M. Beasley (drawn by D. Booker),,75,96
+3,1:17.0,D. Booker makes free throw 1 of 2,,76,96
+3,1:17.0,D. Booker makes free throw 2 of 2,,77,96
+3,1:04.0,,M. Morris misses 3-pt jump shot from 24 ft,77,96
+3,1:01.0,Defensive rebound by K. Oubre,,77,96
+3,0:55.0,Turnover by K. Oubre (lost ball; steal by T. Craig),,77,96
+3,0:54.0,,Personal take foul by J. Crawford (drawn by T. Craig),77,96
+3,0:54.0,,T. Craig makes free throw 1 of 2,77,97
+3,0:54.0,,T. Craig misses free throw 2 of 2,77,97
+3,0:54.0,,Offensive rebound by T. Craig,77,97
+3,0:54.0,,Shooting foul by Q. Acy (drawn by T. Craig),77,97
+3,0:54.0,,T. Craig misses free throw 1 of 2,77,97
+3,0:54.0,,Offensive rebound by Team,77,97
+3,0:54.0,,T. Craig makes free throw 2 of 2,77,98
+3,0:45.0,T. Daniels makes 2-pt jump shot from 20 ft (assist by K. Oubre),,79,98
+3,0:34.0,,M. Beasley misses 3-pt jump shot from 24 ft,79,98
+3,0:31.0,Defensive rebound by Q. Acy,,79,98
+3,0:13.0,D. Booker makes 2-pt layup from 2 ft,,81,98
+3,0:00.0,,M. Morris misses 3-pt jump shot from 26 ft,81,98
+3,0:00.0,Defensive rebound by D. Booker,,81,98
+4,11:40.0,,M. Beasley makes 3-pt jump shot from 23 ft (assist by W. Barton),81,101
+4,11:23.0,J. Jackson misses 2-pt layup from 3 ft,,81,101
+4,11:21.0,,Defensive rebound by J. Hernangómez,81,101
+4,11:18.0,,T. Lyles makes 3-pt jump shot from 24 ft (assist by W. Barton),81,104
+4,11:15.0,Phoenix full timeout,,81,104
+4,11:15.0,E. Okobo enters the game for J. Crawford,,81,104
+4,11:06.0,J. Jackson misses 3-pt jump shot from 25 ft,,81,104
+4,11:05.0,,Defensive rebound by Team,81,104
+4,10:50.0,,M. Morris misses 2-pt jump shot from 14 ft,81,104
+4,10:46.0,,Offensive rebound by T. Lyles,81,104
+4,10:46.0,,T. Lyles makes 2-pt layup at rim,81,106
+4,10:34.0,D. Bender makes 2-pt layup from 3 ft (assist by E. Okobo),,83,106
+4,10:18.0,,W. Barton misses 3-pt jump shot from 24 ft,83,106
+4,10:16.0,Defensive rebound by J. Jackson,,83,106
+4,10:13.0,D. Bender makes 2-pt layup from 1 ft (assist by J. Jackson),,85,106
+4,10:13.0,,Violation by Team (def goaltending),85,106
+4,10:13.0,,Denver full timeout,85,106
+4,9:55.0,,M. Beasley misses 2-pt dunk from 2 ft (block by K. Oubre),85,106
+4,9:53.0,,Offensive rebound by J. Hernangómez,85,106
+4,9:44.0,,M. Beasley makes 3-pt jump shot from 24 ft (assist by W. Barton),85,109
+4,9:18.0,J. Jackson misses 2-pt jump shot from 14 ft,,85,109
+4,9:16.0,,Defensive rebound by J. Hernangómez,85,109
+4,9:06.0,,T. Lyles misses 2-pt layup from 2 ft,85,109
+4,9:04.0,Defensive rebound by K. Oubre,,85,109
+4,8:59.0,K. Oubre makes 2-pt jump shot from 3 ft,,87,109
+4,8:46.0,,W. Barton makes 2-pt layup from 2 ft,87,111
+4,8:34.0,K. Oubre misses 3-pt jump shot from 26 ft,,87,111
+4,8:31.0,,Defensive rebound by M. Beasley,87,111
+4,8:13.0,,M. Beasley misses 3-pt jump shot from 23 ft,87,111
+4,8:10.0,Defensive rebound by E. Okobo,,87,111
+4,7:57.0,D. Bender makes 2-pt hook shot from 7 ft (assist by K. Oubre),,89,111
+4,7:57.0,Shooting foul by J. Hernangómez (drawn by D. Bender),,89,111
+4,7:57.0,T. Daniels enters the game for K. Oubre,,89,111
+4,7:57.0,,T. Craig enters the game for M. Morris,89,111
+4,7:57.0,D. Bender makes free throw 1 of 1,,90,111
+4,7:38.0,,M. Beasley misses 3-pt jump shot from 25 ft,90,111
+4,7:34.0,Defensive rebound by D. Bender,,90,111
+4,7:23.0,T. Daniels misses 2-pt jump shot from 20 ft,,90,111
+4,7:20.0,,Defensive rebound by W. Barton,90,111
+4,7:12.0,,W. Barton misses 2-pt jump shot from 9 ft,90,111
+4,7:11.0,Defensive rebound by Team,,90,111
+4,7:11.0,,Loose ball foul by W. Barton (drawn by D. Bender),90,111
+4,6:59.0,D. Bender misses 3-pt jump shot from 24 ft,,90,111
+4,6:57.0,,Defensive rebound by J. Hernangómez,90,111
+4,6:48.0,,T. Craig makes 2-pt layup from 3 ft (assist by W. Barton),90,113
+4,6:41.0,Turnover by J. Jackson (lost ball; steal by M. Beasley),,90,113
+4,6:29.0,,M. Beasley makes 2-pt layup from 2 ft (assist by J. Hernangómez),90,115
+4,6:08.0,T. Daniels misses 3-pt jump shot from 25 ft,,90,115
+4,6:05.0,,Defensive rebound by M. Beasley,90,115
+4,6:00.0,,Turnover by W. Barton (bad pass),90,115
+4,5:46.0,D. Bender misses 3-pt jump shot from 25 ft,,90,115
+4,5:44.0,,Defensive rebound by J. Hernangómez,90,115
+4,5:37.0,,M. Beasley makes 2-pt layup from 4 ft,90,117
+4,5:37.0,,Shooting foul by D. Bender (drawn by M. Beasley),90,117
+4,5:37.0,,M. Beasley makes free throw 1 of 1,90,118
+4,5:21.0,Shooting foul by J. Hernangómez (drawn by J. Jackson),,90,118
+4,5:21.0,,M. Morris enters the game for W. Barton,90,118
+4,5:21.0,J. Jackson misses free throw 1 of 2,,90,118
+4,5:21.0,Offensive rebound by Team,,90,118
+4,5:21.0,J. Jackson makes free throw 2 of 2,,91,118
+4,4:58.0,,M. Beasley makes 2-pt layup from 1 ft (assist by T. Craig),91,120
+4,4:46.0,T. Daniels misses 3-pt jump shot from 27 ft,,91,120
+4,4:43.0,Offensive rebound by M. Bridges,,91,120
+4,4:41.0,M. Bridges misses 3-pt jump shot from 24 ft,,91,120
+4,4:38.0,,Defensive rebound by T. Craig,91,120
+4,4:38.0,,Denver full timeout,91,120
+4,4:38.0,Q. Acy enters the game for D. Bender,,91,120
+4,4:38.0,K. Oubre enters the game for J. Jackson,,91,120
+4,4:38.0,,T. Lydon enters the game for T. Lyles,91,120
+4,4:22.0,,J. Hernangómez misses 2-pt layup from 5 ft,91,120
+4,4:20.0,,Offensive rebound by J. Hernangómez,91,120
+4,4:19.0,,J. Hernangómez misses 2-pt layup from 4 ft,91,120
+4,4:17.0,,Offensive rebound by T. Craig,91,120
+4,4:16.0,,T. Craig makes 2-pt layup from 2 ft,91,122
+4,3:53.0,Turnover by Team (shot clock),,91,122
+4,3:53.0,,J. Vanderbilt enters the game for T. Craig,91,122
+4,3:34.0,,Offensive foul by T. Lydon (drawn by K. Oubre),91,122
+4,3:34.0,,Turnover by T. Lydon (offensive foul),91,122
+4,3:14.0,T. Daniels misses 2-pt layup from 3 ft,,91,122
+4,3:12.0,,Defensive rebound by J. Vanderbilt,91,122
+4,2:57.0,,M. Morris makes 3-pt jump shot from 25 ft (assist by T. Lydon),91,125
+4,2:47.0,E. Okobo makes 2-pt layup from 2 ft (assist by M. Bridges),,93,125
+4,2:37.0,,M. Morris makes 2-pt layup from 2 ft,93,127
+4,2:37.0,,Shooting foul by E. Okobo (drawn by M. Morris),93,127
+4,2:37.0,,M. Morris misses free throw 1 of 1,93,127
+4,2:34.0,Defensive rebound by Q. Acy,,93,127
+4,2:25.0,Turnover by T. Daniels (bad pass; steal by J. Vanderbilt),,93,127
+4,2:25.0,,Personal foul by T. Daniels (drawn by J. Vanderbilt),93,127
+4,2:03.0,,J. Hernangómez makes 2-pt jump shot from 7 ft,93,129
+4,2:03.0,,Away from play foul by K. Oubre (drawn by T. Lydon),93,129
+4,2:03.0,,T. Lydon misses free throw 1 of 1,93,129
+4,2:00.0,Defensive rebound by E. Okobo,,93,129
+4,1:56.0,K. Oubre misses 3-pt jump shot from 25 ft,,93,129
+4,1:52.0,,Defensive rebound by J. Vanderbilt,93,129
+4,1:40.0,,Turnover by J. Vanderbilt (traveling),93,129
+4,1:25.0,M. Bridges misses 2-pt jump shot from 11 ft,,93,129
+4,1:23.0,,Defensive rebound by J. Vanderbilt,93,129
+4,1:21.0,,M. Beasley makes 2-pt layup from 2 ft (assist by J. Vanderbilt),93,131
+4,1:03.0,K. Oubre misses 2-pt jump shot from 3 ft,,93,131
+4,1:01.0,,Defensive rebound by M. Morris,93,131
+4,0:54.0,,T. Lydon misses 3-pt jump shot from 22 ft,93,131
+4,0:51.0,Defensive rebound by Q. Acy,,93,131
+4,0:45.0,E. Okobo makes 2-pt layup from 2 ft,,95,131
+4,0:28.0,,Shooting foul by M. Bridges (drawn by J. Vanderbilt),95,131
+4,0:28.0,,J. Vanderbilt makes free throw 1 of 2,95,132
+4,0:28.0,,J. Vanderbilt misses free throw 2 of 2,95,132
+4,0:26.0,Defensive rebound by Q. Acy,,95,132
+4,0:18.0,E. Okobo misses 3-pt jump shot from 31 ft,,95,132
+4,0:14.0,,Defensive rebound by M. Beasley,95,132

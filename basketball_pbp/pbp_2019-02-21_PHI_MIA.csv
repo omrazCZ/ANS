@@ -1,0 +1,465 @@
+QUARTER,TIME_REMAINING,MIAMI_ACTION,PHILADELPHIA_ACTION,MIAMI_SCORE,PHILADELPHIA_SCORE
+1,11:49.0,Personal foul by J. Redick (drawn by J. Richardson),,0,0
+1,11:39.0,J. Richardson misses 2-pt jump shot from 15 ft,,0,0
+1,11:36.0,,Defensive rebound by B. Marjanović,0,0
+1,11:30.0,,B. Simmons misses 2-pt jump shot from 5 ft,0,0
+1,11:27.0,Defensive rebound by K. Olynyk,,0,0
+1,11:10.0,D. Waiters makes 2-pt jump shot from 16 ft,,2,0
+1,10:51.0,,Shooting foul by J. Winslow (drawn by B. Marjanović),2,0
+1,10:51.0,,B. Marjanović makes free throw 1 of 2,2,1
+1,10:51.0,,B. Marjanović makes free throw 2 of 2,2,2
+1,10:40.0,K. Olynyk misses 2-pt layup from 1 ft (block by B. Marjanović),,2,2
+1,10:36.0,,Defensive rebound by J. Redick,2,2
+1,10:26.0,,J. Redick misses 3-pt jump shot from 26 ft,2,2
+1,10:24.0,Defensive rebound by D. Waiters,,2,2
+1,10:20.0,D. Waiters misses 2-pt layup from 2 ft,,2,2
+1,10:17.0,,Defensive rebound by B. Marjanović,2,2
+1,10:12.0,,J. Butler misses 2-pt layup from 2 ft,2,2
+1,10:12.0,,Offensive rebound by T. Harris,2,2
+1,10:12.0,,T. Harris misses 2-pt layup at rim,2,2
+1,10:05.0,Defensive rebound by H. Whiteside,,2,2
+1,9:55.0,H. Whiteside misses 2-pt jump shot from 11 ft,,2,2
+1,9:52.0,,Defensive rebound by B. Simmons,2,2
+1,9:39.0,,B. Marjanović makes 2-pt layup from 2 ft (assist by J. Butler),2,4
+1,9:39.0,,Shooting foul by K. Olynyk (drawn by B. Marjanović),2,4
+1,9:39.0,,B. Marjanović makes free throw 1 of 1,2,5
+1,9:19.0,J. Richardson makes 2-pt jump shot from 10 ft,,4,5
+1,9:03.0,,T. Harris misses 2-pt jump shot from 11 ft,4,5
+1,9:01.0,,Offensive rebound by Team,4,5
+1,8:56.0,,J. Butler misses 2-pt layup from 2 ft,4,5
+1,8:52.0,Defensive rebound by D. Waiters,,4,5
+1,8:39.0,H. Whiteside misses 2-pt jump shot from 12 ft,,4,5
+1,8:37.0,,Defensive rebound by T. Harris,4,5
+1,8:31.0,,Shooting foul by H. Whiteside (drawn by T. Harris),4,5
+1,8:31.0,,Offensive rebound by Team,4,5
+1,8:31.0,,T. Harris misses free throw 1 of 2,4,5
+1,8:31.0,,T. Harris makes free throw 2 of 2,4,6
+1,8:21.0,J. Richardson misses 3-pt jump shot from 26 ft,,4,6
+1,8:19.0,,Defensive rebound by Team,4,6
+1,8:00.0,,J. Redick misses 2-pt jump shot from 9 ft (block by J. Richardson),4,6
+1,7:56.0,Defensive rebound by K. Olynyk,,4,6
+1,7:54.0,J. Richardson misses 2-pt jump shot from 22 ft,,4,6
+1,7:51.0,,Defensive rebound by T. Harris,4,6
+1,7:49.0,,J. Butler makes 2-pt dunk at rim (assist by B. Simmons),4,8
+1,7:28.0,K. Olynyk makes 2-pt layup from 1 ft (assist by J. Winslow),,6,8
+1,7:14.0,,T. Harris makes 3-pt jump shot from 26 ft (assist by B. Marjanović),6,11
+1,6:54.0,J. Winslow makes 2-pt jump shot from 15 ft (assist by H. Whiteside),,8,11
+1,6:43.0,,B. Simmons misses 2-pt layup from 2 ft,8,11
+1,6:39.0,,Offensive rebound by B. Marjanović,8,11
+1,6:39.0,,B. Marjanović makes 2-pt dunk at rim,8,13
+1,6:32.0,Miami full timeout,,8,13
+1,6:32.0,D. Wade enters the game for J. Richardson,,8,13
+1,6:32.0,,J. Ennis enters the game for J. Redick,8,13
+1,6:32.0,,T. McConnell enters the game for B. Simmons,8,13
+1,6:25.0,K. Olynyk misses 2-pt dunk from 1 ft,,8,13
+1,6:24.0,Offensive rebound by D. Waiters,,8,13
+1,6:23.0,D. Waiters misses 3-pt jump shot from 25 ft,,8,13
+1,6:21.0,,Defensive rebound by B. Marjanović,8,13
+1,6:14.0,,T. McConnell makes 2-pt jump shot from 19 ft,8,15
+1,5:58.0,Shooting foul by T. Harris (drawn by D. Wade),,8,15
+1,5:58.0,D. Wade makes free throw 1 of 2,,9,15
+1,5:58.0,D. Wade makes free throw 2 of 2,,10,15
+1,5:42.0,,T. McConnell misses 2-pt jump shot from 15 ft,10,15
+1,5:40.0,,Offensive rebound by B. Marjanović,10,15
+1,5:38.0,,Turnover by B. Marjanović (lost ball; steal by H. Whiteside),10,15
+1,5:29.0,J. Winslow makes 3-pt jump shot from 24 ft (assist by K. Olynyk),,13,15
+1,5:20.0,,B. Marjanović makes 2-pt jump shot from 14 ft (assist by T. McConnell),13,17
+1,5:10.0,D. Wade misses 2-pt jump shot from 4 ft,,13,17
+1,5:07.0,,Defensive rebound by B. Marjanović,13,17
+1,5:03.0,,J. Butler makes 2-pt dunk from 1 ft (assist by T. McConnell),13,19
+1,4:37.0,J. Winslow misses 3-pt jump shot from 25 ft,,13,19
+1,4:34.0,,Defensive rebound by T. Harris,13,19
+1,4:27.0,,J. Ennis misses 2-pt layup from 4 ft,13,19
+1,4:25.0,Defensive rebound by H. Whiteside,,13,19
+1,4:14.0,Turnover by D. Waiters (bad pass; steal by T. McConnell),,13,19
+1,4:09.0,,T. Harris makes 2-pt layup from 2 ft,13,21
+1,3:51.0,J. Winslow misses 2-pt jump shot from 8 ft,,13,21
+1,3:49.0,,Defensive rebound by B. Marjanović,13,21
+1,3:39.0,,B. Marjanović makes 2-pt jump shot from 9 ft (assist by T. McConnell),13,23
+1,3:34.0,Miami full timeout,,13,23
+1,3:34.0,B. Adebayo enters the game for K. Olynyk,,13,23
+1,3:34.0,J. Johnson enters the game for D. Waiters,,13,23
+1,3:34.0,R. McGruder enters the game for H. Whiteside,,13,23
+1,3:34.0,J. Richardson enters the game for J. Winslow,,13,23
+1,3:34.0,,J. Bolden enters the game for J. Butler,13,23
+1,3:34.0,,J. Redick enters the game for J. Ennis,13,23
+1,3:34.0,,M. Scott enters the game for T. Harris,13,23
+1,3:34.0,,B. Simmons enters the game for B. Marjanović,13,23
+1,3:34.0,,J. Simmons enters the game for T. McConnell,13,23
+1,3:29.0,Offensive foul by D. Wade (drawn by J. Redick),,13,23
+1,3:29.0,Turnover by D. Wade (offensive foul),,13,23
+1,3:11.0,,B. Simmons misses 2-pt hook shot from 5 ft,13,23
+1,3:06.0,Defensive rebound by R. McGruder,,13,23
+1,3:02.0,D. Wade makes 2-pt jump shot from 8 ft,,15,23
+1,2:54.0,,B. Simmons makes 2-pt dunk from 1 ft,15,25
+1,2:36.0,J. Richardson misses 3-pt jump shot from 27 ft,,15,25
+1,2:33.0,,Defensive rebound by J. Redick,15,25
+1,2:28.0,,J. Redick misses 3-pt jump shot from 26 ft,15,25
+1,2:25.0,Defensive rebound by R. McGruder,,15,25
+1,2:04.0,J. Richardson makes 2-pt layup from 1 ft (assist by R. McGruder),,17,25
+1,1:42.0,,J. Redick makes 2-pt jump shot from 17 ft (assist by J. Simmons),17,27
+1,1:21.0,,Violation by Team (kicked ball),17,27
+1,1:13.0,D. Wade misses 2-pt layup from 1 ft,,17,27
+1,1:10.0,,Defensive rebound by B. Simmons,17,27
+1,1:07.0,,Turnover by B. Simmons (bad pass; steal by B. Adebayo),17,27
+1,1:02.0,D. Wade makes 2-pt dunk at rim (assist by B. Adebayo),,19,27
+1,0:44.0,,B. Simmons makes 2-pt hook shot from 8 ft,19,29
+1,0:27.0,J. Johnson makes 2-pt layup from 1 ft,,21,29
+1,0:05.0,,J. Simmons misses 3-pt jump shot from 23 ft,21,29
+1,0:02.0,Defensive rebound by B. Adebayo,,21,29
+2,11:52.0,,Personal foul by J. Richardson (drawn by J. Bolden),21,29
+2,11:37.0,,J. Redick makes 3-pt jump shot from 25 ft (assist by M. Scott),21,32
+2,11:05.0,D. Wade misses 2-pt layup from 1 ft,,21,32
+2,11:02.0,Offensive rebound by R. McGruder,,21,32
+2,11:01.0,R. McGruder makes 2-pt layup from 2 ft,,23,32
+2,10:53.0,,M. Scott misses 3-pt jump shot from 23 ft,23,32
+2,10:50.0,Defensive rebound by J. Johnson,,23,32
+2,10:42.0,J. Johnson misses 2-pt layup from 1 ft,,23,32
+2,10:42.0,Offensive rebound by Team,,23,32
+2,10:32.0,B. Adebayo makes 2-pt hook shot from 8 ft (assist by J. Richardson),,25,32
+2,10:21.0,,J. Redick misses 3-pt jump shot from 25 ft,25,32
+2,10:17.0,Defensive rebound by B. Adebayo,,25,32
+2,10:09.0,B. Adebayo makes 2-pt dunk from 1 ft (assist by R. McGruder),,27,32
+2,10:09.0,,Philadelphia full timeout,27,32
+2,9:55.0,,Shooting foul by R. McGruder (drawn by J. Redick),27,32
+2,9:55.0,,J. Redick makes free throw 1 of 2,27,33
+2,9:55.0,,J. Redick makes free throw 2 of 2,27,34
+2,9:47.0,Shooting foul by J. Redick (drawn by D. Wade),,27,34
+2,9:47.0,D. Wade misses free throw 1 of 2,,27,34
+2,9:47.0,Offensive rebound by Team,,27,34
+2,9:47.0,D. Wade misses free throw 2 of 2,,27,34
+2,9:44.0,,Defensive rebound by M. Scott,27,34
+2,9:32.0,,Personal foul by B. Adebayo (drawn by J. Redick),27,34
+2,9:26.0,,M. Scott misses 3-pt jump shot from 26 ft,27,34
+2,9:22.0,Defensive rebound by D. Wade,,27,34
+2,9:15.0,Shooting foul by B. Simmons (drawn by J. Johnson),,27,34
+2,9:15.0,J. Johnson makes free throw 1 of 2,,28,34
+2,9:15.0,J. Johnson misses free throw 2 of 2,,28,34
+2,9:12.0,,Defensive rebound by J. Bolden,28,34
+2,9:00.0,,J. Redick misses 3-pt jump shot from 25 ft,28,34
+2,8:57.0,,Offensive rebound by J. Bolden,28,34
+2,8:55.0,,Turnover by J. Bolden (back court),28,34
+2,8:47.0,B. Adebayo makes 2-pt dunk at rim (assist by R. McGruder),,30,34
+2,8:31.0,,Shooting foul by J. Johnson (drawn by B. Simmons),30,34
+2,8:31.0,,B. Simmons misses free throw 1 of 2,30,34
+2,8:31.0,,Offensive rebound by Team,30,34
+2,8:31.0,J. Winslow enters the game for J. Johnson,,30,34
+2,8:31.0,,B. Simmons misses free throw 2 of 2,30,34
+2,8:29.0,Defensive rebound by D. Wade,,30,34
+2,8:19.0,R. McGruder makes 2-pt layup from 3 ft (assist by D. Wade),,32,34
+2,8:08.0,,B. Simmons misses 2-pt layup from 3 ft,32,34
+2,8:08.0,Defensive rebound by Team,,32,34
+2,8:08.0,,J. Butler enters the game for J. Bolden,32,34
+2,8:08.0,,T. Harris enters the game for M. Scott,32,34
+2,8:08.0,,B. Marjanović enters the game for B. Simmons,32,34
+2,7:56.0,Personal foul by J. Simmons (drawn by J. Richardson),,32,34
+2,7:51.0,Shooting foul by J. Butler (drawn by D. Wade),,32,34
+2,7:51.0,D. Wade makes free throw 1 of 2,,33,34
+2,7:51.0,,M. Scott enters the game for J. Redick,33,34
+2,7:51.0,D. Wade misses free throw 2 of 2,,33,34
+2,7:49.0,,Defensive rebound by M. Scott,33,34
+2,7:29.0,,Turnover by B. Marjanović (bad pass; steal by D. Wade),33,34
+2,7:16.0,J. Winslow makes 2-pt jump shot from 13 ft,,35,34
+2,7:16.0,,Philadelphia full timeout,35,34
+2,7:16.0,D. Jones enters the game for J. Richardson,,35,34
+2,7:16.0,D. Waiters enters the game for D. Wade,,35,34
+2,7:01.0,,J. Butler makes 2-pt layup from 1 ft (assist by T. Harris),35,36
+2,6:43.0,B. Adebayo misses 2-pt jump shot from 9 ft,,35,36
+2,6:40.0,,Defensive rebound by T. Harris,35,36
+2,6:24.0,,Turnover by B. Marjanović (bad pass; steal by J. Winslow),35,36
+2,6:19.0,J. Winslow misses 2-pt jump shot from 11 ft,,35,36
+2,6:18.0,Offensive rebound by D. Jones,,35,36
+2,6:17.0,D. Jones makes 2-pt layup from 1 ft,,37,36
+2,6:08.0,,Personal foul by J. Winslow (drawn by J. Butler),37,36
+2,6:08.0,,J. Butler makes free throw 1 of 2,37,37
+2,6:08.0,,J. Butler makes free throw 2 of 2,37,38
+2,5:53.0,D. Jones misses 3-pt jump shot from 26 ft,,37,38
+2,5:50.0,,Defensive rebound by J. Butler,37,38
+2,5:33.0,,M. Scott makes 3-pt jump shot from 25 ft (assist by J. Butler),37,41
+2,5:17.0,J. Winslow misses 2-pt layup from 3 ft,,37,41
+2,5:15.0,,Defensive rebound by T. Harris,37,41
+2,5:06.0,,J. Butler misses 2-pt layup from 3 ft,37,41
+2,5:05.0,,Offensive rebound by B. Marjanović,37,41
+2,5:05.0,,Shooting foul by B. Adebayo (drawn by B. Marjanović),37,41
+2,5:05.0,,B. Marjanović misses free throw 1 of 2,37,41
+2,5:05.0,,Offensive rebound by Team,37,41
+2,5:05.0,H. Whiteside enters the game for B. Adebayo,,37,41
+2,5:05.0,,J. Redick enters the game for M. Scott,37,41
+2,5:05.0,,B. Simmons enters the game for J. Simmons,37,41
+2,5:05.0,,B. Marjanović misses free throw 2 of 2,37,41
+2,5:03.0,Defensive rebound by D. Jones,,37,41
+2,4:46.0,J. Winslow makes 2-pt layup from 2 ft,,39,41
+2,4:32.0,,Shooting foul by J. Winslow (drawn by B. Simmons),39,41
+2,4:32.0,,B. Simmons misses free throw 1 of 2,39,41
+2,4:32.0,,Offensive rebound by Team,39,41
+2,4:32.0,D. Wade enters the game for J. Winslow,,39,41
+2,4:32.0,,B. Simmons makes free throw 2 of 2,39,42
+2,4:21.0,Turnover by D. Waiters (bad pass),,39,42
+2,4:09.0,,T. Harris misses 3-pt jump shot from 25 ft,39,42
+2,4:08.0,Defensive rebound by Team,,39,42
+2,3:56.0,D. Waiters misses 3-pt jump shot from 25 ft,,39,42
+2,3:49.0,,Defensive rebound by T. Harris,39,42
+2,3:45.0,,B. Marjanović makes 2-pt dunk from 1 ft (assist by B. Simmons),39,44
+2,3:35.0,Miami full timeout,,39,44
+2,3:35.0,J. Richardson enters the game for R. McGruder,,39,44
+2,3:27.0,D. Wade misses 2-pt jump shot from 9 ft,,39,44
+2,3:24.0,,Defensive rebound by T. Harris,39,44
+2,3:15.0,,T. Harris makes 2-pt jump shot from 16 ft (assist by J. Redick),39,46
+2,2:51.0,D. Wade misses 2-pt jump shot from 7 ft,,39,46
+2,2:47.0,Offensive rebound by J. Richardson,,39,46
+2,2:45.0,J. Richardson misses 3-pt jump shot from 25 ft,,39,46
+2,2:45.0,,Defensive rebound by B. Simmons,39,46
+2,2:36.0,,B. Marjanović makes 2-pt layup from 2 ft (assist by B. Simmons),39,48
+2,2:36.0,,Shooting foul by H. Whiteside (drawn by B. Marjanović),39,48
+2,2:36.0,B. Adebayo enters the game for H. Whiteside,,39,48
+2,2:36.0,,B. Marjanović makes free throw 1 of 1,39,49
+2,2:23.0,D. Wade makes 2-pt jump shot from 12 ft,,41,49
+2,2:13.0,,Personal foul by D. Jones (drawn by B. Simmons),41,49
+2,2:13.0,,B. Simmons makes free throw 1 of 2,41,50
+2,2:13.0,,J. Bolden enters the game for B. Marjanović,41,50
+2,2:13.0,,B. Simmons makes free throw 2 of 2,41,51
+2,1:56.0,D. Waiters makes 3-pt jump shot from 24 ft (assist by D. Wade),,44,51
+2,1:34.0,,Shooting foul by D. Jones (drawn by T. Harris),44,51
+2,1:34.0,,T. Harris makes free throw 1 of 2,44,52
+2,1:34.0,,J. Simmons enters the game for J. Redick,44,52
+2,1:34.0,,T. Harris makes free throw 2 of 2,44,53
+2,1:25.0,J. Richardson makes 2-pt jump shot from 11 ft (assist by B. Adebayo),,46,53
+2,1:17.0,,J. Butler misses 3-pt jump shot from 25 ft,46,53
+2,1:15.0,,Offensive rebound by J. Butler,46,53
+2,1:15.0,,Personal foul by B. Adebayo (drawn by J. Butler),46,53
+2,1:15.0,,J. Butler makes free throw 1 of 2,46,54
+2,1:15.0,K. Olynyk enters the game for B. Adebayo,,46,54
+2,1:15.0,,J. Butler makes free throw 2 of 2,46,55
+2,0:59.0,D. Wade makes 2-pt layup from 4 ft (assist by K. Olynyk),,48,55
+2,0:47.0,,T. Harris misses 3-pt jump shot from 25 ft,48,55
+2,0:43.0,Defensive rebound by J. Richardson,,48,55
+2,0:37.0,D. Waiters makes 2-pt layup from 2 ft (assist by J. Richardson),,50,55
+2,0:27.0,,J. Simmons makes 2-pt dunk from 1 ft (assist by B. Simmons),50,57
+2,0:03.0,D. Waiters misses 3-pt jump shot from 25 ft,,50,57
+2,0:01.0,,Defensive rebound by T. Harris,50,57
+2,0:00.0,,J. Simmons misses 3-pt jump shot from 46 ft,50,57
+2,0:00.0,,Offensive rebound by Team,50,57
+3,11:47.0,,Turnover by T. Harris (out of bounds lost ball),50,57
+3,11:34.0,J. Winslow misses 2-pt jump shot from 15 ft,,50,57
+3,11:30.0,,Defensive rebound by B. Marjanović,50,57
+3,11:17.0,,B. Simmons misses 2-pt layup from 2 ft (block by H. Whiteside),50,57
+3,11:15.0,Defensive rebound by D. Waiters,,50,57
+3,11:07.0,Shooting foul by B. Marjanović (drawn by H. Whiteside),,50,57
+3,11:07.0,H. Whiteside misses free throw 1 of 2,,50,57
+3,11:07.0,Offensive rebound by Team,,50,57
+3,11:07.0,H. Whiteside misses free throw 2 of 2,,50,57
+3,11:05.0,,Defensive rebound by B. Marjanović,50,57
+3,10:51.0,,Turnover by J. Butler (bad pass; steal by D. Waiters),50,57
+3,10:46.0,K. Olynyk makes 2-pt layup from 1 ft (assist by H. Whiteside),,52,57
+3,10:28.0,,B. Simmons makes 2-pt hook shot from 8 ft (assist by J. Redick),52,59
+3,10:12.0,D. Waiters makes 2-pt layup from 1 ft,,54,59
+3,10:08.0,,Turnover by B. Marjanović (bad pass; steal by J. Winslow),54,59
+3,9:59.0,H. Whiteside misses 2-pt jump shot from 14 ft,,54,59
+3,9:56.0,,Defensive rebound by B. Marjanović,54,59
+3,9:43.0,,J. Butler makes 2-pt dunk from 2 ft (assist by B. Marjanović),54,61
+3,9:13.0,J. Richardson misses 3-pt jump shot from 30 ft (block by B. Simmons),,54,61
+3,9:09.0,,Defensive rebound by J. Redick,54,61
+3,9:09.0,,Personal foul by J. Richardson (drawn by J. Redick),54,61
+3,8:55.0,,B. Marjanović misses 2-pt layup from 3 ft,54,61
+3,8:53.0,Defensive rebound by J. Winslow,,54,61
+3,8:45.0,Shooting foul by J. Redick (drawn by D. Waiters),,54,61
+3,8:45.0,D. Waiters makes free throw 1 of 2,,55,61
+3,8:45.0,D. Waiters makes free throw 2 of 2,,56,61
+3,8:31.0,,T. Harris misses 2-pt jump shot from 13 ft,56,61
+3,8:28.0,Defensive rebound by J. Winslow,,56,61
+3,8:23.0,J. Richardson misses 3-pt jump shot from 27 ft,,56,61
+3,8:20.0,,Defensive rebound by B. Simmons,56,61
+3,8:13.0,,B. Simmons misses 2-pt layup from 1 ft,56,61
+3,8:10.0,,Offensive rebound by B. Marjanović,56,61
+3,8:09.0,,Turnover by B. Marjanović (lost ball; steal by D. Waiters),56,61
+3,8:03.0,J. Richardson misses 2-pt hook shot from 16 ft,,56,61
+3,7:59.0,Offensive rebound by H. Whiteside,,56,61
+3,7:56.0,H. Whiteside makes 2-pt jump shot from 9 ft (assist by J. Richardson),,58,61
+3,7:42.0,,T. Harris misses 3-pt jump shot from 27 ft,58,61
+3,7:39.0,Defensive rebound by J. Winslow,,58,61
+3,7:32.0,K. Olynyk makes 3-pt jump shot from 27 ft (assist by D. Waiters),,61,61
+3,7:30.0,,Philadelphia full timeout,61,61
+3,7:19.0,,J. Redick misses 3-pt jump shot from 26 ft,61,61
+3,7:15.0,Defensive rebound by K. Olynyk,,61,61
+3,7:15.0,Turnover by K. Olynyk (bad pass),,61,61
+3,7:01.0,,T. Harris makes 2-pt jump shot from 6 ft,61,63
+3,6:41.0,D. Waiters misses 3-pt jump shot from 26 ft,,61,63
+3,6:38.0,,Defensive rebound by J. Redick,61,63
+3,6:32.0,,J. Butler makes 2-pt layup from 3 ft,61,65
+3,6:12.0,K. Olynyk makes 2-pt layup from 2 ft,,63,65
+3,6:11.0,Violation by Team (delay of game),,63,65
+3,6:01.0,,B. Simmons misses 2-pt jump shot from 6 ft,63,65
+3,5:58.0,Defensive rebound by H. Whiteside,,63,65
+3,5:45.0,H. Whiteside makes 2-pt dunk at rim (assist by J. Winslow),,65,65
+3,5:31.0,,J. Redick misses 3-pt jump shot from 27 ft,65,65
+3,5:26.0,Defensive rebound by J. Winslow,,65,65
+3,5:23.0,D. Waiters makes 2-pt layup from 2 ft,,67,65
+3,5:05.0,,Personal foul by D. Waiters (drawn by J. Butler),67,65
+3,5:05.0,D. Wade enters the game for J. Richardson,,67,65
+3,5:05.0,,J. Bolden enters the game for J. Butler,67,65
+3,5:05.0,,J. Ennis enters the game for B. Marjanović,67,65
+3,5:05.0,,J. Simmons enters the game for J. Redick,67,65
+3,5:05.0,,Violation by Team (delay of game),67,65
+3,4:53.0,,T. Harris misses 3-pt jump shot from 26 ft,67,65
+3,4:50.0,,Offensive rebound by B. Simmons,67,65
+3,4:41.0,,J. Simmons misses 2-pt jump shot from 10 ft (block by H. Whiteside),67,65
+3,4:38.0,Defensive rebound by D. Waiters,,67,65
+3,4:36.0,D. Waiters misses 2-pt layup from 3 ft (block by T. Harris),,67,65
+3,4:36.0,Offensive rebound by Team,,67,65
+3,4:29.0,J. Winslow makes 2-pt jump shot from 12 ft,,69,65
+3,4:15.0,,B. Simmons makes 2-pt jump shot from 10 ft,69,67
+3,3:54.0,Turnover by D. Waiters (bad pass; steal by B. Simmons),,69,67
+3,3:48.0,,B. Simmons makes 2-pt layup from 1 ft,69,69
+3,3:48.0,Miami full timeout,,69,69
+3,3:33.0,J. Winslow misses 2-pt jump shot from 17 ft,,69,69
+3,3:31.0,,Defensive rebound by Team,69,69
+3,3:15.0,,B. Simmons makes 2-pt hook shot from 5 ft,69,71
+3,2:59.0,K. Olynyk misses 2-pt jump shot from 12 ft,,69,71
+3,2:54.0,Offensive rebound by H. Whiteside,,69,71
+3,2:54.0,H. Whiteside misses 2-pt layup at rim,,69,71
+3,2:53.0,,Defensive rebound by J. Bolden,69,71
+3,2:52.0,,Turnover by J. Ennis (step out of bounds),69,71
+3,2:38.0,D. Wade makes 2-pt jump shot from 8 ft,,71,71
+3,2:15.0,,B. Simmons makes 2-pt layup from 1 ft,71,73
+3,2:15.0,,Shooting foul by H. Whiteside (drawn by B. Simmons),71,73
+3,2:15.0,B. Adebayo enters the game for K. Olynyk,,71,73
+3,2:15.0,D. Jones enters the game for D. Waiters,,71,73
+3,2:15.0,R. McGruder enters the game for H. Whiteside,,71,73
+3,2:15.0,,M. Scott enters the game for T. Harris,71,73
+3,2:15.0,,B. Simmons misses free throw 1 of 1,71,73
+3,2:13.0,Defensive rebound by J. Winslow,,71,73
+3,2:08.0,D. Wade makes 2-pt jump shot from 17 ft (assist by J. Winslow),,73,73
+3,1:58.0,,J. Bolden misses 3-pt jump shot from 28 ft,73,73
+3,1:56.0,Defensive rebound by J. Winslow,,73,73
+3,1:44.0,D. Wade misses 2-pt jump shot from 15 ft,,73,73
+3,1:39.0,,Defensive rebound by J. Bolden,73,73
+3,1:35.0,,Personal foul by B. Adebayo (drawn by J. Bolden),73,73
+3,1:35.0,K. Olynyk enters the game for B. Adebayo,,73,73
+3,1:18.0,,Turnover by J. Simmons (lost ball; steal by J. Winslow),73,73
+3,1:13.0,D. Jones makes 2-pt dunk from 1 ft (assist by D. Wade),,75,73
+3,0:58.0,,B. Simmons misses 2-pt jump shot from 20 ft,75,73
+3,0:55.0,Defensive rebound by R. McGruder,,75,73
+3,0:49.0,K. Olynyk misses 3-pt jump shot from 26 ft,,75,73
+3,0:45.0,,Defensive rebound by J. Simmons,75,73
+3,0:38.0,,Offensive foul by M. Scott (drawn by J. Winslow),75,73
+3,0:38.0,,Turnover by M. Scott (offensive foul),75,73
+3,0:38.0,J. Richardson enters the game for J. Winslow,,75,73
+3,0:27.0,Personal foul by J. Bolden (drawn by K. Olynyk),,75,73
+3,0:18.0,D. Wade misses 3-pt jump shot from 28 ft,,75,73
+3,0:17.0,,Defensive rebound by Team,75,73
+3,0:03.0,,B. Simmons misses 2-pt jump shot from 4 ft,75,73
+3,0:00.0,Defensive rebound by D. Wade,,75,73
+4,11:50.0,J. Richardson makes 2-pt jump shot from 16 ft (assist by K. Olynyk),,77,73
+4,11:28.0,,Personal foul by K. Olynyk (drawn by J. Butler),77,73
+4,11:14.0,,M. Scott misses 2-pt jump shot from 11 ft,77,73
+4,11:11.0,,Offensive rebound by J. Butler,77,73
+4,11:11.0,,J. Butler misses 2-pt layup from 2 ft,77,73
+4,11:09.0,Defensive rebound by K. Olynyk,,77,73
+4,11:03.0,D. Jones misses 2-pt layup from 4 ft,,77,73
+4,10:59.0,,Defensive rebound by J. Butler,77,73
+4,10:58.0,,Personal foul by D. Jones (drawn by J. Butler),77,73
+4,10:40.0,,T. McConnell makes 2-pt jump shot from 9 ft,77,75
+4,10:30.0,Personal foul by B. Marjanović (drawn by K. Olynyk),,77,75
+4,10:22.0,D. Jones makes 3-pt jump shot from 26 ft (assist by J. Richardson),,80,75
+4,10:03.0,,J. Butler misses 2-pt jump shot from 9 ft,80,75
+4,10:01.0,,Offensive rebound by T. McConnell,80,75
+4,9:54.0,,T. McConnell makes 2-pt layup from 2 ft,80,77
+4,9:38.0,D. Jones misses 2-pt layup from 3 ft,,80,77
+4,9:36.0,,Defensive rebound by J. Redick,80,77
+4,9:32.0,,M. Scott misses 3-pt jump shot from 25 ft,80,77
+4,9:29.0,Defensive rebound by R. McGruder,,80,77
+4,9:18.0,K. Olynyk makes 2-pt dunk at rim (assist by D. Wade),,82,77
+4,9:18.0,,Philadelphia full timeout,82,77
+4,9:18.0,,T. Harris enters the game for B. Marjanović,82,77
+4,9:08.0,,Shooting foul by D. Wade (drawn by J. Butler),82,77
+4,9:08.0,,J. Butler makes free throw 1 of 2,82,78
+4,9:08.0,,J. Butler makes free throw 2 of 2,82,79
+4,8:55.0,J. Richardson makes 2-pt dunk from 1 ft (assist by D. Wade),,84,79
+4,8:40.0,,Shooting foul by D. Jones (drawn by J. Butler),84,79
+4,8:40.0,,J. Butler makes free throw 1 of 2,84,80
+4,8:40.0,,J. Butler makes free throw 2 of 2,84,81
+4,8:28.0,D. Jones makes 2-pt dunk from 1 ft (assist by D. Wade),,86,81
+4,8:15.0,,T. Harris makes 3-pt jump shot from 28 ft (assist by J. Butler),86,84
+4,8:02.0,Offensive foul by J. Richardson (drawn by J. Redick),,86,84
+4,8:02.0,Turnover by J. Richardson (offensive foul),,86,84
+4,8:02.0,,B. Simmons enters the game for M. Scott,86,84
+4,7:51.0,,T. Harris makes 2-pt layup from 1 ft (assist by J. Butler),86,86
+4,7:51.0,Miami full timeout,,86,86
+4,7:32.0,D. Wade misses 2-pt jump shot from 3 ft,,86,86
+4,7:29.0,Offensive rebound by K. Olynyk,,86,86
+4,7:29.0,K. Olynyk makes 2-pt layup at rim,,88,86
+4,7:15.0,,J. Butler misses 2-pt layup from 2 ft (block by D. Wade),88,86
+4,7:13.0,Defensive rebound by D. Wade,,88,86
+4,7:11.0,Turnover by D. Wade (lost ball; steal by T. McConnell),,88,86
+4,7:05.0,,T. Harris makes 2-pt layup from 2 ft (assist by J. Redick),88,88
+4,6:49.0,K. Olynyk makes 2-pt layup from 1 ft (assist by J. Richardson),,90,88
+4,6:29.0,,J. Butler misses 2-pt layup from 1 ft,90,88
+4,6:23.0,Defensive rebound by R. McGruder,,90,88
+4,6:07.0,K. Olynyk misses 2-pt jump shot from 19 ft,,90,88
+4,6:05.0,,Defensive rebound by T. McConnell,90,88
+4,6:02.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by T. McConnell),90,91
+4,5:40.0,D. Wade misses 2-pt jump shot from 8 ft,,90,91
+4,5:38.0,,Defensive rebound by T. Harris,90,91
+4,5:23.0,,T. Harris makes 3-pt jump shot from 26 ft,90,94
+4,5:04.0,Turnover by J. Richardson (bad pass; steal by T. McConnell),,90,94
+4,5:01.0,,B. Simmons makes 2-pt layup from 1 ft (assist by T. McConnell),90,96
+4,5:01.0,Miami full timeout,,90,96
+4,5:01.0,B. Adebayo enters the game for D. Jones,,90,96
+4,5:01.0,D. Waiters enters the game for K. Olynyk,,90,96
+4,5:01.0,J. Winslow enters the game for D. Wade,,90,96
+4,4:46.0,D. Waiters makes 2-pt layup at rim,,92,96
+4,4:21.0,,J. Butler misses 3-pt jump shot from 25 ft,92,96
+4,4:18.0,,Offensive rebound by B. Simmons,92,96
+4,4:15.0,,J. Redick misses 3-pt jump shot from 25 ft,92,96
+4,4:11.0,Defensive rebound by J. Winslow,,92,96
+4,4:09.0,Turnover by J. Winslow (lost ball; steal by J. Butler),,92,96
+4,4:06.0,,Turnover by B. Simmons (bad pass; steal by D. Waiters),92,96
+4,3:52.0,Personal foul by T. McConnell (drawn by J. Richardson),,92,96
+4,3:40.0,J. Richardson makes 3-pt jump shot from 26 ft (assist by J. Winslow),,95,96
+4,3:39.0,,Philadelphia full timeout,95,96
+4,3:39.0,,B. Marjanović enters the game for T. McConnell,95,96
+4,3:15.0,,B. Simmons misses 2-pt jump shot from 13 ft,95,96
+4,3:11.0,,Offensive rebound by J. Butler,95,96
+4,3:10.0,,Turnover by J. Butler (bad pass; steal by R. McGruder),95,96
+4,3:01.0,D. Waiters misses 2-pt layup from 4 ft (block by J. Redick),,95,96
+4,3:01.0,Offensive rebound by Team,,95,96
+4,3:01.0,D. Wade enters the game for R. McGruder,,95,96
+4,2:53.0,D. Wade makes 2-pt jump shot from 19 ft,,97,96
+4,2:33.0,,B. Simmons makes 2-pt hook shot from 3 ft (assist by J. Butler),97,98
+4,2:17.0,J. Richardson misses 3-pt jump shot from 25 ft,,97,98
+4,2:14.0,,Defensive rebound by J. Butler,97,98
+4,2:04.0,,Turnover by J. Butler (lost ball; steal by B. Adebayo),97,98
+4,1:56.0,D. Wade makes 2-pt jump shot from 6 ft,,99,98
+4,1:36.0,,Shooting foul by J. Winslow (drawn by B. Marjanović),99,98
+4,1:36.0,,B. Marjanović makes free throw 1 of 2,99,99
+4,1:36.0,,B. Marjanović makes free throw 2 of 2,99,100
+4,1:23.0,D. Wade misses 2-pt jump shot from 19 ft,,99,100
+4,1:20.0,,Defensive rebound by B. Simmons,99,100
+4,1:04.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by J. Butler),99,103
+4,0:54.0,D. Waiters misses 3-pt jump shot from 29 ft,,99,103
+4,0:52.0,,Defensive rebound by J. Redick,99,103
+4,0:38.0,,Shooting foul by J. Winslow (drawn by B. Marjanović),99,103
+4,0:38.0,,B. Marjanović makes free throw 1 of 2,99,104
+4,0:38.0,K. Olynyk enters the game for B. Adebayo,,99,104
+4,0:38.0,,J. Simmons enters the game for J. Redick,99,104
+4,0:38.0,,B. Marjanović misses free throw 2 of 2,99,104
+4,0:36.0,Defensive rebound by K. Olynyk,,99,104
+4,0:32.0,Personal foul by T. Harris (drawn by J. Richardson),,99,104
+4,0:32.0,,M. Scott enters the game for B. Marjanović,99,104
+4,0:26.0,K. Olynyk misses 3-pt jump shot from 27 ft,,99,104
+4,0:23.0,,Defensive rebound by T. Harris,99,104
+4,0:10.0,,Personal take foul by D. Waiters (drawn by J. Simmons),99,104
+4,0:10.0,,J. Simmons misses free throw 1 of 2,99,104
+4,0:10.0,,Offensive rebound by Team,99,104
+4,0:10.0,B. Adebayo enters the game for J. Winslow,,99,104
+4,0:10.0,,J. Simmons makes free throw 2 of 2,99,105
+4,0:10.0,Miami full timeout,,99,105
+4,0:10.0,J. Winslow enters the game for B. Adebayo,,99,105
+4,0:07.0,D. Waiters makes 3-pt jump shot from 30 ft (assist by J. Winslow),,102,105
+4,0:05.0,,Personal take foul by J. Winslow (drawn by T. Harris),102,105
+4,0:05.0,R. McGruder enters the game for J. Winslow,,102,105
+4,0:05.0,,T. Harris misses free throw 1 of 2,102,105
+4,0:05.0,,Offensive rebound by Team,102,105
+4,0:05.0,,T. Harris makes free throw 2 of 2,102,106
+4,0:01.0,D. Waiters misses 2-pt jump shot from 19 ft,,102,106
+4,0:00.0,Offensive rebound by Team,,102,106

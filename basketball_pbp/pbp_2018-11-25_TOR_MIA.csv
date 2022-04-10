@@ -1,0 +1,472 @@
+QUARTER,TIME_REMAINING,MIAMI_ACTION,TORONTO_ACTION,MIAMI_SCORE,TORONTO_SCORE
+1,11:37.0,J. Johnson makes 2-pt jump shot from 15 ft,,2,0
+1,11:16.0,,K. Leonard makes 2-pt jump shot from 13 ft,2,2
+1,11:02.0,J. Richardson makes 2-pt jump shot from 12 ft,,4,2
+1,10:35.0,,Turnover by Team (shot clock),4,2
+1,10:20.0,H. Whiteside misses 2-pt hook shot from 9 ft,,4,2
+1,10:16.0,,Defensive rebound by J. Valančiūnas,4,2
+1,10:12.0,,K. Lowry makes 2-pt layup from 1 ft,4,4
+1,10:03.0,R. McGruder misses 3-pt jump shot from 27 ft,,4,4
+1,10:02.0,,Defensive rebound by Team,4,4
+1,10:02.0,Loose ball foul by H. Whiteside (drawn by K. Lowry),,4,4
+1,9:40.0,,J. Valančiūnas misses 2-pt layup from 2 ft (block by H. Whiteside),4,4
+1,9:37.0,Defensive rebound by R. McGruder,,4,4
+1,9:33.0,R. McGruder misses 2-pt layup from 5 ft,,4,4
+1,9:29.0,Offensive rebound by H. Whiteside,,4,4
+1,9:29.0,H. Whiteside misses 2-pt layup at rim,,4,4
+1,9:28.0,,Defensive rebound by K. Leonard,4,4
+1,9:23.0,,K. Leonard misses 2-pt jump shot from 19 ft,4,4
+1,9:23.0,,Offensive rebound by J. Valančiūnas,4,4
+1,9:19.0,,J. Valančiūnas makes 2-pt hook shot from 3 ft,4,6
+1,8:55.0,J. Johnson misses 2-pt jump shot from 19 ft,,4,6
+1,8:52.0,,Defensive rebound by Team,4,6
+1,8:33.0,,P. Siakam makes 2-pt dunk from 1 ft,4,8
+1,8:22.0,J. Johnson misses 2-pt hook shot from 4 ft,,4,8
+1,8:20.0,,Defensive rebound by P. Siakam,4,8
+1,8:15.0,,K. Leonard makes 3-pt jump shot from 26 ft (assist by K. Lowry),4,11
+1,7:56.0,R. McGruder misses 3-pt jump shot from 24 ft,,4,11
+1,7:55.0,,Defensive rebound by K. Lowry,4,11
+1,7:39.0,,Turnover by K. Leonard (back court),4,11
+1,7:27.0,W. Ellington makes 3-pt jump shot from 25 ft (assist by H. Whiteside),,7,11
+1,7:09.0,,J. Valančiūnas makes 2-pt hook shot from 4 ft (assist by K. Lowry),7,13
+1,6:58.0,J. Johnson misses 3-pt jump shot from 25 ft,,7,13
+1,6:55.0,,Defensive rebound by K. Leonard,7,13
+1,6:44.0,,P. Siakam makes 3-pt jump shot from 26 ft (assist by J. Valančiūnas),7,16
+1,6:35.0,Miami full timeout,,7,16
+1,6:30.0,J. Richardson misses 3-pt jump shot from 26 ft,,7,16
+1,6:27.0,,Defensive rebound by P. Siakam,7,16
+1,6:19.0,,K. Leonard makes 2-pt layup from 2 ft (assist by P. Siakam),7,18
+1,6:08.0,J. Richardson makes 3-pt jump shot from 23 ft (assist by J. Johnson),,10,18
+1,6:01.0,,Personal foul by R. McGruder (drawn by K. Leonard),10,18
+1,6:01.0,D. Wade enters the game for R. McGruder,,10,18
+1,5:56.0,,Shooting foul by J. Richardson (drawn by K. Leonard),10,18
+1,5:56.0,,K. Leonard makes free throw 1 of 2,10,19
+1,5:56.0,,K. Leonard makes free throw 2 of 2,10,20
+1,5:37.0,D. Wade makes 2-pt jump shot from 15 ft,,12,20
+1,5:21.0,,K. Lowry misses 3-pt jump shot from 29 ft,12,20
+1,5:18.0,Defensive rebound by H. Whiteside,,12,20
+1,5:09.0,H. Whiteside makes 2-pt dunk at rim (assist by D. Wade),,14,20
+1,5:02.0,,J. Valančiūnas makes 2-pt layup from 1 ft (assist by K. Lowry),14,22
+1,4:39.0,D. Wade misses 2-pt jump shot from 4 ft,,14,22
+1,4:37.0,Offensive rebound by H. Whiteside,,14,22
+1,4:36.0,Shooting foul by K. Leonard (drawn by D. Wade),,14,22
+1,4:36.0,D. Wade misses free throw 1 of 2,,14,22
+1,4:36.0,Offensive rebound by Team,,14,22
+1,4:36.0,B. Adebayo enters the game for H. Whiteside,,14,22
+1,4:36.0,,O. Anunoby enters the game for P. Siakam,14,22
+1,4:36.0,,S. Ibaka enters the game for J. Valančiūnas,14,22
+1,4:36.0,D. Wade makes free throw 2 of 2,,15,22
+1,4:19.0,,Turnover by D. Green (bad pass; steal by B. Adebayo),15,22
+1,4:10.0,W. Ellington misses 3-pt jump shot from 25 ft,,15,22
+1,4:07.0,,Defensive rebound by S. Ibaka,15,22
+1,4:02.0,,K. Leonard makes 2-pt layup from 2 ft (assist by K. Lowry),15,24
+1,3:51.0,B. Adebayo makes 2-pt layup from 3 ft (assist by W. Ellington),,17,24
+1,3:46.0,,O. Anunoby makes 2-pt dunk from 1 ft (assist by K. Lowry),17,26
+1,3:29.0,J. Richardson misses 2-pt jump shot from 12 ft,,17,26
+1,3:25.0,Offensive rebound by J. Richardson,,17,26
+1,3:24.0,D. Wade makes 3-pt jump shot from 26 ft (assist by J. Richardson),,20,26
+1,3:09.0,,S. Ibaka makes 2-pt jump shot from 14 ft (assist by K. Lowry),20,28
+1,2:52.0,W. Ellington misses 3-pt jump shot from 24 ft,,20,28
+1,2:50.0,,Defensive rebound by O. Anunoby,20,28
+1,2:44.0,,Toronto full timeout,20,28
+1,2:44.0,R. McGruder enters the game for W. Ellington,,20,28
+1,2:44.0,K. Olynyk enters the game for J. Johnson,,20,28
+1,2:44.0,J. Winslow enters the game for J. Richardson,,20,28
+1,2:44.0,,C. Miles enters the game for D. Green,20,28
+1,2:44.0,,F. VanVleet enters the game for K. Leonard,20,28
+1,2:35.0,,C. Miles makes 3-pt jump shot from 27 ft (assist by O. Anunoby),20,31
+1,2:15.0,D. Wade misses 2-pt layup from 2 ft,,20,31
+1,2:14.0,Offensive rebound by B. Adebayo,,20,31
+1,2:13.0,B. Adebayo makes 2-pt layup from 2 ft,,22,31
+1,1:59.0,,Shooting foul by K. Olynyk (drawn by O. Anunoby),22,31
+1,1:59.0,,O. Anunoby misses free throw 1 of 2,22,31
+1,1:59.0,,Offensive rebound by Team,22,31
+1,1:59.0,,O. Anunoby misses free throw 2 of 2,22,31
+1,1:57.0,Defensive rebound by K. Olynyk,,22,31
+1,1:49.0,Personal foul by C. Miles (drawn by D. Wade),,22,31
+1,1:49.0,,D. Wright enters the game for K. Lowry,22,31
+1,1:40.0,J. Winslow misses 3-pt jump shot from 26 ft,,22,31
+1,1:37.0,,Defensive rebound by O. Anunoby,22,31
+1,1:31.0,,F. VanVleet misses 3-pt jump shot from 26 ft,22,31
+1,1:28.0,Defensive rebound by B. Adebayo,,22,31
+1,1:19.0,B. Adebayo makes 2-pt dunk from 2 ft (assist by J. Winslow),,24,31
+1,1:02.0,,S. Ibaka makes 2-pt jump shot from 14 ft (assist by F. VanVleet),24,33
+1,0:48.0,D. Wade makes 2-pt jump shot from 4 ft,,26,33
+1,0:48.0,Shooting foul by O. Anunoby (drawn by D. Wade),,26,33
+1,0:48.0,D. Wade makes free throw 1 of 1,,27,33
+1,0:32.0,,C. Miles misses 3-pt jump shot from 29 ft,27,33
+1,0:29.0,Defensive rebound by K. Olynyk,,27,33
+1,0:09.0,D. Wade misses 2-pt jump shot from 11 ft,,27,33
+1,0:08.0,Offensive rebound by D. Wade,,27,33
+1,0:08.0,D. Wade makes 2-pt layup at rim,,29,33
+1,0:02.0,,C. Miles makes 3-pt jump shot from 28 ft,29,36
+2,11:39.0,,O. Anunoby misses 3-pt jump shot from 23 ft,29,36
+2,11:36.0,Defensive rebound by D. Wade,,29,36
+2,11:23.0,K. Olynyk makes 3-pt jump shot from 25 ft (assist by D. Wade),,32,36
+2,11:07.0,,D. Wright makes 3-pt jump shot from 27 ft (assist by F. VanVleet),32,39
+2,10:45.0,K. Olynyk makes 2-pt layup from 4 ft (assist by J. Winslow),,34,39
+2,10:39.0,,D. Wright makes 3-pt jump shot from 26 ft (assist by F. VanVleet),34,42
+2,10:26.0,J. Winslow misses 2-pt layup from 3 ft,,34,42
+2,10:26.0,Shooting foul by D. Wright (drawn by B. Adebayo),,34,42
+2,10:26.0,Offensive rebound by B. Adebayo,,34,42
+2,10:26.0,B. Adebayo makes free throw 1 of 2,,35,42
+2,10:26.0,B. Adebayo makes free throw 2 of 2,,36,42
+2,10:03.0,,S. Ibaka misses 2-pt layup from 3 ft,36,42
+2,10:02.0,Defensive rebound by B. Adebayo,,36,42
+2,9:50.0,D. Wade makes 2-pt layup from 2 ft (assist by K. Olynyk),,38,42
+2,9:49.0,,Toronto full timeout,38,42
+2,9:30.0,,D. Wright misses 2-pt layup from 1 ft,38,42
+2,9:28.0,Defensive rebound by B. Adebayo,,38,42
+2,9:13.0,Shooting foul by O. Anunoby (drawn by D. Wade),,38,42
+2,9:13.0,D. Wade misses free throw 1 of 2,,38,42
+2,9:13.0,Offensive rebound by Team,,38,42
+2,9:13.0,,K. Leonard enters the game for O. Anunoby,38,42
+2,9:13.0,D. Wade makes free throw 2 of 2,,39,42
+2,8:58.0,,C. Miles misses 3-pt jump shot from 27 ft,39,42
+2,8:55.0,Defensive rebound by B. Adebayo,,39,42
+2,8:47.0,J. Winslow misses 2-pt jump shot from 18 ft,,39,42
+2,8:44.0,,Defensive rebound by D. Wright,39,42
+2,8:41.0,,Turnover by D. Wright (lost ball; steal by J. Winslow),39,42
+2,8:38.0,J. Winslow misses 2-pt layup at rim,,39,42
+2,8:35.0,,Defensive rebound by D. Wright,39,42
+2,8:29.0,,C. Miles makes 2-pt jump shot from 2 ft,39,44
+2,8:16.0,Shooting foul by S. Ibaka (drawn by B. Adebayo),,39,44
+2,8:16.0,B. Adebayo makes free throw 1 of 2,,40,44
+2,8:16.0,W. Ellington enters the game for R. McGruder,,40,44
+2,8:16.0,J. Richardson enters the game for D. Wade,,40,44
+2,8:16.0,B. Adebayo makes free throw 2 of 2,,41,44
+2,7:59.0,,K. Leonard misses 2-pt jump shot from 12 ft,41,44
+2,7:57.0,Defensive rebound by B. Adebayo,,41,44
+2,7:45.0,J. Richardson misses 3-pt jump shot from 24 ft,,41,44
+2,7:45.0,Offensive rebound by K. Olynyk,,41,44
+2,7:39.0,J. Winslow misses 2-pt layup from 3 ft (block by S. Ibaka),,41,44
+2,7:36.0,,Defensive rebound by C. Miles,41,44
+2,7:34.0,,S. Ibaka misses 2-pt layup from 3 ft (block by B. Adebayo),41,44
+2,7:34.0,,Offensive rebound by Team,41,44
+2,7:34.0,H. Whiteside enters the game for K. Olynyk,,41,44
+2,7:34.0,,P. Siakam enters the game for S. Ibaka,41,44
+2,7:34.0,,J. Valančiūnas enters the game for C. Miles,41,44
+2,7:29.0,,K. Leonard misses 2-pt jump shot from 18 ft,41,44
+2,7:24.0,,Offensive rebound by D. Wright,41,44
+2,7:24.0,,D. Wright makes 2-pt layup from 1 ft,41,46
+2,7:19.0,Miami full timeout,,41,46
+2,7:19.0,,K. Lowry enters the game for D. Wright,41,46
+2,7:11.0,W. Ellington makes 3-pt jump shot from 25 ft (assist by H. Whiteside),,44,46
+2,6:54.0,,Shooting foul by H. Whiteside (drawn by K. Leonard),44,46
+2,6:54.0,,K. Leonard makes free throw 1 of 2,44,47
+2,6:54.0,,K. Leonard makes free throw 2 of 2,44,48
+2,6:40.0,W. Ellington misses 3-pt jump shot from 25 ft,,44,48
+2,6:36.0,,Defensive rebound by J. Valančiūnas,44,48
+2,6:30.0,,K. Leonard misses 2-pt layup from 2 ft,44,48
+2,6:29.0,Defensive rebound by H. Whiteside,,44,48
+2,6:18.0,H. Whiteside misses 2-pt hook shot from 3 ft,,44,48
+2,6:16.0,,Defensive rebound by K. Leonard,44,48
+2,6:09.0,,K. Leonard misses 3-pt jump shot from 24 ft,44,48
+2,6:08.0,Defensive rebound by B. Adebayo,,44,48
+2,5:51.0,J. Richardson misses 2-pt jump shot from 13 ft,,44,48
+2,5:49.0,,Defensive rebound by J. Valančiūnas,44,48
+2,5:46.0,Violation by Team (kicked ball),,44,48
+2,5:46.0,,D. Green enters the game for F. VanVleet,44,48
+2,5:33.0,,Shooting foul by H. Whiteside (drawn by K. Leonard),44,48
+2,5:33.0,,K. Leonard makes free throw 1 of 2,44,49
+2,5:33.0,J. Johnson enters the game for H. Whiteside,,44,49
+2,5:33.0,,K. Leonard misses free throw 2 of 2,44,49
+2,5:33.0,Defensive rebound by J. Winslow,,44,49
+2,5:20.0,J. Richardson misses 2-pt jump shot from 10 ft,,44,49
+2,5:17.0,,Defensive rebound by J. Valančiūnas,44,49
+2,5:12.0,,K. Lowry misses 3-pt jump shot from 29 ft,44,49
+2,5:10.0,Defensive rebound by B. Adebayo,,44,49
+2,4:50.0,B. Adebayo misses 3-pt jump shot from 24 ft,,44,49
+2,4:47.0,,Defensive rebound by K. Leonard,44,49
+2,4:36.0,,D. Green misses 3-pt jump shot from 24 ft,44,49
+2,4:33.0,Defensive rebound by J. Richardson,,44,49
+2,4:12.0,J. Richardson misses 2-pt layup from 1 ft,,44,49
+2,4:10.0,,Defensive rebound by J. Valančiūnas,44,49
+2,4:04.0,Violation by Team (kicked ball),,44,49
+2,4:04.0,R. McGruder enters the game for W. Ellington,,44,49
+2,4:04.0,D. Wade enters the game for J. Winslow,,44,49
+2,3:59.0,,P. Siakam makes 2-pt layup from 2 ft,44,51
+2,3:48.0,B. Adebayo misses 2-pt jump shot from 12 ft,,44,51
+2,3:45.0,,Defensive rebound by P. Siakam,44,51
+2,3:39.0,,K. Leonard misses 3-pt jump shot from 26 ft,44,51
+2,3:34.0,,Offensive rebound by J. Valančiūnas,44,51
+2,3:34.0,,J. Valančiūnas makes 2-pt dunk from 1 ft,44,53
+2,3:16.0,D. Wade makes 2-pt jump shot from 14 ft,,46,53
+2,3:07.0,,J. Valančiūnas makes 2-pt dunk from 2 ft (assist by K. Lowry),46,55
+2,2:52.0,R. McGruder misses 2-pt jump shot from 13 ft,,46,55
+2,2:49.0,Offensive rebound by B. Adebayo,,46,55
+2,2:47.0,R. McGruder makes 2-pt jump shot from 4 ft (assist by J. Johnson),,48,55
+2,2:43.0,,K. Leonard makes 2-pt dunk from 1 ft (assist by K. Lowry),48,57
+2,2:23.0,J. Johnson misses 3-pt jump shot from 24 ft,,48,57
+2,2:20.0,,Defensive rebound by J. Valančiūnas,48,57
+2,2:13.0,,K. Lowry makes 2-pt layup from 1 ft,48,59
+2,2:06.0,Miami full timeout,,48,59
+2,2:06.0,K. Olynyk enters the game for B. Adebayo,,48,59
+2,2:06.0,,S. Ibaka enters the game for J. Valančiūnas,48,59
+2,1:53.0,J. Richardson misses 3-pt jump shot from 27 ft,,48,59
+2,1:51.0,Offensive rebound by D. Wade,,48,59
+2,1:45.0,Shooting foul by D. Green (drawn by J. Richardson),,48,59
+2,1:45.0,J. Richardson makes free throw 1 of 2,,49,59
+2,1:45.0,J. Richardson makes free throw 2 of 2,,50,59
+2,1:32.0,,P. Siakam makes 2-pt layup from 1 ft,50,61
+2,1:19.0,J. Richardson makes 2-pt layup from 1 ft,,52,61
+2,1:04.0,,K. Lowry misses 3-pt jump shot from 28 ft,52,61
+2,1:01.0,,Offensive rebound by P. Siakam,52,61
+2,0:53.0,,P. Siakam misses 2-pt hook shot from 5 ft,52,61
+2,0:51.0,,Offensive rebound by D. Green,52,61
+2,0:51.0,,D. Green makes 2-pt layup from 1 ft,52,63
+2,0:40.0,Personal foul by K. Lowry (drawn by J. Richardson),,52,63
+2,0:40.0,J. Richardson makes free throw 1 of 2,,53,63
+2,0:40.0,B. Adebayo enters the game for K. Olynyk,,53,63
+2,0:40.0,J. Richardson makes free throw 2 of 2,,54,63
+2,0:27.0,,D. Green misses 3-pt jump shot from 27 ft,54,63
+2,0:25.0,Defensive rebound by B. Adebayo,,54,63
+2,0:04.0,J. Richardson misses 3-pt jump shot from 25 ft,,54,63
+2,0:02.0,,Defensive rebound by K. Lowry,54,63
+2,0:02.0,,Personal foul by R. McGruder (drawn by K. Lowry),54,63
+3,11:40.0,,D. Green makes 2-pt jump shot from 14 ft (assist by J. Valančiūnas),54,65
+3,11:19.0,W. Ellington makes 3-pt jump shot from 25 ft (assist by J. Johnson),,57,65
+3,11:00.0,,J. Valančiūnas makes 2-pt layup from 2 ft (assist by K. Leonard),57,67
+3,11:00.0,,Shooting foul by W. Ellington (drawn by J. Valančiūnas),57,67
+3,11:00.0,,J. Valančiūnas makes free throw 1 of 1,57,68
+3,10:46.0,H. Whiteside misses 2-pt hook shot from 8 ft,,57,68
+3,10:44.0,Offensive rebound by H. Whiteside,,57,68
+3,10:43.0,Shooting foul by K. Lowry (drawn by H. Whiteside),,57,68
+3,10:43.0,H. Whiteside misses free throw 1 of 2,,57,68
+3,10:43.0,Offensive rebound by Team,,57,68
+3,10:43.0,H. Whiteside misses free throw 2 of 2,,57,68
+3,10:41.0,,Defensive rebound by J. Valančiūnas,57,68
+3,10:38.0,,P. Siakam makes 2-pt layup from 1 ft (assist by K. Lowry),57,70
+3,10:38.0,,Shooting foul by R. McGruder (drawn by P. Siakam),57,70
+3,10:38.0,,P. Siakam makes free throw 1 of 1,57,71
+3,10:28.0,R. McGruder misses 3-pt jump shot from 28 ft,,57,71
+3,10:26.0,,Defensive rebound by P. Siakam,57,71
+3,10:20.0,,K. Lowry makes 3-pt jump shot from 26 ft (assist by K. Leonard),57,74
+3,10:19.0,Miami full timeout,,57,74
+3,10:10.0,Shooting foul by J. Valančiūnas (drawn by J. Johnson),,57,74
+3,10:10.0,J. Johnson makes free throw 1 of 2,,58,74
+3,10:10.0,J. Johnson makes free throw 2 of 2,,59,74
+3,9:59.0,,Turnover by J. Valančiūnas (bad pass),59,74
+3,9:59.0,,Loose ball foul by K. Lowry (drawn by J. Richardson),59,74
+3,9:50.0,Offensive foul by H. Whiteside (drawn by K. Leonard),,59,74
+3,9:50.0,Turnover by H. Whiteside (offensive foul),,59,74
+3,9:39.0,,J. Valančiūnas makes 2-pt hook shot from 1 ft,59,76
+3,9:26.0,J. Johnson makes 2-pt jump shot from 4 ft,,61,76
+3,9:19.0,,Personal foul by J. Johnson (drawn by K. Leonard),61,76
+3,9:19.0,B. Adebayo enters the game for H. Whiteside,,61,76
+3,9:05.0,,K. Leonard makes 3-pt jump shot from 26 ft (assist by P. Siakam),61,79
+3,8:52.0,J. Richardson misses 2-pt jump shot from 19 ft,,61,79
+3,8:50.0,Offensive rebound by R. McGruder,,61,79
+3,8:48.0,Turnover by R. McGruder (lost ball; steal by P. Siakam),,61,79
+3,8:42.0,,D. Green misses 3-pt jump shot from 24 ft,61,79
+3,8:42.0,,Offensive rebound by Team,61,79
+3,8:42.0,Loose ball foul by J. Richardson (drawn by K. Lowry),,61,79
+3,8:31.0,,K. Leonard makes 2-pt dunk at rim,61,81
+3,8:18.0,J. Johnson misses 2-pt hook shot from 5 ft (block by P. Siakam),,61,81
+3,8:17.0,,Defensive rebound by Team,61,81
+3,8:17.0,D. Wade enters the game for R. McGruder,,61,81
+3,8:01.0,,K. Leonard makes 3-pt jump shot from 26 ft,61,84
+3,7:46.0,J. Richardson misses 2-pt layup from 3 ft,,61,84
+3,7:46.0,Offensive rebound by B. Adebayo,,61,84
+3,7:46.0,Shooting foul by J. Valančiūnas (drawn by B. Adebayo),,61,84
+3,7:46.0,B. Adebayo misses free throw 1 of 2,,61,84
+3,7:46.0,Offensive rebound by Team,,61,84
+3,7:46.0,J. Winslow enters the game for J. Johnson,,61,84
+3,7:46.0,B. Adebayo makes free throw 2 of 2,,62,84
+3,7:31.0,,P. Siakam makes 2-pt jump shot from 5 ft,62,86
+3,7:20.0,D. Wade misses 2-pt hook shot from 6 ft,,62,86
+3,7:18.0,,Defensive rebound by J. Valančiūnas,62,86
+3,7:12.0,,J. Valančiūnas makes 2-pt layup from 1 ft (assist by K. Lowry),62,88
+3,7:11.0,Miami full timeout,,62,88
+3,7:00.0,Turnover by B. Adebayo (bad pass),,62,88
+3,6:53.0,,J. Valančiūnas misses 2-pt jump shot from 10 ft,62,88
+3,6:51.0,Defensive rebound by B. Adebayo,,62,88
+3,6:43.0,J. Richardson makes 3-pt jump shot from 24 ft (assist by D. Wade),,65,88
+3,6:28.0,,Shooting foul by J. Richardson (drawn by P. Siakam),65,88
+3,6:28.0,,P. Siakam makes free throw 1 of 2,65,89
+3,6:28.0,,P. Siakam makes free throw 2 of 2,65,90
+3,6:15.0,D. Wade makes 2-pt jump shot from 16 ft,,67,90
+3,5:58.0,,Shooting foul by J. Winslow (drawn by K. Leonard),67,90
+3,5:58.0,,K. Leonard misses free throw 1 of 2,67,90
+3,5:58.0,,Offensive rebound by Team,67,90
+3,5:58.0,,K. Leonard makes free throw 2 of 2,67,91
+3,5:46.0,J. Richardson misses 3-pt jump shot from 26 ft (block by K. Leonard),,67,91
+3,5:43.0,Offensive rebound by J. Richardson,,67,91
+3,5:41.0,J. Richardson makes 2-pt jump shot from 10 ft,,69,91
+3,5:32.0,,K. Lowry makes 2-pt jump shot from 15 ft,69,93
+3,5:23.0,D. Wade makes 3-pt jump shot from 27 ft,,72,93
+3,5:11.0,,Shooting foul by D. Wade (drawn by K. Leonard),72,93
+3,5:11.0,,K. Leonard makes free throw 1 of 2,72,94
+3,5:11.0,,S. Ibaka enters the game for J. Valančiūnas,72,94
+3,5:11.0,,K. Leonard makes free throw 2 of 2,72,95
+3,5:03.0,Personal foul by P. Siakam (drawn by B. Adebayo),,72,95
+3,5:03.0,B. Adebayo makes free throw 1 of 2,,73,95
+3,5:03.0,B. Adebayo makes free throw 2 of 2,,74,95
+3,5:03.0,,O. Anunoby enters the game for P. Siakam,74,95
+3,4:37.0,,O. Anunoby makes 2-pt jump shot from 13 ft,74,97
+3,4:28.0,J. Winslow makes 3-pt jump shot from 24 ft (assist by W. Ellington),,77,97
+3,4:15.0,,K. Leonard misses 3-pt jump shot from 25 ft,77,97
+3,4:13.0,Defensive rebound by B. Adebayo,,77,97
+3,4:04.0,J. Richardson misses 2-pt jump shot from 11 ft,,77,97
+3,4:03.0,,Defensive rebound by Team,77,97
+3,3:54.0,,K. Lowry misses 3-pt jump shot from 26 ft,77,97
+3,3:52.0,Defensive rebound by B. Adebayo,,77,97
+3,3:34.0,J. Richardson misses 2-pt jump shot from 17 ft,,77,97
+3,3:31.0,,Defensive rebound by K. Leonard,77,97
+3,3:26.0,,K. Leonard misses 2-pt jump shot from 3 ft,77,97
+3,3:26.0,Defensive rebound by Team,,77,97
+3,3:17.0,Personal foul by O. Anunoby (drawn by B. Adebayo),,77,97
+3,3:17.0,,Technical foul by K. Leonard,77,97
+3,3:17.0,W. Ellington makes technical free throw,,78,97
+3,3:17.0,B. Adebayo misses free throw 1 of 2,,78,97
+3,3:17.0,Offensive rebound by Team,,78,97
+3,3:17.0,B. Adebayo makes free throw 2 of 2,,79,97
+3,3:00.0,,K. Leonard misses 2-pt jump shot from 16 ft (block by B. Adebayo),79,97
+3,2:58.0,Defensive rebound by J. Richardson,,79,97
+3,2:53.0,B. Adebayo misses 2-pt jump shot from 4 ft,,79,97
+3,2:52.0,Offensive rebound by J. Winslow,,79,97
+3,2:49.0,W. Ellington misses 3-pt jump shot from 23 ft,,79,97
+3,2:47.0,Offensive rebound by D. Wade,,79,97
+3,2:43.0,D. Wade misses 2-pt jump shot from 22 ft (block by K. Leonard),,79,97
+3,2:40.0,Offensive rebound by J. Winslow,,79,97
+3,2:39.0,Shooting foul by D. Green (drawn by J. Richardson),,79,97
+3,2:39.0,J. Richardson misses free throw 1 of 2,,79,97
+3,2:39.0,Offensive rebound by Team,,79,97
+3,2:39.0,R. McGruder enters the game for W. Ellington,,79,97
+3,2:39.0,,F. VanVleet enters the game for K. Leonard,79,97
+3,2:39.0,J. Richardson misses free throw 2 of 2,,79,97
+3,2:36.0,,Defensive rebound by O. Anunoby,79,97
+3,2:20.0,,Personal foul by J. Richardson (drawn by S. Ibaka),79,97
+3,2:20.0,,S. Ibaka makes free throw 1 of 2,79,98
+3,2:20.0,K. Olynyk enters the game for J. Richardson,,79,98
+3,2:20.0,,C. Miles enters the game for D. Green,79,98
+3,2:20.0,,S. Ibaka makes free throw 2 of 2,79,99
+3,2:09.0,D. Wade makes 2-pt layup from 9 ft,,81,99
+3,1:55.0,,C. Miles misses 3-pt jump shot from 28 ft,81,99
+3,1:53.0,,Offensive rebound by S. Ibaka,81,99
+3,1:51.0,,S. Ibaka misses 2-pt layup from 2 ft,81,99
+3,1:49.0,Defensive rebound by B. Adebayo,,81,99
+3,1:45.0,K. Olynyk makes 3-pt jump shot from 27 ft (assist by D. Wade),,84,99
+3,1:43.0,,Toronto full timeout,84,99
+3,1:43.0,,D. Wright enters the game for K. Lowry,84,99
+3,1:27.0,,Turnover by F. VanVleet (bad pass),84,99
+3,1:16.0,K. Olynyk misses 3-pt jump shot from 27 ft (block by O. Anunoby),,84,99
+3,1:13.0,,Defensive rebound by C. Miles,84,99
+3,1:04.0,,D. Wright misses 2-pt layup from 4 ft (block by D. Wade),84,99
+3,1:04.0,Defensive rebound by Team,,84,99
+3,0:57.0,Turnover by D. Wade (bad pass),,84,99
+3,0:49.0,,F. VanVleet makes 2-pt jump shot from 15 ft,84,101
+3,0:34.0,R. McGruder makes 3-pt jump shot from 27 ft (assist by B. Adebayo),,87,101
+3,0:29.0,,D. Wright misses 3-pt jump shot from 28 ft,87,101
+3,0:26.0,Defensive rebound by B. Adebayo,,87,101
+3,0:11.0,Personal foul by O. Anunoby (drawn by D. Wade),,87,101
+3,0:11.0,D. Wade makes free throw 1 of 2,,88,101
+3,0:11.0,D. Wade makes free throw 2 of 2,,89,101
+3,0:03.0,,O. Anunoby misses 3-pt jump shot from 23 ft,89,101
+3,0:03.0,,Offensive rebound by S. Ibaka,89,101
+3,0:00.0,,S. Ibaka misses 2-pt layup at rim,89,101
+3,0:00.0,,Offensive rebound by S. Ibaka,89,101
+3,0:00.0,,S. Ibaka misses 2-pt layup at rim,89,101
+3,0:00.0,,Offensive rebound by S. Ibaka,89,101
+4,11:48.0,K. Olynyk makes 3-pt jump shot from 24 ft (assist by D. Wade),,92,101
+4,11:36.0,,Turnover by F. VanVleet (lost ball; steal by K. Olynyk),92,101
+4,11:34.0,Personal foul by D. Wright (drawn by D. Wade),,92,101
+4,11:24.0,D. Wade misses 3-pt jump shot from 25 ft,,92,101
+4,11:22.0,,Defensive rebound by F. VanVleet,92,101
+4,11:13.0,,S. Ibaka makes 2-pt jump shot from 11 ft (assist by F. VanVleet),92,103
+4,11:02.0,J. Winslow makes 2-pt jump shot from 5 ft,,94,103
+4,10:46.0,,Shooting foul by D. Wade (drawn by C. Miles),94,103
+4,10:46.0,,C. Miles makes free throw 1 of 2,94,104
+4,10:46.0,,C. Miles makes free throw 2 of 2,94,105
+4,10:31.0,D. Wade makes 3-pt jump shot from 24 ft (assist by R. McGruder),,97,105
+4,10:03.0,,S. Ibaka misses 2-pt jump shot from 15 ft,97,105
+4,10:02.0,,Offensive rebound by D. Wright,97,105
+4,10:00.0,,F. VanVleet makes 3-pt jump shot from 25 ft (assist by D. Wright),97,108
+4,9:47.0,B. Adebayo misses 2-pt jump shot from 4 ft (block by F. VanVleet),,97,108
+4,9:47.0,,Defensive rebound by F. VanVleet,97,108
+4,9:47.0,,Personal take foul by K. Olynyk (drawn by F. VanVleet),97,108
+4,9:39.0,,Personal foul by R. McGruder (drawn by F. VanVleet),97,108
+4,9:30.0,,C. Miles misses 3-pt jump shot from 27 ft,97,108
+4,9:28.0,Defensive rebound by B. Adebayo,,97,108
+4,9:19.0,Turnover by D. Wade (bad pass; steal by F. VanVleet),,97,108
+4,9:14.0,,F. VanVleet misses 2-pt layup from 2 ft (block by R. McGruder),97,108
+4,9:11.0,Defensive rebound by R. McGruder,,97,108
+4,9:05.0,D. Wade makes 3-pt jump shot from 27 ft,,100,108
+4,8:36.0,,F. VanVleet makes 2-pt layup from 1 ft,100,110
+4,8:33.0,Miami full timeout,,100,110
+4,8:33.0,,K. Leonard enters the game for O. Anunoby,100,110
+4,8:33.0,,P. Siakam enters the game for C. Miles,100,110
+4,8:22.0,D. Wade makes 2-pt jump shot from 13 ft,,102,110
+4,8:05.0,,F. VanVleet makes 2-pt jump shot from 19 ft,102,112
+4,7:50.0,B. Adebayo makes 2-pt layup from 2 ft (assist by J. Winslow),,104,112
+4,7:33.0,,Turnover by F. VanVleet (bad pass; steal by R. McGruder),104,112
+4,7:27.0,J. Winslow misses 2-pt layup from 2 ft (block by P. Siakam),,104,112
+4,7:24.0,Offensive rebound by D. Wade,,104,112
+4,7:18.0,K. Olynyk misses 2-pt layup from 1 ft,,104,112
+4,7:16.0,,Defensive rebound by K. Leonard,104,112
+4,7:12.0,,D. Wright makes 2-pt layup from 1 ft (assist by P. Siakam),104,114
+4,7:12.0,J. Richardson enters the game for K. Olynyk,,104,114
+4,7:12.0,,K. Lowry enters the game for D. Wright,104,114
+4,6:51.0,Personal foul by S. Ibaka (drawn by B. Adebayo),,104,114
+4,6:43.0,Shooting foul by K. Leonard (drawn by J. Winslow),,104,114
+4,6:43.0,J. Winslow makes free throw 1 of 2,,105,114
+4,6:43.0,J. Winslow makes free throw 2 of 2,,106,114
+4,6:23.0,,Shooting foul by J. Winslow (drawn by F. VanVleet),106,114
+4,6:23.0,,F. VanVleet misses free throw 1 of 2,106,114
+4,6:23.0,,Offensive rebound by Team,106,114
+4,6:23.0,,F. VanVleet makes free throw 2 of 2,106,115
+4,6:12.0,D. Wade misses 3-pt jump shot from 27 ft,,106,115
+4,6:09.0,,Defensive rebound by K. Leonard,106,115
+4,6:05.0,,K. Lowry misses 3-pt jump shot from 25 ft,106,115
+4,6:02.0,Defensive rebound by J. Winslow,,106,115
+4,5:53.0,Turnover by R. McGruder (lost ball; steal by P. Siakam),,106,115
+4,5:49.0,Violation by Team (kicked ball),,106,115
+4,5:37.0,,K. Leonard misses 3-pt jump shot from 26 ft,106,115
+4,5:33.0,,Offensive rebound by S. Ibaka,106,115
+4,5:33.0,,P. Siakam makes 2-pt layup from 1 ft (assist by S. Ibaka),106,117
+4,5:33.0,,Shooting foul by J. Winslow (drawn by P. Siakam),106,117
+4,5:33.0,,P. Siakam makes free throw 1 of 1,106,118
+4,5:17.0,B. Adebayo misses 2-pt jump shot from 5 ft,,106,118
+4,5:15.0,,Defensive rebound by S. Ibaka,106,118
+4,4:54.0,,K. Lowry makes 3-pt jump shot from 32 ft,106,121
+4,4:38.0,D. Wade misses 2-pt layup from 1 ft,,106,121
+4,4:36.0,,Defensive rebound by K. Leonard,106,121
+4,4:36.0,,D. Green enters the game for S. Ibaka,106,121
+4,4:36.0,,J. Valančiūnas enters the game for F. VanVleet,106,121
+4,4:28.0,,Turnover by K. Lowry (lost ball; steal by J. Richardson),106,121
+4,4:22.0,D. Wade makes 2-pt jump shot from 6 ft,,108,121
+4,3:57.0,,D. Green misses 3-pt jump shot from 22 ft,108,121
+4,3:54.0,Defensive rebound by B. Adebayo,,108,121
+4,3:37.0,R. McGruder makes 2-pt hook shot from 5 ft,,110,121
+4,3:37.0,,Toronto full timeout,110,121
+4,3:13.0,,K. Lowry misses 3-pt jump shot from 23 ft,110,121
+4,3:13.0,,Offensive rebound by Team,110,121
+4,3:13.0,,Turnover by Team (shot clock),110,121
+4,3:07.0,Personal foul by D. Green (drawn by R. McGruder),,110,121
+4,2:54.0,J. Winslow misses 2-pt jump shot from 10 ft,,110,121
+4,2:52.0,,Defensive rebound by K. Leonard,110,121
+4,2:43.0,,K. Leonard misses 2-pt jump shot from 20 ft,110,121
+4,2:40.0,Defensive rebound by J. Richardson,,110,121
+4,2:29.0,Turnover by D. Wade (lost ball; steal by K. Leonard),,110,121
+4,2:23.0,,P. Siakam makes 2-pt layup from 2 ft (assist by D. Green),110,123
+4,2:06.0,R. McGruder misses 3-pt jump shot from 24 ft,,110,123
+4,2:03.0,,Defensive rebound by K. Leonard,110,123
+4,1:58.0,,K. Leonard misses 3-pt jump shot from 26 ft,110,123
+4,1:54.0,Defensive rebound by B. Adebayo,,110,123
+4,1:40.0,D. Wade misses 3-pt jump shot from 27 ft,,110,123
+4,1:39.0,,Defensive rebound by Team,110,123
+4,1:20.0,,Turnover by P. Siakam (bad pass; steal by R. McGruder),110,123
+4,1:16.0,J. Winslow makes 2-pt layup from 2 ft (assist by R. McGruder),,112,123
+4,1:01.0,,Personal foul by D. Wade (drawn by K. Leonard),112,123
+4,1:01.0,,K. Leonard makes free throw 1 of 2,112,124
+4,1:01.0,,K. Leonard makes free throw 2 of 2,112,125
+4,0:49.0,B. Adebayo misses 2-pt layup at rim,,112,125
+4,0:49.0,Offensive rebound by Team,,112,125
+4,0:49.0,,Loose ball foul by K. Lowry (drawn by B. Adebayo),112,125
+4,0:49.0,B. Adebayo misses free throw 1 of 2,,112,125
+4,0:49.0,Offensive rebound by Team,,112,125
+4,0:49.0,B. Adebayo misses free throw 2 of 2,,112,125
+4,0:48.0,,Defensive rebound by P. Siakam,112,125
+4,0:30.0,,K. Lowry misses 3-pt jump shot from 27 ft,112,125
+4,0:28.0,Defensive rebound by B. Adebayo,,112,125
+4,0:19.0,J. Richardson makes 3-pt jump shot from 31 ft (assist by D. Wade),,115,125

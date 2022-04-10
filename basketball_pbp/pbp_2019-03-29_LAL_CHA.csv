@@ -1,0 +1,416 @@
+QUARTER,TIME_REMAINING,CHARLOTTE_ACTION,LA LAKERS_ACTION,CHARLOTTE_SCORE,LA LAKERS_SCORE
+1,11:38.0,Turnover by B. Biyombo (bad pass; steal by R. Rondo),,0,0
+1,11:34.0,,K. Kuzma makes 2-pt dunk from 1 ft (assist by J. McGee),0,2
+1,11:11.0,M. Bridges misses 2-pt jump shot from 11 ft,,0,2
+1,11:09.0,,Defensive rebound by J. McGee,0,2
+1,10:54.0,,L. James misses 3-pt jump shot from 25 ft,0,2
+1,10:52.0,,Offensive rebound by R. Rondo,0,2
+1,10:50.0,,L. James makes 2-pt dunk from 2 ft (assist by K. Caldwell-Pope),0,4
+1,10:37.0,M. Williams misses 3-pt jump shot from 27 ft,,0,4
+1,10:32.0,,Defensive rebound by J. McGee,0,4
+1,10:16.0,,R. Rondo misses 3-pt jump shot from 24 ft,0,4
+1,10:13.0,Defensive rebound by B. Biyombo,,0,4
+1,10:05.0,D. Bacon makes 2-pt jump shot from 13 ft (assist by K. Walker),,2,4
+1,9:45.0,,Turnover by L. James (bad pass; steal by M. Williams),2,4
+1,9:41.0,M. Williams makes 3-pt jump shot from 26 ft (assist by M. Bridges),,5,4
+1,9:21.0,,J. McGee misses 2-pt layup from 4 ft,5,4
+1,9:19.0,Defensive rebound by B. Biyombo,,5,4
+1,9:16.0,Personal foul by K. Caldwell-Pope (drawn by D. Bacon),,5,4
+1,9:09.0,M. Bridges misses 2-pt layup from 2 ft,,5,4
+1,9:07.0,Offensive rebound by B. Biyombo,,5,4
+1,9:06.0,B. Biyombo misses 2-pt layup from 4 ft (block by J. McGee),,5,4
+1,9:03.0,,Defensive rebound by R. Rondo,5,4
+1,9:01.0,,R. Rondo misses 2-pt layup from 2 ft,5,4
+1,9:01.0,Defensive rebound by K. Walker,,5,4
+1,8:54.0,K. Walker misses 2-pt jump shot from 5 ft,,5,4
+1,8:52.0,Offensive rebound by Team,,5,4
+1,8:52.0,Personal foul by K. Kuzma (drawn by M. Williams),,5,4
+1,8:48.0,M. Williams misses 2-pt layup from 3 ft,,5,4
+1,8:45.0,Offensive rebound by M. Bridges,,5,4
+1,8:44.0,M. Bridges makes 3-pt jump shot from 24 ft,,8,4
+1,8:34.0,,Turnover by L. James (bad pass; steal by M. Bridges),8,4
+1,8:29.0,D. Bacon makes 2-pt layup from 1 ft (assist by M. Bridges),,10,4
+1,8:18.0,,K. Kuzma misses 3-pt jump shot from 26 ft,10,4
+1,8:14.0,Defensive rebound by M. Williams,,10,4
+1,8:10.0,K. Walker misses 3-pt jump shot from 25 ft,,10,4
+1,8:07.0,,Defensive rebound by J. McGee,10,4
+1,8:01.0,,L. James misses 3-pt jump shot from 27 ft,10,4
+1,7:57.0,Defensive rebound by M. Williams,,10,4
+1,7:51.0,D. Bacon makes 2-pt jump shot from 13 ft,,12,4
+1,7:49.0,,LA Lakers full timeout,12,4
+1,7:30.0,,L. James makes 2-pt layup from 1 ft,12,6
+1,7:30.0,,Shooting foul by D. Bacon (drawn by L. James),12,6
+1,7:30.0,,L. James makes free throw 1 of 1,12,7
+1,7:14.0,M. Bridges makes 2-pt hook shot from 9 ft (assist by D. Bacon),,14,7
+1,6:59.0,,K. Caldwell-Pope makes 3-pt jump shot from 25 ft (assist by L. James),14,10
+1,6:40.0,D. Bacon makes 2-pt jump shot from 14 ft (assist by M. Bridges),,16,10
+1,6:25.0,,Turnover by L. James (bad pass; steal by D. Bacon),16,10
+1,6:20.0,M. Williams makes 3-pt jump shot from 27 ft (assist by K. Walker),,19,10
+1,6:05.0,,K. Kuzma makes 2-pt jump shot from 16 ft,19,12
+1,5:49.0,B. Biyombo makes 2-pt layup from 2 ft (assist by K. Walker),,21,12
+1,5:44.0,,Shooting foul by M. Bridges (drawn by K. Caldwell-Pope),21,12
+1,5:44.0,,K. Caldwell-Pope makes free throw 1 of 3,21,13
+1,5:44.0,,K. Caldwell-Pope makes free throw 2 of 3,21,14
+1,5:44.0,J. Lamb enters the game for M. Williams,,21,14
+1,5:44.0,,K. Caldwell-Pope makes free throw 3 of 3,21,15
+1,5:29.0,K. Walker misses 3-pt jump shot from 25 ft,,21,15
+1,5:27.0,,Defensive rebound by J. McGee,21,15
+1,5:09.0,,K. Caldwell-Pope misses 3-pt jump shot from 27 ft,21,15
+1,5:07.0,Defensive rebound by B. Biyombo,,21,15
+1,5:00.0,D. Bacon misses 2-pt jump shot from 17 ft,,21,15
+1,4:57.0,,Defensive rebound by K. Caldwell-Pope,21,15
+1,4:52.0,,Turnover by L. James (bad pass),21,15
+1,4:52.0,W. Hernangómez enters the game for B. Biyombo,,21,15
+1,4:42.0,Turnover by D. Bacon (bad pass),,21,15
+1,4:42.0,,L. Stephenson enters the game for L. James,21,15
+1,4:38.0,,K. Caldwell-Pope makes 2-pt jump shot from 19 ft (assist by R. Rondo),21,17
+1,4:23.0,M. Bridges makes 2-pt dunk from 1 ft (assist by W. Hernangómez),,23,17
+1,4:08.0,,Turnover by R. Rondo (bad pass),23,17
+1,4:08.0,Charlotte full timeout,,23,17
+1,4:08.0,,J. Williams enters the game for J. McGee,23,17
+1,3:57.0,K. Walker makes 2-pt layup from 2 ft,,25,17
+1,3:39.0,,K. Caldwell-Pope makes 3-pt jump shot from 23 ft (assist by R. Rondo),25,20
+1,3:15.0,W. Hernangómez makes 2-pt hook shot from 9 ft (assist by M. Bridges),,27,20
+1,3:01.0,,J. Williams makes 2-pt dunk from 2 ft (assist by K. Caldwell-Pope),27,22
+1,2:46.0,W. Hernangómez misses 3-pt jump shot from 26 ft,,27,22
+1,2:44.0,,Defensive rebound by J. Williams,27,22
+1,2:33.0,,K. Kuzma makes 2-pt dunk from 3 ft (assist by R. Rondo),27,24
+1,2:33.0,Charlotte full timeout,,27,24
+1,2:33.0,F. Kaminsky enters the game for M. Bridges,,27,24
+1,2:21.0,W. Hernangómez makes 2-pt layup from 3 ft (assist by K. Walker),,29,24
+1,2:07.0,,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,29,24
+1,2:02.0,Defensive rebound by W. Hernangómez,,29,24
+1,1:55.0,D. Bacon misses 3-pt jump shot from 28 ft,,29,24
+1,1:52.0,Offensive rebound by J. Lamb,,29,24
+1,1:52.0,J. Lamb misses 2-pt layup from 1 ft,,29,24
+1,1:52.0,,Defensive rebound by K. Caldwell-Pope,29,24
+1,1:37.0,,K. Caldwell-Pope misses 2-pt layup from 3 ft (block by F. Kaminsky),29,24
+1,1:37.0,,Offensive rebound by Team,29,24
+1,1:37.0,D. Graham enters the game for D. Bacon,,29,24
+1,1:37.0,M. Monk enters the game for K. Walker,,29,24
+1,1:29.0,,K. Kuzma misses 3-pt jump shot from 27 ft,29,24
+1,1:25.0,,Offensive rebound by J. Williams,29,24
+1,1:24.0,,J. Williams makes 2-pt layup from 1 ft,29,26
+1,1:10.0,J. Lamb misses 3-pt jump shot from 27 ft,,29,26
+1,1:08.0,,Defensive rebound by K. Kuzma,29,26
+1,1:01.0,,K. Kuzma makes 2-pt hook shot from 3 ft,29,28
+1,1:01.0,Violation by Team (def goaltending),,29,28
+1,0:49.0,D. Graham makes 3-pt jump shot from 24 ft (assist by F. Kaminsky),,32,28
+1,0:37.0,,K. Kuzma makes 2-pt jump shot from 21 ft,32,30
+1,0:32.0,J. Lamb misses 3-pt jump shot from 26 ft,,32,30
+1,0:28.0,,Defensive rebound by K. Caldwell-Pope,32,30
+1,0:22.0,,R. Rondo misses 2-pt layup at rim,32,30
+1,0:19.0,Defensive rebound by F. Kaminsky,,32,30
+1,0:17.0,D. Graham makes 2-pt layup from 2 ft,,34,30
+1,0:17.0,Shooting foul by J. Williams (drawn by D. Graham),,34,30
+1,0:17.0,D. Bacon enters the game for W. Hernangómez,,34,30
+1,0:17.0,M. Bridges enters the game for F. Kaminsky,,34,30
+1,0:17.0,D. Graham makes free throw 1 of 1,,35,30
+1,0:03.0,,Personal take foul by D. Graham (drawn by K. Kuzma),35,30
+1,0:01.0,,L. Stephenson makes 3-pt jump shot from 27 ft (assist by R. Rondo),35,33
+2,11:49.0,,A. Caruso makes 2-pt layup from 2 ft (assist by L. James),35,35
+2,11:28.0,F. Kaminsky makes 2-pt dunk from 2 ft (assist by D. Graham),,37,35
+2,11:14.0,,L. Stephenson makes 2-pt jump shot from 15 ft,37,37
+2,11:01.0,M. Williams misses 3-pt jump shot from 26 ft,,37,37
+2,11:00.0,,Defensive rebound by Team,37,37
+2,10:48.0,,M. Wagner misses 2-pt layup from 2 ft,37,37
+2,10:43.0,,Offensive rebound by J. Williams,37,37
+2,10:43.0,,J. Williams makes 2-pt layup from 1 ft,37,39
+2,10:22.0,F. Kaminsky makes 3-pt jump shot from 26 ft (assist by M. Monk),,40,39
+2,10:06.0,,L. James makes 2-pt dunk from 2 ft (assist by A. Caruso),40,41
+2,9:47.0,J. Lamb misses 3-pt jump shot from 28 ft,,40,41
+2,9:45.0,,Defensive rebound by L. Stephenson,40,41
+2,9:38.0,,Personal foul by F. Kaminsky (drawn by J. Williams),40,41
+2,9:30.0,,A. Caruso makes 2-pt layup from 2 ft,40,43
+2,9:16.0,M. Monk misses 2-pt jump shot from 10 ft,,40,43
+2,9:13.0,,Defensive rebound by A. Caruso,40,43
+2,8:58.0,,Shooting foul by F. Kaminsky (drawn by J. Williams),40,43
+2,8:58.0,,J. Williams makes free throw 1 of 2,40,44
+2,8:58.0,,J. Williams misses free throw 2 of 2,40,44
+2,8:56.0,Defensive rebound by F. Kaminsky,,40,44
+2,8:42.0,J. Lamb misses 2-pt jump shot from 19 ft,,40,44
+2,8:40.0,,Defensive rebound by L. Stephenson,40,44
+2,8:37.0,,A. Caruso misses 2-pt layup from 2 ft,40,44
+2,8:35.0,,Offensive rebound by M. Wagner,40,44
+2,8:34.0,,M. Wagner misses 2-pt layup from 2 ft,40,44
+2,8:32.0,,Offensive rebound by L. Stephenson,40,44
+2,8:29.0,,L. Stephenson misses 2-pt layup from 2 ft,40,44
+2,8:26.0,Defensive rebound by M. Williams,,40,44
+2,8:21.0,M. Williams makes 2-pt layup from 2 ft,,42,44
+2,8:12.0,,J. Williams misses 2-pt layup from 3 ft (block by M. Williams),42,44
+2,8:08.0,Defensive rebound by M. Monk,,42,44
+2,8:07.0,Turnover by M. Monk (bad pass; steal by A. Caruso),,42,44
+2,7:57.0,,Turnover by L. James (bad pass; steal by F. Kaminsky),42,44
+2,7:51.0,Shooting foul by A. Caruso (drawn by J. Lamb),,42,44
+2,7:51.0,J. Lamb makes free throw 1 of 2,,43,44
+2,7:51.0,,LA Lakers full timeout,43,44
+2,7:51.0,B. Biyombo enters the game for D. Graham,,43,44
+2,7:51.0,K. Walker enters the game for F. Kaminsky,,43,44
+2,7:51.0,,K. Kuzma enters the game for M. Wagner,43,44
+2,7:51.0,,J. McGee enters the game for J. Williams,43,44
+2,7:51.0,J. Lamb makes free throw 2 of 2,,44,44
+2,7:38.0,,K. Kuzma makes 3-pt jump shot from 23 ft (assist by L. James),44,47
+2,7:16.0,M. Monk misses 3-pt jump shot from 26 ft,,44,47
+2,7:14.0,,Defensive rebound by L. Stephenson,44,47
+2,6:51.0,,A. Caruso misses 3-pt jump shot from 24 ft,44,47
+2,6:49.0,Defensive rebound by J. Lamb,,44,47
+2,6:43.0,K. Walker makes 2-pt jump shot from 16 ft,,46,47
+2,6:37.0,,Personal foul by J. Lamb (drawn by K. Kuzma),46,47
+2,6:37.0,D. Bacon enters the game for M. Monk,,46,47
+2,6:23.0,,K. Kuzma misses 2-pt jump shot from 19 ft,46,47
+2,6:20.0,Defensive rebound by J. Lamb,,46,47
+2,6:16.0,J. Lamb misses 2-pt jump shot from 15 ft,,46,47
+2,6:12.0,,Defensive rebound by J. McGee,46,47
+2,6:11.0,,Personal foul by B. Biyombo (drawn by L. James),46,47
+2,6:11.0,M. Bridges enters the game for J. Lamb,,46,47
+2,6:11.0,,K. Caldwell-Pope enters the game for A. Caruso,46,47
+2,6:11.0,,R. Rondo enters the game for L. Stephenson,46,47
+2,6:00.0,,L. James makes 2-pt dunk at rim (assist by K. Caldwell-Pope),46,49
+2,5:47.0,K. Walker makes 2-pt layup from 2 ft,,48,49
+2,5:32.0,,Personal foul by M. Bridges (drawn by J. McGee),48,49
+2,5:32.0,,J. McGee makes free throw 1 of 2,48,50
+2,5:32.0,,J. McGee makes free throw 2 of 2,48,51
+2,5:07.0,M. Bridges makes 2-pt dunk from 2 ft (assist by M. Williams),,50,51
+2,4:46.0,,L. James misses 2-pt jump shot from 22 ft,50,51
+2,4:43.0,Defensive rebound by D. Bacon,,50,51
+2,4:38.0,Turnover by B. Biyombo (traveling),,50,51
+2,4:23.0,,R. Rondo makes 2-pt layup from 2 ft (assist by K. Caldwell-Pope),50,53
+2,4:18.0,Personal foul by K. Caldwell-Pope (drawn by K. Walker),,50,53
+2,4:18.0,D. Graham enters the game for M. Williams,,50,53
+2,4:12.0,Turnover by B. Biyombo (bad pass; steal by R. Rondo),,50,53
+2,4:09.0,,J. McGee makes 2-pt dunk from 1 ft (assist by L. James),50,55
+2,3:50.0,K. Walker makes 2-pt layup from 2 ft,,52,55
+2,3:24.0,,R. Rondo misses 3-pt jump shot from 27 ft,52,55
+2,3:22.0,,Offensive rebound by Team,52,55
+2,3:22.0,,L. Stephenson enters the game for L. James,52,55
+2,3:19.0,,J. McGee misses 2-pt layup from 1 ft,52,55
+2,3:17.0,,Offensive rebound by R. Rondo,52,55
+2,3:15.0,,R. Rondo misses 2-pt layup from 2 ft,52,55
+2,3:12.0,,Offensive rebound by J. McGee,52,55
+2,3:12.0,,L. Stephenson misses 2-pt layup from 3 ft,52,55
+2,3:11.0,,Offensive rebound by L. Stephenson,52,55
+2,3:11.0,,Shooting foul by B. Biyombo (drawn by L. Stephenson),52,55
+2,3:11.0,,L. Stephenson makes free throw 1 of 2,52,56
+2,3:11.0,,L. Stephenson misses free throw 2 of 2,52,56
+2,3:07.0,Defensive rebound by B. Biyombo,,52,56
+2,3:01.0,Turnover by K. Walker (lost ball; steal by R. Rondo),,52,56
+2,2:55.0,,K. Kuzma misses 3-pt jump shot from 27 ft,52,56
+2,2:53.0,Defensive rebound by B. Biyombo,,52,56
+2,2:49.0,K. Walker misses 3-pt jump shot from 26 ft,,52,56
+2,2:44.0,Offensive rebound by B. Biyombo,,52,56
+2,2:44.0,B. Biyombo makes 2-pt layup at rim,,54,56
+2,2:35.0,,K. Caldwell-Pope makes 3-pt jump shot from 25 ft (assist by J. McGee),54,59
+2,2:16.0,D. Bacon misses 3-pt jump shot from 27 ft,,54,59
+2,2:15.0,Offensive rebound by Team,,54,59
+2,2:15.0,,Loose ball foul by J. McGee (drawn by B. Biyombo),54,59
+2,2:15.0,Charlotte full timeout,,54,59
+2,2:06.0,D. Graham makes 2-pt jump shot from 19 ft,,56,59
+2,1:52.0,,L. Stephenson makes 2-pt jump shot from 14 ft (assist by R. Rondo),56,61
+2,1:35.0,Personal foul by L. Stephenson (drawn by B. Biyombo),,56,61
+2,1:30.0,Shooting foul by J. McGee (drawn by B. Biyombo),,56,61
+2,1:30.0,B. Biyombo misses free throw 1 of 2,,56,61
+2,1:30.0,Offensive rebound by Team,,56,61
+2,1:30.0,B. Biyombo makes free throw 2 of 2,,57,61
+2,1:09.0,,K. Caldwell-Pope makes 3-pt jump shot from 26 ft,57,64
+2,0:51.0,Turnover by D. Bacon (bad pass; steal by K. Caldwell-Pope),,57,64
+2,0:36.0,,L. Stephenson makes 3-pt jump shot from 25 ft (assist by R. Rondo),57,67
+2,0:19.0,Shooting foul by J. McGee (drawn by K. Walker),,57,67
+2,0:19.0,K. Walker makes free throw 1 of 2,,58,67
+2,0:19.0,M. Williams enters the game for B. Biyombo,,58,67
+2,0:19.0,,L. James enters the game for J. McGee,58,67
+2,0:19.0,K. Walker makes free throw 2 of 2,,59,67
+2,0:06.0,,K. Kuzma makes 2-pt dunk from 1 ft (assist by R. Rondo),59,69
+2,0:00.0,K. Walker misses 3-pt jump shot from 26 ft,,59,69
+2,0:00.0,Offensive rebound by Team,,59,69
+3,11:41.0,,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,59,69
+3,11:39.0,Defensive rebound by M. Williams,,59,69
+3,11:33.0,K. Walker makes 2-pt layup from 3 ft,,61,69
+3,11:06.0,,L. James misses 2-pt jump shot from 5 ft,61,69
+3,11:03.0,Defensive rebound by D. Bacon,,61,69
+3,11:02.0,Shooting foul by K. Caldwell-Pope (drawn by D. Bacon),,61,69
+3,11:02.0,D. Bacon makes free throw 1 of 2,,62,69
+3,11:02.0,D. Bacon makes free throw 2 of 2,,63,69
+3,10:49.0,,J. McGee makes 2-pt dunk from 3 ft (assist by L. James),63,71
+3,10:30.0,K. Walker misses 3-pt jump shot from 28 ft,,63,71
+3,10:26.0,,Defensive rebound by R. Rondo,63,71
+3,10:22.0,,L. James misses 3-pt jump shot from 26 ft,63,71
+3,10:18.0,,Offensive rebound by K. Caldwell-Pope,63,71
+3,10:09.0,,L. James makes 2-pt jump shot from 21 ft,63,73
+3,10:09.0,,Shooting foul by D. Bacon (drawn by L. James),63,73
+3,10:09.0,,L. James misses free throw 1 of 1,63,73
+3,10:07.0,Defensive rebound by B. Biyombo,,63,73
+3,9:51.0,K. Walker misses 2-pt layup from 2 ft (block by J. McGee),,63,73
+3,9:47.0,Offensive rebound by K. Walker,,63,73
+3,9:46.0,K. Walker misses 2-pt layup from 3 ft,,63,73
+3,9:44.0,,Defensive rebound by K. Kuzma,63,73
+3,9:42.0,,Turnover by K. Kuzma (bad pass; steal by M. Williams),63,73
+3,9:41.0,Turnover by M. Williams (bad pass; steal by R. Rondo),,63,73
+3,9:40.0,,K. Kuzma makes 3-pt jump shot from 26 ft (assist by R. Rondo),63,76
+3,9:18.0,M. Williams misses 3-pt jump shot from 26 ft,,63,76
+3,9:15.0,,Defensive rebound by R. Rondo,63,76
+3,9:14.0,,K. Kuzma makes 2-pt dunk from 1 ft (assist by R. Rondo),63,78
+3,8:51.0,D. Bacon misses 3-pt jump shot from 28 ft,,63,78
+3,8:49.0,,Defensive rebound by K. Kuzma,63,78
+3,8:35.0,,K. Kuzma misses 3-pt jump shot from 24 ft,63,78
+3,8:32.0,Defensive rebound by B. Biyombo,,63,78
+3,8:32.0,Personal foul by K. Kuzma (drawn by K. Walker),,63,78
+3,8:32.0,F. Kaminsky enters the game for B. Biyombo,,63,78
+3,8:14.0,F. Kaminsky misses 2-pt layup from 3 ft,,63,78
+3,8:12.0,,Defensive rebound by J. McGee,63,78
+3,8:00.0,,K. Caldwell-Pope makes 3-pt jump shot from 25 ft (assist by K. Kuzma),63,81
+3,7:58.0,Charlotte full timeout,,63,81
+3,7:44.0,M. Williams misses 2-pt jump shot from 9 ft,,63,81
+3,7:42.0,,Defensive rebound by L. James,63,81
+3,7:36.0,,J. McGee makes 2-pt dunk from 2 ft (assist by R. Rondo),63,83
+3,7:21.0,M. Bridges makes 3-pt jump shot from 25 ft (assist by F. Kaminsky),,66,83
+3,6:53.0,,L. James makes 2-pt jump shot from 21 ft,66,85
+3,6:35.0,M. Bridges misses 3-pt jump shot from 25 ft,,66,85
+3,6:32.0,,Defensive rebound by L. James,66,85
+3,6:23.0,,Turnover by L. James (bad pass; steal by K. Walker),66,85
+3,6:23.0,Personal take foul by R. Rondo (drawn by K. Walker),,66,85
+3,6:23.0,M. Kidd-Gilchrist enters the game for M. Williams,,66,85
+3,6:06.0,D. Bacon makes 2-pt jump shot from 12 ft (assist by M. Kidd-Gilchrist),,68,85
+3,5:43.0,,R. Rondo makes 3-pt jump shot from 26 ft,68,88
+3,5:30.0,K. Walker makes 2-pt layup from 1 ft,,70,88
+3,5:17.0,,Turnover by J. McGee (lost ball; steal by F. Kaminsky),70,88
+3,5:12.0,F. Kaminsky makes 2-pt layup from 3 ft,,72,88
+3,5:12.0,Shooting foul by L. James (drawn by F. Kaminsky),,72,88
+3,5:12.0,,LA Lakers full timeout,72,88
+3,5:12.0,J. Lamb enters the game for D. Bacon,,72,88
+3,5:12.0,,J. Williams enters the game for J. McGee,72,88
+3,5:12.0,F. Kaminsky makes free throw 1 of 1,,73,88
+3,4:59.0,,L. James makes 3-pt jump shot from 26 ft (assist by R. Rondo),73,91
+3,4:38.0,M. Bridges misses 2-pt layup from 2 ft,,73,91
+3,4:36.0,Offensive rebound by M. Kidd-Gilchrist,,73,91
+3,4:35.0,Personal foul by K. Kuzma (drawn by J. Lamb),,73,91
+3,4:35.0,J. Lamb makes free throw 1 of 2,,74,91
+3,4:35.0,,L. Stephenson enters the game for L. James,74,91
+3,4:35.0,J. Lamb makes free throw 2 of 2,,75,91
+3,4:26.0,,K. Caldwell-Pope makes 2-pt jump shot from 16 ft (assist by R. Rondo),75,93
+3,4:09.0,F. Kaminsky makes 3-pt jump shot from 27 ft (assist by K. Walker),,78,93
+3,3:53.0,,K. Kuzma misses 3-pt jump shot from 27 ft,78,93
+3,3:47.0,Defensive rebound by M. Kidd-Gilchrist,,78,93
+3,3:35.0,K. Walker makes 2-pt layup from 2 ft,,80,93
+3,3:35.0,Shooting foul by J. Williams (drawn by K. Walker),,80,93
+3,3:35.0,K. Walker makes free throw 1 of 1,,81,93
+3,3:19.0,,K. Caldwell-Pope makes 3-pt jump shot from 25 ft (assist by R. Rondo),81,96
+3,3:07.0,Turnover by K. Walker (lost ball; steal by R. Rondo),,81,96
+3,3:03.0,,J. Williams makes 2-pt dunk from 2 ft (assist by R. Rondo),81,98
+3,2:47.0,J. Lamb makes 3-pt jump shot from 26 ft (assist by M. Kidd-Gilchrist),,84,98
+3,2:24.0,,K. Kuzma misses 3-pt jump shot from 28 ft,84,98
+3,2:21.0,Defensive rebound by M. Bridges,,84,98
+3,2:19.0,Shooting foul by K. Caldwell-Pope (drawn by K. Walker),,84,98
+3,2:19.0,K. Walker makes free throw 1 of 2,,85,98
+3,2:19.0,K. Walker makes free throw 2 of 2,,86,98
+3,2:07.0,,K. Caldwell-Pope misses 3-pt jump shot from 27 ft,86,98
+3,2:05.0,Defensive rebound by J. Lamb,,86,98
+3,1:51.0,K. Walker misses 3-pt jump shot from 27 ft,,86,98
+3,1:45.0,,Defensive rebound by L. Stephenson,86,98
+3,1:41.0,Violation by Team (kicked ball),,86,98
+3,1:41.0,D. Graham enters the game for K. Walker,,86,98
+3,1:41.0,,A. Caruso enters the game for K. Kuzma,86,98
+3,1:32.0,,Turnover by J. Williams (3 sec),86,98
+3,1:32.0,D. Bacon enters the game for M. Bridges,,86,98
+3,1:16.0,F. Kaminsky misses 2-pt layup from 3 ft,,86,98
+3,1:15.0,Offensive rebound by F. Kaminsky,,86,98
+3,1:15.0,Shooting foul by K. Caldwell-Pope (drawn by F. Kaminsky),,86,98
+3,1:15.0,F. Kaminsky makes free throw 1 of 2,,87,98
+3,1:15.0,,K. Kuzma enters the game for K. Caldwell-Pope,87,98
+3,1:15.0,F. Kaminsky makes free throw 2 of 2,,88,98
+3,1:02.0,,R. Rondo misses 3-pt jump shot from 28 ft,88,98
+3,0:58.0,Defensive rebound by F. Kaminsky,,88,98
+3,0:48.0,D. Bacon makes 3-pt jump shot from 26 ft (assist by F. Kaminsky),,91,98
+3,0:35.0,,A. Caruso makes 3-pt jump shot from 26 ft (assist by R. Rondo),91,101
+3,0:21.0,M. Kidd-Gilchrist misses 2-pt jump shot from 12 ft,,91,101
+3,0:18.0,Offensive rebound by Team,,91,101
+3,0:05.0,J. Lamb misses 2-pt jump shot from 9 ft,,91,101
+3,0:03.0,,Defensive rebound by L. Stephenson,91,101
+4,11:39.0,M. Kidd-Gilchrist misses 2-pt jump shot from 22 ft,,91,101
+4,11:34.0,Offensive rebound by J. Lamb,,91,101
+4,11:34.0,J. Lamb misses 2-pt layup from 1 ft,,91,101
+4,11:32.0,,Defensive rebound by L. Stephenson,91,101
+4,11:27.0,,Turnover by A. Caruso (out of bounds lost ball),91,101
+4,11:09.0,J. Lamb misses 3-pt jump shot from 24 ft,,91,101
+4,11:06.0,,Defensive rebound by L. James,91,101
+4,11:01.0,,L. Stephenson misses 3-pt jump shot from 24 ft,91,101
+4,11:01.0,Defensive rebound by Team,,91,101
+4,10:52.0,Turnover by D. Graham (bad pass),,91,101
+4,10:52.0,M. Williams enters the game for F. Kaminsky,,91,101
+4,10:28.0,,L. James misses 2-pt jump shot from 19 ft,91,101
+4,10:23.0,Defensive rebound by M. Williams,,91,101
+4,10:19.0,Turnover by D. Bacon (out of bounds lost ball),,91,101
+4,10:19.0,W. Hernangómez enters the game for M. Kidd-Gilchrist,,91,101
+4,10:11.0,,Turnover by A. Caruso (bad pass),91,101
+4,10:11.0,K. Walker enters the game for D. Graham,,91,101
+4,9:56.0,K. Walker makes 2-pt jump shot from 18 ft,,93,101
+4,9:38.0,,J. Williams makes 2-pt layup from 3 ft (assist by L. James),93,103
+4,9:15.0,J. Lamb misses 2-pt jump shot from 18 ft,,93,103
+4,9:12.0,,Defensive rebound by L. Stephenson,93,103
+4,9:07.0,,M. Wagner makes 2-pt layup from 4 ft (assist by L. James),93,105
+4,9:07.0,,Shooting foul by D. Bacon (drawn by M. Wagner),93,105
+4,9:07.0,D. Graham enters the game for J. Lamb,,93,105
+4,9:07.0,,M. Wagner makes free throw 1 of 1,93,106
+4,8:48.0,Turnover by K. Walker (bad pass),,93,106
+4,8:34.0,,J. Williams makes 2-pt hook shot from 3 ft (assist by L. James),93,108
+4,8:34.0,Violation by Team (def goaltending),,93,108
+4,8:18.0,D. Graham misses 3-pt jump shot from 26 ft,,93,108
+4,8:15.0,,Defensive rebound by L. Stephenson,93,108
+4,8:01.0,,L. James makes 2-pt layup from 1 ft,93,110
+4,7:36.0,D. Bacon makes 3-pt jump shot from 26 ft,,96,110
+4,7:09.0,,M. Wagner makes 3-pt jump shot from 26 ft (assist by L. James),96,113
+4,6:48.0,M. Williams makes 3-pt jump shot from 27 ft (assist by D. Bacon),,99,113
+4,6:48.0,,LA Lakers full timeout,99,113
+4,6:48.0,M. Bridges enters the game for W. Hernangómez,,99,113
+4,6:24.0,,L. James misses 2-pt jump shot from 21 ft,99,113
+4,6:19.0,Defensive rebound by D. Bacon,,99,113
+4,6:17.0,D. Bacon misses 3-pt jump shot from 27 ft,,99,113
+4,6:15.0,,Defensive rebound by L. Stephenson,99,113
+4,6:13.0,,Personal foul by D. Bacon (drawn by J. Williams),99,113
+4,6:13.0,,R. Rondo enters the game for M. Wagner,99,113
+4,6:09.0,,L. James makes 3-pt jump shot from 25 ft (assist by R. Rondo),99,116
+4,5:52.0,M. Williams makes 2-pt jump shot from 4 ft (assist by K. Walker),,101,116
+4,5:33.0,,Turnover by A. Caruso (bad pass; steal by M. Williams),101,116
+4,5:26.0,K. Walker makes 3-pt jump shot from 27 ft (assist by D. Graham),,104,116
+4,5:25.0,,LA Lakers full timeout,104,116
+4,5:25.0,,K. Caldwell-Pope enters the game for L. James,104,116
+4,5:25.0,,J. McGee enters the game for J. Williams,104,116
+4,5:05.0,,L. Stephenson makes 3-pt jump shot from 28 ft (assist by R. Rondo),104,119
+4,4:37.0,M. Williams misses 2-pt hook shot from 6 ft,,104,119
+4,4:35.0,,Defensive rebound by L. Stephenson,104,119
+4,4:25.0,,Turnover by L. Stephenson (bad pass),104,119
+4,4:15.0,D. Bacon misses 3-pt jump shot from 23 ft,,104,119
+4,4:11.0,,Defensive rebound by L. Stephenson,104,119
+4,3:51.0,,L. Stephenson misses 3-pt jump shot from 22 ft,104,119
+4,3:49.0,Defensive rebound by D. Graham,,104,119
+4,3:44.0,M. Bridges makes 2-pt dunk from 2 ft (assist by D. Graham),,106,119
+4,3:21.0,,R. Rondo makes 2-pt layup from 3 ft,106,121
+4,3:06.0,D. Graham makes 3-pt jump shot from 23 ft (assist by M. Bridges),,109,121
+4,2:48.0,,LA Lakers full timeout,109,121
+4,2:48.0,,L. James enters the game for A. Caruso,109,121
+4,2:42.0,,L. James misses 2-pt jump shot from 18 ft,109,121
+4,2:34.0,,Offensive rebound by J. McGee,109,121
+4,2:34.0,,J. McGee makes 2-pt dunk at rim,109,123
+4,2:28.0,D. Graham misses 3-pt jump shot from 26 ft,,109,123
+4,2:25.0,,Defensive rebound by R. Rondo,109,123
+4,2:24.0,,K. Caldwell-Pope misses 2-pt layup from 2 ft,109,123
+4,2:23.0,,Offensive rebound by J. McGee,109,123
+4,2:22.0,,Personal foul by D. Bacon (drawn by J. McGee),109,123
+4,2:11.0,,L. James makes 3-pt jump shot from 27 ft,109,126
+4,1:41.0,Turnover by K. Walker (lost ball; steal by R. Rondo),,109,126
+4,1:19.0,,L. James makes 3-pt jump shot from 27 ft,109,129
+4,1:10.0,M. Bridges makes 3-pt jump shot from 27 ft (assist by D. Graham),,112,129
+4,1:05.0,,Personal take foul by K. Walker (drawn by R. Rondo),112,129
+4,1:05.0,W. Hernangómez enters the game for K. Walker,,112,129
+4,1:05.0,M. Monk enters the game for M. Williams,,112,129
+4,1:05.0,,I. Bonga enters the game for K. Caldwell-Pope,112,129
+4,1:05.0,,A. Caruso enters the game for L. James,112,129
+4,1:05.0,,S. Machado enters the game for J. McGee,112,129
+4,1:05.0,,M. Wagner enters the game for R. Rondo,112,129
+4,1:05.0,,J. Williams enters the game for L. Stephenson,112,129
+4,0:53.0,,I. Bonga misses 2-pt hook shot from 4 ft,112,129
+4,0:51.0,Defensive rebound by W. Hernangómez,,112,129
+4,0:40.0,D. Bacon makes 3-pt jump shot from 27 ft (assist by W. Hernangómez),,115,129
+4,0:25.0,,A. Caruso misses 3-pt jump shot from 27 ft,115,129
+4,0:20.0,Defensive rebound by M. Bridges,,115,129
+4,0:09.0,W. Hernangómez misses 3-pt jump shot from 26 ft,,115,129
+4,0:07.0,,Defensive rebound by J. Williams,115,129

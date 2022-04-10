@@ -1,0 +1,486 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,MIAMI_ACTION,HOUSTON_SCORE,MIAMI_SCORE
+1,11:42.0,,J. Richardson misses 3-pt jump shot from 25 ft (block by E. Gordon),0,0
+1,11:39.0,Defensive rebound by P. Tucker,,0,0
+1,11:38.0,Shooting foul by R. McGruder (drawn by E. Gordon),,0,0
+1,11:38.0,E. Gordon makes free throw 1 of 2,,1,0
+1,11:38.0,E. Gordon makes free throw 2 of 2,,2,0
+1,11:16.0,,J. Johnson misses 2-pt jump shot from 13 ft,2,0
+1,11:14.0,Defensive rebound by E. Gordon,,2,0
+1,11:08.0,J. Harden makes 3-pt jump shot from 25 ft,,5,0
+1,10:58.0,,Shooting foul by J. Harden (drawn by R. McGruder),5,0
+1,10:58.0,,R. McGruder makes free throw 1 of 2,5,1
+1,10:58.0,,R. McGruder makes free throw 2 of 2,5,2
+1,10:46.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by C. Paul),,8,2
+1,10:26.0,,J. Johnson misses 2-pt layup from 2 ft,8,2
+1,10:23.0,Defensive rebound by C. Paul,,8,2
+1,10:16.0,J. Harden makes 3-pt jump shot from 26 ft,,11,2
+1,10:01.0,,T. Johnson makes 2-pt layup at rim (assist by J. Richardson),11,4
+1,9:50.0,J. Harden misses 2-pt layup at rim,,11,4
+1,9:50.0,,Defensive rebound by H. Whiteside,11,4
+1,9:45.0,,T. Johnson makes 2-pt dunk from 1 ft (assist by H. Whiteside),11,6
+1,9:30.0,E. Gordon misses 3-pt jump shot from 24 ft,,11,6
+1,9:27.0,,Defensive rebound by J. Johnson,11,6
+1,9:21.0,,R. McGruder misses 3-pt jump shot from 23 ft,11,6
+1,9:18.0,Defensive rebound by Team,,11,6
+1,9:08.0,C. Paul misses 3-pt jump shot from 25 ft,,11,6
+1,9:06.0,,Defensive rebound by H. Whiteside,11,6
+1,8:43.0,,R. McGruder misses 3-pt jump shot from 23 ft,11,6
+1,8:40.0,Defensive rebound by P. Tucker,,11,6
+1,8:27.0,C. Capela makes 2-pt dunk from 1 ft (assist by C. Paul),,13,6
+1,8:15.0,,Shooting foul by C. Paul (drawn by J. Johnson),13,6
+1,8:15.0,,J. Johnson misses free throw 1 of 2,13,6
+1,8:15.0,,Offensive rebound by Team,13,6
+1,8:15.0,,J. Johnson makes free throw 2 of 2,13,7
+1,8:06.0,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),,15,7
+1,7:50.0,,T. Johnson makes 3-pt jump shot from 29 ft (assist by J. Richardson),15,10
+1,7:33.0,J. Harden misses 2-pt layup from 2 ft,,15,10
+1,7:31.0,,Defensive rebound by H. Whiteside,15,10
+1,7:23.0,,J. Richardson makes 2-pt jump shot from 13 ft,15,12
+1,6:58.0,E. Gordon makes 3-pt jump shot from 24 ft (assist by J. Harden),,18,12
+1,6:45.0,,T. Johnson misses 3-pt jump shot from 25 ft,18,12
+1,6:45.0,,Offensive rebound by Team,18,12
+1,6:45.0,,Miami full timeout,18,12
+1,6:45.0,G. Green enters the game for C. Paul,,18,12
+1,6:37.0,,Turnover by T. Johnson (lost ball; steal by G. Green),18,12
+1,6:26.0,Turnover by J. Harden (bad pass; steal by H. Whiteside),,18,12
+1,6:13.0,,Personal foul by P. Tucker (drawn by H. Whiteside),18,12
+1,6:13.0,,D. Wade enters the game for J. Richardson,18,12
+1,6:00.0,,J. Johnson misses 2-pt jump shot from 18 ft,18,12
+1,5:58.0,Defensive rebound by G. Green,,18,12
+1,5:49.0,J. Harden misses 2-pt layup from 2 ft,,18,12
+1,5:47.0,,Defensive rebound by J. Johnson,18,12
+1,5:44.0,,D. Wade misses 3-pt jump shot from 25 ft,18,12
+1,5:41.0,Defensive rebound by C. Capela,,18,12
+1,5:32.0,E. Gordon makes 2-pt jump shot from 5 ft,,20,12
+1,5:24.0,,Turnover by H. Whiteside (traveling),20,12
+1,5:07.0,G. Green makes 3-pt jump shot from 23 ft (assist by E. Gordon),,23,12
+1,4:46.0,,J. Johnson misses 2-pt layup from 1 ft,23,12
+1,4:45.0,,Offensive rebound by H. Whiteside,23,12
+1,4:44.0,,H. Whiteside misses 2-pt layup at rim,23,12
+1,4:43.0,,Offensive rebound by H. Whiteside,23,12
+1,4:42.0,,H. Whiteside misses 2-pt layup from 1 ft,23,12
+1,4:41.0,,Offensive rebound by H. Whiteside,23,12
+1,4:40.0,,H. Whiteside makes 2-pt layup at rim,23,14
+1,4:22.0,P. Tucker misses 3-pt jump shot from 26 ft,,23,14
+1,4:22.0,Offensive rebound by Team,,23,14
+1,4:22.0,D. House enters the game for P. Tucker,,23,14
+1,4:22.0,,B. Adebayo enters the game for J. Johnson,23,14
+1,4:22.0,,K. Olynyk enters the game for H. Whiteside,23,14
+1,4:13.0,G. Green makes 2-pt jump shot from 18 ft,,25,14
+1,3:57.0,,B. Adebayo misses 2-pt layup from 2 ft,25,14
+1,3:52.0,Defensive rebound by C. Capela,,25,14
+1,3:52.0,Shooting foul by K. Olynyk (drawn by J. Harden),,25,14
+1,3:52.0,J. Harden makes free throw 1 of 2,,26,14
+1,3:52.0,N. Hilário enters the game for C. Capela,,26,14
+1,3:52.0,J. Harden makes free throw 2 of 2,,27,14
+1,3:39.0,,D. Wade misses 2-pt layup from 2 ft,27,14
+1,3:37.0,Defensive rebound by N. Hilário,,27,14
+1,3:25.0,J. Harden misses 3-pt jump shot from 24 ft,,27,14
+1,3:23.0,,Defensive rebound by K. Olynyk,27,14
+1,3:09.0,,R. McGruder misses 2-pt layup from 2 ft,27,14
+1,3:07.0,Defensive rebound by N. Hilário,,27,14
+1,3:07.0,B. Knight enters the game for E. Gordon,,27,14
+1,2:55.0,G. Green misses 3-pt jump shot from 25 ft,,27,14
+1,2:51.0,Offensive rebound by J. Harden,,27,14
+1,2:41.0,D. House makes 3-pt jump shot from 25 ft (assist by J. Harden),,30,14
+1,2:23.0,,R. McGruder makes 3-pt jump shot from 25 ft (assist by B. Adebayo),30,17
+1,2:08.0,J. Harden misses 2-pt layup from 1 ft,,30,17
+1,2:06.0,,Defensive rebound by R. McGruder,30,17
+1,1:59.0,,K. Olynyk misses 3-pt jump shot from 23 ft,30,17
+1,1:57.0,Defensive rebound by G. Green,,30,17
+1,1:36.0,Shooting foul by B. Adebayo (drawn by J. Harden),,30,17
+1,1:36.0,Houston full timeout,,30,17
+1,1:36.0,C. Paul enters the game for G. Green,,30,17
+1,1:36.0,,D. Jones enters the game for R. McGruder,30,17
+1,1:36.0,J. Harden makes free throw 1 of 3,,31,17
+1,1:36.0,J. Harden makes free throw 2 of 3,,32,17
+1,1:36.0,J. Harden makes free throw 3 of 3,,33,17
+1,1:20.0,,D. Wade misses 3-pt jump shot from 22 ft,33,17
+1,1:20.0,,Offensive rebound by T. Johnson,33,17
+1,1:20.0,,Shooting foul by C. Paul (drawn by T. Johnson),33,17
+1,1:20.0,,T. Johnson makes free throw 1 of 2,33,18
+1,1:20.0,G. Green enters the game for J. Harden,,33,18
+1,1:20.0,,T. Johnson makes free throw 2 of 2,33,19
+1,1:00.0,Turnover by C. Paul (bad pass),,33,19
+1,1:00.0,,J. Richardson enters the game for T. Johnson,33,19
+1,0:47.0,,B. Adebayo makes 2-pt jump shot from 11 ft (assist by J. Richardson),33,21
+1,0:32.0,N. Hilário misses 2-pt hook shot from 5 ft,,33,21
+1,0:29.0,,Defensive rebound by B. Adebayo,33,21
+1,0:25.0,,D. Wade misses 2-pt jump shot from 6 ft,33,21
+1,0:21.0,Defensive rebound by G. Green,,33,21
+1,0:02.0,B. Knight misses 3-pt jump shot from 23 ft,,33,21
+1,0:01.0,,Defensive rebound by D. Wade,33,21
+2,11:45.0,G. Green misses 3-pt jump shot from 25 ft,,33,21
+2,11:43.0,,Defensive rebound by K. Olynyk,33,21
+2,11:28.0,,D. Jones misses 2-pt layup from 3 ft,33,21
+2,11:24.0,,Offensive rebound by K. Olynyk,33,21
+2,11:24.0,,K. Olynyk makes 2-pt layup at rim,33,23
+2,11:12.0,B. Knight makes 3-pt jump shot from 25 ft (assist by C. Paul),,36,23
+2,10:57.0,,Personal foul by B. Knight (drawn by J. Richardson),36,23
+2,10:51.0,,D. Wade misses 3-pt jump shot from 25 ft,36,23
+2,10:45.0,,Offensive rebound by B. Adebayo,36,23
+2,10:40.0,,D. Jones makes 2-pt dunk from 1 ft (assist by B. Adebayo),36,25
+2,10:19.0,C. Paul makes 2-pt jump shot from 15 ft,,38,25
+2,10:04.0,,K. Olynyk misses 3-pt jump shot from 24 ft,38,25
+2,10:03.0,,Offensive rebound by D. Jones,38,25
+2,10:03.0,,Shooting foul by N. Hilário (drawn by D. Jones),38,25
+2,10:03.0,,D. Jones makes free throw 1 of 2,38,26
+2,10:03.0,C. Capela enters the game for N. Hilário,,38,26
+2,10:03.0,P. Tucker enters the game for D. House,,38,26
+2,10:03.0,,D. Jones makes free throw 2 of 2,38,27
+2,9:48.0,B. Knight misses 3-pt jump shot from 25 ft,,38,27
+2,9:46.0,,Defensive rebound by K. Olynyk,38,27
+2,9:40.0,,D. Wade misses 2-pt layup from 1 ft (block by C. Capela),38,27
+2,9:40.0,,Offensive rebound by Team,38,27
+2,9:28.0,,J. Richardson misses 3-pt jump shot from 25 ft,38,27
+2,9:25.0,,Offensive rebound by K. Olynyk,38,27
+2,9:25.0,,K. Olynyk makes 2-pt layup from 1 ft,38,29
+2,9:03.0,G. Green misses 3-pt jump shot from 26 ft,,38,29
+2,8:59.0,,Defensive rebound by B. Adebayo,38,29
+2,8:58.0,,Shooting foul by B. Knight (drawn by D. Jones),38,29
+2,8:58.0,,D. Jones makes free throw 1 of 2,38,30
+2,8:58.0,E. Gordon enters the game for G. Green,,38,30
+2,8:58.0,,D. Jones misses free throw 2 of 2,38,30
+2,8:54.0,,Offensive rebound by K. Olynyk,38,30
+2,8:48.0,,D. Wade makes 2-pt dunk from 1 ft,38,32
+2,8:32.0,E. Gordon makes 3-pt jump shot from 26 ft (assist by C. Paul),,41,32
+2,8:23.0,,J. Richardson makes 3-pt jump shot from 28 ft (assist by K. Olynyk),41,35
+2,8:09.0,P. Tucker misses 3-pt jump shot from 23 ft,,41,35
+2,8:09.0,Offensive rebound by Team,,41,35
+2,8:09.0,J. Harden enters the game for B. Knight,,41,35
+2,7:58.0,C. Paul misses 3-pt jump shot from 23 ft,,41,35
+2,7:55.0,,Defensive rebound by B. Adebayo,41,35
+2,7:48.0,,Turnover by D. Wade (bad pass; steal by C. Capela),41,35
+2,7:42.0,J. Harden makes 2-pt layup from 1 ft (assist by C. Capela),,43,35
+2,7:16.0,,D. Wade makes 2-pt jump shot from 11 ft (assist by D. Jones),43,37
+2,7:09.0,Shooting foul by D. Wade (drawn by C. Paul),,43,37
+2,7:09.0,C. Paul makes free throw 1 of 2,,44,37
+2,7:09.0,C. Paul makes free throw 2 of 2,,45,37
+2,6:56.0,,B. Adebayo misses 2-pt jump shot from 11 ft,45,37
+2,6:53.0,,Offensive rebound by D. Jones,45,37
+2,6:53.0,,D. Jones misses 2-pt layup from 4 ft,45,37
+2,6:51.0,,Offensive rebound by J. Richardson,45,37
+2,6:51.0,,J. Richardson misses 2-pt layup from 2 ft,45,37
+2,6:50.0,,Offensive rebound by D. Jones,45,37
+2,6:49.0,,D. Jones misses 2-pt layup from 5 ft,45,37
+2,6:46.0,Defensive rebound by C. Capela,,45,37
+2,6:45.0,Turnover by C. Paul (lost ball; steal by D. Jones),,45,37
+2,6:43.0,,Shooting foul by P. Tucker (drawn by D. Jones),45,37
+2,6:43.0,,Miami full timeout,45,37
+2,6:43.0,B. Knight enters the game for C. Paul,,45,37
+2,6:43.0,,W. Ellington enters the game for D. Wade,45,37
+2,6:43.0,,D. Jones misses free throw 1 of 2,45,37
+2,6:43.0,,Offensive rebound by Team,45,37
+2,6:43.0,,D. Jones makes free throw 2 of 2,45,38
+2,6:18.0,J. Harden misses 3-pt jump shot from 27 ft,,45,38
+2,6:15.0,,Defensive rebound by B. Adebayo,45,38
+2,5:51.0,,J. Richardson makes 2-pt jump shot from 18 ft,45,40
+2,5:37.0,E. Gordon misses 3-pt jump shot from 25 ft,,45,40
+2,5:34.0,,Defensive rebound by B. Adebayo,45,40
+2,5:18.0,,J. Richardson makes 3-pt jump shot from 25 ft (assist by K. Olynyk),45,43
+2,5:06.0,Turnover by B. Knight (bad pass),,45,43
+2,5:06.0,N. Hilário enters the game for C. Capela,,45,43
+2,4:53.0,,J. Richardson misses 3-pt jump shot from 26 ft,45,43
+2,4:50.0,Defensive rebound by J. Harden,,45,43
+2,4:44.0,Personal foul by D. Jones (drawn by J. Harden),,45,43
+2,4:30.0,E. Gordon makes 3-pt jump shot from 25 ft (assist by J. Harden),,48,43
+2,4:15.0,,K. Olynyk misses 3-pt jump shot from 24 ft,48,43
+2,4:13.0,,Offensive rebound by D. Jones,48,43
+2,4:01.0,,W. Ellington misses 3-pt jump shot from 25 ft,48,43
+2,3:59.0,,Offensive rebound by B. Adebayo,48,43
+2,3:55.0,,K. Olynyk makes 3-pt jump shot from 25 ft (assist by B. Adebayo),48,46
+2,3:41.0,B. Knight misses 3-pt jump shot from 25 ft,,48,46
+2,3:36.0,,Defensive rebound by K. Olynyk,48,46
+2,3:28.0,,J. Richardson misses 2-pt layup from 1 ft,48,46
+2,3:28.0,,Offensive rebound by Team,48,46
+2,3:28.0,G. Green enters the game for B. Knight,,48,46
+2,3:28.0,,T. Johnson enters the game for J. Richardson,48,46
+2,3:24.0,,Personal foul by E. Gordon (drawn by T. Johnson),48,46
+2,3:24.0,,T. Johnson misses free throw 1 of 2,48,46
+2,3:24.0,,Offensive rebound by Team,48,46
+2,3:24.0,,T. Johnson makes free throw 2 of 2,48,47
+2,3:00.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by J. Harden),,51,47
+2,2:41.0,,W. Ellington misses 3-pt jump shot from 25 ft,51,47
+2,2:41.0,,Offensive rebound by Team,51,47
+2,2:41.0,Loose ball foul by E. Gordon (drawn by D. Jones),,51,47
+2,2:41.0,Houston full timeout,,51,47
+2,2:41.0,,D. Jones makes free throw 1 of 2,51,48
+2,2:41.0,,D. Jones makes free throw 2 of 2,51,49
+2,2:22.0,E. Gordon misses 3-pt jump shot from 23 ft,,51,49
+2,2:19.0,Offensive rebound by P. Tucker,,51,49
+2,2:16.0,E. Gordon misses 3-pt jump shot from 24 ft,,51,49
+2,2:13.0,,Defensive rebound by T. Johnson,51,49
+2,1:55.0,,B. Adebayo misses 2-pt layup from 2 ft,51,49
+2,1:53.0,Defensive rebound by G. Green,,51,49
+2,1:43.0,P. Tucker misses 3-pt jump shot from 23 ft,,51,49
+2,1:43.0,Offensive rebound by Team,,51,49
+2,1:43.0,,Loose ball foul by K. Olynyk (drawn by N. Hilário),51,49
+2,1:43.0,,J. Richardson enters the game for W. Ellington,51,49
+2,1:43.0,,D. Wade enters the game for K. Olynyk,51,49
+2,1:35.0,J. Harden makes 3-pt jump shot from 25 ft,,54,49
+2,1:15.0,,D. Wade makes 2-pt layup from 1 ft (assist by J. Richardson),54,51
+2,0:50.0,J. Harden misses 3-pt jump shot from 25 ft,,54,51
+2,0:50.0,,Defensive rebound by Team,54,51
+2,0:37.0,,T. Johnson misses 3-pt jump shot from 25 ft,54,51
+2,0:35.0,Defensive rebound by G. Green,,54,51
+2,0:31.0,Shooting foul by D. Jones (drawn by J. Harden),,54,51
+2,0:31.0,J. Harden makes free throw 1 of 2,,55,51
+2,0:31.0,J. Harden misses free throw 2 of 2,,55,51
+2,0:29.0,,Defensive rebound by D. Jones,55,51
+2,0:08.0,,Shooting foul by P. Tucker (drawn by D. Jones),55,51
+2,0:08.0,,D. Jones makes free throw 1 of 3,55,52
+2,0:08.0,,D. Jones makes free throw 2 of 3,55,53
+2,0:08.0,,D. Jones misses free throw 3 of 3,55,53
+2,0:08.0,Defensive rebound by J. Harden,,55,53
+2,0:00.0,J. Harden makes 3-pt jump shot from 28 ft,,58,53
+3,11:45.0,P. Tucker makes 3-pt jump shot from 24 ft (assist by J. Harden),,61,53
+3,11:22.0,,J. Richardson makes 3-pt jump shot from 27 ft (assist by J. Johnson),61,56
+3,10:59.0,E. Gordon misses 3-pt jump shot from 26 ft,,61,56
+3,10:56.0,,Defensive rebound by J. Johnson,61,56
+3,10:51.0,,J. Johnson misses 3-pt jump shot from 26 ft,61,56
+3,10:49.0,Defensive rebound by E. Gordon,,61,56
+3,10:44.0,Turnover by J. Harden (bad pass; steal by J. Johnson),,61,56
+3,10:26.0,,H. Whiteside makes 2-pt dunk from 2 ft (assist by J. Johnson),61,58
+3,10:02.0,J. Harden misses 3-pt jump shot from 26 ft,,61,58
+3,10:00.0,,Defensive rebound by T. Johnson,61,58
+3,9:53.0,,R. McGruder misses 3-pt jump shot from 23 ft,61,58
+3,9:50.0,Defensive rebound by J. Harden,,61,58
+3,9:47.0,Shooting foul by H. Whiteside (drawn by J. Harden),,61,58
+3,9:47.0,J. Harden makes free throw 1 of 2,,62,58
+3,9:47.0,J. Harden makes free throw 2 of 2,,63,58
+3,9:27.0,,J. Richardson makes 2-pt jump shot from 11 ft,63,60
+3,9:14.0,P. Tucker misses 3-pt jump shot from 24 ft,,63,60
+3,9:12.0,,Defensive rebound by J. Richardson,63,60
+3,9:10.0,,J. Richardson makes 2-pt layup from 2 ft,63,62
+3,8:53.0,C. Capela misses 2-pt layup from 1 ft (block by T. Johnson),,63,62
+3,8:50.0,Offensive rebound by C. Capela,,63,62
+3,8:47.0,G. Green misses 3-pt jump shot from 26 ft,,63,62
+3,8:47.0,,Defensive rebound by H. Whiteside,63,62
+3,8:41.0,,Personal foul by G. Green (drawn by J. Johnson),63,62
+3,8:34.0,,J. Richardson misses 3-pt jump shot from 25 ft,63,62
+3,8:32.0,Defensive rebound by C. Capela,,63,62
+3,8:24.0,Turnover by J. Harden (bad pass; steal by H. Whiteside),,63,62
+3,8:13.0,,H. Whiteside misses 2-pt jump shot from 6 ft,63,62
+3,8:09.0,Defensive rebound by C. Capela,,63,62
+3,8:04.0,G. Green misses 3-pt jump shot from 26 ft,,63,62
+3,8:04.0,,Defensive rebound by J. Johnson,63,62
+3,7:48.0,,J. Johnson makes 2-pt layup from 1 ft,63,64
+3,7:33.0,E. Gordon misses 3-pt jump shot from 30 ft,,63,64
+3,7:33.0,,Defensive rebound by J. Johnson,63,64
+3,7:17.0,,Shooting foul by J. Harden (drawn by J. Johnson),63,64
+3,7:17.0,,J. Johnson misses free throw 1 of 2,63,64
+3,7:17.0,,Offensive rebound by Team,63,64
+3,7:17.0,D. House enters the game for G. Green,,63,64
+3,7:17.0,,J. Johnson misses free throw 2 of 2,63,64
+3,7:16.0,,Offensive rebound by Team,63,64
+3,7:03.0,,T. Johnson makes 2-pt jump shot from 13 ft (assist by J. Richardson),63,66
+3,6:46.0,C. Capela makes 2-pt dunk from 1 ft (assist by E. Gordon),,65,66
+3,6:29.0,,Turnover by T. Johnson (lost ball; steal by P. Tucker),65,66
+3,6:25.0,P. Tucker misses 2-pt layup from 1 ft,,65,66
+3,6:22.0,,Defensive rebound by H. Whiteside,65,66
+3,6:14.0,,J. Johnson makes 2-pt hook shot from 6 ft,65,68
+3,6:00.0,J. Harden misses 2-pt layup from 2 ft,,65,68
+3,5:59.0,Offensive rebound by C. Capela,,65,68
+3,5:59.0,C. Capela misses 2-pt layup from 2 ft,,65,68
+3,5:59.0,Offensive rebound by C. Capela,,65,68
+3,5:57.0,C. Capela misses 2-pt layup from 2 ft,,65,68
+3,5:55.0,,Defensive rebound by T. Johnson,65,68
+3,5:37.0,,J. Johnson makes 2-pt layup from 1 ft,65,70
+3,5:37.0,Houston full timeout,,65,70
+3,5:37.0,N. Hilário enters the game for C. Capela,,65,70
+3,5:37.0,,D. Wade enters the game for J. Richardson,65,70
+3,5:24.0,J. Harden misses 3-pt jump shot from 25 ft,,65,70
+3,5:23.0,,Defensive rebound by H. Whiteside,65,70
+3,5:14.0,,Turnover by D. Wade (bad pass; steal by J. Harden),65,70
+3,5:10.0,Personal foul by T. Johnson (drawn by E. Gordon),,65,70
+3,5:10.0,B. Knight enters the game for E. Gordon,,65,70
+3,4:55.0,D. House makes 2-pt layup from 1 ft (assist by J. Harden),,67,70
+3,4:41.0,,J. Johnson makes 2-pt jump shot from 4 ft (assist by D. Wade),67,72
+3,4:27.0,B. Knight misses 3-pt jump shot from 25 ft,,67,72
+3,4:27.0,,Defensive rebound by Team,67,72
+3,4:02.0,,J. Johnson misses 2-pt jump shot from 7 ft,67,72
+3,4:00.0,Defensive rebound by J. Harden,,67,72
+3,4:00.0,Shooting foul by J. Johnson (drawn by J. Harden),,67,72
+3,4:00.0,J. Harden makes free throw 1 of 2,,68,72
+3,4:00.0,J. Harden misses free throw 2 of 2,,68,72
+3,3:58.0,,Defensive rebound by H. Whiteside,68,72
+3,3:45.0,,T. Johnson misses 3-pt jump shot from 26 ft,68,72
+3,3:43.0,Defensive rebound by N. Hilário,,68,72
+3,3:37.0,D. House makes 3-pt jump shot from 23 ft (assist by J. Harden),,71,72
+3,3:37.0,,Miami full timeout,71,72
+3,3:21.0,,D. Wade misses 2-pt jump shot from 14 ft,71,72
+3,3:18.0,Defensive rebound by D. House,,71,72
+3,3:12.0,J. Harden makes 3-pt jump shot from 25 ft,,74,72
+3,2:51.0,,H. Whiteside makes 2-pt hook shot from 6 ft (assist by J. Johnson),74,74
+3,2:30.0,P. Tucker misses 3-pt jump shot from 26 ft,,74,74
+3,2:30.0,,Defensive rebound by Team,74,74
+3,2:30.0,G. Green enters the game for P. Tucker,,74,74
+3,2:30.0,,J. Richardson enters the game for T. Johnson,74,74
+3,2:15.0,,H. Whiteside makes 2-pt layup from 1 ft (assist by J. Richardson),74,76
+3,1:57.0,J. Harden misses 3-pt jump shot from 25 ft,,74,76
+3,1:55.0,,Defensive rebound by J. Richardson,74,76
+3,1:40.0,,J. Johnson makes 2-pt layup from 1 ft (assist by H. Whiteside),74,78
+3,1:34.0,Shooting foul by J. Johnson (drawn by D. House),,74,78
+3,1:34.0,D. House makes free throw 1 of 2,,75,78
+3,1:34.0,C. Capela enters the game for N. Hilário,,75,78
+3,1:34.0,E. Gordon enters the game for B. Knight,,75,78
+3,1:34.0,,B. Adebayo enters the game for J. Johnson,75,78
+3,1:34.0,,D. Jones enters the game for R. McGruder,75,78
+3,1:34.0,,K. Olynyk enters the game for H. Whiteside,75,78
+3,1:34.0,D. House makes free throw 2 of 2,,76,78
+3,1:18.0,,D. Wade misses 3-pt jump shot from 25 ft,76,78
+3,1:13.0,,Offensive rebound by D. Jones,76,78
+3,1:13.0,,D. Jones makes 2-pt dunk from 1 ft,76,80
+3,0:59.0,J. Harden misses 2-pt layup from 1 ft (block by D. Jones),,76,80
+3,0:59.0,Offensive rebound by Team,,76,80
+3,0:56.0,Turnover by G. Green (bad pass; steal by D. Jones),,76,80
+3,0:53.0,,J. Richardson makes 2-pt layup from 1 ft (assist by D. Wade),76,82
+3,0:33.0,E. Gordon misses 2-pt layup from 1 ft,,76,82
+3,0:32.0,,Defensive rebound by D. Wade,76,82
+3,0:27.0,,K. Olynyk misses 3-pt jump shot from 26 ft,76,82
+3,0:23.0,Defensive rebound by C. Capela,,76,82
+3,0:02.0,J. Harden misses 3-pt jump shot from 26 ft,,76,82
+3,0:01.0,,Defensive rebound by B. Adebayo,76,82
+3,0:01.0,,Turnover by B. Adebayo (traveling),76,82
+4,11:48.0,,Personal foul by G. Green (drawn by D. Jones),76,82
+4,11:44.0,,Personal foul by J. Harden (drawn by D. Wade),76,82
+4,11:32.0,,D. Wade misses 3-pt jump shot from 25 ft,76,82
+4,11:30.0,Defensive rebound by Team,,76,82
+4,11:29.0,,Loose ball foul by B. Adebayo (drawn by J. Harden),76,82
+4,11:20.0,Shooting foul by D. Jones (drawn by E. Gordon),,76,82
+4,11:20.0,E. Gordon misses free throw 1 of 2,,76,82
+4,11:20.0,Offensive rebound by Team,,76,82
+4,11:20.0,E. Gordon makes free throw 2 of 2,,77,82
+4,10:59.0,,J. Richardson makes 3-pt jump shot from 27 ft (assist by B. Adebayo),77,85
+4,10:44.0,E. Gordon misses 2-pt jump shot from 5 ft (block by D. Jones),,77,85
+4,10:42.0,,Defensive rebound by B. Adebayo,77,85
+4,10:34.0,,D. Jones makes 3-pt jump shot from 22 ft (assist by D. Wade),77,88
+4,10:34.0,Houston full timeout,,77,88
+4,10:34.0,P. Tucker enters the game for D. House,,77,88
+4,10:21.0,,Violation by Team (kicked ball),77,88
+4,10:08.0,Turnover by G. Green (bad pass; steal by D. Wade),,77,88
+4,9:58.0,,Personal foul by C. Capela (drawn by D. Jones),77,88
+4,9:58.0,B. Knight enters the game for G. Green,,77,88
+4,9:52.0,,J. Richardson misses 3-pt jump shot from 25 ft,77,88
+4,9:52.0,Defensive rebound by Team,,77,88
+4,9:38.0,P. Tucker makes 2-pt jump shot from 13 ft (assist by J. Harden),,79,88
+4,9:14.0,,D. Wade makes 2-pt jump shot from 8 ft,79,90
+4,9:13.0,Shooting foul by K. Olynyk (drawn by C. Capela),,79,90
+4,9:13.0,C. Capela misses free throw 1 of 2,,79,90
+4,9:13.0,Offensive rebound by Team,,79,90
+4,9:13.0,C. Capela misses free throw 2 of 2,,79,90
+4,9:08.0,,Defensive rebound by D. Jones,79,90
+4,8:51.0,,D. Wade misses 2-pt jump shot from 13 ft,79,90
+4,8:48.0,,Offensive rebound by K. Olynyk,79,90
+4,8:46.0,,K. Olynyk misses 3-pt jump shot from 23 ft,79,90
+4,8:44.0,Defensive rebound by C. Capela,,79,90
+4,8:33.0,J. Harden makes 3-pt jump shot from 25 ft,,82,90
+4,8:05.0,,D. Wade misses 3-pt jump shot from 26 ft,82,90
+4,8:02.0,Defensive rebound by J. Harden,,82,90
+4,7:58.0,P. Tucker misses 3-pt jump shot from 23 ft,,82,90
+4,7:54.0,,Defensive rebound by K. Olynyk,82,90
+4,7:54.0,,Turnover by K. Olynyk (out of bounds lost ball),82,90
+4,7:47.0,E. Gordon makes 3-pt jump shot from 24 ft (assist by J. Harden),,85,90
+4,7:47.0,,Miami full timeout,85,90
+4,7:47.0,N. Hilário enters the game for C. Capela,,85,90
+4,7:47.0,,T. Johnson enters the game for D. Wade,85,90
+4,7:35.0,,D. Jones misses 3-pt jump shot from 26 ft,85,90
+4,7:35.0,,Offensive rebound by Team,85,90
+4,7:35.0,Loose ball foul by N. Hilário (drawn by B. Adebayo),,85,90
+4,7:30.0,,Shooting foul by E. Gordon (drawn by T. Johnson),85,90
+4,7:30.0,,T. Johnson misses free throw 1 of 2,85,90
+4,7:30.0,,Offensive rebound by Team,85,90
+4,7:30.0,,T. Johnson misses free throw 2 of 2,85,90
+4,7:27.0,Defensive rebound by P. Tucker,,85,90
+4,7:13.0,N. Hilário makes 2-pt dunk from 1 ft (assist by E. Gordon),,87,90
+4,6:48.0,,Turnover by J. Richardson (lost ball; steal by J. Harden),87,90
+4,6:42.0,Shooting foul by B. Adebayo (drawn by J. Harden),,87,90
+4,6:42.0,Houston full timeout,,87,90
+4,6:42.0,J. Harden makes free throw 1 of 2,,88,90
+4,6:42.0,J. Harden makes free throw 2 of 2,,89,90
+4,6:25.0,,B. Adebayo misses 2-pt layup from 2 ft (block by N. Hilário),89,90
+4,6:21.0,,Offensive rebound by D. Jones,89,90
+4,6:21.0,,J. Richardson misses 3-pt jump shot from 25 ft,89,90
+4,6:21.0,,Offensive rebound by Team,89,90
+4,6:21.0,Loose ball foul by J. Harden (drawn by B. Adebayo),,89,90
+4,6:21.0,,B. Adebayo misses free throw 1 of 2,89,90
+4,6:21.0,,Offensive rebound by Team,89,90
+4,6:21.0,C. Capela enters the game for N. Hilário,,89,90
+4,6:21.0,,B. Adebayo makes free throw 2 of 2,89,91
+4,6:04.0,E. Gordon misses 3-pt jump shot from 25 ft,,89,91
+4,6:04.0,Offensive rebound by P. Tucker,,89,91
+4,6:04.0,Personal foul by K. Olynyk (drawn by P. Tucker),,89,91
+4,6:04.0,P. Tucker makes free throw 1 of 2,,90,91
+4,6:04.0,D. House enters the game for B. Knight,,90,91
+4,6:04.0,,R. McGruder enters the game for B. Adebayo,90,91
+4,6:04.0,,H. Whiteside enters the game for K. Olynyk,90,91
+4,6:04.0,P. Tucker misses free throw 2 of 2,,90,91
+4,6:02.0,,Defensive rebound by H. Whiteside,90,91
+4,5:46.0,,Shooting foul by P. Tucker (drawn by H. Whiteside),90,91
+4,5:46.0,,H. Whiteside misses free throw 1 of 2,90,91
+4,5:46.0,,Offensive rebound by Team,90,91
+4,5:46.0,,H. Whiteside misses free throw 2 of 2,90,91
+4,5:43.0,Defensive rebound by P. Tucker,,90,91
+4,5:25.0,J. Harden misses 2-pt layup from 2 ft,,90,91
+4,5:22.0,,Defensive rebound by H. Whiteside,90,91
+4,5:18.0,,T. Johnson misses 2-pt jump shot from 21 ft,90,91
+4,5:16.0,Defensive rebound by C. Capela,,90,91
+4,4:53.0,P. Tucker misses 3-pt jump shot from 23 ft,,90,91
+4,4:53.0,,Defensive rebound by J. Richardson,90,91
+4,4:36.0,,Turnover by H. Whiteside (bad pass; steal by D. House),90,91
+4,4:26.0,Shooting foul by R. McGruder (drawn by J. Harden),,90,91
+4,4:26.0,J. Harden makes free throw 1 of 2,,91,91
+4,4:26.0,J. Harden makes free throw 2 of 2,,92,91
+4,4:26.0,,Miami full timeout,92,91
+4,4:13.0,,D. Jones misses 3-pt jump shot from 23 ft,92,91
+4,4:10.0,,Offensive rebound by H. Whiteside,92,91
+4,4:07.0,,H. Whiteside misses 2-pt layup from 8 ft,92,91
+4,4:04.0,Defensive rebound by C. Capela,,92,91
+4,3:53.0,E. Gordon misses 2-pt layup from 1 ft,,92,91
+4,3:53.0,Offensive rebound by C. Capela,,92,91
+4,3:51.0,C. Capela misses 2-pt layup from 2 ft,,92,91
+4,3:50.0,Offensive rebound by C. Capela,,92,91
+4,3:43.0,D. House misses 3-pt jump shot from 23 ft,,92,91
+4,3:39.0,,Defensive rebound by J. Richardson,92,91
+4,3:34.0,,T. Johnson makes 2-pt layup from 2 ft,92,93
+4,3:15.0,J. Harden misses 2-pt layup from 2 ft (block by T. Johnson),,92,93
+4,3:12.0,,Defensive rebound by H. Whiteside,92,93
+4,2:56.0,,J. Richardson misses 3-pt jump shot from 26 ft,92,93
+4,2:53.0,,Offensive rebound by H. Whiteside,92,93
+4,2:45.0,,T. Johnson makes 3-pt jump shot from 26 ft (assist by J. Richardson),92,96
+4,2:45.0,Houston full timeout,,92,96
+4,2:45.0,G. Green enters the game for D. House,,92,96
+4,2:45.0,,D. Wade enters the game for R. McGruder,92,96
+4,2:24.0,P. Tucker misses 3-pt jump shot from 24 ft,,92,96
+4,2:21.0,,Defensive rebound by H. Whiteside,92,96
+4,2:17.0,,Personal take foul by C. Capela (drawn by H. Whiteside),92,96
+4,2:17.0,,H. Whiteside makes free throw 1 of 2,92,97
+4,2:17.0,N. Hilário enters the game for C. Capela,,92,97
+4,2:17.0,,H. Whiteside misses free throw 2 of 2,92,97
+4,2:15.0,Defensive rebound by P. Tucker,,92,97
+4,2:00.0,P. Tucker makes 2-pt jump shot from 11 ft (assist by J. Harden),,94,97
+4,1:51.0,,Shooting foul by P. Tucker (drawn by T. Johnson),94,97
+4,1:51.0,,T. Johnson makes free throw 1 of 3,94,98
+4,1:51.0,,T. Johnson misses free throw 2 of 3,94,98
+4,1:51.0,,Offensive rebound by Team,94,98
+4,1:51.0,,T. Johnson makes free throw 3 of 3,94,99
+4,1:36.0,Shooting foul by J. Richardson (drawn by J. Harden),,94,99
+4,1:36.0,J. Harden misses free throw 1 of 3,,94,99
+4,1:36.0,Offensive rebound by Team,,94,99
+4,1:36.0,J. Harden makes free throw 2 of 3,,95,99
+4,1:36.0,J. Harden makes free throw 3 of 3,,96,99
+4,1:20.0,,Shooting foul by E. Gordon (drawn by D. Wade),96,99
+4,1:20.0,,D. Wade makes free throw 1 of 2,96,100
+4,1:20.0,,D. Wade makes free throw 2 of 2,96,101
+4,1:06.0,J. Harden misses 3-pt jump shot from 27 ft,,96,101
+4,1:03.0,,Defensive rebound by J. Richardson,96,101
+4,0:51.0,,J. Richardson misses 3-pt jump shot from 25 ft,96,101
+4,0:45.0,Defensive rebound by E. Gordon,,96,101
+4,0:37.0,E. Gordon makes 3-pt jump shot from 23 ft (assist by J. Harden),,99,101
+4,0:20.0,,D. Wade misses 2-pt jump shot from 15 ft,99,101
+4,0:18.0,,Offensive rebound by H. Whiteside,99,101
+4,0:04.0,,D. Wade misses 2-pt jump shot from 7 ft,99,101
+4,0:03.0,Defensive rebound by G. Green,,99,101
+4,0:03.0,Houston full timeout,,99,101
+4,0:00.0,E. Gordon misses 3-pt jump shot from 25 ft,,99,101
+4,0:00.0,Offensive rebound by Team,,99,101

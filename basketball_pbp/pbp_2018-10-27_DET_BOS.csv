@@ -1,0 +1,467 @@
+QUARTER,TIME_REMAINING,BOSTON_ACTION,DETROIT_ACTION,BOSTON_SCORE,DETROIT_SCORE
+1,11:35.0,,A. Drummond makes 2-pt jump shot from 14 ft (assist by S. Johnson),0,2
+1,11:17.0,G. Hayward makes 2-pt jump shot from 18 ft,,2,2
+1,11:00.0,,S. Johnson misses 3-pt jump shot from 25 ft,2,2
+1,10:57.0,Defensive rebound by J. Brown,,2,2
+1,10:50.0,G. Hayward misses 3-pt jump shot from 23 ft,,2,2
+1,10:48.0,,Defensive rebound by A. Drummond,2,2
+1,10:39.0,,Personal foul by J. Brown (drawn by B. Griffin),2,2
+1,10:27.0,,R. Bullock misses 2-pt layup from 3 ft (block by J. Brown),2,2
+1,10:21.0,Defensive rebound by G. Hayward,,2,2
+1,10:16.0,J. Brown misses 2-pt layup from 2 ft,,2,2
+1,10:13.0,,Defensive rebound by A. Drummond,2,2
+1,10:05.0,,A. Drummond makes 2-pt hook shot from 6 ft (assist by B. Griffin),2,4
+1,9:56.0,K. Irving makes 3-pt jump shot from 31 ft,,5,4
+1,9:39.0,,Personal foul by J. Tatum (drawn by B. Griffin),5,4
+1,9:23.0,,B. Griffin misses 2-pt jump shot from 19 ft,5,4
+1,9:18.0,Defensive rebound by K. Irving,,5,4
+1,9:14.0,Personal foul by A. Drummond (drawn by K. Irving),,5,4
+1,9:07.0,G. Hayward misses 3-pt jump shot from 29 ft,,5,4
+1,9:03.0,,Defensive rebound by R. Bullock,5,4
+1,8:58.0,,R. Bullock misses 3-pt jump shot from 29 ft,5,4
+1,8:54.0,Defensive rebound by J. Tatum,,5,4
+1,8:44.0,J. Tatum misses 2-pt jump shot from 20 ft,,5,4
+1,8:39.0,,Defensive rebound by R. Jackson,5,4
+1,8:34.0,,R. Bullock makes 2-pt layup from 3 ft (assist by B. Griffin),5,6
+1,8:13.0,A. Horford misses 3-pt jump shot from 28 ft,,5,6
+1,8:10.0,,Defensive rebound by A. Drummond,5,6
+1,8:03.0,,R. Jackson misses 2-pt layup from 7 ft (block by A. Horford),5,6
+1,8:00.0,Defensive rebound by J. Brown,,5,6
+1,8:00.0,Shooting foul by A. Drummond (drawn by J. Brown),,5,6
+1,8:00.0,,Z. Pachulia enters the game for A. Drummond,5,6
+1,8:00.0,J. Brown makes free throw 1 of 2,,6,6
+1,8:00.0,J. Brown makes free throw 2 of 2,,7,6
+1,7:45.0,,Turnover by S. Johnson (lost ball; steal by G. Hayward),7,6
+1,7:32.0,J. Brown makes 3-pt jump shot from 28 ft (assist by K. Irving),,10,6
+1,7:16.0,,S. Johnson makes 3-pt jump shot from 24 ft (assist by R. Bullock),10,9
+1,7:01.0,A. Horford makes 2-pt hook shot from 6 ft,,12,9
+1,7:01.0,,Offensive foul by Z. Pachulia (drawn by J. Tatum),12,9
+1,7:01.0,,Turnover by Z. Pachulia (offensive foul),12,9
+1,6:53.0,,Detroit full timeout,12,9
+1,6:53.0,,L. Galloway enters the game for S. Johnson,12,9
+1,6:36.0,A. Horford misses 2-pt jump shot from 17 ft,,12,9
+1,6:34.0,,Defensive rebound by R. Bullock,12,9
+1,6:22.0,,B. Griffin misses 3-pt jump shot from 28 ft,12,9
+1,6:18.0,Defensive rebound by K. Irving,,12,9
+1,6:07.0,G. Hayward makes 3-pt jump shot from 24 ft (assist by A. Horford),,15,9
+1,5:49.0,,R. Jackson makes 2-pt jump shot from 14 ft,15,11
+1,5:40.0,A. Horford misses 3-pt jump shot from 27 ft,,15,11
+1,5:37.0,,Defensive rebound by Z. Pachulia,15,11
+1,5:32.0,,Turnover by B. Griffin (bad pass),15,11
+1,5:32.0,M. Morris enters the game for J. Tatum,,15,11
+1,5:16.0,Personal foul by R. Bullock (drawn by G. Hayward),,15,11
+1,5:09.0,A. Horford misses 3-pt jump shot from 29 ft,,15,11
+1,5:05.0,,Defensive rebound by L. Galloway,15,11
+1,4:58.0,,B. Griffin misses 3-pt jump shot from 27 ft,15,11
+1,4:55.0,Defensive rebound by K. Irving,,15,11
+1,4:48.0,Turnover by K. Irving (lost ball; steal by L. Galloway),,15,11
+1,4:42.0,,B. Griffin misses 2-pt layup from 4 ft (block by K. Irving),15,11
+1,4:40.0,Defensive rebound by G. Hayward,,15,11
+1,4:40.0,Offensive foul by G. Hayward (drawn by L. Galloway),,15,11
+1,4:40.0,Turnover by G. Hayward (offensive foul),,15,11
+1,4:40.0,M. Smart enters the game for G. Hayward,,15,11
+1,4:29.0,,R. Bullock misses 3-pt jump shot from 26 ft,15,11
+1,4:26.0,Defensive rebound by K. Irving,,15,11
+1,4:17.0,K. Irving misses 2-pt jump shot from 18 ft,,15,11
+1,4:15.0,,Defensive rebound by B. Griffin,15,11
+1,4:10.0,,L. Galloway misses 3-pt jump shot from 25 ft,15,11
+1,4:06.0,Defensive rebound by M. Smart,,15,11
+1,4:02.0,J. Brown makes 2-pt layup from 5 ft (assist by M. Smart),,17,11
+1,3:34.0,,R. Jackson misses 3-pt jump shot from 26 ft,17,11
+1,3:31.0,Defensive rebound by M. Smart,,17,11
+1,3:29.0,A. Horford makes 2-pt layup from 5 ft (assist by M. Smart),,19,11
+1,3:13.0,,Personal foul by M. Morris (drawn by L. Galloway),19,11
+1,3:13.0,,I. Smith enters the game for R. Jackson,19,11
+1,3:03.0,,Turnover by B. Griffin (traveling),19,11
+1,3:03.0,D. Theis enters the game for A. Horford,,19,11
+1,2:52.0,M. Morris makes 3-pt jump shot from 28 ft (assist by M. Smart),,22,11
+1,2:38.0,,B. Griffin misses 2-pt layup from 5 ft (block by M. Smart),22,11
+1,2:38.0,,Offensive rebound by Team,22,11
+1,2:38.0,Boston full timeout,,22,11
+1,2:38.0,Technical foul by D. Casey,,22,11
+1,2:38.0,T. Rozier enters the game for J. Brown,,22,11
+1,2:38.0,J. Tatum enters the game for K. Irving,,22,11
+1,2:38.0,,S. Johnson enters the game for B. Griffin,22,11
+1,2:38.0,M. Morris makes technical free throw,,23,11
+1,2:36.0,,L. Galloway makes 2-pt jump shot from 19 ft (assist by I. Smith),23,13
+1,2:17.0,M. Morris misses 2-pt jump shot from 12 ft,,23,13
+1,2:13.0,,Defensive rebound by I. Smith,23,13
+1,2:11.0,,L. Galloway misses 3-pt jump shot from 28 ft,23,13
+1,2:11.0,Defensive rebound by D. Theis,,23,13
+1,2:05.0,Personal foul by L. Galloway (drawn by M. Morris),,23,13
+1,1:58.0,T. Rozier misses 2-pt jump shot from 14 ft,,23,13
+1,1:52.0,Offensive rebound by D. Theis,,23,13
+1,1:50.0,D. Theis makes 2-pt layup from 2 ft,,25,13
+1,1:44.0,,R. Bullock misses 2-pt layup from 3 ft (block by J. Tatum),25,13
+1,1:44.0,Defensive rebound by D. Theis,,25,13
+1,1:32.0,J. Tatum misses 2-pt layup from 3 ft,,25,13
+1,1:27.0,,Defensive rebound by I. Smith,25,13
+1,1:26.0,,S. Johnson makes 2-pt jump shot from 10 ft,25,15
+1,1:26.0,,Shooting foul by M. Smart (drawn by S. Johnson),25,15
+1,1:26.0,,S. Johnson makes free throw 1 of 1,25,16
+1,1:10.0,M. Smart misses 2-pt jump shot from 20 ft,,25,16
+1,1:06.0,,Defensive rebound by S. Johnson,25,16
+1,1:03.0,,S. Johnson makes 2-pt layup from 5 ft,25,18
+1,0:51.0,D. Theis makes 2-pt layup from 1 ft (assist by J. Tatum),,27,18
+1,0:41.0,,R. Bullock misses 2-pt jump shot from 12 ft,27,18
+1,0:40.0,Defensive rebound by Team,,27,18
+1,0:40.0,Personal foul by R. Bullock (drawn by J. Tatum),,27,18
+1,0:40.0,J. Tatum misses free throw 1 of 2,,27,18
+1,0:40.0,Offensive rebound by Team,,27,18
+1,0:40.0,J. Tatum makes free throw 2 of 2,,28,18
+1,0:26.0,,I. Smith misses 2-pt jump shot from 10 ft,28,18
+1,0:23.0,Defensive rebound by M. Morris,,28,18
+1,0:06.0,D. Theis makes 2-pt layup from 2 ft (assist by M. Morris),,30,18
+1,0:03.0,,S. Johnson makes 3-pt jump shot from 27 ft,30,21
+1,0:00.0,M. Morris misses 3-pt jump shot from 60 ft,,30,21
+1,0:00.0,Offensive rebound by Team,,30,21
+2,11:39.0,T. Rozier makes 2-pt jump shot from 15 ft,,32,21
+2,11:18.0,,S. Johnson makes 2-pt layup from 6 ft (assist by R. Jackson),32,23
+2,11:02.0,J. Tatum misses 2-pt layup from 8 ft (block by A. Drummond),,32,23
+2,11:01.0,Offensive rebound by D. Theis,,32,23
+2,11:01.0,Shooting foul by L. Galloway (drawn by D. Theis),,32,23
+2,11:01.0,D. Theis misses free throw 1 of 2,,32,23
+2,11:01.0,Offensive rebound by Team,,32,23
+2,11:01.0,D. Theis makes free throw 2 of 2,,33,23
+2,10:44.0,,R. Jackson misses 3-pt jump shot from 26 ft,33,23
+2,10:41.0,Defensive rebound by M. Smart,,33,23
+2,10:35.0,D. Theis misses 2-pt jump shot from 11 ft,,33,23
+2,10:30.0,Offensive rebound by D. Theis,,33,23
+2,10:25.0,M. Morris makes 2-pt dunk from 2 ft (assist by D. Theis),,35,23
+2,10:13.0,,S. Johnson misses 3-pt jump shot from 26 ft,35,23
+2,10:10.0,Defensive rebound by M. Morris,,35,23
+2,9:54.0,D. Theis makes 2-pt layup from 3 ft (assist by T. Rozier),,37,23
+2,9:54.0,,Detroit full timeout,37,23
+2,9:27.0,,R. Jackson misses 2-pt jump shot from 20 ft,37,23
+2,9:24.0,Defensive rebound by M. Morris,,37,23
+2,9:20.0,T. Rozier makes 3-pt jump shot from 27 ft,,40,23
+2,9:03.0,,I. Smith makes 2-pt jump shot from 17 ft,40,25
+2,8:51.0,Personal foul by R. Jackson (drawn by J. Tatum),,40,25
+2,8:51.0,,R. Bullock enters the game for L. Galloway,40,25
+2,8:51.0,,B. Griffin enters the game for S. Johnson,40,25
+2,8:48.0,D. Theis makes 3-pt jump shot from 28 ft (assist by J. Tatum),,43,25
+2,8:38.0,Violation by Team (kicked ball),,43,25
+2,8:29.0,,I. Smith makes 2-pt layup from 3 ft,43,27
+2,8:14.0,M. Morris makes 2-pt jump shot from 15 ft (assist by J. Tatum),,45,27
+2,8:02.0,,R. Jackson makes 3-pt jump shot from 29 ft (assist by A. Drummond),45,30
+2,7:43.0,J. Tatum misses 3-pt jump shot from 23 ft,,45,30
+2,7:39.0,,Defensive rebound by I. Smith,45,30
+2,7:39.0,,Personal take foul by D. Theis (drawn by I. Smith),45,30
+2,7:39.0,G. Hayward enters the game for M. Smart,,45,30
+2,7:27.0,,B. Griffin misses 3-pt jump shot from 27 ft,45,30
+2,7:22.0,Defensive rebound by T. Rozier,,45,30
+2,7:12.0,Turnover by D. Theis (dbl dribble),,45,30
+2,6:54.0,,Shooting foul by M. Morris (drawn by R. Bullock),45,30
+2,6:54.0,,R. Bullock makes free throw 1 of 2,45,31
+2,6:54.0,J. Brown enters the game for J. Tatum,,45,31
+2,6:54.0,,R. Bullock misses free throw 2 of 2,45,31
+2,6:50.0,Defensive rebound by G. Hayward,,45,31
+2,6:37.0,Turnover by M. Morris (bad pass),,45,31
+2,6:24.0,,R. Jackson misses 3-pt jump shot from 29 ft,45,31
+2,6:21.0,Defensive rebound by T. Rozier,,45,31
+2,6:14.0,Shooting foul by I. Smith (drawn by T. Rozier),,45,31
+2,6:14.0,,Technical foul by I. Smith,45,31
+2,6:14.0,T. Rozier makes technical free throw,,46,31
+2,6:14.0,T. Rozier makes free throw 1 of 3,,47,31
+2,6:14.0,T. Rozier makes free throw 2 of 3,,48,31
+2,6:14.0,K. Irving enters the game for M. Morris,,48,31
+2,6:14.0,T. Rozier makes free throw 3 of 3,,49,31
+2,6:02.0,,A. Drummond misses 2-pt dunk from 2 ft,49,31
+2,5:59.0,Defensive rebound by D. Theis,,49,31
+2,5:48.0,J. Brown makes 3-pt jump shot from 27 ft,,52,31
+2,5:32.0,,R. Bullock misses 3-pt jump shot from 25 ft,52,31
+2,5:28.0,Defensive rebound by T. Rozier,,52,31
+2,5:22.0,J. Brown misses 2-pt jump shot from 18 ft,,52,31
+2,5:20.0,,Defensive rebound by A. Drummond,52,31
+2,5:06.0,,Personal foul by T. Rozier (drawn by B. Griffin),52,31
+2,5:06.0,,J. Calderón enters the game for R. Jackson,52,31
+2,4:54.0,,B. Griffin misses 3-pt jump shot from 24 ft,52,31
+2,4:50.0,Defensive rebound by T. Rozier,,52,31
+2,4:48.0,G. Hayward makes 2-pt layup from 2 ft (assist by T. Rozier),,54,31
+2,4:48.0,Shooting foul by B. Griffin (drawn by G. Hayward),,54,31
+2,4:48.0,G. Hayward misses free throw 1 of 1,,54,31
+2,4:45.0,,Defensive rebound by I. Smith,54,31
+2,4:33.0,,I. Smith misses 2-pt jump shot from 15 ft,54,31
+2,4:29.0,Defensive rebound by D. Theis,,54,31
+2,4:25.0,D. Theis makes 2-pt dunk from 6 ft (assist by G. Hayward),,56,31
+2,4:25.0,,Detroit full timeout,56,31
+2,4:06.0,,Turnover by A. Drummond (lost ball; steal by K. Irving),56,31
+2,4:03.0,Shooting foul by I. Smith (drawn by J. Brown),,56,31
+2,4:03.0,J. Brown makes free throw 1 of 2,,57,31
+2,4:03.0,J. Brown misses free throw 2 of 2,,57,31
+2,3:58.0,,Defensive rebound by B. Griffin,57,31
+2,3:49.0,,Personal foul by J. Brown (drawn by B. Griffin),57,31
+2,3:34.0,,J. Calderón misses 3-pt jump shot from 27 ft,57,31
+2,3:30.0,Defensive rebound by K. Irving,,57,31
+2,3:26.0,Turnover by J. Brown (traveling),,57,31
+2,3:26.0,M. Smart enters the game for T. Rozier,,57,31
+2,3:11.0,,B. Griffin makes 2-pt layup from 4 ft,57,33
+2,3:11.0,Violation by Team (def goaltending),,57,33
+2,2:55.0,Offensive foul by D. Theis (drawn by R. Bullock),,57,33
+2,2:55.0,Turnover by D. Theis (offensive foul),,57,33
+2,2:55.0,A. Horford enters the game for G. Hayward,,57,33
+2,2:55.0,M. Morris enters the game for D. Theis,,57,33
+2,2:40.0,,Personal foul by J. Brown (drawn by B. Griffin),57,33
+2,2:40.0,,B. Griffin misses free throw 1 of 2,57,33
+2,2:40.0,,Offensive rebound by Team,57,33
+2,2:40.0,,S. Johnson enters the game for R. Bullock,57,33
+2,2:40.0,,B. Griffin makes free throw 2 of 2,57,34
+2,2:18.0,J. Brown misses 2-pt layup from 5 ft,,57,34
+2,2:15.0,,Defensive rebound by B. Griffin,57,34
+2,2:10.0,,S. Johnson misses 3-pt jump shot from 26 ft,57,34
+2,2:04.0,Defensive rebound by A. Horford,,57,34
+2,2:00.0,J. Brown makes 3-pt jump shot from 28 ft (assist by K. Irving),,60,34
+2,1:42.0,,J. Calderón makes 3-pt jump shot from 27 ft (assist by I. Smith),60,37
+2,1:36.0,Offensive foul by J. Brown (drawn by S. Johnson),,60,37
+2,1:36.0,Turnover by J. Brown (offensive foul),,60,37
+2,1:36.0,J. Tatum enters the game for J. Brown,,60,37
+2,1:16.0,,B. Griffin misses 2-pt jump shot from 11 ft,60,37
+2,1:10.0,Defensive rebound by J. Tatum,,60,37
+2,0:57.0,M. Morris misses 2-pt jump shot from 22 ft,,60,37
+2,0:54.0,,Defensive rebound by B. Griffin,60,37
+2,0:54.0,,A. Drummond makes 2-pt layup from 1 ft (assist by B. Griffin),60,39
+2,0:32.0,J. Tatum misses 2-pt jump shot from 20 ft,,60,39
+2,0:28.0,,Defensive rebound by S. Johnson,60,39
+2,0:24.0,,A. Drummond makes 2-pt dunk from 2 ft (assist by J. Calderón),60,41
+2,0:02.0,M. Morris makes 3-pt jump shot from 30 ft (assist by K. Irving),,63,41
+2,0:01.0,,Turnover by A. Drummond (inbound),63,41
+2,0:01.0,Boston full timeout,,63,41
+2,0:01.0,G. Hayward enters the game for M. Smart,,63,41
+2,0:01.0,,B. Brown enters the game for J. Calderón,63,41
+2,0:00.0,K. Irving misses 2-pt jump shot from 20 ft,,63,41
+2,0:00.0,Offensive rebound by Team,,63,41
+3,11:42.0,G. Hayward makes 2-pt layup from 2 ft,,65,41
+3,11:18.0,,S. Johnson makes 3-pt jump shot from 27 ft (assist by R. Jackson),65,44
+3,11:05.0,A. Horford misses 3-pt jump shot from 26 ft,,65,44
+3,11:02.0,,Defensive rebound by R. Jackson,65,44
+3,11:00.0,,Shooting foul by A. Horford (drawn by A. Drummond),65,44
+3,11:00.0,,A. Drummond misses free throw 1 of 2,65,44
+3,11:00.0,,Offensive rebound by Team,65,44
+3,11:00.0,,A. Drummond makes free throw 2 of 2,65,45
+3,10:43.0,G. Hayward misses 3-pt jump shot from 27 ft,,65,45
+3,10:37.0,,Defensive rebound by R. Bullock,65,45
+3,10:30.0,,A. Drummond misses 2-pt hook shot from 6 ft,65,45
+3,10:28.0,Defensive rebound by A. Horford,,65,45
+3,10:23.0,G. Hayward makes 3-pt jump shot from 28 ft (assist by K. Irving),,68,45
+3,10:00.0,,A. Drummond misses 2-pt hook shot from 5 ft,68,45
+3,9:57.0,Defensive rebound by A. Horford,,68,45
+3,9:45.0,J. Brown misses 3-pt jump shot from 26 ft,,68,45
+3,9:41.0,,Defensive rebound by R. Bullock,68,45
+3,9:29.0,,B. Griffin misses 2-pt layup from 6 ft,68,45
+3,9:22.0,,Offensive rebound by A. Drummond,68,45
+3,9:22.0,,A. Drummond makes 2-pt layup from 1 ft,68,47
+3,9:15.0,Personal foul by R. Jackson (drawn by G. Hayward),,68,47
+3,9:10.0,Turnover by A. Horford (traveling),,68,47
+3,8:56.0,,B. Griffin misses 2-pt layup from 3 ft,68,47
+3,8:52.0,Defensive rebound by K. Irving,,68,47
+3,8:49.0,J. Brown makes 2-pt layup from 3 ft (assist by K. Irving),,70,47
+3,8:42.0,,R. Bullock makes 3-pt jump shot from 28 ft (assist by R. Jackson),70,50
+3,8:23.0,K. Irving misses 2-pt jump shot from 12 ft,,70,50
+3,8:21.0,,Defensive rebound by R. Jackson,70,50
+3,8:15.0,,Personal foul by A. Horford (drawn by A. Drummond),70,50
+3,8:05.0,,Turnover by S. Johnson (bad pass; steal by J. Brown),70,50
+3,8:01.0,Shooting foul by R. Bullock (drawn by J. Brown),,70,50
+3,8:01.0,J. Brown misses free throw 1 of 2,,70,50
+3,8:01.0,Offensive rebound by Team,,70,50
+3,8:01.0,J. Brown makes free throw 2 of 2,,71,50
+3,7:48.0,,R. Bullock misses 3-pt jump shot from 24 ft,71,50
+3,7:47.0,Defensive rebound by Team,,71,50
+3,7:39.0,Personal foul by R. Jackson (drawn by K. Irving),,71,50
+3,7:39.0,Offensive foul by G. Hayward (drawn by B. Griffin),,71,50
+3,7:39.0,Turnover by G. Hayward (offensive foul),,71,50
+3,7:28.0,,R. Jackson makes 2-pt layup from 5 ft,71,52
+3,7:15.0,Offensive foul by K. Irving (drawn by R. Jackson),,71,52
+3,7:15.0,Turnover by K. Irving (offensive foul),,71,52
+3,7:05.0,,Def 3 sec tech foul by Team,71,52
+3,7:05.0,,R. Jackson makes technical free throw,71,53
+3,6:54.0,,S. Johnson misses 3-pt jump shot from 29 ft,71,53
+3,6:50.0,Defensive rebound by G. Hayward,,71,53
+3,6:44.0,J. Tatum makes 2-pt jump shot from 16 ft (assist by J. Brown),,73,53
+3,6:38.0,,Personal foul by G. Hayward (drawn by B. Griffin),73,53
+3,6:38.0,,Detroit full timeout,73,53
+3,6:38.0,M. Morris enters the game for G. Hayward,,73,53
+3,6:33.0,,Personal foul by A. Horford (drawn by A. Drummond),73,53
+3,6:25.0,,Turnover by A. Drummond (lost ball; steal by A. Horford),73,53
+3,6:19.0,K. Irving misses 2-pt jump shot from 10 ft,,73,53
+3,6:16.0,Offensive rebound by A. Horford,,73,53
+3,6:10.0,J. Brown misses 3-pt jump shot from 25 ft,,73,53
+3,6:06.0,,Defensive rebound by B. Griffin,73,53
+3,5:57.0,,A. Drummond makes 2-pt hook shot from 6 ft,73,55
+3,5:37.0,M. Morris misses 3-pt jump shot from 29 ft,,73,55
+3,5:34.0,,Defensive rebound by R. Jackson,73,55
+3,5:28.0,,R. Jackson misses 2-pt layup from 6 ft,73,55
+3,5:25.0,Defensive rebound by K. Irving,,73,55
+3,5:16.0,J. Brown misses 3-pt jump shot from 28 ft,,73,55
+3,5:11.0,,Defensive rebound by R. Bullock,73,55
+3,5:06.0,,A. Drummond makes 2-pt jump shot from 14 ft (assist by R. Jackson),73,57
+3,4:36.0,J. Tatum makes 3-pt jump shot from 27 ft,,76,57
+3,4:16.0,,B. Griffin misses 2-pt jump shot from 5 ft,76,57
+3,4:13.0,Defensive rebound by M. Morris,,76,57
+3,4:09.0,Personal foul by A. Drummond (drawn by A. Horford),,76,57
+3,4:09.0,T. Rozier enters the game for J. Brown,,76,57
+3,4:09.0,M. Smart enters the game for K. Irving,,76,57
+3,4:09.0,,L. Galloway enters the game for R. Bullock,76,57
+3,4:09.0,,Z. Pachulia enters the game for A. Drummond,76,57
+3,4:09.0,,I. Smith enters the game for R. Jackson,76,57
+3,3:58.0,A. Horford misses 3-pt jump shot from 23 ft,,76,57
+3,3:54.0,,Defensive rebound by S. Johnson,76,57
+3,3:49.0,,L. Galloway misses 3-pt jump shot from 24 ft,76,57
+3,3:47.0,,Offensive rebound by Z. Pachulia,76,57
+3,3:47.0,,Personal foul by T. Rozier (drawn by Z. Pachulia),76,57
+3,3:47.0,,Z. Pachulia makes free throw 1 of 2,76,58
+3,3:47.0,,Z. Pachulia makes free throw 2 of 2,76,59
+3,3:29.0,J. Tatum misses 2-pt jump shot from 18 ft,,76,59
+3,3:25.0,,Defensive rebound by Z. Pachulia,76,59
+3,3:21.0,,Turnover by B. Griffin (bad pass),76,59
+3,3:10.0,Personal foul by L. Galloway (drawn by M. Smart),,76,59
+3,3:10.0,M. Smart makes free throw 1 of 2,,77,59
+3,3:10.0,D. Theis enters the game for A. Horford,,77,59
+3,3:10.0,M. Smart makes free throw 2 of 2,,78,59
+3,2:56.0,,L. Galloway misses 3-pt jump shot from 25 ft,78,59
+3,2:54.0,Defensive rebound by T. Rozier,,78,59
+3,2:44.0,T. Rozier misses 3-pt jump shot from 27 ft,,78,59
+3,2:41.0,,Defensive rebound by L. Galloway,78,59
+3,2:35.0,,I. Smith makes 2-pt layup from 4 ft,78,61
+3,2:35.0,Boston full timeout,,78,61
+3,2:35.0,G. Hayward enters the game for J. Tatum,,78,61
+3,2:35.0,,B. Brown enters the game for S. Johnson,78,61
+3,2:24.0,Personal foul by B. Brown (drawn by G. Hayward),,78,61
+3,2:24.0,G. Hayward makes free throw 1 of 2,,79,61
+3,2:24.0,G. Hayward misses free throw 2 of 2,,79,61
+3,2:23.0,,Defensive rebound by Z. Pachulia,79,61
+3,2:02.0,,B. Brown misses 3-pt jump shot from 23 ft,79,61
+3,2:00.0,Defensive rebound by M. Morris,,79,61
+3,1:58.0,G. Hayward misses 2-pt jump shot from 12 ft,,79,61
+3,1:55.0,,Defensive rebound by L. Galloway,79,61
+3,1:52.0,,B. Griffin makes 2-pt layup from 6 ft,79,63
+3,1:28.0,D. Theis makes 3-pt jump shot from 26 ft (assist by M. Smart),,82,63
+3,1:18.0,,I. Smith makes 2-pt jump shot from 7 ft,82,65
+3,0:55.0,D. Theis misses 3-pt jump shot from 26 ft,,82,65
+3,0:52.0,Offensive rebound by M. Morris,,82,65
+3,0:50.0,M. Morris makes 2-pt layup from 3 ft,,84,65
+3,0:43.0,,Shooting foul by M. Morris (drawn by B. Griffin),84,65
+3,0:43.0,,B. Griffin makes free throw 1 of 2,84,66
+3,0:43.0,,B. Griffin makes free throw 2 of 2,84,67
+3,0:32.0,M. Smart misses 2-pt layup from 7 ft (block by L. Galloway),,84,67
+3,0:28.0,,Defensive rebound by Z. Pachulia,84,67
+3,0:24.0,,I. Smith misses 2-pt layup from 3 ft,84,67
+3,0:22.0,Defensive rebound by G. Hayward,,84,67
+3,0:03.0,T. Rozier misses 2-pt jump shot from 20 ft,,84,67
+3,0:03.0,,Defensive rebound by B. Griffin,84,67
+4,11:48.0,,R. Jackson misses 3-pt jump shot from 29 ft,84,67
+4,11:40.0,,Offensive rebound by A. Drummond,84,67
+4,11:40.0,,A. Drummond makes 2-pt layup from 1 ft,84,69
+4,11:26.0,M. Morris makes 3-pt jump shot from 27 ft (assist by M. Smart),,87,69
+4,11:05.0,,Personal foul by M. Smart (drawn by S. Johnson),87,69
+4,11:05.0,J. Tatum enters the game for G. Hayward,,87,69
+4,10:55.0,,R. Jackson misses 3-pt jump shot from 27 ft,87,69
+4,10:53.0,,Offensive rebound by Team,87,69
+4,10:53.0,Loose ball foul by D. Theis (drawn by A. Drummond),,87,69
+4,10:49.0,,Shooting foul by D. Theis (drawn by A. Drummond),87,69
+4,10:49.0,,A. Drummond misses free throw 1 of 2,87,69
+4,10:49.0,,Offensive rebound by Team,87,69
+4,10:49.0,,A. Drummond makes free throw 2 of 2,87,70
+4,10:38.0,M. Smart makes 2-pt jump shot from 7 ft,,89,70
+4,10:38.0,Shooting foul by A. Drummond (drawn by M. Smart),,89,70
+4,10:38.0,M. Smart makes free throw 1 of 1,,90,70
+4,10:23.0,,L. Galloway misses 3-pt jump shot from 27 ft,90,70
+4,10:23.0,Defensive rebound by D. Theis,,90,70
+4,10:03.0,M. Morris makes 2-pt hook shot from 7 ft,,92,70
+4,9:46.0,,S. Johnson misses 3-pt jump shot from 24 ft,92,70
+4,9:46.0,Defensive rebound by J. Tatum,,92,70
+4,9:30.0,J. Tatum misses 2-pt jump shot from 21 ft,,92,70
+4,9:26.0,,Defensive rebound by A. Drummond,92,70
+4,9:20.0,,I. Smith misses 3-pt jump shot from 26 ft,92,70
+4,9:17.0,Defensive rebound by M. Morris,,92,70
+4,9:04.0,T. Rozier makes 3-pt jump shot from 24 ft (assist by M. Smart),,95,70
+4,8:59.0,,Detroit full timeout,95,70
+4,8:59.0,,B. Brown enters the game for L. Galloway,95,70
+4,8:59.0,,G. Robinson enters the game for R. Jackson,95,70
+4,8:48.0,,G. Robinson makes 2-pt jump shot from 18 ft (assist by S. Johnson),95,72
+4,8:29.0,M. Morris misses 3-pt jump shot from 22 ft,,95,72
+4,8:27.0,,Defensive rebound by A. Drummond,95,72
+4,8:13.0,,A. Drummond misses 2-pt hook shot from 6 ft,95,72
+4,8:11.0,Defensive rebound by M. Morris,,95,72
+4,7:59.0,Turnover by M. Smart (lost ball; steal by S. Johnson),,95,72
+4,7:59.0,,Turnover by S. Johnson (out of bounds lost ball),95,72
+4,7:59.0,J. Brown enters the game for M. Morris,,95,72
+4,7:59.0,G. Hayward enters the game for J. Tatum,,95,72
+4,7:59.0,R. Williams enters the game for D. Theis,,95,72
+4,7:54.0,R. Williams makes 2-pt dunk from 2 ft (assist by M. Smart),,97,72
+4,7:32.0,,I. Smith misses 3-pt jump shot from 27 ft,97,72
+4,7:31.0,,Offensive rebound by B. Brown,97,72
+4,7:31.0,,Shooting foul by M. Smart (drawn by B. Brown),97,72
+4,7:31.0,,B. Brown makes free throw 1 of 2,97,73
+4,7:31.0,,H. Ellenson enters the game for S. Johnson,97,73
+4,7:31.0,,B. Brown makes free throw 2 of 2,97,74
+4,7:14.0,Personal foul by B. Brown (drawn by M. Smart),,97,74
+4,7:04.0,J. Brown misses 3-pt jump shot from 26 ft,,97,74
+4,6:59.0,Offensive rebound by R. Williams,,97,74
+4,6:56.0,Turnover by G. Hayward (bad pass; steal by B. Brown),,97,74
+4,6:47.0,,Offensive foul by B. Brown (drawn by M. Smart),97,74
+4,6:47.0,,Turnover by B. Brown (offensive foul),97,74
+4,6:26.0,G. Hayward misses 2-pt layup from 4 ft (block by A. Drummond),,97,74
+4,6:25.0,Offensive rebound by R. Williams,,97,74
+4,6:25.0,Personal foul by I. Smith (drawn by R. Williams),,97,74
+4,6:25.0,,J. Leuer enters the game for A. Drummond,97,74
+4,6:18.0,T. Rozier makes 2-pt dunk from 3 ft,,99,74
+4,5:56.0,,H. Ellenson misses 3-pt jump shot from 29 ft,99,74
+4,5:53.0,Defensive rebound by T. Rozier,,99,74
+4,5:43.0,G. Hayward makes 2-pt layup from 5 ft (assist by M. Smart),,101,74
+4,5:24.0,,H. Ellenson misses 2-pt layup from 4 ft,101,74
+4,5:24.0,Defensive rebound by M. Smart,,101,74
+4,5:20.0,J. Brown makes 2-pt layup from 4 ft (assist by M. Smart),,103,74
+4,5:15.0,,Detroit full timeout,103,74
+4,5:15.0,S. Ojeleye enters the game for J. Brown,,103,74
+4,5:15.0,B. Wanamaker enters the game for G. Hayward,,103,74
+4,5:15.0,G. Yabusele enters the game for M. Smart,,103,74
+4,5:15.0,,J. Calderón enters the game for I. Smith,103,74
+4,5:04.0,,G. Robinson misses 3-pt jump shot from 27 ft (block by R. Williams),103,74
+4,5:00.0,Defensive rebound by G. Yabusele,,103,74
+4,4:46.0,T. Rozier misses 2-pt jump shot from 22 ft,,103,74
+4,4:42.0,,Defensive rebound by H. Ellenson,103,74
+4,4:34.0,,G. Robinson misses 2-pt layup from 6 ft (block by R. Williams),103,74
+4,4:34.0,,Offensive rebound by Team,103,74
+4,4:23.0,,B. Brown makes 2-pt layup from 6 ft,103,76
+4,4:04.0,S. Ojeleye misses 2-pt jump shot from 14 ft,,103,76
+4,4:04.0,,Defensive rebound by J. Leuer,103,76
+4,3:53.0,,Personal foul by S. Ojeleye (drawn by J. Leuer),103,76
+4,3:53.0,,J. Leuer makes free throw 1 of 2,103,77
+4,3:53.0,,J. Leuer makes free throw 2 of 2,103,78
+4,3:42.0,B. Wanamaker makes 2-pt jump shot from 22 ft,,105,78
+4,3:17.0,,G. Robinson misses 2-pt jump shot from 11 ft,105,78
+4,3:17.0,Defensive rebound by T. Rozier,,105,78
+4,3:09.0,B. Wanamaker misses 2-pt jump shot from 19 ft,,105,78
+4,3:06.0,,Defensive rebound by H. Ellenson,105,78
+4,3:03.0,,Shooting foul by R. Williams (drawn by H. Ellenson),105,78
+4,3:03.0,,H. Ellenson makes free throw 1 of 2,105,79
+4,3:03.0,,H. Ellenson makes free throw 2 of 2,105,80
+4,2:51.0,Personal foul by J. Calderón (drawn by B. Wanamaker),,105,80
+4,2:43.0,G. Yabusele makes 2-pt layup from 3 ft (assist by R. Williams),,107,80
+4,2:26.0,,G. Robinson misses 2-pt layup from 4 ft (block by R. Williams),107,80
+4,2:26.0,Defensive rebound by T. Rozier,,107,80
+4,2:22.0,Shooting foul by H. Ellenson (drawn by S. Ojeleye),,107,80
+4,2:22.0,S. Ojeleye misses free throw 1 of 2,,107,80
+4,2:22.0,Offensive rebound by Team,,107,80
+4,2:22.0,S. Ojeleye misses free throw 2 of 2,,107,80
+4,2:18.0,,Defensive rebound by B. Brown,107,80
+4,2:03.0,,H. Ellenson misses 2-pt layup from 5 ft,107,80
+4,2:00.0,,Offensive rebound by G. Robinson,107,80
+4,1:58.0,,B. Brown misses 3-pt jump shot from 28 ft,107,80
+4,1:54.0,Defensive rebound by G. Yabusele,,107,80
+4,1:41.0,G. Yabusele misses 2-pt hook shot from 10 ft,,107,80
+4,1:36.0,Offensive rebound by G. Yabusele,,107,80
+4,1:35.0,S. Ojeleye misses 3-pt jump shot from 26 ft,,107,80
+4,1:35.0,,Defensive rebound by H. Ellenson,107,80
+4,1:26.0,,J. Leuer makes 2-pt dunk at rim (assist by B. Brown),107,82
+4,1:19.0,Shooting foul by J. Calderón (drawn by B. Wanamaker),,107,82
+4,1:19.0,B. Wanamaker makes free throw 1 of 2,,108,82
+4,1:19.0,B. Wanamaker makes free throw 2 of 2,,109,82
+4,1:00.0,,H. Ellenson makes 3-pt jump shot from 28 ft,109,85
+4,0:49.0,B. Wanamaker misses 3-pt jump shot from 26 ft,,109,85
+4,0:45.0,,Defensive rebound by G. Robinson,109,85
+4,0:41.0,,B. Brown makes 2-pt layup from 1 ft,109,87
+4,0:24.0,Turnover by B. Wanamaker (bad pass; steal by B. Brown),,109,87
+4,0:19.0,,B. Brown misses 2-pt layup from 3 ft,109,87
+4,0:15.0,,Offensive rebound by J. Calderón,109,87
+4,0:09.0,,H. Ellenson makes 2-pt jump shot from 18 ft (assist by J. Calderón),109,89

@@ -1,0 +1,513 @@
+QUARTER,TIME_REMAINING,CHARLOTTE_ACTION,PHILADELPHIA_ACTION,CHARLOTTE_SCORE,PHILADELPHIA_SCORE
+1,11:41.0,,R. Covington misses 2-pt jump shot from 15 ft,0,0
+1,11:39.0,Defensive rebound by Team,,0,0
+1,11:24.0,J. Lamb misses 3-pt jump shot from 26 ft,,0,0
+1,11:20.0,,Defensive rebound by B. Simmons,0,0
+1,11:04.0,,B. Simmons misses 2-pt hook shot from 6 ft,0,0
+1,11:01.0,Defensive rebound by M. Williams,,0,0
+1,10:58.0,Turnover by K. Walker (bad pass),,0,0
+1,10:44.0,,J. Embiid makes 2-pt hook shot from 3 ft (assist by D. Šarić),0,2
+1,10:30.0,J. Lamb makes 2-pt jump shot from 12 ft,,2,2
+1,10:30.0,Shooting foul by M. Fultz (drawn by J. Lamb),,2,2
+1,10:30.0,J. Lamb makes free throw 1 of 1,,3,2
+1,10:21.0,,B. Simmons makes 2-pt layup from 4 ft,3,4
+1,10:00.0,M. Williams misses 2-pt hook shot from 5 ft,,3,4
+1,9:59.0,Offensive rebound by C. Zeller,,3,4
+1,9:58.0,C. Zeller misses 2-pt layup at rim,,3,4
+1,9:57.0,Offensive rebound by Team,,3,4
+1,9:52.0,K. Walker makes 3-pt jump shot from 26 ft (assist by M. Williams),,6,4
+1,9:34.0,,M. Fultz misses 2-pt jump shot from 16 ft,6,4
+1,9:34.0,Defensive rebound by Team,,6,4
+1,9:24.0,K. Walker makes 2-pt jump shot from 16 ft,,8,4
+1,9:15.0,,B. Simmons misses 2-pt layup from 6 ft,8,4
+1,9:10.0,Defensive rebound by M. Williams,,8,4
+1,8:50.0,N. Batum misses 3-pt jump shot from 24 ft,,8,4
+1,8:36.0,,Defensive rebound by D. Šarić,8,4
+1,8:35.0,,R. Covington makes 3-pt jump shot from 26 ft (assist by M. Fultz),8,7
+1,8:15.0,J. Lamb makes 3-pt jump shot from 26 ft,,11,7
+1,8:03.0,,Turnover by J. Embiid (offensive foul),11,7
+1,8:03.0,,Offensive foul by J. Embiid (drawn by C. Zeller),11,7
+1,7:48.0,K. Walker misses 3-pt jump shot from 30 ft,,11,7
+1,7:43.0,,Defensive rebound by M. Fultz,11,7
+1,7:40.0,,M. Fultz makes 2-pt layup from 3 ft,11,9
+1,7:33.0,Personal foul by R. Covington (drawn by K. Walker),,11,9
+1,7:33.0,M. Kidd-Gilchrist enters the game for M. Williams,,11,9
+1,7:33.0,,A. Johnson enters the game for J. Embiid,11,9
+1,7:33.0,,J. Redick enters the game for M. Fultz,11,9
+1,7:28.0,N. Batum makes 2-pt jump shot from 20 ft,,13,9
+1,7:09.0,,B. Simmons misses 2-pt jump shot from 10 ft,13,9
+1,7:07.0,,Offensive rebound by D. Šarić,13,9
+1,7:05.0,,D. Šarić makes 2-pt layup from 2 ft,13,11
+1,7:00.0,Charlotte full timeout,,13,11
+1,6:53.0,J. Lamb misses 2-pt layup from 4 ft,,13,11
+1,6:53.0,Offensive rebound by Team,,13,11
+1,6:47.0,N. Batum misses 2-pt layup from 2 ft,,13,11
+1,6:45.0,,Defensive rebound by R. Covington,13,11
+1,6:40.0,,D. Šarić makes 3-pt jump shot from 25 ft (assist by B. Simmons),13,14
+1,6:27.0,Personal foul by A. Johnson (drawn by C. Zeller),,13,14
+1,6:27.0,M. Bridges enters the game for N. Batum,,13,14
+1,6:25.0,Turnover by M. Bridges (bad pass; steal by B. Simmons),,13,14
+1,6:23.0,,R. Covington makes 2-pt layup from 1 ft (assist by B. Simmons),13,16
+1,6:23.0,Violation by Team (def goaltending),,13,16
+1,6:04.0,K. Walker makes 2-pt layup from 2 ft,,15,16
+1,5:54.0,,B. Simmons misses 2-pt layup from 3 ft,15,16
+1,5:49.0,Defensive rebound by K. Walker,,15,16
+1,5:45.0,K. Walker misses 2-pt layup from 3 ft (block by R. Covington),,15,16
+1,5:45.0,Offensive rebound by Team,,15,16
+1,5:41.0,J. Lamb misses 2-pt jump shot from 8 ft,,15,16
+1,5:39.0,Offensive rebound by C. Zeller,,15,16
+1,5:39.0,Personal foul by A. Johnson (drawn by C. Zeller),,15,16
+1,5:31.0,K. Walker makes 2-pt jump shot from 18 ft,,17,16
+1,5:11.0,,D. Šarić makes 2-pt hook shot from 6 ft,17,18
+1,4:58.0,K. Walker misses 3-pt jump shot from 26 ft,,17,18
+1,4:55.0,,Defensive rebound by D. Šarić,17,18
+1,4:48.0,,J. Redick makes 3-pt jump shot from 23 ft (assist by A. Johnson),17,21
+1,4:29.0,M. Bridges makes 2-pt layup from 1 ft (assist by K. Walker),,19,21
+1,4:20.0,,Personal foul by C. Zeller (drawn by B. Simmons),19,21
+1,4:20.0,B. Biyombo enters the game for C. Zeller,,19,21
+1,4:20.0,,J. Embiid enters the game for R. Covington,19,21
+1,4:20.0,,M. Fultz enters the game for A. Johnson,19,21
+1,4:20.0,,T. McConnell enters the game for D. Šarić,19,21
+1,4:20.0,,M. Muscala enters the game for B. Simmons,19,21
+1,4:11.0,,J. Redick misses 2-pt jump shot from 20 ft,19,21
+1,4:06.0,Defensive rebound by K. Walker,,19,21
+1,4:03.0,K. Walker misses 3-pt jump shot from 26 ft,,19,21
+1,4:00.0,,Defensive rebound by J. Embiid,19,21
+1,3:51.0,,J. Redick makes 3-pt jump shot from 25 ft,19,24
+1,3:35.0,K. Walker makes 2-pt layup from 2 ft,,21,24
+1,3:33.0,,Philadelphia full timeout,21,24
+1,3:33.0,M. Monk enters the game for J. Lamb,,21,24
+1,3:18.0,,Turnover by M. Fultz (out of bounds lost ball),21,24
+1,3:09.0,M. Kidd-Gilchrist makes 2-pt layup from 3 ft (assist by K. Walker),,23,24
+1,2:57.0,,J. Embiid makes 2-pt dunk from 2 ft,23,26
+1,2:34.0,B. Biyombo misses 2-pt hook shot from 9 ft,,23,26
+1,2:32.0,,Defensive rebound by M. Muscala,23,26
+1,2:22.0,,J. Embiid makes 2-pt layup from 2 ft (assist by M. Fultz),23,28
+1,2:08.0,K. Walker misses 3-pt jump shot from 27 ft,,23,28
+1,2:06.0,,Defensive rebound by J. Embiid,23,28
+1,1:56.0,,Personal foul by M. Kidd-Gilchrist (drawn by M. Fultz),23,28
+1,1:56.0,D. Graham enters the game for K. Walker,,23,28
+1,1:51.0,,Shooting foul by M. Monk (drawn by M. Fultz),23,28
+1,1:51.0,,M. Fultz makes free throw 1 of 2,23,29
+1,1:51.0,,M. Fultz makes free throw 2 of 2,23,30
+1,1:35.0,M. Monk misses 2-pt jump shot from 22 ft,,23,30
+1,1:34.0,,Defensive rebound by Team,23,30
+1,1:34.0,Loose ball foul by B. Biyombo (drawn by M. Muscala),,23,30
+1,1:34.0,,M. Muscala makes free throw 1 of 2,23,31
+1,1:34.0,,M. Muscala makes free throw 2 of 2,23,32
+1,1:20.0,M. Kidd-Gilchrist misses 2-pt layup from 3 ft,,23,32
+1,1:19.0,Offensive rebound by Team,,23,32
+1,1:15.0,D. Graham makes 3-pt jump shot from 26 ft,,26,32
+1,0:49.0,,T. McConnell misses 2-pt layup from 2 ft,26,32
+1,0:47.0,Defensive rebound by M. Kidd-Gilchrist,,26,32
+1,0:30.0,M. Monk misses 3-pt jump shot from 24 ft,,26,32
+1,0:27.0,Offensive rebound by M. Monk,,26,32
+1,0:21.0,Shooting foul by M. Muscala (drawn by M. Monk),,26,32
+1,0:21.0,M. Monk makes free throw 1 of 2,,27,32
+1,0:21.0,M. Monk makes free throw 2 of 2,,28,32
+1,0:02.0,,J. Embiid misses 3-pt jump shot from 26 ft,28,32
+1,0:00.0,Defensive rebound by D. Graham,,28,32
+1,0:00.0,D. Graham misses 3-pt jump shot from 57 ft,,28,32
+1,0:00.0,Offensive rebound by Team,,28,32
+2,11:45.0,M. Monk misses 3-pt jump shot from 26 ft,,28,32
+2,11:41.0,,Defensive rebound by J. Embiid,28,32
+2,11:36.0,,M. Muscala misses 3-pt jump shot from 26 ft,28,32
+2,11:30.0,,Offensive rebound by M. Fultz,28,32
+2,11:30.0,,M. Fultz misses 2-pt layup from 1 ft,28,32
+2,11:30.0,Defensive rebound by M. Kidd-Gilchrist,,28,32
+2,11:28.0,D. Graham makes 2-pt layup from 3 ft (assist by M. Kidd-Gilchrist),,30,32
+2,11:07.0,,J. Embiid makes 2-pt dunk at rim (assist by M. Fultz),30,34
+2,10:54.0,M. Bridges makes 3-pt jump shot from 23 ft (assist by D. Graham),,33,34
+2,10:52.0,,Philadelphia full timeout,33,34
+2,10:52.0,M. Williams enters the game for M. Kidd-Gilchrist,,33,34
+2,10:28.0,,J. Embiid makes 2-pt hook shot from 6 ft,33,36
+2,10:11.0,B. Biyombo makes 2-pt layup from 1 ft (assist by M. Monk),,35,36
+2,10:11.0,Shooting foul by J. Embiid (drawn by B. Biyombo),,35,36
+2,10:11.0,B. Biyombo misses free throw 1 of 1,,35,36
+2,10:11.0,,Defensive rebound by M. Muscala,35,36
+2,9:57.0,,L. Shamet makes 3-pt jump shot from 25 ft (assist by J. Embiid),35,39
+2,9:57.0,,Shooting foul by D. Graham (drawn by L. Shamet),35,39
+2,9:57.0,,L. Shamet makes free throw 1 of 1,35,40
+2,9:44.0,M. Monk misses 3-pt jump shot from 26 ft,,35,40
+2,9:40.0,Offensive rebound by B. Biyombo,,35,40
+2,9:32.0,M. Monk makes 2-pt jump shot from 20 ft,,37,40
+2,9:19.0,,Personal foul by M. Monk (drawn by L. Shamet),37,40
+2,9:19.0,C. Zeller enters the game for B. Biyombo,,37,40
+2,9:16.0,,L. Shamet misses 2-pt layup from 2 ft,37,40
+2,9:14.0,Defensive rebound by C. Zeller,,37,40
+2,9:06.0,M. Monk misses 2-pt layup from 3 ft (block by J. Embiid),,37,40
+2,9:04.0,,Defensive rebound by M. Fultz,37,40
+2,8:59.0,,M. Fultz makes 2-pt layup from 2 ft,37,42
+2,8:50.0,Turnover by C. Zeller (out of bounds lost ball),,37,42
+2,8:36.0,,J. Embiid misses 3-pt jump shot from 26 ft,37,42
+2,8:31.0,Defensive rebound by M. Bridges,,37,42
+2,8:21.0,M. Williams makes 2-pt jump shot from 10 ft (assist by M. Monk),,39,42
+2,8:08.0,,M. Fultz misses 2-pt jump shot from 19 ft,39,42
+2,8:05.0,Defensive rebound by C. Zeller,,39,42
+2,8:02.0,D. Graham misses 3-pt jump shot from 26 ft,,39,42
+2,8:00.0,,Defensive rebound by R. Covington,39,42
+2,7:46.0,,Shooting foul by C. Zeller (drawn by J. Embiid),39,42
+2,7:46.0,,J. Embiid makes free throw 1 of 2,39,43
+2,7:46.0,N. Batum enters the game for M. Bridges,,39,43
+2,7:46.0,J. Lamb enters the game for M. Monk,,39,43
+2,7:46.0,,D. Šarić enters the game for M. Fultz,39,43
+2,7:46.0,,B. Simmons enters the game for M. Muscala,39,43
+2,7:46.0,,J. Embiid makes free throw 2 of 2,39,44
+2,7:24.0,D. Graham makes 2-pt jump shot from 21 ft,,41,44
+2,7:21.0,,R. Covington misses 3-pt jump shot from 26 ft,41,44
+2,7:12.0,Defensive rebound by M. Williams,,41,44
+2,7:08.0,Turnover by D. Graham (bad pass; steal by R. Covington),,41,44
+2,7:05.0,,R. Covington makes 2-pt dunk at rim,41,46
+2,7:05.0,Charlotte full timeout,,41,46
+2,7:05.0,M. Kidd-Gilchrist enters the game for D. Graham,,41,46
+2,7:05.0,K. Walker enters the game for C. Zeller,,41,46
+2,7:05.0,,A. Johnson enters the game for J. Embiid,41,46
+2,7:05.0,,J. Redick enters the game for L. Shamet,41,46
+2,6:51.0,Offensive foul by M. Kidd-Gilchrist (drawn by D. Šarić),,41,46
+2,6:51.0,Turnover by M. Kidd-Gilchrist (offensive foul),,41,46
+2,6:40.0,,J. Redick misses 3-pt jump shot from 25 ft,41,46
+2,6:36.0,Defensive rebound by M. Kidd-Gilchrist,,41,46
+2,6:31.0,Turnover by N. Batum (out of bounds lost ball),,41,46
+2,6:18.0,,B. Simmons misses 2-pt jump shot from 3 ft,41,46
+2,6:15.0,,Offensive rebound by D. Šarić,41,46
+2,6:14.0,,D. Šarić misses 2-pt hook shot from 6 ft,41,46
+2,6:10.0,,Offensive rebound by A. Johnson,41,46
+2,6:06.0,,Personal foul by M. Kidd-Gilchrist (drawn by J. Redick),41,46
+2,6:06.0,M. Bridges enters the game for M. Kidd-Gilchrist,,41,46
+2,6:02.0,,Personal foul by J. Lamb (drawn by A. Johnson),41,46
+2,6:02.0,,A. Johnson makes free throw 1 of 2,41,47
+2,6:02.0,,A. Johnson makes free throw 2 of 2,41,48
+2,5:48.0,K. Walker makes 2-pt jump shot from 4 ft (assist by M. Williams),,43,48
+2,5:29.0,,J. Redick misses 2-pt layup from 2 ft,43,48
+2,5:27.0,,Offensive rebound by B. Simmons,43,48
+2,5:27.0,,B. Simmons makes 2-pt layup from 1 ft,43,50
+2,5:27.0,Charlotte full timeout,,43,50
+2,5:27.0,,T. McConnell enters the game for R. Covington,43,50
+2,5:10.0,K. Walker makes 2-pt jump shot from 19 ft (assist by M. Williams),,45,50
+2,4:50.0,,Turnover by B. Simmons (dbl dribble),45,50
+2,4:31.0,K. Walker misses 2-pt jump shot from 20 ft,,45,50
+2,4:26.0,,Defensive rebound by A. Johnson,45,50
+2,4:19.0,,D. Šarić makes 2-pt layup from 3 ft (assist by T. McConnell),45,52
+2,4:05.0,Shooting foul by D. Šarić (drawn by M. Williams),,45,52
+2,4:05.0,M. Williams makes free throw 1 of 2,,46,52
+2,4:05.0,C. Zeller enters the game for M. Bridges,,46,52
+2,4:05.0,,J. Embiid enters the game for A. Johnson,46,52
+2,4:05.0,M. Williams makes free throw 2 of 2,,47,52
+2,3:53.0,,Shooting foul by N. Batum (drawn by B. Simmons),47,52
+2,3:53.0,,B. Simmons makes free throw 1 of 2,47,53
+2,3:53.0,M. Bridges enters the game for M. Williams,,47,53
+2,3:53.0,,B. Simmons makes free throw 2 of 2,47,54
+2,3:39.0,C. Zeller makes 2-pt jump shot from 10 ft (assist by K. Walker),,49,54
+2,3:27.0,,Personal foul by J. Lamb (drawn by D. Šarić),49,54
+2,3:27.0,,D. Šarić makes free throw 1 of 2,49,55
+2,3:27.0,,D. Šarić makes free throw 2 of 2,49,56
+2,3:16.0,C. Zeller makes 2-pt hook shot from 9 ft (assist by K. Walker),,51,56
+2,3:05.0,,J. Redick misses 3-pt jump shot from 25 ft,51,56
+2,3:02.0,Defensive rebound by N. Batum,,51,56
+2,2:54.0,Shooting foul by D. Šarić (drawn by K. Walker),,51,56
+2,2:54.0,K. Walker makes free throw 1 of 2,,52,56
+2,2:54.0,K. Walker makes free throw 2 of 2,,53,56
+2,2:46.0,,B. Simmons misses 2-pt jump shot from 6 ft,53,56
+2,2:38.0,,Offensive rebound by B. Simmons,53,56
+2,2:38.0,,B. Simmons makes 2-pt layup from 1 ft,53,58
+2,2:31.0,K. Walker misses 2-pt layup from 2 ft (block by T. McConnell),,53,58
+2,2:31.0,Offensive rebound by K. Walker,,53,58
+2,2:22.0,M. Bridges makes 3-pt jump shot from 27 ft (assist by N. Batum),,56,58
+2,2:06.0,,J. Embiid makes 2-pt layup from 2 ft (assist by T. McConnell),56,60
+2,2:06.0,,Shooting foul by C. Zeller (drawn by J. Embiid),56,60
+2,2:06.0,B. Biyombo enters the game for C. Zeller,,56,60
+2,2:06.0,,J. Embiid makes free throw 1 of 1,56,61
+2,1:48.0,J. Lamb misses 2-pt layup from 3 ft (block by J. Embiid),,56,61
+2,1:45.0,,Defensive rebound by D. Šarić,56,61
+2,1:37.0,,J. Redick misses 2-pt jump shot from 9 ft,56,61
+2,1:33.0,Defensive rebound by N. Batum,,56,61
+2,1:30.0,Shooting foul by B. Simmons (drawn by K. Walker),,56,61
+2,1:30.0,K. Walker makes free throw 1 of 2,,57,61
+2,1:30.0,K. Walker makes free throw 2 of 2,,58,61
+2,1:15.0,,T. McConnell makes 2-pt jump shot from 16 ft,58,63
+2,0:59.0,K. Walker misses 2-pt jump shot from 10 ft,,58,63
+2,0:56.0,,Defensive rebound by J. Embiid,58,63
+2,0:48.0,,B. Simmons misses 2-pt layup from 2 ft (block by N. Batum),58,63
+2,0:45.0,Defensive rebound by B. Biyombo,,58,63
+2,0:38.0,Turnover by K. Walker (bad pass),,58,63
+2,0:34.0,,Offensive foul by B. Simmons (drawn by J. Lamb),58,63
+2,0:34.0,,Turnover by B. Simmons (offensive foul),58,63
+2,0:34.0,M. Monk enters the game for B. Biyombo,,58,63
+2,0:34.0,M. Williams enters the game for J. Lamb,,58,63
+2,0:22.0,M. Bridges makes 3-pt jump shot from 26 ft,,61,63
+2,0:04.0,,J. Embiid misses 2-pt dunk from 1 ft,61,63
+2,0:01.0,Defensive rebound by M. Monk,,61,63
+2,0:00.0,Shooting foul by T. McConnell (drawn by M. Bridges),,61,63
+2,0:00.0,M. Bridges makes free throw 1 of 2,,62,63
+2,0:00.0,,M. Muscala enters the game for J. Redick,62,63
+2,0:00.0,M. Bridges misses free throw 2 of 2,,62,63
+2,0:00.0,,Defensive rebound by J. Embiid,62,63
+3,11:49.0,Personal foul by R. Covington (drawn by C. Zeller),,62,63
+3,11:44.0,J. Lamb makes 2-pt layup from 2 ft (assist by N. Batum),,64,63
+3,11:23.0,,B. Simmons misses 2-pt layup from 3 ft (block by N. Batum),64,63
+3,11:19.0,,Offensive rebound by B. Simmons,64,63
+3,11:18.0,,B. Simmons makes 2-pt layup from 2 ft,64,65
+3,11:01.0,C. Zeller misses 2-pt jump shot from 8 ft,,64,65
+3,11:01.0,Offensive rebound by Team,,64,65
+3,11:01.0,,Loose ball foul by J. Redick (drawn by J. Lamb),64,65
+3,10:53.0,N. Batum misses 3-pt jump shot from 25 ft,,64,65
+3,10:52.0,,Defensive rebound by R. Covington,64,65
+3,10:47.0,,Personal foul by M. Williams (drawn by D. Šarić),64,65
+3,10:39.0,,Turnover by R. Covington (bad pass),64,65
+3,10:29.0,K. Walker makes 2-pt jump shot from 11 ft,,66,65
+3,10:27.0,,Philadelphia full timeout,66,65
+3,10:16.0,,J. Redick misses 3-pt jump shot from 28 ft,66,65
+3,10:14.0,Defensive rebound by N. Batum,,66,65
+3,10:06.0,M. Williams makes 3-pt jump shot from 25 ft (assist by K. Walker),,69,65
+3,9:51.0,,J. Embiid misses 2-pt hook shot from 9 ft,69,65
+3,9:51.0,Defensive rebound by N. Batum,,69,65
+3,9:38.0,C. Zeller makes 2-pt jump shot from 7 ft (assist by J. Lamb),,71,65
+3,9:28.0,,R. Covington makes 3-pt jump shot from 25 ft (assist by J. Redick),71,68
+3,9:28.0,,Away from play foul by C. Zeller (drawn by J. Embiid),71,68
+3,9:28.0,,J. Embiid makes free throw 1 of 1,71,69
+3,9:17.0,K. Walker misses 2-pt jump shot from 13 ft,,71,69
+3,9:16.0,,Defensive rebound by B. Simmons,71,69
+3,9:09.0,,B. Simmons misses 2-pt layup from 3 ft (block by M. Williams),71,69
+3,9:02.0,,Offensive rebound by R. Covington,71,69
+3,9:01.0,,R. Covington misses 2-pt layup from 3 ft,71,69
+3,8:59.0,Defensive rebound by N. Batum,,71,69
+3,8:58.0,K. Walker misses 3-pt jump shot from 26 ft,,71,69
+3,8:58.0,,Defensive rebound by B. Simmons,71,69
+3,8:51.0,,Personal foul by M. Williams (drawn by B. Simmons),71,69
+3,8:42.0,,J. Embiid misses 2-pt layup from 5 ft,71,69
+3,8:42.0,,Offensive rebound by J. Embiid,71,69
+3,8:40.0,,J. Embiid makes 2-pt layup from 4 ft,71,71
+3,8:23.0,J. Lamb makes 2-pt jump shot from 9 ft,,73,71
+3,8:07.0,,J. Redick misses 3-pt jump shot from 26 ft,73,71
+3,8:05.0,Defensive rebound by Team,,73,71
+3,7:55.0,K. Walker misses 2-pt layup from 2 ft,,73,71
+3,7:53.0,,Defensive rebound by R. Covington,73,71
+3,7:48.0,,B. Simmons misses 2-pt layup from 3 ft,73,71
+3,7:46.0,Defensive rebound by J. Lamb,,73,71
+3,7:43.0,Shooting foul by D. Šarić (drawn by C. Zeller),,73,71
+3,7:43.0,C. Zeller makes free throw 1 of 2,,74,71
+3,7:43.0,C. Zeller makes free throw 2 of 2,,75,71
+3,7:33.0,,Turnover by B. Simmons (bad pass; steal by K. Walker),75,71
+3,7:11.0,K. Walker misses 3-pt jump shot from 26 ft,,75,71
+3,7:08.0,,Defensive rebound by R. Covington,75,71
+3,6:54.0,,R. Covington makes 3-pt jump shot from 26 ft (assist by J. Redick),75,74
+3,6:38.0,M. Williams misses 3-pt jump shot from 26 ft,,75,74
+3,6:36.0,,Defensive rebound by J. Redick,75,74
+3,6:29.0,,Personal foul by M. Williams (drawn by B. Simmons),75,74
+3,6:29.0,M. Bridges enters the game for J. Lamb,,75,74
+3,6:29.0,M. Kidd-Gilchrist enters the game for M. Williams,,75,74
+3,6:29.0,,M. Fultz enters the game for J. Embiid,75,74
+3,6:29.0,,M. Muscala enters the game for J. Redick,75,74
+3,6:29.0,,L. Shamet enters the game for D. Šarić,75,74
+3,6:14.0,,M. Fultz makes 2-pt jump shot from 13 ft,75,76
+3,5:53.0,C. Zeller makes 2-pt layup from 1 ft (assist by K. Walker),,77,76
+3,5:30.0,,B. Simmons misses 2-pt layup from 3 ft,77,76
+3,5:28.0,,Offensive rebound by B. Simmons,77,76
+3,5:28.0,,B. Simmons misses 2-pt layup at rim,77,76
+3,5:26.0,,Offensive rebound by M. Muscala,77,76
+3,5:25.0,,Turnover by M. Muscala (bad pass; steal by C. Zeller),77,76
+3,5:22.0,C. Zeller makes 2-pt dunk from 2 ft,,79,76
+3,5:09.0,,R. Covington misses 3-pt jump shot from 26 ft,79,76
+3,5:09.0,,Offensive rebound by B. Simmons,79,76
+3,5:08.0,,B. Simmons misses 2-pt layup from 3 ft (block by K. Walker),79,76
+3,5:08.0,,Offensive rebound by Team,79,76
+3,5:08.0,B. Biyombo enters the game for K. Walker,,79,76
+3,5:08.0,D. Graham enters the game for C. Zeller,,79,76
+3,5:06.0,,L. Shamet misses 3-pt jump shot from 26 ft,79,76
+3,5:02.0,Defensive rebound by B. Biyombo,,79,76
+3,4:54.0,M. Kidd-Gilchrist misses 2-pt layup from 2 ft (block by M. Muscala),,79,76
+3,4:48.0,,Defensive rebound by R. Covington,79,76
+3,4:44.0,,M. Muscala misses 3-pt jump shot from 26 ft,79,76
+3,4:41.0,Defensive rebound by B. Biyombo,,79,76
+3,4:31.0,M. Kidd-Gilchrist misses 2-pt layup from 5 ft (block by R. Covington),,79,76
+3,4:31.0,,Defensive rebound by Team,79,76
+3,4:20.0,,Personal foul by M. Bridges (drawn by B. Simmons),79,76
+3,4:20.0,,B. Simmons makes free throw 1 of 2,79,77
+3,4:20.0,,J. Embiid enters the game for R. Covington,79,77
+3,4:20.0,,T. McConnell enters the game for M. Muscala,79,77
+3,4:20.0,Charlotte full timeout,,79,77
+3,4:20.0,,B. Simmons misses free throw 2 of 2,79,77
+3,4:18.0,Defensive rebound by B. Biyombo,,79,77
+3,4:08.0,M. Kidd-Gilchrist makes 2-pt hook shot from 4 ft (assist by D. Graham),,81,77
+3,3:47.0,,M. Fultz misses 2-pt jump shot from 15 ft,81,77
+3,3:44.0,,Offensive rebound by B. Simmons,81,77
+3,3:38.0,,Turnover by J. Embiid (3 sec),81,77
+3,3:38.0,,D. Šarić enters the game for B. Simmons,81,77
+3,3:29.0,D. Graham misses 2-pt jump shot from 18 ft,,81,77
+3,3:25.0,,Defensive rebound by J. Embiid,81,77
+3,3:18.0,,Turnover by D. Šarić (lost ball; steal by M. Bridges),81,77
+3,3:14.0,M. Bridges makes 2-pt dunk at rim (assist by N. Batum),,83,77
+3,2:56.0,,J. Embiid misses 2-pt hook shot from 3 ft (block by B. Biyombo),83,77
+3,2:55.0,,Offensive rebound by Team,83,77
+3,2:55.0,M. Monk enters the game for N. Batum,,83,77
+3,2:52.0,,J. Embiid makes 3-pt jump shot from 26 ft (assist by T. McConnell),83,80
+3,2:27.0,M. Kidd-Gilchrist misses 2-pt jump shot from 18 ft,,83,80
+3,2:25.0,,Defensive rebound by J. Embiid,83,80
+3,2:13.0,,D. Šarić misses 3-pt jump shot from 24 ft,83,80
+3,2:10.0,Defensive rebound by M. Kidd-Gilchrist,,83,80
+3,2:10.0,Personal foul by D. Šarić (drawn by M. Kidd-Gilchrist),,83,80
+3,2:10.0,,R. Covington enters the game for D. Šarić,83,80
+3,2:10.0,,J. Redick enters the game for L. Shamet,83,80
+3,1:57.0,M. Monk misses 2-pt jump shot from 20 ft,,83,80
+3,1:53.0,,Defensive rebound by J. Embiid,83,80
+3,1:44.0,,J. Embiid misses 2-pt jump shot from 7 ft (block by M. Kidd-Gilchrist),83,80
+3,1:40.0,Defensive rebound by D. Graham,,83,80
+3,1:25.0,M. Monk misses 2-pt hook shot from 5 ft,,83,80
+3,1:23.0,,Defensive rebound by J. Embiid,83,80
+3,1:12.0,,Personal foul by B. Biyombo (drawn by J. Embiid),83,80
+3,1:12.0,,J. Embiid makes free throw 1 of 2,83,81
+3,1:12.0,K. Walker enters the game for D. Graham,,83,81
+3,1:12.0,,J. Embiid makes free throw 2 of 2,83,82
+3,0:57.0,M. Bridges misses 3-pt jump shot from 24 ft,,83,82
+3,0:55.0,,Defensive rebound by R. Covington,83,82
+3,0:37.0,,Turnover by J. Embiid (traveling),83,82
+3,0:37.0,M. Williams enters the game for B. Biyombo,,83,82
+3,0:27.0,Shooting foul by T. McConnell (drawn by K. Walker),,83,82
+3,0:27.0,K. Walker misses free throw 1 of 3,,83,82
+3,0:27.0,Offensive rebound by Team,,83,82
+3,0:27.0,K. Walker makes free throw 2 of 3,,84,82
+3,0:27.0,K. Walker makes free throw 3 of 3,,85,82
+3,0:27.0,B. Biyombo enters the game for M. Williams,,85,82
+3,0:03.0,,Shooting foul by B. Biyombo (drawn by R. Covington),85,82
+3,0:03.0,,R. Covington makes free throw 1 of 3,85,83
+3,0:03.0,M. Williams enters the game for B. Biyombo,,85,83
+3,0:03.0,,R. Covington misses free throw 2 of 3,85,83
+3,0:03.0,,Offensive rebound by Team,85,83
+3,0:03.0,,R. Covington misses free throw 3 of 3,85,83
+3,0:03.0,Defensive rebound by M. Williams,,85,83
+3,0:00.0,K. Walker misses 3-pt jump shot from 54 ft,,85,83
+3,0:00.0,Offensive rebound by Team,,85,83
+4,11:45.0,,J. Embiid makes 2-pt layup from 3 ft (assist by M. Muscala),85,85
+4,11:28.0,Turnover by M. Monk (bad pass; steal by M. Fultz),,85,85
+4,11:23.0,,M. Fultz makes 2-pt dunk from 1 ft,85,87
+4,11:23.0,Charlotte full timeout,,85,87
+4,11:23.0,J. Lamb enters the game for M. Monk,,85,87
+4,11:09.0,M. Kidd-Gilchrist misses 2-pt hook shot from 7 ft,,85,87
+4,11:03.0,,Defensive rebound by J. Embiid,85,87
+4,10:49.0,,J. Redick makes 2-pt jump shot from 12 ft (assist by M. Fultz),85,89
+4,10:32.0,J. Lamb makes 2-pt jump shot from 6 ft,,87,89
+4,10:08.0,,J. Embiid misses 2-pt jump shot from 13 ft,87,89
+4,10:05.0,Defensive rebound by M. Kidd-Gilchrist,,87,89
+4,10:00.0,M. Kidd-Gilchrist makes 2-pt layup from 2 ft,,89,89
+4,10:00.0,,Violation by Team (def goaltending),89,89
+4,9:42.0,,Shooting foul by M. Kidd-Gilchrist (drawn by J. Redick),89,89
+4,9:42.0,Technical foul by M. Kidd-Gilchrist,,89,89
+4,9:42.0,,J. Redick makes technical free throw,89,90
+4,9:42.0,,J. Redick makes free throw 1 of 3,89,91
+4,9:42.0,,J. Redick makes free throw 2 of 3,89,92
+4,9:42.0,K. Walker enters the game for D. Graham,,89,92
+4,9:42.0,,J. Redick makes free throw 3 of 3,89,93
+4,9:26.0,M. Bridges misses 2-pt jump shot from 11 ft,,89,93
+4,9:23.0,,Defensive rebound by M. Muscala,89,93
+4,9:14.0,,J. Redick misses 3-pt jump shot from 25 ft,89,93
+4,9:10.0,Defensive rebound by J. Lamb,,89,93
+4,9:04.0,Turnover by M. Kidd-Gilchrist (lost ball; steal by R. Covington),,89,93
+4,8:56.0,,M. Muscala misses 3-pt jump shot from 23 ft,89,93
+4,8:53.0,Defensive rebound by C. Zeller,,89,93
+4,8:46.0,Personal foul by R. Covington (drawn by C. Zeller),,89,93
+4,8:46.0,N. Batum enters the game for M. Bridges,,89,93
+4,8:38.0,K. Walker makes 3-pt jump shot from 28 ft,,92,93
+4,8:23.0,,Personal foul by M. Kidd-Gilchrist (drawn by J. Redick),92,93
+4,8:23.0,M. Williams enters the game for M. Kidd-Gilchrist,,92,93
+4,8:23.0,,D. Šarić enters the game for J. Embiid,92,93
+4,8:23.0,,B. Simmons enters the game for J. Redick,92,93
+4,8:21.0,,R. Covington misses 3-pt jump shot from 26 ft,92,93
+4,8:17.0,Defensive rebound by N. Batum,,92,93
+4,8:12.0,J. Lamb misses 2-pt layup from 1 ft,,92,93
+4,8:10.0,Offensive rebound by C. Zeller,,92,93
+4,8:07.0,K. Walker misses 2-pt layup from 2 ft (block by R. Covington),,92,93
+4,8:03.0,,Defensive rebound by R. Covington,92,93
+4,8:00.0,,D. Šarić misses 2-pt layup from 2 ft (block by M. Williams),92,93
+4,7:58.0,Defensive rebound by M. Williams,,92,93
+4,7:56.0,Shooting foul by M. Muscala (drawn by K. Walker),,92,93
+4,7:56.0,K. Walker makes free throw 1 of 2,,93,93
+4,7:56.0,K. Walker makes free throw 2 of 2,,94,93
+4,7:37.0,,M. Fultz misses 2-pt jump shot from 19 ft,94,93
+4,7:33.0,Defensive rebound by J. Lamb,,94,93
+4,7:11.0,J. Lamb misses 2-pt jump shot from 11 ft,,94,93
+4,7:09.0,,Defensive rebound by M. Muscala,94,93
+4,7:05.0,,Shooting foul by C. Zeller (drawn by R. Covington),94,93
+4,7:05.0,,R. Covington misses free throw 1 of 2,94,93
+4,7:05.0,,Offensive rebound by Team,94,93
+4,7:05.0,B. Biyombo enters the game for C. Zeller,,94,93
+4,7:05.0,,R. Covington makes free throw 2 of 2,94,94
+4,6:51.0,K. Walker misses 3-pt jump shot from 25 ft,,94,94
+4,6:48.0,,Defensive rebound by M. Fultz,94,94
+4,6:43.0,,D. Šarić misses 3-pt jump shot from 27 ft,94,94
+4,6:40.0,Defensive rebound by K. Walker,,94,94
+4,6:27.0,J. Lamb misses 2-pt jump shot from 7 ft,,94,94
+4,6:24.0,,Defensive rebound by M. Muscala,94,94
+4,6:22.0,,Philadelphia full timeout,94,94
+4,6:22.0,,J. Redick enters the game for M. Fultz,94,94
+4,6:05.0,,B. Simmons makes 2-pt layup from 3 ft (assist by M. Muscala),94,96
+4,5:46.0,K. Walker misses 3-pt jump shot from 26 ft,,94,96
+4,5:43.0,,Defensive rebound by B. Simmons,94,96
+4,5:31.0,,Personal foul by K. Walker (drawn by M. Muscala),94,96
+4,5:31.0,,J. Embiid enters the game for M. Muscala,94,96
+4,5:17.0,,B. Simmons misses 2-pt jump shot from 3 ft,94,96
+4,5:14.0,Defensive rebound by K. Walker,,94,96
+4,5:08.0,M. Williams misses 3-pt jump shot from 25 ft,,94,96
+4,5:06.0,,Defensive rebound by B. Simmons,94,96
+4,4:52.0,,Shooting foul by J. Lamb (drawn by B. Simmons),94,96
+4,4:52.0,,B. Simmons makes free throw 1 of 2,94,97
+4,4:52.0,M. Bridges enters the game for J. Lamb,,94,97
+4,4:52.0,,B. Simmons misses free throw 2 of 2,94,97
+4,4:50.0,Defensive rebound by N. Batum,,94,97
+4,4:42.0,Shooting foul by J. Embiid (drawn by K. Walker),,94,97
+4,4:42.0,K. Walker makes free throw 1 of 2,,95,97
+4,4:42.0,K. Walker makes free throw 2 of 2,,96,97
+4,4:34.0,,J. Embiid misses 2-pt layup from 4 ft (block by K. Walker),96,97
+4,4:31.0,Defensive rebound by M. Bridges,,96,97
+4,4:15.0,K. Walker misses 3-pt jump shot from 27 ft,,96,97
+4,4:13.0,,Defensive rebound by J. Embiid,96,97
+4,3:54.0,,J. Embiid misses 2-pt jump shot from 11 ft,96,97
+4,3:51.0,Defensive rebound by N. Batum,,96,97
+4,3:43.0,K. Walker misses 2-pt layup from 3 ft,,96,97
+4,3:40.0,Offensive rebound by B. Biyombo,,96,97
+4,3:38.0,M. Bridges misses 3-pt jump shot from 26 ft,,96,97
+4,3:36.0,,Defensive rebound by R. Covington,96,97
+4,3:35.0,,Philadelphia full timeout,96,97
+4,3:35.0,M. Kidd-Gilchrist enters the game for M. Williams,,96,97
+4,3:23.0,,D. Šarić misses 2-pt hook shot from 6 ft,96,97
+4,3:21.0,,Offensive rebound by J. Embiid,96,97
+4,3:19.0,,J. Embiid makes 2-pt dunk at rim,96,99
+4,3:06.0,K. Walker makes 3-pt jump shot from 27 ft (assist by N. Batum),,99,99
+4,2:42.0,,B. Simmons misses 2-pt jump shot from 18 ft,99,99
+4,2:39.0,Defensive rebound by M. Kidd-Gilchrist,,99,99
+4,2:17.0,K. Walker misses 3-pt jump shot from 25 ft,,99,99
+4,2:14.0,Offensive rebound by N. Batum,,99,99
+4,2:12.0,N. Batum misses 2-pt layup from 2 ft,,99,99
+4,2:12.0,,Defensive rebound by D. Šarić,99,99
+4,2:03.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by J. Embiid),99,102
+4,2:00.0,Charlotte full timeout,,99,102
+4,2:00.0,C. Zeller enters the game for B. Biyombo,,99,102
+4,1:49.0,K. Walker makes 2-pt layup from 2 ft,,101,102
+4,1:44.0,,R. Covington makes 3-pt jump shot from 26 ft (assist by B. Simmons),101,105
+4,1:32.0,K. Walker misses 3-pt jump shot from 25 ft,,101,105
+4,1:29.0,,Defensive rebound by J. Embiid,101,105
+4,1:13.0,,J. Embiid misses 3-pt jump shot from 26 ft,101,105
+4,1:10.0,Defensive rebound by K. Walker,,101,105
+4,1:07.0,M. Bridges misses 3-pt jump shot from 24 ft,,101,105
+4,1:05.0,,Defensive rebound by B. Simmons,101,105
+4,0:52.0,,Turnover by B. Simmons (offensive foul),101,105
+4,0:52.0,,Offensive foul by B. Simmons (drawn by M. Kidd-Gilchrist),101,105
+4,0:52.0,J. Lamb enters the game for M. Bridges,,101,105
+4,0:52.0,M. Williams enters the game for M. Kidd-Gilchrist,,101,105
+4,0:42.0,C. Zeller misses 2-pt layup from 2 ft (block by R. Covington),,101,105
+4,0:39.0,,Defensive rebound by J. Embiid,101,105
+4,0:19.0,,J. Embiid misses 3-pt jump shot from 26 ft,101,105
+4,0:17.0,Defensive rebound by Team,,101,105
+4,0:17.0,,Loose ball foul by R. Covington (drawn by K. Walker),101,105
+4,0:17.0,Charlotte full timeout,,101,105
+4,0:17.0,,T. McConnell enters the game for D. Šarić,101,105
+4,0:12.0,M. Williams misses 3-pt jump shot from 24 ft,,101,105
+4,0:07.0,Offensive rebound by N. Batum,,101,105
+4,0:02.0,Shooting foul by B. Simmons (drawn by K. Walker),,101,105
+4,0:02.0,K. Walker misses free throw 1 of 3,,101,105
+4,0:02.0,Offensive rebound by Team,,101,105
+4,0:02.0,M. Bridges enters the game for M. Williams,,101,105
+4,0:02.0,M. Kidd-Gilchrist enters the game for C. Zeller,,101,105
+4,0:02.0,,D. Šarić enters the game for T. McConnell,101,105
+4,0:02.0,K. Walker makes free throw 2 of 3,,102,105
+4,0:02.0,K. Walker makes free throw 3 of 3,,103,105
+4,0:02.0,,Philadelphia full timeout,103,105

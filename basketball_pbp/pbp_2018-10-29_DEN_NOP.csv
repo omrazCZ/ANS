@@ -1,0 +1,460 @@
+QUARTER,TIME_REMAINING,NEW ORLEANS_ACTION,DENVER_ACTION,NEW ORLEANS_SCORE,DENVER_SCORE
+1,11:49.0,,Violation by Team (kicked ball),0,0
+1,11:44.0,J. Okafor misses 2-pt jump shot from 10 ft,,0,0
+1,11:41.0,,Defensive rebound by T. Craig,0,0
+1,11:25.0,,Turnover by P. Millsap (traveling),0,0
+1,11:16.0,N. Mirotić makes 2-pt jump shot from 21 ft (assist by J. Holiday),,2,0
+1,10:58.0,,J. Murray makes 2-pt layup from 3 ft (assist by G. Harris),2,2
+1,10:43.0,N. Mirotić misses 3-pt jump shot from 25 ft,,2,2
+1,10:41.0,,Defensive rebound by G. Harris,2,2
+1,10:36.0,,G. Harris misses 3-pt jump shot from 25 ft,2,2
+1,10:33.0,Defensive rebound by J. Holiday,,2,2
+1,10:24.0,J. Okafor misses 2-pt jump shot from 10 ft,,2,2
+1,10:22.0,,Defensive rebound by P. Millsap,2,2
+1,10:13.0,,J. Murray makes 3-pt jump shot from 25 ft (assist by N. Jokić),2,5
+1,9:54.0,S. Hill misses 3-pt jump shot from 25 ft,,2,5
+1,9:50.0,,Defensive rebound by G. Harris,2,5
+1,9:44.0,,P. Millsap misses 3-pt jump shot from 25 ft,2,5
+1,9:41.0,Defensive rebound by N. Mirotić,,2,5
+1,9:36.0,Turnover by E. Moore (lost ball; steal by P. Millsap),,2,5
+1,9:27.0,,G. Harris makes 2-pt jump shot from 7 ft (assist by N. Jokić),2,7
+1,9:15.0,Personal foul by N. Jokić (drawn by J. Okafor),,2,7
+1,9:03.0,J. Holiday makes 2-pt layup from 2 ft,,4,7
+1,8:51.0,,Turnover by J. Murray (bad pass; steal by N. Mirotić),4,7
+1,8:45.0,N. Mirotić misses 3-pt jump shot from 24 ft,,4,7
+1,8:44.0,,Defensive rebound by Team,4,7
+1,8:26.0,,J. Murray misses 3-pt jump shot from 25 ft,4,7
+1,8:21.0,Defensive rebound by E. Moore,,4,7
+1,8:10.0,E. Moore misses 3-pt jump shot from 24 ft,,4,7
+1,8:06.0,,Defensive rebound by J. Murray,4,7
+1,7:55.0,,T. Craig misses 3-pt jump shot from 22 ft,4,7
+1,7:53.0,Defensive rebound by S. Hill,,4,7
+1,7:39.0,E. Moore makes 3-pt jump shot from 24 ft (assist by J. Holiday),,7,7
+1,7:21.0,,Personal foul by N. Mirotić (drawn by G. Harris),7,7
+1,7:12.0,,P. Millsap misses 2-pt jump shot from 13 ft,7,7
+1,7:08.0,Defensive rebound by N. Mirotić,,7,7
+1,7:01.0,Personal foul by P. Millsap (drawn by J. Holiday),,7,7
+1,6:49.0,S. Hill misses 2-pt jump shot from 8 ft (block by J. Murray),,7,7
+1,6:47.0,Offensive rebound by S. Hill,,7,7
+1,6:46.0,S. Hill makes 2-pt layup from 2 ft,,9,7
+1,6:35.0,,Denver full timeout,9,7
+1,6:33.0,,Turnover by P. Millsap (bad pass; steal by J. Holiday),9,7
+1,6:19.0,Turnover by S. Hill (bad pass; steal by J. Murray),,9,7
+1,6:12.0,,T. Craig makes 2-pt layup from 2 ft (assist by P. Millsap),9,9
+1,5:53.0,J. Okafor makes 2-pt hook shot from 3 ft (assist by J. Holiday),,11,9
+1,5:40.0,,J. Murray misses 2-pt jump shot from 16 ft,11,9
+1,5:34.0,Defensive rebound by N. Mirotić,,11,9
+1,5:19.0,J. Okafor makes 2-pt hook shot from 6 ft,,13,9
+1,5:05.0,,Denver full timeout,13,9
+1,5:05.0,J. Randle enters the game for J. Okafor,,13,9
+1,5:05.0,,J. Hernangómez enters the game for T. Craig,13,9
+1,5:05.0,,T. Lyles enters the game for P. Millsap,13,9
+1,5:05.0,,M. Morris enters the game for J. Murray,13,9
+1,4:57.0,,N. Jokić misses 3-pt jump shot from 25 ft,13,9
+1,4:54.0,Defensive rebound by J. Randle,,13,9
+1,4:38.0,J. Holiday makes 2-pt layup from 4 ft,,15,9
+1,4:31.0,,N. Jokić makes 3-pt jump shot from 25 ft (assist by M. Morris),15,12
+1,4:20.0,Shooting foul by J. Hernangómez (drawn by S. Hill),,15,12
+1,4:20.0,S. Hill makes free throw 1 of 2,,16,12
+1,4:20.0,S. Hill makes free throw 2 of 2,,17,12
+1,4:06.0,,N. Jokić misses 2-pt layup from 2 ft,17,12
+1,4:04.0,Defensive rebound by J. Randle,,17,12
+1,4:00.0,Turnover by J. Randle (lost ball; steal by M. Morris),,17,12
+1,3:55.0,,Shooting foul by J. Holiday (drawn by G. Harris),17,12
+1,3:55.0,,G. Harris misses free throw 1 of 2,17,12
+1,3:55.0,,Offensive rebound by Team,17,12
+1,3:55.0,F. Jackson enters the game for S. Hill,,17,12
+1,3:55.0,,M. Plumlee enters the game for N. Jokić,17,12
+1,3:55.0,,G. Harris makes free throw 2 of 2,17,13
+1,3:41.0,E. Moore makes 2-pt layup from 2 ft (assist by J. Randle),,19,13
+1,3:28.0,,T. Lyles misses 3-pt jump shot from 25 ft,19,13
+1,3:27.0,Defensive rebound by Team,,19,13
+1,3:27.0,,J. Murray enters the game for G. Harris,19,13
+1,3:15.0,J. Randle misses 2-pt jump shot from 22 ft,,19,13
+1,3:11.0,,Defensive rebound by J. Murray,19,13
+1,2:51.0,,Turnover by M. Morris (bad pass; steal by N. Mirotić),19,13
+1,2:44.0,Turnover by J. Holiday (bad pass; steal by J. Murray),,19,13
+1,2:26.0,,T. Lyles misses 2-pt hook shot from 4 ft,19,13
+1,2:23.0,Defensive rebound by J. Holiday,,19,13
+1,2:16.0,J. Holiday makes 2-pt jump shot from 4 ft,,21,13
+1,1:56.0,,J. Murray makes 2-pt jump shot from 21 ft,21,15
+1,1:56.0,J. Okafor enters the game for N. Mirotić,,21,15
+1,1:36.0,J. Holiday makes 3-pt jump shot from 24 ft (assist by J. Randle),,24,15
+1,1:21.0,,Shooting foul by J. Holiday (drawn by T. Lyles),24,15
+1,1:21.0,I. Clark enters the game for J. Holiday,,24,15
+1,1:21.0,T. Frazier enters the game for E. Moore,,24,15
+1,1:21.0,,T. Lyles makes free throw 1 of 2,24,16
+1,1:21.0,,T. Lyles makes free throw 2 of 2,24,17
+1,0:58.0,Turnover by J. Okafor (lost ball; steal by M. Morris),,24,17
+1,0:53.0,,J. Murray misses 3-pt jump shot from 25 ft,24,17
+1,0:50.0,Defensive rebound by F. Jackson,,24,17
+1,0:46.0,Offensive foul by J. Okafor (drawn by J. Murray),,24,17
+1,0:46.0,Turnover by J. Okafor (offensive foul),,24,17
+1,0:37.0,,T. Lyles makes 3-pt jump shot from 25 ft (assist by M. Plumlee),24,20
+1,0:18.0,J. Randle misses 2-pt jump shot from 8 ft,,24,20
+1,0:16.0,Offensive rebound by J. Okafor,,24,20
+1,0:16.0,J. Okafor misses 2-pt layup from 1 ft,,24,20
+1,0:16.0,,Defensive rebound by M. Plumlee,24,20
+1,0:01.0,,M. Morris misses 3-pt jump shot from 25 ft,24,20
+1,0:01.0,Defensive rebound by J. Randle,,24,20
+2,11:36.0,,J. Murray makes 3-pt jump shot from 26 ft (assist by J. Hernangómez),24,23
+2,11:11.0,I. Clark misses 2-pt jump shot from 11 ft,,24,23
+2,11:08.0,,Defensive rebound by J. Murray,24,23
+2,11:03.0,,Offensive foul by M. Plumlee (drawn by T. Frazier),24,23
+2,11:03.0,,Turnover by M. Plumlee (offensive foul),24,23
+2,11:03.0,E. Moore enters the game for F. Jackson,,24,23
+2,10:53.0,Shooting foul by T. Lyles (drawn by J. Randle),,24,23
+2,10:53.0,J. Randle makes free throw 1 of 2,,25,23
+2,10:53.0,J. Randle makes free throw 2 of 2,,26,23
+2,10:44.0,,Personal foul by I. Clark (drawn by J. Hernangómez),26,23
+2,10:37.0,,T. Lyles misses 3-pt jump shot from 25 ft,26,23
+2,10:34.0,Defensive rebound by T. Frazier,,26,23
+2,10:24.0,Offensive foul by J. Randle (drawn by T. Lyles),,26,23
+2,10:24.0,Turnover by J. Randle (offensive foul),,26,23
+2,10:09.0,,M. Morris makes 3-pt jump shot from 25 ft (assist by T. Lyles),26,26
+2,9:41.0,J. Randle makes 2-pt layup from 2 ft (assist by I. Clark),,28,26
+2,9:31.0,,J. Murray misses 2-pt layup from 3 ft,28,26
+2,9:31.0,,Offensive rebound by M. Plumlee,28,26
+2,9:24.0,,Shooting foul by T. Frazier (drawn by T. Lyles),28,26
+2,9:24.0,,T. Lyles makes free throw 1 of 2,28,27
+2,9:24.0,N. Mirotić enters the game for J. Okafor,,28,27
+2,9:24.0,,M. Beasley enters the game for J. Hernangómez,28,27
+2,9:24.0,,T. Lyles makes free throw 2 of 2,28,28
+2,9:04.0,Turnover by J. Randle (lost ball; steal by M. Plumlee),,28,28
+2,9:01.0,,Turnover by M. Plumlee (lost ball; steal by J. Randle),28,28
+2,8:59.0,J. Randle makes 2-pt dunk from 1 ft,,30,28
+2,8:30.0,,M. Morris misses 3-pt jump shot from 25 ft,30,28
+2,8:27.0,,Offensive rebound by M. Plumlee,30,28
+2,8:18.0,,T. Lyles misses 3-pt jump shot from 25 ft,30,28
+2,8:18.0,Defensive rebound by I. Clark,,30,28
+2,8:07.0,N. Mirotić misses 3-pt jump shot from 27 ft,,30,28
+2,8:03.0,,Defensive rebound by M. Beasley,30,28
+2,8:01.0,,M. Morris makes 2-pt layup from 1 ft (assist by M. Beasley),30,30
+2,7:43.0,Turnover by E. Moore (lost ball; steal by M. Morris),,30,30
+2,7:39.0,,J. Murray misses 2-pt layup from 3 ft (block by T. Frazier),30,30
+2,7:39.0,,Offensive rebound by Team,30,30
+2,7:39.0,J. Holiday enters the game for I. Clark,,30,30
+2,7:39.0,F. Jackson enters the game for T. Frazier,,30,30
+2,7:39.0,J. Okafor enters the game for J. Randle,,30,30
+2,7:35.0,,M. Morris misses 2-pt jump shot from 14 ft,30,30
+2,7:32.0,Defensive rebound by J. Holiday,,30,30
+2,7:26.0,J. Holiday misses 2-pt jump shot from 12 ft,,30,30
+2,7:23.0,,Defensive rebound by J. Murray,30,30
+2,7:04.0,,T. Lyles makes 2-pt hook shot from 9 ft,30,32
+2,6:41.0,J. Okafor misses 2-pt hook shot from 8 ft,,30,32
+2,6:39.0,,Defensive rebound by M. Plumlee,30,32
+2,6:22.0,,J. Murray misses 2-pt jump shot from 8 ft,30,32
+2,6:17.0,,Offensive rebound by M. Plumlee,30,32
+2,6:17.0,,M. Plumlee makes 2-pt layup from 1 ft,30,34
+2,6:09.0,E. Moore misses 2-pt layup from 4 ft,,30,34
+2,6:08.0,Offensive rebound by E. Moore,,30,34
+2,6:07.0,E. Moore makes 2-pt layup from 1 ft,,32,34
+2,6:06.0,,Denver full timeout,32,34
+2,6:06.0,S. Hill enters the game for E. Moore,,32,34
+2,6:06.0,,G. Harris enters the game for J. Murray,32,34
+2,6:06.0,,N. Jokić enters the game for M. Plumlee,32,34
+2,5:51.0,,T. Lyles makes 2-pt hook shot from 5 ft,32,36
+2,5:38.0,Personal foul by N. Jokić (drawn by J. Holiday),,32,36
+2,5:30.0,J. Holiday misses 2-pt layup from 2 ft,,32,36
+2,5:25.0,Offensive rebound by J. Okafor,,32,36
+2,5:25.0,J. Okafor makes 2-pt layup at rim,,34,36
+2,5:10.0,,G. Harris misses 2-pt jump shot from 16 ft,34,36
+2,5:08.0,Defensive rebound by J. Holiday,,34,36
+2,5:01.0,N. Mirotić makes 2-pt layup from 3 ft (assist by J. Holiday),,36,36
+2,4:47.0,,G. Harris makes 2-pt layup from 2 ft (assist by N. Jokić),36,38
+2,4:38.0,F. Jackson misses 2-pt jump shot from 11 ft,,36,38
+2,4:38.0,,Defensive rebound by Team,36,38
+2,4:38.0,Loose ball foul by J. Okafor (drawn by N. Jokić),,36,38
+2,4:38.0,J. Randle enters the game for J. Okafor,,36,38
+2,4:38.0,,P. Millsap enters the game for T. Lyles,36,38
+2,4:27.0,,M. Morris misses 3-pt jump shot from 23 ft,36,38
+2,4:23.0,Defensive rebound by N. Mirotić,,36,38
+2,4:07.0,N. Mirotić misses 2-pt jump shot from 16 ft,,36,38
+2,4:04.0,,Defensive rebound by P. Millsap,36,38
+2,3:53.0,,Personal foul by J. Holiday (drawn by G. Harris),36,38
+2,3:53.0,,J. Murray enters the game for M. Morris,36,38
+2,3:47.0,,N. Jokić makes 3-pt jump shot from 24 ft (assist by P. Millsap),36,41
+2,3:32.0,J. Holiday misses 2-pt layup from 3 ft (block by G. Harris),,36,41
+2,3:31.0,,Defensive rebound by N. Jokić,36,41
+2,3:27.0,,M. Beasley misses 3-pt jump shot from 23 ft,36,41
+2,3:25.0,,Offensive rebound by Team,36,41
+2,3:25.0,Loose ball foul by F. Jackson (drawn by N. Jokić),,36,41
+2,3:25.0,,N. Jokić makes free throw 1 of 2,36,42
+2,3:25.0,E. Moore enters the game for F. Jackson,,36,42
+2,3:25.0,,N. Jokić makes free throw 2 of 2,36,43
+2,3:06.0,Shooting foul by P. Millsap (drawn by J. Randle),,36,43
+2,3:06.0,J. Randle makes free throw 1 of 2,,37,43
+2,3:06.0,J. Randle makes free throw 2 of 2,,38,43
+2,2:52.0,,Turnover by M. Beasley (bad pass),38,43
+2,2:52.0,New Orleans full timeout,,38,43
+2,2:43.0,Offensive foul by E. Moore (drawn by N. Jokić),,38,43
+2,2:43.0,Turnover by E. Moore (offensive foul),,38,43
+2,2:29.0,,M. Beasley makes 3-pt jump shot from 24 ft (assist by N. Jokić),38,46
+2,2:16.0,J. Randle makes 2-pt layup from 2 ft (assist by E. Moore),,40,46
+2,2:16.0,Shooting foul by M. Beasley (drawn by J. Randle),,40,46
+2,2:16.0,J. Randle misses free throw 1 of 1,,40,46
+2,2:16.0,,Defensive rebound by N. Jokić,40,46
+2,2:01.0,,G. Harris makes 2-pt dunk from 1 ft (assist by N. Jokić),40,48
+2,1:50.0,N. Mirotić makes 3-pt jump shot from 25 ft (assist by S. Hill),,43,48
+2,1:40.0,Violation by Team (kicked ball),,43,48
+2,1:40.0,T. Frazier enters the game for J. Holiday,,43,48
+2,1:32.0,,P. Millsap makes 3-pt jump shot from 25 ft (assist by G. Harris),43,51
+2,1:18.0,N. Mirotić misses 3-pt jump shot from 24 ft,,43,51
+2,1:13.0,,Defensive rebound by G. Harris,43,51
+2,0:59.0,,J. Murray makes 2-pt jump shot from 6 ft (assist by G. Harris),43,53
+2,0:46.0,S. Hill misses 2-pt jump shot from 12 ft,,43,53
+2,0:44.0,,Defensive rebound by N. Jokić,43,53
+2,0:35.0,,G. Harris misses 2-pt layup from 2 ft,43,53
+2,0:35.0,,Offensive rebound by N. Jokić,43,53
+2,0:35.0,,N. Jokić makes 2-pt layup from 1 ft,43,55
+2,0:20.0,J. Randle makes 2-pt dunk at rim (assist by N. Mirotić),,45,55
+2,0:01.0,,J. Murray makes 2-pt layup from 2 ft,45,57
+2,0:01.0,,Shooting foul by S. Hill (drawn by J. Murray),45,57
+2,0:01.0,,T. Lyles enters the game for N. Jokić,45,57
+2,0:01.0,,M. Plumlee enters the game for P. Millsap,45,57
+2,0:01.0,,J. Murray makes free throw 1 of 1,45,58
+3,11:48.0,,T. Craig misses 3-pt jump shot from 22 ft,45,58
+3,11:43.0,Defensive rebound by J. Okafor,,45,58
+3,11:27.0,S. Hill misses 3-pt jump shot from 23 ft,,45,58
+3,11:23.0,,Defensive rebound by N. Jokić,45,58
+3,11:19.0,,P. Millsap makes 2-pt dunk from 1 ft (assist by N. Jokić),45,60
+3,11:07.0,N. Mirotić misses 3-pt jump shot from 25 ft,,45,60
+3,11:04.0,,Defensive rebound by N. Jokić,45,60
+3,10:49.0,,Turnover by P. Millsap (lost ball; steal by N. Mirotić),45,60
+3,10:34.0,J. Holiday misses 2-pt layup from 7 ft (block by N. Jokić),,45,60
+3,10:34.0,Offensive rebound by Team,,45,60
+3,10:32.0,E. Moore makes 2-pt jump shot from 16 ft (assist by J. Holiday),,47,60
+3,10:15.0,,T. Craig misses 3-pt jump shot from 24 ft,47,60
+3,10:13.0,Defensive rebound by N. Mirotić,,47,60
+3,10:07.0,J. Okafor makes 2-pt layup from 2 ft (assist by J. Holiday),,49,60
+3,10:07.0,Shooting foul by G. Harris (drawn by J. Okafor),,49,60
+3,10:07.0,,Denver full timeout,49,60
+3,10:07.0,,M. Beasley enters the game for T. Craig,49,60
+3,10:07.0,J. Okafor makes free throw 1 of 1,,50,60
+3,9:50.0,,P. Millsap misses 3-pt jump shot from 24 ft,50,60
+3,9:47.0,Defensive rebound by J. Holiday,,50,60
+3,9:27.0,E. Moore misses 3-pt jump shot from 23 ft,,50,60
+3,9:25.0,,Defensive rebound by P. Millsap,50,60
+3,9:13.0,,P. Millsap makes 3-pt jump shot from 24 ft (assist by N. Jokić),50,63
+3,8:56.0,J. Okafor misses 2-pt dunk from 2 ft (block by P. Millsap),,50,63
+3,8:56.0,Offensive rebound by Team,,50,63
+3,8:54.0,Personal foul by G. Harris (drawn by J. Okafor),,50,63
+3,8:47.0,Turnover by J. Holiday (bad pass),,50,63
+3,8:35.0,,N. Jokić misses 2-pt jump shot from 4 ft,50,63
+3,8:32.0,,Offensive rebound by G. Harris,50,63
+3,8:32.0,,P. Millsap misses 2-pt layup at rim,50,63
+3,8:32.0,,Offensive rebound by P. Millsap,50,63
+3,8:28.0,Violation by Team (kicked ball),,50,63
+3,8:28.0,C. Diallo enters the game for J. Okafor,,50,63
+3,8:24.0,,P. Millsap makes 2-pt dunk from 1 ft (assist by G. Harris),50,65
+3,8:15.0,Turnover by J. Holiday (bad pass; steal by J. Murray),,50,65
+3,8:11.0,,M. Beasley makes 2-pt dunk from 1 ft (assist by J. Murray),50,67
+3,8:11.0,New Orleans full timeout,,50,67
+3,7:59.0,C. Diallo makes 2-pt dunk at rim (assist by J. Holiday),,52,67
+3,7:43.0,,J. Murray misses 2-pt layup from 2 ft,52,67
+3,7:42.0,Defensive rebound by J. Holiday,,52,67
+3,7:37.0,N. Mirotić misses 2-pt layup from 1 ft (block by N. Jokić),,52,67
+3,7:29.0,Offensive rebound by C. Diallo,,52,67
+3,7:29.0,C. Diallo makes 2-pt layup from 1 ft,,54,67
+3,7:16.0,,M. Beasley misses 3-pt jump shot from 26 ft,54,67
+3,7:13.0,Defensive rebound by J. Holiday,,54,67
+3,7:03.0,J. Holiday misses 2-pt jump shot from 8 ft,,54,67
+3,7:01.0,,Defensive rebound by N. Jokić,54,67
+3,6:49.0,Violation by Team (kicked ball),,54,67
+3,6:49.0,F. Jackson enters the game for S. Hill,,54,67
+3,6:36.0,,J. Murray misses 3-pt jump shot from 25 ft (block by N. Mirotić),54,67
+3,6:33.0,Defensive rebound by C. Diallo,,54,67
+3,6:22.0,F. Jackson makes 2-pt layup from 4 ft,,56,67
+3,6:04.0,,J. Murray makes 2-pt jump shot from 17 ft,56,69
+3,5:53.0,N. Mirotić misses 3-pt jump shot from 26 ft,,56,69
+3,5:49.0,,Defensive rebound by G. Harris,56,69
+3,5:48.0,,Personal foul by J. Holiday (drawn by G. Harris),56,69
+3,5:48.0,J. Randle enters the game for N. Mirotić,,56,69
+3,5:48.0,,M. Morris enters the game for J. Murray,56,69
+3,5:41.0,,Shooting foul by E. Moore (drawn by G. Harris),56,69
+3,5:41.0,,G. Harris makes free throw 1 of 2,56,70
+3,5:41.0,,G. Harris makes free throw 2 of 2,56,71
+3,5:25.0,F. Jackson misses 2-pt jump shot from 10 ft,,56,71
+3,5:18.0,,Defensive rebound by P. Millsap,56,71
+3,5:11.0,,M. Beasley misses 3-pt jump shot from 26 ft,56,71
+3,5:09.0,Defensive rebound by F. Jackson,,56,71
+3,5:00.0,J. Randle misses 2-pt layup from 4 ft,,56,71
+3,4:55.0,Offensive rebound by J. Randle,,56,71
+3,4:55.0,J. Randle misses 2-pt layup from 1 ft,,56,71
+3,4:55.0,,Defensive rebound by M. Beasley,56,71
+3,4:51.0,,G. Harris makes 3-pt jump shot from 29 ft,56,74
+3,4:36.0,C. Diallo makes 2-pt jump shot from 16 ft (assist by J. Holiday),,58,74
+3,4:24.0,,M. Morris misses 2-pt layup from 2 ft (block by J. Randle),58,74
+3,4:17.0,,Offensive rebound by P. Millsap,58,74
+3,4:17.0,,P. Millsap makes 2-pt dunk at rim,58,76
+3,4:14.0,F. Jackson makes 3-pt jump shot from 25 ft (assist by J. Holiday),,61,76
+3,4:00.0,,N. Jokić misses 2-pt jump shot from 12 ft,61,76
+3,3:58.0,,Offensive rebound by P. Millsap,61,76
+3,3:56.0,,P. Millsap misses 2-pt layup from 2 ft,61,76
+3,3:56.0,Defensive rebound by J. Randle,,61,76
+3,3:47.0,J. Randle makes 2-pt layup from 5 ft,,63,76
+3,3:35.0,,N. Jokić misses 3-pt jump shot from 26 ft,63,76
+3,3:32.0,Defensive rebound by J. Holiday,,63,76
+3,3:29.0,Shooting foul by N. Jokić (drawn by J. Randle),,63,76
+3,3:29.0,J. Randle makes free throw 1 of 2,,64,76
+3,3:29.0,T. Frazier enters the game for E. Moore,,64,76
+3,3:29.0,,T. Lyles enters the game for N. Jokić,64,76
+3,3:29.0,,M. Plumlee enters the game for P. Millsap,64,76
+3,3:29.0,J. Randle makes free throw 2 of 2,,65,76
+3,3:11.0,,T. Lyles misses 3-pt jump shot from 24 ft,65,76
+3,3:08.0,Defensive rebound by C. Diallo,,65,76
+3,2:56.0,Offensive foul by C. Diallo (drawn by M. Beasley),,65,76
+3,2:56.0,Turnover by C. Diallo (offensive foul),,65,76
+3,2:45.0,,Turnover by M. Morris (bad pass; steal by T. Frazier),65,76
+3,2:33.0,J. Randle makes 2-pt layup from 2 ft (assist by T. Frazier),,67,76
+3,2:14.0,,Shooting foul by C. Diallo (drawn by G. Harris),67,76
+3,2:14.0,,G. Harris makes free throw 1 of 2,67,77
+3,2:14.0,,J. Murray enters the game for M. Beasley,67,77
+3,2:14.0,,G. Harris makes free throw 2 of 2,67,78
+3,2:10.0,Shooting foul by G. Harris (drawn by C. Diallo),,67,78
+3,2:10.0,C. Diallo makes free throw 1 of 2,,68,78
+3,2:10.0,E. Moore enters the game for J. Holiday,,68,78
+3,2:10.0,,M. Beasley enters the game for G. Harris,68,78
+3,2:10.0,C. Diallo makes free throw 2 of 2,,69,78
+3,1:58.0,,M. Morris makes 2-pt jump shot from 6 ft,69,80
+3,1:43.0,T. Frazier makes 3-pt jump shot from 23 ft (assist by E. Moore),,72,80
+3,1:23.0,,T. Lyles makes 2-pt jump shot from 6 ft (assist by M. Beasley),72,82
+3,1:09.0,J. Randle misses 2-pt layup from 3 ft,,72,82
+3,1:05.0,Offensive rebound by C. Diallo,,72,82
+3,1:04.0,J. Randle makes 2-pt layup from 1 ft (assist by C. Diallo),,74,82
+3,0:45.0,,T. Lyles misses 2-pt layup from 4 ft,74,82
+3,0:43.0,Defensive rebound by J. Randle,,74,82
+3,0:41.0,Turnover by E. Moore (lost ball; steal by J. Murray),,74,82
+3,0:38.0,,T. Lyles makes 2-pt dunk at rim (assist by J. Murray),74,84
+3,0:19.0,Personal foul by M. Morris (drawn by J. Randle),,74,84
+3,0:19.0,J. Randle makes free throw 1 of 2,,75,84
+3,0:19.0,J. Randle makes free throw 2 of 2,,76,84
+3,0:06.0,,Personal foul by T. Frazier (drawn by M. Morris),76,84
+3,0:02.0,,T. Lyles misses 3-pt jump shot from 25 ft,76,84
+3,0:02.0,Defensive rebound by C. Diallo,,76,84
+4,11:45.0,F. Jackson misses 2-pt jump shot from 18 ft,,76,84
+4,11:41.0,,Defensive rebound by T. Lyles,76,84
+4,11:27.0,,J. Murray misses 2-pt jump shot from 18 ft,76,84
+4,11:24.0,Defensive rebound by N. Mirotić,,76,84
+4,11:22.0,Turnover by N. Mirotić (lost ball; steal by M. Plumlee),,76,84
+4,11:19.0,,M. Plumlee misses 2-pt hook shot from 3 ft,76,84
+4,11:18.0,Defensive rebound by N. Mirotić,,76,84
+4,11:09.0,Shooting foul by T. Lyles (drawn by N. Mirotić),,76,84
+4,11:09.0,N. Mirotić misses free throw 1 of 2,,76,84
+4,11:09.0,Offensive rebound by Team,,76,84
+4,11:09.0,N. Mirotić misses free throw 2 of 2,,76,84
+4,11:08.0,,Defensive rebound by M. Beasley,76,84
+4,10:48.0,,Turnover by M. Plumlee (bad pass; steal by C. Diallo),76,84
+4,10:45.0,Turnover by C. Diallo (bad pass; steal by T. Lyles),,76,84
+4,10:44.0,,T. Lyles misses 2-pt layup from 2 ft,76,84
+4,10:43.0,,Offensive rebound by J. Murray,76,84
+4,10:42.0,,J. Murray makes 2-pt layup from 4 ft,76,86
+4,10:27.0,N. Mirotić makes 2-pt jump shot from 17 ft (assist by T. Frazier),,78,86
+4,10:13.0,,M. Morris misses 2-pt layup from 4 ft (block by C. Diallo),78,86
+4,10:11.0,Defensive rebound by N. Mirotić,,78,86
+4,10:08.0,Offensive foul by E. Moore (drawn by M. Beasley),,78,86
+4,10:08.0,Turnover by E. Moore (offensive foul),,78,86
+4,9:43.0,,Turnover by M. Plumlee (off goaltending),78,86
+4,9:27.0,E. Moore makes 3-pt jump shot from 25 ft (assist by N. Mirotić),,81,86
+4,9:14.0,,M. Beasley makes 2-pt hook shot from 5 ft,81,88
+4,8:58.0,E. Moore makes 3-pt jump shot from 23 ft (assist by C. Diallo),,84,88
+4,8:58.0,,G. Harris enters the game for J. Murray,84,88
+4,8:30.0,,G. Harris makes 2-pt jump shot from 21 ft (assist by M. Morris),84,90
+4,8:16.0,Shooting foul by T. Lyles (drawn by E. Moore),,84,90
+4,8:16.0,E. Moore makes free throw 1 of 2,,85,90
+4,8:16.0,J. Holiday enters the game for F. Jackson,,85,90
+4,8:16.0,E. Moore misses free throw 2 of 2,,85,90
+4,8:14.0,,Defensive rebound by M. Beasley,85,90
+4,7:59.0,,Personal foul by C. Diallo (drawn by M. Plumlee),85,90
+4,7:50.0,,T. Lyles makes 2-pt layup from 4 ft (assist by G. Harris),85,92
+4,7:31.0,C. Diallo misses 2-pt jump shot from 14 ft,,85,92
+4,7:27.0,,Defensive rebound by M. Beasley,85,92
+4,7:05.0,,G. Harris misses 2-pt jump shot from 18 ft,85,92
+4,7:03.0,Defensive rebound by T. Frazier,,85,92
+4,6:58.0,J. Holiday misses 3-pt jump shot from 24 ft,,85,92
+4,6:55.0,,Defensive rebound by G. Harris,85,92
+4,6:50.0,,G. Harris makes 2-pt layup from 3 ft,85,94
+4,6:49.0,New Orleans full timeout,,85,94
+4,6:49.0,F. Jackson enters the game for C. Diallo,,85,94
+4,6:49.0,J. Randle enters the game for E. Moore,,85,94
+4,6:49.0,,N. Jokić enters the game for T. Lyles,85,94
+4,6:49.0,,P. Millsap enters the game for M. Morris,85,94
+4,6:49.0,,J. Murray enters the game for M. Plumlee,85,94
+4,6:37.0,T. Frazier makes 2-pt layup from 2 ft,,87,94
+4,6:18.0,,G. Harris misses 2-pt layup from 2 ft,87,94
+4,6:16.0,Defensive rebound by N. Mirotić,,87,94
+4,6:12.0,J. Holiday makes 3-pt jump shot from 23 ft (assist by J. Randle),,90,94
+4,5:50.0,,G. Harris misses 2-pt jump shot from 17 ft,90,94
+4,5:47.0,Defensive rebound by J. Randle,,90,94
+4,5:44.0,Turnover by J. Randle (bad pass),,90,94
+4,5:30.0,,J. Murray misses 2-pt jump shot from 24 ft,90,94
+4,5:26.0,Defensive rebound by J. Randle,,90,94
+4,5:20.0,N. Mirotić makes 2-pt layup from 3 ft (assist by T. Frazier),,92,94
+4,5:20.0,,Denver full timeout,92,94
+4,5:05.0,,P. Millsap misses 2-pt jump shot from 6 ft,92,94
+4,5:02.0,Defensive rebound by T. Frazier,,92,94
+4,4:50.0,N. Mirotić misses 3-pt jump shot from 25 ft,,92,94
+4,4:48.0,,Defensive rebound by N. Jokić,92,94
+4,4:40.0,,G. Harris misses 2-pt layup from 9 ft (block by J. Holiday),92,94
+4,4:40.0,Defensive rebound by Team,,92,94
+4,4:31.0,Offensive foul by J. Holiday (drawn by N. Jokić),,92,94
+4,4:31.0,Turnover by J. Holiday (offensive foul),,92,94
+4,4:27.0,,M. Beasley misses 3-pt jump shot from 22 ft,92,94
+4,4:23.0,Defensive rebound by N. Mirotić,,92,94
+4,4:14.0,F. Jackson misses 2-pt jump shot from 6 ft,,92,94
+4,4:13.0,,Defensive rebound by N. Jokić,92,94
+4,4:02.0,,J. Murray makes 2-pt jump shot from 5 ft (assist by N. Jokić),92,96
+4,3:50.0,J. Holiday makes 2-pt layup from 2 ft,,94,96
+4,3:32.0,,M. Beasley makes 3-pt jump shot from 23 ft (assist by N. Jokić),94,99
+4,3:31.0,New Orleans full timeout,,94,99
+4,3:20.0,Turnover by J. Randle (lost ball; steal by G. Harris),,94,99
+4,3:10.0,,M. Beasley makes 2-pt layup from 2 ft (assist by N. Jokić),94,101
+4,2:57.0,Turnover by J. Holiday (lost ball; steal by J. Murray),,94,101
+4,2:53.0,,P. Millsap makes 2-pt dunk from 1 ft (assist by G. Harris),94,103
+4,2:53.0,New Orleans full timeout,,94,103
+4,2:53.0,E. Moore enters the game for T. Frazier,,94,103
+4,2:40.0,Shooting foul by N. Jokić (drawn by J. Randle),,94,103
+4,2:40.0,J. Randle misses free throw 1 of 2,,94,103
+4,2:40.0,Offensive rebound by Team,,94,103
+4,2:40.0,J. Randle misses free throw 2 of 2,,94,103
+4,2:38.0,,Defensive rebound by M. Beasley,94,103
+4,2:26.0,,Offensive foul by J. Murray (drawn by F. Jackson),94,103
+4,2:26.0,,Turnover by J. Murray (offensive foul),94,103
+4,2:12.0,N. Mirotić makes 3-pt jump shot from 23 ft (assist by J. Randle),,97,103
+4,1:51.0,,G. Harris makes 2-pt jump shot from 11 ft,97,105
+4,1:42.0,N. Mirotić makes 3-pt jump shot from 26 ft (assist by J. Randle),,100,105
+4,1:32.0,,Shooting foul by J. Randle (drawn by N. Jokić),100,105
+4,1:32.0,,N. Jokić makes free throw 1 of 2,100,106
+4,1:32.0,,N. Jokić makes free throw 2 of 2,100,107
+4,1:24.0,E. Moore makes 2-pt jump shot from 8 ft (assist by F. Jackson),,102,107
+4,1:03.0,,Turnover by J. Murray (lost ball; steal by F. Jackson),102,107
+4,1:01.0,F. Jackson makes 2-pt layup from 2 ft,,104,107
+4,0:48.0,,G. Harris misses 3-pt jump shot from 25 ft,104,107
+4,0:44.0,,Offensive rebound by Team,104,107
+4,0:44.0,Loose ball foul by J. Randle (drawn by P. Millsap),,104,107
+4,0:44.0,,P. Millsap makes free throw 1 of 2,104,108
+4,0:44.0,,T. Craig enters the game for N. Jokić,104,108
+4,0:44.0,,P. Millsap makes free throw 2 of 2,104,109
+4,0:38.0,Turnover by N. Mirotić (lost ball; steal by G. Harris),,104,109
+4,0:29.0,,Personal take foul by J. Randle (drawn by G. Harris),104,109
+4,0:29.0,,G. Harris misses free throw 1 of 2,104,109
+4,0:29.0,,Offensive rebound by Team,104,109
+4,0:29.0,,G. Harris makes free throw 2 of 2,104,110
+4,0:24.0,J. Holiday makes 2-pt dunk from 1 ft,,106,110
+4,0:24.0,,Denver full timeout,106,110
+4,0:24.0,S. Hill enters the game for J. Randle,,106,110
+4,0:24.0,,N. Jokić enters the game for T. Craig,106,110
+4,0:22.0,,G. Harris makes 2-pt layup from 2 ft (assist by P. Millsap),106,112
+4,0:16.0,N. Mirotić misses 3-pt jump shot from 28 ft,,106,112
+4,0:13.0,,Defensive rebound by P. Millsap,106,112
+4,0:13.0,,Personal take foul by J. Holiday (drawn by P. Millsap),106,112
+4,0:13.0,J. Randle enters the game for J. Holiday,,106,112
+4,0:13.0,,P. Millsap makes free throw 1 of 2,106,113
+4,0:13.0,,T. Craig enters the game for N. Jokić,106,113
+4,0:13.0,,P. Millsap makes free throw 2 of 2,106,114
+4,0:13.0,New Orleans full timeout,,106,114
+4,0:07.0,J. Randle makes 2-pt layup from 3 ft (assist by S. Hill),,108,114
+4,0:04.0,,Personal take foul by F. Jackson (drawn by J. Murray),108,114
+4,0:04.0,,J. Murray makes free throw 1 of 2,108,115
+4,0:04.0,,J. Murray makes free throw 2 of 2,108,116
+4,0:01.0,F. Jackson makes 3-pt jump shot from 24 ft (assist by J. Randle),,111,116

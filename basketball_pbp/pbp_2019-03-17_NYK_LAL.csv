@@ -1,0 +1,448 @@
+QUARTER,TIME_REMAINING,LA LAKERS_ACTION,NEW YORK_ACTION,LA LAKERS_SCORE,NEW YORK_SCORE
+1,11:42.0,L. James makes 2-pt jump shot from 20 ft,,2,0
+1,11:14.0,,D. Dotson makes 2-pt layup at rim (assist by E. Mudiay),2,2
+1,11:03.0,K. Kuzma misses 2-pt jump shot from 18 ft,,2,2
+1,11:01.0,,Defensive rebound by D. Jordan,2,2
+1,10:53.0,,D. Jordan makes 2-pt dunk from 1 ft (assist by E. Mudiay),2,4
+1,10:37.0,L. James misses 3-pt jump shot from 26 ft,,2,4
+1,10:35.0,,Defensive rebound by D. Jordan,2,4
+1,10:19.0,,E. Mudiay misses 2-pt jump shot from 20 ft,2,4
+1,10:17.0,,Offensive rebound by D. Jordan,2,4
+1,10:14.0,,E. Mudiay makes 3-pt jump shot from 23 ft (assist by D. Jordan),2,7
+1,9:57.0,J. McGee makes 2-pt dunk from 1 ft (assist by R. Rondo),,4,7
+1,9:44.0,,D. Dotson makes 2-pt jump shot from 19 ft (assist by D. Jordan),4,9
+1,9:29.0,R. Bullock misses 3-pt jump shot from 26 ft,,4,9
+1,9:27.0,,Defensive rebound by D. Dotson,4,9
+1,9:20.0,,D. Dotson makes 2-pt jump shot from 13 ft,4,11
+1,9:19.0,LA Lakers full timeout,,4,11
+1,9:03.0,J. McGee makes 2-pt layup from 1 ft (assist by L. James),,6,11
+1,8:53.0,,M. Hezonja misses 2-pt layup from 1 ft,6,11
+1,8:51.0,Defensive rebound by J. McGee,,6,11
+1,8:47.0,R. Bullock makes 3-pt jump shot from 26 ft (assist by R. Rondo),,9,11
+1,8:22.0,,D. Jordan misses 2-pt dunk from 2 ft,9,11
+1,8:22.0,Defensive rebound by J. McGee,,9,11
+1,8:11.0,R. Bullock misses 3-pt jump shot from 23 ft,,9,11
+1,8:10.0,Offensive rebound by J. McGee,,9,11
+1,8:10.0,J. McGee misses 2-pt layup at rim,,9,11
+1,8:08.0,Offensive rebound by J. McGee,,9,11
+1,8:08.0,J. McGee makes 2-pt layup at rim,,11,11
+1,8:08.0,Shooting foul by K. Knox (drawn by J. McGee),,11,11
+1,8:08.0,J. McGee misses free throw 1 of 1,,11,11
+1,8:06.0,,Defensive rebound by D. Jordan,11,11
+1,7:58.0,,E. Mudiay makes 2-pt jump shot from 10 ft (assist by D. Jordan),11,13
+1,7:49.0,R. Bullock makes 2-pt layup from 1 ft (assist by R. Rondo),,13,13
+1,7:38.0,,Turnover by E. Mudiay (lost ball; steal by R. Rondo),13,13
+1,7:30.0,Turnover by L. James (bad pass),,13,13
+1,7:20.0,,Shooting foul by J. McGee (drawn by M. Hezonja),13,13
+1,7:20.0,,M. Hezonja makes free throw 1 of 2,13,14
+1,7:20.0,,M. Hezonja makes free throw 2 of 2,13,15
+1,7:03.0,J. McGee misses 2-pt jump shot from 9 ft,,13,15
+1,7:01.0,,Defensive rebound by D. Jordan,13,15
+1,6:46.0,,M. Hezonja makes 2-pt jump shot from 11 ft,13,17
+1,6:32.0,L. James makes 2-pt jump shot from 11 ft,,15,17
+1,6:15.0,,Turnover by D. Jordan (bad pass; steal by J. McGee),15,17
+1,6:10.0,Shooting foul by D. Jordan (drawn by L. James),,15,17
+1,6:10.0,L. James makes free throw 1 of 2,,16,17
+1,6:10.0,L. James makes free throw 2 of 2,,17,17
+1,6:05.0,,New York full timeout,17,17
+1,5:58.0,,K. Knox makes 2-pt layup from 1 ft,17,19
+1,5:45.0,J. McGee makes 2-pt dunk at rim (assist by K. Kuzma),,19,19
+1,5:28.0,,D. Dotson makes 2-pt jump shot from 16 ft (assist by D. Jordan),19,21
+1,5:18.0,R. Bullock misses 3-pt jump shot from 26 ft,,19,21
+1,5:16.0,,Defensive rebound by M. Hezonja,19,21
+1,5:09.0,,Turnover by M. Hezonja (lost ball; steal by J. McGee),19,21
+1,5:06.0,Turnover by J. McGee (bad pass; steal by K. Knox),,19,21
+1,5:02.0,,K. Knox makes 3-pt jump shot from 25 ft,19,24
+1,4:49.0,R. Rondo makes 3-pt jump shot from 26 ft,,22,24
+1,4:29.0,,Shooting foul by R. Bullock (drawn by M. Hezonja),22,24
+1,4:29.0,K. Caldwell-Pope enters the game for R. Bullock,,22,24
+1,4:29.0,J. Hart enters the game for L. James,,22,24
+1,4:29.0,M. Wagner enters the game for J. McGee,,22,24
+1,4:29.0,,M. Hezonja makes free throw 1 of 2,22,25
+1,4:29.0,,M. Hezonja makes free throw 2 of 2,22,26
+1,4:12.0,Turnover by K. Kuzma (lost ball; steal by M. Hezonja),,22,26
+1,4:08.0,,E. Mudiay makes 2-pt layup at rim,22,28
+1,4:04.0,,Violation by Team (kicked ball),22,28
+1,3:57.0,R. Rondo misses 2-pt hook shot from 4 ft,,22,28
+1,3:56.0,Offensive rebound by Team,,22,28
+1,3:46.0,M. Wagner makes 3-pt jump shot from 24 ft (assist by R. Rondo),,25,28
+1,3:26.0,,D. Jordan misses 2-pt dunk from 1 ft,25,28
+1,3:24.0,Defensive rebound by J. Hart,,25,28
+1,3:18.0,J. Hart misses 3-pt jump shot from 26 ft,,25,28
+1,3:16.0,,Defensive rebound by D. Jordan,25,28
+1,3:08.0,,Turnover by E. Mudiay (bad pass; steal by J. Hart),25,28
+1,2:59.0,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,,25,28
+1,2:57.0,Offensive rebound by K. Caldwell-Pope,,25,28
+1,2:51.0,M. Wagner makes 2-pt dunk at rim (assist by J. Hart),,27,28
+1,2:42.0,,New York full timeout,27,28
+1,2:42.0,,K. Allen enters the game for M. Hezonja,27,28
+1,2:42.0,,M. Robinson enters the game for D. Jordan,27,28
+1,2:42.0,,L. Thomas enters the game for E. Mudiay,27,28
+1,2:39.0,,Personal foul by M. Wagner (drawn by M. Robinson),27,28
+1,2:31.0,,K. Knox makes 2-pt layup from 1 ft,27,30
+1,2:18.0,M. Wagner misses 3-pt jump shot from 25 ft,,27,30
+1,2:16.0,,Defensive rebound by D. Dotson,27,30
+1,2:07.0,,D. Dotson makes 3-pt jump shot from 25 ft,27,33
+1,1:52.0,K. Caldwell-Pope misses 2-pt jump shot from 14 ft,,27,33
+1,1:50.0,,Defensive rebound by K. Knox,27,33
+1,1:28.0,,D. Dotson makes 2-pt layup from 2 ft,27,35
+1,1:15.0,M. Wagner misses 2-pt layup from 2 ft,,27,35
+1,1:13.0,,Defensive rebound by D. Dotson,27,35
+1,1:10.0,,D. Dotson misses 3-pt jump shot from 26 ft,27,35
+1,1:08.0,Defensive rebound by R. Rondo,,27,35
+1,1:06.0,Shooting foul by D. Dotson (drawn by M. Wagner),,27,35
+1,1:06.0,M. Wagner misses free throw 1 of 2,,27,35
+1,1:06.0,Offensive rebound by Team,,27,35
+1,1:06.0,M. Wagner makes free throw 2 of 2,,28,35
+1,0:58.0,,K. Knox misses 2-pt jump shot from 19 ft,28,35
+1,0:56.0,Defensive rebound by K. Caldwell-Pope,,28,35
+1,0:47.0,R. Rondo misses 2-pt layup from 1 ft,,28,35
+1,0:45.0,,Defensive rebound by K. Knox,28,35
+1,0:43.0,,Personal foul by K. Kuzma (drawn by K. Knox),28,35
+1,0:30.0,,K. Knox makes 3-pt jump shot from 27 ft (assist by K. Allen),28,38
+1,0:24.0,K. Kuzma makes 2-pt layup from 1 ft,,30,38
+1,0:02.0,,K. Knox makes 3-pt jump shot from 26 ft,30,41
+2,11:41.0,,Turnover by K. Knox (bad pass),30,41
+2,11:32.0,K. Caldwell-Pope makes 2-pt jump shot from 22 ft (assist by J. Williams),,32,41
+2,11:20.0,,M. Robinson makes 2-pt layup from 2 ft (assist by K. Allen),32,43
+2,11:20.0,,Shooting foul by L. James (drawn by M. Robinson),32,43
+2,11:20.0,,M. Robinson misses free throw 1 of 1,32,43
+2,11:18.0,Defensive rebound by J. Williams,,32,43
+2,11:12.0,Personal foul by A. Trier (drawn by L. James),,32,43
+2,11:04.0,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,,32,43
+2,11:02.0,,Defensive rebound by K. Knox,32,43
+2,10:56.0,,Turnover by K. Knox (bad pass; steal by A. Caruso),32,43
+2,10:52.0,L. James misses 3-pt jump shot from 25 ft,,32,43
+2,10:50.0,Offensive rebound by A. Caruso,,32,43
+2,10:39.0,Shooting foul by M. Robinson (drawn by L. James),,32,43
+2,10:39.0,L. James makes free throw 1 of 2,,33,43
+2,10:39.0,,D. Dotson enters the game for K. Knox,33,43
+2,10:39.0,L. James makes free throw 2 of 2,,34,43
+2,10:18.0,,A. Trier makes 2-pt jump shot from 15 ft,34,45
+2,10:08.0,J. Williams makes 2-pt dunk from 1 ft (assist by L. James),,36,45
+2,9:49.0,,D. Dotson misses 2-pt jump shot from 23 ft,36,45
+2,9:47.0,Defensive rebound by K. Caldwell-Pope,,36,45
+2,9:40.0,J. Hart misses 3-pt jump shot from 24 ft,,36,45
+2,9:39.0,,Defensive rebound by M. Robinson,36,45
+2,9:24.0,,Shooting foul by J. Williams (drawn by A. Trier),36,45
+2,9:24.0,,A. Trier misses free throw 1 of 2,36,45
+2,9:24.0,,Offensive rebound by Team,36,45
+2,9:24.0,,A. Trier misses free throw 2 of 2,36,45
+2,9:22.0,Defensive rebound by L. James,,36,45
+2,9:17.0,J. Hart makes 2-pt layup from 2 ft (assist by L. James),,38,45
+2,9:04.0,,Turnover by D. Dotson (bad pass; steal by A. Caruso),38,45
+2,9:00.0,L. James makes 2-pt dunk from 1 ft (assist by A. Caruso),,40,45
+2,8:54.0,,New York full timeout,40,45
+2,8:39.0,,Shooting foul by J. Williams (drawn by K. Allen),40,45
+2,8:39.0,,K. Allen makes free throw 1 of 2,40,46
+2,8:39.0,,K. Allen makes free throw 2 of 2,40,47
+2,8:33.0,Shooting foul by M. Robinson (drawn by L. James),,40,47
+2,8:33.0,L. James misses free throw 1 of 2,,40,47
+2,8:33.0,Offensive rebound by Team,,40,47
+2,8:33.0,,M. Hezonja enters the game for L. Thomas,40,47
+2,8:33.0,L. James makes free throw 2 of 2,,41,47
+2,8:13.0,,Turnover by K. Allen (turnover),41,47
+2,8:13.0,,Loose ball foul by K. Allen (drawn by A. Caruso),41,47
+2,7:56.0,A. Caruso misses 2-pt layup from 1 ft (block by M. Robinson),,41,47
+2,7:54.0,Offensive rebound by L. James,,41,47
+2,7:50.0,L. James makes 2-pt jump shot from 12 ft,,43,47
+2,7:26.0,,A. Trier misses 3-pt jump shot from 25 ft,43,47
+2,7:24.0,Defensive rebound by J. Williams,,43,47
+2,7:11.0,L. James misses 3-pt jump shot from 25 ft,,43,47
+2,7:10.0,,Defensive rebound by Team,43,47
+2,7:10.0,,E. Mudiay enters the game for K. Allen,43,47
+2,6:58.0,,Offensive foul by A. Trier (drawn by A. Caruso),43,47
+2,6:58.0,,Turnover by A. Trier (offensive foul),43,47
+2,6:58.0,,D. Jordan enters the game for M. Robinson,43,47
+2,6:45.0,L. James makes 2-pt layup from 2 ft,,45,47
+2,6:20.0,,D. Dotson misses 3-pt jump shot from 23 ft,45,47
+2,6:20.0,,Offensive rebound by D. Jordan,45,47
+2,6:16.0,,Turnover by A. Trier (traveling),45,47
+2,6:01.0,J. Hart misses 2-pt jump shot from 13 ft,,45,47
+2,5:59.0,,Defensive rebound by M. Hezonja,45,47
+2,5:45.0,,A. Trier misses 3-pt jump shot from 23 ft,45,47
+2,5:43.0,,Offensive rebound by D. Jordan,45,47
+2,5:41.0,,D. Jordan makes 2-pt dunk from 1 ft,45,49
+2,5:41.0,LA Lakers full timeout,,45,49
+2,5:41.0,K. Kuzma enters the game for J. Hart,,45,49
+2,5:41.0,J. McGee enters the game for J. Williams,,45,49
+2,5:41.0,,K. Knox enters the game for A. Trier,45,49
+2,5:29.0,Personal foul by M. Hezonja (drawn by L. James),,45,49
+2,5:29.0,L. James makes free throw 1 of 2,,46,49
+2,5:29.0,L. James makes free throw 2 of 2,,47,49
+2,5:14.0,,M. Hezonja makes 2-pt jump shot from 7 ft,47,51
+2,4:49.0,A. Caruso makes 3-pt jump shot from 25 ft (assist by K. Kuzma),,50,51
+2,4:30.0,,Turnover by E. Mudiay (bad pass; steal by K. Kuzma),50,51
+2,4:27.0,K. Caldwell-Pope makes 2-pt layup from 1 ft (assist by K. Kuzma),,52,51
+2,4:27.0,Shooting foul by K. Knox (drawn by K. Caldwell-Pope),,52,51
+2,4:27.0,R. Rondo enters the game for A. Caruso,,52,51
+2,4:27.0,K. Caldwell-Pope makes free throw 1 of 1,,53,51
+2,4:08.0,,K. Knox misses 2-pt hook shot from 4 ft (block by J. McGee),53,51
+2,4:06.0,Defensive rebound by J. McGee,,53,51
+2,4:02.0,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,,53,51
+2,4:00.0,Offensive rebound by L. James,,53,51
+2,3:55.0,Turnover by L. James (bad pass),,53,51
+2,3:55.0,R. Bullock enters the game for K. Caldwell-Pope,,53,51
+2,3:55.0,A. Caruso enters the game for L. James,,53,51
+2,3:32.0,,D. Dotson misses 3-pt jump shot from 26 ft,53,51
+2,3:31.0,,Offensive rebound by Team,53,51
+2,3:31.0,,Turnover by Team (shot clock),53,51
+2,3:13.0,K. Kuzma makes 2-pt jump shot from 13 ft,,55,51
+2,3:01.0,,M. Hezonja makes 2-pt jump shot from 12 ft,55,53
+2,2:53.0,K. Kuzma makes 2-pt jump shot from 7 ft,,57,53
+2,2:36.0,,Shooting foul by A. Caruso (drawn by D. Dotson),57,53
+2,2:36.0,,D. Dotson makes free throw 1 of 2,57,54
+2,2:36.0,,D. Dotson makes free throw 2 of 2,57,55
+2,2:23.0,R. Bullock misses 2-pt jump shot from 15 ft,,57,55
+2,2:21.0,Offensive rebound by J. McGee,,57,55
+2,2:17.0,J. McGee misses 2-pt jump shot from 3 ft,,57,55
+2,2:15.0,,Defensive rebound by M. Hezonja,57,55
+2,1:56.0,,E. Mudiay misses 2-pt layup from 5 ft (block by A. Caruso),57,55
+2,1:54.0,Defensive rebound by R. Rondo,,57,55
+2,1:50.0,J. McGee makes 2-pt dunk from 1 ft (assist by K. Kuzma),,59,55
+2,1:33.0,,D. Dotson misses 2-pt layup from 2 ft,59,55
+2,1:31.0,Defensive rebound by R. Rondo,,59,55
+2,1:28.0,Turnover by R. Rondo (bad pass),,59,55
+2,1:27.0,Loose ball foul by J. McGee (drawn by E. Mudiay),,59,55
+2,1:27.0,,E. Mudiay makes free throw 1 of 2,59,56
+2,1:27.0,,E. Mudiay makes free throw 2 of 2,59,57
+2,1:16.0,K. Kuzma makes 2-pt jump shot from 18 ft,,61,57
+2,1:06.0,,E. Mudiay makes 2-pt layup from 2 ft,61,59
+2,1:06.0,,Shooting foul by A. Caruso (drawn by E. Mudiay),61,59
+2,1:06.0,,E. Mudiay makes free throw 1 of 1,61,60
+2,0:52.0,J. McGee misses 2-pt layup from 1 ft,,61,60
+2,0:49.0,Offensive rebound by R. Rondo,,61,60
+2,0:46.0,K. Kuzma misses 2-pt jump shot from 7 ft,,61,60
+2,0:44.0,,Defensive rebound by D. Jordan,61,60
+2,0:37.0,,Personal foul by R. Bullock (drawn by M. Hezonja),61,60
+2,0:37.0,,M. Hezonja makes free throw 1 of 2,61,61
+2,0:37.0,,M. Hezonja makes free throw 2 of 2,61,62
+2,0:32.0,R. Bullock makes 3-pt jump shot from 26 ft (assist by K. Kuzma),,64,62
+2,0:11.0,,Shooting foul by R. Rondo (drawn by E. Mudiay),64,62
+2,0:11.0,,E. Mudiay misses free throw 1 of 2,64,62
+2,0:11.0,,Offensive rebound by Team,64,62
+2,0:11.0,,K. Allen enters the game for K. Knox,64,62
+2,0:11.0,,E. Mudiay makes free throw 2 of 2,64,63
+2,0:01.0,R. Bullock makes 2-pt jump shot from 16 ft (assist by K. Kuzma),,66,63
+2,0:00.0,,Turnover by D. Jordan (bad pass),66,63
+3,11:47.0,,D. Dotson misses 3-pt jump shot from 25 ft,66,63
+3,11:45.0,Defensive rebound by J. McGee,,66,63
+3,11:30.0,R. Bullock makes 2-pt jump shot from 17 ft (assist by R. Rondo),,68,63
+3,11:04.0,,E. Mudiay makes 3-pt jump shot from 25 ft,68,66
+3,10:47.0,Turnover by J. McGee (lost ball; steal by D. Jordan),,68,66
+3,10:36.0,,D. Jordan makes 2-pt dunk from 2 ft (assist by E. Mudiay),68,68
+3,10:18.0,J. McGee makes 2-pt dunk at rim (assist by K. Kuzma),,70,68
+3,9:54.0,,K. Knox makes 2-pt jump shot from 13 ft (assist by E. Mudiay),70,70
+3,9:36.0,K. Kuzma makes 2-pt hook shot from 6 ft,,72,70
+3,9:14.0,,K. Knox misses 3-pt jump shot from 26 ft,72,70
+3,9:12.0,,Offensive rebound by D. Jordan,72,70
+3,9:12.0,,Shooting foul by L. James (drawn by D. Jordan),72,70
+3,9:12.0,,D. Jordan misses free throw 1 of 2,72,70
+3,9:12.0,,Offensive rebound by Team,72,70
+3,9:12.0,,D. Jordan makes free throw 2 of 2,72,71
+3,8:57.0,Shooting foul by K. Knox (drawn by L. James),,72,71
+3,8:57.0,L. James makes free throw 1 of 2,,73,71
+3,8:57.0,L. James makes free throw 2 of 2,,74,71
+3,8:41.0,,Shooting foul by J. McGee (drawn by E. Mudiay),74,71
+3,8:41.0,,E. Mudiay makes free throw 1 of 3,74,72
+3,8:41.0,,E. Mudiay makes free throw 2 of 3,74,73
+3,8:41.0,,E. Mudiay makes free throw 3 of 3,74,74
+3,8:32.0,Personal foul by M. Hezonja (drawn by L. James),,74,74
+3,8:23.0,L. James misses 3-pt jump shot from 26 ft,,74,74
+3,8:21.0,,Defensive rebound by M. Hezonja,74,74
+3,8:16.0,,M. Hezonja misses 2-pt layup from 9 ft (block by L. James),74,74
+3,8:15.0,Defensive rebound by Team,,74,74
+3,8:05.0,L. James makes 2-pt layup at rim (assist by K. Kuzma),,76,74
+3,7:51.0,,E. Mudiay makes 3-pt jump shot from 26 ft (assist by D. Jordan),76,77
+3,7:41.0,K. Kuzma makes 2-pt layup from 2 ft,,78,77
+3,7:31.0,,Turnover by D. Dotson (bad pass),78,77
+3,7:15.0,K. Kuzma misses 2-pt jump shot from 9 ft,,78,77
+3,7:13.0,,Defensive rebound by E. Mudiay,78,77
+3,7:06.0,,Turnover by E. Mudiay (bad pass; steal by J. McGee),78,77
+3,7:02.0,Shooting foul by D. Dotson (drawn by L. James),,78,77
+3,7:02.0,L. James misses free throw 1 of 2,,78,77
+3,7:02.0,Offensive rebound by Team,,78,77
+3,7:02.0,L. James makes free throw 2 of 2,,79,77
+3,6:49.0,,D. Dotson misses 2-pt jump shot from 20 ft,79,77
+3,6:47.0,Defensive rebound by L. James,,79,77
+3,6:41.0,K. Kuzma makes 2-pt dunk from 1 ft (assist by L. James),,81,77
+3,6:27.0,,D. Dotson misses 3-pt jump shot from 26 ft,81,77
+3,6:25.0,,Offensive rebound by M. Hezonja,81,77
+3,6:23.0,,D. Dotson makes 3-pt jump shot from 25 ft (assist by M. Hezonja),81,80
+3,6:20.0,LA Lakers full timeout,,81,80
+3,6:20.0,J. Williams enters the game for J. McGee,,81,80
+3,6:05.0,R. Bullock makes 2-pt jump shot from 20 ft (assist by L. James),,83,80
+3,5:48.0,,D. Dotson misses 3-pt jump shot from 24 ft,83,80
+3,5:46.0,Defensive rebound by R. Rondo,,83,80
+3,5:41.0,Personal foul by K. Knox (drawn by K. Kuzma),,83,80
+3,5:41.0,,A. Trier enters the game for K. Knox,83,80
+3,5:32.0,K. Kuzma misses 2-pt hook shot from 12 ft,,83,80
+3,5:31.0,Offensive rebound by J. Williams,,83,80
+3,5:30.0,J. Williams makes 2-pt layup from 2 ft,,85,80
+3,5:30.0,Shooting foul by A. Trier (drawn by J. Williams),,85,80
+3,5:30.0,J. Williams makes free throw 1 of 1,,86,80
+3,5:20.0,,D. Jordan makes 2-pt layup from 2 ft (assist by E. Mudiay),86,82
+3,4:58.0,L. James makes 2-pt jump shot from 8 ft,,88,82
+3,4:47.0,,Personal foul by J. Williams (drawn by D. Jordan),88,82
+3,4:36.0,,Turnover by D. Jordan (3 sec),88,82
+3,4:36.0,A. Caruso enters the game for L. James,,88,82
+3,4:30.0,K. Kuzma makes 2-pt jump shot from 12 ft,,90,82
+3,4:13.0,,D. Jordan makes 2-pt layup from 1 ft,90,84
+3,4:01.0,R. Rondo misses 2-pt layup from 1 ft,,90,84
+3,3:59.0,,Defensive rebound by D. Jordan,90,84
+3,3:46.0,,Shooting foul by K. Kuzma (drawn by M. Hezonja),90,84
+3,3:46.0,,M. Hezonja makes free throw 1 of 2,90,85
+3,3:46.0,,K. Allen enters the game for E. Mudiay,90,85
+3,3:46.0,,M. Hezonja makes free throw 2 of 2,90,86
+3,3:35.0,Offensive foul by J. Williams (drawn by K. Allen),,90,86
+3,3:35.0,Turnover by J. Williams (offensive foul),,90,86
+3,3:19.0,,Offensive foul by D. Jordan (drawn by J. Williams),90,86
+3,3:19.0,,Turnover by D. Jordan (offensive foul),90,86
+3,3:01.0,K. Kuzma misses 3-pt jump shot from 26 ft,,90,86
+3,2:59.0,,Defensive rebound by D. Dotson,90,86
+3,2:47.0,,New York full timeout,90,86
+3,2:47.0,K. Caldwell-Pope enters the game for R. Bullock,,90,86
+3,2:40.0,,Turnover by M. Hezonja (bad pass; steal by A. Caruso),90,86
+3,2:38.0,Shooting foul by K. Allen (drawn by A. Caruso),,90,86
+3,2:38.0,,M. Robinson enters the game for D. Jordan,90,86
+3,2:38.0,A. Caruso makes free throw 1 of 2,,91,86
+3,2:38.0,A. Caruso makes free throw 2 of 2,,92,86
+3,2:23.0,,D. Dotson makes 3-pt jump shot from 25 ft (assist by A. Trier),92,89
+3,2:08.0,Shooting foul by M. Robinson (drawn by K. Kuzma),,92,89
+3,2:08.0,K. Kuzma makes free throw 1 of 2,,93,89
+3,2:08.0,,L. Thomas enters the game for M. Hezonja,93,89
+3,2:08.0,K. Kuzma makes free throw 2 of 2,,94,89
+3,1:43.0,,Turnover by A. Trier (traveling),94,89
+3,1:32.0,Turnover by K. Kuzma (traveling),,94,89
+3,1:15.0,,L. Thomas makes 3-pt jump shot from 24 ft (assist by D. Dotson),94,92
+3,1:00.0,A. Caruso makes 2-pt layup from 2 ft,,96,92
+3,0:46.0,,L. Thomas makes 2-pt jump shot from 11 ft,96,94
+3,0:39.0,K. Kuzma misses 3-pt jump shot from 27 ft,,96,94
+3,0:35.0,,Defensive rebound by D. Dotson,96,94
+3,0:30.0,,D. Dotson misses 3-pt jump shot from 26 ft,96,94
+3,0:27.0,,Offensive rebound by M. Robinson,96,94
+3,0:26.0,,M. Robinson misses 2-pt layup from 2 ft (block by A. Caruso),96,94
+3,0:24.0,Defensive rebound by A. Caruso,,96,94
+3,0:18.0,A. Caruso misses 2-pt layup from 1 ft,,96,94
+3,0:16.0,,Defensive rebound by L. Thomas,96,94
+3,0:00.0,,L. Thomas misses 3-pt jump shot from 22 ft,96,94
+3,0:00.0,,Offensive rebound by Team,96,94
+4,11:41.0,L. James misses 2-pt jump shot from 17 ft,,96,94
+4,11:39.0,,Defensive rebound by K. Allen,96,94
+4,11:27.0,,A. Trier makes 2-pt jump shot from 19 ft (assist by K. Allen),96,96
+4,11:16.0,L. James makes 2-pt jump shot from 22 ft,,98,96
+4,10:59.0,,A. Trier misses 2-pt jump shot from 5 ft (block by A. Caruso),98,96
+4,10:57.0,Defensive rebound by Team,,98,96
+4,10:57.0,Flagrant foul type 1 by A. Trier (drawn by A. Caruso),,98,96
+4,10:57.0,A. Caruso makes flagrant free throw 1 of 2,,99,96
+4,10:57.0,A. Caruso makes flagrant free throw 2 of 2,,100,96
+4,10:47.0,L. James misses 3-pt jump shot from 27 ft,,100,96
+4,10:44.0,,Defensive rebound by A. Trier,100,96
+4,10:39.0,,Personal foul by A. Caruso (drawn by K. Allen),100,96
+4,10:25.0,,L. Thomas makes 2-pt layup from 2 ft,100,98
+4,10:22.0,Personal foul by A. Trier (drawn by J. Hart),,100,98
+4,10:12.0,L. James misses 2-pt jump shot from 21 ft,,100,98
+4,10:10.0,,Defensive rebound by K. Knox,100,98
+4,10:00.0,,K. Knox misses 2-pt jump shot from 11 ft,100,98
+4,9:57.0,Defensive rebound by J. Hart,,100,98
+4,9:50.0,L. James misses 2-pt layup from 2 ft,,100,98
+4,9:48.0,Offensive rebound by J. Williams,,100,98
+4,9:48.0,J. Williams makes 2-pt layup from 1 ft,,102,98
+4,9:43.0,,Turnover by L. Thomas (bad pass; steal by J. Hart),102,98
+4,9:35.0,K. Caldwell-Pope misses 2-pt layup from 1 ft,,102,98
+4,9:34.0,Offensive rebound by J. Williams,,102,98
+4,9:31.0,J. Williams misses 2-pt layup from 3 ft (block by M. Robinson),,102,98
+4,9:29.0,Offensive rebound by K. Caldwell-Pope,,102,98
+4,9:20.0,L. James misses 2-pt jump shot from 18 ft,,102,98
+4,9:16.0,,Defensive rebound by K. Knox,102,98
+4,9:15.0,,Offensive foul by L. Thomas (drawn by A. Caruso),102,98
+4,9:15.0,,Turnover by L. Thomas (offensive foul),102,98
+4,9:01.0,L. James misses 2-pt layup from 4 ft,,102,98
+4,8:59.0,,Defensive rebound by M. Robinson,102,98
+4,8:49.0,,K. Allen makes 3-pt jump shot from 26 ft (assist by A. Trier),102,101
+4,8:43.0,J. Williams makes 2-pt dunk from 1 ft (assist by L. James),,104,101
+4,8:43.0,Shooting foul by K. Allen (drawn by J. Williams),,104,101
+4,8:43.0,,M. Hezonja enters the game for L. Thomas,104,101
+4,8:43.0,J. Williams makes free throw 1 of 1,,105,101
+4,8:22.0,,K. Allen makes 2-pt jump shot from 12 ft (assist by A. Trier),105,103
+4,8:05.0,J. Williams makes 2-pt layup from 1 ft (assist by A. Caruso),,107,103
+4,8:05.0,Shooting foul by A. Trier (drawn by J. Williams),,107,103
+4,8:05.0,,E. Mudiay enters the game for A. Trier,107,103
+4,8:05.0,J. Williams misses free throw 1 of 1,,107,103
+4,8:03.0,,Defensive rebound by M. Hezonja,107,103
+4,7:47.0,,K. Knox makes 2-pt layup from 3 ft,107,105
+4,7:24.0,K. Caldwell-Pope makes 3-pt jump shot from 25 ft (assist by L. James),,110,105
+4,7:13.0,,Turnover by K. Allen (bad pass; steal by A. Caruso),110,105
+4,7:10.0,A. Caruso makes 2-pt layup from 1 ft,,112,105
+4,7:10.0,,New York full timeout,112,105
+4,7:10.0,,D. Jordan enters the game for M. Robinson,112,105
+4,6:56.0,,E. Mudiay makes 2-pt jump shot from 15 ft (assist by K. Knox),112,107
+4,6:41.0,L. James makes 2-pt layup from 4 ft,,114,107
+4,6:41.0,Shooting foul by M. Hezonja (drawn by L. James),,114,107
+4,6:41.0,,D. Dotson enters the game for K. Allen,114,107
+4,6:41.0,L. James makes free throw 1 of 1,,115,107
+4,6:22.0,,K. Knox misses 3-pt jump shot from 25 ft,115,107
+4,6:20.0,,Offensive rebound by D. Jordan,115,107
+4,6:16.0,,Turnover by D. Jordan (bad pass; steal by A. Caruso),115,107
+4,6:14.0,L. James makes 2-pt layup at rim (assist by J. Hart),,117,107
+4,6:05.0,,K. Knox misses 2-pt jump shot from 15 ft,117,107
+4,6:04.0,Defensive rebound by L. James,,117,107
+4,5:54.0,L. James misses 2-pt jump shot from 13 ft,,117,107
+4,5:52.0,,Defensive rebound by D. Jordan,117,107
+4,5:47.0,,K. Knox makes 2-pt layup from 2 ft (assist by E. Mudiay),117,109
+4,5:46.0,LA Lakers full timeout,,117,109
+4,5:32.0,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,,117,109
+4,5:30.0,,Defensive rebound by M. Hezonja,117,109
+4,5:08.0,,E. Mudiay makes 2-pt layup from 1 ft (assist by D. Jordan),117,111
+4,4:52.0,K. Caldwell-Pope makes 3-pt jump shot from 25 ft (assist by L. James),,120,111
+4,4:23.0,,E. Mudiay misses 3-pt jump shot from 25 ft,120,111
+4,4:21.0,Defensive rebound by L. James,,120,111
+4,4:12.0,J. Hart misses 3-pt jump shot from 26 ft,,120,111
+4,4:10.0,,Defensive rebound by M. Hezonja,120,111
+4,4:05.0,,M. Hezonja misses 2-pt layup from 1 ft,120,111
+4,4:03.0,Defensive rebound by J. Hart,,120,111
+4,3:58.0,A. Caruso misses 2-pt layup from 3 ft (block by E. Mudiay),,120,111
+4,3:56.0,Offensive rebound by A. Caruso,,120,111
+4,3:45.0,L. James makes 2-pt jump shot from 21 ft,,122,111
+4,3:44.0,,New York full timeout,122,111
+4,3:44.0,LA Lakers full timeout,,122,111
+4,3:44.0,K. Kuzma enters the game for J. Hart,,122,111
+4,3:31.0,,D. Jordan misses 2-pt hook shot from 3 ft,122,111
+4,3:30.0,,Offensive rebound by D. Jordan,122,111
+4,3:29.0,,D. Jordan misses 2-pt layup at rim,122,111
+4,3:28.0,,Offensive rebound by D. Jordan,122,111
+4,3:28.0,,Shooting foul by J. Williams (drawn by D. Jordan),122,111
+4,3:14.0,,D. Jordan makes 2-pt dunk from 1 ft (assist by E. Mudiay),122,113
+4,2:57.0,Turnover by K. Kuzma (out of bounds lost ball),,122,113
+4,2:45.0,,Offensive foul by K. Knox (drawn by A. Caruso),122,113
+4,2:45.0,,Turnover by K. Knox (offensive foul),122,113
+4,2:28.0,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,,122,113
+4,2:26.0,,Defensive rebound by D. Jordan,122,113
+4,2:15.0,,New York full timeout,122,113
+4,2:13.0,,M. Hezonja misses 3-pt jump shot from 25 ft,122,113
+4,2:11.0,,Offensive rebound by D. Jordan,122,113
+4,2:09.0,,M. Hezonja makes 3-pt jump shot from 24 ft (assist by D. Jordan),122,116
+4,2:00.0,Personal foul by E. Mudiay (drawn by A. Caruso),,122,116
+4,2:00.0,A. Caruso misses free throw 1 of 2,,122,116
+4,2:00.0,Offensive rebound by Team,,122,116
+4,2:00.0,A. Caruso makes free throw 2 of 2,,123,116
+4,1:41.0,,D. Dotson makes 2-pt jump shot from 20 ft,123,118
+4,1:20.0,L. James misses 3-pt jump shot from 24 ft,,123,118
+4,1:18.0,Offensive rebound by J. Williams,,123,118
+4,1:14.0,Turnover by J. Williams (lost ball; steal by M. Hezonja),,123,118
+4,1:05.0,,Shooting foul by K. Kuzma (drawn by D. Jordan),123,118
+4,1:05.0,,D. Jordan makes free throw 1 of 2,123,119
+4,1:05.0,,D. Jordan makes free throw 2 of 2,123,120
+4,0:44.0,L. James misses 2-pt layup from 1 ft (block by D. Jordan),,123,120
+4,0:42.0,Offensive rebound by J. Williams,,123,120
+4,0:42.0,J. Williams misses 2-pt layup from 1 ft,,123,120
+4,0:39.0,,Defensive rebound by E. Mudiay,123,120
+4,0:37.0,,D. Dotson makes 2-pt layup from 2 ft (assist by E. Mudiay),123,122
+4,0:37.0,LA Lakers full timeout,,123,122
+4,0:30.0,L. James misses 2-pt jump shot from 21 ft,,123,122
+4,0:28.0,,Defensive rebound by D. Dotson,123,122
+4,0:22.0,,Personal foul by K. Caldwell-Pope (drawn by E. Mudiay),123,122
+4,0:22.0,,E. Mudiay makes free throw 1 of 2,123,123
+4,0:22.0,,E. Mudiay makes free throw 2 of 2,123,124
+4,0:02.0,L. James misses 2-pt jump shot from 12 ft (block by M. Hezonja),,123,124
+4,0:01.0,,Defensive rebound by D. Jordan,123,124

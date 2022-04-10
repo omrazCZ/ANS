@@ -1,0 +1,436 @@
+QUARTER,TIME_REMAINING,TORONTO_ACTION,MINNESOTA_ACTION,TORONTO_SCORE,MINNESOTA_SCORE
+1,11:46.0,D. Green misses 2-pt jump shot from 7 ft,,0,0
+1,11:45.0,Offensive rebound by M. Gasol,,0,0
+1,11:45.0,Shooting foul by G. Dieng (drawn by M. Gasol),,0,0
+1,11:45.0,M. Gasol misses free throw 1 of 2,,0,0
+1,11:45.0,Offensive rebound by Team,,0,0
+1,11:45.0,M. Gasol misses free throw 2 of 2,,0,0
+1,11:43.0,,Defensive rebound by G. Dieng,0,0
+1,11:30.0,,A. Wiggins makes 2-pt jump shot from 14 ft (assist by T. Jones),0,2
+1,11:14.0,D. Green makes 2-pt jump shot from 7 ft,,2,2
+1,10:55.0,,J. Okogie misses 3-pt jump shot from 25 ft,2,2
+1,10:52.0,Defensive rebound by K. Leonard,,2,2
+1,10:47.0,K. Leonard makes 3-pt jump shot from 24 ft,,5,2
+1,10:35.0,,T. Jones makes 2-pt jump shot from 7 ft,5,4
+1,10:26.0,K. Leonard misses 3-pt jump shot from 25 ft,,5,4
+1,10:23.0,,Defensive rebound by G. Dieng,5,4
+1,10:19.0,,A. Wiggins misses 3-pt jump shot from 25 ft,5,4
+1,10:16.0,Defensive rebound by M. Gasol,,5,4
+1,9:56.0,P. Siakam makes 2-pt jump shot from 19 ft,,7,4
+1,9:40.0,,G. Dieng makes 2-pt jump shot from 21 ft (assist by T. Jones),7,6
+1,9:27.0,K. Leonard misses 2-pt jump shot from 21 ft,,7,6
+1,9:24.0,,Defensive rebound by G. Dieng,7,6
+1,9:19.0,,A. Wiggins misses 2-pt layup from 4 ft (block by K. Leonard),7,6
+1,9:18.0,,Offensive rebound by Team,7,6
+1,9:16.0,,D. Šarić misses 2-pt jump shot from 22 ft,7,6
+1,9:13.0,Defensive rebound by F. VanVleet,,7,6
+1,9:08.0,F. VanVleet makes 2-pt layup from 1 ft,,9,6
+1,8:49.0,,T. Jones misses 3-pt jump shot from 25 ft,9,6
+1,8:45.0,Defensive rebound by P. Siakam,,9,6
+1,8:42.0,Shooting foul by D. Šarić (drawn by P. Siakam),,9,6
+1,8:42.0,P. Siakam misses free throw 1 of 2,,9,6
+1,8:42.0,Offensive rebound by Team,,9,6
+1,8:42.0,P. Siakam makes free throw 2 of 2,,10,6
+1,8:20.0,,Turnover by G. Dieng (lost ball; steal by M. Gasol),10,6
+1,8:15.0,P. Siakam misses 3-pt jump shot from 24 ft,,10,6
+1,8:12.0,,Defensive rebound by D. Šarić,10,6
+1,7:58.0,,T. Jones makes 2-pt jump shot from 8 ft,10,8
+1,7:40.0,K. Leonard misses 2-pt layup from 5 ft,,10,8
+1,7:37.0,,Defensive rebound by G. Dieng,10,8
+1,7:29.0,,D. Šarić misses 3-pt jump shot from 25 ft,10,8
+1,7:27.0,Defensive rebound by F. VanVleet,,10,8
+1,7:24.0,P. Siakam misses 2-pt layup at rim,,10,8
+1,7:20.0,,Defensive rebound by T. Jones,10,8
+1,7:16.0,,G. Dieng makes 3-pt jump shot from 24 ft (assist by T. Jones),10,11
+1,6:54.0,K. Leonard misses 2-pt layup from 2 ft (block by G. Dieng),,10,11
+1,6:52.0,,Defensive rebound by D. Šarić,10,11
+1,6:46.0,,A. Wiggins makes 3-pt jump shot from 23 ft (assist by T. Jones),10,14
+1,6:25.0,D. Green makes 3-pt jump shot from 23 ft (assist by P. Siakam),,13,14
+1,6:08.0,,D. Šarić misses 3-pt jump shot from 25 ft,13,14
+1,6:05.0,Defensive rebound by P. Siakam,,13,14
+1,6:00.0,M. Gasol makes 3-pt jump shot from 25 ft (assist by F. VanVleet),,16,14
+1,5:50.0,,Minnesota full timeout,16,14
+1,5:50.0,,A. Tolliver enters the game for D. Šarić,16,14
+1,5:35.0,,T. Jones makes 3-pt jump shot from 25 ft (assist by G. Dieng),16,17
+1,5:10.0,Turnover by D. Green (bad pass; steal by G. Dieng),,16,17
+1,5:05.0,,G. Dieng misses 2-pt layup from 2 ft (block by D. Green),16,17
+1,5:01.0,Defensive rebound by M. Gasol,,16,17
+1,4:59.0,Turnover by F. VanVleet (lost ball; steal by T. Jones),,16,17
+1,4:38.0,,A. Wiggins misses 2-pt jump shot from 15 ft,16,17
+1,4:33.0,Defensive rebound by P. Siakam,,16,17
+1,4:31.0,D. Green misses 3-pt jump shot from 22 ft,,16,17
+1,4:30.0,,Defensive rebound by Team,16,17
+1,4:30.0,Loose ball foul by P. Siakam (drawn by A. Tolliver),,16,17
+1,4:30.0,,K. Bates-Diop enters the game for J. Okogie,16,17
+1,4:17.0,,T. Jones makes 2-pt layup from 1 ft,16,19
+1,4:02.0,Offensive foul by M. Gasol (drawn by G. Dieng),,16,19
+1,4:02.0,Turnover by M. Gasol (offensive foul),,16,19
+1,3:53.0,,A. Wiggins makes 2-pt dunk from 1 ft (assist by G. Dieng),16,21
+1,3:42.0,Turnover by P. Siakam (step out of bounds),,16,21
+1,3:32.0,,Shooting foul by F. VanVleet (drawn by G. Dieng),16,21
+1,3:32.0,,G. Dieng makes free throw 1 of 2,16,22
+1,3:32.0,,G. Dieng makes free throw 2 of 2,16,23
+1,3:16.0,P. Siakam makes 3-pt jump shot from 25 ft (assist by D. Green),,19,23
+1,3:06.0,,Personal foul by P. Siakam (drawn by T. Jones),19,23
+1,2:58.0,,G. Dieng misses 2-pt jump shot from 15 ft,19,23
+1,2:55.0,Defensive rebound by P. Siakam,,19,23
+1,2:47.0,K. Leonard makes 2-pt layup from 1 ft (assist by F. VanVleet),,21,23
+1,2:25.0,,A. Wiggins makes 2-pt jump shot from 17 ft,21,25
+1,2:16.0,Toronto full timeout,,21,25
+1,2:16.0,O. Anunoby enters the game for D. Green,,21,25
+1,2:16.0,J. Lin enters the game for K. Leonard,,21,25
+1,2:16.0,N. Powell enters the game for P. Siakam,,21,25
+1,2:16.0,,D. Šarić enters the game for G. Dieng,21,25
+1,2:04.0,F. VanVleet misses 3-pt jump shot from 25 ft,,21,25
+1,2:03.0,Offensive rebound by Team,,21,25
+1,2:03.0,,Loose ball foul by D. Šarić (drawn by M. Gasol),21,25
+1,1:55.0,Personal foul by K. Bates-Diop (drawn by M. Gasol),,21,25
+1,1:39.0,F. VanVleet misses 3-pt jump shot from 24 ft,,21,25
+1,1:37.0,,Defensive rebound by A. Wiggins,21,25
+1,1:24.0,,Turnover by K. Bates-Diop (traveling),21,25
+1,1:24.0,C. Boucher enters the game for M. Gasol,,21,25
+1,1:11.0,N. Powell makes 3-pt jump shot from 25 ft (assist by F. VanVleet),,24,25
+1,0:57.0,,D. Šarić misses 2-pt jump shot from 16 ft,24,25
+1,0:53.0,Defensive rebound by O. Anunoby,,24,25
+1,0:48.0,N. Powell makes 2-pt layup at rim (assist by O. Anunoby),,26,25
+1,0:40.0,,T. Jones misses 2-pt jump shot from 8 ft,26,25
+1,0:37.0,Defensive rebound by C. Boucher,,26,25
+1,0:33.0,O. Anunoby misses 3-pt jump shot from 23 ft (block by A. Tolliver),,26,25
+1,0:31.0,,Defensive rebound by K. Bates-Diop,26,25
+1,0:25.0,,A. Wiggins misses 3-pt jump shot from 25 ft,26,25
+1,0:25.0,,Offensive rebound by D. Šarić,26,25
+1,0:21.0,,D. Šarić makes 2-pt layup from 2 ft,26,27
+1,0:21.0,,Shooting foul by O. Anunoby (drawn by D. Šarić),26,27
+1,0:21.0,J. Meeks enters the game for F. VanVleet,,26,27
+1,0:21.0,,J. Okogie enters the game for T. Jones,26,27
+1,0:21.0,,J. Terrell enters the game for A. Wiggins,26,27
+1,0:21.0,,D. Šarić makes free throw 1 of 1,26,28
+1,0:02.0,J. Lin misses 2-pt jump shot from 12 ft,,26,28
+1,0:02.0,,Defensive rebound by J. Okogie,26,28
+2,11:43.0,,Shooting foul by C. Boucher (drawn by D. Šarić),26,28
+2,11:43.0,,D. Šarić makes free throw 1 of 2,26,29
+2,11:43.0,,D. Šarić makes free throw 2 of 2,26,30
+2,11:32.0,Turnover by N. Powell (bad pass),,26,30
+2,11:21.0,,K. Bates-Diop misses 3-pt jump shot from 26 ft,26,30
+2,11:19.0,Defensive rebound by N. Powell,,26,30
+2,11:14.0,C. Boucher makes 2-pt dunk from 1 ft (assist by J. Meeks),,28,30
+2,11:00.0,,A. Tolliver misses 2-pt jump shot from 12 ft,28,30
+2,10:56.0,Defensive rebound by N. Powell,,28,30
+2,10:45.0,O. Anunoby misses 2-pt layup from 1 ft,,28,30
+2,10:40.0,Offensive rebound by O. Anunoby,,28,30
+2,10:38.0,O. Anunoby makes 2-pt layup from 2 ft,,30,30
+2,10:38.0,Violation by Team (kicked ball),,30,30
+2,10:27.0,Violation by Team (kicked ball),,30,30
+2,10:24.0,,Shooting foul by J. Lin (drawn by J. Terrell),30,30
+2,10:24.0,,J. Terrell makes free throw 1 of 2,30,31
+2,10:24.0,,J. Terrell misses free throw 2 of 2,30,31
+2,10:22.0,Defensive rebound by O. Anunoby,,30,31
+2,10:07.0,C. Boucher makes 3-pt jump shot from 25 ft (assist by O. Anunoby),,33,31
+2,9:52.0,,Personal foul by J. Meeks (drawn by C. Williams),33,31
+2,9:52.0,,C. Reynolds enters the game for A. Tolliver,33,31
+2,9:47.0,,J. Terrell misses 3-pt jump shot from 25 ft,33,31
+2,9:44.0,Defensive rebound by C. Boucher,,33,31
+2,9:32.0,C. Boucher makes 2-pt layup from 1 ft (assist by J. Lin),,35,31
+2,9:21.0,,C. Reynolds misses 2-pt layup from 3 ft,35,31
+2,9:18.0,Defensive rebound by J. Lin,,35,31
+2,9:15.0,J. Lin misses 2-pt layup from 2 ft (block by K. Bates-Diop),,35,31
+2,9:12.0,,Defensive rebound by K. Bates-Diop,35,31
+2,8:59.0,,Turnover by K. Bates-Diop (bad pass; steal by J. Lin),35,31
+2,8:51.0,N. Powell misses 2-pt layup from 7 ft (block by J. Terrell),,35,31
+2,8:48.0,,Defensive rebound by K. Bates-Diop,35,31
+2,8:44.0,,D. Šarić makes 2-pt layup from 1 ft (assist by K. Bates-Diop),35,33
+2,8:30.0,Personal foul by C. Reynolds (drawn by J. Meeks),,35,33
+2,8:24.0,J. Meeks makes 2-pt layup from 4 ft (assist by J. Lin),,37,33
+2,8:16.0,,J. Terrell misses 3-pt jump shot from 25 ft,37,33
+2,8:16.0,Defensive rebound by N. Powell,,37,33
+2,8:09.0,N. Powell misses 3-pt jump shot from 25 ft,,37,33
+2,8:09.0,,Defensive rebound by K. Bates-Diop,37,33
+2,7:52.0,,D. Šarić makes 3-pt jump shot from 23 ft (assist by J. Terrell),37,36
+2,7:42.0,Shooting foul by J. Terrell (drawn by J. Lin),,37,36
+2,7:42.0,J. Lin makes free throw 1 of 3,,38,36
+2,7:42.0,J. Lin makes free throw 2 of 3,,39,36
+2,7:42.0,,M. Creek enters the game for K. Bates-Diop,39,36
+2,7:42.0,J. Lin makes free throw 3 of 3,,40,36
+2,7:26.0,,C. Williams makes 2-pt jump shot from 20 ft,40,38
+2,7:10.0,O. Anunoby makes 2-pt layup from 1 ft (assist by J. Lin),,42,38
+2,6:47.0,,C. Reynolds misses 3-pt jump shot from 25 ft (block by C. Boucher),42,38
+2,6:43.0,Defensive rebound by C. Boucher,,42,38
+2,6:42.0,C. Boucher makes 2-pt layup from 1 ft,,44,38
+2,6:42.0,,Minnesota full timeout,44,38
+2,6:42.0,,G. Dieng enters the game for D. Šarić,44,38
+2,6:29.0,,Shooting foul by N. Powell (drawn by G. Dieng),44,38
+2,6:29.0,,G. Dieng makes free throw 1 of 2,44,39
+2,6:29.0,,G. Dieng makes free throw 2 of 2,44,40
+2,6:15.0,J. Meeks makes 2-pt layup from 3 ft (assist by N. Powell),,46,40
+2,6:04.0,,C. Reynolds misses 3-pt jump shot from 24 ft,46,40
+2,5:59.0,Defensive rebound by C. Boucher,,46,40
+2,5:42.0,J. Meeks makes 3-pt jump shot from 26 ft (assist by J. Lin),,49,40
+2,5:16.0,,G. Dieng makes 2-pt jump shot from 18 ft (assist by C. Reynolds),49,42
+2,5:04.0,Personal foul by J. Terrell (drawn by C. Boucher),,49,42
+2,5:04.0,D. Green enters the game for O. Anunoby,,49,42
+2,5:04.0,K. Leonard enters the game for J. Lin,,49,42
+2,5:04.0,P. Siakam enters the game for N. Powell,,49,42
+2,5:04.0,,T. Jones enters the game for C. Reynolds,49,42
+2,5:04.0,,J. Okogie enters the game for J. Terrell,49,42
+2,5:04.0,,A. Wiggins enters the game for C. Williams,49,42
+2,4:55.0,K. Leonard makes 2-pt jump shot from 16 ft,,51,42
+2,4:43.0,,A. Wiggins misses 3-pt jump shot from 25 ft,51,42
+2,4:41.0,Defensive rebound by C. Boucher,,51,42
+2,4:22.0,K. Leonard makes 2-pt jump shot from 13 ft,,53,42
+2,4:05.0,,G. Dieng misses 2-pt hook shot from 8 ft (block by C. Boucher),53,42
+2,4:01.0,Defensive rebound by K. Leonard,,53,42
+2,3:51.0,C. Boucher makes 2-pt layup from 2 ft (assist by P. Siakam),,55,42
+2,3:44.0,,Minnesota full timeout,55,42
+2,3:44.0,M. Gasol enters the game for C. Boucher,,55,42
+2,3:44.0,F. VanVleet enters the game for J. Meeks,,55,42
+2,3:33.0,,Turnover by M. Creek (bad pass; steal by P. Siakam),55,42
+2,3:33.0,Personal foul by G. Dieng (drawn by P. Siakam),,55,42
+2,3:33.0,,K. Bates-Diop enters the game for M. Creek,55,42
+2,3:19.0,D. Green misses 3-pt jump shot from 23 ft,,55,42
+2,3:17.0,,Defensive rebound by A. Wiggins,55,42
+2,3:08.0,,J. Okogie misses 2-pt jump shot from 7 ft,55,42
+2,3:05.0,Defensive rebound by K. Leonard,,55,42
+2,2:57.0,K. Leonard makes 2-pt layup from 1 ft,,57,42
+2,2:44.0,,K. Bates-Diop misses 3-pt jump shot from 25 ft,57,42
+2,2:41.0,Defensive rebound by D. Green,,57,42
+2,2:34.0,F. VanVleet makes 2-pt layup at rim,,59,42
+2,2:24.0,,T. Jones misses 3-pt jump shot from 25 ft,59,42
+2,2:22.0,Defensive rebound by D. Green,,59,42
+2,2:17.0,F. VanVleet makes 2-pt layup from 2 ft (assist by D. Green),,61,42
+2,2:16.0,,Minnesota full timeout,61,42
+2,2:00.0,,J. Okogie makes 3-pt jump shot from 24 ft (assist by T. Jones),61,45
+2,1:47.0,P. Siakam makes 2-pt layup from 2 ft,,63,45
+2,1:42.0,,Shooting foul by P. Siakam (drawn by K. Bates-Diop),63,45
+2,1:42.0,,K. Bates-Diop makes free throw 1 of 2,63,46
+2,1:42.0,O. Anunoby enters the game for P. Siakam,,63,46
+2,1:42.0,,K. Bates-Diop makes free throw 2 of 2,63,47
+2,1:30.0,Offensive foul by O. Anunoby (drawn by T. Jones),,63,47
+2,1:30.0,Turnover by O. Anunoby (offensive foul),,63,47
+2,1:10.0,,Turnover by T. Jones (bad pass; steal by F. VanVleet),63,47
+2,1:02.0,Personal foul by J. Okogie (drawn by D. Green),,63,47
+2,1:02.0,D. Green makes free throw 1 of 2,,64,47
+2,1:02.0,D. Green makes free throw 2 of 2,,65,47
+2,0:53.0,,A. Wiggins misses 3-pt jump shot from 25 ft,65,47
+2,0:51.0,Defensive rebound by M. Gasol,,65,47
+2,0:28.0,F. VanVleet makes 2-pt jump shot from 20 ft (assist by D. Green),,67,47
+2,0:18.0,,A. Wiggins misses 2-pt jump shot from 8 ft,67,47
+2,0:17.0,Defensive rebound by Team,,67,47
+2,0:02.0,M. Gasol makes 2-pt layup from 3 ft (assist by F. VanVleet),,69,47
+2,0:02.0,,Violation by Team (def goaltending),69,47
+3,11:47.0,Violation by Team (kicked ball),,69,47
+3,11:39.0,,D. Šarić makes 2-pt layup from 1 ft (assist by J. Okogie),69,49
+3,11:20.0,Turnover by K. Leonard (bad pass; steal by J. Okogie),,69,49
+3,11:16.0,,D. Šarić makes 3-pt jump shot from 25 ft (assist by T. Jones),69,52
+3,11:01.0,Personal foul by J. Okogie (drawn by M. Gasol),,69,52
+3,10:51.0,F. VanVleet misses 2-pt jump shot from 11 ft,,69,52
+3,10:48.0,,Defensive rebound by D. Šarić,69,52
+3,10:35.0,,G. Dieng makes 2-pt layup from 1 ft (assist by A. Wiggins),69,54
+3,10:12.0,K. Leonard makes 3-pt jump shot from 25 ft,,72,54
+3,9:53.0,,A. Wiggins misses 2-pt jump shot from 6 ft,72,54
+3,9:49.0,Defensive rebound by K. Leonard,,72,54
+3,9:44.0,M. Gasol misses 3-pt jump shot from 26 ft,,72,54
+3,9:41.0,,Defensive rebound by G. Dieng,72,54
+3,9:32.0,,G. Dieng makes 2-pt jump shot from 15 ft (assist by T. Jones),72,56
+3,9:21.0,P. Siakam makes 2-pt layup from 1 ft,,74,56
+3,9:08.0,,A. Wiggins makes 2-pt jump shot from 20 ft (assist by G. Dieng),74,58
+3,8:49.0,Shooting foul by J. Okogie (drawn by M. Gasol),,74,58
+3,8:49.0,M. Gasol misses free throw 1 of 2,,74,58
+3,8:49.0,Offensive rebound by Team,,74,58
+3,8:49.0,M. Gasol makes free throw 2 of 2,,75,58
+3,8:31.0,,J. Okogie misses 3-pt jump shot from 26 ft,75,58
+3,8:26.0,Defensive rebound by K. Leonard,,75,58
+3,8:22.0,K. Leonard makes 3-pt jump shot from 26 ft,,78,58
+3,8:02.0,,A. Wiggins makes 3-pt jump shot from 26 ft (assist by G. Dieng),78,61
+3,7:48.0,K. Leonard misses 3-pt jump shot from 23 ft,,78,61
+3,7:46.0,,Defensive rebound by D. Šarić,78,61
+3,7:41.0,,A. Wiggins makes 2-pt dunk from 1 ft (assist by T. Jones),78,63
+3,7:29.0,Offensive foul by P. Siakam (drawn by J. Okogie),,78,63
+3,7:29.0,Turnover by P. Siakam (offensive foul),,78,63
+3,7:29.0,N. Powell enters the game for P. Siakam,,78,63
+3,7:16.0,,Turnover by D. Šarić (lost ball; steal by D. Green),78,63
+3,7:14.0,Shooting foul by J. Okogie (drawn by F. VanVleet),,78,63
+3,7:14.0,F. VanVleet makes free throw 1 of 2,,79,63
+3,7:14.0,,C. Reynolds enters the game for J. Okogie,79,63
+3,7:14.0,F. VanVleet makes free throw 2 of 2,,80,63
+3,6:58.0,,Turnover by G. Dieng (lost ball; steal by F. VanVleet),80,63
+3,6:52.0,F. VanVleet misses 2-pt layup from 2 ft (block by A. Wiggins),,80,63
+3,6:50.0,Offensive rebound by M. Gasol,,80,63
+3,6:45.0,K. Leonard misses 3-pt jump shot from 25 ft,,80,63
+3,6:42.0,,Defensive rebound by A. Wiggins,80,63
+3,6:25.0,,C. Reynolds misses 2-pt jump shot from 10 ft,80,63
+3,6:24.0,,Offensive rebound by Team,80,63
+3,6:24.0,Loose ball foul by N. Powell (drawn by D. Šarić),,80,63
+3,6:24.0,,Minnesota full timeout,80,63
+3,6:24.0,,A. Tolliver enters the game for D. Šarić,80,63
+3,6:19.0,,Turnover by A. Wiggins (lost ball; steal by K. Leonard),80,63
+3,6:16.0,M. Gasol misses 2-pt layup from 2 ft (block by A. Wiggins),,80,63
+3,6:16.0,Offensive rebound by Team,,80,63
+3,6:08.0,F. VanVleet makes 3-pt jump shot from 23 ft (assist by K. Leonard),,83,63
+3,5:54.0,,A. Tolliver makes 3-pt jump shot from 26 ft (assist by A. Wiggins),83,66
+3,5:29.0,N. Powell makes 3-pt jump shot from 23 ft (assist by D. Green),,86,66
+3,5:08.0,,T. Jones misses 3-pt jump shot from 25 ft,86,66
+3,5:05.0,Defensive rebound by K. Leonard,,86,66
+3,4:54.0,Turnover by M. Gasol (bad pass),,86,66
+3,4:43.0,,C. Reynolds misses 3-pt jump shot from 25 ft,86,66
+3,4:40.0,Defensive rebound by M. Gasol,,86,66
+3,4:32.0,F. VanVleet makes 3-pt jump shot from 25 ft (assist by M. Gasol),,89,66
+3,4:20.0,,A. Tolliver makes 3-pt jump shot from 24 ft (assist by T. Jones),89,69
+3,4:05.0,F. VanVleet misses 2-pt jump shot from 16 ft,,89,69
+3,4:03.0,,Defensive rebound by A. Tolliver,89,69
+3,3:58.0,,C. Reynolds makes 3-pt jump shot from 26 ft (assist by A. Wiggins),89,72
+3,3:39.0,M. Gasol makes 3-pt jump shot from 25 ft,,92,72
+3,3:17.0,,T. Jones makes 2-pt jump shot from 13 ft (assist by G. Dieng),92,74
+3,3:07.0,K. Leonard makes 3-pt jump shot from 25 ft,,95,74
+3,2:57.0,Toronto full timeout,,95,74
+3,2:57.0,O. Anunoby enters the game for M. Gasol,,95,74
+3,2:57.0,C. Boucher enters the game for D. Green,,95,74
+3,2:57.0,J. Lin enters the game for K. Leonard,,95,74
+3,2:57.0,,K. Bates-Diop enters the game for G. Dieng,95,74
+3,2:57.0,,D. Šarić enters the game for T. Jones,95,74
+3,2:57.0,,J. Terrell enters the game for A. Wiggins,95,74
+3,2:51.0,,C. Reynolds misses 3-pt jump shot from 25 ft,95,74
+3,2:47.0,Defensive rebound by C. Boucher,,95,74
+3,2:30.0,J. Lin misses 3-pt jump shot from 25 ft,,95,74
+3,2:26.0,,Defensive rebound by D. Šarić,95,74
+3,2:19.0,,J. Terrell makes 2-pt jump shot from 14 ft,95,76
+3,2:04.0,N. Powell misses 2-pt layup from 2 ft (block by K. Bates-Diop),,95,76
+3,2:01.0,,Defensive rebound by D. Šarić,95,76
+3,1:58.0,,J. Terrell misses 3-pt jump shot from 22 ft,95,76
+3,1:55.0,,Offensive rebound by D. Šarić,95,76
+3,1:54.0,,K. Bates-Diop misses 3-pt jump shot from 25 ft,95,76
+3,1:50.0,Defensive rebound by C. Boucher,,95,76
+3,1:43.0,F. VanVleet misses 3-pt jump shot from 25 ft,,95,76
+3,1:39.0,,Defensive rebound by A. Tolliver,95,76
+3,1:28.0,,D. Šarić misses 3-pt jump shot from 25 ft,95,76
+3,1:24.0,Defensive rebound by O. Anunoby,,95,76
+3,1:11.0,N. Powell misses 3-pt jump shot from 26 ft,,95,76
+3,1:08.0,,Defensive rebound by A. Tolliver,95,76
+3,0:57.0,,Turnover by K. Bates-Diop (lost ball; steal by F. VanVleet),95,76
+3,0:52.0,J. Lin misses 3-pt jump shot from 25 ft,,95,76
+3,0:49.0,,Defensive rebound by D. Šarić,95,76
+3,0:34.0,,C. Reynolds misses 3-pt jump shot from 24 ft,95,76
+3,0:32.0,Defensive rebound by N. Powell,,95,76
+3,0:23.0,N. Powell misses 2-pt jump shot from 18 ft,,95,76
+3,0:23.0,Offensive rebound by Team,,95,76
+3,0:23.0,,Loose ball foul by A. Tolliver (drawn by C. Boucher),95,76
+3,0:23.0,J. Meeks enters the game for F. VanVleet,,95,76
+3,0:14.0,J. Lin makes 2-pt layup from 5 ft,,97,76
+3,0:14.0,Shooting foul by K. Bates-Diop (drawn by J. Lin),,97,76
+3,0:14.0,J. Lin makes free throw 1 of 1,,98,76
+3,0:03.0,,J. Terrell makes 2-pt jump shot from 20 ft,98,78
+3,0:00.0,J. Lin misses 3-pt jump shot from 30 ft,,98,78
+3,0:00.0,Offensive rebound by Team,,98,78
+4,11:47.0,C. Boucher makes 2-pt dunk from 2 ft (assist by N. Powell),,100,78
+4,11:32.0,,Turnover by J. Terrell (bad pass; steal by N. Powell),100,78
+4,11:29.0,N. Powell makes 2-pt dunk at rim,,102,78
+4,11:15.0,,J. Terrell misses 2-pt jump shot from 19 ft,102,78
+4,11:12.0,Defensive rebound by O. Anunoby,,102,78
+4,11:06.0,O. Anunoby makes 2-pt layup from 3 ft,,104,78
+4,10:48.0,Violation by Team (kicked ball),,104,78
+4,10:40.0,,D. Šarić misses 3-pt jump shot from 25 ft,104,78
+4,10:37.0,Defensive rebound by N. Powell,,104,78
+4,10:30.0,C. Boucher misses 3-pt jump shot from 26 ft,,104,78
+4,10:25.0,Offensive rebound by J. Lin,,104,78
+4,10:21.0,C. Boucher misses 2-pt jump shot from 3 ft (block by A. Tolliver),,104,78
+4,10:18.0,,Defensive rebound by C. Williams,104,78
+4,10:10.0,,D. Šarić misses 2-pt layup from 2 ft,104,78
+4,10:08.0,Defensive rebound by C. Boucher,,104,78
+4,10:02.0,O. Anunoby makes 3-pt jump shot from 25 ft (assist by C. Boucher),,107,78
+4,10:02.0,,Minnesota full timeout,107,78
+4,10:02.0,,G. Dieng enters the game for K. Bates-Diop,107,78
+4,10:02.0,,T. Jones enters the game for D. Šarić,107,78
+4,10:02.0,,A. Wiggins enters the game for J. Terrell,107,78
+4,9:50.0,,Personal foul by N. Powell (drawn by G. Dieng),107,78
+4,9:41.0,,G. Dieng misses 2-pt jump shot from 15 ft,107,78
+4,9:38.0,Defensive rebound by J. Lin,,107,78
+4,9:25.0,N. Powell misses 2-pt layup from 3 ft (block by A. Tolliver),,107,78
+4,9:22.0,,Defensive rebound by C. Williams,107,78
+4,9:21.0,,C. Williams makes 2-pt layup from 2 ft (assist by T. Jones),107,80
+4,9:21.0,,Shooting foul by J. Lin (drawn by C. Williams),107,80
+4,9:21.0,,C. Williams misses free throw 1 of 1,107,80
+4,9:18.0,Defensive rebound by C. Boucher,,107,80
+4,9:02.0,Turnover by O. Anunoby (bad pass; steal by A. Tolliver),,107,80
+4,8:45.0,,Shooting foul by C. Boucher (drawn by G. Dieng),107,80
+4,8:45.0,,G. Dieng makes free throw 1 of 2,107,81
+4,8:45.0,M. Miller enters the game for N. Powell,,107,81
+4,8:45.0,,G. Dieng misses free throw 2 of 2,107,81
+4,8:43.0,Defensive rebound by C. Boucher,,107,81
+4,8:29.0,Turnover by J. Lin (bad pass; steal by C. Williams),,107,81
+4,8:19.0,,A. Tolliver misses 3-pt jump shot from 24 ft,107,81
+4,8:16.0,Defensive rebound by J. Lin,,107,81
+4,8:10.0,M. Miller makes 2-pt jump shot from 18 ft (assist by C. Boucher),,109,81
+4,7:59.0,,Personal foul by M. Miller (drawn by G. Dieng),109,81
+4,7:55.0,,A. Wiggins misses 2-pt layup from 3 ft,109,81
+4,7:55.0,,Offensive rebound by Team,109,81
+4,7:45.0,,A. Wiggins misses 2-pt jump shot from 22 ft,109,81
+4,7:41.0,,Offensive rebound by G. Dieng,109,81
+4,7:39.0,,C. Williams misses 3-pt jump shot from 24 ft,109,81
+4,7:36.0,,Offensive rebound by G. Dieng,109,81
+4,7:34.0,,A. Tolliver misses 3-pt jump shot from 26 ft,109,81
+4,7:32.0,Defensive rebound by J. Meeks,,109,81
+4,7:32.0,J. Loyd enters the game for O. Anunoby,,109,81
+4,7:32.0,E. Moreland enters the game for J. Meeks,,109,81
+4,7:32.0,,M. Creek enters the game for T. Jones,109,81
+4,7:32.0,,C. Reynolds enters the game for A. Wiggins,109,81
+4,7:09.0,J. Loyd makes 2-pt jump shot from 19 ft (assist by J. Lin),,111,81
+4,7:09.0,Shooting foul by C. Williams (drawn by J. Loyd),,111,81
+4,7:09.0,J. Loyd makes free throw 1 of 1,,112,81
+4,6:55.0,,C. Williams misses 2-pt layup from 3 ft,112,81
+4,6:53.0,Defensive rebound by E. Moreland,,112,81
+4,6:46.0,Turnover by J. Lin (bad pass),,112,81
+4,6:46.0,,K. Bates-Diop enters the game for G. Dieng,112,81
+4,6:29.0,,Turnover by C. Reynolds (lost ball; steal by E. Moreland),112,81
+4,6:23.0,Turnover by J. Lin (lost ball; steal by C. Reynolds),,112,81
+4,6:15.0,,M. Creek misses 3-pt jump shot from 22 ft,112,81
+4,6:12.0,Defensive rebound by E. Moreland,,112,81
+4,6:02.0,C. Boucher misses 3-pt jump shot from 23 ft,,112,81
+4,6:00.0,Offensive rebound by M. Miller,,112,81
+4,6:00.0,Shooting foul by A. Tolliver (drawn by M. Miller),,112,81
+4,6:00.0,M. Miller misses free throw 1 of 2,,112,81
+4,6:00.0,Offensive rebound by Team,,112,81
+4,6:00.0,M. Miller makes free throw 2 of 2,,113,81
+4,5:51.0,,M. Creek makes 2-pt layup from 2 ft (assist by A. Tolliver),113,83
+4,5:51.0,Violation by Team (def goaltending),,113,83
+4,5:41.0,J. Lin misses 3-pt jump shot from 25 ft,,113,83
+4,5:38.0,,Defensive rebound by A. Tolliver,113,83
+4,5:25.0,,C. Williams makes 3-pt jump shot from 26 ft,113,86
+4,5:07.0,Turnover by E. Moreland (bad pass; steal by M. Creek),,113,86
+4,5:02.0,,M. Creek makes 2-pt layup from 2 ft,113,88
+4,4:44.0,J. Lin makes 2-pt layup from 2 ft,,115,88
+4,4:28.0,,C. Reynolds makes 3-pt jump shot from 25 ft,115,91
+4,4:18.0,Turnover by C. Boucher (out of bounds lost ball),,115,91
+4,4:18.0,J. Meeks enters the game for J. Lin,,115,91
+4,4:06.0,,K. Bates-Diop misses 3-pt jump shot from 26 ft,115,91
+4,4:02.0,,Offensive rebound by M. Creek,115,91
+4,4:02.0,,M. Creek makes 2-pt layup at rim,115,93
+4,3:50.0,J. Meeks misses 3-pt jump shot from 23 ft,,115,93
+4,3:48.0,,Defensive rebound by C. Reynolds,115,93
+4,3:45.0,,Turnover by C. Williams (bad pass),115,93
+4,3:45.0,,J. Terrell enters the game for A. Tolliver,115,93
+4,3:29.0,M. Miller misses 2-pt layup from 2 ft,,115,93
+4,3:23.0,Offensive rebound by C. Boucher,,115,93
+4,3:23.0,C. Boucher makes 2-pt dunk at rim,,117,93
+4,3:07.0,,K. Bates-Diop misses 2-pt jump shot from 6 ft,117,93
+4,3:04.0,Defensive rebound by C. Boucher,,117,93
+4,2:57.0,J. Loyd misses 2-pt jump shot from 20 ft,,117,93
+4,2:55.0,,Defensive rebound by M. Creek,117,93
+4,2:47.0,,K. Bates-Diop makes 2-pt layup at rim (assist by J. Terrell),117,95
+4,2:27.0,Turnover by E. Moreland (bad pass; steal by C. Williams),,117,95
+4,2:17.0,,C. Williams misses 2-pt layup from 3 ft,117,95
+4,2:15.0,Defensive rebound by C. Boucher,,117,95
+4,2:09.0,J. Loyd makes 3-pt jump shot from 25 ft,,120,95
+4,1:52.0,,M. Creek misses 2-pt layup from 4 ft,120,95
+4,1:49.0,Defensive rebound by J. Loyd,,120,95
+4,1:43.0,Turnover by J. Meeks (bad pass; steal by C. Williams),,120,95
+4,1:35.0,,C. Reynolds makes 2-pt jump shot from 12 ft (assist by M. Creek),120,97
+4,1:15.0,J. Loyd misses 2-pt layup from 3 ft,,120,97
+4,1:11.0,Offensive rebound by E. Moreland,,120,97
+4,1:11.0,E. Moreland misses 2-pt layup at rim,,120,97
+4,1:11.0,Offensive rebound by Team,,120,97
+4,1:11.0,Toronto full timeout,,120,97
+4,1:04.0,Turnover by C. Boucher (bad pass; steal by K. Bates-Diop),,120,97
+4,0:58.0,,K. Bates-Diop makes 3-pt jump shot from 24 ft (assist by J. Terrell),120,100
+4,0:38.0,J. Meeks misses 3-pt jump shot from 26 ft,,120,100
+4,0:35.0,,Defensive rebound by J. Terrell,120,100
+4,0:22.0,,M. Creek misses 2-pt layup from 1 ft (block by E. Moreland),120,100
+4,0:20.0,Defensive rebound by E. Moreland,,120,100

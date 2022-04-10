@@ -1,0 +1,528 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,UTAH_ACTION,HOUSTON_SCORE,UTAH_SCORE
+1,11:41.0,,J. Ingles misses 2-pt layup from 3 ft,0,0
+1,11:39.0,Defensive rebound by K. Faried,,0,0
+1,11:35.0,Turnover by K. Faried (bad pass; steal by J. Crowder),,0,0
+1,11:32.0,,J. Ingles makes 3-pt jump shot from 25 ft (assist by D. Mitchell),0,3
+1,11:12.0,K. Faried makes 2-pt hook shot from 5 ft (assist by P. Tucker),,2,3
+1,10:58.0,,R. Rubio misses 2-pt layup from 2 ft,2,3
+1,10:56.0,Defensive rebound by K. Faried,,2,3
+1,10:38.0,J. Harden misses 3-pt jump shot from 24 ft,,2,3
+1,10:34.0,Offensive rebound by K. Faried,,2,3
+1,10:33.0,K. Faried makes 2-pt hook shot from 3 ft,,4,3
+1,10:18.0,,D. Mitchell misses 2-pt jump shot from 6 ft,4,3
+1,10:16.0,Defensive rebound by K. Faried,,4,3
+1,10:06.0,E. Gordon misses 3-pt jump shot from 26 ft,,4,3
+1,10:02.0,,Defensive rebound by R. Gobert,4,3
+1,9:59.0,,Personal foul by J. Harden (drawn by R. Rubio),4,3
+1,9:53.0,,J. Crowder misses 3-pt jump shot from 23 ft,4,3
+1,9:49.0,Defensive rebound by K. Faried,,4,3
+1,9:44.0,J. Harden makes 3-pt jump shot from 26 ft,,7,3
+1,9:32.0,,Turnover by D. Mitchell (bad pass; steal by J. Harden),7,3
+1,9:28.0,J. Harden misses 2-pt layup from 3 ft,,7,3
+1,9:21.0,Offensive rebound by J. Ennis,,7,3
+1,9:21.0,J. Ennis makes 2-pt layup at rim,,9,3
+1,9:12.0,,D. Mitchell misses 3-pt jump shot from 25 ft,9,3
+1,9:08.0,Defensive rebound by J. Harden,,9,3
+1,9:02.0,J. Ennis misses 3-pt jump shot from 26 ft,,9,3
+1,8:59.0,,Defensive rebound by R. Rubio,9,3
+1,8:55.0,,Personal foul by P. Tucker (drawn by J. Ingles),9,3
+1,8:45.0,,J. Crowder makes 3-pt jump shot from 23 ft (assist by J. Ingles),9,6
+1,8:32.0,K. Faried makes 2-pt layup from 3 ft (assist by E. Gordon),,11,6
+1,8:22.0,,J. Ingles makes 3-pt jump shot from 24 ft,11,9
+1,8:09.0,J. Harden makes 2-pt layup from 1 ft,,13,9
+1,7:57.0,,Turnover by D. Mitchell (bad pass; steal by J. Harden),13,9
+1,7:49.0,E. Gordon misses 2-pt jump shot from 10 ft,,13,9
+1,7:47.0,,Defensive rebound by R. Gobert,13,9
+1,7:40.0,,J. Crowder makes 3-pt jump shot from 23 ft (assist by D. Mitchell),13,12
+1,7:25.0,J. Ennis misses 2-pt layup from 4 ft,,13,12
+1,7:24.0,,Defensive rebound by R. Gobert,13,12
+1,7:16.0,,J. Ingles misses 2-pt layup from 4 ft,13,12
+1,7:11.0,,Offensive rebound by R. Gobert,13,12
+1,7:11.0,,R. Gobert makes 2-pt layup from 1 ft,13,14
+1,6:55.0,Shooting foul by J. Ingles (drawn by J. Harden),,13,14
+1,6:55.0,,Utah full timeout,13,14
+1,6:55.0,A. Rivers enters the game for J. Ennis,,13,14
+1,6:55.0,,D. Favors enters the game for R. Gobert,13,14
+1,6:55.0,,K. Korver enters the game for J. Ingles,13,14
+1,6:55.0,,R. O'Neale enters the game for R. Rubio,13,14
+1,6:55.0,J. Harden makes free throw 1 of 2,,14,14
+1,6:55.0,J. Harden makes free throw 2 of 2,,15,14
+1,6:37.0,,D. Mitchell misses 3-pt jump shot from 26 ft,15,14
+1,6:33.0,Defensive rebound by E. Gordon,,15,14
+1,6:23.0,Turnover by E. Gordon (traveling),,15,14
+1,6:08.0,,K. Korver misses 2-pt jump shot from 23 ft,15,14
+1,6:06.0,Defensive rebound by J. Harden,,15,14
+1,6:00.0,J. Harden makes 2-pt layup from 2 ft,,17,14
+1,5:43.0,,R. O'Neale makes 2-pt jump shot from 1 ft (assist by D. Mitchell),17,16
+1,5:28.0,A. Rivers misses 2-pt jump shot from 6 ft,,17,16
+1,5:25.0,,Defensive rebound by D. Favors,17,16
+1,5:21.0,,D. Mitchell misses 2-pt jump shot from 12 ft,17,16
+1,5:16.0,,Offensive rebound by R. O'Neale,17,16
+1,5:16.0,,R. O'Neale makes 2-pt layup from 1 ft,17,18
+1,5:03.0,A. Rivers misses 3-pt jump shot from 25 ft,,17,18
+1,5:00.0,,Defensive rebound by D. Mitchell,17,18
+1,4:57.0,,K. Korver makes 2-pt layup from 2 ft (assist by D. Mitchell),17,20
+1,4:39.0,Shooting foul by D. Mitchell (drawn by E. Gordon),,17,20
+1,4:39.0,E. Gordon misses free throw 1 of 2,,17,20
+1,4:39.0,Offensive rebound by Team,,17,20
+1,4:39.0,N. Hilário enters the game for K. Faried,,17,20
+1,4:39.0,E. Gordon misses free throw 2 of 2,,17,20
+1,4:38.0,,Defensive rebound by J. Crowder,17,20
+1,4:32.0,,J. Crowder misses 2-pt layup from 3 ft,17,20
+1,4:30.0,Defensive rebound by P. Tucker,,17,20
+1,4:23.0,Shooting foul by J. Crowder (drawn by J. Harden),,17,20
+1,4:23.0,J. Harden makes free throw 1 of 2,,18,20
+1,4:23.0,G. Green enters the game for E. Gordon,,18,20
+1,4:23.0,J. Harden makes free throw 2 of 2,,19,20
+1,4:10.0,,D. Favors makes 2-pt layup from 2 ft (assist by R. O'Neale),19,22
+1,3:55.0,P. Tucker misses 3-pt jump shot from 22 ft,,19,22
+1,3:49.0,Offensive rebound by P. Tucker,,19,22
+1,3:48.0,P. Tucker misses 2-pt jump shot from 3 ft (block by D. Favors),,19,22
+1,3:45.0,,Defensive rebound by D. Favors,19,22
+1,3:41.0,,R. O'Neale makes 3-pt jump shot from 25 ft (assist by D. Mitchell),19,25
+1,3:20.0,N. Hilário makes 2-pt layup from 3 ft,,21,25
+1,3:10.0,,Shooting foul by P. Tucker (drawn by D. Mitchell),21,25
+1,3:10.0,Houston full timeout,,21,25
+1,3:10.0,J. Ennis enters the game for P. Tucker,,21,25
+1,3:10.0,,G. Niang enters the game for J. Crowder,21,25
+1,3:10.0,,D. Mitchell makes free throw 1 of 2,21,26
+1,3:10.0,,D. Mitchell makes free throw 2 of 2,21,27
+1,3:02.0,A. Rivers misses 2-pt layup from 3 ft (block by D. Favors),,21,27
+1,2:58.0,,Defensive rebound by G. Niang,21,27
+1,2:57.0,,Turnover by G. Niang (bad pass),21,27
+1,2:57.0,,J. Ingles enters the game for D. Mitchell,21,27
+1,2:47.0,Shooting foul by D. Favors (drawn by N. Hilário),,21,27
+1,2:47.0,N. Hilário misses free throw 1 of 2,,21,27
+1,2:47.0,Offensive rebound by Team,,21,27
+1,2:47.0,,R. Gobert enters the game for D. Favors,21,27
+1,2:47.0,N. Hilário misses free throw 2 of 2,,21,27
+1,2:45.0,,Defensive rebound by R. Gobert,21,27
+1,2:33.0,,K. Korver misses 3-pt jump shot from 25 ft,21,27
+1,2:30.0,Defensive rebound by J. Harden,,21,27
+1,2:23.0,J. Harden misses 2-pt layup from 4 ft,,21,27
+1,2:21.0,Offensive rebound by N. Hilário,,21,27
+1,2:14.0,J. Harden makes 3-pt jump shot from 25 ft,,24,27
+1,2:14.0,Shooting foul by K. Korver (drawn by J. Harden),,24,27
+1,2:14.0,J. Harden makes free throw 1 of 1,,25,27
+1,1:58.0,,J. Ingles misses 3-pt jump shot from 28 ft,25,27
+1,1:55.0,Defensive rebound by J. Ennis,,25,27
+1,1:47.0,Def 3 sec tech foul by Team,,25,27
+1,1:47.0,J. Harden makes technical free throw,,26,27
+1,1:47.0,,R. Rubio enters the game for K. Korver,26,27
+1,1:39.0,G. Green misses 3-pt jump shot from 24 ft,,26,27
+1,1:36.0,,Defensive rebound by R. Gobert,26,27
+1,1:28.0,,Turnover by R. O'Neale (lost ball; steal by J. Ennis),26,27
+1,1:14.0,J. Ennis makes 2-pt dunk from 1 ft (assist by G. Green),,28,27
+1,1:03.0,,Personal foul by A. Rivers (drawn by R. Rubio),28,27
+1,1:03.0,E. Gordon enters the game for J. Harden,,28,27
+1,0:51.0,,R. O'Neale misses 3-pt jump shot from 25 ft,28,27
+1,0:47.0,,Offensive rebound by R. Gobert,28,27
+1,0:46.0,,R. Gobert misses 2-pt dunk from 3 ft (block by G. Green),28,27
+1,0:46.0,Defensive rebound by A. Rivers,,28,27
+1,0:33.0,N. Hilário misses 2-pt jump shot from 5 ft (block by R. Gobert),,28,27
+1,0:30.0,,Defensive rebound by R. O'Neale,28,27
+1,0:15.0,,R. Rubio misses 3-pt jump shot from 25 ft,28,27
+1,0:11.0,Defensive rebound by G. Green,,28,27
+1,0:00.0,A. Rivers makes 3-pt jump shot from 26 ft,,31,27
+2,11:50.0,E. Gordon misses 2-pt layup from 2 ft (block by R. O'Neale),,31,27
+2,11:50.0,Offensive rebound by Team,,31,27
+2,11:48.0,G. Green misses 3-pt jump shot from 23 ft,,31,27
+2,11:44.0,,Defensive rebound by J. Ingles,31,27
+2,11:42.0,,Shooting foul by E. Gordon (drawn by R. O'Neale),31,27
+2,11:42.0,,R. O'Neale makes free throw 1 of 2,31,28
+2,11:42.0,,R. O'Neale misses free throw 2 of 2,31,28
+2,11:39.0,,Offensive rebound by G. Niang,31,28
+2,11:31.0,,Shooting foul by G. Green (drawn by R. Gobert),31,28
+2,11:31.0,,R. Gobert makes free throw 1 of 2,31,29
+2,11:31.0,,K. Korver enters the game for R. O'Neale,31,29
+2,11:31.0,,R. Gobert misses free throw 2 of 2,31,29
+2,11:30.0,Defensive rebound by K. Faried,,31,29
+2,11:20.0,Turnover by K. Faried (lost ball; steal by R. Gobert),,31,29
+2,11:17.0,,J. Ingles makes 2-pt layup from 2 ft,31,31
+2,10:56.0,K. Faried misses 2-pt jump shot from 4 ft,,31,31
+2,10:54.0,,Defensive rebound by R. Rubio,31,31
+2,10:50.0,,G. Niang makes 3-pt jump shot from 25 ft (assist by R. Rubio),31,34
+2,10:36.0,G. Green makes 3-pt jump shot from 25 ft,,34,34
+2,10:22.0,,Personal foul by E. Gordon (drawn by K. Korver),34,34
+2,10:17.0,,Personal foul by E. Gordon (drawn by K. Korver),34,34
+2,10:17.0,J. Harden enters the game for E. Gordon,,34,34
+2,10:13.0,,Personal foul by K. Faried (drawn by R. Gobert),34,34
+2,10:13.0,,R. Gobert makes free throw 1 of 2,34,35
+2,10:13.0,,R. Gobert makes free throw 2 of 2,34,36
+2,10:01.0,Shooting foul by G. Niang (drawn by K. Faried),,34,36
+2,10:01.0,K. Faried makes free throw 1 of 2,,35,36
+2,10:01.0,K. Faried makes free throw 2 of 2,,36,36
+2,9:52.0,,Turnover by R. Rubio (bad pass),36,36
+2,9:52.0,,R. O'Neale enters the game for K. Korver,36,36
+2,9:43.0,A. Rivers misses 3-pt jump shot from 23 ft,,36,36
+2,9:39.0,,Defensive rebound by G. Niang,36,36
+2,9:37.0,,Personal foul by A. Rivers (drawn by R. Rubio),36,36
+2,9:37.0,,R. Rubio makes free throw 1 of 2,36,37
+2,9:37.0,P. Tucker enters the game for A. Rivers,,36,37
+2,9:37.0,,R. Rubio makes free throw 2 of 2,36,38
+2,9:29.0,G. Green makes 3-pt jump shot from 25 ft,,39,38
+2,9:13.0,,G. Niang misses 3-pt jump shot from 23 ft,39,38
+2,9:10.0,Defensive rebound by K. Faried,,39,38
+2,9:01.0,J. Harden misses 3-pt jump shot from 26 ft,,39,38
+2,8:58.0,,Defensive rebound by G. Niang,39,38
+2,8:52.0,,R. Gobert misses 2-pt layup from 1 ft,39,38
+2,8:48.0,,Offensive rebound by R. Gobert,39,38
+2,8:48.0,,R. Gobert misses 2-pt layup from 1 ft,39,38
+2,8:48.0,,Offensive rebound by R. Gobert,39,38
+2,8:48.0,,R. Gobert misses 2-pt layup from 1 ft,39,38
+2,8:48.0,Defensive rebound by Team,,39,38
+2,8:48.0,,K. Korver enters the game for G. Niang,39,38
+2,8:48.0,,D. Mitchell enters the game for R. Rubio,39,38
+2,8:39.0,G. Green misses 3-pt jump shot from 26 ft,,39,38
+2,8:37.0,,Defensive rebound by K. Korver,39,38
+2,8:22.0,,D. Mitchell misses 2-pt layup from 5 ft,39,38
+2,8:22.0,Defensive rebound by Team,,39,38
+2,8:22.0,,Loose ball foul by R. Gobert (drawn by P. Tucker),39,38
+2,8:22.0,E. Gordon enters the game for G. Green,,39,38
+2,8:22.0,,J. Crowder enters the game for R. Gobert,39,38
+2,8:22.0,,D. Favors enters the game for J. Ingles,39,38
+2,8:13.0,J. Harden misses 3-pt jump shot from 25 ft,,39,38
+2,8:11.0,,Defensive rebound by J. Crowder,39,38
+2,8:00.0,,D. Favors makes 2-pt dunk from 2 ft (assist by K. Korver),39,40
+2,7:45.0,E. Gordon misses 3-pt jump shot from 26 ft,,39,40
+2,7:42.0,,Defensive rebound by R. O'Neale,39,40
+2,7:33.0,,Turnover by K. Korver (bad pass; steal by P. Tucker),39,40
+2,7:30.0,,Violation by Team (kicked ball),39,40
+2,7:30.0,N. Hilário enters the game for K. Faried,,39,40
+2,7:16.0,J. Ennis misses 2-pt jump shot from 10 ft,,39,40
+2,7:13.0,,Defensive rebound by K. Korver,39,40
+2,7:10.0,,Personal foul by J. Harden (drawn by D. Mitchell),39,40
+2,7:10.0,,D. Mitchell makes free throw 1 of 2,39,41
+2,7:10.0,A. Rivers enters the game for J. Ennis,,39,41
+2,7:10.0,,D. Mitchell makes free throw 2 of 2,39,42
+2,7:02.0,E. Gordon makes 2-pt layup from 3 ft,,41,42
+2,6:37.0,,R. O'Neale misses 2-pt jump shot from 12 ft (block by J. Harden),41,42
+2,6:35.0,,Offensive rebound by R. O'Neale,41,42
+2,6:34.0,,R. O'Neale misses 2-pt layup from 2 ft (block by N. Hilário),41,42
+2,6:34.0,,Offensive rebound by Team,41,42
+2,6:34.0,,Turnover by Team (shot clock),41,42
+2,6:34.0,,Utah full timeout,41,42
+2,6:25.0,Shooting foul by D. Favors (drawn by J. Harden),,41,42
+2,6:25.0,J. Harden makes free throw 1 of 2,,42,42
+2,6:25.0,J. Harden makes free throw 2 of 2,,43,42
+2,6:04.0,,J. Crowder misses 3-pt jump shot from 27 ft,43,42
+2,6:02.0,Defensive rebound by J. Harden,,43,42
+2,5:47.0,E. Gordon misses 2-pt layup from 4 ft (block by D. Favors),,43,42
+2,5:45.0,,Defensive rebound by J. Crowder,43,42
+2,5:39.0,,D. Mitchell misses 2-pt layup from 3 ft (block by P. Tucker),43,42
+2,5:36.0,,Offensive rebound by D. Mitchell,43,42
+2,5:35.0,,D. Mitchell makes 2-pt layup from 6 ft,43,44
+2,5:17.0,A. Rivers makes 2-pt jump shot from 2 ft,,45,44
+2,5:07.0,,Turnover by R. O'Neale (step out of bounds),45,44
+2,5:07.0,,J. Ingles enters the game for K. Korver,45,44
+2,4:57.0,J. Harden misses 3-pt jump shot from 28 ft,,45,44
+2,4:53.0,,Defensive rebound by J. Ingles,45,44
+2,4:47.0,,D. Mitchell misses 2-pt jump shot from 14 ft,45,44
+2,4:45.0,Defensive rebound by J. Harden,,45,44
+2,4:38.0,J. Harden makes 2-pt layup from 2 ft,,47,44
+2,4:17.0,,J. Ingles misses 2-pt jump shot from 10 ft (block by J. Harden),47,44
+2,4:17.0,,Offensive rebound by Team,47,44
+2,4:17.0,K. Faried enters the game for N. Hilário,,47,44
+2,4:17.0,,R. Gobert enters the game for D. Favors,47,44
+2,4:17.0,,R. Rubio enters the game for R. O'Neale,47,44
+2,4:11.0,,J. Ingles misses 3-pt jump shot from 24 ft,47,44
+2,4:11.0,,Offensive rebound by Team,47,44
+2,4:11.0,,Turnover by Team (shot clock),47,44
+2,3:57.0,K. Faried makes 2-pt dunk from 1 ft (assist by J. Harden),,49,44
+2,3:35.0,,Turnover by J. Crowder (bad pass; steal by J. Harden),49,44
+2,3:23.0,K. Faried misses 2-pt layup from 3 ft,,49,44
+2,3:21.0,,Defensive rebound by R. Rubio,49,44
+2,3:15.0,,J. Crowder misses 2-pt jump shot from 9 ft,49,44
+2,3:12.0,Defensive rebound by K. Faried,,49,44
+2,3:12.0,Turnover by K. Faried (lost ball; steal by J. Crowder),,49,44
+2,2:56.0,,J. Ingles misses 3-pt jump shot from 26 ft,49,44
+2,2:53.0,Defensive rebound by A. Rivers,,49,44
+2,2:49.0,Houston full timeout,,49,44
+2,2:31.0,J. Harden makes 2-pt jump shot from 18 ft,,51,44
+2,2:14.0,,D. Mitchell misses 2-pt layup from 3 ft,51,44
+2,2:12.0,Defensive rebound by K. Faried,,51,44
+2,2:05.0,P. Tucker misses 2-pt layup from 4 ft (block by R. Gobert),,51,44
+2,2:03.0,,Defensive rebound by R. Rubio,51,44
+2,1:57.0,,Personal foul by K. Faried (drawn by R. Gobert),51,44
+2,1:57.0,,R. Gobert makes free throw 1 of 2,51,45
+2,1:57.0,G. Green enters the game for E. Gordon,,51,45
+2,1:57.0,,R. Gobert misses free throw 2 of 2,51,45
+2,1:56.0,Defensive rebound by K. Faried,,51,45
+2,1:43.0,Shooting foul by R. Gobert (drawn by K. Faried),,51,45
+2,1:43.0,K. Faried makes free throw 1 of 2,,52,45
+2,1:43.0,K. Faried makes free throw 2 of 2,,53,45
+2,1:32.0,,J. Crowder misses 3-pt jump shot from 25 ft,53,45
+2,1:28.0,Defensive rebound by J. Harden,,53,45
+2,1:22.0,Personal foul by J. Ingles (drawn by J. Harden),,53,45
+2,1:22.0,J. Harden makes free throw 1 of 2,,54,45
+2,1:22.0,J. Harden makes free throw 2 of 2,,55,45
+2,0:58.0,,Turnover by J. Ingles (lost ball; steal by J. Harden),55,45
+2,0:53.0,Shooting foul by R. Rubio (drawn by J. Harden),,55,45
+2,0:53.0,J. Harden makes free throw 1 of 2,,56,45
+2,0:53.0,J. Harden makes free throw 2 of 2,,57,45
+2,0:36.0,,J. Ingles makes 3-pt jump shot from 25 ft (assist by R. Rubio),57,48
+2,0:30.0,J. Harden makes 3-pt jump shot from 27 ft,,60,48
+2,0:08.0,,D. Mitchell makes 2-pt layup from 2 ft,60,50
+2,0:01.0,G. Green makes 3-pt jump shot from 27 ft,,63,50
+3,11:49.0,P. Tucker misses 3-pt jump shot from 22 ft,,63,50
+3,11:44.0,,Defensive rebound by R. Rubio,63,50
+3,11:31.0,,Personal foul by J. Harden (drawn by R. Gobert),63,50
+3,11:26.0,,Shooting foul by J. Ennis (drawn by R. Rubio),63,50
+3,11:26.0,,R. Rubio makes free throw 1 of 2,63,51
+3,11:26.0,,R. Rubio makes free throw 2 of 2,63,52
+3,11:21.0,Turnover by E. Gordon (out of bounds lost ball),,63,52
+3,10:59.0,,R. Rubio misses 3-pt jump shot from 30 ft (block by K. Faried),63,52
+3,10:56.0,,Offensive rebound by Team,63,52
+3,10:56.0,,Turnover by Team (shot clock),63,52
+3,10:47.0,K. Faried misses 2-pt layup from 6 ft,,63,52
+3,10:44.0,Offensive rebound by K. Faried,,63,52
+3,10:44.0,K. Faried makes 2-pt layup from 3 ft,,65,52
+3,10:24.0,,R. Gobert misses 2-pt jump shot from 6 ft (block by J. Harden),65,52
+3,10:24.0,,Offensive rebound by Team,65,52
+3,10:24.0,,Technical foul by R. Gobert,65,52
+3,10:24.0,J. Harden makes technical free throw,,66,52
+3,10:18.0,,D. Mitchell misses 3-pt jump shot from 31 ft,66,52
+3,10:16.0,Defensive rebound by K. Faried,,66,52
+3,10:06.0,E. Gordon makes 3-pt jump shot from 24 ft (assist by J. Harden),,69,52
+3,9:53.0,,J. Ingles misses 3-pt jump shot from 25 ft,69,52
+3,9:49.0,Defensive rebound by J. Ennis,,69,52
+3,9:40.0,K. Faried makes 2-pt layup from 2 ft (assist by J. Harden),,71,52
+3,9:26.0,,Personal foul by K. Faried (drawn by D. Mitchell),71,52
+3,9:22.0,,D. Mitchell makes 3-pt jump shot from 26 ft (assist by R. Gobert),71,55
+3,9:05.0,Turnover by J. Harden (lost ball; steal by R. Rubio),,71,55
+3,8:57.0,,Turnover by D. Mitchell (bad pass; steal by P. Tucker),71,55
+3,8:55.0,Personal take foul by J. Crowder (drawn by J. Harden),,71,55
+3,8:55.0,,D. Favors enters the game for R. Gobert,71,55
+3,8:39.0,Turnover by J. Harden (bad pass),,71,55
+3,8:34.0,,Personal foul by K. Faried (drawn by R. Rubio),71,55
+3,8:29.0,,D. Mitchell misses 3-pt jump shot from 26 ft,71,55
+3,8:26.0,Defensive rebound by P. Tucker,,71,55
+3,8:18.0,P. Tucker makes 2-pt jump shot from 6 ft (assist by J. Harden),,73,55
+3,8:09.0,,Personal foul by K. Faried (drawn by D. Mitchell),73,55
+3,8:09.0,,D. Mitchell makes free throw 1 of 2,73,56
+3,8:09.0,N. Hilário enters the game for K. Faried,,73,56
+3,8:09.0,,D. Mitchell makes free throw 2 of 2,73,57
+3,8:02.0,E. Gordon misses 2-pt jump shot from 4 ft (block by D. Favors),,73,57
+3,7:59.0,Offensive rebound by N. Hilário,,73,57
+3,7:57.0,P. Tucker misses 3-pt jump shot from 25 ft,,73,57
+3,7:54.0,,Defensive rebound by Team,73,57
+3,7:43.0,,Turnover by J. Ingles (bad pass; steal by N. Hilário),73,57
+3,7:38.0,J. Ennis makes 2-pt layup from 3 ft (assist by N. Hilário),,75,57
+3,7:37.0,,Utah full timeout,75,57
+3,7:37.0,A. Rivers enters the game for E. Gordon,,75,57
+3,7:17.0,,D. Mitchell misses 2-pt jump shot from 13 ft,75,57
+3,7:15.0,,Offensive rebound by D. Mitchell,75,57
+3,7:14.0,,J. Crowder makes 3-pt jump shot from 25 ft (assist by D. Mitchell),75,60
+3,6:46.0,A. Rivers misses 2-pt layup from 5 ft (block by D. Favors),,75,60
+3,6:43.0,,Defensive rebound by R. Rubio,75,60
+3,6:40.0,,J. Crowder misses 3-pt jump shot from 24 ft,75,60
+3,6:36.0,,Offensive rebound by R. Rubio,75,60
+3,6:32.0,,D. Mitchell makes 2-pt jump shot from 5 ft (assist by J. Ingles),75,62
+3,6:32.0,,Shooting foul by N. Hilário (drawn by D. Mitchell),75,62
+3,6:32.0,G. Green enters the game for J. Ennis,,75,62
+3,6:32.0,,R. O'Neale enters the game for J. Ingles,75,62
+3,6:32.0,,D. Mitchell misses free throw 1 of 1,75,62
+3,6:31.0,Defensive rebound by J. Harden,,75,62
+3,6:24.0,J. Harden makes 2-pt jump shot from 8 ft,,77,62
+3,6:13.0,,Turnover by R. Rubio (bad pass; steal by J. Harden),77,62
+3,6:04.0,Turnover by G. Green (traveling),,77,62
+3,5:58.0,,Personal foul by A. Rivers (drawn by J. Crowder),77,62
+3,5:58.0,,J. Crowder misses free throw 1 of 2,77,62
+3,5:58.0,,Offensive rebound by Team,77,62
+3,5:58.0,,K. Korver enters the game for R. Rubio,77,62
+3,5:58.0,,J. Crowder misses free throw 2 of 2,77,62
+3,5:56.0,,Offensive rebound by J. Crowder,77,62
+3,5:52.0,,Turnover by J. Crowder (bad pass; steal by N. Hilário),77,62
+3,5:46.0,J. Harden misses 3-pt jump shot from 32 ft,,77,62
+3,5:43.0,,Defensive rebound by R. O'Neale,77,62
+3,5:34.0,,D. Mitchell misses 2-pt layup from 5 ft,77,62
+3,5:31.0,Defensive rebound by N. Hilário,,77,62
+3,5:26.0,G. Green misses 3-pt jump shot from 26 ft,,77,62
+3,5:22.0,,Defensive rebound by Team,77,62
+3,5:13.0,,D. Mitchell misses 3-pt jump shot from 26 ft,77,62
+3,5:08.0,Defensive rebound by P. Tucker,,77,62
+3,4:55.0,N. Hilário makes 2-pt jump shot from 19 ft (assist by A. Rivers),,79,62
+3,4:40.0,,J. Crowder misses 3-pt jump shot from 25 ft,79,62
+3,4:37.0,Defensive rebound by A. Rivers,,79,62
+3,4:17.0,Turnover by J. Harden (bad pass; steal by D. Mitchell),,79,62
+3,4:13.0,,J. Crowder makes 2-pt layup from 2 ft (assist by D. Mitchell),79,64
+3,4:12.0,Houston full timeout,,79,64
+3,4:00.0,G. Green makes 3-pt jump shot from 24 ft (assist by J. Harden),,82,64
+3,3:34.0,,D. Mitchell misses 3-pt jump shot from 26 ft,82,64
+3,3:31.0,Defensive rebound by J. Harden,,82,64
+3,3:24.0,J. Harden makes 2-pt jump shot from 18 ft,,84,64
+3,3:24.0,I. Hartenstein enters the game for N. Hilário,,84,64
+3,3:02.0,,Turnover by K. Korver (bad pass; steal by I. Hartenstein),84,64
+3,2:59.0,Personal foul by D. Mitchell (drawn by A. Rivers),,84,64
+3,2:59.0,,R. Gobert enters the game for J. Crowder,84,64
+3,2:59.0,,G. Niang enters the game for D. Favors,84,64
+3,2:46.0,J. Harden misses 3-pt jump shot from 25 ft,,84,64
+3,2:43.0,,Defensive rebound by R. O'Neale,84,64
+3,2:39.0,,K. Korver misses 3-pt jump shot from 28 ft,84,64
+3,2:35.0,Defensive rebound by G. Green,,84,64
+3,2:35.0,,R. Rubio enters the game for D. Mitchell,84,64
+3,2:22.0,Technical foul by A. Rivers,,84,64
+3,2:22.0,,K. Korver misses technical free throw,84,64
+3,2:22.0,Defensive rebound by Team,,84,64
+3,2:16.0,J. Harden misses 3-pt jump shot from 25 ft,,84,64
+3,2:12.0,,Defensive rebound by R. Gobert,84,64
+3,2:10.0,,Turnover by R. Gobert (lost ball; steal by P. Tucker),84,64
+3,2:07.0,Shooting foul by R. Gobert (drawn by G. Green),,84,64
+3,2:07.0,G. Green misses free throw 1 of 2,,84,64
+3,2:07.0,Offensive rebound by Team,,84,64
+3,2:07.0,J. Ennis enters the game for P. Tucker,,84,64
+3,2:07.0,G. Green makes free throw 2 of 2,,85,64
+3,1:58.0,,Personal foul by A. Rivers (drawn by R. Rubio),85,64
+3,1:58.0,,R. Rubio makes free throw 1 of 2,85,65
+3,1:58.0,,J. Ingles enters the game for K. Korver,85,65
+3,1:58.0,,R. Rubio makes free throw 2 of 2,85,66
+3,1:39.0,J. Harden makes 2-pt jump shot from 9 ft,,87,66
+3,1:25.0,,Shooting foul by I. Hartenstein (drawn by G. Niang),87,66
+3,1:25.0,,G. Niang misses free throw 1 of 2,87,66
+3,1:25.0,,Offensive rebound by Team,87,66
+3,1:25.0,E. Gordon enters the game for A. Rivers,,87,66
+3,1:25.0,,G. Niang makes free throw 2 of 2,87,67
+3,1:11.0,Turnover by J. Ennis (bad pass),,87,67
+3,1:11.0,,Technical foul by R. O'Neale,87,67
+3,1:11.0,Technical foul by E. Gordon,,87,67
+3,0:55.0,,G. Niang misses 2-pt layup from 5 ft (block by J. Harden),87,67
+3,0:52.0,,Offensive rebound by G. Niang,87,67
+3,0:51.0,,R. Rubio misses 2-pt jump shot from 9 ft,87,67
+3,0:48.0,Defensive rebound by G. Green,,87,67
+3,0:45.0,Shooting foul by G. Niang (drawn by J. Ennis),,87,67
+3,0:45.0,J. Ennis makes free throw 1 of 2,,88,67
+3,0:45.0,J. Ennis makes free throw 2 of 2,,89,67
+3,0:33.0,,J. Ingles misses 3-pt jump shot from 23 ft,89,67
+3,0:29.0,Defensive rebound by J. Harden,,89,67
+3,0:18.0,Personal foul by R. O'Neale (drawn by J. Harden),,89,67
+3,0:18.0,J. Harden makes free throw 1 of 2,,90,67
+3,0:18.0,J. Harden makes free throw 2 of 2,,91,67
+3,0:03.0,,G. Niang makes 2-pt jump shot from 7 ft,91,69
+3,0:00.0,Turnover by J. Harden (lost ball; steal by R. O'Neale),,91,69
+4,11:49.0,,Turnover by R. Rubio (bad pass),91,69
+4,11:37.0,A. Rivers makes 3-pt jump shot from 26 ft (assist by I. Hartenstein),,94,69
+4,11:23.0,,D. Mitchell misses 2-pt jump shot from 4 ft,94,69
+4,11:20.0,,Offensive rebound by R. Gobert,94,69
+4,11:20.0,,R. Gobert makes 2-pt layup at rim,94,71
+4,11:11.0,Turnover by E. Gordon (bad pass; steal by J. Crowder),,94,71
+4,11:06.0,,D. Mitchell makes 3-pt jump shot from 25 ft,94,74
+4,10:49.0,E. Gordon misses 2-pt jump shot from 5 ft,,94,74
+4,10:48.0,,Defensive rebound by J. Crowder,94,74
+4,10:43.0,,Shooting foul by I. Hartenstein (drawn by D. Mitchell),94,74
+4,10:43.0,,D. Mitchell makes free throw 1 of 2,94,75
+4,10:43.0,,D. Mitchell makes free throw 2 of 2,94,76
+4,10:32.0,A. Rivers misses 2-pt jump shot from 13 ft,,94,76
+4,10:29.0,,Defensive rebound by Team,94,76
+4,10:24.0,,D. Mitchell misses 3-pt jump shot from 25 ft,94,76
+4,10:21.0,Defensive rebound by J. Ennis,,94,76
+4,10:13.0,Shooting foul by R. Rubio (drawn by G. Green),,94,76
+4,10:13.0,G. Green makes free throw 1 of 3,,95,76
+4,10:13.0,G. Green makes free throw 2 of 3,,96,76
+4,10:13.0,G. Green makes free throw 3 of 3,,97,76
+4,9:59.0,,R. Gobert makes 2-pt layup from 3 ft (assist by D. Mitchell),97,78
+4,9:35.0,Offensive foul by I. Hartenstein (drawn by R. Gobert),,97,78
+4,9:35.0,Turnover by I. Hartenstein (offensive foul),,97,78
+4,9:35.0,N. Hilário enters the game for I. Hartenstein,,97,78
+4,9:27.0,,Personal foul by J. Ennis (drawn by J. Ingles),97,78
+4,9:14.0,,D. Mitchell makes 2-pt jump shot from 11 ft,97,80
+4,9:00.0,G. Green misses 3-pt jump shot from 26 ft,,97,80
+4,8:57.0,,Defensive rebound by R. Gobert,97,80
+4,8:51.0,,D. Mitchell makes 2-pt jump shot from 7 ft,97,82
+4,8:51.0,Houston full timeout,,97,82
+4,8:51.0,J. Harden enters the game for G. Green,,97,82
+4,8:41.0,E. Gordon misses 3-pt jump shot from 26 ft,,97,82
+4,8:38.0,,Defensive rebound by D. Mitchell,97,82
+4,8:27.0,,D. Mitchell misses 3-pt jump shot from 25 ft,97,82
+4,8:24.0,Defensive rebound by J. Harden,,97,82
+4,8:17.0,E. Gordon makes 2-pt jump shot from 4 ft (assist by N. Hilário),,99,82
+4,7:58.0,,J. Crowder misses 3-pt jump shot from 22 ft,99,82
+4,7:56.0,Defensive rebound by E. Gordon,,99,82
+4,7:35.0,N. Hilário misses 2-pt layup from 4 ft,,99,82
+4,7:34.0,,Defensive rebound by Team,99,82
+4,7:34.0,Loose ball foul by N. Hilário (drawn by R. Gobert),,99,82
+4,7:34.0,,K. Korver enters the game for J. Ingles,99,82
+4,7:34.0,,R. O'Neale enters the game for R. Rubio,99,82
+4,7:22.0,,Turnover by J. Crowder (out of bounds lost ball),99,82
+4,7:10.0,J. Ennis makes 2-pt dunk from 3 ft (assist by A. Rivers),,101,82
+4,7:01.0,,K. Korver makes 3-pt jump shot from 24 ft (assist by J. Crowder),101,85
+4,6:37.0,E. Gordon makes 2-pt layup from 2 ft (assist by N. Hilário),,103,85
+4,6:29.0,,Turnover by D. Mitchell (bad pass; steal by A. Rivers),103,85
+4,6:22.0,Turnover by J. Harden (lost ball; steal by J. Crowder),,103,85
+4,6:18.0,,K. Korver makes 2-pt jump shot from 23 ft (assist by D. Mitchell),103,87
+4,5:53.0,A. Rivers misses 3-pt jump shot from 27 ft,,103,87
+4,5:49.0,,Defensive rebound by D. Mitchell,103,87
+4,5:43.0,,R. O'Neale misses 3-pt jump shot from 25 ft,103,87
+4,5:40.0,Defensive rebound by J. Harden,,103,87
+4,5:35.0,J. Ennis misses 3-pt jump shot from 25 ft,,103,87
+4,5:32.0,,Defensive rebound by R. Gobert,103,87
+4,5:21.0,,Shooting foul by N. Hilário (drawn by D. Mitchell),103,87
+4,5:21.0,,D. Mitchell makes free throw 1 of 2,103,88
+4,5:21.0,K. Faried enters the game for J. Ennis,,103,88
+4,5:21.0,G. Green enters the game for E. Gordon,,103,88
+4,5:21.0,P. Tucker enters the game for N. Hilário,,103,88
+4,5:21.0,,D. Favors enters the game for R. Gobert,103,88
+4,5:21.0,,D. Mitchell makes free throw 2 of 2,103,89
+4,5:12.0,Shooting foul by D. Favors (drawn by A. Rivers),,103,89
+4,5:12.0,A. Rivers misses free throw 1 of 2,,103,89
+4,5:12.0,Offensive rebound by Team,,103,89
+4,5:12.0,A. Rivers makes free throw 2 of 2,,104,89
+4,5:07.0,,Personal foul by K. Faried (drawn by K. Korver),104,89
+4,5:07.0,I. Hartenstein enters the game for K. Faried,,104,89
+4,5:07.0,,K. Korver misses free throw 1 of 2,104,89
+4,5:07.0,,Offensive rebound by Team,104,89
+4,5:07.0,J. Ennis enters the game for I. Hartenstein,,104,89
+4,5:07.0,,K. Korver makes free throw 2 of 2,104,90
+4,4:52.0,A. Rivers misses 2-pt layup from 3 ft,,104,90
+4,4:49.0,,Defensive rebound by D. Mitchell,104,90
+4,4:44.0,,Turnover by D. Mitchell (lost ball; steal by J. Harden),104,90
+4,4:44.0,Personal take foul by J. Crowder (drawn by A. Rivers),,104,90
+4,4:44.0,,J. Ingles enters the game for K. Korver,104,90
+4,4:29.0,J. Harden makes 2-pt layup from 2 ft,,106,90
+4,4:06.0,,R. O'Neale makes 2-pt layup from 2 ft,106,92
+4,3:44.0,J. Harden makes 3-pt jump shot from 27 ft,,109,92
+4,3:31.0,,J. Crowder misses 3-pt jump shot from 25 ft,109,92
+4,3:27.0,,Offensive rebound by D. Favors,109,92
+4,3:25.0,,R. O'Neale misses 3-pt jump shot from 23 ft,109,92
+4,3:22.0,Defensive rebound by J. Harden,,109,92
+4,3:19.0,Houston full timeout,,109,92
+4,3:19.0,,G. Allen enters the game for J. Crowder,109,92
+4,3:19.0,,T. Cavanaugh enters the game for D. Favors,109,92
+4,3:19.0,,N. Mitrou-Long enters the game for J. Ingles,109,92
+4,3:19.0,,G. Niang enters the game for D. Mitchell,109,92
+4,3:19.0,,E. Udoh enters the game for R. O'Neale,109,92
+4,3:12.0,A. Rivers misses 2-pt jump shot from 5 ft (block by E. Udoh),,109,92
+4,3:09.0,Offensive rebound by A. Rivers,,109,92
+4,3:08.0,G. Green makes 3-pt jump shot from 23 ft (assist by A. Rivers),,112,92
+4,2:55.0,,G. Allen misses 3-pt jump shot from 27 ft,112,92
+4,2:52.0,Defensive rebound by G. Green,,112,92
+4,2:41.0,J. Harden misses 3-pt jump shot from 24 ft,,112,92
+4,2:38.0,Offensive rebound by J. Ennis,,112,92
+4,2:36.0,G. Green makes 3-pt jump shot from 25 ft (assist by A. Rivers),,115,92
+4,2:23.0,,Personal take foul by J. Harden (drawn by G. Allen),115,92
+4,2:23.0,G. Clark enters the game for J. Harden,,115,92
+4,2:23.0,I. Hartenstein enters the game for P. Tucker,,115,92
+4,2:23.0,,G. Allen misses free throw 1 of 2,115,92
+4,2:23.0,,Offensive rebound by Team,115,92
+4,2:23.0,M. Chriss enters the game for J. Ennis,,115,92
+4,2:23.0,,G. Allen misses free throw 2 of 2,115,92
+4,2:22.0,Defensive rebound by I. Hartenstein,,115,92
+4,2:05.0,Shooting foul by N. Mitrou-Long (drawn by A. Rivers),,115,92
+4,2:05.0,A. Rivers makes free throw 1 of 2,,116,92
+4,2:05.0,A. Rivers makes free throw 2 of 2,,117,92
+4,1:57.0,,Personal foul by A. Rivers (drawn by G. Allen),117,92
+4,1:57.0,,G. Allen makes free throw 1 of 2,117,93
+4,1:57.0,,G. Allen makes free throw 2 of 2,117,94
+4,1:44.0,G. Green makes 3-pt jump shot from 22 ft (assist by A. Rivers),,120,94
+4,1:32.0,,Turnover by G. Allen (bad pass; steal by A. Rivers),120,94
+4,1:16.0,A. Rivers makes 3-pt jump shot from 25 ft,,123,94
+4,1:00.0,,N. Mitrou-Long misses 3-pt jump shot from 23 ft,123,94
+4,0:57.0,Defensive rebound by M. Chriss,,123,94
+4,0:43.0,M. Chriss misses 2-pt dunk from 1 ft,,123,94
+4,0:41.0,,Defensive rebound by G. Allen,123,94
+4,0:38.0,,T. Cavanaugh makes 2-pt layup from 2 ft (assist by G. Allen),123,96
+4,0:17.0,Shooting foul by N. Mitrou-Long (drawn by A. Rivers),,123,96
+4,0:17.0,A. Rivers makes free throw 1 of 3,,124,96
+4,0:17.0,A. Rivers makes free throw 2 of 3,,125,96
+4,0:17.0,A. Rivers misses free throw 3 of 3,,125,96
+4,0:15.0,,Defensive rebound by G. Niang,125,96
+4,0:07.0,,E. Udoh makes 2-pt hook shot from 4 ft (assist by N. Mitrou-Long),125,98

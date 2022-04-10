@@ -1,0 +1,432 @@
+QUARTER,TIME_REMAINING,ORLANDO_ACTION,TORONTO_ACTION,ORLANDO_SCORE,TORONTO_SCORE
+1,11:47.0,,K. Leonard makes 2-pt jump shot from 16 ft,0,2
+1,11:28.0,Turnover by D. Augustin (lost ball; steal by M. Gasol),,0,2
+1,11:10.0,,Turnover by D. Green (step out of bounds),0,2
+1,10:54.0,Turnover by J. Isaac (lost ball; steal by M. Gasol),,0,2
+1,10:54.0,,Personal foul by J. Isaac (drawn by K. Lowry),0,2
+1,10:48.0,,Shooting foul by N. Vučević (drawn by K. Lowry),0,2
+1,10:48.0,,K. Lowry misses free throw 1 of 2,0,2
+1,10:48.0,,Offensive rebound by Team,0,2
+1,10:48.0,,K. Lowry makes free throw 2 of 2,0,3
+1,10:32.0,N. Vučević misses 2-pt dunk from 1 ft,,0,3
+1,10:30.0,,Defensive rebound by D. Green,0,3
+1,10:27.0,,Turnover by K. Lowry (bad pass; steal by E. Fournier),0,3
+1,10:22.0,E. Fournier misses 2-pt layup from 1 ft,,0,3
+1,10:19.0,Offensive rebound by D. Augustin,,0,3
+1,10:19.0,D. Augustin misses 2-pt layup at rim,,0,3
+1,10:18.0,,Defensive rebound by D. Green,0,3
+1,10:08.0,,K. Leonard misses 3-pt jump shot from 27 ft,0,3
+1,10:07.0,Defensive rebound by E. Fournier,,0,3
+1,10:01.0,Personal foul by M. Gasol (drawn by E. Fournier),,0,3
+1,9:49.0,D. Augustin misses 2-pt layup from 3 ft (block by D. Green),,0,3
+1,9:47.0,Offensive rebound by N. Vučević,,0,3
+1,9:47.0,Shooting foul by K. Leonard (drawn by A. Gordon),,0,3
+1,9:47.0,A. Gordon misses free throw 1 of 2,,0,3
+1,9:47.0,Offensive rebound by Team,,0,3
+1,9:47.0,A. Gordon misses free throw 2 of 2,,0,3
+1,9:45.0,,Defensive rebound by P. Siakam,0,3
+1,9:36.0,,Personal foul by E. Fournier (drawn by D. Green),0,3
+1,9:30.0,,Offensive foul by K. Leonard (drawn by N. Vučević),0,3
+1,9:30.0,,Turnover by K. Leonard (offensive foul),0,3
+1,9:15.0,Offensive foul by A. Gordon (drawn by K. Lowry),,0,3
+1,9:15.0,Turnover by A. Gordon (offensive foul),,0,3
+1,9:07.0,,K. Leonard makes 2-pt jump shot from 9 ft (assist by K. Lowry),0,5
+1,8:48.0,E. Fournier misses 3-pt jump shot from 23 ft,,0,5
+1,8:46.0,,Defensive rebound by K. Leonard,0,5
+1,8:40.0,,Shooting foul by J. Isaac (drawn by K. Leonard),0,5
+1,8:40.0,,K. Leonard makes free throw 1 of 2,0,6
+1,8:40.0,,K. Leonard makes free throw 2 of 2,0,7
+1,8:22.0,A. Gordon misses 3-pt jump shot from 25 ft,,0,7
+1,8:20.0,,Defensive rebound by M. Gasol,0,7
+1,8:03.0,,P. Siakam makes 2-pt hook shot from 2 ft (assist by M. Gasol),0,9
+1,7:59.0,Orlando full timeout,,0,9
+1,7:59.0,W. Iwundu enters the game for J. Isaac,,0,9
+1,7:46.0,Turnover by E. Fournier (bad pass; steal by K. Leonard),,0,9
+1,7:43.0,,K. Leonard makes 2-pt jump shot from 9 ft,0,11
+1,7:18.0,Shooting foul by M. Gasol (drawn by N. Vučević),,0,11
+1,7:18.0,N. Vučević misses free throw 1 of 2,,0,11
+1,7:18.0,Offensive rebound by Team,,0,11
+1,7:18.0,,S. Ibaka enters the game for M. Gasol,0,11
+1,7:18.0,N. Vučević misses free throw 2 of 2,,0,11
+1,7:16.0,Offensive rebound by A. Gordon,,0,11
+1,7:14.0,A. Gordon makes 2-pt dunk at rim,,2,11
+1,6:52.0,,K. Lowry makes 3-pt jump shot from 27 ft (assist by K. Leonard),2,14
+1,6:34.0,D. Augustin misses 2-pt layup from 1 ft (block by K. Lowry),,2,14
+1,6:32.0,,Defensive rebound by K. Lowry,2,14
+1,6:29.0,,P. Siakam makes 2-pt jump shot from 13 ft (assist by K. Lowry),2,16
+1,6:00.0,E. Fournier makes 3-pt jump shot from 25 ft,,5,16
+1,5:51.0,,K. Leonard makes 2-pt jump shot from 12 ft,5,18
+1,5:34.0,A. Gordon makes 3-pt jump shot from 24 ft (assist by W. Iwundu),,8,18
+1,5:09.0,,K. Leonard misses 3-pt jump shot from 23 ft,8,18
+1,5:09.0,,Offensive rebound by Team,8,18
+1,5:09.0,T. Ross enters the game for E. Fournier,,8,18
+1,5:01.0,,S. Ibaka makes 2-pt layup from 2 ft (assist by K. Leonard),8,20
+1,4:37.0,W. Iwundu misses 2-pt jump shot from 15 ft,,8,20
+1,4:35.0,Offensive rebound by A. Gordon,,8,20
+1,4:30.0,D. Augustin misses 3-pt jump shot from 26 ft,,8,20
+1,4:26.0,,Defensive rebound by P. Siakam,8,20
+1,4:19.0,,P. Siakam misses 3-pt jump shot from 23 ft,8,20
+1,4:19.0,Defensive rebound by Team,,8,20
+1,4:00.0,T. Ross makes 2-pt jump shot from 17 ft (assist by D. Augustin),,10,20
+1,3:49.0,,Toronto full timeout,10,20
+1,3:49.0,M. Carter-Williams enters the game for D. Augustin,,10,20
+1,3:49.0,,F. VanVleet enters the game for K. Lowry,10,20
+1,3:40.0,,S. Ibaka misses 2-pt hook shot from 5 ft,10,20
+1,3:37.0,Defensive rebound by N. Vučević,,10,20
+1,3:16.0,N. Vučević misses 2-pt jump shot from 19 ft,,10,20
+1,3:13.0,,Defensive rebound by D. Green,10,20
+1,3:03.0,,K. Leonard makes 2-pt jump shot from 17 ft (assist by D. Green),10,22
+1,2:48.0,T. Ross makes 3-pt jump shot from 26 ft (assist by N. Vučević),,13,22
+1,2:26.0,,S. Ibaka makes 2-pt hook shot from 5 ft (assist by K. Leonard),13,24
+1,2:17.0,Personal foul by P. Siakam (drawn by M. Carter-Williams),,13,24
+1,2:17.0,,J. Meeks enters the game for D. Green,13,24
+1,2:17.0,,N. Powell enters the game for K. Leonard,13,24
+1,2:11.0,Shooting foul by N. Powell (drawn by T. Ross),,13,24
+1,2:11.0,T. Ross misses free throw 1 of 3,,13,24
+1,2:11.0,Offensive rebound by Team,,13,24
+1,2:11.0,T. Ross makes free throw 2 of 3,,14,24
+1,2:11.0,T. Ross makes free throw 3 of 3,,15,24
+1,1:55.0,,Turnover by S. Ibaka (traveling),15,24
+1,1:38.0,A. Gordon makes 2-pt jump shot from 16 ft,,17,24
+1,1:25.0,,S. Ibaka misses 2-pt jump shot from 21 ft,17,24
+1,1:23.0,Defensive rebound by W. Iwundu,,17,24
+1,1:11.0,Shooting foul by P. Siakam (drawn by A. Gordon),,17,24
+1,1:11.0,A. Gordon makes free throw 1 of 2,,18,24
+1,1:11.0,K. Birch enters the game for N. Vučević,,18,24
+1,1:11.0,A. Gordon misses free throw 2 of 2,,18,24
+1,1:10.0,,Defensive rebound by Team,18,24
+1,1:02.0,,P. Siakam makes 2-pt jump shot from 1 ft (assist by F. VanVleet),18,26
+1,0:52.0,Turnover by M. Carter-Williams (step out of bounds),,18,26
+1,0:36.0,,F. VanVleet misses 3-pt jump shot from 29 ft,18,26
+1,0:34.0,Defensive rebound by A. Gordon,,18,26
+1,0:19.0,A. Gordon misses 2-pt jump shot from 2 ft (block by S. Ibaka),,18,26
+1,0:16.0,,Defensive rebound by P. Siakam,18,26
+1,0:02.0,,F. VanVleet misses 3-pt jump shot from 26 ft,18,26
+1,0:02.0,Defensive rebound by W. Iwundu,,18,26
+2,11:39.0,M. Carter-Williams misses 2-pt jump shot from 2 ft,,18,26
+2,11:37.0,,Defensive rebound by S. Ibaka,18,26
+2,11:16.0,,K. Lowry misses 2-pt layup from 6 ft,18,26
+2,11:16.0,Defensive rebound by Team,,18,26
+2,11:04.0,Turnover by E. Fournier (traveling),,18,26
+2,10:54.0,,K. Lowry makes 3-pt jump shot from 26 ft (assist by F. VanVleet),18,29
+2,10:41.0,T. Ross misses 3-pt jump shot from 25 ft,,18,29
+2,10:38.0,,Defensive rebound by K. Leonard,18,29
+2,10:23.0,,N. Powell misses 3-pt jump shot from 23 ft,18,29
+2,10:20.0,Defensive rebound by K. Birch,,18,29
+2,10:11.0,K. Birch misses 2-pt layup from 5 ft,,18,29
+2,10:11.0,Offensive rebound by Team,,18,29
+2,10:11.0,,Loose ball foul by K. Leonard (drawn by M. Carter-Williams),18,29
+2,10:07.0,T. Ross makes 2-pt dunk from 1 ft (assist by A. Gordon),,20,29
+2,9:51.0,,Turnover by S. Ibaka (out of bounds lost ball),20,29
+2,9:40.0,T. Ross makes 3-pt jump shot from 25 ft (assist by M. Carter-Williams),,23,29
+2,9:26.0,,S. Ibaka makes 3-pt jump shot from 26 ft (assist by K. Lowry),23,32
+2,9:06.0,A. Gordon misses 2-pt jump shot from 16 ft,,23,32
+2,9:02.0,,Defensive rebound by S. Ibaka,23,32
+2,8:54.0,,K. Lowry makes 2-pt layup from 1 ft (assist by F. VanVleet),23,34
+2,8:39.0,E. Fournier misses 2-pt jump shot from 14 ft,,23,34
+2,8:37.0,,Defensive rebound by K. Leonard,23,34
+2,8:28.0,,K. Leonard makes 2-pt layup from 1 ft,23,36
+2,8:20.0,Orlando full timeout,,23,36
+2,8:20.0,J. Isaac enters the game for A. Gordon,,23,36
+2,8:20.0,,P. Siakam enters the game for K. Leonard,23,36
+2,8:03.0,T. Ross makes 3-pt jump shot from 25 ft,,26,36
+2,7:39.0,,P. Siakam misses 2-pt layup from 2 ft,26,36
+2,7:37.0,Defensive rebound by M. Carter-Williams,,26,36
+2,7:33.0,J. Isaac misses 3-pt jump shot from 25 ft,,26,36
+2,7:29.0,Offensive rebound by E. Fournier,,26,36
+2,7:24.0,M. Carter-Williams misses 2-pt jump shot from 7 ft,,26,36
+2,7:16.0,Offensive rebound by K. Birch,,26,36
+2,7:16.0,K. Birch misses 2-pt layup at rim,,26,36
+2,7:16.0,,Defensive rebound by S. Ibaka,26,36
+2,7:08.0,,K. Lowry misses 3-pt jump shot from 28 ft,26,36
+2,7:06.0,Defensive rebound by J. Isaac,,26,36
+2,6:50.0,J. Isaac misses 3-pt jump shot from 26 ft,,26,36
+2,6:46.0,,Defensive rebound by S. Ibaka,26,36
+2,6:36.0,,N. Powell misses 3-pt jump shot from 23 ft,26,36
+2,6:33.0,Defensive rebound by J. Isaac,,26,36
+2,6:22.0,M. Carter-Williams misses 2-pt jump shot from 10 ft,,26,36
+2,6:21.0,,Defensive rebound by K. Lowry,26,36
+2,6:21.0,,Personal foul by M. Carter-Williams (drawn by K. Lowry),26,36
+2,6:21.0,D. Augustin enters the game for K. Birch,,26,36
+2,6:21.0,N. Vučević enters the game for M. Carter-Williams,,26,36
+2,6:21.0,,M. Gasol enters the game for S. Ibaka,26,36
+2,6:21.0,,D. Green enters the game for N. Powell,26,36
+2,6:21.0,,J. Meeks enters the game for F. VanVleet,26,36
+2,6:04.0,,K. Lowry makes 2-pt layup at rim (assist by M. Gasol),26,38
+2,5:56.0,T. Ross misses 3-pt jump shot from 25 ft,,26,38
+2,5:53.0,,Defensive rebound by J. Meeks,26,38
+2,5:49.0,,D. Green misses 3-pt jump shot from 23 ft,26,38
+2,5:46.0,,Offensive rebound by P. Siakam,26,38
+2,5:46.0,,P. Siakam misses 2-pt layup from 1 ft,26,38
+2,5:46.0,Defensive rebound by J. Isaac,,26,38
+2,5:46.0,Personal foul by D. Green (drawn by J. Isaac),,26,38
+2,5:26.0,E. Fournier misses 3-pt jump shot from 25 ft,,26,38
+2,5:24.0,,Defensive rebound by D. Green,26,38
+2,5:16.0,,Offensive foul by J. Meeks (drawn by J. Isaac),26,38
+2,5:16.0,,Turnover by J. Meeks (offensive foul),26,38
+2,5:04.0,N. Vučević makes 2-pt dunk from 1 ft (assist by D. Augustin),,28,38
+2,4:56.0,,Toronto full timeout,28,38
+2,4:56.0,A. Gordon enters the game for T. Ross,,28,38
+2,4:56.0,,K. Leonard enters the game for J. Meeks,28,38
+2,4:47.0,,K. Leonard makes 3-pt jump shot from 23 ft (assist by P. Siakam),28,41
+2,4:34.0,D. Augustin misses 2-pt jump shot from 11 ft,,28,41
+2,4:31.0,,Defensive rebound by D. Green,28,41
+2,4:23.0,,P. Siakam misses 2-pt layup from 2 ft,28,41
+2,4:22.0,Defensive rebound by N. Vučević,,28,41
+2,4:15.0,A. Gordon makes 2-pt dunk from 1 ft (assist by N. Vučević),,30,41
+2,3:53.0,,P. Siakam makes 2-pt jump shot from 6 ft,30,43
+2,3:42.0,Personal foul by D. Green (drawn by D. Augustin),,30,43
+2,3:42.0,T. Ross enters the game for E. Fournier,,30,43
+2,3:35.0,Personal foul by D. Green (drawn by N. Vučević),,30,43
+2,3:35.0,,N. Powell enters the game for D. Green,30,43
+2,3:32.0,Shooting foul by N. Powell (drawn by D. Augustin),,30,43
+2,3:32.0,D. Augustin makes free throw 1 of 3,,31,43
+2,3:32.0,D. Augustin makes free throw 2 of 3,,32,43
+2,3:32.0,D. Augustin makes free throw 3 of 3,,33,43
+2,3:21.0,,Shooting foul by N. Vučević (drawn by K. Lowry),33,43
+2,3:21.0,,K. Lowry makes free throw 1 of 2,33,44
+2,3:21.0,,K. Lowry makes free throw 2 of 2,33,45
+2,3:00.0,Turnover by N. Vučević (bad pass; steal by M. Gasol),,33,45
+2,2:56.0,,P. Siakam makes 2-pt dunk from 1 ft (assist by K. Lowry),33,47
+2,2:42.0,N. Vučević misses 3-pt jump shot from 25 ft,,33,47
+2,2:39.0,,Defensive rebound by P. Siakam,33,47
+2,2:33.0,,Toronto full timeout,33,47
+2,2:33.0,K. Birch enters the game for J. Isaac,,33,47
+2,2:33.0,E. Fournier enters the game for N. Vučević,,33,47
+2,2:33.0,,F. VanVleet enters the game for K. Leonard,33,47
+2,2:27.0,,Shooting foul by K. Birch (drawn by P. Siakam),33,47
+2,2:27.0,,P. Siakam makes free throw 1 of 2,33,48
+2,2:27.0,,P. Siakam makes free throw 2 of 2,33,49
+2,2:08.0,A. Gordon makes 2-pt jump shot from 11 ft,,35,49
+2,1:55.0,,P. Siakam misses 2-pt layup from 2 ft,35,49
+2,1:53.0,Defensive rebound by K. Birch,,35,49
+2,1:46.0,K. Birch makes 2-pt jump shot from 2 ft (assist by D. Augustin),,37,49
+2,1:21.0,,N. Powell misses 3-pt jump shot from 26 ft,37,49
+2,1:19.0,Defensive rebound by T. Ross,,37,49
+2,1:09.0,A. Gordon misses 3-pt jump shot from 26 ft,,37,49
+2,1:05.0,,Defensive rebound by N. Powell,37,49
+2,1:01.0,,N. Powell misses 2-pt layup from 2 ft (block by T. Ross),37,49
+2,1:00.0,,Offensive rebound by Team,37,49
+2,0:54.0,,K. Lowry misses 3-pt jump shot from 28 ft,37,49
+2,0:53.0,Defensive rebound by Team,,37,49
+2,0:45.0,Personal foul by K. Lowry (drawn by T. Ross),,37,49
+2,0:45.0,T. Ross misses free throw 1 of 2,,37,49
+2,0:45.0,Offensive rebound by Team,,37,49
+2,0:45.0,T. Ross misses free throw 2 of 2,,37,49
+2,0:43.0,,Defensive rebound by M. Gasol,37,49
+2,0:33.0,,Turnover by K. Lowry (bad pass; steal by D. Augustin),37,49
+2,0:30.0,Shooting foul by K. Lowry (drawn by D. Augustin),,37,49
+2,0:30.0,D. Augustin makes free throw 1 of 2,,38,49
+2,0:30.0,D. Augustin makes free throw 2 of 2,,39,49
+2,0:15.0,,K. Lowry makes 2-pt layup from 1 ft,39,51
+2,0:00.0,E. Fournier misses 3-pt jump shot from 26 ft,,39,51
+2,0:00.0,Offensive rebound by Team,,39,51
+3,11:48.0,Shooting foul by M. Gasol (drawn by D. Augustin),,39,51
+3,11:48.0,D. Augustin makes free throw 1 of 2,,40,51
+3,11:48.0,D. Augustin makes free throw 2 of 2,,41,51
+3,11:29.0,,K. Leonard makes 3-pt jump shot from 25 ft,41,54
+3,11:06.0,Offensive foul by N. Vučević (drawn by K. Lowry),,41,54
+3,11:06.0,Turnover by N. Vučević (offensive foul),,41,54
+3,10:55.0,,M. Gasol makes 3-pt jump shot from 25 ft (assist by K. Leonard),41,57
+3,10:41.0,N. Vučević makes 2-pt jump shot from 16 ft (assist by E. Fournier),,43,57
+3,10:33.0,,K. Lowry misses 2-pt layup from 1 ft (block by D. Augustin),43,57
+3,10:33.0,,Offensive rebound by Team,43,57
+3,10:29.0,,M. Gasol misses 2-pt hook shot from 5 ft,43,57
+3,10:26.0,Defensive rebound by N. Vučević,,43,57
+3,10:20.0,Turnover by N. Vučević (bad pass; steal by M. Gasol),,43,57
+3,10:11.0,,M. Gasol misses 3-pt jump shot from 26 ft,43,57
+3,10:08.0,Defensive rebound by E. Fournier,,43,57
+3,10:06.0,E. Fournier makes 2-pt jump shot from 11 ft,,45,57
+3,9:46.0,,K. Leonard makes 2-pt jump shot from 15 ft,45,59
+3,9:23.0,J. Isaac misses 3-pt jump shot from 27 ft,,45,59
+3,9:19.0,,Defensive rebound by P. Siakam,45,59
+3,9:12.0,,K. Leonard makes 2-pt layup from 1 ft (assist by M. Gasol),45,61
+3,9:12.0,,Shooting foul by D. Augustin (drawn by K. Leonard),45,61
+3,9:12.0,,K. Leonard makes free throw 1 of 1,45,62
+3,8:57.0,N. Vučević misses 2-pt jump shot from 13 ft,,45,62
+3,8:53.0,,Defensive rebound by D. Green,45,62
+3,8:43.0,,P. Siakam misses 2-pt layup from 2 ft (block by A. Gordon),45,62
+3,8:40.0,,Offensive rebound by K. Lowry,45,62
+3,8:37.0,,P. Siakam makes 2-pt layup from 1 ft (assist by K. Lowry),45,64
+3,8:22.0,N. Vučević makes 2-pt jump shot from 5 ft (assist by D. Augustin),,47,64
+3,8:04.0,,K. Leonard makes 2-pt dunk from 1 ft,47,66
+3,8:04.0,Orlando full timeout,,47,66
+3,7:53.0,Shooting foul by K. Lowry (drawn by J. Isaac),,47,66
+3,7:53.0,J. Isaac makes free throw 1 of 3,,48,66
+3,7:53.0,J. Isaac makes free throw 2 of 3,,49,66
+3,7:53.0,J. Isaac misses free throw 3 of 3,,49,66
+3,7:51.0,,Defensive rebound by P. Siakam,49,66
+3,7:32.0,,D. Green misses 3-pt jump shot from 26 ft,49,66
+3,7:27.0,,Offensive rebound by K. Lowry,49,66
+3,7:27.0,,K. Lowry makes 2-pt layup at rim,49,68
+3,7:07.0,A. Gordon makes 3-pt jump shot from 26 ft (assist by E. Fournier),,52,68
+3,6:55.0,,M. Gasol makes 3-pt jump shot from 24 ft (assist by K. Lowry),52,71
+3,6:33.0,Turnover by E. Fournier (lost ball; steal by K. Lowry),,52,71
+3,6:31.0,,P. Siakam makes 2-pt layup from 2 ft (assist by K. Lowry),52,73
+3,6:31.0,,Shooting foul by D. Augustin (drawn by P. Siakam),52,73
+3,6:31.0,,P. Siakam makes free throw 1 of 1,52,74
+3,6:09.0,A. Gordon makes 3-pt jump shot from 26 ft,,55,74
+3,5:46.0,,Personal foul by E. Fournier (drawn by K. Lowry),55,74
+3,5:36.0,,K. Leonard misses 2-pt layup from 2 ft,55,74
+3,5:34.0,Defensive rebound by N. Vučević,,55,74
+3,5:30.0,Turnover by N. Vučević (bad pass; steal by K. Leonard),,55,74
+3,5:23.0,,K. Leonard makes 2-pt layup from 1 ft,55,76
+3,5:02.0,J. Isaac misses 3-pt jump shot from 23 ft,,55,76
+3,5:00.0,,Defensive rebound by Team,55,76
+3,5:00.0,T. Ross enters the game for J. Isaac,,55,76
+3,4:45.0,,D. Green misses 3-pt jump shot from 23 ft,55,76
+3,4:42.0,,Offensive rebound by P. Siakam,55,76
+3,4:37.0,,M. Gasol makes 3-pt jump shot from 25 ft (assist by D. Green),55,79
+3,4:12.0,E. Fournier makes 3-pt jump shot from 23 ft (assist by A. Gordon),,58,79
+3,4:06.0,,K. Lowry makes 2-pt layup at rim (assist by M. Gasol),58,81
+3,4:06.0,Orlando full timeout,,58,81
+3,4:06.0,W. Iwundu enters the game for E. Fournier,,58,81
+3,3:48.0,W. Iwundu misses 3-pt jump shot from 26 ft,,58,81
+3,3:45.0,,Defensive rebound by M. Gasol,58,81
+3,3:36.0,,K. Lowry misses 2-pt layup from 1 ft (block by N. Vučević),58,81
+3,3:33.0,Defensive rebound by W. Iwundu,,58,81
+3,3:31.0,D. Augustin makes 2-pt layup from 1 ft (assist by W. Iwundu),,60,81
+3,3:08.0,,D. Green misses 2-pt layup from 2 ft,60,81
+3,3:06.0,Defensive rebound by A. Gordon,,60,81
+3,3:06.0,M. Carter-Williams enters the game for D. Augustin,,60,81
+3,3:06.0,,F. VanVleet enters the game for K. Lowry,60,81
+3,2:59.0,T. Ross misses 2-pt jump shot from 18 ft,,60,81
+3,2:59.0,Offensive rebound by Team,,60,81
+3,2:47.0,M. Carter-Williams makes 2-pt hook shot from 5 ft (assist by N. Vučević),,62,81
+3,2:26.0,,K. Leonard makes 2-pt dunk at rim (assist by M. Gasol),62,83
+3,2:08.0,Turnover by W. Iwundu (step out of bounds),,62,83
+3,2:08.0,,N. Powell enters the game for D. Green,62,83
+3,1:49.0,,P. Siakam makes 2-pt hook shot from 6 ft,62,85
+3,1:38.0,M. Carter-Williams makes 2-pt jump shot from 3 ft,,64,85
+3,1:19.0,,K. Leonard misses 2-pt layup from 1 ft,64,85
+3,1:17.0,Defensive rebound by N. Vučević,,64,85
+3,1:15.0,Turnover by A. Gordon (bad pass),,64,85
+3,1:15.0,K. Birch enters the game for N. Vučević,,64,85
+3,1:15.0,,S. Ibaka enters the game for M. Gasol,64,85
+3,0:51.0,,P. Siakam misses 3-pt jump shot from 23 ft,64,85
+3,0:49.0,Defensive rebound by A. Gordon,,64,85
+3,0:43.0,A. Gordon makes 2-pt layup from 2 ft,,66,85
+3,0:43.0,Shooting foul by S. Ibaka (drawn by A. Gordon),,66,85
+3,0:43.0,A. Gordon misses free throw 1 of 1,,66,85
+3,0:42.0,,Defensive rebound by K. Leonard,66,85
+3,0:22.0,,K. Leonard makes 3-pt jump shot from 25 ft,66,88
+3,0:05.0,Turnover by T. Ross (bad pass; steal by N. Powell),,66,88
+3,0:01.0,,N. Powell makes 2-pt layup from 1 ft,66,90
+4,11:38.0,,S. Ibaka misses 2-pt jump shot from 19 ft,66,90
+4,11:35.0,Defensive rebound by M. Carter-Williams,,66,90
+4,11:25.0,J. Isaac misses 3-pt jump shot from 28 ft,,66,90
+4,11:21.0,,Defensive rebound by N. Powell,66,90
+4,11:11.0,,Personal foul by E. Fournier (drawn by K. Lowry),66,90
+4,11:00.0,,F. VanVleet misses 2-pt jump shot from 23 ft,66,90
+4,10:58.0,Defensive rebound by J. Isaac,,66,90
+4,10:51.0,T. Ross misses 3-pt jump shot from 26 ft,,66,90
+4,10:47.0,,Defensive rebound by P. Siakam,66,90
+4,10:37.0,,S. Ibaka makes 2-pt hook shot from 3 ft (assist by F. VanVleet),66,92
+4,10:23.0,M. Carter-Williams misses 2-pt layup from 5 ft,,66,92
+4,10:21.0,,Defensive rebound by P. Siakam,66,92
+4,10:09.0,,Personal foul by M. Carter-Williams (drawn by K. Lowry),66,92
+4,10:09.0,,K. Leonard enters the game for P. Siakam,66,92
+4,9:57.0,,K. Lowry makes 2-pt layup from 1 ft,66,94
+4,9:38.0,J. Isaac misses 3-pt jump shot from 23 ft,,66,94
+4,9:37.0,Offensive rebound by K. Birch,,66,94
+4,9:36.0,Turnover by K. Birch (lost ball; steal by K. Lowry),,66,94
+4,9:26.0,,K. Leonard misses 2-pt jump shot from 2 ft,66,94
+4,9:26.0,,Offensive rebound by S. Ibaka,66,94
+4,9:26.0,,Shooting foul by M. Carter-Williams (drawn by S. Ibaka),66,94
+4,9:26.0,,S. Ibaka makes free throw 1 of 2,66,95
+4,9:26.0,,S. Ibaka makes free throw 2 of 2,66,96
+4,9:18.0,Personal foul by N. Powell (drawn by T. Ross),,66,96
+4,9:12.0,J. Isaac makes 2-pt layup from 2 ft,,68,96
+4,9:12.0,Shooting foul by S. Ibaka (drawn by J. Isaac),,68,96
+4,9:12.0,J. Isaac makes free throw 1 of 1,,69,96
+4,8:48.0,,K. Leonard makes 3-pt jump shot from 25 ft (assist by N. Powell),69,99
+4,8:35.0,Personal foul by F. VanVleet (drawn by K. Birch),,69,99
+4,8:28.0,J. Isaac misses 2-pt jump shot from 19 ft,,69,99
+4,8:27.0,Offensive rebound by Team,,69,99
+4,8:27.0,,Loose ball foul by K. Lowry (drawn by K. Birch),69,99
+4,8:16.0,K. Birch misses 2-pt hook shot from 4 ft,,69,99
+4,8:15.0,,Defensive rebound by S. Ibaka,69,99
+4,8:06.0,,K. Leonard misses 3-pt jump shot from 25 ft,69,99
+4,8:04.0,Defensive rebound by M. Carter-Williams,,69,99
+4,7:59.0,Turnover by M. Carter-Williams (bad pass),,69,99
+4,7:48.0,,F. VanVleet makes 2-pt jump shot from 18 ft,69,101
+4,7:19.0,E. Fournier misses 2-pt jump shot from 22 ft (block by F. VanVleet),,69,101
+4,7:15.0,Offensive rebound by E. Fournier,,69,101
+4,7:14.0,E. Fournier misses 3-pt jump shot from 26 ft,,69,101
+4,7:13.0,Offensive rebound by M. Carter-Williams,,69,101
+4,7:12.0,E. Fournier misses 3-pt jump shot from 28 ft,,69,101
+4,7:12.0,,Defensive rebound by Team,69,101
+4,7:12.0,Loose ball foul by M. Carter-Williams (drawn by K. Lowry),,69,101
+4,7:12.0,Technical foul by M. Carter-Williams,,69,101
+4,7:12.0,,K. Lowry makes technical free throw,69,102
+4,7:03.0,,F. VanVleet misses 2-pt jump shot from 18 ft,69,102
+4,7:00.0,Defensive rebound by T. Ross,,69,102
+4,6:44.0,E. Fournier makes 2-pt hook shot from 5 ft,,71,102
+4,6:23.0,,S. Ibaka misses 3-pt jump shot from 26 ft,71,102
+4,6:20.0,Defensive rebound by T. Ross,,71,102
+4,6:15.0,T. Ross misses 3-pt jump shot from 27 ft,,71,102
+4,6:11.0,Offensive rebound by E. Fournier,,71,102
+4,6:07.0,M. Carter-Williams makes 2-pt layup from 2 ft (assist by E. Fournier),,73,102
+4,6:07.0,,Violation by Team (def goaltending),73,102
+4,5:52.0,,Personal foul by K. Birch (drawn by S. Ibaka),73,102
+4,5:52.0,,Toronto full timeout,73,102
+4,5:52.0,M. Frazier enters the game for E. Fournier,,73,102
+4,5:52.0,J. Grant enters the game for J. Isaac,,73,102
+4,5:52.0,J. Martin enters the game for T. Ross,,73,102
+4,5:52.0,,P. Siakam enters the game for F. VanVleet,73,102
+4,5:52.0,,S. Ibaka makes free throw 1 of 2,73,103
+4,5:52.0,,S. Ibaka makes free throw 2 of 2,73,104
+4,5:35.0,J. Martin misses 3-pt jump shot from 25 ft,,73,104
+4,5:35.0,,Defensive rebound by Team,73,104
+4,5:20.0,,N. Powell misses 3-pt jump shot from 25 ft,73,104
+4,5:17.0,Defensive rebound by M. Carter-Williams,,73,104
+4,5:03.0,K. Birch misses 2-pt layup from 6 ft (block by S. Ibaka),,73,104
+4,5:00.0,,Defensive rebound by N. Powell,73,104
+4,4:57.0,,K. Leonard misses 3-pt jump shot from 26 ft,73,104
+4,4:57.0,Defensive rebound by J. Martin,,73,104
+4,4:49.0,M. Carter-Williams misses 3-pt jump shot from 27 ft,,73,104
+4,4:46.0,,Defensive rebound by Team,73,104
+4,4:46.0,,J. Meeks enters the game for K. Leonard,73,104
+4,4:34.0,,J. Meeks misses 3-pt jump shot from 25 ft,73,104
+4,4:32.0,Defensive rebound by M. Carter-Williams,,73,104
+4,4:21.0,M. Frazier misses 2-pt jump shot from 19 ft,,73,104
+4,4:21.0,,Defensive rebound by S. Ibaka,73,104
+4,4:06.0,,P. Siakam misses 3-pt jump shot from 23 ft,73,104
+4,4:03.0,Defensive rebound by K. Birch,,73,104
+4,3:55.0,J. Martin misses 3-pt jump shot from 27 ft,,73,104
+4,3:52.0,,Defensive rebound by N. Powell,73,104
+4,3:43.0,,N. Powell misses 2-pt hook shot from 4 ft,73,104
+4,3:41.0,Defensive rebound by M. Carter-Williams,,73,104
+4,3:41.0,,J. Lin enters the game for K. Lowry,73,104
+4,3:41.0,,M. Miller enters the game for P. Siakam,73,104
+4,3:22.0,Turnover by J. Grant (bad pass; steal by N. Powell),,73,104
+4,3:17.0,,J. Meeks misses 3-pt jump shot from 25 ft,73,104
+4,3:14.0,Defensive rebound by M. Frazier,,73,104
+4,3:01.0,K. Birch misses 2-pt jump shot from 20 ft,,73,104
+4,2:58.0,,Defensive rebound by S. Ibaka,73,104
+4,2:51.0,,N. Powell makes 3-pt jump shot from 23 ft (assist by J. Lin),73,107
+4,2:36.0,M. Carter-Williams makes 2-pt layup from 1 ft,,75,107
+4,2:36.0,Shooting foul by J. Lin (drawn by M. Carter-Williams),,75,107
+4,2:36.0,Orlando full timeout,,75,107
+4,2:36.0,,E. Moreland enters the game for S. Ibaka,75,107
+4,2:36.0,M. Carter-Williams misses free throw 1 of 1,,75,107
+4,2:33.0,Offensive rebound by M. Carter-Williams,,75,107
+4,2:22.0,M. Frazier misses 2-pt jump shot from 7 ft,,75,107
+4,2:22.0,Offensive rebound by K. Birch,,75,107
+4,2:17.0,K. Birch makes 2-pt hook shot from 1 ft,,77,107
+4,2:04.0,,Personal foul by M. Carter-Williams (drawn by J. Lin),77,107
+4,2:04.0,,J. Lin makes free throw 1 of 2,77,108
+4,2:04.0,,J. Lin makes free throw 2 of 2,77,109
+4,1:51.0,J. Grant misses 3-pt jump shot from 27 ft,,77,109
+4,1:47.0,,Defensive rebound by E. Moreland,77,109
+4,1:43.0,,N. Powell misses 3-pt jump shot from 25 ft,77,109
+4,1:39.0,,Offensive rebound by E. Moreland,77,109
+4,1:33.0,,J. Lin makes 2-pt jump shot from 20 ft,77,111
+4,1:18.0,J. Martin makes 3-pt jump shot from 23 ft (assist by M. Carter-Williams),,80,111
+4,1:03.0,,J. Meeks misses 3-pt jump shot from 25 ft,80,111
+4,1:01.0,Defensive rebound by M. Carter-Williams,,80,111
+4,0:49.0,J. Martin makes 2-pt hook shot from 3 ft (assist by J. Grant),,82,111
+4,0:25.0,Defensive rebound by K. Birch,,82,111
+4,0:25.0,,N. Powell misses 2-pt layup at rim,82,111
+4,0:20.0,J. Grant misses 3-pt jump shot from 26 ft,,82,111
+4,0:17.0,,Defensive rebound by Team,82,111

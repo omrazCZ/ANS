@@ -1,0 +1,455 @@
+QUARTER,TIME_REMAINING,LA LAKERS_ACTION,NEW ORLEANS_ACTION,LA LAKERS_SCORE,NEW ORLEANS_SCORE
+1,11:46.0,R. Rondo makes 2-pt layup from 1 ft (assist by L. Stephenson),,2,0
+1,11:23.0,,Turnover by J. Randle (lost ball; steal by R. Rondo),2,0
+1,11:15.0,L. Stephenson misses 3-pt jump shot from 24 ft,,2,0
+1,11:12.0,,Defensive rebound by J. Randle,2,0
+1,11:07.0,,I. Clark makes 3-pt jump shot from 29 ft (assist by J. Randle),2,3
+1,10:44.0,J. McGee misses 2-pt jump shot from 10 ft,,2,3
+1,10:42.0,,Defensive rebound by I. Clark,2,3
+1,10:37.0,,Personal foul by M. Wagner (drawn by J. Okafor),2,3
+1,10:31.0,,I. Clark misses 3-pt jump shot from 27 ft,2,3
+1,10:27.0,Defensive rebound by J. McGee,,2,3
+1,10:19.0,M. Wagner misses 2-pt jump shot from 7 ft,,2,3
+1,10:16.0,,Defensive rebound by J. Okafor,2,3
+1,10:11.0,,I. Clark makes 2-pt layup from 2 ft (assist by E. Payton),2,5
+1,10:11.0,Violation by Team (def goaltending),,2,5
+1,10:00.0,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,,2,5
+1,9:57.0,,Defensive rebound by K. Williams,2,5
+1,9:49.0,,Turnover by I. Clark (lost ball; steal by K. Caldwell-Pope),2,5
+1,9:43.0,R. Rondo misses 2-pt jump shot from 20 ft,,2,5
+1,9:39.0,,Defensive rebound by K. Williams,2,5
+1,9:23.0,,J. Okafor makes 2-pt layup from 4 ft (assist by E. Payton),2,7
+1,9:11.0,K. Caldwell-Pope makes 2-pt layup from 1 ft,,4,7
+1,9:03.0,,E. Payton makes 2-pt layup at rim,4,9
+1,8:46.0,Turnover by M. Wagner (bad pass; steal by K. Williams),,4,9
+1,8:41.0,Violation by Team (kicked ball),,4,9
+1,8:32.0,,Turnover by E. Payton (bad pass; steal by J. McGee),4,9
+1,8:25.0,J. McGee makes 2-pt hook shot from 8 ft (assist by R. Rondo),,6,9
+1,8:14.0,,K. Williams misses 3-pt jump shot from 27 ft,6,9
+1,8:11.0,Defensive rebound by R. Rondo,,6,9
+1,8:06.0,M. Wagner misses 3-pt jump shot from 30 ft,,6,9
+1,8:04.0,,Defensive rebound by Team,6,9
+1,7:50.0,,E. Payton misses 2-pt layup from 8 ft (block by M. Wagner),6,9
+1,7:48.0,,Offensive rebound by J. Okafor,6,9
+1,7:44.0,,J. Randle makes 3-pt jump shot from 23 ft (assist by J. Okafor),6,12
+1,7:21.0,L. Stephenson misses 3-pt jump shot from 26 ft,,6,12
+1,7:18.0,,Defensive rebound by J. Randle,6,12
+1,7:07.0,,I. Clark misses 3-pt jump shot from 23 ft,6,12
+1,7:05.0,Defensive rebound by L. Stephenson,,6,12
+1,7:01.0,Shooting foul by J. Okafor (drawn by K. Caldwell-Pope),,6,12
+1,7:01.0,Violation by Team (delay of game),,6,12
+1,7:01.0,K. Caldwell-Pope makes free throw 1 of 2,,7,12
+1,7:01.0,J. Williams enters the game for J. McGee,,7,12
+1,7:01.0,K. Caldwell-Pope makes free throw 2 of 2,,8,12
+1,6:50.0,,Personal foul by J. Williams (drawn by J. Randle),8,12
+1,6:50.0,,New Orleans full timeout,8,12
+1,6:42.0,,J. Randle misses 3-pt jump shot from 26 ft,8,12
+1,6:41.0,Defensive rebound by Team,,8,12
+1,6:30.0,M. Wagner misses 3-pt jump shot from 25 ft,,8,12
+1,6:27.0,,Defensive rebound by E. Payton,8,12
+1,6:20.0,,Turnover by J. Randle (traveling),8,12
+1,6:10.0,K. Caldwell-Pope makes 2-pt layup from 2 ft (assist by R. Rondo),,10,12
+1,5:52.0,,I. Clark misses 2-pt jump shot from 9 ft,10,12
+1,5:50.0,Defensive rebound by L. Stephenson,,10,12
+1,5:36.0,K. Caldwell-Pope misses 2-pt layup from 10 ft,,10,12
+1,5:31.0,Offensive rebound by J. Williams,,10,12
+1,5:31.0,,Defensive rebound by J. Randle,10,12
+1,5:31.0,J. Williams misses 2-pt layup at rim,,10,12
+1,5:25.0,,I. Clark misses 3-pt jump shot from 26 ft,10,12
+1,5:25.0,,Offensive rebound by Team,10,12
+1,5:25.0,,C. Diallo enters the game for J. Okafor,10,12
+1,5:14.0,,I. Clark makes 2-pt jump shot from 17 ft (assist by J. Randle),10,14
+1,5:00.0,Turnover by K. Caldwell-Pope (bad pass),,10,14
+1,5:00.0,J. McGee enters the game for M. Wagner,,10,14
+1,5:00.0,M. Muscala enters the game for J. Williams,,10,14
+1,4:43.0,,E. Payton makes 2-pt layup from 2 ft (assist by I. Clark),10,16
+1,4:34.0,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,,10,16
+1,4:33.0,,Defensive rebound by Team,10,16
+1,4:33.0,A. Caruso enters the game for L. Stephenson,,10,16
+1,4:33.0,,C. Wood enters the game for J. Randle,10,16
+1,4:10.0,,Turnover by E. Payton (lost ball; steal by A. Caruso),10,16
+1,4:02.0,K. Caldwell-Pope makes 2-pt layup from 2 ft (assist by M. Muscala),,12,16
+1,4:02.0,Shooting foul by I. Clark (drawn by K. Caldwell-Pope),,12,16
+1,4:02.0,,S. Johnson enters the game for E. Payton,12,16
+1,4:02.0,K. Caldwell-Pope makes free throw 1 of 1,,13,16
+1,3:50.0,,Turnover by I. Clark (bad pass; steal by R. Rondo),13,16
+1,3:47.0,J. McGee makes 2-pt dunk from 1 ft (assist by R. Rondo),,15,16
+1,3:47.0,Shooting foul by C. Diallo (drawn by J. McGee),,15,16
+1,3:47.0,J. McGee misses free throw 1 of 1,,15,16
+1,3:43.0,,Defensive rebound by S. Johnson,15,16
+1,3:35.0,,I. Clark makes 2-pt layup from 2 ft (assist by C. Diallo),15,18
+1,3:21.0,K. Caldwell-Pope makes 2-pt jump shot from 15 ft (assist by R. Rondo),,17,18
+1,3:11.0,,S. Johnson makes 2-pt layup from 1 ft,17,20
+1,3:01.0,K. Caldwell-Pope misses 2-pt layup from 2 ft,,17,20
+1,2:58.0,,Defensive rebound by C. Wood,17,20
+1,2:53.0,,K. Williams misses 3-pt jump shot from 25 ft,17,20
+1,2:49.0,Defensive rebound by J. McGee,,17,20
+1,2:44.0,R. Rondo makes 2-pt layup from 2 ft (assist by J. McGee),,19,20
+1,2:30.0,,C. Diallo makes 2-pt layup from 3 ft (assist by K. Williams),19,22
+1,2:30.0,LA Lakers full timeout,,19,22
+1,2:17.0,M. Muscala misses 3-pt jump shot from 23 ft,,19,22
+1,2:13.0,,Defensive rebound by C. Wood,19,22
+1,1:56.0,,C. Wood misses 2-pt jump shot from 17 ft,19,22
+1,1:53.0,Defensive rebound by J. McGee,,19,22
+1,1:37.0,J. McGee makes 2-pt hook shot from 7 ft,,21,22
+1,1:20.0,,S. Johnson misses 2-pt jump shot from 11 ft,21,22
+1,1:17.0,Defensive rebound by K. Caldwell-Pope,,21,22
+1,1:11.0,M. Muscala misses 3-pt jump shot from 25 ft,,21,22
+1,1:07.0,,Defensive rebound by S. Johnson,21,22
+1,0:55.0,,C. Wood misses 2-pt layup from 4 ft,21,22
+1,0:53.0,,Offensive rebound by Team,21,22
+1,0:53.0,R. Bullock enters the game for K. Caldwell-Pope,,21,22
+1,0:53.0,,S. Hill enters the game for K. Williams,21,22
+1,0:44.0,,S. Johnson misses 2-pt layup from 3 ft,21,22
+1,0:40.0,,C. Diallo makes 2-pt layup from 1 ft,21,24
+1,0:40.0,,Offensive rebound by C. Diallo,21,24
+1,0:32.0,R. Rondo makes 3-pt jump shot from 25 ft (assist by R. Bullock),,24,24
+1,0:17.0,,Turnover by I. Clark (bad pass; steal by R. Rondo),24,24
+1,0:14.0,Shooting foul by S. Hill (drawn by R. Rondo),,24,24
+1,0:14.0,R. Rondo makes free throw 1 of 2,,25,24
+1,0:14.0,R. Rondo makes free throw 2 of 2,,26,24
+1,0:06.0,,Personal foul by R. Bullock (drawn by S. Johnson),26,24
+1,0:00.0,,C. Wood makes 2-pt jump shot from 22 ft,26,26
+2,11:45.0,,Turnover by S. Johnson (bad pass; steal by L. Stephenson),26,26
+2,11:36.0,M. Muscala misses 3-pt jump shot from 23 ft,,26,26
+2,11:34.0,,Defensive rebound by C. Diallo,26,26
+2,11:27.0,,Shooting foul by J. McGee (drawn by C. Wood),26,26
+2,11:27.0,,C. Wood makes free throw 1 of 2,26,27
+2,11:27.0,,C. Wood makes free throw 2 of 2,26,28
+2,11:15.0,L. Stephenson misses 3-pt jump shot from 25 ft,,26,28
+2,11:11.0,,Defensive rebound by C. Diallo,26,28
+2,11:08.0,,Turnover by S. Johnson (bad pass; steal by M. Muscala),26,28
+2,11:01.0,L. Stephenson misses 2-pt jump shot from 21 ft,,26,28
+2,10:56.0,,Defensive rebound by S. Johnson,26,28
+2,10:50.0,,D. Bertāns misses 3-pt jump shot from 26 ft,26,28
+2,10:48.0,Defensive rebound by Team,,26,28
+2,10:27.0,A. Caruso makes 2-pt jump shot from 20 ft,,28,28
+2,10:16.0,,D. Bertāns makes 3-pt jump shot from 26 ft (assist by S. Hill),28,31
+2,10:02.0,L. Stephenson misses 2-pt jump shot from 17 ft,,28,31
+2,10:01.0,Offensive rebound by J. McGee,,28,31
+2,10:01.0,J. McGee makes 2-pt layup from 3 ft,,30,31
+2,10:01.0,Shooting foul by C. Diallo (drawn by J. McGee),,30,31
+2,10:01.0,M. Wagner enters the game for M. Muscala,,30,31
+2,10:01.0,J. McGee makes free throw 1 of 1,,31,31
+2,9:53.0,,S. Johnson misses 2-pt layup from 1 ft (block by J. McGee),31,31
+2,9:51.0,Defensive rebound by M. Wagner,,31,31
+2,9:40.0,R. Bullock misses 2-pt jump shot from 18 ft,,31,31
+2,9:37.0,,Defensive rebound by C. Diallo,31,31
+2,9:30.0,,D. Bertāns misses 3-pt jump shot from 26 ft,31,31
+2,9:28.0,Defensive rebound by Team,,31,31
+2,9:28.0,,Loose ball foul by C. Diallo (drawn by A. Caruso),31,31
+2,9:28.0,,J. Randle enters the game for C. Diallo,31,31
+2,9:18.0,L. Stephenson misses 2-pt jump shot from 15 ft,,31,31
+2,9:13.0,,Defensive rebound by C. Wood,31,31
+2,9:01.0,,Turnover by J. Randle (bad pass; steal by A. Caruso),31,31
+2,8:58.0,Shooting foul by S. Johnson (drawn by A. Caruso),,31,31
+2,8:58.0,A. Caruso makes free throw 1 of 2,,32,31
+2,8:58.0,A. Caruso misses free throw 2 of 2,,32,31
+2,8:56.0,,Defensive rebound by C. Wood,32,31
+2,8:48.0,,D. Bertāns misses 3-pt jump shot from 26 ft,32,31
+2,8:44.0,Defensive rebound by M. Wagner,,32,31
+2,8:39.0,Personal foul by J. Randle (drawn by J. McGee),,32,31
+2,8:36.0,J. McGee misses 2-pt jump shot from 19 ft,,32,31
+2,8:33.0,,Defensive rebound by C. Wood,32,31
+2,8:26.0,,D. Bertāns misses 3-pt jump shot from 22 ft,32,31
+2,8:24.0,Defensive rebound by R. Bullock,,32,31
+2,8:19.0,A. Caruso makes 3-pt jump shot from 26 ft,,35,31
+2,8:00.0,,C. Wood makes 2-pt layup from 3 ft,35,33
+2,7:50.0,A. Caruso misses 2-pt jump shot from 13 ft,,35,33
+2,7:45.0,Offensive rebound by J. McGee,,35,33
+2,7:42.0,Shooting foul by C. Wood (drawn by A. Caruso),,35,33
+2,7:42.0,A. Caruso makes free throw 1 of 2,,36,33
+2,7:42.0,,J. Okafor enters the game for S. Johnson,36,33
+2,7:42.0,,E. Payton enters the game for C. Wood,36,33
+2,7:42.0,A. Caruso makes free throw 2 of 2,,37,33
+2,7:34.0,,D. Bertāns misses 3-pt jump shot from 25 ft,37,33
+2,7:32.0,Defensive rebound by M. Wagner,,37,33
+2,7:26.0,R. Bullock misses 2-pt jump shot from 15 ft,,37,33
+2,7:22.0,,Defensive rebound by S. Hill,37,33
+2,7:20.0,,Shooting foul by A. Caruso (drawn by J. Randle),37,33
+2,7:20.0,,J. Randle makes free throw 1 of 2,37,34
+2,7:20.0,R. Rondo enters the game for L. Stephenson,,37,34
+2,7:20.0,,J. Randle makes free throw 2 of 2,37,35
+2,7:07.0,R. Rondo misses 2-pt layup from 2 ft,,37,35
+2,7:03.0,Offensive rebound by A. Caruso,,37,35
+2,7:00.0,A. Caruso makes 3-pt jump shot from 25 ft,,40,35
+2,6:53.0,,Personal foul by M. Wagner (drawn by J. Randle),40,35
+2,6:53.0,,New Orleans full timeout,40,35
+2,6:53.0,K. Caldwell-Pope enters the game for R. Bullock,,40,35
+2,6:42.0,,D. Bertāns makes 3-pt jump shot from 26 ft (assist by E. Payton),40,38
+2,6:27.0,M. Wagner misses 2-pt layup from 2 ft,,40,38
+2,6:26.0,Offensive rebound by J. McGee,,40,38
+2,6:26.0,J. McGee misses 2-pt layup at rim,,40,38
+2,6:26.0,Offensive rebound by J. McGee,,40,38
+2,6:26.0,J. McGee misses 2-pt layup at rim,,40,38
+2,6:26.0,Offensive rebound by J. McGee,,40,38
+2,6:26.0,Shooting foul by S. Hill (drawn by J. McGee),,40,38
+2,6:26.0,J. McGee misses free throw 1 of 2,,40,38
+2,6:26.0,Offensive rebound by Team,,40,38
+2,6:26.0,J. McGee makes free throw 2 of 2,,41,38
+2,6:12.0,,J. Randle makes 2-pt jump shot from 7 ft,41,40
+2,6:00.0,R. Rondo makes 3-pt jump shot from 26 ft,,44,40
+2,5:34.0,,J. Randle makes 3-pt jump shot from 26 ft,44,43
+2,5:22.0,K. Caldwell-Pope makes 2-pt jump shot from 14 ft (assist by R. Rondo),,46,43
+2,5:07.0,,J. Okafor makes 2-pt layup from 3 ft,46,45
+2,4:56.0,M. Wagner misses 3-pt jump shot from 24 ft,,46,45
+2,4:51.0,,Defensive rebound by S. Hill,46,45
+2,4:48.0,,Turnover by J. Randle (traveling),46,45
+2,4:38.0,K. Caldwell-Pope makes 2-pt jump shot from 19 ft (assist by R. Rondo),,48,45
+2,4:18.0,,S. Hill makes 3-pt jump shot from 23 ft (assist by E. Payton),48,48
+2,3:57.0,Personal foul by J. Randle (drawn by M. Wagner),,48,48
+2,3:57.0,M. Wagner makes free throw 1 of 2,,49,48
+2,3:57.0,J. Williams enters the game for J. McGee,,49,48
+2,3:57.0,M. Wagner makes free throw 2 of 2,,50,48
+2,3:45.0,,Shooting foul by J. Williams (drawn by J. Randle),50,48
+2,3:45.0,,J. Randle makes free throw 1 of 2,50,49
+2,3:45.0,,J. Randle makes free throw 2 of 2,50,50
+2,3:35.0,K. Caldwell-Pope makes 2-pt jump shot from 17 ft (assist by R. Rondo),,52,50
+2,3:25.0,,S. Hill makes 2-pt dunk from 1 ft (assist by E. Payton),52,52
+2,3:12.0,K. Caldwell-Pope misses 2-pt jump shot from 20 ft,,52,52
+2,3:09.0,,Defensive rebound by S. Hill,52,52
+2,3:03.0,,Turnover by J. Okafor (dbl dribble),52,52
+2,3:03.0,,I. Clark enters the game for D. Bertāns,52,52
+2,3:03.0,LA Lakers full timeout,,52,52
+2,3:03.0,J. McGee enters the game for J. Williams,,52,52
+2,3:03.0,,K. Williams enters the game for S. Hill,52,52
+2,3:03.0,,C. Wood enters the game for J. Randle,52,52
+2,2:51.0,J. McGee makes 2-pt dunk from 1 ft (assist by R. Rondo),,54,52
+2,2:37.0,,E. Payton misses 2-pt jump shot from 10 ft,54,52
+2,2:33.0,Defensive rebound by M. Wagner,,54,52
+2,2:18.0,M. Wagner makes 3-pt jump shot from 26 ft (assist by J. McGee),,57,52
+2,2:01.0,,Shooting foul by J. McGee (drawn by C. Wood),57,52
+2,2:01.0,,C. Wood makes free throw 1 of 2,57,53
+2,2:01.0,,C. Wood makes free throw 2 of 2,57,54
+2,1:53.0,Turnover by R. Rondo (bad pass),,57,54
+2,1:40.0,,C. Wood makes 2-pt dunk from 1 ft (assist by E. Payton),57,56
+2,1:28.0,Turnover by J. McGee (bad pass; steal by E. Payton),,57,56
+2,1:24.0,,E. Payton makes 2-pt layup from 2 ft,57,58
+2,1:09.0,K. Caldwell-Pope makes 2-pt jump shot from 18 ft (assist by R. Rondo),,59,58
+2,1:00.0,,C. Wood misses 3-pt jump shot from 27 ft,59,58
+2,0:56.0,Defensive rebound by J. McGee,,59,58
+2,0:55.0,Offensive foul by M. Wagner (drawn by C. Wood),,59,58
+2,0:55.0,Turnover by M. Wagner (offensive foul),,59,58
+2,0:55.0,J. Williams enters the game for J. McGee,,59,58
+2,0:39.0,,J. Okafor makes 2-pt layup from 2 ft,59,60
+2,0:30.0,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,,59,60
+2,0:28.0,,Defensive rebound by C. Wood,59,60
+2,0:10.0,,J. Okafor makes 2-pt hook shot from 4 ft,59,62
+2,0:00.0,R. Rondo makes 2-pt hook shot from 4 ft,,61,62
+3,11:42.0,,J. Randle makes 2-pt jump shot from 12 ft,61,64
+3,11:21.0,R. Rondo makes 3-pt jump shot from 22 ft (assist by J. McGee),,64,64
+3,11:13.0,,Shooting foul by K. Caldwell-Pope (drawn by E. Payton),64,64
+3,11:13.0,,E. Payton makes free throw 1 of 2,64,65
+3,11:13.0,,E. Payton makes free throw 2 of 2,64,66
+3,10:58.0,R. Rondo misses 3-pt jump shot from 26 ft,,64,66
+3,10:51.0,,Defensive rebound by J. Randle,64,66
+3,10:48.0,,E. Payton misses 3-pt jump shot from 26 ft,64,66
+3,10:44.0,Defensive rebound by R. Rondo,,64,66
+3,10:36.0,Shooting foul by K. Williams (drawn by J. McGee),,64,66
+3,10:36.0,J. McGee makes free throw 1 of 2,,65,66
+3,10:36.0,J. McGee makes free throw 2 of 2,,66,66
+3,10:23.0,,I. Clark misses 3-pt jump shot from 23 ft,66,66
+3,10:18.0,Defensive rebound by J. McGee,,66,66
+3,10:12.0,R. Rondo makes 2-pt layup from 2 ft,,68,66
+3,10:06.0,,J. Randle misses 3-pt jump shot from 25 ft,68,66
+3,10:01.0,Defensive rebound by M. Wagner,,68,66
+3,9:51.0,L. Stephenson misses 3-pt jump shot from 26 ft,,68,66
+3,9:49.0,,Defensive rebound by J. Randle,68,66
+3,9:42.0,,J. Randle misses 2-pt layup from 2 ft,68,66
+3,9:40.0,Defensive rebound by R. Rondo,,68,66
+3,9:35.0,J. McGee makes 2-pt layup from 1 ft (assist by R. Rondo),,70,66
+3,9:17.0,,J. Okafor makes 2-pt layup from 3 ft,70,68
+3,8:49.0,R. Rondo makes 2-pt jump shot from 18 ft,,72,68
+3,8:29.0,,I. Clark makes 2-pt layup from 2 ft (assist by J. Randle),72,70
+3,8:27.0,LA Lakers full timeout,,72,70
+3,8:27.0,R. Bullock enters the game for R. Rondo,,72,70
+3,8:27.0,A. Caruso enters the game for L. Stephenson,,72,70
+3,8:12.0,R. Bullock makes 2-pt jump shot from 17 ft (assist by A. Caruso),,74,70
+3,7:56.0,,J. Okafor makes 2-pt dunk from 1 ft (assist by I. Clark),74,72
+3,7:47.0,J. McGee makes 2-pt dunk from 2 ft (assist by A. Caruso),,76,72
+3,7:47.0,Shooting foul by K. Williams (drawn by J. McGee),,76,72
+3,7:47.0,J. McGee makes free throw 1 of 1,,77,72
+3,7:34.0,,Shooting foul by J. McGee (drawn by J. Okafor),77,72
+3,7:34.0,,J. Okafor makes free throw 1 of 2,77,73
+3,7:34.0,,J. Okafor misses free throw 2 of 2,77,73
+3,7:31.0,Defensive rebound by J. McGee,,77,73
+3,7:18.0,J. McGee misses 2-pt layup from 3 ft,,77,73
+3,7:16.0,,Defensive rebound by E. Payton,77,73
+3,7:03.0,,J. Okafor misses 2-pt jump shot from 3 ft,77,73
+3,7:03.0,Defensive rebound by Team,,77,73
+3,6:47.0,A. Caruso makes 2-pt layup from 2 ft,,79,73
+3,6:19.0,,Turnover by I. Clark (bad pass; steal by A. Caruso),79,73
+3,6:12.0,J. McGee makes 2-pt hook shot from 7 ft,,81,73
+3,6:12.0,,New Orleans full timeout,81,73
+3,6:12.0,,C. Diallo enters the game for J. Okafor,81,73
+3,6:12.0,,S. Johnson enters the game for E. Payton,81,73
+3,5:59.0,,J. Randle makes 2-pt jump shot from 16 ft,81,75
+3,5:39.0,A. Caruso misses 2-pt layup from 3 ft,,81,75
+3,5:39.0,Offensive rebound by Team,,81,75
+3,5:39.0,,Loose ball foul by J. Randle (drawn by J. McGee),81,75
+3,5:33.0,R. Bullock makes 2-pt jump shot from 11 ft (assist by M. Wagner),,83,75
+3,5:15.0,,Shooting foul by M. Wagner (drawn by J. Randle),83,75
+3,5:15.0,,J. Randle makes free throw 1 of 2,83,76
+3,5:15.0,,J. Randle misses free throw 2 of 2,83,76
+3,5:13.0,Defensive rebound by J. McGee,,83,76
+3,4:50.0,A. Caruso misses 2-pt layup from 1 ft,,83,76
+3,4:44.0,Offensive rebound by J. McGee,,83,76
+3,4:44.0,J. McGee makes 2-pt dunk from 1 ft,,85,76
+3,4:37.0,,Turnover by J. Randle (bad pass),85,76
+3,4:24.0,M. Wagner makes 2-pt jump shot from 7 ft (assist by A. Caruso),,87,76
+3,4:03.0,,K. Williams misses 3-pt jump shot from 26 ft,87,76
+3,3:59.0,Defensive rebound by J. McGee,,87,76
+3,3:48.0,K. Caldwell-Pope misses 2-pt jump shot from 18 ft,,87,76
+3,3:45.0,,Defensive rebound by K. Williams,87,76
+3,3:32.0,,C. Diallo makes 2-pt jump shot from 19 ft,87,78
+3,3:20.0,Turnover by A. Caruso (bad pass; steal by J. Randle),,87,78
+3,3:18.0,,Personal foul by K. Caldwell-Pope (drawn by K. Williams),87,78
+3,3:18.0,M. Muscala enters the game for J. McGee,,87,78
+3,3:18.0,J. Williams enters the game for M. Wagner,,87,78
+3,3:18.0,,C. Wood enters the game for J. Randle,87,78
+3,3:03.0,,C. Wood misses 2-pt jump shot from 6 ft,87,78
+3,2:57.0,,C. Diallo makes 2-pt layup at rim,87,80
+3,2:57.0,,Offensive rebound by C. Diallo,87,80
+3,2:49.0,K. Caldwell-Pope misses 2-pt jump shot from 14 ft,,87,80
+3,2:48.0,Offensive rebound by A. Caruso,,87,80
+3,2:48.0,Shooting foul by S. Johnson (drawn by A. Caruso),,87,80
+3,2:48.0,A. Caruso makes free throw 1 of 2,,88,80
+3,2:48.0,I. Bonga enters the game for K. Caldwell-Pope,,88,80
+3,2:48.0,,S. Hill enters the game for K. Williams,88,80
+3,2:48.0,A. Caruso makes free throw 2 of 2,,89,80
+3,2:40.0,,I. Clark misses 2-pt jump shot from 21 ft,89,80
+3,2:38.0,Defensive rebound by M. Muscala,,89,80
+3,2:30.0,R. Bullock misses 2-pt jump shot from 18 ft,,89,80
+3,2:28.0,,Defensive rebound by Team,89,80
+3,2:14.0,,Turnover by C. Diallo (bad pass; steal by I. Bonga),89,80
+3,2:09.0,A. Caruso makes 3-pt jump shot from 27 ft,,92,80
+3,1:57.0,,Turnover by S. Johnson (bad pass; steal by A. Caruso),92,80
+3,1:50.0,A. Caruso makes 2-pt dunk from 1 ft,,94,80
+3,1:35.0,,S. Hill makes 3-pt jump shot from 26 ft (assist by S. Johnson),94,83
+3,1:33.0,M. Muscala makes 3-pt jump shot from 26 ft (assist by A. Caruso),,97,83
+3,1:04.0,,I. Clark misses 2-pt jump shot from 8 ft,97,83
+3,1:00.0,,Offensive rebound by C. Wood,97,83
+3,1:00.0,,C. Wood misses 2-pt layup at rim,97,83
+3,1:00.0,,Offensive rebound by C. Diallo,97,83
+3,1:00.0,,Turnover by C. Diallo (traveling),97,83
+3,1:00.0,,D. Bertāns enters the game for I. Clark,97,83
+3,0:53.0,Personal foul by D. Bertāns (drawn by R. Bullock),,97,83
+3,0:53.0,R. Bullock makes free throw 1 of 2,,98,83
+3,0:53.0,R. Bullock makes free throw 2 of 2,,99,83
+3,0:41.0,,Turnover by C. Wood (lost ball; steal by M. Muscala),99,83
+3,0:34.0,A. Caruso makes 3-pt jump shot from 26 ft,,102,83
+3,0:22.0,,Shooting foul by A. Caruso (drawn by S. Hill),102,83
+3,0:22.0,,S. Hill makes free throw 1 of 2,102,84
+3,0:22.0,,S. Hill misses free throw 2 of 2,102,84
+3,0:19.0,Defensive rebound by M. Muscala,,102,84
+3,0:03.0,R. Bullock makes 3-pt jump shot from 25 ft (assist by A. Caruso),,105,84
+3,0:00.0,,S. Johnson misses 3-pt jump shot from 26 ft,105,84
+3,0:00.0,,Offensive rebound by Team,105,84
+4,11:47.0,A. Caruso misses 2-pt layup from 2 ft,,105,84
+4,11:46.0,Offensive rebound by I. Bonga,,105,84
+4,11:46.0,I. Bonga makes 2-pt layup from 1 ft,,107,84
+4,11:27.0,,Personal foul by A. Caruso (drawn by C. Wood),107,84
+4,11:18.0,,Turnover by S. Johnson (bad pass),107,84
+4,11:06.0,R. Bullock misses 3-pt jump shot from 26 ft,,107,84
+4,11:03.0,,Defensive rebound by C. Diallo,107,84
+4,10:57.0,,Personal foul by R. Bullock (drawn by D. Bertāns),107,84
+4,10:57.0,R. Rondo enters the game for A. Caruso,,107,84
+4,10:45.0,,C. Diallo makes 2-pt jump shot from 13 ft (assist by S. Hill),107,86
+4,10:29.0,M. Muscala makes 2-pt jump shot from 8 ft (assist by R. Bullock),,109,86
+4,10:15.0,,C. Wood misses 2-pt layup from 4 ft,109,86
+4,10:13.0,Defensive rebound by M. Muscala,,109,86
+4,10:08.0,M. Muscala makes 3-pt jump shot from 25 ft (assist by I. Bonga),,112,86
+4,9:50.0,,Turnover by C. Diallo (bad pass; steal by R. Bullock),112,86
+4,9:42.0,I. Bonga misses 2-pt layup from 3 ft,,112,86
+4,9:41.0,,Defensive rebound by C. Diallo,112,86
+4,9:39.0,,S. Johnson makes 2-pt dunk from 1 ft (assist by S. Hill),112,88
+4,9:19.0,R. Rondo misses 3-pt jump shot from 27 ft,,112,88
+4,9:14.0,,Defensive rebound by S. Johnson,112,88
+4,9:07.0,,Shooting foul by J. Williams (drawn by C. Diallo),112,88
+4,9:07.0,,C. Diallo makes free throw 1 of 2,112,89
+4,9:07.0,,C. Diallo makes free throw 2 of 2,112,90
+4,8:51.0,I. Bonga misses 2-pt layup from 3 ft (block by C. Wood),,112,90
+4,8:46.0,,Defensive rebound by C. Diallo,112,90
+4,8:41.0,,C. Wood misses 3-pt jump shot from 25 ft,112,90
+4,8:38.0,Defensive rebound by R. Rondo,,112,90
+4,8:34.0,M. Muscala misses 3-pt jump shot from 27 ft,,112,90
+4,8:29.0,,Defensive rebound by C. Diallo,112,90
+4,8:23.0,,S. Johnson misses 2-pt jump shot from 21 ft,112,90
+4,8:19.0,Defensive rebound by R. Bullock,,112,90
+4,8:05.0,R. Bullock misses 3-pt jump shot from 23 ft,,112,90
+4,8:01.0,,Defensive rebound by C. Wood,112,90
+4,7:51.0,,S. Hill misses 3-pt jump shot from 26 ft,112,90
+4,7:51.0,Defensive rebound by J. Williams,,112,90
+4,7:38.0,R. Bullock makes 3-pt jump shot from 23 ft (assist by M. Muscala),,115,90
+4,7:22.0,,C. Diallo misses 2-pt jump shot from 10 ft,115,90
+4,7:20.0,Defensive rebound by I. Bonga,,115,90
+4,7:15.0,I. Bonga misses 2-pt layup from 3 ft,,115,90
+4,7:13.0,,Defensive rebound by C. Wood,115,90
+4,7:04.0,,Turnover by S. Hill (back court),115,90
+4,7:04.0,K. Caldwell-Pope enters the game for I. Bonga,,115,90
+4,7:04.0,J. McGee enters the game for J. Williams,,115,90
+4,6:54.0,Turnover by R. Rondo (bad pass; steal by D. Bertāns),,115,90
+4,6:52.0,,Personal foul by K. Caldwell-Pope (drawn by D. Bertāns),115,90
+4,6:52.0,,New Orleans full timeout,115,90
+4,6:32.0,,S. Hill misses 2-pt jump shot from 4 ft (block by M. Muscala),115,90
+4,6:29.0,Defensive rebound by R. Bullock,,115,90
+4,6:16.0,M. Muscala makes 2-pt layup from 1 ft (assist by R. Bullock),,117,90
+4,5:53.0,,S. Johnson misses 2-pt layup from 3 ft (block by M. Muscala),117,90
+4,5:50.0,Defensive rebound by R. Rondo,,117,90
+4,5:41.0,R. Bullock makes 3-pt jump shot from 23 ft (assist by R. Rondo),,120,90
+4,5:41.0,J. Jones enters the game for K. Caldwell-Pope,,120,90
+4,5:41.0,,I. Clark enters the game for C. Diallo,120,90
+4,5:41.0,,J. Okafor enters the game for S. Johnson,120,90
+4,5:21.0,,S. Hill makes 3-pt jump shot from 26 ft (assist by I. Clark),120,93
+4,5:01.0,R. Rondo misses 3-pt jump shot from 27 ft,,120,93
+4,4:58.0,Offensive rebound by J. Jones,,120,93
+4,4:55.0,M. Muscala misses 2-pt jump shot from 13 ft,,120,93
+4,4:53.0,,Defensive rebound by C. Wood,120,93
+4,4:44.0,,D. Bertāns misses 3-pt jump shot from 24 ft,120,93
+4,4:38.0,Defensive rebound by J. McGee,,120,93
+4,4:29.0,Turnover by M. Muscala (bad pass; steal by C. Wood),,120,93
+4,4:26.0,,C. Wood makes 2-pt jump shot from 1 ft,120,95
+4,4:26.0,,Shooting foul by J. McGee (drawn by C. Wood),120,95
+4,4:26.0,,C. Wood makes free throw 1 of 1,120,96
+4,4:18.0,J. McGee misses 2-pt jump shot from 18 ft,,120,96
+4,4:14.0,,Defensive rebound by C. Wood,120,96
+4,4:07.0,,C. Wood misses 2-pt jump shot from 6 ft,120,96
+4,4:04.0,Defensive rebound by J. McGee,,120,96
+4,3:55.0,R. Bullock makes 3-pt jump shot from 26 ft (assist by M. Muscala),,123,96
+4,3:37.0,,C. Wood makes 2-pt dunk from 1 ft,123,98
+4,3:19.0,R. Rondo makes 3-pt jump shot from 29 ft,,126,98
+4,3:05.0,,Turnover by I. Clark (bad pass; steal by J. Jones),126,98
+4,3:01.0,J. Jones makes 2-pt layup from 2 ft (assist by R. Rondo),,128,98
+4,2:58.0,,Turnover by I. Clark (bad pass),128,98
+4,2:58.0,LA Lakers full timeout,,128,98
+4,2:58.0,I. Bonga enters the game for R. Bullock,,128,98
+4,2:58.0,A. Caruso enters the game for J. McGee,,128,98
+4,2:58.0,M. Wagner enters the game for M. Muscala,,128,98
+4,2:58.0,J. Williams enters the game for R. Rondo,,128,98
+4,2:51.0,Turnover by M. Wagner (bad pass),,128,98
+4,2:40.0,,Shooting foul by I. Bonga (drawn by S. Hill),128,98
+4,2:40.0,,S. Hill makes free throw 1 of 2,128,99
+4,2:40.0,,S. Hill makes free throw 2 of 2,128,100
+4,2:24.0,M. Wagner misses 3-pt jump shot from 26 ft,,128,100
+4,2:21.0,,Defensive rebound by J. Okafor,128,100
+4,2:10.0,,I. Clark misses 2-pt layup at rim (block by M. Wagner),128,100
+4,2:10.0,,Offensive rebound by Team,128,100
+4,2:02.0,,J. Okafor makes 2-pt jump shot from 10 ft,128,102
+4,1:47.0,J. Jones misses 3-pt jump shot from 25 ft,,128,102
+4,1:44.0,,Defensive rebound by I. Clark,128,102
+4,1:41.0,,Turnover by I. Clark (lost ball; steal by I. Bonga),128,102
+4,1:37.0,I. Bonga misses 3-pt jump shot from 27 ft,,128,102
+4,1:34.0,,Defensive rebound by J. Okafor,128,102
+4,1:26.0,,D. Bertāns misses 3-pt jump shot from 25 ft,128,102
+4,1:23.0,Defensive rebound by M. Wagner,,128,102
+4,1:18.0,Turnover by A. Caruso (bad pass),,128,102
+4,1:04.0,,S. Hill misses 3-pt jump shot from 23 ft,128,102
+4,1:00.0,Defensive rebound by M. Wagner,,128,102
+4,0:50.0,I. Bonga misses 3-pt jump shot from 27 ft,,128,102
+4,0:47.0,,Defensive rebound by S. Hill,128,102
+4,0:42.0,,I. Clark misses 2-pt layup from 2 ft,128,102
+4,0:38.0,Defensive rebound by A. Caruso,,128,102
+4,0:34.0,J. Williams makes 2-pt dunk from 1 ft (assist by A. Caruso),,130,102
+4,0:26.0,,I. Clark misses 3-pt jump shot from 28 ft,130,102
+4,0:22.0,Defensive rebound by I. Bonga,,130,102
+4,0:00.0,Turnover by Team (shot clock),,130,102

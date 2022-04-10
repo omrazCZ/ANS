@@ -1,0 +1,478 @@
+QUARTER,TIME_REMAINING,LA CLIPPERS_ACTION,GOLDEN STATE_ACTION,LA CLIPPERS_SCORE,GOLDEN STATE_SCORE
+1,11:37.0,M. Gortat makes 2-pt layup from 2 ft (assist by A. Bradley),,2,0
+1,11:19.0,,D. Green makes 3-pt jump shot from 26 ft (assist by K. Durant),2,3
+1,11:02.0,A. Bradley misses 3-pt jump shot from 25 ft,,2,3
+1,11:00.0,,Defensive rebound by D. Green,2,3
+1,10:51.0,,K. Thompson misses 2-pt jump shot from 7 ft,2,3
+1,10:50.0,Defensive rebound by M. Gortat,,2,3
+1,10:43.0,T. Harris makes 3-pt jump shot from 28 ft,,5,3
+1,10:27.0,,K. Durant makes 2-pt dunk from 2 ft (assist by D. Green),5,5
+1,10:07.0,M. Gortat misses 2-pt hook shot from 8 ft,,5,5
+1,10:06.0,,Defensive rebound by K. Durant,5,5
+1,9:56.0,,Shooting foul by T. Harris (drawn by S. Curry),5,5
+1,9:56.0,,S. Curry makes free throw 1 of 2,5,6
+1,9:56.0,,S. Curry makes free throw 2 of 2,5,7
+1,9:32.0,Turnover by S. Gilgeous-Alexander (bad pass; steal by D. Green),,5,7
+1,9:25.0,,D. Green misses 3-pt jump shot from 27 ft,5,7
+1,9:23.0,Defensive rebound by T. Harris,,5,7
+1,9:13.0,S. Gilgeous-Alexander misses 2-pt jump shot from 19 ft,,5,7
+1,9:11.0,,Defensive rebound by J. Jerebko,5,7
+1,8:59.0,,K. Thompson misses 3-pt jump shot from 27 ft,5,7
+1,8:54.0,Defensive rebound by M. Gortat,,5,7
+1,8:51.0,Shooting foul by K. Thompson (drawn by D. Gallinari),,5,7
+1,8:51.0,D. Gallinari makes free throw 1 of 2,,6,7
+1,8:51.0,D. Gallinari makes free throw 2 of 2,,7,7
+1,8:43.0,,S. Curry makes 2-pt layup from 2 ft,7,9
+1,8:43.0,,Shooting foul by A. Bradley (drawn by S. Curry),7,9
+1,8:43.0,,S. Curry makes free throw 1 of 1,7,10
+1,8:30.0,A. Bradley misses 2-pt layup from 3 ft (block by K. Durant),,7,10
+1,8:28.0,,Defensive rebound by S. Curry,7,10
+1,8:25.0,,D. Green misses 2-pt layup from 2 ft,7,10
+1,8:24.0,,Offensive rebound by D. Green,7,10
+1,8:17.0,,S. Curry misses 3-pt jump shot from 23 ft,7,10
+1,8:15.0,Defensive rebound by A. Bradley,,7,10
+1,8:13.0,S. Gilgeous-Alexander makes 3-pt jump shot from 23 ft (assist by T. Harris),,10,10
+1,8:07.0,,D. Green makes 2-pt layup from 3 ft,10,12
+1,8:07.0,,Shooting foul by M. Gortat (drawn by D. Green),10,12
+1,8:07.0,,D. Green makes free throw 1 of 1,10,13
+1,7:48.0,A. Bradley makes 2-pt jump shot from 11 ft,,12,13
+1,7:40.0,,K. Durant misses 3-pt jump shot from 30 ft,12,13
+1,7:38.0,Defensive rebound by T. Harris,,12,13
+1,7:32.0,T. Harris makes 2-pt layup from 1 ft,,14,13
+1,7:24.0,,Shooting foul by S. Gilgeous-Alexander (drawn by K. Thompson),14,13
+1,7:24.0,,K. Thompson makes free throw 1 of 2,14,14
+1,7:24.0,,K. Thompson makes free throw 2 of 2,14,15
+1,7:11.0,Turnover by A. Bradley (bad pass),,14,15
+1,7:05.0,,Turnover by K. Durant (offensive foul),14,15
+1,7:05.0,,Offensive foul by K. Durant (drawn by D. Gallinari),14,15
+1,6:49.0,Personal foul by J. Jerebko (drawn by S. Gilgeous-Alexander),,14,15
+1,6:49.0,,Golden State full timeout,14,15
+1,6:39.0,T. Harris misses 2-pt jump shot from 12 ft,,14,15
+1,6:38.0,,Defensive rebound by S. Curry,14,15
+1,6:26.0,,S. Curry makes 2-pt layup from 1 ft (assist by D. Green),14,17
+1,6:11.0,T. Harris makes 3-pt jump shot from 24 ft (assist by M. Gortat),,17,17
+1,5:53.0,,Personal foul by D. Gallinari (drawn by K. Durant),17,17
+1,5:53.0,M. Harrell enters the game for M. Gortat,,17,17
+1,5:53.0,,K. Looney enters the game for J. Jerebko,17,17
+1,5:53.0,,K. Durant makes free throw 1 of 2,17,18
+1,5:53.0,,K. Durant makes free throw 2 of 2,17,19
+1,5:29.0,M. Harrell makes 2-pt hook shot from 6 ft,,19,19
+1,5:14.0,,K. Looney makes 2-pt dunk from 1 ft (assist by D. Green),19,21
+1,4:53.0,T. Harris misses 2-pt layup from 2 ft,,19,21
+1,4:52.0,,Defensive rebound by K. Durant,19,21
+1,4:45.0,,K. Thompson makes 3-pt jump shot from 23 ft (assist by D. Green),19,24
+1,4:39.0,LA Clippers full timeout,,19,24
+1,4:39.0,P. Beverley enters the game for A. Bradley,,19,24
+1,4:39.0,L. Williams enters the game for S. Gilgeous-Alexander,,19,24
+1,4:39.0,,A. Iguodala enters the game for S. Curry,19,24
+1,4:39.0,,A. McKinnie enters the game for D. Green,19,24
+1,4:17.0,T. Harris makes 3-pt jump shot from 26 ft (assist by L. Williams),,22,24
+1,3:59.0,,K. Durant misses 2-pt jump shot from 17 ft,22,24
+1,3:58.0,Defensive rebound by P. Beverley,,22,24
+1,3:47.0,D. Gallinari makes 2-pt jump shot from 10 ft,,24,24
+1,3:26.0,,K. Durant makes 2-pt jump shot from 9 ft,24,26
+1,3:18.0,Personal take foul by A. Iguodala (drawn by D. Gallinari),,24,26
+1,3:08.0,M. Harrell makes 2-pt layup from 3 ft (assist by L. Williams),,26,26
+1,3:08.0,Shooting foul by A. McKinnie (drawn by M. Harrell),,26,26
+1,3:08.0,M. Harrell misses free throw 1 of 1,,26,26
+1,3:07.0,Offensive rebound by P. Beverley,,26,26
+1,3:07.0,P. Beverley misses 2-pt layup at rim,,26,26
+1,3:05.0,,Defensive rebound by K. Durant,26,26
+1,2:57.0,,K. Thompson misses 3-pt jump shot from 27 ft,26,26
+1,2:55.0,Defensive rebound by D. Gallinari,,26,26
+1,2:49.0,L. Williams misses 2-pt jump shot from 18 ft,,26,26
+1,2:48.0,Offensive rebound by T. Harris,,26,26
+1,2:37.0,P. Beverley makes 3-pt jump shot from 26 ft (assist by T. Harris),,29,26
+1,2:34.0,,Personal foul by L. Williams (drawn by K. Durant),29,26
+1,2:34.0,,K. Durant makes free throw 1 of 2,29,27
+1,2:34.0,M. Scott enters the game for D. Gallinari,,29,27
+1,2:34.0,,D. Green enters the game for K. Looney,29,27
+1,2:34.0,,J. Jerebko enters the game for K. Thompson,29,27
+1,2:34.0,,K. Durant makes free throw 2 of 2,29,28
+1,2:23.0,P. Beverley misses 3-pt jump shot from 26 ft,,29,28
+1,2:21.0,,Defensive rebound by A. McKinnie,29,28
+1,2:13.0,,K. Durant misses 3-pt jump shot from 28 ft,29,28
+1,2:11.0,Defensive rebound by L. Williams,,29,28
+1,2:00.0,Turnover by T. Harris (lost ball; steal by K. Durant),,29,28
+1,1:59.0,,Personal take foul by M. Harrell (drawn by K. Durant),29,28
+1,1:59.0,,K. Durant makes free throw 1 of 2,29,29
+1,1:59.0,,K. Durant makes free throw 2 of 2,29,30
+1,1:47.0,P. Beverley misses 2-pt layup from 2 ft,,29,30
+1,1:46.0,,Defensive rebound by K. Durant,29,30
+1,1:39.0,,Personal foul by M. Harrell (drawn by K. Durant),29,30
+1,1:39.0,,K. Durant makes free throw 1 of 2,29,31
+1,1:39.0,T. Wallace enters the game for T. Harris,,29,31
+1,1:39.0,,K. Durant makes free throw 2 of 2,29,32
+1,1:15.0,M. Harrell misses 2-pt hook shot from 11 ft,,29,32
+1,1:14.0,Offensive rebound by P. Beverley,,29,32
+1,1:09.0,Shooting foul by J. Jerebko (drawn by L. Williams),,29,32
+1,1:09.0,L. Williams makes free throw 1 of 2,,30,32
+1,1:09.0,L. Williams makes free throw 2 of 2,,31,32
+1,0:51.0,,A. McKinnie misses 3-pt jump shot from 28 ft,31,32
+1,0:49.0,,Offensive rebound by J. Jerebko,31,32
+1,0:41.0,,J. Jerebko makes 2-pt layup from 2 ft (assist by K. Durant),31,34
+1,0:31.0,Shooting foul by A. McKinnie (drawn by L. Williams),,31,34
+1,0:31.0,L. Williams makes free throw 1 of 2,,32,34
+1,0:31.0,S. Thornwell enters the game for M. Harrell,,32,34
+1,0:31.0,L. Williams makes free throw 2 of 2,,33,34
+1,0:12.0,,A. McKinnie makes 2-pt dunk from 2 ft (assist by K. Durant),33,36
+1,0:01.0,L. Williams makes 3-pt jump shot from 26 ft,,36,36
+2,11:43.0,,A. Iguodala misses 2-pt jump shot from 17 ft,36,36
+2,11:42.0,Defensive rebound by M. Harrell,,36,36
+2,11:19.0,M. Harrell misses 3-pt jump shot from 28 ft,,36,36
+2,11:18.0,Offensive rebound by Team,,36,36
+2,11:18.0,Turnover by Team (shot clock),,36,36
+2,11:03.0,,S. Curry misses 3-pt jump shot from 28 ft,36,36
+2,11:01.0,Defensive rebound by M. Scott,,36,36
+2,10:56.0,Offensive foul by M. Harrell (drawn by J. Jerebko),,36,36
+2,10:56.0,Turnover by M. Harrell (offensive foul),,36,36
+2,10:56.0,D. Gallinari enters the game for M. Harrell,,36,36
+2,10:46.0,,S. Curry misses 3-pt jump shot from 27 ft,36,36
+2,10:44.0,,Offensive rebound by S. Livingston,36,36
+2,10:42.0,,S. Curry makes 3-pt jump shot from 23 ft (assist by S. Livingston),36,39
+2,10:28.0,L. Williams misses 2-pt jump shot from 10 ft,,36,39
+2,10:27.0,Offensive rebound by T. Wallace,,36,39
+2,10:22.0,T. Wallace makes 2-pt hook shot from 7 ft,,38,39
+2,10:14.0,,S. Livingston makes 2-pt jump shot from 11 ft,38,41
+2,9:57.0,,Violation by Team (kicked ball),38,41
+2,9:45.0,M. Scott makes 3-pt jump shot from 26 ft (assist by L. Williams),,41,41
+2,9:32.0,,J. Jerebko misses 3-pt jump shot from 28 ft,41,41
+2,9:31.0,,Offensive rebound by S. Curry,41,41
+2,9:31.0,Loose ball foul by L. Williams (drawn by S. Curry),,41,41
+2,9:31.0,,Technical foul by S. Curry,41,41
+2,9:31.0,Technical foul by P. Beverley,,41,41
+2,9:24.0,,J. Jerebko makes 2-pt dunk from 1 ft (assist by A. Iguodala),41,43
+2,9:12.0,Shooting foul by S. Curry (drawn by P. Beverley),,41,43
+2,9:12.0,P. Beverley makes free throw 1 of 2,,42,43
+2,9:12.0,A. Bradley enters the game for T. Wallace,,42,43
+2,9:12.0,P. Beverley makes free throw 2 of 2,,43,43
+2,8:58.0,,D. Green misses 2-pt layup from 1 ft,43,43
+2,8:57.0,Defensive rebound by M. Scott,,43,43
+2,8:39.0,P. Beverley makes 3-pt jump shot from 23 ft (assist by L. Williams),,46,43
+2,8:29.0,,S. Curry misses 3-pt jump shot from 27 ft,46,43
+2,8:28.0,,Offensive rebound by S. Livingston,46,43
+2,8:28.0,,Shooting foul by D. Gallinari (drawn by S. Livingston),46,43
+2,8:28.0,,S. Livingston makes free throw 1 of 2,46,44
+2,8:28.0,,K. Looney enters the game for D. Green,46,44
+2,8:28.0,,K. Thompson enters the game for A. Iguodala,46,44
+2,8:28.0,,S. Livingston misses free throw 2 of 2,46,44
+2,8:27.0,Defensive rebound by M. Scott,,46,44
+2,8:15.0,L. Williams makes 2-pt jump shot from 7 ft,,48,44
+2,8:04.0,,Shooting foul by A. Bradley (drawn by S. Curry),48,44
+2,8:04.0,,S. Curry misses free throw 1 of 2,48,44
+2,8:04.0,,Offensive rebound by Team,48,44
+2,8:04.0,,A. McKinnie enters the game for J. Jerebko,48,44
+2,8:04.0,,S. Curry makes free throw 2 of 2,48,45
+2,7:49.0,D. Gallinari misses 2-pt jump shot from 18 ft,,48,45
+2,7:48.0,,Defensive rebound by K. Looney,48,45
+2,7:39.0,,S. Livingston misses 2-pt jump shot from 14 ft,48,45
+2,7:38.0,Defensive rebound by D. Gallinari,,48,45
+2,7:27.0,L. Williams misses 2-pt layup from 2 ft,,48,45
+2,7:26.0,,Defensive rebound by S. Curry,48,45
+2,7:20.0,,Personal foul by P. Beverley (drawn by K. Thompson),48,45
+2,7:20.0,S. Gilgeous-Alexander enters the game for P. Beverley,,48,45
+2,7:14.0,,S. Curry makes 3-pt jump shot from 29 ft,48,48
+2,7:12.0,LA Clippers full timeout,,48,48
+2,7:12.0,T. Harris enters the game for M. Scott,,48,48
+2,7:00.0,Def 3 sec tech foul by Team,,48,48
+2,7:00.0,D. Gallinari makes technical free throw,,49,48
+2,6:47.0,A. Bradley makes 3-pt jump shot from 23 ft (assist by D. Gallinari),,52,48
+2,6:25.0,,K. Thompson misses 2-pt jump shot from 20 ft,52,48
+2,6:23.0,,Offensive rebound by A. McKinnie,52,48
+2,6:22.0,,A. McKinnie makes 2-pt layup from 2 ft,52,50
+2,6:15.0,D. Gallinari makes 3-pt jump shot from 26 ft (assist by L. Williams),,55,50
+2,6:02.0,,Turnover by K. Looney (offensive foul),55,50
+2,6:02.0,,Offensive foul by K. Looney (drawn by A. Bradley),55,50
+2,6:02.0,,K. Durant enters the game for S. Curry,55,50
+2,5:48.0,T. Harris misses 2-pt jump shot from 15 ft,,55,50
+2,5:47.0,,Defensive rebound by K. Looney,55,50
+2,5:30.0,,S. Livingston misses 2-pt jump shot from 15 ft,55,50
+2,5:29.0,Defensive rebound by D. Gallinari,,55,50
+2,5:16.0,T. Harris makes 2-pt dunk from 1 ft (assist by L. Williams),,57,50
+2,5:15.0,,Golden State full timeout,57,50
+2,4:55.0,,K. Thompson makes 2-pt layup from 2 ft (assist by K. Durant),57,52
+2,4:38.0,L. Williams misses 2-pt layup from 6 ft (block by K. Thompson),,57,52
+2,4:37.0,Offensive rebound by Team,,57,52
+2,4:30.0,T. Harris misses 2-pt jump shot from 11 ft,,57,52
+2,4:29.0,,Defensive rebound by A. McKinnie,57,52
+2,4:08.0,,K. Thompson misses 2-pt jump shot from 12 ft,57,52
+2,4:07.0,Defensive rebound by D. Gallinari,,57,52
+2,4:00.0,D. Gallinari makes 2-pt layup from 2 ft,,59,52
+2,4:00.0,Shooting foul by K. Looney (drawn by D. Gallinari),,59,52
+2,4:00.0,,S. Curry enters the game for S. Livingston,59,52
+2,4:00.0,,D. Green enters the game for K. Looney,59,52
+2,4:00.0,,A. Iguodala enters the game for A. McKinnie,59,52
+2,4:00.0,D. Gallinari makes free throw 1 of 1,,60,52
+2,3:47.0,,D. Green misses 2-pt layup from 2 ft,60,52
+2,3:46.0,,Offensive rebound by D. Green,60,52
+2,3:42.0,,D. Green misses 2-pt layup from 1 ft,60,52
+2,3:41.0,Defensive rebound by D. Gallinari,,60,52
+2,3:37.0,Turnover by L. Williams (bad pass; steal by D. Green),,60,52
+2,3:35.0,,Personal foul by A. Bradley (drawn by D. Green),60,52
+2,3:35.0,,D. Green makes free throw 1 of 2,60,53
+2,3:35.0,P. Beverley enters the game for A. Bradley,,60,53
+2,3:35.0,,D. Green makes free throw 2 of 2,60,54
+2,3:14.0,L. Williams makes 2-pt jump shot from 10 ft,,62,54
+2,3:03.0,,Turnover by A. Iguodala (traveling),62,54
+2,2:49.0,T. Harris misses 2-pt layup from 2 ft (block by D. Green),,62,54
+2,2:47.0,,Defensive rebound by K. Durant,62,54
+2,2:47.0,,Personal foul by D. Gallinari (drawn by K. Durant),62,54
+2,2:47.0,Technical foul by T. Harris,,62,54
+2,2:47.0,,S. Curry makes technical free throw,62,55
+2,2:47.0,,K. Durant misses free throw 1 of 2,62,55
+2,2:47.0,,Offensive rebound by Team,62,55
+2,2:47.0,,K. Durant misses free throw 2 of 2,62,55
+2,2:46.0,Defensive rebound by D. Gallinari,,62,55
+2,2:38.0,Personal foul by D. Green (drawn by S. Gilgeous-Alexander),,62,55
+2,2:28.0,D. Gallinari makes 3-pt jump shot from 25 ft (assist by S. Gilgeous-Alexander),,65,55
+2,2:16.0,,S. Curry makes 2-pt jump shot from 19 ft,65,57
+2,2:02.0,T. Harris makes 3-pt jump shot from 28 ft (assist by L. Williams),,68,57
+2,1:54.0,,S. Curry makes 3-pt jump shot from 28 ft,68,60
+2,1:44.0,Personal foul by K. Thompson (drawn by D. Gallinari),,68,60
+2,1:32.0,T. Harris makes 3-pt jump shot from 26 ft (assist by P. Beverley),,71,60
+2,1:13.0,,K. Durant misses 2-pt jump shot from 14 ft,71,60
+2,1:12.0,Defensive rebound by D. Gallinari,,71,60
+2,1:03.0,Turnover by D. Gallinari (traveling),,71,60
+2,0:53.0,,D. Green makes 2-pt layup from 2 ft (assist by S. Curry),71,62
+2,0:53.0,,Shooting foul by P. Beverley (drawn by D. Green),71,62
+2,0:53.0,,D. Green makes free throw 1 of 1,71,63
+2,0:44.0,Turnover by L. Williams (bad pass),,71,63
+2,0:35.0,,Shooting foul by D. Gallinari (drawn by S. Curry),71,63
+2,0:35.0,,S. Curry makes free throw 1 of 2,71,64
+2,0:35.0,M. Scott enters the game for D. Gallinari,,71,64
+2,0:35.0,,S. Curry makes free throw 2 of 2,71,65
+2,0:17.0,L. Williams misses 2-pt jump shot from 18 ft,,71,65
+2,0:16.0,,Defensive rebound by K. Durant,71,65
+2,0:05.0,,Shooting foul by M. Scott (drawn by K. Durant),71,65
+2,0:05.0,,K. Durant makes free throw 1 of 2,71,66
+2,0:05.0,,K. Looney enters the game for S. Curry,71,66
+2,0:05.0,,A. McKinnie enters the game for K. Thompson,71,66
+2,0:05.0,,K. Durant makes free throw 2 of 2,71,67
+2,0:01.0,L. Williams misses 2-pt layup from 2 ft,,71,67
+2,0:00.0,,Defensive rebound by A. Iguodala,71,67
+3,11:46.0,,S. Curry makes 2-pt layup from 3 ft,71,69
+3,11:34.0,Turnover by M. Gortat (bad pass),,71,69
+3,11:25.0,,D. Green misses 3-pt jump shot from 27 ft,71,69
+3,11:23.0,,Offensive rebound by S. Curry,71,69
+3,11:18.0,,J. Jerebko misses 3-pt jump shot from 25 ft,71,69
+3,11:16.0,Defensive rebound by M. Gortat,,71,69
+3,11:04.0,Turnover by D. Gallinari (bad pass; steal by D. Green),,71,69
+3,10:50.0,,K. Durant makes 2-pt jump shot from 10 ft,71,71
+3,10:39.0,Personal foul by J. Jerebko (drawn by S. Gilgeous-Alexander),,71,71
+3,10:27.0,T. Harris makes 3-pt jump shot from 30 ft,,74,71
+3,10:13.0,,Turnover by J. Jerebko (lost ball; steal by M. Gortat),74,71
+3,10:05.0,D. Gallinari makes 3-pt jump shot from 27 ft (assist by S. Gilgeous-Alexander),,77,71
+3,9:46.0,,K. Thompson misses 2-pt jump shot from 16 ft,77,71
+3,9:45.0,Defensive rebound by T. Harris,,77,71
+3,9:32.0,A. Bradley misses 2-pt jump shot from 22 ft,,77,71
+3,9:30.0,,Defensive rebound by K. Durant,77,71
+3,9:16.0,,K. Durant makes 2-pt dunk from 2 ft,77,73
+3,8:56.0,Shooting foul by J. Jerebko (drawn by A. Bradley),,77,73
+3,8:56.0,A. Bradley makes free throw 1 of 2,,78,73
+3,8:56.0,,K. Looney enters the game for J. Jerebko,78,73
+3,8:56.0,A. Bradley makes free throw 2 of 2,,79,73
+3,8:39.0,,S. Curry misses 3-pt jump shot from 29 ft,79,73
+3,8:37.0,Defensive rebound by M. Gortat,,79,73
+3,8:25.0,T. Harris makes 2-pt jump shot from 18 ft,,81,73
+3,8:18.0,,K. Thompson misses 3-pt jump shot from 26 ft,81,73
+3,8:16.0,Defensive rebound by M. Gortat,,81,73
+3,8:13.0,Turnover by M. Gortat (lost ball; steal by K. Looney),,81,73
+3,8:11.0,,K. Thompson misses 3-pt jump shot from 25 ft,81,73
+3,8:09.0,,Offensive rebound by K. Looney,81,73
+3,8:07.0,,S. Curry misses 3-pt jump shot from 26 ft (block by S. Gilgeous-Alexander),81,73
+3,8:06.0,Defensive rebound by T. Harris,,81,73
+3,7:44.0,T. Harris misses 3-pt jump shot from 27 ft,,81,73
+3,7:42.0,,Defensive rebound by K. Durant,81,73
+3,7:33.0,,Offensive foul by D. Green (drawn by M. Gortat),81,73
+3,7:33.0,,Turnover by D. Green (offensive foul),81,73
+3,7:23.0,Shooting foul by K. Thompson (drawn by M. Gortat),,81,73
+3,7:23.0,M. Gortat misses free throw 1 of 2,,81,73
+3,7:23.0,Offensive rebound by Team,,81,73
+3,7:23.0,M. Gortat misses free throw 2 of 2,,81,73
+3,7:21.0,,Defensive rebound by K. Looney,81,73
+3,7:13.0,,S. Curry makes 3-pt jump shot from 26 ft,81,76
+3,7:07.0,Personal foul by S. Curry (drawn by A. Bradley),,81,76
+3,7:07.0,M. Harrell enters the game for M. Gortat,,81,76
+3,6:59.0,T. Harris misses 2-pt jump shot from 19 ft,,81,76
+3,6:58.0,,Defensive rebound by K. Durant,81,76
+3,6:47.0,,S. Curry makes 2-pt jump shot from 14 ft (assist by D. Green),81,78
+3,6:46.0,LA Clippers full timeout,,81,78
+3,6:31.0,D. Gallinari misses 2-pt jump shot from 14 ft,,81,78
+3,6:30.0,,Defensive rebound by K. Looney,81,78
+3,6:25.0,,K. Thompson makes 3-pt jump shot from 23 ft (assist by D. Green),81,81
+3,6:04.0,T. Harris misses 2-pt jump shot from 14 ft,,81,81
+3,6:03.0,,Defensive rebound by K. Durant,81,81
+3,6:03.0,P. Beverley enters the game for S. Gilgeous-Alexander,,81,81
+3,5:54.0,,K. Thompson misses 2-pt jump shot from 20 ft,81,81
+3,5:52.0,Defensive rebound by A. Bradley,,81,81
+3,5:48.0,Personal foul by S. Curry (drawn by M. Harrell),,81,81
+3,5:48.0,M. Harrell makes free throw 1 of 2,,82,81
+3,5:48.0,M. Harrell misses free throw 2 of 2,,82,81
+3,5:46.0,,Defensive rebound by K. Durant,82,81
+3,5:33.0,,S. Curry misses 2-pt hook shot from 8 ft,82,81
+3,5:32.0,Defensive rebound by D. Gallinari,,82,81
+3,5:21.0,M. Harrell misses 2-pt layup from 3 ft,,82,81
+3,5:20.0,,Defensive rebound by K. Durant,82,81
+3,5:15.0,,Shooting foul by T. Harris (drawn by K. Durant),82,81
+3,5:15.0,,K. Durant makes free throw 1 of 2,82,82
+3,5:15.0,,K. Durant misses free throw 2 of 2,82,82
+3,5:13.0,Defensive rebound by D. Gallinari,,82,82
+3,5:00.0,D. Gallinari makes 2-pt jump shot from 19 ft (assist by A. Bradley),,84,82
+3,4:50.0,,K. Thompson makes 2-pt layup from 1 ft (assist by S. Curry),84,84
+3,4:28.0,M. Harrell makes 2-pt hook shot from 6 ft (assist by D. Gallinari),,86,84
+3,4:15.0,,K. Durant makes 2-pt layup from 1 ft,86,86
+3,4:06.0,Turnover by P. Beverley (bad pass; steal by D. Green),,86,86
+3,4:02.0,,Shooting foul by P. Beverley (drawn by S. Curry),86,86
+3,4:02.0,,S. Curry makes free throw 1 of 2,86,87
+3,4:02.0,L. Williams enters the game for A. Bradley,,86,87
+3,4:02.0,,A. Iguodala enters the game for D. Green,86,87
+3,4:02.0,,S. Curry makes free throw 2 of 2,86,88
+3,3:44.0,D. Gallinari makes 3-pt jump shot from 26 ft (assist by L. Williams),,89,88
+3,3:21.0,,K. Looney makes 2-pt dunk from 1 ft (assist by K. Thompson),89,90
+3,2:54.0,P. Beverley misses 2-pt jump shot from 6 ft,,89,90
+3,2:53.0,,Defensive rebound by A. Iguodala,89,90
+3,2:47.0,,Shooting foul by P. Beverley (drawn by S. Curry),89,90
+3,2:47.0,,Golden State full timeout,89,90
+3,2:47.0,M. Scott enters the game for D. Gallinari,,89,90
+3,2:47.0,,A. McKinnie enters the game for K. Thompson,89,90
+3,2:47.0,,S. Curry makes free throw 1 of 2,89,91
+3,2:47.0,,S. Curry makes free throw 2 of 2,89,92
+3,2:30.0,Turnover by P. Beverley (bad pass; steal by S. Curry),,89,92
+3,2:25.0,,S. Curry misses 3-pt jump shot from 26 ft,89,92
+3,2:22.0,Defensive rebound by Team,,89,92
+3,2:22.0,,S. Livingston enters the game for S. Curry,89,92
+3,2:01.0,L. Williams misses 2-pt jump shot from 10 ft,,89,92
+3,1:59.0,,Defensive rebound by A. McKinnie,89,92
+3,1:52.0,,K. Durant makes 3-pt jump shot from 26 ft,89,95
+3,1:42.0,Personal foul by A. McKinnie (drawn by L. Williams),,89,95
+3,1:42.0,L. Williams makes free throw 1 of 2,,90,95
+3,1:42.0,L. Williams makes free throw 2 of 2,,91,95
+3,1:20.0,,K. Durant misses 2-pt jump shot from 11 ft,91,95
+3,1:19.0,,Offensive rebound by A. McKinnie,91,95
+3,1:14.0,,A. McKinnie makes 2-pt layup from 4 ft,91,97
+3,1:05.0,M. Scott misses 3-pt jump shot from 28 ft,,91,97
+3,1:03.0,,Defensive rebound by S. Livingston,91,97
+3,0:58.0,,A. Iguodala misses 2-pt layup from 2 ft,91,97
+3,0:56.0,Defensive rebound by T. Harris,,91,97
+3,0:56.0,Away from play foul by A. Iguodala (drawn by L. Williams),,91,97
+3,0:56.0,L. Williams makes free throw 1 of 1,,92,97
+3,0:56.0,T. Wallace enters the game for T. Harris,,92,97
+3,0:39.0,M. Harrell makes 2-pt hook shot from 6 ft,,94,97
+3,0:32.0,,K. Durant makes 3-pt jump shot from 25 ft (assist by S. Livingston),94,100
+3,0:32.0,,Shooting foul by M. Scott (drawn by K. Durant),94,100
+3,0:32.0,,K. Durant makes free throw 1 of 1,94,101
+3,0:13.0,M. Harrell misses 2-pt dunk from 3 ft (block by K. Durant),,94,101
+3,0:11.0,,Defensive rebound by A. Iguodala,94,101
+3,0:07.0,,K. Looney makes 2-pt layup from 2 ft (assist by A. Iguodala),94,103
+3,0:02.0,L. Williams misses 2-pt jump shot from 7 ft,,94,103
+3,0:01.0,,Defensive rebound by S. Livingston,94,103
+3,0:00.0,,S. Livingston misses 3-pt jump shot from 80 ft,94,103
+3,0:00.0,,Offensive rebound by Team,94,103
+4,11:51.0,Personal foul by S. Curry (drawn by M. Harrell),,94,103
+4,11:39.0,P. Beverley makes 2-pt hook shot from 8 ft,,96,103
+4,11:19.0,,D. Green misses 2-pt layup from 2 ft,96,103
+4,11:18.0,Defensive rebound by M. Scott,,96,103
+4,11:12.0,M. Harrell makes 2-pt hook shot from 9 ft (assist by L. Williams),,98,103
+4,10:50.0,,S. Curry misses 3-pt jump shot from 26 ft,98,103
+4,10:48.0,,Offensive rebound by A. McKinnie,98,103
+4,10:35.0,,S. Livingston misses 2-pt jump shot from 16 ft,98,103
+4,10:34.0,Defensive rebound by L. Williams,,98,103
+4,10:24.0,L. Williams makes 2-pt jump shot from 12 ft,,100,103
+4,10:07.0,,Offensive foul by D. Green (drawn by P. Beverley),100,103
+4,10:07.0,,Turnover by D. Green (offensive foul),100,103
+4,10:07.0,A. Bradley enters the game for P. Beverley,,100,103
+4,9:51.0,Shooting foul by D. Green (drawn by L. Williams),,100,103
+4,9:51.0,,Technical foul by D. Green,100,103
+4,9:51.0,L. Williams misses technical free throw,,100,103
+4,9:51.0,Offensive rebound by Team,,100,103
+4,9:51.0,L. Williams makes free throw 1 of 2,,101,103
+4,9:51.0,S. Gilgeous-Alexander enters the game for T. Wallace,,101,103
+4,9:51.0,,J. Jerebko enters the game for A. McKinnie,101,103
+4,9:51.0,L. Williams makes free throw 2 of 2,,102,103
+4,9:35.0,,D. Green makes 3-pt jump shot from 26 ft (assist by S. Livingston),102,106
+4,9:26.0,Shooting foul by D. Green (drawn by L. Williams),,102,106
+4,9:26.0,L. Williams makes free throw 1 of 2,,103,106
+4,9:26.0,,K. Looney enters the game for D. Green,103,106
+4,9:26.0,,K. Thompson enters the game for A. Iguodala,103,106
+4,9:26.0,L. Williams makes free throw 2 of 2,,104,106
+4,9:18.0,,Offensive foul by J. Jerebko (drawn by M. Harrell),104,106
+4,9:18.0,,Turnover by J. Jerebko (offensive foul),104,106
+4,9:18.0,T. Harris enters the game for M. Scott,,104,106
+4,9:09.0,L. Williams makes 2-pt jump shot from 18 ft (assist by M. Harrell),,106,106
+4,8:56.0,,J. Jerebko misses 3-pt jump shot from 26 ft,106,106
+4,8:54.0,,Offensive rebound by S. Curry,106,106
+4,8:51.0,,S. Curry makes 3-pt jump shot from 23 ft,106,109
+4,8:40.0,M. Harrell misses 2-pt layup from 3 ft,,106,109
+4,8:38.0,,Defensive rebound by S. Livingston,106,109
+4,8:33.0,,J. Jerebko misses 3-pt jump shot from 23 ft,106,109
+4,8:31.0,,Offensive rebound by K. Looney,106,109
+4,8:26.0,,Personal foul by M. Harrell (drawn by S. Curry),106,109
+4,8:15.0,,K. Looney misses 2-pt layup from 2 ft,106,109
+4,8:14.0,Defensive rebound by T. Harris,,106,109
+4,8:01.0,L. Williams makes 2-pt jump shot from 19 ft,,108,109
+4,7:46.0,,J. Jerebko makes 3-pt jump shot from 22 ft (assist by K. Thompson),108,112
+4,7:38.0,Shooting foul by K. Thompson (drawn by L. Williams),,108,112
+4,7:38.0,LA Clippers full timeout,,108,112
+4,7:38.0,,K. Durant enters the game for S. Curry,108,112
+4,7:38.0,L. Williams misses free throw 1 of 2,,108,112
+4,7:38.0,Offensive rebound by Team,,108,112
+4,7:38.0,L. Williams makes free throw 2 of 2,,109,112
+4,7:35.0,,Personal take foul by S. Gilgeous-Alexander (drawn by K. Thompson),109,112
+4,7:35.0,D. Gallinari enters the game for L. Williams,,109,112
+4,7:22.0,,S. Livingston misses 2-pt jump shot from 14 ft,109,112
+4,7:21.0,Defensive rebound by D. Gallinari,,109,112
+4,7:07.0,S. Gilgeous-Alexander misses 2-pt layup from 5 ft (block by K. Thompson),,109,112
+4,7:06.0,Offensive rebound by Team,,109,112
+4,6:58.0,Turnover by S. Gilgeous-Alexander (lost ball; steal by S. Livingston),,109,112
+4,6:54.0,,K. Durant misses 3-pt jump shot from 27 ft,109,112
+4,6:52.0,Defensive rebound by T. Harris,,109,112
+4,6:41.0,A. Bradley misses 2-pt jump shot from 12 ft,,109,112
+4,6:40.0,,Defensive rebound by J. Jerebko,109,112
+4,6:17.0,,K. Looney makes 2-pt layup from 3 ft (assist by S. Livingston),109,114
+4,5:51.0,T. Harris makes 2-pt jump shot from 14 ft (assist by D. Gallinari),,111,114
+4,5:31.0,,K. Durant misses 2-pt layup from 3 ft,111,114
+4,5:29.0,Defensive rebound by M. Harrell,,111,114
+4,5:26.0,Personal foul by K. Durant (drawn by T. Harris),,111,114
+4,5:26.0,T. Harris makes free throw 1 of 2,,112,114
+4,5:26.0,,A. Iguodala enters the game for S. Livingston,112,114
+4,5:26.0,T. Harris makes free throw 2 of 2,,113,114
+4,5:13.0,,K. Thompson misses 2-pt jump shot from 12 ft,113,114
+4,5:12.0,,Offensive rebound by K. Looney,113,114
+4,5:12.0,,K. Looney makes 2-pt layup at rim,113,116
+4,4:54.0,T. Harris makes 2-pt layup from 2 ft,,115,116
+4,4:43.0,,K. Thompson misses 2-pt jump shot from 21 ft,115,116
+4,4:42.0,Defensive rebound by D. Gallinari,,115,116
+4,4:26.0,M. Harrell makes 2-pt hook shot from 12 ft,,117,116
+4,4:25.0,,Golden State full timeout,117,116
+4,4:25.0,,S. Curry enters the game for J. Jerebko,117,116
+4,4:25.0,,D. Green enters the game for K. Looney,117,116
+4,4:11.0,,K. Durant makes 2-pt jump shot from 19 ft (assist by A. Iguodala),117,118
+4,3:53.0,D. Gallinari misses 2-pt layup from 3 ft (block by A. Iguodala),,117,118
+4,3:52.0,Offensive rebound by Team,,117,118
+4,3:48.0,Turnover by Team (shot clock),,117,118
+4,3:32.0,,S. Curry makes 3-pt jump shot from 26 ft (assist by K. Durant),117,121
+4,3:32.0,,Shooting foul by A. Bradley (drawn by S. Curry),117,121
+4,3:32.0,,S. Curry makes free throw 1 of 1,117,122
+4,3:14.0,Turnover by M. Harrell (lost ball; steal by D. Green),,117,122
+4,2:58.0,,K. Durant makes 3-pt jump shot from 27 ft,117,125
+4,2:57.0,LA Clippers full timeout,,117,125
+4,2:57.0,P. Beverley enters the game for S. Gilgeous-Alexander,,117,125
+4,2:47.0,D. Gallinari makes 3-pt jump shot from 27 ft (assist by P. Beverley),,120,125
+4,2:20.0,,K. Durant misses 2-pt jump shot from 14 ft,120,125
+4,2:19.0,,Offensive rebound by D. Green,120,125
+4,2:06.0,,S. Curry misses 3-pt jump shot from 29 ft,120,125
+4,2:04.0,Defensive rebound by P. Beverley,,120,125
+4,1:56.0,Turnover by P. Beverley (bad pass),,120,125
+4,1:41.0,,K. Durant makes 2-pt jump shot from 11 ft,120,127
+4,1:18.0,T. Harris makes 2-pt layup from 3 ft,,122,127
+4,0:54.0,,D. Green misses 3-pt jump shot from 26 ft,122,127
+4,0:52.0,Defensive rebound by M. Harrell,,122,127
+4,0:40.0,A. Bradley makes 3-pt jump shot from 23 ft (assist by M. Harrell),,125,127
+4,0:39.0,,Golden State full timeout,125,127
+4,0:28.0,,K. Durant misses 3-pt jump shot from 26 ft,125,127
+4,0:26.0,Defensive rebound by T. Harris,,125,127
+4,0:20.0,T. Harris misses 2-pt layup from 2 ft (block by K. Durant),,125,127
+4,0:19.0,Offensive rebound by A. Bradley,,125,127
+4,0:19.0,A. Bradley makes 2-pt dunk from 1 ft,,127,127
+4,0:00.0,,S. Curry makes 2-pt layup from 3 ft,127,129
+4,0:00.0,LA Clippers full timeout,,127,129

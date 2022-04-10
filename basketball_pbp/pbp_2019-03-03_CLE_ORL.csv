@@ -1,0 +1,415 @@
+QUARTER,TIME_REMAINING,ORLANDO_ACTION,CLEVELAND_ACTION,ORLANDO_SCORE,CLEVELAND_SCORE
+1,11:39.0,,K. Love misses 3-pt jump shot from 27 ft,0,0
+1,11:37.0,Defensive rebound by Team,,0,0
+1,11:20.0,J. Isaac misses 2-pt layup from 2 ft,,0,0
+1,11:17.0,,Defensive rebound by L. Nance,0,0
+1,11:08.0,,Turnover by C. Sexton (bad pass; steal by N. Vučević),0,0
+1,10:59.0,D. Augustin misses 2-pt jump shot from 10 ft,,0,0
+1,10:59.0,,Defensive rebound by Team,0,0
+1,10:44.0,,C. Osman makes 2-pt jump shot from 13 ft (assist by L. Nance),0,2
+1,10:26.0,N. Vučević makes 2-pt layup from 2 ft (assist by A. Gordon),,2,2
+1,10:12.0,,C. Sexton makes 3-pt jump shot from 25 ft (assist by B. Knight),2,5
+1,10:00.0,A. Gordon misses 3-pt jump shot from 26 ft,,2,5
+1,9:57.0,,Defensive rebound by C. Sexton,2,5
+1,9:52.0,,B. Knight misses 3-pt jump shot from 27 ft,2,5
+1,9:52.0,Defensive rebound by N. Vučević,,2,5
+1,9:46.0,Personal foul by C. Sexton (drawn by J. Isaac),,2,5
+1,9:38.0,N. Vučević makes 2-pt jump shot from 22 ft (assist by E. Fournier),,4,5
+1,9:28.0,,Personal foul by J. Isaac (drawn by K. Love),4,5
+1,9:15.0,,K. Love makes 3-pt jump shot from 26 ft,4,8
+1,9:00.0,A. Gordon makes 3-pt jump shot from 23 ft (assist by D. Augustin),,7,8
+1,8:43.0,,L. Nance makes 2-pt dunk from 2 ft (assist by C. Osman),7,10
+1,8:30.0,Shooting foul by C. Sexton (drawn by D. Augustin),,7,10
+1,8:30.0,D. Augustin makes free throw 1 of 2,,8,10
+1,8:30.0,D. Augustin makes free throw 2 of 2,,9,10
+1,8:15.0,,C. Osman makes 2-pt jump shot from 14 ft,9,12
+1,8:00.0,Turnover by D. Augustin (bad pass; steal by C. Sexton),,9,12
+1,7:53.0,,L. Nance misses 3-pt jump shot from 26 ft,9,12
+1,7:49.0,Defensive rebound by D. Augustin,,9,12
+1,7:35.0,N. Vučević makes 2-pt hook shot from 7 ft,,11,12
+1,7:19.0,,K. Love misses 2-pt jump shot from 6 ft,11,12
+1,7:17.0,Defensive rebound by N. Vučević,,11,12
+1,7:15.0,A. Gordon makes 2-pt layup from 2 ft,,13,12
+1,6:53.0,,C. Sexton misses 3-pt jump shot from 25 ft,13,12
+1,6:50.0,Defensive rebound by A. Gordon,,13,12
+1,6:38.0,Personal foul by C. Osman (drawn by N. Vučević),,13,12
+1,6:38.0,,Cleveland full timeout,13,12
+1,6:29.0,N. Vučević misses 2-pt hook shot from 14 ft,,13,12
+1,6:27.0,,Defensive rebound by C. Osman,13,12
+1,6:12.0,,K. Love misses 2-pt hook shot from 10 ft,13,12
+1,6:10.0,Defensive rebound by A. Gordon,,13,12
+1,5:59.0,D. Augustin makes 3-pt jump shot from 30 ft (assist by N. Vučević),,16,12
+1,5:41.0,,C. Osman misses 2-pt jump shot from 7 ft,16,12
+1,5:33.0,,Offensive rebound by L. Nance,16,12
+1,5:33.0,,L. Nance makes 2-pt layup from 1 ft,16,14
+1,5:23.0,A. Gordon misses 2-pt jump shot from 14 ft,,16,14
+1,5:19.0,,Defensive rebound by K. Love,16,14
+1,5:17.0,,C. Sexton makes 2-pt layup from 1 ft,16,16
+1,5:01.0,E. Fournier misses 2-pt jump shot from 12 ft,,16,16
+1,4:58.0,,Defensive rebound by K. Love,16,16
+1,4:52.0,,C. Sexton makes 2-pt hook shot from 7 ft,16,18
+1,4:31.0,A. Gordon makes 2-pt dunk from 2 ft (assist by N. Vučević),,18,18
+1,4:11.0,,Offensive foul by L. Nance (drawn by J. Isaac),18,18
+1,4:11.0,,Turnover by L. Nance (offensive foul),18,18
+1,4:11.0,I. Briscoe enters the game for D. Augustin,,18,18
+1,4:11.0,W. Iwundu enters the game for J. Isaac,,18,18
+1,4:11.0,,J. Clarkson enters the game for B. Knight,18,18
+1,4:11.0,,D. Nwaba enters the game for K. Love,18,18
+1,3:51.0,I. Briscoe makes 2-pt layup from 1 ft (assist by N. Vučević),,20,18
+1,3:40.0,,Personal foul by W. Iwundu (drawn by L. Nance),20,18
+1,3:40.0,T. Ross enters the game for E. Fournier,,20,18
+1,3:19.0,,J. Clarkson makes 3-pt jump shot from 27 ft (assist by L. Nance),20,21
+1,3:07.0,A. Gordon misses 3-pt jump shot from 27 ft,,20,21
+1,3:02.0,,Defensive rebound by L. Nance,20,21
+1,2:57.0,,J. Clarkson makes 2-pt layup from 1 ft (assist by L. Nance),20,23
+1,2:42.0,Turnover by A. Gordon (traveling),,20,23
+1,2:42.0,Orlando full timeout,,20,23
+1,2:42.0,K. Birch enters the game for A. Gordon,,20,23
+1,2:42.0,J. Isaac enters the game for N. Vučević,,20,23
+1,2:26.0,,C. Osman makes 2-pt hook shot from 5 ft,20,25
+1,2:10.0,T. Ross misses 2-pt jump shot from 18 ft,,20,25
+1,2:07.0,,Defensive rebound by L. Nance,20,25
+1,1:58.0,,C. Sexton makes 2-pt layup from 1 ft (assist by L. Nance),20,27
+1,1:44.0,W. Iwundu misses 2-pt layup from 2 ft (block by D. Nwaba),,20,27
+1,1:44.0,Offensive rebound by Team,,20,27
+1,1:44.0,,M. Dellavedova enters the game for C. Sexton,20,27
+1,1:40.0,T. Ross makes 2-pt jump shot from 16 ft (assist by I. Briscoe),,22,27
+1,1:13.0,,M. Dellavedova makes 2-pt layup from 1 ft,22,29
+1,1:02.0,T. Ross misses 3-pt jump shot from 26 ft,,22,29
+1,1:01.0,,Defensive rebound by C. Osman,22,29
+1,0:44.0,,Turnover by L. Nance (bad pass; steal by I. Briscoe),22,29
+1,0:39.0,J. Isaac makes 2-pt layup from 2 ft (assist by I. Briscoe),,24,29
+1,0:31.0,,M. Dellavedova misses 2-pt jump shot from 7 ft,24,29
+1,0:31.0,,Offensive rebound by Team,24,29
+1,0:31.0,Loose ball foul by K. Birch (drawn by L. Nance),,24,29
+1,0:31.0,,M. Chriss enters the game for L. Nance,24,29
+1,0:31.0,,N. Stauskas enters the game for C. Osman,24,29
+1,0:25.0,,J. Clarkson misses 3-pt jump shot from 26 ft,24,29
+1,0:22.0,Defensive rebound by J. Isaac,,24,29
+1,0:07.0,Personal foul by M. Dellavedova (drawn by I. Briscoe),,24,29
+1,0:01.0,J. Isaac misses 3-pt jump shot from 24 ft,,24,29
+1,0:00.0,,Defensive rebound by N. Stauskas,24,29
+2,11:42.0,A. Gordon misses 2-pt hook shot from 7 ft,,24,29
+2,11:40.0,Offensive rebound by K. Birch,,24,29
+2,11:28.0,E. Fournier misses 2-pt jump shot from 23 ft,,24,29
+2,11:22.0,Offensive rebound by K. Birch,,24,29
+2,11:22.0,K. Birch makes 2-pt layup at rim,,26,29
+2,11:10.0,,M. Dellavedova misses 2-pt jump shot from 9 ft,26,29
+2,11:07.0,,Offensive rebound by M. Chriss,26,29
+2,11:06.0,,N. Stauskas misses 3-pt jump shot from 26 ft,26,29
+2,11:03.0,Defensive rebound by A. Gordon,,26,29
+2,10:54.0,A. Gordon misses 2-pt layup from 3 ft,,26,29
+2,10:52.0,,Defensive rebound by M. Dellavedova,26,29
+2,10:48.0,,M. Chriss misses 3-pt jump shot from 23 ft,26,29
+2,10:45.0,Defensive rebound by A. Gordon,,26,29
+2,10:42.0,Personal foul by N. Stauskas (drawn by K. Birch),,26,29
+2,10:37.0,T. Ross misses 2-pt jump shot from 18 ft,,26,29
+2,10:35.0,,Defensive rebound by M. Dellavedova,26,29
+2,10:33.0,,Personal foul by A. Gordon (drawn by M. Chriss),26,29
+2,10:22.0,,M. Dellavedova misses 3-pt jump shot from 25 ft,26,29
+2,10:19.0,,Offensive rebound by M. Dellavedova,26,29
+2,10:19.0,,N. Stauskas misses 2-pt layup from 1 ft (block by A. Gordon),26,29
+2,10:16.0,Defensive rebound by Team,,26,29
+2,10:09.0,E. Fournier makes 3-pt jump shot from 25 ft (assist by I. Briscoe),,29,29
+2,9:46.0,,D. Nwaba misses 3-pt jump shot from 24 ft,29,29
+2,9:44.0,Defensive rebound by T. Ross,,29,29
+2,9:40.0,E. Fournier makes 3-pt jump shot from 25 ft (assist by T. Ross),,32,29
+2,9:39.0,,Cleveland full timeout,32,29
+2,9:19.0,,N. Stauskas makes 3-pt jump shot from 24 ft (assist by D. Nwaba),32,32
+2,9:02.0,T. Ross misses 3-pt jump shot from 25 ft,,32,32
+2,9:02.0,,Defensive rebound by Team,32,32
+2,8:46.0,,N. Stauskas makes 2-pt dunk from 1 ft (assist by J. Clarkson),32,34
+2,8:27.0,E. Fournier misses 2-pt jump shot from 18 ft,,32,34
+2,8:25.0,,Defensive rebound by D. Nwaba,32,34
+2,8:18.0,,D. Nwaba makes 2-pt layup at rim,32,36
+2,8:02.0,E. Fournier misses 3-pt jump shot from 26 ft,,32,36
+2,8:00.0,,Defensive rebound by M. Chriss,32,36
+2,7:53.0,,J. Clarkson makes 2-pt layup from 1 ft,32,38
+2,7:46.0,Orlando full timeout,,32,38
+2,7:46.0,W. Iwundu enters the game for K. Birch,,32,38
+2,7:46.0,N. Vučević enters the game for E. Fournier,,32,38
+2,7:46.0,,K. Love enters the game for J. Clarkson,32,38
+2,7:36.0,N. Vučević makes 2-pt hook shot from 8 ft (assist by T. Ross),,34,38
+2,7:23.0,,M. Chriss makes 2-pt layup from 1 ft (assist by K. Love),34,40
+2,7:11.0,I. Briscoe misses 2-pt layup from 1 ft,,34,40
+2,7:11.0,,Defensive rebound by Team,34,40
+2,6:52.0,,K. Love makes 3-pt jump shot from 24 ft (assist by D. Nwaba),34,43
+2,6:33.0,I. Briscoe misses 2-pt jump shot from 22 ft,,34,43
+2,6:31.0,,Defensive rebound by N. Stauskas,34,43
+2,6:12.0,,M. Chriss misses 3-pt jump shot from 22 ft,34,43
+2,6:09.0,,Offensive rebound by K. Love,34,43
+2,6:08.0,,M. Dellavedova makes 3-pt jump shot from 26 ft (assist by K. Love),34,46
+2,5:51.0,Turnover by T. Ross (bad pass; steal by M. Dellavedova),,34,46
+2,5:35.0,,D. Nwaba misses 2-pt jump shot from 6 ft,34,46
+2,5:34.0,Defensive rebound by T. Ross,,34,46
+2,5:34.0,D. Augustin enters the game for I. Briscoe,,34,46
+2,5:34.0,,L. Nance enters the game for M. Chriss,34,46
+2,5:34.0,,C. Osman enters the game for D. Nwaba,34,46
+2,5:34.0,,C. Sexton enters the game for N. Stauskas,34,46
+2,5:16.0,N. Vučević makes 2-pt jump shot from 13 ft,,36,46
+2,5:02.0,,Offensive foul by C. Sexton (drawn by W. Iwundu),36,46
+2,5:02.0,,Turnover by C. Sexton (offensive foul),36,46
+2,5:02.0,,B. Knight enters the game for M. Dellavedova,36,46
+2,4:50.0,N. Vučević misses 2-pt hook shot from 13 ft,,36,46
+2,4:48.0,,Defensive rebound by K. Love,36,46
+2,4:37.0,,K. Love misses 3-pt jump shot from 26 ft,36,46
+2,4:37.0,Defensive rebound by Team,,36,46
+2,4:27.0,T. Ross misses 3-pt jump shot from 23 ft,,36,46
+2,4:23.0,,Defensive rebound by C. Osman,36,46
+2,4:10.0,,C. Sexton makes 2-pt jump shot from 8 ft,36,48
+2,3:47.0,W. Iwundu makes 2-pt layup from 2 ft (assist by N. Vučević),,38,48
+2,3:47.0,Violation by Team (delay of game),,38,48
+2,3:36.0,,C. Sexton misses 3-pt jump shot from 26 ft,38,48
+2,3:32.0,Defensive rebound by N. Vučević,,38,48
+2,3:19.0,N. Vučević makes 2-pt hook shot from 12 ft (assist by W. Iwundu),,40,48
+2,3:01.0,,C. Osman misses 3-pt jump shot from 30 ft,40,48
+2,2:58.0,Defensive rebound by A. Gordon,,40,48
+2,2:46.0,A. Gordon misses 2-pt jump shot from 4 ft,,40,48
+2,2:42.0,Offensive rebound by A. Gordon,,40,48
+2,2:42.0,A. Gordon makes 2-pt layup at rim,,42,48
+2,2:42.0,,Cleveland full timeout,42,48
+2,2:42.0,E. Fournier enters the game for W. Iwundu,,42,48
+2,2:42.0,J. Isaac enters the game for T. Ross,,42,48
+2,2:20.0,,B. Knight misses 3-pt jump shot from 25 ft,42,48
+2,2:19.0,,Offensive rebound by K. Love,42,48
+2,2:19.0,,Shooting foul by A. Gordon (drawn by K. Love),42,48
+2,2:19.0,,K. Love makes free throw 1 of 2,42,49
+2,2:19.0,,K. Love makes free throw 2 of 2,42,50
+2,2:03.0,J. Isaac makes 2-pt jump shot from 19 ft (assist by D. Augustin),,44,50
+2,1:42.0,,C. Osman makes 2-pt jump shot from 11 ft,44,52
+2,1:23.0,Shooting foul by B. Knight (drawn by N. Vučević),,44,52
+2,1:23.0,N. Vučević makes free throw 1 of 2,,45,52
+2,1:23.0,,M. Dellavedova enters the game for C. Sexton,45,52
+2,1:23.0,N. Vučević makes free throw 2 of 2,,46,52
+2,1:12.0,,M. Dellavedova misses 3-pt jump shot from 25 ft,46,52
+2,1:09.0,,Offensive rebound by K. Love,46,52
+2,0:58.0,,C. Osman misses 2-pt jump shot from 6 ft,46,52
+2,0:55.0,Defensive rebound by N. Vučević,,46,52
+2,0:48.0,D. Augustin makes 2-pt layup from 2 ft,,48,52
+2,0:39.0,,L. Nance misses 3-pt jump shot from 25 ft,48,52
+2,0:36.0,Defensive rebound by D. Augustin,,48,52
+2,0:33.0,D. Augustin misses 3-pt jump shot from 30 ft,,48,52
+2,0:29.0,,Defensive rebound by C. Osman,48,52
+2,0:10.0,,B. Knight misses 3-pt jump shot from 23 ft,48,52
+2,0:07.0,Defensive rebound by J. Isaac,,48,52
+3,11:43.0,J. Isaac misses 2-pt layup from 1 ft,,48,52
+3,11:41.0,,Defensive rebound by K. Love,48,52
+3,11:20.0,,C. Sexton misses 3-pt jump shot from 27 ft,48,52
+3,11:18.0,Defensive rebound by J. Isaac,,48,52
+3,11:10.0,J. Isaac misses 2-pt jump shot from 18 ft,,48,52
+3,11:06.0,,Defensive rebound by K. Love,48,52
+3,10:58.0,,Personal foul by E. Fournier (drawn by L. Nance),48,52
+3,10:52.0,,B. Knight misses 2-pt jump shot from 12 ft,48,52
+3,10:52.0,,Offensive rebound by Team,48,52
+3,10:47.0,,K. Love misses 2-pt jump shot from 15 ft,48,52
+3,10:45.0,Defensive rebound by N. Vučević,,48,52
+3,10:31.0,E. Fournier misses 2-pt jump shot from 7 ft,,48,52
+3,10:29.0,,Defensive rebound by L. Nance,48,52
+3,10:22.0,,B. Knight makes 2-pt layup from 1 ft,48,54
+3,10:09.0,D. Augustin misses 3-pt jump shot from 26 ft,,48,54
+3,10:04.0,,Defensive rebound by K. Love,48,54
+3,9:54.0,,K. Love misses 3-pt jump shot from 26 ft,48,54
+3,9:54.0,Defensive rebound by J. Isaac,,48,54
+3,9:42.0,D. Augustin misses 2-pt jump shot at rim,,48,54
+3,9:38.0,Offensive rebound by N. Vučević,,48,54
+3,9:38.0,N. Vučević makes 2-pt layup from 1 ft,,50,54
+3,9:24.0,,C. Sexton makes 2-pt jump shot from 1 ft,50,56
+3,9:11.0,A. Gordon makes 2-pt dunk from 1 ft (assist by J. Isaac),,52,56
+3,8:53.0,,K. Love misses 3-pt jump shot from 27 ft,52,56
+3,8:51.0,Defensive rebound by N. Vučević,,52,56
+3,8:42.0,N. Vučević makes 2-pt hook shot from 8 ft (assist by D. Augustin),,54,56
+3,8:20.0,,L. Nance misses 2-pt jump shot from 14 ft,54,56
+3,8:17.0,Defensive rebound by N. Vučević,,54,56
+3,8:10.0,D. Augustin makes 2-pt layup at rim,,56,56
+3,8:10.0,,Cleveland full timeout,56,56
+3,7:52.0,,C. Osman misses 3-pt jump shot from 27 ft,56,56
+3,7:50.0,,Offensive rebound by L. Nance,56,56
+3,7:50.0,,L. Nance makes 2-pt layup at rim,56,58
+3,7:31.0,J. Isaac makes 2-pt jump shot from 21 ft (assist by N. Vučević),,58,58
+3,7:16.0,,C. Sexton misses 2-pt jump shot from 12 ft,58,58
+3,7:14.0,Defensive rebound by E. Fournier,,58,58
+3,7:02.0,A. Gordon misses 3-pt jump shot from 25 ft,,58,58
+3,6:59.0,,Defensive rebound by K. Love,58,58
+3,6:44.0,,Shooting foul by E. Fournier (drawn by C. Sexton),58,58
+3,6:44.0,,C. Sexton makes free throw 1 of 2,58,59
+3,6:44.0,,C. Sexton makes free throw 2 of 2,58,60
+3,6:29.0,N. Vučević makes 2-pt jump shot from 11 ft (assist by D. Augustin),,60,60
+3,6:12.0,,C. Osman misses 2-pt jump shot from 3 ft (block by N. Vučević),60,60
+3,6:12.0,,Offensive rebound by Team,60,60
+3,6:12.0,,J. Clarkson enters the game for B. Knight,60,60
+3,6:12.0,,D. Nwaba enters the game for K. Love,60,60
+3,6:09.0,,L. Nance misses 3-pt jump shot from 25 ft,60,60
+3,6:06.0,Defensive rebound by D. Augustin,,60,60
+3,5:51.0,J. Isaac misses 3-pt jump shot from 23 ft,,60,60
+3,5:49.0,,Defensive rebound by C. Osman,60,60
+3,5:42.0,,J. Clarkson misses 2-pt jump shot from 7 ft,60,60
+3,5:40.0,Defensive rebound by E. Fournier,,60,60
+3,5:33.0,E. Fournier makes 2-pt jump shot from 20 ft,,62,60
+3,5:08.0,,D. Nwaba misses 2-pt layup from 2 ft (block by J. Isaac),62,60
+3,5:04.0,Defensive rebound by D. Augustin,,62,60
+3,4:59.0,D. Augustin misses 2-pt layup from 3 ft,,62,60
+3,4:59.0,Offensive rebound by N. Vučević,,62,60
+3,4:54.0,N. Vučević makes 2-pt layup from 1 ft,,64,60
+3,4:37.0,,Turnover by J. Clarkson (bad pass; steal by N. Vučević),64,60
+3,4:31.0,Turnover by D. Augustin (bad pass; steal by C. Osman),,64,60
+3,4:21.0,,C. Osman misses 3-pt jump shot from 27 ft,64,60
+3,4:17.0,Defensive rebound by D. Augustin,,64,60
+3,4:14.0,D. Augustin makes 2-pt layup from 1 ft,,66,60
+3,4:14.0,,Cleveland full timeout,66,60
+3,4:14.0,I. Briscoe enters the game for D. Augustin,,66,60
+3,4:14.0,W. Iwundu enters the game for E. Fournier,,66,60
+3,4:14.0,T. Ross enters the game for A. Gordon,,66,60
+3,4:14.0,,M. Chriss enters the game for L. Nance,66,60
+3,4:14.0,,M. Dellavedova enters the game for C. Sexton,66,60
+3,3:50.0,,Turnover by Team (shot clock),66,60
+3,3:40.0,N. Vučević makes 2-pt layup from 1 ft (assist by J. Isaac),,68,60
+3,3:21.0,,M. Dellavedova makes 3-pt jump shot from 27 ft (assist by M. Chriss),68,63
+3,3:00.0,Personal foul by J. Clarkson (drawn by I. Briscoe),,68,63
+3,2:54.0,T. Ross misses 2-pt jump shot from 17 ft,,68,63
+3,2:54.0,,Defensive rebound by Team,68,63
+3,2:43.0,,J. Clarkson misses 3-pt jump shot from 26 ft,68,63
+3,2:41.0,Defensive rebound by N. Vučević,,68,63
+3,2:22.0,W. Iwundu makes 2-pt layup at rim (assist by N. Vučević),,70,63
+3,2:04.0,,C. Osman misses 3-pt jump shot from 23 ft,70,63
+3,2:01.0,Defensive rebound by N. Vučević,,70,63
+3,2:01.0,Turnover by N. Vučević (bad pass; steal by C. Osman),,70,63
+3,1:51.0,,D. Nwaba misses 3-pt jump shot from 26 ft,70,63
+3,1:49.0,Defensive rebound by W. Iwundu,,70,63
+3,1:36.0,Shooting foul by D. Nwaba (drawn by J. Isaac),,70,63
+3,1:36.0,J. Isaac makes free throw 1 of 2,,71,63
+3,1:36.0,K. Birch enters the game for N. Vučević,,71,63
+3,1:36.0,,N. Stauskas enters the game for C. Osman,71,63
+3,1:36.0,J. Isaac misses free throw 2 of 2,,71,63
+3,1:34.0,,Defensive rebound by M. Chriss,71,63
+3,1:22.0,,N. Stauskas misses 2-pt layup at rim,71,63
+3,1:20.0,Defensive rebound by K. Birch,,71,63
+3,1:16.0,Turnover by I. Briscoe (out of bounds lost ball),,71,63
+3,1:08.0,,Turnover by M. Dellavedova (bad pass),71,63
+3,1:08.0,,Loose ball foul by M. Chriss (drawn by K. Birch),71,63
+3,1:08.0,K. Birch makes free throw 1 of 2,,72,63
+3,1:08.0,K. Birch misses free throw 2 of 2,,72,63
+3,1:06.0,,Defensive rebound by D. Nwaba,72,63
+3,0:46.0,,M. Chriss misses 2-pt layup from 5 ft,72,63
+3,0:44.0,Defensive rebound by T. Ross,,72,63
+3,0:37.0,T. Ross misses 2-pt jump shot at rim,,72,63
+3,0:35.0,,Defensive rebound by M. Chriss,72,63
+3,0:26.0,,D. Nwaba makes 2-pt layup from 1 ft (assist by M. Dellavedova),72,65
+3,0:20.0,Orlando full timeout,,72,65
+3,0:07.0,Turnover by T. Ross (bad pass; steal by M. Dellavedova),,72,65
+3,0:02.0,,D. Nwaba makes 2-pt layup from 1 ft (assist by M. Dellavedova),72,67
+3,0:00.0,T. Ross misses 3-pt jump shot from 62 ft,,72,67
+3,0:00.0,Offensive rebound by Team,,72,67
+4,11:45.0,,Shooting foul by I. Briscoe (drawn by D. Nwaba),72,67
+4,11:45.0,,D. Nwaba makes free throw 1 of 2,72,68
+4,11:45.0,,D. Nwaba makes free throw 2 of 2,72,69
+4,11:30.0,I. Briscoe misses 3-pt jump shot from 23 ft,,72,69
+4,11:28.0,,Defensive rebound by J. Clarkson,72,69
+4,11:14.0,,M. Dellavedova makes 3-pt jump shot from 26 ft,72,72
+4,10:50.0,A. Gordon misses 2-pt jump shot from 17 ft,,72,72
+4,10:46.0,,Defensive rebound by M. Chriss,72,72
+4,10:39.0,,Shooting foul by T. Ross (drawn by N. Stauskas),72,72
+4,10:39.0,,N. Stauskas makes free throw 1 of 2,72,73
+4,10:39.0,,N. Stauskas makes free throw 2 of 2,72,74
+4,10:18.0,A. Gordon misses 3-pt jump shot from 25 ft,,72,74
+4,10:16.0,,Defensive rebound by N. Stauskas,72,74
+4,10:12.0,,Shooting foul by I. Briscoe (drawn by J. Clarkson),72,74
+4,10:12.0,,J. Clarkson makes free throw 1 of 2,72,75
+4,10:12.0,,J. Clarkson makes free throw 2 of 2,72,76
+4,10:06.0,Turnover by I. Briscoe (traveling),,72,76
+4,9:52.0,,Shooting foul by I. Briscoe (drawn by M. Chriss),72,76
+4,9:52.0,,M. Chriss makes free throw 1 of 2,72,77
+4,9:52.0,,M. Chriss misses free throw 2 of 2,72,77
+4,9:52.0,Defensive rebound by A. Gordon,,72,77
+4,9:52.0,Orlando full timeout,,72,77
+4,9:37.0,T. Ross misses 2-pt jump shot from 18 ft,,72,77
+4,9:33.0,Offensive rebound by I. Briscoe,,72,77
+4,9:31.0,E. Fournier misses 3-pt jump shot from 27 ft,,72,77
+4,9:28.0,Offensive rebound by K. Birch,,72,77
+4,9:27.0,K. Birch misses 2-pt layup from 7 ft,,72,77
+4,9:24.0,,Defensive rebound by D. Nwaba,72,77
+4,9:12.0,,J. Clarkson makes 3-pt jump shot from 25 ft (assist by M. Dellavedova),72,80
+4,8:52.0,I. Briscoe makes 2-pt layup from 1 ft (assist by A. Gordon),,74,80
+4,8:30.0,,Turnover by M. Chriss (traveling),74,80
+4,8:17.0,I. Briscoe misses 2-pt layup from 5 ft (block by M. Chriss),,74,80
+4,8:17.0,Offensive rebound by Team,,74,80
+4,8:17.0,D. Augustin enters the game for K. Birch,,74,80
+4,8:17.0,N. Vučević enters the game for I. Briscoe,,74,80
+4,8:13.0,E. Fournier makes 3-pt jump shot from 25 ft (assist by D. Augustin),,77,80
+4,7:55.0,,M. Dellavedova misses 3-pt jump shot from 26 ft,77,80
+4,7:53.0,Defensive rebound by A. Gordon,,77,80
+4,7:39.0,D. Augustin makes 2-pt jump shot from 13 ft,,79,80
+4,7:23.0,,Offensive foul by J. Clarkson (drawn by D. Augustin),79,80
+4,7:23.0,,Turnover by J. Clarkson (offensive foul),79,80
+4,7:23.0,Technical foul by D. Augustin,,79,80
+4,7:23.0,,J. Clarkson makes technical free throw,79,81
+4,7:23.0,,K. Love enters the game for M. Chriss,79,81
+4,7:23.0,,L. Nance enters the game for M. Dellavedova,79,81
+4,7:23.0,,C. Sexton enters the game for D. Nwaba,79,81
+4,7:06.0,N. Vučević misses 2-pt hook shot from 15 ft,,79,81
+4,7:03.0,Offensive rebound by N. Vučević,,79,81
+4,7:03.0,N. Vučević makes 2-pt layup from 9 ft,,81,81
+4,6:48.0,,Shooting foul by E. Fournier (drawn by J. Clarkson),81,81
+4,6:48.0,,J. Clarkson makes free throw 1 of 2,81,82
+4,6:48.0,,C. Osman enters the game for N. Stauskas,81,82
+4,6:48.0,,J. Clarkson makes free throw 2 of 2,81,83
+4,6:36.0,E. Fournier misses 3-pt jump shot from 26 ft,,81,83
+4,6:33.0,,Defensive rebound by L. Nance,81,83
+4,6:21.0,,J. Clarkson misses 3-pt jump shot from 25 ft,81,83
+4,6:21.0,,Offensive rebound by K. Love,81,83
+4,6:21.0,,Shooting foul by A. Gordon (drawn by K. Love),81,83
+4,6:21.0,,K. Love makes free throw 1 of 2,81,84
+4,6:21.0,,K. Love makes free throw 2 of 2,81,85
+4,6:13.0,D. Augustin makes 3-pt jump shot from 26 ft,,84,85
+4,5:54.0,,C. Osman makes 3-pt jump shot from 23 ft (assist by J. Clarkson),84,88
+4,5:32.0,T. Ross misses 3-pt jump shot from 25 ft,,84,88
+4,5:30.0,,Defensive rebound by K. Love,84,88
+4,5:23.0,,Turnover by C. Sexton (lost ball; steal by E. Fournier),84,88
+4,5:07.0,Turnover by A. Gordon (bad pass; steal by L. Nance),,84,88
+4,4:56.0,,K. Love makes 3-pt jump shot from 26 ft (assist by C. Sexton),84,91
+4,4:54.0,Orlando full timeout,,84,91
+4,4:41.0,,Violation by Team (kicked ball),84,91
+4,4:35.0,E. Fournier misses 2-pt jump shot from 6 ft,,84,91
+4,4:33.0,,Defensive rebound by Team,84,91
+4,4:15.0,,Offensive foul by C. Sexton (drawn by D. Augustin),84,91
+4,4:15.0,,Turnover by C. Sexton (offensive foul),84,91
+4,4:06.0,Personal foul by K. Love (drawn by N. Vučević),,84,91
+4,4:01.0,N. Vučević makes 2-pt hook shot from 14 ft (assist by A. Gordon),,86,91
+4,3:39.0,,L. Nance makes 3-pt jump shot from 26 ft (assist by C. Osman),86,94
+4,3:25.0,Offensive foul by N. Vučević (drawn by K. Love),,86,94
+4,3:25.0,Turnover by N. Vučević (offensive foul),,86,94
+4,3:09.0,,L. Nance makes 2-pt hook shot from 2 ft (assist by C. Sexton),86,96
+4,2:51.0,A. Gordon makes 2-pt jump shot from 7 ft,,88,96
+4,2:31.0,,J. Clarkson makes 3-pt jump shot from 26 ft (assist by C. Osman),88,99
+4,2:19.0,T. Ross misses 3-pt jump shot from 24 ft,,88,99
+4,2:15.0,,Defensive rebound by K. Love,88,99
+4,2:03.0,,C. Sexton misses 2-pt layup from 3 ft (block by N. Vučević),88,99
+4,2:03.0,,Offensive rebound by Team,88,99
+4,1:59.0,,K. Love misses 3-pt jump shot from 24 ft,88,99
+4,1:57.0,,Offensive rebound by C. Osman,88,99
+4,1:46.0,,C. Osman makes 3-pt jump shot from 26 ft,88,102
+4,1:46.0,Orlando full timeout,,88,102
+4,1:40.0,Turnover by N. Vučević (bad pass; steal by C. Osman),,88,102
+4,1:27.0,,Turnover by C. Sexton (lost ball; steal by E. Fournier),88,102
+4,1:16.0,A. Gordon makes 2-pt jump shot from 12 ft,,90,102
+4,1:09.0,,Personal foul by T. Ross (drawn by C. Sexton),90,102
+4,1:09.0,,C. Sexton makes free throw 1 of 2,90,103
+4,1:09.0,,C. Sexton makes free throw 2 of 2,90,104
+4,1:03.0,Shooting foul by K. Love (drawn by D. Augustin),,90,104
+4,1:03.0,D. Augustin makes free throw 1 of 3,,91,104
+4,1:03.0,D. Augustin makes free throw 2 of 3,,92,104
+4,1:03.0,D. Augustin makes free throw 3 of 3,,93,104
+4,1:03.0,,Cleveland full timeout,93,104
+4,1:03.0,,M. Dellavedova enters the game for L. Nance,93,104
+4,1:01.0,,Personal foul by E. Fournier (drawn by K. Love),93,104
+4,1:01.0,,K. Love makes free throw 1 of 2,93,105
+4,1:01.0,,L. Nance enters the game for M. Dellavedova,93,105
+4,1:01.0,,K. Love makes free throw 2 of 2,93,106
+4,0:53.0,D. Augustin misses 3-pt jump shot from 25 ft,,93,106
+4,0:51.0,,Defensive rebound by K. Love,93,106
+4,0:51.0,,Personal foul by N. Vučević (drawn by K. Love),93,106
+4,0:51.0,,K. Love makes free throw 1 of 2,93,107
+4,0:51.0,,K. Love misses free throw 2 of 2,93,107
+4,0:50.0,Defensive rebound by N. Vučević,,93,107
+4,0:42.0,E. Fournier misses 3-pt jump shot from 27 ft,,93,107
+4,0:39.0,,Defensive rebound by C. Sexton,93,107
+4,0:16.0,,Turnover by Team (shot clock),93,107

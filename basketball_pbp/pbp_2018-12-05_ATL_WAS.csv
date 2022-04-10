@@ -1,0 +1,511 @@
+QUARTER,TIME_REMAINING,WASHINGTON_ACTION,ATLANTA_ACTION,WASHINGTON_SCORE,ATLANTA_SCORE
+1,11:46.0,,D. Dedmon misses 3-pt jump shot from 24 ft,0,0
+1,11:42.0,,Offensive rebound by T. Young,0,0
+1,11:40.0,,T. Young misses 2-pt layup from 1 ft,0,0
+1,11:37.0,,Offensive rebound by D. Dedmon,0,0
+1,11:37.0,,D. Dedmon misses 2-pt layup from 1 ft,0,0
+1,11:36.0,,Offensive rebound by D. Dedmon,0,0
+1,11:35.0,,D. Dedmon makes 2-pt layup from 1 ft,0,2
+1,11:22.0,O. Porter misses 2-pt jump shot from 21 ft,,0,2
+1,11:18.0,,Defensive rebound by D. Dedmon,0,2
+1,11:11.0,,J. Collins makes 2-pt jump shot from 15 ft (assist by K. Bazemore),0,4
+1,11:02.0,B. Beal makes 2-pt layup from 2 ft,,2,4
+1,10:53.0,,J. Collins makes 2-pt dunk from 1 ft (assist by K. Bazemore),2,6
+1,10:40.0,T. Bryant makes 3-pt jump shot from 24 ft (assist by T. Satoranský),,5,6
+1,10:26.0,,D. Dedmon makes 2-pt layup from 1 ft (assist by K. Huerter),5,8
+1,10:13.0,B. Beal misses 2-pt layup from 1 ft (block by K. Bazemore),,5,8
+1,10:11.0,,Defensive rebound by K. Huerter,5,8
+1,10:08.0,,K. Huerter misses 2-pt layup from 2 ft,5,8
+1,10:06.0,,Offensive rebound by J. Collins,5,8
+1,10:02.0,,Shooting foul by T. Bryant (drawn by D. Dedmon),5,8
+1,10:02.0,,D. Dedmon misses free throw 1 of 2,5,8
+1,10:02.0,,Offensive rebound by Team,5,8
+1,10:02.0,,D. Dedmon makes free throw 2 of 2,5,9
+1,9:44.0,O. Porter makes 2-pt hook shot from 4 ft (assist by A. Rivers),,7,9
+1,9:20.0,,K. Huerter misses 3-pt jump shot from 26 ft,7,9
+1,9:16.0,Defensive rebound by A. Rivers,,7,9
+1,9:10.0,A. Rivers misses 2-pt layup from 1 ft,,7,9
+1,9:06.0,Offensive rebound by O. Porter,,7,9
+1,9:04.0,O. Porter misses 2-pt layup from 2 ft,,7,9
+1,9:02.0,,Defensive rebound by J. Collins,7,9
+1,8:56.0,,J. Collins makes 3-pt jump shot from 25 ft (assist by K. Bazemore),7,12
+1,8:44.0,T. Satoranský makes 2-pt jump shot from 21 ft,,9,12
+1,8:35.0,,Personal foul by A. Rivers (drawn by T. Young),9,12
+1,8:31.0,,D. Dedmon misses 3-pt jump shot from 25 ft,9,12
+1,8:28.0,Defensive rebound by A. Rivers,,9,12
+1,8:13.0,O. Porter makes 2-pt jump shot from 17 ft (assist by B. Beal),,11,12
+1,8:05.0,,Turnover by J. Collins (offensive foul),11,12
+1,8:05.0,,Offensive foul by J. Collins (drawn by O. Porter),11,12
+1,7:49.0,T. Bryant misses 2-pt jump shot from 8 ft,,11,12
+1,7:47.0,Offensive rebound by T. Bryant,,11,12
+1,7:47.0,T. Bryant makes 2-pt dunk from 2 ft,,13,12
+1,7:47.0,Shooting foul by K. Bazemore (drawn by T. Bryant),,13,12
+1,7:47.0,T. Bryant makes free throw 1 of 1,,14,12
+1,7:39.0,,D. Dedmon misses 3-pt jump shot from 26 ft,14,12
+1,7:34.0,,Offensive rebound by J. Collins,14,12
+1,7:30.0,,D. Dedmon misses 2-pt jump shot from 9 ft,14,12
+1,7:25.0,,Offensive rebound by J. Collins,14,12
+1,7:25.0,,Personal foul by O. Porter (drawn by D. Dedmon),14,12
+1,7:21.0,,J. Collins misses 3-pt jump shot from 25 ft,14,12
+1,7:17.0,Defensive rebound by T. Bryant,,14,12
+1,7:12.0,O. Porter makes 2-pt layup from 1 ft (assist by T. Satoranský),,16,12
+1,6:58.0,,K. Huerter makes 3-pt jump shot from 22 ft (assist by T. Young),16,15
+1,6:48.0,Personal foul by K. Huerter (drawn by T. Satoranský),,16,15
+1,6:48.0,,Atlanta full timeout,16,15
+1,6:48.0,,D. Bembry enters the game for K. Bazemore,16,15
+1,6:48.0,,A. Len enters the game for D. Dedmon,16,15
+1,6:34.0,T. Bryant misses 2-pt hook shot from 3 ft,,16,15
+1,6:31.0,,Defensive rebound by J. Collins,16,15
+1,6:28.0,,T. Young misses 2-pt jump shot from 12 ft,16,15
+1,6:23.0,Defensive rebound by A. Rivers,,16,15
+1,6:17.0,B. Beal makes 2-pt jump shot from 16 ft,,18,15
+1,5:54.0,,J. Collins makes 2-pt layup from 2 ft (assist by D. Bembry),18,17
+1,5:41.0,B. Beal misses 2-pt layup from 2 ft,,18,17
+1,5:40.0,Offensive rebound by T. Bryant,,18,17
+1,5:40.0,Shooting foul by A. Len (drawn by T. Bryant),,18,17
+1,5:40.0,T. Bryant makes free throw 1 of 2,,19,17
+1,5:40.0,M. Morris enters the game for O. Porter,,19,17
+1,5:40.0,,V. Carter enters the game for J. Collins,19,17
+1,5:40.0,,J. Lin enters the game for T. Young,19,17
+1,5:40.0,T. Bryant makes free throw 2 of 2,,20,17
+1,5:33.0,,A. Len misses 2-pt layup from 7 ft (block by T. Satoranský),20,17
+1,5:30.0,Defensive rebound by Team,,20,17
+1,5:15.0,A. Rivers misses 3-pt jump shot from 23 ft,,20,17
+1,5:12.0,,Defensive rebound by K. Huerter,20,17
+1,5:03.0,,D. Bembry makes 2-pt layup from 1 ft,20,19
+1,4:51.0,B. Beal makes 2-pt jump shot from 11 ft (assist by T. Bryant),,22,19
+1,4:38.0,,J. Lin makes 2-pt layup from 1 ft (assist by V. Carter),22,21
+1,4:23.0,B. Beal makes 2-pt layup from 1 ft,,24,21
+1,4:01.0,,A. Len misses 2-pt layup from 3 ft,24,21
+1,3:58.0,Defensive rebound by T. Bryant,,24,21
+1,3:52.0,T. Bryant misses 3-pt jump shot from 25 ft,,24,21
+1,3:50.0,,Defensive rebound by Team,24,21
+1,3:50.0,T. Brown enters the game for T. Bryant,,24,21
+1,3:50.0,K. Oubre enters the game for T. Satoranský,,24,21
+1,3:50.0,,K. Bazemore enters the game for K. Huerter,24,21
+1,3:34.0,,K. Bazemore misses 3-pt jump shot from 23 ft,24,21
+1,3:30.0,Defensive rebound by K. Oubre,,24,21
+1,3:17.0,T. Brown makes 2-pt layup from 3 ft (assist by B. Beal),,26,21
+1,3:15.0,,Atlanta full timeout,26,21
+1,3:03.0,,K. Bazemore makes 2-pt layup from 1 ft (assist by J. Lin),26,23
+1,2:48.0,M. Morris misses 3-pt jump shot from 25 ft,,26,23
+1,2:44.0,Offensive rebound by T. Brown,,26,23
+1,2:43.0,B. Beal makes 3-pt jump shot from 25 ft (assist by T. Brown),,29,23
+1,2:27.0,,K. Bazemore misses 3-pt jump shot from 25 ft,29,23
+1,2:26.0,Defensive rebound by Team,,29,23
+1,2:12.0,A. Rivers misses 2-pt layup from 2 ft,,29,23
+1,2:10.0,,Defensive rebound by A. Len,29,23
+1,2:07.0,,K. Bazemore misses 3-pt jump shot from 23 ft,29,23
+1,2:04.0,Defensive rebound by T. Brown,,29,23
+1,1:50.0,M. Morris misses 2-pt hook shot from 10 ft,,29,23
+1,1:46.0,,Defensive rebound by J. Lin,29,23
+1,1:42.0,,Shooting foul by M. Morris (drawn by K. Bazemore),29,23
+1,1:42.0,,K. Bazemore makes free throw 1 of 2,29,24
+1,1:42.0,,T. Young enters the game for J. Lin,29,24
+1,1:42.0,,K. Bazemore makes free throw 2 of 2,29,25
+1,1:29.0,Personal foul by T. Young (drawn by K. Oubre),,29,25
+1,1:29.0,O. Porter enters the game for B. Beal,,29,25
+1,1:17.0,Turnover by K. Oubre (lost ball; steal by T. Young),,29,25
+1,1:11.0,,D. Bembry misses 2-pt layup from 2 ft,29,25
+1,1:08.0,Defensive rebound by A. Rivers,,29,25
+1,1:03.0,Shooting foul by A. Len (drawn by A. Rivers),,29,25
+1,1:03.0,A. Rivers makes free throw 1 of 2,,30,25
+1,1:03.0,,T. Dorsey enters the game for D. Bembry,30,25
+1,1:03.0,,M. Plumlee enters the game for A. Len,30,25
+1,1:03.0,A. Rivers makes free throw 2 of 2,,31,25
+1,0:48.0,,M. Plumlee misses 2-pt hook shot from 11 ft,31,25
+1,0:45.0,Defensive rebound by O. Porter,,31,25
+1,0:38.0,Turnover by A. Rivers (lost ball; steal by V. Carter),,31,25
+1,0:31.0,,T. Young misses 3-pt jump shot from 27 ft,31,25
+1,0:26.0,Defensive rebound by T. Brown,,31,25
+1,0:09.0,O. Porter misses 3-pt jump shot from 25 ft,,31,25
+1,0:06.0,Offensive rebound by A. Rivers,,31,25
+1,0:03.0,T. Brown makes 2-pt jump shot from 11 ft (assist by A. Rivers),,33,25
+1,0:00.0,,K. Bazemore misses 3-pt jump shot from 46 ft,33,25
+1,0:00.0,,Offensive rebound by Team,33,25
+2,11:45.0,Shooting foul by J. Collins (drawn by K. Oubre),,33,25
+2,11:45.0,K. Oubre makes free throw 1 of 2,,34,25
+2,11:45.0,K. Oubre makes free throw 2 of 2,,35,25
+2,11:33.0,,T. Young misses 2-pt jump shot from 12 ft,35,25
+2,11:29.0,Defensive rebound by K. Oubre,,35,25
+2,11:19.0,Turnover by O. Porter (bad pass; steal by T. Young),,35,25
+2,11:16.0,,Turnover by M. Plumlee (out of bounds lost ball),35,25
+2,11:07.0,K. Oubre makes 3-pt jump shot from 26 ft (assist by M. Morris),,38,25
+2,10:48.0,,Personal foul by M. Morris (drawn by T. Young),38,25
+2,10:48.0,J. Smith enters the game for M. Morris,,38,25
+2,10:35.0,,Turnover by K. Huerter (out of bounds lost ball),38,25
+2,10:25.0,J. Smith misses 2-pt layup from 2 ft (block by M. Plumlee),,38,25
+2,10:22.0,,Defensive rebound by J. Collins,38,25
+2,10:20.0,,T. Dorsey makes 3-pt jump shot from 26 ft (assist by T. Young),38,28
+2,10:01.0,Shooting foul by T. Young (drawn by T. Satoranský),,38,28
+2,10:01.0,T. Satoranský makes free throw 1 of 2,,39,28
+2,10:01.0,T. Satoranský makes free throw 2 of 2,,40,28
+2,9:44.0,,Turnover by M. Plumlee (bad pass; steal by T. Brown),40,28
+2,9:39.0,T. Brown misses 2-pt jump shot from 18 ft,,40,28
+2,9:35.0,,Defensive rebound by M. Plumlee,40,28
+2,9:33.0,,T. Young makes 3-pt jump shot from 28 ft (assist by M. Plumlee),40,31
+2,9:31.0,Washington full timeout,,40,31
+2,9:31.0,B. Beal enters the game for T. Brown,,40,31
+2,9:31.0,,D. Dedmon enters the game for M. Plumlee,40,31
+2,9:14.0,O. Porter misses 3-pt jump shot from 25 ft,,40,31
+2,9:10.0,,Defensive rebound by D. Dedmon,40,31
+2,9:07.0,,Shooting foul by J. Smith (drawn by T. Young),40,31
+2,9:07.0,,T. Young makes free throw 1 of 2,40,32
+2,9:07.0,,D. Bembry enters the game for K. Huerter,40,32
+2,9:07.0,,T. Young makes free throw 2 of 2,40,33
+2,8:58.0,B. Beal misses 2-pt jump shot from 20 ft,,40,33
+2,8:51.0,,Defensive rebound by J. Collins,40,33
+2,8:37.0,,J. Collins misses 2-pt layup from 1 ft,40,33
+2,8:34.0,Defensive rebound by O. Porter,,40,33
+2,8:29.0,Turnover by O. Porter (bad pass; steal by D. Dedmon),,40,33
+2,8:24.0,,T. Dorsey misses 3-pt jump shot from 25 ft,40,33
+2,8:23.0,Defensive rebound by Team,,40,33
+2,8:23.0,,Loose ball foul by D. Dedmon (drawn by J. Smith),40,33
+2,8:13.0,B. Beal makes 2-pt layup from 4 ft (assist by J. Smith),,42,33
+2,8:12.0,,Atlanta full timeout,42,33
+2,8:02.0,,Turnover by D. Dedmon (offensive foul),42,33
+2,8:02.0,,Offensive foul by D. Dedmon (drawn by K. Oubre),42,33
+2,8:02.0,,K. Bazemore enters the game for T. Dorsey,42,33
+2,7:49.0,J. Smith misses 3-pt jump shot from 23 ft,,42,33
+2,7:46.0,,Defensive rebound by T. Young,42,33
+2,7:41.0,,T. Young misses 2-pt jump shot from 8 ft,42,33
+2,7:38.0,Defensive rebound by T. Satoranský,,42,33
+2,7:34.0,Shooting foul by D. Bembry (drawn by K. Oubre),,42,33
+2,7:34.0,K. Oubre makes free throw 1 of 2,,43,33
+2,7:34.0,K. Oubre makes free throw 2 of 2,,44,33
+2,7:23.0,,J. Collins misses 3-pt jump shot from 26 ft,44,33
+2,7:20.0,Defensive rebound by O. Porter,,44,33
+2,7:15.0,Turnover by O. Porter (bad pass; steal by D. Bembry),,44,33
+2,7:10.0,,D. Bembry makes 2-pt dunk from 1 ft,44,35
+2,7:03.0,Personal foul by D. Bembry (drawn by B. Beal),,44,35
+2,7:03.0,B. Beal makes free throw 1 of 2,,45,35
+2,7:03.0,B. Beal makes free throw 2 of 2,,46,35
+2,6:53.0,,K. Bazemore misses 3-pt jump shot from 25 ft,46,35
+2,6:50.0,Defensive rebound by J. Smith,,46,35
+2,6:40.0,K. Oubre makes 2-pt layup from 4 ft (assist by J. Smith),,48,35
+2,6:40.0,Shooting foul by J. Collins (drawn by K. Oubre),,48,35
+2,6:40.0,,V. Carter enters the game for J. Collins,48,35
+2,6:40.0,,K. Huerter enters the game for T. Young,48,35
+2,6:40.0,K. Oubre makes free throw 1 of 1,,49,35
+2,6:28.0,,V. Carter misses 3-pt jump shot from 23 ft,49,35
+2,6:24.0,Defensive rebound by J. Smith,,49,35
+2,6:16.0,Turnover by B. Beal (lost ball; steal by D. Dedmon),,49,35
+2,5:53.0,,D. Bembry misses 3-pt jump shot from 25 ft,49,35
+2,5:47.0,Defensive rebound by K. Oubre,,49,35
+2,5:43.0,Personal foul by D. Dedmon (drawn by B. Beal),,49,35
+2,5:43.0,B. Beal makes free throw 1 of 2,,50,35
+2,5:43.0,,A. Len enters the game for D. Dedmon,50,35
+2,5:43.0,B. Beal makes free throw 2 of 2,,51,35
+2,5:30.0,,Personal foul by K. Oubre (drawn by K. Bazemore),51,35
+2,5:30.0,A. Rivers enters the game for T. Satoranský,,51,35
+2,5:26.0,,Turnover by K. Bazemore (traveling),51,35
+2,5:16.0,O. Porter makes 3-pt jump shot from 25 ft (assist by B. Beal),,54,35
+2,4:55.0,,K. Huerter misses 3-pt jump shot from 27 ft,54,35
+2,4:52.0,Defensive rebound by O. Porter,,54,35
+2,4:48.0,O. Porter misses 3-pt jump shot from 25 ft,,54,35
+2,4:44.0,,Defensive rebound by A. Len,54,35
+2,4:40.0,,K. Huerter misses 3-pt jump shot from 25 ft,54,35
+2,4:39.0,Defensive rebound by Team,,54,35
+2,4:39.0,,Loose ball foul by A. Len (drawn by J. Smith),54,35
+2,4:39.0,J. Smith misses free throw 1 of 2,,54,35
+2,4:39.0,Offensive rebound by Team,,54,35
+2,4:39.0,,J. Anderson enters the game for D. Bembry,54,35
+2,4:39.0,,T. Young enters the game for A. Len,54,35
+2,4:39.0,J. Smith makes free throw 2 of 2,,55,35
+2,4:30.0,,Shooting foul by J. Smith (drawn by V. Carter),55,35
+2,4:30.0,,V. Carter makes free throw 1 of 2,55,36
+2,4:30.0,M. Morris enters the game for J. Smith,,55,36
+2,4:30.0,,V. Carter makes free throw 2 of 2,55,37
+2,4:18.0,Turnover by A. Rivers (lost ball; steal by K. Bazemore),,55,37
+2,4:15.0,,K. Bazemore makes 2-pt dunk from 1 ft,55,39
+2,3:52.0,M. Morris makes 2-pt layup from 1 ft (assist by O. Porter),,57,39
+2,3:32.0,,Turnover by T. Young (bad pass; steal by K. Oubre),57,39
+2,3:26.0,O. Porter makes 2-pt layup from 1 ft (assist by M. Morris),,59,39
+2,3:13.0,,K. Bazemore misses 2-pt layup from 2 ft,59,39
+2,3:09.0,Defensive rebound by A. Rivers,,59,39
+2,3:04.0,M. Morris makes 3-pt jump shot from 24 ft (assist by A. Rivers),,62,39
+2,3:02.0,,Atlanta full timeout,62,39
+2,3:02.0,,M. Plumlee enters the game for J. Anderson,62,39
+2,3:02.0,,Violation by Team (delay of game),62,39
+2,2:51.0,,K. Bazemore misses 2-pt jump shot from 20 ft,62,39
+2,2:47.0,Defensive rebound by M. Morris,,62,39
+2,2:33.0,B. Beal makes 2-pt layup from 1 ft (assist by O. Porter),,64,39
+2,2:25.0,,Shooting foul by M. Morris (drawn by M. Plumlee),64,39
+2,2:25.0,,M. Plumlee makes free throw 1 of 2,64,40
+2,2:25.0,T. Bryant enters the game for M. Morris,,64,40
+2,2:25.0,,M. Plumlee makes free throw 2 of 2,64,41
+2,2:16.0,K. Oubre misses 2-pt layup from 3 ft,,64,41
+2,2:16.0,Offensive rebound by Team,,64,41
+2,2:14.0,Personal foul by K. Bazemore (drawn by B. Beal),,64,41
+2,2:14.0,B. Beal makes free throw 1 of 2,,65,41
+2,2:14.0,B. Beal makes free throw 2 of 2,,66,41
+2,1:57.0,,V. Carter misses 3-pt jump shot from 27 ft,66,41
+2,1:55.0,Defensive rebound by T. Bryant,,66,41
+2,1:49.0,Turnover by K. Oubre (traveling),,66,41
+2,1:34.0,,V. Carter makes 2-pt layup from 2 ft (assist by K. Huerter),66,43
+2,1:22.0,K. Oubre misses 3-pt jump shot from 26 ft,,66,43
+2,1:19.0,Offensive rebound by K. Oubre,,66,43
+2,1:17.0,K. Oubre makes 2-pt jump shot from 6 ft,,68,43
+2,0:59.0,,T. Young misses 3-pt jump shot from 23 ft,68,43
+2,0:55.0,Defensive rebound by A. Rivers,,68,43
+2,0:53.0,B. Beal misses 3-pt jump shot from 26 ft,,68,43
+2,0:49.0,Offensive rebound by O. Porter,,68,43
+2,0:48.0,B. Beal misses 3-pt jump shot from 23 ft,,68,43
+2,0:45.0,,Defensive rebound by V. Carter,68,43
+2,0:40.0,,K. Bazemore makes 2-pt layup from 12 ft,68,45
+2,0:40.0,,Shooting foul by K. Oubre (drawn by K. Bazemore),68,45
+2,0:40.0,,D. Bembry enters the game for V. Carter,68,45
+2,0:40.0,,K. Bazemore makes free throw 1 of 1,68,46
+2,0:35.0,T. Bryant makes 2-pt dunk at rim (assist by B. Beal),,70,46
+2,0:26.0,,Shooting foul by K. Oubre (drawn by M. Plumlee),70,46
+2,0:26.0,,M. Plumlee misses free throw 1 of 2,70,46
+2,0:26.0,,Offensive rebound by Team,70,46
+2,0:26.0,T. Satoranský enters the game for K. Oubre,,70,46
+2,0:26.0,,M. Plumlee makes free throw 2 of 2,70,47
+2,0:07.0,T. Satoranský makes 2-pt layup from 1 ft,,72,47
+2,0:02.0,,T. Young makes 2-pt jump shot from 12 ft (assist by D. Bembry),72,49
+2,0:00.0,T. Satoranský misses 3-pt jump shot from 50 ft,,72,49
+2,0:00.0,Offensive rebound by Team,,72,49
+3,11:49.0,B. Beal misses 2-pt jump shot from 18 ft,,72,49
+3,11:45.0,Offensive rebound by O. Porter,,72,49
+3,11:43.0,O. Porter misses 2-pt hook shot from 2 ft,,72,49
+3,11:42.0,,Defensive rebound by J. Collins,72,49
+3,11:35.0,,J. Collins makes 2-pt layup from 1 ft (assist by K. Bazemore),72,51
+3,11:35.0,,Shooting foul by T. Bryant (drawn by J. Collins),72,51
+3,11:35.0,,J. Collins misses free throw 1 of 1,72,51
+3,11:35.0,,Offensive rebound by K. Huerter,72,51
+3,11:28.0,,D. Dedmon makes 3-pt jump shot from 25 ft (assist by T. Young),72,54
+3,11:10.0,A. Rivers misses 2-pt layup from 1 ft,,72,54
+3,11:07.0,,Defensive rebound by J. Collins,72,54
+3,11:03.0,,T. Young misses 2-pt layup from 2 ft,72,54
+3,11:00.0,Defensive rebound by T. Satoranský,,72,54
+3,10:58.0,A. Rivers makes 2-pt layup from 1 ft (assist by T. Satoranský),,74,54
+3,10:52.0,,T. Young misses 3-pt jump shot from 26 ft,74,54
+3,10:50.0,Defensive rebound by T. Bryant,,74,54
+3,10:39.0,T. Bryant makes 2-pt dunk from 1 ft (assist by O. Porter),,76,54
+3,10:20.0,,J. Collins misses 2-pt layup from 4 ft,76,54
+3,10:18.0,Defensive rebound by T. Bryant,,76,54
+3,10:07.0,Shooting foul by D. Dedmon (drawn by T. Bryant),,76,54
+3,10:07.0,T. Bryant makes free throw 1 of 2,,77,54
+3,10:07.0,T. Bryant makes free throw 2 of 2,,78,54
+3,10:00.0,,Turnover by T. Young (bad pass),78,54
+3,9:45.0,A. Rivers misses 3-pt jump shot from 27 ft,,78,54
+3,9:41.0,,Defensive rebound by K. Bazemore,78,54
+3,9:38.0,,J. Collins makes 2-pt layup from 2 ft (assist by K. Bazemore),78,56
+3,9:30.0,O. Porter misses 3-pt jump shot from 25 ft,,78,56
+3,9:30.0,Offensive rebound by O. Porter,,78,56
+3,9:27.0,Turnover by O. Porter (bad pass; steal by K. Bazemore),,78,56
+3,9:25.0,,K. Bazemore makes 2-pt layup from 1 ft,78,58
+3,9:25.0,,Shooting foul by B. Beal (drawn by K. Bazemore),78,58
+3,9:25.0,,K. Bazemore makes free throw 1 of 1,78,59
+3,9:12.0,B. Beal makes 2-pt jump shot from 13 ft (assist by A. Rivers),,80,59
+3,9:00.0,,K. Bazemore makes 3-pt jump shot from 25 ft (assist by K. Huerter),80,62
+3,8:45.0,Personal foul by K. Huerter (drawn by T. Satoranský),,80,62
+3,8:42.0,T. Satoranský makes 2-pt jump shot from 16 ft (assist by A. Rivers),,82,62
+3,8:41.0,,Atlanta full timeout,82,62
+3,8:41.0,,D. Bembry enters the game for K. Huerter,82,62
+3,8:33.0,,K. Bazemore makes 2-pt layup from 2 ft (assist by T. Young),82,64
+3,8:18.0,Turnover by O. Porter (lost ball; steal by K. Bazemore),,82,64
+3,8:09.0,,Turnover by D. Dedmon (bad pass),82,64
+3,7:53.0,O. Porter misses 3-pt jump shot from 25 ft,,82,64
+3,7:50.0,,Defensive rebound by D. Dedmon,82,64
+3,7:42.0,,Turnover by J. Collins (bad pass; steal by B. Beal),82,64
+3,7:33.0,O. Porter makes 2-pt layup from 1 ft (assist by B. Beal),,84,64
+3,7:26.0,,K. Bazemore makes 3-pt jump shot from 25 ft (assist by T. Young),84,67
+3,7:11.0,Turnover by B. Beal (lost ball; steal by K. Bazemore),,84,67
+3,7:11.0,,Personal foul by B. Beal (drawn by K. Bazemore),84,67
+3,7:06.0,,K. Bazemore misses 3-pt jump shot from 23 ft,84,67
+3,7:03.0,Defensive rebound by Team,,84,67
+3,6:40.0,B. Beal makes 2-pt layup from 1 ft (assist by T. Satoranský),,86,67
+3,6:29.0,,Shooting foul by A. Rivers (drawn by T. Young),86,67
+3,6:29.0,,T. Young makes free throw 1 of 2,86,68
+3,6:29.0,,T. Young makes free throw 2 of 2,86,69
+3,6:13.0,A. Rivers makes 3-pt jump shot from 25 ft,,89,69
+3,6:02.0,,T. Young makes 2-pt layup from 1 ft,89,71
+3,6:02.0,,A. Len enters the game for D. Dedmon,89,71
+3,5:39.0,B. Beal misses 3-pt jump shot from 26 ft,,89,71
+3,5:34.0,,Defensive rebound by J. Collins,89,71
+3,5:27.0,,Turnover by D. Bembry (lost ball; steal by T. Satoranský),89,71
+3,5:23.0,T. Bryant makes 2-pt dunk from 1 ft (assist by A. Rivers),,91,71
+3,5:11.0,,Turnover by T. Young (lost ball; steal by O. Porter),91,71
+3,5:03.0,O. Porter makes 2-pt layup from 1 ft (assist by B. Beal),,93,71
+3,4:55.0,,J. Collins makes 2-pt dunk from 1 ft (assist by D. Bembry),93,73
+3,4:55.0,Washington full timeout,,93,73
+3,4:55.0,,V. Carter enters the game for K. Bazemore,93,73
+3,4:55.0,,T. Dorsey enters the game for J. Collins,93,73
+3,4:55.0,,K. Huerter enters the game for T. Young,93,73
+3,4:41.0,Shooting foul by K. Huerter (drawn by B. Beal),,93,73
+3,4:41.0,B. Beal makes free throw 1 of 3,,94,73
+3,4:41.0,B. Beal misses free throw 2 of 3,,94,73
+3,4:41.0,Offensive rebound by Team,,94,73
+3,4:41.0,B. Beal makes free throw 3 of 3,,95,73
+3,4:26.0,,A. Len misses 2-pt layup from 1 ft (block by T. Bryant),95,73
+3,4:23.0,Defensive rebound by T. Bryant,,95,73
+3,4:20.0,B. Beal misses 3-pt jump shot from 26 ft,,95,73
+3,4:18.0,,Defensive rebound by D. Bembry,95,73
+3,4:07.0,,T. Dorsey makes 2-pt layup from 1 ft (assist by K. Huerter),95,75
+3,3:49.0,O. Porter makes 3-pt jump shot from 25 ft (assist by B. Beal),,98,75
+3,3:29.0,,V. Carter makes 3-pt jump shot from 25 ft (assist by T. Dorsey),98,78
+3,3:09.0,A. Rivers misses 2-pt layup from 2 ft,,98,78
+3,3:06.0,,Defensive rebound by T. Dorsey,98,78
+3,3:01.0,,K. Huerter makes 3-pt jump shot from 22 ft (assist by V. Carter),98,81
+3,2:59.0,Washington full timeout,,98,81
+3,2:59.0,M. Morris enters the game for T. Bryant,,98,81
+3,2:59.0,K. Oubre enters the game for A. Rivers,,98,81
+3,2:59.0,,J. Collins enters the game for A. Len,98,81
+3,2:45.0,K. Oubre makes 3-pt jump shot from 24 ft (assist by B. Beal),,101,81
+3,2:27.0,,Shooting foul by K. Oubre (drawn by K. Huerter),101,81
+3,2:27.0,,K. Huerter makes free throw 1 of 2,101,82
+3,2:27.0,,K. Huerter makes free throw 2 of 2,101,83
+3,2:06.0,M. Morris makes 2-pt jump shot from 11 ft,,103,83
+3,1:51.0,,D. Bembry makes 2-pt layup from 1 ft,103,85
+3,1:36.0,Turnover by M. Morris (bad pass; steal by D. Bembry),,103,85
+3,1:31.0,,J. Collins makes 2-pt layup from 1 ft (assist by D. Bembry),103,87
+3,1:24.0,B. Beal misses 2-pt layup from 1 ft (block by K. Huerter),,103,87
+3,1:20.0,,Defensive rebound by T. Dorsey,103,87
+3,1:15.0,,V. Carter makes 3-pt jump shot from 25 ft (assist by T. Dorsey),103,90
+3,0:57.0,M. Morris misses 3-pt jump shot from 25 ft,,103,90
+3,0:56.0,,Defensive rebound by D. Bembry,103,90
+3,0:50.0,,D. Bembry misses 2-pt layup from 1 ft,103,90
+3,0:49.0,,Offensive rebound by Team,103,90
+3,0:49.0,A. Rivers enters the game for T. Satoranský,,103,90
+3,0:49.0,,D. Dedmon enters the game for V. Carter,103,90
+3,0:45.0,,J. Collins misses 2-pt hook shot from 11 ft,103,90
+3,0:42.0,Defensive rebound by B. Beal,,103,90
+3,0:32.0,B. Beal misses 2-pt jump shot from 22 ft,,103,90
+3,0:28.0,,Defensive rebound by D. Dedmon,103,90
+3,0:07.0,,D. Bembry misses 2-pt layup from 2 ft (block by M. Morris),103,90
+3,0:06.0,,Offensive rebound by Team,103,90
+3,0:06.0,,Personal foul by M. Morris (drawn by D. Dedmon),103,90
+3,0:06.0,,D. Dedmon makes free throw 1 of 2,103,91
+3,0:06.0,,K. Bazemore enters the game for J. Collins,103,91
+3,0:06.0,,D. Dedmon makes free throw 2 of 2,103,92
+3,0:03.0,Personal take foul by K. Bazemore (drawn by B. Beal),,103,92
+3,0:01.0,Turnover by M. Morris (bad pass; steal by D. Bembry),,103,92
+3,0:01.0,,D. Bembry makes 2-pt dunk from 2 ft,103,94
+4,11:52.0,,K. Bazemore makes 2-pt jump shot from 20 ft,103,96
+4,11:38.0,Personal foul by K. Bazemore (drawn by K. Oubre),,103,96
+4,11:28.0,M. Morris misses 3-pt jump shot from 26 ft,,103,96
+4,11:24.0,,Defensive rebound by J. Collins,103,96
+4,11:11.0,,D. Dedmon misses 3-pt jump shot from 23 ft,103,96
+4,11:07.0,Defensive rebound by O. Porter,,103,96
+4,10:58.0,O. Porter misses 3-pt jump shot from 26 ft,,103,96
+4,10:55.0,,Defensive rebound by T. Dorsey,103,96
+4,10:50.0,,Turnover by T. Dorsey (bad pass; steal by K. Oubre),103,96
+4,10:45.0,K. Oubre misses 2-pt layup from 1 ft,,103,96
+4,10:42.0,Offensive rebound by T. Satoranský,,103,96
+4,10:42.0,T. Satoranský misses 2-pt layup from 1 ft,,103,96
+4,10:41.0,,Defensive rebound by D. Dedmon,103,96
+4,10:36.0,,Shooting foul by K. Oubre (drawn by T. Dorsey),103,96
+4,10:36.0,,T. Dorsey misses free throw 1 of 2,103,96
+4,10:36.0,,Offensive rebound by Team,103,96
+4,10:36.0,B. Beal enters the game for K. Oubre,,103,96
+4,10:36.0,,T. Dorsey makes free throw 2 of 2,103,97
+4,10:19.0,A. Rivers makes 2-pt layup from 2 ft,,105,97
+4,10:08.0,,T. Dorsey makes 2-pt layup from 1 ft (assist by D. Dedmon),105,99
+4,10:08.0,,Shooting foul by T. Satoranský (drawn by T. Dorsey),105,99
+4,10:08.0,,T. Dorsey makes free throw 1 of 1,105,100
+4,9:57.0,A. Rivers misses 3-pt jump shot from 26 ft,,105,100
+4,9:53.0,,Defensive rebound by D. Dedmon,105,100
+4,9:48.0,,T. Young misses 2-pt layup from 1 ft,105,100
+4,9:45.0,Defensive rebound by T. Satoranský,,105,100
+4,9:41.0,T. Satoranský makes 3-pt jump shot from 25 ft (assist by O. Porter),,108,100
+4,9:23.0,,Personal foul by B. Beal (drawn by K. Bazemore),108,100
+4,9:23.0,,D. Bembry enters the game for T. Dorsey,108,100
+4,9:18.0,,Personal foul by B. Beal (drawn by T. Young),108,100
+4,9:16.0,,Shooting foul by A. Rivers (drawn by T. Young),108,100
+4,9:16.0,,T. Young makes free throw 1 of 3,108,101
+4,9:16.0,,T. Young misses free throw 2 of 3,108,101
+4,9:16.0,,Offensive rebound by Team,108,101
+4,9:16.0,,T. Young misses free throw 3 of 3,108,101
+4,9:13.0,Defensive rebound by B. Beal,,108,101
+4,9:05.0,B. Beal makes 2-pt jump shot from 3 ft (assist by A. Rivers),,110,101
+4,8:58.0,,Turnover by T. Young (back court),110,101
+4,8:44.0,Shooting foul by J. Collins (drawn by B. Beal),,110,101
+4,8:44.0,B. Beal makes free throw 1 of 2,,111,101
+4,8:44.0,B. Beal makes free throw 2 of 2,,112,101
+4,8:34.0,,D. Bembry misses 3-pt jump shot from 25 ft,112,101
+4,8:31.0,Defensive rebound by M. Morris,,112,101
+4,8:20.0,M. Morris makes 2-pt layup from 2 ft (assist by O. Porter),,114,101
+4,8:08.0,,Personal foul by A. Rivers (drawn by T. Young),114,101
+4,8:08.0,,T. Young misses free throw 1 of 2,114,101
+4,8:08.0,,Offensive rebound by Team,114,101
+4,8:08.0,,T. Young misses free throw 2 of 2,114,101
+4,8:04.0,Defensive rebound by B. Beal,,114,101
+4,7:54.0,M. Morris misses 3-pt jump shot from 25 ft,,114,101
+4,7:51.0,,Defensive rebound by K. Bazemore,114,101
+4,7:42.0,,J. Collins makes 2-pt dunk from 1 ft,114,103
+4,7:20.0,T. Satoranský makes 3-pt jump shot from 26 ft (assist by M. Morris),,117,103
+4,7:17.0,,Atlanta full timeout,117,103
+4,7:17.0,,V. Carter enters the game for J. Collins,117,103
+4,7:17.0,,T. Dorsey enters the game for T. Young,117,103
+4,7:05.0,,D. Bembry misses 2-pt dunk from 1 ft,117,103
+4,7:02.0,Defensive rebound by B. Beal,,117,103
+4,6:45.0,A. Rivers misses 2-pt layup from 1 ft (block by V. Carter),,117,103
+4,6:43.0,Offensive rebound by O. Porter,,117,103
+4,6:32.0,Turnover by B. Beal (lost ball; steal by D. Bembry),,117,103
+4,6:17.0,,T. Dorsey misses 2-pt layup from 4 ft (block by M. Morris),117,103
+4,6:14.0,Defensive rebound by B. Beal,,117,103
+4,6:04.0,O. Porter misses 3-pt jump shot from 26 ft,,117,103
+4,5:58.0,,Defensive rebound by D. Bembry,117,103
+4,5:54.0,,V. Carter makes 3-pt jump shot from 24 ft (assist by D. Bembry),117,106
+4,5:31.0,A. Rivers misses 3-pt jump shot from 26 ft,,117,106
+4,5:29.0,Offensive rebound by Team,,117,106
+4,5:29.0,,J. Collins enters the game for D. Dedmon,117,106
+4,5:29.0,Washington full timeout,,117,106
+4,5:22.0,B. Beal makes 3-pt jump shot from 25 ft (assist by T. Satoranský),,120,106
+4,5:02.0,,Personal foul by A. Rivers (drawn by T. Dorsey),120,106
+4,5:02.0,,T. Dorsey makes free throw 1 of 2,120,107
+4,5:02.0,K. Oubre enters the game for A. Rivers,,120,107
+4,5:02.0,,T. Dorsey makes free throw 2 of 2,120,108
+4,4:46.0,O. Porter makes 2-pt layup from 1 ft (assist by T. Satoranský),,122,108
+4,4:19.0,,K. Bazemore misses 2-pt jump shot from 13 ft,122,108
+4,4:16.0,,Offensive rebound by V. Carter,122,108
+4,4:09.0,,Turnover by K. Bazemore (bad pass; steal by T. Satoranský),122,108
+4,4:03.0,K. Oubre misses 3-pt jump shot from 25 ft,,122,108
+4,4:00.0,,Defensive rebound by V. Carter,122,108
+4,3:54.0,,K. Bazemore misses 3-pt jump shot from 23 ft,122,108
+4,3:50.0,Defensive rebound by O. Porter,,122,108
+4,3:37.0,B. Beal makes 2-pt layup from 1 ft (assist by T. Satoranský),,124,108
+4,3:18.0,,T. Dorsey misses 3-pt jump shot from 25 ft,124,108
+4,3:18.0,Defensive rebound by Team,,124,108
+4,3:18.0,,Loose ball foul by J. Collins (drawn by B. Beal),124,108
+4,3:18.0,,T. Young enters the game for D. Bembry,124,108
+4,2:58.0,M. Morris misses 3-pt jump shot from 26 ft,,124,108
+4,2:54.0,Offensive rebound by B. Beal,,124,108
+4,2:52.0,K. Oubre misses 3-pt jump shot from 25 ft,,124,108
+4,2:48.0,,Defensive rebound by V. Carter,124,108
+4,2:35.0,,J. Collins makes 2-pt hook shot from 7 ft (assist by K. Bazemore),124,110
+4,2:11.0,Personal foul by K. Bazemore (drawn by B. Beal),,124,110
+4,2:10.0,Turnover by O. Porter (traveling),,124,110
+4,2:04.0,,Turnover by T. Young (bad pass; steal by K. Oubre),124,110
+4,2:01.0,Shooting foul by V. Carter (drawn by K. Oubre),,124,110
+4,2:01.0,K. Oubre makes free throw 1 of 2,,125,110
+4,2:01.0,K. Oubre misses free throw 2 of 2,,125,110
+4,1:59.0,,Defensive rebound by J. Collins,125,110
+4,1:53.0,,V. Carter misses 3-pt jump shot from 25 ft,125,110
+4,1:50.0,Defensive rebound by K. Oubre,,125,110
+4,1:33.0,Washington full timeout,,125,110
+4,1:33.0,,D. Bembry enters the game for V. Carter,125,110
+4,1:28.0,M. Morris makes 3-pt jump shot from 26 ft,,128,110
+4,1:21.0,,J. Collins makes 2-pt dunk from 1 ft,128,112
+4,1:16.0,Personal foul by K. Bazemore (drawn by B. Beal),,128,112
+4,1:16.0,,K. Huerter enters the game for K. Bazemore,128,112
+4,1:16.0,B. Beal misses free throw 1 of 2,,128,112
+4,1:16.0,Offensive rebound by Team,,128,112
+4,1:16.0,T. Brown enters the game for M. Morris,,128,112
+4,1:16.0,T. Bryant enters the game for O. Porter,,128,112
+4,1:16.0,B. Beal misses free throw 2 of 2,,128,112
+4,1:12.0,,Defensive rebound by J. Collins,128,112
+4,1:08.0,,T. Young makes 2-pt layup from 1 ft,128,114
+4,0:56.0,K. Oubre makes 2-pt layup from 1 ft (assist by B. Beal),,130,114
+4,0:56.0,Shooting foul by T. Dorsey (drawn by K. Oubre),,130,114
+4,0:56.0,O. White enters the game for B. Beal,,130,114
+4,0:56.0,K. Oubre makes free throw 1 of 1,,131,114
+4,0:44.0,,Turnover by T. Young (bad pass; steal by T. Bryant),131,114
+4,0:37.0,T. Brown misses 2-pt layup from 1 ft,,131,114
+4,0:32.0,,Defensive rebound by J. Collins,131,114
+4,0:29.0,,D. Bembry misses 2-pt jump shot from 20 ft,131,114
+4,0:26.0,Defensive rebound by T. Bryant,,131,114
+4,0:03.0,Turnover by Team (shot clock),,131,114
+4,0:02.0,,J. Collins makes 3-pt jump shot from 26 ft (assist by D. Bembry),131,117

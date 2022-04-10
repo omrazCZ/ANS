@@ -1,0 +1,562 @@
+QUARTER,TIME_REMAINING,WASHINGTON_ACTION,PORTLAND_ACTION,WASHINGTON_SCORE,PORTLAND_SCORE
+1,11:48.0,,J. Layman makes 2-pt dunk at rim (assist by D. Lillard),0,2
+1,11:31.0,O. Porter makes 2-pt jump shot from 17 ft,,2,2
+1,11:20.0,,C. McCollum misses 2-pt jump shot from 3 ft,2,2
+1,11:19.0,Defensive rebound by B. Beal,,2,2
+1,11:08.0,M. Morris misses 3-pt jump shot from 24 ft,,2,2
+1,11:06.0,,Defensive rebound by J. Nurkić,2,2
+1,10:57.0,Violation by Team (kicked ball),,2,2
+1,10:50.0,,C. McCollum misses 3-pt jump shot from 26 ft,2,2
+1,10:47.0,,Offensive rebound by J. Nurkić,2,2
+1,10:47.0,,J. Nurkić misses 2-pt layup from 1 ft,2,2
+1,10:47.0,,Offensive rebound by Team,2,2
+1,10:41.0,,Shooting foul by I. Mahinmi (drawn by D. Lillard),2,2
+1,10:41.0,,D. Lillard makes free throw 1 of 2,2,3
+1,10:41.0,,D. Lillard makes free throw 2 of 2,2,4
+1,10:32.0,Personal foul by J. Layman (drawn by B. Beal),,2,4
+1,10:24.0,Def 3 sec tech foul by Team,,2,4
+1,10:24.0,B. Beal misses technical free throw,,2,4
+1,10:24.0,Offensive rebound by Team,,2,4
+1,10:20.0,B. Beal misses 2-pt jump shot from 20 ft,,2,4
+1,10:17.0,Offensive rebound by M. Morris,,2,4
+1,10:11.0,J. Wall misses 2-pt jump shot from 15 ft,,2,4
+1,10:07.0,,Defensive rebound by A. Aminu,2,4
+1,10:00.0,,A. Aminu misses 3-pt jump shot from 23 ft,2,4
+1,9:58.0,Defensive rebound by M. Morris,,2,4
+1,9:51.0,B. Beal makes 2-pt jump shot from 15 ft,,4,4
+1,9:25.0,,C. McCollum misses 2-pt jump shot from 10 ft,4,4
+1,9:23.0,Defensive rebound by B. Beal,,4,4
+1,9:12.0,M. Morris makes 3-pt jump shot from 25 ft (assist by J. Wall),,7,4
+1,8:54.0,,J. Nurkić makes 2-pt hook shot from 7 ft (assist by D. Lillard),7,6
+1,8:35.0,I. Mahinmi misses 3-pt jump shot from 22 ft,,7,6
+1,8:33.0,,Defensive rebound by A. Aminu,7,6
+1,8:28.0,,J. Layman makes 2-pt dunk at rim (assist by J. Nurkić),7,8
+1,8:11.0,M. Morris makes 3-pt jump shot from 24 ft (assist by I. Mahinmi),,10,8
+1,8:00.0,,Shooting foul by I. Mahinmi (drawn by D. Lillard),10,8
+1,8:00.0,,D. Lillard makes free throw 1 of 2,10,9
+1,8:00.0,J. Smith enters the game for I. Mahinmi,,10,9
+1,8:00.0,,D. Lillard misses free throw 2 of 2,10,9
+1,7:57.0,,Offensive rebound by J. Nurkić,10,9
+1,7:53.0,,A. Aminu makes 2-pt layup from 1 ft (assist by J. Nurkić),10,11
+1,7:41.0,B. Beal makes 2-pt layup from 1 ft,,12,11
+1,7:25.0,,C. McCollum misses 3-pt jump shot from 25 ft,12,11
+1,7:24.0,Defensive rebound by O. Porter,,12,11
+1,7:19.0,Turnover by J. Wall (traveling),,12,11
+1,7:04.0,,Turnover by D. Lillard (bad pass),12,11
+1,6:52.0,B. Beal misses 2-pt jump shot from 16 ft,,12,11
+1,6:49.0,,Defensive rebound by J. Nurkić,12,11
+1,6:41.0,,Turnover by J. Layman (out of bounds lost ball),12,11
+1,6:41.0,,Portland full timeout,12,11
+1,6:30.0,O. Porter misses 3-pt jump shot from 24 ft,,12,11
+1,6:26.0,Offensive rebound by M. Morris,,12,11
+1,6:24.0,Turnover by M. Morris (bad pass; steal by D. Lillard),,12,11
+1,6:20.0,,Turnover by D. Lillard (bad pass; steal by O. Porter),12,11
+1,6:16.0,M. Morris makes 2-pt dunk from 1 ft (assist by B. Beal),,14,11
+1,5:50.0,,J. Nurkić makes 2-pt hook shot from 3 ft,14,13
+1,5:38.0,J. Wall makes 2-pt layup from 2 ft,,16,13
+1,5:25.0,,C. McCollum misses 2-pt layup from 1 ft,16,13
+1,5:25.0,,Offensive rebound by Team,16,13
+1,5:25.0,,E. Turner enters the game for J. Layman,16,13
+1,5:20.0,,A. Aminu makes 2-pt dunk at rim,16,15
+1,5:11.0,J. Wall misses 2-pt layup from 3 ft,,16,15
+1,5:09.0,,Defensive rebound by E. Turner,16,15
+1,5:02.0,,A. Aminu makes 3-pt jump shot from 25 ft (assist by C. McCollum),16,18
+1,4:44.0,J. Smith makes 2-pt jump shot from 16 ft (assist by B. Beal),,18,18
+1,4:27.0,,D. Lillard misses 3-pt jump shot from 26 ft,18,18
+1,4:25.0,Defensive rebound by J. Smith,,18,18
+1,4:19.0,O. Porter misses 2-pt layup from 2 ft,,18,18
+1,4:17.0,,Defensive rebound by J. Nurkić,18,18
+1,4:09.0,,Shooting foul by J. Smith (drawn by D. Lillard),18,18
+1,4:09.0,,D. Lillard makes free throw 1 of 2,18,19
+1,4:09.0,K. Oubre enters the game for O. Porter,,18,19
+1,4:09.0,,D. Lillard makes free throw 2 of 2,18,20
+1,4:00.0,J. Wall misses 2-pt layup from 2 ft,,18,20
+1,3:57.0,Offensive rebound by J. Smith,,18,20
+1,3:57.0,J. Smith misses 2-pt layup at rim,,18,20
+1,3:56.0,,Defensive rebound by D. Lillard,18,20
+1,3:49.0,,E. Turner misses 3-pt jump shot from 23 ft,18,20
+1,3:46.0,,Offensive rebound by J. Nurkić,18,20
+1,3:45.0,,Shooting foul by M. Morris (drawn by C. McCollum),18,20
+1,3:45.0,,C. McCollum makes free throw 1 of 2,18,21
+1,3:45.0,,Z. Collins enters the game for A. Aminu,18,21
+1,3:45.0,,M. Harkless enters the game for J. Nurkić,18,21
+1,3:45.0,,C. McCollum makes free throw 2 of 2,18,22
+1,3:33.0,B. Beal misses 2-pt jump shot from 17 ft,,18,22
+1,3:30.0,,Defensive rebound by M. Harkless,18,22
+1,3:25.0,,D. Lillard makes 2-pt jump shot from 18 ft,18,24
+1,3:25.0,,Shooting foul by B. Beal (drawn by D. Lillard),18,24
+1,3:25.0,,D. Lillard makes free throw 1 of 1,18,25
+1,3:23.0,Washington full timeout,,18,25
+1,3:23.0,J. Green enters the game for B. Beal,,18,25
+1,3:23.0,A. Rivers enters the game for M. Morris,,18,25
+1,3:23.0,,S. Curry enters the game for D. Lillard,18,25
+1,3:23.0,,N. Stauskas enters the game for C. McCollum,18,25
+1,3:10.0,J. Wall misses 2-pt jump shot from 20 ft,,18,25
+1,3:06.0,Offensive rebound by J. Smith,,18,25
+1,3:05.0,K. Oubre makes 3-pt jump shot from 25 ft (assist by J. Smith),,21,25
+1,2:47.0,,Turnover by Z. Collins (bad pass; steal by J. Wall),21,25
+1,2:37.0,K. Oubre makes 2-pt jump shot from 4 ft (assist by A. Rivers),,23,25
+1,2:15.0,,E. Turner misses 2-pt jump shot from 18 ft,23,25
+1,2:13.0,Defensive rebound by J. Green,,23,25
+1,2:08.0,Shooting foul by M. Harkless (drawn by J. Green),,23,25
+1,2:08.0,J. Green makes free throw 1 of 2,,24,25
+1,2:08.0,T. Satoranský enters the game for J. Wall,,24,25
+1,2:08.0,J. Green makes free throw 2 of 2,,25,25
+1,2:01.0,,E. Turner makes 2-pt layup from 2 ft (assist by N. Stauskas),25,27
+1,1:51.0,A. Rivers misses 3-pt jump shot from 28 ft,,25,27
+1,1:47.0,Offensive rebound by T. Satoranský,,25,27
+1,1:47.0,T. Satoranský misses 2-pt layup at rim,,25,27
+1,1:46.0,,Defensive rebound by M. Harkless,25,27
+1,1:29.0,,Z. Collins misses 2-pt jump shot from 20 ft,25,27
+1,1:28.0,Defensive rebound by T. Satoranský,,25,27
+1,1:22.0,Shooting foul by Z. Collins (drawn by J. Smith),,25,27
+1,1:22.0,J. Smith misses free throw 1 of 2,,25,27
+1,1:22.0,Offensive rebound by Team,,25,27
+1,1:22.0,J. Smith makes free throw 2 of 2,,26,27
+1,1:11.0,,Z. Collins makes 2-pt hook shot from 7 ft (assist by E. Turner),26,29
+1,0:58.0,K. Oubre misses 2-pt layup from 2 ft,,26,29
+1,0:57.0,,Defensive rebound by N. Stauskas,26,29
+1,0:52.0,,S. Curry makes 3-pt jump shot from 25 ft (assist by N. Stauskas),26,32
+1,0:40.0,J. Green makes 2-pt hook shot from 6 ft,,28,32
+1,0:23.0,,S. Curry misses 3-pt jump shot from 27 ft (block by J. Smith),28,32
+1,0:23.0,Defensive rebound by A. Rivers,,28,32
+1,0:00.0,A. Rivers misses 3-pt jump shot from 25 ft,,28,32
+1,0:00.0,,Defensive rebound by N. Stauskas,28,32
+2,11:49.0,J. Green makes 2-pt dunk at rim (assist by A. Rivers),,30,32
+2,11:31.0,,Shooting foul by O. Porter (drawn by M. Harkless),30,32
+2,11:31.0,,M. Harkless makes free throw 1 of 2,30,33
+2,11:31.0,,M. Harkless makes free throw 2 of 2,30,34
+2,11:10.0,A. Rivers misses 2-pt layup from 1 ft (block by Z. Collins),,30,34
+2,11:10.0,,Defensive rebound by Z. Collins,30,34
+2,11:07.0,,Personal foul by O. Porter (drawn by Z. Collins),30,34
+2,10:56.0,,E. Turner makes 2-pt layup from 2 ft,30,36
+2,10:51.0,Offensive foul by J. Green (drawn by N. Stauskas),,30,36
+2,10:51.0,Turnover by J. Green (offensive foul),,30,36
+2,10:40.0,,S. Curry misses 2-pt jump shot from 18 ft,30,36
+2,10:38.0,Defensive rebound by O. Porter,,30,36
+2,10:31.0,J. Green misses 3-pt jump shot from 23 ft,,30,36
+2,10:29.0,,Defensive rebound by M. Harkless,30,36
+2,10:22.0,,M. Harkless misses 3-pt jump shot from 24 ft,30,36
+2,10:21.0,,Offensive rebound by E. Turner,30,36
+2,10:13.0,,N. Stauskas misses 2-pt layup from 2 ft,30,36
+2,10:10.0,,Offensive rebound by N. Stauskas,30,36
+2,10:10.0,,N. Stauskas makes 2-pt layup from 1 ft,30,38
+2,9:53.0,A. Rivers misses 2-pt layup from 1 ft (block by Z. Collins),,30,38
+2,9:51.0,,Defensive rebound by E. Turner,30,38
+2,9:47.0,,E. Turner makes 2-pt jump shot from 14 ft,30,40
+2,9:46.0,Washington full timeout,,30,40
+2,9:46.0,B. Beal enters the game for T. Satoranský,,30,40
+2,9:34.0,K. Oubre makes 2-pt jump shot from 14 ft,,32,40
+2,9:14.0,,N. Stauskas makes 2-pt layup from 1 ft,32,42
+2,9:04.0,B. Beal makes 2-pt jump shot from 6 ft,,34,42
+2,8:54.0,,E. Turner makes 2-pt jump shot from 15 ft,34,44
+2,8:36.0,B. Beal makes 3-pt jump shot from 25 ft (assist by A. Rivers),,37,44
+2,8:16.0,,N. Stauskas misses 3-pt jump shot from 25 ft,37,44
+2,8:16.0,Defensive rebound by J. Green,,37,44
+2,8:03.0,O. Porter makes 2-pt jump shot from 8 ft,,39,44
+2,7:48.0,,M. Harkless misses 2-pt layup from 1 ft,39,44
+2,7:46.0,Defensive rebound by O. Porter,,39,44
+2,7:42.0,Shooting foul by E. Turner (drawn by O. Porter),,39,44
+2,7:42.0,O. Porter makes free throw 1 of 2,,40,44
+2,7:42.0,,A. Aminu enters the game for S. Curry,40,44
+2,7:42.0,,D. Lillard enters the game for M. Harkless,40,44
+2,7:42.0,,C. McCollum enters the game for N. Stauskas,40,44
+2,7:42.0,O. Porter makes free throw 2 of 2,,41,44
+2,7:34.0,,Turnover by E. Turner (bad pass; steal by A. Rivers),41,44
+2,7:29.0,Turnover by A. Rivers (out of bounds lost ball),,41,44
+2,7:29.0,J. Wall enters the game for O. Porter,,41,44
+2,7:13.0,,E. Turner misses 2-pt jump shot from 8 ft,41,44
+2,7:11.0,Defensive rebound by J. Green,,41,44
+2,7:07.0,Shooting foul by E. Turner (drawn by J. Wall),,41,44
+2,7:07.0,J. Wall makes free throw 1 of 2,,42,44
+2,7:07.0,,S. Curry enters the game for Z. Collins,42,44
+2,7:07.0,,J. Nurkić enters the game for E. Turner,42,44
+2,7:07.0,J. Wall misses free throw 2 of 2,,42,44
+2,7:05.0,,Defensive rebound by A. Aminu,42,44
+2,6:58.0,,D. Lillard misses 3-pt jump shot from 28 ft,42,44
+2,6:55.0,Defensive rebound by J. Wall,,42,44
+2,6:51.0,J. Wall makes 2-pt layup from 1 ft,,44,44
+2,6:35.0,,Shooting foul by A. Rivers (drawn by D. Lillard),44,44
+2,6:35.0,,D. Lillard makes free throw 1 of 2,44,45
+2,6:35.0,,D. Lillard makes free throw 2 of 2,44,46
+2,6:24.0,B. Beal makes 3-pt jump shot from 25 ft (assist by J. Green),,47,46
+2,6:11.0,,J. Nurkić misses 2-pt hook shot from 6 ft,47,46
+2,6:10.0,,Offensive rebound by J. Nurkić,47,46
+2,6:09.0,,Turnover by J. Nurkić (out of bounds lost ball),47,46
+2,5:58.0,Shooting foul by J. Nurkić (drawn by J. Wall),,47,46
+2,5:58.0,J. Wall makes free throw 1 of 2,,48,46
+2,5:58.0,J. Wall makes free throw 2 of 2,,49,46
+2,5:43.0,,C. McCollum makes 2-pt jump shot from 21 ft (assist by D. Lillard),49,48
+2,5:32.0,J. Green misses 3-pt jump shot from 25 ft,,49,48
+2,5:30.0,Offensive rebound by B. Beal,,49,48
+2,5:20.0,B. Beal makes 2-pt layup from 2 ft,,51,48
+2,5:13.0,,Personal foul by K. Oubre (drawn by D. Lillard),51,48
+2,5:05.0,,C. McCollum misses 2-pt layup from 3 ft (block by A. Rivers),51,48
+2,5:00.0,,Offensive rebound by J. Nurkić,51,48
+2,5:00.0,,J. Nurkić makes 2-pt dunk from 1 ft,51,50
+2,4:42.0,J. Green misses 3-pt jump shot from 24 ft,,51,50
+2,4:37.0,,Defensive rebound by J. Nurkić,51,50
+2,4:36.0,,Turnover by J. Nurkić (bad pass),51,50
+2,4:36.0,M. Morris enters the game for J. Green,,51,50
+2,4:21.0,Personal foul by S. Curry (drawn by J. Wall),,51,50
+2,4:21.0,O. Porter enters the game for A. Rivers,,51,50
+2,4:12.0,Turnover by J. Wall (bad pass; steal by J. Nurkić),,51,50
+2,4:10.0,,J. Nurkić makes 2-pt layup at rim,51,52
+2,3:55.0,J. Wall misses 2-pt layup from 2 ft,,51,52
+2,3:53.0,,Defensive rebound by A. Aminu,51,52
+2,3:52.0,,Turnover by A. Aminu (bad pass),51,52
+2,3:52.0,,Loose ball foul by J. Nurkić (drawn by O. Porter),51,52
+2,3:52.0,O. Porter makes free throw 1 of 2,,52,52
+2,3:52.0,O. Porter misses free throw 2 of 2,,52,52
+2,3:50.0,,Defensive rebound by J. Nurkić,52,52
+2,3:43.0,,C. McCollum misses 3-pt jump shot from 25 ft,52,52
+2,3:40.0,Defensive rebound by M. Morris,,52,52
+2,3:33.0,B. Beal makes 3-pt jump shot from 25 ft (assist by J. Wall),,55,52
+2,3:31.0,,Portland full timeout,55,52
+2,3:31.0,,N. Stauskas enters the game for S. Curry,55,52
+2,3:18.0,,J. Nurkić makes 2-pt dunk at rim (assist by D. Lillard),55,54
+2,2:59.0,M. Morris misses 3-pt jump shot from 23 ft,,55,54
+2,2:56.0,,Defensive rebound by A. Aminu,55,54
+2,2:49.0,,D. Lillard makes 3-pt jump shot from 30 ft (assist by C. McCollum),55,57
+2,2:28.0,B. Beal makes 2-pt jump shot from 17 ft,,57,57
+2,2:17.0,,Personal foul by M. Morris (drawn by J. Nurkić),57,57
+2,2:17.0,,J. Nurkić makes free throw 1 of 2,57,58
+2,2:17.0,,J. Nurkić makes free throw 2 of 2,57,59
+2,2:01.0,M. Morris misses 2-pt jump shot from 9 ft,,57,59
+2,1:59.0,,Defensive rebound by A. Aminu,57,59
+2,1:51.0,,Shooting foul by K. Oubre (drawn by D. Lillard),57,59
+2,1:51.0,,D. Lillard makes free throw 1 of 2,57,60
+2,1:51.0,,D. Lillard misses free throw 2 of 2,57,60
+2,1:49.0,Defensive rebound by B. Beal,,57,60
+2,1:40.0,M. Morris makes 2-pt layup at rim (assist by J. Wall),,59,60
+2,1:40.0,Shooting foul by J. Nurkić (drawn by M. Morris),,59,60
+2,1:40.0,,Z. Collins enters the game for J. Nurkić,59,60
+2,1:40.0,M. Morris makes free throw 1 of 1,,60,60
+2,1:33.0,,C. McCollum misses 2-pt layup from 1 ft,60,60
+2,1:29.0,,Offensive rebound by C. McCollum,60,60
+2,1:29.0,,C. McCollum misses 2-pt layup from 1 ft,60,60
+2,1:29.0,Defensive rebound by K. Oubre,,60,60
+2,1:22.0,J. Wall makes 2-pt layup from 1 ft,,62,60
+2,1:22.0,Shooting foul by N. Stauskas (drawn by J. Wall),,62,60
+2,1:22.0,J. Wall misses free throw 1 of 1,,62,60
+2,1:22.0,,Defensive rebound by D. Lillard,62,60
+2,1:04.0,,Turnover by A. Aminu (traveling),62,60
+2,0:54.0,M. Morris misses 3-pt jump shot from 25 ft,,62,60
+2,0:51.0,,Defensive rebound by A. Aminu,62,60
+2,0:47.0,,C. McCollum misses 2-pt layup from 2 ft (block by J. Wall),62,60
+2,0:45.0,Defensive rebound by M. Morris,,62,60
+2,0:42.0,B. Beal misses 3-pt jump shot from 25 ft,,62,60
+2,0:39.0,,Defensive rebound by N. Stauskas,62,60
+2,0:33.0,,D. Lillard misses 3-pt jump shot from 28 ft,62,60
+2,0:31.0,Defensive rebound by M. Morris,,62,60
+2,0:27.0,K. Oubre misses 2-pt layup from 2 ft (block by N. Stauskas),,62,60
+2,0:27.0,,Defensive rebound by Team,62,60
+2,0:27.0,J. Green enters the game for M. Morris,,62,60
+2,0:27.0,,S. Curry enters the game for A. Aminu,62,60
+2,0:03.0,,Shooting foul by B. Beal (drawn by D. Lillard),62,60
+2,0:03.0,,D. Lillard makes free throw 1 of 2,62,61
+2,0:03.0,,A. Aminu enters the game for S. Curry,62,61
+2,0:03.0,,D. Lillard makes free throw 2 of 2,62,62
+3,11:47.0,K. Oubre makes 3-pt jump shot from 22 ft (assist by J. Wall),,65,62
+3,11:33.0,,A. Aminu makes 3-pt jump shot from 25 ft (assist by D. Lillard),65,65
+3,11:13.0,B. Beal misses 2-pt jump shot from 15 ft,,65,65
+3,11:12.0,,Defensive rebound by J. Nurkić,65,65
+3,11:02.0,,A. Aminu misses 3-pt jump shot from 26 ft,65,65
+3,10:59.0,Defensive rebound by J. Wall,,65,65
+3,10:54.0,M. Morris misses 2-pt layup from 2 ft,,65,65
+3,10:52.0,,Defensive rebound by A. Aminu,65,65
+3,10:47.0,,Turnover by D. Lillard (bad pass; steal by M. Morris),65,65
+3,10:42.0,J. Wall misses 2-pt layup from 2 ft,,65,65
+3,10:41.0,,Defensive rebound by A. Aminu,65,65
+3,10:37.0,,Personal foul by M. Morris (drawn by J. Layman),65,65
+3,10:28.0,,C. McCollum misses 2-pt jump shot from 18 ft,65,65
+3,10:25.0,Defensive rebound by M. Morris,,65,65
+3,10:17.0,Turnover by J. Wall (bad pass; steal by J. Nurkić),,65,65
+3,10:11.0,,Turnover by C. McCollum (bad pass),65,65
+3,9:57.0,O. Porter makes 2-pt layup from 1 ft (assist by J. Wall),,67,65
+3,9:43.0,,J. Layman misses 3-pt jump shot from 23 ft,67,65
+3,9:39.0,Defensive rebound by J. Wall,,67,65
+3,9:33.0,O. Porter makes 2-pt layup from 3 ft,,69,65
+3,9:13.0,,J. Layman misses 3-pt jump shot from 23 ft,69,65
+3,9:09.0,Defensive rebound by B. Beal,,69,65
+3,9:04.0,Shooting foul by D. Lillard (drawn by J. Wall),,69,65
+3,9:04.0,J. Wall misses free throw 1 of 2,,69,65
+3,9:04.0,Offensive rebound by Team,,69,65
+3,9:04.0,J. Wall makes free throw 2 of 2,,70,65
+3,8:59.0,Violation by Team (kicked ball),,70,65
+3,8:52.0,,C. McCollum misses 3-pt jump shot from 25 ft,70,65
+3,8:51.0,Defensive rebound by O. Porter,,70,65
+3,8:41.0,O. Porter misses 3-pt jump shot from 25 ft,,70,65
+3,8:38.0,,Defensive rebound by J. Nurkić,70,65
+3,8:28.0,,J. Nurkić makes 2-pt layup from 1 ft (assist by D. Lillard),70,67
+3,8:17.0,Turnover by J. Wall (bad pass; steal by J. Layman),,70,67
+3,8:17.0,,Personal foul by B. Beal (drawn by J. Layman),70,67
+3,8:02.0,,J. Nurkić misses 2-pt layup from 1 ft (block by M. Morris),70,67
+3,7:57.0,Defensive rebound by O. Porter,,70,67
+3,7:55.0,Turnover by O. Porter (bad pass; steal by A. Aminu),,70,67
+3,7:55.0,,Shooting foul by M. Morris (drawn by J. Nurkić),70,67
+3,7:55.0,,J. Nurkić makes free throw 1 of 2,70,68
+3,7:55.0,J. Smith enters the game for M. Morris,,70,68
+3,7:55.0,,J. Nurkić makes free throw 2 of 2,70,69
+3,7:43.0,B. Beal misses 2-pt jump shot from 10 ft,,70,69
+3,7:42.0,,Defensive rebound by C. McCollum,70,69
+3,7:33.0,,D. Lillard misses 2-pt jump shot from 10 ft,70,69
+3,7:29.0,Defensive rebound by K. Oubre,,70,69
+3,7:20.0,K. Oubre makes 2-pt layup from 1 ft,,72,69
+3,7:09.0,,D. Lillard misses 2-pt layup from 3 ft,72,69
+3,7:08.0,Defensive rebound by J. Smith,,72,69
+3,7:00.0,J. Wall makes 2-pt layup from 2 ft,,74,69
+3,6:38.0,,A. Aminu makes 2-pt dunk from 1 ft (assist by J. Layman),74,71
+3,6:22.0,O. Porter misses 2-pt jump shot from 15 ft,,74,71
+3,6:20.0,,Defensive rebound by A. Aminu,74,71
+3,6:11.0,,Offensive foul by J. Layman (drawn by B. Beal),74,71
+3,6:11.0,,Turnover by J. Layman (offensive foul),74,71
+3,6:11.0,,Portland full timeout,74,71
+3,6:11.0,,E. Turner enters the game for J. Layman,74,71
+3,6:02.0,O. Porter misses 2-pt jump shot from 5 ft,,74,71
+3,5:58.0,Offensive rebound by J. Smith,,74,71
+3,5:58.0,J. Smith misses 2-pt layup from 1 ft,,74,71
+3,5:58.0,,Defensive rebound by E. Turner,74,71
+3,5:35.0,,J. Nurkić misses 3-pt jump shot from 24 ft,74,71
+3,5:35.0,,Offensive rebound by Team,74,71
+3,5:35.0,,Turnover by Team (shot clock),74,71
+3,5:23.0,J. Smith misses 2-pt jump shot from 21 ft,,74,71
+3,5:22.0,,Defensive rebound by E. Turner,74,71
+3,5:15.0,,C. McCollum makes 2-pt hook shot from 5 ft (assist by E. Turner),74,73
+3,5:05.0,J. Wall misses 2-pt jump shot from 16 ft,,74,73
+3,5:03.0,,Defensive rebound by J. Nurkić,74,73
+3,4:55.0,,E. Turner makes 2-pt jump shot from 15 ft,74,75
+3,4:37.0,B. Beal misses 2-pt jump shot from 20 ft,,74,75
+3,4:35.0,,Defensive rebound by A. Aminu,74,75
+3,4:21.0,,Turnover by D. Lillard (traveling),74,75
+3,4:13.0,Shooting foul by E. Turner (drawn by J. Wall),,74,75
+3,4:13.0,J. Wall makes free throw 1 of 2,,75,75
+3,4:13.0,J. Green enters the game for J. Smith,,75,75
+3,4:13.0,,Z. Collins enters the game for A. Aminu,75,75
+3,4:13.0,,M. Harkless enters the game for J. Nurkić,75,75
+3,4:13.0,J. Wall makes free throw 2 of 2,,76,75
+3,3:55.0,,C. McCollum misses 3-pt jump shot from 26 ft,76,75
+3,3:52.0,Defensive rebound by B. Beal,,76,75
+3,3:45.0,B. Beal misses 2-pt jump shot from 23 ft,,76,75
+3,3:43.0,,Defensive rebound by C. McCollum,76,75
+3,3:29.0,,C. McCollum misses 3-pt jump shot from 25 ft,76,75
+3,3:27.0,Defensive rebound by J. Green,,76,75
+3,3:13.0,Turnover by J. Green (lost ball; steal by C. McCollum),,76,75
+3,3:08.0,,Z. Collins makes 2-pt layup from 1 ft (assist by E. Turner),76,77
+3,2:44.0,B. Beal misses 2-pt jump shot from 13 ft,,76,77
+3,2:41.0,,Defensive rebound by Z. Collins,76,77
+3,2:33.0,,Z. Collins misses 3-pt jump shot from 25 ft,76,77
+3,2:31.0,Defensive rebound by J. Green,,76,77
+3,2:17.0,J. Wall misses 2-pt layup from 2 ft,,76,77
+3,2:14.0,,Defensive rebound by D. Lillard,76,77
+3,2:12.0,,M. Harkless misses 2-pt layup from 3 ft,76,77
+3,2:12.0,,Offensive rebound by Team,76,77
+3,2:12.0,Washington full timeout,,76,77
+3,2:12.0,A. Rivers enters the game for O. Porter,,76,77
+3,2:12.0,T. Satoranský enters the game for J. Wall,,76,77
+3,2:12.0,,N. Stauskas enters the game for C. McCollum,76,77
+3,2:03.0,,D. Lillard misses 3-pt jump shot from 25 ft,76,77
+3,2:01.0,Defensive rebound by K. Oubre,,76,77
+3,1:55.0,K. Oubre makes 2-pt jump shot from 6 ft,,78,77
+3,1:31.0,,D. Lillard misses 3-pt jump shot from 27 ft,78,77
+3,1:28.0,Defensive rebound by B. Beal,,78,77
+3,1:22.0,B. Beal misses 2-pt jump shot from 23 ft,,78,77
+3,1:20.0,,Defensive rebound by Z. Collins,78,77
+3,1:17.0,,Offensive foul by Z. Collins (drawn by A. Rivers),78,77
+3,1:17.0,,Turnover by Z. Collins (offensive foul),78,77
+3,1:17.0,,S. Curry enters the game for D. Lillard,78,77
+3,1:02.0,J. Green misses 3-pt jump shot from 24 ft,,78,77
+3,1:00.0,,Defensive rebound by M. Harkless,78,77
+3,0:53.0,,E. Turner misses 2-pt jump shot from 16 ft,78,77
+3,0:51.0,Defensive rebound by T. Satoranský,,78,77
+3,0:48.0,Turnover by T. Satoranský (out of bounds lost ball),,78,77
+3,0:35.0,,Personal foul by T. Satoranský (drawn by E. Turner),78,77
+3,0:30.0,,E. Turner misses 2-pt layup from 1 ft,78,77
+3,0:27.0,,Offensive rebound by Z. Collins,78,77
+3,0:27.0,,Z. Collins misses 2-pt layup at rim,78,77
+3,0:26.0,Defensive rebound by B. Beal,,78,77
+3,0:06.0,B. Beal misses 3-pt jump shot from 25 ft,,78,77
+3,0:03.0,Offensive rebound by K. Oubre,,78,77
+3,0:03.0,K. Oubre misses 2-pt dunk from 1 ft,,78,77
+3,0:02.0,,Defensive rebound by E. Turner,78,77
+3,0:00.0,,N. Stauskas misses 3-pt jump shot from 42 ft,78,77
+3,0:00.0,,Offensive rebound by Team,78,77
+4,11:43.0,,Turnover by N. Stauskas (bad pass),78,77
+4,11:43.0,,Loose ball foul by M. Harkless (drawn by K. Oubre),78,77
+4,11:26.0,K. Oubre makes 2-pt jump shot from 3 ft,,80,77
+4,11:12.0,,Personal foul by J. Green (drawn by Z. Collins),80,77
+4,11:02.0,,M. Harkless makes 3-pt jump shot from 24 ft (assist by S. Curry),80,80
+4,10:40.0,J. Green misses 3-pt jump shot from 24 ft,,80,80
+4,10:37.0,Offensive rebound by T. Satoranský,,80,80
+4,10:37.0,T. Satoranský misses 2-pt layup from 1 ft,,80,80
+4,10:36.0,,Defensive rebound by M. Harkless,80,80
+4,10:31.0,,Turnover by E. Turner (bad pass; steal by O. Porter),80,80
+4,10:25.0,O. Porter misses 2-pt jump shot from 22 ft,,80,80
+4,10:22.0,,Defensive rebound by N. Stauskas,80,80
+4,10:11.0,,Shooting foul by K. Oubre (drawn by N. Stauskas),80,80
+4,10:11.0,,N. Stauskas makes free throw 1 of 2,80,81
+4,10:11.0,,N. Stauskas makes free throw 2 of 2,80,82
+4,9:59.0,A. Rivers makes 3-pt jump shot from 25 ft,,83,82
+4,9:43.0,,N. Stauskas makes 3-pt jump shot from 25 ft,83,85
+4,9:22.0,K. Oubre misses 2-pt layup from 4 ft (block by M. Harkless),,83,85
+4,9:22.0,Offensive rebound by O. Porter,,83,85
+4,9:22.0,O. Porter makes 2-pt layup from 4 ft,,85,85
+4,9:22.0,Shooting foul by S. Curry (drawn by O. Porter),,85,85
+4,9:22.0,O. Porter makes free throw 1 of 1,,86,85
+4,9:07.0,,Personal foul by K. Oubre (drawn by M. Harkless),86,85
+4,9:07.0,J. Wall enters the game for K. Oubre,,86,85
+4,9:01.0,,Personal foul by A. Rivers (drawn by S. Curry),86,85
+4,8:49.0,,Z. Collins misses 2-pt jump shot from 17 ft,86,85
+4,8:47.0,Defensive rebound by O. Porter,,86,85
+4,8:38.0,J. Wall misses 3-pt jump shot from 26 ft,,86,85
+4,8:35.0,,Defensive rebound by E. Turner,86,85
+4,8:30.0,,Personal foul by A. Rivers (drawn by Z. Collins),86,85
+4,8:30.0,,Z. Collins makes free throw 1 of 2,86,86
+4,8:30.0,,D. Lillard enters the game for E. Turner,86,86
+4,8:30.0,,Z. Collins makes free throw 2 of 2,86,87
+4,8:17.0,O. Porter misses 2-pt jump shot from 18 ft,,86,87
+4,8:15.0,,Defensive rebound by N. Stauskas,86,87
+4,8:05.0,,M. Harkless misses 2-pt jump shot from 4 ft,86,87
+4,8:03.0,Defensive rebound by J. Green,,86,87
+4,7:57.0,O. Porter misses 3-pt jump shot from 26 ft,,86,87
+4,7:56.0,,Defensive rebound by N. Stauskas,86,87
+4,7:44.0,,D. Lillard misses 2-pt jump shot from 15 ft,86,87
+4,7:42.0,,Offensive rebound by Z. Collins,86,87
+4,7:42.0,,Shooting foul by O. Porter (drawn by Z. Collins),86,87
+4,7:42.0,,Z. Collins misses free throw 1 of 2,86,87
+4,7:42.0,,Offensive rebound by Team,86,87
+4,7:42.0,B. Beal enters the game for T. Satoranský,,86,87
+4,7:42.0,,Z. Collins makes free throw 2 of 2,86,88
+4,7:28.0,J. Green makes 2-pt layup from 4 ft (assist by J. Wall),,88,88
+4,7:15.0,,Offensive foul by N. Stauskas (drawn by B. Beal),88,88
+4,7:15.0,,Turnover by N. Stauskas (offensive foul),88,88
+4,7:15.0,,A. Aminu enters the game for Z. Collins,88,88
+4,7:15.0,,C. McCollum enters the game for S. Curry,88,88
+4,7:15.0,,J. Nurkić enters the game for M. Harkless,88,88
+4,7:02.0,J. Wall misses 2-pt jump shot from 6 ft,,88,88
+4,6:58.0,Offensive rebound by O. Porter,,88,88
+4,6:58.0,O. Porter makes 2-pt layup from 1 ft,,90,88
+4,6:37.0,,J. Nurkić makes 2-pt hook shot from 5 ft,90,90
+4,6:22.0,J. Green makes 2-pt hook shot from 5 ft (assist by B. Beal),,92,90
+4,5:55.0,,N. Stauskas makes 3-pt jump shot from 24 ft (assist by C. McCollum),92,93
+4,5:37.0,B. Beal makes 3-pt jump shot from 26 ft (assist by J. Wall),,95,93
+4,5:13.0,,C. McCollum makes 2-pt jump shot from 16 ft,95,95
+4,4:59.0,J. Green makes 2-pt hook shot from 3 ft (assist by B. Beal),,97,95
+4,4:40.0,,C. McCollum misses 3-pt jump shot from 25 ft,97,95
+4,4:38.0,Defensive rebound by A. Rivers,,97,95
+4,4:27.0,J. Wall misses 2-pt jump shot from 16 ft,,97,95
+4,4:25.0,,Defensive rebound by D. Lillard,97,95
+4,4:25.0,,Personal foul by O. Porter (drawn by D. Lillard),97,95
+4,4:25.0,,Portland full timeout,97,95
+4,4:25.0,,D. Lillard makes free throw 1 of 2,97,96
+4,4:25.0,,D. Lillard makes free throw 2 of 2,97,97
+4,4:07.0,B. Beal misses 2-pt jump shot from 13 ft,,97,97
+4,4:04.0,,Defensive rebound by A. Aminu,97,97
+4,3:51.0,,J. Nurkić makes 2-pt dunk from 1 ft (assist by D. Lillard),97,99
+4,3:32.0,O. Porter misses 3-pt jump shot from 24 ft,,97,99
+4,3:29.0,,Defensive rebound by D. Lillard,97,99
+4,3:21.0,,C. McCollum misses 2-pt layup from 2 ft,97,99
+4,3:21.0,,Offensive rebound by Team,97,99
+4,3:21.0,Washington full timeout,,97,99
+4,3:21.0,M. Morris enters the game for J. Green,,97,99
+4,3:21.0,K. Oubre enters the game for A. Rivers,,97,99
+4,3:08.0,,A. Aminu makes 3-pt jump shot from 23 ft (assist by C. McCollum),97,102
+4,2:43.0,Shooting foul by A. Aminu (drawn by M. Morris),,97,102
+4,2:43.0,M. Morris makes free throw 1 of 2,,98,102
+4,2:43.0,M. Morris makes free throw 2 of 2,,99,102
+4,2:25.0,,J. Nurkić misses 2-pt layup from 1 ft,99,102
+4,2:23.0,Defensive rebound by K. Oubre,,99,102
+4,2:20.0,K. Oubre makes 2-pt layup from 3 ft,,101,102
+4,2:20.0,Shooting foul by N. Stauskas (drawn by K. Oubre),,101,102
+4,2:20.0,K. Oubre makes free throw 1 of 1,,102,102
+4,2:04.0,,Turnover by D. Lillard (lost ball; steal by K. Oubre),102,102
+4,1:54.0,J. Wall misses 2-pt layup from 1 ft,,102,102
+4,1:54.0,,Defensive rebound by Team,102,102
+4,1:54.0,Loose ball foul by K. Oubre (drawn by A. Aminu),,102,102
+4,1:54.0,,A. Aminu makes free throw 1 of 2,102,103
+4,1:54.0,,A. Aminu misses free throw 2 of 2,102,103
+4,1:52.0,Defensive rebound by O. Porter,,102,103
+4,1:39.0,M. Morris makes 3-pt jump shot from 25 ft (assist by B. Beal),,105,103
+4,1:20.0,,D. Lillard makes 2-pt jump shot from 7 ft,105,105
+4,1:04.0,M. Morris makes 3-pt jump shot from 25 ft (assist by B. Beal),,108,105
+4,0:52.0,,D. Lillard makes 3-pt jump shot from 25 ft,108,108
+4,0:38.0,M. Morris misses 3-pt jump shot from 25 ft,,108,108
+4,0:34.0,,Defensive rebound by D. Lillard,108,108
+4,0:22.0,,D. Lillard misses 3-pt jump shot from 25 ft,108,108
+4,0:19.0,,Offensive rebound by J. Nurkić,108,108
+4,0:18.0,,J. Nurkić misses 2-pt layup from 3 ft (block by K. Oubre),108,108
+4,0:18.0,,Offensive rebound by J. Nurkić,108,108
+4,0:13.0,,N. Stauskas makes 3-pt jump shot from 23 ft (assist by D. Lillard),108,111
+4,0:12.0,Washington full timeout,,108,111
+4,0:12.0,,M. Harkless enters the game for J. Nurkić,108,111
+4,0:12.0,,E. Turner enters the game for N. Stauskas,108,111
+4,0:07.0,B. Beal makes 3-pt jump shot from 25 ft (assist by J. Wall),,111,111
+4,0:06.0,,Portland full timeout,111,111
+4,0:06.0,J. Green enters the game for M. Morris,,111,111
+4,0:06.0,,S. Curry enters the game for A. Aminu,111,111
+4,0:06.0,,J. Nurkić enters the game for M. Harkless,111,111
+4,0:06.0,,N. Stauskas enters the game for E. Turner,111,111
+4,0:00.0,,D. Lillard misses 2-pt layup from 1 ft (block by B. Beal),111,111
+4,0:00.0,,Offensive rebound by J. Nurkić,111,111
+4,0:00.0,,J. Nurkić misses 2-pt layup from 2 ft,111,111
+4,0:00.0,,Offensive rebound by Team,111,111
+1OT,4:43.0,,D. Lillard misses 3-pt jump shot from 27 ft,111,111
+1OT,4:40.0,Defensive rebound by K. Oubre,,111,111
+1OT,4:27.0,J. Wall misses 3-pt jump shot from 25 ft,,111,111
+1OT,4:24.0,,Defensive rebound by J. Nurkić,111,111
+1OT,4:14.0,,C. McCollum makes 2-pt jump shot from 17 ft,111,113
+1OT,4:01.0,M. Morris makes 3-pt jump shot from 25 ft (assist by B. Beal),,114,113
+1OT,3:46.0,,C. McCollum misses 2-pt layup from 2 ft,114,113
+1OT,3:43.0,,Offensive rebound by J. Nurkić,114,113
+1OT,3:43.0,,J. Nurkić makes 2-pt layup at rim,114,115
+1OT,3:27.0,O. Porter misses 2-pt jump shot from 14 ft,,114,115
+1OT,3:24.0,Offensive rebound by M. Morris,,114,115
+1OT,3:23.0,B. Beal misses 3-pt jump shot from 27 ft,,114,115
+1OT,3:18.0,,Defensive rebound by D. Lillard,114,115
+1OT,3:15.0,,N. Stauskas misses 3-pt jump shot from 24 ft,114,115
+1OT,3:13.0,Defensive rebound by O. Porter,,114,115
+1OT,3:05.0,K. Oubre makes 3-pt jump shot from 26 ft (assist by M. Morris),,117,115
+1OT,2:53.0,,Personal foul by O. Porter (drawn by A. Aminu),117,115
+1OT,2:53.0,,M. Harkless enters the game for J. Nurkić,117,115
+1OT,2:41.0,,C. McCollum misses 2-pt jump shot from 3 ft,117,115
+1OT,2:37.0,,Offensive rebound by C. McCollum,117,115
+1OT,2:37.0,,C. McCollum misses 2-pt layup at rim,117,115
+1OT,2:36.0,Defensive rebound by M. Morris,,117,115
+1OT,2:33.0,B. Beal misses 3-pt jump shot from 25 ft,,117,115
+1OT,2:32.0,,Defensive rebound by Team,117,115
+1OT,2:14.0,,D. Lillard misses 2-pt jump shot from 11 ft,117,115
+1OT,2:14.0,,Offensive rebound by Team,117,115
+1OT,2:09.0,,C. McCollum misses 3-pt jump shot from 25 ft,117,115
+1OT,2:05.0,,Offensive rebound by N. Stauskas,117,115
+1OT,2:05.0,,N. Stauskas misses 2-pt layup at rim,117,115
+1OT,2:04.0,,Offensive rebound by A. Aminu,117,115
+1OT,2:02.0,,D. Lillard misses 3-pt jump shot from 26 ft,117,115
+1OT,2:00.0,Defensive rebound by J. Wall,,117,115
+1OT,1:55.0,B. Beal misses 2-pt layup from 2 ft,,117,115
+1OT,1:54.0,,Defensive rebound by A. Aminu,117,115
+1OT,1:49.0,,D. Lillard makes 2-pt dunk at rim,117,117
+1OT,1:28.0,J. Wall misses 2-pt layup from 2 ft,,117,117
+1OT,1:26.0,,Defensive rebound by A. Aminu,117,117
+1OT,1:23.0,,Offensive foul by C. McCollum (drawn by K. Oubre),117,117
+1OT,1:23.0,,Turnover by C. McCollum (offensive foul),117,117
+1OT,1:11.0,M. Morris makes 2-pt layup from 2 ft,,119,117
+1OT,1:11.0,Shooting foul by M. Harkless (drawn by M. Morris),,119,117
+1OT,1:11.0,M. Morris makes free throw 1 of 1,,120,117
+1OT,1:01.0,Loose ball foul by M. Morris (drawn by D. Lillard),,120,117
+1OT,1:01.0,,J. Nurkić enters the game for M. Harkless,120,117
+1OT,0:56.0,,D. Lillard makes 2-pt layup at rim,120,119
+1OT,0:38.0,M. Morris makes 3-pt jump shot from 25 ft (assist by J. Wall),,123,119
+1OT,0:37.0,,Portland full timeout,123,119
+1OT,0:32.0,,D. Lillard makes 2-pt jump shot from 21 ft,123,121
+1OT,0:10.0,J. Wall makes 2-pt jump shot from 17 ft,,125,121
+1OT,0:09.0,,Portland full timeout,125,121
+1OT,0:09.0,,S. Curry enters the game for J. Nurkić,125,121
+1OT,0:07.0,,C. McCollum makes 3-pt jump shot from 23 ft (assist by N. Stauskas),125,124
+1OT,0:06.0,Personal take foul by C. McCollum (drawn by J. Wall),,125,124
+1OT,0:06.0,J. Wall misses free throw 1 of 2,,125,124
+1OT,0:06.0,Offensive rebound by Team,,125,124
+1OT,0:06.0,,J. Nurkić enters the game for S. Curry,125,124
+1OT,0:06.0,J. Wall misses free throw 2 of 2,,125,124
+1OT,0:05.0,,Defensive rebound by D. Lillard,125,124
+1OT,0:00.0,,D. Lillard misses 2-pt layup from 3 ft (block by O. Porter),125,124
+1OT,0:00.0,,Offensive rebound by Team,125,124

@@ -1,0 +1,420 @@
+QUARTER,TIME_REMAINING,BOSTON_ACTION,MIAMI_ACTION,BOSTON_SCORE,MIAMI_SCORE
+1,11:37.0,M. Morris makes 3-pt jump shot from 26 ft,,3,0
+1,11:08.0,,J. Winslow makes 2-pt jump shot from 9 ft (assist by J. Richardson),3,2
+1,10:55.0,J. Tatum makes 3-pt jump shot from 25 ft (assist by A. Horford),,6,2
+1,10:40.0,,J. Johnson misses 2-pt jump shot from 10 ft (block by A. Horford),6,2
+1,10:40.0,,Offensive rebound by Team,6,2
+1,10:32.0,,R. McGruder makes 3-pt jump shot from 26 ft (assist by J. Richardson),6,5
+1,10:19.0,K. Irving makes 2-pt jump shot from 18 ft (assist by A. Horford),,8,5
+1,10:02.0,,J. Johnson makes 3-pt jump shot from 26 ft,8,8
+1,9:55.0,Personal foul by R. McGruder (drawn by K. Irving),,8,8
+1,9:46.0,A. Horford misses 3-pt jump shot from 25 ft,,8,8
+1,9:43.0,,Defensive rebound by R. McGruder,8,8
+1,9:32.0,,J. Winslow misses 3-pt jump shot from 23 ft,8,8
+1,9:30.0,Defensive rebound by K. Irving,,8,8
+1,9:24.0,M. Morris makes 3-pt jump shot from 25 ft (assist by K. Irving),,11,8
+1,9:04.0,,H. Whiteside makes 2-pt layup from 1 ft (assist by J. Richardson),11,10
+1,8:47.0,K. Irving makes 2-pt jump shot from 16 ft,,13,10
+1,8:35.0,,J. Richardson makes 3-pt jump shot from 25 ft (assist by J. Johnson),13,13
+1,8:17.0,K. Irving makes 2-pt jump shot from 19 ft,,15,13
+1,7:59.0,,J. Johnson misses 2-pt jump shot from 21 ft,15,13
+1,7:57.0,Defensive rebound by M. Morris,,15,13
+1,7:54.0,M. Smart misses 3-pt jump shot from 24 ft,,15,13
+1,7:52.0,,Defensive rebound by J. Johnson,15,13
+1,7:37.0,,R. McGruder misses 3-pt jump shot from 24 ft,15,13
+1,7:33.0,Defensive rebound by A. Horford,,15,13
+1,7:27.0,K. Irving misses 3-pt jump shot from 25 ft,,15,13
+1,7:24.0,,Defensive rebound by H. Whiteside,15,13
+1,7:16.0,,Personal foul by K. Irving (drawn by H. Whiteside),15,13
+1,7:06.0,,J. Richardson misses 2-pt jump shot from 2 ft (block by M. Morris),15,13
+1,7:02.0,Defensive rebound by A. Horford,,15,13
+1,6:55.0,M. Morris misses 2-pt layup from 2 ft,,15,13
+1,6:53.0,,Defensive rebound by R. McGruder,15,13
+1,6:48.0,,J. Richardson makes 2-pt jump shot from 22 ft (assist by R. McGruder),15,15
+1,6:32.0,J. Tatum misses 3-pt jump shot from 25 ft,,15,15
+1,6:29.0,,Defensive rebound by H. Whiteside,15,15
+1,6:22.0,,J. Johnson makes 2-pt dunk from 1 ft,15,17
+1,6:07.0,K. Irving makes 3-pt jump shot from 25 ft,,18,17
+1,5:49.0,,Turnover by R. McGruder (lost ball; steal by K. Irving),18,17
+1,5:30.0,J. Tatum misses 2-pt jump shot from 16 ft,,18,17
+1,5:27.0,,Defensive rebound by J. Richardson,18,17
+1,5:07.0,,J. Johnson misses 3-pt jump shot from 23 ft,18,17
+1,5:06.0,,Offensive rebound by J. Winslow,18,17
+1,5:06.0,,Turnover by Team (shot clock),18,17
+1,5:06.0,,Miami full timeout,18,17
+1,5:06.0,G. Hayward enters the game for A. Horford,,18,17
+1,5:06.0,D. Theis enters the game for M. Morris,,18,17
+1,5:06.0,,D. Wade enters the game for R. McGruder,18,17
+1,4:53.0,M. Smart misses 3-pt jump shot from 26 ft,,18,17
+1,4:47.0,,Defensive rebound by H. Whiteside,18,17
+1,4:36.0,,J. Johnson misses 2-pt layup from 1 ft,18,17
+1,4:35.0,,Offensive rebound by H. Whiteside,18,17
+1,4:32.0,,H. Whiteside makes 2-pt layup from 2 ft,18,19
+1,4:19.0,K. Irving makes 2-pt jump shot from 17 ft,,20,19
+1,3:59.0,,H. Whiteside makes 2-pt dunk from 1 ft (assist by J. Johnson),20,21
+1,3:44.0,M. Smart misses 2-pt jump shot from 11 ft,,20,21
+1,3:41.0,,Defensive rebound by H. Whiteside,20,21
+1,3:32.0,,J. Johnson misses 3-pt jump shot from 26 ft,20,21
+1,3:30.0,Defensive rebound by J. Tatum,,20,21
+1,3:23.0,J. Tatum misses 2-pt jump shot from 15 ft,,20,21
+1,3:14.0,,Defensive rebound by J. Winslow,20,21
+1,3:07.0,,D. Wade makes 2-pt jump shot from 19 ft (assist by H. Whiteside),20,23
+1,3:07.0,Boston full timeout,,20,23
+1,3:07.0,J. Brown enters the game for M. Smart,,20,23
+1,3:07.0,T. Rozier enters the game for J. Tatum,,20,23
+1,2:58.0,G. Hayward makes 2-pt jump shot from 16 ft (assist by K. Irving),,22,23
+1,2:41.0,,J. Johnson misses 2-pt jump shot from 6 ft,22,23
+1,2:39.0,,Offensive rebound by H. Whiteside,22,23
+1,2:37.0,,H. Whiteside misses 2-pt layup from 4 ft,22,23
+1,2:35.0,Defensive rebound by K. Irving,,22,23
+1,2:29.0,Personal foul by H. Whiteside (drawn by J. Brown),,22,23
+1,2:29.0,,B. Adebayo enters the game for H. Whiteside,22,23
+1,2:29.0,,D. Waiters enters the game for J. Winslow,22,23
+1,2:21.0,J. Brown misses 2-pt jump shot from 8 ft (block by J. Johnson),,22,23
+1,2:20.0,,Defensive rebound by J. Johnson,22,23
+1,2:08.0,,J. Johnson makes 2-pt layup from 2 ft (assist by D. Wade),22,25
+1,1:52.0,T. Rozier misses 2-pt jump shot from 14 ft,,22,25
+1,1:48.0,,Defensive rebound by D. Waiters,22,25
+1,1:41.0,,D. Waiters misses 2-pt jump shot from 18 ft,22,25
+1,1:39.0,Defensive rebound by G. Hayward,,22,25
+1,1:31.0,G. Hayward makes 2-pt jump shot from 11 ft,,24,25
+1,1:17.0,,D. Wade makes 3-pt jump shot from 23 ft (assist by J. Johnson),24,28
+1,0:57.0,T. Rozier misses 3-pt jump shot from 25 ft,,24,28
+1,0:56.0,,Defensive rebound by J. Richardson,24,28
+1,0:37.0,,D. Wade misses 3-pt jump shot from 24 ft,24,28
+1,0:34.0,Defensive rebound by T. Rozier,,24,28
+1,0:29.0,J. Brown misses 3-pt jump shot from 25 ft,,24,28
+1,0:27.0,,Defensive rebound by D. Waiters,24,28
+1,0:03.0,,J. Johnson misses 2-pt jump shot from 18 ft,24,28
+1,0:01.0,Defensive rebound by T. Rozier,,24,28
+1,0:00.0,T. Rozier misses 3-pt jump shot from 36 ft,,24,28
+1,0:00.0,Offensive rebound by Team,,24,28
+2,11:40.0,,D. Jones misses 2-pt jump shot from 5 ft,24,28
+2,11:40.0,Defensive rebound by Team,,24,28
+2,11:40.0,,Loose ball foul by B. Adebayo (drawn by M. Morris),24,28
+2,11:15.0,M. Morris misses 2-pt jump shot from 18 ft (block by B. Adebayo),,24,28
+2,11:10.0,,Defensive rebound by K. Olynyk,24,28
+2,10:58.0,,D. Waiters makes 3-pt jump shot from 25 ft,24,31
+2,10:35.0,M. Morris makes 2-pt jump shot from 17 ft (assist by G. Hayward),,26,31
+2,10:19.0,,K. Olynyk misses 3-pt jump shot from 23 ft,26,31
+2,10:16.0,,Offensive rebound by D. Waiters,26,31
+2,10:12.0,,D. Waiters misses 2-pt layup from 2 ft (block by J. Brown),26,31
+2,10:12.0,,Offensive rebound by Team,26,31
+2,10:06.0,,D. Waiters misses 3-pt jump shot from 25 ft,26,31
+2,10:06.0,Defensive rebound by Team,,26,31
+2,9:46.0,J. Brown misses 2-pt jump shot from 13 ft,,26,31
+2,9:44.0,,Defensive rebound by K. Olynyk,26,31
+2,9:32.0,,D. Wade makes 2-pt jump shot from 18 ft,26,33
+2,9:16.0,G. Hayward misses 3-pt jump shot from 24 ft,,26,33
+2,9:14.0,Offensive rebound by D. Theis,,26,33
+2,9:13.0,D. Theis makes 2-pt layup from 1 ft,,28,33
+2,8:56.0,,Turnover by D. Wade (bad pass; steal by D. Theis),28,33
+2,8:51.0,M. Morris misses 3-pt jump shot from 26 ft,,28,33
+2,8:46.0,Offensive rebound by T. Rozier,,28,33
+2,8:46.0,T. Rozier misses 2-pt layup at rim,,28,33
+2,8:45.0,Offensive rebound by M. Morris,,28,33
+2,8:44.0,M. Morris makes 2-pt layup from 1 ft,,30,33
+2,8:20.0,,D. Wade misses 2-pt jump shot from 18 ft,30,33
+2,8:16.0,Defensive rebound by T. Rozier,,30,33
+2,8:11.0,G. Hayward misses 2-pt jump shot from 5 ft,,30,33
+2,8:09.0,Offensive rebound by J. Brown,,30,33
+2,8:08.0,J. Brown misses 2-pt jump shot from 3 ft (block by D. Jones),,30,33
+2,8:08.0,,Defensive rebound by D. Jones,30,33
+2,8:02.0,,D. Jones makes 2-pt layup from 1 ft (assist by D. Waiters),30,35
+2,7:44.0,G. Hayward misses 2-pt jump shot from 10 ft,,30,35
+2,7:42.0,Offensive rebound by D. Theis,,30,35
+2,7:40.0,D. Theis misses 2-pt layup at rim,,30,35
+2,7:39.0,Offensive rebound by D. Theis,,30,35
+2,7:39.0,D. Theis misses 2-pt layup at rim,,30,35
+2,7:39.0,,Defensive rebound by D. Jones,30,35
+2,7:26.0,,Turnover by D. Wade (bad pass; steal by T. Rozier),30,35
+2,7:21.0,T. Rozier makes 2-pt layup from 2 ft,,32,35
+2,7:12.0,,Miami full timeout,32,35
+2,7:12.0,M. Smart enters the game for J. Brown,,32,35
+2,7:12.0,J. Tatum enters the game for G. Hayward,,32,35
+2,7:12.0,,J. Winslow enters the game for D. Wade,32,35
+2,6:56.0,,D. Waiters misses 2-pt layup from 2 ft,32,35
+2,6:52.0,Defensive rebound by J. Tatum,,32,35
+2,6:48.0,D. Theis misses 2-pt layup from 2 ft,,32,35
+2,6:46.0,,Defensive rebound by D. Jones,32,35
+2,6:44.0,,Shooting foul by M. Smart (drawn by J. Winslow),32,35
+2,6:44.0,,J. Winslow misses free throw 1 of 2,32,35
+2,6:44.0,,Offensive rebound by Team,32,35
+2,6:44.0,,T. Johnson enters the game for K. Olynyk,32,35
+2,6:44.0,,J. Winslow makes free throw 2 of 2,32,36
+2,6:35.0,Personal foul by D. Jones (drawn by M. Morris),,32,36
+2,6:35.0,A. Horford enters the game for M. Morris,,32,36
+2,6:35.0,K. Irving enters the game for D. Theis,,32,36
+2,6:22.0,K. Irving misses 2-pt layup from 2 ft,,32,36
+2,6:21.0,Offensive rebound by Team,,32,36
+2,6:20.0,Turnover by Team (shot clock),,32,36
+2,6:03.0,,T. Johnson misses 2-pt jump shot from 14 ft,32,36
+2,6:03.0,,Offensive rebound by Team,32,36
+2,5:56.0,,D. Jones makes 2-pt layup from 1 ft (assist by J. Winslow),32,38
+2,5:41.0,J. Tatum makes 3-pt jump shot from 24 ft (assist by M. Smart),,35,38
+2,5:21.0,,D. Waiters misses 3-pt jump shot from 25 ft,35,38
+2,5:21.0,,Offensive rebound by J. Winslow,35,38
+2,5:11.0,,J. Winslow makes 2-pt jump shot from 6 ft,35,40
+2,4:59.0,K. Irving makes 2-pt jump shot from 16 ft (assist by A. Horford),,37,40
+2,4:38.0,,B. Adebayo makes 2-pt jump shot from 12 ft (assist by J. Winslow),37,42
+2,4:27.0,Turnover by M. Smart (lost ball; steal by D. Waiters),,37,42
+2,4:20.0,,D. Waiters makes 2-pt layup from 1 ft (assist by J. Winslow),37,44
+2,4:18.0,Boston full timeout,,37,44
+2,4:18.0,G. Hayward enters the game for T. Rozier,,37,44
+2,4:18.0,,J. Richardson enters the game for B. Adebayo,37,44
+2,4:18.0,,H. Whiteside enters the game for D. Waiters,37,44
+2,4:02.0,Personal foul by J. Winslow (drawn by J. Tatum),,37,44
+2,3:55.0,J. Tatum misses 3-pt jump shot from 23 ft,,37,44
+2,3:51.0,,Defensive rebound by H. Whiteside,37,44
+2,3:41.0,,T. Johnson misses 3-pt jump shot from 25 ft,37,44
+2,3:40.0,Defensive rebound by Team,,37,44
+2,3:28.0,K. Irving makes 2-pt jump shot from 18 ft,,39,44
+2,3:07.0,,J. Richardson makes 2-pt layup from 6 ft (assist by J. Winslow),39,46
+2,2:58.0,K. Irving makes 2-pt jump shot from 12 ft,,41,46
+2,2:47.0,,J. Winslow makes 3-pt jump shot from 25 ft (assist by J. Richardson),41,49
+2,2:36.0,A. Horford misses 3-pt jump shot from 26 ft,,41,49
+2,2:34.0,,Defensive rebound by T. Johnson,41,49
+2,2:19.0,,H. Whiteside makes 2-pt jump shot from 4 ft (assist by J. Winslow),41,51
+2,2:02.0,G. Hayward makes 2-pt jump shot from 12 ft,,43,51
+2,1:47.0,,J. Richardson makes 3-pt jump shot from 25 ft (assist by H. Whiteside),43,54
+2,1:32.0,Turnover by K. Irving (lost ball; steal by D. Jones),,43,54
+2,1:27.0,,D. Jones makes 2-pt dunk at rim,43,56
+2,1:11.0,K. Irving misses 2-pt jump shot from 21 ft,,43,56
+2,1:09.0,,Defensive rebound by J. Winslow,43,56
+2,0:52.0,,J. Richardson misses 3-pt jump shot from 25 ft,43,56
+2,0:52.0,Defensive rebound by Team,,43,56
+2,0:52.0,M. Morris enters the game for M. Smart,,43,56
+2,0:52.0,,D. Wade enters the game for T. Johnson,43,56
+2,0:37.0,G. Hayward misses 3-pt jump shot from 25 ft,,43,56
+2,0:35.0,,Defensive rebound by D. Jones,43,56
+2,0:20.0,,J. Winslow makes 2-pt jump shot from 17 ft,43,58
+2,0:03.0,Offensive foul by K. Irving (drawn by J. Winslow),,43,58
+2,0:03.0,Turnover by K. Irving (offensive foul),,43,58
+2,0:00.0,,D. Jones makes 3-pt jump shot from 41 ft (assist by J. Winslow),43,61
+3,11:40.0,,J. Johnson misses 3-pt jump shot from 27 ft,43,61
+3,11:40.0,Defensive rebound by Team,,43,61
+3,11:27.0,A. Horford misses 3-pt jump shot from 26 ft,,43,61
+3,11:23.0,,Defensive rebound by J. Winslow,43,61
+3,11:16.0,,J. Johnson makes 2-pt layup from 2 ft (assist by J. Winslow),43,63
+3,10:59.0,M. Morris makes 2-pt jump shot from 6 ft (assist by K. Irving),,45,63
+3,10:49.0,,Personal foul by M. Smart (drawn by J. Winslow),45,63
+3,10:36.0,,J. Johnson makes 2-pt jump shot from 11 ft (assist by J. Winslow),45,65
+3,10:31.0,Shooting foul by H. Whiteside (drawn by M. Smart),,45,65
+3,10:31.0,M. Smart misses free throw 1 of 2,,45,65
+3,10:31.0,Offensive rebound by Team,,45,65
+3,10:31.0,M. Smart makes free throw 2 of 2,,46,65
+3,10:11.0,,J. Winslow makes 3-pt jump shot from 26 ft (assist by J. Richardson),46,68
+3,9:58.0,J. Tatum misses 2-pt jump shot from 17 ft,,46,68
+3,9:54.0,,Defensive rebound by H. Whiteside,46,68
+3,9:45.0,,J. Richardson misses 3-pt jump shot from 25 ft,46,68
+3,9:44.0,,Offensive rebound by H. Whiteside,46,68
+3,9:33.0,,J. Richardson makes 2-pt layup from 2 ft,46,70
+3,9:20.0,A. Horford misses 2-pt jump shot from 17 ft,,46,70
+3,9:17.0,,Defensive rebound by J. Johnson,46,70
+3,9:10.0,,Shooting foul by A. Horford (drawn by H. Whiteside),46,70
+3,9:10.0,,H. Whiteside misses free throw 1 of 2,46,70
+3,9:10.0,,Offensive rebound by Team,46,70
+3,9:10.0,,H. Whiteside makes free throw 2 of 2,46,71
+3,8:56.0,Turnover by M. Smart (traveling),,46,71
+3,8:39.0,,H. Whiteside misses 2-pt hook shot from 9 ft,46,71
+3,8:35.0,Defensive rebound by M. Morris,,46,71
+3,8:26.0,J. Tatum misses 2-pt jump shot from 3 ft,,46,71
+3,8:24.0,,Defensive rebound by J. Winslow,46,71
+3,8:18.0,,R. McGruder misses 2-pt layup from 2 ft (block by J. Tatum),46,71
+3,8:15.0,,Offensive rebound by R. McGruder,46,71
+3,8:14.0,,Shooting foul by M. Smart (drawn by J. Johnson),46,71
+3,8:14.0,,J. Johnson misses free throw 1 of 2,46,71
+3,8:14.0,,Offensive rebound by Team,46,71
+3,8:14.0,R. Williams enters the game for A. Horford,,46,71
+3,8:14.0,,J. Johnson makes free throw 2 of 2,46,72
+3,7:50.0,K. Irving misses 3-pt jump shot from 25 ft,,46,72
+3,7:49.0,,Defensive rebound by J. Johnson,46,72
+3,7:46.0,,Offensive foul by J. Johnson (drawn by M. Smart),46,72
+3,7:46.0,,Turnover by J. Johnson (offensive foul),46,72
+3,7:46.0,Boston full timeout,,46,72
+3,7:28.0,Turnover by K. Irving (bad pass; steal by H. Whiteside),,46,72
+3,7:10.0,,Turnover by R. McGruder (bad pass; steal by M. Morris),46,72
+3,7:07.0,Shooting foul by J. Johnson (drawn by J. Tatum),,46,72
+3,7:07.0,J. Tatum makes free throw 1 of 2,,47,72
+3,7:07.0,J. Tatum makes free throw 2 of 2,,48,72
+3,6:53.0,,J. Richardson misses 2-pt layup from 2 ft (block by R. Williams),48,72
+3,6:52.0,Defensive rebound by K. Irving,,48,72
+3,6:47.0,K. Irving makes 2-pt layup from 2 ft (assist by R. Williams),,50,72
+3,6:34.0,,J. Johnson misses 2-pt jump shot from 9 ft,50,72
+3,6:34.0,,Offensive rebound by Team,50,72
+3,6:26.0,,H. Whiteside misses 2-pt layup from 2 ft (block by K. Irving),50,72
+3,6:25.0,,Offensive rebound by J. Johnson,50,72
+3,6:25.0,,J. Johnson misses 2-pt layup from 2 ft,50,72
+3,6:24.0,Defensive rebound by R. Williams,,50,72
+3,6:19.0,Shooting foul by R. McGruder (drawn by J. Tatum),,50,72
+3,6:19.0,J. Tatum makes free throw 1 of 2,,51,72
+3,6:19.0,J. Tatum makes free throw 2 of 2,,52,72
+3,6:15.0,,Miami full timeout,52,72
+3,6:02.0,,J. Winslow misses 3-pt jump shot from 25 ft,52,72
+3,5:57.0,Defensive rebound by R. Williams,,52,72
+3,5:50.0,M. Smart makes 2-pt jump shot from 5 ft,,54,72
+3,5:25.0,,J. Winslow misses 2-pt jump shot from 10 ft,54,72
+3,5:23.0,Defensive rebound by R. Williams,,54,72
+3,5:17.0,M. Morris misses 2-pt jump shot from 10 ft,,54,72
+3,5:17.0,Offensive rebound by Team,,54,72
+3,5:17.0,,Loose ball foul by J. Winslow (drawn by J. Tatum),54,72
+3,5:17.0,,D. Wade enters the game for R. McGruder,54,72
+3,5:10.0,M. Morris makes 3-pt jump shot from 25 ft (assist by K. Irving),,57,72
+3,4:53.0,,Turnover by J. Winslow (bad pass; steal by R. Williams),57,72
+3,4:47.0,M. Morris misses 3-pt jump shot from 26 ft,,57,72
+3,4:43.0,,Defensive rebound by H. Whiteside,57,72
+3,4:36.0,,H. Whiteside misses 2-pt layup from 6 ft (block by M. Morris),57,72
+3,4:35.0,Defensive rebound by K. Irving,,57,72
+3,4:30.0,Shooting foul by J. Johnson (drawn by J. Tatum),,57,72
+3,4:30.0,J. Tatum makes free throw 1 of 2,,58,72
+3,4:30.0,,B. Adebayo enters the game for J. Johnson,58,72
+3,4:30.0,,D. Jones enters the game for H. Whiteside,58,72
+3,4:30.0,J. Tatum makes free throw 2 of 2,,59,72
+3,4:14.0,,J. Richardson misses 3-pt jump shot from 25 ft,59,72
+3,4:11.0,Defensive rebound by M. Smart,,59,72
+3,4:03.0,M. Smart makes 3-pt jump shot from 25 ft (assist by M. Morris),,62,72
+3,3:56.0,,Miami full timeout,62,72
+3,3:47.0,,D. Wade makes 3-pt jump shot from 25 ft (assist by J. Winslow),62,75
+3,3:32.0,K. Irving makes 3-pt jump shot from 25 ft,,65,75
+3,3:10.0,,B. Adebayo misses 2-pt dunk from 2 ft (block by M. Smart),65,75
+3,3:06.0,Defensive rebound by K. Irving,,65,75
+3,3:05.0,K. Irving misses 2-pt layup from 1 ft,,65,75
+3,3:05.0,,Defensive rebound by B. Adebayo,65,75
+3,2:47.0,,J. Winslow misses 2-pt jump shot from 11 ft,65,75
+3,2:44.0,Defensive rebound by J. Tatum,,65,75
+3,2:38.0,J. Tatum misses 2-pt layup from 1 ft,,65,75
+3,2:37.0,Offensive rebound by M. Morris,,65,75
+3,2:35.0,M. Morris makes 2-pt layup from 2 ft,,67,75
+3,2:12.0,,D. Wade misses 2-pt jump shot from 10 ft,67,75
+3,2:10.0,Defensive rebound by J. Tatum,,67,75
+3,2:02.0,K. Irving misses 3-pt jump shot from 25 ft,,67,75
+3,2:00.0,,Defensive rebound by B. Adebayo,67,75
+3,1:45.0,,J. Richardson makes 3-pt jump shot from 25 ft (assist by B. Adebayo),67,78
+3,1:24.0,M. Smart makes 3-pt jump shot from 26 ft (assist by K. Irving),,70,78
+3,1:00.0,,D. Wade makes 3-pt jump shot from 26 ft (assist by J. Richardson),70,81
+3,0:54.0,M. Smart misses 3-pt jump shot from 25 ft,,70,81
+3,0:52.0,,Defensive rebound by J. Richardson,70,81
+3,0:46.0,,D. Wade misses 3-pt jump shot from 23 ft,70,81
+3,0:44.0,Defensive rebound by M. Morris,,70,81
+3,0:37.0,Boston full timeout,,70,81
+3,0:37.0,J. Brown enters the game for M. Morris,,70,81
+3,0:37.0,G. Hayward enters the game for M. Smart,,70,81
+3,0:37.0,A. Horford enters the game for J. Tatum,,70,81
+3,0:37.0,T. Rozier enters the game for R. Williams,,70,81
+3,0:37.0,,D. Waiters enters the game for J. Winslow,70,81
+3,0:30.0,K. Irving misses 2-pt jump shot from 21 ft,,70,81
+3,0:28.0,,Defensive rebound by B. Adebayo,70,81
+3,0:15.0,,D. Wade makes 2-pt jump shot from 7 ft,70,83
+3,0:01.0,Personal foul by J. Richardson (drawn by T. Rozier),,70,83
+3,0:01.0,T. Rozier makes free throw 1 of 2,,71,83
+3,0:01.0,S. Ojeleye enters the game for K. Irving,,71,83
+3,0:01.0,T. Rozier makes free throw 2 of 2,,72,83
+3,0:00.0,,D. Jones misses 3-pt jump shot from 50 ft,72,83
+3,0:00.0,,Offensive rebound by Team,72,83
+4,11:39.0,A. Horford makes 2-pt hook shot from 3 ft (assist by G. Hayward),,74,83
+4,11:16.0,,D. Wade makes 2-pt hook shot from 8 ft,74,85
+4,11:07.0,T. Rozier misses 2-pt jump shot from 17 ft,,74,85
+4,11:06.0,Offensive rebound by A. Horford,,74,85
+4,11:05.0,A. Horford misses 2-pt layup from 4 ft,,74,85
+4,11:03.0,Offensive rebound by Team,,74,85
+4,10:58.0,Turnover by T. Rozier (bad pass; steal by D. Wade),,74,85
+4,10:53.0,,D. Wade makes 2-pt jump shot from 2 ft,74,87
+4,10:37.0,J. Brown makes 2-pt layup from 1 ft (assist by G. Hayward),,76,87
+4,10:37.0,Shooting foul by D. Waiters (drawn by J. Brown),,76,87
+4,10:37.0,J. Brown misses free throw 1 of 1,,76,87
+4,10:34.0,,Defensive rebound by B. Adebayo,76,87
+4,10:18.0,,D. Waiters misses 2-pt layup from 2 ft,76,87
+4,10:16.0,Defensive rebound by A. Horford,,76,87
+4,10:14.0,Turnover by A. Horford (bad pass; steal by D. Jones),,76,87
+4,10:09.0,,T. Johnson makes 3-pt jump shot from 25 ft (assist by B. Adebayo),76,90
+4,9:59.0,T. Rozier misses 2-pt jump shot from 7 ft,,76,90
+4,9:57.0,,Defensive rebound by B. Adebayo,76,90
+4,9:41.0,,D. Waiters misses 3-pt jump shot from 26 ft,76,90
+4,9:38.0,Defensive rebound by T. Rozier,,76,90
+4,9:29.0,Turnover by A. Horford (bad pass; steal by B. Adebayo),,76,90
+4,9:27.0,,Shooting foul by A. Horford (drawn by B. Adebayo),76,90
+4,9:27.0,,B. Adebayo makes free throw 1 of 2,76,91
+4,9:27.0,,B. Adebayo makes free throw 2 of 2,76,92
+4,9:13.0,T. Rozier misses 3-pt jump shot from 24 ft,,76,92
+4,9:09.0,,Defensive rebound by D. Waiters,76,92
+4,9:02.0,,T. Johnson makes 3-pt jump shot from 25 ft (assist by D. Waiters),76,95
+4,9:02.0,Boston full timeout,,76,95
+4,9:02.0,M. Smart enters the game for S. Ojeleye,,76,95
+4,8:38.0,M. Smart makes 3-pt jump shot from 26 ft (assist by J. Brown),,79,95
+4,8:15.0,,T. Johnson misses 2-pt layup from 1 ft,79,95
+4,8:15.0,Defensive rebound by Team,,79,95
+4,8:15.0,,Loose ball foul by D. Wade (drawn by T. Rozier),79,95
+4,7:59.0,A. Horford misses 2-pt hook shot from 4 ft (block by B. Adebayo),,79,95
+4,7:54.0,,Defensive rebound by D. Jones,79,95
+4,7:39.0,,D. Jones makes 3-pt jump shot from 23 ft (assist by D. Waiters),79,98
+4,7:25.0,A. Horford misses 3-pt jump shot from 25 ft,,79,98
+4,7:23.0,,Defensive rebound by T. Johnson,79,98
+4,7:07.0,,D. Waiters misses 3-pt jump shot from 23 ft,79,98
+4,7:05.0,Defensive rebound by J. Brown,,79,98
+4,7:02.0,M. Smart misses 3-pt jump shot from 25 ft,,79,98
+4,6:57.0,Offensive rebound by T. Rozier,,79,98
+4,6:53.0,M. Smart makes 3-pt jump shot from 23 ft (assist by G. Hayward),,82,98
+4,6:42.0,,Miami full timeout,82,98
+4,6:42.0,K. Irving enters the game for J. Brown,,82,98
+4,6:42.0,M. Morris enters the game for G. Hayward,,82,98
+4,6:42.0,J. Tatum enters the game for A. Horford,,82,98
+4,6:42.0,R. Williams enters the game for T. Rozier,,82,98
+4,6:42.0,,J. Richardson enters the game for D. Wade,82,98
+4,6:24.0,,D. Waiters makes 3-pt jump shot from 24 ft (assist by B. Adebayo),82,101
+4,6:01.0,M. Morris misses 2-pt jump shot from 10 ft,,82,101
+4,5:59.0,,Defensive rebound by D. Jones,82,101
+4,5:59.0,,Turnover by D. Jones (bad pass),82,101
+4,5:48.0,R. Williams makes 2-pt dunk from 2 ft (assist by J. Tatum),,84,101
+4,5:23.0,,B. Adebayo makes 2-pt layup from 2 ft (assist by T. Johnson),84,103
+4,5:09.0,K. Irving misses 2-pt jump shot from 11 ft,,84,103
+4,5:07.0,,Defensive rebound by T. Johnson,84,103
+4,4:56.0,,Personal foul by R. Williams (drawn by B. Adebayo),84,103
+4,4:50.0,,T. Johnson makes 2-pt layup from 2 ft (assist by B. Adebayo),84,105
+4,4:50.0,Violation by Team (def goaltending),,84,105
+4,4:42.0,Shooting foul by D. Waiters (drawn by M. Smart),,84,105
+4,4:42.0,M. Smart makes free throw 1 of 3,,85,105
+4,4:42.0,M. Smart makes free throw 2 of 3,,86,105
+4,4:42.0,M. Smart makes free throw 3 of 3,,87,105
+4,4:20.0,,J. Richardson misses 3-pt jump shot from 27 ft,87,105
+4,4:17.0,Defensive rebound by R. Williams,,87,105
+4,4:11.0,J. Tatum makes 2-pt layup from 2 ft (assist by M. Smart),,89,105
+4,4:01.0,,Personal foul by J. Tatum (drawn by T. Johnson),89,105
+4,3:56.0,,T. Johnson misses 3-pt jump shot from 29 ft,89,105
+4,3:52.0,Defensive rebound by Team,,89,105
+4,3:46.0,Personal foul by T. Johnson (drawn by K. Irving),,89,105
+4,3:46.0,,J. Winslow enters the game for D. Waiters,89,105
+4,3:35.0,J. Tatum makes 2-pt jump shot from 11 ft,,91,105
+4,3:35.0,Shooting foul by T. Johnson (drawn by J. Tatum),,91,105
+4,3:35.0,J. Tatum makes free throw 1 of 1,,92,105
+4,3:20.0,,T. Johnson makes 3-pt jump shot from 23 ft (assist by B. Adebayo),92,108
+4,3:03.0,K. Irving misses 3-pt jump shot from 26 ft,,92,108
+4,2:59.0,,Defensive rebound by B. Adebayo,92,108
+4,2:38.0,,B. Adebayo misses 2-pt jump shot from 6 ft,92,108
+4,2:32.0,,Offensive rebound by D. Jones,92,108
+4,2:32.0,,D. Jones misses 2-pt dunk at rim,92,108
+4,2:32.0,Defensive rebound by M. Morris,,92,108
+4,2:32.0,Offensive foul by J. Tatum (drawn by T. Johnson),,92,108
+4,2:32.0,Turnover by J. Tatum (offensive foul),,92,108
+4,2:32.0,S. Ojeleye enters the game for K. Irving,,92,108
+4,2:32.0,D. Theis enters the game for M. Morris,,92,108
+4,2:32.0,B. Wanamaker enters the game for M. Smart,,92,108
+4,2:32.0,G. Yabusele enters the game for J. Tatum,,92,108
+4,2:32.0,,D. Wade enters the game for T. Johnson,92,108
+4,2:23.0,,D. Jones makes 2-pt dunk from 1 ft (assist by J. Winslow),92,110
+4,2:09.0,B. Wanamaker misses 2-pt jump shot from 9 ft,,92,110
+4,2:08.0,,Defensive rebound by J. Winslow,92,110
+4,1:52.0,,Turnover by D. Jones (traveling),92,110
+4,1:43.0,G. Yabusele makes 2-pt layup from 1 ft (assist by B. Wanamaker),,94,110
+4,1:23.0,,J. Richardson makes 3-pt jump shot from 26 ft (assist by J. Winslow),94,113
+4,1:19.0,Personal foul by J. Richardson (drawn by B. Wanamaker),,94,113
+4,1:19.0,B. Wanamaker makes free throw 1 of 2,,95,113
+4,1:19.0,,R. McGruder enters the game for J. Richardson,95,113
+4,1:19.0,,D. Waiters enters the game for D. Wade,95,113
+4,1:19.0,B. Wanamaker makes free throw 2 of 2,,96,113
+4,0:59.0,,D. Waiters misses 3-pt jump shot from 23 ft,96,113
+4,0:56.0,Defensive rebound by S. Ojeleye,,96,113
+4,0:52.0,G. Yabusele makes 3-pt jump shot from 26 ft (assist by S. Ojeleye),,99,113
+4,0:29.0,,R. McGruder misses 2-pt jump shot from 9 ft,99,113
+4,0:27.0,,Offensive rebound by B. Adebayo,99,113
+4,0:27.0,,B. Adebayo makes 2-pt dunk at rim,99,115
+4,0:18.0,Turnover by B. Wanamaker (bad pass; steal by B. Adebayo),,99,115

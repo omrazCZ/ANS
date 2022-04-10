@@ -1,0 +1,436 @@
+QUARTER,TIME_REMAINING,CLEVELAND_ACTION,UTAH_ACTION,CLEVELAND_SCORE,UTAH_SCORE
+1,11:48.0,,D. Favors misses 3-pt jump shot from 23 ft,0,0
+1,11:45.0,Defensive rebound by R. Hood,,0,0
+1,11:30.0,R. Hood misses 3-pt jump shot from 26 ft,,0,0
+1,11:27.0,,Defensive rebound by R. Gobert,0,0
+1,11:17.0,,D. Favors makes 2-pt layup from 2 ft (assist by J. Ingles),0,2
+1,10:56.0,A. Burks makes 2-pt jump shot from 16 ft,,2,2
+1,10:40.0,,R. Gobert makes 2-pt layup from 2 ft (assist by J. Ingles),2,4
+1,10:22.0,Offensive foul by R. Hood (drawn by J. Ingles),,2,4
+1,10:22.0,Turnover by R. Hood (offensive foul),,2,4
+1,9:59.0,,R. O'Neale misses 2-pt jump shot from 12 ft,2,4
+1,9:55.0,,Offensive rebound by D. Favors,2,4
+1,9:55.0,,D. Favors misses 2-pt layup from 1 ft,2,4
+1,9:55.0,Defensive rebound by A. Žižić,,2,4
+1,9:51.0,C. Sexton misses 2-pt jump shot from 16 ft,,2,4
+1,9:47.0,,Defensive rebound by D. Favors,2,4
+1,9:39.0,,Turnover by J. Ingles (out of bounds lost ball),2,4
+1,9:27.0,Turnover by R. Hood (bad pass),,2,4
+1,9:09.0,,Offensive foul by D. Favors (drawn by C. Osman),2,4
+1,9:09.0,,Turnover by D. Favors (offensive foul),2,4
+1,8:55.0,A. Burks makes 2-pt jump shot from 11 ft,,4,4
+1,8:43.0,,D. Mitchell misses 3-pt jump shot from 25 ft,4,4
+1,8:40.0,Defensive rebound by C. Osman,,4,4
+1,8:32.0,C. Osman misses 3-pt jump shot from 25 ft,,4,4
+1,8:30.0,,Defensive rebound by R. Gobert,4,4
+1,8:18.0,,J. Ingles makes 2-pt layup from 2 ft (assist by R. Gobert),4,6
+1,8:05.0,Turnover by C. Sexton (bad pass; steal by D. Mitchell),,4,6
+1,8:04.0,,Personal take foul by C. Osman (drawn by D. Mitchell),4,6
+1,7:51.0,,D. Favors misses 3-pt jump shot from 24 ft,4,6
+1,7:46.0,Defensive rebound by A. Burks,,4,6
+1,7:39.0,R. Hood misses 3-pt jump shot from 24 ft,,4,6
+1,7:36.0,,Defensive rebound by R. O'Neale,4,6
+1,7:34.0,,Turnover by R. O'Neale (lost ball; steal by A. Burks),4,6
+1,7:31.0,Shooting foul by D. Mitchell (drawn by A. Žižić),,4,6
+1,7:31.0,A. Žižić misses free throw 1 of 2,,4,6
+1,7:31.0,Offensive rebound by Team,,4,6
+1,7:31.0,,J. Crowder enters the game for D. Favors,4,6
+1,7:31.0,A. Žižić makes free throw 2 of 2,,5,6
+1,7:19.0,,J. Crowder misses 3-pt jump shot from 25 ft,5,6
+1,7:16.0,,Offensive rebound by R. Gobert,5,6
+1,7:09.0,,Turnover by J. Crowder (bad pass; steal by C. Osman),5,6
+1,7:05.0,C. Sexton makes 2-pt layup from 2 ft (assist by C. Osman),,7,6
+1,6:53.0,,D. Mitchell misses 2-pt jump shot from 13 ft,7,6
+1,6:50.0,Defensive rebound by C. Sexton,,7,6
+1,6:47.0,C. Sexton misses 2-pt layup from 3 ft (block by R. O'Neale),,7,6
+1,6:45.0,,Defensive rebound by J. Crowder,7,6
+1,6:41.0,,D. Mitchell makes 3-pt jump shot from 24 ft (assist by R. O'Neale),7,9
+1,6:22.0,C. Sexton makes 2-pt jump shot from 20 ft,,9,9
+1,6:20.0,,Utah full timeout,9,9
+1,6:20.0,,K. Korver enters the game for J. Ingles,9,9
+1,6:04.0,,R. O'Neale makes 3-pt jump shot from 23 ft (assist by R. Gobert),9,12
+1,5:44.0,C. Osman makes 2-pt layup from 3 ft (assist by C. Sexton),,11,12
+1,5:33.0,,D. Mitchell misses 2-pt jump shot from 6 ft,11,12
+1,5:31.0,Defensive rebound by C. Sexton,,11,12
+1,5:19.0,C. Osman misses 2-pt jump shot from 13 ft,,11,12
+1,5:18.0,Offensive rebound by Team,,11,12
+1,5:18.0,J. Clarkson enters the game for R. Hood,,11,12
+1,5:01.0,,Personal foul by C. Sexton (drawn by J. Crowder),11,12
+1,5:01.0,Turnover by C. Sexton (turnover),,11,12
+1,5:01.0,C. Frye enters the game for A. Žižić,,11,12
+1,4:54.0,,D. Mitchell makes 2-pt layup from 2 ft,11,14
+1,4:39.0,C. Sexton misses 2-pt jump shot from 12 ft,,11,14
+1,4:36.0,,Defensive rebound by R. Gobert,11,14
+1,4:25.0,,K. Korver makes 2-pt layup from 2 ft (assist by R. O'Neale),11,16
+1,4:25.0,Cleveland full timeout,,11,16
+1,4:25.0,M. Dellavedova enters the game for C. Sexton,,11,16
+1,4:09.0,J. Clarkson misses 2-pt hook shot from 3 ft (block by R. Gobert),,11,16
+1,4:04.0,,Defensive rebound by R. Gobert,11,16
+1,4:04.0,,Personal foul by J. Clarkson (drawn by K. Korver),11,16
+1,4:01.0,,J. Crowder misses 3-pt jump shot from 24 ft,11,16
+1,3:57.0,Defensive rebound by A. Burks,,11,16
+1,3:44.0,C. Frye misses 3-pt jump shot from 26 ft,,11,16
+1,3:41.0,,Defensive rebound by R. Gobert,11,16
+1,3:34.0,,R. Gobert makes 2-pt dunk from 1 ft (assist by D. Mitchell),11,18
+1,3:11.0,A. Burks misses 2-pt layup from 3 ft (block by J. Crowder),,11,18
+1,3:06.0,Offensive rebound by C. Frye,,11,18
+1,3:06.0,J. Clarkson misses 3-pt jump shot from 25 ft,,11,18
+1,3:03.0,,Defensive rebound by R. O'Neale,11,18
+1,2:59.0,,D. Mitchell misses 3-pt jump shot from 24 ft,11,18
+1,2:57.0,Defensive rebound by A. Burks,,11,18
+1,2:42.0,M. Dellavedova makes 2-pt hook shot from 6 ft,,13,18
+1,2:42.0,Shooting foul by R. Gobert (drawn by M. Dellavedova),,13,18
+1,2:42.0,J. Blossomgame enters the game for A. Burks,,13,18
+1,2:42.0,C. Payne enters the game for C. Osman,,13,18
+1,2:42.0,,G. Allen enters the game for R. Gobert,13,18
+1,2:42.0,,D. Favors enters the game for D. Mitchell,13,18
+1,2:42.0,,J. Ingles enters the game for R. O'Neale,13,18
+1,2:42.0,M. Dellavedova makes free throw 1 of 1,,14,18
+1,2:30.0,,D. Favors misses 2-pt layup from 2 ft,14,18
+1,2:28.0,Defensive rebound by J. Blossomgame,,14,18
+1,2:23.0,M. Dellavedova misses 3-pt jump shot from 26 ft,,14,18
+1,2:19.0,Offensive rebound by J. Blossomgame,,14,18
+1,2:18.0,J. Blossomgame makes 2-pt layup from 4 ft,,16,18
+1,2:08.0,,D. Favors makes 2-pt dunk from 2 ft (assist by J. Crowder),16,20
+1,1:49.0,C. Payne misses 3-pt jump shot from 23 ft,,16,20
+1,1:46.0,,Defensive rebound by J. Crowder,16,20
+1,1:34.0,,K. Korver misses 3-pt jump shot from 25 ft,16,20
+1,1:29.0,Defensive rebound by C. Payne,,16,20
+1,1:22.0,Shooting foul by G. Allen (drawn by C. Payne),,16,20
+1,1:22.0,C. Payne makes free throw 1 of 2,,17,20
+1,1:22.0,C. Payne makes free throw 2 of 2,,18,20
+1,1:12.0,,J. Ingles makes 3-pt jump shot from 25 ft (assist by J. Crowder),18,23
+1,0:54.0,J. Clarkson misses 2-pt layup from 5 ft,,18,23
+1,0:51.0,Offensive rebound by J. Clarkson,,18,23
+1,0:51.0,J. Clarkson misses 2-pt layup from 1 ft,,18,23
+1,0:50.0,,Defensive rebound by K. Korver,18,23
+1,0:36.0,,J. Crowder makes 3-pt jump shot from 25 ft (assist by J. Ingles),18,26
+1,0:20.0,J. Clarkson makes 2-pt jump shot from 17 ft (assist by M. Dellavedova),,20,26
+1,0:05.0,,Personal foul by J. Blossomgame (drawn by J. Crowder),20,26
+1,0:04.0,,K. Korver makes 3-pt jump shot from 26 ft (assist by G. Allen),20,29
+1,0:00.0,J. Clarkson misses 3-pt jump shot from 25 ft,,20,29
+1,0:00.0,Offensive rebound by Team,,20,29
+2,11:47.0,C. Payne misses 2-pt hook shot from 11 ft,,20,29
+2,11:43.0,,Defensive rebound by J. Crowder,20,29
+2,11:35.0,,Personal foul by M. Dellavedova (drawn by K. Korver),20,29
+2,11:30.0,,G. Allen makes 3-pt jump shot from 23 ft (assist by K. Korver),20,32
+2,11:10.0,M. Dellavedova makes 2-pt layup from 3 ft,,22,32
+2,11:00.0,,J. Crowder misses 3-pt jump shot from 25 ft,22,32
+2,10:55.0,,Offensive rebound by D. Favors,22,32
+2,10:55.0,,Shooting foul by C. Frye (drawn by D. Favors),22,32
+2,10:55.0,,D. Favors makes free throw 1 of 2,22,33
+2,10:55.0,,D. Favors makes free throw 2 of 2,22,34
+2,10:40.0,M. Dellavedova makes 2-pt layup from 2 ft (assist by C. Frye),,24,34
+2,10:33.0,,Personal foul by M. Dellavedova (drawn by J. Ingles),24,34
+2,10:25.0,,Offensive foul by J. Ingles (drawn by M. Dellavedova),24,34
+2,10:25.0,,Turnover by J. Ingles (offensive foul),24,34
+2,10:10.0,J. Clarkson misses 2-pt layup from 4 ft,,24,34
+2,10:09.0,,Defensive rebound by D. Favors,24,34
+2,10:02.0,,G. Allen misses 2-pt layup from 4 ft (block by C. Payne),24,34
+2,9:59.0,Defensive rebound by C. Payne,,24,34
+2,9:59.0,Flagrant foul type 1 by J. Ingles (drawn by C. Payne),,24,34
+2,9:59.0,C. Payne makes flagrant free throw 1 of 2,,25,34
+2,9:59.0,C. Payne makes flagrant free throw 2 of 2,,26,34
+2,9:59.0,R. Hood enters the game for J. Clarkson,,26,34
+2,9:59.0,,D. Mitchell enters the game for J. Crowder,26,34
+2,9:59.0,,G. Niang enters the game for J. Ingles,26,34
+2,9:56.0,M. Dellavedova misses 3-pt jump shot from 25 ft,,26,34
+2,9:53.0,Offensive rebound by Team,,26,34
+2,9:52.0,R. Hood misses 2-pt jump shot from 18 ft,,26,34
+2,9:49.0,,Defensive rebound by D. Mitchell,26,34
+2,9:42.0,,D. Mitchell makes 2-pt dunk from 1 ft (assist by G. Allen),26,36
+2,9:29.0,Turnover by M. Dellavedova (bad pass),,26,36
+2,9:29.0,C. Sexton enters the game for M. Dellavedova,,26,36
+2,9:29.0,A. Žižić enters the game for C. Frye,,26,36
+2,9:29.0,,R. O'Neale enters the game for K. Korver,26,36
+2,9:19.0,,D. Favors makes 2-pt dunk from 2 ft (assist by D. Mitchell),26,38
+2,9:17.0,Cleveland full timeout,,26,38
+2,8:58.0,C. Payne misses 3-pt jump shot from 27 ft,,26,38
+2,8:54.0,,Defensive rebound by D. Favors,26,38
+2,8:46.0,,G. Allen misses 3-pt jump shot from 25 ft,26,38
+2,8:41.0,Defensive rebound by C. Sexton,,26,38
+2,8:34.0,Personal foul by D. Mitchell (drawn by A. Žižić),,26,38
+2,8:34.0,A. Burks enters the game for J. Blossomgame,,26,38
+2,8:34.0,C. Osman enters the game for C. Payne,,26,38
+2,8:34.0,,R. Gobert enters the game for D. Favors,26,38
+2,8:29.0,C. Sexton misses 2-pt jump shot from 9 ft,,26,38
+2,8:27.0,,Defensive rebound by R. Gobert,26,38
+2,8:18.0,,G. Allen misses 3-pt jump shot from 25 ft,26,38
+2,8:13.0,Defensive rebound by A. Žižić,,26,38
+2,8:06.0,Shooting foul by R. O'Neale (drawn by R. Hood),,26,38
+2,8:06.0,R. Hood makes free throw 1 of 2,,27,38
+2,8:06.0,R. Hood makes free throw 2 of 2,,28,38
+2,7:54.0,,D. Mitchell makes 2-pt jump shot from 8 ft,28,40
+2,7:32.0,A. Burks misses 3-pt jump shot from 25 ft,,28,40
+2,7:30.0,,Defensive rebound by R. O'Neale,28,40
+2,7:17.0,,G. Niang makes 2-pt hook shot from 8 ft,28,42
+2,7:02.0,R. Hood makes 2-pt jump shot from 19 ft,,30,42
+2,6:54.0,,Shooting foul by A. Žižić (drawn by D. Mitchell),30,42
+2,6:54.0,,D. Mitchell makes free throw 1 of 2,30,43
+2,6:54.0,,K. Korver enters the game for G. Allen,30,43
+2,6:54.0,,D. Mitchell makes free throw 2 of 2,30,44
+2,6:40.0,Turnover by C. Osman (bad pass; steal by R. Gobert),,30,44
+2,6:34.0,,K. Korver makes 2-pt layup from 2 ft (assist by R. O'Neale),30,46
+2,6:33.0,Cleveland full timeout,,30,46
+2,6:16.0,Turnover by C. Sexton (lost ball; steal by R. O'Neale),,30,46
+2,6:01.0,,Personal foul by A. Burks (drawn by D. Mitchell),30,46
+2,6:01.0,,D. Mitchell makes free throw 1 of 2,30,47
+2,6:01.0,,D. Mitchell misses free throw 2 of 2,30,47
+2,6:00.0,Defensive rebound by A. Burks,,30,47
+2,5:55.0,C. Sexton misses 2-pt layup from 3 ft,,30,47
+2,5:54.0,Offensive rebound by Team,,30,47
+2,5:49.0,Personal foul by R. O'Neale (drawn by A. Burks),,30,47
+2,5:36.0,R. Hood misses 2-pt jump shot from 21 ft,,30,47
+2,5:32.0,Offensive rebound by A. Žižić,,30,47
+2,5:31.0,A. Žižić misses 2-pt layup from 2 ft,,30,47
+2,5:31.0,Offensive rebound by A. Žižić,,30,47
+2,5:31.0,A. Žižić misses 2-pt layup from 2 ft (block by R. Gobert),,30,47
+2,5:31.0,,Defensive rebound by G. Niang,30,47
+2,5:19.0,,D. Mitchell makes 2-pt jump shot from 17 ft (assist by R. Gobert),30,49
+2,4:59.0,A. Burks misses 3-pt jump shot from 26 ft,,30,49
+2,4:57.0,,Defensive rebound by R. O'Neale,30,49
+2,4:50.0,,D. Mitchell makes 3-pt jump shot from 25 ft (assist by R. O'Neale),30,52
+2,4:43.0,Personal foul by G. Niang (drawn by C. Sexton),,30,52
+2,4:43.0,C. Sexton makes free throw 1 of 2,,31,52
+2,4:43.0,J. Clarkson enters the game for R. Hood,,31,52
+2,4:43.0,,J. Crowder enters the game for G. Niang,31,52
+2,4:43.0,C. Sexton makes free throw 2 of 2,,32,52
+2,4:31.0,,Offensive foul by R. Gobert (drawn by C. Sexton),32,52
+2,4:31.0,,Turnover by R. Gobert (offensive foul),32,52
+2,4:13.0,J. Clarkson misses 2-pt jump shot from 11 ft,,32,52
+2,4:10.0,,Defensive rebound by R. Gobert,32,52
+2,4:01.0,,J. Crowder makes 2-pt layup from 2 ft (assist by D. Mitchell),32,54
+2,3:36.0,A. Burks misses 2-pt layup from 3 ft,,32,54
+2,3:35.0,Offensive rebound by A. Burks,,32,54
+2,3:33.0,A. Burks misses 2-pt layup from 4 ft,,32,54
+2,3:32.0,,Defensive rebound by R. Gobert,32,54
+2,3:26.0,,Turnover by J. Crowder (bad pass; steal by J. Clarkson),32,54
+2,3:22.0,C. Osman makes 2-pt layup from 2 ft,,34,54
+2,3:22.0,,Violation by Team (def goaltending),34,54
+2,3:02.0,,Turnover by R. O'Neale (bad pass),34,54
+2,3:02.0,,J. Ingles enters the game for K. Korver,34,54
+2,2:54.0,Turnover by C. Sexton (back court),,34,54
+2,2:44.0,,Turnover by R. Gobert (off goaltending),34,54
+2,2:36.0,J. Clarkson misses 2-pt jump shot from 16 ft,,34,54
+2,2:32.0,,Defensive rebound by R. Gobert,34,54
+2,2:14.0,,D. Mitchell makes 2-pt jump shot from 14 ft,34,56
+2,2:03.0,A. Žižić misses 2-pt jump shot from 11 ft,,34,56
+2,2:00.0,,Defensive rebound by R. Gobert,34,56
+2,1:48.0,,R. Gobert misses 2-pt dunk from 2 ft (block by A. Burks),34,56
+2,1:48.0,,Offensive rebound by Team,34,56
+2,1:46.0,,J. Ingles misses 3-pt jump shot from 23 ft,34,56
+2,1:42.0,Defensive rebound by A. Burks,,34,56
+2,1:34.0,J. Clarkson makes 3-pt jump shot from 25 ft (assist by A. Burks),,37,56
+2,1:12.0,,D. Mitchell misses 3-pt jump shot from 25 ft,37,56
+2,1:08.0,Defensive rebound by C. Osman,,37,56
+2,0:51.0,A. Burks misses 2-pt jump shot from 12 ft,,37,56
+2,0:47.0,,Defensive rebound by R. O'Neale,37,56
+2,0:40.0,,J. Crowder misses 3-pt jump shot from 26 ft,37,56
+2,0:38.0,Defensive rebound by C. Sexton,,37,56
+2,0:34.0,Turnover by C. Sexton (lost ball; steal by D. Mitchell),,37,56
+2,0:30.0,,R. Gobert makes 2-pt dunk from 2 ft (assist by J. Crowder),37,58
+2,0:20.0,C. Sexton misses 2-pt jump shot from 18 ft,,37,58
+2,0:18.0,,Defensive rebound by R. Gobert,37,58
+2,0:04.0,Violation by Team (kicked ball),,37,58
+2,0:01.0,,R. O'Neale makes 3-pt jump shot from 24 ft (assist by D. Mitchell),37,61
+3,11:52.0,Personal foul by D. Mitchell (drawn by R. Hood),,37,61
+3,11:45.0,R. Hood misses 2-pt jump shot from 3 ft,,37,61
+3,11:43.0,,Defensive rebound by R. O'Neale,37,61
+3,11:27.0,,R. Gobert makes 2-pt layup from 3 ft (assist by J. Ingles),37,63
+3,11:08.0,A. Burks misses 2-pt jump shot from 9 ft,,37,63
+3,11:05.0,,Defensive rebound by R. O'Neale,37,63
+3,10:56.0,,Turnover by D. Mitchell (out of bounds lost ball),37,63
+3,10:44.0,Personal foul by R. O'Neale (drawn by C. Sexton),,37,63
+3,10:41.0,Turnover by A. Burks (bad pass; steal by R. Gobert),,37,63
+3,10:37.0,,Turnover by R. Gobert (bad pass; steal by C. Osman),37,63
+3,10:29.0,C. Osman makes 3-pt jump shot from 25 ft (assist by R. Hood),,40,63
+3,10:12.0,,Turnover by D. Mitchell (bad pass),40,63
+3,9:56.0,C. Osman misses 2-pt jump shot from 12 ft,,40,63
+3,9:54.0,,Defensive rebound by D. Favors,40,63
+3,9:38.0,,R. O'Neale misses 3-pt jump shot from 22 ft,40,63
+3,9:35.0,,Offensive rebound by Team,40,63
+3,9:33.0,,D. Mitchell makes 2-pt jump shot from 5 ft (assist by J. Ingles),40,65
+3,9:33.0,,Shooting foul by A. Burks (drawn by D. Mitchell),40,65
+3,9:33.0,,D. Mitchell makes free throw 1 of 1,40,66
+3,9:16.0,Shooting foul by D. Mitchell (drawn by C. Sexton),,40,66
+3,9:16.0,C. Sexton makes free throw 1 of 2,,41,66
+3,9:16.0,,K. Korver enters the game for D. Mitchell,41,66
+3,9:16.0,C. Sexton makes free throw 2 of 2,,42,66
+3,9:09.0,,R. Gobert misses 2-pt dunk from 3 ft,42,66
+3,9:07.0,,Offensive rebound by J. Ingles,42,66
+3,9:05.0,,Turnover by J. Ingles (bad pass; steal by R. Hood),42,66
+3,8:55.0,C. Osman misses 3-pt jump shot from 25 ft,,42,66
+3,8:51.0,,Defensive rebound by R. O'Neale,42,66
+3,8:44.0,,K. Korver misses 3-pt jump shot from 26 ft,42,66
+3,8:41.0,,Offensive rebound by R. Gobert,42,66
+3,8:31.0,,R. O'Neale makes 2-pt jump shot from 10 ft (assist by R. Gobert),42,68
+3,8:13.0,A. Burks makes 2-pt jump shot from 6 ft,,44,68
+3,8:13.0,Shooting foul by R. Gobert (drawn by A. Burks),,44,68
+3,8:13.0,A. Burks misses free throw 1 of 1,,44,68
+3,8:12.0,,Defensive rebound by R. Gobert,44,68
+3,7:52.0,,R. O'Neale makes 2-pt dunk from 3 ft (assist by J. Ingles),44,70
+3,7:36.0,A. Žižić misses 2-pt layup from 3 ft (block by D. Favors),,44,70
+3,7:35.0,Offensive rebound by Team,,44,70
+3,7:35.0,,J. Crowder enters the game for D. Favors,44,70
+3,7:26.0,A. Žižić makes 2-pt hook shot from 5 ft (assist by A. Burks),,46,70
+3,7:17.0,,Personal foul by C. Sexton (drawn by R. Gobert),46,70
+3,7:17.0,J. Clarkson enters the game for R. Hood,,46,70
+3,7:09.0,,Shooting foul by A. Žižić (drawn by R. Gobert),46,70
+3,7:09.0,,R. Gobert makes free throw 1 of 2,46,71
+3,7:09.0,,R. Gobert makes free throw 2 of 2,46,72
+3,6:59.0,C. Sexton misses 2-pt jump shot from 11 ft,,46,72
+3,6:57.0,,Defensive rebound by R. O'Neale,46,72
+3,6:46.0,,R. Gobert makes 2-pt jump shot from 3 ft (assist by J. Crowder),46,74
+3,6:46.0,,Shooting foul by A. Žižić (drawn by R. Gobert),46,74
+3,6:46.0,,R. Gobert makes free throw 1 of 1,46,75
+3,6:24.0,A. Burks misses 2-pt jump shot from 10 ft,,46,75
+3,6:22.0,,Defensive rebound by R. O'Neale,46,75
+3,6:04.0,,R. Gobert makes 2-pt dunk from 1 ft (assist by J. Ingles),46,77
+3,6:04.0,Cleveland full timeout,,46,77
+3,6:04.0,J. Blossomgame enters the game for A. Burks,,46,77
+3,6:04.0,M. Dellavedova enters the game for C. Osman,,46,77
+3,6:04.0,C. Frye enters the game for C. Sexton,,46,77
+3,6:04.0,C. Payne enters the game for A. Žižić,,46,77
+3,5:49.0,C. Frye misses 3-pt jump shot from 24 ft,,46,77
+3,5:46.0,,Defensive rebound by R. O'Neale,46,77
+3,5:33.0,,J. Crowder makes 2-pt layup from 3 ft (assist by R. O'Neale),46,79
+3,5:33.0,,Shooting foul by J. Blossomgame (drawn by J. Crowder),46,79
+3,5:33.0,,J. Crowder makes free throw 1 of 1,46,80
+3,5:26.0,Shooting foul by J. Crowder (drawn by J. Blossomgame),,46,80
+3,5:26.0,J. Blossomgame misses free throw 1 of 2,,46,80
+3,5:26.0,Offensive rebound by Team,,46,80
+3,5:26.0,J. Blossomgame makes free throw 2 of 2,,47,80
+3,5:18.0,,J. Crowder misses 3-pt jump shot from 25 ft,47,80
+3,5:15.0,,Offensive rebound by R. Gobert,47,80
+3,5:14.0,,R. Gobert makes 2-pt layup from 3 ft,47,82
+3,4:53.0,J. Clarkson misses 3-pt jump shot from 25 ft,,47,82
+3,4:50.0,,Defensive rebound by J. Crowder,47,82
+3,4:43.0,,R. Gobert makes 2-pt layup from 2 ft (assist by J. Ingles),47,84
+3,4:28.0,M. Dellavedova misses 2-pt layup from 3 ft,,47,84
+3,4:26.0,,Defensive rebound by J. Crowder,47,84
+3,4:18.0,,Turnover by J. Ingles (bad pass; steal by C. Frye),47,84
+3,4:12.0,C. Payne makes 2-pt layup from 3 ft,,49,84
+3,4:12.0,,Utah full timeout,49,84
+3,4:12.0,,G. Allen enters the game for J. Ingles,49,84
+3,4:12.0,,D. Mitchell enters the game for R. O'Neale,49,84
+3,3:59.0,,J. Crowder makes 3-pt jump shot from 26 ft (assist by R. Gobert),49,87
+3,3:42.0,Personal foul by G. Allen (drawn by C. Frye),,49,87
+3,3:42.0,C. Frye makes free throw 1 of 2,,50,87
+3,3:42.0,C. Frye makes free throw 2 of 2,,51,87
+3,3:32.0,,J. Crowder misses 3-pt jump shot from 26 ft,51,87
+3,3:29.0,Defensive rebound by J. Clarkson,,51,87
+3,3:14.0,C. Frye makes 2-pt hook shot from 6 ft,,53,87
+3,3:14.0,Shooting foul by J. Crowder (drawn by C. Frye),,53,87
+3,3:14.0,,D. Favors enters the game for R. Gobert,53,87
+3,3:14.0,C. Frye misses free throw 1 of 1,,53,87
+3,3:11.0,,Defensive rebound by D. Favors,53,87
+3,2:48.0,,G. Allen misses 2-pt jump shot from 10 ft,53,87
+3,2:47.0,Defensive rebound by J. Blossomgame,,53,87
+3,2:37.0,Turnover by J. Clarkson (lost ball; steal by D. Favors),,53,87
+3,2:33.0,,G. Allen makes 2-pt dunk from 1 ft,53,89
+3,2:27.0,Turnover by C. Frye (bad pass),,53,89
+3,2:13.0,,G. Allen misses 3-pt jump shot from 26 ft,53,89
+3,2:09.0,Defensive rebound by M. Dellavedova,,53,89
+3,2:02.0,C. Frye misses 3-pt jump shot from 25 ft,,53,89
+3,1:58.0,,Defensive rebound by K. Korver,53,89
+3,1:49.0,,D. Mitchell makes 2-pt jump shot from 10 ft,53,91
+3,1:29.0,J. Blossomgame makes 2-pt dunk from 2 ft (assist by C. Frye),,55,91
+3,1:09.0,,D. Favors misses 2-pt hook shot from 3 ft,55,91
+3,1:06.0,Defensive rebound by M. Dellavedova,,55,91
+3,1:04.0,M. Dellavedova makes 3-pt jump shot from 26 ft,,58,91
+3,0:44.0,,D. Mitchell misses 2-pt jump shot from 17 ft,58,91
+3,0:40.0,Defensive rebound by J. Blossomgame,,58,91
+3,0:32.0,C. Frye misses 3-pt jump shot from 28 ft,,58,91
+3,0:29.0,,Defensive rebound by D. Mitchell,58,91
+3,0:08.0,,J. Crowder misses 2-pt layup from 4 ft,58,91
+3,0:08.0,,Offensive rebound by D. Favors,58,91
+3,0:08.0,,D. Favors makes 2-pt dunk from 1 ft,58,93
+3,0:00.0,C. Payne makes 2-pt jump shot from 15 ft,,60,93
+4,11:51.0,,Shooting foul by C. Payne (drawn by G. Allen),60,93
+4,11:51.0,,G. Allen makes free throw 1 of 2,60,94
+4,11:51.0,,G. Allen makes free throw 2 of 2,60,95
+4,11:33.0,J. Blossomgame makes 2-pt dunk from 1 ft (assist by M. Dellavedova),,62,95
+4,11:20.0,,Shooting foul by J. Blossomgame (drawn by D. Favors),62,95
+4,11:20.0,,D. Favors makes free throw 1 of 2,62,96
+4,11:20.0,,D. Favors makes free throw 2 of 2,62,97
+4,11:08.0,C. Payne makes 2-pt jump shot from 17 ft,,64,97
+4,10:52.0,,Turnover by R. O'Neale (bad pass; steal by A. Žižić),64,97
+4,10:49.0,Shooting foul by G. Allen (drawn by J. Blossomgame),,64,97
+4,10:49.0,J. Blossomgame makes free throw 1 of 2,,65,97
+4,10:49.0,J. Blossomgame makes free throw 2 of 2,,66,97
+4,10:38.0,,G. Niang misses 3-pt jump shot from 23 ft,66,97
+4,10:36.0,Defensive rebound by Team,,66,97
+4,10:27.0,A. Žižić misses 2-pt jump shot from 18 ft,,66,97
+4,10:23.0,,Defensive rebound by D. Favors,66,97
+4,10:18.0,,D. Favors misses 2-pt layup from 3 ft (block by A. Žižić),66,97
+4,10:18.0,Defensive rebound by A. Žižić,,66,97
+4,10:11.0,J. Clarkson makes 3-pt jump shot from 23 ft (assist by M. Dellavedova),,69,97
+4,9:43.0,,J. Ingles misses 3-pt jump shot from 26 ft,69,97
+4,9:40.0,Defensive rebound by J. Blossomgame,,69,97
+4,9:40.0,,Technical foul by J. Ingles,69,97
+4,9:40.0,J. Clarkson makes technical free throw,,70,97
+4,9:35.0,Turnover by M. Dellavedova (bad pass),,70,97
+4,9:24.0,,J. Ingles makes 2-pt layup from 5 ft,70,99
+4,9:07.0,C. Payne makes 2-pt layup from 3 ft,,72,99
+4,8:55.0,,J. Ingles makes 2-pt layup from 3 ft,72,101
+4,8:35.0,A. Žižić makes 2-pt hook shot from 5 ft,,74,101
+4,8:17.0,,Personal foul by J. Blossomgame (drawn by G. Niang),74,101
+4,8:17.0,,N. Mitrou-Long enters the game for J. Ingles,74,101
+4,8:11.0,,G. Allen misses 3-pt jump shot from 25 ft,74,101
+4,8:09.0,Defensive rebound by A. Žižić,,74,101
+4,8:00.0,A. Žižić makes 2-pt layup from 3 ft (assist by J. Clarkson),,76,101
+4,7:48.0,,D. Favors misses 2-pt jump shot from 19 ft,76,101
+4,7:45.0,Defensive rebound by A. Žižić,,76,101
+4,7:38.0,M. Dellavedova misses 2-pt layup from 2 ft,,76,101
+4,7:35.0,,Defensive rebound by D. Favors,76,101
+4,7:32.0,,Offensive foul by G. Allen (drawn by J. Blossomgame),76,101
+4,7:32.0,,Turnover by G. Allen (offensive foul),76,101
+4,7:32.0,Cleveland full timeout,,76,101
+4,7:32.0,,E. Udoh enters the game for D. Favors,76,101
+4,7:09.0,Shooting foul by R. O'Neale (drawn by J. Clarkson),,76,101
+4,7:09.0,J. Clarkson misses free throw 1 of 2,,76,101
+4,7:09.0,Offensive rebound by Team,,76,101
+4,7:09.0,C. Sexton enters the game for M. Dellavedova,,76,101
+4,7:09.0,J. Clarkson makes free throw 2 of 2,,77,101
+4,6:57.0,,Personal foul by C. Payne (drawn by G. Allen),77,101
+4,6:48.0,,Turnover by G. Niang (bad pass; steal by C. Payne),77,101
+4,6:40.0,C. Sexton misses 2-pt jump shot from 5 ft,,77,101
+4,6:40.0,Offensive rebound by Team,,77,101
+4,6:40.0,Turnover by (5 sec),,77,101
+4,6:26.0,,Turnover by E. Udoh (out of bounds lost ball),77,101
+4,6:14.0,A. Žižić makes 2-pt layup from 3 ft (assist by C. Payne),,79,101
+4,6:00.0,,Turnover by G. Niang (bad pass; steal by C. Sexton),79,101
+4,5:52.0,A. Žižić makes 2-pt layup from 2 ft (assist by C. Payne),,81,101
+4,5:36.0,,R. O'Neale makes 3-pt jump shot from 23 ft (assist by G. Allen),81,104
+4,5:13.0,Shooting foul by G. Allen (drawn by C. Sexton),,81,104
+4,5:13.0,C. Sexton misses free throw 1 of 2,,81,104
+4,5:13.0,Offensive rebound by Team,,81,104
+4,5:13.0,C. Sexton makes free throw 2 of 2,,82,104
+4,4:50.0,,R. O'Neale makes 3-pt jump shot from 29 ft (assist by G. Niang),82,107
+4,4:35.0,C. Payne makes 2-pt jump shot from 11 ft,,84,107
+4,4:16.0,,Utah full timeout,84,107
+4,4:15.0,,G. Niang misses 3-pt jump shot from 25 ft,84,107
+4,4:10.0,Defensive rebound by A. Žižić,,84,107
+4,3:51.0,A. Žižić makes 2-pt hook shot from 4 ft,,86,107
+4,3:34.0,,G. Niang makes 3-pt jump shot from 24 ft (assist by N. Mitrou-Long),86,110
+4,3:09.0,A. Žižić makes 2-pt layup from 4 ft (assist by J. Clarkson),,88,110
+4,2:56.0,,G. Allen misses 3-pt jump shot from 26 ft,88,110
+4,2:52.0,Defensive rebound by C. Payne,,88,110
+4,2:44.0,C. Payne misses 2-pt jump shot from 19 ft,,88,110
+4,2:40.0,,Defensive rebound by Team,88,110
+4,2:40.0,,T. Cavanaugh enters the game for R. O'Neale,88,110
+4,2:16.0,,T. Cavanaugh makes 2-pt layup from 2 ft (assist by N. Mitrou-Long),88,112
+4,2:09.0,Turnover by C. Sexton (bad pass),,88,112
+4,1:51.0,,E. Udoh misses 2-pt layup from 6 ft,88,112
+4,1:50.0,Defensive rebound by A. Žižić,,88,112
+4,1:42.0,C. Sexton makes 3-pt jump shot from 25 ft,,91,112
+4,1:25.0,,T. Cavanaugh misses 3-pt jump shot from 23 ft,91,112
+4,1:20.0,Defensive rebound by C. Payne,,91,112
+4,1:17.0,J. Clarkson makes 3-pt jump shot from 25 ft (assist by C. Payne),,94,112
+4,1:00.0,,T. Cavanaugh misses 2-pt layup from 3 ft,94,112
+4,0:57.0,,Offensive rebound by E. Udoh,94,112
+4,0:57.0,,E. Udoh misses 2-pt layup from 1 ft,94,112
+4,0:57.0,Defensive rebound by A. Žižić,,94,112
+4,0:36.0,J. Blossomgame makes 2-pt jump shot from 4 ft (assist by C. Sexton),,96,112
+4,0:19.0,,G. Niang makes 3-pt jump shot from 25 ft,96,115
+4,0:03.0,C. Sexton makes 3-pt jump shot from 25 ft,,99,115

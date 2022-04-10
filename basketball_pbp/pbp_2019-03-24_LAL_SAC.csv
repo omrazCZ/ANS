@@ -1,0 +1,500 @@
+QUARTER,TIME_REMAINING,SACRAMENTO_ACTION,LA LAKERS_ACTION,SACRAMENTO_SCORE,LA LAKERS_SCORE
+1,11:46.0,,K. Kuzma misses 2-pt dunk from 2 ft (block by W. Cauley-Stein),0,0
+1,11:42.0,Defensive rebound by B. Hield,,0,0
+1,11:29.0,W. Cauley-Stein misses 2-pt jump shot from 18 ft,,0,0
+1,11:26.0,,Defensive rebound by J. McGee,0,0
+1,11:18.0,,R. Rondo misses 2-pt layup from 3 ft (block by D. Fox),0,0
+1,11:15.0,Defensive rebound by B. Hield,,0,0
+1,11:13.0,B. Hield misses 2-pt layup from 2 ft,,0,0
+1,11:13.0,,Defensive rebound by L. James,0,0
+1,11:09.0,,Turnover by L. James (lost ball; steal by W. Cauley-Stein),0,0
+1,11:07.0,N. Bjelica makes 2-pt layup from 4 ft,,2,0
+1,11:07.0,Violation by Team (kicked ball),,2,0
+1,10:55.0,,K. Caldwell-Pope makes 3-pt jump shot from 24 ft (assist by L. James),2,3
+1,10:39.0,B. Hield misses 2-pt layup from 2 ft (block by J. McGee),,2,3
+1,10:37.0,,Defensive rebound by J. McGee,2,3
+1,10:28.0,,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,2,3
+1,10:24.0,Defensive rebound by W. Cauley-Stein,,2,3
+1,10:13.0,Shooting foul by J. McGee (drawn by W. Cauley-Stein),,2,3
+1,10:13.0,W. Cauley-Stein misses free throw 1 of 2,,2,3
+1,10:13.0,Offensive rebound by Team,,2,3
+1,10:13.0,W. Cauley-Stein misses free throw 2 of 2,,2,3
+1,10:11.0,,Defensive rebound by L. James,2,3
+1,10:00.0,,L. James makes 2-pt dunk from 1 ft (assist by K. Kuzma),2,5
+1,9:52.0,D. Fox makes 3-pt jump shot from 26 ft,,5,5
+1,9:43.0,,R. Rondo misses 3-pt jump shot from 26 ft,5,5
+1,9:43.0,,Offensive rebound by Team,5,5
+1,9:41.0,Loose ball foul by W. Cauley-Stein (drawn by J. McGee),,5,5
+1,9:29.0,,K. Kuzma misses 3-pt jump shot from 22 ft,5,5
+1,9:27.0,Defensive rebound by D. Fox,,5,5
+1,9:19.0,W. Cauley-Stein makes 2-pt layup from 4 ft (assist by B. Hield),,7,5
+1,9:08.0,,Turnover by K. Kuzma (lost ball; steal by N. Bjelica),7,5
+1,9:03.0,D. Fox misses 3-pt jump shot from 25 ft,,7,5
+1,9:00.0,Offensive rebound by W. Cauley-Stein,,7,5
+1,8:58.0,H. Barnes makes 3-pt jump shot from 25 ft (assist by W. Cauley-Stein),,10,5
+1,8:37.0,,L. James misses 2-pt layup from 2 ft,10,5
+1,8:33.0,,J. McGee makes 2-pt layup from 1 ft,10,7
+1,8:33.0,,Offensive rebound by J. McGee,10,7
+1,8:17.0,N. Bjelica misses 2-pt jump shot from 20 ft,,10,7
+1,8:15.0,,Defensive rebound by K. Caldwell-Pope,10,7
+1,8:07.0,,L. James makes 2-pt layup from 4 ft (assist by K. Caldwell-Pope),10,9
+1,8:07.0,,Shooting foul by N. Bjelica (drawn by L. James),10,9
+1,8:07.0,,L. James misses free throw 1 of 1,10,9
+1,8:04.0,Defensive rebound by N. Bjelica,,10,9
+1,7:47.0,Personal foul by K. Kuzma (drawn by H. Barnes),,10,9
+1,7:38.0,B. Hield misses 2-pt jump shot from 9 ft,,10,9
+1,7:34.0,,Defensive rebound by L. James,10,9
+1,7:31.0,,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,10,9
+1,7:27.0,,Offensive rebound by K. Caldwell-Pope,10,9
+1,7:26.0,,J. McGee makes 2-pt dunk from 2 ft (assist by K. Kuzma),10,11
+1,7:26.0,,Shooting foul by N. Bjelica (drawn by J. McGee),10,11
+1,7:26.0,M. Bagley enters the game for N. Bjelica,,10,11
+1,7:26.0,,J. McGee misses free throw 1 of 1,10,11
+1,7:23.0,Defensive rebound by W. Cauley-Stein,,10,11
+1,7:14.0,Personal foul by J. McGee (drawn by M. Bagley),,10,11
+1,7:07.0,D. Fox misses 2-pt jump shot from 17 ft,,10,11
+1,7:05.0,,Defensive rebound by L. James,10,11
+1,6:59.0,,L. James makes 2-pt jump shot from 19 ft,10,13
+1,6:44.0,Turnover by D. Fox (bad pass; steal by L. James),,10,13
+1,6:41.0,,Turnover by R. Rondo (bad pass; steal by D. Fox),10,13
+1,6:35.0,H. Barnes misses 3-pt jump shot from 25 ft,,10,13
+1,6:32.0,Offensive rebound by M. Bagley,,10,13
+1,6:32.0,M. Bagley makes 2-pt dunk at rim,,12,13
+1,6:32.0,,LA Lakers full timeout,12,13
+1,6:32.0,,T. Chandler enters the game for J. McGee,12,13
+1,6:09.0,,L. James misses 2-pt jump shot from 15 ft,12,13
+1,6:07.0,Defensive rebound by M. Bagley,,12,13
+1,5:58.0,B. Hield misses 3-pt jump shot from 26 ft,,12,13
+1,5:55.0,,Defensive rebound by L. James,12,13
+1,5:47.0,,K. Kuzma makes 2-pt layup from 3 ft (assist by R. Rondo),12,15
+1,5:37.0,W. Cauley-Stein misses 2-pt jump shot from 18 ft,,12,15
+1,5:34.0,,Defensive rebound by K. Kuzma,12,15
+1,5:24.0,,K. Kuzma misses 3-pt jump shot from 27 ft,12,15
+1,5:22.0,Defensive rebound by W. Cauley-Stein,,12,15
+1,5:12.0,M. Bagley misses 2-pt jump shot from 16 ft,,12,15
+1,5:09.0,,Defensive rebound by R. Rondo,12,15
+1,5:03.0,,K. Kuzma misses 3-pt jump shot from 27 ft,12,15
+1,4:59.0,Defensive rebound by W. Cauley-Stein,,12,15
+1,4:50.0,B. Hield makes 3-pt jump shot from 25 ft (assist by D. Fox),,15,15
+1,4:30.0,,Turnover by K. Kuzma (bad pass; steal by D. Fox),15,15
+1,4:23.0,B. Hield misses 2-pt jump shot from 16 ft,,15,15
+1,4:20.0,,Defensive rebound by T. Chandler,15,15
+1,4:20.0,B. Bogdanović enters the game for W. Cauley-Stein,,15,15
+1,4:20.0,K. Koufos enters the game for B. Hield,,15,15
+1,4:20.0,,L. Stephenson enters the game for L. James,15,15
+1,4:20.0,,M. Wagner enters the game for K. Kuzma,15,15
+1,4:09.0,,K. Caldwell-Pope misses 2-pt jump shot from 22 ft,15,15
+1,4:05.0,Defensive rebound by K. Koufos,,15,15
+1,3:56.0,D. Fox misses 2-pt jump shot from 16 ft,,15,15
+1,3:53.0,Offensive rebound by B. Bogdanović,,15,15
+1,3:53.0,Personal foul by M. Wagner (drawn by B. Bogdanović),,15,15
+1,3:53.0,Sacramento full timeout,,15,15
+1,3:53.0,Y. Ferrell enters the game for D. Fox,,15,15
+1,3:43.0,K. Koufos misses 2-pt jump shot from 7 ft,,15,15
+1,3:43.0,Offensive rebound by Team,,15,15
+1,3:37.0,M. Bagley misses 3-pt jump shot from 24 ft,,15,15
+1,3:36.0,,Defensive rebound by R. Rondo,15,15
+1,3:33.0,,K. Caldwell-Pope makes 3-pt jump shot from 28 ft (assist by R. Rondo),15,18
+1,3:16.0,K. Koufos misses 2-pt hook shot from 6 ft,,15,18
+1,3:13.0,,Defensive rebound by K. Caldwell-Pope,15,18
+1,3:06.0,,Turnover by T. Chandler (3 sec),15,18
+1,3:06.0,C. Brewer enters the game for H. Barnes,,15,18
+1,2:48.0,M. Bagley misses 2-pt layup from 4 ft,,15,18
+1,2:46.0,,Defensive rebound by M. Wagner,15,18
+1,2:36.0,,Shooting foul by K. Koufos (drawn by T. Chandler),15,18
+1,2:36.0,,T. Chandler makes free throw 1 of 2,15,19
+1,2:36.0,,T. Chandler misses free throw 2 of 2,15,19
+1,2:34.0,Defensive rebound by C. Brewer,,15,19
+1,2:23.0,Y. Ferrell misses 3-pt jump shot from 27 ft,,15,19
+1,2:20.0,,Defensive rebound by R. Rondo,15,19
+1,2:15.0,,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,15,19
+1,2:11.0,,Offensive rebound by R. Rondo,15,19
+1,2:08.0,,M. Wagner misses 3-pt jump shot from 28 ft,15,19
+1,2:05.0,Defensive rebound by C. Brewer,,15,19
+1,1:55.0,Y. Ferrell misses 3-pt jump shot from 24 ft,,15,19
+1,1:50.0,Offensive rebound by C. Brewer,,15,19
+1,1:40.0,M. Bagley makes 3-pt jump shot from 26 ft (assist by K. Koufos),,18,19
+1,1:23.0,,L. Stephenson misses 2-pt jump shot from 18 ft,18,19
+1,1:19.0,,Offensive rebound by L. Stephenson,18,19
+1,1:11.0,,Offensive foul by T. Chandler (drawn by B. Bogdanović),18,19
+1,1:11.0,,Turnover by T. Chandler (offensive foul),18,19
+1,1:11.0,,A. Caruso enters the game for K. Caldwell-Pope,18,19
+1,1:11.0,,K. Kuzma enters the game for M. Wagner,18,19
+1,0:49.0,M. Bagley makes 2-pt dunk from 1 ft (assist by C. Brewer),,20,19
+1,0:40.0,,Turnover by L. Stephenson (lost ball; steal by B. Bogdanović),20,19
+1,0:35.0,C. Brewer misses 2-pt jump shot from 8 ft,,20,19
+1,0:31.0,,Defensive rebound by L. Stephenson,20,19
+1,0:13.0,,K. Kuzma makes 3-pt jump shot from 27 ft,20,22
+1,0:00.0,K. Koufos misses 2-pt jump shot from 8 ft,,20,22
+1,0:00.0,Offensive rebound by Team,,20,22
+2,11:40.0,B. Bogdanović misses 2-pt jump shot from 12 ft,,20,22
+2,11:37.0,,Defensive rebound by K. Kuzma,20,22
+2,11:25.0,,Turnover by L. James (bad pass; steal by C. Brewer),20,22
+2,11:21.0,Turnover by M. Bagley (lost ball; steal by L. James),,20,22
+2,11:17.0,,J. McGee makes 2-pt dunk from 1 ft (assist by L. Stephenson),20,24
+2,11:13.0,Sacramento full timeout,,20,24
+2,11:05.0,Turnover by Y. Ferrell (bad pass),,20,24
+2,10:47.0,,A. Caruso misses 3-pt jump shot from 24 ft,20,24
+2,10:46.0,,Offensive rebound by Team,20,24
+2,10:46.0,Loose ball foul by K. Koufos (drawn by J. McGee),,20,24
+2,10:39.0,,K. Kuzma misses 3-pt jump shot from 24 ft,20,24
+2,10:37.0,,Offensive rebound by J. McGee,20,24
+2,10:32.0,,L. James makes 3-pt jump shot from 26 ft,20,27
+2,10:09.0,M. Bagley misses 2-pt layup from 5 ft,,20,27
+2,10:06.0,,Defensive rebound by K. Kuzma,20,27
+2,10:03.0,,L. Stephenson makes 2-pt dunk from 1 ft (assist by L. James),20,29
+2,9:40.0,Y. Ferrell misses 2-pt jump shot from 16 ft,,20,29
+2,9:33.0,Offensive rebound by M. Bagley,,20,29
+2,9:31.0,K. Koufos misses 2-pt jump shot from 12 ft,,20,29
+2,9:27.0,Offensive rebound by M. Bagley,,20,29
+2,9:27.0,M. Bagley misses 2-pt layup at rim,,20,29
+2,9:25.0,,Defensive rebound by A. Caruso,20,29
+2,9:24.0,,J. McGee makes 2-pt dunk from 1 ft (assist by L. James),20,31
+2,9:08.0,Shooting foul by A. Caruso (drawn by B. Bogdanović),,20,31
+2,9:08.0,B. Bogdanović makes free throw 1 of 2,,21,31
+2,9:08.0,N. Bjelica enters the game for K. Koufos,,21,31
+2,9:08.0,B. Bogdanović misses free throw 2 of 2,,21,31
+2,9:06.0,,Defensive rebound by J. McGee,21,31
+2,8:48.0,,A. Caruso misses 3-pt jump shot from 25 ft,21,31
+2,8:46.0,Defensive rebound by Team,,21,31
+2,8:46.0,,Loose ball foul by J. McGee (drawn by N. Bjelica),21,31
+2,8:31.0,B. Bogdanović misses 2-pt layup from 2 ft,,21,31
+2,8:27.0,Offensive rebound by B. Bogdanović,,21,31
+2,8:27.0,B. Bogdanović makes 2-pt layup at rim,,23,31
+2,8:27.0,,M. Wagner enters the game for J. McGee,23,31
+2,8:20.0,,K. Kuzma misses 3-pt jump shot from 22 ft,23,31
+2,8:17.0,Defensive rebound by M. Bagley,,23,31
+2,8:09.0,Shooting foul by A. Caruso (drawn by Y. Ferrell),,23,31
+2,8:09.0,Y. Ferrell makes free throw 1 of 2,,24,31
+2,8:09.0,Y. Ferrell makes free throw 2 of 2,,25,31
+2,7:55.0,,L. James misses 2-pt layup from 2 ft,25,31
+2,7:51.0,Defensive rebound by C. Brewer,,25,31
+2,7:49.0,Shooting foul by M. Wagner (drawn by M. Bagley),,25,31
+2,7:49.0,M. Bagley misses free throw 1 of 2,,25,31
+2,7:49.0,Offensive rebound by Team,,25,31
+2,7:49.0,M. Bagley makes free throw 2 of 2,,26,31
+2,7:49.0,B. Hield enters the game for C. Brewer,,26,31
+2,7:30.0,,K. Kuzma makes 2-pt dunk from 1 ft (assist by L. Stephenson),26,33
+2,7:05.0,B. Bogdanović makes 2-pt jump shot from 8 ft,,28,33
+2,6:50.0,,Turnover by A. Caruso (bad pass),28,33
+2,6:44.0,Y. Ferrell makes 2-pt jump shot from 16 ft,,30,33
+2,6:43.0,,LA Lakers full timeout,30,33
+2,6:43.0,,K. Caldwell-Pope enters the game for A. Caruso,30,33
+2,6:43.0,,R. Rondo enters the game for M. Wagner,30,33
+2,6:23.0,,L. James misses 2-pt layup from 3 ft (block by M. Bagley),30,33
+2,6:20.0,,Offensive rebound by L. James,30,33
+2,6:19.0,,L. James misses 2-pt layup from 4 ft,30,33
+2,6:18.0,Defensive rebound by N. Bjelica,,30,33
+2,6:13.0,B. Hield makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),,33,33
+2,5:54.0,,Personal foul by B. Bogdanović (drawn by L. James),33,33
+2,5:54.0,D. Fox enters the game for Y. Ferrell,,33,33
+2,5:41.0,,L. James misses 2-pt jump shot from 15 ft,33,33
+2,5:38.0,Defensive rebound by N. Bjelica,,33,33
+2,5:29.0,M. Bagley makes 2-pt hook shot from 8 ft (assist by N. Bjelica),,35,33
+2,5:16.0,,L. Stephenson makes 2-pt jump shot from 4 ft (assist by R. Rondo),35,35
+2,5:07.0,Personal foul by K. Kuzma (drawn by M. Bagley),,35,35
+2,5:07.0,M. Bagley makes free throw 1 of 2,,36,35
+2,5:07.0,H. Barnes enters the game for N. Bjelica,,36,35
+2,5:07.0,,T. Chandler enters the game for L. Stephenson,36,35
+2,5:07.0,M. Bagley misses free throw 2 of 2,,36,35
+2,5:05.0,,Defensive rebound by K. Kuzma,36,35
+2,4:55.0,,L. James misses 2-pt hook shot from 3 ft,36,35
+2,4:51.0,,Offensive rebound by T. Chandler,36,35
+2,4:51.0,,T. Chandler makes 2-pt dunk from 1 ft,36,37
+2,4:34.0,B. Bogdanović misses 2-pt layup from 3 ft (block by T. Chandler),,36,37
+2,4:32.0,,Defensive rebound by T. Chandler,36,37
+2,4:28.0,,K. Caldwell-Pope misses 3-pt jump shot from 22 ft,36,37
+2,4:25.0,Defensive rebound by M. Bagley,,36,37
+2,4:25.0,W. Cauley-Stein enters the game for M. Bagley,,36,37
+2,4:25.0,,L. Stephenson enters the game for L. James,36,37
+2,4:09.0,D. Fox misses 2-pt jump shot from 10 ft,,36,37
+2,4:07.0,,Defensive rebound by L. Stephenson,36,37
+2,3:57.0,,Turnover by R. Rondo (lost ball; steal by D. Fox),36,37
+2,3:51.0,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by B. Bogdanović),,38,37
+2,3:43.0,,Personal foul by B. Bogdanović (drawn by L. Stephenson),38,37
+2,3:28.0,,R. Rondo makes 3-pt jump shot from 27 ft,38,40
+2,3:15.0,B. Hield makes 3-pt jump shot from 26 ft (assist by H. Barnes),,41,40
+2,2:57.0,,L. Stephenson makes 2-pt layup from 2 ft,41,42
+2,2:49.0,Offensive foul by D. Fox (drawn by K. Caldwell-Pope),,41,42
+2,2:49.0,Turnover by D. Fox (offensive foul),,41,42
+2,2:33.0,,Shooting foul by W. Cauley-Stein (drawn by L. Stephenson),41,42
+2,2:33.0,,L. Stephenson makes free throw 1 of 2,41,43
+2,2:33.0,M. Bagley enters the game for B. Bogdanović,,41,43
+2,2:33.0,,L. Stephenson makes free throw 2 of 2,41,44
+2,2:22.0,B. Hield misses 3-pt jump shot from 25 ft,,41,44
+2,2:22.0,,Defensive rebound by Team,41,44
+2,2:15.0,,K. Kuzma misses 3-pt jump shot from 25 ft,41,44
+2,2:12.0,Defensive rebound by D. Fox,,41,44
+2,2:06.0,M. Bagley makes 2-pt dunk from 1 ft (assist by D. Fox),,43,44
+2,1:50.0,,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,43,44
+2,1:48.0,Defensive rebound by W. Cauley-Stein,,43,44
+2,1:43.0,D. Fox makes 2-pt jump shot from 13 ft,,45,44
+2,1:23.0,,Personal foul by D. Fox (drawn by K. Caldwell-Pope),45,44
+2,1:23.0,,Violation by Team (delay of game),45,44
+2,1:23.0,,K. Caldwell-Pope makes free throw 1 of 2,45,45
+2,1:23.0,,K. Caldwell-Pope makes free throw 2 of 2,45,46
+2,1:06.0,Shooting foul by R. Rondo (drawn by H. Barnes),,45,46
+2,1:06.0,H. Barnes makes free throw 1 of 2,,46,46
+2,1:06.0,H. Barnes makes free throw 2 of 2,,47,46
+2,1:00.0,,R. Rondo misses 3-pt jump shot from 25 ft,47,46
+2,0:57.0,Defensive rebound by B. Hield,,47,46
+2,0:48.0,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by M. Bagley),,49,46
+2,0:45.0,Violation by Team (kicked ball),,49,46
+2,0:45.0,,A. Caruso enters the game for K. Kuzma,49,46
+2,0:35.0,,R. Rondo misses 3-pt jump shot from 23 ft,49,46
+2,0:31.0,Defensive rebound by W. Cauley-Stein,,49,46
+2,0:29.0,Shooting foul by R. Rondo (drawn by M. Bagley),,49,46
+2,0:29.0,M. Bagley misses free throw 1 of 2,,49,46
+2,0:29.0,Offensive rebound by Team,,49,46
+2,0:29.0,Y. Ferrell enters the game for W. Cauley-Stein,,49,46
+2,0:29.0,K. Koufos enters the game for D. Fox,,49,46
+2,0:29.0,M. Bagley misses free throw 2 of 2,,49,46
+2,0:27.0,,Defensive rebound by L. Stephenson,49,46
+2,0:06.0,,A. Caruso makes 2-pt layup from 2 ft (assist by R. Rondo),49,48
+2,0:03.0,Y. Ferrell misses 3-pt jump shot from 26 ft,,49,48
+2,0:00.0,Offensive rebound by B. Hield,,49,48
+2,0:00.0,B. Hield misses 2-pt layup at rim,,49,48
+2,0:00.0,Offensive rebound by Team,,49,48
+3,11:43.0,H. Barnes misses 2-pt jump shot from 13 ft,,49,48
+3,11:41.0,,Defensive rebound by L. James,49,48
+3,11:38.0,,J. McGee makes 2-pt dunk at rim (assist by K. Caldwell-Pope),49,50
+3,11:29.0,Personal foul by R. Rondo (drawn by D. Fox),,49,50
+3,11:22.0,D. Fox misses 2-pt jump shot from 19 ft,,49,50
+3,11:19.0,,Defensive rebound by L. James,49,50
+3,11:14.0,,K. Caldwell-Pope makes 3-pt jump shot from 23 ft,49,53
+3,10:51.0,W. Cauley-Stein misses 2-pt layup from 4 ft (block by J. McGee),,49,53
+3,10:49.0,,Defensive rebound by J. McGee,49,53
+3,10:42.0,,L. James makes 3-pt jump shot from 25 ft,49,56
+3,10:41.0,Sacramento full timeout,,49,56
+3,10:28.0,N. Bjelica misses 2-pt jump shot from 18 ft,,49,56
+3,10:24.0,,Defensive rebound by J. McGee,49,56
+3,10:22.0,,K. Kuzma makes 2-pt layup from 2 ft (assist by L. James),49,58
+3,10:22.0,,Shooting foul by H. Barnes (drawn by K. Kuzma),49,58
+3,10:22.0,,K. Kuzma makes free throw 1 of 1,49,59
+3,10:10.0,B. Hield misses 2-pt jump shot from 17 ft,,49,59
+3,10:07.0,Offensive rebound by W. Cauley-Stein,,49,59
+3,10:06.0,D. Fox misses 3-pt jump shot from 25 ft,,49,59
+3,10:04.0,,Defensive rebound by Team,49,59
+3,10:04.0,Loose ball foul by W. Cauley-Stein (drawn by L. James),,49,59
+3,9:55.0,,K. Caldwell-Pope misses 2-pt jump shot from 19 ft,49,59
+3,9:52.0,Defensive rebound by D. Fox,,49,59
+3,9:41.0,D. Fox misses 2-pt jump shot from 11 ft,,49,59
+3,9:38.0,Offensive rebound by D. Fox,,49,59
+3,9:36.0,D. Fox misses 2-pt layup from 3 ft,,49,59
+3,9:36.0,,Defensive rebound by J. McGee,49,59
+3,9:27.0,,L. James makes 3-pt jump shot from 27 ft (assist by R. Rondo),49,62
+3,9:05.0,B. Hield misses 3-pt jump shot from 26 ft,,49,62
+3,9:03.0,,Defensive rebound by K. Caldwell-Pope,49,62
+3,8:59.0,,Turnover by K. Kuzma (bad pass; steal by D. Fox),49,62
+3,8:54.0,B. Hield makes 3-pt jump shot from 26 ft (assist by H. Barnes),,52,62
+3,8:44.0,,L. James misses 3-pt jump shot from 24 ft,52,62
+3,8:42.0,Defensive rebound by D. Fox,,52,62
+3,8:35.0,B. Hield misses 3-pt jump shot from 26 ft,,52,62
+3,8:31.0,Offensive rebound by W. Cauley-Stein,,52,62
+3,8:31.0,W. Cauley-Stein makes 2-pt layup from 1 ft,,54,62
+3,8:31.0,,LA Lakers full timeout,54,62
+3,8:18.0,,Turnover by K. Caldwell-Pope (lost ball; steal by W. Cauley-Stein),54,62
+3,8:12.0,Turnover by H. Barnes (bad pass; steal by R. Rondo),,54,62
+3,8:09.0,,Shooting foul by B. Hield (drawn by K. Kuzma),54,62
+3,8:09.0,,K. Kuzma makes free throw 1 of 2,54,63
+3,8:09.0,,K. Kuzma makes free throw 2 of 2,54,64
+3,7:45.0,W. Cauley-Stein makes 2-pt hook shot from 8 ft (assist by H. Barnes),,56,64
+3,7:37.0,,K. Kuzma makes 2-pt layup from 3 ft (assist by L. James),56,66
+3,7:37.0,Violation by Team (def goaltending),,56,66
+3,7:28.0,H. Barnes makes 2-pt layup from 2 ft (assist by D. Fox),,58,66
+3,7:24.0,,Turnover by J. McGee (bad pass; steal by D. Fox),58,66
+3,7:22.0,D. Fox misses 2-pt layup from 2 ft (block by J. McGee),,58,66
+3,7:15.0,Offensive rebound by D. Fox,,58,66
+3,7:15.0,D. Fox makes 2-pt layup from 1 ft,,60,66
+3,7:06.0,,K. Caldwell-Pope makes 3-pt jump shot from 27 ft (assist by L. James),60,69
+3,6:54.0,D. Fox misses 2-pt jump shot from 11 ft (block by L. James),,60,69
+3,6:52.0,,Defensive rebound by L. James,60,69
+3,6:49.0,,K. Kuzma makes 3-pt jump shot from 25 ft (assist by K. Caldwell-Pope),60,72
+3,6:28.0,Personal foul by K. Kuzma (drawn by N. Bjelica),,60,72
+3,6:28.0,M. Bagley enters the game for W. Cauley-Stein,,60,72
+3,6:25.0,B. Hield misses 3-pt jump shot from 26 ft,,60,72
+3,6:22.0,,Defensive rebound by J. McGee,60,72
+3,6:12.0,,J. McGee makes 2-pt dunk at rim (assist by L. James),60,74
+3,5:56.0,N. Bjelica makes 2-pt jump shot from 5 ft (assist by B. Hield),,62,74
+3,5:46.0,,K. Kuzma makes 3-pt jump shot from 26 ft (assist by R. Rondo),62,77
+3,5:46.0,Sacramento full timeout,,62,77
+3,5:39.0,M. Bagley makes 2-pt hook shot from 5 ft (assist by D. Fox),,64,77
+3,5:22.0,,L. James makes 2-pt dunk from 1 ft (assist by K. Caldwell-Pope),64,79
+3,5:11.0,D. Fox misses 2-pt layup from 3 ft (block by J. McGee),,64,79
+3,5:08.0,,Defensive rebound by K. Caldwell-Pope,64,79
+3,5:05.0,,K. Kuzma makes 2-pt layup from 1 ft (assist by L. James),64,81
+3,4:49.0,N. Bjelica makes 2-pt layup from 2 ft (assist by B. Hield),,66,81
+3,4:30.0,,L. James misses 3-pt jump shot from 26 ft,66,81
+3,4:26.0,Defensive rebound by N. Bjelica,,66,81
+3,4:17.0,M. Bagley makes 2-pt layup from 3 ft (assist by N. Bjelica),,68,81
+3,4:15.0,,LA Lakers full timeout,68,81
+3,4:15.0,B. Bogdanović enters the game for H. Barnes,,68,81
+3,4:15.0,Y. Ferrell enters the game for D. Fox,,68,81
+3,4:15.0,,T. Chandler enters the game for L. James,68,81
+3,4:15.0,,L. Stephenson enters the game for J. McGee,68,81
+3,4:03.0,,K. Kuzma misses 3-pt jump shot from 26 ft,68,81
+3,3:58.0,Defensive rebound by B. Hield,,68,81
+3,3:55.0,B. Hield misses 2-pt dunk from 1 ft,,68,81
+3,3:53.0,,Defensive rebound by K. Caldwell-Pope,68,81
+3,3:53.0,,Turnover by K. Caldwell-Pope (bad pass),68,81
+3,3:39.0,Shooting foul by R. Rondo (drawn by M. Bagley),,68,81
+3,3:39.0,M. Bagley makes free throw 1 of 2,,69,81
+3,3:39.0,M. Bagley misses free throw 2 of 2,,69,81
+3,3:36.0,,Defensive rebound by K. Caldwell-Pope,69,81
+3,3:20.0,,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,69,81
+3,3:18.0,Defensive rebound by M. Bagley,,69,81
+3,3:03.0,B. Hield misses 2-pt layup from 3 ft (block by K. Kuzma),,69,81
+3,2:58.0,Offensive rebound by N. Bjelica,,69,81
+3,2:57.0,N. Bjelica makes 2-pt layup from 2 ft,,71,81
+3,2:40.0,,K. Kuzma makes 3-pt jump shot from 22 ft (assist by R. Rondo),71,84
+3,2:21.0,Y. Ferrell misses 2-pt jump shot from 21 ft,,71,84
+3,2:18.0,,Defensive rebound by R. Rondo,71,84
+3,2:11.0,,Turnover by T. Chandler (bad pass; steal by M. Bagley),71,84
+3,2:09.0,Turnover by B. Hield (step out of bounds),,71,84
+3,2:09.0,K. Koufos enters the game for N. Bjelica,,71,84
+3,2:09.0,,A. Caruso enters the game for K. Caldwell-Pope,71,84
+3,2:00.0,,K. Kuzma makes 3-pt jump shot from 26 ft (assist by R. Rondo),71,87
+3,1:43.0,Def 3 sec tech foul by Team,,71,87
+3,1:43.0,B. Hield makes technical free throw,,72,87
+3,1:43.0,C. Brewer enters the game for B. Hield,,72,87
+3,1:38.0,Personal foul by R. Rondo (drawn by B. Bogdanović),,72,87
+3,1:38.0,,S. Machado enters the game for R. Rondo,72,87
+3,1:31.0,Shooting foul by K. Kuzma (drawn by Y. Ferrell),,72,87
+3,1:31.0,Y. Ferrell makes free throw 1 of 2,,73,87
+3,1:31.0,,L. James enters the game for K. Kuzma,73,87
+3,1:31.0,Y. Ferrell makes free throw 2 of 2,,74,87
+3,1:19.0,,Turnover by L. Stephenson (bad pass; steal by K. Koufos),74,87
+3,1:14.0,Y. Ferrell makes 3-pt jump shot from 25 ft (assist by C. Brewer),,77,87
+3,0:47.0,,L. James misses 2-pt jump shot from 19 ft,77,87
+3,0:44.0,Defensive rebound by Y. Ferrell,,77,87
+3,0:41.0,Y. Ferrell misses 3-pt jump shot from 26 ft,,77,87
+3,0:41.0,,Defensive rebound by L. Stephenson,77,87
+3,0:30.0,,L. James misses 2-pt jump shot from 6 ft,77,87
+3,0:28.0,Defensive rebound by M. Bagley,,77,87
+3,0:07.0,M. Bagley misses 2-pt jump shot from 18 ft,,77,87
+3,0:05.0,Offensive rebound by C. Brewer,,77,87
+3,0:04.0,C. Brewer misses 2-pt layup from 2 ft,,77,87
+3,0:04.0,,Defensive rebound by L. Stephenson,77,87
+3,0:00.0,,A. Caruso misses 3-pt jump shot from 34 ft (block by B. Bogdanović),77,87
+3,0:00.0,,Offensive rebound by Team,77,87
+4,11:46.0,,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,77,87
+4,11:43.0,Defensive rebound by C. Brewer,,77,87
+4,11:31.0,M. Bagley misses 2-pt jump shot from 11 ft,,77,87
+4,11:29.0,,Defensive rebound by K. Caldwell-Pope,77,87
+4,11:19.0,,J. McGee makes 2-pt layup from 2 ft (assist by L. James),77,89
+4,11:19.0,,Shooting foul by K. Koufos (drawn by J. McGee),77,89
+4,11:19.0,Violation by Team (def goaltending),,77,89
+4,11:19.0,,J. McGee makes free throw 1 of 1,77,90
+4,11:01.0,B. Bogdanović misses 2-pt jump shot from 17 ft,,77,90
+4,11:01.0,,Defensive rebound by L. Stephenson,77,90
+4,10:51.0,,J. McGee makes 2-pt hook shot from 6 ft (assist by L. Stephenson),77,92
+4,10:38.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by K. Koufos),,80,92
+4,10:27.0,,K. Caldwell-Pope makes 2-pt jump shot from 5 ft (assist by L. James),80,94
+4,10:16.0,Personal foul by L. James (drawn by M. Bagley),,80,94
+4,10:16.0,H. Barnes enters the game for K. Koufos,,80,94
+4,10:06.0,Personal foul by K. Caldwell-Pope (drawn by B. Bogdanović),,80,94
+4,10:00.0,M. Bagley makes 2-pt jump shot from 9 ft (assist by Y. Ferrell),,82,94
+4,9:43.0,,A. Caruso misses 2-pt jump shot from 5 ft,82,94
+4,9:40.0,Defensive rebound by H. Barnes,,82,94
+4,9:33.0,H. Barnes makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),,85,94
+4,9:31.0,,LA Lakers full timeout,85,94
+4,9:31.0,,K. Kuzma enters the game for K. Caldwell-Pope,85,94
+4,9:12.0,,Turnover by L. James (bad pass),85,94
+4,9:12.0,Away from play foul by A. Caruso (drawn by H. Barnes),,85,94
+4,9:12.0,B. Bogdanović makes free throw 1 of 1,,86,94
+4,8:56.0,M. Bagley makes 2-pt jump shot from 20 ft (assist by B. Bogdanović),,88,94
+4,8:34.0,,L. James makes 2-pt layup from 2 ft,88,96
+4,8:09.0,H. Barnes misses 3-pt jump shot from 23 ft,,88,96
+4,8:07.0,,Defensive rebound by Team,88,96
+4,8:07.0,,K. Caldwell-Pope enters the game for A. Caruso,88,96
+4,8:07.0,,R. Rondo enters the game for L. Stephenson,88,96
+4,7:53.0,,L. James makes 2-pt layup from 2 ft (assist by R. Rondo),88,98
+4,7:39.0,Y. Ferrell misses 2-pt jump shot from 10 ft,,88,98
+4,7:37.0,,Defensive rebound by J. McGee,88,98
+4,7:32.0,,Turnover by L. James (bad pass),88,98
+4,7:12.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by Y. Ferrell),,91,98
+4,7:01.0,,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,91,98
+4,6:59.0,Defensive rebound by M. Bagley,,91,98
+4,6:46.0,M. Bagley makes 3-pt jump shot from 26 ft (assist by C. Brewer),,94,98
+4,6:26.0,,L. James misses 3-pt jump shot from 27 ft,94,98
+4,6:23.0,Defensive rebound by Y. Ferrell,,94,98
+4,6:09.0,B. Bogdanović makes 2-pt layup from 3 ft,,96,98
+4,6:09.0,,LA Lakers full timeout,96,98
+4,6:09.0,N. Bjelica enters the game for C. Brewer,,96,98
+4,6:09.0,D. Fox enters the game for Y. Ferrell,,96,98
+4,6:09.0,,L. Stephenson enters the game for L. James,96,98
+4,5:56.0,,R. Rondo misses 2-pt layup from 2 ft,96,98
+4,5:54.0,Defensive rebound by N. Bjelica,,96,98
+4,5:36.0,Personal foul by K. Caldwell-Pope (drawn by B. Bogdanović),,96,98
+4,5:29.0,B. Bogdanović misses 2-pt jump shot from 20 ft,,96,98
+4,5:26.0,,Defensive rebound by J. McGee,96,98
+4,5:25.0,,Turnover by J. McGee (bad pass; steal by D. Fox),96,98
+4,5:21.0,M. Bagley misses 2-pt jump shot from 2 ft,,96,98
+4,5:18.0,,Defensive rebound by J. McGee,96,98
+4,5:08.0,,K. Kuzma misses 3-pt jump shot from 28 ft,96,98
+4,5:08.0,,Offensive rebound by Team,96,98
+4,5:08.0,Loose ball foul by N. Bjelica (drawn by J. McGee),,96,98
+4,4:57.0,,Personal foul by M. Bagley (drawn by K. Caldwell-Pope),96,98
+4,4:50.0,,Turnover by R. Rondo (bad pass),96,98
+4,4:50.0,,Violation by Team (delay of game),96,98
+4,4:50.0,,Violation by Team (delay of game),96,98
+4,4:50.0,B. Bogdanović misses technical free throw,,96,98
+4,4:50.0,Offensive rebound by Team,,96,98
+4,4:50.0,,A. Caruso enters the game for K. Caldwell-Pope,96,98
+4,4:50.0,,L. James enters the game for L. Stephenson,96,98
+4,4:40.0,Turnover by B. Bogdanović (bad pass; steal by J. McGee),,96,98
+4,4:27.0,,Shooting foul by D. Fox (drawn by A. Caruso),96,98
+4,4:27.0,,A. Caruso makes free throw 1 of 2,96,99
+4,4:27.0,B. Hield enters the game for N. Bjelica,,96,99
+4,4:27.0,,A. Caruso makes free throw 2 of 2,96,100
+4,4:02.0,D. Fox misses 2-pt layup from 2 ft,,96,100
+4,4:00.0,,Defensive rebound by J. McGee,96,100
+4,3:56.0,,A. Caruso makes 2-pt layup from 2 ft (assist by L. James),96,102
+4,3:56.0,Sacramento full timeout,,96,102
+4,3:35.0,B. Hield makes 3-pt jump shot from 26 ft (assist by H. Barnes),,99,102
+4,3:12.0,,K. Kuzma misses 2-pt jump shot from 12 ft,99,102
+4,3:08.0,Defensive rebound by B. Hield,,99,102
+4,2:52.0,D. Fox misses 3-pt jump shot from 27 ft,,99,102
+4,2:49.0,,Defensive rebound by K. Kuzma,99,102
+4,2:32.0,,Shooting foul by B. Hield (drawn by L. James),99,102
+4,2:32.0,,L. James makes free throw 1 of 2,99,103
+4,2:32.0,,L. James makes free throw 2 of 2,99,104
+4,2:20.0,M. Bagley misses 2-pt hook shot from 3 ft (block by J. McGee),,99,104
+4,2:17.0,,Defensive rebound by L. James,99,104
+4,1:57.0,,Turnover by Team (shot clock),99,104
+4,1:43.0,Shooting foul by J. McGee (drawn by D. Fox),,99,104
+4,1:43.0,D. Fox makes free throw 1 of 2,,100,104
+4,1:43.0,D. Fox makes free throw 2 of 2,,101,104
+4,1:31.0,,K. Kuzma misses 2-pt layup from 2 ft,101,104
+4,1:30.0,,Offensive rebound by K. Kuzma,101,104
+4,1:18.0,,L. James misses 2-pt jump shot from 16 ft,101,104
+4,1:17.0,,Offensive rebound by Team,101,104
+4,1:17.0,,Turnover by Team (shot clock),101,104
+4,0:58.0,B. Bogdanović misses 3-pt jump shot from 27 ft,,101,104
+4,0:56.0,,Defensive rebound by A. Caruso,101,104
+4,0:37.0,,K. Kuzma misses 3-pt jump shot from 26 ft,101,104
+4,0:37.0,,Offensive rebound by L. James,101,104
+4,0:37.0,,Personal foul by H. Barnes (drawn by L. James),101,104
+4,0:37.0,,L. James makes free throw 1 of 2,101,105
+4,0:37.0,,L. James makes free throw 2 of 2,101,106
+4,0:27.0,H. Barnes misses 3-pt jump shot from 27 ft,,101,106
+4,0:24.0,Offensive rebound by M. Bagley,,101,106
+4,0:20.0,B. Hield misses 3-pt jump shot from 22 ft,,101,106
+4,0:18.0,Offensive rebound by M. Bagley,,101,106
+4,0:17.0,B. Bogdanović makes 3-pt jump shot from 28 ft (assist by M. Bagley),,104,106
+4,0:16.0,,Personal foul by B. Hield (drawn by L. James),104,106
+4,0:16.0,,L. James makes free throw 1 of 2,104,107
+4,0:16.0,,L. James makes free throw 2 of 2,104,108
+4,0:16.0,Sacramento full timeout,,104,108
+4,0:16.0,Turnover by (5 sec),,104,108
+4,0:15.0,,Personal take foul by H. Barnes (drawn by L. James),104,108
+4,0:15.0,,L. James makes free throw 1 of 2,104,109
+4,0:15.0,,L. James makes free throw 2 of 2,104,110
+4,0:08.0,B. Hield makes 2-pt layup from 2 ft,,106,110
+4,0:06.0,,Personal take foul by B. Hield (drawn by K. Kuzma),106,110
+4,0:06.0,,K. Kuzma misses free throw 1 of 2,106,110
+4,0:06.0,,Offensive rebound by Team,106,110
+4,0:06.0,,K. Kuzma makes free throw 2 of 2,106,111
+4,0:06.0,Sacramento full timeout,,106,111
+4,0:02.0,B. Hield misses 3-pt jump shot from 25 ft,,106,111
+4,0:01.0,,Defensive rebound by Team,106,111

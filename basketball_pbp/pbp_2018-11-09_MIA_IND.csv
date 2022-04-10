@@ -1,0 +1,488 @@
+QUARTER,TIME_REMAINING,INDIANA_ACTION,MIAMI_ACTION,INDIANA_SCORE,MIAMI_SCORE
+1,11:41.0,D. Collison makes 2-pt jump shot from 17 ft,,2,0
+1,11:23.0,,Turnover by R. McGruder (bad pass; steal by B. Bogdanović),2,0
+1,11:18.0,D. Collison misses 3-pt jump shot from 25 ft,,2,0
+1,11:14.0,,Defensive rebound by H. Whiteside,2,0
+1,11:11.0,,Shooting foul by M. Turner (drawn by J. Winslow),2,0
+1,11:11.0,,J. Winslow makes free throw 1 of 2,2,1
+1,11:11.0,,J. Winslow misses free throw 2 of 2,2,1
+1,11:07.0,Defensive rebound by B. Bogdanović,,2,1
+1,10:53.0,B. Bogdanović misses 2-pt layup from 4 ft (block by H. Whiteside),,2,1
+1,10:48.0,Offensive rebound by T. Young,,2,1
+1,10:46.0,T. Young misses 2-pt layup from 5 ft,,2,1
+1,10:45.0,,Defensive rebound by H. Whiteside,2,1
+1,10:41.0,,Turnover by J. Winslow (bad pass),2,1
+1,10:27.0,Turnover by T. Young (out of bounds lost ball),,2,1
+1,10:13.0,,Turnover by J. Winslow (out of bounds lost ball),2,1
+1,10:00.0,V. Oladipo misses 2-pt layup from 1 ft (block by H. Whiteside),,2,1
+1,10:00.0,Offensive rebound by Team,,2,1
+1,10:00.0,,Loose ball foul by J. Winslow (drawn by T. Young),2,1
+1,9:45.0,B. Bogdanović misses 2-pt jump shot from 23 ft,,2,1
+1,9:41.0,,Defensive rebound by H. Whiteside,2,1
+1,9:39.0,,Personal foul by V. Oladipo (drawn by R. McGruder),2,1
+1,9:34.0,,Shooting foul by D. Collison (drawn by J. Richardson),2,1
+1,9:34.0,,J. Richardson makes free throw 1 of 3,2,2
+1,9:34.0,,J. Richardson makes free throw 2 of 3,2,3
+1,9:34.0,,J. Richardson misses free throw 3 of 3,2,3
+1,9:31.0,Defensive rebound by T. Young,,2,3
+1,9:19.0,Personal foul by H. Whiteside (drawn by M. Turner),,2,3
+1,9:11.0,Turnover by B. Bogdanović (traveling),,2,3
+1,8:51.0,,Offensive foul by J. Richardson (drawn by D. Collison),2,3
+1,8:51.0,,Turnover by J. Richardson (offensive foul),2,3
+1,8:37.0,V. Oladipo misses 2-pt jump shot from 14 ft,,2,3
+1,8:35.0,,Defensive rebound by H. Whiteside,2,3
+1,8:23.0,,W. Ellington misses 3-pt jump shot from 23 ft,2,3
+1,8:19.0,,Offensive rebound by R. McGruder,2,3
+1,8:05.0,,H. Whiteside misses 2-pt hook shot from 4 ft,2,3
+1,8:00.0,Defensive rebound by T. Young,,2,3
+1,7:52.0,B. Bogdanović makes 2-pt jump shot from 15 ft,,4,3
+1,7:37.0,,R. McGruder misses 2-pt jump shot from 8 ft,4,3
+1,7:32.0,Defensive rebound by D. Collison,,4,3
+1,7:27.0,M. Turner misses 3-pt jump shot from 26 ft,,4,3
+1,7:26.0,Offensive rebound by Team,,4,3
+1,7:26.0,,Loose ball foul by J. Richardson (drawn by T. Young),4,3
+1,7:26.0,,T. Johnson enters the game for J. Richardson,4,3
+1,7:21.0,B. Bogdanović makes 2-pt dunk from 1 ft (assist by T. Young),,6,3
+1,6:59.0,,H. Whiteside makes 2-pt dunk from 1 ft (assist by R. McGruder),6,5
+1,6:47.0,Shooting foul by R. McGruder (drawn by V. Oladipo),,6,5
+1,6:47.0,,Miami full timeout,6,5
+1,6:47.0,V. Oladipo misses free throw 1 of 2,,6,5
+1,6:47.0,Offensive rebound by Team,,6,5
+1,6:47.0,V. Oladipo misses free throw 2 of 2,,6,5
+1,6:45.0,,Defensive rebound by H. Whiteside,6,5
+1,6:31.0,,R. McGruder misses 2-pt layup from 3 ft,6,5
+1,6:28.0,Defensive rebound by M. Turner,,6,5
+1,6:24.0,V. Oladipo misses 2-pt layup from 1 ft,,6,5
+1,6:18.0,Offensive rebound by T. Young,,6,5
+1,6:18.0,T. Young makes 2-pt layup from 1 ft,,8,5
+1,6:13.0,,R. McGruder makes 3-pt jump shot from 23 ft (assist by J. Winslow),8,8
+1,5:54.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by D. Collison),,11,8
+1,5:38.0,,J. Winslow makes 3-pt jump shot from 23 ft (assist by W. Ellington),11,11
+1,5:28.0,Personal foul by W. Ellington (drawn by B. Bogdanović),,11,11
+1,5:28.0,B. Bogdanović misses free throw 1 of 2,,11,11
+1,5:28.0,Offensive rebound by Team,,11,11
+1,5:28.0,B. Bogdanović makes free throw 2 of 2,,12,11
+1,5:17.0,,T. Johnson makes 3-pt jump shot from 24 ft (assist by J. Winslow),12,14
+1,4:56.0,Turnover by M. Turner (bad pass; steal by R. McGruder),,12,14
+1,4:51.0,,J. Winslow misses 2-pt layup from 2 ft,12,14
+1,4:46.0,,Offensive rebound by R. McGruder,12,14
+1,4:45.0,,R. McGruder makes 2-pt layup from 1 ft,12,16
+1,4:31.0,Turnover by T. Young (traveling),,12,16
+1,4:14.0,,H. Whiteside makes 2-pt dunk from 1 ft (assist by J. Winslow),12,18
+1,4:00.0,M. Turner misses 2-pt jump shot from 17 ft,,12,18
+1,4:00.0,Offensive rebound by Team,,12,18
+1,4:00.0,,Loose ball foul by J. Winslow (drawn by T. Young),12,18
+1,4:00.0,T. Young misses free throw 1 of 2,,12,18
+1,4:00.0,Offensive rebound by Team,,12,18
+1,4:00.0,C. Joseph enters the game for B. Bogdanović,,12,18
+1,4:00.0,,D. Jones enters the game for W. Ellington,12,18
+1,4:00.0,,K. Olynyk enters the game for J. Winslow,12,18
+1,4:00.0,T. Young makes free throw 2 of 2,,13,18
+1,3:48.0,,T. Johnson misses 2-pt jump shot from 9 ft,13,18
+1,3:46.0,Defensive rebound by V. Oladipo,,13,18
+1,3:43.0,D. Collison makes 2-pt jump shot from 17 ft (assist by V. Oladipo),,15,18
+1,3:25.0,,Turnover by H. Whiteside (bad pass; steal by V. Oladipo),15,18
+1,3:22.0,V. Oladipo makes 2-pt dunk at rim,,17,18
+1,3:03.0,,T. Johnson makes 2-pt jump shot from 12 ft,17,20
+1,2:49.0,Shooting foul by R. McGruder (drawn by D. Collison),,17,20
+1,2:49.0,Indiana full timeout,,17,20
+1,2:49.0,T. Leaf enters the game for M. Turner,,17,20
+1,2:49.0,D. Sabonis enters the game for T. Young,,17,20
+1,2:49.0,,B. Adebayo enters the game for R. McGruder,17,20
+1,2:49.0,,J. Richardson enters the game for H. Whiteside,17,20
+1,2:49.0,D. Collison misses free throw 1 of 2,,17,20
+1,2:49.0,Offensive rebound by Team,,17,20
+1,2:49.0,D. Collison makes free throw 2 of 2,,18,20
+1,2:29.0,,Turnover by T. Johnson (bad pass),18,20
+1,2:29.0,T. Evans enters the game for D. Collison,,18,20
+1,2:29.0,D. McDermott enters the game for V. Oladipo,,18,20
+1,2:21.0,Turnover by D. McDermott (offensive foul),,18,20
+1,2:21.0,Offensive foul by D. McDermott (drawn by D. Jones),,18,20
+1,2:10.0,,J. Richardson misses 2-pt jump shot from 22 ft,18,20
+1,2:06.0,Defensive rebound by D. Sabonis,,18,20
+1,1:57.0,T. Evans makes 2-pt layup from 1 ft,,20,20
+1,1:42.0,,J. Richardson misses 2-pt layup from 3 ft,20,20
+1,1:40.0,Defensive rebound by D. McDermott,,20,20
+1,1:36.0,Turnover by C. Joseph (lost ball; steal by J. Richardson),,20,20
+1,1:32.0,,J. Richardson makes 2-pt dunk at rim,20,22
+1,1:10.0,T. Leaf makes 2-pt layup from 4 ft,,22,22
+1,0:58.0,,T. Johnson makes 2-pt layup from 2 ft,22,24
+1,0:50.0,C. Joseph makes 2-pt jump shot from 10 ft,,24,24
+1,0:28.0,,J. Richardson makes 2-pt jump shot from 9 ft,24,26
+1,0:08.0,Offensive foul by D. Sabonis (drawn by J. Richardson),,24,26
+1,0:08.0,Turnover by D. Sabonis (offensive foul),,24,26
+1,0:08.0,,W. Ellington enters the game for B. Adebayo,24,26
+1,0:08.0,,D. Robinson enters the game for D. Jones,24,26
+1,0:08.0,,Violation by Team (delay of game),24,26
+1,0:03.0,,Personal foul by T. Evans (drawn by J. Richardson),24,26
+1,0:03.0,V. Oladipo enters the game for D. McDermott,,24,26
+1,0:00.0,,J. Richardson misses 2-pt jump shot from 20 ft,24,26
+1,0:00.0,,Offensive rebound by Team,24,26
+2,11:49.0,,T. Johnson makes 3-pt jump shot from 25 ft (assist by J. Richardson),24,29
+2,11:27.0,D. Sabonis makes 2-pt layup from 3 ft,,26,29
+2,11:21.0,,Offensive foul by B. Adebayo (drawn by T. Evans),26,29
+2,11:21.0,,Turnover by B. Adebayo (offensive foul),26,29
+2,11:04.0,D. Sabonis makes 2-pt hook shot from 2 ft,,28,29
+2,10:51.0,,K. Olynyk makes 2-pt layup from 2 ft (assist by J. Richardson),28,31
+2,10:41.0,T. Evans misses 3-pt jump shot from 25 ft,,28,31
+2,10:36.0,,Defensive rebound by B. Adebayo,28,31
+2,10:30.0,,J. Richardson misses 3-pt jump shot from 24 ft,28,31
+2,10:30.0,Defensive rebound by Team,,28,31
+2,10:30.0,,H. Whiteside enters the game for B. Adebayo,28,31
+2,10:18.0,Shooting foul by H. Whiteside (drawn by D. Sabonis),,28,31
+2,10:18.0,D. Sabonis misses free throw 1 of 2,,28,31
+2,10:18.0,Offensive rebound by Team,,28,31
+2,10:18.0,D. Sabonis makes free throw 2 of 2,,29,31
+2,10:06.0,,T. Johnson makes 3-pt jump shot from 26 ft (assist by J. Richardson),29,34
+2,9:56.0,Offensive foul by T. Evans (drawn by D. Jones),,29,34
+2,9:56.0,Turnover by T. Evans (offensive foul),,29,34
+2,9:46.0,,J. Richardson misses 2-pt layup from 3 ft,29,34
+2,9:44.0,Defensive rebound by D. Sabonis,,29,34
+2,9:31.0,D. Sabonis misses 2-pt hook shot from 3 ft,,29,34
+2,9:28.0,,Defensive rebound by K. Olynyk,29,34
+2,9:20.0,,H. Whiteside makes 2-pt layup from 2 ft,29,36
+2,9:20.0,,Shooting foul by D. Sabonis (drawn by H. Whiteside),29,36
+2,9:20.0,T. Young enters the game for T. Leaf,,29,36
+2,9:20.0,,H. Whiteside makes free throw 1 of 1,29,37
+2,9:08.0,D. McDermott makes 3-pt jump shot from 23 ft (assist by T. Evans),,32,37
+2,8:55.0,,K. Olynyk makes 3-pt jump shot from 24 ft (assist by J. Richardson),32,40
+2,8:49.0,Turnover by T. Evans (out of bounds lost ball),,32,40
+2,8:34.0,,T. Johnson misses 3-pt jump shot from 25 ft,32,40
+2,8:33.0,Defensive rebound by D. Sabonis,,32,40
+2,8:09.0,T. Evans misses 2-pt jump shot from 12 ft,,32,40
+2,8:09.0,,Defensive rebound by Team,32,40
+2,7:52.0,,D. Jones makes 3-pt jump shot from 23 ft (assist by K. Olynyk),32,43
+2,7:46.0,Indiana full timeout,,32,43
+2,7:46.0,,W. Ellington enters the game for T. Johnson,32,43
+2,7:33.0,C. Joseph makes 2-pt jump shot from 19 ft,,34,43
+2,7:14.0,,Turnover by H. Whiteside (lost ball; steal by T. Young),34,43
+2,7:12.0,Shooting foul by W. Ellington (drawn by T. Evans),,34,43
+2,7:12.0,T. Evans makes free throw 1 of 2,,35,43
+2,7:12.0,B. Bogdanović enters the game for D. McDermott,,35,43
+2,7:12.0,,R. McGruder enters the game for D. Jones,35,43
+2,7:12.0,T. Evans makes free throw 2 of 2,,36,43
+2,7:00.0,,K. Olynyk misses 3-pt jump shot from 25 ft,36,43
+2,6:58.0,Defensive rebound by D. Sabonis,,36,43
+2,6:49.0,T. Evans makes 2-pt layup from 2 ft,,38,43
+2,6:33.0,,K. Olynyk makes 2-pt layup from 2 ft (assist by W. Ellington),38,45
+2,6:21.0,T. Evans misses 3-pt jump shot from 25 ft,,38,45
+2,6:18.0,,Defensive rebound by H. Whiteside,38,45
+2,6:09.0,,Shooting foul by C. Joseph (drawn by J. Richardson),38,45
+2,6:09.0,,J. Richardson makes free throw 1 of 2,38,46
+2,6:09.0,D. Collison enters the game for T. Evans,,38,46
+2,6:09.0,V. Oladipo enters the game for C. Joseph,,38,46
+2,6:09.0,M. Turner enters the game for D. Sabonis,,38,46
+2,6:09.0,,J. Richardson makes free throw 2 of 2,38,47
+2,5:51.0,M. Turner misses 2-pt jump shot from 20 ft,,38,47
+2,5:51.0,Offensive rebound by Team,,38,47
+2,5:51.0,,Loose ball foul by W. Ellington (drawn by B. Bogdanović),38,47
+2,5:51.0,,T. Johnson enters the game for W. Ellington,38,47
+2,5:49.0,Offensive foul by B. Bogdanović (drawn by J. Richardson),,38,47
+2,5:49.0,Turnover by B. Bogdanović (offensive foul),,38,47
+2,5:36.0,,K. Olynyk makes 2-pt dunk from 1 ft (assist by J. Richardson),38,49
+2,5:21.0,V. Oladipo makes 2-pt jump shot from 17 ft,,40,49
+2,5:08.0,,Personal foul by B. Bogdanović (drawn by J. Richardson),40,49
+2,5:00.0,,J. Richardson misses 3-pt jump shot from 25 ft,40,49
+2,5:00.0,,Offensive rebound by Team,40,49
+2,4:48.0,,R. McGruder misses 2-pt jump shot from 12 ft,40,49
+2,4:45.0,Defensive rebound by V. Oladipo,,40,49
+2,4:30.0,Personal foul by H. Whiteside (drawn by D. Collison),,40,49
+2,4:30.0,,D. Jones enters the game for H. Whiteside,40,49
+2,4:19.0,Offensive foul by M. Turner (drawn by K. Olynyk),,40,49
+2,4:19.0,Turnover by M. Turner (offensive foul),,40,49
+2,4:08.0,,Turnover by J. Richardson (bad pass),40,49
+2,3:54.0,M. Turner makes 2-pt layup from 3 ft (assist by D. Collison),,42,49
+2,3:29.0,,D. Jones misses 2-pt jump shot from 17 ft,42,49
+2,3:27.0,Defensive rebound by Team,,42,49
+2,3:27.0,,Loose ball foul by J. Richardson (drawn by T. Young),42,49
+2,3:27.0,T. Young misses free throw 1 of 2,,42,49
+2,3:27.0,Offensive rebound by Team,,42,49
+2,3:27.0,,J. Winslow enters the game for J. Richardson,42,49
+2,3:27.0,T. Young misses free throw 2 of 2,,42,49
+2,3:21.0,,Defensive rebound by R. McGruder,42,49
+2,3:03.0,,J. Winslow misses 2-pt layup from 2 ft (block by M. Turner),42,49
+2,3:00.0,Defensive rebound by D. Collison,,42,49
+2,2:58.0,V. Oladipo makes 3-pt jump shot from 25 ft (assist by D. Collison),,45,49
+2,2:43.0,,Turnover by R. McGruder (offensive foul),45,49
+2,2:43.0,,Offensive foul by R. McGruder (drawn by V. Oladipo),45,49
+2,2:43.0,,Miami full timeout,45,49
+2,2:43.0,,B. Adebayo enters the game for R. McGruder,45,49
+2,2:31.0,M. Turner makes 2-pt dunk from 2 ft (assist by V. Oladipo),,47,49
+2,2:17.0,,B. Adebayo makes 2-pt dunk from 1 ft (assist by T. Johnson),47,51
+2,2:17.0,,Shooting foul by M. Turner (drawn by B. Adebayo),47,51
+2,2:17.0,D. Sabonis enters the game for M. Turner,,47,51
+2,2:17.0,,B. Adebayo makes free throw 1 of 1,47,52
+2,2:04.0,D. Collison misses 2-pt jump shot from 16 ft,,47,52
+2,2:02.0,,Defensive rebound by K. Olynyk,47,52
+2,1:45.0,,Turnover by T. Johnson (bad pass; steal by D. Collison),47,52
+2,1:38.0,,Flagrant foul type 2 by T. Young (drawn by K. Olynyk),47,52
+2,1:38.0,Turnover by T. Young (turnover),,47,52
+2,1:38.0,,K. Olynyk makes flagrant free throw 1 of 2,47,53
+2,1:38.0,,K. Olynyk makes flagrant free throw 2 of 2,47,54
+2,1:38.0,T. Young ejected from game,,47,54
+2,1:38.0,C. Joseph enters the game for B. Bogdanović,,47,54
+2,1:38.0,T. Leaf enters the game for T. Young,,47,54
+2,1:38.0,,D. Robinson enters the game for J. Winslow,47,54
+2,1:29.0,,Turnover by T. Johnson (bad pass),47,54
+2,1:16.0,V. Oladipo makes 2-pt jump shot from 5 ft,,49,54
+2,1:05.0,,Def 3 sec tech foul by Team,49,54
+2,1:05.0,,K. Olynyk misses technical free throw,49,54
+2,1:05.0,,Offensive rebound by Team,49,54
+2,0:57.0,,D. Jones makes 2-pt dunk from 1 ft (assist by T. Johnson),49,56
+2,0:37.0,T. Leaf misses 2-pt jump shot from 10 ft,,49,56
+2,0:34.0,,Defensive rebound by D. Robinson,49,56
+2,0:30.0,,K. Olynyk makes 3-pt jump shot from 25 ft (assist by T. Johnson),49,59
+2,0:13.0,Shooting foul by B. Adebayo (drawn by V. Oladipo),,49,59
+2,0:13.0,V. Oladipo makes free throw 1 of 2,,50,59
+2,0:13.0,V. Oladipo makes free throw 2 of 2,,51,59
+2,0:03.0,,T. Johnson misses 3-pt jump shot from 26 ft,51,59
+2,0:03.0,Defensive rebound by T. Leaf,,51,59
+3,11:52.0,,Turnover by W. Ellington (bad pass),51,59
+3,11:51.0,,Loose ball foul by J. Richardson (drawn by V. Oladipo),51,59
+3,11:39.0,C. Joseph makes 2-pt jump shot from 18 ft,,53,59
+3,11:16.0,,Turnover by H. Whiteside (3 sec),53,59
+3,11:16.0,,T. Johnson enters the game for J. Richardson,53,59
+3,11:01.0,C. Joseph makes 3-pt jump shot from 25 ft (assist by V. Oladipo),,56,59
+3,10:48.0,,R. McGruder misses 2-pt jump shot from 8 ft,56,59
+3,10:44.0,Defensive rebound by M. Turner,,56,59
+3,10:33.0,M. Turner misses 2-pt jump shot from 20 ft,,56,59
+3,10:29.0,,Defensive rebound by T. Johnson,56,59
+3,10:26.0,,Personal foul by C. Joseph (drawn by W. Ellington),56,59
+3,10:11.0,,R. McGruder misses 2-pt jump shot from 8 ft (block by D. Collison),56,59
+3,10:08.0,,Offensive rebound by R. McGruder,56,59
+3,10:05.0,,H. Whiteside misses 2-pt layup from 4 ft,56,59
+3,10:00.0,Defensive rebound by Team,,56,59
+3,9:48.0,V. Oladipo misses 2-pt layup from 6 ft (block by T. Johnson),,56,59
+3,9:45.0,,Defensive rebound by H. Whiteside,56,59
+3,9:41.0,,Turnover by J. Winslow (bad pass; steal by V. Oladipo),56,59
+3,9:39.0,D. Collison makes 2-pt layup from 2 ft (assist by V. Oladipo),,58,59
+3,9:39.0,,Miami full timeout,58,59
+3,9:17.0,,T. Johnson misses 2-pt jump shot from 21 ft,58,59
+3,9:15.0,Defensive rebound by C. Joseph,,58,59
+3,9:06.0,B. Bogdanović misses 3-pt jump shot from 24 ft,,58,59
+3,9:03.0,,Defensive rebound by H. Whiteside,58,59
+3,8:44.0,,H. Whiteside makes 2-pt layup from 2 ft (assist by R. McGruder),58,61
+3,8:35.0,Offensive foul by M. Turner (drawn by H. Whiteside),,58,61
+3,8:35.0,Turnover by M. Turner (offensive foul),,58,61
+3,8:20.0,,J. Winslow misses 2-pt jump shot from 7 ft,58,61
+3,8:17.0,,Offensive rebound by H. Whiteside,58,61
+3,8:15.0,,H. Whiteside misses 2-pt jump shot from 5 ft,58,61
+3,8:13.0,Defensive rebound by C. Joseph,,58,61
+3,8:08.0,C. Joseph makes 3-pt jump shot from 25 ft (assist by D. Collison),,61,61
+3,7:51.0,,R. McGruder makes 3-pt jump shot from 25 ft (assist by J. Winslow),61,64
+3,7:35.0,B. Bogdanović makes 2-pt jump shot from 15 ft,,63,64
+3,7:16.0,,W. Ellington misses 3-pt jump shot from 26 ft,63,64
+3,7:15.0,,Offensive rebound by H. Whiteside,63,64
+3,7:14.0,,Shooting foul by V. Oladipo (drawn by H. Whiteside),63,64
+3,7:14.0,,H. Whiteside misses free throw 1 of 2,63,64
+3,7:14.0,,Offensive rebound by Team,63,64
+3,7:14.0,D. Sabonis enters the game for M. Turner,,63,64
+3,7:14.0,,H. Whiteside misses free throw 2 of 2,63,64
+3,7:12.0,Defensive rebound by B. Bogdanović,,63,64
+3,6:54.0,Shooting foul by W. Ellington (drawn by D. Collison),,63,64
+3,6:54.0,D. Collison misses free throw 1 of 2,,63,64
+3,6:54.0,Offensive rebound by Team,,63,64
+3,6:54.0,D. Collison misses free throw 2 of 2,,63,64
+3,6:52.0,,Defensive rebound by H. Whiteside,63,64
+3,6:42.0,,Shooting foul by D. Sabonis (drawn by T. Johnson),63,64
+3,6:42.0,,T. Johnson makes free throw 1 of 2,63,65
+3,6:42.0,,T. Johnson makes free throw 2 of 2,63,66
+3,6:32.0,V. Oladipo misses 2-pt layup from 2 ft (block by H. Whiteside),,63,66
+3,6:32.0,,Defensive rebound by H. Whiteside,63,66
+3,6:25.0,,J. Winslow misses 2-pt jump shot from 1 ft,63,66
+3,6:22.0,Defensive rebound by D. Sabonis,,63,66
+3,6:16.0,Shooting foul by W. Ellington (drawn by D. Collison),,63,66
+3,6:16.0,D. Collison makes free throw 1 of 2,,64,66
+3,6:16.0,,D. Jones enters the game for W. Ellington,64,66
+3,6:16.0,D. Collison makes free throw 2 of 2,,65,66
+3,5:57.0,,R. McGruder makes 3-pt jump shot from 22 ft (assist by J. Winslow),65,69
+3,5:44.0,V. Oladipo misses 2-pt jump shot from 15 ft,,65,69
+3,5:40.0,,Defensive rebound by H. Whiteside,65,69
+3,5:29.0,,T. Johnson misses 2-pt jump shot from 9 ft,65,69
+3,5:26.0,Defensive rebound by V. Oladipo,,65,69
+3,5:21.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by V. Oladipo),,68,69
+3,5:01.0,,Personal foul by V. Oladipo (drawn by D. Jones),68,69
+3,5:01.0,,D. Jones misses free throw 1 of 2,68,69
+3,5:01.0,,Offensive rebound by Team,68,69
+3,5:01.0,,D. Jones makes free throw 2 of 2,68,70
+3,4:51.0,Shooting foul by H. Whiteside (drawn by D. Sabonis),,68,70
+3,4:51.0,D. Sabonis makes free throw 1 of 2,,69,70
+3,4:51.0,,K. Olynyk enters the game for H. Whiteside,69,70
+3,4:51.0,D. Sabonis makes free throw 2 of 2,,70,70
+3,4:39.0,,D. Jones misses 2-pt jump shot from 11 ft (block by D. Sabonis),70,70
+3,4:39.0,,Offensive rebound by Team,70,70
+3,4:28.0,,D. Jones makes 2-pt layup from 1 ft (assist by K. Olynyk),70,72
+3,4:23.0,Turnover by V. Oladipo (lost ball; steal by J. Winslow),,70,72
+3,4:20.0,,J. Winslow misses 2-pt layup from 5 ft,70,72
+3,4:19.0,,Offensive rebound by D. Jones,70,72
+3,4:18.0,,D. Jones makes 2-pt layup from 1 ft,70,74
+3,4:18.0,Indiana full timeout,,70,74
+3,4:08.0,D. Sabonis makes 2-pt hook shot from 2 ft (assist by V. Oladipo),,72,74
+3,4:08.0,Shooting foul by K. Olynyk (drawn by D. Sabonis),,72,74
+3,4:08.0,T. Evans enters the game for D. Collison,,72,74
+3,4:08.0,D. Sabonis misses free throw 1 of 1,,72,74
+3,4:08.0,,Defensive rebound by J. Winslow,72,74
+3,3:52.0,,T. Johnson misses 2-pt layup from 2 ft,72,74
+3,3:50.0,Defensive rebound by D. Sabonis,,72,74
+3,3:40.0,D. Sabonis makes 2-pt dunk from 2 ft (assist by V. Oladipo),,74,74
+3,3:22.0,,K. Olynyk misses 3-pt jump shot from 25 ft,74,74
+3,3:20.0,Defensive rebound by D. Sabonis,,74,74
+3,3:11.0,V. Oladipo makes 2-pt jump shot from 9 ft,,76,74
+3,2:53.0,,K. Olynyk makes 3-pt jump shot from 25 ft (assist by R. McGruder),76,77
+3,2:33.0,C. Joseph makes 2-pt jump shot from 11 ft (assist by D. Sabonis),,78,77
+3,2:10.0,,Personal foul by B. Bogdanović (drawn by K. Olynyk),78,77
+3,2:10.0,,K. Olynyk makes free throw 1 of 2,78,78
+3,2:10.0,D. McDermott enters the game for B. Bogdanović,,78,78
+3,2:10.0,,K. Olynyk makes free throw 2 of 2,78,79
+3,1:55.0,V. Oladipo misses 3-pt jump shot from 25 ft,,78,79
+3,1:52.0,,Defensive rebound by K. Olynyk,78,79
+3,1:37.0,,T. Johnson misses 3-pt jump shot from 26 ft,78,79
+3,1:35.0,Defensive rebound by C. Joseph,,78,79
+3,1:25.0,V. Oladipo makes 2-pt jump shot from 19 ft,,80,79
+3,1:11.0,,Turnover by K. Olynyk (bad pass),80,79
+3,0:52.0,Personal foul by T. Johnson (drawn by D. Sabonis),,80,79
+3,0:52.0,D. Sabonis misses free throw 1 of 2,,80,79
+3,0:52.0,Offensive rebound by Team,,80,79
+3,0:52.0,D. Collison enters the game for V. Oladipo,,80,79
+3,0:52.0,D. Sabonis makes free throw 2 of 2,,81,79
+3,0:41.0,,Personal foul by C. Joseph (drawn by T. Johnson),81,79
+3,0:41.0,,T. Johnson misses free throw 1 of 2,81,79
+3,0:41.0,,Offensive rebound by Team,81,79
+3,0:41.0,,B. Adebayo enters the game for K. Olynyk,81,79
+3,0:41.0,,T. Johnson misses free throw 2 of 2,81,79
+3,0:40.0,Defensive rebound by D. Sabonis,,81,79
+3,0:31.0,T. Evans misses 2-pt layup from 2 ft,,81,79
+3,0:31.0,D. Sabonis makes 2-pt layup at rim,,83,79
+3,0:31.0,Offensive rebound by D. Sabonis,,83,79
+3,0:31.0,Shooting foul by D. Jones (drawn by D. Sabonis),,83,79
+3,0:31.0,,K. Olynyk enters the game for B. Adebayo,83,79
+3,0:31.0,D. Sabonis makes free throw 1 of 1,,84,79
+3,0:13.0,,Personal foul by T. Evans (drawn by K. Olynyk),84,79
+3,0:13.0,,K. Olynyk makes free throw 1 of 2,84,80
+3,0:13.0,,K. Olynyk misses free throw 2 of 2,84,80
+3,0:11.0,Defensive rebound by D. Sabonis,,84,80
+3,0:02.0,D. Collison misses 3-pt jump shot from 25 ft,,84,80
+3,0:02.0,,Defensive rebound by K. Olynyk,84,80
+4,11:50.0,T. Evans misses 2-pt layup from 3 ft (block by D. Jones),,84,80
+4,11:47.0,Offensive rebound by C. Joseph,,84,80
+4,11:40.0,Offensive foul by T. Evans (drawn by K. Olynyk),,84,80
+4,11:40.0,Turnover by T. Evans (offensive foul),,84,80
+4,11:40.0,,H. Whiteside enters the game for K. Olynyk,84,80
+4,11:28.0,,H. Whiteside makes 2-pt dunk from 1 ft (assist by T. Johnson),84,82
+4,11:12.0,C. Joseph misses 2-pt jump shot from 16 ft,,84,82
+4,11:07.0,,Defensive rebound by H. Whiteside,84,82
+4,10:59.0,,J. Richardson makes 2-pt layup from 2 ft (assist by T. Johnson),84,84
+4,10:33.0,D. Collison misses 3-pt jump shot from 27 ft,,84,84
+4,10:29.0,Offensive rebound by D. McDermott,,84,84
+4,10:24.0,T. Evans makes 2-pt layup from 1 ft,,86,84
+4,10:08.0,,J. Richardson misses 2-pt jump shot from 18 ft,86,84
+4,10:04.0,,Offensive rebound by H. Whiteside,86,84
+4,9:52.0,,Turnover by Team (shot clock),86,84
+4,9:52.0,V. Oladipo enters the game for C. Joseph,,86,84
+4,9:47.0,V. Oladipo misses 3-pt jump shot from 23 ft,,86,84
+4,9:45.0,,Defensive rebound by H. Whiteside,86,84
+4,9:35.0,,J. Richardson makes 3-pt jump shot from 26 ft (assist by D. Jones),86,87
+4,9:16.0,T. Evans misses 3-pt jump shot from 24 ft,,86,87
+4,9:13.0,,Defensive rebound by D. Jones,86,87
+4,9:06.0,,Turnover by J. Richardson (bad pass; steal by V. Oladipo),86,87
+4,9:01.0,V. Oladipo misses 2-pt layup from 1 ft,,86,87
+4,9:00.0,Offensive rebound by D. Sabonis,,86,87
+4,8:59.0,D. Sabonis makes 2-pt layup from 2 ft,,88,87
+4,8:41.0,,Turnover by T. Johnson (bad pass; steal by T. Evans),88,87
+4,8:38.0,Turnover by T. Evans (bad pass; steal by D. Jones),,88,87
+4,8:32.0,,Turnover by T. Johnson (bad pass; steal by D. McDermott),88,87
+4,8:17.0,V. Oladipo misses 2-pt jump shot from 17 ft,,88,87
+4,8:16.0,,Defensive rebound by T. Johnson,88,87
+4,8:13.0,,Miami full timeout,88,87
+4,8:13.0,,W. Ellington enters the game for T. Johnson,88,87
+4,8:13.0,,R. McGruder enters the game for D. Robinson,88,87
+4,8:02.0,,Personal foul by T. Evans (drawn by J. Richardson),88,87
+4,7:52.0,,J. Richardson misses 2-pt jump shot from 19 ft,88,87
+4,7:50.0,Defensive rebound by D. Collison,,88,87
+4,7:34.0,D. Collison makes 2-pt jump shot from 16 ft (assist by V. Oladipo),,90,87
+4,7:19.0,,J. Richardson makes 3-pt jump shot from 25 ft (assist by R. McGruder),90,90
+4,6:59.0,Turnover by D. Sabonis (bad pass; steal by J. Richardson),,90,90
+4,6:55.0,,W. Ellington makes 3-pt jump shot from 25 ft (assist by R. McGruder),90,93
+4,6:25.0,T. Evans misses 2-pt layup from 2 ft,,90,93
+4,6:22.0,,Defensive rebound by W. Ellington,90,93
+4,6:15.0,,R. McGruder misses 2-pt jump shot from 7 ft,90,93
+4,6:13.0,,Offensive rebound by H. Whiteside,90,93
+4,6:13.0,,Shooting foul by D. Sabonis (drawn by H. Whiteside),90,93
+4,6:13.0,B. Bogdanović enters the game for T. Evans,,90,93
+4,6:13.0,C. Joseph enters the game for D. McDermott,,90,93
+4,6:13.0,M. Turner enters the game for D. Sabonis,,90,93
+4,6:13.0,,J. Winslow enters the game for D. Jones,90,93
+4,6:13.0,,H. Whiteside misses free throw 1 of 2,90,93
+4,6:13.0,,Offensive rebound by Team,90,93
+4,6:13.0,,H. Whiteside misses free throw 2 of 2,90,93
+4,6:11.0,Defensive rebound by M. Turner,,90,93
+4,6:00.0,V. Oladipo misses 3-pt jump shot from 26 ft,,90,93
+4,5:58.0,,Defensive rebound by W. Ellington,90,93
+4,5:45.0,,J. Richardson misses 2-pt layup from 2 ft (block by D. Collison),90,93
+4,5:43.0,Defensive rebound by C. Joseph,,90,93
+4,5:41.0,V. Oladipo makes 2-pt layup from 1 ft (assist by C. Joseph),,92,93
+4,5:18.0,,J. Winslow makes 2-pt jump shot from 5 ft (assist by J. Richardson),92,95
+4,4:59.0,M. Turner misses 3-pt jump shot from 25 ft,,92,95
+4,4:58.0,,Defensive rebound by H. Whiteside,92,95
+4,4:50.0,,J. Winslow makes 2-pt jump shot from 7 ft,92,97
+4,4:50.0,,Shooting foul by M. Turner (drawn by J. Winslow),92,97
+4,4:50.0,,J. Winslow makes free throw 1 of 1,92,98
+4,4:50.0,Indiana full timeout,,92,98
+4,4:28.0,V. Oladipo misses 3-pt jump shot from 23 ft,,92,98
+4,4:24.0,,Defensive rebound by H. Whiteside,92,98
+4,4:11.0,,R. McGruder misses 2-pt jump shot from 7 ft,92,98
+4,4:09.0,Defensive rebound by V. Oladipo,,92,98
+4,4:07.0,D. Collison makes 2-pt layup at rim (assist by C. Joseph),,94,98
+4,4:07.0,,Violation by Team (def goaltending),94,98
+4,3:50.0,,J. Winslow makes 2-pt jump shot from 5 ft,94,100
+4,3:31.0,M. Turner makes 2-pt layup from 2 ft,,96,100
+4,3:14.0,,J. Winslow misses 2-pt jump shot from 8 ft,96,100
+4,3:12.0,Defensive rebound by M. Turner,,96,100
+4,3:08.0,Turnover by D. Collison (lost ball; steal by W. Ellington),,96,100
+4,3:03.0,,Miami full timeout,96,100
+4,3:03.0,Indiana full timeout,,96,100
+4,2:53.0,,Turnover by H. Whiteside (lost ball; steal by V. Oladipo),96,100
+4,2:49.0,D. Collison makes 2-pt layup from 2 ft,,98,100
+4,2:31.0,,Turnover by J. Richardson (traveling),98,100
+4,2:19.0,Personal foul by H. Whiteside (drawn by M. Turner),,98,100
+4,2:09.0,V. Oladipo misses 2-pt jump shot from 15 ft (block by H. Whiteside),,98,100
+4,2:07.0,,Defensive rebound by J. Winslow,98,100
+4,2:03.0,,W. Ellington misses 3-pt jump shot from 25 ft,98,100
+4,1:58.0,,Offensive rebound by H. Whiteside,98,100
+4,1:47.0,,J. Winslow misses 2-pt jump shot from 16 ft,98,100
+4,1:46.0,,Offensive rebound by Team,98,100
+4,1:38.0,,J. Richardson makes 2-pt layup from 2 ft (assist by H. Whiteside),98,102
+4,1:26.0,M. Turner makes 2-pt hook shot from 1 ft (assist by V. Oladipo),,100,102
+4,1:09.0,,J. Richardson misses 3-pt jump shot from 26 ft,100,102
+4,1:06.0,Defensive rebound by V. Oladipo,,100,102
+4,0:56.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by V. Oladipo),,103,102
+4,0:56.0,,Miami full timeout,103,102
+4,0:52.0,,J. Winslow misses 2-pt layup from 3 ft (block by M. Turner),103,102
+4,0:52.0,,Offensive rebound by Team,103,102
+4,0:46.0,,J. Winslow misses 3-pt jump shot from 24 ft,103,102
+4,0:43.0,Defensive rebound by M. Turner,,103,102
+4,0:32.0,V. Oladipo makes 2-pt jump shot from 17 ft,,105,102
+4,0:32.0,,Miami full timeout,105,102
+4,0:32.0,,T. Johnson enters the game for H. Whiteside,105,102
+4,0:32.0,,K. Olynyk enters the game for J. Winslow,105,102
+4,0:21.0,,Turnover by J. Richardson (bad pass; steal by B. Bogdanović),105,102
+4,0:21.0,Personal foul by J. Richardson (drawn by D. Collison),,105,102
+4,0:21.0,Indiana full timeout,,105,102
+4,0:21.0,,D. Jones enters the game for W. Ellington,105,102
+4,0:21.0,,J. Winslow enters the game for K. Olynyk,105,102
+4,0:15.0,Personal foul by J. Winslow (drawn by D. Collison),,105,102
+4,0:15.0,D. Collison makes free throw 1 of 2,,106,102
+4,0:15.0,D. Sabonis enters the game for M. Turner,,106,102
+4,0:15.0,,W. Ellington enters the game for D. Jones,106,102
+4,0:15.0,,K. Olynyk enters the game for J. Winslow,106,102
+4,0:15.0,D. Collison makes free throw 2 of 2,,107,102
+4,0:11.0,,Turnover by J. Richardson (traveling),107,102
+4,0:11.0,,D. Jones enters the game for W. Ellington,107,102
+4,0:11.0,,J. Winslow enters the game for K. Olynyk,107,102
+4,0:11.0,Indiana full timeout,,107,102
+4,0:11.0,M. Turner enters the game for D. Sabonis,,107,102
+4,0:09.0,V. Oladipo makes 2-pt dunk from 1 ft (assist by B. Bogdanović),,109,102
+4,0:09.0,Shooting foul by T. Johnson (drawn by V. Oladipo),,109,102
+4,0:09.0,V. Oladipo makes free throw 1 of 1,,110,102
+4,0:05.0,,J. Richardson misses 3-pt jump shot from 26 ft,110,102
+4,0:02.0,Defensive rebound by M. Turner,,110,102

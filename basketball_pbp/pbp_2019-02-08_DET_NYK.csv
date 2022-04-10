@@ -1,0 +1,469 @@
+QUARTER,TIME_REMAINING,NEW YORK_ACTION,DETROIT_ACTION,NEW YORK_SCORE,DETROIT_SCORE
+1,11:41.0,,A. Drummond misses 2-pt hook shot from 6 ft (block by D. Jordan),0,0
+1,11:38.0,Defensive rebound by K. Knox,,0,0
+1,11:23.0,N. Vonleh misses 3-pt jump shot from 26 ft,,0,0
+1,11:20.0,Offensive rebound by D. Jordan,,0,0
+1,11:20.0,Shooting foul by A. Drummond (drawn by D. Smith),,0,0
+1,11:20.0,D. Smith makes free throw 1 of 2,,1,0
+1,11:20.0,D. Smith misses free throw 2 of 2,,1,0
+1,11:17.0,,Defensive rebound by L. Galloway,1,0
+1,10:58.0,,R. Jackson misses 2-pt layup from 2 ft,1,0
+1,10:57.0,,Offensive rebound by A. Drummond,1,0
+1,10:56.0,,A. Drummond makes 2-pt layup from 1 ft,1,2
+1,10:46.0,N. Vonleh misses 3-pt jump shot from 25 ft,,1,2
+1,10:44.0,,Defensive rebound by A. Drummond,1,2
+1,10:42.0,,Shooting foul by N. Vonleh (drawn by B. Griffin),1,2
+1,10:42.0,,B. Griffin makes free throw 1 of 2,1,3
+1,10:42.0,,B. Griffin makes free throw 2 of 2,1,4
+1,10:29.0,N. Vonleh misses 2-pt hook shot from 6 ft,,1,4
+1,10:26.0,,Defensive rebound by A. Drummond,1,4
+1,10:19.0,,R. Jackson makes 2-pt layup from 2 ft,1,6
+1,10:08.0,D. Jordan makes 2-pt layup from 3 ft (assist by D. Smith),,3,6
+1,10:03.0,,Shooting foul by K. Knox (drawn by A. Drummond),3,6
+1,10:03.0,,A. Drummond makes free throw 1 of 2,3,7
+1,10:03.0,,A. Drummond makes free throw 2 of 2,3,8
+1,9:49.0,D. Smith misses 3-pt jump shot from 26 ft,,3,8
+1,9:45.0,Offensive rebound by D. Jordan,,3,8
+1,9:41.0,D. Smith misses 2-pt layup from 3 ft (block by A. Drummond),,3,8
+1,9:38.0,,Defensive rebound by B. Griffin,3,8
+1,9:34.0,,R. Jackson misses 2-pt layup from 9 ft,3,8
+1,9:30.0,,Offensive rebound by A. Drummond,3,8
+1,9:29.0,,A. Drummond makes 2-pt hook shot from 4 ft,3,10
+1,9:20.0,Personal foul by B. Griffin (drawn by N. Vonleh),,3,10
+1,9:08.0,D. Dotson misses 3-pt jump shot from 23 ft,,3,10
+1,9:05.0,,Defensive rebound by Team,3,10
+1,8:54.0,,R. Jackson makes 3-pt jump shot from 24 ft (assist by B. Griffin),3,13
+1,8:51.0,Turnover by D. Jordan (inbound),,3,13
+1,8:43.0,,B. Griffin makes 2-pt jump shot from 13 ft (assist by L. Galloway),3,15
+1,8:37.0,New York full timeout,,3,15
+1,8:37.0,L. Thomas enters the game for N. Vonleh,,3,15
+1,8:32.0,K. Knox misses 2-pt jump shot from 12 ft,,3,15
+1,8:32.0,Offensive rebound by Team,,3,15
+1,8:30.0,D. Dotson makes 2-pt jump shot from 17 ft (assist by K. Knox),,5,15
+1,8:04.0,,R. Jackson makes 3-pt jump shot from 26 ft (assist by B. Griffin),5,18
+1,7:48.0,L. Thomas misses 3-pt jump shot from 25 ft,,5,18
+1,7:46.0,,Defensive rebound by A. Drummond,5,18
+1,7:42.0,,B. Griffin makes 2-pt layup from 3 ft (assist by R. Jackson),5,20
+1,7:42.0,,Shooting foul by L. Thomas (drawn by B. Griffin),5,20
+1,7:42.0,,B. Griffin makes free throw 1 of 1,5,21
+1,7:25.0,D. Smith makes 3-pt jump shot from 24 ft (assist by L. Thomas),,8,21
+1,7:08.0,,R. Jackson makes 3-pt jump shot from 28 ft,8,24
+1,6:43.0,K. Knox misses 3-pt jump shot from 25 ft,,8,24
+1,6:39.0,,Defensive rebound by B. Griffin,8,24
+1,6:33.0,,L. Galloway misses 3-pt jump shot from 24 ft,8,24
+1,6:31.0,Defensive rebound by D. Jordan,,8,24
+1,6:15.0,D. Dotson misses 2-pt jump shot from 3 ft,,8,24
+1,6:15.0,,Defensive rebound by Team,8,24
+1,6:15.0,M. Robinson enters the game for D. Jordan,,8,24
+1,6:15.0,A. Trier enters the game for K. Knox,,8,24
+1,6:07.0,,R. Jackson misses 3-pt jump shot from 25 ft,8,24
+1,6:03.0,Defensive rebound by D. Dotson,,8,24
+1,5:58.0,Shooting foul by B. Brown (drawn by D. Smith),,8,24
+1,5:58.0,D. Smith makes free throw 1 of 2,,9,24
+1,5:58.0,D. Smith makes free throw 2 of 2,,10,24
+1,5:46.0,,B. Griffin makes 2-pt hook shot from 6 ft,10,26
+1,5:33.0,L. Thomas misses 2-pt hook shot from 6 ft,,10,26
+1,5:31.0,,Defensive rebound by A. Drummond,10,26
+1,5:31.0,,Personal take foul by D. Smith (drawn by B. Brown),10,26
+1,5:20.0,,A. Drummond makes 2-pt hook shot from 4 ft (assist by R. Jackson),10,28
+1,4:55.0,L. Thomas misses 2-pt dunk from 1 ft,,10,28
+1,4:52.0,,Defensive rebound by R. Jackson,10,28
+1,4:48.0,,Turnover by R. Jackson (bad pass; steal by D. Smith),10,28
+1,4:45.0,D. Smith makes 2-pt dunk at rim,,12,28
+1,4:23.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by L. Galloway),12,30
+1,4:05.0,L. Thomas makes 2-pt jump shot from 22 ft (assist by M. Robinson),,14,30
+1,3:57.0,,B. Griffin misses 3-pt jump shot from 26 ft,14,30
+1,3:55.0,Defensive rebound by A. Trier,,14,30
+1,3:50.0,Shooting foul by B. Brown (drawn by D. Smith),,14,30
+1,3:50.0,D. Smith misses free throw 1 of 3,,14,30
+1,3:50.0,Offensive rebound by Team,,14,30
+1,3:50.0,D. Smith makes free throw 2 of 3,,15,30
+1,3:50.0,M. Hezonja enters the game for D. Dotson,,15,30
+1,3:50.0,,L. Kennard enters the game for B. Brown,15,30
+1,3:50.0,,I. Smith enters the game for R. Jackson,15,30
+1,3:50.0,D. Smith makes free throw 3 of 3,,16,30
+1,3:38.0,,L. Galloway misses 3-pt jump shot from 24 ft,16,30
+1,3:34.0,Defensive rebound by M. Hezonja,,16,30
+1,3:20.0,Shooting foul by L. Kennard (drawn by M. Robinson),,16,30
+1,3:20.0,M. Robinson makes free throw 1 of 2,,17,30
+1,3:20.0,K. Allen enters the game for D. Smith,,17,30
+1,3:20.0,M. Robinson makes free throw 2 of 2,,18,30
+1,3:16.0,,Detroit full timeout,18,30
+1,3:10.0,,Personal foul by K. Allen (drawn by I. Smith),18,30
+1,3:10.0,,I. Smith makes free throw 1 of 2,18,31
+1,3:10.0,,I. Smith makes free throw 2 of 2,18,32
+1,2:45.0,M. Hezonja misses 2-pt layup from 4 ft,,18,32
+1,2:44.0,Offensive rebound by M. Robinson,,18,32
+1,2:43.0,M. Robinson makes 2-pt layup from 1 ft,,20,32
+1,2:30.0,,I. Smith makes 2-pt layup from 3 ft,20,34
+1,2:13.0,M. Hezonja misses 2-pt jump shot from 14 ft,,20,34
+1,2:12.0,Offensive rebound by Team,,20,34
+1,2:12.0,,Loose ball foul by B. Griffin (drawn by M. Robinson),20,34
+1,2:12.0,M. Robinson makes free throw 1 of 2,,21,34
+1,2:12.0,,T. Maker enters the game for L. Galloway,21,34
+1,2:12.0,,K. Thomas enters the game for B. Griffin,21,34
+1,2:12.0,M. Robinson makes free throw 2 of 2,,22,34
+1,1:49.0,,L. Kennard misses 2-pt jump shot from 10 ft (block by M. Robinson),22,34
+1,1:49.0,Defensive rebound by M. Robinson,,22,34
+1,1:40.0,L. Thomas misses 2-pt dunk from 2 ft (block by A. Drummond),,22,34
+1,1:40.0,Offensive rebound by M. Robinson,,22,34
+1,1:35.0,M. Robinson misses 2-pt layup from 2 ft,,22,34
+1,1:33.0,,Defensive rebound by A. Drummond,22,34
+1,1:32.0,,L. Kennard makes 3-pt jump shot from 27 ft (assist by I. Smith),22,37
+1,1:05.0,M. Hezonja misses 2-pt layup from 5 ft,,22,37
+1,1:04.0,,Defensive rebound by T. Maker,22,37
+1,0:57.0,,L. Kennard misses 2-pt hook shot from 3 ft,22,37
+1,0:57.0,,Offensive rebound by L. Kennard,22,37
+1,0:57.0,,L. Kennard misses 2-pt layup from 1 ft,22,37
+1,0:57.0,,Offensive rebound by Team,22,37
+1,0:57.0,K. Knox enters the game for L. Thomas,,22,37
+1,0:52.0,,A. Drummond makes 2-pt dunk at rim (assist by L. Kennard),22,39
+1,0:39.0,K. Knox misses 3-pt jump shot from 23 ft,,22,39
+1,0:37.0,,Defensive rebound by A. Drummond,22,39
+1,0:31.0,,Turnover by I. Smith (lost ball; steal by M. Hezonja),22,39
+1,0:27.0,Turnover by A. Trier (bad pass),,22,39
+1,0:11.0,,A. Drummond makes 2-pt layup from 1 ft (assist by L. Kennard),22,41
+1,0:03.0,M. Hezonja misses 3-pt jump shot from 31 ft,,22,41
+1,0:01.0,Offensive rebound by M. Robinson,,22,41
+2,11:47.0,K. Knox misses 2-pt layup from 7 ft (block by L. Kennard),,22,41
+2,11:45.0,,Defensive rebound by Team,22,41
+2,11:28.0,,L. Kennard misses 2-pt jump shot from 14 ft (block by M. Robinson),22,41
+2,11:26.0,,Offensive rebound by I. Smith,22,41
+2,11:23.0,,I. Smith misses 3-pt jump shot from 28 ft (block by M. Robinson),22,41
+2,11:23.0,Defensive rebound by A. Trier,,22,41
+2,11:10.0,M. Hezonja misses 2-pt layup from 2 ft (block by Z. Pachulia),,22,41
+2,11:07.0,,Defensive rebound by Z. Pachulia,22,41
+2,11:05.0,,K. Thomas misses 3-pt jump shot from 23 ft,22,41
+2,11:02.0,Defensive rebound by M. Robinson,,22,41
+2,11:00.0,Personal foul by L. Kennard (drawn by K. Knox),,22,41
+2,10:50.0,M. Hezonja misses 2-pt layup from 4 ft (block by Z. Pachulia),,22,41
+2,10:47.0,,Defensive rebound by I. Smith,22,41
+2,10:45.0,,K. Thomas makes 2-pt layup from 1 ft (assist by I. Smith),22,43
+2,10:31.0,K. Allen misses 2-pt jump shot from 9 ft,,22,43
+2,10:26.0,Offensive rebound by K. Allen,,22,43
+2,10:26.0,K. Allen makes 2-pt layup at rim,,24,43
+2,10:15.0,,I. Smith misses 2-pt jump shot from 17 ft,24,43
+2,10:12.0,Defensive rebound by M. Robinson,,24,43
+2,10:04.0,M. Robinson makes 2-pt layup from 3 ft (assist by A. Trier),,26,43
+2,9:58.0,,Offensive foul by T. Maker (drawn by M. Hezonja),26,43
+2,9:58.0,,Turnover by T. Maker (offensive foul),26,43
+2,9:45.0,K. Knox makes 3-pt jump shot from 24 ft (assist by K. Allen),,29,43
+2,9:36.0,,Detroit full timeout,29,43
+2,9:36.0,,S. Mykhailiuk enters the game for L. Kennard,29,43
+2,9:36.0,,G. Robinson enters the game for T. Maker,29,43
+2,9:20.0,,I. Smith misses 3-pt jump shot from 27 ft,29,43
+2,9:16.0,Defensive rebound by K. Allen,,29,43
+2,8:59.0,A. Trier makes 3-pt jump shot from 25 ft (assist by K. Allen),,32,43
+2,8:36.0,,Z. Pachulia makes 2-pt dunk from 1 ft (assist by S. Mykhailiuk),32,45
+2,8:16.0,Turnover by A. Trier (bad pass; steal by K. Thomas),,32,45
+2,8:10.0,,G. Robinson misses 2-pt layup from 4 ft,32,45
+2,8:09.0,,Offensive rebound by G. Robinson,32,45
+2,8:09.0,,Turnover by G. Robinson (out of bounds lost ball),32,45
+2,8:09.0,D. Jordan enters the game for M. Robinson,,32,45
+2,7:59.0,K. Allen makes 2-pt layup from 1 ft,,34,45
+2,7:48.0,,Z. Pachulia misses 2-pt jump shot from 20 ft,34,45
+2,7:45.0,Defensive rebound by M. Hezonja,,34,45
+2,7:33.0,Shooting foul by G. Robinson (drawn by D. Jordan),,34,45
+2,7:33.0,D. Jordan misses free throw 1 of 2,,34,45
+2,7:33.0,Offensive rebound by Team,,34,45
+2,7:33.0,D. Smith enters the game for K. Allen,,34,45
+2,7:33.0,D. Jordan makes free throw 2 of 2,,35,45
+2,7:14.0,,Turnover by S. Mykhailiuk (step out of bounds),35,45
+2,7:14.0,,B. Griffin enters the game for G. Robinson,35,45
+2,7:14.0,,R. Jackson enters the game for I. Smith,35,45
+2,7:14.0,,L. Kennard enters the game for K. Thomas,35,45
+2,6:56.0,D. Smith makes 2-pt jump shot from 15 ft,,37,45
+2,6:45.0,,Personal foul by M. Hezonja (drawn by B. Griffin),37,45
+2,6:31.0,,S. Mykhailiuk misses 2-pt jump shot from 16 ft,37,45
+2,6:28.0,Defensive rebound by M. Hezonja,,37,45
+2,6:21.0,Personal foul by Z. Pachulia (drawn by D. Jordan),,37,45
+2,6:21.0,,A. Drummond enters the game for Z. Pachulia,37,45
+2,6:15.0,Offensive foul by K. Knox (drawn by L. Kennard),,37,45
+2,6:15.0,Turnover by K. Knox (offensive foul),,37,45
+2,6:05.0,,L. Kennard makes 2-pt jump shot from 15 ft,37,47
+2,5:44.0,A. Trier misses 2-pt jump shot from 23 ft,,37,47
+2,5:40.0,,Defensive rebound by S. Mykhailiuk,37,47
+2,5:31.0,,L. Kennard makes 3-pt jump shot from 26 ft (assist by R. Jackson),37,50
+2,5:23.0,New York full timeout,,37,50
+2,5:23.0,D. Dotson enters the game for A. Trier,,37,50
+2,5:13.0,D. Dotson misses 2-pt jump shot from 17 ft,,37,50
+2,5:11.0,Offensive rebound by D. Jordan,,37,50
+2,5:07.0,D. Smith makes 2-pt dunk at rim (assist by D. Jordan),,39,50
+2,4:52.0,,B. Griffin misses 3-pt jump shot from 26 ft,39,50
+2,4:48.0,,Offensive rebound by B. Griffin,39,50
+2,4:45.0,,Turnover by B. Griffin (bad pass; steal by M. Hezonja),39,50
+2,4:27.0,K. Knox makes 2-pt jump shot from 9 ft (assist by D. Smith),,41,50
+2,4:13.0,,Shooting foul by D. Dotson (drawn by B. Griffin),41,50
+2,4:13.0,,B. Griffin makes free throw 1 of 2,41,51
+2,4:13.0,,B. Griffin makes free throw 2 of 2,41,52
+2,3:57.0,M. Hezonja makes 2-pt layup from 2 ft,,43,52
+2,3:44.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by R. Jackson),43,54
+2,3:27.0,D. Smith misses 2-pt jump shot from 22 ft,,43,54
+2,3:23.0,Offensive rebound by D. Smith,,43,54
+2,3:17.0,D. Jordan makes 2-pt hook shot from 5 ft (assist by D. Smith),,45,54
+2,3:17.0,Shooting foul by A. Drummond (drawn by D. Jordan),,45,54
+2,3:17.0,,B. Brown enters the game for S. Mykhailiuk,45,54
+2,3:17.0,D. Jordan makes free throw 1 of 1,,46,54
+2,3:05.0,,Personal foul by M. Hezonja (drawn by B. Griffin),46,54
+2,2:59.0,,R. Jackson makes 3-pt jump shot from 27 ft (assist by B. Brown),46,57
+2,2:47.0,Turnover by D. Smith (traveling),,46,57
+2,2:40.0,,L. Kennard misses 3-pt jump shot from 26 ft,46,57
+2,2:32.0,Defensive rebound by K. Knox,,46,57
+2,2:28.0,M. Hezonja makes 2-pt layup from 4 ft (assist by K. Knox),,48,57
+2,2:23.0,,Turnover by B. Griffin (bad pass),48,57
+2,2:09.0,D. Smith makes 2-pt jump shot from 10 ft,,50,57
+2,1:53.0,,R. Jackson misses 2-pt jump shot from 7 ft,50,57
+2,1:50.0,,Offensive rebound by A. Drummond,50,57
+2,1:50.0,,A. Drummond makes 2-pt layup from 1 ft,50,59
+2,1:41.0,Personal foul by R. Jackson (drawn by D. Dotson),,50,59
+2,1:41.0,D. Dotson makes free throw 1 of 2,,51,59
+2,1:41.0,D. Dotson misses free throw 2 of 2,,51,59
+2,1:39.0,,Defensive rebound by B. Griffin,51,59
+2,1:30.0,,A. Drummond makes 2-pt layup from 1 ft (assist by B. Griffin),51,61
+2,1:09.0,M. Hezonja misses 2-pt jump shot from 7 ft,,51,61
+2,1:06.0,Offensive rebound by D. Jordan,,51,61
+2,1:05.0,D. Smith makes 3-pt jump shot from 26 ft (assist by D. Dotson),,54,61
+2,0:54.0,,Shooting foul by D. Dotson (drawn by B. Griffin),54,61
+2,0:54.0,,B. Griffin makes free throw 1 of 2,54,62
+2,0:54.0,,B. Griffin makes free throw 2 of 2,54,63
+2,0:30.0,D. Smith misses 3-pt jump shot from 26 ft,,54,63
+2,0:27.0,,Defensive rebound by L. Kennard,54,63
+2,0:04.0,,R. Jackson misses 2-pt jump shot from 23 ft,54,63
+2,0:03.0,,Offensive rebound by Team,54,63
+2,0:03.0,,Turnover by Team (shot clock),54,63
+2,0:02.0,Turnover by D. Dotson (bad pass; steal by A. Drummond),,54,63
+2,0:00.0,,L. Kennard misses 3-pt jump shot from 62 ft,54,63
+2,0:00.0,,Offensive rebound by Team,54,63
+3,11:49.0,Shooting foul by B. Brown (drawn by D. Smith),,54,63
+3,11:49.0,D. Smith makes free throw 1 of 2,,55,63
+3,11:49.0,D. Smith makes free throw 2 of 2,,56,63
+3,11:33.0,,A. Drummond makes 2-pt layup from 2 ft (assist by R. Jackson),56,65
+3,11:20.0,D. Dotson misses 2-pt jump shot from 17 ft,,56,65
+3,11:18.0,,Defensive rebound by B. Griffin,56,65
+3,11:13.0,,B. Griffin makes 3-pt jump shot from 25 ft,56,68
+3,10:57.0,Turnover by K. Knox (step out of bounds),,56,68
+3,10:47.0,,L. Galloway makes 3-pt jump shot from 24 ft (assist by B. Griffin),56,71
+3,10:46.0,New York full timeout,,56,71
+3,10:33.0,M. Hezonja misses 3-pt jump shot from 24 ft,,56,71
+3,10:29.0,,Defensive rebound by B. Brown,56,71
+3,10:15.0,,R. Jackson misses 2-pt jump shot from 14 ft,56,71
+3,10:13.0,Defensive rebound by M. Hezonja,,56,71
+3,10:05.0,D. Dotson makes 3-pt jump shot from 25 ft (assist by D. Smith),,59,71
+3,9:46.0,,B. Brown misses 2-pt jump shot from 6 ft,59,71
+3,9:45.0,Defensive rebound by D. Jordan,,59,71
+3,9:39.0,Shooting foul by A. Drummond (drawn by M. Hezonja),,59,71
+3,9:39.0,M. Hezonja makes free throw 1 of 2,,60,71
+3,9:39.0,M. Hezonja makes free throw 2 of 2,,61,71
+3,9:22.0,,Shooting foul by D. Jordan (drawn by B. Brown),61,71
+3,9:22.0,,B. Brown misses free throw 1 of 2,61,71
+3,9:22.0,,Offensive rebound by Team,61,71
+3,9:22.0,,B. Brown misses free throw 2 of 2,61,71
+3,9:21.0,Defensive rebound by D. Jordan,,61,71
+3,9:10.0,Turnover by D. Smith (bad pass; steal by L. Galloway),,61,71
+3,9:07.0,,L. Galloway makes 2-pt layup from 5 ft,61,73
+3,8:53.0,D. Jordan makes 2-pt dunk from 1 ft (assist by M. Hezonja),,63,73
+3,8:28.0,,B. Griffin misses 2-pt layup from 6 ft,63,73
+3,8:25.0,,Offensive rebound by B. Griffin,63,73
+3,8:22.0,,Shooting foul by K. Knox (drawn by B. Griffin),63,73
+3,8:22.0,,B. Griffin makes free throw 1 of 2,63,74
+3,8:22.0,,B. Griffin makes free throw 2 of 2,63,75
+3,8:09.0,K. Knox misses 3-pt jump shot from 27 ft,,63,75
+3,8:06.0,,Defensive rebound by A. Drummond,63,75
+3,7:58.0,,Personal foul by D. Dotson (drawn by B. Brown),63,75
+3,7:45.0,,B. Griffin misses 3-pt jump shot from 30 ft,63,75
+3,7:39.0,,Offensive rebound by R. Jackson,63,75
+3,7:28.0,,A. Drummond misses 2-pt hook shot from 9 ft (block by D. Jordan),63,75
+3,7:26.0,Defensive rebound by M. Hezonja,,63,75
+3,7:24.0,Shooting foul by L. Galloway (drawn by K. Knox),,63,75
+3,7:24.0,K. Knox makes free throw 1 of 2,,64,75
+3,7:24.0,A. Trier enters the game for D. Dotson,,64,75
+3,7:24.0,K. Knox makes free throw 2 of 2,,65,75
+3,7:16.0,,Turnover by B. Griffin (bad pass; steal by D. Smith),65,75
+3,7:13.0,D. Smith makes 2-pt dunk at rim,,67,75
+3,6:44.0,,A. Drummond misses 2-pt layup from 7 ft,67,75
+3,6:42.0,Defensive rebound by D. Jordan,,67,75
+3,6:41.0,Offensive foul by D. Jordan (drawn by B. Griffin),,67,75
+3,6:41.0,Turnover by D. Jordan (offensive foul),,67,75
+3,6:32.0,,B. Griffin makes 2-pt layup from 1 ft (assist by A. Drummond),67,77
+3,6:14.0,Personal foul by A. Drummond (drawn by D. Jordan),,67,77
+3,6:14.0,,Z. Pachulia enters the game for A. Drummond,67,77
+3,6:05.0,D. Smith makes 2-pt layup from 3 ft,,69,77
+3,6:05.0,,Flagrant foul type 1 by D. Smith (drawn by B. Griffin),69,77
+3,6:05.0,,L. Kennard enters the game for L. Galloway,69,77
+3,6:05.0,,B. Griffin misses flagrant free throw 1 of 2,69,77
+3,6:05.0,,Offensive rebound by Team,69,77
+3,6:05.0,,B. Griffin makes flagrant free throw 2 of 2,69,78
+3,5:50.0,,L. Kennard misses 2-pt jump shot from 20 ft,69,78
+3,5:46.0,Defensive rebound by M. Hezonja,,69,78
+3,5:41.0,D. Jordan makes 2-pt dunk from 1 ft (assist by D. Smith),,71,78
+3,5:23.0,,B. Brown misses 2-pt layup from 4 ft,71,78
+3,5:23.0,Defensive rebound by D. Jordan,,71,78
+3,5:11.0,Personal foul by Z. Pachulia (drawn by D. Smith),,71,78
+3,5:11.0,D. Smith misses free throw 1 of 2,,71,78
+3,5:11.0,Offensive rebound by Team,,71,78
+3,5:11.0,D. Smith makes free throw 2 of 2,,72,78
+3,4:54.0,,B. Griffin misses 2-pt jump shot from 11 ft,72,78
+3,4:51.0,Defensive rebound by D. Jordan,,72,78
+3,4:44.0,M. Hezonja makes 2-pt jump shot from 19 ft,,74,78
+3,4:37.0,,Detroit full timeout,74,78
+3,4:37.0,,I. Smith enters the game for B. Brown,74,78
+3,4:37.0,,K. Thomas enters the game for R. Jackson,74,78
+3,4:21.0,,I. Smith makes 2-pt jump shot from 18 ft,74,80
+3,4:03.0,Shooting foul by I. Smith (drawn by D. Jordan),,74,80
+3,4:03.0,D. Jordan makes free throw 1 of 2,,75,80
+3,4:03.0,D. Jordan makes free throw 2 of 2,,76,80
+3,3:46.0,,B. Griffin misses 3-pt jump shot from 25 ft,76,80
+3,3:43.0,Defensive rebound by Team,,76,80
+3,3:43.0,L. Thomas enters the game for K. Knox,,76,80
+3,3:33.0,D. Smith makes 2-pt jump shot from 17 ft,,78,80
+3,3:17.0,,I. Smith misses 2-pt jump shot from 9 ft,78,80
+3,3:17.0,Defensive rebound by Team,,78,80
+3,3:17.0,,Loose ball foul by Z. Pachulia (drawn by D. Smith),78,80
+3,3:17.0,D. Smith makes free throw 1 of 2,,79,80
+3,3:17.0,D. Smith makes free throw 2 of 2,,80,80
+3,3:06.0,,L. Kennard misses 3-pt jump shot from 25 ft,80,80
+3,3:04.0,Defensive rebound by L. Thomas,,80,80
+3,2:56.0,Turnover by D. Smith (bad pass),,80,80
+3,2:34.0,,L. Kennard misses 2-pt layup from 5 ft,80,80
+3,2:33.0,,Offensive rebound by L. Kennard,80,80
+3,2:33.0,,Personal foul by D. Jordan (drawn by L. Kennard),80,80
+3,2:33.0,,L. Kennard makes free throw 1 of 2,80,81
+3,2:33.0,,L. Kennard makes free throw 2 of 2,80,82
+3,2:20.0,A. Trier makes 2-pt jump shot from 14 ft,,82,82
+3,2:03.0,,Personal foul by L. Thomas (drawn by B. Griffin),82,82
+3,2:03.0,,B. Griffin misses free throw 1 of 2,82,82
+3,2:03.0,,Offensive rebound by Team,82,82
+3,2:03.0,,B. Griffin misses free throw 2 of 2,82,82
+3,2:01.0,Defensive rebound by M. Hezonja,,82,82
+3,1:41.0,A. Trier misses 2-pt layup from 4 ft,,82,82
+3,1:37.0,,Defensive rebound by I. Smith,82,82
+3,1:25.0,,Shooting foul by A. Trier (drawn by B. Griffin),82,82
+3,1:25.0,,B. Griffin makes free throw 1 of 2,82,83
+3,1:25.0,,B. Griffin makes free throw 2 of 2,82,84
+3,1:07.0,L. Thomas misses 3-pt jump shot from 23 ft,,82,84
+3,1:03.0,,Defensive rebound by I. Smith,82,84
+3,0:58.0,,I. Smith misses 2-pt layup from 3 ft,82,84
+3,0:57.0,,Offensive rebound by Z. Pachulia,82,84
+3,0:57.0,,Z. Pachulia makes 2-pt layup from 2 ft,82,86
+3,0:47.0,Offensive foul by D. Smith (drawn by B. Griffin),,82,86
+3,0:47.0,Turnover by D. Smith (offensive foul),,82,86
+3,0:39.0,,B. Griffin makes 3-pt jump shot from 26 ft,82,89
+3,0:17.0,L. Thomas makes 2-pt jump shot from 6 ft (assist by D. Smith),,84,89
+3,0:03.0,,B. Griffin misses 3-pt jump shot from 25 ft,84,89
+3,0:00.0,Defensive rebound by A. Trier,,84,89
+4,11:44.0,,Shooting foul by K. Allen (drawn by A. Drummond),84,89
+4,11:44.0,,A. Drummond misses free throw 1 of 2,84,89
+4,11:44.0,,Offensive rebound by Team,84,89
+4,11:44.0,,A. Drummond makes free throw 2 of 2,84,90
+4,11:31.0,K. Allen misses 2-pt jump shot from 8 ft,,84,90
+4,11:27.0,,Defensive rebound by G. Robinson,84,90
+4,11:14.0,,L. Kennard makes 2-pt jump shot from 16 ft,84,92
+4,10:49.0,K. Allen misses 2-pt jump shot from 14 ft,,84,92
+4,10:47.0,Offensive rebound by K. Allen,,84,92
+4,10:46.0,M. Robinson misses 2-pt dunk from 1 ft,,84,92
+4,10:42.0,,Defensive rebound by A. Drummond,84,92
+4,10:41.0,,Turnover by A. Drummond (lost ball; steal by L. Thomas),84,92
+4,10:35.0,A. Trier misses 3-pt jump shot from 22 ft,,84,92
+4,10:33.0,,Defensive rebound by A. Drummond,84,92
+4,10:25.0,,Shooting foul by M. Robinson (drawn by I. Smith),84,92
+4,10:25.0,,I. Smith makes free throw 1 of 2,84,93
+4,10:25.0,,I. Smith makes free throw 2 of 2,84,94
+4,10:10.0,Turnover by K. Knox (traveling),,84,94
+4,10:10.0,D. Smith enters the game for L. Thomas,,84,94
+4,9:56.0,,Offensive foul by L. Kennard (drawn by A. Trier),84,94
+4,9:56.0,,Turnover by L. Kennard (offensive foul),84,94
+4,9:46.0,Shooting foul by K. Thomas (drawn by D. Smith),,84,94
+4,9:46.0,D. Smith misses free throw 1 of 2,,84,94
+4,9:46.0,Offensive rebound by Team,,84,94
+4,9:46.0,D. Smith misses free throw 2 of 2,,84,94
+4,9:44.0,,Defensive rebound by A. Drummond,84,94
+4,9:30.0,,K. Thomas misses 3-pt jump shot from 26 ft,84,94
+4,9:26.0,Defensive rebound by K. Allen,,84,94
+4,9:10.0,M. Robinson makes 2-pt layup from 4 ft (assist by D. Smith),,86,94
+4,9:10.0,Shooting foul by L. Kennard (drawn by M. Robinson),,86,94
+4,9:10.0,M. Robinson misses free throw 1 of 1,,86,94
+4,9:08.0,,Defensive rebound by A. Drummond,86,94
+4,8:55.0,,K. Thomas makes 3-pt jump shot from 23 ft (assist by A. Drummond),86,97
+4,8:32.0,A. Trier misses 2-pt jump shot from 15 ft,,86,97
+4,8:30.0,,Defensive rebound by A. Drummond,86,97
+4,8:21.0,,Shooting foul by M. Robinson (drawn by A. Drummond),86,97
+4,8:21.0,,A. Drummond makes free throw 1 of 2,86,98
+4,8:21.0,M. Hezonja enters the game for K. Allen,,86,98
+4,8:21.0,,A. Drummond makes free throw 2 of 2,86,99
+4,8:12.0,Shooting foul by K. Thomas (drawn by D. Smith),,86,99
+4,8:12.0,D. Smith misses free throw 1 of 2,,86,99
+4,8:12.0,Offensive rebound by Team,,86,99
+4,8:12.0,D. Smith makes free throw 2 of 2,,87,99
+4,8:02.0,,Turnover by I. Smith (bad pass),87,99
+4,7:56.0,Shooting foul by I. Smith (drawn by M. Robinson),,87,99
+4,7:56.0,M. Robinson makes free throw 1 of 2,,88,99
+4,7:56.0,M. Robinson misses free throw 2 of 2,,88,99
+4,7:53.0,,Defensive rebound by A. Drummond,88,99
+4,7:35.0,,I. Smith makes 3-pt jump shot from 24 ft,88,102
+4,7:18.0,D. Smith misses 2-pt layup from 2 ft,,88,102
+4,7:17.0,,Defensive rebound by A. Drummond,88,102
+4,7:06.0,,I. Smith misses 2-pt jump shot from 6 ft,88,102
+4,7:03.0,Defensive rebound by D. Smith,,88,102
+4,7:02.0,Shooting foul by K. Thomas (drawn by D. Smith),,88,102
+4,7:02.0,D. Smith misses free throw 1 of 2,,88,102
+4,7:02.0,Offensive rebound by Team,,88,102
+4,7:02.0,D. Jordan enters the game for M. Robinson,,88,102
+4,7:02.0,D. Smith misses free throw 2 of 2,,88,102
+4,7:01.0,,Defensive rebound by G. Robinson,88,102
+4,7:01.0,,Detroit full timeout,88,102
+4,7:01.0,,L. Galloway enters the game for I. Smith,88,102
+4,7:01.0,,R. Jackson enters the game for K. Thomas,88,102
+4,6:45.0,,Personal foul by M. Hezonja (drawn by R. Jackson),88,102
+4,6:36.0,,R. Jackson makes 2-pt jump shot from 10 ft,88,104
+4,6:21.0,K. Knox misses 2-pt layup from 4 ft (block by A. Drummond),,88,104
+4,6:19.0,,Defensive rebound by A. Drummond,88,104
+4,6:14.0,,L. Galloway misses 3-pt jump shot from 27 ft,88,104
+4,6:11.0,Defensive rebound by D. Jordan,,88,104
+4,6:03.0,A. Trier misses 2-pt layup from 2 ft,,88,104
+4,6:01.0,,Defensive rebound by A. Drummond,88,104
+4,5:47.0,,R. Jackson makes 2-pt jump shot from 17 ft,88,106
+4,5:47.0,New York full timeout,,88,106
+4,5:47.0,D. Dotson enters the game for A. Trier,,88,106
+4,5:30.0,D. Dotson makes 2-pt jump shot from 15 ft,,90,106
+4,5:08.0,,A. Drummond makes 2-pt layup from 2 ft (assist by L. Kennard),90,108
+4,4:54.0,D. Smith misses 3-pt jump shot from 25 ft,,90,108
+4,4:52.0,,Defensive rebound by A. Drummond,90,108
+4,4:34.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by L. Galloway),90,110
+4,4:05.0,D. Jordan makes 2-pt layup from 2 ft (assist by D. Smith),,92,110
+4,3:41.0,,G. Robinson makes 3-pt jump shot from 24 ft (assist by R. Jackson),92,113
+4,3:33.0,New York full timeout,,92,113
+4,3:33.0,K. Allen enters the game for M. Hezonja,,92,113
+4,3:33.0,I. Hicks enters the game for D. Jordan,,92,113
+4,3:33.0,L. Kornet enters the game for K. Knox,,92,113
+4,3:33.0,A. Trier enters the game for D. Smith,,92,113
+4,3:33.0,,T. Maker enters the game for G. Robinson,92,113
+4,3:20.0,Turnover by K. Allen (bad pass),,92,113
+4,3:01.0,,R. Jackson makes 2-pt layup from 3 ft,92,115
+4,2:54.0,Personal take foul by R. Jackson (drawn by K. Allen),,92,115
+4,2:54.0,K. Allen misses free throw 1 of 2,,92,115
+4,2:54.0,Offensive rebound by Team,,92,115
+4,2:54.0,,J. Calderón enters the game for A. Drummond,92,115
+4,2:54.0,,S. Mykhailiuk enters the game for L. Galloway,92,115
+4,2:54.0,,G. Robinson enters the game for R. Jackson,92,115
+4,2:54.0,,K. Thomas enters the game for L. Kennard,92,115
+4,2:54.0,K. Allen misses free throw 2 of 2,,92,115
+4,2:51.0,,Defensive rebound by J. Calderón,92,115
+4,2:38.0,,S. Mykhailiuk misses 3-pt jump shot from 24 ft,92,115
+4,2:37.0,Defensive rebound by Team,,92,115
+4,2:28.0,L. Kornet makes 3-pt jump shot from 27 ft (assist by A. Trier),,95,115
+4,2:10.0,,S. Mykhailiuk makes 3-pt jump shot from 23 ft (assist by J. Calderón),95,118
+4,1:57.0,K. Allen makes 3-pt jump shot from 24 ft (assist by D. Dotson),,98,118
+4,1:45.0,,S. Mykhailiuk misses 2-pt jump shot from 16 ft,98,118
+4,1:42.0,Defensive rebound by L. Kornet,,98,118
+4,1:38.0,Personal foul by G. Robinson (drawn by I. Hicks),,98,118
+4,1:38.0,I. Hicks makes free throw 1 of 2,,99,118
+4,1:38.0,I. Hicks misses free throw 2 of 2,,99,118
+4,1:36.0,,Defensive rebound by K. Thomas,99,118
+4,1:14.0,,T. Maker misses 2-pt jump shot from 12 ft,99,118
+4,1:12.0,Defensive rebound by D. Dotson,,99,118
+4,0:59.0,D. Dotson makes 2-pt jump shot from 21 ft (assist by L. Kornet),,101,118
+4,0:37.0,,Turnover by G. Robinson (bad pass; steal by A. Trier),101,118
+4,0:32.0,A. Trier makes 2-pt layup from 2 ft (assist by I. Hicks),,103,118
+4,0:16.0,,G. Robinson makes 2-pt jump shot from 20 ft (assist by S. Mykhailiuk),103,120
+4,0:01.0,A. Trier misses 3-pt jump shot from 26 ft,,103,120
+4,0:00.0,Offensive rebound by Team,,103,120

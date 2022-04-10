@@ -1,0 +1,427 @@
+QUARTER,TIME_REMAINING,BROOKLYN_ACTION,TORONTO_ACTION,BROOKLYN_SCORE,TORONTO_SCORE
+1,11:45.0,J. Harris makes 3-pt jump shot from 23 ft (assist by R. Kurucs),,3,0
+1,11:28.0,,D. Green makes 3-pt jump shot from 26 ft (assist by K. Leonard),3,3
+1,11:14.0,R. Kurucs misses 2-pt layup from 2 ft,,3,3
+1,11:12.0,,Defensive rebound by S. Ibaka,3,3
+1,11:02.0,,Shooting foul by T. Graham (drawn by K. Leonard),3,3
+1,11:02.0,,K. Leonard makes free throw 1 of 2,3,4
+1,11:02.0,,K. Leonard makes free throw 2 of 2,3,5
+1,10:52.0,Personal foul by D. Green (drawn by D. Russell),,3,5
+1,10:47.0,D. Russell misses 2-pt jump shot from 6 ft (block by S. Ibaka),,3,5
+1,10:44.0,,Defensive rebound by K. Lowry,3,5
+1,10:37.0,,Turnover by P. Siakam (traveling),3,5
+1,10:22.0,J. Harris makes 3-pt jump shot from 26 ft (assist by J. Allen),,6,5
+1,10:01.0,,K. Leonard misses 2-pt jump shot from 20 ft,6,5
+1,9:58.0,Defensive rebound by J. Allen,,6,5
+1,9:51.0,Turnover by D. Russell (bad pass; steal by S. Ibaka),,6,5
+1,9:45.0,,Offensive foul by K. Leonard (drawn by J. Harris),6,5
+1,9:45.0,,Turnover by K. Leonard (offensive foul),6,5
+1,9:35.0,J. Harris makes 3-pt jump shot from 26 ft (assist by J. Allen),,9,5
+1,9:25.0,,K. Leonard misses 2-pt jump shot from 17 ft,9,5
+1,9:21.0,Defensive rebound by D. Russell,,9,5
+1,9:17.0,J. Harris misses 3-pt jump shot from 26 ft,,9,5
+1,9:12.0,,Defensive rebound by S. Ibaka,9,5
+1,9:00.0,,P. Siakam misses 2-pt hook shot from 6 ft,9,5
+1,8:57.0,Defensive rebound by D. Russell,,9,5
+1,8:51.0,T. Graham misses 3-pt jump shot from 26 ft,,9,5
+1,8:47.0,,Defensive rebound by D. Green,9,5
+1,8:43.0,,K. Lowry misses 3-pt jump shot from 25 ft,9,5
+1,8:41.0,Defensive rebound by D. Russell,,9,5
+1,8:34.0,D. Russell misses 2-pt layup from 6 ft,,9,5
+1,8:32.0,,Defensive rebound by S. Ibaka,9,5
+1,8:23.0,,Turnover by D. Green (bad pass),9,5
+1,8:23.0,,Toronto full timeout,9,5
+1,8:14.0,Turnover by D. Russell (bad pass; steal by P. Siakam),,9,5
+1,7:59.0,,K. Lowry makes 2-pt layup from 2 ft (assist by P. Siakam),9,7
+1,7:50.0,R. Kurucs makes 3-pt jump shot from 26 ft (assist by D. Russell),,12,7
+1,7:34.0,,P. Siakam makes 2-pt jump shot from 14 ft (assist by K. Leonard),12,9
+1,7:12.0,T. Graham misses 3-pt jump shot from 23 ft,,12,9
+1,7:10.0,,Defensive rebound by D. Green,12,9
+1,7:02.0,,S. Ibaka misses 3-pt jump shot from 25 ft,12,9
+1,6:57.0,Defensive rebound by J. Harris,,12,9
+1,6:44.0,J. Allen makes 2-pt layup from 4 ft (assist by T. Graham),,14,9
+1,6:31.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by P. Siakam),14,11
+1,6:15.0,D. Russell misses 2-pt layup from 5 ft,,14,11
+1,6:12.0,,Defensive rebound by S. Ibaka,14,11
+1,6:04.0,,S. Ibaka makes 2-pt hook shot from 5 ft (assist by K. Leonard),14,13
+1,6:04.0,Brooklyn full timeout,,14,13
+1,6:04.0,A. Crabbe enters the game for T. Graham,,14,13
+1,6:04.0,R. Hollis-Jefferson enters the game for R. Kurucs,,14,13
+1,5:49.0,A. Crabbe misses 3-pt jump shot from 23 ft,,14,13
+1,5:46.0,,Defensive rebound by S. Ibaka,14,13
+1,5:40.0,,K. Leonard misses 3-pt jump shot from 25 ft,14,13
+1,5:37.0,Defensive rebound by D. Russell,,14,13
+1,5:22.0,J. Allen misses 3-pt jump shot from 23 ft,,14,13
+1,5:18.0,Offensive rebound by D. Russell,,14,13
+1,5:16.0,J. Harris makes 3-pt jump shot from 26 ft (assist by D. Russell),,17,13
+1,4:55.0,,S. Ibaka makes 2-pt jump shot from 19 ft (assist by D. Green),17,15
+1,4:37.0,J. Harris makes 3-pt jump shot from 26 ft (assist by D. Russell),,20,15
+1,4:25.0,,K. Leonard misses 2-pt layup from 1 ft,20,15
+1,4:22.0,,Offensive rebound by K. Leonard,20,15
+1,4:22.0,,K. Leonard misses 2-pt layup from 1 ft,20,15
+1,4:22.0,,Offensive rebound by Team,20,15
+1,4:22.0,E. Davis enters the game for J. Allen,,20,15
+1,4:22.0,C. LeVert enters the game for J. Harris,,20,15
+1,4:22.0,S. Napier enters the game for D. Russell,,20,15
+1,4:17.0,,S. Ibaka misses 3-pt jump shot from 26 ft,20,15
+1,4:15.0,Defensive rebound by A. Crabbe,,20,15
+1,4:04.0,A. Crabbe misses 3-pt jump shot from 26 ft,,20,15
+1,4:03.0,,Defensive rebound by Team,20,15
+1,4:03.0,,P. McCaw enters the game for D. Green,20,15
+1,4:03.0,,N. Powell enters the game for P. Siakam,20,15
+1,3:40.0,,K. Leonard makes 2-pt layup from 1 ft (assist by S. Ibaka),20,17
+1,3:18.0,R. Hollis-Jefferson misses 3-pt jump shot from 23 ft,,20,17
+1,3:15.0,Offensive rebound by S. Napier,,20,17
+1,3:08.0,A. Crabbe misses 3-pt jump shot from 25 ft,,20,17
+1,3:04.0,,Defensive rebound by K. Lowry,20,17
+1,3:03.0,,N. Powell misses 2-pt layup from 2 ft (block by S. Napier),20,17
+1,3:03.0,,Offensive rebound by Team,20,17
+1,3:03.0,,M. Gasol enters the game for S. Ibaka,20,17
+1,2:54.0,,Shooting foul by E. Davis (drawn by K. Leonard),20,17
+1,2:54.0,,K. Leonard makes free throw 1 of 2,20,18
+1,2:54.0,,O. Anunoby enters the game for K. Lowry,20,18
+1,2:54.0,,K. Leonard makes free throw 2 of 2,20,19
+1,2:39.0,C. LeVert makes 2-pt jump shot from 17 ft,,22,19
+1,2:20.0,,Turnover by K. Leonard (bad pass; steal by S. Napier),22,19
+1,2:15.0,A. Crabbe makes 2-pt layup from 2 ft (assist by S. Napier),,24,19
+1,1:59.0,,N. Powell misses 2-pt layup from 1 ft,24,19
+1,1:57.0,Defensive rebound by E. Davis,,24,19
+1,1:45.0,C. LeVert misses 3-pt jump shot from 25 ft,,24,19
+1,1:42.0,Offensive rebound by E. Davis,,24,19
+1,1:37.0,Turnover by C. LeVert (bad pass; steal by P. McCaw),,24,19
+1,1:21.0,,Turnover by K. Leonard (lost ball; steal by S. Napier),24,19
+1,1:17.0,C. LeVert makes 2-pt layup from 1 ft (assist by S. Napier),,26,19
+1,1:08.0,,Personal foul by R. Hollis-Jefferson (drawn by K. Leonard),26,19
+1,1:08.0,,P. Siakam enters the game for K. Leonard,26,19
+1,1:00.0,,P. McCaw misses 3-pt jump shot from 25 ft,26,19
+1,0:57.0,Defensive rebound by E. Davis,,26,19
+1,0:51.0,R. Hollis-Jefferson misses 2-pt layup from 2 ft,,26,19
+1,0:49.0,Offensive rebound by R. Hollis-Jefferson,,26,19
+1,0:49.0,R. Hollis-Jefferson misses 2-pt layup from 2 ft,,26,19
+1,0:48.0,Offensive rebound by R. Hollis-Jefferson,,26,19
+1,0:48.0,Shooting foul by P. Siakam (drawn by R. Hollis-Jefferson),,26,19
+1,0:48.0,R. Hollis-Jefferson misses free throw 1 of 2,,26,19
+1,0:48.0,Offensive rebound by Team,,26,19
+1,0:48.0,R. Hollis-Jefferson makes free throw 2 of 2,,27,19
+1,0:34.0,,P. McCaw makes 2-pt hook shot from 8 ft,27,21
+1,0:21.0,E. Davis makes 2-pt hook shot from 5 ft (assist by C. LeVert),,29,21
+2,11:40.0,,P. McCaw makes 3-pt jump shot from 25 ft (assist by O. Anunoby),29,24
+2,11:27.0,C. LeVert misses 2-pt layup from 2 ft,,29,24
+2,11:24.0,,Defensive rebound by P. McCaw,29,24
+2,11:21.0,,P. McCaw makes 2-pt layup from 2 ft,29,26
+2,11:02.0,A. Crabbe misses 2-pt jump shot from 21 ft,,29,26
+2,10:59.0,,Defensive rebound by M. Gasol,29,26
+2,10:57.0,,Turnover by M. Gasol (bad pass; steal by A. Crabbe),29,26
+2,10:47.0,A. Crabbe makes 3-pt jump shot from 24 ft,,32,26
+2,10:37.0,,M. Gasol makes 2-pt layup from 1 ft (assist by N. Powell),32,28
+2,10:10.0,Turnover by Team (shot clock),,32,28
+2,9:57.0,,Toronto full timeout,32,28
+2,9:52.0,,N. Powell misses 3-pt jump shot from 26 ft,32,28
+2,9:48.0,Defensive rebound by R. Hollis-Jefferson,,32,28
+2,9:45.0,C. LeVert misses 3-pt jump shot from 26 ft,,32,28
+2,9:40.0,,Defensive rebound by P. Siakam,32,28
+2,9:30.0,,Turnover by N. Powell (bad pass),32,28
+2,9:07.0,R. Hollis-Jefferson makes 2-pt layup from 1 ft (assist by A. Crabbe),,34,28
+2,8:58.0,,N. Powell makes 2-pt layup from 2 ft,34,30
+2,8:49.0,A. Crabbe makes 3-pt jump shot from 27 ft (assist by C. LeVert),,37,30
+2,8:29.0,,P. McCaw makes 2-pt layup from 2 ft,37,32
+2,8:17.0,Turnover by C. LeVert (lost ball; steal by O. Anunoby),,37,32
+2,8:14.0,,O. Anunoby makes 2-pt dunk from 1 ft,37,34
+2,8:14.0,Brooklyn full timeout,,37,34
+2,8:14.0,D. Russell enters the game for S. Napier,,37,34
+2,8:14.0,,K. Lowry enters the game for N. Powell,37,34
+2,7:58.0,Offensive foul by A. Crabbe (drawn by M. Gasol),,37,34
+2,7:58.0,Turnover by A. Crabbe (offensive foul),,37,34
+2,7:44.0,,P. McCaw misses 3-pt jump shot from 25 ft,37,34
+2,7:39.0,Defensive rebound by R. Hollis-Jefferson,,37,34
+2,7:19.0,E. Davis makes 2-pt layup from 2 ft (assist by D. Russell),,39,34
+2,7:08.0,,M. Gasol misses 2-pt jump shot from 20 ft,39,34
+2,7:05.0,Defensive rebound by R. Hollis-Jefferson,,39,34
+2,7:03.0,D. Russell makes 3-pt jump shot from 28 ft (assist by R. Hollis-Jefferson),,42,34
+2,6:44.0,,P. Siakam misses 2-pt jump shot from 20 ft,42,34
+2,6:42.0,Defensive rebound by E. Davis,,42,34
+2,6:36.0,D. Russell misses 2-pt jump shot from 12 ft,,42,34
+2,6:31.0,,Defensive rebound by M. Gasol,42,34
+2,6:27.0,,P. Siakam misses 2-pt layup from 3 ft,42,34
+2,6:25.0,Defensive rebound by E. Davis,,42,34
+2,6:09.0,C. LeVert misses 2-pt layup from 1 ft,,42,34
+2,6:08.0,,Defensive rebound by P. McCaw,42,34
+2,6:05.0,,Shooting foul by E. Davis (drawn by P. Siakam),42,34
+2,6:05.0,,P. Siakam misses free throw 1 of 2,42,34
+2,6:05.0,,Offensive rebound by Team,42,34
+2,6:05.0,J. Allen enters the game for E. Davis,,42,34
+2,6:05.0,J. Harris enters the game for C. LeVert,,42,34
+2,6:05.0,,D. Green enters the game for O. Anunoby,42,34
+2,6:05.0,,K. Leonard enters the game for P. McCaw,42,34
+2,6:05.0,,P. Siakam makes free throw 2 of 2,42,35
+2,5:44.0,R. Hollis-Jefferson misses 2-pt layup from 2 ft,,42,35
+2,5:40.0,,Defensive rebound by K. Lowry,42,35
+2,5:29.0,,P. Siakam makes 2-pt jump shot from 3 ft,42,37
+2,5:28.0,,Technical foul by P. Siakam,42,37
+2,5:28.0,J. Harris makes technical free throw,,43,37
+2,5:28.0,T. Graham enters the game for R. Hollis-Jefferson,,43,37
+2,5:15.0,Shooting foul by D. Green (drawn by D. Russell),,43,37
+2,5:15.0,D. Russell misses free throw 1 of 2,,43,37
+2,5:15.0,Offensive rebound by Team,,43,37
+2,5:15.0,D. Russell makes free throw 2 of 2,,44,37
+2,4:57.0,,M. Gasol makes 2-pt hook shot from 5 ft (assist by D. Green),44,39
+2,4:37.0,Turnover by A. Crabbe (bad pass; steal by K. Leonard),,44,39
+2,4:32.0,,Personal foul by T. Graham (drawn by K. Lowry),44,39
+2,4:32.0,R. Kurucs enters the game for A. Crabbe,,44,39
+2,4:24.0,,K. Leonard makes 2-pt jump shot from 18 ft,44,41
+2,4:13.0,D. Russell misses 2-pt jump shot from 8 ft,,44,41
+2,4:10.0,,Defensive rebound by K. Leonard,44,41
+2,4:08.0,,K. Lowry makes 3-pt jump shot from 24 ft (assist by K. Leonard),44,44
+2,4:07.0,Brooklyn full timeout,,44,44
+2,4:07.0,,S. Ibaka enters the game for M. Gasol,44,44
+2,3:48.0,T. Graham makes 3-pt jump shot from 27 ft (assist by D. Russell),,47,44
+2,3:26.0,,P. Siakam misses 3-pt jump shot from 23 ft,47,44
+2,3:22.0,Defensive rebound by J. Allen,,47,44
+2,3:17.0,T. Graham makes 3-pt jump shot from 26 ft (assist by R. Kurucs),,50,44
+2,3:01.0,,Shooting foul by R. Kurucs (drawn by P. Siakam),50,44
+2,3:01.0,,P. Siakam makes free throw 1 of 2,50,45
+2,3:01.0,,P. Siakam makes free throw 2 of 2,50,46
+2,2:49.0,J. Allen makes 2-pt dunk from 2 ft (assist by J. Harris),,52,46
+2,2:32.0,,P. Siakam misses 2-pt layup from 3 ft,52,46
+2,2:31.0,Defensive rebound by J. Harris,,52,46
+2,2:27.0,J. Allen misses 2-pt dunk from 1 ft (block by S. Ibaka),,52,46
+2,2:22.0,,Defensive rebound by D. Green,52,46
+2,2:14.0,,D. Green makes 3-pt jump shot from 26 ft,52,49
+2,2:11.0,J. Allen misses 2-pt jump shot from 9 ft,,52,49
+2,2:07.0,,Defensive rebound by S. Ibaka,52,49
+2,2:03.0,,Personal foul by R. Kurucs (drawn by P. Siakam),52,49
+2,1:57.0,,K. Leonard makes 2-pt layup at rim (assist by K. Lowry),52,51
+2,1:42.0,D. Russell misses 2-pt layup from 2 ft,,52,51
+2,1:41.0,,Defensive rebound by P. Siakam,52,51
+2,1:37.0,,K. Leonard makes 3-pt jump shot from 26 ft (assist by K. Lowry),52,54
+2,1:27.0,R. Kurucs makes 2-pt dunk from 1 ft (assist by D. Russell),,54,54
+2,1:06.0,,K. Leonard makes 2-pt jump shot from 15 ft (assist by D. Green),54,56
+2,0:52.0,J. Harris makes 3-pt jump shot from 27 ft (assist by D. Russell),,57,56
+2,0:27.0,,K. Leonard misses 3-pt jump shot from 23 ft,57,56
+2,0:25.0,Defensive rebound by D. Russell,,57,56
+2,0:08.0,J. Harris makes 3-pt jump shot from 26 ft (assist by D. Russell),,60,56
+2,0:00.0,,K. Lowry misses 3-pt jump shot from 25 ft,60,56
+2,0:00.0,,Offensive rebound by Team,60,56
+3,11:40.0,,S. Ibaka makes 2-pt jump shot from 21 ft (assist by K. Lowry),60,58
+3,11:31.0,D. Russell misses 2-pt jump shot from 8 ft,,60,58
+3,11:28.0,,Defensive rebound by P. Siakam,60,58
+3,11:26.0,,Shooting foul by T. Graham (drawn by P. Siakam),60,58
+3,11:26.0,,P. Siakam makes free throw 1 of 2,60,59
+3,11:26.0,,P. Siakam makes free throw 2 of 2,60,60
+3,11:09.0,D. Russell makes 2-pt jump shot from 11 ft,,62,60
+3,10:59.0,,S. Ibaka makes 2-pt jump shot from 20 ft (assist by K. Lowry),62,62
+3,10:49.0,D. Russell makes 2-pt jump shot from 17 ft,,64,62
+3,10:35.0,,D. Green misses 3-pt jump shot from 27 ft,64,62
+3,10:32.0,Defensive rebound by R. Kurucs,,64,62
+3,10:21.0,D. Russell misses 3-pt jump shot from 25 ft,,64,62
+3,10:18.0,,Defensive rebound by S. Ibaka,64,62
+3,10:07.0,,P. Siakam misses 2-pt layup from 2 ft,64,62
+3,10:05.0,,Offensive rebound by S. Ibaka,64,62
+3,10:03.0,,S. Ibaka makes 2-pt hook shot from 2 ft,64,64
+3,9:54.0,T. Graham misses 3-pt jump shot from 25 ft,,64,64
+3,9:51.0,,Defensive rebound by S. Ibaka,64,64
+3,9:42.0,,P. Siakam misses 2-pt layup from 2 ft,64,64
+3,9:42.0,,Offensive rebound by Team,64,64
+3,9:42.0,Loose ball foul by J. Allen (drawn by S. Ibaka),,64,64
+3,9:38.0,,Personal foul by T. Graham (drawn by K. Leonard),64,64
+3,9:38.0,R. Hollis-Jefferson enters the game for T. Graham,,64,64
+3,9:26.0,,S. Ibaka makes 2-pt jump shot from 17 ft (assist by P. Siakam),64,66
+3,9:15.0,D. Russell makes 2-pt layup from 1 ft,,66,66
+3,8:59.0,,Shooting foul by R. Hollis-Jefferson (drawn by K. Leonard),66,66
+3,8:59.0,,K. Leonard makes free throw 1 of 2,66,67
+3,8:59.0,,K. Leonard makes free throw 2 of 2,66,68
+3,8:49.0,J. Allen makes 2-pt layup from 1 ft (assist by D. Russell),,68,68
+3,8:49.0,Shooting foul by K. Leonard (drawn by J. Allen),,68,68
+3,8:49.0,J. Allen makes free throw 1 of 1,,69,68
+3,8:31.0,,K. Leonard misses 2-pt jump shot from 15 ft,69,68
+3,8:28.0,Defensive rebound by R. Kurucs,,69,68
+3,8:22.0,R. Hollis-Jefferson misses 2-pt layup from 5 ft,,69,68
+3,8:22.0,Offensive rebound by Team,,69,68
+3,8:08.0,D. Russell makes 2-pt layup from 1 ft (assist by J. Harris),,71,68
+3,7:49.0,,P. Siakam makes 2-pt layup from 4 ft (assist by K. Leonard),71,70
+3,7:39.0,D. Russell makes 2-pt layup from 1 ft,,73,70
+3,7:32.0,,Turnover by P. Siakam (traveling),73,70
+3,7:27.0,Personal foul by K. Lowry (drawn by R. Hollis-Jefferson),,73,70
+3,7:23.0,Turnover by D. Russell (out of bounds lost ball),,73,70
+3,7:12.0,,S. Ibaka makes 2-pt jump shot from 14 ft (assist by K. Lowry),73,72
+3,7:06.0,Personal foul by K. Lowry (drawn by D. Russell),,73,72
+3,6:59.0,D. Russell makes 2-pt layup from 1 ft,,75,72
+3,6:44.0,,K. Lowry makes 3-pt jump shot from 27 ft,75,75
+3,6:33.0,R. Kurucs misses 2-pt jump shot from 21 ft,,75,75
+3,6:30.0,,Defensive rebound by P. Siakam,75,75
+3,6:24.0,,K. Lowry makes 2-pt jump shot from 5 ft (assist by P. Siakam),75,77
+3,6:21.0,Brooklyn full timeout,,75,77
+3,6:21.0,A. Crabbe enters the game for R. Kurucs,,75,77
+3,6:16.0,Personal foul by K. Lowry (drawn by J. Harris),,75,77
+3,6:13.0,Turnover by J. Harris (bad pass; steal by D. Green),,75,77
+3,5:56.0,,Turnover by P. Siakam (lost ball; steal by D. Russell),75,77
+3,5:52.0,Turnover by D. Russell (lost ball; steal by P. Siakam),,75,77
+3,5:42.0,,S. Ibaka makes 2-pt hook shot from 4 ft (assist by D. Green),75,79
+3,5:22.0,J. Allen makes 2-pt dunk from 1 ft (assist by J. Harris),,77,79
+3,5:08.0,,P. Siakam makes 2-pt hook shot from 7 ft,77,81
+3,4:53.0,J. Allen makes 2-pt dunk from 2 ft (assist by D. Russell),,79,81
+3,4:33.0,,K. Leonard misses 2-pt jump shot from 20 ft,79,81
+3,4:29.0,Defensive rebound by J. Allen,,79,81
+3,4:26.0,A. Crabbe misses 3-pt jump shot from 26 ft,,79,81
+3,4:22.0,,Defensive rebound by S. Ibaka,79,81
+3,4:16.0,,K. Leonard makes 2-pt hook shot from 9 ft,79,83
+3,3:55.0,D. Russell makes 2-pt layup from 2 ft,,81,83
+3,3:46.0,,Toronto full timeout,81,83
+3,3:46.0,E. Davis enters the game for J. Allen,,81,83
+3,3:46.0,C. LeVert enters the game for J. Harris,,81,83
+3,3:46.0,S. Napier enters the game for D. Russell,,81,83
+3,3:46.0,,M. Gasol enters the game for S. Ibaka,81,83
+3,3:46.0,,N. Powell enters the game for P. Siakam,81,83
+3,3:29.0,,M. Gasol misses 2-pt jump shot from 16 ft,81,83
+3,3:29.0,,Offensive rebound by Team,81,83
+3,3:29.0,,Turnover by Team (shot clock),81,83
+3,3:10.0,E. Davis makes 2-pt layup from 2 ft (assist by S. Napier),,83,83
+3,2:50.0,,K. Lowry misses 3-pt jump shot from 24 ft,83,83
+3,2:50.0,,Offensive rebound by Team,83,83
+3,2:50.0,,Personal foul by C. LeVert (drawn by M. Gasol),83,83
+3,2:50.0,,M. Gasol misses free throw 1 of 2,83,83
+3,2:50.0,,Offensive rebound by Team,83,83
+3,2:50.0,,O. Anunoby enters the game for D. Green,83,83
+3,2:50.0,,P. McCaw enters the game for K. Lowry,83,83
+3,2:50.0,,M. Gasol makes free throw 2 of 2,83,84
+3,2:30.0,Turnover by C. LeVert (bad pass; steal by P. McCaw),,83,84
+3,2:11.0,,P. McCaw misses 3-pt jump shot from 26 ft,83,84
+3,2:08.0,Defensive rebound by R. Hollis-Jefferson,,83,84
+3,2:03.0,A. Crabbe makes 3-pt jump shot from 25 ft (assist by S. Napier),,86,84
+3,1:49.0,,K. Leonard makes 2-pt jump shot from 18 ft,86,86
+3,1:37.0,C. LeVert misses 3-pt jump shot from 25 ft,,86,86
+3,1:33.0,,Defensive rebound by M. Gasol,86,86
+3,1:20.0,,Turnover by O. Anunoby (bad pass; steal by C. LeVert),86,86
+3,1:16.0,A. Crabbe makes 2-pt layup from 1 ft (assist by C. LeVert),,88,86
+3,1:02.0,,Shooting foul by C. LeVert (drawn by K. Leonard),88,86
+3,1:02.0,,K. Leonard makes free throw 1 of 2,88,87
+3,1:02.0,,K. Leonard makes free throw 2 of 2,88,88
+3,0:50.0,S. Napier makes 2-pt layup from 1 ft,,90,88
+3,0:38.0,,Offensive foul by M. Gasol (drawn by R. Hollis-Jefferson),90,88
+3,0:38.0,,Turnover by M. Gasol (offensive foul),90,88
+3,0:38.0,J. Harris enters the game for R. Hollis-Jefferson,,90,88
+3,0:38.0,,D. Green enters the game for K. Leonard,90,88
+3,0:31.0,S. Napier makes 2-pt jump shot from 12 ft,,92,88
+3,0:12.0,,P. McCaw misses 2-pt jump shot from 12 ft,92,88
+3,0:12.0,,Offensive rebound by O. Anunoby,92,88
+3,0:12.0,,O. Anunoby makes 2-pt layup from 1 ft,92,90
+3,0:04.0,Turnover by C. LeVert (lost ball; steal by O. Anunoby),,92,90
+3,0:02.0,,O. Anunoby makes 2-pt layup from 1 ft,92,92
+3,0:01.0,Turnover by E. Davis (bad pass; steal by D. Green),,92,92
+3,0:01.0,,D. Green misses 3-pt jump shot from 26 ft,92,92
+3,0:00.0,,Offensive rebound by Team,92,92
+4,11:37.0,T. Graham misses 3-pt jump shot from 26 ft,,92,92
+4,11:31.0,,Defensive rebound by O. Anunoby,92,92
+4,11:20.0,,D. Green misses 3-pt jump shot from 27 ft,92,92
+4,11:16.0,Defensive rebound by E. Davis,,92,92
+4,11:02.0,C. LeVert misses 2-pt layup from 2 ft,,92,92
+4,10:59.0,,Defensive rebound by M. Gasol,92,92
+4,10:46.0,,M. Gasol makes 2-pt hook shot from 5 ft,92,94
+4,10:29.0,Turnover by C. LeVert (bad pass; steal by M. Gasol),,92,94
+4,10:26.0,,Turnover by N. Powell (out of bounds lost ball),92,94
+4,10:18.0,C. LeVert misses 3-pt jump shot from 25 ft,,92,94
+4,10:14.0,,Defensive rebound by M. Gasol,92,94
+4,10:02.0,,M. Gasol makes 2-pt layup from 1 ft (assist by N. Powell),92,96
+4,9:51.0,S. Napier makes 2-pt jump shot from 13 ft,,94,96
+4,9:41.0,,O. Anunoby misses 2-pt layup from 6 ft (block by C. LeVert),94,96
+4,9:41.0,,Offensive rebound by Team,94,96
+4,9:41.0,D. Russell enters the game for C. LeVert,,94,96
+4,9:38.0,,P. McCaw makes 2-pt dunk from 1 ft (assist by M. Gasol),94,98
+4,9:25.0,D. Russell misses 3-pt jump shot from 24 ft,,94,98
+4,9:22.0,,Defensive rebound by D. Green,94,98
+4,9:18.0,,M. Gasol makes 3-pt jump shot from 26 ft (assist by D. Green),94,101
+4,9:16.0,Brooklyn full timeout,,94,101
+4,9:03.0,S. Napier makes 3-pt jump shot from 26 ft (assist by D. Russell),,97,101
+4,8:39.0,,M. Gasol makes 2-pt hook shot from 7 ft,97,103
+4,8:23.0,A. Crabbe makes 3-pt jump shot from 24 ft (assist by D. Russell),,100,103
+4,8:09.0,,Turnover by D. Green (bad pass; steal by E. Davis),100,103
+4,8:06.0,Turnover by E. Davis (bad pass; steal by D. Green),,100,103
+4,8:02.0,,N. Powell misses 3-pt jump shot from 26 ft,100,103
+4,7:58.0,Defensive rebound by T. Graham,,100,103
+4,7:55.0,Shooting foul by M. Gasol (drawn by S. Napier),,100,103
+4,7:55.0,S. Napier makes free throw 1 of 2,,101,103
+4,7:55.0,S. Napier misses free throw 2 of 2,,101,103
+4,7:52.0,,Defensive rebound by M. Gasol,101,103
+4,7:32.0,,O. Anunoby misses 3-pt jump shot from 24 ft,101,103
+4,7:30.0,,Offensive rebound by P. McCaw,101,103
+4,7:30.0,,N. Powell makes 2-pt layup from 3 ft (assist by P. McCaw),101,105
+4,7:30.0,,Shooting foul by E. Davis (drawn by N. Powell),101,105
+4,7:30.0,,K. Lowry enters the game for D. Green,101,105
+4,7:30.0,,N. Powell makes free throw 1 of 1,101,106
+4,7:18.0,Personal foul by O. Anunoby (drawn by E. Davis),,101,106
+4,7:18.0,J. Allen enters the game for E. Davis,,101,106
+4,7:18.0,J. Harris enters the game for S. Napier,,101,106
+4,7:08.0,D. Russell misses 3-pt jump shot from 24 ft,,101,106
+4,7:05.0,,Defensive rebound by N. Powell,101,106
+4,6:49.0,,M. Gasol makes 2-pt jump shot from 20 ft (assist by N. Powell),101,108
+4,6:23.0,Personal foul by K. Lowry (drawn by J. Allen),,101,108
+4,6:23.0,C. LeVert enters the game for A. Crabbe,,101,108
+4,6:12.0,Shooting foul by O. Anunoby (drawn by D. Russell),,101,108
+4,6:12.0,D. Russell makes free throw 1 of 3,,102,108
+4,6:12.0,D. Russell misses free throw 2 of 3,,102,108
+4,6:12.0,Offensive rebound by Team,,102,108
+4,6:12.0,D. Russell makes free throw 3 of 3,,103,108
+4,5:53.0,,Shooting foul by J. Allen (drawn by P. McCaw),103,108
+4,5:53.0,,P. McCaw makes free throw 1 of 2,103,109
+4,5:53.0,,K. Leonard enters the game for O. Anunoby,103,109
+4,5:53.0,,P. Siakam enters the game for N. Powell,103,109
+4,5:53.0,,P. McCaw makes free throw 2 of 2,103,110
+4,5:38.0,J. Allen misses 2-pt layup from 1 ft (block by M. Gasol),,103,110
+4,5:38.0,Offensive rebound by Team,,103,110
+4,5:38.0,A. Crabbe enters the game for T. Graham,,103,110
+4,5:30.0,C. LeVert makes 2-pt jump shot from 7 ft,,105,110
+4,5:13.0,,P. Siakam makes 2-pt layup from 1 ft (assist by M. Gasol),105,112
+4,4:55.0,J. Allen makes 3-pt jump shot from 24 ft (assist by D. Russell),,108,112
+4,4:35.0,,K. Leonard misses 3-pt jump shot from 26 ft,108,112
+4,4:34.0,Defensive rebound by Team,,108,112
+4,4:34.0,,Loose ball foul by P. Siakam (drawn by J. Allen),108,112
+4,4:34.0,J. Allen misses free throw 1 of 2,,108,112
+4,4:34.0,Offensive rebound by Team,,108,112
+4,4:34.0,,D. Green enters the game for M. Gasol,108,112
+4,4:34.0,,S. Ibaka enters the game for P. McCaw,108,112
+4,4:34.0,J. Allen makes free throw 2 of 2,,109,112
+4,4:16.0,,P. Siakam makes 2-pt jump shot from 10 ft (assist by K. Leonard),109,114
+4,4:00.0,C. LeVert misses 3-pt jump shot from 25 ft,,109,114
+4,3:58.0,,Defensive rebound by K. Lowry,109,114
+4,3:56.0,,K. Leonard makes 2-pt dunk from 1 ft (assist by K. Lowry),109,116
+4,3:56.0,,Shooting foul by J. Allen (drawn by K. Leonard),109,116
+4,3:56.0,,K. Leonard makes free throw 1 of 1,109,117
+4,3:42.0,Shooting foul by D. Green (drawn by D. Russell),,109,117
+4,3:42.0,D. Russell makes free throw 1 of 3,,110,117
+4,3:42.0,D. Russell makes free throw 2 of 3,,111,117
+4,3:42.0,D. Russell makes free throw 3 of 3,,112,117
+4,3:42.0,,Toronto full timeout,112,117
+4,3:18.0,,D. Green misses 3-pt jump shot from 24 ft,112,117
+4,3:18.0,,Offensive rebound by Team,112,117
+4,3:18.0,Loose ball foul by C. LeVert (drawn by S. Ibaka),,112,117
+4,3:07.0,,S. Ibaka misses 2-pt hook shot from 9 ft,112,117
+4,3:03.0,Defensive rebound by A. Crabbe,,112,117
+4,3:00.0,D. Russell makes 2-pt layup from 2 ft,,114,117
+4,3:00.0,,Violation by Team (def goaltending),114,117
+4,2:45.0,,K. Lowry makes 3-pt jump shot from 26 ft (assist by K. Leonard),114,120
+4,2:34.0,D. Russell misses 3-pt jump shot from 26 ft,,114,120
+4,2:31.0,,Defensive rebound by S. Ibaka,114,120
+4,2:21.0,,K. Lowry misses 3-pt jump shot from 24 ft,114,120
+4,2:18.0,,Offensive rebound by S. Ibaka,114,120
+4,2:17.0,,S. Ibaka misses 2-pt hook shot from 2 ft (block by J. Allen),114,120
+4,2:16.0,Defensive rebound by D. Russell,,114,120
+4,2:12.0,A. Crabbe makes 3-pt jump shot from 23 ft (assist by J. Harris),,117,120
+4,1:53.0,,D. Green misses 3-pt jump shot from 24 ft,117,120
+4,1:49.0,Defensive rebound by A. Crabbe,,117,120
+4,1:34.0,A. Crabbe makes 3-pt jump shot from 28 ft (assist by D. Russell),,120,120
+4,1:14.0,,K. Leonard misses 3-pt jump shot from 25 ft,120,120
+4,1:13.0,Defensive rebound by Team,,120,120
+4,1:13.0,,Loose ball foul by S. Ibaka (drawn by J. Harris),120,120
+4,1:13.0,J. Harris makes free throw 1 of 2,,121,120
+4,1:13.0,J. Harris makes free throw 2 of 2,,122,120
+4,1:03.0,,K. Leonard makes 2-pt jump shot from 21 ft,122,122
+4,0:50.0,D. Russell makes 3-pt jump shot from 26 ft (assist by C. LeVert),,125,122
+4,0:50.0,,Toronto full timeout,125,122
+4,0:36.0,,D. Green makes 3-pt jump shot from 26 ft (assist by K. Leonard),125,125
+4,0:23.0,J. Harris misses 2-pt jump shot from 11 ft,,125,125
+4,0:20.0,,Defensive rebound by K. Lowry,125,125
+4,0:04.0,,K. Leonard makes 2-pt jump shot from 16 ft (assist by K. Lowry),125,127
+4,0:04.0,Brooklyn full timeout,,125,127
+4,0:04.0,,P. McCaw enters the game for S. Ibaka,125,127
+4,0:01.0,D. Russell misses 3-pt jump shot from 26 ft,,125,127
+4,0:01.0,,Defensive rebound by K. Lowry,125,127

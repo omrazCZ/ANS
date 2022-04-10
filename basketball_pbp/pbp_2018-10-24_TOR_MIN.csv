@@ -1,0 +1,442 @@
+QUARTER,TIME_REMAINING,MINNESOTA_ACTION,TORONTO_ACTION,MINNESOTA_SCORE,TORONTO_SCORE
+1,11:39.0,,P. Siakam misses 2-pt layup from 4 ft,0,0
+1,11:38.0,Defensive rebound by J. Okogie,,0,0
+1,11:21.0,Turnover by K. Towns (bad pass; steal by K. Lowry),,0,0
+1,11:16.0,,D. Green makes 3-pt jump shot from 27 ft (assist by K. Lowry),0,3
+1,11:00.0,J. Butler makes 2-pt dunk at rim,,2,3
+1,10:36.0,,P. Siakam makes 2-pt hook shot from 4 ft (assist by K. Leonard),2,5
+1,10:13.0,T. Gibson makes 2-pt jump shot from 20 ft (assist by J. Teague),,4,5
+1,9:56.0,,K. Leonard makes 2-pt layup from 1 ft,4,7
+1,9:46.0,J. Okogie misses 2-pt jump shot from 14 ft,,4,7
+1,9:43.0,,Defensive rebound by D. Green,4,7
+1,9:35.0,,K. Leonard misses 2-pt layup from 2 ft (block by J. Okogie),4,7
+1,9:32.0,,Offensive rebound by P. Siakam,4,7
+1,9:22.0,,K. Leonard makes 2-pt layup from 1 ft,4,9
+1,9:10.0,Turnover by K. Towns (bad pass; steal by K. Lowry),,4,9
+1,9:03.0,,Turnover by S. Ibaka (lost ball; steal by J. Butler),4,9
+1,8:45.0,J. Okogie misses 2-pt layup from 5 ft (block by K. Leonard),,4,9
+1,8:45.0,,Defensive rebound by K. Leonard,4,9
+1,8:45.0,,Personal foul by J. Okogie (drawn by K. Leonard),4,9
+1,8:33.0,,K. Leonard makes 2-pt jump shot from 8 ft,4,11
+1,8:09.0,J. Teague makes 3-pt jump shot from 26 ft,,7,11
+1,7:49.0,,K. Lowry misses 2-pt jump shot from 4 ft,7,11
+1,7:46.0,Defensive rebound by K. Towns,,7,11
+1,7:39.0,J. Okogie misses 2-pt layup from 1 ft,,7,11
+1,7:36.0,Offensive rebound by J. Okogie,,7,11
+1,7:36.0,J. Okogie misses 2-pt layup at rim,,7,11
+1,7:35.0,Offensive rebound by J. Okogie,,7,11
+1,7:35.0,J. Okogie misses 2-pt layup at rim,,7,11
+1,7:34.0,Offensive rebound by J. Okogie,,7,11
+1,7:34.0,J. Okogie misses 2-pt layup at rim,,7,11
+1,7:34.0,Offensive rebound by J. Okogie,,7,11
+1,7:34.0,Turnover by J. Okogie (lost ball; steal by K. Lowry),,7,11
+1,7:27.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by K. Lowry),7,13
+1,7:10.0,J. Teague misses 2-pt layup from 1 ft (block by P. Siakam),,7,13
+1,7:07.0,,Defensive rebound by S. Ibaka,7,13
+1,7:04.0,,Turnover by K. Lowry (bad pass; steal by J. Teague),7,13
+1,7:04.0,Personal take foul by K. Lowry (drawn by J. Teague),,7,13
+1,6:54.0,K. Towns makes 2-pt jump shot from 17 ft (assist by J. Teague),,9,13
+1,6:33.0,,Turnover by K. Lowry (bad pass; steal by J. Butler),9,13
+1,6:28.0,J. Butler misses 3-pt jump shot from 26 ft,,9,13
+1,6:25.0,,Defensive rebound by P. Siakam,9,13
+1,6:20.0,,P. Siakam makes 2-pt jump shot from 10 ft,9,15
+1,6:09.0,Turnover by J. Teague (bad pass; steal by P. Siakam),,9,15
+1,5:58.0,,K. Leonard makes 3-pt jump shot from 27 ft (assist by D. Green),9,18
+1,5:50.0,Minnesota full timeout,,9,18
+1,5:40.0,T. Gibson misses 2-pt hook shot from 4 ft,,9,18
+1,5:38.0,,Defensive rebound by P. Siakam,9,18
+1,5:34.0,,K. Leonard misses 3-pt jump shot from 23 ft,9,18
+1,5:30.0,Defensive rebound by T. Gibson,,9,18
+1,5:11.0,K. Towns misses 2-pt jump shot from 17 ft,,9,18
+1,5:09.0,,Defensive rebound by K. Lowry,9,18
+1,5:07.0,,P. Siakam makes 2-pt layup from 1 ft (assist by K. Lowry),9,20
+1,5:07.0,,Shooting foul by J. Teague (drawn by P. Siakam),9,20
+1,5:07.0,D. Rose enters the game for J. Butler,,9,20
+1,5:07.0,,P. Siakam misses free throw 1 of 1,9,20
+1,5:07.0,Defensive rebound by K. Towns,,9,20
+1,4:48.0,D. Rose misses 2-pt layup from 2 ft,,9,20
+1,4:48.0,,Defensive rebound by Team,9,20
+1,4:34.0,,K. Leonard misses 2-pt hook shot from 5 ft (block by K. Towns),9,20
+1,4:30.0,Defensive rebound by J. Teague,,9,20
+1,4:28.0,J. Okogie misses 2-pt jump shot from 15 ft,,9,20
+1,4:25.0,Offensive rebound by D. Rose,,9,20
+1,4:24.0,K. Towns misses 3-pt jump shot from 26 ft,,9,20
+1,4:24.0,,Defensive rebound by K. Lowry,9,20
+1,4:16.0,,K. Leonard makes 2-pt layup at rim (assist by P. Siakam),9,22
+1,4:03.0,Def 3 sec tech foul by Team,,9,22
+1,4:03.0,K. Towns makes technical free throw,,10,22
+1,4:03.0,,C. Miles enters the game for K. Leonard,10,22
+1,3:48.0,J. Teague misses 2-pt jump shot from 14 ft,,10,22
+1,3:46.0,,Defensive rebound by D. Green,10,22
+1,3:39.0,,K. Lowry misses 3-pt jump shot from 30 ft,10,22
+1,3:37.0,Defensive rebound by K. Towns,,10,22
+1,3:35.0,Personal foul by P. Siakam (drawn by T. Gibson),,10,22
+1,3:35.0,T. Jones enters the game for T. Gibson,,10,22
+1,3:35.0,A. Tolliver enters the game for J. Teague,,10,22
+1,3:30.0,D. Rose misses 2-pt jump shot from 18 ft,,10,22
+1,3:26.0,,Defensive rebound by K. Lowry,10,22
+1,3:23.0,,D. Green misses 3-pt jump shot from 26 ft,10,22
+1,3:20.0,,Offensive rebound by P. Siakam,10,22
+1,3:17.0,,Turnover by D. Green (step out of bounds),10,22
+1,3:17.0,,O. Anunoby enters the game for P. Siakam,10,22
+1,3:06.0,Personal foul by S. Ibaka (drawn by K. Towns),,10,22
+1,3:06.0,,D. Wright enters the game for K. Lowry,10,22
+1,2:58.0,K. Towns misses 2-pt hook shot from 5 ft,,10,22
+1,2:55.0,Offensive rebound by A. Tolliver,,10,22
+1,2:50.0,T. Jones makes 2-pt jump shot from 11 ft (assist by D. Rose),,12,22
+1,2:37.0,,C. Miles misses 2-pt jump shot from 4 ft (block by K. Towns),12,22
+1,2:34.0,Defensive rebound by A. Tolliver,,12,22
+1,2:22.0,Turnover by K. Towns (traveling),,12,22
+1,2:22.0,,Toronto full timeout,12,22
+1,2:22.0,G. Dieng enters the game for K. Towns,,12,22
+1,2:22.0,,N. Powell enters the game for D. Green,12,22
+1,2:22.0,,J. Valančiūnas enters the game for S. Ibaka,12,22
+1,2:05.0,,J. Valančiūnas makes 2-pt jump shot from 10 ft (assist by N. Powell),12,24
+1,1:53.0,Offensive foul by G. Dieng (drawn by D. Wright),,12,24
+1,1:53.0,Turnover by G. Dieng (offensive foul),,12,24
+1,1:29.0,,O. Anunoby misses 3-pt jump shot from 26 ft,12,24
+1,1:26.0,Defensive rebound by D. Rose,,12,24
+1,1:21.0,D. Rose makes 2-pt layup from 2 ft,,14,24
+1,1:03.0,,N. Powell makes 2-pt layup from 2 ft (assist by J. Valančiūnas),14,26
+1,0:51.0,A. Tolliver makes 3-pt jump shot from 25 ft (assist by D. Rose),,17,26
+1,0:40.0,,J. Valančiūnas misses 2-pt jump shot from 17 ft,17,26
+1,0:36.0,Defensive rebound by J. Okogie,,17,26
+1,0:26.0,D. Rose makes 2-pt jump shot from 11 ft,,19,26
+1,0:02.0,,Turnover by Team (shot clock),19,26
+1,0:00.0,T. Jones misses 3-pt jump shot from 26 ft,,19,26
+1,0:00.0,Offensive rebound by Team,,19,26
+2,11:44.0,J. Butler misses 2-pt jump shot from 12 ft (block by D. Wright),,19,26
+2,11:41.0,,Defensive rebound by C. Miles,19,26
+2,11:30.0,,C. Miles misses 3-pt jump shot from 24 ft,19,26
+2,11:27.0,Defensive rebound by A. Tolliver,,19,26
+2,11:20.0,A. Tolliver makes 3-pt jump shot from 26 ft (assist by J. Butler),,22,26
+2,11:04.0,,O. Anunoby misses 2-pt layup from 1 ft (block by A. Tolliver),22,26
+2,11:02.0,Defensive rebound by T. Jones,,22,26
+2,10:57.0,D. Rose misses 2-pt jump shot from 15 ft,,22,26
+2,10:54.0,,Defensive rebound by K. Leonard,22,26
+2,10:44.0,,C. Miles misses 3-pt jump shot from 23 ft,22,26
+2,10:39.0,Defensive rebound by G. Dieng,,22,26
+2,10:33.0,J. Butler makes 3-pt jump shot from 23 ft (assist by T. Jones),,25,26
+2,10:20.0,,Personal foul by A. Tolliver (drawn by J. Valančiūnas),25,26
+2,10:11.0,,Turnover by K. Leonard (lost ball; steal by J. Butler),25,26
+2,10:09.0,Personal foul by K. Leonard (drawn by J. Butler),,25,26
+2,9:59.0,G. Dieng makes 2-pt jump shot from 20 ft (assist by J. Butler),,27,26
+2,9:52.0,,Toronto full timeout,27,26
+2,9:52.0,,D. Green enters the game for C. Miles,27,26
+2,9:52.0,,K. Lowry enters the game for D. Wright,27,26
+2,9:41.0,,D. Green misses 2-pt jump shot from 6 ft,27,26
+2,9:38.0,,Offensive rebound by J. Valančiūnas,27,26
+2,9:38.0,,J. Valančiūnas makes 2-pt layup from 1 ft,27,28
+2,9:23.0,J. Butler misses 2-pt jump shot from 18 ft,,27,28
+2,9:20.0,,Defensive rebound by K. Lowry,27,28
+2,9:14.0,,O. Anunoby misses 3-pt jump shot from 23 ft,27,28
+2,9:12.0,,Offensive rebound by J. Valančiūnas,27,28
+2,9:10.0,,J. Valančiūnas makes 2-pt jump shot from 7 ft,27,30
+2,8:56.0,D. Rose misses 2-pt jump shot from 14 ft,,27,30
+2,8:54.0,,Defensive rebound by D. Green,27,30
+2,8:45.0,,J. Valančiūnas misses 2-pt hook shot from 2 ft,27,30
+2,8:43.0,Defensive rebound by G. Dieng,,27,30
+2,8:33.0,D. Rose misses 2-pt layup from 2 ft,,27,30
+2,8:32.0,,Defensive rebound by J. Valančiūnas,27,30
+2,8:22.0,,O. Anunoby misses 3-pt jump shot from 23 ft,27,30
+2,8:20.0,,Offensive rebound by K. Leonard,27,30
+2,8:15.0,,K. Leonard makes 3-pt jump shot from 27 ft (assist by D. Green),27,33
+2,7:56.0,Turnover by G. Dieng (bad pass; steal by K. Leonard),,27,33
+2,7:53.0,,Personal foul by T. Jones (drawn by K. Lowry),27,33
+2,7:53.0,K. Towns enters the game for G. Dieng,,27,33
+2,7:53.0,,P. Siakam enters the game for O. Anunoby,27,33
+2,7:44.0,,K. Leonard makes 2-pt dunk from 1 ft,27,35
+2,7:29.0,Turnover by T. Jones (lost ball; steal by K. Lowry),,27,35
+2,7:20.0,,D. Green misses 2-pt layup from 1 ft,27,35
+2,7:18.0,,Offensive rebound by J. Valančiūnas,27,35
+2,7:18.0,,J. Valančiūnas misses 2-pt layup from 1 ft,27,35
+2,7:18.0,Defensive rebound by Team,,27,35
+2,7:18.0,J. Teague enters the game for T. Jones,,27,35
+2,6:59.0,D. Rose misses 2-pt layup from 2 ft,,27,35
+2,6:57.0,Offensive rebound by Team,,27,35
+2,6:48.0,Shooting foul by K. Lowry (drawn by A. Tolliver),,27,35
+2,6:48.0,A. Tolliver makes free throw 1 of 3,,28,35
+2,6:48.0,A. Tolliver misses free throw 2 of 3,,28,35
+2,6:48.0,Offensive rebound by Team,,28,35
+2,6:48.0,,S. Ibaka enters the game for J. Valančiūnas,28,35
+2,6:48.0,A. Tolliver makes free throw 3 of 3,,29,35
+2,6:32.0,,P. Siakam misses 2-pt hook shot from 4 ft,29,35
+2,6:30.0,Defensive rebound by A. Tolliver,,29,35
+2,6:23.0,D. Rose makes 3-pt jump shot from 23 ft (assist by J. Butler),,32,35
+2,6:12.0,,K. Lowry makes 2-pt layup from 2 ft,32,37
+2,6:01.0,Offensive foul by K. Towns (drawn by K. Lowry),,32,37
+2,6:01.0,Turnover by K. Towns (offensive foul),,32,37
+2,5:50.0,,S. Ibaka makes 2-pt hook shot from 5 ft (assist by K. Lowry),32,39
+2,5:30.0,D. Rose makes 3-pt jump shot from 26 ft (assist by J. Butler),,35,39
+2,5:20.0,,Shooting foul by J. Teague (drawn by K. Lowry),35,39
+2,5:20.0,,K. Lowry makes free throw 1 of 2,35,40
+2,5:20.0,,K. Lowry makes free throw 2 of 2,35,41
+2,5:09.0,Shooting foul by P. Siakam (drawn by J. Butler),,35,41
+2,5:09.0,J. Butler misses free throw 1 of 2,,35,41
+2,5:09.0,Offensive rebound by Team,,35,41
+2,5:09.0,,O. Anunoby enters the game for K. Leonard,35,41
+2,5:09.0,,N. Powell enters the game for P. Siakam,35,41
+2,5:09.0,J. Butler misses free throw 2 of 2,,35,41
+2,5:08.0,,Defensive rebound by Team,35,41
+2,4:57.0,,N. Powell misses 3-pt jump shot from 23 ft,35,41
+2,4:54.0,,Offensive rebound by S. Ibaka,35,41
+2,4:52.0,,S. Ibaka makes 2-pt jump shot from 3 ft,35,43
+2,4:42.0,J. Butler makes 3-pt jump shot from 23 ft (assist by J. Teague),,38,43
+2,4:31.0,,K. Lowry makes 3-pt jump shot from 27 ft,38,46
+2,4:16.0,J. Teague misses 2-pt layup from 2 ft (block by O. Anunoby),,38,46
+2,4:14.0,,Defensive rebound by D. Green,38,46
+2,4:09.0,,N. Powell makes 3-pt jump shot from 25 ft (assist by K. Lowry),38,49
+2,3:53.0,J. Teague makes 2-pt dunk at rim,,40,49
+2,3:29.0,,N. Powell misses 2-pt jump shot from 21 ft,40,49
+2,3:26.0,,Offensive rebound by S. Ibaka,40,49
+2,3:25.0,,S. Ibaka misses 2-pt hook shot from 2 ft,40,49
+2,3:25.0,Defensive rebound by K. Towns,,40,49
+2,3:16.0,J. Teague misses 2-pt layup from 2 ft (block by D. Green),,40,49
+2,3:16.0,Offensive rebound by Team,,40,49
+2,3:16.0,T. Gibson enters the game for A. Tolliver,,40,49
+2,3:06.0,K. Towns makes 2-pt hook shot at rim (assist by D. Rose),,42,49
+2,2:51.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by K. Lowry),42,51
+2,2:43.0,,Loose ball foul by O. Anunoby (drawn by T. Gibson),42,51
+2,2:43.0,Minnesota full timeout,,42,51
+2,2:43.0,J. Okogie enters the game for J. Butler,,42,51
+2,2:43.0,,K. Leonard enters the game for N. Powell,42,51
+2,2:32.0,K. Towns misses 2-pt jump shot from 13 ft,,42,51
+2,2:29.0,,Defensive rebound by O. Anunoby,42,51
+2,2:11.0,,K. Leonard misses 2-pt hook shot from 10 ft,42,51
+2,2:09.0,Defensive rebound by J. Okogie,,42,51
+2,2:08.0,Turnover by D. Rose (bad pass),,42,51
+2,2:06.0,,S. Ibaka misses 3-pt jump shot from 27 ft,42,51
+2,2:03.0,Defensive rebound by T. Gibson,,42,51
+2,1:57.0,J. Okogie misses 3-pt jump shot from 25 ft,,42,51
+2,1:53.0,,Defensive rebound by O. Anunoby,42,51
+2,1:45.0,,Turnover by S. Ibaka (traveling),42,51
+2,1:32.0,Personal foul by S. Ibaka (drawn by K. Towns),,42,51
+2,1:32.0,K. Towns makes free throw 1 of 2,,43,51
+2,1:32.0,K. Towns makes free throw 2 of 2,,44,51
+2,1:11.0,,S. Ibaka misses 2-pt jump shot from 11 ft (block by K. Towns),44,51
+2,1:08.0,Defensive rebound by T. Gibson,,44,51
+2,1:03.0,T. Gibson makes 2-pt jump shot from 20 ft (assist by J. Teague),,46,51
+2,0:50.0,,O. Anunoby makes 3-pt jump shot from 23 ft (assist by S. Ibaka),46,54
+2,0:40.0,T. Gibson makes 2-pt dunk at rim (assist by D. Rose),,48,54
+2,0:29.0,,Shooting foul by T. Gibson (drawn by S. Ibaka),48,54
+2,0:29.0,,S. Ibaka makes free throw 1 of 2,48,55
+2,0:29.0,,L. Brown enters the game for K. Lowry,48,55
+2,0:29.0,,S. Ibaka misses free throw 2 of 2,48,55
+2,0:26.0,,Offensive rebound by Team,48,55
+2,0:26.0,,K. Lowry enters the game for L. Brown,48,55
+2,0:26.0,,J. Valančiūnas enters the game for S. Ibaka,48,55
+2,0:13.0,,K. Leonard makes 2-pt jump shot from 10 ft,48,57
+2,0:00.0,D. Rose misses 3-pt jump shot from 26 ft,,48,57
+2,0:00.0,Offensive rebound by Team,,48,57
+3,11:41.0,T. Gibson makes 3-pt jump shot from 24 ft (assist by J. Teague),,51,57
+3,11:14.0,,K. Lowry misses 3-pt jump shot from 27 ft,51,57
+3,11:12.0,,Offensive rebound by S. Ibaka,51,57
+3,11:07.0,,D. Green misses 3-pt jump shot from 26 ft,51,57
+3,11:03.0,Defensive rebound by J. Butler,,51,57
+3,10:54.0,Turnover by J. Okogie (step out of bounds),,51,57
+3,10:44.0,,K. Leonard makes 2-pt jump shot from 13 ft (assist by K. Lowry),51,59
+3,10:27.0,J. Butler misses 2-pt layup from 2 ft,,51,59
+3,10:21.0,Offensive rebound by T. Gibson,,51,59
+3,10:21.0,T. Gibson makes 2-pt dunk from 1 ft,,53,59
+3,10:18.0,,D. Green misses 3-pt jump shot from 25 ft,53,59
+3,10:18.0,Defensive rebound by J. Okogie,,53,59
+3,10:05.0,Personal foul by K. Lowry (drawn by J. Okogie),,53,59
+3,9:50.0,J. Teague makes 2-pt jump shot from 22 ft (assist by J. Okogie),,55,59
+3,9:36.0,,S. Ibaka makes 2-pt dunk at rim (assist by P. Siakam),55,61
+3,9:21.0,J. Okogie misses 3-pt jump shot from 25 ft,,55,61
+3,9:18.0,,Defensive rebound by K. Leonard,55,61
+3,9:04.0,,D. Green makes 3-pt jump shot from 23 ft (assist by K. Lowry),55,64
+3,8:41.0,K. Towns misses 2-pt hook shot from 9 ft,,55,64
+3,8:38.0,Offensive rebound by K. Towns,,55,64
+3,8:38.0,K. Towns misses 2-pt layup from 1 ft,,55,64
+3,8:38.0,Offensive rebound by T. Gibson,,55,64
+3,8:36.0,T. Gibson misses 2-pt layup from 2 ft (block by P. Siakam),,55,64
+3,8:34.0,Offensive rebound by T. Gibson,,55,64
+3,8:32.0,J. Butler makes 3-pt jump shot from 23 ft (assist by T. Gibson),,58,64
+3,8:17.0,,S. Ibaka makes 2-pt jump shot from 12 ft (assist by D. Green),58,66
+3,8:01.0,J. Okogie makes 2-pt layup from 1 ft (assist by J. Teague),,60,66
+3,7:52.0,,Turnover by K. Lowry (lost ball; steal by J. Butler),60,66
+3,7:44.0,J. Okogie misses 2-pt jump shot from 20 ft,,60,66
+3,7:41.0,,Defensive rebound by K. Leonard,60,66
+3,7:26.0,,K. Leonard makes 2-pt layup at rim,60,68
+3,7:21.0,Offensive foul by J. Butler (drawn by K. Lowry),,60,68
+3,7:21.0,Turnover by J. Butler (offensive foul),,60,68
+3,7:10.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by K. Lowry),60,70
+3,7:10.0,Minnesota full timeout,,60,70
+3,7:10.0,,L. Brown enters the game for D. Green,60,70
+3,6:46.0,J. Teague makes 2-pt layup from 4 ft,,62,70
+3,6:21.0,,K. Leonard misses 2-pt jump shot from 11 ft,62,70
+3,6:18.0,Defensive rebound by K. Towns,,62,70
+3,6:03.0,J. Okogie makes 3-pt jump shot from 27 ft (assist by J. Teague),,65,70
+3,5:38.0,,K. Leonard misses 3-pt jump shot from 23 ft,65,70
+3,5:35.0,Defensive rebound by J. Okogie,,65,70
+3,5:26.0,J. Okogie makes 3-pt jump shot from 24 ft (assist by J. Butler),,68,70
+3,5:10.0,,P. Siakam makes 3-pt jump shot from 23 ft (assist by K. Lowry),68,73
+3,4:52.0,T. Gibson misses 3-pt jump shot from 26 ft,,68,73
+3,4:50.0,,Defensive rebound by S. Ibaka,68,73
+3,4:45.0,,Shooting foul by J. Teague (drawn by K. Leonard),68,73
+3,4:45.0,,K. Leonard misses free throw 1 of 2,68,73
+3,4:45.0,,Offensive rebound by Team,68,73
+3,4:45.0,,K. Leonard makes free throw 2 of 2,68,74
+3,4:30.0,K. Towns misses 3-pt jump shot from 27 ft,,68,74
+3,4:28.0,Offensive rebound by J. Butler,,68,74
+3,4:26.0,J. Butler misses 3-pt jump shot from 25 ft,,68,74
+3,4:21.0,Offensive rebound by J. Okogie,,68,74
+3,4:21.0,J. Okogie makes 2-pt dunk from 1 ft,,70,74
+3,4:10.0,,L. Brown makes 2-pt layup from 2 ft (assist by P. Siakam),70,76
+3,3:56.0,T. Gibson misses 2-pt layup from 2 ft,,70,76
+3,3:54.0,Offensive rebound by J. Teague,,70,76
+3,3:52.0,T. Gibson makes 2-pt layup from 2 ft (assist by J. Teague),,72,76
+3,3:44.0,,L. Brown misses 3-pt jump shot from 23 ft,72,76
+3,3:44.0,Defensive rebound by Team,,72,76
+3,3:44.0,,Loose ball foul by P. Siakam (drawn by K. Towns),72,76
+3,3:44.0,A. Tolliver enters the game for T. Gibson,,72,76
+3,3:44.0,,O. Anunoby enters the game for P. Siakam,72,76
+3,3:25.0,K. Towns misses 2-pt layup from 2 ft,,72,76
+3,3:24.0,,Defensive rebound by K. Lowry,72,76
+3,3:19.0,,Turnover by K. Lowry (bad pass; steal by A. Tolliver),72,76
+3,3:00.0,J. Teague misses 2-pt jump shot from 10 ft,,72,76
+3,2:57.0,,Defensive rebound by S. Ibaka,72,76
+3,2:54.0,,Personal foul by J. Teague (drawn by K. Leonard),72,76
+3,2:54.0,,Toronto full timeout,72,76
+3,2:54.0,T. Jones enters the game for J. Butler,,72,76
+3,2:54.0,D. Rose enters the game for J. Teague,,72,76
+3,2:54.0,,N. Powell enters the game for S. Ibaka,72,76
+3,2:54.0,,J. Valančiūnas enters the game for K. Lowry,72,76
+3,2:48.0,,K. Leonard makes 2-pt jump shot from 14 ft,72,78
+3,2:31.0,D. Rose misses 2-pt jump shot from 13 ft,,72,78
+3,2:29.0,,Defensive rebound by O. Anunoby,72,78
+3,2:23.0,,Offensive foul by K. Leonard (drawn by J. Okogie),72,78
+3,2:23.0,,Turnover by K. Leonard (offensive foul),72,78
+3,2:05.0,A. Tolliver misses 3-pt jump shot from 23 ft,,72,78
+3,2:03.0,,Defensive rebound by J. Valančiūnas,72,78
+3,1:53.0,,O. Anunoby misses 3-pt jump shot from 23 ft,72,78
+3,1:50.0,Defensive rebound by J. Okogie,,72,78
+3,1:39.0,D. Rose makes 2-pt jump shot from 5 ft,,74,78
+3,1:26.0,,K. Leonard misses 2-pt hook shot from 4 ft,74,78
+3,1:24.0,Defensive rebound by A. Tolliver,,74,78
+3,1:17.0,K. Towns misses 3-pt jump shot from 28 ft,,74,78
+3,1:14.0,,Defensive rebound by Team,74,78
+3,1:14.0,G. Dieng enters the game for K. Towns,,74,78
+3,1:14.0,,C. Miles enters the game for K. Leonard,74,78
+3,0:59.0,,J. Valančiūnas makes 2-pt jump shot from 6 ft,74,80
+3,0:48.0,T. Jones misses 2-pt jump shot from 18 ft,,74,80
+3,0:45.0,,Defensive rebound by O. Anunoby,74,80
+3,0:32.0,,J. Valančiūnas makes 3-pt jump shot from 26 ft (assist by L. Brown),74,83
+3,0:16.0,Personal foul by J. Valančiūnas (drawn by T. Jones),,74,83
+3,0:02.0,Turnover by Team (shot clock),,74,83
+3,0:01.0,,Personal take foul by J. Okogie (drawn by L. Brown),74,83
+3,0:00.0,,J. Valančiūnas misses 3-pt jump shot from 30 ft,74,83
+3,0:00.0,,Offensive rebound by Team,74,83
+4,11:37.0,,L. Brown misses 3-pt jump shot from 26 ft,74,83
+4,11:35.0,Defensive rebound by Team,,74,83
+4,11:16.0,G. Dieng misses 2-pt jump shot from 21 ft,,74,83
+4,11:12.0,,Defensive rebound by L. Brown,74,83
+4,10:56.0,,J. Valančiūnas makes 3-pt jump shot from 25 ft (assist by L. Brown),74,86
+4,10:45.0,D. Rose makes 2-pt layup from 2 ft,,76,86
+4,10:26.0,,N. Powell makes 2-pt jump shot from 19 ft,76,88
+4,10:10.0,G. Dieng makes 2-pt hook shot from 6 ft (assist by D. Rose),,78,88
+4,9:57.0,,Turnover by L. Brown (bad pass; steal by T. Jones),78,88
+4,9:52.0,Turnover by A. Tolliver (lost ball; steal by O. Anunoby),,78,88
+4,9:51.0,,N. Powell makes 2-pt hook shot from 1 ft (assist by O. Anunoby),78,90
+4,9:51.0,,Shooting foul by A. Tolliver (drawn by N. Powell),78,90
+4,9:51.0,,N. Powell makes free throw 1 of 1,78,91
+4,9:41.0,Shooting foul by O. Anunoby (drawn by J. Butler),,78,91
+4,9:41.0,J. Butler misses free throw 1 of 2,,78,91
+4,9:41.0,Offensive rebound by Team,,78,91
+4,9:41.0,J. Butler misses free throw 2 of 2,,78,91
+4,9:38.0,,Defensive rebound by J. Valančiūnas,78,91
+4,9:24.0,,O. Anunoby makes 3-pt jump shot from 25 ft (assist by N. Powell),78,94
+4,9:23.0,Minnesota full timeout,,78,94
+4,9:01.0,G. Dieng misses 2-pt jump shot from 17 ft,,78,94
+4,8:58.0,Offensive rebound by G. Dieng,,78,94
+4,8:56.0,G. Dieng misses 2-pt layup from 2 ft (block by C. Miles),,78,94
+4,8:54.0,,Defensive rebound by C. Miles,78,94
+4,8:52.0,,N. Powell misses 3-pt jump shot from 25 ft,78,94
+4,8:49.0,Defensive rebound by D. Rose,,78,94
+4,8:41.0,Turnover by J. Butler (bad pass; steal by N. Powell),,78,94
+4,8:33.0,,L. Brown misses 2-pt layup from 2 ft,78,94
+4,8:31.0,Defensive rebound by A. Tolliver,,78,94
+4,8:28.0,Shooting foul by J. Valančiūnas (drawn by J. Butler),,78,94
+4,8:28.0,J. Butler misses free throw 1 of 2,,78,94
+4,8:28.0,Offensive rebound by Team,,78,94
+4,8:28.0,J. Butler makes free throw 2 of 2,,79,94
+4,8:05.0,,N. Powell misses 3-pt jump shot from 28 ft,79,94
+4,8:04.0,Defensive rebound by Team,,79,94
+4,7:44.0,D. Rose makes 2-pt layup from 1 ft,,81,94
+4,7:36.0,,Turnover by L. Brown (lost ball; steal by J. Butler),81,94
+4,7:23.0,T. Jones misses 3-pt jump shot from 23 ft,,81,94
+4,7:20.0,,Defensive rebound by N. Powell,81,94
+4,7:12.0,,Turnover by N. Powell (bad pass; steal by J. Butler),81,94
+4,7:09.0,J. Butler makes 2-pt layup from 1 ft,,83,94
+4,7:07.0,,Toronto full timeout,83,94
+4,7:07.0,K. Towns enters the game for G. Dieng,,83,94
+4,7:07.0,,D. Green enters the game for L. Brown,83,94
+4,7:07.0,,K. Leonard enters the game for C. Miles,83,94
+4,7:07.0,,K. Lowry enters the game for N. Powell,83,94
+4,6:51.0,,K. Lowry misses 2-pt jump shot from 12 ft,83,94
+4,6:48.0,Defensive rebound by K. Towns,,83,94
+4,6:44.0,D. Rose misses 2-pt layup from 2 ft,,83,94
+4,6:42.0,,Defensive rebound by J. Valančiūnas,83,94
+4,6:28.0,,D. Green misses 2-pt layup from 3 ft,83,94
+4,6:25.0,,Offensive rebound by J. Valančiūnas,83,94
+4,6:25.0,,J. Valančiūnas makes 2-pt layup at rim,83,96
+4,6:07.0,K. Towns misses 2-pt layup from 2 ft,,83,96
+4,6:05.0,Offensive rebound by K. Towns,,83,96
+4,6:04.0,K. Towns misses 2-pt layup from 1 ft (block by K. Leonard),,83,96
+4,6:04.0,Offensive rebound by Team,,83,96
+4,5:52.0,J. Butler misses 3-pt jump shot from 26 ft,,83,96
+4,5:49.0,,Defensive rebound by O. Anunoby,83,96
+4,5:36.0,,K. Leonard makes 2-pt jump shot from 16 ft,83,98
+4,5:17.0,Turnover by D. Rose (bad pass; steal by K. Leonard),,83,98
+4,5:12.0,,K. Lowry makes 2-pt layup from 2 ft (assist by K. Leonard),83,100
+4,5:10.0,Minnesota full timeout,,83,100
+4,5:10.0,J. Teague enters the game for D. Rose,,83,100
+4,5:00.0,Shooting foul by K. Lowry (drawn by J. Butler),,83,100
+4,5:00.0,J. Butler makes free throw 1 of 2,,84,100
+4,5:00.0,J. Butler makes free throw 2 of 2,,85,100
+4,4:43.0,,K. Lowry misses 3-pt jump shot from 23 ft,85,100
+4,4:40.0,,Offensive rebound by J. Valančiūnas,85,100
+4,4:37.0,,K. Lowry makes 2-pt layup from 1 ft (assist by J. Valančiūnas),85,102
+4,4:31.0,J. Teague makes 3-pt jump shot from 27 ft (assist by T. Jones),,88,102
+4,4:16.0,,Offensive foul by J. Valančiūnas (drawn by A. Tolliver),88,102
+4,4:16.0,,Turnover by J. Valančiūnas (offensive foul),88,102
+4,4:01.0,K. Towns makes 3-pt jump shot from 27 ft (assist by T. Jones),,91,102
+4,3:39.0,,K. Leonard makes 2-pt layup from 2 ft,91,104
+4,3:15.0,A. Tolliver makes 3-pt jump shot from 23 ft (assist by J. Teague),,94,104
+4,2:52.0,,Personal foul by J. Butler (drawn by K. Leonard),94,104
+4,2:52.0,D. Rose enters the game for T. Jones,,94,104
+4,2:52.0,,S. Ibaka enters the game for J. Valančiūnas,94,104
+4,2:38.0,,K. Leonard makes 2-pt jump shot from 13 ft,94,106
+4,2:24.0,A. Tolliver misses 3-pt jump shot from 28 ft,,94,106
+4,2:19.0,Offensive rebound by J. Butler,,94,106
+4,2:18.0,J. Butler makes 2-pt layup from 2 ft,,96,106
+4,2:01.0,,K. Leonard misses 2-pt jump shot from 15 ft,96,106
+4,1:58.0,Defensive rebound by J. Butler,,96,106
+4,1:42.0,J. Butler makes 3-pt jump shot from 23 ft (assist by K. Towns),,99,106
+4,1:24.0,,Turnover by K. Lowry (bad pass; steal by K. Towns),99,106
+4,1:23.0,Personal take foul by O. Anunoby (drawn by J. Teague),,99,106
+4,1:16.0,K. Towns makes 2-pt hook shot from 10 ft,,101,106
+4,1:16.0,,Toronto full timeout,101,106
+4,0:53.0,,K. Leonard makes 2-pt jump shot from 11 ft,101,108
+4,0:53.0,Minnesota full timeout,,101,108
+4,0:49.0,J. Teague misses 2-pt jump shot from 4 ft,,101,108
+4,0:47.0,,Defensive rebound by S. Ibaka,101,108
+4,0:42.0,,Personal foul by A. Tolliver (drawn by K. Lowry),101,108
+4,0:38.0,,Personal take foul by D. Rose (drawn by K. Leonard),101,108
+4,0:38.0,,K. Leonard makes free throw 1 of 2,101,109
+4,0:38.0,,K. Leonard makes free throw 2 of 2,101,110
+4,0:28.0,Shooting foul by S. Ibaka (drawn by J. Butler),,101,110
+4,0:28.0,J. Butler makes free throw 1 of 2,,102,110
+4,0:28.0,J. Butler makes free throw 2 of 2,,103,110
+4,0:22.0,,Turnover by K. Leonard (traveling),103,110
+4,0:19.0,K. Towns misses 3-pt jump shot from 34 ft,,103,110
+4,0:17.0,,Defensive rebound by K. Lowry,103,110
+4,0:17.0,,Personal take foul by A. Tolliver (drawn by K. Lowry),103,110
+4,0:17.0,,K. Lowry makes free throw 1 of 2,103,111
+4,0:17.0,,K. Lowry makes free throw 2 of 2,103,112
+4,0:17.0,Minnesota full timeout,,103,112
+4,0:13.0,K. Towns makes 2-pt dunk from 1 ft,,105,112
+4,0:06.0,,Turnover by K. Lowry (bad pass),105,112
+4,0:02.0,J. Teague misses 2-pt jump shot from 7 ft,,105,112
+4,0:02.0,Offensive rebound by Team,,105,112

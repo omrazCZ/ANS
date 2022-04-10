@@ -1,0 +1,459 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,LA LAKERS_ACTION,HOUSTON_SCORE,LA LAKERS_SCORE
+1,11:32.0,C. Capela misses 2-pt hook shot from 5 ft,,0,0
+1,11:30.0,,Defensive rebound by L. James,0,0
+1,11:21.0,,Turnover by L. James (bad pass),0,0
+1,11:06.0,J. Harden misses 2-pt layup from 2 ft (block by J. McGee),,0,0
+1,11:03.0,,Defensive rebound by K. Kuzma,0,0
+1,11:00.0,,B. Ingram misses 3-pt jump shot from 23 ft,0,0
+1,10:55.0,Defensive rebound by J. Harden,,0,0
+1,10:52.0,Turnover by J. Harden (lost ball; steal by K. Kuzma),,0,0
+1,10:46.0,,K. Kuzma misses 2-pt layup from 2 ft,0,0
+1,10:44.0,Defensive rebound by C. Paul,,0,0
+1,10:31.0,C. Paul makes 3-pt jump shot from 24 ft,,3,0
+1,10:11.0,,Shooting foul by P. Tucker (drawn by B. Ingram),3,0
+1,10:11.0,,B. Ingram misses free throw 1 of 2,3,0
+1,10:11.0,,Offensive rebound by Team,3,0
+1,10:11.0,,B. Ingram misses free throw 2 of 2,3,0
+1,10:08.0,,Offensive rebound by L. James,3,0
+1,10:05.0,,L. James makes 2-pt jump shot from 22 ft,3,2
+1,9:50.0,E. Gordon misses 3-pt jump shot from 27 ft,,3,2
+1,9:46.0,,Defensive rebound by B. Ingram,3,2
+1,9:38.0,,R. Bullock misses 3-pt jump shot from 27 ft,3,2
+1,9:33.0,,Offensive rebound by J. McGee,3,2
+1,9:32.0,,K. Kuzma makes 3-pt jump shot from 26 ft (assist by J. McGee),3,5
+1,9:18.0,E. Gordon makes 3-pt jump shot from 27 ft (assist by J. Harden),,6,5
+1,8:51.0,,B. Ingram makes 2-pt layup from 1 ft,6,7
+1,8:41.0,Personal foul by B. Ingram (drawn by C. Capela),,6,7
+1,8:36.0,Personal foul by J. McGee (drawn by C. Capela),,6,7
+1,8:26.0,C. Capela misses 2-pt layup from 3 ft (block by L. James),,6,7
+1,8:23.0,Offensive rebound by C. Paul,,6,7
+1,8:22.0,J. Harden misses 3-pt jump shot from 27 ft,,6,7
+1,8:19.0,,Defensive rebound by J. McGee,6,7
+1,8:12.0,,L. James misses 2-pt jump shot from 19 ft,6,7
+1,8:09.0,Defensive rebound by J. Harden,,6,7
+1,8:01.0,J. Harden makes 2-pt layup from 1 ft,,8,7
+1,7:48.0,,Turnover by L. James (bad pass; steal by E. Gordon),8,7
+1,7:44.0,C. Capela makes 2-pt dunk from 2 ft (assist by E. Gordon),,10,7
+1,7:30.0,,R. Bullock misses 3-pt jump shot from 27 ft,10,7
+1,7:26.0,Defensive rebound by C. Paul,,10,7
+1,7:20.0,P. Tucker misses 3-pt jump shot from 24 ft,,10,7
+1,7:18.0,,Defensive rebound by B. Ingram,10,7
+1,7:15.0,,Personal foul by J. Harden (drawn by B. Ingram),10,7
+1,7:07.0,,B. Ingram makes 2-pt layup from 2 ft (assist by L. James),10,9
+1,6:51.0,C. Paul misses 2-pt jump shot from 11 ft,,10,9
+1,6:49.0,,Defensive rebound by L. James,10,9
+1,6:46.0,Violation by Team (kicked ball),,10,9
+1,6:46.0,,LA Lakers full timeout,10,9
+1,6:46.0,G. Green enters the game for C. Paul,,10,9
+1,6:38.0,,K. Kuzma misses 3-pt jump shot from 26 ft,10,9
+1,6:34.0,,Offensive rebound by L. James,10,9
+1,6:24.0,,R. Bullock makes 3-pt jump shot from 27 ft (assist by K. Kuzma),10,12
+1,6:10.0,C. Capela makes 2-pt dunk from 2 ft (assist by J. Harden),,12,12
+1,5:50.0,,J. McGee makes 2-pt jump shot from 13 ft (assist by K. Kuzma),12,14
+1,5:50.0,,Shooting foul by J. Harden (drawn by J. McGee),12,14
+1,5:50.0,A. Rivers enters the game for E. Gordon,,12,14
+1,5:50.0,,K. Caldwell-Pope enters the game for R. Bullock,12,14
+1,5:50.0,,R. Rondo enters the game for B. Ingram,12,14
+1,5:50.0,,J. McGee makes free throw 1 of 1,12,15
+1,5:41.0,Shooting foul by J. McGee (drawn by J. Harden),,12,15
+1,5:41.0,J. Harden makes free throw 1 of 2,,13,15
+1,5:41.0,,T. Chandler enters the game for J. McGee,13,15
+1,5:41.0,J. Harden makes free throw 2 of 2,,14,15
+1,5:26.0,,L. James misses 2-pt layup from 3 ft,14,15
+1,5:24.0,Defensive rebound by C. Capela,,14,15
+1,5:15.0,C. Capela makes 2-pt layup from 1 ft (assist by J. Harden),,16,15
+1,5:04.0,,Turnover by R. Rondo (bad pass),16,15
+1,5:04.0,N. Hilário enters the game for C. Capela,,16,15
+1,4:46.0,Turnover by J. Harden (step out of bounds),,16,15
+1,4:30.0,,K. Kuzma makes 2-pt dunk from 3 ft (assist by R. Rondo),16,17
+1,4:07.0,Shooting foul by K. Caldwell-Pope (drawn by J. Harden),,16,17
+1,4:07.0,J. Harden makes free throw 1 of 2,,17,17
+1,4:07.0,J. Harden makes free throw 2 of 2,,18,17
+1,3:59.0,,Turnover by R. Rondo (bad pass),18,17
+1,3:51.0,Offensive foul by J. Harden (drawn by K. Caldwell-Pope),,18,17
+1,3:51.0,Turnover by J. Harden (offensive foul),,18,17
+1,3:51.0,C. Paul enters the game for J. Harden,,18,17
+1,3:42.0,,K. Caldwell-Pope misses 2-pt jump shot from 16 ft,18,17
+1,3:41.0,,Offensive rebound by Team,18,17
+1,3:36.0,,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,18,17
+1,3:31.0,Defensive rebound by C. Paul,,18,17
+1,3:23.0,G. Green misses 3-pt jump shot from 26 ft,,18,17
+1,3:22.0,,Defensive rebound by K. Kuzma,18,17
+1,3:22.0,,Personal take foul by G. Green (drawn by K. Caldwell-Pope),18,17
+1,3:07.0,,Turnover by L. James (back court),18,17
+1,2:54.0,G. Green makes 2-pt layup from 2 ft (assist by C. Paul),,20,17
+1,2:47.0,,L. James makes 2-pt layup from 3 ft (assist by R. Rondo),20,19
+1,2:47.0,Violation by Team (def goaltending),,20,19
+1,2:33.0,A. Rivers makes 2-pt jump shot from 8 ft,,22,19
+1,2:24.0,,K. Kuzma misses 2-pt jump shot from 20 ft,22,19
+1,2:20.0,Defensive rebound by A. Rivers,,22,19
+1,2:13.0,C. Paul misses 2-pt jump shot from 14 ft,,22,19
+1,2:12.0,Offensive rebound by Team,,22,19
+1,2:12.0,,Loose ball foul by K. Caldwell-Pope (drawn by N. Hilário),22,19
+1,2:12.0,Houston full timeout,,22,19
+1,2:12.0,K. Faried enters the game for P. Tucker,,22,19
+1,2:12.0,,B. Ingram enters the game for L. James,22,19
+1,2:12.0,,L. Stephenson enters the game for K. Kuzma,22,19
+1,2:12.0,N. Hilário makes free throw 1 of 2,,23,19
+1,2:12.0,N. Hilário makes free throw 2 of 2,,24,19
+1,2:02.0,,Turnover by K. Caldwell-Pope (bad pass; steal by C. Paul),24,19
+1,1:57.0,G. Green misses 3-pt jump shot from 25 ft,,24,19
+1,1:53.0,,Defensive rebound by B. Ingram,24,19
+1,1:48.0,,B. Ingram makes 2-pt layup from 1 ft,24,21
+1,1:48.0,,Shooting foul by K. Faried (drawn by B. Ingram),24,21
+1,1:48.0,,B. Ingram makes free throw 1 of 1,24,22
+1,1:33.0,Personal foul by L. Stephenson (drawn by K. Faried),,24,22
+1,1:33.0,K. Faried makes free throw 1 of 2,,25,22
+1,1:33.0,K. Faried makes free throw 2 of 2,,26,22
+1,1:15.0,,R. Rondo misses 2-pt jump shot from 13 ft,26,22
+1,1:12.0,Defensive rebound by C. Paul,,26,22
+1,0:58.0,K. Faried makes 3-pt jump shot from 27 ft (assist by C. Paul),,29,22
+1,0:47.0,,Turnover by T. Chandler (bad pass; steal by A. Rivers),29,22
+1,0:41.0,A. Rivers makes 3-pt jump shot from 26 ft (assist by C. Paul),,32,22
+1,0:23.0,,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,32,22
+1,0:20.0,Defensive rebound by C. Paul,,32,22
+1,0:03.0,C. Paul misses 3-pt jump shot from 26 ft,,32,22
+1,0:01.0,,Defensive rebound by T. Chandler,32,22
+2,11:49.0,,Personal take foul by C. Paul (drawn by L. James),32,22
+2,11:41.0,,B. Ingram misses 2-pt layup from 3 ft,32,22
+2,11:38.0,Defensive rebound by C. Capela,,32,22
+2,11:23.0,A. Rivers misses 3-pt jump shot from 25 ft,,32,22
+2,11:21.0,,Defensive rebound by R. Rondo,32,22
+2,11:07.0,,L. James makes 2-pt layup from 1 ft (assist by B. Ingram),32,24
+2,10:47.0,E. Gordon makes 3-pt jump shot from 27 ft (assist by C. Paul),,35,24
+2,10:32.0,,L. Stephenson misses 3-pt jump shot from 25 ft,35,24
+2,10:28.0,Defensive rebound by K. Faried,,35,24
+2,10:21.0,Turnover by C. Capela (bad pass; steal by L. James),,35,24
+2,10:16.0,,L. Stephenson misses 2-pt layup from 2 ft (block by C. Paul),35,24
+2,10:16.0,,Offensive rebound by Team,35,24
+2,10:13.0,,K. Caldwell-Pope makes 3-pt jump shot from 23 ft (assist by R. Rondo),35,27
+2,9:52.0,C. Capela misses 2-pt hook shot from 3 ft,,35,27
+2,9:49.0,,Defensive rebound by B. Ingram,35,27
+2,9:43.0,,L. James misses 2-pt jump shot from 9 ft,35,27
+2,9:41.0,Defensive rebound by C. Paul,,35,27
+2,9:35.0,E. Gordon misses 3-pt jump shot from 26 ft,,35,27
+2,9:31.0,,Defensive rebound by B. Ingram,35,27
+2,9:22.0,,K. Caldwell-Pope misses 3-pt jump shot from 28 ft,35,27
+2,9:19.0,Defensive rebound by C. Paul,,35,27
+2,9:14.0,Turnover by A. Rivers (traveling),,35,27
+2,9:14.0,J. Harden enters the game for A. Rivers,,35,27
+2,9:02.0,,L. James makes 2-pt layup from 1 ft (assist by R. Rondo),35,29
+2,8:52.0,C. Paul makes 2-pt jump shot from 13 ft,,37,29
+2,8:26.0,,B. Ingram misses 3-pt jump shot from 27 ft,37,29
+2,8:23.0,Defensive rebound by C. Capela,,37,29
+2,8:14.0,J. Harden makes 3-pt jump shot from 27 ft,,40,29
+2,8:13.0,,LA Lakers full timeout,40,29
+2,8:13.0,,R. Bullock enters the game for K. Caldwell-Pope,40,29
+2,8:13.0,,K. Kuzma enters the game for L. James,40,29
+2,8:13.0,,J. McGee enters the game for L. Stephenson,40,29
+2,8:05.0,,R. Rondo misses 3-pt jump shot from 26 ft,40,29
+2,8:03.0,Defensive rebound by C. Capela,,40,29
+2,7:54.0,C. Paul misses 2-pt jump shot from 17 ft,,40,29
+2,7:50.0,,Defensive rebound by R. Bullock,40,29
+2,7:46.0,,J. McGee makes 2-pt layup from 1 ft (assist by K. Kuzma),40,31
+2,7:40.0,K. Faried misses 2-pt layup from 3 ft,,40,31
+2,7:37.0,,Defensive rebound by K. Kuzma,40,31
+2,7:32.0,,R. Bullock misses 3-pt jump shot from 27 ft,40,31
+2,7:28.0,Defensive rebound by K. Faried,,40,31
+2,7:19.0,C. Capela makes 2-pt dunk from 1 ft (assist by K. Faried),,42,31
+2,6:59.0,,R. Rondo makes 2-pt layup from 1 ft,42,33
+2,6:52.0,K. Faried makes 2-pt dunk from 1 ft (assist by J. Harden),,44,33
+2,6:36.0,,R. Bullock makes 3-pt jump shot from 23 ft (assist by R. Rondo),44,36
+2,6:23.0,Turnover by J. Harden (out of bounds lost ball),,44,36
+2,6:23.0,G. Green enters the game for C. Paul,,44,36
+2,6:15.0,,R. Rondo misses 2-pt layup from 3 ft (block by C. Capela),44,36
+2,6:12.0,,Offensive rebound by J. McGee,44,36
+2,6:11.0,,J. McGee misses 2-pt dunk from 2 ft (block by K. Faried),44,36
+2,6:08.0,Defensive rebound by K. Faried,,44,36
+2,6:06.0,Shooting foul by R. Bullock (drawn by J. Harden),,44,36
+2,6:06.0,J. Harden misses free throw 1 of 3,,44,36
+2,6:06.0,Offensive rebound by Team,,44,36
+2,6:06.0,J. Harden makes free throw 2 of 3,,45,36
+2,6:06.0,P. Tucker enters the game for C. Capela,,45,36
+2,6:06.0,J. Harden makes free throw 3 of 3,,46,36
+2,5:55.0,,Turnover by R. Rondo (bad pass; steal by P. Tucker),46,36
+2,5:51.0,K. Faried makes 2-pt dunk from 1 ft (assist by J. Harden),,48,36
+2,5:35.0,,Shooting foul by E. Gordon (drawn by B. Ingram),48,36
+2,5:35.0,,B. Ingram makes free throw 1 of 2,48,37
+2,5:35.0,,L. James enters the game for R. Rondo,48,37
+2,5:35.0,,B. Ingram makes free throw 2 of 2,48,38
+2,5:26.0,E. Gordon misses 2-pt layup from 2 ft (block by K. Kuzma),,48,38
+2,5:23.0,,Defensive rebound by L. James,48,38
+2,5:18.0,,L. James misses 2-pt layup from 3 ft (block by G. Green),48,38
+2,5:17.0,,Offensive rebound by L. James,48,38
+2,5:17.0,,Shooting foul by P. Tucker (drawn by L. James),48,38
+2,5:17.0,,L. James makes free throw 1 of 2,48,39
+2,5:17.0,,L. James misses free throw 2 of 2,48,39
+2,5:14.0,,Offensive rebound by R. Bullock,48,39
+2,5:12.0,,L. James misses 3-pt jump shot from 26 ft,48,39
+2,5:08.0,Defensive rebound by K. Faried,,48,39
+2,4:51.0,J. Harden makes 2-pt jump shot from 5 ft,,50,39
+2,4:33.0,,J. McGee misses 2-pt jump shot from 5 ft,50,39
+2,4:31.0,Defensive rebound by E. Gordon,,50,39
+2,4:20.0,J. Harden makes 2-pt jump shot from 7 ft (assist by E. Gordon),,52,39
+2,4:19.0,,LA Lakers full timeout,52,39
+2,4:19.0,C. Capela enters the game for K. Faried,,52,39
+2,4:04.0,,L. James misses 2-pt layup from 5 ft,52,39
+2,4:01.0,,Offensive rebound by J. McGee,52,39
+2,4:01.0,,J. McGee misses 2-pt layup from 1 ft,52,39
+2,4:00.0,,Offensive rebound by L. James,52,39
+2,3:59.0,,L. James makes 2-pt layup from 2 ft,52,41
+2,3:35.0,G. Green misses 3-pt jump shot from 26 ft,,52,41
+2,3:32.0,Offensive rebound by P. Tucker,,52,41
+2,3:31.0,E. Gordon misses 3-pt jump shot from 28 ft,,52,41
+2,3:27.0,,Defensive rebound by B. Ingram,52,41
+2,3:16.0,,B. Ingram misses 3-pt jump shot from 24 ft,52,41
+2,3:13.0,Defensive rebound by P. Tucker,,52,41
+2,3:07.0,J. Harden misses 3-pt jump shot from 25 ft,,52,41
+2,3:04.0,,Defensive rebound by J. McGee,52,41
+2,3:00.0,,B. Ingram makes 2-pt layup from 1 ft,52,43
+2,2:44.0,J. Harden misses 2-pt jump shot from 3 ft,,52,43
+2,2:41.0,,Defensive rebound by R. Bullock,52,43
+2,2:29.0,,R. Bullock makes 3-pt jump shot from 26 ft (assist by L. James),52,46
+2,2:19.0,G. Green misses 3-pt jump shot from 27 ft,,52,46
+2,2:17.0,,Defensive rebound by K. Kuzma,52,46
+2,2:12.0,,Shooting foul by E. Gordon (drawn by L. James),52,46
+2,2:12.0,,L. James makes free throw 1 of 2,52,47
+2,2:12.0,C. Paul enters the game for G. Green,,52,47
+2,2:12.0,,L. James makes free throw 2 of 2,52,48
+2,1:54.0,J. Harden misses 2-pt jump shot from 5 ft (block by J. McGee),,52,48
+2,1:54.0,Offensive rebound by Team,,52,48
+2,1:49.0,J. Harden misses 3-pt jump shot from 26 ft,,52,48
+2,1:48.0,,Defensive rebound by Team,52,48
+2,1:28.0,,L. James misses 2-pt jump shot from 12 ft,52,48
+2,1:28.0,,Offensive rebound by Team,52,48
+2,1:28.0,Loose ball foul by C. Paul (drawn by L. James),,52,48
+2,1:28.0,,L. James misses free throw 1 of 2,52,48
+2,1:28.0,,Offensive rebound by Team,52,48
+2,1:28.0,,L. James misses free throw 2 of 2,52,48
+2,1:26.0,,Offensive rebound by Team,52,48
+2,1:18.0,,L. James misses 3-pt jump shot from 23 ft,52,48
+2,1:15.0,Defensive rebound by C. Capela,,52,48
+2,1:15.0,Shooting foul by R. Bullock (drawn by C. Paul),,52,48
+2,1:15.0,C. Paul makes free throw 1 of 2,,53,48
+2,1:15.0,C. Paul makes free throw 2 of 2,,54,48
+2,1:05.0,,Shooting foul by P. Tucker (drawn by B. Ingram),54,48
+2,1:05.0,,B. Ingram makes free throw 1 of 2,54,49
+2,1:05.0,,B. Ingram makes free throw 2 of 2,54,50
+2,0:49.0,C. Paul makes 2-pt jump shot from 13 ft,,56,50
+2,0:31.0,,B. Ingram makes 2-pt jump shot from 17 ft,56,52
+2,0:28.0,C. Capela makes 2-pt layup from 2 ft (assist by C. Paul),,58,52
+2,0:17.0,,K. Kuzma misses 2-pt hook shot from 5 ft,58,52
+2,0:15.0,Defensive rebound by C. Capela,,58,52
+2,0:01.0,C. Paul misses 2-pt layup from 2 ft,,58,52
+2,0:01.0,Offensive rebound by Team,,58,52
+3,11:44.0,,R. Bullock misses 3-pt jump shot from 27 ft,58,52
+3,11:39.0,Defensive rebound by C. Capela,,58,52
+3,11:33.0,J. Harden makes 2-pt jump shot from 6 ft,,60,52
+3,11:23.0,,J. McGee makes 2-pt layup from 4 ft (assist by K. Kuzma),60,54
+3,11:13.0,Personal foul by R. Bullock (drawn by C. Paul),,60,54
+3,11:08.0,E. Gordon makes 3-pt jump shot from 25 ft (assist by C. Paul),,63,54
+3,10:49.0,,B. Ingram misses 2-pt jump shot from 16 ft,63,54
+3,10:47.0,Defensive rebound by C. Capela,,63,54
+3,10:37.0,E. Gordon misses 2-pt layup from 2 ft,,63,54
+3,10:34.0,,Defensive rebound by B. Ingram,63,54
+3,10:30.0,,Turnover by K. Kuzma (bad pass; steal by E. Gordon),63,54
+3,10:15.0,C. Paul makes 2-pt jump shot from 13 ft,,65,54
+3,9:59.0,,B. Ingram misses 2-pt jump shot from 14 ft,65,54
+3,9:57.0,Defensive rebound by C. Paul,,65,54
+3,9:49.0,J. Harden makes 2-pt jump shot from 7 ft,,67,54
+3,9:49.0,,LA Lakers full timeout,67,54
+3,9:37.0,,Shooting foul by C. Capela (drawn by J. McGee),67,54
+3,9:37.0,,J. McGee makes free throw 1 of 2,67,55
+3,9:37.0,,J. McGee makes free throw 2 of 2,67,56
+3,9:28.0,J. Harden makes 2-pt dunk from 2 ft (assist by C. Paul),,69,56
+3,9:18.0,,J. McGee misses 2-pt layup from 3 ft,69,56
+3,9:16.0,Defensive rebound by C. Capela,,69,56
+3,9:04.0,Personal foul by K. Kuzma (drawn by J. Harden),,69,56
+3,8:50.0,Turnover by Team (shot clock),,69,56
+3,8:38.0,,J. McGee makes 2-pt hook shot from 11 ft (assist by R. Bullock),69,58
+3,8:30.0,E. Gordon misses 3-pt jump shot from 27 ft,,69,58
+3,8:27.0,,Defensive rebound by L. James,69,58
+3,8:24.0,,Turnover by B. Ingram (lost ball; steal by J. Harden),69,58
+3,8:18.0,Shooting foul by J. McGee (drawn by E. Gordon),,69,58
+3,8:18.0,E. Gordon makes free throw 1 of 2,,70,58
+3,8:18.0,E. Gordon makes free throw 2 of 2,,71,58
+3,8:04.0,,B. Ingram makes 2-pt layup from 4 ft,71,60
+3,7:45.0,C. Paul makes 2-pt layup from 2 ft,,73,60
+3,7:45.0,,Violation by Team (def goaltending),73,60
+3,7:39.0,,Turnover by L. James (out of bounds lost ball),73,60
+3,7:30.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by C. Paul),,76,60
+3,7:14.0,,Offensive foul by B. Ingram (drawn by C. Paul),76,60
+3,7:14.0,,Turnover by B. Ingram (offensive foul),76,60
+3,6:57.0,C. Paul makes 3-pt jump shot from 26 ft,,79,60
+3,6:44.0,,K. Kuzma makes 2-pt layup from 2 ft (assist by L. James),79,62
+3,6:33.0,Offensive foul by E. Gordon (drawn by B. Ingram),,79,62
+3,6:33.0,Turnover by E. Gordon (offensive foul),,79,62
+3,6:33.0,K. Faried enters the game for C. Capela,,79,62
+3,6:33.0,A. Rivers enters the game for C. Paul,,79,62
+3,6:33.0,,J. Hart enters the game for J. McGee,79,62
+3,6:18.0,,B. Ingram makes 2-pt jump shot from 20 ft,79,64
+3,6:05.0,A. Rivers misses 2-pt layup from 2 ft,,79,64
+3,6:02.0,Offensive rebound by K. Faried,,79,64
+3,6:01.0,K. Faried makes 2-pt layup from 1 ft,,81,64
+3,5:55.0,,L. James makes 2-pt layup from 4 ft,81,66
+3,5:31.0,J. Harden misses 3-pt jump shot from 29 ft,,81,66
+3,5:28.0,,Defensive rebound by L. James,81,66
+3,5:24.0,,K. Kuzma misses 3-pt jump shot from 26 ft,81,66
+3,5:21.0,Defensive rebound by J. Harden,,81,66
+3,5:14.0,J. Harden makes 2-pt jump shot from 2 ft,,83,66
+3,4:44.0,,L. James misses 2-pt hook shot from 3 ft,83,66
+3,4:44.0,,Offensive rebound by B. Ingram,83,66
+3,4:44.0,,B. Ingram misses 2-pt layup at rim,83,66
+3,4:44.0,,Offensive rebound by B. Ingram,83,66
+3,4:44.0,,Shooting foul by K. Faried (drawn by B. Ingram),83,66
+3,4:44.0,,B. Ingram makes free throw 1 of 2,83,67
+3,4:44.0,G. Green enters the game for E. Gordon,,83,67
+3,4:44.0,,B. Ingram makes free throw 2 of 2,83,68
+3,4:27.0,J. Harden makes 3-pt jump shot from 28 ft,,86,68
+3,4:18.0,,Shooting foul by K. Faried (drawn by K. Kuzma),86,68
+3,4:18.0,,K. Kuzma makes free throw 1 of 2,86,69
+3,4:18.0,,K. Caldwell-Pope enters the game for R. Bullock,86,69
+3,4:18.0,,K. Kuzma makes free throw 2 of 2,86,70
+3,4:02.0,Turnover by J. Harden (bad pass; steal by K. Caldwell-Pope),,86,70
+3,3:55.0,,L. James makes 2-pt dunk from 1 ft (assist by K. Kuzma),86,72
+3,3:30.0,J. Harden misses 2-pt layup from 2 ft,,86,72
+3,3:27.0,,Defensive rebound by B. Ingram,86,72
+3,3:18.0,,K. Kuzma misses 2-pt jump shot from 5 ft,86,72
+3,3:17.0,,Offensive rebound by K. Kuzma,86,72
+3,3:17.0,,K. Kuzma makes 2-pt layup from 2 ft,86,74
+3,3:17.0,Houston full timeout,,86,74
+3,3:17.0,C. Paul enters the game for J. Harden,,86,74
+3,3:17.0,,R. Bullock enters the game for B. Ingram,86,74
+3,2:58.0,K. Faried makes 2-pt jump shot from 3 ft,,88,74
+3,2:39.0,,Shooting foul by P. Tucker (drawn by L. James),88,74
+3,2:39.0,,L. James makes free throw 1 of 2,88,75
+3,2:39.0,,L. James makes free throw 2 of 2,88,76
+3,2:21.0,A. Rivers misses 2-pt jump shot from 4 ft,,88,76
+3,2:19.0,Offensive rebound by K. Faried,,88,76
+3,2:16.0,G. Green misses 2-pt jump shot from 14 ft,,88,76
+3,2:11.0,,Defensive rebound by K. Caldwell-Pope,88,76
+3,2:09.0,,K. Kuzma makes 2-pt dunk from 2 ft (assist by L. James),88,78
+3,1:50.0,P. Tucker misses 3-pt jump shot from 24 ft,,88,78
+3,1:48.0,,Defensive rebound by L. James,88,78
+3,1:42.0,,L. James makes 2-pt layup from 2 ft,88,80
+3,1:42.0,Houston full timeout,,88,80
+3,1:42.0,C. Capela enters the game for K. Faried,,88,80
+3,1:42.0,E. Gordon enters the game for P. Tucker,,88,80
+3,1:23.0,C. Paul makes 2-pt jump shot from 12 ft,,90,80
+3,1:08.0,,Offensive foul by K. Kuzma (drawn by A. Rivers),90,80
+3,1:08.0,,Turnover by K. Kuzma (offensive foul),90,80
+3,0:56.0,G. Green misses 3-pt jump shot from 26 ft,,90,80
+3,0:53.0,,Defensive rebound by L. James,90,80
+3,0:47.0,,J. Hart misses 3-pt jump shot from 23 ft,90,80
+3,0:44.0,Defensive rebound by C. Capela,,90,80
+3,0:32.0,C. Paul misses 3-pt jump shot from 26 ft,,90,80
+3,0:28.0,,Defensive rebound by R. Bullock,90,80
+3,0:24.0,,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,90,80
+3,0:20.0,,Offensive rebound by J. Hart,90,80
+3,0:19.0,,K. Kuzma makes 3-pt jump shot from 27 ft (assist by J. Hart),90,83
+3,0:03.0,G. Green misses 3-pt jump shot from 24 ft,,90,83
+3,0:00.0,,Defensive rebound by K. Caldwell-Pope,90,83
+3,0:00.0,,K. Caldwell-Pope misses 3-pt jump shot from 27 ft,90,83
+3,0:00.0,,Offensive rebound by Team,90,83
+4,11:46.0,Turnover by E. Gordon (traveling),,90,83
+4,11:27.0,,K. Kuzma misses 3-pt jump shot from 26 ft,90,83
+4,11:23.0,Defensive rebound by C. Capela,,90,83
+4,11:06.0,J. Harden misses 3-pt jump shot from 27 ft,,90,83
+4,11:03.0,,Defensive rebound by K. Kuzma,90,83
+4,10:54.0,,Turnover by K. Kuzma (traveling),90,83
+4,10:33.0,E. Gordon misses 3-pt jump shot from 24 ft,,90,83
+4,10:30.0,,Defensive rebound by K. Caldwell-Pope,90,83
+4,10:15.0,,J. Hart makes 2-pt layup from 2 ft (assist by R. Rondo),90,85
+4,9:56.0,A. Rivers misses 3-pt jump shot from 26 ft,,90,85
+4,9:51.0,,Defensive rebound by B. Ingram,90,85
+4,9:45.0,,B. Ingram misses 2-pt layup from 2 ft,90,85
+4,9:42.0,Defensive rebound by E. Gordon,,90,85
+4,9:41.0,Personal take foul by R. Rondo (drawn by C. Paul),,90,85
+4,9:29.0,C. Capela makes 2-pt dunk from 2 ft (assist by J. Harden),,92,85
+4,9:21.0,,K. Caldwell-Pope makes 3-pt jump shot from 26 ft (assist by R. Rondo),92,88
+4,9:13.0,Offensive foul by C. Capela (drawn by K. Caldwell-Pope),,92,88
+4,9:13.0,Turnover by C. Capela (offensive foul),,92,88
+4,9:13.0,K. Faried enters the game for C. Capela,,92,88
+4,8:58.0,,Personal foul by C. Paul (drawn by R. Rondo),92,88
+4,8:58.0,,L. James enters the game for K. Kuzma,92,88
+4,8:43.0,,Turnover by Team (shot clock),92,88
+4,8:24.0,J. Harden misses 3-pt jump shot from 26 ft,,92,88
+4,8:24.0,Offensive rebound by Team,,92,88
+4,8:24.0,,Loose ball foul by L. James (drawn by K. Faried),92,88
+4,8:12.0,J. Harden misses 3-pt jump shot from 27 ft,,92,88
+4,8:11.0,,Defensive rebound by Team,92,88
+4,7:56.0,,Turnover by R. Rondo (bad pass; steal by K. Faried),92,88
+4,7:49.0,E. Gordon makes 3-pt jump shot from 27 ft (assist by C. Paul),,95,88
+4,7:38.0,,Personal foul by A. Rivers (drawn by B. Ingram),95,88
+4,7:38.0,P. Tucker enters the game for C. Paul,,95,88
+4,7:22.0,,L. James makes 2-pt jump shot from 21 ft,95,90
+4,6:58.0,A. Rivers misses 2-pt jump shot from 6 ft,,95,90
+4,6:56.0,,Defensive rebound by L. James,95,90
+4,6:52.0,,J. Hart makes 2-pt layup from 2 ft (assist by L. James),95,92
+4,6:52.0,Houston full timeout,,95,92
+4,6:52.0,G. Green enters the game for A. Rivers,,95,92
+4,6:28.0,J. Harden misses 3-pt jump shot from 25 ft,,95,92
+4,6:27.0,,Defensive rebound by R. Rondo,95,92
+4,6:06.0,,L. James misses 3-pt jump shot from 24 ft,95,92
+4,6:03.0,Defensive rebound by J. Harden,,95,92
+4,6:03.0,Offensive foul by J. Harden (drawn by R. Rondo),,95,92
+4,6:03.0,Turnover by J. Harden (offensive foul),,95,92
+4,6:03.0,C. Capela enters the game for K. Faried,,95,92
+4,5:46.0,,B. Ingram misses 2-pt layup from 3 ft (block by J. Harden),95,92
+4,5:45.0,Defensive rebound by J. Harden,,95,92
+4,5:37.0,J. Harden makes 2-pt layup from 2 ft,,97,92
+4,5:17.0,,L. James makes 2-pt dunk from 2 ft,97,94
+4,5:02.0,G. Green misses 3-pt jump shot from 24 ft,,97,94
+4,4:57.0,,Defensive rebound by J. Hart,97,94
+4,4:57.0,,Turnover by J. Hart (lost ball; steal by G. Green),97,94
+4,4:51.0,Personal foul by K. Caldwell-Pope (drawn by J. Harden),,97,94
+4,4:51.0,C. Paul enters the game for E. Gordon,,97,94
+4,4:51.0,,K. Kuzma enters the game for R. Rondo,97,94
+4,4:43.0,P. Tucker misses 3-pt jump shot from 25 ft,,97,94
+4,4:40.0,,Defensive rebound by B. Ingram,97,94
+4,4:36.0,,B. Ingram makes 2-pt layup from 2 ft,97,96
+4,4:36.0,,Shooting foul by C. Paul (drawn by B. Ingram),97,96
+4,4:36.0,,R. Bullock enters the game for K. Caldwell-Pope,97,96
+4,4:36.0,,B. Ingram makes free throw 1 of 1,97,97
+4,4:21.0,G. Green misses 3-pt jump shot from 26 ft,,97,97
+4,4:19.0,,Defensive rebound by R. Bullock,97,97
+4,4:15.0,,Shooting foul by G. Green (drawn by L. James),97,97
+4,4:15.0,,L. James makes free throw 1 of 2,97,98
+4,4:15.0,Houston full timeout,,97,98
+4,4:15.0,E. Gordon enters the game for G. Green,,97,98
+4,4:15.0,,L. James makes free throw 2 of 2,97,99
+4,3:59.0,J. Harden misses 2-pt jump shot from 7 ft,,97,99
+4,3:56.0,,Defensive rebound by B. Ingram,97,99
+4,3:48.0,,Offensive foul by B. Ingram (drawn by J. Harden),97,99
+4,3:48.0,,Turnover by B. Ingram (offensive foul),97,99
+4,3:30.0,Turnover by C. Paul (lost ball; steal by R. Bullock),,97,99
+4,3:10.0,,L. James misses 3-pt jump shot from 27 ft,97,99
+4,3:07.0,Defensive rebound by P. Tucker,,97,99
+4,2:55.0,Houston full timeout,,97,99
+4,2:47.0,Offensive foul by J. Harden (drawn by K. Kuzma),,97,99
+4,2:47.0,Turnover by J. Harden (offensive foul),,97,99
+4,2:22.0,,L. James makes 2-pt jump shot from 2 ft,97,101
+4,2:10.0,E. Gordon misses 3-pt jump shot from 24 ft,,97,101
+4,2:10.0,,Defensive rebound by Team,97,101
+4,2:10.0,Loose ball foul by P. Tucker (drawn by B. Ingram),,97,101
+4,2:10.0,,B. Ingram makes free throw 1 of 2,97,102
+4,2:10.0,,B. Ingram misses free throw 2 of 2,97,102
+4,2:07.0,Defensive rebound by J. Harden,,97,102
+4,1:54.0,J. Harden makes 2-pt layup from 2 ft,,99,102
+4,1:31.0,,R. Bullock makes 3-pt jump shot from 24 ft (assist by L. James),99,105
+4,1:24.0,Offensive foul by J. Harden (drawn by L. James),,99,105
+4,1:24.0,Turnover by J. Harden (offensive foul),,99,105
+4,1:24.0,A. Rivers enters the game for J. Harden,,99,105
+4,1:00.0,,L. James misses 2-pt jump shot from 21 ft,99,105
+4,0:58.0,Defensive rebound by C. Paul,,99,105
+4,0:55.0,C. Paul makes 2-pt layup from 2 ft,,101,105
+4,0:55.0,,LA Lakers full timeout,101,105
+4,0:33.0,,Shooting foul by C. Paul (drawn by B. Ingram),101,105
+4,0:33.0,Technical foul by C. Paul,,101,105
+4,0:33.0,,Technical foul by M. D'Antoni,101,105
+4,0:33.0,,R. Bullock makes technical free throw,101,106
+4,0:33.0,,R. Bullock makes technical free throw,101,107
+4,0:33.0,,B. Ingram makes free throw 1 of 2,101,108
+4,0:33.0,,B. Ingram makes free throw 2 of 2,101,109
+4,0:22.0,C. Paul makes 3-pt jump shot from 26 ft,,104,109
+4,0:21.0,,Personal take foul by C. Paul (drawn by K. Kuzma),104,109
+4,0:21.0,G. Green enters the game for C. Paul,,104,109
+4,0:21.0,,K. Kuzma makes free throw 1 of 2,104,110
+4,0:21.0,,K. Kuzma makes free throw 2 of 2,104,111
+4,0:12.0,G. Green makes 2-pt layup from 2 ft,,106,111

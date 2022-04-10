@@ -1,0 +1,443 @@
+QUARTER,TIME_REMAINING,PHILADELPHIA_ACTION,MINNESOTA_ACTION,PHILADELPHIA_SCORE,MINNESOTA_SCORE
+1,11:44.0,,A. Wiggins makes 2-pt layup from 2 ft (assist by K. Towns),0,2
+1,11:33.0,J. Redick makes 3-pt jump shot from 25 ft (assist by B. Simmons),,3,2
+1,11:11.0,,A. Wiggins misses 2-pt layup from 6 ft,3,2
+1,11:09.0,Defensive rebound by J. Butler,,3,2
+1,11:05.0,Turnover by B. Simmons (bad pass),,3,2
+1,10:57.0,,D. Šarić misses 3-pt jump shot from 25 ft,3,2
+1,10:53.0,Defensive rebound by T. Harris,,3,2
+1,10:48.0,T. Harris makes 3-pt jump shot from 25 ft,,6,2
+1,10:35.0,,J. Okogie misses 2-pt jump shot from 19 ft,6,2
+1,10:31.0,Defensive rebound by T. Harris,,6,2
+1,10:23.0,J. Bolden misses 3-pt jump shot from 24 ft,,6,2
+1,10:19.0,,Defensive rebound by A. Wiggins,6,2
+1,10:15.0,,T. Jones makes 2-pt jump shot from 5 ft,6,4
+1,9:54.0,T. Harris misses 3-pt jump shot from 25 ft,,6,4
+1,9:52.0,,Defensive rebound by D. Šarić,6,4
+1,9:36.0,,D. Šarić misses 2-pt hook shot from 6 ft,6,4
+1,9:34.0,Defensive rebound by T. Harris,,6,4
+1,9:21.0,Personal foul by D. Šarić (drawn by J. Bolden),,6,4
+1,9:19.0,J. Redick misses 2-pt jump shot from 18 ft,,6,4
+1,9:16.0,,Defensive rebound by D. Šarić,6,4
+1,9:11.0,,T. Jones misses 3-pt jump shot from 25 ft,6,4
+1,9:08.0,Defensive rebound by B. Simmons,,6,4
+1,9:05.0,J. Butler misses 2-pt layup from 1 ft,,6,4
+1,9:05.0,Offensive rebound by J. Butler,,6,4
+1,9:02.0,J. Redick misses 2-pt jump shot from 19 ft,,6,4
+1,8:58.0,,Defensive rebound by T. Jones,6,4
+1,8:55.0,,J. Okogie makes 2-pt dunk from 1 ft (assist by T. Jones),6,6
+1,8:55.0,Philadelphia full timeout,,6,6
+1,8:40.0,T. Harris misses 2-pt jump shot from 20 ft,,6,6
+1,8:36.0,,Defensive rebound by J. Okogie,6,6
+1,8:31.0,,A. Wiggins makes 2-pt layup from 2 ft (assist by T. Jones),6,8
+1,8:23.0,J. Butler makes 3-pt jump shot from 24 ft (assist by B. Simmons),,9,8
+1,8:10.0,,A. Wiggins misses 2-pt layup from 4 ft (block by J. Bolden),9,8
+1,8:10.0,,Offensive rebound by Team,9,8
+1,7:58.0,,D. Šarić misses 2-pt jump shot from 7 ft,9,8
+1,7:55.0,Defensive rebound by J. Bolden,,9,8
+1,7:48.0,T. Harris makes 3-pt jump shot from 23 ft (assist by J. Butler),,12,8
+1,7:29.0,,K. Towns misses 3-pt jump shot from 26 ft,12,8
+1,7:27.0,Defensive rebound by J. Redick,,12,8
+1,7:14.0,J. Butler misses 2-pt jump shot from 17 ft,,12,8
+1,7:11.0,,Defensive rebound by A. Wiggins,12,8
+1,7:07.0,,Turnover by A. Wiggins (bad pass),12,8
+1,6:53.0,J. Redick misses 3-pt jump shot from 26 ft,,12,8
+1,6:50.0,,Defensive rebound by K. Towns,12,8
+1,6:49.0,,Turnover by K. Towns (bad pass; steal by B. Simmons),12,8
+1,6:45.0,B. Simmons makes 2-pt layup from 1 ft,,14,8
+1,6:36.0,,T. Jones makes 3-pt jump shot from 25 ft,14,11
+1,6:21.0,B. Simmons makes 2-pt layup from 2 ft (assist by T. Harris),,16,11
+1,6:11.0,,T. Jones misses 3-pt jump shot from 26 ft,16,11
+1,6:09.0,Defensive rebound by B. Simmons,,16,11
+1,5:57.0,B. Simmons makes 2-pt jump shot from 7 ft,,18,11
+1,5:49.0,,Minnesota full timeout,18,11
+1,5:49.0,T. McConnell enters the game for J. Redick,,18,11
+1,5:49.0,M. Scott enters the game for B. Simmons,,18,11
+1,5:41.0,,D. Šarić misses 2-pt jump shot from 23 ft,18,11
+1,5:38.0,Defensive rebound by J. Butler,,18,11
+1,5:24.0,T. McConnell misses 2-pt jump shot from 9 ft,,18,11
+1,5:21.0,,Defensive rebound by K. Towns,18,11
+1,5:09.0,,D. Šarić misses 2-pt hook shot from 4 ft,18,11
+1,5:07.0,Defensive rebound by J. Bolden,,18,11
+1,4:55.0,Turnover by J. Butler (bad pass; steal by D. Šarić),,18,11
+1,4:47.0,,A. Wiggins misses 2-pt layup from 3 ft (block by J. Bolden),18,11
+1,4:44.0,Defensive rebound by T. McConnell,,18,11
+1,4:33.0,T. McConnell misses 2-pt jump shot from 6 ft,,18,11
+1,4:30.0,,Defensive rebound by D. Šarić,18,11
+1,4:24.0,,A. Wiggins makes 2-pt layup from 2 ft (assist by T. Jones),18,13
+1,4:04.0,J. Bolden makes 3-pt jump shot from 25 ft (assist by J. Butler),,21,13
+1,3:48.0,,T. Jones misses 2-pt jump shot from 12 ft,21,13
+1,3:45.0,Defensive rebound by J. Bolden,,21,13
+1,3:37.0,T. Harris makes 2-pt layup from 3 ft (assist by T. McConnell),,23,13
+1,3:18.0,,K. Towns makes 2-pt hook shot from 6 ft,23,15
+1,3:07.0,M. Scott makes 3-pt jump shot from 25 ft (assist by T. Harris),,26,15
+1,2:48.0,,A. Wiggins makes 3-pt jump shot from 25 ft (assist by T. Jones),26,18
+1,2:35.0,M. Scott misses 2-pt jump shot from 8 ft,,26,18
+1,2:33.0,,Defensive rebound by K. Towns,26,18
+1,2:30.0,,Shooting foul by J. Bolden (drawn by J. Okogie),26,18
+1,2:30.0,,J. Okogie makes free throw 1 of 2,26,19
+1,2:30.0,J. Ennis enters the game for J. Butler,,26,19
+1,2:30.0,J. Redick enters the game for T. Harris,,26,19
+1,2:30.0,B. Simmons enters the game for T. McConnell,,26,19
+1,2:30.0,,K. Bates-Diop enters the game for T. Jones,26,19
+1,2:30.0,,J. Bayless enters the game for D. Šarić,26,19
+1,2:30.0,,A. Tolliver enters the game for A. Wiggins,26,19
+1,2:30.0,,J. Okogie makes free throw 2 of 2,26,20
+1,2:13.0,M. Scott makes 2-pt dunk from 1 ft (assist by B. Simmons),,28,20
+1,1:57.0,,K. Towns misses 2-pt hook shot from 5 ft,28,20
+1,1:55.0,Defensive rebound by B. Simmons,,28,20
+1,1:44.0,J. Redick makes 2-pt layup from 1 ft (assist by B. Simmons),,30,20
+1,1:32.0,,K. Towns misses 3-pt jump shot from 24 ft,30,20
+1,1:29.0,Defensive rebound by J. Ennis,,30,20
+1,1:21.0,J. Ennis misses 2-pt layup from 2 ft (block by A. Tolliver),,30,20
+1,1:20.0,Offensive rebound by J. Ennis,,30,20
+1,1:16.0,J. Bolden makes 3-pt jump shot from 25 ft (assist by J. Ennis),,33,20
+1,0:52.0,,J. Bayless misses 3-pt jump shot from 25 ft,33,20
+1,0:49.0,Defensive rebound by M. Scott,,33,20
+1,0:41.0,J. Ennis misses 3-pt jump shot from 23 ft,,33,20
+1,0:40.0,J. Bolden makes 2-pt dunk from 1 ft,,35,20
+1,0:40.0,Offensive rebound by J. Bolden,,35,20
+1,0:33.0,,J. Bayless misses 2-pt jump shot from 11 ft,35,20
+1,0:30.0,Defensive rebound by J. Ennis,,35,20
+1,0:23.0,M. Scott makes 3-pt jump shot from 23 ft (assist by B. Simmons),,38,20
+1,0:02.0,,Turnover by K. Towns (lost ball; steal by B. Simmons),38,20
+1,0:00.0,M. Scott misses 3-pt jump shot from 68 ft,,38,20
+1,0:00.0,Offensive rebound by Team,,38,20
+2,11:44.0,T. Harris makes 3-pt jump shot from 24 ft,,41,20
+2,11:29.0,,Personal foul by T. Harris (drawn by G. Dieng),41,20
+2,11:24.0,,G. Dieng makes 2-pt jump shot from 18 ft (assist by A. Wiggins),41,22
+2,11:13.0,Turnover by J. Redick (lost ball; steal by J. Bayless),,41,22
+2,11:08.0,,K. Bates-Diop makes 2-pt layup from 1 ft (assist by J. Bayless),41,24
+2,10:56.0,Turnover by B. Marjanović (bad pass),,41,24
+2,10:46.0,,A. Wiggins misses 2-pt jump shot from 15 ft,41,24
+2,10:44.0,Defensive rebound by J. Ennis,,41,24
+2,10:36.0,B. Marjanović makes 2-pt layup from 5 ft (assist by J. Redick),,43,24
+2,10:21.0,,G. Dieng makes 2-pt jump shot from 10 ft (assist by J. Bayless),43,26
+2,10:03.0,Shooting foul by J. Bayless (drawn by J. Redick),,43,26
+2,10:03.0,J. Redick makes free throw 1 of 2,,44,26
+2,10:03.0,J. Redick misses free throw 2 of 2,,44,26
+2,10:01.0,,Defensive rebound by G. Dieng,44,26
+2,9:49.0,,K. Bates-Diop makes 3-pt jump shot from 24 ft (assist by A. Wiggins),44,29
+2,9:37.0,B. Marjanović makes 2-pt jump shot from 17 ft (assist by B. Simmons),,46,29
+2,9:22.0,,Personal foul by T. Harris (drawn by G. Dieng),46,29
+2,9:14.0,,Shooting foul by J. Ennis (drawn by A. Wiggins),46,29
+2,9:14.0,,A. Wiggins makes free throw 1 of 2,46,30
+2,9:14.0,,A. Wiggins makes free throw 2 of 2,46,31
+2,8:58.0,Turnover by B. Simmons (bad pass; steal by J. Bayless),,46,31
+2,8:46.0,,G. Dieng misses 2-pt jump shot from 21 ft,46,31
+2,8:42.0,Defensive rebound by B. Simmons,,46,31
+2,8:39.0,J. Ennis makes 2-pt layup from 1 ft (assist by B. Simmons),,48,31
+2,8:36.0,,Shooting foul by B. Simmons (drawn by A. Wiggins),48,31
+2,8:36.0,,A. Wiggins makes free throw 1 of 2,48,32
+2,8:36.0,,A. Wiggins makes free throw 2 of 2,48,33
+2,8:19.0,B. Simmons makes 2-pt layup at rim (assist by T. Harris),,50,33
+2,8:08.0,,A. Wiggins makes 2-pt hook shot from 7 ft,50,35
+2,8:05.0,Philadelphia full timeout,,50,35
+2,8:05.0,J. Butler enters the game for J. Ennis,,50,35
+2,8:05.0,T. McConnell enters the game for J. Redick,,50,35
+2,8:05.0,M. Scott enters the game for B. Simmons,,50,35
+2,7:51.0,Personal foul by K. Bates-Diop (drawn by J. Butler),,50,35
+2,7:45.0,T. McConnell makes 3-pt jump shot from 23 ft (assist by M. Scott),,53,35
+2,7:26.0,,Turnover by A. Tolliver (bad pass),53,35
+2,7:19.0,J. Butler misses 3-pt jump shot from 23 ft,,53,35
+2,7:16.0,,Defensive rebound by A. Tolliver,53,35
+2,7:05.0,,G. Dieng makes 2-pt dunk from 1 ft (assist by J. Bayless),53,37
+2,6:52.0,Personal foul by G. Dieng (drawn by B. Marjanović),,53,37
+2,6:52.0,,T. Jones enters the game for J. Bayless,53,37
+2,6:52.0,,D. Šarić enters the game for A. Tolliver,53,37
+2,6:44.0,B. Marjanović misses 2-pt dunk from 1 ft,,53,37
+2,6:42.0,,Defensive rebound by A. Wiggins,53,37
+2,6:30.0,,G. Dieng makes 2-pt jump shot from 20 ft (assist by A. Wiggins),53,39
+2,6:12.0,T. Harris misses 3-pt jump shot from 25 ft,,53,39
+2,6:09.0,,Defensive rebound by G. Dieng,53,39
+2,5:56.0,,G. Dieng makes 3-pt jump shot from 22 ft (assist by A. Wiggins),53,42
+2,5:43.0,B. Marjanović makes 2-pt dunk from 1 ft (assist by T. McConnell),,55,42
+2,5:34.0,,T. Jones makes 2-pt jump shot from 11 ft,55,44
+2,5:15.0,T. Harris makes 2-pt layup from 1 ft (assist by J. Butler),,57,44
+2,4:57.0,,T. Jones misses 2-pt jump shot from 8 ft,57,44
+2,4:54.0,Defensive rebound by B. Marjanović,,57,44
+2,4:49.0,T. Harris misses 2-pt layup from 3 ft (block by A. Wiggins),,57,44
+2,4:41.0,Offensive rebound by J. Butler,,57,44
+2,4:41.0,J. Butler makes 2-pt dunk from 1 ft,,59,44
+2,4:41.0,,Minnesota full timeout,59,44
+2,4:41.0,J. Bolden enters the game for B. Marjanović,,59,44
+2,4:41.0,,J. Okogie enters the game for K. Bates-Diop,59,44
+2,4:41.0,,C. Reynolds enters the game for G. Dieng,59,44
+2,4:41.0,,K. Towns enters the game for A. Wiggins,59,44
+2,4:27.0,,C. Reynolds misses 3-pt jump shot from 25 ft,59,44
+2,4:23.0,Defensive rebound by M. Scott,,59,44
+2,4:12.0,J. Butler misses 2-pt jump shot from 20 ft,,59,44
+2,4:09.0,,Defensive rebound by C. Reynolds,59,44
+2,4:02.0,,K. Towns makes 2-pt layup from 1 ft (assist by T. Jones),59,46
+2,3:45.0,M. Scott misses 2-pt jump shot from 9 ft,,59,46
+2,3:43.0,Offensive rebound by J. Bolden,,59,46
+2,3:39.0,J. Butler misses 2-pt layup from 5 ft,,59,46
+2,3:36.0,,Defensive rebound by J. Okogie,59,46
+2,3:30.0,,Shooting foul by M. Scott (drawn by D. Šarić),59,46
+2,3:30.0,,D. Šarić makes free throw 1 of 2,59,47
+2,3:30.0,J. Redick enters the game for T. McConnell,,59,47
+2,3:30.0,B. Simmons enters the game for M. Scott,,59,47
+2,3:30.0,,D. Šarić makes free throw 2 of 2,59,48
+2,3:19.0,T. Harris makes 2-pt layup from 2 ft (assist by J. Bolden),,61,48
+2,3:02.0,,K. Towns misses 2-pt jump shot from 16 ft,61,48
+2,3:01.0,,Offensive rebound by Team,61,48
+2,3:01.0,Loose ball foul by J. Redick (drawn by C. Reynolds),,61,48
+2,3:01.0,,C. Reynolds makes free throw 1 of 2,61,49
+2,3:01.0,,C. Reynolds makes free throw 2 of 2,61,50
+2,2:48.0,J. Redick makes 2-pt jump shot from 22 ft (assist by J. Bolden),,63,50
+2,2:33.0,,J. Okogie misses 2-pt layup from 3 ft,63,50
+2,2:31.0,Defensive rebound by B. Simmons,,63,50
+2,2:28.0,J. Butler makes 2-pt layup from 1 ft (assist by B. Simmons),,65,50
+2,2:28.0,Shooting foul by D. Šarić (drawn by J. Butler),,65,50
+2,2:28.0,,A. Wiggins enters the game for C. Reynolds,65,50
+2,2:28.0,J. Butler makes free throw 1 of 1,,66,50
+2,2:11.0,,K. Towns makes 2-pt hook shot from 7 ft,66,52
+2,1:58.0,J. Bolden misses 2-pt layup from 4 ft (block by A. Wiggins),,66,52
+2,1:56.0,Offensive rebound by J. Bolden,,66,52
+2,1:55.0,J. Bolden makes 2-pt layup from 2 ft,,68,52
+2,1:36.0,,T. Jones misses 3-pt jump shot from 24 ft,68,52
+2,1:33.0,Defensive rebound by B. Simmons,,68,52
+2,1:16.0,J. Butler misses 2-pt jump shot from 22 ft,,68,52
+2,1:13.0,,Defensive rebound by D. Šarić,68,52
+2,1:07.0,,A. Wiggins misses 3-pt jump shot from 26 ft,68,52
+2,1:06.0,,Offensive rebound by A. Wiggins,68,52
+2,0:53.0,,Shooting foul by J. Butler (drawn by K. Towns),68,52
+2,0:53.0,,K. Towns makes free throw 1 of 2,68,53
+2,0:53.0,,K. Towns misses free throw 2 of 2,68,53
+2,0:51.0,Defensive rebound by J. Butler,,68,53
+2,0:32.0,J. Butler misses 2-pt layup from 2 ft,,68,53
+2,0:32.0,Offensive rebound by J. Butler,,68,53
+2,0:27.0,B. Simmons misses 2-pt layup from 1 ft,,68,53
+2,0:25.0,,Defensive rebound by A. Wiggins,68,53
+2,0:18.0,,K. Towns makes 2-pt dunk from 1 ft (assist by T. Jones),68,55
+2,0:00.0,J. Redick misses 3-pt jump shot from 24 ft,,68,55
+2,0:00.0,Offensive rebound by Team,,68,55
+3,11:50.0,B. Simmons makes 2-pt layup from 1 ft,,70,55
+3,11:31.0,,J. Okogie misses 3-pt jump shot from 24 ft,70,55
+3,11:29.0,Defensive rebound by J. Redick,,70,55
+3,11:21.0,B. Simmons makes 2-pt layup from 1 ft (assist by J. Redick),,72,55
+3,11:21.0,,Minnesota full timeout,72,55
+3,11:02.0,,T. Jones misses 2-pt jump shot from 17 ft,72,55
+3,10:58.0,Defensive rebound by B. Simmons,,72,55
+3,10:55.0,Personal foul by J. Okogie (drawn by B. Simmons),,72,55
+3,10:54.0,B. Simmons misses 2-pt layup from 2 ft,,72,55
+3,10:52.0,,Defensive rebound by K. Towns,72,55
+3,10:40.0,,J. Okogie misses 3-pt jump shot from 22 ft,72,55
+3,10:37.0,Defensive rebound by J. Butler,,72,55
+3,10:26.0,T. Harris misses 3-pt jump shot from 25 ft,,72,55
+3,10:23.0,,Defensive rebound by A. Wiggins,72,55
+3,10:19.0,,A. Wiggins makes 3-pt jump shot from 25 ft,72,58
+3,10:01.0,J. Bolden misses 3-pt jump shot from 25 ft,,72,58
+3,9:58.0,Offensive rebound by J. Butler,,72,58
+3,9:58.0,J. Butler misses 2-pt layup from 1 ft (block by K. Towns),,72,58
+3,9:58.0,Offensive rebound by Team,,72,58
+3,9:51.0,Offensive foul by J. Bolden (drawn by T. Jones),,72,58
+3,9:51.0,Turnover by J. Bolden (offensive foul),,72,58
+3,9:38.0,,Personal foul by J. Bolden (drawn by K. Towns),72,58
+3,9:25.0,,Shooting foul by B. Simmons (drawn by J. Okogie),72,58
+3,9:25.0,,J. Okogie misses free throw 1 of 2,72,58
+3,9:25.0,,Offensive rebound by Team,72,58
+3,9:25.0,,J. Okogie makes free throw 2 of 2,72,59
+3,9:11.0,J. Redick makes 2-pt jump shot from 16 ft (assist by J. Butler),,74,59
+3,8:48.0,,Turnover by A. Wiggins (lost ball; steal by J. Butler),74,59
+3,8:44.0,J. Butler misses 2-pt layup from 4 ft,,74,59
+3,8:44.0,Shooting foul by A. Wiggins (drawn by T. Harris),,74,59
+3,8:44.0,Offensive rebound by T. Harris,,74,59
+3,8:44.0,T. Harris misses free throw 1 of 2,,74,59
+3,8:44.0,Offensive rebound by Team,,74,59
+3,8:44.0,T. Harris makes free throw 2 of 2,,75,59
+3,8:29.0,,D. Šarić makes 2-pt layup from 2 ft,75,61
+3,8:13.0,J. Redick misses 3-pt jump shot from 25 ft,,75,61
+3,8:11.0,,Defensive rebound by J. Okogie,75,61
+3,8:03.0,,Turnover by D. Šarić (bad pass; steal by J. Butler),75,61
+3,7:58.0,T. Harris misses 3-pt jump shot from 23 ft,,75,61
+3,7:54.0,,Defensive rebound by J. Okogie,75,61
+3,7:41.0,,K. Towns misses 2-pt layup from 2 ft,75,61
+3,7:39.0,,Offensive rebound by K. Towns,75,61
+3,7:36.0,,K. Towns misses 2-pt jump shot from 19 ft,75,61
+3,7:34.0,Defensive rebound by B. Simmons,,75,61
+3,7:20.0,T. Harris misses 2-pt layup from 2 ft,,75,61
+3,7:18.0,Offensive rebound by J. Butler,,75,61
+3,7:16.0,J. Bolden makes 3-pt jump shot from 27 ft (assist by J. Butler),,78,61
+3,7:02.0,,Shooting foul by J. Redick (drawn by T. Jones),78,61
+3,7:02.0,,T. Jones makes free throw 1 of 2,78,62
+3,7:02.0,T. McConnell enters the game for J. Redick,,78,62
+3,7:02.0,M. Scott enters the game for B. Simmons,,78,62
+3,7:02.0,,K. Bates-Diop enters the game for J. Okogie,78,62
+3,7:02.0,,A. Tolliver enters the game for D. Šarić,78,62
+3,7:02.0,,T. Jones makes free throw 2 of 2,78,63
+3,6:47.0,J. Butler misses 2-pt jump shot from 19 ft,,78,63
+3,6:45.0,Offensive rebound by J. Butler,,78,63
+3,6:43.0,J. Butler makes 2-pt jump shot from 12 ft,,80,63
+3,6:21.0,,K. Towns makes 2-pt jump shot from 15 ft,80,65
+3,6:10.0,T. Harris misses 2-pt dunk from 3 ft (block by K. Bates-Diop),,80,65
+3,6:07.0,,Defensive rebound by K. Towns,80,65
+3,5:57.0,,Shooting foul by M. Scott (drawn by K. Towns),80,65
+3,5:57.0,,K. Towns makes free throw 1 of 2,80,66
+3,5:57.0,A. Johnson enters the game for J. Bolden,,80,66
+3,5:57.0,,J. Bayless enters the game for T. Jones,80,66
+3,5:57.0,,K. Towns makes free throw 2 of 2,80,67
+3,5:42.0,J. Butler misses 2-pt jump shot from 7 ft,,80,67
+3,5:38.0,,Defensive rebound by K. Towns,80,67
+3,5:32.0,,J. Bayless misses 2-pt layup from 2 ft,80,67
+3,5:30.0,Defensive rebound by A. Johnson,,80,67
+3,5:23.0,T. Harris makes 2-pt layup from 2 ft (assist by T. McConnell),,82,67
+3,5:07.0,,A. Tolliver makes 3-pt jump shot from 24 ft (assist by K. Bates-Diop),82,70
+3,4:39.0,M. Scott makes 2-pt layup from 2 ft (assist by T. McConnell),,84,70
+3,4:26.0,,A. Wiggins makes 2-pt jump shot from 19 ft,84,72
+3,4:02.0,T. McConnell misses 2-pt layup from 1 ft,,84,72
+3,4:02.0,,Defensive rebound by Team,84,72
+3,4:02.0,J. Ennis enters the game for T. Harris,,84,72
+3,4:02.0,,G. Dieng enters the game for K. Towns,84,72
+3,4:02.0,,C. Reynolds enters the game for A. Wiggins,84,72
+3,3:50.0,,J. Bayless misses 2-pt jump shot from 18 ft,84,72
+3,3:47.0,Defensive rebound by Team,,84,72
+3,3:32.0,M. Scott misses 2-pt layup from 3 ft,,84,72
+3,3:30.0,Offensive rebound by J. Butler,,84,72
+3,3:27.0,T. McConnell misses 2-pt jump shot from 13 ft,,84,72
+3,3:22.0,,Defensive rebound by A. Tolliver,84,72
+3,3:14.0,,J. Bayless makes 2-pt layup from 1 ft,84,74
+3,3:14.0,,Shooting foul by T. McConnell (drawn by J. Bayless),84,74
+3,3:14.0,J. Redick enters the game for J. Butler,,84,74
+3,3:14.0,B. Simmons enters the game for T. McConnell,,84,74
+3,3:14.0,,J. Bayless makes free throw 1 of 1,84,75
+3,2:55.0,M. Scott misses 2-pt jump shot from 10 ft,,84,75
+3,2:53.0,Offensive rebound by A. Johnson,,84,75
+3,2:51.0,J. Redick makes 3-pt jump shot from 24 ft (assist by A. Johnson),,87,75
+3,2:32.0,,K. Bates-Diop makes 3-pt jump shot from 25 ft (assist by J. Bayless),87,78
+3,2:31.0,Philadelphia full timeout,,87,78
+3,2:23.0,M. Scott misses 3-pt jump shot from 25 ft,,87,78
+3,2:18.0,,Defensive rebound by G. Dieng,87,78
+3,2:01.0,,Turnover by G. Dieng (out of bounds lost ball),87,78
+3,1:48.0,B. Simmons makes 2-pt jump shot from 7 ft (assist by J. Redick),,89,78
+3,1:29.0,,J. Bayless misses 2-pt jump shot from 7 ft,89,78
+3,1:27.0,Defensive rebound by B. Simmons,,89,78
+3,1:24.0,Shooting foul by C. Reynolds (drawn by B. Simmons),,89,78
+3,1:24.0,B. Simmons misses free throw 1 of 2,,89,78
+3,1:24.0,Offensive rebound by Team,,89,78
+3,1:24.0,B. Simmons makes free throw 2 of 2,,90,78
+3,1:02.0,,K. Bates-Diop misses 2-pt jump shot from 14 ft,90,78
+3,1:00.0,,C. Reynolds misses 2-pt layup from 1 ft,90,78
+3,1:00.0,,Offensive rebound by C. Reynolds,90,78
+3,0:58.0,Defensive rebound by A. Johnson,,90,78
+3,0:41.0,J. Ennis misses 3-pt jump shot from 24 ft,,90,78
+3,0:38.0,,Defensive rebound by A. Tolliver,90,78
+3,0:30.0,,A. Tolliver makes 3-pt jump shot from 25 ft (assist by C. Reynolds),90,81
+3,0:12.0,B. Simmons makes 2-pt jump shot from 11 ft,,92,81
+3,0:00.0,,Turnover by G. Dieng (bad pass),92,81
+3,0:00.0,B. Simmons misses 3-pt jump shot from 30 ft,,92,81
+3,0:00.0,Offensive rebound by Team,,92,81
+4,11:49.0,,Shooting foul by A. Johnson (drawn by A. Tolliver),92,81
+4,11:49.0,,A. Tolliver misses free throw 1 of 2,92,81
+4,11:49.0,,Offensive rebound by Team,92,81
+4,11:49.0,,A. Tolliver makes free throw 2 of 2,92,82
+4,11:35.0,Turnover by J. Redick (bad pass; steal by K. Bates-Diop),,92,82
+4,11:29.0,,A. Tolliver makes 3-pt jump shot from 26 ft (assist by J. Bayless),92,85
+4,11:09.0,Shooting foul by C. Reynolds (drawn by J. Redick),,92,85
+4,11:09.0,J. Redick makes free throw 1 of 2,,93,85
+4,11:09.0,J. Redick makes free throw 2 of 2,,94,85
+4,10:46.0,,G. Dieng makes 2-pt jump shot from 17 ft,94,87
+4,10:31.0,Shooting foul by K. Bates-Diop (drawn by B. Simmons),,94,87
+4,10:31.0,B. Simmons misses free throw 1 of 2,,94,87
+4,10:31.0,Offensive rebound by Team,,94,87
+4,10:31.0,B. Simmons makes free throw 2 of 2,,95,87
+4,10:18.0,,J. Bayless makes 2-pt jump shot from 18 ft,95,89
+4,10:04.0,A. Johnson makes 2-pt layup from 3 ft (assist by B. Simmons),,97,89
+4,9:51.0,,C. Reynolds makes 3-pt jump shot from 26 ft (assist by J. Bayless),97,92
+4,9:34.0,Shooting foul by K. Bates-Diop (drawn by J. Ennis),,97,92
+4,9:34.0,J. Ennis misses free throw 1 of 2,,97,92
+4,9:34.0,Offensive rebound by Team,,97,92
+4,9:34.0,J. Butler enters the game for J. Redick,,97,92
+4,9:34.0,T. Harris enters the game for M. Scott,,97,92
+4,9:34.0,J. Ennis misses free throw 2 of 2,,97,92
+4,9:32.0,,Defensive rebound by A. Tolliver,97,92
+4,9:18.0,,G. Dieng misses 2-pt jump shot from 13 ft,97,92
+4,9:14.0,,Offensive rebound by J. Bayless,97,92
+4,9:13.0,,J. Bayless misses 3-pt jump shot from 25 ft,97,92
+4,9:13.0,Defensive rebound by J. Butler,,97,92
+4,9:02.0,J. Butler misses 2-pt jump shot from 16 ft,,97,92
+4,8:56.0,,Defensive rebound by K. Bates-Diop,97,92
+4,8:56.0,J. Ennis misses 2-pt layup at rim,,97,92
+4,8:56.0,Offensive rebound by J. Ennis,,97,92
+4,8:46.0,,C. Reynolds makes 2-pt jump shot from 7 ft,97,94
+4,8:45.0,Philadelphia full timeout,,97,94
+4,8:45.0,J. Bolden enters the game for A. Johnson,,97,94
+4,8:45.0,,A. Wiggins enters the game for K. Bates-Diop,97,94
+4,8:30.0,T. Harris misses 3-pt jump shot from 23 ft,,97,94
+4,8:26.0,Offensive rebound by J. Bolden,,97,94
+4,8:25.0,J. Ennis makes 3-pt jump shot from 25 ft (assist by J. Bolden),,100,94
+4,8:01.0,,A. Wiggins misses 2-pt layup from 4 ft (block by B. Simmons),100,94
+4,7:58.0,Defensive rebound by J. Ennis,,100,94
+4,7:48.0,Turnover by B. Simmons (bad pass; steal by G. Dieng),,100,94
+4,7:45.0,,Turnover by G. Dieng (bad pass; steal by J. Bolden),100,94
+4,7:42.0,Shooting foul by A. Wiggins (drawn by B. Simmons),,100,94
+4,7:42.0,B. Simmons makes free throw 1 of 2,,101,94
+4,7:42.0,,K. Towns enters the game for G. Dieng,101,94
+4,7:42.0,B. Simmons makes free throw 2 of 2,,102,94
+4,7:29.0,,A. Wiggins makes 2-pt jump shot from 20 ft (assist by K. Towns),102,96
+4,7:01.0,Turnover by Team (shot clock),,102,96
+4,6:43.0,,K. Towns makes 2-pt hook shot from 5 ft,102,98
+4,6:24.0,J. Bolden makes 3-pt jump shot from 26 ft (assist by T. Harris),,105,98
+4,6:18.0,,Personal foul by J. Bolden (drawn by K. Towns),105,98
+4,6:18.0,,Minnesota full timeout,105,98
+4,6:18.0,J. Redick enters the game for J. Ennis,,105,98
+4,6:18.0,,D. Šarić enters the game for A. Tolliver,105,98
+4,6:11.0,,K. Towns makes 2-pt hook shot from 4 ft (assist by D. Šarić),105,100
+4,5:51.0,T. Harris misses 2-pt layup from 3 ft (block by C. Reynolds),,105,100
+4,5:50.0,,Defensive rebound by C. Reynolds,105,100
+4,5:35.0,,J. Bayless misses 2-pt layup from 1 ft,105,100
+4,5:35.0,,Offensive rebound by Team,105,100
+4,5:35.0,Loose ball foul by T. Harris (drawn by K. Towns),,105,100
+4,5:27.0,,K. Towns misses 3-pt jump shot from 25 ft,105,100
+4,5:24.0,Defensive rebound by J. Bolden,,105,100
+4,5:16.0,Turnover by B. Simmons (bad pass; steal by D. Šarić),,105,100
+4,5:10.0,,A. Wiggins makes 2-pt layup from 1 ft,105,102
+4,5:10.0,Philadelphia full timeout,,105,102
+4,4:47.0,T. Harris makes 2-pt jump shot from 8 ft,,107,102
+4,4:47.0,Shooting foul by K. Towns (drawn by T. Harris),,107,102
+4,4:47.0,,Technical foul by K. Towns,107,102
+4,4:47.0,J. Redick makes technical free throw,,108,102
+4,4:47.0,T. Harris makes free throw 1 of 1,,109,102
+4,4:30.0,,Shooting foul by J. Bolden (drawn by K. Towns),109,102
+4,4:30.0,,K. Towns misses free throw 1 of 2,109,102
+4,4:30.0,,Offensive rebound by Team,109,102
+4,4:30.0,,K. Towns makes free throw 2 of 2,109,103
+4,4:09.0,Turnover by J. Butler (traveling),,109,103
+4,3:55.0,,K. Towns makes 2-pt layup from 5 ft (assist by A. Wiggins),109,105
+4,3:28.0,J. Butler misses 2-pt jump shot from 17 ft,,109,105
+4,3:24.0,,Defensive rebound by J. Bayless,109,105
+4,3:13.0,,K. Towns misses 2-pt hook shot from 7 ft,109,105
+4,3:11.0,Defensive rebound by J. Butler,,109,105
+4,2:52.0,T. Harris makes 2-pt jump shot from 8 ft,,111,105
+4,2:32.0,,K. Towns misses 2-pt hook shot from 7 ft (block by J. Bolden),111,105
+4,2:32.0,,A. Tolliver enters the game for D. Šarić,111,105
+4,2:32.0,,Offensive rebound by Team,111,105
+4,2:25.0,,A. Wiggins misses 3-pt jump shot from 25 ft,111,105
+4,2:21.0,Defensive rebound by B. Simmons,,111,105
+4,2:06.0,J. Bolden makes 3-pt jump shot from 24 ft (assist by J. Redick),,114,105
+4,2:05.0,,Minnesota full timeout,114,105
+4,1:56.0,,C. Reynolds makes 3-pt jump shot from 25 ft (assist by J. Bayless),114,108
+4,1:34.0,Offensive foul by B. Simmons (drawn by K. Towns),,114,108
+4,1:34.0,Turnover by B. Simmons (offensive foul),,114,108
+4,1:23.0,,Shooting foul by J. Butler (drawn by K. Towns),114,108
+4,1:23.0,,K. Towns makes free throw 1 of 2,114,109
+4,1:23.0,,K. Towns misses free throw 2 of 2,114,109
+4,1:21.0,Defensive rebound by T. Harris,,114,109
+4,1:03.0,T. Harris misses 2-pt jump shot from 19 ft,,114,109
+4,1:00.0,,Defensive rebound by C. Reynolds,114,109
+4,0:52.0,,J. Bayless misses 2-pt layup from 2 ft,114,109
+4,0:50.0,Defensive rebound by T. Harris,,114,109
+4,0:44.0,Turnover by (8 sec),,114,109
+4,0:37.0,,A. Wiggins misses 2-pt jump shot from 19 ft,114,109
+4,0:37.0,Defensive rebound by T. Harris,,114,109
+4,0:27.0,Personal take foul by J. Bayless (drawn by J. Butler),,114,109
+4,0:27.0,J. Butler makes free throw 1 of 2,,115,109
+4,0:27.0,J. Butler makes free throw 2 of 2,,116,109
+4,0:27.0,J. Ennis enters the game for J. Redick,,116,109
+4,0:20.0,,J. Bayless misses 2-pt layup from 1 ft,116,109
+4,0:19.0,Defensive rebound by J. Ennis,,116,109
+4,0:16.0,Personal take foul by A. Tolliver (drawn by T. Harris),,116,109
+4,0:16.0,T. Harris makes free throw 1 of 2,,117,109
+4,0:16.0,T. Harris makes free throw 2 of 2,,118,109
+4,0:05.0,,A. Wiggins misses 3-pt jump shot from 25 ft,118,109
+4,0:02.0,Defensive rebound by B. Simmons,,118,109

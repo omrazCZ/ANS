@@ -1,0 +1,553 @@
+QUARTER,TIME_REMAINING,MINNESOTA_ACTION,ATLANTA_ACTION,MINNESOTA_SCORE,ATLANTA_SCORE
+1,11:48.0,A. Wiggins misses 2-pt jump shot from 20 ft,,0,0
+1,11:45.0,,Defensive rebound by D. Dedmon,0,0
+1,11:35.0,,K. Huerter misses 2-pt jump shot from 7 ft,0,0
+1,11:30.0,,Offensive rebound by D. Dedmon,0,0
+1,11:30.0,,D. Dedmon makes 2-pt layup from 1 ft,0,2
+1,11:19.0,A. Wiggins misses 2-pt jump shot from 3 ft,,0,2
+1,11:14.0,,Defensive rebound by K. Huerter,0,2
+1,11:08.0,,T. Prince misses 2-pt layup from 3 ft,0,2
+1,11:05.0,Defensive rebound by K. Towns,,0,2
+1,10:59.0,K. Towns makes 3-pt jump shot from 24 ft (assist by D. Šarić),,3,2
+1,10:43.0,,Shooting foul by D. Šarić (drawn by J. Collins),3,2
+1,10:43.0,,J. Collins makes free throw 1 of 2,3,3
+1,10:43.0,,J. Collins makes free throw 2 of 2,3,4
+1,10:31.0,Turnover by T. Jones (bad pass; steal by K. Huerter),,3,4
+1,10:27.0,,J. Collins makes 2-pt dunk at rim (assist by T. Young),3,6
+1,10:16.0,Personal foul by D. Dedmon (drawn by K. Towns),,3,6
+1,10:12.0,K. Towns misses 2-pt layup from 10 ft (block by D. Dedmon),,3,6
+1,10:12.0,,Defensive rebound by Team,3,6
+1,10:01.0,,K. Huerter makes 3-pt jump shot from 25 ft (assist by D. Dedmon),3,9
+1,9:50.0,D. Šarić misses 3-pt jump shot from 26 ft,,3,9
+1,9:46.0,,Defensive rebound by D. Dedmon,3,9
+1,9:41.0,,Turnover by T. Young (lost ball; steal by T. Jones),3,9
+1,9:36.0,J. Okogie makes 3-pt jump shot from 23 ft (assist by D. Šarić),,6,9
+1,9:20.0,,D. Dedmon makes 3-pt jump shot from 25 ft (assist by T. Young),6,12
+1,9:01.0,T. Jones makes 2-pt jump shot from 11 ft,,8,12
+1,8:47.0,,J. Collins misses 3-pt jump shot from 25 ft,8,12
+1,8:47.0,Defensive rebound by Team,,8,12
+1,8:47.0,,Loose ball foul by D. Dedmon (drawn by J. Okogie),8,12
+1,8:47.0,,A. Len enters the game for D. Dedmon,8,12
+1,8:38.0,J. Okogie misses 3-pt jump shot from 25 ft,,8,12
+1,8:35.0,,Defensive rebound by T. Young,8,12
+1,8:26.0,,T. Young makes 3-pt jump shot from 26 ft (assist by K. Huerter),8,15
+1,8:09.0,A. Wiggins makes 2-pt layup from 2 ft (assist by K. Towns),,10,15
+1,7:56.0,,T. Young makes 2-pt jump shot from 15 ft,10,17
+1,7:47.0,Turnover by T. Jones (bad pass),,10,17
+1,7:38.0,,T. Prince makes 2-pt layup from 2 ft,10,19
+1,7:28.0,Minnesota full timeout,,10,19
+1,7:21.0,D. Šarić misses 3-pt jump shot from 25 ft,,10,19
+1,7:18.0,,Defensive rebound by T. Young,10,19
+1,7:06.0,,T. Young misses 2-pt jump shot from 10 ft,10,19
+1,7:01.0,Defensive rebound by K. Towns,,10,19
+1,6:55.0,T. Jones makes 3-pt jump shot from 23 ft (assist by A. Wiggins),,13,19
+1,6:32.0,,T. Prince misses 3-pt jump shot from 25 ft,13,19
+1,6:28.0,Defensive rebound by K. Towns,,13,19
+1,6:23.0,A. Wiggins makes 3-pt jump shot from 26 ft (assist by T. Jones),,16,19
+1,6:04.0,,K. Huerter misses 3-pt jump shot from 25 ft,16,19
+1,6:02.0,Defensive rebound by D. Šarić,,16,19
+1,5:55.0,T. Jones misses 3-pt jump shot from 25 ft,,16,19
+1,5:52.0,,Defensive rebound by J. Collins,16,19
+1,5:40.0,,A. Len misses 3-pt jump shot from 23 ft,16,19
+1,5:36.0,Defensive rebound by J. Okogie,,16,19
+1,5:29.0,J. Okogie misses 2-pt layup from 1 ft,,16,19
+1,5:28.0,Offensive rebound by K. Towns,,16,19
+1,5:28.0,Shooting foul by J. Collins (drawn by K. Towns),,16,19
+1,5:28.0,K. Towns misses free throw 1 of 2,,16,19
+1,5:28.0,Offensive rebound by Team,,16,19
+1,5:28.0,D. Rose enters the game for J. Okogie,,16,19
+1,5:28.0,,K. Bazemore enters the game for J. Collins,16,19
+1,5:28.0,,D. Bembry enters the game for K. Huerter,16,19
+1,5:28.0,,O. Spellman enters the game for T. Prince,16,19
+1,5:28.0,K. Towns makes free throw 2 of 2,,17,19
+1,5:18.0,,D. Bembry misses 3-pt jump shot from 23 ft,17,19
+1,5:15.0,Defensive rebound by K. Towns,,17,19
+1,5:11.0,Turnover by D. Šarić (out of bounds lost ball),,17,19
+1,5:05.0,,Shooting foul by T. Jones (drawn by T. Young),17,19
+1,5:05.0,,T. Young makes free throw 1 of 2,17,20
+1,5:05.0,,T. Young makes free throw 2 of 2,17,21
+1,4:54.0,D. Rose makes 2-pt jump shot from 13 ft,,19,21
+1,4:40.0,,K. Bazemore misses 2-pt jump shot from 9 ft,19,21
+1,4:35.0,Defensive rebound by D. Rose,,19,21
+1,4:33.0,T. Jones makes 2-pt layup from 1 ft (assist by D. Rose),,21,21
+1,4:19.0,,K. Bazemore misses 2-pt layup from 5 ft,21,21
+1,4:16.0,Defensive rebound by K. Towns,,21,21
+1,4:14.0,K. Towns makes 2-pt layup from 1 ft,,23,21
+1,4:14.0,Shooting foul by A. Len (drawn by K. Towns),,23,21
+1,4:14.0,A. Tolliver enters the game for D. Šarić,,23,21
+1,4:14.0,,J. Sibert enters the game for T. Young,23,21
+1,4:14.0,K. Towns misses free throw 1 of 1,,23,21
+1,4:12.0,,Defensive rebound by D. Bembry,23,21
+1,3:59.0,,K. Bazemore misses 2-pt layup from 4 ft,23,21
+1,3:54.0,,Offensive rebound by O. Spellman,23,21
+1,3:53.0,,O. Spellman misses 2-pt layup from 1 ft,23,21
+1,3:51.0,,Offensive rebound by O. Spellman,23,21
+1,3:51.0,,O. Spellman makes 2-pt layup from 1 ft,23,23
+1,3:44.0,K. Towns makes 3-pt jump shot from 26 ft (assist by T. Jones),,26,23
+1,3:25.0,,K. Bazemore misses 3-pt jump shot from 23 ft,26,23
+1,3:23.0,,Offensive rebound by O. Spellman,26,23
+1,3:21.0,,J. Sibert makes 3-pt jump shot from 25 ft (assist by O. Spellman),26,26
+1,3:12.0,A. Tolliver makes 3-pt jump shot from 27 ft (assist by T. Jones),,29,26
+1,2:58.0,,D. Bembry makes 2-pt layup from 2 ft (assist by K. Bazemore),29,28
+1,2:40.0,A. Wiggins makes 3-pt jump shot from 23 ft (assist by D. Rose),,32,28
+1,2:25.0,,Turnover by O. Spellman (step out of bounds),32,28
+1,2:25.0,,Atlanta full timeout,32,28
+1,2:25.0,J. Bayless enters the game for T. Jones,,32,28
+1,2:25.0,L. Deng enters the game for A. Wiggins,,32,28
+1,2:25.0,,J. Collins enters the game for A. Len,32,28
+1,2:14.0,K. Towns makes 2-pt jump shot from 2 ft,,34,28
+1,1:53.0,Violation by Team (kicked ball),,34,28
+1,1:53.0,T. Gibson enters the game for K. Towns,,34,28
+1,1:46.0,,Personal foul by L. Deng (drawn by K. Bazemore),34,28
+1,1:38.0,,J. Collins makes 2-pt layup from 8 ft (assist by K. Bazemore),34,30
+1,1:38.0,,Shooting foul by J. Bayless (drawn by J. Collins),34,30
+1,1:38.0,,J. Collins makes free throw 1 of 1,34,31
+1,1:29.0,D. Rose makes 2-pt jump shot from 18 ft (assist by T. Gibson),,36,31
+1,1:12.0,,D. Bembry misses 2-pt layup from 1 ft,36,31
+1,1:09.0,Defensive rebound by D. Rose,,36,31
+1,0:58.0,D. Rose makes 2-pt jump shot from 21 ft (assist by T. Gibson),,38,31
+1,0:42.0,,K. Bazemore misses 2-pt jump shot from 9 ft,38,31
+1,0:38.0,Defensive rebound by A. Tolliver,,38,31
+1,0:33.0,A. Tolliver misses 3-pt jump shot from 25 ft,,38,31
+1,0:29.0,,Defensive rebound by K. Bazemore,38,31
+1,0:14.0,,J. Collins makes 2-pt layup from 1 ft (assist by K. Bazemore),38,33
+1,0:01.0,D. Rose makes 2-pt jump shot from 21 ft,,40,33
+1,0:01.0,,Turnover by J. Collins (bad pass; steal by L. Deng),40,33
+1,0:00.0,L. Deng misses 3-pt jump shot from 25 ft,,40,33
+1,0:00.0,Offensive rebound by Team,,40,33
+2,11:47.0,,J. Collins misses 2-pt jump shot from 4 ft (block by T. Gibson),40,33
+2,11:43.0,Defensive rebound by A. Tolliver,,40,33
+2,11:27.0,T. Gibson makes 2-pt layup from 1 ft (assist by D. Rose),,42,33
+2,11:09.0,,J. Collins makes 2-pt hook shot from 13 ft (assist by V. Carter),42,35
+2,10:54.0,J. Bayless misses 3-pt jump shot from 23 ft,,42,35
+2,10:52.0,,Defensive rebound by K. Huerter,42,35
+2,10:46.0,,K. Huerter misses 2-pt layup from 2 ft (block by T. Gibson),42,35
+2,10:46.0,,Offensive rebound by Team,42,35
+2,10:43.0,,J. Collins misses 2-pt layup from 1 ft,42,35
+2,10:40.0,Defensive rebound by T. Gibson,,42,35
+2,10:32.0,D. Rose misses 2-pt jump shot from 12 ft,,42,35
+2,10:29.0,,Defensive rebound by K. Huerter,42,35
+2,10:10.0,,K. Huerter makes 3-pt jump shot from 25 ft (assist by T. Prince),42,38
+2,9:53.0,Shooting foul by T. Prince (drawn by T. Gibson),,42,38
+2,9:53.0,T. Gibson misses free throw 1 of 2,,42,38
+2,9:53.0,Offensive rebound by Team,,42,38
+2,9:53.0,,D. Dedmon enters the game for J. Collins,42,38
+2,9:53.0,T. Gibson makes free throw 2 of 2,,43,38
+2,9:40.0,,T. Young makes 2-pt layup from 2 ft,43,40
+2,9:25.0,J. Bayless makes 2-pt jump shot from 22 ft (assist by D. Rose),,45,40
+2,9:09.0,,V. Carter makes 3-pt jump shot from 26 ft (assist by T. Young),45,43
+2,8:56.0,T. Gibson makes 2-pt jump shot from 16 ft (assist by J. Bayless),,47,43
+2,8:44.0,,T. Young misses 3-pt jump shot from 30 ft,47,43
+2,8:41.0,Defensive rebound by T. Gibson,,47,43
+2,8:34.0,D. Rose misses 2-pt jump shot from 12 ft,,47,43
+2,8:30.0,,Defensive rebound by D. Dedmon,47,43
+2,8:27.0,,K. Huerter misses 3-pt jump shot from 28 ft,47,43
+2,8:23.0,Defensive rebound by T. Gibson,,47,43
+2,8:07.0,J. Bayless makes 2-pt jump shot from 21 ft,,49,43
+2,7:48.0,,Turnover by K. Huerter (bad pass),49,43
+2,7:38.0,D. Rose misses 2-pt jump shot from 6 ft,,49,43
+2,7:34.0,,Defensive rebound by T. Young,49,43
+2,7:31.0,,Shooting foul by J. Bayless (drawn by T. Young),49,43
+2,7:31.0,,T. Young makes free throw 1 of 2,49,44
+2,7:31.0,K. Towns enters the game for T. Gibson,,49,44
+2,7:31.0,,T. Young makes free throw 2 of 2,49,45
+2,7:23.0,J. Bayless misses 3-pt jump shot from 26 ft,,49,45
+2,7:20.0,,Defensive rebound by T. Prince,49,45
+2,7:05.0,,T. Young makes 2-pt layup from 1 ft,49,47
+2,6:42.0,J. Bayless misses 3-pt jump shot from 25 ft,,49,47
+2,6:40.0,Offensive rebound by L. Deng,,49,47
+2,6:39.0,J. Bayless misses 3-pt jump shot from 25 ft,,49,47
+2,6:35.0,,Defensive rebound by D. Dedmon,49,47
+2,6:24.0,,Shooting foul by D. Rose (drawn by T. Young),49,47
+2,6:24.0,Minnesota full timeout,,49,47
+2,6:24.0,T. Jones enters the game for J. Bayless,,49,47
+2,6:24.0,J. Okogie enters the game for L. Deng,,49,47
+2,6:24.0,D. Šarić enters the game for D. Rose,,49,47
+2,6:24.0,A. Wiggins enters the game for A. Tolliver,,49,47
+2,6:24.0,,O. Spellman enters the game for V. Carter,49,47
+2,6:24.0,,T. Young makes free throw 1 of 2,49,48
+2,6:24.0,,T. Young makes free throw 2 of 2,49,49
+2,6:11.0,D. Šarić misses 3-pt jump shot from 25 ft,,49,49
+2,6:08.0,,Defensive rebound by D. Dedmon,49,49
+2,5:54.0,,T. Prince misses 2-pt layup from 10 ft,49,49
+2,5:51.0,Defensive rebound by J. Okogie,,49,49
+2,5:41.0,Shooting foul by D. Dedmon (drawn by K. Towns),,49,49
+2,5:41.0,K. Towns makes free throw 1 of 3,,50,49
+2,5:41.0,K. Towns misses free throw 2 of 3,,50,49
+2,5:41.0,Offensive rebound by Team,,50,49
+2,5:41.0,,D. Bembry enters the game for D. Dedmon,50,49
+2,5:41.0,,A. Len enters the game for K. Huerter,50,49
+2,5:41.0,K. Towns makes free throw 3 of 3,,51,49
+2,5:30.0,,T. Prince misses 2-pt jump shot from 12 ft,51,49
+2,5:26.0,,Offensive rebound by A. Len,51,49
+2,5:26.0,,A. Len misses 2-pt layup from 1 ft,51,49
+2,5:25.0,,Offensive rebound by O. Spellman,51,49
+2,5:24.0,,T. Prince misses 3-pt jump shot from 25 ft,51,49
+2,5:22.0,Defensive rebound by K. Towns,,51,49
+2,5:17.0,K. Towns misses 3-pt jump shot from 25 ft,,51,49
+2,5:14.0,,Defensive rebound by O. Spellman,51,49
+2,5:04.0,,O. Spellman makes 2-pt layup from 1 ft (assist by T. Young),51,51
+2,4:52.0,D. Šarić misses 3-pt jump shot from 26 ft,,51,51
+2,4:49.0,Offensive rebound by K. Towns,,51,51
+2,4:45.0,K. Towns makes 2-pt layup from 1 ft,,53,51
+2,4:32.0,,T. Young makes 3-pt jump shot from 27 ft,53,54
+2,4:20.0,A. Wiggins misses 3-pt jump shot from 26 ft,,53,54
+2,4:17.0,,Defensive rebound by D. Bembry,53,54
+2,4:10.0,,T. Young makes 2-pt layup from 1 ft (assist by O. Spellman),53,56
+2,3:59.0,J. Okogie misses 3-pt jump shot from 23 ft,,53,56
+2,3:55.0,,Defensive rebound by T. Prince,53,56
+2,3:42.0,,Shooting foul by A. Wiggins (drawn by A. Len),53,56
+2,3:42.0,,A. Len misses free throw 1 of 2,53,56
+2,3:42.0,,Offensive rebound by Team,53,56
+2,3:42.0,,J. Adams enters the game for T. Prince,53,56
+2,3:42.0,,K. Bazemore enters the game for T. Young,53,56
+2,3:42.0,,A. Len makes free throw 2 of 2,53,57
+2,3:27.0,Shooting foul by A. Len (drawn by K. Towns),,53,57
+2,3:27.0,Offensive rebound by Team,,53,57
+2,3:27.0,K. Towns misses free throw 1 of 2,,53,57
+2,3:27.0,K. Towns makes free throw 2 of 2,,54,57
+2,3:14.0,,Turnover by O. Spellman (bad pass; steal by T. Jones),54,57
+2,3:10.0,J. Okogie makes 2-pt dunk from 1 ft (assist by K. Towns),,56,57
+2,2:54.0,,Turnover by D. Bembry (bad pass; steal by J. Okogie),56,57
+2,2:53.0,Shooting foul by K. Bazemore (drawn by J. Okogie),,56,57
+2,2:53.0,,Atlanta full timeout,56,57
+2,2:53.0,,J. Collins enters the game for A. Len,56,57
+2,2:53.0,J. Okogie makes free throw 1 of 2,,57,57
+2,2:53.0,J. Okogie makes free throw 2 of 2,,58,57
+2,2:39.0,,Turnover by J. Collins (bad pass; steal by D. Šarić),58,57
+2,2:38.0,Clear path foul by O. Spellman,,58,57
+2,2:38.0,D. Šarić makes clear path free throw 1 of 2,,59,57
+2,2:38.0,D. Šarić makes clear path free throw 2 of 2,,60,57
+2,2:38.0,D. Rose enters the game for J. Okogie,,60,57
+2,2:29.0,K. Towns misses 3-pt jump shot from 26 ft,,60,57
+2,2:27.0,,Defensive rebound by J. Collins,60,57
+2,2:14.0,,D. Bembry misses 2-pt jump shot from 9 ft (block by K. Towns),60,57
+2,2:11.0,,Offensive rebound by D. Bembry,60,57
+2,2:10.0,,D. Bembry misses 2-pt jump shot from 1 ft,60,57
+2,2:08.0,Defensive rebound by D. Rose,,60,57
+2,2:05.0,D. Šarić misses 2-pt layup from 2 ft,,60,57
+2,2:02.0,Offensive rebound by D. Rose,,60,57
+2,2:00.0,D. Rose makes 2-pt layup from 1 ft,,62,57
+2,1:49.0,,J. Adams misses 2-pt jump shot from 12 ft,62,57
+2,1:49.0,Defensive rebound by D. Šarić,,62,57
+2,1:43.0,A. Wiggins makes 2-pt layup from 1 ft (assist by D. Šarić),,64,57
+2,1:42.0,,Atlanta full timeout,64,57
+2,1:42.0,,V. Carter enters the game for J. Adams,64,57
+2,1:42.0,,T. Young enters the game for O. Spellman,64,57
+2,1:32.0,,V. Carter makes 3-pt jump shot from 24 ft (assist by T. Young),64,60
+2,1:15.0,A. Wiggins makes 2-pt dunk from 1 ft (assist by K. Towns),,66,60
+2,0:58.0,,K. Bazemore misses 2-pt jump shot from 6 ft,66,60
+2,0:55.0,,Offensive rebound by K. Bazemore,66,60
+2,0:50.0,,J. Collins misses 2-pt jump shot from 11 ft,66,60
+2,0:46.0,,Offensive rebound by D. Bembry,66,60
+2,0:46.0,,Turnover by D. Bembry (lost ball; steal by D. Šarić),66,60
+2,0:40.0,D. Rose makes 2-pt layup from 1 ft (assist by T. Jones),,68,60
+2,0:32.0,,T. Young misses 2-pt jump shot from 13 ft,68,60
+2,0:26.0,Defensive rebound by T. Jones,,68,60
+2,0:04.0,D. Šarić misses 2-pt jump shot from 17 ft,,68,60
+2,0:04.0,Offensive rebound by Team,,68,60
+2,0:04.0,Turnover by Team (shot clock),,68,60
+3,11:43.0,,J. Collins misses 2-pt layup from 1 ft,68,60
+3,11:42.0,Defensive rebound by Team,,68,60
+3,11:22.0,K. Towns misses 3-pt jump shot from 23 ft,,68,60
+3,11:21.0,Offensive rebound by D. Šarić,,68,60
+3,11:21.0,Shooting foul by J. Collins (drawn by D. Šarić),,68,60
+3,11:21.0,D. Šarić makes free throw 1 of 2,,69,60
+3,11:21.0,D. Šarić makes free throw 2 of 2,,70,60
+3,11:11.0,,J. Collins misses 3-pt jump shot from 26 ft,70,60
+3,11:07.0,,Offensive rebound by Team,70,60
+3,10:54.0,,J. Collins misses 2-pt layup from 5 ft,70,60
+3,10:54.0,,Offensive rebound by K. Huerter,70,60
+3,10:54.0,,D. Dedmon misses 2-pt layup from 3 ft,70,60
+3,10:54.0,,Offensive rebound by D. Dedmon,70,60
+3,10:49.0,,K. Huerter misses 3-pt jump shot from 26 ft,70,60
+3,10:44.0,Defensive rebound by T. Jones,,70,60
+3,10:38.0,J. Okogie makes 2-pt layup from 1 ft (assist by D. Šarić),,72,60
+3,10:27.0,,T. Young misses 2-pt jump shot from 9 ft,72,60
+3,10:27.0,,Offensive rebound by J. Collins,72,60
+3,10:27.0,,Shooting foul by T. Jones (drawn by J. Collins),72,60
+3,10:27.0,,J. Collins makes free throw 1 of 2,72,61
+3,10:27.0,,J. Collins makes free throw 2 of 2,72,62
+3,10:17.0,T. Jones misses 2-pt jump shot from 9 ft,,72,62
+3,10:11.0,,Defensive rebound by D. Dedmon,72,62
+3,10:07.0,,T. Young makes 2-pt layup from 1 ft,72,64
+3,10:07.0,,Shooting foul by J. Okogie (drawn by T. Young),72,64
+3,10:07.0,,T. Young makes free throw 1 of 1,72,65
+3,9:52.0,D. Šarić makes 2-pt layup from 9 ft,,74,65
+3,9:34.0,,D. Dedmon makes 2-pt dunk from 1 ft (assist by T. Prince),74,67
+3,9:16.0,K. Towns makes 3-pt jump shot from 26 ft (assist by T. Jones),,77,67
+3,9:00.0,,Shooting foul by K. Towns (drawn by D. Dedmon),77,67
+3,9:00.0,,D. Dedmon misses free throw 1 of 2,77,67
+3,9:00.0,,Offensive rebound by Team,77,67
+3,9:00.0,,D. Dedmon misses free throw 2 of 2,77,67
+3,8:55.0,Defensive rebound by A. Wiggins,,77,67
+3,8:33.0,K. Towns makes 2-pt jump shot from 7 ft,,79,67
+3,8:23.0,,Shooting foul by J. Okogie (drawn by T. Young),79,67
+3,8:23.0,,T. Young makes free throw 1 of 2,79,68
+3,8:23.0,,T. Young makes free throw 2 of 2,79,69
+3,8:07.0,A. Wiggins misses 2-pt jump shot from 16 ft,,79,69
+3,8:04.0,,Defensive rebound by J. Collins,79,69
+3,7:52.0,,K. Huerter misses 2-pt layup from 4 ft,79,69
+3,7:49.0,Defensive rebound by A. Wiggins,,79,69
+3,7:40.0,A. Wiggins misses 2-pt jump shot from 8 ft,,79,69
+3,7:39.0,,Defensive rebound by Team,79,69
+3,7:39.0,,Atlanta full timeout,79,69
+3,7:26.0,,T. Prince misses 2-pt jump shot from 17 ft,79,69
+3,7:26.0,Defensive rebound by Team,,79,69
+3,7:26.0,,Loose ball foul by J. Collins (drawn by J. Okogie),79,69
+3,7:17.0,Shooting foul by K. Huerter (drawn by J. Okogie),,79,69
+3,7:17.0,J. Okogie misses free throw 1 of 2,,79,69
+3,7:17.0,Offensive rebound by Team,,79,69
+3,7:17.0,J. Okogie makes free throw 2 of 2,,80,69
+3,7:04.0,,J. Collins makes 3-pt jump shot from 25 ft (assist by T. Young),80,72
+3,6:45.0,A. Wiggins misses 3-pt jump shot from 25 ft,,80,72
+3,6:42.0,Offensive rebound by K. Towns,,80,72
+3,6:34.0,D. Šarić misses 2-pt jump shot from 16 ft,,80,72
+3,6:30.0,,Defensive rebound by D. Dedmon,80,72
+3,6:25.0,,Personal foul by J. Okogie (drawn by T. Young),80,72
+3,6:25.0,,T. Young makes free throw 1 of 2,80,73
+3,6:25.0,D. Rose enters the game for T. Jones,,80,73
+3,6:25.0,,D. Bembry enters the game for K. Huerter,80,73
+3,6:25.0,,V. Carter enters the game for T. Prince,80,73
+3,6:25.0,,Violation by Team (delay of game),80,73
+3,6:25.0,,T. Young makes free throw 2 of 2,80,74
+3,6:16.0,Personal foul by D. Dedmon (drawn by K. Towns),,80,74
+3,6:07.0,J. Okogie makes 3-pt jump shot from 26 ft (assist by D. Rose),,83,74
+3,5:49.0,,Turnover by V. Carter (bad pass),83,74
+3,5:34.0,K. Towns misses 2-pt hook shot from 8 ft,,83,74
+3,5:34.0,,Defensive rebound by Team,83,74
+3,5:34.0,,O. Spellman enters the game for D. Dedmon,83,74
+3,5:21.0,,T. Young misses 2-pt layup from 1 ft,83,74
+3,5:18.0,Defensive rebound by D. Šarić,,83,74
+3,5:13.0,D. Šarić misses 2-pt layup from 1 ft (block by D. Bembry),,83,74
+3,5:10.0,,Defensive rebound by V. Carter,83,74
+3,5:05.0,,Turnover by J. Collins (lost ball; steal by A. Wiggins),83,74
+3,5:00.0,Personal foul by V. Carter (drawn by J. Okogie),,83,74
+3,5:00.0,J. Okogie makes free throw 1 of 2,,84,74
+3,5:00.0,A. Tolliver enters the game for D. Šarić,,84,74
+3,5:00.0,,K. Bazemore enters the game for J. Collins,84,74
+3,5:00.0,J. Okogie makes free throw 2 of 2,,85,74
+3,4:44.0,,V. Carter makes 2-pt layup from 3 ft (assist by T. Young),85,76
+3,4:44.0,,Shooting foul by K. Towns (drawn by V. Carter),85,76
+3,4:44.0,,V. Carter makes free throw 1 of 1,85,77
+3,4:30.0,Turnover by A. Tolliver (bad pass),,85,77
+3,4:30.0,Minnesota full timeout,,85,77
+3,4:13.0,,V. Carter misses 3-pt jump shot from 22 ft,85,77
+3,4:10.0,Defensive rebound by K. Towns,,85,77
+3,3:55.0,A. Wiggins makes 2-pt layup from 1 ft,,87,77
+3,3:43.0,,T. Young misses 2-pt jump shot from 15 ft,87,77
+3,3:41.0,Defensive rebound by K. Towns,,87,77
+3,3:32.0,A. Tolliver misses 3-pt jump shot from 23 ft,,87,77
+3,3:30.0,Offensive rebound by K. Towns,,87,77
+3,3:29.0,Shooting foul by D. Bembry (drawn by K. Towns),,87,77
+3,3:29.0,K. Towns makes free throw 1 of 2,,88,77
+3,3:29.0,J. Bayless enters the game for J. Okogie,,88,77
+3,3:29.0,,J. Adams enters the game for T. Young,88,77
+3,3:29.0,K. Towns makes free throw 2 of 2,,89,77
+3,3:06.0,,K. Bazemore misses 2-pt jump shot from 19 ft,89,77
+3,3:03.0,Defensive rebound by A. Wiggins,,89,77
+3,2:53.0,A. Wiggins misses 2-pt layup from 1 ft (block by O. Spellman),,89,77
+3,2:48.0,,Defensive rebound by D. Bembry,89,77
+3,2:46.0,,D. Bembry makes 2-pt layup from 1 ft,89,79
+3,2:29.0,A. Wiggins makes 2-pt dunk from 1 ft (assist by A. Tolliver),,91,79
+3,2:11.0,,V. Carter makes 2-pt dunk at rim (assist by O. Spellman),91,81
+3,1:56.0,D. Rose misses 2-pt jump shot from 17 ft,,91,81
+3,1:52.0,,Defensive rebound by K. Bazemore,91,81
+3,1:43.0,,K. Bazemore misses 2-pt layup from 2 ft,91,81
+3,1:38.0,,Offensive rebound by K. Bazemore,91,81
+3,1:38.0,,K. Bazemore misses 2-pt layup at rim,91,81
+3,1:37.0,Defensive rebound by A. Tolliver,,91,81
+3,1:34.0,Shooting foul by K. Bazemore (drawn by D. Rose),,91,81
+3,1:34.0,Offensive rebound by Team,,91,81
+3,1:34.0,D. Rose misses free throw 1 of 2,,91,81
+3,1:34.0,T. Gibson enters the game for K. Towns,,91,81
+3,1:34.0,D. Rose makes free throw 2 of 2,,92,81
+3,1:25.0,,V. Carter misses 3-pt jump shot from 26 ft,92,81
+3,1:22.0,Defensive rebound by D. Rose,,92,81
+3,1:19.0,Shooting foul by V. Carter (drawn by D. Rose),,92,81
+3,1:19.0,D. Rose makes free throw 1 of 2,,93,81
+3,1:19.0,D. Rose makes free throw 2 of 2,,94,81
+3,1:07.0,,K. Bazemore misses 2-pt jump shot from 7 ft,94,81
+3,1:03.0,,Offensive rebound by O. Spellman,94,81
+3,1:03.0,,O. Spellman makes 2-pt layup at rim,94,83
+3,1:03.0,,Technical foul by K. Bazemore,94,83
+3,1:03.0,D. Rose makes technical free throw,,95,83
+3,1:03.0,K. Bates-Diop enters the game for A. Wiggins,,95,83
+3,0:48.0,D. Rose misses 2-pt jump shot from 14 ft (block by D. Bembry),,95,83
+3,0:45.0,,Defensive rebound by J. Adams,95,83
+3,0:43.0,,K. Bazemore misses 3-pt jump shot from 23 ft,95,83
+3,0:40.0,,Offensive rebound by D. Bembry,95,83
+3,0:37.0,,K. Bazemore misses 2-pt layup from 2 ft,95,83
+3,0:37.0,Defensive rebound by A. Tolliver,,95,83
+3,0:19.0,D. Rose misses 2-pt jump shot from 19 ft,,95,83
+3,0:15.0,,Defensive rebound by K. Bazemore,95,83
+3,0:00.0,,D. Bembry makes 3-pt jump shot from 25 ft (assist by K. Bazemore),95,86
+4,11:46.0,A. Tolliver misses 2-pt jump shot from 4 ft,,95,86
+4,11:43.0,,Defensive rebound by D. Bembry,95,86
+4,11:40.0,,J. Collins makes 2-pt dunk from 1 ft (assist by D. Bembry),95,88
+4,11:23.0,Personal foul by J. Collins (drawn by J. Bayless),,95,88
+4,11:13.0,T. Jones misses 2-pt jump shot from 13 ft,,95,88
+4,11:10.0,Offensive rebound by T. Gibson,,95,88
+4,11:08.0,T. Gibson makes 2-pt layup from 1 ft,,97,88
+4,10:56.0,,J. Collins makes 2-pt layup from 1 ft (assist by K. Huerter),97,90
+4,10:39.0,A. Tolliver makes 3-pt jump shot from 25 ft (assist by T. Jones),,100,90
+4,10:22.0,,Personal foul by J. Bayless (drawn by J. Collins),100,90
+4,10:13.0,,D. Dedmon misses 2-pt layup from 1 ft (block by K. Bates-Diop),100,90
+4,10:13.0,,Offensive rebound by Team,100,90
+4,10:07.0,,T. Young makes 2-pt layup from 1 ft (assist by D. Dedmon),100,92
+4,9:50.0,T. Gibson makes 2-pt layup from 2 ft (assist by T. Jones),,102,92
+4,9:50.0,Shooting foul by D. Dedmon (drawn by T. Gibson),,102,92
+4,9:50.0,,V. Carter enters the game for D. Dedmon,102,92
+4,9:50.0,T. Gibson misses free throw 1 of 1,,102,92
+4,9:48.0,,Defensive rebound by J. Collins,102,92
+4,9:38.0,,V. Carter makes 2-pt layup from 1 ft,102,94
+4,9:17.0,T. Jones misses 2-pt jump shot from 15 ft,,102,94
+4,9:13.0,,Defensive rebound by K. Huerter,102,94
+4,9:10.0,,Personal foul by T. Jones (drawn by T. Young),102,94
+4,9:10.0,J. Okogie enters the game for J. Bayless,,102,94
+4,9:07.0,,J. Collins makes 3-pt jump shot from 25 ft (assist by V. Carter),102,97
+4,8:49.0,Turnover by T. Gibson (out of bounds lost ball),,102,97
+4,8:49.0,A. Wiggins enters the game for K. Bates-Diop,,102,97
+4,8:32.0,,J. Collins makes 2-pt dunk at rim (assist by T. Young),102,99
+4,8:30.0,Minnesota full timeout,,102,99
+4,8:30.0,D. Šarić enters the game for T. Gibson,,102,99
+4,8:30.0,K. Towns enters the game for A. Tolliver,,102,99
+4,8:14.0,D. Šarić misses 3-pt jump shot from 26 ft,,102,99
+4,8:05.0,,Defensive rebound by T. Young,102,99
+4,8:02.0,,T. Young misses 3-pt jump shot from 27 ft,102,99
+4,8:01.0,Defensive rebound by Team,,102,99
+4,7:43.0,J. Okogie misses 3-pt jump shot from 23 ft,,102,99
+4,7:38.0,,Defensive rebound by D. Bembry,102,99
+4,7:28.0,,D. Bembry misses 2-pt layup from 2 ft,102,99
+4,7:26.0,,Offensive rebound by D. Bembry,102,99
+4,7:26.0,,D. Bembry makes 2-pt layup from 3 ft,102,101
+4,7:26.0,,Shooting foul by K. Towns (drawn by D. Bembry),102,101
+4,7:26.0,,D. Bembry makes free throw 1 of 1,102,102
+4,7:06.0,Personal foul by D. Bembry (drawn by A. Wiggins),,102,102
+4,6:59.0,K. Towns makes 3-pt jump shot from 25 ft (assist by T. Jones),,105,102
+4,6:41.0,,Shooting foul by K. Towns (drawn by T. Young),105,102
+4,6:41.0,,T. Young makes free throw 1 of 2,105,103
+4,6:41.0,,O. Spellman enters the game for J. Collins,105,103
+4,6:41.0,,T. Young makes free throw 2 of 2,105,104
+4,6:24.0,Shooting foul by D. Bembry (drawn by A. Wiggins),,105,104
+4,6:24.0,A. Wiggins makes free throw 1 of 2,,106,104
+4,6:24.0,D. Rose enters the game for D. Šarić,,106,104
+4,6:24.0,,T. Prince enters the game for D. Bembry,106,104
+4,6:24.0,A. Wiggins misses free throw 2 of 2,,106,104
+4,6:22.0,,Defensive rebound by V. Carter,106,104
+4,6:12.0,,T. Prince misses 3-pt jump shot from 26 ft,106,104
+4,6:08.0,Defensive rebound by J. Okogie,,106,104
+4,5:59.0,K. Towns makes 2-pt jump shot from 21 ft (assist by T. Jones),,108,104
+4,5:59.0,,Atlanta full timeout,108,104
+4,5:59.0,,D. Bembry enters the game for K. Huerter,108,104
+4,5:59.0,,D. Dedmon enters the game for O. Spellman,108,104
+4,5:46.0,,Turnover by T. Young (lost ball; steal by J. Okogie),108,104
+4,5:41.0,A. Wiggins makes 2-pt layup from 1 ft (assist by D. Rose),,110,104
+4,5:22.0,,T. Young misses 2-pt layup from 3 ft (block by K. Towns),110,104
+4,5:18.0,Defensive rebound by D. Rose,,110,104
+4,5:13.0,D. Rose misses 2-pt layup from 1 ft (block by V. Carter),,110,104
+4,5:10.0,,Defensive rebound by D. Bembry,110,104
+4,5:05.0,,D. Bembry misses 2-pt jump shot from 2 ft,110,104
+4,5:03.0,,Offensive rebound by D. Dedmon,110,104
+4,5:02.0,,T. Prince makes 2-pt layup from 1 ft (assist by D. Dedmon),110,106
+4,5:02.0,,Shooting foul by T. Jones (drawn by T. Prince),110,106
+4,5:02.0,,J. Collins enters the game for V. Carter,110,106
+4,5:02.0,,T. Prince makes free throw 1 of 1,110,107
+4,4:44.0,A. Wiggins makes 2-pt jump shot from 15 ft,,112,107
+4,4:34.0,,T. Young misses 2-pt layup from 1 ft (block by J. Okogie),112,107
+4,4:34.0,,Offensive rebound by Team,112,107
+4,4:22.0,,J. Collins makes 2-pt dunk from 1 ft (assist by D. Bembry),112,109
+4,4:16.0,Minnesota full timeout,,112,109
+4,4:16.0,D. Šarić enters the game for T. Jones,,112,109
+4,4:01.0,D. Rose misses 2-pt jump shot from 20 ft,,112,109
+4,3:54.0,,Defensive rebound by D. Bembry,112,109
+4,3:40.0,,J. Collins makes 2-pt dunk from 1 ft (assist by T. Young),112,111
+4,3:22.0,Offensive foul by K. Towns (drawn by T. Young),,112,111
+4,3:22.0,Turnover by K. Towns (offensive foul),,112,111
+4,3:13.0,,Offensive foul by T. Young (drawn by K. Towns),112,111
+4,3:13.0,,Turnover by T. Young (offensive foul),112,111
+4,3:06.0,Personal foul by D. Dedmon (drawn by K. Towns),,112,111
+4,3:06.0,,V. Carter enters the game for D. Dedmon,112,111
+4,3:06.0,K. Towns makes free throw 1 of 2,,113,111
+4,3:06.0,T. Jones enters the game for D. Šarić,,113,111
+4,3:06.0,K. Towns makes free throw 2 of 2,,114,111
+4,2:54.0,,T. Young misses 2-pt jump shot from 12 ft,114,111
+4,2:51.0,Defensive rebound by K. Towns,,114,111
+4,2:35.0,A. Wiggins misses 3-pt jump shot from 25 ft,,114,111
+4,2:35.0,,Defensive rebound by Team,114,111
+4,2:19.0,,J. Collins makes 2-pt layup from 1 ft (assist by T. Prince),114,113
+4,2:19.0,,Shooting foul by D. Rose (drawn by J. Collins),114,113
+4,2:19.0,,J. Collins makes free throw 1 of 1,114,114
+4,2:03.0,K. Towns misses 2-pt jump shot from 11 ft,,114,114
+4,2:00.0,,Defensive rebound by T. Prince,114,114
+4,1:48.0,,J. Collins misses 2-pt dunk from 2 ft (block by A. Wiggins),114,114
+4,1:45.0,Defensive rebound by K. Towns,,114,114
+4,1:25.0,T. Jones misses 2-pt layup from 2 ft,,114,114
+4,1:23.0,,Defensive rebound by T. Young,114,114
+4,1:18.0,,D. Bembry misses 2-pt layup from 1 ft,114,114
+4,1:15.0,Defensive rebound by J. Okogie,,114,114
+4,1:02.0,D. Rose misses 2-pt layup from 1 ft (block by D. Bembry),,114,114
+4,1:00.0,Offensive rebound by K. Towns,,114,114
+4,1:00.0,K. Towns makes 2-pt dunk from 1 ft,,116,114
+4,1:00.0,Shooting foul by V. Carter (drawn by K. Towns),,116,114
+4,1:00.0,,K. Huerter enters the game for T. Prince,116,114
+4,1:00.0,K. Towns misses free throw 1 of 1,,116,114
+4,0:59.0,,Defensive rebound by J. Collins,116,114
+4,0:59.0,,Atlanta full timeout,116,114
+4,0:48.0,,J. Collins makes 2-pt dunk from 1 ft (assist by T. Young),116,116
+4,0:31.0,D. Rose makes 2-pt hook shot from 8 ft,,118,116
+4,0:20.0,,T. Young makes 2-pt jump shot from 8 ft (assist by V. Carter),118,118
+4,0:20.0,Minnesota full timeout,,118,118
+4,0:20.0,A. Tolliver enters the game for J. Okogie,,118,118
+4,0:00.0,D. Rose misses 2-pt jump shot from 13 ft,,118,118
+4,0:00.0,,Defensive rebound by J. Collins,118,118
+4,0:00.0,,Atlanta full timeout,118,118
+1OT,4:43.0,A. Wiggins misses 2-pt dunk from 1 ft,,118,118
+1OT,4:40.0,,Defensive rebound by J. Collins,118,118
+1OT,4:25.0,,T. Young misses 3-pt jump shot from 27 ft,118,118
+1OT,4:22.0,Defensive rebound by K. Towns,,118,118
+1OT,4:06.0,T. Jones misses 2-pt jump shot from 19 ft,,118,118
+1OT,4:05.0,,Defensive rebound by D. Bembry,118,118
+1OT,3:56.0,,V. Carter makes 3-pt jump shot from 24 ft (assist by K. Huerter),118,121
+1OT,3:32.0,A. Wiggins misses 2-pt jump shot from 19 ft,,118,121
+1OT,3:29.0,,Defensive rebound by K. Huerter,118,121
+1OT,3:29.0,,O. Spellman enters the game for J. Collins,118,121
+1OT,3:10.0,,T. Young misses 2-pt jump shot from 21 ft,118,121
+1OT,3:05.0,,Offensive rebound by T. Young,118,121
+1OT,2:56.0,,D. Bembry makes 2-pt hook shot from 9 ft,118,123
+1OT,2:36.0,K. Towns misses 3-pt jump shot from 25 ft,,118,123
+1OT,2:33.0,,Defensive rebound by D. Bembry,118,123
+1OT,2:19.0,,D. Bembry makes 2-pt layup from 1 ft,118,125
+1OT,2:19.0,Minnesota full timeout,,118,125
+1OT,2:08.0,K. Towns makes 2-pt dunk from 1 ft (assist by T. Jones),,120,125
+1OT,1:53.0,,K. Huerter misses 2-pt jump shot from 19 ft,120,125
+1OT,1:47.0,Defensive rebound by K. Towns,,120,125
+1OT,1:38.0,K. Towns makes 3-pt jump shot from 25 ft (assist by T. Jones),,123,125
+1OT,1:15.0,,D. Bembry makes 2-pt layup from 1 ft (assist by V. Carter),123,127
+1OT,1:03.0,D. Šarić misses 3-pt jump shot from 25 ft,,123,127
+1OT,0:59.0,,Defensive rebound by D. Bembry,123,127
+1OT,0:41.0,,T. Young misses 2-pt layup from 1 ft,123,127
+1OT,0:38.0,Defensive rebound by K. Towns,,123,127
+1OT,0:36.0,T. Jones misses 2-pt jump shot from 16 ft,,123,127
+1OT,0:31.0,,Defensive rebound by O. Spellman,123,127
+1OT,0:25.0,,Personal foul by A. Wiggins (drawn by K. Huerter),123,127
+1OT,0:25.0,,J. Collins enters the game for O. Spellman,123,127
+1OT,0:24.0,,Personal take foul by D. Šarić (drawn by V. Carter),123,127
+1OT,0:24.0,,Offensive rebound by Team,123,127
+1OT,0:24.0,,V. Carter misses free throw 1 of 2,123,127
+1OT,0:24.0,,V. Carter makes free throw 2 of 2,123,128
+1OT,0:20.0,Personal foul by T. Young (drawn by T. Jones),,123,128
+1OT,0:20.0,Minnesota full timeout,,123,128
+1OT,0:20.0,A. Tolliver enters the game for D. Šarić,,123,128
+1OT,0:17.0,A. Wiggins misses 3-pt jump shot from 25 ft,,123,128
+1OT,0:14.0,,Defensive rebound by T. Young,123,128
+1OT,0:14.0,,Personal take foul by J. Okogie (drawn by T. Young),123,128
+1OT,0:14.0,,T. Young makes free throw 1 of 2,123,129
+1OT,0:14.0,,T. Young makes free throw 2 of 2,123,130
+1OT,0:10.0,J. Okogie misses 3-pt jump shot from 25 ft,,123,130
+1OT,0:07.0,,Defensive rebound by T. Young,123,130
+1OT,0:07.0,,Personal take foul by K. Towns (drawn by T. Young),123,130
+1OT,0:07.0,D. Šarić enters the game for K. Towns,,123,130
+1OT,0:07.0,,T. Young makes free throw 1 of 2,123,131
+1OT,0:07.0,,T. Young misses free throw 2 of 2,123,131
+1OT,0:04.0,Defensive rebound by A. Tolliver,,123,131

@@ -1,0 +1,490 @@
+QUARTER,TIME_REMAINING,SACRAMENTO_ACTION,LA CLIPPERS_ACTION,SACRAMENTO_SCORE,LA CLIPPERS_SCORE
+1,11:45.0,,Personal foul by N. Bjelica (drawn by M. Gortat),0,0
+1,11:34.0,,P. Beverley makes 3-pt jump shot from 27 ft (assist by S. Gilgeous-Alexander),0,3
+1,11:17.0,I. Shumpert misses 3-pt jump shot from 26 ft,,0,3
+1,11:12.0,Offensive rebound by W. Cauley-Stein,,0,3
+1,11:10.0,I. Shumpert misses 2-pt jump shot from 16 ft,,0,3
+1,11:06.0,,Defensive rebound by T. Harris,0,3
+1,10:54.0,,T. Harris misses 2-pt jump shot from 8 ft,0,3
+1,10:51.0,,Offensive rebound by T. Harris,0,3
+1,10:49.0,,P. Beverley makes 3-pt jump shot from 27 ft (assist by T. Harris),0,6
+1,10:37.0,D. Fox misses 2-pt jump shot from 19 ft,,0,6
+1,10:34.0,,Defensive rebound by M. Gortat,0,6
+1,10:19.0,,M. Gortat misses 2-pt hook shot from 4 ft,0,6
+1,10:17.0,Defensive rebound by D. Fox,,0,6
+1,10:07.0,W. Cauley-Stein misses 2-pt jump shot from 12 ft,,0,6
+1,10:04.0,,Defensive rebound by T. Harris,0,6
+1,9:44.0,,S. Gilgeous-Alexander misses 3-pt jump shot from 26 ft,0,6
+1,9:41.0,Defensive rebound by B. Hield,,0,6
+1,9:36.0,B. Hield makes 3-pt jump shot from 26 ft (assist by I. Shumpert),,3,6
+1,9:11.0,,T. Harris makes 2-pt layup from 2 ft,3,8
+1,9:01.0,Personal foul by T. Harris (drawn by N. Bjelica),,3,8
+1,8:56.0,B. Hield misses 3-pt jump shot from 29 ft,,3,8
+1,8:52.0,,Defensive rebound by M. Gortat,3,8
+1,8:47.0,,S. Gilgeous-Alexander misses 2-pt layup from 2 ft (block by N. Bjelica),3,8
+1,8:44.0,,Offensive rebound by S. Gilgeous-Alexander,3,8
+1,8:36.0,,T. Harris misses 2-pt jump shot from 7 ft,3,8
+1,8:34.0,Defensive rebound by B. Hield,,3,8
+1,8:25.0,N. Bjelica misses 2-pt jump shot from 6 ft,,3,8
+1,8:22.0,,Defensive rebound by M. Gortat,3,8
+1,8:18.0,,P. Beverley misses 2-pt layup from 3 ft (block by I. Shumpert),3,8
+1,8:16.0,Defensive rebound by Team,,3,8
+1,8:08.0,B. Hield misses 3-pt jump shot from 27 ft,,3,8
+1,8:04.0,,Defensive rebound by A. Bradley,3,8
+1,7:58.0,,S. Gilgeous-Alexander makes 2-pt layup from 2 ft (assist by A. Bradley),3,10
+1,7:42.0,Offensive foul by W. Cauley-Stein (drawn by P. Beverley),,3,10
+1,7:42.0,Turnover by W. Cauley-Stein (offensive foul),,3,10
+1,7:37.0,,Personal foul by W. Cauley-Stein (drawn by M. Gortat),3,10
+1,7:37.0,H. Giles enters the game for W. Cauley-Stein,,3,10
+1,7:27.0,,M. Gortat makes 2-pt jump shot from 11 ft (assist by A. Bradley),3,12
+1,7:22.0,Sacramento full timeout,,3,12
+1,7:09.0,I. Shumpert makes 3-pt jump shot from 27 ft (assist by B. Hield),,6,12
+1,6:54.0,,T. Harris makes 2-pt dunk from 2 ft (assist by M. Gortat),6,14
+1,6:34.0,N. Bjelica misses 2-pt layup from 3 ft,,6,14
+1,6:32.0,,Defensive rebound by M. Gortat,6,14
+1,6:28.0,,M. Gortat makes 2-pt dunk from 1 ft (assist by T. Harris),6,16
+1,6:21.0,Personal foul by T. Harris (drawn by D. Fox),,6,16
+1,6:14.0,B. Hield makes 2-pt jump shot from 16 ft,,8,16
+1,5:54.0,,Shooting foul by N. Bjelica (drawn by P. Beverley),8,16
+1,5:54.0,,P. Beverley makes free throw 1 of 2,8,17
+1,5:54.0,M. Bagley enters the game for N. Bjelica,,8,17
+1,5:54.0,B. Bogdanović enters the game for I. Shumpert,,8,17
+1,5:54.0,,M. Scott enters the game for T. Harris,8,17
+1,5:54.0,,P. Beverley makes free throw 2 of 2,8,18
+1,5:41.0,D. Fox misses 2-pt jump shot from 14 ft (block by P. Beverley),,8,18
+1,5:37.0,Offensive rebound by H. Giles,,8,18
+1,5:32.0,D. Fox makes 2-pt jump shot from 18 ft,,10,18
+1,5:12.0,,Turnover by A. Bradley (bad pass; steal by B. Bogdanović),10,18
+1,5:09.0,M. Bagley makes 2-pt layup from 2 ft (assist by B. Hield),,12,18
+1,4:54.0,,P. Beverley makes 3-pt jump shot from 23 ft (assist by S. Gilgeous-Alexander),12,21
+1,4:43.0,M. Bagley makes 2-pt hook shot from 6 ft (assist by D. Fox),,14,21
+1,4:32.0,,Turnover by M. Scott (traveling),14,21
+1,4:32.0,,M. Harrell enters the game for S. Gilgeous-Alexander,14,21
+1,4:32.0,,L. Williams enters the game for M. Gortat,14,21
+1,4:19.0,Turnover by M. Bagley (bad pass),,14,21
+1,4:08.0,,Turnover by P. Beverley (bad pass; steal by B. Hield),14,21
+1,4:06.0,Shooting foul by P. Beverley (drawn by B. Hield),,14,21
+1,4:06.0,B. Hield makes free throw 1 of 2,,15,21
+1,4:06.0,B. Hield makes free throw 2 of 2,,16,21
+1,3:52.0,,M. Scott makes 3-pt jump shot from 25 ft (assist by P. Beverley),16,24
+1,3:33.0,H. Giles misses 2-pt hook shot from 6 ft,,16,24
+1,3:31.0,Offensive rebound by H. Giles,,16,24
+1,3:31.0,H. Giles misses 2-pt layup at rim,,16,24
+1,3:28.0,Offensive rebound by H. Giles,,16,24
+1,3:28.0,H. Giles makes 2-pt layup at rim,,18,24
+1,3:24.0,,Personal foul by B. Bogdanović (drawn by L. Williams),18,24
+1,3:08.0,,M. Harrell makes 2-pt hook shot from 7 ft (assist by L. Williams),18,26
+1,2:59.0,D. Fox misses 2-pt jump shot from 8 ft,,18,26
+1,2:59.0,Offensive rebound by D. Fox,,18,26
+1,2:53.0,B. Bogdanović misses 2-pt jump shot from 6 ft,,18,26
+1,2:50.0,,Defensive rebound by M. Scott,18,26
+1,2:41.0,,M. Scott makes 3-pt jump shot from 25 ft (assist by A. Bradley),18,29
+1,2:28.0,M. Bagley misses 3-pt jump shot from 24 ft,,18,29
+1,2:25.0,,Defensive rebound by A. Bradley,18,29
+1,2:11.0,,M. Scott misses 2-pt layup from 1 ft,18,29
+1,2:08.0,Defensive rebound by M. Bagley,,18,29
+1,2:06.0,Turnover by B. Hield (lost ball; steal by A. Bradley),,18,29
+1,2:02.0,,A. Bradley misses 2-pt layup at rim,18,29
+1,2:00.0,,Offensive rebound by A. Bradley,18,29
+1,1:59.0,,LA Clippers full timeout,18,29
+1,1:59.0,N. Bjelica enters the game for D. Fox,,18,29
+1,1:59.0,Y. Ferrell enters the game for H. Giles,,18,29
+1,1:48.0,,L. Williams makes 3-pt jump shot from 28 ft (assist by P. Beverley),18,32
+1,1:24.0,M. Bagley misses 3-pt jump shot from 27 ft,,18,32
+1,1:20.0,,Defensive rebound by A. Bradley,18,32
+1,1:13.0,,M. Harrell misses 2-pt dunk from 3 ft (block by M. Bagley),18,32
+1,1:10.0,,Offensive rebound by M. Harrell,18,32
+1,1:09.0,,M. Harrell makes 2-pt dunk from 2 ft,18,34
+1,0:56.0,Offensive foul by N. Bjelica (drawn by M. Harrell),,18,34
+1,0:56.0,Turnover by N. Bjelica (offensive foul),,18,34
+1,0:56.0,J. Jackson enters the game for B. Hield,,18,34
+1,0:56.0,,S. Gilgeous-Alexander enters the game for P. Beverley,18,34
+1,0:56.0,,J. Robinson enters the game for A. Bradley,18,34
+1,0:33.0,,L. Williams misses 2-pt jump shot from 14 ft,18,34
+1,0:31.0,Defensive rebound by M. Bagley,,18,34
+1,0:21.0,N. Bjelica makes 3-pt jump shot from 29 ft (assist by Y. Ferrell),,21,34
+1,0:02.0,,L. Williams misses 2-pt jump shot from 7 ft,21,34
+1,0:00.0,,Offensive rebound by Team,21,34
+2,11:46.0,Shooting foul by S. Gilgeous-Alexander (drawn by B. Bogdanović),,21,34
+2,11:46.0,B. Bogdanović misses free throw 1 of 2,,21,34
+2,11:46.0,Offensive rebound by Team,,21,34
+2,11:46.0,B. Bogdanović makes free throw 2 of 2,,22,34
+2,11:34.0,,M. Harrell makes 2-pt layup from 1 ft (assist by L. Williams),22,36
+2,11:25.0,J. Jackson misses 3-pt jump shot from 27 ft,,22,36
+2,11:22.0,,Defensive rebound by J. Robinson,22,36
+2,11:14.0,,M. Scott makes 2-pt hook shot from 12 ft (assist by L. Williams),22,38
+2,10:56.0,M. Bagley misses 2-pt jump shot from 20 ft,,22,38
+2,10:53.0,,Defensive rebound by L. Williams,22,38
+2,10:48.0,,M. Harrell makes 2-pt layup from 3 ft (assist by L. Williams),22,40
+2,10:48.0,,Shooting foul by I. Shumpert (drawn by M. Harrell),22,40
+2,10:48.0,Sacramento full timeout,,22,40
+2,10:48.0,H. Giles enters the game for M. Bagley,,22,40
+2,10:48.0,,M. Harrell makes free throw 1 of 1,22,41
+2,10:32.0,Turnover by J. Jackson (bad pass; steal by L. Williams),,22,41
+2,10:24.0,,M. Harrell makes 2-pt dunk from 2 ft (assist by L. Williams),22,43
+2,10:09.0,Y. Ferrell misses 2-pt jump shot from 5 ft,,22,43
+2,10:07.0,Offensive rebound by Y. Ferrell,,22,43
+2,10:05.0,J. Jackson misses 3-pt jump shot from 28 ft,,22,43
+2,10:03.0,,Defensive rebound by S. Gilgeous-Alexander,22,43
+2,9:54.0,,S. Gilgeous-Alexander makes 2-pt jump shot from 5 ft,22,45
+2,9:44.0,H. Giles makes 2-pt jump shot from 8 ft (assist by Y. Ferrell),,24,45
+2,9:25.0,,J. Robinson makes 2-pt layup from 2 ft (assist by S. Gilgeous-Alexander),24,47
+2,8:58.0,Y. Ferrell makes 2-pt jump shot from 16 ft,,26,47
+2,8:51.0,,Shooting foul by J. Jackson (drawn by L. Williams),26,47
+2,8:51.0,,L. Williams makes free throw 1 of 2,26,48
+2,8:51.0,,L. Williams makes free throw 2 of 2,26,49
+2,8:43.0,Personal foul by J. Robinson (drawn by B. Bogdanović),,26,49
+2,8:32.0,H. Giles misses 2-pt hook shot from 9 ft,,26,49
+2,8:30.0,,Defensive rebound by L. Williams,26,49
+2,8:29.0,,Personal take foul by Y. Ferrell (drawn by L. Williams),26,49
+2,8:24.0,,Turnover by L. Williams (bad pass; steal by Y. Ferrell),26,49
+2,8:20.0,Y. Ferrell makes 2-pt layup from 2 ft,,28,49
+2,8:12.0,,M. Harrell makes 2-pt dunk from 1 ft (assist by L. Williams),28,51
+2,7:58.0,J. Jackson misses 3-pt jump shot from 23 ft,,28,51
+2,7:54.0,,Defensive rebound by J. Robinson,28,51
+2,7:51.0,,L. Williams misses 2-pt layup from 3 ft,28,51
+2,7:51.0,,Offensive rebound by M. Harrell,28,51
+2,7:39.0,,Turnover by M. Scott (bad pass; steal by H. Giles),28,51
+2,7:39.0,Personal take foul by L. Williams (drawn by Y. Ferrell),,28,51
+2,7:39.0,,T. Harris enters the game for M. Scott,28,51
+2,7:29.0,B. Bogdanović misses 2-pt jump shot from 15 ft,,28,51
+2,7:27.0,,Defensive rebound by M. Harrell,28,51
+2,7:16.0,,S. Gilgeous-Alexander makes 2-pt dunk from 3 ft (assist by M. Harrell),28,53
+2,7:06.0,Y. Ferrell makes 2-pt layup from 2 ft,,30,53
+2,7:02.0,,LA Clippers full timeout,30,53
+2,7:02.0,W. Cauley-Stein enters the game for Y. Ferrell,,30,53
+2,7:02.0,D. Fox enters the game for H. Giles,,30,53
+2,7:02.0,B. Hield enters the game for J. Jackson,,30,53
+2,7:02.0,,J. Motley enters the game for M. Harrell,30,53
+2,6:53.0,,L. Williams misses 3-pt jump shot from 24 ft,30,53
+2,6:51.0,Defensive rebound by W. Cauley-Stein,,30,53
+2,6:43.0,Personal foul by S. Gilgeous-Alexander (drawn by W. Cauley-Stein),,30,53
+2,6:43.0,,A. Bradley enters the game for L. Williams,30,53
+2,6:32.0,B. Bogdanović makes 3-pt jump shot from 26 ft,,33,53
+2,6:14.0,,J. Robinson misses 3-pt jump shot from 25 ft,33,53
+2,6:12.0,,Offensive rebound by S. Gilgeous-Alexander,33,53
+2,6:11.0,,J. Robinson misses 3-pt jump shot from 26 ft,33,53
+2,6:08.0,Defensive rebound by W. Cauley-Stein,,33,53
+2,6:06.0,D. Fox makes 2-pt layup from 3 ft,,35,53
+2,6:06.0,Shooting foul by S. Gilgeous-Alexander (drawn by D. Fox),,35,53
+2,6:06.0,,P. Beverley enters the game for J. Robinson,35,53
+2,6:06.0,D. Fox makes free throw 1 of 1,,36,53
+2,5:55.0,Violation by Team (kicked ball),,36,53
+2,5:44.0,,Offensive foul by J. Motley (drawn by B. Bogdanović),36,53
+2,5:44.0,,Turnover by J. Motley (offensive foul),36,53
+2,5:32.0,B. Bogdanović misses 3-pt jump shot from 26 ft,,36,53
+2,5:30.0,,Defensive rebound by J. Motley,36,53
+2,5:24.0,,J. Motley makes 2-pt layup from 2 ft (assist by P. Beverley),36,55
+2,5:24.0,,Shooting foul by D. Fox (drawn by J. Motley),36,55
+2,5:24.0,,J. Motley makes free throw 1 of 1,36,56
+2,5:16.0,D. Fox makes 2-pt jump shot from 17 ft,,38,56
+2,4:55.0,,A. Bradley makes 3-pt jump shot from 26 ft (assist by S. Gilgeous-Alexander),38,59
+2,4:44.0,B. Bogdanović misses 3-pt jump shot from 26 ft,,38,59
+2,4:42.0,Offensive rebound by Team,,38,59
+2,4:39.0,B. Hield misses 2-pt jump shot from 20 ft,,38,59
+2,4:35.0,,Defensive rebound by P. Beverley,38,59
+2,4:28.0,,Shooting foul by B. Hield (drawn by J. Motley),38,59
+2,4:28.0,,J. Motley makes free throw 1 of 2,38,60
+2,4:28.0,,L. Williams enters the game for S. Gilgeous-Alexander,38,60
+2,4:28.0,,J. Motley misses free throw 2 of 2,38,60
+2,4:25.0,Defensive rebound by I. Shumpert,,38,60
+2,4:12.0,D. Fox misses 3-pt jump shot from 26 ft,,38,60
+2,4:10.0,,Defensive rebound by A. Bradley,38,60
+2,3:59.0,,Turnover by A. Bradley (bad pass),38,60
+2,3:48.0,D. Fox misses 3-pt jump shot from 26 ft,,38,60
+2,3:46.0,,Defensive rebound by L. Williams,38,60
+2,3:42.0,,L. Williams makes 2-pt jump shot from 14 ft,38,62
+2,3:42.0,,Shooting foul by I. Shumpert (drawn by L. Williams),38,62
+2,3:42.0,M. Bagley enters the game for B. Bogdanović,,38,62
+2,3:42.0,J. Jackson enters the game for I. Shumpert,,38,62
+2,3:42.0,,L. Williams makes free throw 1 of 1,38,63
+2,3:29.0,D. Fox makes 2-pt jump shot from 14 ft (assist by B. Hield),,40,63
+2,3:04.0,,T. Harris misses 3-pt jump shot from 24 ft,40,63
+2,3:01.0,Defensive rebound by J. Jackson,,40,63
+2,2:50.0,Shooting foul by J. Motley (drawn by W. Cauley-Stein),,40,63
+2,2:50.0,W. Cauley-Stein makes free throw 1 of 2,,41,63
+2,2:50.0,W. Cauley-Stein makes free throw 2 of 2,,42,63
+2,2:35.0,,A. Bradley misses 3-pt jump shot from 25 ft,42,63
+2,2:32.0,,Offensive rebound by J. Motley,42,63
+2,2:30.0,,J. Motley misses 2-pt layup from 2 ft,42,63
+2,2:29.0,Defensive rebound by J. Jackson,,42,63
+2,2:27.0,D. Fox makes 2-pt dunk at rim (assist by B. Hield),,44,63
+2,2:12.0,,J. Motley makes 2-pt dunk from 1 ft (assist by L. Williams),44,65
+2,2:00.0,Shooting foul by J. Motley (drawn by W. Cauley-Stein),,44,65
+2,2:00.0,W. Cauley-Stein makes free throw 1 of 2,,45,65
+2,2:00.0,,M. Harrell enters the game for J. Motley,45,65
+2,2:00.0,W. Cauley-Stein makes free throw 2 of 2,,46,65
+2,1:42.0,,P. Beverley misses 3-pt jump shot from 23 ft,46,65
+2,1:40.0,Defensive rebound by M. Bagley,,46,65
+2,1:33.0,Personal foul by A. Bradley (drawn by W. Cauley-Stein),,46,65
+2,1:33.0,W. Cauley-Stein makes free throw 1 of 2,,47,65
+2,1:33.0,W. Cauley-Stein misses free throw 2 of 2,,47,65
+2,1:32.0,,Defensive rebound by Team,47,65
+2,1:32.0,Loose ball foul by D. Fox (drawn by A. Bradley),,47,65
+2,1:32.0,,A. Bradley makes free throw 1 of 2,47,66
+2,1:32.0,,A. Bradley makes free throw 2 of 2,47,67
+2,1:22.0,B. Hield misses 2-pt jump shot from 18 ft,,47,67
+2,1:19.0,,Defensive rebound by P. Beverley,47,67
+2,1:15.0,,L. Williams misses 2-pt layup from 2 ft (block by M. Bagley),47,67
+2,1:15.0,,Offensive rebound by Team,47,67
+2,1:15.0,,M. Scott enters the game for T. Harris,47,67
+2,1:15.0,,LA Clippers full timeout,47,67
+2,1:11.0,,L. Williams misses 3-pt jump shot from 25 ft,47,67
+2,1:08.0,Defensive rebound by J. Jackson,,47,67
+2,0:54.0,Turnover by J. Jackson (bad pass; steal by L. Williams),,47,67
+2,0:46.0,,Turnover by L. Williams (bad pass; steal by J. Jackson),47,67
+2,0:43.0,B. Hield makes 2-pt layup from 1 ft (assist by J. Jackson),,49,67
+2,0:39.0,,L. Williams misses 3-pt jump shot from 24 ft,49,67
+2,0:36.0,Defensive rebound by W. Cauley-Stein,,49,67
+2,0:24.0,M. Bagley makes 2-pt hook shot from 5 ft (assist by D. Fox),,51,67
+2,0:01.0,,L. Williams misses 3-pt jump shot from 25 ft,51,67
+2,0:00.0,,Offensive rebound by Team,51,67
+2,0:00.0,,Turnover by Team (shot clock),51,67
+3,11:41.0,D. Fox makes 3-pt jump shot from 25 ft (assist by W. Cauley-Stein),,54,67
+3,11:19.0,,T. Harris misses 3-pt jump shot from 27 ft,54,67
+3,11:16.0,Defensive rebound by W. Cauley-Stein,,54,67
+3,11:09.0,I. Shumpert misses 3-pt jump shot from 25 ft,,54,67
+3,11:06.0,,Defensive rebound by M. Gortat,54,67
+3,11:00.0,,S. Gilgeous-Alexander misses 2-pt layup from 2 ft,54,67
+3,10:55.0,Defensive rebound by W. Cauley-Stein,,54,67
+3,10:50.0,B. Hield misses 2-pt layup from 4 ft,,54,67
+3,10:45.0,Offensive rebound by B. Hield,,54,67
+3,10:45.0,B. Hield makes 2-pt layup from 1 ft,,56,67
+3,10:31.0,,A. Bradley misses 2-pt jump shot from 18 ft,56,67
+3,10:28.0,Defensive rebound by I. Shumpert,,56,67
+3,10:14.0,Personal foul by M. Gortat (drawn by W. Cauley-Stein),,56,67
+3,10:03.0,B. Hield misses 2-pt jump shot from 17 ft,,56,67
+3,10:01.0,,Defensive rebound by M. Gortat,56,67
+3,9:48.0,,T. Harris makes 2-pt jump shot from 6 ft,56,69
+3,9:40.0,Shooting foul by A. Bradley (drawn by D. Fox),,56,69
+3,9:40.0,D. Fox makes free throw 1 of 2,,57,69
+3,9:40.0,D. Fox makes free throw 2 of 2,,58,69
+3,9:23.0,,Turnover by M. Gortat (bad pass; steal by N. Bjelica),58,69
+3,9:16.0,Turnover by D. Fox (bad pass; steal by S. Gilgeous-Alexander),,58,69
+3,9:13.0,,Shooting foul by B. Hield (drawn by S. Gilgeous-Alexander),58,69
+3,9:13.0,,S. Gilgeous-Alexander makes free throw 1 of 2,58,70
+3,9:13.0,,S. Gilgeous-Alexander makes free throw 2 of 2,58,71
+3,9:02.0,W. Cauley-Stein misses 2-pt layup from 3 ft,,58,71
+3,9:00.0,,Defensive rebound by M. Gortat,58,71
+3,8:56.0,,T. Harris misses 2-pt layup from 3 ft,58,71
+3,8:53.0,Defensive rebound by W. Cauley-Stein,,58,71
+3,8:49.0,D. Fox misses 2-pt jump shot from 9 ft,,58,71
+3,8:47.0,,Defensive rebound by S. Gilgeous-Alexander,58,71
+3,8:41.0,,S. Gilgeous-Alexander makes 2-pt layup from 1 ft (assist by A. Bradley),58,73
+3,8:41.0,Sacramento full timeout,,58,73
+3,8:32.0,Turnover by D. Fox (bad pass; steal by P. Beverley),,58,73
+3,8:10.0,,A. Bradley misses 2-pt jump shot from 15 ft,58,73
+3,8:09.0,Defensive rebound by D. Fox,,58,73
+3,8:09.0,Personal foul by A. Bradley (drawn by D. Fox),,58,73
+3,7:59.0,N. Bjelica misses 2-pt hook shot from 3 ft,,58,73
+3,7:55.0,,Defensive rebound by T. Harris,58,73
+3,7:52.0,,Offensive foul by M. Gortat (drawn by B. Hield),58,73
+3,7:52.0,,Turnover by M. Gortat (offensive foul),58,73
+3,7:43.0,I. Shumpert makes 3-pt jump shot from 24 ft (assist by D. Fox),,61,73
+3,7:29.0,,T. Harris misses 3-pt jump shot from 28 ft,61,73
+3,7:26.0,Defensive rebound by D. Fox,,61,73
+3,7:23.0,I. Shumpert misses 3-pt jump shot from 28 ft,,61,73
+3,7:21.0,Offensive rebound by B. Hield,,61,73
+3,7:17.0,N. Bjelica misses 3-pt jump shot from 26 ft,,61,73
+3,7:15.0,,Defensive rebound by T. Harris,61,73
+3,7:03.0,,Turnover by M. Gortat (bad pass; steal by B. Hield),61,73
+3,6:58.0,B. Hield misses 2-pt jump shot from 15 ft,,61,73
+3,6:54.0,,Defensive rebound by P. Beverley,61,73
+3,6:41.0,,T. Harris misses 3-pt jump shot from 26 ft,61,73
+3,6:38.0,Defensive rebound by N. Bjelica,,61,73
+3,6:27.0,D. Fox misses 3-pt jump shot from 27 ft,,61,73
+3,6:25.0,Offensive rebound by W. Cauley-Stein,,61,73
+3,6:23.0,I. Shumpert makes 3-pt jump shot from 25 ft (assist by W. Cauley-Stein),,64,73
+3,6:01.0,,P. Beverley misses 2-pt jump shot from 7 ft,64,73
+3,5:59.0,Defensive rebound by N. Bjelica,,64,73
+3,5:56.0,I. Shumpert misses 3-pt jump shot from 28 ft,,64,73
+3,5:53.0,,Defensive rebound by P. Beverley,64,73
+3,5:53.0,,LA Clippers full timeout,64,73
+3,5:53.0,,M. Harrell enters the game for M. Gortat,64,73
+3,5:37.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 11 ft,64,73
+3,5:32.0,,Offensive rebound by M. Harrell,64,73
+3,5:32.0,,M. Harrell misses 2-pt layup at rim,64,73
+3,5:31.0,Defensive rebound by N. Bjelica,,64,73
+3,5:11.0,D. Fox misses 2-pt layup from 2 ft,,64,73
+3,5:11.0,,Defensive rebound by T. Harris,64,73
+3,4:53.0,,Turnover by M. Harrell (discontinued dribble),64,73
+3,4:53.0,B. Bogdanović enters the game for B. Hield,,64,73
+3,4:39.0,I. Shumpert misses 2-pt jump shot from 18 ft,,64,73
+3,4:37.0,,Defensive rebound by P. Beverley,64,73
+3,4:32.0,,T. Harris makes 2-pt layup from 2 ft (assist by P. Beverley),64,75
+3,4:17.0,I. Shumpert makes 2-pt layup from 1 ft (assist by W. Cauley-Stein),,66,75
+3,3:56.0,,T. Harris misses 3-pt jump shot from 25 ft,66,75
+3,3:54.0,Defensive rebound by N. Bjelica,,66,75
+3,3:40.0,D. Fox makes 2-pt jump shot from 2 ft,,68,75
+3,3:17.0,,Shooting foul by D. Fox (drawn by S. Gilgeous-Alexander),68,75
+3,3:17.0,,S. Gilgeous-Alexander makes free throw 1 of 3,68,76
+3,3:17.0,,S. Gilgeous-Alexander makes free throw 2 of 3,68,77
+3,3:17.0,M. Bagley enters the game for W. Cauley-Stein,,68,77
+3,3:17.0,,S. Gilgeous-Alexander makes free throw 3 of 3,68,78
+3,3:08.0,Turnover by M. Bagley (lost ball; steal by S. Gilgeous-Alexander),,68,78
+3,3:04.0,,A. Bradley makes 2-pt layup from 2 ft (assist by S. Gilgeous-Alexander),68,80
+3,2:58.0,N. Bjelica misses 3-pt jump shot from 25 ft,,68,80
+3,2:55.0,,Defensive rebound by M. Harrell,68,80
+3,2:51.0,,Turnover by M. Harrell (lost ball; steal by D. Fox),68,80
+3,2:50.0,Personal take foul by M. Harrell (drawn by D. Fox),,68,80
+3,2:50.0,,L. Williams enters the game for S. Gilgeous-Alexander,68,80
+3,2:36.0,Shooting foul by M. Harrell (drawn by M. Bagley),,68,80
+3,2:36.0,M. Bagley makes free throw 1 of 2,,69,80
+3,2:36.0,M. Bagley makes free throw 2 of 2,,70,80
+3,2:18.0,,T. Harris makes 3-pt jump shot from 26 ft (assist by P. Beverley),70,83
+3,2:01.0,M. Bagley misses 2-pt hook shot from 5 ft,,70,83
+3,1:59.0,,Defensive rebound by P. Beverley,70,83
+3,1:55.0,,M. Harrell makes 2-pt dunk from 2 ft (assist by P. Beverley),70,85
+3,1:37.0,I. Shumpert misses 3-pt jump shot from 26 ft,,70,85
+3,1:34.0,,Defensive rebound by A. Bradley,70,85
+3,1:28.0,,T. Harris misses 2-pt layup from 2 ft,70,85
+3,1:25.0,Defensive rebound by I. Shumpert,,70,85
+3,1:23.0,Personal foul by P. Beverley (drawn by I. Shumpert),,70,85
+3,1:23.0,I. Shumpert misses free throw 1 of 2,,70,85
+3,1:23.0,Offensive rebound by Team,,70,85
+3,1:23.0,,S. Gilgeous-Alexander enters the game for P. Beverley,70,85
+3,1:23.0,,J. Robinson enters the game for A. Bradley,70,85
+3,1:23.0,I. Shumpert makes free throw 2 of 2,,71,85
+3,1:12.0,,Shooting foul by I. Shumpert (drawn by T. Harris),71,85
+3,1:12.0,,T. Harris makes free throw 1 of 2,71,86
+3,1:12.0,W. Cauley-Stein enters the game for N. Bjelica,,71,86
+3,1:12.0,B. Hield enters the game for D. Fox,,71,86
+3,1:12.0,J. Jackson enters the game for I. Shumpert,,71,86
+3,1:12.0,,T. Harris makes free throw 2 of 2,71,87
+3,0:51.0,J. Jackson misses 2-pt hook shot from 5 ft,,71,87
+3,0:51.0,,Defensive rebound by L. Williams,71,87
+3,0:42.0,,Turnover by L. Williams (bad pass; steal by W. Cauley-Stein),71,87
+3,0:37.0,M. Bagley misses 2-pt layup from 2 ft,,71,87
+3,0:32.0,Offensive rebound by M. Bagley,,71,87
+3,0:32.0,M. Bagley makes 2-pt layup from 1 ft,,73,87
+3,0:31.0,,L. Williams misses 2-pt layup from 1 ft,73,87
+3,0:28.0,Defensive rebound by W. Cauley-Stein,,73,87
+3,0:25.0,B. Hield makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),,76,87
+3,0:05.0,,J. Robinson misses 3-pt jump shot from 25 ft,76,87
+3,0:03.0,Defensive rebound by W. Cauley-Stein,,76,87
+3,0:00.0,W. Cauley-Stein misses 3-pt jump shot from 50 ft,,76,87
+3,0:00.0,Offensive rebound by Team,,76,87
+4,11:46.0,,M. Harrell makes 2-pt dunk from 1 ft (assist by L. Williams),76,89
+4,11:24.0,B. Hield misses 3-pt jump shot from 27 ft,,76,89
+4,11:22.0,Offensive rebound by M. Bagley,,76,89
+4,11:22.0,Shooting foul by T. Harris (drawn by M. Bagley),,76,89
+4,11:22.0,M. Bagley makes free throw 1 of 2,,77,89
+4,11:22.0,,M. Scott enters the game for T. Harris,77,89
+4,11:22.0,M. Bagley makes free throw 2 of 2,,78,89
+4,11:06.0,,L. Williams misses 2-pt jump shot from 23 ft,78,89
+4,11:04.0,Defensive rebound by W. Cauley-Stein,,78,89
+4,10:59.0,Personal foul by J. Robinson (drawn by B. Bogdanović),,78,89
+4,10:51.0,W. Cauley-Stein makes 2-pt dunk from 3 ft (assist by B. Bogdanović),,80,89
+4,10:39.0,,Turnover by L. Williams (bad pass; steal by W. Cauley-Stein),80,89
+4,10:36.0,W. Cauley-Stein makes 2-pt dunk at rim,,82,89
+4,10:36.0,,LA Clippers full timeout,82,89
+4,10:20.0,,L. Williams misses 3-pt jump shot from 27 ft,82,89
+4,10:17.0,,Offensive rebound by J. Robinson,82,89
+4,10:10.0,,Turnover by S. Gilgeous-Alexander (bad pass; steal by B. Bogdanović),82,89
+4,9:57.0,B. Bogdanović misses 3-pt jump shot from 27 ft,,82,89
+4,9:55.0,,Defensive rebound by L. Williams,82,89
+4,9:51.0,,J. Robinson makes 2-pt layup from 1 ft (assist by L. Williams),82,91
+4,9:34.0,Shooting foul by J. Robinson (drawn by B. Bogdanović),,82,91
+4,9:34.0,B. Bogdanović makes free throw 1 of 2,,83,91
+4,9:34.0,B. Bogdanović makes free throw 2 of 2,,84,91
+4,9:24.0,Violation by Team (kicked ball),,84,91
+4,9:22.0,,Personal foul by J. Jackson (drawn by L. Williams),84,91
+4,9:12.0,,L. Williams misses 3-pt jump shot from 25 ft,84,91
+4,9:10.0,Defensive rebound by B. Bogdanović,,84,91
+4,9:04.0,B. Bogdanović makes 2-pt jump shot from 20 ft,,86,91
+4,8:53.0,,Shooting foul by W. Cauley-Stein (drawn by L. Williams),86,91
+4,8:53.0,,L. Williams makes free throw 1 of 2,86,92
+4,8:53.0,,P. Beverley enters the game for S. Gilgeous-Alexander,86,92
+4,8:53.0,,A. Bradley enters the game for J. Robinson,86,92
+4,8:53.0,,T. Harris enters the game for M. Scott,86,92
+4,8:53.0,,L. Williams makes free throw 2 of 2,86,93
+4,8:38.0,B. Bogdanović makes 2-pt jump shot from 12 ft,,88,93
+4,8:09.0,,T. Harris makes 3-pt jump shot from 28 ft (assist by A. Bradley),88,96
+4,8:00.0,Personal foul by P. Beverley (drawn by B. Bogdanović),,88,96
+4,7:47.0,M. Bagley makes 2-pt hook shot from 4 ft,,90,96
+4,7:20.0,,P. Beverley makes 2-pt layup from 3 ft,90,98
+4,7:09.0,B. Hield misses 3-pt jump shot from 26 ft,,90,98
+4,7:04.0,Offensive rebound by J. Jackson,,90,98
+4,6:52.0,B. Hield misses 2-pt jump shot from 22 ft,,90,98
+4,6:48.0,,Defensive rebound by P. Beverley,90,98
+4,6:44.0,,L. Williams misses 2-pt layup from 3 ft (block by M. Bagley),90,98
+4,6:42.0,,Offensive rebound by L. Williams,90,98
+4,6:40.0,,Personal foul by B. Hield (drawn by M. Harrell),90,98
+4,6:30.0,,T. Harris misses 3-pt jump shot from 27 ft,90,98
+4,6:26.0,,Offensive rebound by P. Beverley,90,98
+4,6:17.0,,A. Bradley makes 3-pt jump shot from 25 ft (assist by T. Harris),90,101
+4,6:16.0,Sacramento full timeout,,90,101
+4,6:16.0,D. Fox enters the game for M. Bagley,,90,101
+4,6:16.0,I. Shumpert enters the game for J. Jackson,,90,101
+4,5:57.0,D. Fox makes 2-pt layup from 2 ft,,92,101
+4,5:36.0,,A. Bradley makes 2-pt jump shot from 20 ft (assist by P. Beverley),92,103
+4,5:26.0,Offensive foul by D. Fox (drawn by M. Harrell),,92,103
+4,5:26.0,Turnover by D. Fox (offensive foul),,92,103
+4,5:08.0,,M. Harrell makes 2-pt layup from 2 ft (assist by P. Beverley),92,105
+4,5:08.0,,Shooting foul by D. Fox (drawn by M. Harrell),92,105
+4,5:08.0,,M. Harrell makes free throw 1 of 1,92,106
+4,4:54.0,Shooting foul by T. Harris (drawn by B. Bogdanović),,92,106
+4,4:54.0,B. Bogdanović makes free throw 1 of 2,,93,106
+4,4:54.0,B. Bogdanović makes free throw 2 of 2,,94,106
+4,4:39.0,,P. Beverley misses 2-pt layup from 4 ft,94,106
+4,4:33.0,,Offensive rebound by M. Harrell,94,106
+4,4:33.0,,M. Harrell makes 2-pt dunk at rim,94,108
+4,4:27.0,B. Bogdanović makes 2-pt layup from 1 ft (assist by B. Hield),,96,108
+4,4:27.0,Shooting foul by A. Bradley (drawn by B. Bogdanović),,96,108
+4,4:27.0,B. Bogdanović makes free throw 1 of 1,,97,108
+4,4:14.0,,T. Harris misses 2-pt layup from 4 ft (block by I. Shumpert),97,108
+4,4:14.0,,Offensive rebound by Team,97,108
+4,4:11.0,,M. Harrell makes 2-pt dunk from 2 ft (assist by L. Williams),97,110
+4,3:58.0,Shooting foul by P. Beverley (drawn by D. Fox),,97,110
+4,3:58.0,D. Fox misses free throw 1 of 2,,97,110
+4,3:58.0,Offensive rebound by Team,,97,110
+4,3:58.0,D. Fox makes free throw 2 of 2,,98,110
+4,3:33.0,,P. Beverley makes 3-pt jump shot from 25 ft (assist by A. Bradley),98,113
+4,3:23.0,Offensive foul by B. Bogdanović (drawn by P. Beverley),,98,113
+4,3:23.0,Turnover by B. Bogdanović (offensive foul),,98,113
+4,3:09.0,,Personal foul by W. Cauley-Stein (drawn by T. Harris),98,113
+4,3:09.0,,T. Harris makes free throw 1 of 2,98,114
+4,3:09.0,,T. Harris makes free throw 2 of 2,98,115
+4,2:56.0,B. Bogdanović misses 3-pt jump shot from 26 ft,,98,115
+4,2:54.0,Offensive rebound by W. Cauley-Stein,,98,115
+4,2:51.0,I. Shumpert misses 3-pt jump shot from 27 ft,,98,115
+4,2:51.0,Offensive rebound by Team,,98,115
+4,2:46.0,B. Bogdanović misses 3-pt jump shot from 23 ft,,98,115
+4,2:44.0,,Defensive rebound by P. Beverley,98,115
+4,2:30.0,,Turnover by L. Williams (out of bounds lost ball),98,115
+4,2:24.0,Turnover by D. Fox (bad pass),,98,115
+4,2:09.0,,Personal foul by I. Shumpert (drawn by L. Williams),98,115
+4,2:09.0,,L. Williams makes free throw 1 of 2,98,116
+4,2:09.0,Y. Ferrell enters the game for W. Cauley-Stein,,98,116
+4,2:09.0,H. Giles enters the game for D. Fox,,98,116
+4,2:09.0,,L. Williams makes free throw 2 of 2,98,117
+4,2:02.0,B. Bogdanović makes 2-pt jump shot from 14 ft,,100,117
+4,1:43.0,,L. Williams misses 2-pt jump shot from 6 ft,100,117
+4,1:40.0,,Offensive rebound by M. Harrell,100,117
+4,1:38.0,,Shooting foul by H. Giles (drawn by M. Harrell),100,117
+4,1:38.0,,S. Gilgeous-Alexander enters the game for L. Williams,100,117
+4,1:38.0,,M. Harrell makes free throw 1 of 2,100,118
+4,1:38.0,,M. Harrell misses free throw 2 of 2,100,118
+4,1:38.0,,Offensive rebound by P. Beverley,100,118
+4,1:37.0,,P. Beverley misses 2-pt layup from 3 ft,100,118
+4,1:36.0,Defensive rebound by I. Shumpert,,100,118
+4,1:23.0,I. Shumpert makes 2-pt layup from 4 ft,,102,118
+4,1:16.0,,S. Gilgeous-Alexander makes 2-pt layup from 2 ft (assist by M. Harrell),102,120
+4,1:07.0,B. Hield makes 2-pt jump shot from 18 ft (assist by I. Shumpert),,104,120
+4,0:46.0,,Turnover by P. Beverley (bad pass; steal by B. Bogdanović),104,120
+4,0:45.0,Personal take foul by M. Harrell (drawn by B. Bogdanović),,104,120
+4,0:45.0,B. Bogdanović makes free throw 1 of 2,,105,120
+4,0:45.0,,J. Motley enters the game for P. Beverley,105,120
+4,0:45.0,,J. Robinson enters the game for A. Bradley,105,120
+4,0:45.0,,T. Wallace enters the game for T. Harris,105,120
+4,0:45.0,B. Bogdanović makes free throw 2 of 2,,106,120
+4,0:35.0,,Personal foul by I. Shumpert (drawn by S. Gilgeous-Alexander),106,120
+4,0:35.0,,S. Gilgeous-Alexander makes free throw 1 of 2,106,121
+4,0:35.0,,S. Gilgeous-Alexander makes free throw 2 of 2,106,122
+4,0:27.0,B. Hield misses 3-pt jump shot from 24 ft,,106,122
+4,0:24.0,Offensive rebound by I. Shumpert,,106,122
+4,0:23.0,B. Bogdanović misses 3-pt jump shot from 27 ft,,106,122
+4,0:20.0,Offensive rebound by I. Shumpert,,106,122
+4,0:15.0,Shooting foul by T. Wallace (drawn by I. Shumpert),,106,122
+4,0:15.0,I. Shumpert makes free throw 1 of 2,,107,122
+4,0:15.0,I. Shumpert makes free throw 2 of 2,,108,122

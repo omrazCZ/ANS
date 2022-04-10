@@ -1,0 +1,461 @@
+QUARTER,TIME_REMAINING,NEW ORLEANS_ACTION,SACRAMENTO_ACTION,NEW ORLEANS_SCORE,SACRAMENTO_SCORE
+1,11:44.0,,N. Bjelica makes 3-pt jump shot from 25 ft (assist by W. Cauley-Stein),0,3
+1,11:28.0,E. Payton makes 2-pt jump shot from 6 ft,,2,3
+1,11:18.0,,D. Fox misses 2-pt jump shot from 6 ft (block by I. Clark),2,3
+1,11:18.0,Defensive rebound by K. Williams,,2,3
+1,11:03.0,J. Okafor makes 2-pt dunk from 1 ft (assist by I. Clark),,4,3
+1,10:48.0,,H. Barnes makes 2-pt jump shot from 5 ft,4,5
+1,10:47.0,,Violation by Team (delay of game),4,5
+1,10:37.0,I. Clark makes 3-pt jump shot from 26 ft (assist by E. Payton),,7,5
+1,10:31.0,,Shooting foul by C. Wood (drawn by W. Cauley-Stein),7,5
+1,10:31.0,,W. Cauley-Stein makes free throw 1 of 2,7,6
+1,10:31.0,,W. Cauley-Stein makes free throw 2 of 2,7,7
+1,10:24.0,I. Clark misses 3-pt jump shot from 23 ft,,7,7
+1,10:21.0,,Defensive rebound by W. Cauley-Stein,7,7
+1,10:18.0,,B. Hield misses 3-pt jump shot from 26 ft (block by E. Payton),7,7
+1,10:15.0,,Offensive rebound by B. Hield,7,7
+1,10:13.0,,N. Bjelica makes 3-pt jump shot from 26 ft (assist by B. Hield),7,10
+1,10:05.0,C. Wood makes 2-pt dunk from 1 ft (assist by E. Payton),,9,10
+1,9:53.0,,D. Fox misses 2-pt jump shot from 3 ft,9,10
+1,9:51.0,Defensive rebound by C. Wood,,9,10
+1,9:46.0,I. Clark makes 3-pt jump shot from 25 ft (assist by E. Payton),,12,10
+1,9:35.0,,H. Barnes makes 2-pt layup from 2 ft (assist by D. Fox),12,12
+1,9:24.0,J. Okafor makes 3-pt jump shot from 25 ft (assist by K. Williams),,15,12
+1,9:17.0,,N. Bjelica makes 2-pt layup from 2 ft (assist by B. Hield),15,14
+1,9:09.0,Turnover by J. Okafor (traveling),,15,14
+1,9:02.0,,B. Hield misses 3-pt jump shot from 25 ft,15,14
+1,8:59.0,Defensive rebound by C. Wood,,15,14
+1,8:50.0,Turnover by C. Wood (bad pass; steal by D. Fox),,15,14
+1,8:47.0,,D. Fox makes 2-pt dunk from 2 ft,15,16
+1,8:37.0,I. Clark makes 3-pt jump shot from 25 ft,,18,16
+1,8:21.0,,N. Bjelica makes 2-pt jump shot from 6 ft (assist by D. Fox),18,18
+1,7:59.0,C. Wood misses 2-pt layup from 4 ft,,18,18
+1,7:56.0,Offensive rebound by C. Wood,,18,18
+1,7:56.0,C. Wood misses 2-pt layup from 1 ft,,18,18
+1,7:55.0,,Defensive rebound by D. Fox,18,18
+1,7:53.0,,B. Hield misses 3-pt jump shot from 25 ft,18,18
+1,7:50.0,Defensive rebound by K. Williams,,18,18
+1,7:46.0,Turnover by K. Williams (bad pass; steal by W. Cauley-Stein),,18,18
+1,7:39.0,,D. Fox makes 2-pt layup from 2 ft,18,20
+1,7:39.0,,Shooting foul by K. Williams (drawn by D. Fox),18,20
+1,7:39.0,,D. Fox makes free throw 1 of 1,18,21
+1,7:25.0,K. Williams misses 3-pt jump shot from 25 ft,,18,21
+1,7:20.0,,Defensive rebound by D. Fox,18,21
+1,7:18.0,,N. Bjelica makes 2-pt dunk at rim (assist by B. Hield),18,23
+1,7:12.0,Turnover by E. Payton (bad pass; steal by D. Fox),,18,23
+1,7:07.0,,D. Fox makes 2-pt layup from 2 ft,18,25
+1,7:02.0,Personal foul by W. Cauley-Stein (drawn by E. Payton),,18,25
+1,7:02.0,New Orleans full timeout,,18,25
+1,6:54.0,E. Payton misses 2-pt layup from 9 ft,,18,25
+1,6:51.0,Offensive rebound by J. Okafor,,18,25
+1,6:51.0,Shooting foul by W. Cauley-Stein (drawn by J. Okafor),,18,25
+1,6:51.0,J. Okafor makes free throw 1 of 2,,19,25
+1,6:51.0,J. Okafor makes free throw 2 of 2,,20,25
+1,6:31.0,,H. Barnes makes 2-pt hook shot from 4 ft,20,27
+1,6:25.0,K. Williams makes 2-pt layup from 2 ft,,22,27
+1,6:21.0,,Turnover by D. Fox (traveling),22,27
+1,6:21.0,,M. Bagley enters the game for W. Cauley-Stein,22,27
+1,6:01.0,E. Payton misses 2-pt jump shot from 6 ft,,22,27
+1,5:58.0,Offensive rebound by J. Okafor,,22,27
+1,5:58.0,J. Okafor misses 2-pt layup from 1 ft,,22,27
+1,5:57.0,,Defensive rebound by M. Bagley,22,27
+1,5:54.0,,B. Hield makes 2-pt layup from 1 ft (assist by D. Fox),22,29
+1,5:39.0,I. Clark makes 3-pt jump shot from 25 ft (assist by K. Williams),,25,29
+1,5:28.0,,B. Hield misses 3-pt jump shot from 25 ft (block by K. Williams),25,29
+1,5:26.0,Defensive rebound by C. Wood,,25,29
+1,5:23.0,,Violation by Team (kicked ball),25,29
+1,5:23.0,C. Diallo enters the game for K. Williams,,25,29
+1,5:23.0,S. Hill enters the game for C. Wood,,25,29
+1,5:23.0,,B. Bogdanović enters the game for N. Bjelica,25,29
+1,5:15.0,C. Diallo misses 2-pt jump shot from 14 ft,,25,29
+1,5:12.0,,Defensive rebound by M. Bagley,25,29
+1,5:06.0,,M. Bagley misses 3-pt jump shot from 25 ft,25,29
+1,5:02.0,Defensive rebound by S. Hill,,25,29
+1,4:58.0,S. Hill misses 2-pt layup from 2 ft,,25,29
+1,4:57.0,,Defensive rebound by M. Bagley,25,29
+1,4:57.0,,Sacramento full timeout,25,29
+1,4:57.0,K. Williams enters the game for J. Okafor,,25,29
+1,4:57.0,,C. Brewer enters the game for B. Hield,25,29
+1,4:41.0,,H. Barnes misses 2-pt jump shot from 10 ft,25,29
+1,4:35.0,,Offensive rebound by M. Bagley,25,29
+1,4:35.0,,M. Bagley makes 2-pt layup at rim,25,31
+1,4:27.0,I. Clark misses 3-pt jump shot from 25 ft,,25,31
+1,4:23.0,,Defensive rebound by C. Brewer,25,31
+1,4:12.0,,B. Bogdanović makes 2-pt layup from 2 ft,25,33
+1,4:03.0,E. Payton misses 3-pt jump shot from 26 ft,,25,33
+1,3:59.0,Offensive rebound by Team,,25,33
+1,3:52.0,K. Williams misses 3-pt jump shot from 25 ft,,25,33
+1,3:49.0,,Defensive rebound by M. Bagley,25,33
+1,3:30.0,,H. Barnes makes 3-pt jump shot from 23 ft,25,36
+1,3:12.0,E. Payton makes 3-pt jump shot from 23 ft (assist by I. Clark),,28,36
+1,2:59.0,,M. Bagley misses 2-pt jump shot from 4 ft,28,36
+1,2:56.0,Defensive rebound by K. Williams,,28,36
+1,2:51.0,I. Clark misses 3-pt jump shot from 26 ft,,28,36
+1,2:51.0,,Defensive rebound by H. Barnes,28,36
+1,2:36.0,,H. Barnes misses 2-pt jump shot from 10 ft,28,36
+1,2:34.0,Defensive rebound by I. Clark,,28,36
+1,2:21.0,E. Payton misses 3-pt jump shot from 25 ft,,28,36
+1,2:18.0,,Defensive rebound by M. Bagley,28,36
+1,2:15.0,,D. Fox makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),28,39
+1,1:56.0,I. Clark misses 3-pt jump shot from 26 ft,,28,39
+1,1:56.0,,Defensive rebound by Team,28,39
+1,1:56.0,D. Bertāns enters the game for I. Clark,,28,39
+1,1:38.0,,Personal foul by S. Hill (drawn by B. Bogdanović),28,39
+1,1:29.0,,B. Bogdanović misses 2-pt jump shot from 10 ft,28,39
+1,1:26.0,,Offensive rebound by M. Bagley,28,39
+1,1:26.0,,M. Bagley misses 2-pt layup at rim,28,39
+1,1:25.0,,Offensive rebound by B. Bogdanović,28,39
+1,1:20.0,,Turnover by B. Bogdanović (bad pass; steal by C. Diallo),28,39
+1,1:15.0,K. Williams makes 2-pt layup from 2 ft (assist by E. Payton),,30,39
+1,1:02.0,,M. Bagley misses 2-pt jump shot from 17 ft,30,39
+1,1:00.0,Defensive rebound by S. Hill,,30,39
+1,0:56.0,K. Williams misses 2-pt layup from 5 ft,,30,39
+1,0:54.0,,Defensive rebound by B. Bogdanović,30,39
+1,0:48.0,,D. Fox misses 3-pt jump shot from 25 ft,30,39
+1,0:45.0,Defensive rebound by C. Diallo,,30,39
+1,0:34.0,C. Diallo makes 2-pt layup from 2 ft (assist by E. Payton),,32,39
+1,0:34.0,,H. Barnes misses 3-pt jump shot from 30 ft,32,39
+1,0:20.0,Defensive rebound by E. Payton,,32,39
+1,0:03.0,S. Hill misses 3-pt jump shot from 23 ft,,32,39
+1,0:03.0,,Defensive rebound by D. Fox,32,39
+2,11:46.0,D. Bertāns misses 3-pt jump shot from 25 ft,,32,39
+2,11:43.0,,Defensive rebound by M. Bagley,32,39
+2,11:21.0,,C. Brewer misses 2-pt jump shot from 22 ft,32,39
+2,11:13.0,,Offensive rebound by W. Cauley-Stein,32,39
+2,11:13.0,,W. Cauley-Stein makes 2-pt dunk at rim,32,41
+2,11:09.0,S. Hill misses 3-pt jump shot from 26 ft,,32,41
+2,11:05.0,,Defensive rebound by W. Cauley-Stein,32,41
+2,11:01.0,,Shooting foul by S. Hill (drawn by M. Bagley),32,41
+2,11:01.0,,M. Bagley makes free throw 1 of 2,32,42
+2,11:01.0,J. Okafor enters the game for K. Williams,,32,42
+2,11:01.0,,M. Bagley makes free throw 2 of 2,32,43
+2,10:49.0,D. Bertāns misses 2-pt jump shot from 9 ft,,32,43
+2,10:46.0,Offensive rebound by J. Okafor,,32,43
+2,10:46.0,J. Okafor misses 2-pt layup from 1 ft,,32,43
+2,10:46.0,Offensive rebound by J. Okafor,,32,43
+2,10:34.0,Turnover by E. Payton (lost ball; steal by B. Bogdanović),,32,43
+2,10:21.0,,M. Bagley misses 2-pt jump shot from 12 ft,32,43
+2,10:18.0,Defensive rebound by C. Diallo,,32,43
+2,10:08.0,S. Hill makes 3-pt jump shot from 26 ft (assist by E. Payton),,35,43
+2,9:51.0,,M. Bagley makes 2-pt jump shot from 10 ft (assist by Y. Ferrell),35,45
+2,9:41.0,E. Payton makes 2-pt jump shot from 13 ft,,37,45
+2,9:29.0,,Y. Ferrell makes 2-pt jump shot from 18 ft,37,47
+2,9:09.0,Personal foul by Y. Ferrell (drawn by S. Hill),,37,47
+2,9:09.0,I. Clark enters the game for E. Payton,,37,47
+2,9:09.0,,N. Bjelica enters the game for M. Bagley,37,47
+2,9:09.0,Turnover by I. Clark (offensive foul),,37,47
+2,9:09.0,Offensive foul by I. Clark (drawn by Y. Ferrell),,37,47
+2,8:54.0,,B. Bogdanović misses 3-pt jump shot from 25 ft,37,47
+2,8:51.0,Defensive rebound by J. Okafor,,37,47
+2,8:43.0,D. Bertāns misses 3-pt jump shot from 23 ft,,37,47
+2,8:38.0,,Defensive rebound by B. Bogdanović,37,47
+2,8:36.0,,B. Bogdanović misses 2-pt layup from 3 ft,37,47
+2,8:36.0,Defensive rebound by D. Bertāns,,37,47
+2,8:30.0,D. Bertāns misses 2-pt jump shot from 22 ft,,37,47
+2,8:30.0,,Defensive rebound by Y. Ferrell,37,47
+2,8:11.0,,W. Cauley-Stein makes 2-pt jump shot from 13 ft (assist by N. Bjelica),37,49
+2,7:57.0,D. Bertāns misses 2-pt jump shot from 19 ft,,37,49
+2,7:53.0,,Defensive rebound by W. Cauley-Stein,37,49
+2,7:41.0,,B. Bogdanović misses 3-pt jump shot from 23 ft,37,49
+2,7:37.0,Defensive rebound by C. Diallo,,37,49
+2,7:31.0,Shooting foul by C. Brewer (drawn by I. Clark),,37,49
+2,7:31.0,I. Clark makes free throw 1 of 2,,38,49
+2,7:31.0,C. Wood enters the game for C. Diallo,,38,49
+2,7:31.0,,B. Hield enters the game for B. Bogdanović,38,49
+2,7:31.0,I. Clark makes free throw 2 of 2,,39,49
+2,7:19.0,,Y. Ferrell misses 3-pt jump shot from 25 ft,39,49
+2,7:15.0,Defensive rebound by J. Okafor,,39,49
+2,7:08.0,D. Bertāns makes 3-pt jump shot from 23 ft (assist by J. Okafor),,42,49
+2,6:50.0,,B. Hield makes 2-pt jump shot from 22 ft,42,51
+2,6:40.0,S. Hill misses 3-pt jump shot from 25 ft,,42,51
+2,6:36.0,,Defensive rebound by W. Cauley-Stein,42,51
+2,6:35.0,,Personal foul by S. Hill (drawn by B. Hield),42,51
+2,6:35.0,,Sacramento full timeout,42,51
+2,6:35.0,K. Williams enters the game for S. Hill,,42,51
+2,6:35.0,,D. Fox enters the game for C. Brewer,42,51
+2,6:25.0,,B. Hield makes 2-pt jump shot from 16 ft,42,53
+2,6:03.0,D. Bertāns makes 3-pt jump shot from 26 ft (assist by K. Williams),,45,53
+2,5:40.0,,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by N. Bjelica),45,55
+2,5:13.0,C. Wood misses 2-pt jump shot from 7 ft,,45,55
+2,5:12.0,Offensive rebound by J. Okafor,,45,55
+2,5:12.0,Turnover by Team (shot clock),,45,55
+2,5:12.0,,M. Bagley enters the game for W. Cauley-Stein,45,55
+2,5:03.0,,Shooting foul by D. Bertāns (drawn by D. Fox),45,55
+2,5:03.0,,D. Fox makes free throw 1 of 2,45,56
+2,5:03.0,E. Payton enters the game for D. Bertāns,,45,56
+2,5:03.0,,D. Fox makes free throw 2 of 2,45,57
+2,4:49.0,Turnover by K. Williams (bad pass; steal by Y. Ferrell),,45,57
+2,4:45.0,,M. Bagley makes 2-pt layup from 6 ft (assist by Y. Ferrell),45,59
+2,4:23.0,J. Okafor makes 2-pt layup from 2 ft,,47,59
+2,4:10.0,,Turnover by D. Fox (lost ball; steal by I. Clark),47,59
+2,4:07.0,I. Clark makes 2-pt layup from 2 ft,,49,59
+2,4:01.0,,D. Fox misses 2-pt dunk from 2 ft,49,59
+2,4:01.0,Defensive rebound by I. Clark,,49,59
+2,3:54.0,I. Clark makes 3-pt jump shot from 25 ft,,52,59
+2,3:53.0,,Sacramento full timeout,52,59
+2,3:53.0,C. Diallo enters the game for C. Wood,,52,59
+2,3:53.0,,H. Barnes enters the game for Y. Ferrell,52,59
+2,3:42.0,,M. Bagley makes 2-pt hook shot from 7 ft (assist by D. Fox),52,61
+2,3:27.0,I. Clark misses 2-pt layup from 3 ft (block by M. Bagley),,52,61
+2,3:23.0,,Defensive rebound by B. Hield,52,61
+2,3:19.0,,N. Bjelica misses 3-pt jump shot from 25 ft,52,61
+2,3:16.0,Defensive rebound by K. Williams,,52,61
+2,3:04.0,C. Diallo makes 2-pt layup from 2 ft (assist by J. Okafor),,54,61
+2,2:40.0,,H. Barnes misses 2-pt jump shot from 13 ft,54,61
+2,2:37.0,Defensive rebound by E. Payton,,54,61
+2,2:34.0,E. Payton makes 2-pt layup from 4 ft,,56,61
+2,2:34.0,Shooting foul by H. Barnes (drawn by E. Payton),,56,61
+2,2:34.0,E. Payton makes free throw 1 of 1,,57,61
+2,2:24.0,,B. Hield misses 3-pt jump shot from 26 ft (block by I. Clark),57,61
+2,2:20.0,Defensive rebound by E. Payton,,57,61
+2,2:12.0,E. Payton misses 3-pt jump shot from 25 ft,,57,61
+2,2:08.0,Offensive rebound by C. Diallo,,57,61
+2,2:05.0,J. Okafor makes 2-pt dunk from 1 ft (assist by E. Payton),,59,61
+2,1:48.0,,N. Bjelica makes 3-pt jump shot from 26 ft (assist by B. Hield),59,64
+2,1:30.0,J. Okafor makes 2-pt jump shot from 7 ft (assist by K. Williams),,61,64
+2,1:20.0,,D. Fox makes 2-pt jump shot from 2 ft,61,66
+2,1:05.0,I. Clark misses 2-pt jump shot from 7 ft,,61,66
+2,1:03.0,Offensive rebound by I. Clark,,61,66
+2,1:01.0,I. Clark makes 2-pt layup from 8 ft,,63,66
+2,0:47.0,,M. Bagley misses 2-pt layup from 3 ft (block by J. Okafor),63,66
+2,0:43.0,Defensive rebound by C. Diallo,,63,66
+2,0:43.0,Personal take foul by D. Fox (drawn by E. Payton),,63,66
+2,0:43.0,D. Bertāns enters the game for I. Clark,,63,66
+2,0:37.0,E. Payton misses 3-pt jump shot from 26 ft,,63,66
+2,0:31.0,,Defensive rebound by M. Bagley,63,66
+2,0:22.0,,H. Barnes makes 2-pt layup from 1 ft (assist by D. Fox),63,68
+2,0:01.0,K. Williams makes 3-pt jump shot from 26 ft,,66,68
+3,11:40.0,J. Okafor misses 2-pt hook shot from 7 ft (block by W. Cauley-Stein),,66,68
+3,11:32.0,Offensive rebound by J. Okafor,,66,68
+3,11:31.0,J. Okafor makes 2-pt layup from 7 ft,,68,68
+3,11:25.0,,H. Barnes misses 2-pt layup from 10 ft (block by E. Payton),68,68
+3,11:25.0,,Offensive rebound by H. Barnes,68,68
+3,11:25.0,,Shooting foul by J. Okafor (drawn by H. Barnes),68,68
+3,11:25.0,,H. Barnes makes free throw 1 of 2,68,69
+3,11:25.0,,H. Barnes makes free throw 2 of 2,68,70
+3,11:16.0,Shooting foul by N. Bjelica (drawn by C. Wood),,68,70
+3,11:16.0,C. Wood makes free throw 1 of 2,,69,70
+3,11:16.0,C. Wood makes free throw 2 of 2,,70,70
+3,11:05.0,,Shooting foul by K. Williams (drawn by W. Cauley-Stein),70,70
+3,11:05.0,,W. Cauley-Stein misses free throw 1 of 2,70,70
+3,11:05.0,,Offensive rebound by Team,70,70
+3,11:05.0,,W. Cauley-Stein makes free throw 2 of 2,70,71
+3,10:53.0,Turnover by E. Payton (bad pass; steal by D. Fox),,70,71
+3,10:48.0,,H. Barnes misses 3-pt jump shot from 26 ft,70,71
+3,10:46.0,,Offensive rebound by W. Cauley-Stein,70,71
+3,10:37.0,,W. Cauley-Stein misses 2-pt hook shot from 4 ft (block by J. Okafor),70,71
+3,10:34.0,,Offensive rebound by H. Barnes,70,71
+3,10:33.0,,D. Fox misses 3-pt jump shot from 25 ft,70,71
+3,10:29.0,Defensive rebound by J. Okafor,,70,71
+3,10:16.0,C. Wood makes 3-pt jump shot from 24 ft (assist by K. Williams),,73,71
+3,10:00.0,,N. Bjelica misses 2-pt hook shot from 3 ft,73,71
+3,9:57.0,Defensive rebound by J. Okafor,,73,71
+3,9:38.0,C. Wood makes 2-pt jump shot from 19 ft (assist by E. Payton),,75,71
+3,9:28.0,,Personal foul by I. Clark (drawn by W. Cauley-Stein),75,71
+3,9:25.0,,Offensive foul by B. Hield (drawn by I. Clark),75,71
+3,9:25.0,,Turnover by B. Hield (offensive foul),75,71
+3,9:16.0,C. Wood makes 3-pt jump shot from 26 ft (assist by E. Payton),,78,71
+3,9:14.0,,Sacramento full timeout,78,71
+3,8:55.0,,Shooting foul by K. Williams (drawn by H. Barnes),78,71
+3,8:55.0,,H. Barnes makes free throw 1 of 2,78,72
+3,8:55.0,,H. Barnes misses free throw 2 of 2,78,72
+3,8:52.0,Defensive rebound by C. Wood,,78,72
+3,8:33.0,K. Williams makes 3-pt jump shot from 26 ft,,81,72
+3,8:18.0,,H. Barnes makes 2-pt layup from 2 ft (assist by W. Cauley-Stein),81,74
+3,8:01.0,C. Wood misses 2-pt jump shot from 19 ft,,81,74
+3,7:58.0,,Defensive rebound by D. Fox,81,74
+3,7:51.0,,W. Cauley-Stein misses 2-pt layup from 2 ft (block by K. Williams),81,74
+3,7:46.0,,Offensive rebound by W. Cauley-Stein,81,74
+3,7:46.0,,W. Cauley-Stein misses 2-pt layup from 1 ft,81,74
+3,7:46.0,,Offensive rebound by D. Fox,81,74
+3,7:45.0,,D. Fox makes 2-pt layup from 2 ft,81,76
+3,7:33.0,J. Okafor makes 2-pt jump shot from 7 ft (assist by E. Payton),,83,76
+3,7:26.0,,Turnover by B. Hield (bad pass; steal by E. Payton),83,76
+3,7:20.0,I. Clark makes 3-pt jump shot from 23 ft (assist by E. Payton),,86,76
+3,7:08.0,,D. Fox misses 2-pt jump shot from 22 ft,86,76
+3,7:05.0,Defensive rebound by J. Okafor,,86,76
+3,7:00.0,I. Clark makes 2-pt layup from 2 ft (assist by E. Payton),,88,76
+3,7:00.0,,Sacramento full timeout,88,76
+3,7:00.0,D. Bertāns enters the game for E. Payton,,88,76
+3,7:00.0,C. Diallo enters the game for K. Williams,,88,76
+3,7:00.0,S. Hill enters the game for C. Wood,,88,76
+3,7:00.0,,B. Bogdanović enters the game for N. Bjelica,88,76
+3,6:51.0,,B. Hield misses 2-pt jump shot from 10 ft,88,76
+3,6:47.0,Defensive rebound by C. Diallo,,88,76
+3,6:30.0,J. Okafor makes 2-pt layup from 2 ft,,90,76
+3,6:22.0,,D. Fox makes 2-pt jump shot from 19 ft,90,78
+3,6:14.0,I. Clark misses 3-pt jump shot from 27 ft,,90,78
+3,6:11.0,Offensive rebound by I. Clark,,90,78
+3,5:57.0,J. Okafor makes 2-pt jump shot from 12 ft,,92,78
+3,5:42.0,,W. Cauley-Stein misses 2-pt jump shot from 16 ft,92,78
+3,5:39.0,Defensive rebound by J. Okafor,,92,78
+3,5:31.0,J. Okafor makes 2-pt jump shot from 8 ft,,94,78
+3,5:13.0,,Shooting foul by C. Diallo (drawn by H. Barnes),94,78
+3,5:13.0,,H. Barnes makes free throw 1 of 2,94,79
+3,5:13.0,,M. Bagley enters the game for W. Cauley-Stein,94,79
+3,5:13.0,,Y. Ferrell enters the game for D. Fox,94,79
+3,5:13.0,,H. Barnes makes free throw 2 of 2,94,80
+3,5:00.0,I. Clark makes 2-pt jump shot from 12 ft,,96,80
+3,4:43.0,,M. Bagley makes 3-pt jump shot from 25 ft (assist by H. Barnes),96,83
+3,4:32.0,Turnover by C. Diallo (lost ball; steal by B. Hield),,96,83
+3,4:28.0,,B. Hield makes 3-pt jump shot from 25 ft,96,86
+3,4:16.0,S. Hill misses 2-pt jump shot from 16 ft,,96,86
+3,4:12.0,,Defensive rebound by Y. Ferrell,96,86
+3,4:09.0,,H. Barnes misses 3-pt jump shot from 25 ft,96,86
+3,4:04.0,Defensive rebound by S. Hill,,96,86
+3,4:03.0,Personal foul by Y. Ferrell (drawn by I. Clark),,96,86
+3,4:03.0,E. Payton enters the game for I. Clark,,96,86
+3,4:03.0,,D. Fox enters the game for B. Hield,96,86
+3,4:02.0,Turnover by E. Payton (out of bounds lost ball),,96,86
+3,4:02.0,C. Wood enters the game for J. Okafor,,96,86
+3,3:48.0,,M. Bagley makes 2-pt hook shot from 4 ft (assist by D. Fox),96,88
+3,3:32.0,S. Hill makes 2-pt jump shot from 11 ft,,98,88
+3,3:22.0,,Y. Ferrell misses 2-pt layup from 3 ft,98,88
+3,3:22.0,,Offensive rebound by D. Fox,98,88
+3,3:16.0,,M. Bagley makes 2-pt hook shot from 12 ft,98,90
+3,2:52.0,Turnover by C. Diallo (lost ball; steal by B. Bogdanović),,98,90
+3,2:47.0,,B. Bogdanović makes 3-pt jump shot from 25 ft,98,93
+3,2:38.0,New Orleans full timeout,,98,93
+3,2:31.0,E. Payton makes 2-pt jump shot from 10 ft,,100,93
+3,2:15.0,,D. Fox makes 2-pt jump shot from 9 ft,100,95
+3,2:05.0,C. Wood misses 2-pt layup from 7 ft,,100,95
+3,2:02.0,,Defensive rebound by B. Bogdanović,100,95
+3,1:57.0,,B. Bogdanović misses 2-pt jump shot from 20 ft,100,95
+3,1:53.0,,Offensive rebound by M. Bagley,100,95
+3,1:41.0,,D. Fox makes 2-pt layup from 2 ft,100,97
+3,1:27.0,E. Payton misses 2-pt layup from 4 ft (block by D. Fox),,100,97
+3,1:27.0,Offensive rebound by Team,,100,97
+3,1:27.0,New Orleans full timeout,,100,97
+3,1:22.0,D. Bertāns misses 3-pt jump shot from 26 ft,,100,97
+3,1:17.0,,Defensive rebound by Y. Ferrell,100,97
+3,1:16.0,,H. Barnes makes 2-pt dunk from 1 ft (assist by Y. Ferrell),100,99
+3,0:58.0,C. Wood misses 3-pt jump shot from 25 ft,,100,99
+3,0:54.0,Offensive rebound by C. Diallo,,100,99
+3,0:52.0,E. Payton misses 3-pt jump shot from 25 ft,,100,99
+3,0:49.0,,Defensive rebound by M. Bagley,100,99
+3,0:41.0,,M. Bagley misses 3-pt jump shot from 25 ft,100,99
+3,0:37.0,Defensive rebound by D. Bertāns,,100,99
+3,0:30.0,E. Payton makes 2-pt layup from 3 ft (assist by S. Hill),,102,99
+3,0:18.0,,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by D. Fox),102,102
+3,0:01.0,Turnover by E. Payton (bad pass; steal by Y. Ferrell),,102,102
+4,11:46.0,,M. Bagley misses 2-pt hook shot from 8 ft,102,102
+4,11:42.0,Defensive rebound by E. Payton,,102,102
+4,11:34.0,Turnover by C. Diallo (out of bounds lost ball),,102,102
+4,11:25.0,,Y. Ferrell misses 2-pt jump shot from 15 ft (block by E. Payton),102,102
+4,11:25.0,,Offensive rebound by Team,102,102
+4,11:19.0,,B. Bogdanović misses 3-pt jump shot from 23 ft,102,102
+4,11:17.0,Defensive rebound by S. Hill,,102,102
+4,11:09.0,Personal foul by C. Brewer (drawn by S. Hill),,102,102
+4,10:56.0,I. Clark makes 3-pt jump shot from 23 ft (assist by E. Payton),,105,102
+4,10:44.0,,Personal foul by C. Diallo (drawn by M. Bagley),105,102
+4,10:36.0,,Y. Ferrell misses 3-pt jump shot from 25 ft,105,102
+4,10:32.0,Defensive rebound by J. Okafor,,105,102
+4,10:24.0,I. Clark misses 3-pt jump shot from 26 ft,,105,102
+4,10:20.0,,Defensive rebound by C. Brewer,105,102
+4,10:16.0,,Shooting foul by S. Hill (drawn by M. Bagley),105,102
+4,10:16.0,,M. Bagley misses free throw 1 of 2,105,102
+4,10:16.0,,Offensive rebound by Team,105,102
+4,10:16.0,,M. Bagley misses free throw 2 of 2,105,102
+4,10:13.0,Defensive rebound by J. Okafor,,105,102
+4,9:59.0,S. Hill makes 3-pt jump shot from 24 ft (assist by C. Diallo),,108,102
+4,9:34.0,,T. Williams misses 3-pt jump shot from 25 ft,108,102
+4,9:30.0,Defensive rebound by C. Diallo,,108,102
+4,9:22.0,Turnover by E. Payton (lost ball; steal by Y. Ferrell),,108,102
+4,9:16.0,,T. Williams misses 2-pt layup from 7 ft (block by S. Hill),108,102
+4,9:14.0,,Offensive rebound by C. Brewer,108,102
+4,9:13.0,,C. Brewer misses 2-pt layup from 3 ft,108,102
+4,9:11.0,Defensive rebound by E. Payton,,108,102
+4,9:05.0,S. Hill makes 3-pt jump shot from 25 ft (assist by I. Clark),,111,102
+4,9:04.0,,Sacramento full timeout,111,102
+4,9:04.0,Technical foul by,,111,102
+4,9:04.0,,H. Barnes enters the game for C. Brewer,111,102
+4,9:04.0,,B. Hield enters the game for T. Williams,111,102
+4,9:04.0,I. Clark misses technical free throw,,111,102
+4,9:04.0,,Defensive rebound by Team,111,102
+4,8:54.0,,B. Bogdanović misses 2-pt jump shot from 14 ft,111,102
+4,8:49.0,,M. Bagley makes 2-pt layup from 1 ft,111,104
+4,8:49.0,,Offensive rebound by M. Bagley,111,104
+4,8:29.0,I. Clark misses 3-pt jump shot from 26 ft,,111,104
+4,8:28.0,,Defensive rebound by Team,111,104
+4,8:11.0,,Turnover by B. Hield (lost ball; steal by I. Clark),111,104
+4,7:59.0,J. Okafor misses 2-pt layup from 2 ft,,111,104
+4,7:56.0,,Defensive rebound by B. Bogdanović,111,104
+4,7:54.0,,Personal foul by C. Diallo (drawn by B. Hield),111,104
+4,7:54.0,C. Wood enters the game for C. Diallo,,111,104
+4,7:45.0,,B. Bogdanović makes 2-pt jump shot from 10 ft,111,106
+4,7:31.0,E. Payton misses 2-pt hook shot from 8 ft,,111,106
+4,7:27.0,Offensive rebound by C. Wood,,111,106
+4,7:26.0,C. Wood misses 2-pt layup from 2 ft,,111,106
+4,7:25.0,Offensive rebound by C. Wood,,111,106
+4,7:24.0,C. Wood makes 2-pt dunk at rim,,113,106
+4,7:15.0,,M. Bagley misses 2-pt jump shot from 8 ft,113,106
+4,7:15.0,Defensive rebound by S. Hill,,113,106
+4,6:54.0,S. Hill makes 2-pt dunk from 2 ft (assist by J. Okafor),,115,106
+4,6:40.0,,B. Hield makes 3-pt jump shot from 25 ft (assist by Y. Ferrell),115,109
+4,6:20.0,S. Hill misses 2-pt jump shot from 16 ft,,115,109
+4,6:18.0,,Defensive rebound by B. Hield,115,109
+4,6:14.0,,Y. Ferrell makes 3-pt jump shot from 22 ft (assist by B. Hield),115,112
+4,6:04.0,New Orleans full timeout,,115,112
+4,6:04.0,D. Bertāns enters the game for J. Okafor,,115,112
+4,6:04.0,C. Diallo enters the game for E. Payton,,115,112
+4,6:04.0,,D. Fox enters the game for Y. Ferrell,115,112
+4,5:56.0,C. Wood misses 2-pt jump shot from 15 ft,,115,112
+4,5:52.0,,Defensive rebound by H. Barnes,115,112
+4,5:43.0,,Personal foul by C. Diallo (drawn by M. Bagley),115,112
+4,5:35.0,,H. Barnes makes 3-pt jump shot from 25 ft (assist by D. Fox),115,115
+4,5:13.0,S. Hill misses 3-pt jump shot from 25 ft,,115,115
+4,5:08.0,,Defensive rebound by M. Bagley,115,115
+4,5:02.0,,D. Fox makes 2-pt layup from 3 ft,115,117
+4,4:39.0,I. Clark misses 3-pt jump shot from 27 ft (block by H. Barnes),,115,117
+4,4:33.0,,Defensive rebound by B. Hield,115,117
+4,4:29.0,,B. Hield misses 2-pt layup from 4 ft,115,117
+4,4:27.0,Defensive rebound by C. Diallo,,115,117
+4,4:25.0,New Orleans full timeout,,115,117
+4,4:25.0,E. Payton enters the game for I. Clark,,115,117
+4,4:25.0,K. Williams enters the game for S. Hill,,115,117
+4,4:09.0,C. Wood misses 2-pt jump shot from 8 ft,,115,117
+4,4:04.0,Offensive rebound by C. Diallo,,115,117
+4,4:04.0,C. Diallo makes 2-pt layup at rim,,117,117
+4,3:52.0,,H. Barnes misses 2-pt jump shot from 19 ft,117,117
+4,3:51.0,,Offensive rebound by M. Bagley,117,117
+4,3:51.0,,M. Bagley misses 2-pt layup from 3 ft,117,117
+4,3:50.0,Defensive rebound by E. Payton,,117,117
+4,3:37.0,E. Payton makes 2-pt jump shot from 6 ft (assist by C. Diallo),,119,117
+4,3:24.0,,D. Fox misses 2-pt jump shot from 7 ft (block by C. Wood),119,117
+4,3:24.0,,Offensive rebound by Team,119,117
+4,3:24.0,J. Okafor enters the game for C. Wood,,119,117
+4,3:17.0,,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by B. Hield),119,120
+4,3:06.0,C. Diallo makes 2-pt jump shot from 10 ft (assist by E. Payton),,121,120
+4,2:52.0,,H. Barnes makes 3-pt jump shot from 26 ft (assist by D. Fox),121,123
+4,2:37.0,E. Payton makes 2-pt jump shot from 10 ft,,123,123
+4,2:24.0,,B. Hield misses 3-pt jump shot from 23 ft,123,123
+4,2:21.0,Defensive rebound by C. Diallo,,123,123
+4,2:07.0,E. Payton makes 3-pt jump shot from 25 ft,,126,123
+4,1:54.0,,D. Fox misses 2-pt jump shot from 14 ft,126,123
+4,1:50.0,Defensive rebound by K. Williams,,126,123
+4,1:29.0,K. Williams makes 2-pt jump shot from 12 ft,,128,123
+4,1:29.0,,Sacramento full timeout,128,123
+4,1:29.0,I. Clark enters the game for D. Bertāns,,128,123
+4,1:29.0,S. Hill enters the game for C. Diallo,,128,123
+4,1:20.0,,B. Hield misses 3-pt jump shot from 25 ft,128,123
+4,1:18.0,Defensive rebound by S. Hill,,128,123
+4,1:18.0,Personal foul by B. Hield (drawn by S. Hill),,128,123
+4,0:54.0,E. Payton makes 2-pt jump shot from 6 ft,,130,123
+4,0:46.0,,B. Bogdanović misses 3-pt jump shot from 25 ft,130,123
+4,0:43.0,,Offensive rebound by B. Hield,130,123
+4,0:33.0,,H. Barnes makes 3-pt jump shot from 26 ft (assist by D. Fox),130,126
+4,0:26.0,Personal foul by B. Bogdanović (drawn by E. Payton),,130,126
+4,0:26.0,E. Payton makes free throw 1 of 2,,131,126
+4,0:26.0,E. Payton makes free throw 2 of 2,,132,126
+4,0:21.0,,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by D. Fox),132,129
+4,0:14.0,Turnover by K. Williams (bad pass),,132,129
+4,0:08.0,,B. Bogdanović misses 3-pt jump shot from 27 ft,132,129
+4,0:07.0,Defensive rebound by Team,,132,129
+4,0:07.0,New Orleans full timeout,,132,129
+4,0:07.0,D. Bertāns enters the game for J. Okafor,,132,129
+4,0:05.0,Personal foul by H. Barnes (drawn by E. Payton),,132,129
+4,0:05.0,E. Payton misses free throw 1 of 2,,132,129
+4,0:05.0,Offensive rebound by Team,,132,129
+4,0:05.0,E. Payton makes free throw 2 of 2,,133,129
+4,0:00.0,,B. Hield misses 3-pt jump shot from 25 ft,133,129
+4,0:00.0,,Offensive rebound by Team,133,129

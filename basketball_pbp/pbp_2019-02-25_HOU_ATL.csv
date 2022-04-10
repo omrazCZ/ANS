@@ -1,0 +1,459 @@
+QUARTER,TIME_REMAINING,ATLANTA_ACTION,HOUSTON_ACTION,ATLANTA_SCORE,HOUSTON_SCORE
+1,11:42.0,K. Bazemore makes 2-pt layup from 4 ft,,2,0
+1,11:21.0,,C. Capela misses 2-pt layup from 7 ft (block by D. Dedmon),2,0
+1,11:21.0,,Offensive rebound by Team,2,0
+1,11:15.0,,J. Harden makes 2-pt jump shot from 2 ft,2,2
+1,10:54.0,Turnover by K. Bazemore (bad pass; steal by P. Tucker),,2,2
+1,10:47.0,,K. Faried makes 2-pt hook shot from 7 ft (assist by J. Harden),2,4
+1,10:36.0,K. Huerter makes 3-pt jump shot from 28 ft (assist by T. Young),,5,4
+1,10:19.0,,C. Capela makes 2-pt dunk from 2 ft (assist by C. Paul),5,6
+1,10:05.0,T. Young misses 2-pt jump shot from 10 ft,,5,6
+1,10:04.0,,Defensive rebound by Team,5,6
+1,9:57.0,,J. Harden makes 2-pt jump shot from 4 ft,5,8
+1,9:40.0,K. Bazemore misses 2-pt layup from 3 ft,,5,8
+1,9:39.0,,Defensive rebound by P. Tucker,5,8
+1,9:35.0,,Turnover by J. Harden (bad pass; steal by D. Dedmon),5,8
+1,9:33.0,Shooting foul by P. Tucker (drawn by K. Bazemore),,5,8
+1,9:33.0,K. Bazemore makes free throw 1 of 2,,6,8
+1,9:33.0,K. Bazemore makes free throw 2 of 2,,7,8
+1,9:20.0,,K. Faried makes 3-pt jump shot from 23 ft (assist by J. Harden),7,11
+1,9:03.0,T. Young makes 3-pt jump shot from 27 ft (assist by D. Dedmon),,10,11
+1,8:52.0,,Personal foul by D. Dedmon (drawn by C. Capela),10,11
+1,8:41.0,,J. Harden misses 3-pt jump shot from 26 ft,10,11
+1,8:38.0,Defensive rebound by J. Collins,,10,11
+1,8:32.0,T. Young misses 2-pt layup from 4 ft (block by K. Faried),,10,11
+1,8:28.0,,Defensive rebound by J. Harden,10,11
+1,8:25.0,,P. Tucker makes 3-pt jump shot from 22 ft (assist by C. Paul),10,14
+1,8:12.0,Offensive foul by K. Bazemore (drawn by P. Tucker),,10,14
+1,8:12.0,Turnover by K. Bazemore (offensive foul),,10,14
+1,8:12.0,,E. Gordon enters the game for C. Capela,10,14
+1,7:59.0,,P. Tucker misses 3-pt jump shot from 24 ft,10,14
+1,7:56.0,Defensive rebound by K. Huerter,,10,14
+1,7:47.0,Turnover by K. Bazemore (bad pass; steal by P. Tucker),,10,14
+1,7:34.0,,J. Harden misses 2-pt layup from 5 ft,10,14
+1,7:31.0,,Offensive rebound by K. Faried,10,14
+1,7:26.0,,C. Paul makes 2-pt jump shot from 15 ft,10,16
+1,7:05.0,Turnover by J. Collins (out of bounds lost ball),,10,16
+1,6:57.0,,Shooting foul by T. Young (drawn by J. Harden),10,16
+1,6:57.0,,Houston full timeout,10,16
+1,6:57.0,Technical foul by K. Bazemore,,10,16
+1,6:57.0,D. Bembry enters the game for K. Bazemore,,10,16
+1,6:57.0,V. Carter enters the game for K. Huerter,,10,16
+1,6:57.0,,A. Rivers enters the game for C. Paul,10,16
+1,6:57.0,,J. Harden makes technical free throw,10,17
+1,6:57.0,,J. Harden makes free throw 1 of 2,10,18
+1,6:57.0,,J. Harden makes free throw 2 of 2,10,19
+1,6:35.0,T. Young makes 3-pt jump shot from 31 ft (assist by D. Bembry),,13,19
+1,6:15.0,,Shooting foul by D. Bembry (drawn by J. Harden),13,19
+1,6:15.0,,J. Harden misses free throw 1 of 3,13,19
+1,6:15.0,,Offensive rebound by Team,13,19
+1,6:15.0,,J. Harden makes free throw 2 of 3,13,20
+1,6:15.0,,J. Harden makes free throw 3 of 3,13,21
+1,5:56.0,T. Young misses 2-pt layup from 7 ft,,13,21
+1,5:56.0,,Defensive rebound by Team,13,21
+1,5:38.0,,A. Rivers misses 3-pt jump shot from 26 ft,13,21
+1,5:35.0,Defensive rebound by D. Bembry,,13,21
+1,5:27.0,D. Dedmon misses 3-pt jump shot from 28 ft,,13,21
+1,5:25.0,,Defensive rebound by E. Gordon,13,21
+1,5:13.0,,Turnover by J. Harden (out of bounds lost ball),13,21
+1,5:13.0,J. Adams enters the game for J. Collins,,13,21
+1,5:13.0,O. Spellman enters the game for T. Young,,13,21
+1,4:51.0,Turnover by V. Carter (bad pass; steal by P. Tucker),,13,21
+1,4:45.0,,E. Gordon misses 3-pt jump shot from 28 ft,13,21
+1,4:41.0,Defensive rebound by J. Adams,,13,21
+1,4:29.0,V. Carter misses 2-pt jump shot from 9 ft,,13,21
+1,4:28.0,Offensive rebound by O. Spellman,,13,21
+1,4:28.0,O. Spellman misses 2-pt layup from 3 ft,,13,21
+1,4:27.0,Offensive rebound by O. Spellman,,13,21
+1,4:23.0,J. Adams makes 3-pt jump shot from 29 ft (assist by O. Spellman),,16,21
+1,4:14.0,,Turnover by J. Harden (bad pass),16,21
+1,4:14.0,,C. Capela enters the game for K. Faried,16,21
+1,4:14.0,,G. Green enters the game for P. Tucker,16,21
+1,4:00.0,D. Dedmon makes 2-pt layup from 3 ft (assist by D. Bembry),,18,21
+1,3:43.0,,G. Green makes 3-pt jump shot from 26 ft (assist by J. Harden),18,24
+1,3:19.0,J. Adams misses 2-pt jump shot from 8 ft,,18,24
+1,3:16.0,,Defensive rebound by C. Capela,18,24
+1,3:10.0,,J. Harden misses 3-pt jump shot from 27 ft,18,24
+1,3:05.0,,Offensive rebound by C. Capela,18,24
+1,3:05.0,,C. Capela makes 2-pt layup from 1 ft,18,26
+1,2:48.0,D. Dedmon makes 2-pt hook shot from 9 ft (assist by J. Adams),,20,26
+1,2:38.0,,Personal foul by J. Adams (drawn by E. Gordon),20,26
+1,2:38.0,Atlanta full timeout,,20,26
+1,2:38.0,A. Len enters the game for D. Dedmon,,20,26
+1,2:38.0,,C. Paul enters the game for J. Harden,20,26
+1,2:30.0,,E. Gordon makes 2-pt layup from 1 ft (assist by C. Paul),20,28
+1,2:13.0,V. Carter makes 2-pt jump shot from 9 ft,,22,28
+1,1:59.0,,Personal foul by J. Adams (drawn by C. Paul),22,28
+1,1:59.0,,C. Paul makes free throw 1 of 2,22,29
+1,1:59.0,,C. Paul makes free throw 2 of 2,22,30
+1,1:50.0,J. Adams makes 3-pt jump shot from 28 ft,,25,30
+1,1:37.0,,G. Green makes 3-pt jump shot from 26 ft (assist by E. Gordon),25,33
+1,1:27.0,V. Carter misses 3-pt jump shot from 25 ft,,25,33
+1,1:24.0,,Defensive rebound by C. Paul,25,33
+1,1:12.0,,Turnover by G. Green (lost ball; steal by O. Spellman),25,33
+1,1:04.0,O. Spellman misses 3-pt jump shot from 27 ft,,25,33
+1,1:01.0,,Defensive rebound by C. Capela,25,33
+1,0:50.0,,A. Rivers misses 2-pt jump shot from 7 ft,25,33
+1,0:48.0,,Offensive rebound by A. Rivers,25,33
+1,0:36.0,,C. Paul makes 3-pt jump shot from 27 ft,25,36
+1,0:24.0,V. Carter makes 3-pt jump shot from 25 ft (assist by D. Bembry),,28,36
+1,0:05.0,,G. Green makes 3-pt jump shot from 29 ft (assist by C. Paul),28,39
+1,0:01.0,J. Adams misses 3-pt jump shot from 29 ft,,28,39
+1,0:01.0,Offensive rebound by Team,,28,39
+2,11:47.0,,E. Gordon misses 2-pt layup from 4 ft (block by J. Adams),28,39
+2,11:44.0,Defensive rebound by O. Spellman,,28,39
+2,11:31.0,O. Spellman makes 2-pt dunk from 3 ft (assist by T. Young),,30,39
+2,11:15.0,,I. Shumpert makes 2-pt jump shot from 18 ft,30,41
+2,11:01.0,Shooting foul by I. Shumpert (drawn by J. Collins),,30,41
+2,11:01.0,J. Collins makes free throw 1 of 2,,31,41
+2,11:01.0,J. Collins makes free throw 2 of 2,,32,41
+2,10:47.0,,E. Gordon misses 3-pt jump shot from 29 ft,32,41
+2,10:44.0,,Offensive rebound by G. Green,32,41
+2,10:41.0,,C. Capela makes 2-pt layup from 3 ft (assist by G. Green),32,43
+2,10:26.0,T. Young makes 3-pt jump shot from 28 ft,,35,43
+2,10:06.0,,C. Paul makes 3-pt jump shot from 26 ft,35,46
+2,9:53.0,O. Spellman misses 3-pt jump shot from 23 ft,,35,46
+2,9:50.0,,Defensive rebound by C. Paul,35,46
+2,9:45.0,,G. Green misses 3-pt jump shot from 28 ft,35,46
+2,9:41.0,Defensive rebound by J. Adams,,35,46
+2,9:27.0,J. Collins makes 2-pt jump shot from 8 ft,,37,46
+2,9:14.0,,I. Shumpert makes 3-pt jump shot from 23 ft (assist by G. Green),37,49
+2,8:58.0,T. Young misses 3-pt jump shot from 28 ft,,37,49
+2,8:56.0,Offensive rebound by O. Spellman,,37,49
+2,8:56.0,O. Spellman misses 2-pt dunk at rim,,37,49
+2,8:56.0,,Defensive rebound by Team,37,49
+2,8:56.0,,K. Faried enters the game for G. Green,37,49
+2,8:45.0,,Personal foul by K. Bazemore (drawn by C. Paul),37,49
+2,8:45.0,D. Dedmon enters the game for J. Adams,,37,49
+2,8:45.0,K. Huerter enters the game for O. Spellman,,37,49
+2,8:36.0,,Turnover by E. Gordon (traveling),37,49
+2,8:19.0,K. Bazemore makes 2-pt jump shot from 12 ft (assist by K. Huerter),,39,49
+2,8:11.0,,I. Shumpert misses 3-pt jump shot from 26 ft,39,49
+2,8:11.0,Defensive rebound by J. Collins,,39,49
+2,7:56.0,Turnover by K. Huerter (bad pass),,39,49
+2,7:48.0,,Turnover by E. Gordon (step out of bounds),39,49
+2,7:48.0,,J. Harden enters the game for C. Paul,39,49
+2,7:37.0,Shooting foul by E. Gordon (drawn by T. Young),,39,49
+2,7:37.0,T. Young makes free throw 1 of 2,,40,49
+2,7:37.0,T. Young makes free throw 2 of 2,,41,49
+2,7:20.0,,I. Shumpert misses 3-pt jump shot from 23 ft,41,49
+2,7:17.0,Defensive rebound by D. Dedmon,,41,49
+2,7:11.0,K. Bazemore misses 3-pt jump shot from 23 ft,,41,49
+2,7:07.0,Offensive rebound by D. Dedmon,,41,49
+2,7:05.0,D. Dedmon misses 2-pt layup from 5 ft,,41,49
+2,7:05.0,Offensive rebound by J. Collins,,41,49
+2,7:01.0,J. Collins makes 2-pt dunk at rim,,43,49
+2,6:46.0,,K. Faried misses 3-pt jump shot from 26 ft,43,49
+2,6:46.0,Defensive rebound by Team,,43,49
+2,6:46.0,,Houston full timeout,43,49
+2,6:46.0,,A. Rivers enters the game for C. Capela,43,49
+2,6:46.0,,P. Tucker enters the game for E. Gordon,43,49
+2,6:32.0,D. Dedmon misses 3-pt jump shot from 26 ft,,43,49
+2,6:30.0,,Defensive rebound by J. Harden,43,49
+2,6:16.0,,J. Harden misses 2-pt jump shot from 4 ft,43,49
+2,6:12.0,Defensive rebound by J. Collins,,43,49
+2,6:06.0,J. Collins misses 2-pt layup from 5 ft (block by A. Rivers),,43,49
+2,6:03.0,Offensive rebound by J. Collins,,43,49
+2,6:00.0,K. Bazemore makes 3-pt jump shot from 23 ft (assist by J. Collins),,46,49
+2,5:43.0,,A. Rivers makes 2-pt layup from 3 ft (assist by P. Tucker),46,51
+2,5:43.0,,Shooting foul by D. Dedmon (drawn by A. Rivers),46,51
+2,5:43.0,,A. Rivers makes free throw 1 of 1,46,52
+2,5:28.0,T. Young makes 2-pt layup from 5 ft,,48,52
+2,5:15.0,,J. Harden misses 3-pt jump shot from 27 ft,48,52
+2,5:14.0,Defensive rebound by J. Collins,,48,52
+2,5:06.0,J. Collins makes 2-pt dunk from 2 ft (assist by T. Young),,50,52
+2,4:55.0,,Turnover by J. Harden (bad pass),50,52
+2,4:55.0,,C. Capela enters the game for I. Shumpert,50,52
+2,4:49.0,Personal foul by A. Rivers (drawn by T. Young),,50,52
+2,4:49.0,,C. Paul enters the game for A. Rivers,50,52
+2,4:45.0,K. Bazemore makes 3-pt jump shot from 29 ft (assist by D. Dedmon),,53,52
+2,4:27.0,,Turnover by K. Faried (bad pass; steal by D. Dedmon),53,52
+2,4:20.0,K. Bazemore misses 3-pt jump shot from 23 ft,,53,52
+2,4:18.0,,Defensive rebound by P. Tucker,53,52
+2,4:10.0,,J. Harden misses 2-pt layup from 3 ft,53,52
+2,4:07.0,,Offensive rebound by K. Faried,53,52
+2,4:07.0,,K. Faried misses 2-pt layup from 1 ft,53,52
+2,4:05.0,,Offensive rebound by K. Faried,53,52
+2,4:05.0,,K. Faried makes 2-pt layup from 1 ft,53,54
+2,3:54.0,D. Dedmon misses 3-pt jump shot from 27 ft,,53,54
+2,3:52.0,,Defensive rebound by C. Capela,53,54
+2,3:40.0,,Shooting foul by K. Huerter (drawn by J. Harden),53,54
+2,3:40.0,,J. Harden makes free throw 1 of 2,53,55
+2,3:40.0,D. Bembry enters the game for K. Bazemore,,53,55
+2,3:40.0,O. Spellman enters the game for J. Collins,,53,55
+2,3:40.0,,J. Harden makes free throw 2 of 2,53,56
+2,3:29.0,T. Young makes 3-pt jump shot from 32 ft,,56,56
+2,3:03.0,,P. Tucker misses 2-pt jump shot from 8 ft,56,56
+2,3:00.0,,Offensive rebound by K. Faried,56,56
+2,3:00.0,,Houston full timeout,56,56
+2,3:00.0,V. Carter enters the game for D. Dedmon,,56,56
+2,3:00.0,A. Len enters the game for K. Huerter,,56,56
+2,2:48.0,,P. Tucker misses 3-pt jump shot from 24 ft,56,56
+2,2:48.0,Defensive rebound by D. Bembry,,56,56
+2,2:39.0,Personal foul by C. Paul (drawn by T. Young),,56,56
+2,2:25.0,A. Len misses 3-pt jump shot from 22 ft,,56,56
+2,2:24.0,,Defensive rebound by J. Harden,56,56
+2,2:17.0,,J. Harden misses 3-pt jump shot from 26 ft,56,56
+2,2:14.0,Defensive rebound by O. Spellman,,56,56
+2,2:03.0,Personal foul by C. Paul (drawn by T. Young),,56,56
+2,2:03.0,T. Young makes free throw 1 of 2,,57,56
+2,2:03.0,,E. Gordon enters the game for K. Faried,57,56
+2,2:03.0,T. Young makes free throw 2 of 2,,58,56
+2,1:51.0,,C. Capela makes 2-pt dunk from 2 ft (assist by E. Gordon),58,58
+2,1:31.0,O. Spellman misses 3-pt jump shot from 27 ft,,58,58
+2,1:29.0,,Defensive rebound by C. Capela,58,58
+2,1:29.0,,Personal foul by V. Carter (drawn by C. Paul),58,58
+2,1:19.0,,Personal foul by V. Carter (drawn by J. Harden),58,58
+2,1:19.0,,J. Harden makes free throw 1 of 2,58,59
+2,1:19.0,,J. Harden makes free throw 2 of 2,58,60
+2,1:04.0,V. Carter misses 3-pt jump shot from 27 ft,,58,60
+2,1:02.0,,Defensive rebound by Team,58,60
+2,0:51.0,,C. Paul misses 3-pt jump shot from 28 ft,58,60
+2,0:49.0,Defensive rebound by D. Bembry,,58,60
+2,0:39.0,O. Spellman makes 2-pt dunk from 2 ft (assist by T. Young),,60,60
+2,0:39.0,,J. Harden misses 3-pt jump shot from 25 ft (block by D. Bembry),60,60
+2,0:39.0,Defensive rebound by V. Carter,,60,60
+2,0:27.0,Shooting foul by C. Paul (drawn by D. Bembry),,60,60
+2,0:27.0,D. Bembry misses free throw 1 of 2,,60,60
+2,0:27.0,Offensive rebound by Team,,60,60
+2,0:27.0,D. Bembry misses free throw 2 of 2,,60,60
+2,0:27.0,,Defensive rebound by Team,60,60
+2,0:27.0,J. Anderson enters the game for A. Len,,60,60
+2,0:01.0,,P. Tucker misses 3-pt jump shot from 23 ft,60,60
+2,0:00.0,Defensive rebound by V. Carter,,60,60
+3,11:40.0,,K. Faried misses 2-pt hook shot from 9 ft,60,60
+3,11:37.0,Defensive rebound by J. Collins,,60,60
+3,11:16.0,Shooting foul by C. Capela (drawn by D. Dedmon),,60,60
+3,11:16.0,D. Dedmon misses free throw 1 of 2,,60,60
+3,11:16.0,Offensive rebound by Team,,60,60
+3,11:16.0,D. Dedmon makes free throw 2 of 2,,61,60
+3,10:58.0,,C. Paul misses 3-pt jump shot from 27 ft,61,60
+3,10:56.0,Defensive rebound by D. Dedmon,,61,60
+3,10:49.0,Personal foul by C. Paul (drawn by D. Dedmon),,61,60
+3,10:49.0,Technical foul by D. Dedmon,,61,60
+3,10:49.0,,J. Harden misses technical free throw,61,60
+3,10:49.0,Defensive rebound by Team,,61,60
+3,10:49.0,,E. Gordon enters the game for K. Faried,61,60
+3,10:35.0,Turnover by D. Dedmon (lost ball; steal by E. Gordon),,61,60
+3,10:29.0,,E. Gordon makes 3-pt jump shot from 30 ft (assist by C. Paul),61,63
+3,10:12.0,K. Bazemore misses 3-pt jump shot from 27 ft,,61,63
+3,10:07.0,,Defensive rebound by C. Paul,61,63
+3,10:03.0,,J. Harden makes 2-pt jump shot from 8 ft,61,65
+3,9:54.0,Personal foul by E. Gordon (drawn by T. Young),,61,65
+3,9:42.0,J. Collins makes 3-pt jump shot from 23 ft (assist by T. Young),,64,65
+3,9:31.0,,Turnover by J. Harden (bad pass; steal by K. Bazemore),64,65
+3,9:29.0,Shooting foul by P. Tucker (drawn by J. Collins),,64,65
+3,9:29.0,J. Collins makes free throw 1 of 2,,65,65
+3,9:29.0,J. Collins misses free throw 2 of 2,,65,65
+3,9:28.0,,Defensive rebound by P. Tucker,65,65
+3,9:28.0,,Personal foul by D. Dedmon (drawn by P. Tucker),65,65
+3,9:20.0,,J. Harden misses 3-pt jump shot from 29 ft,65,65
+3,9:18.0,Defensive rebound by K. Huerter,,65,65
+3,9:15.0,K. Bazemore misses 2-pt layup from 2 ft,,65,65
+3,9:12.0,,Defensive rebound by C. Paul,65,65
+3,8:59.0,,P. Tucker makes 2-pt layup from 5 ft (assist by C. Paul),65,67
+3,8:43.0,Turnover by D. Dedmon (out of bounds lost ball),,65,67
+3,8:39.0,,E. Gordon makes 3-pt jump shot from 28 ft (assist by J. Harden),65,70
+3,8:37.0,Atlanta full timeout,,65,70
+3,8:27.0,Shooting foul by E. Gordon (drawn by K. Bazemore),,65,70
+3,8:27.0,K. Bazemore misses free throw 1 of 2,,65,70
+3,8:27.0,Offensive rebound by Team,,65,70
+3,8:27.0,K. Bazemore makes free throw 2 of 2,,66,70
+3,8:08.0,,E. Gordon misses 3-pt jump shot from 27 ft,66,70
+3,8:04.0,Defensive rebound by K. Bazemore,,66,70
+3,7:57.0,T. Young makes 3-pt jump shot from 27 ft,,69,70
+3,7:35.0,,E. Gordon misses 3-pt jump shot from 27 ft,69,70
+3,7:33.0,Defensive rebound by D. Dedmon,,69,70
+3,7:21.0,Turnover by T. Young (bad pass; steal by J. Harden),,69,70
+3,7:08.0,,Shooting foul by T. Young (drawn by E. Gordon),69,70
+3,7:08.0,,E. Gordon makes free throw 1 of 2,69,71
+3,7:08.0,,E. Gordon makes free throw 2 of 2,69,72
+3,6:49.0,Personal foul by J. Harden (drawn by K. Huerter),,69,72
+3,6:49.0,K. Huerter makes free throw 1 of 2,,70,72
+3,6:49.0,D. Bembry enters the game for K. Bazemore,,70,72
+3,6:49.0,,K. Faried enters the game for C. Paul,70,72
+3,6:49.0,,A. Rivers enters the game for P. Tucker,70,72
+3,6:49.0,K. Huerter makes free throw 2 of 2,,71,72
+3,6:32.0,,E. Gordon makes 3-pt jump shot from 24 ft (assist by A. Rivers),71,75
+3,6:19.0,T. Young makes 2-pt layup from 4 ft,,73,75
+3,6:19.0,,Violation by Team (def goaltending),73,75
+3,6:08.0,,J. Harden misses 2-pt layup from 4 ft,73,75
+3,6:07.0,,Offensive rebound by Team,73,75
+3,6:07.0,V. Carter enters the game for D. Dedmon,,73,75
+3,6:07.0,O. Spellman enters the game for K. Huerter,,73,75
+3,6:02.0,,Turnover by J. Harden (step out of bounds),73,75
+3,5:56.0,Turnover by T. Young (bad pass; steal by E. Gordon),,73,75
+3,5:50.0,,K. Faried makes 2-pt layup from 2 ft (assist by A. Rivers),73,77
+3,5:33.0,V. Carter makes 3-pt jump shot from 26 ft (assist by O. Spellman),,76,77
+3,5:16.0,,E. Gordon misses 3-pt jump shot from 26 ft,76,77
+3,5:13.0,,Offensive rebound by K. Faried,76,77
+3,5:10.0,,Turnover by K. Faried (lost ball; steal by J. Collins),76,77
+3,5:04.0,Turnover by T. Young (lost ball; steal by A. Rivers),,76,77
+3,5:01.0,,Flagrant foul type 1 by V. Carter (drawn by A. Rivers),76,77
+3,5:01.0,,A. Rivers misses flagrant free throw 1 of 2,76,77
+3,5:01.0,,Offensive rebound by Team,76,77
+3,5:01.0,,A. Rivers misses flagrant free throw 2 of 2,76,77
+3,5:01.0,,Offensive rebound by Team,76,77
+3,5:01.0,J. Adams enters the game for J. Collins,,76,77
+3,5:01.0,A. Len enters the game for T. Young,,76,77
+3,5:01.0,,G. Green enters the game for C. Capela,76,77
+3,4:49.0,,A. Rivers makes 3-pt jump shot from 23 ft (assist by G. Green),76,80
+3,4:30.0,V. Carter misses 2-pt jump shot from 15 ft,,76,80
+3,4:28.0,,Defensive rebound by E. Gordon,76,80
+3,4:19.0,,J. Harden makes 2-pt jump shot from 3 ft,76,82
+3,4:01.0,A. Len makes 3-pt jump shot from 24 ft (assist by J. Adams),,79,82
+3,3:52.0,,Personal foul by A. Len (drawn by G. Green),79,82
+3,3:36.0,,J. Harden misses 3-pt jump shot from 30 ft,79,82
+3,3:33.0,Defensive rebound by D. Bembry,,79,82
+3,3:30.0,Turnover by D. Bembry (lost ball; steal by G. Green),,79,82
+3,3:24.0,,G. Green misses 3-pt jump shot from 28 ft,79,82
+3,3:22.0,Defensive rebound by J. Adams,,79,82
+3,3:15.0,Offensive foul by V. Carter (drawn by K. Faried),,79,82
+3,3:15.0,Turnover by V. Carter (offensive foul),,79,82
+3,2:55.0,,Shooting foul by D. Bembry (drawn by K. Faried),79,82
+3,2:55.0,,Houston full timeout,79,82
+3,2:55.0,J. Collins enters the game for V. Carter,,79,82
+3,2:55.0,T. Young enters the game for O. Spellman,,79,82
+3,2:55.0,,C. Paul enters the game for J. Harden,79,82
+3,2:55.0,,K. Faried makes free throw 1 of 2,79,83
+3,2:55.0,,K. Faried makes free throw 2 of 2,79,84
+3,2:36.0,T. Young misses 3-pt jump shot from 26 ft,,79,84
+3,2:33.0,,Defensive rebound by K. Faried,79,84
+3,2:24.0,,Personal foul by J. Collins (drawn by C. Paul),79,84
+3,2:24.0,,C. Paul makes free throw 1 of 2,79,85
+3,2:24.0,,C. Paul makes free throw 2 of 2,79,86
+3,2:07.0,Turnover by J. Collins (lost ball; steal by A. Rivers),,79,86
+3,2:02.0,,G. Green makes 2-pt layup from 3 ft (assist by C. Paul),79,88
+3,1:46.0,J. Collins misses 2-pt jump shot from 12 ft,,79,88
+3,1:44.0,,Defensive rebound by K. Faried,79,88
+3,1:32.0,,C. Paul misses 3-pt jump shot from 27 ft,79,88
+3,1:30.0,,Offensive rebound by Team,79,88
+3,1:30.0,Loose ball foul by D. Bembry (drawn by C. Paul),,79,88
+3,1:30.0,,C. Paul makes free throw 1 of 2,79,89
+3,1:30.0,,C. Paul makes free throw 2 of 2,79,90
+3,1:17.0,D. Bembry makes 2-pt layup from 3 ft (assist by T. Young),,81,90
+3,1:07.0,,K. Faried makes 2-pt dunk from 3 ft (assist by E. Gordon),81,92
+3,0:56.0,Personal foul by A. Rivers (drawn by J. Collins),,81,92
+3,0:56.0,J. Collins makes free throw 1 of 2,,82,92
+3,0:56.0,K. Bazemore enters the game for A. Len,,82,92
+3,0:56.0,J. Collins makes free throw 2 of 2,,83,92
+3,0:40.0,,G. Green misses 3-pt jump shot from 24 ft,83,92
+3,0:37.0,Defensive rebound by D. Bembry,,83,92
+3,0:26.0,T. Young makes 2-pt jump shot from 3 ft,,85,92
+3,0:04.0,,C. Paul makes 2-pt jump shot from 16 ft,85,94
+3,0:04.0,,Shooting foul by J. Adams (drawn by C. Paul),85,94
+3,0:04.0,,C. Paul makes free throw 1 of 1,85,95
+3,0:01.0,Turnover by K. Bazemore (bad pass; steal by C. Paul),,85,95
+3,0:00.0,,E. Gordon misses 3-pt jump shot from 28 ft,85,95
+3,0:00.0,,Offensive rebound by Team,85,95
+4,11:45.0,K. Huerter misses 3-pt jump shot from 22 ft,,85,95
+4,11:42.0,Offensive rebound by D. Dedmon,,85,95
+4,11:41.0,D. Dedmon makes 2-pt layup from 2 ft,,87,95
+4,11:23.0,,G. Green misses 3-pt jump shot from 27 ft,87,95
+4,11:20.0,Defensive rebound by T. Young,,87,95
+4,11:12.0,T. Young makes 2-pt jump shot from 10 ft,,89,95
+4,10:57.0,,A. Rivers misses 2-pt jump shot from 5 ft,89,95
+4,10:55.0,Defensive rebound by J. Collins,,89,95
+4,10:46.0,D. Dedmon misses 2-pt jump shot from 20 ft,,89,95
+4,10:43.0,Offensive rebound by J. Collins,,89,95
+4,10:40.0,T. Young misses 3-pt jump shot from 31 ft,,89,95
+4,10:39.0,,Defensive rebound by Team,89,95
+4,10:39.0,,P. Tucker enters the game for G. Green,89,95
+4,10:27.0,,Turnover by C. Paul (bad pass; steal by K. Huerter),89,95
+4,10:19.0,J. Collins misses 2-pt dunk from 4 ft (block by C. Capela),,89,95
+4,10:17.0,,Defensive rebound by I. Shumpert,89,95
+4,10:04.0,,I. Shumpert misses 3-pt jump shot from 26 ft,89,95
+4,10:01.0,Defensive rebound by J. Collins,,89,95
+4,9:48.0,J. Collins makes 2-pt dunk from 1 ft (assist by T. Young),,91,95
+4,9:20.0,,C. Paul misses 3-pt jump shot from 26 ft,91,95
+4,9:20.0,Defensive rebound by Team,,91,95
+4,9:20.0,O. Spellman enters the game for J. Collins,,91,95
+4,9:20.0,,J. Harden enters the game for A. Rivers,91,95
+4,9:11.0,T. Young makes 3-pt jump shot from 29 ft (assist by D. Dedmon),,94,95
+4,8:50.0,,Personal foul by K. Huerter (drawn by J. Harden),94,95
+4,8:41.0,,P. Tucker makes 3-pt jump shot from 23 ft (assist by I. Shumpert),94,98
+4,8:29.0,Personal foul by C. Capela (drawn by T. Young),,94,98
+4,8:21.0,K. Bazemore misses 3-pt jump shot from 28 ft,,94,98
+4,8:19.0,,Defensive rebound by J. Harden,94,98
+4,8:12.0,,J. Harden misses 3-pt jump shot from 28 ft,94,98
+4,8:09.0,Defensive rebound by O. Spellman,,94,98
+4,8:05.0,T. Young makes 3-pt jump shot from 31 ft,,97,98
+4,7:48.0,,C. Paul makes 3-pt jump shot from 23 ft (assist by P. Tucker),97,101
+4,7:32.0,T. Young misses 2-pt jump shot from 3 ft,,97,101
+4,7:32.0,,Defensive rebound by Team,97,101
+4,7:15.0,,C. Capela makes 2-pt hook shot from 7 ft (assist by I. Shumpert),97,103
+4,6:53.0,K. Huerter makes 2-pt layup from 3 ft,,99,103
+4,6:42.0,,J. Harden makes 2-pt layup from 3 ft,99,105
+4,6:16.0,K. Huerter misses 3-pt jump shot from 28 ft,,99,105
+4,6:14.0,,Defensive rebound by C. Paul,99,105
+4,5:58.0,,J. Harden makes 2-pt jump shot from 8 ft,99,107
+4,5:44.0,T. Young makes 3-pt jump shot from 28 ft,,102,107
+4,5:43.0,,Houston full timeout,102,107
+4,5:43.0,D. Bembry enters the game for K. Huerter,,102,107
+4,5:43.0,,K. Faried enters the game for C. Capela,102,107
+4,5:43.0,,E. Gordon enters the game for C. Paul,102,107
+4,5:43.0,,A. Rivers enters the game for I. Shumpert,102,107
+4,5:30.0,,Shooting foul by D. Dedmon (drawn by J. Harden),102,107
+4,5:30.0,,J. Harden makes free throw 1 of 2,102,108
+4,5:30.0,,J. Harden makes free throw 2 of 2,102,109
+4,5:21.0,D. Bembry misses 2-pt dunk from 4 ft (block by K. Faried),,102,109
+4,5:21.0,,Defensive rebound by J. Harden,102,109
+4,5:21.0,,Personal take foul by D. Bembry (drawn by J. Harden),102,109
+4,4:58.0,,A. Rivers misses 3-pt jump shot from 24 ft,102,109
+4,4:58.0,,Offensive rebound by Team,102,109
+4,4:58.0,,Turnover by Team (shot clock),102,109
+4,4:43.0,D. Bembry misses 3-pt jump shot from 28 ft,,102,109
+4,4:39.0,,Defensive rebound by Team,102,109
+4,4:39.0,J. Collins enters the game for O. Spellman,,102,109
+4,4:23.0,,A. Rivers misses 2-pt jump shot from 11 ft,102,109
+4,4:23.0,Defensive rebound by J. Collins,,102,109
+4,4:10.0,Shooting foul by P. Tucker (drawn by D. Bembry),,102,109
+4,4:10.0,D. Bembry makes free throw 1 of 2,,103,109
+4,4:10.0,,C. Paul enters the game for A. Rivers,103,109
+4,4:10.0,D. Bembry misses free throw 2 of 2,,103,109
+4,4:10.0,,Defensive rebound by K. Faried,103,109
+4,3:53.0,,J. Harden misses 3-pt jump shot from 29 ft,103,109
+4,3:50.0,Defensive rebound by D. Dedmon,,103,109
+4,3:39.0,Personal foul by P. Tucker (drawn by T. Young),,103,109
+4,3:31.0,Turnover by K. Bazemore (bad pass; steal by P. Tucker),,103,109
+4,3:25.0,,C. Paul misses 3-pt jump shot from 27 ft,103,109
+4,3:24.0,,Offensive rebound by K. Faried,103,109
+4,3:23.0,,K. Faried misses 2-pt layup from 3 ft,103,109
+4,3:23.0,,Offensive rebound by K. Faried,103,109
+4,3:22.0,,K. Faried misses 2-pt layup from 3 ft (block by K. Bazemore),103,109
+4,3:22.0,Defensive rebound by J. Collins,,103,109
+4,3:13.0,T. Young misses 2-pt layup from 6 ft,,103,109
+4,3:13.0,Offensive rebound by D. Bembry,,103,109
+4,3:07.0,D. Bembry makes 2-pt layup from 1 ft,,105,109
+4,2:51.0,,E. Gordon makes 3-pt jump shot from 24 ft (assist by C. Paul),105,112
+4,2:40.0,Atlanta full timeout,,105,112
+4,2:40.0,,C. Capela enters the game for K. Faried,105,112
+4,2:33.0,J. Collins makes 2-pt jump shot from 8 ft (assist by K. Bazemore),,107,112
+4,2:10.0,,J. Harden misses 3-pt jump shot from 25 ft,107,112
+4,2:05.0,Defensive rebound by K. Bazemore,,107,112
+4,2:02.0,T. Young misses 3-pt jump shot from 27 ft,,107,112
+4,2:00.0,,Defensive rebound by Team,107,112
+4,1:43.0,,Shooting foul by D. Dedmon (drawn by J. Harden),107,112
+4,1:43.0,,J. Harden makes free throw 1 of 3,107,113
+4,1:43.0,,J. Harden makes free throw 2 of 3,107,114
+4,1:43.0,,J. Harden makes free throw 3 of 3,107,115
+4,1:30.0,T. Young misses 2-pt jump shot from 10 ft,,107,115
+4,1:28.0,,Defensive rebound by C. Paul,107,115
+4,1:12.0,,E. Gordon misses 3-pt jump shot from 23 ft,107,115
+4,1:09.0,,Offensive rebound by C. Capela,107,115
+4,1:09.0,,C. Capela makes 2-pt layup from 3 ft,107,117
+4,1:03.0,J. Collins makes 2-pt layup from 4 ft (assist by T. Young),,109,117
+4,1:03.0,Shooting foul by C. Paul (drawn by J. Collins),,109,117
+4,1:03.0,J. Collins misses free throw 1 of 1,,109,117
+4,1:03.0,,Defensive rebound by C. Capela,109,117
+4,0:40.0,,P. Tucker misses 3-pt jump shot from 23 ft (block by D. Bembry),109,117
+4,0:40.0,,Offensive rebound by C. Capela,109,117
+4,0:40.0,,C. Capela misses 2-pt layup from 2 ft (block by D. Dedmon),109,117
+4,0:39.0,,Offensive rebound by Team,109,117
+4,0:39.0,,Turnover by Team (shot clock),109,117
+4,0:39.0,Atlanta full timeout,,109,117
+4,0:39.0,Turnover by T. Young (bad pass),,109,117
+4,0:23.0,,J. Harden makes 2-pt jump shot from 3 ft,109,119
+4,0:10.0,T. Young misses 2-pt layup from 4 ft,,109,119
+4,0:07.0,Offensive rebound by D. Dedmon,,109,119
+4,0:07.0,D. Dedmon makes 2-pt dunk from 2 ft,,111,119

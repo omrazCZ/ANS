@@ -1,0 +1,427 @@
+QUARTER,TIME_REMAINING,CHICAGO_ACTION,PORTLAND_ACTION,CHICAGO_SCORE,PORTLAND_SCORE
+1,11:39.0,,C. McCollum makes 2-pt jump shot from 6 ft,0,2
+1,11:21.0,Personal foul by C. McCollum (drawn by L. Markkanen),,0,2
+1,11:14.0,Z. LaVine misses 2-pt layup from 1 ft,,0,2
+1,11:11.0,Offensive rebound by W. Carter,,0,2
+1,11:11.0,W. Carter makes 2-pt layup from 1 ft,,2,2
+1,11:02.0,,J. Nurkić makes 2-pt layup from 3 ft (assist by D. Lillard),2,4
+1,10:50.0,K. Dunn makes 2-pt jump shot from 21 ft (assist by L. Markkanen),,4,4
+1,10:34.0,,J. Layman misses 2-pt jump shot from 12 ft,4,4
+1,10:32.0,Defensive rebound by K. Dunn,,4,4
+1,10:28.0,Z. LaVine misses 2-pt layup from 2 ft,,4,4
+1,10:28.0,,Defensive rebound by J. Nurkić,4,4
+1,10:19.0,,C. McCollum misses 3-pt jump shot from 28 ft,4,4
+1,10:14.0,Defensive rebound by C. Hutchison,,4,4
+1,10:08.0,K. Dunn misses 3-pt jump shot from 26 ft,,4,4
+1,10:04.0,,Defensive rebound by D. Lillard,4,4
+1,9:57.0,,J. Nurkić makes 2-pt layup from 2 ft (assist by D. Lillard),4,6
+1,9:40.0,Turnover by K. Dunn (bad pass; steal by J. Nurkić),,4,6
+1,9:31.0,,J. Layman misses 3-pt jump shot from 26 ft,4,6
+1,9:28.0,,Offensive rebound by C. McCollum,4,6
+1,9:28.0,,C. McCollum makes 2-pt jump shot from 17 ft,4,8
+1,9:09.0,L. Markkanen misses 3-pt jump shot from 28 ft,,4,8
+1,9:06.0,,Defensive rebound by J. Nurkić,4,8
+1,9:00.0,,Turnover by J. Nurkić (bad pass),4,8
+1,8:53.0,Z. LaVine makes 2-pt jump shot from 8 ft,,6,8
+1,8:31.0,,D. Lillard makes 3-pt jump shot from 27 ft,6,11
+1,8:15.0,C. Hutchison makes 2-pt layup from 1 ft (assist by K. Dunn),,8,11
+1,8:01.0,,J. Layman misses 3-pt jump shot from 22 ft,8,11
+1,7:58.0,Defensive rebound by K. Dunn,,8,11
+1,7:51.0,W. Carter makes 2-pt dunk from 1 ft (assist by K. Dunn),,10,11
+1,7:39.0,,C. McCollum makes 2-pt layup from 1 ft (assist by J. Nurkić),10,13
+1,7:19.0,K. Dunn misses 2-pt jump shot from 9 ft (block by A. Aminu),,10,13
+1,7:14.0,,Defensive rebound by J. Nurkić,10,13
+1,7:11.0,,A. Aminu misses 2-pt layup from 2 ft,10,13
+1,7:09.0,Defensive rebound by L. Markkanen,,10,13
+1,6:56.0,L. Markkanen misses 2-pt hook shot from 5 ft,,10,13
+1,6:53.0,,Defensive rebound by J. Nurkić,10,13
+1,6:48.0,,D. Lillard misses 3-pt jump shot from 32 ft,10,13
+1,6:45.0,Defensive rebound by L. Markkanen,,10,13
+1,6:33.0,Turnover by Z. LaVine (traveling),,10,13
+1,6:33.0,,Portland full timeout,10,13
+1,6:20.0,,Offensive foul by J. Nurkić (drawn by C. Hutchison),10,13
+1,6:20.0,,Turnover by J. Nurkić (offensive foul),10,13
+1,6:08.0,W. Carter makes 2-pt dunk from 1 ft (assist by Z. LaVine),,12,13
+1,5:53.0,,D. Lillard misses 2-pt layup from 2 ft (block by L. Markkanen),12,13
+1,5:51.0,,Offensive rebound by J. Layman,12,13
+1,5:48.0,,J. Nurkić misses 3-pt jump shot from 25 ft,12,13
+1,5:46.0,Defensive rebound by K. Dunn,,12,13
+1,5:38.0,Z. LaVine makes 3-pt jump shot from 25 ft,,15,13
+1,5:25.0,,J. Nurkić makes 2-pt layup at rim (assist by D. Lillard),15,15
+1,5:13.0,W. Carter makes 2-pt layup from 2 ft (assist by Z. LaVine),,17,15
+1,5:01.0,,C. McCollum makes 2-pt jump shot from 11 ft,17,17
+1,4:45.0,W. Carter misses 2-pt jump shot from 8 ft,,17,17
+1,4:43.0,,Defensive rebound by J. Layman,17,17
+1,4:38.0,,C. McCollum misses 3-pt jump shot from 24 ft,17,17
+1,4:35.0,Defensive rebound by W. Carter,,17,17
+1,4:33.0,Turnover by K. Dunn (bad pass),,17,17
+1,4:33.0,,E. Turner enters the game for J. Layman,17,17
+1,4:17.0,,A. Aminu misses 3-pt jump shot from 26 ft,17,17
+1,4:15.0,Defensive rebound by K. Dunn,,17,17
+1,4:09.0,Turnover by K. Dunn (traveling),,17,17
+1,4:09.0,,S. Curry enters the game for C. McCollum,17,17
+1,3:54.0,,Turnover by A. Aminu (traveling),17,17
+1,3:42.0,K. Dunn misses 2-pt jump shot from 3 ft,,17,17
+1,3:39.0,,Defensive rebound by E. Turner,17,17
+1,3:30.0,,E. Turner makes 2-pt jump shot from 12 ft,17,19
+1,3:14.0,K. Dunn makes 3-pt jump shot from 26 ft (assist by W. Carter),,20,19
+1,2:59.0,,J. Nurkić makes 2-pt jump shot from 18 ft (assist by D. Lillard),20,21
+1,2:44.0,L. Markkanen makes 2-pt jump shot from 15 ft,,22,21
+1,2:30.0,,E. Turner misses 2-pt jump shot from 15 ft,22,21
+1,2:29.0,,Offensive rebound by E. Turner,22,21
+1,2:26.0,,S. Curry misses 3-pt jump shot from 24 ft,22,21
+1,2:23.0,Defensive rebound by Z. LaVine,,22,21
+1,2:17.0,Turnover by Z. LaVine (bad pass),,22,21
+1,2:17.0,Chicago full timeout,,22,21
+1,2:17.0,R. Arcidiacono enters the game for C. Hutchison,,22,21
+1,2:17.0,B. Portis enters the game for L. Markkanen,,22,21
+1,2:17.0,,Z. Collins enters the game for A. Aminu,22,21
+1,2:17.0,,M. Leonard enters the game for J. Nurkić,22,21
+1,1:58.0,,Z. Collins makes 2-pt jump shot from 14 ft (assist by D. Lillard),22,23
+1,1:43.0,Z. LaVine makes 2-pt layup from 1 ft,,24,23
+1,1:22.0,,M. Leonard makes 2-pt hook shot from 14 ft (assist by E. Turner),24,25
+1,1:03.0,Turnover by Z. LaVine (traveling),,24,25
+1,0:54.0,,Turnover by S. Curry (bad pass; steal by K. Dunn),24,25
+1,0:52.0,K. Dunn makes 2-pt dunk from 1 ft,,26,25
+1,0:34.0,,D. Lillard makes 3-pt jump shot from 27 ft,26,28
+1,0:14.0,Z. LaVine makes 3-pt jump shot from 29 ft (assist by K. Dunn),,29,28
+1,0:02.0,,S. Curry makes 2-pt layup from 1 ft (assist by D. Lillard),29,30
+2,11:43.0,B. Portis misses 2-pt hook shot from 5 ft,,29,30
+2,11:42.0,Offensive rebound by Team,,29,30
+2,11:42.0,,Loose ball foul by M. Leonard (drawn by R. Lopez),29,30
+2,11:27.0,S. Harrison misses 2-pt jump shot from 5 ft,,29,30
+2,11:25.0,,Defensive rebound by M. Leonard,29,30
+2,11:14.0,,S. Curry makes 3-pt jump shot from 25 ft,29,33
+2,10:58.0,Shooting foul by S. Curry (drawn by A. Blakeney),,29,33
+2,10:58.0,A. Blakeney makes free throw 1 of 2,,30,33
+2,10:58.0,A. Blakeney makes free throw 2 of 2,,31,33
+2,10:36.0,,S. Curry makes 2-pt layup from 3 ft,31,35
+2,10:14.0,Turnover by S. Harrison (bad pass; steal by M. Leonard),,31,35
+2,10:07.0,,Turnover by S. Curry (bad pass; steal by R. Lopez),31,35
+2,9:58.0,A. Blakeney makes 2-pt jump shot from 15 ft,,33,35
+2,9:36.0,,S. Curry misses 3-pt jump shot from 24 ft,33,35
+2,9:35.0,Defensive rebound by B. Portis,,33,35
+2,9:27.0,A. Blakeney misses 2-pt jump shot from 15 ft,,33,35
+2,9:24.0,,Defensive rebound by Z. Collins,33,35
+2,9:17.0,,Personal foul by S. Harrison (drawn by E. Turner),33,35
+2,9:05.0,,N. Stauskas makes 3-pt jump shot from 23 ft (assist by M. Leonard),33,38
+2,8:51.0,B. Portis misses 3-pt jump shot from 25 ft,,33,38
+2,8:49.0,,Defensive rebound by N. Stauskas,33,38
+2,8:42.0,,N. Stauskas misses 3-pt jump shot from 25 ft,33,38
+2,8:40.0,Defensive rebound by B. Portis,,33,38
+2,8:22.0,R. Lopez makes 2-pt hook shot from 4 ft,,35,38
+2,8:08.0,,N. Stauskas makes 3-pt jump shot from 26 ft (assist by E. Turner),35,41
+2,8:07.0,Chicago full timeout,,35,41
+2,8:07.0,,C. McCollum enters the game for E. Turner,35,41
+2,7:49.0,R. Lopez misses 2-pt hook shot from 10 ft,,35,41
+2,7:46.0,,Defensive rebound by Z. Collins,35,41
+2,7:38.0,,Offensive foul by Z. Collins (drawn by A. Blakeney),35,41
+2,7:38.0,,Turnover by Z. Collins (offensive foul),35,41
+2,7:26.0,R. Arcidiacono misses 2-pt jump shot from 22 ft,,35,41
+2,7:22.0,,Defensive rebound by N. Stauskas,35,41
+2,7:20.0,,Turnover by C. McCollum (out of bounds lost ball),35,41
+2,7:20.0,L. Markkanen enters the game for B. Portis,,35,41
+2,7:08.0,Personal foul by S. Curry (drawn by L. Markkanen),,35,41
+2,6:58.0,L. Markkanen misses 3-pt jump shot from 26 ft,,35,41
+2,6:56.0,,Defensive rebound by Z. Collins,35,41
+2,6:45.0,,Z. Collins makes 2-pt layup from 1 ft (assist by C. McCollum),35,43
+2,6:20.0,A. Blakeney misses 2-pt jump shot from 11 ft,,35,43
+2,6:18.0,Offensive rebound by R. Lopez,,35,43
+2,6:18.0,R. Lopez makes 2-pt dunk from 1 ft,,37,43
+2,6:01.0,,C. McCollum misses 2-pt layup from 2 ft (block by L. Markkanen),37,43
+2,5:59.0,Defensive rebound by R. Lopez,,37,43
+2,5:54.0,A. Blakeney makes 2-pt layup from 2 ft (assist by S. Harrison),,39,43
+2,5:35.0,,S. Curry makes 2-pt jump shot from 7 ft (assist by N. Stauskas),39,45
+2,5:22.0,A. Blakeney makes 2-pt jump shot from 21 ft (assist by R. Lopez),,41,45
+2,5:22.0,,Portland full timeout,41,45
+2,5:22.0,W. Carter enters the game for R. Arcidiacono,,41,45
+2,5:22.0,K. Dunn enters the game for S. Harrison,,41,45
+2,5:22.0,Z. LaVine enters the game for R. Lopez,,41,45
+2,5:22.0,,A. Aminu enters the game for Z. Collins,41,45
+2,5:22.0,,D. Lillard enters the game for S. Curry,41,45
+2,5:22.0,,J. Nurkić enters the game for M. Leonard,41,45
+2,5:08.0,,J. Nurkić misses 2-pt layup from 1 ft,41,45
+2,5:05.0,Defensive rebound by W. Carter,,41,45
+2,4:51.0,K. Dunn misses 2-pt jump shot from 7 ft,,41,45
+2,4:46.0,Offensive rebound by L. Markkanen,,41,45
+2,4:46.0,L. Markkanen makes 2-pt layup from 1 ft,,43,45
+2,4:35.0,,Shooting foul by W. Carter (drawn by J. Nurkić),43,45
+2,4:35.0,,J. Nurkić makes free throw 1 of 2,43,46
+2,4:35.0,,J. Nurkić makes free throw 2 of 2,43,47
+2,4:20.0,Turnover by Z. LaVine (bad pass; steal by D. Lillard),,43,47
+2,4:17.0,,Shooting foul by Z. LaVine (drawn by A. Aminu),43,47
+2,4:17.0,,A. Aminu makes free throw 1 of 2,43,48
+2,4:17.0,,E. Turner enters the game for N. Stauskas,43,48
+2,4:17.0,,A. Aminu makes free throw 2 of 2,43,49
+2,3:56.0,W. Carter misses 2-pt jump shot from 9 ft,,43,49
+2,3:54.0,,Defensive rebound by C. McCollum,43,49
+2,3:47.0,,C. McCollum makes 2-pt jump shot from 10 ft,43,51
+2,3:46.0,Chicago full timeout,,43,51
+2,3:46.0,C. Hutchison enters the game for A. Blakeney,,43,51
+2,3:26.0,L. Markkanen misses 2-pt jump shot from 16 ft (block by E. Turner),,43,51
+2,3:22.0,,Defensive rebound by E. Turner,43,51
+2,3:17.0,,C. McCollum makes 2-pt jump shot from 15 ft (assist by E. Turner),43,53
+2,3:02.0,K. Dunn makes 2-pt jump shot from 14 ft,,45,53
+2,2:41.0,,E. Turner misses 2-pt jump shot from 17 ft,45,53
+2,2:39.0,Defensive rebound by W. Carter,,45,53
+2,2:30.0,Z. LaVine misses 2-pt jump shot from 16 ft,,45,53
+2,2:26.0,,Defensive rebound by J. Nurkić,45,53
+2,2:23.0,,Personal foul by C. Hutchison (drawn by A. Aminu),45,53
+2,2:23.0,B. Portis enters the game for W. Carter,,45,53
+2,2:15.0,,E. Turner misses 2-pt jump shot from 7 ft,45,53
+2,2:15.0,,Offensive rebound by Team,45,53
+2,2:15.0,Loose ball foul by B. Portis (drawn by J. Nurkić),,45,53
+2,2:15.0,,J. Nurkić makes free throw 1 of 2,45,54
+2,2:15.0,,J. Nurkić misses free throw 2 of 2,45,54
+2,2:13.0,Defensive rebound by C. Hutchison,,45,54
+2,2:03.0,B. Portis misses 3-pt jump shot from 25 ft,,45,54
+2,2:02.0,Offensive rebound by C. Hutchison,,45,54
+2,1:56.0,C. Hutchison makes 2-pt jump shot from 6 ft,,47,54
+2,1:39.0,,J. Nurkić misses 2-pt layup from 1 ft,47,54
+2,1:38.0,Defensive rebound by L. Markkanen,,47,54
+2,1:30.0,K. Dunn misses 2-pt layup from 2 ft,,47,54
+2,1:29.0,,Defensive rebound by J. Nurkić,47,54
+2,1:22.0,,Turnover by D. Lillard (bad pass; steal by K. Dunn),47,54
+2,1:18.0,B. Portis makes 2-pt layup from 1 ft (assist by K. Dunn),,49,54
+2,1:04.0,,A. Aminu makes 2-pt layup from 2 ft (assist by E. Turner),49,56
+2,0:49.0,B. Portis misses 2-pt hook shot from 4 ft,,49,56
+2,0:47.0,,Defensive rebound by A. Aminu,49,56
+2,0:47.0,,Turnover by E. Turner (traveling),49,56
+2,0:40.0,Z. LaVine misses 2-pt layup from 2 ft (block by J. Nurkić),,49,56
+2,0:33.0,Offensive rebound by B. Portis,,49,56
+2,0:33.0,B. Portis misses 2-pt layup from 1 ft,,49,56
+2,0:33.0,,Defensive rebound by E. Turner,49,56
+2,0:25.0,,J. Nurkić misses 2-pt layup from 2 ft (block by L. Markkanen),49,56
+2,0:23.0,Defensive rebound by B. Portis,,49,56
+2,0:06.0,Personal take foul by E. Turner (drawn by Z. LaVine),,49,56
+2,0:02.0,Shooting foul by E. Turner (drawn by Z. LaVine),,49,56
+2,0:02.0,Z. LaVine makes free throw 1 of 3,,50,56
+2,0:02.0,,M. Leonard enters the game for J. Nurkić,50,56
+2,0:02.0,Z. LaVine misses free throw 2 of 3,,50,56
+2,0:02.0,Offensive rebound by Team,,50,56
+2,0:02.0,Z. LaVine makes free throw 3 of 3,,51,56
+2,0:00.0,,Turnover by M. Leonard (bad pass; steal by L. Markkanen),51,56
+3,11:46.0,K. Dunn makes 2-pt layup from 1 ft (assist by Z. LaVine),,53,56
+3,11:22.0,,D. Lillard makes 2-pt layup from 2 ft,53,58
+3,11:03.0,W. Carter makes 2-pt jump shot from 5 ft,,55,58
+3,10:44.0,,J. Nurkić makes 2-pt layup from 1 ft (assist by A. Aminu),55,60
+3,10:26.0,K. Dunn misses 2-pt jump shot from 5 ft,,55,60
+3,10:24.0,,Defensive rebound by J. Nurkić,55,60
+3,10:13.0,,J. Nurkić makes 2-pt layup from 2 ft (assist by C. McCollum),55,62
+3,10:13.0,,Shooting foul by W. Carter (drawn by J. Nurkić),55,62
+3,10:13.0,,J. Nurkić makes free throw 1 of 1,55,63
+3,9:56.0,Z. LaVine makes 2-pt jump shot from 17 ft,,57,63
+3,9:47.0,,Turnover by D. Lillard (out of bounds lost ball),57,63
+3,9:31.0,Z. LaVine makes 2-pt layup from 2 ft,,59,63
+3,9:08.0,,C. McCollum makes 3-pt jump shot from 23 ft (assist by D. Lillard),59,66
+3,8:53.0,Shooting foul by J. Nurkić (drawn by Z. LaVine),,59,66
+3,8:53.0,Z. LaVine makes free throw 1 of 2,,60,66
+3,8:53.0,Z. LaVine makes free throw 2 of 2,,61,66
+3,8:42.0,,D. Lillard misses 3-pt jump shot from 25 ft,61,66
+3,8:39.0,Defensive rebound by C. Hutchison,,61,66
+3,8:27.0,W. Carter makes 3-pt jump shot from 22 ft (assist by L. Markkanen),,64,66
+3,8:12.0,,A. Aminu misses 3-pt jump shot from 26 ft,64,66
+3,8:09.0,Defensive rebound by K. Dunn,,64,66
+3,7:59.0,K. Dunn misses 2-pt layup from 3 ft (block by A. Aminu),,64,66
+3,7:59.0,Offensive rebound by Team,,64,66
+3,7:55.0,Z. LaVine misses 2-pt jump shot from 18 ft,,64,66
+3,7:51.0,,Defensive rebound by A. Aminu,64,66
+3,7:44.0,,J. Nurkić makes 2-pt dunk from 1 ft (assist by D. Lillard),64,68
+3,7:44.0,Chicago full timeout,,64,68
+3,7:22.0,L. Markkanen makes 2-pt layup from 2 ft (assist by K. Dunn),,66,68
+3,7:10.0,,Offensive foul by J. Nurkić (drawn by L. Markkanen),66,68
+3,7:10.0,,Turnover by J. Nurkić (offensive foul),66,68
+3,6:58.0,C. Hutchison misses 2-pt layup from 3 ft,,66,68
+3,6:56.0,,Defensive rebound by J. Nurkić,66,68
+3,6:42.0,,C. McCollum makes 2-pt layup from 1 ft,66,70
+3,6:30.0,Shooting foul by J. Nurkić (drawn by W. Carter),,66,70
+3,6:30.0,W. Carter makes free throw 1 of 2,,67,70
+3,6:30.0,,Z. Collins enters the game for J. Nurkić,67,70
+3,6:30.0,W. Carter makes free throw 2 of 2,,68,70
+3,6:20.0,,J. Layman makes 2-pt layup at rim (assist by Z. Collins),68,72
+3,6:09.0,Z. LaVine misses 2-pt layup from 4 ft,,68,72
+3,6:07.0,Offensive rebound by Z. LaVine,,68,72
+3,6:06.0,Z. LaVine misses 2-pt layup from 2 ft (block by A. Aminu),,68,72
+3,6:04.0,,Defensive rebound by A. Aminu,68,72
+3,6:00.0,,A. Aminu misses 2-pt layup from 1 ft,68,72
+3,5:58.0,Defensive rebound by L. Markkanen,,68,72
+3,5:56.0,Turnover by L. Markkanen (lost ball; steal by Z. Collins),,68,72
+3,5:51.0,,Personal foul by K. Dunn (drawn by D. Lillard),68,72
+3,5:51.0,B. Portis enters the game for W. Carter,,68,72
+3,5:45.0,,Shooting foul by Z. LaVine (drawn by C. McCollum),68,72
+3,5:45.0,,C. McCollum makes free throw 1 of 2,68,73
+3,5:45.0,,C. McCollum makes free throw 2 of 2,68,74
+3,5:34.0,K. Dunn makes 2-pt layup from 1 ft,,70,74
+3,5:28.0,,Personal foul by K. Dunn (drawn by D. Lillard),70,74
+3,5:28.0,,E. Turner enters the game for J. Layman,70,74
+3,5:13.0,,A. Aminu makes 2-pt layup from 3 ft,70,76
+3,5:01.0,B. Portis makes 3-pt jump shot from 25 ft (assist by K. Dunn),,73,76
+3,4:47.0,,Z. Collins makes 2-pt layup from 1 ft (assist by D. Lillard),73,78
+3,4:31.0,L. Markkanen misses 3-pt jump shot from 25 ft,,73,78
+3,4:29.0,Offensive rebound by B. Portis,,73,78
+3,4:24.0,L. Markkanen misses 2-pt hook shot from 4 ft,,73,78
+3,4:21.0,Offensive rebound by B. Portis,,73,78
+3,4:21.0,B. Portis makes 2-pt layup at rim,,75,78
+3,4:09.0,,D. Lillard misses 2-pt jump shot from 15 ft,75,78
+3,4:07.0,Defensive rebound by Team,,75,78
+3,3:57.0,Turnover by B. Portis (lost ball; steal by E. Turner),,75,78
+3,3:44.0,,C. McCollum makes 2-pt jump shot from 18 ft,75,80
+3,3:43.0,Chicago full timeout,,75,80
+3,3:43.0,,S. Curry enters the game for C. McCollum,75,80
+3,3:31.0,Z. LaVine misses 2-pt layup from 3 ft,,75,80
+3,3:28.0,,Defensive rebound by A. Aminu,75,80
+3,3:24.0,,Shooting foul by K. Dunn (drawn by D. Lillard),75,80
+3,3:24.0,,D. Lillard makes free throw 1 of 2,75,81
+3,3:24.0,,D. Lillard makes free throw 2 of 2,75,82
+3,3:16.0,Personal foul by Z. Collins (drawn by B. Portis),,75,82
+3,3:10.0,B. Portis makes 3-pt jump shot from 25 ft (assist by K. Dunn),,78,82
+3,2:44.0,,E. Turner misses 2-pt jump shot from 8 ft,78,82
+3,2:44.0,,Offensive rebound by Team,78,82
+3,2:44.0,Loose ball foul by L. Markkanen (drawn by A. Aminu),,78,82
+3,2:44.0,,A. Aminu makes free throw 1 of 2,78,83
+3,2:44.0,,A. Aminu makes free throw 2 of 2,78,84
+3,2:32.0,K. Dunn makes 2-pt layup at rim,,80,84
+3,2:23.0,,D. Lillard makes 2-pt layup from 1 ft,80,86
+3,2:17.0,Z. LaVine misses 2-pt layup from 2 ft (block by Z. Collins),,80,86
+3,2:15.0,,Defensive rebound by E. Turner,80,86
+3,2:07.0,,Personal foul by K. Dunn (drawn by D. Lillard),80,86
+3,2:07.0,,D. Lillard makes free throw 1 of 2,80,87
+3,2:07.0,R. Arcidiacono enters the game for K. Dunn,,80,87
+3,2:07.0,A. Blakeney enters the game for C. Hutchison,,80,87
+3,2:07.0,S. Harrison enters the game for Z. LaVine,,80,87
+3,2:07.0,,D. Lillard makes free throw 2 of 2,80,88
+3,1:56.0,B. Portis makes 3-pt jump shot from 25 ft (assist by S. Harrison),,83,88
+3,1:43.0,,Shooting foul by S. Harrison (drawn by D. Lillard),83,88
+3,1:43.0,,D. Lillard makes free throw 1 of 2,83,89
+3,1:43.0,,D. Lillard makes free throw 2 of 2,83,90
+3,1:29.0,Turnover by B. Portis (bad pass),,83,90
+3,1:12.0,,D. Lillard misses 2-pt jump shot from 23 ft,83,90
+3,1:10.0,,Offensive rebound by Z. Collins,83,90
+3,1:09.0,,Z. Collins makes 2-pt layup from 2 ft,83,92
+3,0:53.0,B. Portis makes 2-pt layup from 4 ft (assist by R. Arcidiacono),,85,92
+3,0:32.0,,D. Lillard misses 2-pt jump shot from 16 ft,85,92
+3,0:29.0,,Offensive rebound by Z. Collins,85,92
+3,0:26.0,,S. Curry makes 3-pt jump shot from 27 ft (assist by Z. Collins),85,95
+3,0:03.0,A. Blakeney misses 3-pt jump shot from 23 ft,,85,95
+3,0:01.0,,Defensive rebound by Z. Collins,85,95
+4,11:43.0,,Z. Collins misses 3-pt jump shot from 25 ft,85,95
+4,11:40.0,Defensive rebound by W. Carter,,85,95
+4,11:31.0,Personal foul by Z. Collins (drawn by W. Carter),,85,95
+4,11:27.0,A. Blakeney makes 2-pt jump shot from 12 ft (assist by R. Arcidiacono),,87,95
+4,11:14.0,,Z. Collins makes 3-pt jump shot from 26 ft (assist by N. Stauskas),87,98
+4,10:59.0,B. Portis misses 3-pt jump shot from 24 ft,,87,98
+4,10:57.0,,Defensive rebound by M. Leonard,87,98
+4,10:43.0,,Personal foul by S. Harrison (drawn by N. Stauskas),87,98
+4,10:43.0,Z. LaVine enters the game for B. Portis,,87,98
+4,10:37.0,,Turnover by M. Leonard (off goaltending),87,98
+4,10:28.0,Personal foul by S. Curry (drawn by R. Arcidiacono),,87,98
+4,10:28.0,L. Markkanen enters the game for S. Harrison,,87,98
+4,10:28.0,,C. McCollum enters the game for N. Stauskas,87,98
+4,10:17.0,W. Carter makes 2-pt layup from 1 ft (assist by R. Arcidiacono),,89,98
+4,10:17.0,Shooting foul by Z. Collins (drawn by W. Carter),,89,98
+4,10:17.0,,N. Stauskas enters the game for C. McCollum,89,98
+4,10:17.0,W. Carter makes free throw 1 of 1,,90,98
+4,10:06.0,,Personal foul by R. Arcidiacono (drawn by S. Curry),90,98
+4,9:52.0,,M. Leonard makes 2-pt dunk from 1 ft (assist by Z. Collins),90,100
+4,9:35.0,Z. LaVine misses 3-pt jump shot from 25 ft,,90,100
+4,9:33.0,,Defensive rebound by Z. Collins,90,100
+4,9:22.0,,Z. Collins misses 2-pt layup from 2 ft,90,100
+4,9:22.0,,Offensive rebound by E. Turner,90,100
+4,9:22.0,,Shooting foul by L. Markkanen (drawn by Z. Collins),90,100
+4,9:22.0,,Z. Collins makes free throw 1 of 2,90,101
+4,9:22.0,,C. McCollum enters the game for E. Turner,90,101
+4,9:22.0,,Z. Collins makes free throw 2 of 2,90,102
+4,9:09.0,A. Blakeney misses 2-pt jump shot from 9 ft,,90,102
+4,9:07.0,Offensive rebound by W. Carter,,90,102
+4,8:56.0,L. Markkanen makes 2-pt jump shot from 20 ft,,92,102
+4,8:46.0,,Offensive foul by S. Curry (drawn by R. Arcidiacono),92,102
+4,8:46.0,,Turnover by S. Curry (offensive foul),92,102
+4,8:36.0,Z. LaVine misses 3-pt jump shot from 25 ft,,92,102
+4,8:33.0,,Defensive rebound by S. Curry,92,102
+4,8:22.0,,N. Stauskas makes 2-pt jump shot from 19 ft,92,104
+4,8:07.0,Shooting foul by M. Leonard (drawn by L. Markkanen),,92,104
+4,8:07.0,L. Markkanen makes free throw 1 of 2,,93,104
+4,8:07.0,L. Markkanen makes free throw 2 of 2,,94,104
+4,7:52.0,,M. Leonard makes 2-pt dunk from 1 ft (assist by C. McCollum),94,106
+4,7:38.0,L. Markkanen misses 2-pt jump shot from 9 ft,,94,106
+4,7:37.0,Offensive rebound by Team,,94,106
+4,7:37.0,,Loose ball foul by M. Leonard (drawn by W. Carter),94,106
+4,7:37.0,W. Carter makes free throw 1 of 2,,95,106
+4,7:37.0,W. Carter makes free throw 2 of 2,,96,106
+4,7:34.0,,C. McCollum makes 3-pt jump shot from 25 ft,96,109
+4,7:11.0,L. Markkanen misses 2-pt jump shot from 12 ft,,96,109
+4,7:08.0,,Defensive rebound by N. Stauskas,96,109
+4,7:02.0,,S. Curry makes 3-pt jump shot from 23 ft (assist by N. Stauskas),96,112
+4,7:02.0,Chicago full timeout,,96,112
+4,7:02.0,K. Dunn enters the game for R. Arcidiacono,,96,112
+4,7:02.0,C. Hutchison enters the game for A. Blakeney,,96,112
+4,7:02.0,B. Portis enters the game for L. Markkanen,,96,112
+4,7:02.0,,D. Lillard enters the game for N. Stauskas,96,112
+4,6:45.0,Personal foul by M. Leonard (drawn by W. Carter),,96,112
+4,6:45.0,W. Carter makes free throw 1 of 2,,97,112
+4,6:45.0,W. Carter makes free throw 2 of 2,,98,112
+4,6:29.0,,S. Curry misses 2-pt jump shot from 15 ft,98,112
+4,6:26.0,Defensive rebound by C. Hutchison,,98,112
+4,6:20.0,Z. LaVine misses 2-pt layup from 2 ft (block by M. Leonard),,98,112
+4,6:17.0,,Defensive rebound by C. McCollum,98,112
+4,6:13.0,,D. Lillard misses 3-pt jump shot from 26 ft,98,112
+4,6:11.0,,Offensive rebound by Team,98,112
+4,6:11.0,Loose ball foul by C. Hutchison (drawn by Z. Collins),,98,112
+4,6:03.0,,Z. Collins makes 3-pt jump shot from 23 ft (assist by C. McCollum),98,115
+4,5:40.0,C. Hutchison misses 3-pt jump shot from 24 ft,,98,115
+4,5:38.0,,Defensive rebound by M. Leonard,98,115
+4,5:16.0,,S. Curry makes 2-pt layup from 1 ft (assist by Z. Collins),98,117
+4,5:02.0,Turnover by B. Portis (lost ball; steal by S. Curry),,98,117
+4,4:54.0,,S. Curry misses 2-pt layup from 2 ft,98,117
+4,4:53.0,Defensive rebound by C. Hutchison,,98,117
+4,4:41.0,Z. LaVine misses 3-pt jump shot from 29 ft,,98,117
+4,4:39.0,,Defensive rebound by M. Leonard,98,117
+4,4:34.0,,Portland full timeout,98,117
+4,4:34.0,A. Blakeney enters the game for W. Carter,,98,117
+4,4:34.0,C. Felício enters the game for K. Dunn,,98,117
+4,4:34.0,S. Harrison enters the game for Z. LaVine,,98,117
+4,4:34.0,W. Selden enters the game for B. Portis,,98,117
+4,4:25.0,,D. Lillard misses 2-pt jump shot from 18 ft,98,117
+4,4:22.0,Defensive rebound by A. Blakeney,,98,117
+4,4:06.0,S. Harrison makes 3-pt jump shot from 25 ft (assist by C. Hutchison),,101,117
+4,3:46.0,,C. McCollum misses 2-pt jump shot from 7 ft,101,117
+4,3:45.0,Defensive rebound by C. Hutchison,,101,117
+4,3:39.0,C. Hutchison makes 2-pt layup from 1 ft,,103,117
+4,3:18.0,,M. Leonard makes 2-pt dunk from 1 ft (assist by D. Lillard),103,119
+4,3:04.0,C. Hutchison misses 3-pt jump shot from 24 ft,,103,119
+4,3:02.0,,Defensive rebound by Z. Collins,103,119
+4,3:01.0,,Portland full timeout,103,119
+4,3:01.0,,J. Layman enters the game for S. Curry,103,119
+4,3:01.0,,A. Simons enters the game for M. Leonard,103,119
+4,3:01.0,,N. Stauskas enters the game for D. Lillard,103,119
+4,3:01.0,,G. Trent enters the game for C. McCollum,103,119
+4,2:45.0,,A. Simons misses 3-pt jump shot from 25 ft,103,119
+4,2:43.0,Defensive rebound by S. Harrison,,103,119
+4,2:33.0,A. Blakeney misses 2-pt jump shot from 6 ft,,103,119
+4,2:29.0,,Defensive rebound by Team,103,119
+4,2:12.0,,Shooting foul by A. Blakeney (drawn by G. Trent),103,119
+4,2:12.0,,G. Trent misses free throw 1 of 2,103,119
+4,2:12.0,,Offensive rebound by Team,103,119
+4,2:12.0,,G. Trent makes free throw 2 of 2,103,120
+4,1:58.0,S. Harrison misses 2-pt jump shot from 5 ft,,103,120
+4,1:55.0,,Defensive rebound by Z. Collins,103,120
+4,1:51.0,,A. Simons makes 2-pt layup from 1 ft,103,122
+4,1:40.0,W. Selden makes 3-pt jump shot from 25 ft (assist by A. Blakeney),,106,122
+4,1:24.0,,Z. Collins misses 2-pt hook shot from 3 ft,106,122
+4,1:20.0,Defensive rebound by C. Felício,,106,122
+4,1:13.0,S. Harrison makes 2-pt layup from 1 ft,,108,122
+4,1:13.0,Shooting foul by Z. Collins (drawn by S. Harrison),,108,122
+4,1:13.0,S. Harrison makes free throw 1 of 1,,109,122
+4,1:03.0,,Turnover by A. Simons (bad pass; steal by S. Harrison),109,122
+4,1:01.0,Personal foul by Z. Collins (drawn by C. Felício),,109,122
+4,1:01.0,,M. Leonard enters the game for Z. Collins,109,122
+4,1:01.0,C. Felício makes free throw 1 of 2,,110,122
+4,1:01.0,C. Felício misses free throw 2 of 2,,110,122
+4,0:58.0,,Defensive rebound by M. Leonard,110,122
+4,0:45.0,,Turnover by A. Simons (out of bounds lost ball),110,122
+4,0:38.0,A. Blakeney makes 2-pt jump shot from 13 ft (assist by S. Harrison),,112,122
+4,0:29.0,,A. Simons makes 2-pt jump shot from 5 ft,112,124
+4,0:22.0,S. Harrison misses 2-pt layup from 3 ft,,112,124
+4,0:20.0,Offensive rebound by C. Hutchison,,112,124
+4,0:15.0,C. Hutchison misses 2-pt jump shot from 10 ft,,112,124
+4,0:13.0,,Defensive rebound by M. Leonard,112,124

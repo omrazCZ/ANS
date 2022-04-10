@@ -1,0 +1,441 @@
+QUARTER,TIME_REMAINING,PORTLAND_ACTION,HOUSTON_ACTION,PORTLAND_SCORE,HOUSTON_SCORE
+1,11:43.0,,C. Paul misses 2-pt jump shot from 11 ft,0,0
+1,11:42.0,Defensive rebound by M. Harkless,,0,0
+1,11:22.0,Turnover by D. Lillard (bad pass),,0,0
+1,11:16.0,,C. Capela makes 2-pt dunk from 2 ft (assist by J. Harden),0,2
+1,11:02.0,M. Harkless misses 2-pt layup from 6 ft (block by C. Paul),,0,2
+1,10:59.0,,Defensive rebound by C. Paul,0,2
+1,10:56.0,,J. Harden misses 2-pt jump shot from 5 ft,0,2
+1,10:55.0,Defensive rebound by A. Aminu,,0,2
+1,10:45.0,C. McCollum makes 2-pt jump shot from 6 ft,,2,2
+1,10:39.0,,P. Tucker makes 2-pt layup from 2 ft (assist by C. Paul),2,4
+1,10:16.0,Turnover by A. Aminu (step out of bounds),,2,4
+1,10:00.0,,Offensive foul by C. Capela (drawn by A. Aminu),2,4
+1,10:00.0,,Turnover by C. Capela (offensive foul),2,4
+1,9:48.0,D. Lillard makes 2-pt jump shot from 19 ft,,4,4
+1,9:33.0,,J. Harden makes 2-pt layup from 2 ft,4,6
+1,9:19.0,C. McCollum makes 2-pt jump shot from 21 ft,,6,6
+1,8:59.0,,J. Harden misses 2-pt jump shot from 1 ft,6,6
+1,8:58.0,,Offensive rebound by C. Capela,6,6
+1,8:58.0,,C. Capela misses 2-pt layup at rim,6,6
+1,8:57.0,,Offensive rebound by P. Tucker,6,6
+1,8:51.0,,Shooting foul by A. Aminu (drawn by C. Capela),6,6
+1,8:51.0,,C. Capela makes free throw 1 of 2,6,7
+1,8:51.0,,C. Capela misses free throw 2 of 2,6,7
+1,8:51.0,Defensive rebound by A. Aminu,,6,7
+1,8:40.0,D. Lillard makes 3-pt jump shot from 26 ft,,9,7
+1,8:27.0,,P. Tucker misses 3-pt jump shot from 25 ft,9,7
+1,8:26.0,Defensive rebound by J. Nurkić,,9,7
+1,8:11.0,C. McCollum makes 2-pt layup from 1 ft (assist by J. Nurkić),,11,7
+1,8:01.0,,C. Paul misses 2-pt jump shot from 12 ft,11,7
+1,7:59.0,Defensive rebound by C. McCollum,,11,7
+1,7:50.0,J. Nurkić misses 2-pt layup from 6 ft,,11,7
+1,7:49.0,Offensive rebound by A. Aminu,,11,7
+1,7:49.0,A. Aminu misses 2-pt layup from 1 ft,,11,7
+1,7:48.0,Offensive rebound by A. Aminu,,11,7
+1,7:46.0,A. Aminu makes 2-pt hook shot from 4 ft,,13,7
+1,7:35.0,,P. Tucker makes 3-pt jump shot from 23 ft (assist by C. Capela),13,10
+1,7:14.0,M. Harkless makes 3-pt jump shot from 25 ft (assist by J. Nurkić),,16,10
+1,7:01.0,,E. Gordon misses 2-pt layup from 3 ft,16,10
+1,7:00.0,Defensive rebound by A. Aminu,,16,10
+1,6:53.0,C. McCollum misses 3-pt jump shot from 25 ft,,16,10
+1,6:50.0,,Defensive rebound by P. Tucker,16,10
+1,6:43.0,,J. Harden misses 3-pt jump shot from 25 ft,16,10
+1,6:40.0,Defensive rebound by J. Nurkić,,16,10
+1,6:28.0,D. Lillard makes 2-pt layup from 1 ft,,18,10
+1,6:28.0,Shooting foul by J. Harden (drawn by D. Lillard),,18,10
+1,6:28.0,,Houston full timeout,18,10
+1,6:28.0,,J. Ennis enters the game for C. Capela,18,10
+1,6:28.0,,N. Hilário enters the game for C. Paul,18,10
+1,6:28.0,D. Lillard makes free throw 1 of 1,,19,10
+1,6:15.0,,J. Harden misses 3-pt jump shot from 26 ft,19,10
+1,6:14.0,,Offensive rebound by J. Ennis,19,10
+1,6:14.0,,J. Ennis makes 2-pt dunk at rim,19,12
+1,5:57.0,C. McCollum makes 2-pt layup from 2 ft (assist by J. Nurkić),,21,12
+1,5:37.0,,N. Hilário misses 3-pt jump shot from 25 ft,21,12
+1,5:37.0,Defensive rebound by M. Harkless,,21,12
+1,5:23.0,J. Nurkić misses 2-pt layup from 2 ft (block by N. Hilário),,21,12
+1,5:23.0,Offensive rebound by Team,,21,12
+1,5:23.0,E. Turner enters the game for M. Harkless,,21,12
+1,5:12.0,C. McCollum misses 2-pt jump shot from 19 ft,,21,12
+1,5:10.0,Offensive rebound by J. Nurkić,,21,12
+1,5:09.0,A. Aminu misses 2-pt jump shot from 9 ft,,21,12
+1,5:06.0,Offensive rebound by J. Nurkić,,21,12
+1,5:05.0,Shooting foul by N. Hilário (drawn by J. Nurkić),,21,12
+1,5:05.0,J. Nurkić makes free throw 1 of 2,,22,12
+1,5:05.0,J. Nurkić makes free throw 2 of 2,,23,12
+1,4:50.0,,E. Gordon misses 3-pt jump shot from 26 ft,23,12
+1,4:47.0,Defensive rebound by J. Nurkić,,23,12
+1,4:37.0,D. Lillard misses 3-pt jump shot from 26 ft,,23,12
+1,4:35.0,Offensive rebound by A. Aminu,,23,12
+1,4:30.0,D. Lillard makes 2-pt layup at rim (assist by A. Aminu),,25,12
+1,4:16.0,,J. Harden misses 2-pt jump shot from 8 ft,25,12
+1,4:14.0,Defensive rebound by A. Aminu,,25,12
+1,4:05.0,C. McCollum misses 2-pt jump shot from 7 ft,,25,12
+1,4:04.0,Offensive rebound by E. Turner,,25,12
+1,4:04.0,E. Turner makes 2-pt layup from 1 ft,,27,12
+1,3:50.0,,J. Harden makes 3-pt jump shot from 27 ft,27,15
+1,3:29.0,D. Lillard misses 2-pt layup from 1 ft,,27,15
+1,3:27.0,,Defensive rebound by Team,27,15
+1,3:27.0,Loose ball foul by D. Lillard (drawn by N. Hilário),,27,15
+1,3:27.0,Portland full timeout,,27,15
+1,3:27.0,Z. Collins enters the game for C. McCollum,,27,15
+1,3:27.0,J. Layman enters the game for J. Nurkić,,27,15
+1,3:27.0,,D. House enters the game for P. Tucker,27,15
+1,3:15.0,,E. Gordon makes 2-pt layup at rim,27,17
+1,3:15.0,,Shooting foul by Z. Collins (drawn by E. Gordon),27,17
+1,3:15.0,,C. Paul enters the game for J. Harden,27,17
+1,3:15.0,,E. Gordon misses free throw 1 of 1,27,17
+1,3:15.0,Defensive rebound by A. Aminu,,27,17
+1,2:54.0,D. Lillard makes 2-pt layup from 1 ft (assist by E. Turner),,29,17
+1,2:37.0,,N. Hilário makes 2-pt layup from 1 ft (assist by E. Gordon),29,19
+1,2:37.0,N. Stauskas enters the game for D. Lillard,,29,19
+1,2:37.0,,G. Green enters the game for E. Gordon,29,19
+1,2:14.0,Turnover by Z. Collins (traveling),,29,19
+1,2:03.0,,G. Green makes 3-pt jump shot from 26 ft (assist by C. Paul),29,22
+1,1:40.0,Turnover by A. Aminu (out of bounds lost ball),,29,22
+1,1:40.0,M. Harkless enters the game for A. Aminu,,29,22
+1,1:28.0,,Turnover by C. Paul (bad pass),29,22
+1,1:15.0,J. Layman misses 2-pt jump shot from 22 ft,,29,22
+1,1:14.0,,Defensive rebound by D. House,29,22
+1,1:05.0,,D. House makes 3-pt jump shot from 26 ft (assist by C. Paul),29,25
+1,0:45.0,Z. Collins misses 2-pt jump shot from 12 ft (block by N. Hilário),,29,25
+1,0:44.0,,Defensive rebound by N. Hilário,29,25
+1,0:32.0,,C. Paul makes 2-pt jump shot from 1 ft,29,27
+1,0:12.0,Z. Collins misses 3-pt jump shot from 24 ft,,29,27
+1,0:11.0,,Defensive rebound by C. Paul,29,27
+1,0:00.0,,C. Paul misses 3-pt jump shot from 25 ft,29,27
+1,0:00.0,,Offensive rebound by Team,29,27
+2,11:47.0,M. Harkless misses 3-pt jump shot from 25 ft,,29,27
+2,11:46.0,,Defensive rebound by J. Ennis,29,27
+2,11:40.0,,D. House misses 3-pt jump shot from 22 ft (block by M. Harkless),29,27
+2,11:40.0,,Offensive rebound by C. Paul,29,27
+2,11:30.0,,G. Green makes 2-pt hook shot from 4 ft,29,29
+2,11:17.0,J. Layman misses 2-pt layup from 4 ft,,29,29
+2,11:17.0,Offensive rebound by Team,,29,29
+2,11:17.0,S. Curry enters the game for J. Layman,,29,29
+2,11:04.0,Z. Collins misses 2-pt jump shot from 19 ft,,29,29
+2,11:01.0,Offensive rebound by Z. Collins,,29,29
+2,10:50.0,Z. Collins makes 2-pt layup from 1 ft (assist by E. Turner),,31,29
+2,10:37.0,,C. Paul misses 3-pt jump shot from 25 ft,31,29
+2,10:36.0,Defensive rebound by E. Turner,,31,29
+2,10:23.0,Z. Collins misses 2-pt layup from 2 ft (block by G. Green),,31,29
+2,10:21.0,,Defensive rebound by C. Paul,31,29
+2,10:16.0,,D. House makes 2-pt layup from 1 ft (assist by C. Paul),31,31
+2,10:03.0,M. Harkless makes 2-pt dunk from 1 ft (assist by E. Turner),,33,31
+2,9:44.0,,G. Green misses 2-pt jump shot from 8 ft,33,31
+2,9:43.0,,Offensive rebound by G. Green,33,31
+2,9:31.0,,G. Green makes 3-pt jump shot from 26 ft (assist by D. House),33,34
+2,9:04.0,E. Turner misses 2-pt jump shot from 17 ft,,33,34
+2,9:03.0,Offensive rebound by Z. Collins,,33,34
+2,9:03.0,C. McCollum enters the game for N. Stauskas,,33,34
+2,9:03.0,,C. Capela enters the game for N. Hilário,33,34
+2,8:55.0,C. McCollum misses 3-pt jump shot from 26 ft,,33,34
+2,8:51.0,,Defensive rebound by J. Ennis,33,34
+2,8:39.0,,Violation by Team (kicked ball),33,34
+2,8:28.0,Personal foul by C. Paul (drawn by E. Turner),,33,34
+2,8:28.0,,E. Gordon enters the game for J. Ennis,33,34
+2,8:16.0,Turnover by E. Turner (bad pass; steal by G. Green),,33,34
+2,8:14.0,,Shooting foul by M. Harkless (drawn by D. House),33,34
+2,8:14.0,,D. House makes free throw 1 of 2,33,35
+2,8:14.0,,D. House makes free throw 2 of 2,33,36
+2,7:57.0,Turnover by C. McCollum (bad pass; steal by C. Capela),,33,36
+2,7:48.0,,D. House misses 3-pt jump shot from 23 ft,33,36
+2,7:45.0,Defensive rebound by Z. Collins,,33,36
+2,7:37.0,S. Curry makes 3-pt jump shot from 24 ft (assist by E. Turner),,36,36
+2,7:25.0,,E. Gordon misses 3-pt jump shot from 26 ft,36,36
+2,7:24.0,Defensive rebound by Z. Collins,,36,36
+2,7:08.0,C. McCollum misses 2-pt jump shot from 7 ft,,36,36
+2,7:08.0,Offensive rebound by Z. Collins,,36,36
+2,6:55.0,Z. Collins makes 3-pt jump shot from 25 ft (assist by E. Turner),,39,36
+2,6:54.0,,Houston full timeout,39,36
+2,6:54.0,A. Aminu enters the game for Z. Collins,,39,36
+2,6:54.0,D. Lillard enters the game for M. Harkless,,39,36
+2,6:54.0,J. Nurkić enters the game for E. Turner,,39,36
+2,6:54.0,,J. Ennis enters the game for G. Green,39,36
+2,6:54.0,,J. Harden enters the game for D. House,39,36
+2,6:54.0,,P. Tucker enters the game for C. Paul,39,36
+2,6:41.0,,E. Gordon makes 2-pt jump shot from 13 ft (assist by J. Harden),39,38
+2,6:12.0,J. Nurkić misses 2-pt jump shot from 6 ft,,39,38
+2,6:11.0,,Defensive rebound by J. Ennis,39,38
+2,5:48.0,,P. Tucker misses 3-pt jump shot from 22 ft,39,38
+2,5:45.0,,Offensive rebound by Team,39,38
+2,5:40.0,,Turnover by C. Capela (traveling),39,38
+2,5:25.0,C. McCollum misses 2-pt jump shot from 11 ft,,39,38
+2,5:24.0,,Defensive rebound by J. Ennis,39,38
+2,5:15.0,,E. Gordon makes 2-pt layup from 1 ft,39,40
+2,4:59.0,Turnover by J. Nurkić (lost ball; steal by J. Harden),,39,40
+2,4:51.0,,C. Capela misses 2-pt layup from 1 ft,39,40
+2,4:50.0,Defensive rebound by C. McCollum,,39,40
+2,4:49.0,J. Nurkić makes 2-pt layup from 1 ft (assist by C. McCollum),,41,40
+2,4:49.0,Shooting foul by J. Harden (drawn by J. Nurkić),,41,40
+2,4:49.0,J. Nurkić makes free throw 1 of 1,,42,40
+2,4:38.0,,E. Gordon makes 2-pt layup from 1 ft,42,42
+2,4:23.0,C. McCollum makes 2-pt jump shot from 16 ft,,44,42
+2,4:06.0,,C. Capela misses 2-pt layup from 2 ft,44,42
+2,4:04.0,Defensive rebound by Team,,44,42
+2,3:40.0,D. Lillard misses 3-pt jump shot from 24 ft,,44,42
+2,3:38.0,,Defensive rebound by Team,44,42
+2,3:17.0,,C. Capela misses 2-pt layup from 1 ft (block by J. Nurkić),44,42
+2,3:15.0,,Offensive rebound by P. Tucker,44,42
+2,3:14.0,,P. Tucker misses 2-pt layup from 2 ft,44,42
+2,3:12.0,Defensive rebound by S. Curry,,44,42
+2,3:03.0,C. McCollum makes 2-pt layup from 1 ft (assist by J. Nurkić),,46,42
+2,2:42.0,,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),46,44
+2,2:26.0,A. Aminu misses 3-pt jump shot from 25 ft,,46,44
+2,2:23.0,,Defensive rebound by C. Capela,46,44
+2,2:17.0,,J. Harden makes 3-pt jump shot from 28 ft,46,47
+2,2:15.0,Portland full timeout,,46,47
+2,2:15.0,M. Harkless enters the game for S. Curry,,46,47
+2,2:15.0,,C. Paul enters the game for J. Ennis,46,47
+2,1:54.0,Shooting foul by C. Capela (drawn by C. McCollum),,46,47
+2,1:54.0,C. McCollum makes free throw 1 of 2,,47,47
+2,1:54.0,C. McCollum makes free throw 2 of 2,,48,47
+2,1:42.0,,Shooting foul by J. Nurkić (drawn by C. Capela),48,47
+2,1:42.0,,C. Capela misses free throw 1 of 2,48,47
+2,1:42.0,,Offensive rebound by Team,48,47
+2,1:42.0,,C. Capela misses free throw 2 of 2,48,47
+2,1:41.0,Defensive rebound by A. Aminu,,48,47
+2,1:27.0,M. Harkless misses 2-pt hook shot from 5 ft,,48,47
+2,1:26.0,,Defensive rebound by C. Capela,48,47
+2,1:18.0,,J. Harden misses 2-pt layup from 1 ft,48,47
+2,1:17.0,Defensive rebound by C. McCollum,,48,47
+2,1:08.0,D. Lillard makes 3-pt jump shot from 25 ft (assist by A. Aminu),,51,47
+2,0:54.0,,J. Harden makes 2-pt layup from 1 ft,51,49
+2,0:31.0,D. Lillard misses 2-pt jump shot from 19 ft,,51,49
+2,0:30.0,,Defensive rebound by P. Tucker,51,49
+2,0:22.0,,C. Capela makes 2-pt dunk from 1 ft (assist by C. Paul),51,51
+2,0:02.0,J. Nurkić makes 2-pt layup from 1 ft (assist by D. Lillard),,53,51
+2,0:02.0,Shooting foul by J. Harden (drawn by J. Nurkić),,53,51
+2,0:02.0,J. Nurkić makes free throw 1 of 1,,54,51
+3,11:36.0,Shooting foul by P. Tucker (drawn by J. Nurkić),,54,51
+3,11:36.0,J. Nurkić makes free throw 1 of 2,,55,51
+3,11:36.0,J. Nurkić makes free throw 2 of 2,,56,51
+3,11:21.0,,J. Harden makes 2-pt jump shot from 6 ft,56,53
+3,10:59.0,J. Nurkić misses 2-pt hook shot from 6 ft,,56,53
+3,10:58.0,,Defensive rebound by C. Capela,56,53
+3,10:53.0,,Turnover by J. Harden (bad pass),56,53
+3,10:43.0,M. Harkless makes 2-pt hook shot from 6 ft,,58,53
+3,10:22.0,,C. Capela misses 2-pt dunk from 3 ft (block by J. Nurkić),58,53
+3,10:21.0,,Offensive rebound by C. Capela,58,53
+3,10:21.0,,C. Capela makes 2-pt layup from 1 ft,58,55
+3,10:21.0,,Shooting foul by J. Nurkić (drawn by C. Capela),58,55
+3,10:21.0,,C. Capela misses free throw 1 of 1,58,55
+3,10:19.0,Defensive rebound by J. Nurkić,,58,55
+3,10:12.0,Turnover by M. Harkless (lost ball; steal by C. Paul),,58,55
+3,10:07.0,,Shooting foul by C. McCollum (drawn by C. Paul),58,55
+3,10:07.0,,C. Paul misses free throw 1 of 2,58,55
+3,10:07.0,,Offensive rebound by Team,58,55
+3,10:07.0,,C. Paul makes free throw 2 of 2,58,56
+3,9:57.0,Turnover by D. Lillard (bad pass; steal by C. Paul),,58,56
+3,9:42.0,,J. Harden misses 3-pt jump shot from 25 ft,58,56
+3,9:41.0,Defensive rebound by A. Aminu,,58,56
+3,9:24.0,D. Lillard makes 3-pt jump shot from 25 ft (assist by C. McCollum),,61,56
+3,8:54.0,,C. Paul misses 3-pt jump shot from 25 ft,61,56
+3,8:54.0,,Offensive rebound by C. Capela,61,56
+3,8:51.0,,P. Tucker makes 2-pt layup from 1 ft (assist by C. Capela),61,58
+3,8:32.0,J. Nurkić misses 2-pt jump shot from 4 ft,,61,58
+3,8:31.0,,Defensive rebound by P. Tucker,61,58
+3,8:25.0,,J. Harden makes 2-pt layup from 1 ft,61,60
+3,8:05.0,A. Aminu makes 3-pt jump shot from 23 ft (assist by M. Harkless),,64,60
+3,7:55.0,,E. Gordon misses 3-pt jump shot from 25 ft,64,60
+3,7:54.0,Defensive rebound by J. Nurkić,,64,60
+3,7:46.0,Personal foul by C. Paul (drawn by D. Lillard),,64,60
+3,7:46.0,,J. Ennis enters the game for E. Gordon,64,60
+3,7:41.0,D. Lillard misses 3-pt jump shot from 27 ft,,64,60
+3,7:39.0,,Defensive rebound by C. Capela,64,60
+3,7:18.0,,J. Harden makes 2-pt jump shot from 6 ft,64,62
+3,7:04.0,C. McCollum misses 3-pt jump shot from 26 ft,,64,62
+3,7:03.0,,Defensive rebound by C. Paul,64,62
+3,6:57.0,,Offensive foul by P. Tucker (drawn by C. McCollum),64,62
+3,6:57.0,,Turnover by P. Tucker (offensive foul),64,62
+3,6:57.0,,Houston full timeout,64,62
+3,6:57.0,,G. Green enters the game for C. Paul,64,62
+3,6:34.0,D. Lillard makes 2-pt layup from 1 ft,,66,62
+3,6:19.0,,Shooting foul by A. Aminu (drawn by J. Harden),66,62
+3,6:19.0,,J. Harden makes free throw 1 of 3,66,63
+3,6:19.0,,J. Harden makes free throw 2 of 3,66,64
+3,6:19.0,E. Turner enters the game for M. Harkless,,66,64
+3,6:19.0,,J. Harden makes free throw 3 of 3,66,65
+3,6:09.0,Personal foul by J. Harden (drawn by J. Nurkić),,66,65
+3,5:57.0,C. McCollum makes 2-pt jump shot from 11 ft,,68,65
+3,5:56.0,Violation by Team (delay of game),,68,65
+3,5:38.0,,J. Harden makes 2-pt jump shot from 4 ft,68,67
+3,5:23.0,,Violation by Team (kicked ball),68,67
+3,5:23.0,,N. Hilário enters the game for C. Capela,68,67
+3,5:23.0,,D. House enters the game for P. Tucker,68,67
+3,5:10.0,C. McCollum misses 3-pt jump shot from 25 ft,,68,67
+3,5:08.0,,Defensive rebound by G. Green,68,67
+3,5:00.0,,Shooting foul by E. Turner (drawn by J. Harden),68,67
+3,5:00.0,,J. Harden misses free throw 1 of 2,68,67
+3,5:00.0,,Offensive rebound by Team,68,67
+3,5:00.0,,J. Harden makes free throw 2 of 2,68,68
+3,4:47.0,D. Lillard misses 2-pt jump shot from 12 ft,,68,68
+3,4:43.0,,Defensive rebound by D. House,68,68
+3,4:39.0,,D. House misses 2-pt layup from 2 ft,68,68
+3,4:39.0,Defensive rebound by A. Aminu,,68,68
+3,4:33.0,D. Lillard makes 3-pt jump shot from 26 ft (assist by E. Turner),,71,68
+3,4:22.0,,Houston full timeout,71,68
+3,4:22.0,Z. Collins enters the game for J. Nurkić,,71,68
+3,4:22.0,,E. Gordon enters the game for J. Ennis,71,68
+3,4:12.0,,N. Hilário makes 2-pt layup from 1 ft (assist by E. Gordon),71,70
+3,4:00.0,Turnover by D. Lillard (bad pass; steal by N. Hilário),,71,70
+3,3:55.0,,N. Hilário makes 2-pt dunk at rim,71,72
+3,3:43.0,A. Aminu makes 3-pt jump shot from 23 ft (assist by C. McCollum),,74,72
+3,3:21.0,,J. Harden makes 3-pt jump shot from 23 ft,74,75
+3,3:07.0,D. Lillard makes 2-pt layup from 1 ft,,76,75
+3,2:44.0,,N. Hilário misses 2-pt jump shot from 14 ft,76,75
+3,2:42.0,Defensive rebound by A. Aminu,,76,75
+3,2:34.0,D. Lillard makes 2-pt jump shot from 21 ft,,78,75
+3,2:17.0,,Shooting foul by C. McCollum (drawn by E. Gordon),78,75
+3,2:17.0,,E. Gordon makes free throw 1 of 2,78,76
+3,2:17.0,S. Curry enters the game for A. Aminu,,78,76
+3,2:17.0,M. Harkless enters the game for C. McCollum,,78,76
+3,2:17.0,,C. Paul enters the game for J. Harden,78,76
+3,2:17.0,,E. Gordon makes free throw 2 of 2,78,77
+3,1:51.0,S. Curry misses 2-pt jump shot from 23 ft,,78,77
+3,1:50.0,,Defensive rebound by D. House,78,77
+3,1:46.0,,E. Gordon makes 2-pt layup at rim (assist by C. Paul),78,79
+3,1:24.0,E. Turner misses 3-pt jump shot from 26 ft,,78,79
+3,1:23.0,Offensive rebound by Team,,78,79
+3,1:23.0,,Loose ball foul by N. Hilário (drawn by Z. Collins),78,79
+3,1:11.0,D. Lillard misses 2-pt layup from 3 ft,,78,79
+3,1:10.0,,Defensive rebound by C. Paul,78,79
+3,1:04.0,,D. House misses 3-pt jump shot from 24 ft,78,79
+3,1:03.0,,Offensive rebound by G. Green,78,79
+3,1:02.0,,G. Green makes 2-pt dunk from 1 ft,78,81
+3,1:00.0,Portland full timeout,,78,81
+3,1:00.0,M. Leonard enters the game for Z. Collins,,78,81
+3,0:43.0,Turnover by E. Turner (bad pass),,78,81
+3,0:34.0,,E. Gordon misses 3-pt jump shot from 25 ft,78,81
+3,0:33.0,Defensive rebound by M. Harkless,,78,81
+3,0:23.0,D. Lillard misses 2-pt layup from 4 ft,,78,81
+3,0:23.0,,Defensive rebound by N. Hilário,78,81
+4,11:38.0,,N. Hilário makes 2-pt layup from 2 ft (assist by G. Green),78,83
+4,11:16.0,Personal foul by N. Hilário (drawn by C. McCollum),,78,83
+4,11:16.0,,C. Capela enters the game for N. Hilário,78,83
+4,11:10.0,M. Leonard misses 3-pt jump shot from 26 ft,,78,83
+4,11:09.0,,Defensive rebound by D. House,78,83
+4,11:00.0,,C. Paul makes 2-pt jump shot from 9 ft,78,85
+4,10:43.0,C. McCollum misses 2-pt layup from 3 ft (block by G. Green),,78,85
+4,10:42.0,Offensive rebound by S. Curry,,78,85
+4,10:40.0,Turnover by S. Curry (lost ball; steal by C. Paul),,78,85
+4,10:38.0,,Shooting foul by M. Leonard (drawn by D. House),78,85
+4,10:38.0,,D. House makes free throw 1 of 2,78,86
+4,10:38.0,,D. House misses free throw 2 of 2,78,86
+4,10:37.0,Defensive rebound by M. Harkless,,78,86
+4,10:23.0,Personal foul by C. Capela (drawn by C. McCollum),,78,86
+4,10:21.0,Turnover by S. Curry (bad pass; steal by C. Capela),,78,86
+4,10:17.0,,D. House makes 2-pt dunk from 1 ft (assist by C. Paul),78,88
+4,10:05.0,Portland full timeout,,78,88
+4,10:05.0,A. Aminu enters the game for M. Harkless,,78,88
+4,10:05.0,D. Lillard enters the game for M. Leonard,,78,88
+4,10:05.0,J. Nurkić enters the game for E. Turner,,78,88
+4,9:56.0,S. Curry makes 3-pt jump shot from 24 ft (assist by C. McCollum),,81,88
+4,9:30.0,,C. Paul misses 2-pt jump shot from 13 ft,81,88
+4,9:29.0,Defensive rebound by S. Curry,,81,88
+4,9:19.0,D. Lillard misses 2-pt jump shot from 14 ft,,81,88
+4,9:18.0,,Defensive rebound by D. House,81,88
+4,9:12.0,,Personal foul by C. McCollum (drawn by C. Paul),81,88
+4,9:03.0,,C. Paul misses 2-pt jump shot from 10 ft,81,88
+4,9:01.0,,Offensive rebound by C. Paul,81,88
+4,8:57.0,,G. Green makes 3-pt jump shot from 25 ft (assist by E. Gordon),81,91
+4,8:43.0,A. Aminu misses 3-pt jump shot from 26 ft,,81,91
+4,8:40.0,Offensive rebound by D. Lillard,,81,91
+4,8:33.0,D. Lillard misses 2-pt jump shot from 9 ft,,81,91
+4,8:32.0,,Defensive rebound by G. Green,81,91
+4,8:20.0,,C. Capela makes 2-pt dunk at rim (assist by C. Paul),81,93
+4,8:03.0,Turnover by J. Nurkić (bad pass; steal by D. House),,81,93
+4,7:56.0,,D. House makes 2-pt layup at rim (assist by C. Paul),81,95
+4,7:56.0,Portland full timeout,,81,95
+4,7:38.0,J. Nurkić makes 2-pt hook shot from 4 ft (assist by D. Lillard),,83,95
+4,7:15.0,,C. Capela makes 2-pt hook shot from 3 ft (assist by E. Gordon),83,97
+4,7:06.0,Personal foul by G. Green (drawn by C. McCollum),,83,97
+4,7:06.0,,J. Harden enters the game for D. House,83,97
+4,7:06.0,,P. Tucker enters the game for C. Paul,83,97
+4,6:57.0,C. McCollum misses 2-pt jump shot from 11 ft,,83,97
+4,6:56.0,Offensive rebound by J. Nurkić,,83,97
+4,6:55.0,J. Nurkić misses 2-pt layup at rim,,83,97
+4,6:54.0,,Defensive rebound by G. Green,83,97
+4,6:48.0,,J. Harden makes 3-pt jump shot from 26 ft,83,100
+4,6:36.0,D. Lillard makes 2-pt layup from 1 ft,,85,100
+4,6:14.0,,J. Harden misses 2-pt layup from 2 ft,85,100
+4,6:13.0,Defensive rebound by J. Nurkić,,85,100
+4,6:07.0,Shooting foul by C. Capela (drawn by D. Lillard),,85,100
+4,6:07.0,D. Lillard misses free throw 1 of 2,,85,100
+4,6:07.0,Offensive rebound by Team,,85,100
+4,6:07.0,D. Lillard makes free throw 2 of 2,,86,100
+4,5:55.0,,J. Harden misses 3-pt jump shot from 25 ft,86,100
+4,5:53.0,Defensive rebound by D. Lillard,,86,100
+4,5:48.0,Personal foul by C. Capela (drawn by D. Lillard),,86,100
+4,5:48.0,D. Lillard makes free throw 1 of 2,,87,100
+4,5:48.0,M. Harkless enters the game for S. Curry,,87,100
+4,5:48.0,D. Lillard makes free throw 2 of 2,,88,100
+4,5:37.0,,E. Gordon misses 2-pt layup from 1 ft,88,100
+4,5:36.0,Defensive rebound by A. Aminu,,88,100
+4,5:30.0,C. McCollum makes 2-pt jump shot from 7 ft,,90,100
+4,5:15.0,,J. Harden misses 2-pt layup from 1 ft,90,100
+4,5:15.0,Defensive rebound by Team,,90,100
+4,5:15.0,,Loose ball foul by C. Capela (drawn by J. Nurkić),90,100
+4,5:15.0,,N. Hilário enters the game for C. Capela,90,100
+4,5:15.0,,C. Paul enters the game for G. Green,90,100
+4,5:15.0,J. Nurkić misses free throw 1 of 2,,90,100
+4,5:15.0,Offensive rebound by Team,,90,100
+4,5:15.0,J. Nurkić makes free throw 2 of 2,,91,100
+4,4:57.0,Violation by Team (kicked ball),,91,100
+4,4:53.0,,N. Hilário makes 2-pt layup from 1 ft (assist by J. Harden),91,102
+4,4:42.0,Shooting foul by N. Hilário (drawn by D. Lillard),,91,102
+4,4:42.0,D. Lillard makes free throw 1 of 2,,92,102
+4,4:42.0,D. Lillard makes free throw 2 of 2,,93,102
+4,4:20.0,,Turnover by J. Harden (lost ball; steal by M. Harkless),93,102
+4,4:10.0,C. McCollum makes 2-pt jump shot from 17 ft,,95,102
+4,4:06.0,,Houston full timeout,95,102
+4,3:56.0,,C. Paul misses 3-pt jump shot from 26 ft,95,102
+4,3:53.0,Defensive rebound by J. Nurkić,,95,102
+4,3:42.0,M. Harkless misses 2-pt jump shot from 7 ft,,95,102
+4,3:42.0,Offensive rebound by Team,,95,102
+4,3:32.0,D. Lillard misses 2-pt layup from 2 ft,,95,102
+4,3:31.0,,Defensive rebound by C. Paul,95,102
+4,3:30.0,,Personal foul by J. Nurkić (drawn by C. Paul),95,102
+4,3:07.0,,J. Harden misses 3-pt jump shot from 24 ft,95,102
+4,3:06.0,Defensive rebound by Team,,95,102
+4,2:56.0,C. McCollum misses 3-pt jump shot from 26 ft,,95,102
+4,2:56.0,Offensive rebound by Team,,95,102
+4,2:56.0,,Loose ball foul by N. Hilário (drawn by J. Nurkić),95,102
+4,2:56.0,J. Nurkić makes free throw 1 of 2,,96,102
+4,2:56.0,J. Nurkić makes free throw 2 of 2,,97,102
+4,2:32.0,,E. Gordon makes 2-pt layup from 1 ft (assist by C. Paul),97,104
+4,2:21.0,C. McCollum makes 2-pt jump shot from 8 ft,,99,104
+4,2:06.0,,Shooting foul by M. Harkless (drawn by J. Harden),99,104
+4,2:06.0,,J. Harden misses free throw 1 of 2,99,104
+4,2:06.0,,Offensive rebound by Team,99,104
+4,2:06.0,,J. Harden makes free throw 2 of 2,99,105
+4,1:56.0,M. Harkless misses 3-pt jump shot from 22 ft,,99,105
+4,1:55.0,,Defensive rebound by C. Paul,99,105
+4,1:52.0,,Personal foul by D. Lillard (drawn by C. Paul),99,105
+4,1:52.0,,C. Paul makes free throw 1 of 2,99,106
+4,1:52.0,,C. Paul makes free throw 2 of 2,99,107
+4,1:41.0,D. Lillard misses 2-pt layup from 1 ft,,99,107
+4,1:38.0,,Defensive rebound by C. Paul,99,107
+4,1:38.0,,Personal take foul by J. Nurkić (drawn by C. Paul),99,107
+4,1:38.0,,C. Paul makes free throw 1 of 2,99,108
+4,1:38.0,M. Leonard enters the game for J. Nurkić,,99,108
+4,1:38.0,,C. Paul makes free throw 2 of 2,99,109
+4,1:29.0,D. Lillard misses 2-pt layup from 1 ft,,99,109
+4,1:28.0,Offensive rebound by A. Aminu,,99,109
+4,1:27.0,A. Aminu makes 2-pt dunk at rim,,101,109
+4,1:12.0,,Shooting foul by D. Lillard (drawn by C. Paul),101,109
+4,1:12.0,,C. Paul makes free throw 1 of 2,101,110
+4,1:12.0,,C. Paul makes free throw 2 of 2,101,111
+4,1:10.0,,Violation by Team (kicked ball),101,111
+4,1:08.0,Personal foul by C. Paul (drawn by C. McCollum),,101,111
+4,1:08.0,C. McCollum makes free throw 1 of 2,,102,111
+4,1:08.0,C. McCollum misses free throw 2 of 2,,102,111
+4,1:08.0,,Defensive rebound by J. Harden,102,111
+4,0:47.0,,E. Gordon misses 3-pt jump shot from 23 ft,102,111
+4,0:46.0,,Offensive rebound by E. Gordon,102,111
+4,0:34.0,,C. Paul misses 2-pt jump shot from 5 ft,102,111
+4,0:33.0,,Offensive rebound by C. Paul,102,111
+4,0:31.0,,C. Paul misses 2-pt layup from 3 ft (block by M. Harkless),102,111
+4,0:29.0,Defensive rebound by A. Aminu,,102,111
+4,0:24.0,M. Harkless makes 2-pt dunk from 2 ft (assist by M. Leonard),,104,111

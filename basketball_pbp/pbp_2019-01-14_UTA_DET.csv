@@ -1,0 +1,484 @@
+QUARTER,TIME_REMAINING,DETROIT_ACTION,UTAH_ACTION,DETROIT_SCORE,UTAH_SCORE
+1,11:44.0,,R. Gobert makes 2-pt dunk from 2 ft (assist by J. Ingles),0,2
+1,11:32.0,R. Bullock makes 3-pt jump shot from 25 ft (assist by B. Brown),,3,2
+1,11:20.0,,Turnover by D. Mitchell (bad pass),3,2
+1,11:10.0,Shooting foul by D. Mitchell (drawn by B. Brown),,3,2
+1,11:10.0,B. Brown makes free throw 1 of 2,,4,2
+1,11:10.0,B. Brown makes free throw 2 of 2,,5,2
+1,10:59.0,,Turnover by J. Ingles (bad pass; steal by A. Drummond),5,2
+1,10:51.0,A. Drummond makes 2-pt layup from 3 ft,,7,2
+1,10:34.0,,D. Mitchell misses 2-pt jump shot from 14 ft,7,2
+1,10:31.0,Defensive rebound by R. Jackson,,7,2
+1,10:25.0,R. Jackson makes 2-pt jump shot from 6 ft,,9,2
+1,10:25.0,,Utah full timeout,9,2
+1,10:14.0,,D. Mitchell misses 2-pt jump shot from 20 ft,9,2
+1,10:10.0,Defensive rebound by R. Jackson,,9,2
+1,10:05.0,B. Brown misses 3-pt jump shot from 25 ft,,9,2
+1,10:03.0,,Defensive rebound by D. Mitchell,9,2
+1,9:45.0,,J. Ingles makes 3-pt jump shot from 28 ft (assist by R. O'Neale),9,5
+1,9:24.0,B. Brown misses 2-pt layup from 4 ft,,9,5
+1,9:21.0,,Defensive rebound by R. Gobert,9,5
+1,9:08.0,,R. Gobert misses 2-pt hook shot from 6 ft,9,5
+1,9:05.0,Defensive rebound by A. Drummond,,9,5
+1,8:51.0,R. Bullock makes 3-pt jump shot from 24 ft (assist by B. Griffin),,12,5
+1,8:39.0,,D. Mitchell makes 2-pt jump shot from 11 ft,12,7
+1,8:26.0,R. Jackson misses 2-pt jump shot from 22 ft,,12,7
+1,8:24.0,,Defensive rebound by R. Gobert,12,7
+1,8:09.0,,D. Favors misses 3-pt jump shot from 23 ft,12,7
+1,8:05.0,Defensive rebound by B. Griffin,,12,7
+1,8:02.0,A. Drummond misses 2-pt layup from 2 ft,,12,7
+1,8:00.0,Offensive rebound by B. Brown,,12,7
+1,8:00.0,B. Brown misses 2-pt layup from 2 ft,,12,7
+1,7:57.0,,Defensive rebound by D. Mitchell,12,7
+1,7:48.0,,D. Mitchell makes 3-pt jump shot from 25 ft (assist by J. Ingles),12,10
+1,7:38.0,Detroit full timeout,,12,10
+1,7:38.0,,K. Korver enters the game for J. Ingles,12,10
+1,7:32.0,B. Griffin misses 3-pt jump shot from 25 ft,,12,10
+1,7:28.0,Offensive rebound by B. Brown,,12,10
+1,7:15.0,R. Jackson misses 2-pt jump shot from 20 ft,,12,10
+1,7:10.0,,Defensive rebound by R. Gobert,12,10
+1,7:04.0,,R. Gobert misses 2-pt layup from 2 ft,12,10
+1,7:00.0,Defensive rebound by B. Brown,,12,10
+1,6:57.0,B. Griffin misses 3-pt jump shot from 25 ft,,12,10
+1,6:53.0,,Defensive rebound by R. Gobert,12,10
+1,6:42.0,,D. Mitchell makes 3-pt jump shot from 23 ft (assist by R. Gobert),12,13
+1,6:16.0,R. Jackson makes 2-pt jump shot from 17 ft,,14,13
+1,5:56.0,,Shooting foul by B. Brown (drawn by D. Mitchell),14,13
+1,5:56.0,,D. Mitchell makes free throw 1 of 2,14,14
+1,5:56.0,,J. Crowder enters the game for D. Favors,14,14
+1,5:56.0,,D. Mitchell misses free throw 2 of 2,14,14
+1,5:53.0,,Offensive rebound by R. Gobert,14,14
+1,5:52.0,,R. Gobert misses 2-pt layup from 2 ft,14,14
+1,5:49.0,,Offensive rebound by J. Crowder,14,14
+1,5:49.0,,Turnover by J. Crowder (lost ball; steal by R. Jackson),14,14
+1,5:49.0,Personal take foul by R. O'Neale (drawn by R. Jackson),,14,14
+1,5:49.0,L. Galloway enters the game for B. Brown,,14,14
+1,5:38.0,Shooting foul by R. O'Neale (drawn by R. Bullock),,14,14
+1,5:38.0,R. Bullock makes free throw 1 of 3,,15,14
+1,5:38.0,R. Bullock makes free throw 2 of 3,,16,14
+1,5:38.0,R. Bullock makes free throw 3 of 3,,17,14
+1,5:19.0,,J. Crowder misses 3-pt jump shot from 26 ft,17,14
+1,5:16.0,Defensive rebound by A. Drummond,,17,14
+1,5:11.0,B. Griffin misses 2-pt layup from 3 ft,,17,14
+1,5:10.0,,Defensive rebound by R. Gobert,17,14
+1,5:00.0,,K. Korver makes 3-pt jump shot from 27 ft (assist by R. Gobert),17,17
+1,4:42.0,R. Bullock makes 2-pt dunk from 2 ft (assist by A. Drummond),,19,17
+1,4:28.0,,K. Korver misses 3-pt jump shot from 25 ft,19,17
+1,4:26.0,Defensive rebound by L. Galloway,,19,17
+1,4:19.0,B. Griffin misses 3-pt jump shot from 24 ft,,19,17
+1,4:17.0,,Defensive rebound by D. Mitchell,19,17
+1,4:11.0,,Shooting foul by R. Bullock (drawn by R. Gobert),19,17
+1,4:11.0,,R. Gobert misses free throw 1 of 2,19,17
+1,4:11.0,,Offensive rebound by Team,19,17
+1,4:11.0,I. Smith enters the game for R. Jackson,,19,17
+1,4:11.0,,G. Allen enters the game for R. O'Neale,19,17
+1,4:11.0,,R. Gobert makes free throw 2 of 2,19,18
+1,3:50.0,A. Drummond misses 2-pt jump shot from 11 ft,,19,18
+1,3:48.0,,Defensive rebound by R. Gobert,19,18
+1,3:42.0,,Turnover by D. Mitchell (lost ball; steal by I. Smith),19,18
+1,3:32.0,A. Drummond makes 2-pt dunk from 2 ft (assist by I. Smith),,21,18
+1,3:19.0,,K. Korver misses 2-pt jump shot from 22 ft,21,18
+1,3:18.0,,Offensive rebound by J. Crowder,21,18
+1,3:18.0,,Shooting foul by R. Bullock (drawn by J. Crowder),21,18
+1,3:18.0,,J. Crowder misses free throw 1 of 2,21,18
+1,3:18.0,,Offensive rebound by Team,21,18
+1,3:18.0,L. Kennard enters the game for R. Bullock,,21,18
+1,3:18.0,,D. Favors enters the game for R. Gobert,21,18
+1,3:18.0,,J. Ingles enters the game for D. Mitchell,21,18
+1,3:18.0,,J. Crowder makes free throw 2 of 2,21,19
+1,3:06.0,I. Smith makes 2-pt layup from 3 ft (assist by B. Griffin),,23,19
+1,3:06.0,,Violation by Team (def goaltending),23,19
+1,2:56.0,,Turnover by J. Ingles (bad pass; steal by A. Drummond),23,19
+1,2:52.0,A. Drummond makes 2-pt dunk from 1 ft,,25,19
+1,2:39.0,,G. Allen misses 2-pt jump shot from 9 ft,25,19
+1,2:34.0,,Offensive rebound by D. Favors,25,19
+1,2:34.0,,D. Favors makes 2-pt layup from 1 ft,25,21
+1,2:26.0,,Violation by Team (kicked ball),25,21
+1,2:18.0,I. Smith makes 3-pt jump shot from 23 ft,,28,21
+1,2:04.0,,D. Favors makes 2-pt layup from 2 ft (assist by J. Ingles),28,23
+1,1:40.0,I. Smith misses 3-pt jump shot from 26 ft,,28,23
+1,1:36.0,,Defensive rebound by K. Korver,28,23
+1,1:24.0,,K. Korver makes 3-pt jump shot from 23 ft (assist by J. Ingles),28,26
+1,1:01.0,L. Galloway misses 3-pt jump shot from 26 ft,,28,26
+1,0:59.0,,Defensive rebound by D. Favors,28,26
+1,0:56.0,,Offensive foul by J. Ingles (drawn by B. Griffin),28,26
+1,0:56.0,,Turnover by J. Ingles (offensive foul),28,26
+1,0:56.0,S. Johnson enters the game for B. Griffin,,28,26
+1,0:38.0,L. Galloway misses 2-pt layup from 2 ft,,28,26
+1,0:36.0,,Defensive rebound by D. Favors,28,26
+1,0:29.0,,J. Crowder misses 2-pt jump shot from 7 ft,28,26
+1,0:26.0,Defensive rebound by A. Drummond,,28,26
+1,0:05.0,S. Johnson makes 3-pt jump shot from 25 ft (assist by I. Smith),,31,26
+1,0:03.0,,Personal foul by L. Galloway (drawn by J. Ingles),31,26
+1,0:00.0,,Shooting foul by A. Drummond (drawn by D. Favors),31,26
+1,0:00.0,,D. Favors makes free throw 1 of 2,31,27
+1,0:00.0,,D. Favors misses free throw 2 of 2,31,27
+1,0:00.0,,Offensive rebound by J. Ingles,31,27
+1,0:00.0,,J. Ingles misses 2-pt layup from 1 ft,31,27
+1,0:00.0,,Offensive rebound by Team,31,27
+2,11:45.0,J. Leuer makes 2-pt layup from 3 ft (assist by L. Galloway),,33,27
+2,11:22.0,,Turnover by J. Crowder (bad pass; steal by J. Leuer),33,27
+2,11:05.0,L. Kennard makes 3-pt jump shot from 25 ft (assist by J. Leuer),,36,27
+2,10:50.0,,Shooting foul by L. Galloway (drawn by D. Favors),36,27
+2,10:50.0,,D. Favors misses free throw 1 of 2,36,27
+2,10:50.0,,Offensive rebound by Team,36,27
+2,10:50.0,,D. Favors makes free throw 2 of 2,36,28
+2,10:38.0,L. Kennard makes 2-pt jump shot from 19 ft,,38,28
+2,10:17.0,,K. Korver misses 3-pt jump shot from 23 ft,38,28
+2,10:09.0,Defensive rebound by L. Galloway,,38,28
+2,9:56.0,S. Johnson misses 3-pt jump shot from 25 ft,,38,28
+2,9:54.0,,Defensive rebound by D. Favors,38,28
+2,9:43.0,,G. Allen misses 2-pt layup from 3 ft,38,28
+2,9:41.0,Defensive rebound by L. Kennard,,38,28
+2,9:37.0,Offensive foul by J. Leuer (drawn by G. Allen),,38,28
+2,9:37.0,Turnover by J. Leuer (offensive foul),,38,28
+2,9:37.0,R. Jackson enters the game for I. Smith,,38,28
+2,9:37.0,,G. Niang enters the game for J. Crowder,38,28
+2,9:29.0,,Shooting foul by L. Kennard (drawn by J. Ingles),38,28
+2,9:29.0,,J. Ingles misses free throw 1 of 2,38,28
+2,9:29.0,,Offensive rebound by Team,38,28
+2,9:29.0,,J. Ingles makes free throw 2 of 2,38,29
+2,9:15.0,J. Leuer makes 2-pt jump shot from 20 ft (assist by R. Jackson),,40,29
+2,9:01.0,,G. Allen makes 2-pt layup from 2 ft (assist by J. Ingles),40,31
+2,8:49.0,R. Jackson misses 3-pt jump shot from 26 ft,,40,31
+2,8:47.0,,Defensive rebound by J. Ingles,40,31
+2,8:40.0,,J. Ingles makes 2-pt layup from 3 ft,40,33
+2,8:23.0,L. Galloway makes 2-pt jump shot from 18 ft,,42,33
+2,8:09.0,,D. Favors makes 2-pt layup from 2 ft (assist by J. Ingles),42,35
+2,7:52.0,L. Galloway makes 3-pt jump shot from 27 ft (assist by S. Johnson),,45,35
+2,7:50.0,,Utah full timeout,45,35
+2,7:50.0,,R. Gobert enters the game for D. Favors,45,35
+2,7:50.0,,D. Mitchell enters the game for J. Ingles,45,35
+2,7:37.0,,K. Korver makes 3-pt jump shot from 26 ft (assist by R. Gobert),45,38
+2,7:16.0,L. Galloway misses 3-pt jump shot from 23 ft,,45,38
+2,7:13.0,,Defensive rebound by G. Niang,45,38
+2,7:07.0,,Shooting foul by R. Jackson (drawn by R. Gobert),45,38
+2,7:07.0,,R. Gobert makes free throw 1 of 2,45,39
+2,7:07.0,,R. O'Neale enters the game for K. Korver,45,39
+2,7:07.0,,R. Gobert misses free throw 2 of 2,45,39
+2,7:02.0,Defensive rebound by J. Leuer,,45,39
+2,6:56.0,L. Kennard makes 3-pt jump shot from 26 ft (assist by R. Jackson),,48,39
+2,6:42.0,,G. Niang misses 3-pt jump shot from 23 ft,48,39
+2,6:40.0,,Offensive rebound by R. Gobert,48,39
+2,6:38.0,,Shooting foul by J. Leuer (drawn by R. Gobert),48,39
+2,6:38.0,,R. Gobert makes free throw 1 of 2,48,40
+2,6:38.0,R. Bullock enters the game for L. Galloway,,48,40
+2,6:38.0,,K. Korver enters the game for G. Allen,48,40
+2,6:38.0,,R. Gobert makes free throw 2 of 2,48,41
+2,6:26.0,L. Kennard misses 2-pt jump shot from 19 ft,,48,41
+2,6:23.0,,Defensive rebound by R. Gobert,48,41
+2,6:06.0,,G. Niang misses 3-pt jump shot from 26 ft,48,41
+2,6:03.0,Defensive rebound by S. Johnson,,48,41
+2,5:57.0,S. Johnson misses 2-pt layup from 2 ft,,48,41
+2,5:52.0,,Defensive rebound by R. Gobert,48,41
+2,5:50.0,,K. Korver misses 3-pt jump shot from 28 ft,48,41
+2,5:47.0,Defensive rebound by S. Johnson,,48,41
+2,5:40.0,R. Jackson misses 2-pt layup from 4 ft,,48,41
+2,5:37.0,Offensive rebound by Team,,48,41
+2,5:37.0,A. Drummond enters the game for S. Johnson,,48,41
+2,5:37.0,B. Griffin enters the game for J. Leuer,,48,41
+2,5:37.0,,J. Crowder enters the game for G. Niang,48,41
+2,5:29.0,B. Griffin makes 2-pt layup from 2 ft,,50,41
+2,5:29.0,Shooting foul by J. Crowder (drawn by B. Griffin),,50,41
+2,5:29.0,B. Griffin makes free throw 1 of 1,,51,41
+2,5:18.0,,Turnover by K. Korver (bad pass; steal by B. Griffin),51,41
+2,5:11.0,A. Drummond misses 2-pt hook shot from 8 ft,,51,41
+2,5:10.0,,Defensive rebound by R. Gobert,51,41
+2,5:03.0,,D. Mitchell makes 2-pt layup from 2 ft,51,43
+2,4:49.0,B. Griffin misses 3-pt jump shot from 23 ft,,51,43
+2,4:47.0,,Defensive rebound by R. O'Neale,51,43
+2,4:41.0,,K. Korver misses 3-pt jump shot from 25 ft,51,43
+2,4:38.0,Defensive rebound by A. Drummond,,51,43
+2,4:32.0,B. Griffin makes 2-pt layup from 2 ft (assist by R. Jackson),,53,43
+2,4:06.0,,D. Mitchell misses 3-pt jump shot from 25 ft,53,43
+2,4:03.0,Defensive rebound by R. Jackson,,53,43
+2,3:59.0,Detroit full timeout,,53,43
+2,3:59.0,K. Thomas enters the game for L. Kennard,,53,43
+2,3:59.0,,J. Ingles enters the game for K. Korver,53,43
+2,3:45.0,R. Jackson misses 2-pt jump shot from 17 ft,,53,43
+2,3:42.0,,Defensive rebound by R. Gobert,53,43
+2,3:37.0,,Turnover by R. Gobert (bad pass; steal by R. Jackson),53,43
+2,3:18.0,A. Drummond makes 2-pt hook shot from 6 ft,,55,43
+2,3:00.0,,J. Ingles misses 3-pt jump shot from 25 ft,55,43
+2,2:58.0,Defensive rebound by B. Griffin,,55,43
+2,2:44.0,A. Drummond misses 2-pt layup from 2 ft,,55,43
+2,2:43.0,Offensive rebound by A. Drummond,,55,43
+2,2:41.0,A. Drummond misses 2-pt jump shot from 8 ft,,55,43
+2,2:41.0,,Defensive rebound by R. Gobert,55,43
+2,2:41.0,,Personal foul by B. Griffin (drawn by R. Gobert),55,43
+2,2:41.0,,R. Gobert makes free throw 1 of 2,55,44
+2,2:41.0,,R. Gobert makes free throw 2 of 2,55,45
+2,2:22.0,B. Griffin makes 2-pt hook shot from 5 ft,,57,45
+2,2:14.0,,Shooting foul by R. Bullock (drawn by J. Crowder),57,45
+2,2:14.0,,J. Crowder misses free throw 1 of 2,57,45
+2,2:14.0,,Offensive rebound by Team,57,45
+2,2:14.0,L. Kennard enters the game for R. Bullock,,57,45
+2,2:14.0,,J. Crowder makes free throw 2 of 2,57,46
+2,2:03.0,Turnover by B. Griffin (bad pass; steal by D. Mitchell),,57,46
+2,2:02.0,,Personal foul by L. Kennard (drawn by J. Ingles),57,46
+2,2:02.0,,J. Ingles makes free throw 1 of 2,57,47
+2,2:02.0,,J. Ingles makes free throw 2 of 2,57,48
+2,1:44.0,A. Drummond makes 2-pt hook shot from 7 ft (assist by B. Griffin),,59,48
+2,1:34.0,,D. Mitchell makes 3-pt jump shot from 26 ft,59,51
+2,1:26.0,Personal foul by J. Ingles (drawn by A. Drummond),,59,51
+2,1:26.0,,K. Korver enters the game for J. Ingles,59,51
+2,1:13.0,B. Griffin misses 2-pt jump shot from 8 ft,,59,51
+2,1:09.0,,Defensive rebound by J. Crowder,59,51
+2,0:59.0,,Personal foul by A. Drummond (drawn by K. Korver),59,51
+2,0:59.0,,K. Korver makes free throw 1 of 2,59,52
+2,0:59.0,,K. Korver makes free throw 2 of 2,59,53
+2,0:47.0,Turnover by L. Kennard (lost ball; steal by R. O'Neale),,59,53
+2,0:40.0,,K. Korver misses 2-pt jump shot from 21 ft (block by K. Thomas),59,53
+2,0:36.0,Defensive rebound by A. Drummond,,59,53
+2,0:29.0,R. Jackson misses 3-pt jump shot from 25 ft,,59,53
+2,0:26.0,,Defensive rebound by R. O'Neale,59,53
+2,0:03.0,,Turnover by D. Mitchell (bad pass; steal by A. Drummond),59,53
+3,11:39.0,B. Brown makes 3-pt jump shot from 23 ft (assist by R. Jackson),,62,53
+3,11:22.0,,D. Mitchell makes 2-pt jump shot from 12 ft,62,55
+3,11:22.0,,Shooting foul by B. Brown (drawn by D. Mitchell),62,55
+3,11:22.0,,D. Mitchell makes free throw 1 of 1,62,56
+3,11:13.0,R. Jackson misses 3-pt jump shot from 26 ft,,62,56
+3,11:09.0,,Defensive rebound by R. Gobert,62,56
+3,10:52.0,,D. Favors misses 3-pt jump shot from 23 ft,62,56
+3,10:50.0,,Offensive rebound by R. Gobert,62,56
+3,10:48.0,,R. Gobert makes 2-pt layup from 2 ft,62,58
+3,10:38.0,R. Bullock misses 3-pt jump shot from 26 ft,,62,58
+3,10:35.0,,Defensive rebound by R. Gobert,62,58
+3,10:26.0,,D. Mitchell makes 2-pt layup from 2 ft,62,60
+3,10:15.0,B. Griffin misses 3-pt jump shot from 25 ft,,62,60
+3,10:12.0,,Defensive rebound by Team,62,60
+3,9:52.0,,D. Mitchell misses 3-pt jump shot from 31 ft,62,60
+3,9:50.0,Defensive rebound by Team,,62,60
+3,9:36.0,Turnover by B. Brown (out of bounds lost ball),,62,60
+3,9:18.0,,R. Gobert makes 2-pt dunk from 1 ft (assist by D. Favors),62,62
+3,9:17.0,Detroit full timeout,,62,62
+3,8:56.0,R. Jackson misses 2-pt jump shot from 11 ft,,62,62
+3,8:56.0,,Defensive rebound by Team,62,62
+3,8:39.0,,R. Gobert makes 2-pt layup from 3 ft (assist by J. Ingles),62,64
+3,8:19.0,Turnover by B. Griffin (lost ball; steal by R. O'Neale),,62,64
+3,8:15.0,,D. Mitchell misses 2-pt layup from 2 ft,62,64
+3,8:15.0,,Offensive rebound by D. Favors,62,64
+3,8:15.0,,D. Favors makes 2-pt dunk at rim,62,66
+3,8:15.0,,Shooting foul by R. Jackson (drawn by D. Favors),62,66
+3,8:15.0,,D. Favors misses free throw 1 of 1,62,66
+3,8:14.0,,Offensive rebound by J. Ingles,62,66
+3,8:04.0,,J. Ingles misses 2-pt layup from 4 ft,62,66
+3,8:04.0,Defensive rebound by Team,,62,66
+3,8:04.0,,Loose ball foul by R. Gobert (drawn by A. Drummond),62,66
+3,7:51.0,R. Bullock makes 2-pt layup from 2 ft,,64,66
+3,7:37.0,,Offensive foul by D. Favors (drawn by B. Griffin),64,66
+3,7:37.0,,Turnover by D. Favors (offensive foul),64,66
+3,7:20.0,B. Griffin misses 3-pt jump shot from 23 ft,,64,66
+3,7:18.0,,Defensive rebound by R. Gobert,64,66
+3,7:13.0,,J. Ingles misses 3-pt jump shot from 26 ft,64,66
+3,7:09.0,Defensive rebound by R. Bullock,,64,66
+3,7:00.0,R. Jackson makes 2-pt layup from 3 ft,,66,66
+3,6:42.0,,D. Mitchell misses 2-pt jump shot from 14 ft,66,66
+3,6:38.0,Defensive rebound by R. Bullock,,66,66
+3,6:27.0,Turnover by B. Griffin (lost ball; steal by D. Favors),,66,66
+3,6:22.0,,Turnover by R. O'Neale (bad pass; steal by R. Bullock),66,66
+3,6:22.0,Personal foul by R. Gobert (drawn by B. Brown),,66,66
+3,6:22.0,I. Smith enters the game for R. Jackson,,66,66
+3,6:22.0,,J. Crowder enters the game for D. Favors,66,66
+3,6:22.0,,K. Korver enters the game for J. Ingles,66,66
+3,6:10.0,I. Smith misses 2-pt jump shot from 17 ft,,66,66
+3,6:07.0,,Defensive rebound by D. Mitchell,66,66
+3,6:02.0,,D. Mitchell misses 2-pt layup from 2 ft,66,66
+3,6:00.0,Defensive rebound by A. Drummond,,66,66
+3,5:49.0,Personal foul by R. O'Neale (drawn by R. Bullock),,66,66
+3,5:45.0,A. Drummond misses 2-pt dunk from 2 ft,,66,66
+3,5:42.0,,Defensive rebound by K. Korver,66,66
+3,5:37.0,,R. Gobert makes 2-pt layup from 3 ft (assist by K. Korver),66,68
+3,5:05.0,A. Drummond misses 3-pt jump shot from 25 ft,,66,68
+3,5:05.0,Offensive rebound by Team,,66,68
+3,5:05.0,Turnover by Team (shot clock),,66,68
+3,4:45.0,,R. Gobert makes 2-pt dunk at rim (assist by R. O'Neale),66,70
+3,4:20.0,B. Griffin makes 3-pt jump shot from 23 ft,,69,70
+3,3:53.0,,D. Mitchell misses 3-pt jump shot from 28 ft,69,70
+3,3:52.0,,Offensive rebound by Team,69,70
+3,3:52.0,,Turnover by Team (shot clock),69,70
+3,3:52.0,L. Galloway enters the game for B. Brown,,69,70
+3,3:31.0,Turnover by R. Bullock (bad pass; steal by D. Mitchell),,69,70
+3,3:28.0,,Shooting foul by R. Bullock (drawn by D. Mitchell),69,70
+3,3:28.0,,D. Mitchell makes free throw 1 of 2,69,71
+3,3:28.0,L. Kennard enters the game for R. Bullock,,69,71
+3,3:28.0,,D. Mitchell makes free throw 2 of 2,69,72
+3,3:13.0,I. Smith makes 2-pt jump shot from 8 ft,,71,72
+3,3:04.0,,Utah full timeout,71,72
+3,3:04.0,,G. Allen enters the game for R. Gobert,71,72
+3,3:04.0,,D. Favors enters the game for D. Mitchell,71,72
+3,3:04.0,,J. Ingles enters the game for R. O'Neale,71,72
+3,2:58.0,,J. Crowder misses 2-pt layup from 4 ft (block by B. Griffin),71,72
+3,2:58.0,,Offensive rebound by Team,71,72
+3,2:52.0,,K. Korver misses 3-pt jump shot from 23 ft,71,72
+3,2:52.0,Defensive rebound by Team,,71,72
+3,2:36.0,A. Drummond misses 2-pt dunk from 1 ft,,71,72
+3,2:33.0,,Defensive rebound by G. Allen,71,72
+3,2:13.0,,J. Crowder misses 3-pt jump shot from 23 ft,71,72
+3,2:10.0,Defensive rebound by A. Drummond,,71,72
+3,1:51.0,A. Drummond makes 2-pt dunk from 2 ft (assist by B. Griffin),,73,72
+3,1:32.0,,J. Crowder misses 3-pt jump shot from 24 ft,73,72
+3,1:29.0,Defensive rebound by L. Kennard,,73,72
+3,1:22.0,Shooting foul by G. Allen (drawn by A. Drummond),,73,72
+3,1:22.0,A. Drummond makes free throw 1 of 2,,74,72
+3,1:22.0,S. Johnson enters the game for B. Griffin,,74,72
+3,1:22.0,A. Drummond misses free throw 2 of 2,,74,72
+3,1:20.0,,Defensive rebound by D. Favors,74,72
+3,0:59.0,,Turnover by J. Ingles (bad pass; steal by S. Johnson),74,72
+3,0:55.0,S. Johnson misses 2-pt layup from 4 ft (block by G. Allen),,74,72
+3,0:55.0,,Defensive rebound by Team,74,72
+3,0:55.0,Loose ball foul by S. Johnson (drawn by G. Allen),,74,72
+3,0:43.0,,J. Ingles misses 3-pt jump shot from 23 ft,74,72
+3,0:40.0,Defensive rebound by L. Kennard,,74,72
+3,0:29.0,L. Galloway misses 2-pt layup from 4 ft,,74,72
+3,0:26.0,,Defensive rebound by D. Favors,74,72
+3,0:11.0,,J. Ingles misses 2-pt layup from 3 ft,74,72
+3,0:09.0,,Offensive rebound by D. Favors,74,72
+3,0:07.0,,D. Favors misses 2-pt layup from 3 ft (block by I. Smith),74,72
+3,0:07.0,,Offensive rebound by J. Ingles,74,72
+3,0:07.0,,K. Korver makes 3-pt jump shot from 25 ft (assist by J. Ingles),74,75
+3,0:01.0,I. Smith misses 3-pt jump shot from 25 ft,,74,75
+3,0:00.0,,Defensive rebound by Team,74,75
+3,0:00.0,,J. Ingles misses 3-pt jump shot from 62 ft,74,75
+3,0:00.0,,Offensive rebound by Team,74,75
+4,11:48.0,,Turnover by J. Crowder (bad pass),74,75
+4,11:34.0,L. Kennard makes 2-pt layup from 3 ft,,76,75
+4,11:22.0,,D. Favors misses 2-pt dunk from 2 ft,76,75
+4,11:20.0,Defensive rebound by L. Kennard,,76,75
+4,11:16.0,Personal foul by G. Allen (drawn by J. Leuer),,76,75
+4,11:12.0,Shooting foul by D. Favors (drawn by J. Leuer),,76,75
+4,11:12.0,J. Leuer makes free throw 1 of 2,,77,75
+4,11:12.0,J. Leuer misses free throw 2 of 2,,77,75
+4,11:10.0,,Defensive rebound by J. Crowder,77,75
+4,11:00.0,,D. Favors misses 2-pt layup from 2 ft,77,75
+4,10:58.0,Defensive rebound by S. Johnson,,77,75
+4,10:55.0,R. Jackson makes 2-pt layup from 2 ft,,79,75
+4,10:55.0,Shooting foul by G. Allen (drawn by R. Jackson),,79,75
+4,10:55.0,R. Jackson makes free throw 1 of 1,,80,75
+4,10:42.0,,Turnover by K. Korver (bad pass; steal by S. Johnson),80,75
+4,10:35.0,Offensive foul by J. Leuer (drawn by K. Korver),,80,75
+4,10:35.0,Turnover by J. Leuer (offensive foul),,80,75
+4,10:35.0,,R. Gobert enters the game for D. Favors,80,75
+4,10:35.0,,D. Mitchell enters the game for J. Ingles,80,75
+4,10:20.0,,Turnover by J. Crowder (bad pass; steal by J. Leuer),80,75
+4,10:14.0,S. Johnson misses 3-pt jump shot from 23 ft,,80,75
+4,10:09.0,,Defensive rebound by R. Gobert,80,75
+4,10:04.0,,Personal foul by J. Leuer (drawn by D. Mitchell),80,75
+4,10:04.0,,G. Niang enters the game for J. Crowder,80,75
+4,9:52.0,,G. Allen misses 3-pt jump shot from 25 ft,80,75
+4,9:50.0,Defensive rebound by S. Johnson,,80,75
+4,9:41.0,L. Galloway misses 3-pt jump shot from 27 ft,,80,75
+4,9:37.0,,Defensive rebound by R. Gobert,80,75
+4,9:29.0,,G. Allen makes 3-pt jump shot from 26 ft (assist by G. Niang),80,78
+4,9:14.0,R. Jackson makes 2-pt jump shot from 12 ft,,82,78
+4,8:57.0,,G. Niang makes 2-pt layup from 2 ft (assist by D. Mitchell),82,80
+4,8:43.0,R. Jackson misses 3-pt jump shot from 26 ft,,82,80
+4,8:40.0,,Defensive rebound by R. Gobert,82,80
+4,8:33.0,,K. Korver makes 3-pt jump shot from 23 ft (assist by G. Allen),82,83
+4,8:32.0,Detroit full timeout,,82,83
+4,8:32.0,B. Griffin enters the game for S. Johnson,,82,83
+4,8:16.0,J. Leuer misses 2-pt jump shot from 8 ft,,82,83
+4,8:13.0,,Defensive rebound by R. Gobert,82,83
+4,8:05.0,,D. Mitchell makes 2-pt layup from 2 ft,82,85
+4,7:47.0,B. Griffin misses 3-pt jump shot from 24 ft,,82,85
+4,7:45.0,,Defensive rebound by G. Niang,82,85
+4,7:39.0,,G. Allen misses 3-pt jump shot from 27 ft,82,85
+4,7:35.0,Defensive rebound by B. Griffin,,82,85
+4,7:26.0,B. Griffin makes 2-pt layup from 2 ft,,84,85
+4,7:12.0,,K. Korver misses 2-pt jump shot from 20 ft,84,85
+4,7:10.0,Defensive rebound by L. Kennard,,84,85
+4,6:56.0,R. Jackson misses 3-pt jump shot from 26 ft,,84,85
+4,6:51.0,,Defensive rebound by R. Gobert,84,85
+4,6:41.0,,G. Allen makes 3-pt jump shot from 23 ft (assist by D. Mitchell),84,88
+4,6:16.0,J. Leuer misses 2-pt jump shot from 13 ft,,84,88
+4,6:14.0,,Defensive rebound by R. Gobert,84,88
+4,6:09.0,,G. Allen misses 3-pt jump shot from 23 ft,84,88
+4,6:09.0,Defensive rebound by B. Griffin,,84,88
+4,6:02.0,L. Galloway misses 3-pt jump shot from 26 ft,,84,88
+4,5:59.0,,Defensive rebound by G. Niang,84,88
+4,5:47.0,,Personal foul by J. Leuer (drawn by R. Gobert),84,88
+4,5:47.0,R. Bullock enters the game for L. Galloway,,84,88
+4,5:47.0,A. Drummond enters the game for R. Jackson,,84,88
+4,5:47.0,I. Smith enters the game for L. Kennard,,84,88
+4,5:47.0,K. Thomas enters the game for J. Leuer,,84,88
+4,5:47.0,,J. Crowder enters the game for K. Korver,84,88
+4,5:47.0,,R. O'Neale enters the game for G. Niang,84,88
+4,5:39.0,,Personal foul by B. Griffin (drawn by R. Gobert),84,88
+4,5:33.0,,D. Mitchell misses 2-pt jump shot from 13 ft,84,88
+4,5:32.0,Defensive rebound by Team,,84,88
+4,5:32.0,,Loose ball foul by R. Gobert (drawn by A. Drummond),84,88
+4,5:06.0,I. Smith misses 2-pt jump shot from 19 ft,,84,88
+4,5:05.0,,Defensive rebound by R. Gobert,84,88
+4,4:58.0,,Utah full timeout,84,88
+4,4:58.0,,J. Ingles enters the game for G. Allen,84,88
+4,4:52.0,,D. Mitchell misses 2-pt jump shot from 11 ft (block by K. Thomas),84,88
+4,4:48.0,Defensive rebound by A. Drummond,,84,88
+4,4:32.0,I. Smith misses 2-pt jump shot from 12 ft,,84,88
+4,4:30.0,Offensive rebound by A. Drummond,,84,88
+4,4:30.0,A. Drummond misses 2-pt layup from 3 ft (block by R. Gobert),,84,88
+4,4:30.0,Offensive rebound by Team,,84,88
+4,4:17.0,I. Smith misses 2-pt jump shot from 17 ft,,84,88
+4,4:14.0,,Defensive rebound by D. Mitchell,84,88
+4,4:08.0,,J. Crowder misses 3-pt jump shot from 25 ft,84,88
+4,4:05.0,Defensive rebound by I. Smith,,84,88
+4,3:56.0,Personal foul by J. Crowder (drawn by I. Smith),,84,88
+4,3:56.0,I. Smith misses free throw 1 of 2,,84,88
+4,3:56.0,Offensive rebound by Team,,84,88
+4,3:56.0,I. Smith makes free throw 2 of 2,,85,88
+4,3:42.0,,D. Mitchell misses 3-pt jump shot from 25 ft,85,88
+4,3:39.0,Defensive rebound by A. Drummond,,85,88
+4,3:25.0,A. Drummond misses 2-pt jump shot from 10 ft,,85,88
+4,3:23.0,,Defensive rebound by R. Gobert,85,88
+4,3:11.0,,D. Mitchell misses 2-pt layup from 3 ft,85,88
+4,3:11.0,,Offensive rebound by Team,85,88
+4,3:11.0,Technical foul by A. Drummond,,85,88
+4,3:11.0,,D. Mitchell misses technical free throw,85,88
+4,3:11.0,,Offensive rebound by Team,85,88
+4,3:11.0,,Utah full timeout,85,88
+4,3:11.0,Detroit full timeout,,85,88
+4,3:11.0,,K. Korver enters the game for R. O'Neale,85,88
+4,3:09.0,,K. Korver misses 3-pt jump shot from 23 ft,85,88
+4,3:07.0,Defensive rebound by A. Drummond,,85,88
+4,2:44.0,Turnover by Team (shot clock),,85,88
+4,2:31.0,,Personal foul by A. Drummond (drawn by D. Mitchell),85,88
+4,2:27.0,,Personal foul by K. Thomas (drawn by D. Mitchell),85,88
+4,2:27.0,,D. Mitchell makes free throw 1 of 2,85,89
+4,2:27.0,,D. Mitchell makes free throw 2 of 2,85,90
+4,2:10.0,R. Bullock misses 3-pt jump shot from 27 ft,,85,90
+4,2:06.0,,Defensive rebound by J. Crowder,85,90
+4,1:50.0,,Turnover by D. Mitchell (bad pass; steal by R. Bullock),85,90
+4,1:28.0,B. Griffin makes 3-pt jump shot from 25 ft,,88,90
+4,1:28.0,Shooting foul by J. Crowder (drawn by B. Griffin),,88,90
+4,1:28.0,B. Griffin makes free throw 1 of 1,,89,90
+4,1:11.0,,Personal foul by K. Thomas (drawn by J. Ingles),89,90
+4,1:11.0,,J. Ingles makes free throw 1 of 2,89,91
+4,1:11.0,,R. O'Neale enters the game for K. Korver,89,91
+4,1:11.0,,J. Ingles makes free throw 2 of 2,89,92
+4,1:03.0,Turnover by B. Griffin (step out of bounds),,89,92
+4,1:03.0,,K. Korver enters the game for R. O'Neale,89,92
+4,0:48.0,,D. Mitchell makes 2-pt layup from 3 ft,89,94
+4,0:48.0,,Shooting foul by B. Griffin (drawn by D. Mitchell),89,94
+4,0:48.0,,D. Mitchell makes free throw 1 of 1,89,95
+4,0:48.0,Detroit full timeout,,89,95
+4,0:48.0,L. Galloway enters the game for K. Thomas,,89,95
+4,0:48.0,,R. O'Neale enters the game for K. Korver,89,95
+4,0:43.0,A. Drummond misses 2-pt layup from 6 ft (block by R. Gobert),,89,95
+4,0:42.0,Offensive rebound by A. Drummond,,89,95
+4,0:42.0,Shooting foul by D. Mitchell (drawn by A. Drummond),,89,95
+4,0:42.0,A. Drummond makes free throw 1 of 2,,90,95
+4,0:42.0,K. Thomas enters the game for L. Galloway,,90,95
+4,0:42.0,,D. Favors enters the game for J. Ingles,90,95
+4,0:42.0,A. Drummond makes free throw 2 of 2,,91,95
+4,0:42.0,,Utah full timeout,91,95
+4,0:42.0,,J. Ingles enters the game for D. Favors,91,95
+4,0:42.0,,K. Korver enters the game for R. O'Neale,91,95
+4,0:24.0,,J. Ingles makes 3-pt jump shot from 22 ft (assist by J. Crowder),91,98
+4,0:05.0,B. Griffin makes 3-pt jump shot from 25 ft (assist by R. Bullock),,94,98
+4,0:01.0,,Personal foul by K. Thomas (drawn by K. Korver),94,98
+4,0:01.0,,K. Korver makes free throw 1 of 2,94,99
+4,0:01.0,,K. Korver makes free throw 2 of 2,94,100
+4,0:01.0,Detroit full timeout,,94,100
+4,0:01.0,L. Galloway enters the game for K. Thomas,,94,100
+4,0:01.0,,R. O'Neale enters the game for K. Korver,94,100
+4,0:00.0,B. Griffin misses 3-pt jump shot from 25 ft,,94,100
+4,0:00.0,Offensive rebound by Team,,94,100

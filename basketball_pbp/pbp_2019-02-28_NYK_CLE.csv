@@ -1,0 +1,481 @@
+QUARTER,TIME_REMAINING,CLEVELAND_ACTION,NEW YORK_ACTION,CLEVELAND_SCORE,NEW YORK_SCORE
+1,11:46.0,,D. Dotson misses 3-pt jump shot from 26 ft,0,0
+1,11:44.0,Defensive rebound by K. Love,,0,0
+1,11:27.0,K. Love misses 3-pt jump shot from 23 ft,,0,0
+1,11:25.0,,Defensive rebound by N. Vonleh,0,0
+1,11:14.0,,L. Thomas makes 2-pt jump shot from 13 ft (assist by D. Dotson),0,2
+1,10:56.0,Turnover by C. Osman (bad pass),,0,2
+1,10:47.0,,D. Smith makes 2-pt layup from 1 ft,0,4
+1,10:38.0,C. Sexton makes 2-pt layup from 1 ft,,2,4
+1,10:26.0,,D. Smith makes 3-pt jump shot from 25 ft (assist by N. Vonleh),2,7
+1,10:15.0,,Violation by Team (kicked ball),2,7
+1,10:05.0,C. Osman makes 3-pt jump shot from 26 ft (assist by C. Sexton),,5,7
+1,9:50.0,,L. Thomas makes 3-pt jump shot from 22 ft (assist by D. Smith),5,10
+1,9:37.0,Shooting foul by K. Knox (drawn by C. Osman),,5,10
+1,9:37.0,C. Osman makes free throw 1 of 2,,6,10
+1,9:37.0,C. Osman makes free throw 2 of 2,,7,10
+1,9:28.0,,N. Vonleh makes 2-pt hook shot from 10 ft (assist by D. Smith),7,12
+1,9:11.0,C. Sexton misses 2-pt layup from 1 ft,,7,12
+1,9:09.0,,Defensive rebound by L. Thomas,7,12
+1,9:06.0,,D. Smith misses 3-pt jump shot from 25 ft,7,12
+1,9:04.0,Defensive rebound by A. Žižić,,7,12
+1,8:55.0,B. Knight makes 3-pt jump shot from 24 ft (assist by C. Osman),,10,12
+1,8:41.0,,D. Dotson makes 2-pt jump shot from 14 ft,10,14
+1,8:31.0,Shooting foul by D. Smith (drawn by B. Knight),,10,14
+1,8:31.0,B. Knight misses free throw 1 of 2,,10,14
+1,8:31.0,Offensive rebound by Team,,10,14
+1,8:31.0,B. Knight makes free throw 2 of 2,,11,14
+1,8:19.0,,Shooting foul by K. Love (drawn by K. Knox),11,14
+1,8:19.0,,K. Knox misses free throw 1 of 2,11,14
+1,8:19.0,,Offensive rebound by Team,11,14
+1,8:19.0,,K. Knox misses free throw 2 of 2,11,14
+1,8:17.0,,Offensive rebound by K. Knox,11,14
+1,8:15.0,,K. Knox makes 2-pt jump shot from 17 ft,11,16
+1,8:03.0,C. Sexton misses 2-pt jump shot from 21 ft,,11,16
+1,8:01.0,Offensive rebound by A. Žižić,,11,16
+1,7:59.0,A. Žižić misses 2-pt hook shot from 2 ft,,11,16
+1,7:57.0,,Defensive rebound by D. Dotson,11,16
+1,7:49.0,,Turnover by K. Knox (bad pass; steal by C. Osman),11,16
+1,7:43.0,C. Osman makes 2-pt hook shot from 6 ft,,13,16
+1,7:34.0,,D. Smith makes 2-pt layup from 2 ft,13,18
+1,7:20.0,K. Love misses 2-pt jump shot from 13 ft,,13,18
+1,7:18.0,Offensive rebound by Team,,13,18
+1,7:18.0,,Loose ball foul by K. Knox (drawn by A. Žižić),13,18
+1,7:18.0,,A. Trier enters the game for K. Knox,13,18
+1,7:07.0,Shooting foul by D. Smith (drawn by A. Žižić),,13,18
+1,7:07.0,A. Žižić misses free throw 1 of 2,,13,18
+1,7:07.0,Offensive rebound by Team,,13,18
+1,7:07.0,,E. Mudiay enters the game for D. Smith,13,18
+1,7:07.0,A. Žižić makes free throw 2 of 2,,14,18
+1,6:45.0,,A. Trier misses 2-pt jump shot from 12 ft,14,18
+1,6:43.0,Defensive rebound by K. Love,,14,18
+1,6:30.0,C. Sexton makes 3-pt jump shot from 25 ft (assist by A. Žižić),,17,18
+1,6:12.0,,E. Mudiay makes 2-pt jump shot from 16 ft (assist by N. Vonleh),17,20
+1,5:55.0,K. Love misses 2-pt hook shot from 8 ft,,17,20
+1,5:54.0,,Defensive rebound by N. Vonleh,17,20
+1,5:53.0,,Turnover by N. Vonleh (bad pass),17,20
+1,5:53.0,,New York full timeout,17,20
+1,5:53.0,J. Clarkson enters the game for B. Knight,,17,20
+1,5:40.0,C. Osman makes 2-pt jump shot from 20 ft (assist by A. Žižić),,19,20
+1,5:24.0,,A. Trier misses 2-pt layup from 3 ft,19,20
+1,5:22.0,,Offensive rebound by L. Thomas,19,20
+1,5:22.0,,L. Thomas misses 2-pt layup from 1 ft (block by K. Love),19,20
+1,5:20.0,,Offensive rebound by N. Vonleh,19,20
+1,5:18.0,,N. Vonleh makes 2-pt hook shot from 1 ft,19,22
+1,5:10.0,,Personal foul by A. Žižić (drawn by N. Vonleh),19,22
+1,5:10.0,Turnover by A. Žižić (turnover),,19,22
+1,5:10.0,M. Chriss enters the game for K. Love,,19,22
+1,5:10.0,L. Nance enters the game for A. Žižić,,19,22
+1,5:10.0,,M. Robinson enters the game for N. Vonleh,19,22
+1,5:02.0,,Shooting foul by L. Nance (drawn by M. Robinson),19,22
+1,5:02.0,,M. Robinson makes free throw 1 of 2,19,23
+1,5:02.0,,M. Robinson makes free throw 2 of 2,19,24
+1,4:45.0,J. Clarkson makes 3-pt jump shot from 25 ft (assist by C. Osman),,22,24
+1,4:17.0,,D. Dotson makes 2-pt dunk from 1 ft (assist by L. Thomas),22,26
+1,4:00.0,J. Clarkson misses 3-pt jump shot from 26 ft,,22,26
+1,3:58.0,,Defensive rebound by E. Mudiay,22,26
+1,3:51.0,,M. Robinson makes 2-pt dunk at rim (assist by E. Mudiay),22,28
+1,3:29.0,Offensive foul by L. Nance (drawn by E. Mudiay),,22,28
+1,3:29.0,Turnover by L. Nance (offensive foul),,22,28
+1,3:18.0,,E. Mudiay makes 2-pt jump shot from 19 ft,22,30
+1,3:02.0,J. Clarkson makes 3-pt jump shot from 26 ft,,25,30
+1,2:50.0,,Personal foul by M. Chriss (drawn by E. Mudiay),25,30
+1,2:50.0,Cleveland full timeout,,25,30
+1,2:50.0,M. Dellavedova enters the game for C. Osman,,25,30
+1,2:50.0,D. Nwaba enters the game for C. Sexton,,25,30
+1,2:50.0,,H. Ellenson enters the game for D. Dotson,25,30
+1,2:50.0,,J. Jenkins enters the game for L. Thomas,25,30
+1,2:35.0,,A. Trier misses 3-pt jump shot from 26 ft,25,30
+1,2:27.0,Defensive rebound by M. Chriss,,25,30
+1,2:05.0,D. Nwaba misses 2-pt jump shot from 8 ft,,25,30
+1,2:03.0,,Defensive rebound by M. Robinson,25,30
+1,1:50.0,,Turnover by J. Jenkins (bad pass; steal by M. Chriss),25,30
+1,1:45.0,M. Chriss misses 3-pt jump shot from 26 ft,,25,30
+1,1:43.0,,Defensive rebound by M. Robinson,25,30
+1,1:33.0,,E. Mudiay misses 2-pt layup from 1 ft,25,30
+1,1:32.0,Defensive rebound by M. Chriss,,25,30
+1,1:22.0,L. Nance makes 2-pt layup from 1 ft (assist by M. Dellavedova),,27,30
+1,1:00.0,,H. Ellenson misses 2-pt jump shot from 2 ft,27,30
+1,0:59.0,Defensive rebound by M. Chriss,,27,30
+1,0:55.0,M. Dellavedova misses 3-pt jump shot from 26 ft,,27,30
+1,0:53.0,,Defensive rebound by M. Robinson,27,30
+1,0:53.0,,Personal foul by J. Clarkson (drawn by M. Robinson),27,30
+1,0:38.0,,Personal foul by D. Nwaba (drawn by E. Mudiay),27,30
+1,0:38.0,,E. Mudiay makes free throw 1 of 2,27,31
+1,0:38.0,,E. Mudiay misses free throw 2 of 2,27,31
+1,0:36.0,Defensive rebound by M. Chriss,,27,31
+1,0:26.0,Turnover by D. Nwaba (bad pass),,27,31
+1,0:01.0,,Turnover by Team (shot clock),27,31
+2,11:51.0,L. Nance makes 2-pt dunk at rim (assist by M. Chriss),,29,31
+2,11:38.0,,A. Trier makes 2-pt jump shot from 19 ft,29,33
+2,11:15.0,M. Chriss misses 2-pt layup from 7 ft (block by M. Robinson),,29,33
+2,11:14.0,Offensive rebound by Team,,29,33
+2,11:14.0,M. Chriss misses 3-pt jump shot from 24 ft,,29,33
+2,11:13.0,Offensive rebound by Team,,29,33
+2,11:13.0,Turnover by Team (shot clock),,29,33
+2,10:59.0,,H. Ellenson misses 3-pt jump shot from 23 ft,29,33
+2,10:57.0,Defensive rebound by M. Dellavedova,,29,33
+2,10:50.0,D. Nwaba makes 2-pt layup from 1 ft (assist by M. Dellavedova),,31,33
+2,10:32.0,,J. Jenkins misses 2-pt jump shot from 17 ft,31,33
+2,10:30.0,Defensive rebound by L. Nance,,31,33
+2,10:23.0,Turnover by M. Dellavedova (bad pass; steal by H. Ellenson),,31,33
+2,10:17.0,,H. Ellenson misses 2-pt layup from 2 ft,31,33
+2,10:15.0,,Offensive rebound by M. Robinson,31,33
+2,10:15.0,,M. Robinson makes 2-pt dunk at rim,31,35
+2,10:02.0,J. Clarkson misses 3-pt jump shot from 25 ft,,31,35
+2,10:01.0,,Defensive rebound by M. Robinson,31,35
+2,9:49.0,,J. Jenkins makes 2-pt layup from 1 ft (assist by E. Mudiay),31,37
+2,9:49.0,Cleveland full timeout,,31,37
+2,9:49.0,K. Love enters the game for M. Chriss,,31,37
+2,9:38.0,M. Dellavedova misses 3-pt jump shot from 23 ft,,31,37
+2,9:36.0,,Defensive rebound by M. Robinson,31,37
+2,9:18.0,,H. Ellenson makes 3-pt jump shot from 24 ft (assist by E. Mudiay),31,40
+2,9:00.0,K. Love makes 3-pt jump shot from 25 ft (assist by D. Nwaba),,34,40
+2,8:44.0,,Turnover by E. Mudiay (bad pass; steal by L. Nance),34,40
+2,8:40.0,J. Clarkson makes 2-pt jump shot from 6 ft,,36,40
+2,8:40.0,A. Žižić enters the game for L. Nance,,36,40
+2,8:40.0,,D. Smith enters the game for E. Mudiay,36,40
+2,8:12.0,,Turnover by Team (shot clock),36,40
+2,8:12.0,,K. Knox enters the game for J. Jenkins,36,40
+2,7:58.0,Shooting foul by H. Ellenson (drawn by K. Love),,36,40
+2,7:58.0,K. Love makes free throw 1 of 2,,37,40
+2,7:58.0,K. Love makes free throw 2 of 2,,38,40
+2,7:58.0,,L. Thomas enters the game for H. Ellenson,38,40
+2,7:39.0,,A. Trier makes 2-pt layup from 2 ft,38,42
+2,7:19.0,J. Clarkson misses 2-pt layup from 6 ft,,38,42
+2,7:17.0,Offensive rebound by K. Love,,38,42
+2,7:17.0,K. Love makes 2-pt layup from 1 ft,,40,42
+2,6:58.0,,A. Trier makes 2-pt layup from 2 ft,40,44
+2,6:58.0,,Shooting foul by M. Dellavedova (drawn by A. Trier),40,44
+2,6:58.0,B. Knight enters the game for J. Clarkson,,40,44
+2,6:58.0,C. Osman enters the game for M. Dellavedova,,40,44
+2,6:58.0,C. Sexton enters the game for D. Nwaba,,40,44
+2,6:58.0,,N. Vonleh enters the game for M. Robinson,40,44
+2,6:58.0,,A. Trier makes free throw 1 of 1,40,45
+2,6:42.0,K. Love makes 2-pt jump shot from 5 ft,,42,45
+2,6:42.0,Shooting foul by L. Thomas (drawn by K. Love),,42,45
+2,6:42.0,K. Love makes free throw 1 of 1,,43,45
+2,6:29.0,,A. Trier misses 2-pt layup from 1 ft,43,45
+2,6:28.0,,Offensive rebound by N. Vonleh,43,45
+2,6:26.0,,N. Vonleh makes 2-pt layup from 2 ft,43,47
+2,6:00.0,C. Sexton makes 3-pt jump shot from 25 ft,,46,47
+2,5:51.0,,D. Smith makes 3-pt jump shot from 25 ft,46,50
+2,5:25.0,K. Love makes 3-pt jump shot from 25 ft (assist by C. Osman),,49,50
+2,5:15.0,,Offensive foul by N. Vonleh (drawn by B. Knight),49,50
+2,5:15.0,,Turnover by N. Vonleh (offensive foul),49,50
+2,5:15.0,,D. Dotson enters the game for A. Trier,49,50
+2,5:01.0,C. Osman misses 2-pt hook shot from 4 ft,,49,50
+2,5:00.0,Offensive rebound by A. Žižić,,49,50
+2,4:59.0,A. Žižić misses 2-pt layup from 1 ft,,49,50
+2,4:57.0,,Defensive rebound by N. Vonleh,49,50
+2,4:51.0,,K. Knox misses 3-pt jump shot from 24 ft,49,50
+2,4:49.0,Defensive rebound by C. Osman,,49,50
+2,4:44.0,Turnover by K. Love (lost ball; steal by D. Dotson),,49,50
+2,4:37.0,,D. Smith misses 3-pt jump shot from 25 ft,49,50
+2,4:35.0,Defensive rebound by C. Osman,,49,50
+2,4:28.0,C. Sexton misses 3-pt jump shot from 23 ft,,49,50
+2,4:26.0,,Defensive rebound by D. Smith,49,50
+2,4:23.0,,K. Knox misses 2-pt layup from 3 ft (block by C. Osman),49,50
+2,4:22.0,,Offensive rebound by Team,49,50
+2,4:10.0,,L. Thomas misses 2-pt jump shot from 13 ft,49,50
+2,4:08.0,Defensive rebound by B. Knight,,49,50
+2,3:57.0,Personal foul by D. Smith (drawn by A. Žižić),,49,50
+2,3:57.0,,E. Mudiay enters the game for D. Smith,49,50
+2,3:46.0,Personal foul by K. Knox (drawn by A. Žižić),,49,50
+2,3:46.0,,A. Trier enters the game for K. Knox,49,50
+2,3:36.0,B. Knight misses 2-pt jump shot from 13 ft,,49,50
+2,3:34.0,Offensive rebound by A. Žižić,,49,50
+2,3:33.0,A. Žižić misses 2-pt hook shot from 2 ft,,49,50
+2,3:31.0,,Defensive rebound by N. Vonleh,49,50
+2,3:19.0,,L. Thomas misses 3-pt jump shot from 24 ft,49,50
+2,3:17.0,Defensive rebound by C. Sexton,,49,50
+2,3:07.0,A. Žižić makes 2-pt hook shot from 6 ft (assist by C. Osman),,51,50
+2,2:52.0,,N. Vonleh makes 2-pt hook shot from 8 ft (assist by D. Dotson),51,52
+2,2:52.0,D. Nwaba enters the game for K. Love,,51,52
+2,2:52.0,,M. Robinson enters the game for L. Thomas,51,52
+2,2:40.0,,New York full timeout,51,52
+2,2:35.0,C. Sexton misses 3-pt jump shot from 26 ft,,51,52
+2,2:33.0,Offensive rebound by C. Osman,,51,52
+2,2:28.0,A. Žižić makes 2-pt layup from 1 ft (assist by D. Nwaba),,53,52
+2,2:06.0,,E. Mudiay misses 2-pt jump shot from 13 ft,53,52
+2,2:05.0,,Offensive rebound by Team,53,52
+2,2:01.0,,D. Dotson misses 2-pt jump shot from 20 ft,53,52
+2,1:59.0,Defensive rebound by C. Osman,,53,52
+2,1:43.0,Shooting foul by M. Robinson (drawn by C. Osman),,53,52
+2,1:43.0,C. Osman makes free throw 1 of 2,,54,52
+2,1:43.0,C. Osman makes free throw 2 of 2,,55,52
+2,1:25.0,,A. Trier makes 2-pt layup from 1 ft,55,54
+2,1:18.0,B. Knight makes 2-pt layup from 1 ft (assist by D. Nwaba),,57,54
+2,0:59.0,,E. Mudiay makes 3-pt jump shot from 28 ft (assist by D. Dotson),57,57
+2,0:46.0,C. Osman misses 2-pt layup at rim,,57,57
+2,0:44.0,,Defensive rebound by A. Trier,57,57
+2,0:40.0,,Turnover by A. Trier (lost ball; steal by B. Knight),57,57
+2,0:36.0,C. Osman misses 3-pt jump shot from 25 ft,,57,57
+2,0:33.0,,Defensive rebound by N. Vonleh,57,57
+2,0:28.0,,M. Robinson makes 2-pt dunk from 1 ft (assist by E. Mudiay),57,59
+2,0:07.0,C. Sexton misses 2-pt jump shot from 20 ft,,57,59
+2,0:05.0,,Defensive rebound by D. Dotson,57,59
+2,0:00.0,,D. Dotson misses 3-pt jump shot from 28 ft,57,59
+2,0:00.0,,Offensive rebound by Team,57,59
+3,11:46.0,Shooting foul by D. Dotson (drawn by A. Žižić),,57,59
+3,11:46.0,A. Žižić misses free throw 1 of 2,,57,59
+3,11:46.0,Offensive rebound by Team,,57,59
+3,11:46.0,A. Žižić makes free throw 2 of 2,,58,59
+3,11:26.0,,L. Thomas misses 2-pt jump shot from 23 ft,58,59
+3,11:24.0,Defensive rebound by B. Knight,,58,59
+3,11:12.0,K. Love makes 3-pt jump shot from 25 ft,,61,59
+3,11:00.0,,N. Vonleh makes 2-pt jump shot from 22 ft (assist by K. Knox),61,61
+3,10:46.0,B. Knight makes 3-pt jump shot from 24 ft,,64,61
+3,10:36.0,,D. Smith makes 2-pt jump shot from 16 ft (assist by D. Dotson),64,63
+3,10:17.0,K. Love misses 3-pt jump shot from 30 ft,,64,63
+3,10:15.0,,Defensive rebound by D. Smith,64,63
+3,10:11.0,,L. Thomas makes 3-pt jump shot from 25 ft (assist by D. Smith),64,66
+3,10:07.0,,Violation by Team (delay of game),64,66
+3,9:44.0,B. Knight misses 2-pt layup from 1 ft,,64,66
+3,9:42.0,,Defensive rebound by N. Vonleh,64,66
+3,9:37.0,,K. Knox misses 3-pt jump shot from 25 ft,64,66
+3,9:35.0,Defensive rebound by K. Love,,64,66
+3,9:31.0,Personal foul by D. Dotson (drawn by B. Knight),,64,66
+3,9:15.0,C. Sexton makes 2-pt layup from 2 ft,,66,66
+3,9:02.0,,D. Smith misses 3-pt jump shot from 25 ft,66,66
+3,9:00.0,,Offensive rebound by K. Knox,66,66
+3,8:56.0,,L. Thomas makes 2-pt layup from 1 ft (assist by K. Knox),66,68
+3,8:34.0,A. Žižić makes 2-pt layup from 1 ft,,68,68
+3,8:26.0,,L. Thomas misses 3-pt jump shot from 22 ft,68,68
+3,8:24.0,Defensive rebound by A. Žižić,,68,68
+3,8:14.0,,Violation by Team (kicked ball),68,68
+3,8:14.0,,H. Ellenson enters the game for L. Thomas,68,68
+3,8:05.0,C. Osman makes 3-pt jump shot from 25 ft,,71,68
+3,7:57.0,,New York full timeout,71,68
+3,7:41.0,,K. Knox misses 2-pt layup from 4 ft,71,68
+3,7:39.0,,Offensive rebound by N. Vonleh,71,68
+3,7:38.0,,D. Smith misses 3-pt jump shot from 23 ft,71,68
+3,7:37.0,,Offensive rebound by N. Vonleh,71,68
+3,7:36.0,,N. Vonleh makes 2-pt dunk at rim,71,70
+3,7:36.0,,Shooting foul by A. Žižić (drawn by N. Vonleh),71,70
+3,7:36.0,,N. Vonleh makes free throw 1 of 1,71,71
+3,7:28.0,Personal foul by H. Ellenson (drawn by K. Love),,71,71
+3,7:20.0,C. Sexton makes 2-pt jump shot from 3 ft (assist by K. Love),,73,71
+3,7:08.0,,N. Vonleh makes 2-pt jump shot from 8 ft (assist by D. Smith),73,73
+3,7:00.0,K. Love misses 3-pt jump shot from 27 ft,,73,73
+3,6:58.0,,Defensive rebound by D. Dotson,73,73
+3,6:50.0,,H. Ellenson makes 3-pt jump shot from 23 ft (assist by D. Dotson),73,76
+3,6:29.0,K. Love makes 2-pt jump shot from 10 ft (assist by C. Osman),,75,76
+3,6:17.0,,H. Ellenson misses 3-pt jump shot from 26 ft,75,76
+3,6:15.0,Defensive rebound by C. Osman,,75,76
+3,6:08.0,C. Osman makes 2-pt layup from 2 ft (assist by K. Love),,77,76
+3,6:02.0,,Personal foul by K. Love (drawn by D. Smith),77,76
+3,6:02.0,J. Clarkson enters the game for B. Knight,,77,76
+3,5:52.0,,D. Dotson makes 2-pt layup from 1 ft (assist by D. Smith),77,78
+3,5:37.0,Personal foul by N. Vonleh (drawn by K. Love),,77,78
+3,5:37.0,M. Chriss enters the game for K. Love,,77,78
+3,5:37.0,L. Nance enters the game for A. Žižić,,77,78
+3,5:22.0,J. Clarkson misses 3-pt jump shot from 23 ft,,77,78
+3,5:20.0,,Defensive rebound by K. Knox,77,78
+3,5:14.0,,K. Knox misses 2-pt jump shot from 21 ft,77,78
+3,5:12.0,Defensive rebound by C. Sexton,,77,78
+3,5:10.0,Personal foul by D. Dotson (drawn by C. Sexton),,77,78
+3,5:10.0,C. Sexton makes free throw 1 of 2,,78,78
+3,5:10.0,,M. Robinson enters the game for K. Knox,78,78
+3,5:10.0,,A. Trier enters the game for N. Vonleh,78,78
+3,5:10.0,C. Sexton makes free throw 2 of 2,,79,78
+3,5:00.0,,Shooting foul by L. Nance (drawn by H. Ellenson),79,78
+3,5:00.0,,H. Ellenson makes free throw 1 of 2,79,79
+3,5:00.0,,H. Ellenson makes free throw 2 of 2,79,80
+3,4:46.0,Turnover by J. Clarkson (lost ball; steal by D. Dotson),,79,80
+3,4:43.0,,M. Robinson makes 2-pt dunk from 2 ft (assist by D. Dotson),79,82
+3,4:26.0,C. Sexton misses 3-pt jump shot from 25 ft,,79,82
+3,4:24.0,,Defensive rebound by H. Ellenson,79,82
+3,4:06.0,,A. Trier makes 3-pt jump shot from 25 ft (assist by D. Smith),79,85
+3,3:40.0,C. Sexton misses 3-pt jump shot from 25 ft,,79,85
+3,3:38.0,,Defensive rebound by A. Trier,79,85
+3,3:33.0,,A. Trier makes 2-pt layup from 2 ft,79,87
+3,3:33.0,Cleveland full timeout,,79,87
+3,3:33.0,M. Dellavedova enters the game for C. Osman,,79,87
+3,3:33.0,D. Nwaba enters the game for C. Sexton,,79,87
+3,3:17.0,L. Nance makes 2-pt hook shot from 6 ft,,81,87
+3,2:51.0,,H. Ellenson misses 2-pt jump shot from 18 ft,81,87
+3,2:49.0,Defensive rebound by M. Chriss,,81,87
+3,2:40.0,Turnover by L. Nance (lost ball; steal by M. Robinson),,81,87
+3,2:34.0,,A. Trier makes 2-pt layup from 1 ft,81,89
+3,2:09.0,M. Chriss misses 3-pt jump shot from 26 ft (block by M. Robinson),,81,89
+3,2:08.0,Offensive rebound by M. Chriss,,81,89
+3,2:08.0,Turnover by Team (shot clock),,81,89
+3,1:58.0,,Personal foul by D. Nwaba (drawn by A. Trier),81,89
+3,1:47.0,,D. Smith misses 2-pt jump shot from 9 ft,81,89
+3,1:45.0,Defensive rebound by M. Chriss,,81,89
+3,1:24.0,M. Chriss misses 2-pt jump shot from 8 ft,,81,89
+3,1:22.0,,Defensive rebound by H. Ellenson,81,89
+3,1:10.0,,H. Ellenson makes 2-pt jump shot from 12 ft (assist by D. Smith),81,91
+3,0:56.0,J. Clarkson makes 2-pt layup from 1 ft (assist by M. Dellavedova),,83,91
+3,0:40.0,,D. Dotson misses 2-pt layup from 2 ft,83,91
+3,0:38.0,,Offensive rebound by M. Robinson,83,91
+3,0:37.0,,M. Robinson makes 2-pt dunk from 2 ft,83,93
+3,0:32.0,M. Dellavedova misses 2-pt layup from 2 ft (block by D. Smith),,83,93
+3,0:31.0,Offensive rebound by Team,,83,93
+3,0:23.0,J. Clarkson makes 2-pt layup from 1 ft,,85,93
+3,0:03.0,,D. Smith makes 3-pt jump shot from 25 ft,85,96
+3,0:03.0,,Shooting foul by M. Dellavedova (drawn by D. Smith),85,96
+3,0:03.0,,D. Smith makes free throw 1 of 1,85,97
+3,0:00.0,L. Nance misses 3-pt jump shot from 27 ft,,85,97
+3,0:00.0,Offensive rebound by Team,,85,97
+4,11:47.0,,D. Dotson misses 3-pt jump shot from 25 ft,85,97
+4,11:45.0,,Offensive rebound by A. Trier,85,97
+4,11:33.0,,D. Dotson makes 2-pt jump shot from 14 ft (assist by A. Trier),85,99
+4,11:13.0,D. Nwaba makes 3-pt jump shot from 23 ft (assist by M. Dellavedova),,88,99
+4,10:51.0,,D. Dotson misses 2-pt jump shot from 14 ft,88,99
+4,10:49.0,Defensive rebound by D. Nwaba,,88,99
+4,10:44.0,D. Nwaba makes 2-pt layup from 1 ft,,90,99
+4,10:44.0,,Violation by Team (def goaltending),90,99
+4,10:21.0,,H. Ellenson misses 2-pt jump shot from 18 ft,90,99
+4,10:19.0,Defensive rebound by J. Clarkson,,90,99
+4,10:04.0,N. Stauskas misses 3-pt jump shot from 24 ft,,90,99
+4,10:01.0,,Defensive rebound by Team,90,99
+4,10:01.0,,E. Mudiay enters the game for D. Smith,90,99
+4,9:45.0,,A. Trier makes 3-pt jump shot from 28 ft (assist by E. Mudiay),90,102
+4,9:20.0,M. Dellavedova makes 2-pt layup from 1 ft (assist by L. Nance),,92,102
+4,9:02.0,,Shooting foul by L. Nance (drawn by D. Dotson),92,102
+4,9:02.0,,D. Dotson misses free throw 1 of 2,92,102
+4,9:02.0,,Offensive rebound by Team,92,102
+4,9:02.0,,D. Dotson makes free throw 2 of 2,92,103
+4,9:01.0,Personal take foul by A. Trier (drawn by M. Dellavedova),,92,103
+4,9:01.0,,J. Jenkins enters the game for D. Dotson,92,103
+4,8:47.0,J. Clarkson misses 3-pt jump shot from 23 ft,,92,103
+4,8:45.0,Offensive rebound by N. Stauskas,,92,103
+4,8:40.0,J. Clarkson misses 3-pt jump shot from 26 ft,,92,103
+4,8:39.0,Offensive rebound by Team,,92,103
+4,8:39.0,,Loose ball foul by A. Trier (drawn by L. Nance),92,103
+4,8:33.0,M. Dellavedova makes 2-pt jump shot from 1 ft (assist by L. Nance),,94,103
+4,8:14.0,,J. Jenkins misses 2-pt jump shot from 17 ft,94,103
+4,8:12.0,Defensive rebound by J. Clarkson,,94,103
+4,8:05.0,J. Clarkson makes 2-pt layup from 4 ft,,96,103
+4,7:59.0,,New York full timeout,96,103
+4,7:59.0,K. Love enters the game for D. Nwaba,,96,103
+4,7:59.0,,N. Vonleh enters the game for M. Robinson,96,103
+4,7:42.0,,Shooting foul by L. Nance (drawn by N. Vonleh),96,103
+4,7:42.0,,N. Vonleh misses free throw 1 of 2,96,103
+4,7:42.0,,Offensive rebound by Team,96,103
+4,7:42.0,,N. Vonleh makes free throw 2 of 2,96,104
+4,7:24.0,Shooting foul by E. Mudiay (drawn by J. Clarkson),,96,104
+4,7:24.0,J. Clarkson makes free throw 1 of 2,,97,104
+4,7:24.0,J. Clarkson makes free throw 2 of 2,,98,104
+4,7:05.0,,E. Mudiay misses 2-pt jump shot from 15 ft,98,104
+4,7:03.0,Defensive rebound by L. Nance,,98,104
+4,6:57.0,Turnover by L. Nance (turnover),,98,104
+4,6:57.0,,Flagrant foul type 1 by L. Nance (drawn by N. Vonleh),98,104
+4,6:57.0,C. Osman enters the game for M. Dellavedova,,98,104
+4,6:57.0,C. Sexton enters the game for L. Nance,,98,104
+4,6:57.0,,N. Vonleh misses flagrant free throw 1 of 2,98,104
+4,6:57.0,,Offensive rebound by Team,98,104
+4,6:57.0,,N. Vonleh misses flagrant free throw 2 of 2,98,104
+4,6:57.0,,Offensive rebound by Team,98,104
+4,6:42.0,,Personal foul by C. Osman (drawn by H. Ellenson),98,104
+4,6:34.0,,E. Mudiay misses 2-pt layup from 3 ft,98,104
+4,6:32.0,Defensive rebound by N. Stauskas,,98,104
+4,6:26.0,Shooting foul by H. Ellenson (drawn by C. Sexton),,98,104
+4,6:26.0,C. Sexton misses free throw 1 of 2,,98,104
+4,6:26.0,Offensive rebound by Team,,98,104
+4,6:26.0,,K. Knox enters the game for J. Jenkins,98,104
+4,6:26.0,,M. Robinson enters the game for N. Vonleh,98,104
+4,6:26.0,C. Sexton makes free throw 2 of 2,,99,104
+4,6:17.0,,Turnover by E. Mudiay (back court),99,104
+4,6:02.0,K. Love misses 2-pt layup from 1 ft,,99,104
+4,6:00.0,,Defensive rebound by H. Ellenson,99,104
+4,5:56.0,,E. Mudiay makes 2-pt layup from 1 ft,99,106
+4,5:38.0,Personal foul by H. Ellenson (drawn by J. Clarkson),,99,106
+4,5:38.0,J. Clarkson makes free throw 1 of 2,,100,106
+4,5:38.0,,D. Smith enters the game for A. Trier,100,106
+4,5:38.0,J. Clarkson misses free throw 2 of 2,,100,106
+4,5:36.0,,Defensive rebound by H. Ellenson,100,106
+4,5:24.0,,H. Ellenson makes 3-pt jump shot from 26 ft (assist by E. Mudiay),100,109
+4,5:17.0,Cleveland full timeout,,100,109
+4,5:17.0,A. Žižić enters the game for N. Stauskas,,100,109
+4,5:07.0,Shooting foul by M. Robinson (drawn by K. Love),,100,109
+4,5:07.0,K. Love makes free throw 1 of 2,,101,109
+4,5:07.0,K. Love makes free throw 2 of 2,,102,109
+4,4:47.0,,K. Knox makes 2-pt jump shot from 10 ft (assist by D. Smith),102,111
+4,4:28.0,C. Osman makes 2-pt layup from 2 ft (assist by C. Sexton),,104,111
+4,4:13.0,,E. Mudiay misses 2-pt layup from 2 ft,104,111
+4,4:11.0,Defensive rebound by K. Love,,104,111
+4,4:03.0,Turnover by A. Žižić (out of bounds lost ball),,104,111
+4,3:51.0,,K. Knox makes 2-pt jump shot from 14 ft,104,113
+4,3:45.0,C. Sexton makes 2-pt layup from 1 ft,,106,113
+4,3:45.0,Shooting foul by H. Ellenson (drawn by C. Sexton),,106,113
+4,3:45.0,C. Sexton makes free throw 1 of 1,,107,113
+4,3:24.0,,D. Smith misses 3-pt jump shot from 23 ft,107,113
+4,3:22.0,Defensive rebound by K. Love,,107,113
+4,3:17.0,C. Sexton makes 2-pt layup from 2 ft (assist by K. Love),,109,113
+4,3:11.0,,New York full timeout,109,113
+4,3:11.0,Cleveland full timeout,,109,113
+4,3:03.0,,Personal foul by J. Clarkson (drawn by K. Knox),109,113
+4,3:03.0,,K. Knox makes free throw 1 of 2,109,114
+4,3:03.0,,L. Thomas enters the game for H. Ellenson,109,114
+4,3:03.0,,K. Knox makes free throw 2 of 2,109,115
+4,2:41.0,C. Sexton misses 2-pt jump shot from 6 ft,,109,115
+4,2:39.0,Offensive rebound by C. Sexton,,109,115
+4,2:39.0,Personal foul by K. Knox (drawn by C. Sexton),,109,115
+4,2:39.0,C. Sexton makes free throw 1 of 2,,110,115
+4,2:39.0,,H. Ellenson enters the game for E. Mudiay,110,115
+4,2:39.0,,A. Trier enters the game for L. Thomas,110,115
+4,2:39.0,C. Sexton makes free throw 2 of 2,,111,115
+4,2:27.0,,K. Knox misses 2-pt jump shot from 14 ft,111,115
+4,2:25.0,Defensive rebound by C. Osman,,111,115
+4,2:19.0,C. Osman makes 3-pt jump shot from 25 ft (assist by J. Clarkson),,114,115
+4,1:59.0,,K. Knox misses 2-pt jump shot from 21 ft,114,115
+4,1:57.0,Defensive rebound by K. Love,,114,115
+4,1:40.0,Turnover by C. Osman (bad pass),,114,115
+4,1:30.0,,Turnover by D. Smith (bad pass; steal by J. Clarkson),114,115
+4,1:29.0,Clear path foul by A. Trier,,114,115
+4,1:29.0,J. Clarkson makes clear path free throw 1 of 2,,115,115
+4,1:29.0,J. Clarkson makes clear path free throw 2 of 2,,116,115
+4,1:21.0,J. Clarkson makes 3-pt jump shot from 22 ft (assist by C. Sexton),,119,115
+4,1:02.0,,D. Smith misses 3-pt jump shot from 26 ft,119,115
+4,1:00.0,,Offensive rebound by K. Knox,119,115
+4,0:53.0,,K. Knox misses 3-pt jump shot from 23 ft (block by C. Osman),119,115
+4,0:52.0,,Offensive rebound by K. Knox,119,115
+4,0:51.0,,New York full timeout,119,115
+4,0:48.0,,A. Trier misses 3-pt jump shot from 26 ft,119,115
+4,0:45.0,Defensive rebound by K. Love,,119,115
+4,0:43.0,Personal foul by M. Robinson (drawn by C. Sexton),,119,115
+4,0:43.0,C. Sexton misses free throw 1 of 2,,119,115
+4,0:43.0,Offensive rebound by Team,,119,115
+4,0:43.0,C. Sexton misses free throw 2 of 2,,119,115
+4,0:41.0,,Defensive rebound by H. Ellenson,119,115
+4,0:30.0,,A. Trier misses 2-pt layup from 2 ft,119,115
+4,0:28.0,,Offensive rebound by K. Knox,119,115
+4,0:26.0,,K. Knox misses 3-pt jump shot from 26 ft,119,115
+4,0:24.0,Defensive rebound by Team,,119,115
+4,0:24.0,M. Dellavedova enters the game for A. Žižić,,119,115
+4,0:24.0,,L. Thomas enters the game for H. Ellenson,119,115
+4,0:24.0,Cleveland full timeout,,119,115
+4,0:23.0,Personal take foul by M. Robinson (drawn by K. Love),,119,115
+4,0:23.0,D. Nwaba enters the game for M. Dellavedova,,119,115
+4,0:23.0,,H. Ellenson enters the game for L. Thomas,119,115
+4,0:23.0,K. Love makes free throw 1 of 2,,120,115
+4,0:23.0,K. Love makes free throw 2 of 2,,121,115
+4,0:18.0,,Personal foul by D. Nwaba (drawn by A. Trier),121,115
+4,0:18.0,M. Dellavedova enters the game for D. Nwaba,,121,115
+4,0:18.0,,E. Mudiay enters the game for H. Ellenson,121,115
+4,0:18.0,,L. Thomas enters the game for K. Knox,121,115
+4,0:18.0,,A. Trier misses free throw 1 of 2,121,115
+4,0:18.0,,Offensive rebound by Team,121,115
+4,0:18.0,,A. Trier makes free throw 2 of 2,121,116
+4,0:18.0,Personal take foul by M. Robinson (drawn by K. Love),,121,116
+4,0:18.0,K. Love makes free throw 1 of 2,,122,116
+4,0:18.0,D. Nwaba enters the game for M. Dellavedova,,122,116
+4,0:18.0,,H. Ellenson enters the game for L. Thomas,122,116
+4,0:18.0,K. Love makes free throw 2 of 2,,123,116
+4,0:10.0,,E. Mudiay misses 3-pt jump shot from 25 ft,123,116
+4,0:08.0,,Offensive rebound by Team,123,116
+4,0:07.0,,A. Trier misses 2-pt layup from 1 ft,123,116
+4,0:06.0,,Offensive rebound by A. Trier,123,116
+4,0:06.0,,Shooting foul by D. Nwaba (drawn by A. Trier),123,116
+4,0:06.0,,A. Trier makes free throw 1 of 2,123,117
+4,0:06.0,,A. Trier makes free throw 2 of 2,123,118
+4,0:05.0,Personal take foul by M. Robinson (drawn by K. Love),,123,118
+4,0:05.0,K. Love makes free throw 1 of 2,,124,118
+4,0:05.0,,L. Thomas enters the game for M. Robinson,124,118
+4,0:05.0,K. Love makes free throw 2 of 2,,125,118
+4,0:05.0,,New York full timeout,125,118
+4,0:03.0,,L. Thomas misses 3-pt jump shot from 26 ft,125,118
+4,0:00.0,Defensive rebound by C. Osman,,125,118

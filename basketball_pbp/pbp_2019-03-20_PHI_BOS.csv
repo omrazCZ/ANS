@@ -1,0 +1,486 @@
+QUARTER,TIME_REMAINING,BOSTON_ACTION,PHILADELPHIA_ACTION,BOSTON_SCORE,PHILADELPHIA_SCORE
+1,11:45.0,K. Irving makes 3-pt jump shot from 26 ft (assist by A. Horford),,3,0
+1,11:23.0,,J. Butler misses 3-pt jump shot from 25 ft,3,0
+1,11:19.0,Defensive rebound by K. Irving,,3,0
+1,11:12.0,A. Horford misses 2-pt jump shot from 12 ft,,3,0
+1,11:09.0,,Defensive rebound by T. Harris,3,0
+1,11:01.0,,Shooting foul by A. Horford (drawn by J. Embiid),3,0
+1,11:01.0,,J. Embiid misses free throw 1 of 2,3,0
+1,11:01.0,,Offensive rebound by Team,3,0
+1,11:01.0,,J. Embiid makes free throw 2 of 2,3,1
+1,10:49.0,K. Irving makes 3-pt jump shot from 27 ft (assist by J. Tatum),,6,1
+1,10:31.0,,T. Harris makes 2-pt jump shot from 7 ft,6,3
+1,10:22.0,M. Smart misses 2-pt jump shot from 16 ft,,6,3
+1,10:20.0,,Defensive rebound by J. Embiid,6,3
+1,10:06.0,,J. Embiid misses 2-pt layup from 3 ft,6,3
+1,10:03.0,,Offensive rebound by T. Harris,6,3
+1,10:03.0,,T. Harris misses 2-pt layup from 3 ft,6,3
+1,10:03.0,,Offensive rebound by T. Harris,6,3
+1,9:59.0,,T. Harris misses 2-pt layup from 5 ft (block by J. Tatum),6,3
+1,9:58.0,Defensive rebound by K. Irving,,6,3
+1,9:56.0,A. Horford makes 2-pt jump shot from 4 ft (assist by K. Irving),,8,3
+1,9:38.0,,T. Harris misses 2-pt jump shot from 15 ft,8,3
+1,9:36.0,Defensive rebound by J. Tatum,,8,3
+1,9:32.0,M. Smart makes 3-pt jump shot from 25 ft (assist by J. Tatum),,11,3
+1,9:19.0,,J. Redick makes 3-pt jump shot from 25 ft (assist by B. Simmons),11,6
+1,9:10.0,K. Irving misses 3-pt jump shot from 27 ft,,11,6
+1,9:07.0,,Defensive rebound by J. Embiid,11,6
+1,9:00.0,,Shooting foul by K. Irving (drawn by J. Butler),11,6
+1,9:00.0,,J. Butler makes free throw 1 of 2,11,7
+1,9:00.0,,J. Butler makes free throw 2 of 2,11,8
+1,8:51.0,Personal foul by B. Simmons (drawn by K. Irving),,11,8
+1,8:48.0,J. Tatum makes 2-pt layup from 1 ft (assist by M. Smart),,13,8
+1,8:35.0,,Turnover by B. Simmons (traveling),13,8
+1,8:26.0,M. Morris misses 2-pt jump shot from 15 ft,,13,8
+1,8:23.0,Offensive rebound by K. Irving,,13,8
+1,8:22.0,K. Irving makes 2-pt layup from 2 ft,,15,8
+1,8:22.0,Shooting foul by J. Redick (drawn by K. Irving),,15,8
+1,8:22.0,A. Baynes enters the game for A. Horford,,15,8
+1,8:22.0,K. Irving misses free throw 1 of 1,,15,8
+1,8:19.0,,Defensive rebound by J. Embiid,15,8
+1,8:06.0,,J. Redick misses 3-pt jump shot from 27 ft,15,8
+1,8:04.0,,Offensive rebound by J. Embiid,15,8
+1,8:02.0,,T. Harris makes 3-pt jump shot from 23 ft (assist by J. Embiid),15,11
+1,7:45.0,J. Tatum misses 2-pt jump shot from 13 ft,,15,11
+1,7:42.0,Offensive rebound by A. Baynes,,15,11
+1,7:36.0,M. Morris makes 2-pt jump shot from 9 ft,,17,11
+1,7:24.0,,B. Simmons makes 2-pt layup from 2 ft (assist by J. Embiid),17,13
+1,7:24.0,,Shooting foul by J. Tatum (drawn by B. Simmons),17,13
+1,7:24.0,,B. Simmons misses free throw 1 of 1,17,13
+1,7:22.0,Defensive rebound by A. Baynes,,17,13
+1,7:05.0,Personal foul by J. Butler (drawn by J. Tatum),,17,13
+1,6:56.0,K. Irving makes 2-pt jump shot from 11 ft,,19,13
+1,6:55.0,,Philadelphia full timeout,19,13
+1,6:40.0,,J. Redick misses 3-pt jump shot from 26 ft,19,13
+1,6:38.0,,Offensive rebound by T. Harris,19,13
+1,6:38.0,,Shooting foul by A. Baynes (drawn by T. Harris),19,13
+1,6:38.0,,T. Harris makes free throw 1 of 2,19,14
+1,6:38.0,,T. Harris makes free throw 2 of 2,19,15
+1,6:28.0,K. Irving misses 3-pt jump shot from 27 ft,,19,15
+1,6:25.0,,Defensive rebound by J. Embiid,19,15
+1,6:20.0,,T. Harris misses 3-pt jump shot from 23 ft,19,15
+1,6:17.0,Defensive rebound by K. Irving,,19,15
+1,6:11.0,M. Smart misses 3-pt jump shot from 27 ft,,19,15
+1,6:08.0,,Defensive rebound by B. Simmons,19,15
+1,6:04.0,,B. Simmons makes 2-pt layup from 3 ft,19,17
+1,5:48.0,M. Morris misses 2-pt jump shot from 11 ft,,19,17
+1,5:46.0,,Defensive rebound by J. Embiid,19,17
+1,5:38.0,,J. Embiid makes 2-pt jump shot from 5 ft (assist by T. Harris),19,19
+1,5:20.0,A. Baynes makes 2-pt dunk from 1 ft (assist by K. Irving),,21,19
+1,5:04.0,,T. Harris makes 2-pt dunk from 1 ft (assist by B. Simmons),21,21
+1,4:49.0,K. Irving misses 2-pt jump shot from 13 ft,,21,21
+1,4:47.0,,Defensive rebound by J. Embiid,21,21
+1,4:43.0,,T. Harris misses 3-pt jump shot from 26 ft,21,21
+1,4:40.0,Defensive rebound by J. Tatum,,21,21
+1,4:40.0,Personal foul by J. Butler (drawn by J. Tatum),,21,21
+1,4:40.0,J. Brown enters the game for A. Baynes,,21,21
+1,4:40.0,A. Horford enters the game for M. Smart,,21,21
+1,4:40.0,,B. Marjanović enters the game for J. Embiid,21,21
+1,4:40.0,,T. McConnell enters the game for J. Redick,21,21
+1,4:40.0,,M. Scott enters the game for B. Simmons,21,21
+1,4:25.0,A. Horford misses 3-pt jump shot from 26 ft,,21,21
+1,4:24.0,,Defensive rebound by Team,21,21
+1,4:12.0,,T. McConnell misses 2-pt jump shot from 14 ft,21,21
+1,4:09.0,Defensive rebound by M. Morris,,21,21
+1,4:03.0,K. Irving makes 2-pt jump shot from 10 ft,,23,21
+1,3:34.0,,T. Harris misses 2-pt jump shot from 6 ft,23,21
+1,3:31.0,,Offensive rebound by J. Butler,23,21
+1,3:26.0,,B. Marjanović misses 2-pt hook shot from 4 ft,23,21
+1,3:24.0,Defensive rebound by M. Morris,,23,21
+1,3:17.0,J. Tatum makes 3-pt jump shot from 24 ft (assist by M. Morris),,26,21
+1,2:59.0,,T. Harris makes 3-pt jump shot from 25 ft (assist by T. McConnell),26,24
+1,2:58.0,Boston full timeout,,26,24
+1,2:58.0,T. Rozier enters the game for M. Morris,,26,24
+1,2:58.0,,J. Ennis enters the game for J. Butler,26,24
+1,2:42.0,K. Irving misses 3-pt jump shot from 25 ft,,26,24
+1,2:38.0,Offensive rebound by J. Brown,,26,24
+1,2:33.0,J. Tatum makes 2-pt layup from 2 ft (assist by J. Brown),,28,24
+1,2:20.0,,T. Harris misses 2-pt jump shot from 18 ft,28,24
+1,2:17.0,Defensive rebound by J. Brown,,28,24
+1,2:11.0,J. Tatum misses 2-pt jump shot from 20 ft,,28,24
+1,2:08.0,,Defensive rebound by M. Scott,28,24
+1,1:58.0,,T. Harris misses 2-pt layup from 3 ft,28,24
+1,1:56.0,Defensive rebound by A. Horford,,28,24
+1,1:49.0,A. Horford makes 2-pt jump shot from 15 ft (assist by K. Irving),,30,24
+1,1:40.0,,Turnover by B. Marjanović (back court),30,24
+1,1:40.0,A. Baynes enters the game for J. Tatum,,30,24
+1,1:40.0,,J. Embiid enters the game for T. Harris,30,24
+1,1:40.0,,J. Redick enters the game for B. Marjanović,30,24
+1,1:40.0,,B. Simmons enters the game for T. McConnell,30,24
+1,1:31.0,Turnover by K. Irving (bad pass; steal by M. Scott),,30,24
+1,1:25.0,,J. Ennis makes 2-pt dunk from 1 ft (assist by B. Simmons),30,26
+1,1:13.0,Shooting foul by M. Scott (drawn by K. Irving),,30,26
+1,1:13.0,K. Irving makes free throw 1 of 2,,31,26
+1,1:13.0,K. Irving makes free throw 2 of 2,,32,26
+1,0:55.0,,J. Embiid misses 2-pt jump shot from 15 ft,32,26
+1,0:52.0,Defensive rebound by T. Rozier,,32,26
+1,0:48.0,T. Rozier makes 3-pt jump shot from 23 ft (assist by A. Horford),,35,26
+1,0:47.0,,Philadelphia full timeout,35,26
+1,0:36.0,,Personal foul by J. Brown (drawn by J. Embiid),35,26
+1,0:36.0,,J. Embiid makes free throw 1 of 2,35,27
+1,0:36.0,,J. Embiid makes free throw 2 of 2,35,28
+1,0:27.0,T. Rozier makes 2-pt jump shot from 8 ft,,37,28
+1,0:12.0,,J. Embiid makes 2-pt layup from 1 ft (assist by J. Redick),37,30
+1,0:04.0,K. Irving makes 2-pt layup from 1 ft,,39,30
+1,0:01.0,,B. Simmons misses 2-pt jump shot from 18 ft,39,30
+1,0:00.0,,Offensive rebound by Team,39,30
+2,11:32.0,,J. Redick misses 2-pt jump shot from 16 ft,39,30
+2,11:29.0,Defensive rebound by T. Rozier,,39,30
+2,11:22.0,A. Horford misses 2-pt hook shot from 9 ft,,39,30
+2,11:20.0,,Defensive rebound by J. Embiid,39,30
+2,11:07.0,,Shooting foul by A. Baynes (drawn by J. Embiid),39,30
+2,11:07.0,,J. Embiid makes free throw 1 of 2,39,31
+2,11:07.0,,J. Embiid makes free throw 2 of 2,39,32
+2,10:59.0,Turnover by J. Brown (traveling),,39,32
+2,10:47.0,,J. Embiid makes 2-pt hook shot from 6 ft (assist by J. Redick),39,34
+2,10:26.0,A. Horford makes 2-pt hook shot from 7 ft,,41,34
+2,10:26.0,Shooting foul by B. Simmons (drawn by A. Horford),,41,34
+2,10:26.0,A. Horford makes free throw 1 of 1,,42,34
+2,10:15.0,,J. Embiid makes 3-pt jump shot from 26 ft (assist by B. Simmons),42,37
+2,9:52.0,A. Horford makes 2-pt hook shot from 6 ft,,44,37
+2,9:52.0,Shooting foul by T. Harris (drawn by A. Horford),,44,37
+2,9:52.0,,J. Butler enters the game for J. Ennis,44,37
+2,9:52.0,A. Horford makes free throw 1 of 1,,45,37
+2,9:31.0,,Turnover by J. Embiid (bad pass),45,37
+2,9:09.0,Turnover by A. Horford (bad pass; steal by J. Embiid),,45,37
+2,9:05.0,,J. Redick misses 3-pt jump shot from 26 ft,45,37
+2,9:01.0,Defensive rebound by T. Rozier,,45,37
+2,8:57.0,J. Brown makes 2-pt layup from 1 ft (assist by M. Smart),,47,37
+2,8:38.0,,J. Butler misses 2-pt jump shot from 8 ft,47,37
+2,8:36.0,Defensive rebound by A. Baynes,,47,37
+2,8:30.0,T. Rozier makes 3-pt jump shot from 26 ft,,50,37
+2,8:17.0,,B. Simmons makes 2-pt layup from 3 ft (assist by J. Redick),50,39
+2,8:09.0,Turnover by M. Smart (bad pass; steal by B. Simmons),,50,39
+2,8:04.0,,J. Redick misses 3-pt jump shot from 26 ft,50,39
+2,8:00.0,Defensive rebound by M. Smart,,50,39
+2,7:56.0,A. Baynes makes 2-pt dunk from 1 ft (assist by M. Smart),,52,39
+2,7:42.0,,Shooting foul by J. Brown (drawn by J. Embiid),52,39
+2,7:42.0,,J. Embiid makes free throw 1 of 2,52,40
+2,7:42.0,M. Morris enters the game for A. Horford,,52,40
+2,7:42.0,,M. Scott enters the game for J. Redick,52,40
+2,7:42.0,,J. Embiid makes free throw 2 of 2,52,41
+2,7:26.0,T. Rozier makes 3-pt jump shot from 26 ft,,55,41
+2,7:09.0,,Shooting foul by J. Brown (drawn by J. Embiid),55,41
+2,7:09.0,,J. Embiid makes free throw 1 of 2,55,42
+2,7:09.0,,T. McConnell enters the game for B. Simmons,55,42
+2,7:09.0,,J. Embiid makes free throw 2 of 2,55,43
+2,6:55.0,T. Rozier makes 3-pt jump shot from 26 ft (assist by M. Smart),,58,43
+2,6:40.0,,Offensive foul by J. Embiid (drawn by A. Baynes),58,43
+2,6:40.0,,Turnover by J. Embiid (offensive foul),58,43
+2,6:40.0,,Philadelphia full timeout,58,43
+2,6:40.0,J. Tatum enters the game for J. Brown,,58,43
+2,6:40.0,,B. Marjanović enters the game for J. Embiid,58,43
+2,6:21.0,T. Rozier misses 3-pt jump shot from 25 ft,,58,43
+2,6:18.0,,Defensive rebound by T. McConnell,58,43
+2,6:04.0,,B. Marjanović makes 2-pt jump shot from 15 ft (assist by T. McConnell),58,45
+2,5:50.0,A. Baynes misses 2-pt hook shot from 1 ft,,58,45
+2,5:50.0,,Defensive rebound by B. Marjanović,58,45
+2,5:35.0,,T. McConnell misses 2-pt jump shot from 9 ft,58,45
+2,5:34.0,,Offensive rebound by M. Scott,58,45
+2,5:28.0,,B. Marjanović misses 2-pt jump shot from 8 ft,58,45
+2,5:26.0,Defensive rebound by J. Tatum,,58,45
+2,5:19.0,A. Baynes misses 3-pt jump shot from 27 ft,,58,45
+2,5:15.0,,Defensive rebound by B. Marjanović,58,45
+2,5:08.0,,T. McConnell misses 2-pt layup from 4 ft,58,45
+2,5:08.0,,Offensive rebound by B. Marjanović,58,45
+2,5:07.0,,B. Marjanović misses 2-pt layup from 3 ft (block by M. Morris),58,45
+2,5:07.0,,Offensive rebound by Team,58,45
+2,5:07.0,A. Horford enters the game for A. Baynes,,58,45
+2,5:07.0,K. Irving enters the game for M. Smart,,58,45
+2,5:07.0,,J. Embiid enters the game for B. Marjanović,58,45
+2,4:56.0,,M. Scott misses 2-pt jump shot from 6 ft,58,45
+2,4:51.0,Defensive rebound by K. Irving,,58,45
+2,4:33.0,Shooting foul by J. Embiid (drawn by K. Irving),,58,45
+2,4:33.0,Technical foul by B. Brown,,58,45
+2,4:33.0,K. Irving misses technical free throw,,58,45
+2,4:33.0,Offensive rebound by Team,,58,45
+2,4:33.0,K. Irving makes free throw 1 of 2,,59,45
+2,4:33.0,,B. Simmons enters the game for T. McConnell,59,45
+2,4:33.0,K. Irving makes free throw 2 of 2,,60,45
+2,4:19.0,,J. Butler misses 3-pt jump shot from 26 ft,60,45
+2,4:16.0,Defensive rebound by J. Tatum,,60,45
+2,4:14.0,Turnover by J. Tatum (bad pass),,60,45
+2,4:05.0,,Shooting foul by K. Irving (drawn by T. Harris),60,45
+2,4:05.0,,T. Harris misses free throw 1 of 2,60,45
+2,4:05.0,,Offensive rebound by Team,60,45
+2,4:05.0,M. Smart enters the game for T. Rozier,,60,45
+2,4:05.0,,T. Harris makes free throw 2 of 2,60,46
+2,3:56.0,K. Irving misses 3-pt jump shot from 26 ft,,60,46
+2,3:52.0,,Defensive rebound by J. Embiid,60,46
+2,3:46.0,,J. Butler misses 2-pt jump shot from 15 ft,60,46
+2,3:42.0,,Offensive rebound by M. Scott,60,46
+2,3:40.0,,M. Scott misses 2-pt jump shot from 3 ft (block by K. Irving),60,46
+2,3:32.0,Defensive rebound by M. Morris,,60,46
+2,3:30.0,K. Irving misses 3-pt jump shot from 24 ft,,60,46
+2,3:28.0,,Defensive rebound by B. Simmons,60,46
+2,3:25.0,,Personal foul by M. Smart (drawn by B. Simmons),60,46
+2,3:25.0,,B. Simmons makes free throw 1 of 2,60,47
+2,3:25.0,,J. Redick enters the game for T. Harris,60,47
+2,3:25.0,,B. Simmons makes free throw 2 of 2,60,48
+2,3:14.0,M. Morris misses 2-pt jump shot from 3 ft (block by B. Simmons),,60,48
+2,3:11.0,,Defensive rebound by J. Butler,60,48
+2,3:08.0,,B. Simmons misses 2-pt layup from 3 ft,60,48
+2,3:06.0,,Offensive rebound by B. Simmons,60,48
+2,3:04.0,,M. Scott makes 3-pt jump shot from 22 ft (assist by B. Simmons),60,51
+2,3:01.0,Boston full timeout,,60,51
+2,2:46.0,A. Horford makes 2-pt layup from 1 ft (assist by J. Tatum),,62,51
+2,2:17.0,,J. Butler makes 2-pt jump shot from 9 ft,62,53
+2,1:58.0,K. Irving makes 2-pt layup from 1 ft,,64,53
+2,1:52.0,,J. Butler misses 3-pt jump shot from 25 ft,64,53
+2,1:49.0,Defensive rebound by K. Irving,,64,53
+2,1:44.0,A. Horford misses 3-pt jump shot from 25 ft,,64,53
+2,1:39.0,,Defensive rebound by B. Simmons,64,53
+2,1:25.0,,J. Embiid misses 2-pt jump shot from 10 ft,64,53
+2,1:23.0,Defensive rebound by A. Horford,,64,53
+2,1:08.0,M. Smart misses 3-pt jump shot from 23 ft,,64,53
+2,1:05.0,Offensive rebound by M. Morris,,64,53
+2,1:04.0,A. Horford makes 3-pt jump shot from 26 ft (assist by M. Morris),,67,53
+2,0:40.0,,J. Butler misses 2-pt jump shot from 2 ft,67,53
+2,0:38.0,Defensive rebound by M. Morris,,67,53
+2,0:34.0,K. Irving misses 3-pt jump shot from 25 ft,,67,53
+2,0:31.0,,Defensive rebound by J. Embiid,67,53
+2,0:26.0,,Personal foul by M. Morris (drawn by J. Redick),67,53
+2,0:26.0,,J. Redick makes free throw 1 of 2,67,54
+2,0:26.0,,J. Redick makes free throw 2 of 2,67,55
+2,0:05.0,M. Morris makes 2-pt jump shot from 10 ft,,69,55
+2,0:00.0,,Shooting foul by M. Smart (drawn by J. Redick),69,55
+2,0:00.0,,J. Redick makes free throw 1 of 3,69,56
+2,0:00.0,,J. Redick makes free throw 2 of 3,69,57
+2,0:00.0,,J. Redick makes free throw 3 of 3,69,58
+3,11:35.0,,Turnover by Team (shot clock),69,58
+3,11:20.0,K. Irving misses 3-pt jump shot from 26 ft,,69,58
+3,11:16.0,,Defensive rebound by J. Embiid,69,58
+3,11:08.0,,Personal foul by M. Smart (drawn by J. Embiid),69,58
+3,11:08.0,Violation by Team (delay of game),,69,58
+3,11:06.0,,Flagrant foul type 2 by M. Smart (drawn by J. Embiid),69,58
+3,11:06.0,M. Smart ejected from game,,69,58
+3,11:06.0,J. Brown enters the game for M. Smart,,69,58
+3,11:06.0,,Technical foul by J. Embiid,69,58
+3,11:06.0,K. Irving makes technical free throw,,70,58
+3,11:06.0,,J. Embiid makes flagrant free throw 1 of 2,70,59
+3,11:06.0,,J. Embiid makes flagrant free throw 2 of 2,70,60
+3,10:54.0,,J. Embiid makes 2-pt layup from 1 ft,70,62
+3,10:42.0,K. Irving misses 3-pt jump shot from 29 ft,,70,62
+3,10:42.0,,Defensive rebound by B. Simmons,70,62
+3,10:33.0,,Shooting foul by M. Morris (drawn by J. Embiid),70,62
+3,10:33.0,,J. Embiid makes free throw 1 of 2,70,63
+3,10:33.0,,J. Embiid makes free throw 2 of 2,70,64
+3,10:12.0,Turnover by K. Irving (bad pass; steal by B. Simmons),,70,64
+3,10:06.0,,B. Simmons misses 2-pt layup from 2 ft,70,64
+3,10:02.0,,Offensive rebound by J. Embiid,70,64
+3,10:02.0,,J. Embiid misses 2-pt layup from 1 ft,70,64
+3,10:02.0,,Offensive rebound by J. Embiid,70,64
+3,10:02.0,,J. Embiid misses 2-pt layup from 2 ft,70,64
+3,10:02.0,,Offensive rebound by J. Embiid,70,64
+3,10:02.0,,Shooting foul by M. Morris (drawn by J. Embiid),70,64
+3,10:02.0,,J. Embiid makes free throw 1 of 2,70,65
+3,10:02.0,,J. Embiid makes free throw 2 of 2,70,66
+3,9:50.0,Shooting foul by J. Embiid (drawn by K. Irving),,70,66
+3,9:50.0,K. Irving makes free throw 1 of 2,,71,66
+3,9:50.0,K. Irving makes free throw 2 of 2,,72,66
+3,9:36.0,,B. Simmons makes 2-pt layup from 1 ft (assist by J. Butler),72,68
+3,9:24.0,J. Brown makes 2-pt jump shot from 16 ft (assist by A. Horford),,74,68
+3,9:04.0,,Turnover by T. Harris (bad pass; steal by A. Horford),74,68
+3,8:58.0,J. Brown makes 2-pt layup from 2 ft,,76,68
+3,8:47.0,,J. Butler misses 3-pt jump shot from 26 ft,76,68
+3,8:44.0,Defensive rebound by K. Irving,,76,68
+3,8:38.0,K. Irving makes 2-pt jump shot from 22 ft,,78,68
+3,8:38.0,,Philadelphia full timeout,78,68
+3,8:28.0,,J. Butler makes 2-pt jump shot from 18 ft (assist by J. Embiid),78,70
+3,8:28.0,,Shooting foul by J. Tatum (drawn by J. Butler),78,70
+3,8:28.0,,J. Butler makes free throw 1 of 1,78,71
+3,8:11.0,A. Horford misses 2-pt jump shot from 16 ft,,78,71
+3,8:08.0,Offensive rebound by K. Irving,,78,71
+3,8:07.0,K. Irving makes 2-pt layup from 2 ft,,80,71
+3,7:53.0,,J. Embiid misses 3-pt jump shot from 25 ft,80,71
+3,7:50.0,Defensive rebound by A. Horford,,80,71
+3,7:36.0,M. Morris misses 2-pt layup from 5 ft,,80,71
+3,7:36.0,,Defensive rebound by Team,80,71
+3,7:26.0,,J. Redick misses 3-pt jump shot from 26 ft,80,71
+3,7:22.0,,Offensive rebound by B. Simmons,80,71
+3,7:18.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by J. Embiid),80,74
+3,7:01.0,J. Tatum makes 2-pt layup from 2 ft (assist by A. Horford),,82,74
+3,6:48.0,,J. Redick makes 3-pt jump shot from 28 ft (assist by B. Simmons),82,77
+3,6:24.0,M. Morris misses 2-pt jump shot from 23 ft,,82,77
+3,6:20.0,,Defensive rebound by J. Butler,82,77
+3,6:12.0,,T. Harris misses 3-pt jump shot from 25 ft,82,77
+3,6:07.0,Defensive rebound by J. Tatum,,82,77
+3,6:02.0,J. Tatum misses 2-pt layup from 3 ft,,82,77
+3,5:59.0,,Defensive rebound by J. Embiid,82,77
+3,5:47.0,,J. Embiid makes 2-pt dunk from 1 ft,82,79
+3,5:45.0,Boston full timeout,,82,79
+3,5:45.0,S. Ojeleye enters the game for J. Brown,,82,79
+3,5:45.0,T. Rozier enters the game for A. Horford,,82,79
+3,5:45.0,D. Theis enters the game for M. Morris,,82,79
+3,5:45.0,,J. Ennis enters the game for J. Butler,82,79
+3,5:45.0,,T. McConnell enters the game for T. Harris,82,79
+3,5:45.0,,M. Scott enters the game for J. Redick,82,79
+3,5:25.0,J. Tatum misses 2-pt jump shot from 16 ft,,82,79
+3,5:21.0,,Defensive rebound by J. Embiid,82,79
+3,5:03.0,,J. Embiid makes 2-pt layup from 1 ft (assist by M. Scott),82,81
+3,5:03.0,,Shooting foul by J. Tatum (drawn by J. Embiid),82,81
+3,5:03.0,,J. Embiid makes free throw 1 of 1,82,82
+3,4:50.0,Personal foul by J. Ennis (drawn by K. Irving),,82,82
+3,4:37.0,K. Irving misses 2-pt jump shot from 3 ft,,82,82
+3,4:33.0,,Defensive rebound by T. McConnell,82,82
+3,4:11.0,,T. McConnell misses 3-pt jump shot from 22 ft,82,82
+3,4:07.0,Defensive rebound by D. Theis,,82,82
+3,3:59.0,K. Irving misses 2-pt jump shot from 20 ft,,82,82
+3,3:55.0,,Defensive rebound by J. Ennis,82,82
+3,3:48.0,,Personal foul by T. Rozier (drawn by M. Scott),82,82
+3,3:48.0,,M. Scott misses free throw 1 of 2,82,82
+3,3:48.0,,Offensive rebound by Team,82,82
+3,3:48.0,,M. Scott makes free throw 2 of 2,82,83
+3,3:28.0,J. Tatum misses 2-pt layup from 3 ft (block by M. Scott),,82,83
+3,3:25.0,,Defensive rebound by J. Embiid,82,83
+3,3:13.0,,Turnover by M. Scott (out of bounds lost ball),82,83
+3,2:57.0,K. Irving makes 2-pt layup from 2 ft,,84,83
+3,2:32.0,,Shooting foul by D. Theis (drawn by J. Embiid),84,83
+3,2:32.0,,J. Embiid makes free throw 1 of 2,84,84
+3,2:32.0,J. Brown enters the game for J. Tatum,,84,84
+3,2:32.0,,T. Harris enters the game for T. McConnell,84,84
+3,2:32.0,,J. Redick enters the game for M. Scott,84,84
+3,2:32.0,,J. Embiid makes free throw 2 of 2,84,85
+3,2:16.0,K. Irving makes 2-pt jump shot from 10 ft,,86,85
+3,2:01.0,,J. Redick misses 2-pt jump shot from 21 ft,86,85
+3,1:59.0,,Offensive rebound by B. Simmons,86,85
+3,1:56.0,,T. Harris misses 2-pt layup from 2 ft,86,85
+3,1:53.0,Defensive rebound by T. Rozier,,86,85
+3,1:49.0,T. Rozier misses 2-pt layup from 2 ft (block by B. Simmons),,86,85
+3,1:40.0,S. Ojeleye makes 2-pt layup at rim,,88,85
+3,1:40.0,Offensive rebound by S. Ojeleye,,88,85
+3,1:25.0,,J. Embiid misses 2-pt layup at rim,88,85
+3,1:23.0,Defensive rebound by K. Irving,,88,85
+3,1:19.0,Turnover by K. Irving (bad pass; steal by B. Simmons),,88,85
+3,1:18.0,,Turnover by B. Simmons (out of bounds lost ball),88,85
+3,1:18.0,,M. Scott enters the game for J. Embiid,88,85
+3,1:03.0,K. Irving misses 2-pt jump shot from 16 ft,,88,85
+3,1:02.0,Offensive rebound by Team,,88,85
+3,1:02.0,,Loose ball foul by T. Harris (drawn by D. Theis),88,85
+3,0:52.0,T. Rozier misses 2-pt jump shot from 2 ft,,88,85
+3,0:50.0,,Defensive rebound by T. Harris,88,85
+3,0:46.0,,M. Scott misses 3-pt jump shot from 26 ft,88,85
+3,0:43.0,Defensive rebound by Team,,88,85
+3,0:43.0,,Loose ball foul by J. Ennis (drawn by S. Ojeleye),88,85
+3,0:43.0,S. Ojeleye makes free throw 1 of 2,,89,85
+3,0:43.0,A. Horford enters the game for D. Theis,,89,85
+3,0:43.0,S. Ojeleye makes free throw 2 of 2,,90,85
+3,0:32.0,,J. Redick misses 3-pt jump shot from 26 ft,90,85
+3,0:29.0,Defensive rebound by S. Ojeleye,,90,85
+3,0:22.0,T. Rozier misses 2-pt layup from 10 ft (block by J. Redick),,90,85
+3,0:15.0,,Defensive rebound by J. Redick,90,85
+3,0:04.0,,B. Simmons misses 2-pt jump shot from 8 ft,90,85
+3,0:01.0,Defensive rebound by T. Rozier,,90,85
+3,0:01.0,T. Rozier misses 3-pt jump shot from 32 ft,,90,85
+3,0:01.0,Offensive rebound by Team,,90,85
+4,11:40.0,A. Horford makes 2-pt layup from 3 ft (assist by T. Rozier),,92,85
+4,11:17.0,,Shooting foul by A. Horford (drawn by J. Embiid),92,85
+4,11:17.0,,J. Embiid makes free throw 1 of 2,92,86
+4,11:17.0,,J. Embiid makes free throw 2 of 2,92,87
+4,10:58.0,A. Horford misses 2-pt hook shot from 3 ft,,92,87
+4,10:56.0,Offensive rebound by A. Horford,,92,87
+4,10:54.0,S. Ojeleye makes 3-pt jump shot from 26 ft (assist by A. Horford),,95,87
+4,10:48.0,,J. Redick makes 3-pt jump shot from 25 ft (assist by B. Simmons),95,90
+4,10:20.0,T. Rozier misses 3-pt jump shot from 23 ft,,95,90
+4,10:18.0,Offensive rebound by Team,,95,90
+4,10:17.0,Turnover by Team (shot clock),,95,90
+4,10:07.0,,J. Redick misses 3-pt jump shot from 27 ft,95,90
+4,10:03.0,Defensive rebound by T. Rozier,,95,90
+4,9:52.0,A. Horford makes 2-pt jump shot from 15 ft,,97,90
+4,9:37.0,,J. Redick misses 2-pt layup from 5 ft,97,90
+4,9:35.0,Defensive rebound by M. Morris,,97,90
+4,9:23.0,M. Morris misses 2-pt jump shot from 10 ft,,97,90
+4,9:20.0,,Defensive rebound by J. Embiid,97,90
+4,9:10.0,,M. Scott misses 3-pt jump shot from 25 ft,97,90
+4,9:07.0,Defensive rebound by A. Horford,,97,90
+4,8:58.0,T. Rozier makes 2-pt layup from 3 ft,,99,90
+4,8:58.0,,Philadelphia full timeout,99,90
+4,8:58.0,,J. Ennis enters the game for J. Redick,99,90
+4,8:58.0,,T. Harris enters the game for M. Scott,99,90
+4,8:40.0,,J. Butler makes 3-pt jump shot from 23 ft (assist by T. Harris),99,93
+4,8:22.0,T. Rozier makes 2-pt jump shot from 19 ft,,101,93
+4,8:05.0,,T. Harris makes 2-pt jump shot from 21 ft,101,95
+4,7:45.0,T. Rozier makes 2-pt layup from 2 ft,,103,95
+4,7:31.0,,T. Harris makes 2-pt layup from 1 ft,103,97
+4,7:08.0,A. Horford misses 2-pt jump shot from 18 ft,,103,97
+4,7:05.0,,Defensive rebound by J. Ennis,103,97
+4,7:00.0,,J. Embiid misses 3-pt jump shot from 27 ft,103,97
+4,6:57.0,Defensive rebound by J. Brown,,103,97
+4,6:50.0,Personal foul by J. Ennis (drawn by M. Morris),,103,97
+4,6:50.0,D. Theis enters the game for A. Horford,,103,97
+4,6:44.0,T. Rozier misses 2-pt jump shot from 15 ft,,103,97
+4,6:40.0,,Defensive rebound by T. Harris,103,97
+4,6:35.0,,Shooting foul by S. Ojeleye (drawn by T. Harris),103,97
+4,6:35.0,,T. Harris makes free throw 1 of 2,103,98
+4,6:35.0,K. Irving enters the game for J. Brown,,103,98
+4,6:35.0,J. Tatum enters the game for S. Ojeleye,,103,98
+4,6:35.0,,T. Harris makes free throw 2 of 2,103,99
+4,6:23.0,,Violation by Team (kicked ball),103,99
+4,6:23.0,Boston full timeout,,103,99
+4,6:10.0,T. Rozier misses 3-pt jump shot from 26 ft,,103,99
+4,6:06.0,Offensive rebound by M. Morris,,103,99
+4,5:59.0,Shooting foul by J. Embiid (drawn by K. Irving),,103,99
+4,5:59.0,K. Irving makes free throw 1 of 2,,104,99
+4,5:59.0,K. Irving makes free throw 2 of 2,,105,99
+4,5:38.0,,J. Ennis misses 2-pt jump shot from 17 ft,105,99
+4,5:34.0,,Offensive rebound by J. Embiid,105,99
+4,5:34.0,,J. Embiid misses 2-pt layup from 1 ft,105,99
+4,5:34.0,,Offensive rebound by J. Embiid,105,99
+4,5:31.0,,J. Butler makes 3-pt jump shot from 27 ft (assist by J. Ennis),105,102
+4,5:18.0,D. Theis misses 2-pt jump shot from 21 ft,,105,102
+4,5:15.0,,Defensive rebound by T. Harris,105,102
+4,5:05.0,,J. Butler makes 3-pt jump shot from 25 ft,105,105
+4,5:03.0,Boston full timeout,,105,105
+4,5:03.0,J. Brown enters the game for T. Rozier,,105,105
+4,5:03.0,A. Horford enters the game for D. Theis,,105,105
+4,5:03.0,,M. Scott enters the game for J. Embiid,105,105
+4,4:49.0,K. Irving makes 3-pt jump shot from 26 ft (assist by J. Tatum),,108,105
+4,4:27.0,,M. Scott misses 3-pt jump shot from 27 ft,108,105
+4,4:23.0,Defensive rebound by A. Horford,,108,105
+4,4:11.0,K. Irving misses 2-pt layup from 3 ft,,108,105
+4,4:08.0,,Defensive rebound by M. Scott,108,105
+4,4:04.0,,J. Butler misses 2-pt jump shot from 23 ft,108,105
+4,4:04.0,,Offensive rebound by Team,108,105
+4,4:04.0,,J. Embiid enters the game for J. Ennis,108,105
+4,4:04.0,,J. Redick enters the game for M. Scott,108,105
+4,3:59.0,,Shooting foul by A. Horford (drawn by J. Butler),108,105
+4,3:59.0,,J. Butler makes free throw 1 of 2,108,106
+4,3:59.0,,J. Butler makes free throw 2 of 2,108,107
+4,3:45.0,Shooting foul by J. Redick (drawn by J. Brown),,108,107
+4,3:45.0,J. Brown misses free throw 1 of 2,,108,107
+4,3:45.0,Offensive rebound by Team,,108,107
+4,3:45.0,Turnover by M. Morris (lane violation),,108,107
+4,3:29.0,,Turnover by J. Embiid (dbl dribble),108,107
+4,3:13.0,K. Irving misses 2-pt layup from 4 ft,,108,107
+4,3:11.0,,Defensive rebound by J. Embiid,108,107
+4,3:00.0,,J. Embiid makes 2-pt layup from 2 ft (assist by T. Harris),108,109
+4,2:46.0,J. Tatum misses 3-pt jump shot from 23 ft,,108,109
+4,2:46.0,,Defensive rebound by T. Harris,108,109
+4,2:24.0,,J. Butler makes 2-pt layup from 1 ft,108,111
+4,2:11.0,A. Horford makes 3-pt jump shot from 27 ft (assist by K. Irving),,111,111
+4,1:54.0,,T. Harris makes 2-pt dunk from 1 ft (assist by J. Butler),111,113
+4,1:40.0,K. Irving misses 3-pt jump shot from 25 ft,,111,113
+4,1:36.0,,Defensive rebound by B. Simmons,111,113
+4,1:24.0,,J. Butler misses 3-pt jump shot from 27 ft,111,113
+4,1:20.0,,Offensive rebound by J. Butler,111,113
+4,1:17.0,,J. Butler misses 3-pt jump shot from 27 ft,111,113
+4,1:13.0,Defensive rebound by M. Morris,,111,113
+4,1:07.0,J. Tatum makes 2-pt layup at rim (assist by M. Morris),,113,113
+4,0:47.0,,Personal foul by A. Horford (drawn by J. Embiid),113,113
+4,0:40.0,,B. Simmons makes 2-pt jump shot from 2 ft,113,115
+4,0:40.0,,Shooting foul by M. Morris (drawn by B. Simmons),113,115
+4,0:40.0,D. Theis enters the game for J. Brown,,113,115
+4,0:40.0,,J. Ennis enters the game for J. Redick,113,115
+4,0:40.0,,B. Simmons makes free throw 1 of 1,113,116
+4,0:40.0,Boston full timeout,,113,116
+4,0:40.0,J. Brown enters the game for D. Theis,,113,116
+4,0:30.0,K. Irving misses 2-pt jump shot from 9 ft (block by J. Embiid),,113,116
+4,0:26.0,Offensive rebound by M. Morris,,113,116
+4,0:26.0,M. Morris misses 2-pt jump shot from 9 ft,,113,116
+4,0:23.0,,Defensive rebound by J. Embiid,113,116
+4,0:05.0,,J. Butler makes 2-pt jump shot from 18 ft,113,118
+4,0:04.0,Boston full timeout,,113,118
+4,0:04.0,Personal foul by B. Simmons (drawn by M. Morris),,113,118
+4,0:01.0,K. Irving misses 3-pt jump shot from 27 ft,,113,118
+4,0:01.0,Offensive rebound by J. Tatum,,113,118
+4,0:00.0,J. Tatum makes 2-pt jump shot from 16 ft,,115,118

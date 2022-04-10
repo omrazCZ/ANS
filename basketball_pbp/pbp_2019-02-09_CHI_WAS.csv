@@ -1,0 +1,458 @@
+QUARTER,TIME_REMAINING,WASHINGTON_ACTION,CHICAGO_ACTION,WASHINGTON_SCORE,CHICAGO_SCORE
+1,11:47.0,,O. Porter makes 2-pt jump shot from 19 ft (assist by K. Dunn),0,2
+1,11:27.0,T. Bryant makes 2-pt jump shot from 18 ft (assist by T. Satoranský),,2,2
+1,11:11.0,,R. Lopez makes 2-pt layup from 2 ft (assist by K. Dunn),2,4
+1,11:02.0,T. Satoranský misses 2-pt jump shot from 21 ft,,2,4
+1,10:59.0,,Defensive rebound by L. Markkanen,2,4
+1,10:46.0,,O. Porter makes 2-pt layup from 2 ft,2,6
+1,10:37.0,T. Ariza misses 3-pt jump shot from 26 ft,,2,6
+1,10:33.0,,Defensive rebound by L. Markkanen,2,6
+1,10:31.0,,Personal foul by T. Satoranský (drawn by K. Dunn),2,6
+1,10:23.0,,R. Lopez makes 2-pt hook shot from 2 ft (assist by O. Porter),2,8
+1,10:10.0,T. Satoranský misses 2-pt layup from 2 ft,,2,8
+1,10:08.0,,Defensive rebound by R. Lopez,2,8
+1,10:00.0,,Z. LaVine makes 2-pt layup from 3 ft,2,10
+1,9:54.0,Washington full timeout,,2,10
+1,9:36.0,T. Satoranský makes 2-pt layup from 2 ft (assist by T. Ariza),,4,10
+1,9:20.0,,R. Lopez misses 2-pt hook shot from 2 ft,4,10
+1,9:16.0,Defensive rebound by T. Bryant,,4,10
+1,9:13.0,T. Ariza makes 3-pt jump shot from 26 ft (assist by J. Green),,7,10
+1,8:50.0,,R. Lopez misses 2-pt layup from 1 ft (block by T. Bryant),7,10
+1,8:50.0,Defensive rebound by J. Green,,7,10
+1,8:47.0,,Violation by Team (kicked ball),7,10
+1,8:37.0,T. Ariza makes 3-pt jump shot from 23 ft (assist by B. Beal),,10,10
+1,8:23.0,,Turnover by Z. LaVine (lost ball; steal by B. Beal),10,10
+1,8:18.0,B. Beal misses 2-pt jump shot from 16 ft,,10,10
+1,8:15.0,,Defensive rebound by Z. LaVine,10,10
+1,8:09.0,,Z. LaVine misses 2-pt jump shot from 6 ft,10,10
+1,8:04.0,,Z. LaVine makes 2-pt layup at rim,10,12
+1,8:04.0,,Offensive rebound by Z. LaVine,10,12
+1,7:47.0,J. Green misses 3-pt jump shot from 23 ft,,10,12
+1,7:45.0,Offensive rebound by T. Satoranský,,10,12
+1,7:35.0,T. Bryant makes 3-pt jump shot from 26 ft (assist by J. Green),,13,12
+1,7:22.0,,L. Markkanen misses 3-pt jump shot from 26 ft,13,12
+1,7:20.0,Defensive rebound by T. Satoranský,,13,12
+1,7:14.0,T. Bryant misses 2-pt layup from 2 ft (block by R. Lopez),,13,12
+1,7:11.0,,Defensive rebound by R. Lopez,13,12
+1,7:08.0,,O. Porter misses 2-pt layup from 6 ft,13,12
+1,7:07.0,,Offensive rebound by L. Markkanen,13,12
+1,7:07.0,,L. Markkanen makes 2-pt layup at rim,13,14
+1,6:46.0,B. Beal makes 2-pt jump shot from 18 ft,,15,14
+1,6:25.0,,L. Markkanen makes 2-pt layup from 2 ft,15,16
+1,6:06.0,Shooting foul by O. Porter (drawn by B. Beal),,15,16
+1,6:06.0,B. Beal makes free throw 1 of 2,,16,16
+1,6:06.0,B. Portis enters the game for T. Bryant,,16,16
+1,6:06.0,,W. Selden enters the game for R. Lopez,16,16
+1,6:06.0,B. Beal makes free throw 2 of 2,,17,16
+1,5:56.0,,L. Markkanen misses 3-pt jump shot from 26 ft,17,16
+1,5:51.0,Defensive rebound by B. Portis,,17,16
+1,5:35.0,T. Ariza makes 3-pt jump shot from 24 ft (assist by J. Green),,20,16
+1,5:24.0,,K. Dunn makes 2-pt jump shot from 7 ft,20,18
+1,5:16.0,Turnover by B. Beal (bad pass; steal by O. Porter),,20,18
+1,5:10.0,,L. Markkanen misses 3-pt jump shot from 25 ft,20,18
+1,5:07.0,Defensive rebound by B. Portis,,20,18
+1,4:51.0,B. Beal makes 2-pt layup from 2 ft (assist by T. Satoranský),,22,18
+1,4:39.0,,Shooting foul by B. Portis (drawn by O. Porter),22,18
+1,4:39.0,,O. Porter misses free throw 1 of 2,22,18
+1,4:39.0,,Offensive rebound by Team,22,18
+1,4:39.0,J. Parker enters the game for J. Green,,22,18
+1,4:39.0,,R. Arcidiacono enters the game for K. Dunn,22,18
+1,4:39.0,,O. Porter makes free throw 2 of 2,22,19
+1,4:31.0,B. Beal misses 2-pt jump shot from 16 ft,,22,19
+1,4:28.0,,Defensive rebound by R. Arcidiacono,22,19
+1,4:18.0,,O. Porter misses 2-pt jump shot from 14 ft,22,19
+1,4:17.0,Defensive rebound by T. Ariza,,22,19
+1,4:11.0,B. Portis misses 2-pt layup from 2 ft,,22,19
+1,4:09.0,,Defensive rebound by L. Markkanen,22,19
+1,3:54.0,,Shooting foul by T. Ariza (drawn by L. Markkanen),22,19
+1,3:54.0,,L. Markkanen makes free throw 1 of 2,22,20
+1,3:54.0,C. Randle enters the game for T. Satoranský,,22,20
+1,3:54.0,,L. Markkanen misses free throw 2 of 2,22,20
+1,3:51.0,Defensive rebound by B. Portis,,22,20
+1,3:37.0,Turnover by B. Portis (lost ball; steal by Z. LaVine),,22,20
+1,3:32.0,,O. Porter makes 2-pt layup from 3 ft,22,22
+1,3:32.0,,Shooting foul by C. Randle (drawn by O. Porter),22,22
+1,3:32.0,,O. Porter misses free throw 1 of 1,22,22
+1,3:29.0,Defensive rebound by B. Portis,,22,22
+1,3:19.0,C. Randle makes 2-pt jump shot from 5 ft (assist by B. Beal),,24,22
+1,3:00.0,,L. Markkanen misses 2-pt jump shot from 19 ft,24,22
+1,2:57.0,Defensive rebound by T. Ariza,,24,22
+1,2:52.0,Personal foul by Z. LaVine (drawn by B. Beal),,24,22
+1,2:52.0,,Chicago full timeout,24,22
+1,2:52.0,W. Johnson enters the game for T. Ariza,,24,22
+1,2:52.0,,C. Felício enters the game for Z. LaVine,24,22
+1,2:52.0,,S. Harrison enters the game for L. Markkanen,24,22
+1,2:52.0,,T. Luwawu-Cabarrot enters the game for O. Porter,24,22
+1,2:43.0,Shooting foul by C. Felício (drawn by J. Parker),,24,22
+1,2:43.0,J. Parker makes free throw 1 of 2,,25,22
+1,2:43.0,J. Parker makes free throw 2 of 2,,26,22
+1,2:27.0,,R. Arcidiacono misses 2-pt layup from 3 ft,26,22
+1,2:26.0,Defensive rebound by B. Portis,,26,22
+1,2:23.0,Personal foul by T. Luwawu-Cabarrot (drawn by J. Parker),,26,22
+1,2:13.0,B. Portis misses 2-pt jump shot from 21 ft,,26,22
+1,2:11.0,,Defensive rebound by T. Luwawu-Cabarrot,26,22
+1,2:02.0,,W. Selden misses 2-pt layup from 2 ft,26,22
+1,1:58.0,,Offensive rebound by W. Selden,26,22
+1,1:58.0,,W. Selden makes 2-pt layup at rim,26,24
+1,1:49.0,Turnover by B. Beal (lost ball; steal by W. Selden),,26,24
+1,1:45.0,,S. Harrison misses 2-pt layup from 1 ft (block by J. Parker),26,24
+1,1:45.0,Defensive rebound by Team,,26,24
+1,1:45.0,T. Satoranský enters the game for B. Beal,,26,24
+1,1:35.0,J. Parker misses 3-pt jump shot from 23 ft,,26,24
+1,1:33.0,Offensive rebound by B. Portis,,26,24
+1,1:27.0,B. Portis makes 2-pt layup from 1 ft,,28,24
+1,1:15.0,,W. Selden makes 3-pt jump shot from 25 ft (assist by S. Harrison),28,27
+1,1:02.0,C. Randle makes 3-pt jump shot from 27 ft,,31,27
+1,0:53.0,,W. Selden makes 2-pt jump shot from 21 ft,31,29
+1,0:42.0,C. Randle makes 3-pt jump shot from 24 ft (assist by J. Parker),,34,29
+1,0:27.0,,Shooting foul by W. Johnson (drawn by W. Selden),34,29
+1,0:27.0,,W. Selden makes free throw 1 of 3,34,30
+1,0:27.0,,W. Selden makes free throw 2 of 3,34,31
+1,0:27.0,,W. Selden makes free throw 3 of 3,34,32
+1,0:05.0,B. Portis misses 3-pt jump shot from 25 ft,,34,32
+1,0:03.0,,Defensive rebound by T. Luwawu-Cabarrot,34,32
+1,0:00.0,,W. Selden misses 2-pt layup from 2 ft (block by B. Portis),34,32
+1,0:00.0,,Offensive rebound by T. Luwawu-Cabarrot,34,32
+2,11:41.0,C. Randle makes 2-pt layup from 1 ft,,36,32
+2,11:29.0,,R. Arcidiacono misses 3-pt jump shot from 25 ft,36,32
+2,11:26.0,Defensive rebound by T. Satoranský,,36,32
+2,11:18.0,J. Parker misses 3-pt jump shot from 25 ft,,36,32
+2,11:15.0,,Defensive rebound by S. Harrison,36,32
+2,11:08.0,,S. Harrison misses 2-pt jump shot from 11 ft,36,32
+2,11:06.0,Defensive rebound by B. Portis,,36,32
+2,10:56.0,J. Parker makes 2-pt dunk from 1 ft,,38,32
+2,10:38.0,,Personal foul by W. Johnson (drawn by T. Luwawu-Cabarrot),38,32
+2,10:38.0,,L. Markkanen enters the game for C. Felício,38,32
+2,10:28.0,,T. Luwawu-Cabarrot makes 2-pt layup from 1 ft,38,34
+2,10:16.0,Turnover by J. Parker (traveling),,38,34
+2,10:04.0,,L. Markkanen misses 3-pt jump shot from 25 ft,38,34
+2,10:01.0,Defensive rebound by J. Parker,,38,34
+2,9:49.0,W. Johnson makes 2-pt jump shot from 20 ft,,40,34
+2,9:32.0,,S. Harrison misses 3-pt jump shot from 26 ft,40,34
+2,9:30.0,,Offensive rebound by W. Selden,40,34
+2,9:28.0,,W. Selden misses 2-pt layup from 3 ft (block by W. Johnson),40,34
+2,9:28.0,Defensive rebound by B. Portis,,40,34
+2,9:24.0,Shooting foul by L. Markkanen (drawn by B. Portis),,40,34
+2,9:24.0,B. Portis makes free throw 1 of 2,,41,34
+2,9:24.0,,Z. LaVine enters the game for S. Harrison,41,34
+2,9:24.0,B. Portis misses free throw 2 of 2,,41,34
+2,9:21.0,,Defensive rebound by W. Selden,41,34
+2,9:13.0,,L. Markkanen makes 3-pt jump shot from 26 ft (assist by W. Selden),41,37
+2,9:01.0,W. Johnson makes 3-pt jump shot from 25 ft (assist by J. Parker),,44,37
+2,9:01.0,Shooting foul by T. Luwawu-Cabarrot (drawn by W. Johnson),,44,37
+2,9:01.0,W. Johnson makes free throw 1 of 1,,45,37
+2,8:48.0,,L. Markkanen makes 2-pt dunk from 1 ft (assist by Z. LaVine),45,39
+2,8:43.0,J. Parker makes 2-pt dunk from 1 ft (assist by T. Satoranský),,47,39
+2,8:28.0,,Z. LaVine makes 2-pt jump shot from 20 ft (assist by R. Arcidiacono),47,41
+2,8:16.0,J. Parker makes 2-pt dunk from 1 ft (assist by T. Satoranský),,49,41
+2,8:02.0,,Def 3 sec tech foul by Team,49,41
+2,8:02.0,,Z. LaVine makes technical free throw,49,42
+2,8:02.0,,K. Dunn enters the game for R. Arcidiacono,49,42
+2,8:02.0,,O. Porter enters the game for T. Luwawu-Cabarrot,49,42
+2,7:58.0,,Turnover by Z. LaVine (bad pass; steal by J. Parker),49,42
+2,7:54.0,Turnover by C. Randle (traveling),,49,42
+2,7:39.0,,O. Porter misses 2-pt jump shot from 14 ft,49,42
+2,7:36.0,Defensive rebound by W. Johnson,,49,42
+2,7:30.0,C. Randle makes 3-pt jump shot from 26 ft,,52,42
+2,7:29.0,,Chicago full timeout,52,42
+2,7:29.0,T. Ariza enters the game for W. Johnson,,52,42
+2,7:29.0,B. Beal enters the game for T. Satoranský,,52,42
+2,7:14.0,,K. Dunn makes 2-pt layup from 2 ft (assist by L. Markkanen),52,44
+2,7:14.0,Violation by Team (def goaltending),,52,44
+2,6:52.0,T. Ariza misses 3-pt jump shot from 25 ft,,52,44
+2,6:48.0,,Defensive rebound by K. Dunn,52,44
+2,6:44.0,,Shooting foul by B. Beal (drawn by Z. LaVine),52,44
+2,6:44.0,,Z. LaVine makes free throw 1 of 2,52,45
+2,6:44.0,,Z. LaVine makes free throw 2 of 2,52,46
+2,6:32.0,Shooting foul by K. Dunn (drawn by B. Beal),,52,46
+2,6:32.0,B. Beal makes free throw 1 of 2,,53,46
+2,6:32.0,J. Green enters the game for B. Portis,,53,46
+2,6:32.0,T. Satoranský enters the game for C. Randle,,53,46
+2,6:32.0,,T. Luwawu-Cabarrot enters the game for W. Selden,53,46
+2,6:32.0,B. Beal makes free throw 2 of 2,,54,46
+2,6:23.0,,L. Markkanen misses 2-pt jump shot from 13 ft,54,46
+2,6:21.0,Defensive rebound by J. Parker,,54,46
+2,6:15.0,Turnover by T. Satoranský (bad pass; steal by O. Porter),,54,46
+2,6:08.0,,Turnover by O. Porter (bad pass),54,46
+2,5:58.0,T. Satoranský misses 2-pt jump shot from 18 ft,,54,46
+2,5:56.0,,Defensive rebound by T. Luwawu-Cabarrot,54,46
+2,5:48.0,,Turnover by T. Luwawu-Cabarrot (bad pass; steal by B. Beal),54,46
+2,5:35.0,B. Beal makes 2-pt layup at rim (assist by T. Satoranský),,56,46
+2,5:18.0,,Turnover by L. Markkanen (out of bounds lost ball),56,46
+2,5:07.0,J. Parker makes 2-pt jump shot from 18 ft (assist by T. Satoranský),,58,46
+2,4:56.0,,Turnover by Z. LaVine (step out of bounds),58,46
+2,4:41.0,B. Beal makes 2-pt layup from 2 ft (assist by T. Satoranský),,60,46
+2,4:41.0,,Chicago full timeout,60,46
+2,4:41.0,T. Bryant enters the game for J. Green,,60,46
+2,4:41.0,,R. Lopez enters the game for L. Markkanen,60,46
+2,4:27.0,,Turnover by K. Dunn (bad pass; steal by T. Ariza),60,46
+2,4:26.0,Turnover by J. Parker (step out of bounds),,60,46
+2,4:22.0,,R. Lopez makes 2-pt dunk from 1 ft (assist by Z. LaVine),60,48
+2,4:22.0,,Shooting foul by T. Satoranský (drawn by R. Lopez),60,48
+2,4:22.0,,R. Lopez misses free throw 1 of 1,60,48
+2,4:17.0,Defensive rebound by T. Ariza,,60,48
+2,4:07.0,B. Beal misses 2-pt layup from 2 ft (block by O. Porter),,60,48
+2,4:01.0,,Defensive rebound by K. Dunn,60,48
+2,4:00.0,,Z. LaVine makes 2-pt dunk from 1 ft (assist by T. Luwawu-Cabarrot),60,50
+2,3:42.0,B. Beal misses 2-pt layup from 1 ft,,60,50
+2,3:42.0,Offensive rebound by Team,,60,50
+2,3:39.0,T. Satoranský misses 2-pt jump shot from 16 ft,,60,50
+2,3:36.0,,Defensive rebound by T. Luwawu-Cabarrot,60,50
+2,3:31.0,,Shooting foul by T. Satoranský (drawn by Z. LaVine),60,50
+2,3:31.0,,Z. LaVine misses free throw 1 of 2,60,50
+2,3:31.0,,Offensive rebound by Team,60,50
+2,3:31.0,C. Randle enters the game for T. Satoranský,,60,50
+2,3:31.0,,Z. LaVine makes free throw 2 of 2,60,51
+2,3:19.0,B. Beal makes 2-pt jump shot from 13 ft (assist by C. Randle),,62,51
+2,3:07.0,,T. Luwawu-Cabarrot makes 3-pt jump shot from 22 ft (assist by K. Dunn),62,54
+2,2:43.0,T. Ariza makes 2-pt layup from 1 ft,,64,54
+2,2:36.0,,O. Porter misses 3-pt jump shot from 27 ft,64,54
+2,2:33.0,Defensive rebound by J. Parker,,64,54
+2,2:28.0,,Loose ball foul by R. Lopez (drawn by T. Ariza),64,54
+2,2:13.0,C. Randle misses 3-pt jump shot from 25 ft,,64,54
+2,2:08.0,,Defensive rebound by K. Dunn,64,54
+2,2:07.0,,Turnover by K. Dunn (bad pass),64,54
+2,2:01.0,B. Beal misses 2-pt jump shot from 15 ft,,64,54
+2,1:58.0,,Defensive rebound by T. Luwawu-Cabarrot,64,54
+2,1:53.0,,Turnover by T. Luwawu-Cabarrot (lost ball; steal by B. Beal),64,54
+2,1:50.0,B. Beal makes 2-pt dunk from 1 ft (assist by J. Parker),,66,54
+2,1:38.0,,Shooting foul by T. Bryant (drawn by R. Lopez),66,54
+2,1:38.0,,R. Lopez makes free throw 1 of 2,66,55
+2,1:38.0,W. Johnson enters the game for J. Parker,,66,55
+2,1:38.0,,R. Lopez makes free throw 2 of 2,66,56
+2,1:26.0,B. Beal makes 3-pt jump shot from 27 ft (assist by T. Bryant),,69,56
+2,1:15.0,,Personal foul by T. Bryant (drawn by R. Lopez),69,56
+2,1:15.0,,R. Lopez makes free throw 1 of 2,69,57
+2,1:15.0,,S. Harrison enters the game for T. Luwawu-Cabarrot,69,57
+2,1:15.0,,R. Lopez makes free throw 2 of 2,69,58
+2,1:04.0,T. Bryant misses 2-pt layup from 4 ft,,69,58
+2,1:01.0,,Defensive rebound by Z. LaVine,69,58
+2,0:53.0,,O. Porter makes 3-pt jump shot from 23 ft (assist by S. Harrison),69,61
+2,0:37.0,W. Johnson misses 3-pt jump shot from 27 ft,,69,61
+2,0:34.0,,Defensive rebound by Z. LaVine,69,61
+2,0:30.0,,Z. LaVine misses 3-pt jump shot from 26 ft,69,61
+2,0:25.0,Defensive rebound by B. Beal,,69,61
+2,0:09.0,W. Johnson makes 3-pt jump shot from 25 ft (assist by T. Ariza),,72,61
+2,0:09.0,Shooting foul by R. Lopez (drawn by W. Johnson),,72,61
+2,0:09.0,W. Johnson misses free throw 1 of 1,,72,61
+2,0:08.0,Offensive rebound by Team,,72,61
+2,0:08.0,Flagrant foul type 1 by R. Lopez (drawn by T. Bryant),,72,61
+2,0:08.0,T. Bryant makes flagrant free throw 1 of 2,,73,61
+2,0:08.0,T. Bryant makes flagrant free throw 2 of 2,,74,61
+2,0:08.0,,L. Markkanen enters the game for R. Lopez,74,61
+2,0:03.0,B. Beal makes 2-pt dunk from 1 ft (assist by T. Bryant),,76,61
+2,0:00.0,,O. Porter misses 2-pt layup from 4 ft,76,61
+2,0:01.0,,Offensive rebound by Team,76,61
+3,11:40.0,T. Bryant makes 2-pt dunk from 1 ft (assist by T. Satoranský),,78,61
+3,11:27.0,,Personal foul by T. Bryant (drawn by R. Lopez),78,61
+3,11:15.0,,R. Lopez makes 2-pt dunk from 1 ft,78,63
+3,11:02.0,T. Bryant makes 2-pt jump shot from 17 ft (assist by T. Satoranský),,80,63
+3,10:40.0,,Z. LaVine misses 3-pt jump shot from 22 ft,80,63
+3,10:34.0,,Offensive rebound by L. Markkanen,80,63
+3,10:34.0,,L. Markkanen makes 2-pt layup from 1 ft,80,65
+3,10:25.0,Turnover by T. Bryant (traveling),,80,65
+3,10:19.0,,Personal foul by T. Satoranský (drawn by R. Lopez),80,65
+3,10:16.0,,O. Porter misses 2-pt jump shot from 19 ft,80,65
+3,10:12.0,,Offensive rebound by L. Markkanen,80,65
+3,10:10.0,,O. Porter makes 3-pt jump shot from 25 ft (assist by L. Markkanen),80,68
+3,9:44.0,B. Beal makes 2-pt jump shot from 22 ft (assist by T. Bryant),,82,68
+3,9:28.0,,L. Markkanen misses 3-pt jump shot from 27 ft,82,68
+3,9:27.0,Defensive rebound by Team,,82,68
+3,9:27.0,,Loose ball foul by R. Lopez (drawn by T. Ariza),82,68
+3,9:07.0,J. Parker misses 2-pt layup from 1 ft,,82,68
+3,9:03.0,T. Bryant makes 2-pt layup at rim,,84,68
+3,9:03.0,Offensive rebound by T. Bryant,,84,68
+3,8:47.0,,Z. LaVine misses 2-pt layup from 2 ft,84,68
+3,8:45.0,Defensive rebound by T. Satoranský,,84,68
+3,8:40.0,T. Bryant misses 3-pt jump shot from 25 ft,,84,68
+3,8:37.0,,Defensive rebound by L. Markkanen,84,68
+3,8:35.0,,R. Lopez makes 2-pt dunk from 1 ft (assist by L. Markkanen),84,70
+3,8:35.0,Washington full timeout,,84,70
+3,8:18.0,T. Ariza misses 3-pt jump shot from 23 ft,,84,70
+3,8:12.0,T. Satoranský makes 2-pt layup at rim,,86,70
+3,8:12.0,Offensive rebound by T. Satoranský,,86,70
+3,8:02.0,,Z. LaVine makes 2-pt layup from 2 ft (assist by K. Dunn),86,72
+3,7:45.0,B. Beal misses 2-pt jump shot from 22 ft,,86,72
+3,7:43.0,,Defensive rebound by O. Porter,86,72
+3,7:36.0,,O. Porter misses 3-pt jump shot from 26 ft,86,72
+3,7:33.0,,Offensive rebound by R. Lopez,86,72
+3,7:23.0,,R. Lopez misses 2-pt hook shot from 6 ft,86,72
+3,7:21.0,Defensive rebound by J. Parker,,86,72
+3,7:17.0,Turnover by J. Parker (bad pass; steal by K. Dunn),,86,72
+3,7:12.0,,Z. LaVine makes 2-pt dunk from 1 ft (assist by K. Dunn),86,74
+3,7:02.0,T. Ariza makes 2-pt layup from 1 ft,,88,74
+3,6:47.0,,Z. LaVine makes 2-pt jump shot from 13 ft,88,76
+3,6:34.0,Turnover by T. Satoranský (lost ball; steal by K. Dunn),,88,76
+3,6:31.0,,L. Markkanen makes 2-pt dunk from 1 ft (assist by Z. LaVine),88,78
+3,6:31.0,Washington full timeout,,88,78
+3,6:31.0,B. Portis enters the game for T. Bryant,,88,78
+3,6:15.0,B. Portis misses 2-pt layup from 3 ft (block by R. Lopez),,88,78
+3,6:12.0,,Defensive rebound by L. Markkanen,88,78
+3,5:56.0,,O. Porter misses 2-pt jump shot from 17 ft,88,78
+3,5:54.0,Defensive rebound by B. Portis,,88,78
+3,5:46.0,B. Beal makes 2-pt layup from 1 ft (assist by T. Satoranský),,90,78
+3,5:27.0,,R. Lopez makes 2-pt hook shot from 8 ft,90,80
+3,5:13.0,J. Parker makes 2-pt dunk from 1 ft (assist by B. Portis),,92,80
+3,5:09.0,,Turnover by K. Dunn (bad pass),92,80
+3,4:55.0,J. Parker makes 2-pt dunk from 1 ft (assist by T. Ariza),,94,80
+3,4:36.0,,R. Lopez makes 2-pt hook shot from 1 ft (assist by Z. LaVine),94,82
+3,4:19.0,Turnover by J. Parker (lost ball; steal by K. Dunn),,94,82
+3,4:15.0,,L. Markkanen makes 2-pt dunk from 1 ft (assist by K. Dunn),94,84
+3,3:55.0,J. Parker misses 3-pt jump shot from 26 ft,,94,84
+3,3:53.0,Offensive rebound by T. Ariza,,94,84
+3,3:49.0,T. Ariza makes 2-pt jump shot from 5 ft,,96,84
+3,3:49.0,,Chicago full timeout,96,84
+3,3:49.0,W. Johnson enters the game for J. Parker,,96,84
+3,3:49.0,,W. Selden enters the game for R. Lopez,96,84
+3,3:49.0,,Violation by Team (delay of game),96,84
+3,3:39.0,,W. Selden misses 2-pt jump shot from 20 ft,96,84
+3,3:36.0,Defensive rebound by T. Satoranský,,96,84
+3,3:32.0,B. Beal misses 3-pt jump shot from 24 ft,,96,84
+3,3:30.0,,Defensive rebound by L. Markkanen,96,84
+3,3:13.0,,L. Markkanen makes 2-pt layup from 1 ft (assist by Z. LaVine),96,86
+3,3:01.0,T. Ariza makes 2-pt layup from 1 ft (assist by B. Beal),,98,86
+3,2:40.0,,W. Selden makes 2-pt jump shot from 5 ft,98,88
+3,2:19.0,B. Portis makes 2-pt hook shot from 3 ft (assist by T. Satoranský),,100,88
+3,2:05.0,,Shooting foul by T. Satoranský (drawn by W. Selden),100,88
+3,2:05.0,,W. Selden makes free throw 1 of 2,100,89
+3,2:05.0,C. Randle enters the game for T. Satoranský,,100,89
+3,2:05.0,,R. Arcidiacono enters the game for Z. LaVine,100,89
+3,2:05.0,,W. Selden makes free throw 2 of 2,100,90
+3,1:49.0,T. Ariza makes 2-pt layup from 2 ft (assist by B. Beal),,102,90
+3,1:39.0,,Personal foul by B. Portis (drawn by O. Porter),102,90
+3,1:39.0,J. McRae enters the game for T. Ariza,,102,90
+3,1:33.0,,K. Dunn misses 2-pt jump shot from 12 ft,102,90
+3,1:30.0,Defensive rebound by B. Portis,,102,90
+3,1:24.0,B. Portis misses 3-pt jump shot from 26 ft,,102,90
+3,1:21.0,,Defensive rebound by L. Markkanen,102,90
+3,1:14.0,,W. Selden misses 2-pt jump shot from 17 ft,102,90
+3,1:10.0,Defensive rebound by B. Beal,,102,90
+3,0:56.0,B. Beal makes 2-pt jump shot from 19 ft (assist by J. McRae),,104,90
+3,0:46.0,,Personal foul by B. Beal (drawn by O. Porter),104,90
+3,0:46.0,,O. Porter makes free throw 1 of 2,104,91
+3,0:46.0,,O. Porter makes free throw 2 of 2,104,92
+3,0:36.0,Offensive foul by J. McRae (drawn by K. Dunn),,104,92
+3,0:36.0,Turnover by J. McRae (offensive foul),,104,92
+3,0:36.0,,Chicago full timeout,104,92
+3,0:29.0,,K. Dunn makes 2-pt dunk from 1 ft,104,94
+3,0:09.0,B. Beal makes 2-pt jump shot from 4 ft,,106,94
+3,0:04.0,,O. Porter makes 2-pt layup from 1 ft (assist by K. Dunn),106,96
+3,0:00.0,J. McRae misses 2-pt jump shot from 17 ft,,106,96
+3,0:00.0,Offensive rebound by Team,,106,96
+4,11:46.0,,T. Luwawu-Cabarrot misses 2-pt layup from 2 ft,106,96
+4,11:45.0,,Offensive rebound by C. Felício,106,96
+4,11:45.0,,C. Felício makes 2-pt layup from 1 ft,106,98
+4,11:45.0,,Shooting foul by J. McRae (drawn by C. Felício),106,98
+4,11:45.0,,C. Felício misses free throw 1 of 1,106,98
+4,11:42.0,Defensive rebound by B. Portis,,106,98
+4,11:31.0,Turnover by B. Portis (traveling),,106,98
+4,11:19.0,,R. Arcidiacono makes 2-pt jump shot from 19 ft,106,100
+4,11:05.0,W. Johnson makes 2-pt jump shot from 6 ft (assist by B. Portis),,108,100
+4,10:57.0,,Shooting foul by C. Randle (drawn by R. Arcidiacono),108,100
+4,10:57.0,,R. Arcidiacono makes free throw 1 of 2,108,101
+4,10:57.0,,R. Arcidiacono makes free throw 2 of 2,108,102
+4,10:47.0,C. Randle misses 2-pt jump shot from 8 ft,,108,102
+4,10:46.0,,Defensive rebound by R. Arcidiacono,108,102
+4,10:41.0,,S. Harrison misses 2-pt dunk from 1 ft,108,102
+4,10:39.0,Defensive rebound by J. McRae,,108,102
+4,10:23.0,B. Portis misses 2-pt jump shot from 21 ft,,108,102
+4,10:19.0,,Defensive rebound by S. Harrison,108,102
+4,9:57.0,,W. Selden misses 3-pt jump shot from 26 ft,108,102
+4,9:55.0,Defensive rebound by B. Portis,,108,102
+4,9:38.0,J. Parker makes 2-pt dunk from 1 ft (assist by W. Johnson),,110,102
+4,9:21.0,,R. Arcidiacono misses 3-pt jump shot from 26 ft,110,102
+4,9:18.0,Defensive rebound by C. Randle,,110,102
+4,9:15.0,Personal foul by R. Arcidiacono (drawn by J. Parker),,110,102
+4,9:15.0,,Z. LaVine enters the game for T. Luwawu-Cabarrot,110,102
+4,9:09.0,W. Johnson makes 3-pt jump shot from 25 ft (assist by J. Parker),,113,102
+4,9:08.0,,Chicago full timeout,113,102
+4,8:50.0,,Z. LaVine misses 2-pt layup from 4 ft (block by J. McRae),113,102
+4,8:49.0,Defensive rebound by J. McRae,,113,102
+4,8:49.0,Personal foul by R. Arcidiacono (drawn by J. McRae),,113,102
+4,8:35.0,J. McRae misses 2-pt layup from 2 ft,,113,102
+4,8:32.0,,Defensive rebound by W. Selden,113,102
+4,8:12.0,,R. Arcidiacono misses 2-pt jump shot from 6 ft,113,102
+4,8:10.0,,Offensive rebound by C. Felício,113,102
+4,8:09.0,,C. Felício makes 2-pt layup from 1 ft,113,104
+4,7:47.0,J. Parker makes 2-pt jump shot from 13 ft,,115,104
+4,7:18.0,,S. Harrison misses 2-pt layup from 2 ft,115,104
+4,7:18.0,,Offensive rebound by Team,115,104
+4,7:18.0,,K. Dunn enters the game for R. Arcidiacono,115,104
+4,7:18.0,,O. Porter enters the game for S. Harrison,115,104
+4,7:14.0,,Z. LaVine misses 3-pt jump shot from 25 ft,115,104
+4,7:12.0,,Offensive rebound by C. Felício,115,104
+4,7:10.0,,W. Selden misses 2-pt layup from 3 ft (block by J. Parker),115,104
+4,7:10.0,Defensive rebound by Team,,115,104
+4,6:54.0,J. Parker makes 2-pt layup from 1 ft (assist by B. Portis),,117,104
+4,6:36.0,,W. Selden misses 2-pt jump shot from 12 ft,117,104
+4,6:35.0,,Offensive rebound by C. Felício,117,104
+4,6:35.0,,Personal foul by C. Randle (drawn by C. Felício),117,104
+4,6:35.0,,L. Markkanen enters the game for C. Felício,117,104
+4,6:31.0,,Personal foul by B. Portis (drawn by L. Markkanen),117,104
+4,6:31.0,B. Beal enters the game for J. McRae,,117,104
+4,6:19.0,,K. Dunn misses 3-pt jump shot from 26 ft,117,104
+4,6:15.0,Defensive rebound by J. Parker,,117,104
+4,6:10.0,C. Randle makes 3-pt jump shot from 23 ft (assist by J. Parker),,120,104
+4,6:01.0,,Z. LaVine makes 2-pt layup from 1 ft,120,106
+4,5:51.0,B. Beal misses 3-pt jump shot from 26 ft,,120,106
+4,5:49.0,,Defensive rebound by Team,120,106
+4,5:35.0,,Z. LaVine makes 2-pt layup from 1 ft,120,108
+4,5:35.0,Washington full timeout,,120,108
+4,5:35.0,T. Ariza enters the game for W. Johnson,,120,108
+4,5:13.0,B. Portis makes 2-pt layup from 1 ft (assist by J. Parker),,122,108
+4,5:01.0,,Turnover by K. Dunn (lost ball; steal by B. Beal),122,108
+4,4:57.0,C. Randle makes 2-pt layup from 2 ft (assist by T. Ariza),,124,108
+4,4:38.0,,L. Markkanen misses 2-pt jump shot from 10 ft,124,108
+4,4:36.0,,Offensive rebound by O. Porter,124,108
+4,4:32.0,,Z. LaVine makes 2-pt layup from 2 ft (assist by O. Porter),124,110
+4,4:20.0,B. Portis makes 2-pt jump shot from 4 ft,,126,110
+4,4:20.0,Shooting foul by W. Selden (drawn by B. Portis),,126,110
+4,4:20.0,B. Portis makes free throw 1 of 1,,127,110
+4,4:08.0,,O. Porter misses 3-pt jump shot from 24 ft,127,110
+4,4:03.0,Defensive rebound by C. Randle,,127,110
+4,3:46.0,B. Portis misses 2-pt jump shot from 16 ft,,127,110
+4,3:43.0,,Defensive rebound by L. Markkanen,127,110
+4,3:40.0,,W. Selden makes 2-pt layup from 2 ft (assist by L. Markkanen),127,112
+4,3:40.0,,Shooting foul by C. Randle (drawn by W. Selden),127,112
+4,3:40.0,T. Satoranský enters the game for C. Randle,,127,112
+4,3:40.0,,W. Selden makes free throw 1 of 1,127,113
+4,3:34.0,Washington full timeout,,127,113
+4,3:23.0,T. Ariza misses 3-pt jump shot from 24 ft,,127,113
+4,3:22.0,,Defensive rebound by Team,127,113
+4,3:13.0,,L. Markkanen makes 2-pt layup from 2 ft (assist by Z. LaVine),127,115
+4,2:51.0,T. Satoranský misses 2-pt jump shot from 4 ft,,127,115
+4,2:50.0,Offensive rebound by T. Satoranský,,127,115
+4,2:50.0,T. Satoranský makes 2-pt layup from 2 ft,,129,115
+4,2:50.0,Shooting foul by L. Markkanen (drawn by T. Satoranský),,129,115
+4,2:50.0,T. Satoranský makes free throw 1 of 1,,130,115
+4,2:35.0,,K. Dunn misses 2-pt jump shot from 4 ft,130,115
+4,2:34.0,,Offensive rebound by K. Dunn,130,115
+4,2:30.0,,Z. LaVine makes 2-pt dunk at rim (assist by K. Dunn),130,117
+4,2:08.0,B. Beal makes 2-pt layup from 2 ft,,132,117
+4,2:08.0,,Chicago full timeout,132,117
+4,2:08.0,J. Jenkins enters the game for T. Ariza,,132,117
+4,2:08.0,J. McRae enters the game for B. Beal,,132,117
+4,2:08.0,C. Randle enters the game for T. Satoranský,,132,117
+4,2:08.0,,R. Arcidiacono enters the game for K. Dunn,132,117
+4,2:08.0,,C. Felício enters the game for Z. LaVine,132,117
+4,2:08.0,,S. Harrison enters the game for L. Markkanen,132,117
+4,2:08.0,,T. Luwawu-Cabarrot enters the game for O. Porter,132,117
+4,2:08.0,,B. Sampson enters the game for W. Selden,132,117
+4,1:57.0,,B. Sampson makes 3-pt jump shot from 26 ft (assist by C. Felício),132,120
+4,1:40.0,J. Parker misses 2-pt layup from 2 ft (block by C. Felício),,132,120
+4,1:38.0,,Defensive rebound by S. Harrison,132,120
+4,1:34.0,,T. Luwawu-Cabarrot misses 3-pt jump shot from 25 ft,132,120
+4,1:31.0,Defensive rebound by C. Randle,,132,120
+4,1:10.0,C. Randle makes 2-pt layup from 3 ft (assist by B. Portis),,134,120
+4,1:04.0,,B. Sampson makes 2-pt layup from 1 ft (assist by R. Arcidiacono),134,122
+4,0:43.0,J. Parker misses 2-pt layup from 2 ft (block by T. Luwawu-Cabarrot),,134,122
+4,0:42.0,,Defensive rebound by C. Felício,134,122
+4,0:42.0,,Personal foul by B. Portis (drawn by C. Felício),134,122
+4,0:42.0,,C. Felício misses free throw 1 of 2,134,122
+4,0:42.0,,Offensive rebound by Team,134,122
+4,0:42.0,T. Bryant enters the game for J. Parker,,134,122
+4,0:42.0,W. Johnson enters the game for B. Portis,,134,122
+4,0:42.0,,C. Felício makes free throw 2 of 2,134,123
+4,0:23.0,J. McRae misses 2-pt jump shot from 23 ft,,134,123
+4,0:20.0,,Defensive rebound by B. Sampson,134,123
+4,0:14.0,,B. Sampson makes 2-pt layup from 2 ft (assist by R. Arcidiacono),134,125

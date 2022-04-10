@@ -1,0 +1,509 @@
+QUARTER,TIME_REMAINING,PORTLAND_ACTION,SACRAMENTO_ACTION,PORTLAND_SCORE,SACRAMENTO_SCORE
+1,11:34.0,M. Harkless misses 2-pt layup from 3 ft,,0,0
+1,11:32.0,,Defensive rebound by W. Cauley-Stein,0,0
+1,11:10.0,,I. Shumpert makes 2-pt layup from 1 ft (assist by W. Cauley-Stein),0,2
+1,10:58.0,A. Aminu misses 2-pt layup from 2 ft (block by N. Bjelica),,0,2
+1,10:58.0,Offensive rebound by A. Aminu,,0,2
+1,10:53.0,A. Aminu makes 2-pt layup from 1 ft,,2,2
+1,10:34.0,,B. Hield makes 2-pt jump shot from 5 ft,2,4
+1,10:23.0,M. Harkless misses 3-pt jump shot from 25 ft,,2,4
+1,10:23.0,,Defensive rebound by N. Bjelica,2,4
+1,10:14.0,,B. Hield misses 2-pt layup from 2 ft,2,4
+1,10:12.0,Defensive rebound by J. Nurkić,,2,4
+1,10:05.0,M. Harkless makes 2-pt layup from 2 ft (assist by J. Nurkić),,4,4
+1,9:55.0,,N. Bjelica misses 3-pt jump shot from 26 ft,4,4
+1,9:52.0,Defensive rebound by C. McCollum,,4,4
+1,9:46.0,Turnover by J. Nurkić (bad pass; steal by W. Cauley-Stein),,4,4
+1,9:40.0,,Turnover by B. Hield (bad pass; steal by M. Harkless),4,4
+1,9:33.0,D. Lillard misses 3-pt jump shot from 28 ft,,4,4
+1,9:27.0,,Defensive rebound by N. Bjelica,4,4
+1,9:22.0,,Turnover by N. Bjelica (lost ball; steal by M. Harkless),4,4
+1,9:15.0,C. McCollum misses 3-pt jump shot from 25 ft,,4,4
+1,9:12.0,,Defensive rebound by W. Cauley-Stein,4,4
+1,9:05.0,,I. Shumpert misses 2-pt jump shot from 12 ft,4,4
+1,9:03.0,Defensive rebound by J. Nurkić,,4,4
+1,8:57.0,Turnover by D. Lillard (bad pass; steal by I. Shumpert),,4,4
+1,8:51.0,,B. Hield makes 3-pt jump shot from 25 ft (assist by I. Shumpert),4,7
+1,8:33.0,C. McCollum makes 2-pt jump shot from 13 ft (assist by D. Lillard),,6,7
+1,8:22.0,,D. Fox misses 2-pt jump shot from 12 ft,6,7
+1,8:20.0,,Offensive rebound by W. Cauley-Stein,6,7
+1,8:18.0,,W. Cauley-Stein misses 2-pt jump shot from 18 ft,6,7
+1,8:17.0,Defensive rebound by J. Nurkić,,6,7
+1,8:09.0,Turnover by J. Nurkić (bad pass; steal by D. Fox),,6,7
+1,8:05.0,,D. Fox makes 2-pt layup from 1 ft (assist by B. Hield),6,9
+1,8:05.0,,Shooting foul by J. Nurkić (drawn by D. Fox),6,9
+1,8:05.0,,D. Fox makes free throw 1 of 1,6,10
+1,7:39.0,J. Nurkić misses 2-pt jump shot from 5 ft (block by I. Shumpert),,6,10
+1,7:36.0,,Defensive rebound by B. Hield,6,10
+1,7:36.0,,Shooting foul by M. Harkless (drawn by N. Bjelica),6,10
+1,7:36.0,,N. Bjelica makes free throw 1 of 2,6,11
+1,7:36.0,,K. Koufos enters the game for W. Cauley-Stein,6,11
+1,7:36.0,,N. Bjelica misses free throw 2 of 2,6,11
+1,7:34.0,Defensive rebound by A. Aminu,,6,11
+1,7:26.0,M. Harkless makes 3-pt jump shot from 25 ft (assist by D. Lillard),,9,11
+1,7:09.0,,I. Shumpert misses 2-pt jump shot from 22 ft,9,11
+1,7:07.0,Defensive rebound by J. Nurkić,,9,11
+1,6:59.0,J. Nurkić misses 2-pt layup from 2 ft,,9,11
+1,6:58.0,Offensive rebound by J. Nurkić,,9,11
+1,6:58.0,Shooting foul by K. Koufos (drawn by J. Nurkić),,9,11
+1,6:58.0,,Sacramento full timeout,9,11
+1,6:58.0,J. Nurkić makes free throw 1 of 2,,10,11
+1,6:58.0,J. Nurkić makes free throw 2 of 2,,11,11
+1,6:38.0,,I. Shumpert misses 3-pt jump shot from 23 ft,11,11
+1,6:35.0,Defensive rebound by A. Aminu,,11,11
+1,6:29.0,C. McCollum misses 3-pt jump shot from 25 ft,,11,11
+1,6:26.0,,Defensive rebound by N. Bjelica,11,11
+1,6:18.0,,K. Koufos misses 2-pt hook shot from 11 ft,11,11
+1,6:15.0,Defensive rebound by M. Harkless,,11,11
+1,6:05.0,C. McCollum misses 2-pt jump shot from 14 ft,,11,11
+1,6:03.0,,Defensive rebound by K. Koufos,11,11
+1,5:56.0,,B. Hield misses 2-pt jump shot from 8 ft,11,11
+1,5:53.0,Defensive rebound by J. Nurkić,,11,11
+1,5:48.0,,Violation by Team (kicked ball),11,11
+1,5:48.0,,B. Bogdanović enters the game for D. Fox,11,11
+1,5:42.0,M. Harkless makes 2-pt layup from 3 ft (assist by J. Nurkić),,13,11
+1,5:22.0,,B. Hield makes 3-pt jump shot from 26 ft (assist by N. Bjelica),13,14
+1,5:05.0,J. Nurkić makes 2-pt layup from 1 ft (assist by D. Lillard),,15,14
+1,4:47.0,,N. Bjelica misses 3-pt jump shot from 25 ft,15,14
+1,4:45.0,Defensive rebound by D. Lillard,,15,14
+1,4:39.0,Shooting foul by N. Bjelica (drawn by J. Nurkić),,15,14
+1,4:39.0,J. Nurkić makes free throw 1 of 2,,16,14
+1,4:39.0,S. Curry enters the game for M. Harkless,,16,14
+1,4:39.0,E. Turner enters the game for C. McCollum,,16,14
+1,4:39.0,,J. Jackson enters the game for I. Shumpert,16,14
+1,4:39.0,J. Nurkić misses free throw 2 of 2,,16,14
+1,4:34.0,,Defensive rebound by K. Koufos,16,14
+1,4:25.0,,Turnover by B. Bogdanović (bad pass; steal by J. Nurkić),16,14
+1,4:18.0,J. Nurkić misses 2-pt hook shot from 6 ft,,16,14
+1,4:16.0,,Defensive rebound by B. Bogdanović,16,14
+1,4:11.0,,N. Bjelica makes 2-pt dunk from 1 ft (assist by B. Bogdanović),16,16
+1,4:07.0,Turnover by J. Nurkić (bad pass; steal by J. Jackson),,16,16
+1,4:04.0,,B. Hield makes 2-pt layup from 1 ft (assist by J. Jackson),16,18
+1,3:51.0,D. Lillard makes 2-pt jump shot from 18 ft (assist by J. Nurkić),,18,18
+1,3:34.0,,B. Hield makes 3-pt jump shot from 26 ft (assist by K. Koufos),18,21
+1,3:33.0,Portland full timeout,,18,21
+1,3:33.0,Z. Collins enters the game for A. Aminu,,18,21
+1,3:33.0,M. Leonard enters the game for J. Nurkić,,18,21
+1,3:33.0,,Y. Ferrell enters the game for N. Bjelica,18,21
+1,3:11.0,S. Curry makes 3-pt jump shot from 23 ft (assist by M. Leonard),,21,21
+1,2:50.0,,B. Bogdanović misses 3-pt jump shot from 25 ft,21,21
+1,2:48.0,,Offensive rebound by B. Hield,21,21
+1,2:40.0,,K. Koufos makes 2-pt layup from 4 ft (assist by B. Hield),21,23
+1,2:15.0,Z. Collins misses 2-pt jump shot from 20 ft,,21,23
+1,2:15.0,Offensive rebound by Team,,21,23
+1,2:15.0,Turnover by Team (shot clock),,21,23
+1,2:00.0,,Offensive foul by K. Koufos (drawn by Z. Collins),21,23
+1,2:00.0,,Turnover by K. Koufos (offensive foul),21,23
+1,2:00.0,M. Harkless enters the game for Z. Collins,,21,23
+1,1:48.0,D. Lillard misses 2-pt jump shot from 12 ft,,21,23
+1,1:46.0,,Defensive rebound by K. Koufos,21,23
+1,1:41.0,,B. Bogdanović misses 3-pt jump shot from 24 ft,21,23
+1,1:37.0,Defensive rebound by M. Harkless,,21,23
+1,1:33.0,Shooting foul by B. Bogdanović (drawn by D. Lillard),,21,23
+1,1:33.0,D. Lillard makes free throw 1 of 3,,22,23
+1,1:33.0,Z. Collins enters the game for M. Harkless,,22,23
+1,1:33.0,,D. Fox enters the game for B. Hield,22,23
+1,1:33.0,D. Lillard makes free throw 2 of 3,,23,23
+1,1:33.0,D. Lillard makes free throw 3 of 3,,24,23
+1,1:16.0,,Turnover by J. Jackson (traveling),24,23
+1,0:56.0,Z. Collins misses 3-pt jump shot from 26 ft,,24,23
+1,0:53.0,Offensive rebound by D. Lillard,,24,23
+1,0:53.0,Personal foul by B. Bogdanović (drawn by D. Lillard),,24,23
+1,0:53.0,D. Lillard makes free throw 1 of 2,,25,23
+1,0:53.0,,W. Cauley-Stein enters the game for K. Koufos,25,23
+1,0:53.0,D. Lillard makes free throw 2 of 2,,26,23
+1,0:31.0,,B. Bogdanović misses 2-pt layup from 4 ft,26,23
+1,0:30.0,,Offensive rebound by J. Jackson,26,23
+1,0:30.0,,J. Jackson makes 2-pt layup from 2 ft,26,25
+1,0:05.0,D. Lillard misses 3-pt jump shot from 24 ft,,26,25
+1,0:05.0,,Defensive rebound by D. Fox,26,25
+2,11:43.0,,Turnover by B. Bogdanović (bad pass; steal by S. Curry),26,25
+2,11:37.0,S. Curry makes 2-pt jump shot from 23 ft,,28,25
+2,11:27.0,,J. Jackson misses 3-pt jump shot from 26 ft,28,25
+2,11:24.0,Defensive rebound by S. Curry,,28,25
+2,11:20.0,Turnover by S. Curry (bad pass),,28,25
+2,11:09.0,,Y. Ferrell makes 2-pt jump shot from 20 ft,28,27
+2,10:56.0,Personal foul by J. Jackson (drawn by Z. Collins),,28,27
+2,10:53.0,Z. Collins makes 2-pt hook shot from 4 ft (assist by E. Turner),,30,27
+2,10:42.0,,Turnover by B. Bogdanović (lost ball; steal by S. Curry),30,27
+2,10:37.0,S. Curry makes 2-pt layup from 1 ft,,32,27
+2,10:31.0,,D. Fox makes 2-pt jump shot from 17 ft,32,29
+2,10:11.0,N. Stauskas misses 3-pt jump shot from 25 ft,,32,29
+2,10:07.0,,Defensive rebound by J. Jackson,32,29
+2,10:01.0,,D. Fox misses 2-pt jump shot from 20 ft,32,29
+2,9:59.0,Defensive rebound by Z. Collins,,32,29
+2,9:50.0,Z. Collins misses 3-pt jump shot from 25 ft,,32,29
+2,9:47.0,Offensive rebound by M. Leonard,,32,29
+2,9:33.0,Turnover by M. Leonard (bad pass; steal by B. Bogdanović),,32,29
+2,9:29.0,,Y. Ferrell makes 2-pt layup from 2 ft,32,31
+2,9:12.0,S. Curry misses 3-pt jump shot from 26 ft,,32,31
+2,9:11.0,,Defensive rebound by Team,32,31
+2,9:11.0,Loose ball foul by Z. Collins (drawn by D. Fox),,32,31
+2,9:11.0,,N. Bjelica enters the game for B. Bogdanović,32,31
+2,9:11.0,,I. Shumpert enters the game for Y. Ferrell,32,31
+2,8:52.0,,I. Shumpert makes 2-pt jump shot from 16 ft,32,33
+2,8:43.0,Personal foul by N. Bjelica (drawn by Z. Collins),,32,33
+2,8:43.0,C. McCollum enters the game for E. Turner,,32,33
+2,8:35.0,S. Curry makes 3-pt jump shot from 26 ft (assist by Z. Collins),,35,33
+2,8:24.0,,D. Fox misses 2-pt layup from 3 ft,35,33
+2,8:21.0,Defensive rebound by M. Leonard,,35,33
+2,8:06.0,C. McCollum makes 2-pt jump shot from 8 ft,,37,33
+2,8:01.0,,Personal foul by C. McCollum (drawn by J. Jackson),37,33
+2,7:52.0,,J. Jackson misses 2-pt jump shot from 10 ft,37,33
+2,7:48.0,Defensive rebound by Z. Collins,,37,33
+2,7:44.0,Offensive foul by M. Leonard (drawn by I. Shumpert),,37,33
+2,7:44.0,Turnover by M. Leonard (offensive foul),,37,33
+2,7:27.0,,D. Fox misses 2-pt jump shot from 21 ft,37,33
+2,7:25.0,,Offensive rebound by N. Bjelica,37,33
+2,7:25.0,,Shooting foul by N. Stauskas (drawn by N. Bjelica),37,33
+2,7:25.0,,N. Bjelica misses free throw 1 of 2,37,33
+2,7:25.0,,Offensive rebound by Team,37,33
+2,7:25.0,,N. Bjelica makes free throw 2 of 2,37,34
+2,7:17.0,C. McCollum makes 2-pt jump shot from 5 ft,,39,34
+2,7:16.0,,Sacramento full timeout,39,34
+2,6:59.0,,I. Shumpert makes 2-pt jump shot from 18 ft,39,36
+2,6:40.0,S. Curry makes 3-pt jump shot from 25 ft (assist by N. Stauskas),,42,36
+2,6:31.0,,Turnover by D. Fox (bad pass; steal by S. Curry),42,36
+2,6:26.0,Turnover by N. Stauskas (bad pass; steal by I. Shumpert),,42,36
+2,6:20.0,,I. Shumpert misses 3-pt jump shot from 25 ft,42,36
+2,6:16.0,Defensive rebound by M. Leonard,,42,36
+2,6:06.0,Z. Collins misses 3-pt jump shot from 22 ft,,42,36
+2,6:03.0,,Defensive rebound by J. Jackson,42,36
+2,6:01.0,,W. Cauley-Stein misses 2-pt layup from 2 ft,42,36
+2,6:00.0,,Offensive rebound by Team,42,36
+2,6:00.0,Loose ball foul by S. Curry (drawn by N. Bjelica),,42,36
+2,6:00.0,A. Aminu enters the game for Z. Collins,,42,36
+2,6:00.0,M. Harkless enters the game for M. Leonard,,42,36
+2,6:00.0,J. Nurkić enters the game for N. Stauskas,,42,36
+2,6:00.0,,B. Bogdanović enters the game for N. Bjelica,42,36
+2,6:00.0,,B. Hield enters the game for J. Jackson,42,36
+2,5:49.0,,W. Cauley-Stein misses 2-pt jump shot from 3 ft,42,36
+2,5:45.0,Defensive rebound by J. Nurkić,,42,36
+2,5:33.0,Shooting foul by D. Fox (drawn by S. Curry),,42,36
+2,5:33.0,S. Curry makes free throw 1 of 2,,43,36
+2,5:33.0,S. Curry makes free throw 2 of 2,,44,36
+2,5:14.0,,D. Fox misses 2-pt jump shot from 6 ft,44,36
+2,5:12.0,Defensive rebound by J. Nurkić,,44,36
+2,5:07.0,S. Curry misses 3-pt jump shot from 25 ft,,44,36
+2,5:04.0,,Defensive rebound by B. Hield,44,36
+2,5:00.0,,B. Bogdanović misses 3-pt jump shot from 26 ft,44,36
+2,4:56.0,Defensive rebound by J. Nurkić,,44,36
+2,4:47.0,C. McCollum makes 2-pt layup from 5 ft (assist by J. Nurkić),,46,36
+2,4:34.0,,B. Hield makes 3-pt jump shot from 26 ft (assist by I. Shumpert),46,39
+2,4:24.0,C. McCollum makes 2-pt hook shot from 6 ft,,48,39
+2,4:13.0,,B. Hield makes 3-pt jump shot from 25 ft (assist by D. Fox),48,42
+2,4:12.0,Portland full timeout,,48,42
+2,4:12.0,D. Lillard enters the game for S. Curry,,48,42
+2,4:12.0,,N. Bjelica enters the game for W. Cauley-Stein,48,42
+2,3:57.0,M. Harkless makes 2-pt dunk from 1 ft (assist by D. Lillard),,50,42
+2,3:41.0,,D. Fox misses 2-pt layup from 2 ft (block by J. Nurkić),50,42
+2,3:37.0,Defensive rebound by M. Harkless,,50,42
+2,3:25.0,C. McCollum misses 2-pt jump shot from 20 ft,,50,42
+2,3:23.0,Offensive rebound by J. Nurkić,,50,42
+2,3:21.0,J. Nurkić makes 2-pt hook shot from 2 ft,,52,42
+2,3:09.0,,Shooting foul by C. McCollum (drawn by N. Bjelica),52,42
+2,3:09.0,,N. Bjelica makes free throw 1 of 2,52,43
+2,3:09.0,,N. Bjelica makes free throw 2 of 2,52,44
+2,2:55.0,D. Lillard makes 2-pt layup from 2 ft,,54,44
+2,2:46.0,,B. Hield misses 2-pt jump shot from 21 ft,54,44
+2,2:46.0,,Offensive rebound by N. Bjelica,54,44
+2,2:45.0,,N. Bjelica makes 2-pt layup from 1 ft,54,46
+2,2:45.0,,Shooting foul by A. Aminu (drawn by N. Bjelica),54,46
+2,2:45.0,,J. Jackson enters the game for D. Fox,54,46
+2,2:45.0,,N. Bjelica makes free throw 1 of 1,54,47
+2,2:35.0,Personal foul by N. Bjelica (drawn by J. Nurkić),,54,47
+2,2:29.0,J. Nurkić makes 2-pt hook shot from 6 ft (assist by A. Aminu),,56,47
+2,2:08.0,,B. Hield misses 3-pt jump shot from 26 ft (block by J. Nurkić),56,47
+2,2:06.0,Defensive rebound by A. Aminu,,56,47
+2,2:05.0,J. Nurkić makes 2-pt dunk at rim (assist by D. Lillard),,58,47
+2,1:43.0,,J. Jackson makes 3-pt jump shot from 23 ft (assist by B. Hield),58,50
+2,1:27.0,J. Nurkić makes 2-pt jump shot from 14 ft,,60,50
+2,1:15.0,,Turnover by N. Bjelica (lost ball; steal by J. Nurkić),60,50
+2,1:09.0,A. Aminu misses 2-pt layup from 6 ft (block by B. Hield),,60,50
+2,1:09.0,Offensive rebound by Team,,60,50
+2,1:09.0,,K. Koufos enters the game for N. Bjelica,60,50
+2,1:09.0,Turnover by J. Nurkić (offensive foul),,60,50
+2,1:09.0,Offensive foul by J. Nurkić (drawn by J. Jackson),,60,50
+2,0:57.0,,Turnover by B. Bogdanović (lost ball; steal by J. Nurkić),60,50
+2,0:41.0,C. McCollum makes 2-pt jump shot from 16 ft,,62,50
+2,0:29.0,,B. Bogdanović misses 3-pt jump shot from 25 ft,62,50
+2,0:26.0,Defensive rebound by J. Nurkić,,62,50
+2,0:10.0,Shooting foul by B. Bogdanović (drawn by J. Nurkić),,62,50
+2,0:10.0,J. Nurkić makes free throw 1 of 2,,63,50
+2,0:10.0,E. Turner enters the game for C. McCollum,,63,50
+2,0:10.0,,N. Bjelica enters the game for K. Koufos,63,50
+2,0:10.0,J. Nurkić makes free throw 2 of 2,,64,50
+2,0:00.0,,N. Bjelica misses 2-pt jump shot from 17 ft,64,50
+2,0:00.0,,Offensive rebound by Team,64,50
+3,11:35.0,,W. Cauley-Stein misses 2-pt layup from 2 ft,64,50
+3,11:31.0,,Offensive rebound by N. Bjelica,64,50
+3,11:30.0,,N. Bjelica makes 2-pt hook shot from 2 ft,64,52
+3,11:18.0,D. Lillard misses 3-pt jump shot from 27 ft,,64,52
+3,11:15.0,,Defensive rebound by W. Cauley-Stein,64,52
+3,11:11.0,,B. Hield misses 2-pt layup from 3 ft (block by C. McCollum),64,52
+3,11:11.0,,Offensive rebound by Team,64,52
+3,11:04.0,,B. Hield makes 2-pt jump shot from 2 ft (assist by I. Shumpert),64,54
+3,10:54.0,C. McCollum misses 3-pt jump shot from 25 ft,,64,54
+3,10:52.0,,Defensive rebound by N. Bjelica,64,54
+3,10:39.0,,B. Hield makes 2-pt jump shot from 22 ft (assist by W. Cauley-Stein),64,56
+3,10:21.0,D. Lillard makes 2-pt layup from 2 ft (assist by J. Nurkić),,66,56
+3,10:10.0,,Personal foul by C. McCollum (drawn by D. Fox),66,56
+3,10:03.0,,I. Shumpert misses 2-pt jump shot from 19 ft,66,56
+3,10:00.0,Defensive rebound by J. Nurkić,,66,56
+3,9:55.0,Turnover by D. Lillard (bad pass; steal by I. Shumpert),,66,56
+3,9:49.0,,I. Shumpert makes 3-pt jump shot from 25 ft (assist by B. Hield),66,59
+3,9:25.0,Turnover by C. McCollum (traveling),,66,59
+3,9:14.0,,B. Hield misses 2-pt jump shot from 15 ft,66,59
+3,9:10.0,Defensive rebound by A. Aminu,,66,59
+3,9:09.0,Turnover by A. Aminu (offensive foul),,66,59
+3,9:09.0,Offensive foul by A. Aminu (drawn by D. Fox),,66,59
+3,9:01.0,,D. Fox misses 2-pt layup from 3 ft (block by J. Nurkić),66,59
+3,8:59.0,,W. Cauley-Stein misses 2-pt layup from 2 ft (block by M. Harkless),66,59
+3,8:59.0,,Offensive rebound by W. Cauley-Stein,66,59
+3,8:59.0,Defensive rebound by Team,,66,59
+3,8:40.0,A. Aminu misses 2-pt jump shot from 5 ft,,66,59
+3,8:37.0,Offensive rebound by J. Nurkić,,66,59
+3,8:37.0,Portland full timeout,,66,59
+3,8:28.0,J. Nurkić misses 2-pt hook shot from 6 ft,,66,59
+3,8:26.0,,Defensive rebound by B. Hield,66,59
+3,8:23.0,,W. Cauley-Stein misses 2-pt layup from 1 ft,66,59
+3,8:22.0,Defensive rebound by J. Nurkić,,66,59
+3,8:22.0,Personal foul by B. Hield (drawn by J. Nurkić),,66,59
+3,8:11.0,D. Lillard misses 3-pt jump shot from 25 ft,,66,59
+3,8:08.0,,Defensive rebound by N. Bjelica,66,59
+3,8:02.0,,I. Shumpert misses 2-pt jump shot from 14 ft,66,59
+3,7:59.0,Defensive rebound by M. Harkless,,66,59
+3,7:51.0,Personal foul by N. Bjelica (drawn by J. Nurkić),,66,59
+3,7:41.0,Shooting foul by W. Cauley-Stein (drawn by J. Nurkić),,66,59
+3,7:41.0,J. Nurkić makes free throw 1 of 2,,67,59
+3,7:41.0,,H. Giles enters the game for N. Bjelica,67,59
+3,7:41.0,J. Nurkić makes free throw 2 of 2,,68,59
+3,7:26.0,,W. Cauley-Stein misses 2-pt layup from 3 ft,68,59
+3,7:23.0,,Offensive rebound by H. Giles,68,59
+3,7:20.0,,B. Hield misses 2-pt jump shot from 19 ft,68,59
+3,7:19.0,,Offensive rebound by W. Cauley-Stein,68,59
+3,7:19.0,,Shooting foul by J. Nurkić (drawn by W. Cauley-Stein),68,59
+3,7:19.0,,W. Cauley-Stein makes free throw 1 of 2,68,60
+3,7:19.0,,W. Cauley-Stein misses free throw 2 of 2,68,60
+3,7:16.0,Defensive rebound by M. Harkless,,68,60
+3,7:02.0,Turnover by D. Lillard (bad pass; steal by D. Fox),,68,60
+3,6:57.0,,H. Giles misses 2-pt layup from 2 ft,68,60
+3,6:52.0,,Offensive rebound by W. Cauley-Stein,68,60
+3,6:52.0,,W. Cauley-Stein makes 2-pt layup at rim,68,62
+3,6:41.0,A. Aminu makes 3-pt jump shot from 23 ft (assist by C. McCollum),,71,62
+3,6:30.0,,D. Fox makes 2-pt jump shot from 9 ft,71,64
+3,6:14.0,D. Lillard misses 3-pt jump shot from 25 ft,,71,64
+3,6:11.0,,Defensive rebound by H. Giles,71,64
+3,6:03.0,,W. Cauley-Stein makes 2-pt layup from 2 ft,71,66
+3,5:44.0,M. Harkless misses 2-pt jump shot from 6 ft,,71,66
+3,5:43.0,,Defensive rebound by Team,71,66
+3,5:21.0,,B. Hield misses 2-pt jump shot from 21 ft,71,66
+3,5:18.0,Defensive rebound by J. Nurkić,,71,66
+3,5:16.0,Shooting foul by I. Shumpert (drawn by A. Aminu),,71,66
+3,5:16.0,A. Aminu makes free throw 1 of 2,,72,66
+3,5:16.0,A. Aminu makes free throw 2 of 2,,73,66
+3,5:03.0,,I. Shumpert misses 3-pt jump shot from 25 ft,73,66
+3,4:59.0,Defensive rebound by A. Aminu,,73,66
+3,4:54.0,D. Lillard misses 2-pt jump shot from 20 ft,,73,66
+3,4:51.0,,Defensive rebound by I. Shumpert,73,66
+3,4:45.0,,W. Cauley-Stein misses 2-pt layup from 5 ft,73,66
+3,4:41.0,Defensive rebound by M. Harkless,,73,66
+3,4:32.0,M. Harkless misses 2-pt layup from 4 ft,,73,66
+3,4:30.0,,Defensive rebound by H. Giles,73,66
+3,4:25.0,,D. Fox makes 2-pt layup from 1 ft,73,68
+3,4:03.0,C. McCollum misses 3-pt jump shot from 25 ft,,73,68
+3,4:00.0,,Defensive rebound by H. Giles,73,68
+3,3:56.0,,Sacramento full timeout,73,68
+3,3:56.0,S. Curry enters the game for M. Harkless,,73,68
+3,3:56.0,E. Turner enters the game for C. McCollum,,73,68
+3,3:56.0,,B. Bogdanović enters the game for W. Cauley-Stein,73,68
+3,3:56.0,,J. Jackson enters the game for I. Shumpert,73,68
+3,3:43.0,,D. Fox makes 2-pt layup from 2 ft,73,70
+3,3:21.0,A. Aminu makes 3-pt jump shot from 23 ft (assist by J. Nurkić),,76,70
+3,3:10.0,,H. Giles misses 2-pt jump shot from 9 ft,76,70
+3,3:07.0,,Offensive rebound by B. Hield,76,70
+3,2:55.0,,B. Bogdanović misses 3-pt jump shot from 24 ft,76,70
+3,2:51.0,Defensive rebound by D. Lillard,,76,70
+3,2:49.0,Personal foul by J. Jackson (drawn by J. Nurkić),,76,70
+3,2:49.0,J. Nurkić makes free throw 1 of 2,,77,70
+3,2:49.0,J. Nurkić makes free throw 2 of 2,,78,70
+3,2:36.0,,Personal foul by A. Aminu (drawn by H. Giles),78,70
+3,2:36.0,Z. Collins enters the game for A. Aminu,,78,70
+3,2:36.0,M. Leonard enters the game for J. Nurkić,,78,70
+3,2:36.0,,Y. Ferrell enters the game for D. Fox,78,70
+3,2:26.0,,B. Bogdanović misses 2-pt jump shot from 11 ft,78,70
+3,2:20.0,Defensive rebound by E. Turner,,78,70
+3,2:08.0,Z. Collins misses 2-pt jump shot from 13 ft,,78,70
+3,2:05.0,,Defensive rebound by B. Bogdanović,78,70
+3,2:01.0,,H. Giles makes 2-pt dunk from 1 ft (assist by B. Bogdanović),78,72
+3,1:33.0,S. Curry misses 2-pt jump shot from 15 ft,,78,72
+3,1:29.0,,Defensive rebound by H. Giles,78,72
+3,1:21.0,,Turnover by H. Giles (bad pass; steal by D. Lillard),78,72
+3,1:16.0,D. Lillard misses 2-pt layup from 3 ft,,78,72
+3,1:13.0,Offensive rebound by Z. Collins,,78,72
+3,1:10.0,Z. Collins makes 2-pt layup from 1 ft,,80,72
+3,0:58.0,,B. Bogdanović misses 2-pt jump shot from 14 ft,80,72
+3,0:55.0,Defensive rebound by D. Lillard,,80,72
+3,0:43.0,S. Curry makes 3-pt jump shot from 26 ft (assist by D. Lillard),,83,72
+3,0:30.0,,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by J. Jackson),83,75
+3,0:06.0,Turnover by D. Lillard (bad pass; steal by Y. Ferrell),,83,75
+3,0:00.0,,H. Giles makes 2-pt jump shot from 13 ft (assist by B. Bogdanović),83,77
+4,11:44.0,E. Turner makes 2-pt jump shot from 11 ft,,85,77
+4,11:28.0,,B. Bogdanović makes 2-pt jump shot from 19 ft (assist by Y. Ferrell),85,79
+4,11:15.0,M. Leonard misses 2-pt dunk from 2 ft,,85,79
+4,11:13.0,,Defensive rebound by H. Giles,85,79
+4,11:06.0,,H. Giles makes 2-pt layup from 1 ft (assist by Y. Ferrell),85,81
+4,10:46.0,M. Leonard misses 2-pt layup from 3 ft (block by H. Giles),,85,81
+4,10:46.0,,Defensive rebound by Team,85,81
+4,10:32.0,,J. Jackson misses 3-pt jump shot from 25 ft,85,81
+4,10:28.0,Defensive rebound by Z. Collins,,85,81
+4,10:20.0,N. Stauskas misses 3-pt jump shot from 24 ft,,85,81
+4,10:18.0,,Defensive rebound by B. Bogdanović,85,81
+4,10:15.0,,Y. Ferrell makes 2-pt layup from 2 ft (assist by B. Bogdanović),85,83
+4,10:15.0,Portland full timeout,,85,83
+4,9:56.0,Turnover by E. Turner (bad pass; steal by B. Bogdanović),,85,83
+4,9:42.0,,Personal foul by N. Stauskas (drawn by J. Jackson),85,83
+4,9:42.0,C. McCollum enters the game for E. Turner,,85,83
+4,9:33.0,,B. Bogdanović makes 2-pt jump shot from 14 ft,85,85
+4,9:16.0,C. McCollum misses 2-pt layup from 2 ft,,85,85
+4,9:14.0,,Defensive rebound by H. Giles,85,85
+4,9:09.0,,Y. Ferrell makes 2-pt layup from 2 ft,85,87
+4,8:55.0,Turnover by Z. Collins (lost ball; steal by H. Giles),,85,87
+4,8:42.0,,B. Bogdanović makes 2-pt jump shot from 16 ft,85,89
+4,8:42.0,Portland full timeout,,85,89
+4,8:42.0,A. Aminu enters the game for Z. Collins,,85,89
+4,8:42.0,D. Lillard enters the game for M. Leonard,,85,89
+4,8:42.0,J. Nurkić enters the game for N. Stauskas,,85,89
+4,8:26.0,D. Lillard makes 2-pt jump shot from 13 ft (assist by C. McCollum),,87,89
+4,7:58.0,,B. Bogdanović makes 2-pt jump shot from 5 ft,87,91
+4,7:44.0,J. Nurkić misses 2-pt layup from 3 ft,,87,91
+4,7:42.0,,Defensive rebound by N. Bjelica,87,91
+4,7:34.0,,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by N. Bjelica),87,94
+4,7:10.0,D. Lillard misses 3-pt jump shot from 25 ft,,87,94
+4,7:07.0,,Defensive rebound by N. Bjelica,87,94
+4,6:56.0,,B. Bogdanović misses 3-pt jump shot from 26 ft,87,94
+4,6:53.0,Defensive rebound by J. Nurkić,,87,94
+4,6:39.0,A. Aminu makes 3-pt jump shot from 23 ft (assist by S. Curry),,90,94
+4,6:25.0,,Sacramento full timeout,90,94
+4,6:25.0,M. Harkless enters the game for S. Curry,,90,94
+4,6:25.0,,W. Cauley-Stein enters the game for Y. Ferrell,90,94
+4,6:25.0,,D. Fox enters the game for H. Giles,90,94
+4,6:16.0,,Turnover by D. Fox (bad pass; steal by J. Nurkić),90,94
+4,5:59.0,Turnover by M. Harkless (bad pass; steal by B. Bogdanović),,90,94
+4,5:54.0,,J. Jackson misses 3-pt jump shot from 23 ft,90,94
+4,5:50.0,Defensive rebound by J. Nurkić,,90,94
+4,5:41.0,Turnover by D. Lillard (bad pass; steal by J. Jackson),,90,94
+4,5:36.0,,D. Fox misses 2-pt jump shot from 3 ft,90,94
+4,5:35.0,,Offensive rebound by Team,90,94
+4,5:35.0,,B. Hield enters the game for J. Jackson,90,94
+4,5:24.0,,N. Bjelica makes 3-pt jump shot from 25 ft (assist by W. Cauley-Stein),90,97
+4,5:04.0,D. Lillard misses 2-pt layup from 2 ft,,90,97
+4,5:02.0,,Defensive rebound by N. Bjelica,90,97
+4,4:44.0,,N. Bjelica misses 3-pt jump shot from 25 ft,90,97
+4,4:40.0,,Offensive rebound by W. Cauley-Stein,90,97
+4,4:38.0,,W. Cauley-Stein misses 2-pt layup from 2 ft (block by A. Aminu),90,97
+4,4:37.0,Defensive rebound by Team,,90,97
+4,4:21.0,C. McCollum misses 2-pt jump shot from 19 ft,,90,97
+4,4:18.0,,Defensive rebound by N. Bjelica,90,97
+4,4:04.0,,B. Hield makes 2-pt jump shot from 18 ft (assist by B. Bogdanović),90,99
+4,3:42.0,C. McCollum misses 3-pt jump shot from 23 ft,,90,99
+4,3:40.0,Offensive rebound by J. Nurkić,,90,99
+4,3:40.0,Shooting foul by B. Hield (drawn by J. Nurkić),,90,99
+4,3:40.0,J. Nurkić makes free throw 1 of 2,,91,99
+4,3:40.0,J. Nurkić makes free throw 2 of 2,,92,99
+4,3:24.0,,D. Fox misses 2-pt jump shot from 5 ft,92,99
+4,3:22.0,Defensive rebound by A. Aminu,,92,99
+4,3:16.0,D. Lillard misses 2-pt jump shot from 19 ft,,92,99
+4,3:12.0,,Defensive rebound by W. Cauley-Stein,92,99
+4,3:10.0,,B. Hield makes 2-pt layup from 1 ft,92,101
+4,3:09.0,Portland full timeout,,92,101
+4,3:09.0,,Sacramento full timeout,92,101
+4,3:02.0,C. McCollum makes 2-pt jump shot from 20 ft,,94,101
+4,2:44.0,Violation by Team (kicked ball),,94,101
+4,2:36.0,,B. Bogdanović misses 3-pt jump shot from 25 ft,94,101
+4,2:28.0,,Offensive rebound by N. Bjelica,94,101
+4,2:28.0,,N. Bjelica misses 2-pt layup at rim,94,101
+4,2:27.0,Defensive rebound by M. Harkless,,94,101
+4,2:18.0,D. Lillard makes 3-pt jump shot from 24 ft (assist by A. Aminu),,97,101
+4,2:03.0,,D. Fox makes 2-pt jump shot from 15 ft,97,103
+4,1:56.0,Personal foul by D. Fox (drawn by D. Lillard),,97,103
+4,1:48.0,A. Aminu misses 3-pt jump shot from 23 ft,,97,103
+4,1:44.0,,Defensive rebound by D. Fox,97,103
+4,1:38.0,,D. Fox misses 2-pt jump shot from 7 ft,97,103
+4,1:36.0,Defensive rebound by J. Nurkić,,97,103
+4,1:25.0,Personal foul by D. Fox (drawn by J. Nurkić),,97,103
+4,1:25.0,J. Nurkić makes free throw 1 of 2,,98,103
+4,1:25.0,J. Nurkić makes free throw 2 of 2,,99,103
+4,1:12.0,,Personal foul by M. Harkless (drawn by B. Bogdanović),99,103
+4,1:06.0,,B. Bogdanović misses 2-pt jump shot from 13 ft,99,103
+4,1:05.0,,Offensive rebound by Team,99,103
+4,0:52.0,,W. Cauley-Stein misses 2-pt layup from 6 ft (block by J. Nurkić),99,103
+4,0:48.0,Defensive rebound by D. Lillard,,99,103
+4,0:46.0,D. Lillard makes 2-pt layup from 2 ft,,101,103
+4,0:27.0,,W. Cauley-Stein misses 2-pt layup from 3 ft (block by J. Nurkić),101,103
+4,0:27.0,,Offensive rebound by Team,101,103
+4,0:27.0,,Sacramento full timeout,101,103
+4,0:25.0,,N. Bjelica misses 2-pt layup from 3 ft (block by M. Harkless),101,103
+4,0:20.0,Defensive rebound by A. Aminu,,101,103
+4,0:15.0,D. Lillard makes 2-pt layup from 2 ft,,103,103
+4,0:00.0,,D. Fox misses 2-pt jump shot from 20 ft,103,103
+4,0:00.0,,Offensive rebound by Team,103,103
+1OT,4:44.0,M. Harkless misses 2-pt jump shot from 9 ft,,103,103
+1OT,4:41.0,,Defensive rebound by N. Bjelica,103,103
+1OT,4:26.0,,Shooting foul by M. Harkless (drawn by B. Bogdanović),103,103
+1OT,4:26.0,,B. Bogdanović makes free throw 1 of 2,103,104
+1OT,4:26.0,,B. Bogdanović makes free throw 2 of 2,103,105
+1OT,4:16.0,Shooting foul by D. Fox (drawn by D. Lillard),,103,105
+1OT,4:16.0,D. Lillard makes free throw 1 of 3,,104,105
+1OT,4:16.0,D. Lillard makes free throw 2 of 3,,105,105
+1OT,4:16.0,D. Lillard makes free throw 3 of 3,,106,105
+1OT,4:03.0,,W. Cauley-Stein misses 2-pt layup from 2 ft,106,105
+1OT,4:02.0,Defensive rebound by Team,,106,105
+1OT,4:02.0,,Loose ball foul by N. Bjelica (drawn by J. Nurkić),106,105
+1OT,3:49.0,D. Lillard makes 2-pt jump shot from 20 ft,,108,105
+1OT,3:40.0,,N. Bjelica misses 2-pt layup from 3 ft (block by A. Aminu),108,105
+1OT,3:40.0,Defensive rebound by Team,,108,105
+1OT,3:24.0,D. Lillard misses 3-pt jump shot from 25 ft,,108,105
+1OT,3:20.0,Offensive rebound by J. Nurkić,,108,105
+1OT,3:14.0,A. Aminu misses 3-pt jump shot from 25 ft,,108,105
+1OT,3:09.0,,Defensive rebound by W. Cauley-Stein,108,105
+1OT,2:52.0,,D. Fox misses 2-pt jump shot from 9 ft,108,105
+1OT,2:50.0,Defensive rebound by M. Harkless,,108,105
+1OT,2:30.0,D. Lillard misses 3-pt jump shot from 25 ft,,108,105
+1OT,2:27.0,,Defensive rebound by N. Bjelica,108,105
+1OT,2:15.0,,B. Hield misses 2-pt jump shot from 15 ft,108,105
+1OT,2:13.0,,Offensive rebound by Team,108,105
+1OT,2:13.0,Loose ball foul by J. Nurkić (drawn by W. Cauley-Stein),,108,105
+1OT,2:05.0,,B. Hield misses 3-pt jump shot from 25 ft,108,105
+1OT,2:00.0,,Offensive rebound by D. Fox,108,105
+1OT,1:58.0,,B. Bogdanović misses 3-pt jump shot from 26 ft,108,105
+1OT,1:58.0,Defensive rebound by J. Nurkić,,108,105
+1OT,1:41.0,C. McCollum makes 2-pt jump shot from 19 ft (assist by J. Nurkić),,110,105
+1OT,1:39.0,,Sacramento full timeout,110,105
+1OT,1:22.0,,Turnover by B. Hield (lost ball; steal by J. Nurkić),110,105
+1OT,1:06.0,C. McCollum misses 2-pt layup from 1 ft,,110,105
+1OT,1:04.0,Offensive rebound by M. Harkless,,110,105
+1OT,1:04.0,M. Harkless makes 2-pt layup from 1 ft,,112,105
+1OT,1:01.0,,N. Bjelica misses 3-pt jump shot from 25 ft,112,105
+1OT,0:58.0,Defensive rebound by D. Lillard,,112,105
+1OT,0:58.0,Personal foul by B. Hield (drawn by D. Lillard),,112,105
+1OT,0:36.0,C. McCollum misses 2-pt jump shot from 21 ft,,112,105
+1OT,0:33.0,,Defensive rebound by W. Cauley-Stein,112,105
+1OT,0:26.0,,D. Fox misses 3-pt jump shot from 25 ft,112,105
+1OT,0:24.0,,Offensive rebound by Team,112,105
+1OT,0:24.0,Loose ball foul by M. Harkless (drawn by W. Cauley-Stein),,112,105
+1OT,0:23.0,,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by D. Fox),112,108
+1OT,0:21.0,Personal take foul by B. Hield (drawn by C. McCollum),,112,108
+1OT,0:21.0,C. McCollum misses free throw 1 of 2,,112,108
+1OT,0:21.0,Offensive rebound by Team,,112,108
+1OT,0:21.0,C. McCollum misses free throw 2 of 2,,112,108
+1OT,0:19.0,,Defensive rebound by B. Bogdanović,112,108
+1OT,0:14.0,,B. Hield misses 2-pt layup from 1 ft,112,108
+1OT,0:13.0,Defensive rebound by J. Nurkić,,112,108
+1OT,0:13.0,Personal take foul by N. Bjelica (drawn by J. Nurkić),,112,108
+1OT,0:13.0,,J. Jackson enters the game for N. Bjelica,112,108
+1OT,0:13.0,J. Nurkić makes free throw 1 of 2,,113,108
+1OT,0:13.0,J. Nurkić misses free throw 2 of 2,,113,108
+1OT,0:11.0,,Defensive rebound by B. Bogdanović,113,108
+1OT,0:06.0,,B. Hield misses 3-pt jump shot from 25 ft,113,108
+1OT,0:03.0,Defensive rebound by J. Nurkić,,113,108

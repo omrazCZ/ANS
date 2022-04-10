@@ -1,0 +1,464 @@
+QUARTER,TIME_REMAINING,DALLAS_ACTION,UTAH_ACTION,DALLAS_SCORE,UTAH_SCORE
+1,11:47.0,T. Hardaway makes 2-pt jump shot from 11 ft (assist by J. Brunson),,2,0
+1,11:29.0,,J. Ingles misses 3-pt jump shot from 27 ft,2,0
+1,11:27.0,Defensive rebound by J. Brunson,,2,0
+1,11:20.0,T. Hardaway misses 2-pt jump shot from 18 ft,,2,0
+1,11:17.0,,Defensive rebound by R. Gobert,2,0
+1,11:13.0,,D. Mitchell makes 2-pt layup from 3 ft,2,2
+1,11:13.0,,Shooting foul by D. Finney-Smith (drawn by D. Mitchell),2,2
+1,11:13.0,,D. Mitchell makes free throw 1 of 1,2,3
+1,10:56.0,Turnover by J. Brunson (bad pass; steal by R. Rubio),,2,3
+1,10:44.0,,D. Favors misses 3-pt jump shot from 24 ft,2,3
+1,10:41.0,Defensive rebound by D. Finney-Smith,,2,3
+1,10:35.0,J. Brunson misses 2-pt jump shot from 6 ft,,2,3
+1,10:35.0,,Defensive rebound by Team,2,3
+1,10:16.0,,R. Rubio misses 3-pt jump shot from 26 ft,2,3
+1,10:13.0,,Offensive rebound by J. Ingles,2,3
+1,10:01.0,,D. Favors misses 2-pt jump shot from 15 ft,2,3
+1,9:58.0,Defensive rebound by S. Mejri,,2,3
+1,9:53.0,D. Nowitzki misses 3-pt jump shot from 26 ft,,2,3
+1,9:49.0,Offensive rebound by T. Hardaway,,2,3
+1,9:42.0,S. Mejri misses 2-pt jump shot from 12 ft,,2,3
+1,9:39.0,,Defensive rebound by R. Gobert,2,3
+1,9:30.0,,Turnover by D. Mitchell (bad pass; steal by S. Mejri),2,3
+1,9:26.0,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by T. Hardaway),,4,3
+1,9:10.0,,J. Ingles misses 3-pt jump shot from 24 ft,4,3
+1,9:08.0,Defensive rebound by D. Nowitzki,,4,3
+1,8:49.0,J. Brunson misses 2-pt jump shot from 15 ft,,4,3
+1,8:45.0,,Defensive rebound by D. Mitchell,4,3
+1,8:42.0,,Shooting foul by D. Nowitzki (drawn by D. Mitchell),4,3
+1,8:42.0,,D. Mitchell makes free throw 1 of 2,4,4
+1,8:42.0,,D. Mitchell makes free throw 2 of 2,4,5
+1,8:21.0,D. Finney-Smith makes 2-pt jump shot from 14 ft,,6,5
+1,8:03.0,,R. Rubio makes 2-pt layup from 1 ft (assist by J. Ingles),6,7
+1,7:51.0,J. Brunson misses 2-pt jump shot from 15 ft,,6,7
+1,7:48.0,,Defensive rebound by D. Mitchell,6,7
+1,7:44.0,,D. Mitchell makes 2-pt dunk from 2 ft (assist by J. Ingles),6,9
+1,7:43.0,Dallas full timeout,,6,9
+1,7:25.0,D. Nowitzki makes 3-pt jump shot from 25 ft (assist by J. Brunson),,9,9
+1,7:09.0,,J. Ingles makes 2-pt layup from 2 ft (assist by D. Mitchell),9,11
+1,6:59.0,D. Finney-Smith makes 3-pt jump shot from 25 ft,,12,11
+1,6:45.0,,R. Gobert makes 2-pt dunk from 2 ft (assist by R. Rubio),12,13
+1,6:26.0,Turnover by S. Mejri (out of bounds lost ball),,12,13
+1,6:26.0,C. Lee enters the game for S. Mejri,,12,13
+1,6:26.0,D. Powell enters the game for D. Nowitzki,,12,13
+1,6:26.0,,J. Crowder enters the game for D. Favors,12,13
+1,6:26.0,,K. Korver enters the game for J. Ingles,12,13
+1,6:15.0,,Personal foul by J. Brunson (drawn by R. Gobert),12,13
+1,6:05.0,,K. Korver misses 3-pt jump shot from 28 ft,12,13
+1,6:02.0,Defensive rebound by J. Brunson,,12,13
+1,5:55.0,J. Brunson misses 2-pt jump shot from 9 ft,,12,13
+1,5:53.0,,Defensive rebound by J. Crowder,12,13
+1,5:48.0,,R. Rubio makes 2-pt layup from 3 ft (assist by J. Crowder),12,15
+1,5:38.0,T. Hardaway makes 3-pt jump shot from 25 ft (assist by D. Powell),,15,15
+1,5:20.0,,D. Mitchell misses 2-pt layup from 5 ft,15,15
+1,5:19.0,,Offensive rebound by Team,15,15
+1,5:19.0,T. Burke enters the game for J. Brunson,,15,15
+1,5:10.0,,Turnover by D. Mitchell (bad pass),15,15
+1,5:04.0,Personal foul by D. Mitchell (drawn by D. Powell),,15,15
+1,4:56.0,Shooting foul by R. Gobert (drawn by D. Powell),,15,15
+1,4:56.0,D. Powell makes free throw 1 of 2,,16,15
+1,4:56.0,D. Powell makes free throw 2 of 2,,17,15
+1,4:40.0,,R. Rubio makes 3-pt jump shot from 25 ft (assist by D. Mitchell),17,18
+1,4:24.0,C. Lee misses 2-pt layup from 2 ft (block by R. Gobert),,17,18
+1,4:21.0,,Defensive rebound by K. Korver,17,18
+1,4:17.0,,Personal foul by D. Powell (drawn by R. Gobert),17,18
+1,4:17.0,,R. Neto enters the game for R. Rubio,17,18
+1,4:11.0,,Turnover by K. Korver (traveling),17,18
+1,4:03.0,D. Powell misses 3-pt jump shot from 25 ft,,17,18
+1,4:00.0,,Defensive rebound by D. Mitchell,17,18
+1,3:52.0,,R. Gobert makes 2-pt dunk from 3 ft (assist by R. Neto),17,20
+1,3:39.0,D. Powell makes 2-pt hook shot from 8 ft (assist by T. Burke),,19,20
+1,3:22.0,,J. Crowder misses 2-pt jump shot from 4 ft,19,20
+1,3:21.0,,Offensive rebound by J. Crowder,19,20
+1,3:21.0,,Shooting foul by T. Burke (drawn by J. Crowder),19,20
+1,3:21.0,,J. Crowder makes free throw 1 of 2,19,21
+1,3:21.0,D. Harris enters the game for D. Finney-Smith,,19,21
+1,3:21.0,D. Nowitzki enters the game for T. Hardaway,,19,21
+1,3:21.0,,D. Favors enters the game for R. Gobert,19,21
+1,3:21.0,,R. O'Neale enters the game for D. Mitchell,19,21
+1,3:21.0,,J. Crowder makes free throw 2 of 2,19,22
+1,3:21.0,D. Harris misses 3-pt jump shot from 25 ft,,19,22
+1,3:08.0,,Defensive rebound by K. Korver,19,22
+1,3:04.0,,J. Crowder makes 3-pt jump shot from 26 ft (assist by R. Neto),19,25
+1,2:41.0,T. Burke makes 2-pt jump shot from 12 ft,,21,25
+1,2:27.0,,J. Crowder misses 3-pt jump shot from 24 ft,21,25
+1,2:24.0,,Offensive rebound by D. Favors,21,25
+1,2:22.0,,Personal foul by C. Lee (drawn by K. Korver),21,25
+1,2:22.0,,Utah full timeout,21,25
+1,2:22.0,,K. Korver makes free throw 1 of 2,21,26
+1,2:22.0,,K. Korver makes free throw 2 of 2,21,27
+1,2:05.0,C. Lee misses 3-pt jump shot from 23 ft,,21,27
+1,2:03.0,,Defensive rebound by D. Favors,21,27
+1,1:56.0,,J. Crowder makes 2-pt jump shot from 19 ft (assist by R. Neto),21,29
+1,1:45.0,T. Burke makes 2-pt jump shot from 13 ft,,23,29
+1,1:28.0,,K. Korver misses 2-pt jump shot from 13 ft,23,29
+1,1:26.0,Defensive rebound by T. Burke,,23,29
+1,1:16.0,C. Lee makes 2-pt jump shot from 12 ft,,25,29
+1,1:01.0,,R. Neto misses 2-pt jump shot from 11 ft,25,29
+1,1:00.0,Defensive rebound by T. Burke,,25,29
+1,0:54.0,D. Nowitzki misses 3-pt jump shot from 25 ft,,25,29
+1,0:52.0,,Defensive rebound by R. O'Neale,25,29
+1,0:40.0,,D. Favors misses 2-pt jump shot from 13 ft,25,29
+1,0:37.0,Defensive rebound by D. Powell,,25,29
+1,0:31.0,T. Burke misses 2-pt jump shot from 9 ft,,25,29
+1,0:28.0,Offensive rebound by T. Burke,,25,29
+1,0:26.0,T. Burke misses 2-pt layup from 3 ft,,25,29
+1,0:26.0,Offensive rebound by T. Burke,,25,29
+1,0:26.0,Personal foul by K. Korver (drawn by D. Harris),,25,29
+1,0:26.0,,J. Ingles enters the game for K. Korver,25,29
+1,0:19.0,T. Burke misses 2-pt jump shot from 6 ft (block by R. Neto),,25,29
+1,0:16.0,,Defensive rebound by D. Favors,25,29
+1,0:14.0,,J. Crowder makes 2-pt layup from 1 ft (assist by J. Ingles),25,31
+1,0:01.0,D. Powell misses 3-pt jump shot from 25 ft,,25,31
+1,0:01.0,,Defensive rebound by R. O'Neale,25,31
+2,11:44.0,,D. Favors makes 2-pt dunk from 2 ft (assist by R. Rubio),25,33
+2,11:23.0,D. Nowitzki makes 2-pt jump shot from 19 ft (assist by C. Lee),,27,33
+2,11:04.0,,R. Rubio misses 3-pt jump shot from 25 ft,27,33
+2,11:00.0,Defensive rebound by D. Harris,,27,33
+2,10:50.0,D. Nowitzki makes 2-pt jump shot from 11 ft (assist by C. Lee),,29,33
+2,10:33.0,,R. Rubio makes 2-pt jump shot from 14 ft,29,35
+2,10:09.0,D. Powell makes 2-pt dunk from 1 ft (assist by C. Lee),,31,35
+2,9:56.0,,Personal foul by D. Nowitzki (drawn by J. Ingles),31,35
+2,9:50.0,,Personal foul by C. Lee (drawn by J. Ingles),31,35
+2,9:40.0,,Offensive foul by D. Favors (drawn by D. Harris),31,35
+2,9:40.0,,Turnover by D. Favors (offensive foul),31,35
+2,9:28.0,T. Burke misses 2-pt layup from 5 ft,,31,35
+2,9:26.0,,Defensive rebound by D. Favors,31,35
+2,9:21.0,,J. Crowder makes 2-pt jump shot from 21 ft (assist by K. Korver),31,37
+2,9:18.0,Dallas full timeout,,31,37
+2,9:18.0,,T. Sefolosha enters the game for J. Crowder,31,37
+2,9:04.0,C. Lee misses 2-pt jump shot from 17 ft,,31,37
+2,9:02.0,,Defensive rebound by K. Korver,31,37
+2,8:49.0,,D. Favors makes 2-pt layup from 2 ft (assist by J. Ingles),31,39
+2,8:25.0,D. Powell misses 3-pt jump shot from 24 ft,,31,39
+2,8:23.0,,Defensive rebound by K. Korver,31,39
+2,8:11.0,,Turnover by J. Ingles (bad pass; steal by D. Nowitzki),31,39
+2,8:09.0,Personal foul by R. Rubio (drawn by T. Burke),,31,39
+2,8:09.0,T. Hardaway enters the game for C. Lee,,31,39
+2,8:09.0,J. Jackson enters the game for D. Nowitzki,,31,39
+2,8:09.0,S. Mejri enters the game for D. Powell,,31,39
+2,8:09.0,,R. O'Neale enters the game for K. Korver,31,39
+2,7:48.0,T. Hardaway misses 2-pt jump shot from 17 ft,,31,39
+2,7:45.0,,Defensive rebound by D. Favors,31,39
+2,7:32.0,,Personal foul by D. Harris (drawn by D. Favors),31,39
+2,7:32.0,J. Brunson enters the game for T. Burke,,31,39
+2,7:32.0,D. Finney-Smith enters the game for D. Harris,,31,39
+2,7:32.0,,R. Gobert enters the game for D. Favors,31,39
+2,7:32.0,,D. Mitchell enters the game for R. Rubio,31,39
+2,7:28.0,,Shooting foul by J. Jackson (drawn by R. Gobert),31,39
+2,7:28.0,,R. Gobert makes free throw 1 of 2,31,40
+2,7:28.0,,R. Rubio enters the game for J. Ingles,31,40
+2,7:28.0,,R. Gobert makes free throw 2 of 2,31,41
+2,7:09.0,J. Brunson makes 3-pt jump shot from 26 ft (assist by T. Hardaway),,34,41
+2,6:52.0,,T. Sefolosha makes 3-pt jump shot from 24 ft (assist by D. Mitchell),34,44
+2,6:37.0,D. Finney-Smith makes 2-pt jump shot from 19 ft (assist by S. Mejri),,36,44
+2,6:22.0,,Personal foul by T. Hardaway (drawn by R. Gobert),36,44
+2,6:22.0,,R. Gobert makes free throw 1 of 2,36,45
+2,6:22.0,,R. Neto enters the game for R. Rubio,36,45
+2,6:22.0,,R. Gobert makes free throw 2 of 2,36,46
+2,6:12.0,J. Jackson makes 2-pt layup from 3 ft (assist by S. Mejri),,38,46
+2,5:57.0,,D. Mitchell makes 3-pt jump shot from 26 ft (assist by R. O'Neale),38,49
+2,5:48.0,Personal foul by T. Sefolosha (drawn by J. Brunson),,38,49
+2,5:45.0,Personal foul by R. O'Neale (drawn by T. Hardaway),,38,49
+2,5:33.0,T. Hardaway makes 2-pt jump shot from 11 ft,,40,49
+2,5:33.0,Shooting foul by R. Neto (drawn by T. Hardaway),,40,49
+2,5:33.0,T. Hardaway makes free throw 1 of 1,,41,49
+2,5:09.0,,R. Neto misses 3-pt jump shot from 24 ft,41,49
+2,5:07.0,Defensive rebound by J. Brunson,,41,49
+2,4:58.0,T. Hardaway misses 3-pt jump shot from 24 ft,,41,49
+2,4:56.0,,Defensive rebound by R. Gobert,41,49
+2,4:49.0,,D. Mitchell misses 2-pt layup from 3 ft (block by S. Mejri),41,49
+2,4:46.0,,Offensive rebound by T. Sefolosha,41,49
+2,4:42.0,,T. Sefolosha makes 2-pt jump shot from 18 ft,41,51
+2,4:33.0,J. Brunson makes 2-pt jump shot from 13 ft,,43,51
+2,4:32.0,,Utah full timeout,43,51
+2,4:32.0,,J. Crowder enters the game for R. Neto,43,51
+2,4:32.0,,J. Ingles enters the game for T. Sefolosha,43,51
+2,4:16.0,,R. Gobert misses 2-pt layup from 3 ft,43,51
+2,4:12.0,Defensive rebound by S. Mejri,,43,51
+2,4:08.0,J. Jackson makes 2-pt jump shot from 9 ft (assist by T. Hardaway),,45,51
+2,3:57.0,,Personal foul by T. Hardaway (drawn by R. Gobert),45,51
+2,3:57.0,,Offensive rebound by Team,45,51
+2,3:57.0,,R. Gobert misses free throw 1 of 2,45,51
+2,3:57.0,,R. Rubio enters the game for R. O'Neale,45,51
+2,3:57.0,,R. Gobert makes free throw 2 of 2,45,52
+2,3:43.0,J. Jackson makes 3-pt jump shot from 25 ft (assist by T. Hardaway),,48,52
+2,3:26.0,,D. Mitchell makes 2-pt layup from 3 ft (assist by R. Gobert),48,54
+2,3:11.0,J. Jackson misses 3-pt jump shot from 24 ft,,48,54
+2,3:08.0,,Defensive rebound by D. Mitchell,48,54
+2,2:51.0,,R. Rubio misses 2-pt jump shot from 15 ft,48,54
+2,2:48.0,Defensive rebound by J. Brunson,,48,54
+2,2:48.0,D. Powell enters the game for S. Mejri,,48,54
+2,2:34.0,D. Powell misses 2-pt jump shot from 24 ft,,48,54
+2,2:32.0,,Defensive rebound by J. Ingles,48,54
+2,2:23.0,,Shooting foul by J. Brunson (drawn by R. Rubio),48,54
+2,2:23.0,,R. Rubio misses free throw 1 of 2,48,54
+2,2:23.0,,Offensive rebound by Team,48,54
+2,2:23.0,,R. Rubio makes free throw 2 of 2,48,55
+2,2:12.0,Shooting foul by J. Ingles (drawn by T. Hardaway),,48,55
+2,2:12.0,T. Hardaway makes free throw 1 of 2,,49,55
+2,2:12.0,T. Hardaway makes free throw 2 of 2,,50,55
+2,2:02.0,Defensive rebound by T. Hardaway,,50,55
+2,2:02.0,,R. Rubio misses 2-pt layup from 3 ft,50,55
+2,1:51.0,T. Hardaway misses 2-pt jump shot from 14 ft,,50,55
+2,1:51.0,,Defensive rebound by R. Gobert,50,55
+2,1:44.0,,Offensive foul by R. Gobert (drawn by J. Brunson),50,55
+2,1:44.0,,Turnover by R. Gobert (offensive foul),50,55
+2,1:33.0,J. Brunson misses 3-pt jump shot from 25 ft,,50,55
+2,1:30.0,,Defensive rebound by R. Gobert,50,55
+2,1:21.0,,R. Gobert misses 2-pt layup from 1 ft,50,55
+2,1:16.0,Defensive rebound by D. Finney-Smith,,50,55
+2,1:15.0,J. Brunson makes 3-pt jump shot from 25 ft (assist by D. Finney-Smith),,53,55
+2,0:59.0,,Personal foul by D. Finney-Smith (drawn by D. Mitchell),53,55
+2,0:59.0,,D. Mitchell makes free throw 1 of 2,53,56
+2,0:59.0,,D. Mitchell makes free throw 2 of 2,53,57
+2,0:42.0,D. Powell makes 2-pt hook shot from 4 ft,,55,57
+2,0:35.0,,R. Rubio makes 2-pt jump shot from 19 ft,55,59
+2,0:29.0,T. Hardaway makes 3-pt jump shot from 26 ft,,58,59
+2,0:06.0,,D. Mitchell makes 2-pt jump shot from 13 ft,58,61
+3,11:46.0,,R. Gobert misses 2-pt dunk from 3 ft (block by S. Mejri),58,61
+3,11:43.0,Defensive rebound by D. Finney-Smith,,58,61
+3,11:33.0,J. Brunson misses 2-pt jump shot from 11 ft,,58,61
+3,11:31.0,,Defensive rebound by D. Mitchell,58,61
+3,11:23.0,,J. Ingles misses 3-pt jump shot from 23 ft,58,61
+3,11:19.0,Defensive rebound by S. Mejri,,58,61
+3,11:03.0,D. Nowitzki misses 3-pt jump shot from 26 ft,,58,61
+3,11:01.0,,Defensive rebound by J. Ingles,58,61
+3,10:54.0,,J. Ingles misses 2-pt layup from 6 ft,58,61
+3,10:51.0,Defensive rebound by T. Hardaway,,58,61
+3,10:47.0,D. Nowitzki misses 3-pt jump shot from 25 ft,,58,61
+3,10:45.0,,Defensive rebound by D. Mitchell,58,61
+3,10:23.0,,J. Ingles misses 2-pt layup from 5 ft (block by S. Mejri),58,61
+3,10:20.0,Defensive rebound by T. Hardaway,,58,61
+3,10:20.0,Personal foul by R. Rubio (drawn by T. Hardaway),,58,61
+3,10:15.0,T. Hardaway misses 3-pt jump shot from 23 ft,,58,61
+3,10:11.0,,Defensive rebound by R. Rubio,58,61
+3,10:03.0,,R. Rubio makes 2-pt jump shot from 9 ft,58,63
+3,9:39.0,D. Finney-Smith misses 2-pt jump shot from 20 ft,,58,63
+3,9:33.0,,Defensive rebound by R. Rubio,58,63
+3,9:24.0,,D. Favors misses 3-pt jump shot from 23 ft,58,63
+3,9:21.0,,Offensive rebound by D. Favors,58,63
+3,9:19.0,,R. Rubio misses 3-pt jump shot from 22 ft,58,63
+3,9:15.0,,Offensive rebound by R. Gobert,58,63
+3,9:14.0,,R. Gobert misses 2-pt jump shot from 8 ft,58,63
+3,9:14.0,Defensive rebound by D. Finney-Smith,,58,63
+3,8:58.0,T. Hardaway misses 3-pt jump shot from 28 ft,,58,63
+3,8:55.0,,Defensive rebound by D. Favors,58,63
+3,8:53.0,,Personal foul by D. Nowitzki (drawn by D. Mitchell),58,63
+3,8:46.0,,J. Ingles misses 3-pt jump shot from 23 ft,58,63
+3,8:42.0,Defensive rebound by T. Hardaway,,58,63
+3,8:35.0,T. Hardaway misses 2-pt layup from 2 ft,,58,63
+3,8:31.0,Offensive rebound by S. Mejri,,58,63
+3,8:31.0,S. Mejri misses 2-pt layup from 1 ft,,58,63
+3,8:31.0,,Defensive rebound by D. Mitchell,58,63
+3,8:27.0,,D. Mitchell misses 3-pt jump shot from 28 ft,58,63
+3,8:24.0,Defensive rebound by J. Brunson,,58,63
+3,8:11.0,S. Mejri misses 2-pt layup from 4 ft (block by R. Gobert),,58,63
+3,8:09.0,,Defensive rebound by R. Rubio,58,63
+3,8:04.0,,Shooting foul by J. Brunson (drawn by R. Rubio),58,63
+3,8:04.0,,R. Rubio makes free throw 1 of 2,58,64
+3,8:04.0,,J. Crowder enters the game for D. Favors,58,64
+3,8:04.0,,R. O'Neale enters the game for J. Ingles,58,64
+3,8:04.0,,R. Rubio misses free throw 2 of 2,58,64
+3,8:00.0,Defensive rebound by D. Finney-Smith,,58,64
+3,7:51.0,D. Nowitzki misses 2-pt jump shot from 13 ft,,58,64
+3,7:47.0,,Defensive rebound by R. Gobert,58,64
+3,7:40.0,,J. Crowder makes 3-pt jump shot from 25 ft (assist by R. O'Neale),58,67
+3,7:38.0,Dallas full timeout,,58,67
+3,7:26.0,T. Hardaway makes 2-pt jump shot from 10 ft (assist by D. Nowitzki),,60,67
+3,7:14.0,,Personal foul by D. Nowitzki (drawn by J. Crowder),60,67
+3,7:14.0,J. Jackson enters the game for S. Mejri,,60,67
+3,7:14.0,D. Powell enters the game for D. Nowitzki,,60,67
+3,7:05.0,,D. Mitchell makes 2-pt layup from 2 ft,60,69
+3,6:44.0,T. Hardaway makes 2-pt jump shot from 9 ft,,62,69
+3,6:44.0,Shooting foul by R. Rubio (drawn by T. Hardaway),,62,69
+3,6:44.0,T. Hardaway makes free throw 1 of 1,,63,69
+3,6:32.0,,J. Crowder makes 3-pt jump shot from 25 ft (assist by D. Mitchell),63,72
+3,6:22.0,J. Brunson misses 2-pt layup from 3 ft,,63,72
+3,6:21.0,,Defensive rebound by R. Gobert,63,72
+3,6:11.0,,R. Rubio makes 2-pt jump shot from 16 ft,63,74
+3,5:42.0,D. Finney-Smith misses 2-pt jump shot from 6 ft,,63,74
+3,5:39.0,,Defensive rebound by Team,63,74
+3,5:39.0,T. Burke enters the game for J. Brunson,,63,74
+3,5:28.0,,Personal foul by D. Finney-Smith (drawn by R. Gobert),63,74
+3,5:20.0,,R. O'Neale misses 3-pt jump shot from 23 ft,63,74
+3,5:16.0,,Offensive rebound by R. Gobert,63,74
+3,5:15.0,,R. Gobert makes 2-pt dunk from 2 ft,63,76
+3,5:00.0,J. Jackson misses 3-pt jump shot from 27 ft,,63,76
+3,4:57.0,,Defensive rebound by Team,63,76
+3,4:40.0,,R. O'Neale makes 2-pt layup from 4 ft (assist by R. Rubio),63,78
+3,4:39.0,Dallas full timeout,,63,78
+3,4:39.0,D. Harris enters the game for D. Finney-Smith,,63,78
+3,4:39.0,D. Nowitzki enters the game for T. Hardaway,,63,78
+3,4:26.0,D. Powell makes 2-pt layup from 3 ft (assist by D. Harris),,65,78
+3,4:10.0,,J. Crowder misses 2-pt layup from 4 ft,65,78
+3,4:09.0,,Offensive rebound by J. Crowder,65,78
+3,4:08.0,,J. Crowder misses 2-pt layup from 5 ft,65,78
+3,4:08.0,Defensive rebound by Team,,65,78
+3,3:56.0,J. Jackson makes 2-pt jump shot from 5 ft (assist by D. Powell),,67,78
+3,3:56.0,Shooting foul by D. Mitchell (drawn by J. Jackson),,67,78
+3,3:56.0,,D. Favors enters the game for R. Gobert,67,78
+3,3:56.0,,K. Korver enters the game for D. Mitchell,67,78
+3,3:56.0,,R. Neto enters the game for R. Rubio,67,78
+3,3:56.0,J. Jackson makes free throw 1 of 1,,68,78
+3,3:49.0,,K. Korver misses 3-pt jump shot from 25 ft,68,78
+3,3:46.0,Defensive rebound by D. Nowitzki,,68,78
+3,3:41.0,T. Burke makes 2-pt jump shot from 14 ft,,70,78
+3,3:29.0,,Personal foul by D. Harris (drawn by K. Korver),70,78
+3,3:29.0,,K. Korver makes free throw 1 of 2,70,79
+3,3:29.0,,K. Korver makes free throw 2 of 2,70,80
+3,3:20.0,T. Burke makes 2-pt layup from 4 ft,,72,80
+3,3:03.0,,R. Neto misses 3-pt jump shot from 24 ft,72,80
+3,3:00.0,Defensive rebound by D. Powell,,72,80
+3,2:53.0,D. Harris misses 3-pt jump shot from 25 ft,,72,80
+3,2:49.0,,Defensive rebound by D. Favors,72,80
+3,2:35.0,,K. Korver makes 3-pt jump shot from 24 ft (assist by D. Favors),72,83
+3,2:18.0,T. Burke makes 2-pt layup from 4 ft,,74,83
+3,2:18.0,,Utah full timeout,74,83
+3,2:18.0,,J. Ingles enters the game for R. Neto,74,83
+3,2:04.0,,K. Korver misses 3-pt jump shot from 25 ft,74,83
+3,2:00.0,Defensive rebound by D. Powell,,74,83
+3,1:47.0,T. Burke misses 2-pt jump shot from 12 ft (block by D. Favors),,74,83
+3,1:45.0,Offensive rebound by D. Powell,,74,83
+3,1:44.0,D. Nowitzki makes 3-pt jump shot from 26 ft (assist by D. Powell),,77,83
+3,1:27.0,,J. Ingles makes 3-pt jump shot from 23 ft (assist by R. O'Neale),77,86
+3,1:12.0,Shooting foul by R. O'Neale (drawn by T. Burke),,77,86
+3,1:12.0,Offensive rebound by Team,,77,86
+3,1:12.0,T. Burke misses free throw 1 of 2,,77,86
+3,1:12.0,T. Burke makes free throw 2 of 2,,78,86
+3,1:03.0,,J. Crowder misses 3-pt jump shot from 25 ft,78,86
+3,0:59.0,Defensive rebound by D. Harris,,78,86
+3,0:51.0,J. Jackson misses 2-pt layup from 3 ft (block by D. Favors),,78,86
+3,0:48.0,Offensive rebound by T. Burke,,78,86
+3,0:46.0,D. Nowitzki misses 3-pt jump shot from 26 ft,,78,86
+3,0:44.0,Offensive rebound by J. Jackson,,78,86
+3,0:43.0,J. Jackson misses 2-pt jump shot from 7 ft,,78,86
+3,0:42.0,,Defensive rebound by D. Favors,78,86
+3,0:33.0,,K. Korver misses 3-pt jump shot from 24 ft,78,86
+3,0:30.0,Defensive rebound by D. Harris,,78,86
+3,0:18.0,D. Powell misses 2-pt jump shot from 7 ft (block by J. Crowder),,78,86
+3,0:15.0,,Defensive rebound by R. O'Neale,78,86
+3,0:08.0,,R. O'Neale misses 3-pt jump shot from 24 ft,78,86
+3,0:03.0,Defensive rebound by D. Powell,,78,86
+3,0:01.0,T. Burke misses 3-pt jump shot from 33 ft,,78,86
+3,0:01.0,Offensive rebound by Team,,78,86
+4,11:47.0,D. Nowitzki makes 2-pt jump shot from 17 ft (assist by D. Harris),,80,86
+4,11:28.0,,K. Korver misses 3-pt jump shot from 24 ft,80,86
+4,11:24.0,Defensive rebound by T. Burke,,80,86
+4,11:14.0,D. Nowitzki misses 3-pt jump shot from 27 ft,,80,86
+4,11:10.0,,Defensive rebound by J. Crowder,80,86
+4,10:59.0,,D. Favors misses 2-pt jump shot from 10 ft,80,86
+4,10:56.0,,Offensive rebound by Team,80,86
+4,10:56.0,,R. Rubio enters the game for K. Korver,80,86
+4,10:52.0,,J. Crowder misses 3-pt jump shot from 26 ft,80,86
+4,10:49.0,Defensive rebound by D. Harris,,80,86
+4,10:49.0,Personal foul by J. Crowder (drawn by D. Powell),,80,86
+4,10:42.0,D. Nowitzki makes 3-pt jump shot from 25 ft (assist by T. Burke),,83,86
+4,10:28.0,,Personal foul by J. Jackson (drawn by J. Ingles),83,86
+4,10:22.0,,J. Ingles makes 3-pt jump shot from 26 ft (assist by R. Rubio),83,89
+4,10:04.0,D. Harris misses 2-pt jump shot from 8 ft (block by R. O'Neale),,83,89
+4,10:01.0,,Defensive rebound by D. Favors,83,89
+4,9:59.0,,J. Crowder makes 2-pt layup from 2 ft (assist by J. Ingles),83,91
+4,9:59.0,Violation by Team (def goaltending),,83,91
+4,9:59.0,Dallas full timeout,,83,91
+4,9:38.0,T. Burke makes 3-pt jump shot from 26 ft (assist by J. Jackson),,86,91
+4,9:20.0,,D. Favors makes 2-pt dunk from 2 ft (assist by J. Ingles),86,93
+4,9:03.0,D. Nowitzki misses 2-pt jump shot from 21 ft,,86,93
+4,9:00.0,,Defensive rebound by D. Favors,86,93
+4,8:51.0,,Personal foul by D. Harris (drawn by D. Favors),86,93
+4,8:51.0,D. Finney-Smith enters the game for D. Nowitzki,,86,93
+4,8:51.0,S. Mejri enters the game for D. Powell,,86,93
+4,8:51.0,,T. Sefolosha enters the game for J. Crowder,86,93
+4,8:43.0,,J. Ingles makes 3-pt jump shot from 25 ft (assist by R. Rubio),86,96
+4,8:40.0,Dallas full timeout,,86,96
+4,8:40.0,T. Hardaway enters the game for D. Harris,,86,96
+4,8:40.0,,R. Gobert enters the game for D. Favors,86,96
+4,8:40.0,,D. Mitchell enters the game for R. O'Neale,86,96
+4,8:34.0,Personal foul by D. Mitchell (drawn by J. Jackson),,86,96
+4,8:18.0,S. Mejri misses 3-pt jump shot from 25 ft,,86,96
+4,8:15.0,,Defensive rebound by J. Ingles,86,96
+4,8:00.0,,R. Gobert makes 2-pt layup from 2 ft (assist by T. Sefolosha),86,98
+4,7:48.0,T. Burke misses 3-pt jump shot from 25 ft,,86,98
+4,7:45.0,,Defensive rebound by R. Gobert,86,98
+4,7:32.0,,D. Mitchell misses 2-pt jump shot from 9 ft,86,98
+4,7:29.0,Defensive rebound by T. Burke,,86,98
+4,7:24.0,S. Mejri misses 2-pt layup from 2 ft (block by D. Mitchell),,86,98
+4,7:23.0,Offensive rebound by S. Mejri,,86,98
+4,7:23.0,Shooting foul by J. Ingles (drawn by S. Mejri),,86,98
+4,7:23.0,Offensive rebound by Team,,86,98
+4,7:23.0,S. Mejri misses free throw 1 of 2,,86,98
+4,7:23.0,J. Brunson enters the game for T. Burke,,86,98
+4,7:23.0,S. Mejri makes free throw 2 of 2,,87,98
+4,7:14.0,,Personal foul by T. Hardaway (drawn by R. Gobert),87,98
+4,7:00.0,,Shooting foul by S. Mejri (drawn by D. Mitchell),87,98
+4,7:00.0,,D. Mitchell makes free throw 1 of 2,87,99
+4,7:00.0,,D. Mitchell makes free throw 2 of 2,87,100
+4,6:42.0,J. Brunson misses 2-pt jump shot from 5 ft (block by R. Gobert),,87,100
+4,6:40.0,,Defensive rebound by J. Ingles,87,100
+4,6:34.0,,J. Ingles makes 3-pt jump shot from 24 ft,87,103
+4,6:19.0,Shooting foul by J. Ingles (drawn by T. Hardaway),,87,103
+4,6:19.0,T. Hardaway makes free throw 1 of 3,,88,103
+4,6:19.0,T. Hardaway makes free throw 2 of 3,,89,103
+4,6:19.0,R. Broekhoff enters the game for J. Jackson,,89,103
+4,6:19.0,D. Powell enters the game for S. Mejri,,89,103
+4,6:19.0,T. Hardaway makes free throw 3 of 3,,90,103
+4,6:11.0,,Personal foul by J. Brunson (drawn by J. Ingles),90,103
+4,6:11.0,,J. Ingles misses free throw 1 of 2,90,103
+4,6:11.0,,Offensive rebound by Team,90,103
+4,6:11.0,,J. Ingles makes free throw 2 of 2,90,104
+4,5:51.0,Turnover by D. Powell (bad pass; steal by J. Ingles),,90,104
+4,5:48.0,,J. Ingles makes 3-pt jump shot from 25 ft,90,107
+4,5:45.0,Dallas full timeout,,90,107
+4,5:45.0,C. Lee enters the game for T. Hardaway,,90,107
+4,5:33.0,D. Powell makes 2-pt dunk from 2 ft (assist by R. Broekhoff),,92,107
+4,5:25.0,,Personal foul by J. Brunson (drawn by R. Rubio),92,107
+4,5:25.0,,R. Rubio makes free throw 1 of 2,92,108
+4,5:25.0,,R. Rubio makes free throw 2 of 2,92,109
+4,5:08.0,R. Broekhoff makes 3-pt jump shot from 25 ft (assist by D. Powell),,95,109
+4,4:49.0,,Offensive foul by R. Gobert (drawn by C. Lee),95,109
+4,4:49.0,,Turnover by R. Gobert (offensive foul),95,109
+4,4:37.0,Personal foul by D. Mitchell (drawn by D. Finney-Smith),,95,109
+4,4:37.0,Offensive rebound by Team,,95,109
+4,4:37.0,D. Finney-Smith misses free throw 1 of 2,,95,109
+4,4:37.0,D. Finney-Smith misses free throw 2 of 2,,95,109
+4,4:35.0,,Defensive rebound by R. Gobert,95,109
+4,4:17.0,,D. Mitchell misses 3-pt jump shot from 25 ft,95,109
+4,4:15.0,Defensive rebound by D. Finney-Smith,,95,109
+4,4:07.0,J. Brunson makes 3-pt jump shot from 25 ft (assist by D. Powell),,98,109
+4,3:47.0,,R. Rubio makes 2-pt jump shot from 16 ft (assist by D. Mitchell),98,111
+4,3:34.0,J. Brunson makes 2-pt jump shot from 18 ft,,100,111
+4,3:18.0,,D. Mitchell misses 2-pt jump shot from 9 ft,100,111
+4,3:15.0,Defensive rebound by D. Powell,,100,111
+4,3:04.0,J. Brunson misses 3-pt jump shot from 25 ft,,100,111
+4,3:03.0,,Defensive rebound by T. Sefolosha,100,111
+4,3:03.0,,Utah full timeout,100,111
+4,3:03.0,T. Burke enters the game for J. Brunson,,100,111
+4,3:03.0,J. Jackson enters the game for D. Finney-Smith,,100,111
+4,3:03.0,,J. Crowder enters the game for T. Sefolosha,100,111
+4,2:47.0,,Personal foul by C. Lee (drawn by R. Rubio),100,111
+4,2:47.0,,R. Rubio makes free throw 1 of 2,100,112
+4,2:47.0,,R. Rubio makes free throw 2 of 2,100,113
+4,2:36.0,J. Jackson makes 3-pt jump shot from 24 ft (assist by T. Burke),,103,113
+4,2:18.0,,Shooting foul by D. Powell (drawn by R. Gobert),103,113
+4,2:18.0,,R. Gobert makes free throw 1 of 2,103,114
+4,2:18.0,,R. Gobert makes free throw 2 of 2,103,115
+4,2:09.0,D. Powell misses 2-pt layup from 4 ft,,103,115
+4,2:08.0,,Defensive rebound by R. Rubio,103,115
+4,2:08.0,,Personal foul by D. Powell (drawn by R. Rubio),103,115
+4,2:08.0,,R. Rubio makes free throw 1 of 2,103,116
+4,2:08.0,,R. Rubio makes free throw 2 of 2,103,117
+4,2:01.0,T. Burke makes 2-pt jump shot from 15 ft,,105,117
+4,1:41.0,,R. Rubio misses 3-pt jump shot from 26 ft,105,117
+4,1:38.0,Defensive rebound by R. Broekhoff,,105,117
+4,1:28.0,D. Powell misses 2-pt hook shot from 4 ft,,105,117
+4,1:26.0,,Defensive rebound by D. Mitchell,105,117
+4,1:21.0,,D. Mitchell makes 2-pt layup from 1 ft,105,119
+4,1:14.0,Shooting foul by R. Rubio (drawn by T. Burke),,105,119
+4,1:14.0,T. Burke makes free throw 1 of 2,,106,119
+4,1:14.0,T. Burke makes free throw 2 of 2,,107,119
+4,0:51.0,,J. Crowder makes 3-pt jump shot from 25 ft (assist by D. Mitchell),107,122
+4,0:44.0,D. Powell misses 3-pt jump shot from 26 ft,,107,122
+4,0:41.0,,Defensive rebound by R. Gobert,107,122
+4,0:22.0,,D. Mitchell makes 3-pt jump shot from 26 ft,107,125
+4,0:15.0,T. Burke makes 2-pt jump shot from 13 ft,,109,125

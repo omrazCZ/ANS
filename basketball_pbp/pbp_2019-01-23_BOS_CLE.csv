@@ -1,0 +1,444 @@
+QUARTER,TIME_REMAINING,CLEVELAND_ACTION,BOSTON_ACTION,CLEVELAND_SCORE,BOSTON_SCORE
+1,11:46.0,,M. Morris misses 2-pt jump shot from 5 ft (block by A. Burks),0,0
+1,11:44.0,Defensive rebound by A. Žižić,,0,0
+1,11:24.0,Turnover by A. Burks (lost ball; steal by M. Morris),,0,0
+1,11:09.0,,J. Tatum misses 2-pt jump shot from 20 ft,0,0
+1,11:07.0,Defensive rebound by R. Hood,,0,0
+1,10:48.0,R. Hood misses 2-pt jump shot from 17 ft,,0,0
+1,10:46.0,,Defensive rebound by A. Baynes,0,0
+1,10:38.0,,M. Morris misses 3-pt jump shot from 26 ft,0,0
+1,10:36.0,Defensive rebound by C. Sexton,,0,0
+1,10:28.0,A. Žižić misses 2-pt layup from 2 ft,,0,0
+1,10:28.0,Offensive rebound by C. Sexton,,0,0
+1,10:26.0,C. Sexton makes 2-pt layup from 1 ft,,2,0
+1,10:15.0,,J. Tatum misses 2-pt jump shot from 18 ft,2,0
+1,10:15.0,Defensive rebound by A. Burks,,2,0
+1,10:01.0,A. Žižić makes 2-pt layup from 3 ft,,4,0
+1,9:52.0,,T. Rozier makes 3-pt jump shot from 27 ft,4,3
+1,9:32.0,Turnover by C. Sexton (out of bounds lost ball),,4,3
+1,9:23.0,,T. Rozier makes 2-pt layup from 1 ft,4,5
+1,9:23.0,,Shooting foul by A. Burks (drawn by T. Rozier),4,5
+1,9:23.0,,T. Rozier makes free throw 1 of 1,4,6
+1,9:05.0,A. Burks misses 3-pt jump shot from 26 ft,,4,6
+1,9:03.0,,Defensive rebound by T. Rozier,4,6
+1,8:50.0,,A. Baynes misses 2-pt layup from 4 ft (block by A. Burks),4,6
+1,8:48.0,Defensive rebound by A. Burks,,4,6
+1,8:41.0,C. Sexton misses 2-pt layup from 2 ft,,4,6
+1,8:39.0,Offensive rebound by A. Žižić,,4,6
+1,8:39.0,A. Žižić misses 2-pt layup from 1 ft,,4,6
+1,8:37.0,,Defensive rebound by M. Morris,4,6
+1,8:21.0,,J. Tatum misses 2-pt jump shot from 10 ft,4,6
+1,8:19.0,Defensive rebound by A. Burks,,4,6
+1,8:15.0,C. Sexton makes 2-pt layup from 1 ft (assist by A. Burks),,6,6
+1,7:57.0,,M. Morris misses 2-pt jump shot from 16 ft,6,6
+1,7:56.0,Defensive rebound by A. Burks,,6,6
+1,7:46.0,C. Osman makes 3-pt jump shot from 24 ft (assist by C. Sexton),,9,6
+1,7:31.0,,T. Rozier makes 2-pt layup from 2 ft (assist by M. Morris),9,8
+1,7:08.0,R. Hood misses 3-pt jump shot from 25 ft,,9,8
+1,7:06.0,,Defensive rebound by J. Tatum,9,8
+1,7:01.0,,J. Tatum makes 2-pt layup from 1 ft,9,10
+1,6:39.0,Turnover by C. Sexton (bad pass; steal by T. Rozier),,9,10
+1,6:39.0,,Personal take foul by R. Hood (drawn by T. Rozier),9,10
+1,6:39.0,,Boston full timeout,9,10
+1,6:30.0,,Turnover by M. Smart (bad pass; steal by A. Burks),9,10
+1,6:25.0,C. Osman makes 2-pt dunk from 1 ft (assist by A. Burks),,11,10
+1,6:10.0,,T. Rozier makes 3-pt jump shot from 26 ft (assist by J. Tatum),11,13
+1,5:49.0,A. Žižić makes 2-pt hook shot from 6 ft (assist by A. Burks),,13,13
+1,5:35.0,,Offensive foul by J. Tatum (drawn by C. Osman),13,13
+1,5:35.0,,Turnover by J. Tatum (offensive foul),13,13
+1,5:35.0,J. Clarkson enters the game for R. Hood,,13,13
+1,5:35.0,,J. Brown enters the game for M. Morris,13,13
+1,5:35.0,,G. Hayward enters the game for M. Smart,13,13
+1,5:15.0,C. Sexton makes 2-pt layup from 2 ft,,15,13
+1,5:02.0,,Def 3 sec tech foul by Team,15,13
+1,5:02.0,,Boston full timeout,15,13
+1,5:02.0,,R. Williams enters the game for A. Baynes,15,13
+1,5:02.0,,T. Rozier makes technical free throw,15,14
+1,4:51.0,,T. Rozier makes 2-pt layup from 1 ft,15,16
+1,4:30.0,A. Žižić makes 2-pt hook shot from 4 ft,,17,16
+1,4:13.0,,Shooting foul by A. Burks (drawn by J. Brown),17,16
+1,4:13.0,,J. Brown misses free throw 1 of 2,17,16
+1,4:13.0,,Offensive rebound by Team,17,16
+1,4:13.0,M. Dellavedova enters the game for A. Burks,,17,16
+1,4:13.0,C. Payne enters the game for C. Sexton,,17,16
+1,4:13.0,,J. Brown makes free throw 2 of 2,17,17
+1,3:56.0,J. Clarkson makes 2-pt layup from 2 ft,,19,17
+1,3:50.0,,Shooting foul by C. Osman (drawn by J. Brown),19,17
+1,3:50.0,,J. Brown makes free throw 1 of 2,19,18
+1,3:50.0,C. Frye enters the game for A. Žižić,,19,18
+1,3:50.0,,D. Theis enters the game for R. Williams,19,18
+1,3:50.0,,J. Brown makes free throw 2 of 2,19,19
+1,3:34.0,J. Clarkson misses 2-pt jump shot from 11 ft,,19,19
+1,3:32.0,,Defensive rebound by T. Rozier,19,19
+1,3:26.0,,T. Rozier makes 2-pt jump shot from 11 ft,19,21
+1,3:17.0,Turnover by C. Payne (step out of bounds),,19,21
+1,3:17.0,J. Blossomgame enters the game for C. Osman,,19,21
+1,3:08.0,,Turnover by T. Rozier (discontinued dribble),19,21
+1,2:45.0,J. Blossomgame makes 3-pt jump shot from 25 ft (assist by J. Clarkson),,22,21
+1,2:36.0,,J. Brown misses 2-pt layup from 2 ft,22,21
+1,2:34.0,Defensive rebound by C. Frye,,22,21
+1,2:28.0,M. Dellavedova misses 3-pt jump shot from 25 ft,,22,21
+1,2:26.0,,Defensive rebound by J. Brown,22,21
+1,2:14.0,,G. Hayward makes 2-pt jump shot from 14 ft (assist by D. Theis),22,23
+1,2:05.0,J. Clarkson makes 3-pt jump shot from 24 ft (assist by C. Payne),,25,23
+1,1:47.0,,G. Hayward makes 2-pt jump shot from 12 ft (assist by T. Rozier),25,25
+1,1:32.0,C. Frye makes 2-pt hook shot from 8 ft,,27,25
+1,1:21.0,,Offensive foul by G. Hayward (drawn by M. Dellavedova),27,25
+1,1:21.0,,Turnover by G. Hayward (offensive foul),27,25
+1,1:15.0,Personal foul by J. Brown (drawn by J. Clarkson),,27,25
+1,1:09.0,J. Clarkson makes 3-pt jump shot from 27 ft (assist by M. Dellavedova),,30,25
+1,0:46.0,,Turnover by T. Rozier (bad pass),30,25
+1,0:36.0,J. Clarkson misses 3-pt jump shot from 26 ft,,30,25
+1,0:34.0,,Defensive rebound by T. Rozier,30,25
+1,0:16.0,,J. Brown makes 2-pt jump shot from 6 ft (assist by J. Tatum),30,27
+1,0:01.0,J. Clarkson misses 3-pt jump shot from 26 ft,,30,27
+1,0:00.0,Offensive rebound by Team,,30,27
+2,11:45.0,M. Dellavedova makes 2-pt jump shot from 2 ft,,32,27
+2,11:25.0,,D. Theis makes 2-pt dunk from 2 ft (assist by B. Wanamaker),32,29
+2,11:11.0,J. Blossomgame misses 2-pt layup from 2 ft,,32,29
+2,11:10.0,Offensive rebound by J. Blossomgame,,32,29
+2,11:10.0,J. Blossomgame makes 2-pt layup from 1 ft,,34,29
+2,10:51.0,,M. Morris misses 3-pt jump shot from 26 ft,34,29
+2,10:50.0,Defensive rebound by Team,,34,29
+2,10:42.0,Turnover by M. Dellavedova (bad pass; steal by G. Hayward),,34,29
+2,10:36.0,,Personal foul by M. Dellavedova (drawn by G. Hayward),34,29
+2,10:26.0,,D. Theis misses 2-pt jump shot from 9 ft,34,29
+2,10:24.0,Defensive rebound by C. Frye,,34,29
+2,10:07.0,C. Frye misses 3-pt jump shot from 23 ft,,34,29
+2,10:05.0,,Defensive rebound by J. Brown,34,29
+2,10:01.0,,Shooting foul by C. Frye (drawn by J. Brown),34,29
+2,10:01.0,,J. Brown makes free throw 1 of 2,34,30
+2,10:01.0,,J. Brown makes free throw 2 of 2,34,31
+2,9:50.0,C. Frye misses 3-pt jump shot from 25 ft,,34,31
+2,9:48.0,,Defensive rebound by G. Hayward,34,31
+2,9:44.0,,Personal foul by C. Frye (drawn by D. Theis),34,31
+2,9:44.0,A. Žižić enters the game for C. Frye,,34,31
+2,9:40.0,,Shooting foul by A. Žižić (drawn by G. Hayward),34,31
+2,9:40.0,,G. Hayward makes free throw 1 of 2,34,32
+2,9:40.0,,G. Hayward makes free throw 2 of 2,34,33
+2,9:29.0,Personal foul by B. Wanamaker (drawn by A. Žižić),,34,33
+2,9:20.0,Turnover by M. Dellavedova (bad pass; steal by G. Hayward),,34,33
+2,9:10.0,,Offensive foul by M. Morris (drawn by M. Dellavedova),34,33
+2,9:10.0,,Turnover by M. Morris (offensive foul),34,33
+2,9:10.0,,M. Smart enters the game for G. Hayward,34,33
+2,9:10.0,,Violation by Team (delay of game),34,33
+2,8:52.0,A. Žižić makes 2-pt layup from 2 ft,,36,33
+2,8:52.0,Shooting foul by D. Theis (drawn by A. Žižić),,36,33
+2,8:52.0,C. Sexton enters the game for M. Dellavedova,,36,33
+2,8:52.0,A. Žižić misses free throw 1 of 1,,36,33
+2,8:52.0,,Defensive rebound by D. Theis,36,33
+2,8:41.0,,J. Brown makes 2-pt layup from 2 ft (assist by D. Theis),36,35
+2,8:22.0,Turnover by A. Žižić (lost ball; steal by D. Theis),,36,35
+2,8:17.0,,B. Wanamaker makes 3-pt jump shot from 25 ft (assist by D. Theis),36,38
+2,8:16.0,Cleveland full timeout,,36,38
+2,8:16.0,A. Burks enters the game for J. Clarkson,,36,38
+2,8:16.0,R. Hood enters the game for C. Payne,,36,38
+2,8:16.0,,A. Baynes enters the game for D. Theis,36,38
+2,7:52.0,R. Hood makes 3-pt jump shot from 24 ft,,39,38
+2,7:36.0,,B. Wanamaker misses 2-pt jump shot from 19 ft,39,38
+2,7:34.0,Defensive rebound by A. Burks,,39,38
+2,7:18.0,A. Žižić misses 2-pt layup from 3 ft (block by B. Wanamaker),,39,38
+2,7:16.0,,Defensive rebound by A. Baynes,39,38
+2,7:14.0,,M. Morris misses 2-pt layup from 3 ft (block by J. Blossomgame),39,38
+2,7:12.0,,Offensive rebound by M. Morris,39,38
+2,7:08.0,,M. Smart misses 3-pt jump shot from 27 ft,39,38
+2,7:08.0,Defensive rebound by Team,,39,38
+2,6:48.0,C. Sexton misses 2-pt jump shot from 6 ft,,39,38
+2,6:45.0,,Defensive rebound by J. Brown,39,38
+2,6:39.0,,J. Brown misses 3-pt jump shot from 26 ft,39,38
+2,6:39.0,,Offensive rebound by A. Baynes,39,38
+2,6:35.0,,M. Smart makes 3-pt jump shot from 23 ft (assist by M. Morris),39,41
+2,6:05.0,C. Sexton misses 2-pt jump shot from 10 ft,,39,41
+2,6:04.0,,Defensive rebound by M. Morris,39,41
+2,5:55.0,,M. Morris makes 2-pt jump shot from 18 ft (assist by A. Baynes),39,43
+2,5:54.0,Cleveland full timeout,,39,43
+2,5:41.0,Turnover by A. Burks (bad pass; steal by M. Smart),,39,43
+2,5:39.0,,Shooting foul by R. Hood (drawn by B. Wanamaker),39,43
+2,5:39.0,,B. Wanamaker makes free throw 1 of 2,39,44
+2,5:39.0,,B. Wanamaker makes free throw 2 of 2,39,45
+2,5:20.0,R. Hood misses 2-pt jump shot from 21 ft,,39,45
+2,5:18.0,,Defensive rebound by B. Wanamaker,39,45
+2,5:12.0,,B. Wanamaker makes 3-pt jump shot from 26 ft,39,48
+2,4:55.0,Turnover by A. Žižić (3 sec),,39,48
+2,4:55.0,,J. Tatum enters the game for J. Brown,39,48
+2,4:41.0,,Turnover by M. Smart (bad pass; steal by A. Burks),39,48
+2,4:31.0,A. Žižić makes 2-pt dunk from 2 ft (assist by A. Burks),,41,48
+2,4:11.0,,A. Baynes makes 2-pt dunk from 1 ft (assist by M. Smart),41,50
+2,3:58.0,Turnover by A. Žižić (lost ball; steal by M. Morris),,41,50
+2,3:52.0,,J. Tatum makes 2-pt dunk from 2 ft (assist by B. Wanamaker),41,52
+2,3:42.0,Personal foul by M. Smart (drawn by C. Sexton),,41,52
+2,3:42.0,,T. Rozier enters the game for B. Wanamaker,41,52
+2,3:26.0,R. Hood misses 2-pt jump shot from 8 ft (block by M. Morris),,41,52
+2,3:26.0,Offensive rebound by Team,,41,52
+2,3:26.0,Turnover by Team (shot clock),,41,52
+2,3:26.0,J. Clarkson enters the game for J. Blossomgame,,41,52
+2,3:26.0,C. Osman enters the game for A. Burks,,41,52
+2,3:26.0,Violation by Team (delay of game),,41,52
+2,3:14.0,,J. Tatum makes 2-pt layup from 1 ft (assist by T. Rozier),41,54
+2,2:57.0,C. Osman misses 3-pt jump shot from 27 ft,,41,54
+2,2:52.0,,Defensive rebound by A. Baynes,41,54
+2,2:50.0,,J. Tatum misses 2-pt jump shot from 17 ft,41,54
+2,2:50.0,Defensive rebound by C. Osman,,41,54
+2,2:35.0,Personal foul by A. Baynes (drawn by C. Sexton),,41,54
+2,2:35.0,J. Blossomgame enters the game for R. Hood,,41,54
+2,2:35.0,,G. Hayward enters the game for M. Morris,41,54
+2,2:23.0,C. Osman misses 2-pt jump shot from 8 ft,,41,54
+2,2:23.0,Offensive rebound by A. Žižić,,41,54
+2,2:23.0,A. Žižić makes 2-pt layup from 2 ft,,43,54
+2,2:14.0,,M. Smart makes 3-pt jump shot from 23 ft (assist by T. Rozier),43,57
+2,1:59.0,C. Osman makes 3-pt jump shot from 25 ft (assist by C. Sexton),,46,57
+2,1:42.0,,M. Smart misses 3-pt jump shot from 27 ft,46,57
+2,1:40.0,,Offensive rebound by A. Baynes,46,57
+2,1:38.0,,M. Smart misses 3-pt jump shot from 24 ft,46,57
+2,1:36.0,Defensive rebound by J. Blossomgame,,46,57
+2,1:34.0,Turnover by C. Sexton (out of bounds lost ball),,46,57
+2,1:12.0,,T. Rozier makes 3-pt jump shot from 23 ft (assist by M. Smart),46,60
+2,0:58.0,Turnover by J. Blossomgame (bad pass; steal by J. Tatum),,46,60
+2,0:56.0,,J. Tatum makes 2-pt dunk from 1 ft,46,62
+2,0:37.0,J. Blossomgame misses 3-pt jump shot from 23 ft,,46,62
+2,0:35.0,Offensive rebound by A. Žižić,,46,62
+2,0:33.0,A. Žižić makes 2-pt hook shot from 5 ft,,48,62
+2,0:22.0,,J. Tatum misses 2-pt hook shot from 4 ft,48,62
+2,0:21.0,,Offensive rebound by Team,48,62
+2,0:21.0,,Turnover by J. Tatum (traveling),48,62
+2,0:07.0,Personal foul by J. Tatum (drawn by C. Osman),,48,62
+2,0:07.0,C. Osman makes free throw 1 of 2,,49,62
+2,0:07.0,C. Osman makes free throw 2 of 2,,50,62
+2,0:00.0,,T. Rozier makes 3-pt jump shot from 31 ft,50,65
+3,11:38.0,R. Hood misses 2-pt jump shot from 9 ft,,50,65
+3,11:36.0,,Defensive rebound by T. Rozier,50,65
+3,11:23.0,,M. Smart misses 3-pt jump shot from 25 ft,50,65
+3,11:21.0,Defensive rebound by R. Hood,,50,65
+3,11:11.0,R. Hood misses 3-pt jump shot from 23 ft,,50,65
+3,11:09.0,,Defensive rebound by M. Smart,50,65
+3,11:01.0,,J. Tatum misses 2-pt jump shot from 10 ft,50,65
+3,10:58.0,Defensive rebound by A. Burks,,50,65
+3,10:50.0,A. Burks makes 2-pt layup from 1 ft,,52,65
+3,10:34.0,,A. Baynes misses 2-pt layup from 2 ft,52,65
+3,10:32.0,Defensive rebound by C. Osman,,52,65
+3,10:26.0,Turnover by C. Osman (traveling),,52,65
+3,10:11.0,,T. Rozier misses 2-pt layup from 3 ft,52,65
+3,10:09.0,Defensive rebound by A. Burks,,52,65
+3,9:58.0,C. Sexton misses 2-pt layup from 6 ft,,52,65
+3,9:57.0,,Defensive rebound by A. Baynes,52,65
+3,9:52.0,,M. Morris makes 3-pt jump shot from 25 ft (assist by T. Rozier),52,68
+3,9:38.0,C. Sexton misses 2-pt jump shot from 19 ft,,52,68
+3,9:37.0,Offensive rebound by Team,,52,68
+3,9:37.0,,Loose ball foul by A. Baynes (drawn by A. Žižić),52,68
+3,9:25.0,R. Hood misses 2-pt jump shot from 19 ft,,52,68
+3,9:23.0,,Defensive rebound by A. Baynes,52,68
+3,9:11.0,,M. Morris makes 2-pt hook shot from 2 ft,52,70
+3,8:43.0,C. Sexton misses 2-pt layup from 5 ft,,52,70
+3,8:42.0,Offensive rebound by A. Žižić,,52,70
+3,8:41.0,Shooting foul by A. Baynes (drawn by A. Žižić),,52,70
+3,8:41.0,A. Žižić makes free throw 1 of 2,,53,70
+3,8:41.0,A. Žižić misses free throw 2 of 2,,53,70
+3,8:39.0,,Defensive rebound by A. Baynes,53,70
+3,8:28.0,,T. Rozier misses 3-pt jump shot from 25 ft,53,70
+3,8:25.0,Defensive rebound by C. Osman,,53,70
+3,8:15.0,A. Burks makes 2-pt jump shot from 7 ft,,55,70
+3,7:56.0,,J. Tatum makes 2-pt jump shot from 1 ft,55,72
+3,7:40.0,Turnover by A. Žižić (bad pass; steal by J. Tatum),,55,72
+3,7:37.0,,J. Tatum makes 2-pt dunk from 2 ft,55,74
+3,7:23.0,C. Osman makes 3-pt jump shot from 25 ft (assist by A. Burks),,58,74
+3,7:07.0,,M. Morris misses 3-pt jump shot from 23 ft,58,74
+3,7:05.0,Defensive rebound by R. Hood,,58,74
+3,6:55.0,,Boston full timeout,58,74
+3,6:55.0,,R. Williams enters the game for A. Baynes,58,74
+3,6:47.0,A. Burks misses 2-pt jump shot from 19 ft,,58,74
+3,6:44.0,Offensive rebound by A. Žižić,,58,74
+3,6:44.0,A. Žižić misses 2-pt layup from 3 ft,,58,74
+3,6:44.0,Offensive rebound by A. Burks,,58,74
+3,6:44.0,Shooting foul by R. Williams (drawn by A. Burks),,58,74
+3,6:44.0,A. Burks misses free throw 1 of 2,,58,74
+3,6:44.0,Offensive rebound by Team,,58,74
+3,6:44.0,A. Burks makes free throw 2 of 2,,59,74
+3,6:33.0,,M. Smart misses 2-pt jump shot from 5 ft,59,74
+3,6:31.0,Defensive rebound by A. Žižić,,59,74
+3,6:20.0,Offensive foul by A. Žižić (drawn by T. Rozier),,59,74
+3,6:20.0,Turnover by A. Žižić (offensive foul),,59,74
+3,6:05.0,,J. Tatum misses 2-pt jump shot from 8 ft,59,74
+3,6:03.0,,Offensive rebound by T. Rozier,59,74
+3,6:00.0,,Shooting foul by C. Osman (drawn by M. Smart),59,74
+3,6:00.0,,M. Smart makes free throw 1 of 3,59,75
+3,6:00.0,,M. Smart makes free throw 2 of 3,59,76
+3,6:00.0,,M. Smart makes free throw 3 of 3,59,77
+3,5:40.0,A. Burks misses 2-pt layup from 4 ft,,59,77
+3,5:36.0,Offensive rebound by A. Žižić,,59,77
+3,5:36.0,A. Žižić makes 2-pt layup at rim,,61,77
+3,5:26.0,,M. Morris makes 2-pt dunk from 2 ft (assist by M. Smart),61,79
+3,5:12.0,C. Sexton makes 3-pt jump shot from 23 ft (assist by A. Burks),,64,79
+3,5:04.0,,Personal foul by C. Sexton (drawn by T. Rozier),64,79
+3,5:04.0,J. Clarkson enters the game for R. Hood,,64,79
+3,5:04.0,,J. Brown enters the game for T. Rozier,64,79
+3,5:04.0,,G. Hayward enters the game for J. Tatum,64,79
+3,4:53.0,,M. Morris makes 2-pt layup from 1 ft,64,81
+3,4:44.0,Shooting foul by M. Morris (drawn by A. Burks),,64,81
+3,4:44.0,A. Burks makes free throw 1 of 2,,65,81
+3,4:44.0,C. Frye enters the game for A. Žižić,,65,81
+3,4:44.0,A. Burks makes free throw 2 of 2,,66,81
+3,4:30.0,,J. Brown makes 3-pt jump shot from 25 ft (assist by M. Morris),66,84
+3,4:06.0,C. Sexton misses 3-pt jump shot from 26 ft,,66,84
+3,4:04.0,,Defensive rebound by J. Brown,66,84
+3,3:59.0,,M. Morris misses 3-pt jump shot from 26 ft,66,84
+3,3:57.0,Defensive rebound by C. Osman,,66,84
+3,3:52.0,Personal foul by R. Williams (drawn by C. Osman),,66,84
+3,3:52.0,C. Osman misses free throw 1 of 2,,66,84
+3,3:52.0,Offensive rebound by Team,,66,84
+3,3:52.0,M. Dellavedova enters the game for C. Sexton,,66,84
+3,3:52.0,C. Osman makes free throw 2 of 2,,67,84
+3,3:40.0,,R. Williams makes 2-pt dunk from 2 ft (assist by M. Smart),67,86
+3,3:28.0,C. Osman makes 3-pt jump shot from 27 ft (assist by C. Frye),,70,86
+3,3:17.0,,G. Hayward misses 3-pt jump shot from 25 ft,70,86
+3,3:15.0,Defensive rebound by C. Frye,,70,86
+3,3:08.0,J. Clarkson misses 3-pt jump shot from 26 ft,,70,86
+3,3:07.0,,Defensive rebound by G. Hayward,70,86
+3,3:02.0,,J. Brown misses 2-pt jump shot from 5 ft,70,86
+3,2:59.0,Defensive rebound by A. Burks,,70,86
+3,2:54.0,A. Burks misses 2-pt layup from 2 ft (block by R. Williams),,70,86
+3,2:54.0,Offensive rebound by C. Osman,,70,86
+3,2:49.0,A. Burks makes 3-pt jump shot from 23 ft (assist by C. Osman),,73,86
+3,2:28.0,,Turnover by M. Smart (bad pass),73,86
+3,2:28.0,Cleveland full timeout,,73,86
+3,2:28.0,J. Blossomgame enters the game for A. Burks,,73,86
+3,2:28.0,,T. Rozier enters the game for M. Morris,73,86
+3,2:28.0,,J. Tatum enters the game for M. Smart,73,86
+3,2:08.0,J. Clarkson misses 3-pt jump shot from 24 ft,,73,86
+3,2:04.0,,Defensive rebound by T. Rozier,73,86
+3,1:53.0,,G. Hayward makes 2-pt layup from 1 ft (assist by R. Williams),73,88
+3,1:32.0,J. Clarkson makes 2-pt hook shot from 5 ft (assist by C. Frye),,75,88
+3,1:11.0,,T. Rozier makes 2-pt jump shot from 5 ft (assist by J. Tatum),75,90
+3,1:03.0,Shooting foul by R. Williams (drawn by M. Dellavedova),,75,90
+3,1:03.0,M. Dellavedova makes free throw 1 of 3,,76,90
+3,1:03.0,M. Dellavedova makes free throw 2 of 3,,77,90
+3,1:03.0,C. Payne enters the game for C. Osman,,77,90
+3,1:03.0,M. Dellavedova makes free throw 3 of 3,,78,90
+3,0:47.0,,J. Brown makes 2-pt jump shot from 7 ft,78,92
+3,0:30.0,J. Clarkson misses 3-pt jump shot from 26 ft (block by R. Williams),,78,92
+3,0:28.0,,Defensive rebound by J. Brown,78,92
+3,0:21.0,,T. Rozier misses 2-pt jump shot from 13 ft,78,92
+3,0:19.0,Defensive rebound by J. Blossomgame,,78,92
+3,0:00.0,J. Clarkson makes 2-pt layup from 1 ft,,80,92
+4,11:43.0,,G. Hayward makes 2-pt layup from 1 ft,80,94
+4,11:24.0,C. Frye misses 2-pt jump shot from 16 ft,,80,94
+4,11:22.0,,Defensive rebound by J. Brown,80,94
+4,11:11.0,,Personal foul by J. Blossomgame (drawn by G. Hayward),80,94
+4,10:59.0,,J. Tatum misses 2-pt jump shot from 17 ft,80,94
+4,10:55.0,,Offensive rebound by D. Theis,80,94
+4,10:51.0,,J. Brown makes 2-pt jump shot from 9 ft (assist by B. Wanamaker),80,96
+4,10:34.0,J. Clarkson misses 3-pt jump shot from 26 ft,,80,96
+4,10:33.0,,Defensive rebound by B. Wanamaker,80,96
+4,10:20.0,,Turnover by J. Brown (lost ball; steal by C. Payne),80,96
+4,10:17.0,Turnover by J. Blossomgame (step out of bounds),,80,96
+4,10:04.0,,J. Tatum makes 2-pt layup from 2 ft,80,98
+4,10:04.0,,Shooting foul by C. Frye (drawn by J. Tatum),80,98
+4,10:04.0,,J. Tatum makes free throw 1 of 1,80,99
+4,10:04.0,Cleveland full timeout,,80,99
+4,10:04.0,C. Osman enters the game for J. Blossomgame,,80,99
+4,9:49.0,C. Frye misses 2-pt hook shot from 3 ft,,80,99
+4,9:47.0,,Defensive rebound by D. Theis,80,99
+4,9:43.0,,Turnover by G. Hayward (bad pass; steal by C. Payne),80,99
+4,9:34.0,Turnover by C. Payne (bad pass; steal by J. Tatum),,80,99
+4,9:32.0,,Turnover by J. Tatum (back court),80,99
+4,9:12.0,J. Clarkson makes 2-pt layup from 2 ft,,82,99
+4,8:56.0,,G. Hayward misses 2-pt jump shot from 4 ft,82,99
+4,8:55.0,,Offensive rebound by G. Hayward,82,99
+4,8:55.0,,G. Hayward misses 2-pt layup from 2 ft,82,99
+4,8:55.0,,Offensive rebound by G. Hayward,82,99
+4,8:55.0,,G. Hayward makes 2-pt layup from 3 ft,82,101
+4,8:55.0,,Shooting foul by C. Osman (drawn by G. Hayward),82,101
+4,8:55.0,,G. Hayward misses free throw 1 of 1,82,101
+4,8:55.0,Defensive rebound by C. Frye,,82,101
+4,8:45.0,C. Osman makes 2-pt layup from 2 ft (assist by M. Dellavedova),,84,101
+4,8:45.0,,Violation by Team (def goaltending),84,101
+4,8:35.0,,J. Brown makes 2-pt jump shot from 7 ft,84,103
+4,8:21.0,J. Clarkson misses 3-pt jump shot from 29 ft,,84,103
+4,8:21.0,,Defensive rebound by J. Tatum,84,103
+4,8:07.0,,J. Tatum misses 2-pt jump shot from 14 ft,84,103
+4,8:07.0,,Offensive rebound by D. Theis,84,103
+4,8:01.0,,D. Theis misses 2-pt layup from 2 ft,84,103
+4,8:01.0,Defensive rebound by C. Frye,,84,103
+4,7:52.0,C. Osman makes 3-pt jump shot from 27 ft (assist by C. Frye),,87,103
+4,7:33.0,,G. Hayward misses 3-pt jump shot from 25 ft,87,103
+4,7:31.0,Defensive rebound by C. Frye,,87,103
+4,7:24.0,Personal foul by B. Wanamaker (drawn by C. Frye),,87,103
+4,7:24.0,R. Hood enters the game for J. Clarkson,,87,103
+4,7:24.0,A. Žižić enters the game for C. Frye,,87,103
+4,7:24.0,,A. Baynes enters the game for J. Tatum,87,103
+4,7:24.0,,T. Rozier enters the game for D. Theis,87,103
+4,7:20.0,M. Dellavedova makes 2-pt jump shot from 18 ft (assist by R. Hood),,89,103
+4,7:05.0,,A. Baynes misses 2-pt jump shot from 19 ft,89,103
+4,7:03.0,Defensive rebound by C. Osman,,89,103
+4,6:50.0,C. Payne misses 2-pt jump shot from 7 ft,,89,103
+4,6:48.0,,Defensive rebound by T. Rozier,89,103
+4,6:42.0,,J. Brown makes 3-pt jump shot from 23 ft (assist by T. Rozier),89,106
+4,6:28.0,Shooting foul by A. Baynes (drawn by C. Payne),,89,106
+4,6:28.0,C. Payne makes free throw 1 of 2,,90,106
+4,6:28.0,C. Sexton enters the game for M. Dellavedova,,90,106
+4,6:28.0,C. Payne makes free throw 2 of 2,,91,106
+4,6:07.0,,Turnover by B. Wanamaker (bad pass),91,106
+4,6:07.0,A. Burks enters the game for C. Payne,,91,106
+4,5:53.0,C. Osman misses 2-pt jump shot from 3 ft,,91,106
+4,5:51.0,,Defensive rebound by T. Rozier,91,106
+4,5:48.0,,Shooting foul by C. Sexton (drawn by T. Rozier),91,106
+4,5:48.0,,T. Rozier makes free throw 1 of 2,91,107
+4,5:48.0,,T. Rozier makes free throw 2 of 2,91,108
+4,5:26.0,Turnover by C. Osman (lost ball; steal by J. Brown),,91,108
+4,5:22.0,,J. Brown misses 2-pt layup from 2 ft,91,108
+4,5:22.0,Defensive rebound by Team,,91,108
+4,5:22.0,,Loose ball foul by J. Brown (drawn by A. Burks),91,108
+4,5:22.0,,R. Williams enters the game for A. Baynes,91,108
+4,5:06.0,Turnover by C. Sexton (traveling),,91,108
+4,4:57.0,,J. Brown makes 2-pt layup at rim (assist by T. Rozier),91,110
+4,4:40.0,A. Žižić misses 2-pt hook shot from 11 ft,,91,110
+4,4:38.0,,Defensive rebound by G. Hayward,91,110
+4,4:33.0,,Personal foul by C. Osman (drawn by G. Hayward),91,110
+4,4:33.0,,G. Hayward makes free throw 1 of 2,91,111
+4,4:33.0,,G. Yabusele enters the game for J. Brown,91,111
+4,4:33.0,,G. Hayward makes free throw 2 of 2,91,112
+4,4:25.0,A. Žižić misses 2-pt layup from 4 ft,,91,112
+4,4:25.0,Offensive rebound by C. Sexton,,91,112
+4,4:25.0,C. Sexton misses 2-pt layup from 5 ft,,91,112
+4,4:25.0,Offensive rebound by C. Sexton,,91,112
+4,4:13.0,C. Osman makes 3-pt jump shot from 26 ft (assist by C. Sexton),,94,112
+4,4:01.0,,Personal foul by R. Hood (drawn by G. Hayward),94,112
+4,4:01.0,,G. Hayward makes free throw 1 of 2,94,113
+4,4:01.0,,G. Hayward makes free throw 2 of 2,94,114
+4,3:47.0,R. Hood misses 2-pt jump shot from 8 ft,,94,114
+4,3:44.0,Offensive rebound by R. Hood,,94,114
+4,3:42.0,C. Sexton makes 3-pt jump shot from 25 ft (assist by R. Hood),,97,114
+4,3:29.0,,T. Rozier misses 2-pt dunk from 2 ft,97,114
+4,3:27.0,Defensive rebound by C. Sexton,,97,114
+4,3:21.0,C. Sexton makes 2-pt jump shot from 5 ft,,99,114
+4,3:07.0,,B. Wanamaker misses 3-pt jump shot from 25 ft,99,114
+4,3:05.0,Defensive rebound by C. Osman,,99,114
+4,2:56.0,A. Burks misses 2-pt jump shot from 9 ft,,99,114
+4,2:54.0,,Defensive rebound by G. Yabusele,99,114
+4,2:47.0,,G. Hayward makes 2-pt layup from 3 ft,99,116
+4,2:43.0,Cleveland full timeout,,99,116
+4,2:43.0,D. Adel enters the game for A. Burks,,99,116
+4,2:43.0,J. Blossomgame enters the game for R. Hood,,99,116
+4,2:43.0,,S. Ojeleye enters the game for G. Hayward,99,116
+4,2:43.0,,D. Theis enters the game for T. Rozier,99,116
+4,2:30.0,A. Žižić misses 2-pt hook shot from 6 ft (block by R. Williams),,99,116
+4,2:26.0,Offensive rebound by C. Sexton,,99,116
+4,2:25.0,C. Sexton misses 3-pt jump shot from 25 ft,,99,116
+4,2:23.0,,Defensive rebound by G. Yabusele,99,116
+4,2:07.0,,G. Yabusele misses 2-pt hook shot from 3 ft (block by D. Adel),99,116
+4,2:05.0,,Offensive rebound by G. Yabusele,99,116
+4,2:03.0,,R. Williams makes 2-pt dunk from 2 ft (assist by G. Yabusele),99,118
+4,1:46.0,A. Žižić misses 2-pt jump shot from 15 ft,,99,118
+4,1:44.0,Offensive rebound by C. Osman,,99,118
+4,1:37.0,A. Žižić makes 2-pt layup from 1 ft (assist by C. Osman),,101,118
+4,1:24.0,,G. Yabusele makes 2-pt hook shot from 4 ft,101,120
+4,1:11.0,Shooting foul by G. Yabusele (drawn by C. Sexton),,101,120
+4,1:11.0,C. Sexton misses free throw 1 of 2,,101,120
+4,1:11.0,Offensive rebound by Team,,101,120
+4,1:11.0,C. Sexton misses free throw 2 of 2,,101,120
+4,1:11.0,,Defensive rebound by D. Theis,101,120
+4,0:56.0,,Turnover by G. Yabusele (bad pass),101,120
+4,0:49.0,Shooting foul by R. Williams (drawn by C. Sexton),,101,120
+4,0:49.0,C. Sexton makes free throw 1 of 2,,102,120
+4,0:49.0,C. Sexton makes free throw 2 of 2,,103,120
+4,0:37.0,,B. Wanamaker makes 3-pt jump shot from 26 ft,103,123
+4,0:22.0,Turnover by C. Osman (bad pass; steal by G. Yabusele),,103,123

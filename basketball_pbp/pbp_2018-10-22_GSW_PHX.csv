@@ -1,0 +1,457 @@
+QUARTER,TIME_REMAINING,PHOENIX_ACTION,GOLDEN STATE_ACTION,PHOENIX_SCORE,GOLDEN STATE_SCORE
+1,11:46.0,,D. Jones makes 2-pt dunk from 2 ft (assist by S. Curry),0,2
+1,11:25.0,D. Ayton misses 2-pt hook shot from 7 ft,,0,2
+1,11:24.0,,Defensive rebound by D. Green,0,2
+1,11:17.0,,S. Curry misses 3-pt jump shot from 27 ft,0,2
+1,11:15.0,,Offensive rebound by D. Jones,0,2
+1,11:06.0,,Turnover by S. Curry (bad pass; steal by I. Canaan),0,2
+1,10:49.0,I. Canaan makes 2-pt layup from 3 ft (assist by D. Ayton),,2,2
+1,10:43.0,,D. Jones makes 2-pt dunk from 2 ft (assist by D. Green),2,4
+1,10:23.0,T. Ariza misses 2-pt jump shot from 10 ft,,2,4
+1,10:22.0,,Defensive rebound by K. Thompson,2,4
+1,10:18.0,,K. Thompson misses 3-pt jump shot from 26 ft,2,4
+1,10:16.0,Defensive rebound by D. Ayton,,2,4
+1,10:06.0,D. Booker makes 2-pt jump shot from 19 ft,,4,4
+1,9:48.0,,K. Thompson misses 3-pt jump shot from 27 ft,4,4
+1,9:46.0,Defensive rebound by T. Ariza,,4,4
+1,9:28.0,D. Booker makes 3-pt jump shot from 27 ft (assist by T. Ariza),,7,4
+1,9:02.0,,S. Curry makes 2-pt layup from 5 ft (assist by K. Thompson),7,6
+1,8:44.0,Turnover by D. Booker (lost ball; steal by S. Curry),,7,6
+1,8:37.0,,K. Durant makes 2-pt dunk from 1 ft (assist by D. Green),7,8
+1,8:12.0,I. Canaan misses 3-pt jump shot from 27 ft,,7,8
+1,8:10.0,,Defensive rebound by D. Jones,7,8
+1,8:06.0,,Personal foul by D. Booker (drawn by K. Durant),7,8
+1,7:57.0,,D. Jones makes 2-pt dunk from 1 ft (assist by S. Curry),7,10
+1,7:40.0,D. Booker misses 3-pt jump shot from 25 ft (block by D. Jones),,7,10
+1,7:38.0,,Defensive rebound by S. Curry,7,10
+1,7:34.0,,K. Durant makes 2-pt dunk from 1 ft (assist by S. Curry),7,12
+1,7:34.0,Phoenix full timeout,,7,12
+1,7:13.0,R. Anderson makes 2-pt jump shot from 20 ft,,9,12
+1,7:00.0,,D. Green misses 3-pt jump shot from 26 ft,9,12
+1,6:58.0,Defensive rebound by T. Ariza,,9,12
+1,6:37.0,D. Ayton makes 2-pt dunk from 3 ft (assist by I. Canaan),,11,12
+1,6:24.0,,S. Curry misses 3-pt jump shot from 25 ft,11,12
+1,6:22.0,,Offensive rebound by D. Jones,11,12
+1,6:22.0,,D. Jones makes 2-pt layup from 1 ft,11,14
+1,6:22.0,,Shooting foul by D. Ayton (drawn by D. Jones),11,14
+1,6:22.0,,D. Jones makes free throw 1 of 1,11,15
+1,6:11.0,D. Ayton misses 2-pt jump shot from 19 ft,,11,15
+1,6:08.0,,Defensive rebound by D. Green,11,15
+1,6:01.0,,K. Durant misses 2-pt jump shot from 14 ft,11,15
+1,5:56.0,,Offensive rebound by D. Jones,11,15
+1,5:50.0,,K. Thompson misses 2-pt jump shot from 13 ft,11,15
+1,5:48.0,,Offensive rebound by Team,11,15
+1,5:48.0,T. Chandler enters the game for R. Anderson,,11,15
+1,5:48.0,T. Warren enters the game for D. Ayton,,11,15
+1,5:46.0,,K. Durant makes 2-pt layup from 2 ft (assist by S. Curry),11,17
+1,5:29.0,D. Booker misses 3-pt jump shot from 25 ft,,11,17
+1,5:27.0,,Defensive rebound by S. Curry,11,17
+1,5:21.0,,K. Durant misses 2-pt jump shot from 12 ft (block by T. Warren),11,17
+1,5:19.0,Defensive rebound by T. Warren,,11,17
+1,5:13.0,T. Warren makes 2-pt layup from 1 ft,,13,17
+1,5:06.0,,Turnover by K. Durant (bad pass; steal by T. Warren),13,17
+1,4:59.0,T. Warren misses 3-pt jump shot from 26 ft,,13,17
+1,4:57.0,,Defensive rebound by S. Curry,13,17
+1,4:49.0,,K. Thompson makes 2-pt jump shot from 17 ft (assist by S. Curry),13,19
+1,4:30.0,D. Booker makes 2-pt jump shot from 11 ft,,15,19
+1,4:30.0,Shooting foul by D. Jones (drawn by D. Booker),,15,19
+1,4:30.0,,A. Iguodala enters the game for D. Green,15,19
+1,4:30.0,,K. Looney enters the game for D. Jones,15,19
+1,4:30.0,D. Booker makes free throw 1 of 1,,16,19
+1,4:19.0,,K. Durant misses 2-pt jump shot from 13 ft,16,19
+1,4:18.0,Defensive rebound by T. Chandler,,16,19
+1,4:09.0,T. Ariza misses 3-pt jump shot from 23 ft,,16,19
+1,4:07.0,Offensive rebound by T. Warren,,16,19
+1,3:57.0,T. Warren makes 2-pt layup from 2 ft,,18,19
+1,3:45.0,,K. Thompson misses 3-pt jump shot from 25 ft,18,19
+1,3:44.0,Defensive rebound by Team,,18,19
+1,3:44.0,,Loose ball foul by K. Looney (drawn by T. Chandler),18,19
+1,3:44.0,J. Jackson enters the game for D. Booker,,18,19
+1,3:44.0,,A. McKinnie enters the game for K. Thompson,18,19
+1,3:35.0,Personal foul by A. McKinnie (drawn by T. Chandler),,18,19
+1,3:30.0,I. Canaan misses 3-pt jump shot from 26 ft,,18,19
+1,3:28.0,,Defensive rebound by A. McKinnie,18,19
+1,3:17.0,,S. Curry makes 2-pt jump shot from 13 ft (assist by K. Looney),18,21
+1,3:06.0,T. Ariza misses 2-pt layup from 3 ft,,18,21
+1,3:05.0,,Defensive rebound by A. McKinnie,18,21
+1,3:01.0,,K. Durant makes 3-pt jump shot from 26 ft (assist by S. Curry),18,24
+1,2:48.0,Turnover by T. Chandler (out of bounds lost ball),,18,24
+1,2:48.0,,Golden State full timeout,18,24
+1,2:48.0,J. Crawford enters the game for I. Canaan,,18,24
+1,2:48.0,,J. Jerebko enters the game for K. Durant,18,24
+1,2:40.0,,S. Curry misses 3-pt jump shot from 26 ft,18,24
+1,2:38.0,,Offensive rebound by A. McKinnie,18,24
+1,2:38.0,,Personal foul by T. Warren (drawn by A. McKinnie),18,24
+1,2:34.0,,Offensive foul by K. Looney (drawn by J. Jackson),18,24
+1,2:34.0,,Turnover by K. Looney (offensive foul),18,24
+1,2:20.0,T. Warren makes 2-pt layup from 3 ft,,20,24
+1,2:11.0,,Turnover by S. Curry (bad pass; steal by T. Chandler),20,24
+1,1:58.0,T. Chandler misses 2-pt layup from 2 ft,,20,24
+1,1:55.0,,Defensive rebound by A. McKinnie,20,24
+1,1:51.0,,A. McKinnie makes 2-pt layup from 2 ft (assist by A. Iguodala),20,26
+1,1:37.0,J. Jackson misses 2-pt jump shot from 18 ft,,20,26
+1,1:32.0,,Defensive rebound by J. Jerebko,20,26
+1,1:29.0,,A. McKinnie makes 2-pt layup from 2 ft (assist by S. Curry),20,28
+1,1:19.0,T. Ariza misses 3-pt jump shot from 25 ft,,20,28
+1,1:15.0,,Defensive rebound by J. Jerebko,20,28
+1,1:09.0,,S. Curry misses 3-pt jump shot from 24 ft,20,28
+1,1:07.0,,Offensive rebound by A. McKinnie,20,28
+1,1:07.0,,Shooting foul by T. Chandler (drawn by A. McKinnie),20,28
+1,1:07.0,,A. McKinnie misses free throw 1 of 2,20,28
+1,1:07.0,,Offensive rebound by Team,20,28
+1,1:07.0,D. Booker enters the game for T. Ariza,,20,28
+1,1:07.0,,A. McKinnie makes free throw 2 of 2,20,29
+1,0:53.0,T. Warren makes 3-pt jump shot from 22 ft (assist by J. Crawford),,23,29
+1,0:42.0,,Turnover by S. Curry (bad pass),23,29
+1,0:25.0,Turnover by D. Booker (discontinued dribble),,23,29
+1,0:25.0,,Q. Cook enters the game for K. Looney,23,29
+1,0:25.0,,K. Thompson enters the game for A. McKinnie,23,29
+1,0:07.0,,J. Jerebko makes 3-pt jump shot from 27 ft (assist by K. Thompson),23,32
+1,0:03.0,Turnover by D. Booker (lost ball; steal by A. Iguodala),,23,32
+1,0:01.0,,S. Curry misses 3-pt jump shot from 55 ft,23,32
+1,0:00.0,,Offensive rebound by Team,23,32
+2,11:50.0,Personal foul by J. Jerebko (drawn by D. Ayton),,23,32
+2,11:38.0,Turnover by J. Jackson (lost ball; steal by D. Green),,23,32
+2,11:29.0,,Personal foul by J. Jackson (drawn by K. Thompson),23,32
+2,11:20.0,,Personal foul by D. Ayton (drawn by J. Jerebko),23,32
+2,11:14.0,,K. Thompson makes 2-pt jump shot from 19 ft (assist by A. Iguodala),23,34
+2,10:52.0,D. Ayton makes 2-pt layup from 2 ft (assist by T. Warren),,25,34
+2,10:37.0,,K. Thompson makes 2-pt jump shot from 20 ft (assist by D. Green),25,36
+2,10:22.0,D. Ayton makes 2-pt hook shot from 3 ft (assist by J. Crawford),,27,36
+2,10:12.0,,Turnover by D. Green (bad pass; steal by D. Booker),27,36
+2,10:04.0,T. Warren makes 2-pt jump shot from 4 ft (assist by D. Booker),,29,36
+2,9:46.0,,K. Thompson makes 2-pt jump shot from 22 ft (assist by D. Green),29,38
+2,9:30.0,Personal foul by J. Jerebko (drawn by D. Ayton),,29,38
+2,9:30.0,M. Bridges enters the game for D. Booker,,29,38
+2,9:20.0,T. Warren misses 2-pt jump shot from 12 ft,,29,38
+2,9:16.0,,Defensive rebound by Team,29,38
+2,9:08.0,,J. Jerebko makes 3-pt jump shot from 26 ft (assist by Q. Cook),29,41
+2,8:49.0,Personal foul by K. Thompson (drawn by M. Bridges),,29,41
+2,8:40.0,D. Ayton misses 2-pt jump shot from 14 ft (block by K. Thompson),,29,41
+2,8:39.0,Offensive rebound by Team,,29,41
+2,8:35.0,T. Warren misses 2-pt jump shot from 16 ft (block by K. Thompson),,29,41
+2,8:33.0,,Defensive rebound by K. Thompson,29,41
+2,8:33.0,,Shooting foul by J. Jackson (drawn by Q. Cook),29,41
+2,8:33.0,,Q. Cook makes free throw 1 of 2,29,42
+2,8:33.0,,Q. Cook misses free throw 2 of 2,29,42
+2,8:31.0,Defensive rebound by D. Ayton,,29,42
+2,8:17.0,M. Bridges makes 3-pt jump shot from 27 ft (assist by J. Crawford),,32,42
+2,8:06.0,,Shooting foul by M. Bridges (drawn by K. Thompson),32,42
+2,8:06.0,,K. Thompson makes free throw 1 of 2,32,43
+2,8:06.0,D. Booker enters the game for J. Crawford,,32,43
+2,8:06.0,I. Canaan enters the game for J. Jackson,,32,43
+2,8:06.0,,K. Durant enters the game for A. Iguodala,32,43
+2,8:06.0,,K. Thompson makes free throw 2 of 2,32,44
+2,7:56.0,Turnover by I. Canaan (bad pass; steal by D. Green),,32,44
+2,7:53.0,,J. Jerebko makes 2-pt layup from 2 ft (assist by D. Green),32,46
+2,7:51.0,Phoenix full timeout,,32,46
+2,7:51.0,,K. Looney enters the game for D. Green,32,46
+2,7:36.0,T. Warren makes 3-pt jump shot from 26 ft (assist by D. Ayton),,35,46
+2,7:11.0,,K. Durant makes 2-pt jump shot from 15 ft,35,48
+2,6:52.0,D. Ayton makes 2-pt dunk from 1 ft (assist by T. Warren),,37,48
+2,6:33.0,,K. Durant makes 2-pt jump shot from 18 ft (assist by J. Jerebko),37,50
+2,6:16.0,Turnover by D. Booker (bad pass; steal by J. Jerebko),,37,50
+2,6:11.0,,K. Thompson makes 2-pt layup from 2 ft (assist by K. Durant),37,52
+2,5:52.0,D. Ayton misses 2-pt jump shot from 12 ft,,37,52
+2,5:49.0,,Defensive rebound by K. Thompson,37,52
+2,5:40.0,,Def 3 sec tech foul by Team,37,52
+2,5:40.0,,K. Thompson makes technical free throw,37,53
+2,5:40.0,R. Anderson enters the game for M. Bridges,,37,53
+2,5:40.0,T. Ariza enters the game for T. Warren,,37,53
+2,5:40.0,,S. Curry enters the game for Q. Cook,37,53
+2,5:40.0,,A. McKinnie enters the game for K. Thompson,37,53
+2,5:32.0,,J. Jerebko misses 3-pt jump shot from 25 ft,37,53
+2,5:29.0,Defensive rebound by D. Ayton,,37,53
+2,5:20.0,D. Booker makes 2-pt layup from 1 ft (assist by I. Canaan),,39,53
+2,5:05.0,,K. Durant misses 2-pt jump shot from 13 ft,39,53
+2,5:03.0,,Offensive rebound by Team,39,53
+2,5:03.0,,D. Green enters the game for J. Jerebko,39,53
+2,4:57.0,,S. Curry makes 3-pt jump shot from 26 ft (assist by K. Durant),39,56
+2,4:33.0,I. Canaan misses 3-pt jump shot from 23 ft,,39,56
+2,4:29.0,,Defensive rebound by K. Durant,39,56
+2,4:24.0,,K. Durant misses 2-pt jump shot from 7 ft,39,56
+2,4:21.0,Defensive rebound by D. Ayton,,39,56
+2,4:16.0,T. Ariza misses 3-pt jump shot from 23 ft,,39,56
+2,4:10.0,,Defensive rebound by D. Green,39,56
+2,4:08.0,,K. Durant misses 2-pt layup from 2 ft,39,56
+2,4:07.0,Defensive rebound by D. Booker,,39,56
+2,4:02.0,T. Ariza misses 2-pt layup from 2 ft,,39,56
+2,4:01.0,Offensive rebound by D. Booker,,39,56
+2,3:57.0,D. Booker misses 3-pt jump shot from 25 ft,,39,56
+2,3:56.0,Offensive rebound by I. Canaan,,39,56
+2,3:56.0,Personal foul by K. Looney (drawn by I. Canaan),,39,56
+2,3:56.0,,D. Jones enters the game for K. Looney,39,56
+2,3:56.0,,K. Thompson enters the game for A. McKinnie,39,56
+2,3:46.0,R. Anderson misses 3-pt jump shot from 27 ft,,39,56
+2,3:44.0,Offensive rebound by D. Ayton,,39,56
+2,3:38.0,D. Booker makes 2-pt layup from 3 ft (assist by T. Ariza),,41,56
+2,3:23.0,,S. Curry makes 2-pt layup from 3 ft (assist by D. Green),41,58
+2,3:02.0,Turnover by R. Anderson (traveling),,41,58
+2,2:56.0,,Offensive foul by K. Durant (drawn by T. Ariza),41,58
+2,2:56.0,,Turnover by K. Durant (offensive foul),41,58
+2,2:56.0,,Golden State full timeout,41,58
+2,2:43.0,R. Anderson misses 3-pt jump shot from 27 ft,,41,58
+2,2:40.0,,Defensive rebound by K. Durant,41,58
+2,2:30.0,,S. Curry makes 3-pt jump shot from 26 ft (assist by D. Green),41,61
+2,2:07.0,D. Booker misses 2-pt jump shot from 12 ft,,41,61
+2,2:06.0,Offensive rebound by D. Ayton,,41,61
+2,2:06.0,Personal foul by D. Green (drawn by D. Ayton),,41,61
+2,2:06.0,D. Ayton makes free throw 1 of 2,,42,61
+2,2:06.0,D. Ayton makes free throw 2 of 2,,43,61
+2,1:57.0,,K. Thompson misses 2-pt layup from 2 ft,43,61
+2,1:56.0,Defensive rebound by Team,,43,61
+2,1:33.0,I. Canaan makes 2-pt jump shot from 15 ft,,45,61
+2,1:19.0,,S. Curry makes 2-pt layup from 3 ft (assist by D. Jones),45,63
+2,1:01.0,D. Ayton misses 2-pt jump shot from 12 ft,,45,63
+2,0:57.0,,Defensive rebound by S. Curry,45,63
+2,0:54.0,,Shooting foul by R. Anderson (drawn by D. Green),45,63
+2,0:54.0,,D. Green makes free throw 1 of 2,45,64
+2,0:54.0,,D. Green makes free throw 2 of 2,45,65
+2,0:37.0,D. Booker makes 2-pt layup from 4 ft,,47,65
+2,0:31.0,,K. Durant makes 2-pt dunk from 2 ft,47,67
+2,0:12.0,Turnover by D. Booker (out of bounds lost ball),,47,67
+2,0:12.0,M. Bridges enters the game for R. Anderson,,47,67
+2,0:12.0,,Q. Cook enters the game for D. Jones,47,67
+2,0:01.0,,Q. Cook makes 3-pt jump shot from 24 ft (assist by K. Thompson),47,70
+3,11:50.0,Turnover by D. Booker (lost ball; steal by S. Curry),,47,70
+3,11:47.0,,Shooting foul by R. Anderson (drawn by S. Curry),47,70
+3,11:47.0,,S. Curry makes free throw 1 of 2,47,71
+3,11:47.0,,S. Curry misses free throw 2 of 2,47,71
+3,11:45.0,Defensive rebound by D. Ayton,,47,71
+3,11:33.0,Shooting foul by K. Durant (drawn by D. Ayton),,47,71
+3,11:33.0,D. Ayton makes free throw 1 of 2,,48,71
+3,11:33.0,D. Ayton makes free throw 2 of 2,,49,71
+3,11:09.0,,K. Durant makes 2-pt hook shot from 6 ft,49,73
+3,10:56.0,D. Booker makes 2-pt layup from 3 ft,,51,73
+3,10:54.0,,K. Thompson misses 3-pt jump shot from 24 ft,51,73
+3,10:52.0,Defensive rebound by D. Booker,,51,73
+3,10:45.0,D. Booker makes 3-pt jump shot from 30 ft,,54,73
+3,10:31.0,,K. Durant misses 3-pt jump shot from 26 ft,54,73
+3,10:29.0,Defensive rebound by D. Ayton,,54,73
+3,10:20.0,Turnover by D. Ayton (traveling),,54,73
+3,10:10.0,,K. Thompson makes 3-pt jump shot from 26 ft (assist by K. Durant),54,76
+3,9:53.0,D. Booker misses 2-pt layup from 3 ft,,54,76
+3,9:52.0,Offensive rebound by D. Ayton,,54,76
+3,9:40.0,Turnover by I. Canaan (lost ball; steal by D. Green),,54,76
+3,9:34.0,,D. Green makes 2-pt layup from 1 ft,54,78
+3,9:34.0,,Shooting foul by D. Booker (drawn by D. Green),54,78
+3,9:34.0,,D. Green makes free throw 1 of 1,54,79
+3,9:26.0,Turnover by T. Ariza (out of bounds lost ball),,54,79
+3,9:16.0,,Turnover by D. Green (bad pass; steal by D. Booker),54,79
+3,9:05.0,Shooting foul by D. Jones (drawn by R. Anderson),,54,79
+3,9:05.0,R. Anderson misses free throw 1 of 2,,54,79
+3,9:05.0,Offensive rebound by Team,,54,79
+3,9:05.0,T. Chandler enters the game for D. Ayton,,54,79
+3,9:05.0,R. Anderson makes free throw 2 of 2,,55,79
+3,8:59.0,,D. Green misses 3-pt jump shot from 26 ft,55,79
+3,8:57.0,Defensive rebound by T. Chandler,,55,79
+3,8:47.0,Turnover by I. Canaan (out of bounds lost ball),,55,79
+3,8:41.0,,Shooting foul by T. Chandler (drawn by D. Jones),55,79
+3,8:41.0,,D. Jones misses free throw 1 of 2,55,79
+3,8:41.0,,Offensive rebound by Team,55,79
+3,8:41.0,,D. Jones makes free throw 2 of 2,55,80
+3,8:31.0,Turnover by D. Booker (out of bounds lost ball),,55,80
+3,8:15.0,,K. Thompson misses 2-pt jump shot from 5 ft,55,80
+3,8:14.0,Defensive rebound by T. Chandler,,55,80
+3,8:10.0,Personal foul by D. Green (drawn by D. Booker),,55,80
+3,8:05.0,D. Booker misses 3-pt jump shot from 28 ft,,55,80
+3,8:03.0,,Defensive rebound by K. Durant,55,80
+3,7:59.0,,K. Thompson misses 3-pt jump shot from 27 ft,55,80
+3,7:57.0,Defensive rebound by T. Ariza,,55,80
+3,7:56.0,Phoenix full timeout,,55,80
+3,7:44.0,T. Ariza makes 3-pt jump shot from 25 ft (assist by D. Booker),,58,80
+3,7:23.0,,D. Jones makes 2-pt layup from 2 ft (assist by K. Thompson),58,82
+3,6:54.0,T. Ariza misses 2-pt jump shot from 21 ft,,58,82
+3,6:51.0,Offensive rebound by R. Anderson,,58,82
+3,6:49.0,I. Canaan misses 3-pt jump shot from 26 ft,,58,82
+3,6:47.0,Offensive rebound by R. Anderson,,58,82
+3,6:47.0,Personal foul by D. Green (drawn by R. Anderson),,58,82
+3,6:33.0,I. Canaan misses 3-pt jump shot from 24 ft,,58,82
+3,6:31.0,,Defensive rebound by D. Green,58,82
+3,6:28.0,,Turnover by K. Durant (lost ball; steal by I. Canaan),58,82
+3,6:26.0,Offensive foul by T. Chandler (drawn by D. Green),,58,82
+3,6:26.0,Turnover by T. Chandler (offensive foul),,58,82
+3,6:26.0,T. Warren enters the game for R. Anderson,,58,82
+3,6:11.0,,S. Curry makes 3-pt jump shot from 23 ft (assist by D. Green),58,85
+3,5:59.0,D. Booker misses 3-pt jump shot from 28 ft,,58,85
+3,5:56.0,,Defensive rebound by K. Durant,58,85
+3,5:49.0,,Shooting foul by T. Chandler (drawn by D. Jones),58,85
+3,5:49.0,,D. Jones makes free throw 1 of 2,58,86
+3,5:49.0,D. Ayton enters the game for I. Canaan,,58,86
+3,5:49.0,J. Jackson enters the game for T. Chandler,,58,86
+3,5:49.0,,A. Iguodala enters the game for K. Thompson,58,86
+3,5:49.0,,D. Jones misses free throw 2 of 2,58,86
+3,5:47.0,Defensive rebound by D. Ayton,,58,86
+3,5:35.0,Turnover by D. Booker (bad pass; steal by K. Durant),,58,86
+3,5:33.0,,Shooting foul by D. Booker (drawn by K. Durant),58,86
+3,5:33.0,,K. Durant makes free throw 1 of 2,58,87
+3,5:33.0,,K. Durant makes free throw 2 of 2,58,88
+3,5:23.0,Personal foul by K. Durant (drawn by D. Booker),,58,88
+3,5:23.0,D. Booker makes free throw 1 of 2,,59,88
+3,5:23.0,D. Booker makes free throw 2 of 2,,60,88
+3,5:04.0,,K. Durant misses 2-pt jump shot from 10 ft,60,88
+3,5:03.0,Defensive rebound by Team,,60,88
+3,5:03.0,Personal foul by D. Jones (drawn by D. Ayton),,60,88
+3,5:03.0,D. Ayton makes free throw 1 of 2,,61,88
+3,5:03.0,D. Ayton makes free throw 2 of 2,,62,88
+3,4:52.0,,S. Curry misses 3-pt jump shot from 26 ft,62,88
+3,4:48.0,Defensive rebound by T. Warren,,62,88
+3,4:42.0,T. Ariza misses 3-pt jump shot from 26 ft,,62,88
+3,4:38.0,,Defensive rebound by A. Iguodala,62,88
+3,4:35.0,,Turnover by A. Iguodala (bad pass; steal by D. Ayton),62,88
+3,4:29.0,T. Ariza makes 2-pt layup from 2 ft (assist by J. Jackson),,64,88
+3,4:29.0,Shooting foul by D. Green (drawn by T. Ariza),,64,88
+3,4:29.0,,K. Looney enters the game for D. Green,64,88
+3,4:29.0,T. Ariza makes free throw 1 of 1,,65,88
+3,4:21.0,,K. Durant makes 3-pt jump shot from 24 ft (assist by K. Looney),65,91
+3,3:58.0,D. Booker makes 2-pt jump shot from 18 ft (assist by D. Ayton),,67,91
+3,3:47.0,,S. Curry makes 2-pt jump shot from 4 ft,67,93
+3,3:36.0,J. Jackson makes 2-pt layup from 2 ft (assist by T. Warren),,69,93
+3,3:18.0,,A. Iguodala misses 3-pt jump shot from 23 ft,69,93
+3,3:14.0,Defensive rebound by D. Ayton,,69,93
+3,2:57.0,T. Warren makes 2-pt jump shot from 11 ft,,71,93
+3,2:49.0,,Golden State full timeout,71,93
+3,2:49.0,M. Bridges enters the game for T. Ariza,,71,93
+3,2:49.0,I. Canaan enters the game for D. Booker,,71,93
+3,2:49.0,,J. Jerebko enters the game for K. Durant,71,93
+3,2:49.0,,A. McKinnie enters the game for D. Jones,71,93
+3,2:38.0,,A. McKinnie makes 3-pt jump shot from 23 ft (assist by S. Curry),71,96
+3,2:19.0,T. Warren makes 2-pt layup from 2 ft (assist by D. Ayton),,73,96
+3,2:06.0,,Turnover by A. Iguodala (bad pass; steal by T. Warren),73,96
+3,2:03.0,Shooting foul by A. Iguodala (drawn by J. Jackson),,73,96
+3,2:03.0,J. Jackson misses free throw 1 of 2,,73,96
+3,2:03.0,Offensive rebound by Team,,73,96
+3,2:03.0,J. Jackson makes free throw 2 of 2,,74,96
+3,1:53.0,,S. Curry makes 3-pt jump shot from 26 ft,74,99
+3,1:37.0,Personal foul by J. Jerebko (drawn by D. Ayton),,74,99
+3,1:37.0,D. Ayton makes free throw 1 of 2,,75,99
+3,1:37.0,D. Ayton makes free throw 2 of 2,,76,99
+3,1:28.0,,S. Curry makes 3-pt jump shot from 26 ft (assist by J. Jerebko),76,102
+3,1:10.0,T. Warren makes 2-pt jump shot from 14 ft,,78,102
+3,0:52.0,,Personal foul by I. Canaan (drawn by J. Jerebko),78,102
+3,0:52.0,,J. Jerebko misses free throw 1 of 2,78,102
+3,0:52.0,,Offensive rebound by Team,78,102
+3,0:52.0,,J. Jerebko makes free throw 2 of 2,78,103
+3,0:42.0,M. Bridges misses 3-pt jump shot from 23 ft,,78,103
+3,0:38.0,Offensive rebound by D. Ayton,,78,103
+3,0:37.0,I. Canaan makes 3-pt jump shot from 23 ft (assist by D. Ayton),,81,103
+3,0:28.0,,S. Curry makes 3-pt jump shot from 28 ft,81,106
+3,0:12.0,T. Warren misses 3-pt jump shot from 28 ft,,81,106
+3,0:07.0,,Defensive rebound by A. McKinnie,81,106
+3,0:03.0,,S. Curry misses 3-pt jump shot from 33 ft,81,106
+3,0:02.0,Defensive rebound by D. Ayton,,81,106
+4,11:49.0,,J. Jerebko misses 2-pt jump shot from 19 ft,81,106
+4,11:45.0,Defensive rebound by T. Ariza,,81,106
+4,11:40.0,Turnover by J. Jackson (bad pass; steal by D. Green),,81,106
+4,11:19.0,,Turnover by A. Iguodala (bad pass),81,106
+4,11:03.0,Turnover by D. Ayton (lost ball; steal by A. Iguodala),,81,106
+4,10:56.0,,A. McKinnie misses 3-pt jump shot from 25 ft,81,106
+4,10:50.0,Defensive rebound by D. Ayton,,81,106
+4,10:47.0,J. Jackson misses 3-pt jump shot from 24 ft,,81,106
+4,10:43.0,,Defensive rebound by Q. Cook,81,106
+4,10:40.0,,Shooting foul by J. Jackson (drawn by J. Jerebko),81,106
+4,10:40.0,,Offensive rebound by Team,81,106
+4,10:40.0,,J. Jerebko misses free throw 1 of 2,81,106
+4,10:40.0,T. Chandler enters the game for D. Ayton,,81,106
+4,10:40.0,,J. Jerebko makes free throw 2 of 2,81,107
+4,10:31.0,T. Warren misses 2-pt jump shot from 12 ft,,81,107
+4,10:27.0,,Defensive rebound by J. Jerebko,81,107
+4,10:22.0,,D. Green misses 2-pt layup from 3 ft,81,107
+4,10:18.0,,Offensive rebound by J. Jerebko,81,107
+4,10:18.0,,J. Jerebko misses 2-pt layup at rim,81,107
+4,10:18.0,Defensive rebound by T. Warren,,81,107
+4,10:18.0,Personal foul by Q. Cook (drawn by D. Booker),,81,107
+4,10:09.0,D. Booker misses 3-pt jump shot from 28 ft,,81,107
+4,10:05.0,,Defensive rebound by J. Jerebko,81,107
+4,9:58.0,,Q. Cook misses 2-pt jump shot from 12 ft,81,107
+4,9:54.0,Defensive rebound by D. Booker,,81,107
+4,9:40.0,T. Warren makes 2-pt jump shot from 10 ft (assist by D. Booker),,83,107
+4,9:27.0,,A. Iguodala misses 3-pt jump shot from 25 ft,83,107
+4,9:23.0,Defensive rebound by J. Jackson,,83,107
+4,9:15.0,J. Jackson misses 2-pt jump shot from 17 ft,,83,107
+4,9:11.0,,Defensive rebound by A. Iguodala,83,107
+4,8:59.0,,Shooting foul by D. Booker (drawn by Q. Cook),83,107
+4,8:59.0,,Q. Cook makes free throw 1 of 2,83,108
+4,8:59.0,R. Anderson enters the game for J. Jackson,,83,108
+4,8:59.0,M. Bridges enters the game for T. Warren,,83,108
+4,8:59.0,,Q. Cook makes free throw 2 of 2,83,109
+4,8:43.0,M. Bridges misses 2-pt layup from 3 ft,,83,109
+4,8:40.0,,Defensive rebound by D. Green,83,109
+4,8:39.0,,Personal foul by M. Bridges (drawn by D. Green),83,109
+4,8:39.0,,J. Bell enters the game for D. Green,83,109
+4,8:34.0,,A. Iguodala misses 2-pt layup from 5 ft,83,109
+4,8:31.0,Defensive rebound by T. Chandler,,83,109
+4,8:27.0,T. Chandler makes 2-pt dunk from 1 ft (assist by R. Anderson),,85,109
+4,8:13.0,,Q. Cook misses 3-pt jump shot from 26 ft,85,109
+4,8:09.0,Defensive rebound by T. Chandler,,85,109
+4,8:01.0,D. Booker misses 2-pt layup from 3 ft (block by J. Bell),,85,109
+4,7:56.0,,Defensive rebound by J. Bell,85,109
+4,7:53.0,,J. Jerebko makes 3-pt jump shot from 23 ft (assist by A. Iguodala),85,112
+4,7:52.0,Phoenix full timeout,,85,112
+4,7:52.0,,J. Evans enters the game for A. Iguodala,85,112
+4,7:35.0,T. Ariza misses 2-pt layup from 9 ft,,85,112
+4,7:30.0,Offensive rebound by R. Anderson,,85,112
+4,7:29.0,D. Booker makes 3-pt jump shot from 30 ft (assist by R. Anderson),,88,112
+4,7:07.0,,J. Bell misses 2-pt jump shot from 14 ft,88,112
+4,7:04.0,Defensive rebound by M. Bridges,,88,112
+4,6:58.0,,Violation by Team (kicked ball),88,112
+4,6:49.0,D. Booker makes 2-pt jump shot from 12 ft,,90,112
+4,6:34.0,,J. Evans misses 2-pt jump shot from 20 ft,90,112
+4,6:30.0,Defensive rebound by T. Ariza,,90,112
+4,6:24.0,R. Anderson misses 3-pt jump shot from 29 ft,,90,112
+4,6:21.0,,Defensive rebound by A. McKinnie,90,112
+4,6:09.0,,A. McKinnie misses 2-pt jump shot from 17 ft,90,112
+4,6:05.0,Defensive rebound by T. Chandler,,90,112
+4,5:55.0,T. Ariza misses 3-pt jump shot from 24 ft,,90,112
+4,5:48.0,,Defensive rebound by J. Evans,90,112
+4,5:46.0,,A. McKinnie makes 2-pt dunk from 2 ft (assist by J. Jerebko),90,114
+4,5:33.0,Personal foul by J. Bell (drawn by D. Booker),,90,114
+4,5:33.0,D. Ayton enters the game for R. Anderson,,90,114
+4,5:33.0,T. Warren enters the game for T. Chandler,,90,114
+4,5:24.0,T. Warren makes 3-pt jump shot from 26 ft (assist by D. Booker),,93,114
+4,5:21.0,,Turnover by J. Jerebko (traveling),93,114
+4,4:52.0,D. Ayton makes 2-pt dunk from 2 ft (assist by D. Booker),,95,114
+4,4:51.0,,Golden State full timeout,95,114
+4,4:40.0,,J. Jerebko misses 3-pt jump shot from 26 ft,95,114
+4,4:38.0,Defensive rebound by D. Booker,,95,114
+4,4:36.0,Personal foul by A. McKinnie (drawn by D. Booker),,95,114
+4,4:23.0,D. Booker misses 2-pt jump shot from 10 ft,,95,114
+4,4:22.0,,Defensive rebound by J. Bell,95,114
+4,4:18.0,,Turnover by Q. Cook (bad pass),95,114
+4,4:07.0,D. Ayton makes 2-pt layup from 1 ft (assist by D. Booker),,97,114
+4,3:50.0,,Q. Cook makes 2-pt jump shot from 5 ft,97,116
+4,3:50.0,,K. Looney enters the game for J. Jerebko,97,116
+4,3:36.0,Phoenix full timeout,,97,116
+4,3:27.0,Turnover by D. Booker (bad pass; steal by Q. Cook),,97,116
+4,3:07.0,,J. Evans makes 2-pt layup from 3 ft (assist by Q. Cook),97,118
+4,2:54.0,T. Warren makes 2-pt jump shot from 16 ft,,99,118
+4,2:43.0,,Personal foul by D. Booker (drawn by Q. Cook),99,118
+4,2:43.0,D. Bender enters the game for T. Ariza,,99,118
+4,2:43.0,R. Holmes enters the game for D. Ayton,,99,118
+4,2:43.0,J. Jackson enters the game for D. Booker,,99,118
+4,2:43.0,D. Melton enters the game for T. Warren,,99,118
+4,2:23.0,,K. Looney makes 2-pt jump shot from 14 ft (assist by J. Evans),99,120
+4,2:10.0,Personal foul by A. McKinnie (drawn by R. Holmes),,99,120
+4,2:10.0,,D. Lee enters the game for A. McKinnie,99,120
+4,2:08.0,Personal foul by D. Lee (drawn by M. Bridges),,99,120
+4,2:08.0,M. Bridges makes free throw 1 of 2,,100,120
+4,2:08.0,M. Bridges makes free throw 2 of 2,,101,120
+4,1:50.0,,Q. Cook misses 2-pt layup from 1 ft,101,120
+4,1:49.0,,Offensive rebound by K. Looney,101,120
+4,1:45.0,,K. Looney makes 2-pt layup from 2 ft,101,122
+4,1:45.0,,Shooting foul by D. Bender (drawn by K. Looney),101,122
+4,1:45.0,,K. Looney makes free throw 1 of 1,101,123
+4,1:27.0,J. Jackson misses 2-pt jump shot from 8 ft,,101,123
+4,1:27.0,R. Holmes makes 2-pt layup from 1 ft,,103,123
+4,1:27.0,Offensive rebound by R. Holmes,,103,123
+4,1:10.0,,D. Lee misses 2-pt jump shot from 12 ft,103,123
+4,1:09.0,Defensive rebound by R. Holmes,,103,123
+4,1:01.0,M. Bridges misses 3-pt jump shot from 25 ft,,103,123
+4,0:59.0,Offensive rebound by R. Holmes,,103,123
+4,0:53.0,M. Bridges misses 3-pt jump shot from 27 ft,,103,123
+4,0:51.0,,Defensive rebound by K. Looney,103,123
+4,0:38.0,,Q. Cook misses 3-pt jump shot from 27 ft,103,123
+4,0:36.0,Defensive rebound by D. Bender,,103,123
+4,0:29.0,Turnover by J. Jackson (bad pass; steal by J. Bell),,103,123
+4,0:18.0,,D. Lee misses 3-pt jump shot from 26 ft,103,123
+4,0:16.0,Defensive rebound by R. Holmes,,103,123

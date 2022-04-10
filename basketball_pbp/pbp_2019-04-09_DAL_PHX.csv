@@ -1,0 +1,489 @@
+QUARTER,TIME_REMAINING,PHOENIX_ACTION,DALLAS_ACTION,PHOENIX_SCORE,DALLAS_SCORE
+1,11:39.0,Turnover by E. Okobo (bad pass; steal by L. Dončić),,0,0
+1,11:27.0,,D. Nowitzki makes 2-pt jump shot from 20 ft (assist by L. Dončić),0,2
+1,11:03.0,D. Bender makes 3-pt jump shot from 26 ft (assist by E. Okobo),,3,2
+1,10:47.0,,D. Nowitzki misses 2-pt jump shot from 18 ft,3,2
+1,10:44.0,Defensive rebound by J. Jackson,,3,2
+1,10:40.0,E. Okobo misses 2-pt layup from 1 ft,,3,2
+1,10:38.0,,Defensive rebound by L. Dončić,3,2
+1,10:32.0,,D. Nowitzki makes 3-pt jump shot from 26 ft (assist by D. Harris),3,5
+1,10:16.0,E. Okobo makes 3-pt jump shot from 25 ft (assist by R. Spalding),,6,5
+1,10:00.0,,D. Nowitzki misses 2-pt jump shot from 20 ft,6,5
+1,9:56.0,Defensive rebound by R. Spalding,,6,5
+1,9:48.0,D. Bender misses 3-pt jump shot from 24 ft,,6,5
+1,9:45.0,,Defensive rebound by L. Dončić,6,5
+1,9:36.0,,D. Nowitzki makes 2-pt jump shot from 13 ft (assist by L. Dončić),6,7
+1,9:19.0,Shooting foul by D. Powell (drawn by E. Okobo),,6,7
+1,9:19.0,E. Okobo makes free throw 1 of 2,,7,7
+1,9:19.0,E. Okobo makes free throw 2 of 2,,8,7
+1,9:02.0,,D. Nowitzki makes 3-pt jump shot from 26 ft (assist by D. Harris),8,10
+1,8:48.0,E. Okobo misses 3-pt jump shot from 26 ft,,8,10
+1,8:45.0,,Defensive rebound by D. Nowitzki,8,10
+1,8:39.0,,D. Nowitzki misses 3-pt jump shot from 26 ft,8,10
+1,8:36.0,,Offensive rebound by D. Powell,8,10
+1,8:29.0,,Personal foul by E. Okobo (drawn by D. Harris),8,10
+1,8:19.0,,D. Nowitzki misses 2-pt jump shot from 14 ft,8,10
+1,8:17.0,Defensive rebound by J. Jackson,,8,10
+1,8:08.0,R. Spalding misses 2-pt hook shot from 4 ft,,8,10
+1,8:06.0,,Defensive rebound by L. Dončić,8,10
+1,7:49.0,,Shooting foul by J. Jackson (drawn by D. Powell),8,10
+1,7:49.0,,D. Powell makes free throw 1 of 2,8,11
+1,7:49.0,,D. Powell makes free throw 2 of 2,8,12
+1,7:41.0,D. Bender makes 2-pt jump shot from 4 ft (assist by E. Okobo),,10,12
+1,7:25.0,,D. Harris makes 3-pt jump shot from 26 ft (assist by L. Dončić),10,15
+1,7:09.0,Turnover by E. Okobo (step out of bounds),,10,15
+1,7:09.0,,Dallas full timeout,10,15
+1,7:09.0,T. Daniels enters the game for R. Spalding,,10,15
+1,6:54.0,,L. Dončić misses 3-pt jump shot from 27 ft,10,15
+1,6:51.0,,Offensive rebound by D. Powell,10,15
+1,6:49.0,,D. Harris makes 3-pt jump shot from 24 ft (assist by D. Powell),10,18
+1,6:29.0,M. Bridges misses 2-pt jump shot from 11 ft,,10,18
+1,6:27.0,,Defensive rebound by D. Powell,10,18
+1,6:14.0,,D. Harris misses 3-pt jump shot from 29 ft,10,18
+1,6:10.0,Defensive rebound by J. Jackson,,10,18
+1,6:06.0,T. Daniels misses 3-pt jump shot from 25 ft,,10,18
+1,6:04.0,,Defensive rebound by D. Nowitzki,10,18
+1,5:50.0,,Turnover by D. Powell (bad pass),10,18
+1,5:50.0,J. Crawford enters the game for M. Bridges,,10,18
+1,5:50.0,,J. Brunson enters the game for D. Harris,10,18
+1,5:37.0,T. Daniels misses 3-pt jump shot from 23 ft,,10,18
+1,5:33.0,,Defensive rebound by D. Nowitzki,10,18
+1,5:18.0,,J. Jackson makes 3-pt jump shot from 23 ft (assist by L. Dončić),10,21
+1,5:16.0,Phoenix full timeout,,10,21
+1,5:16.0,,D. Finney-Smith enters the game for D. Nowitzki,10,21
+1,5:16.0,,M. Kleber enters the game for D. Powell,10,21
+1,5:03.0,Shooting foul by J. Brunson (drawn by J. Jackson),,10,21
+1,5:03.0,J. Jackson makes free throw 1 of 2,,11,21
+1,5:03.0,J. Jackson misses free throw 2 of 2,,11,21
+1,5:00.0,,Defensive rebound by D. Finney-Smith,11,21
+1,4:48.0,,D. Finney-Smith makes 2-pt layup from 3 ft (assist by L. Dončić),11,23
+1,4:42.0,J. Jackson misses 2-pt layup from 1 ft,,11,23
+1,4:40.0,,Defensive rebound by M. Kleber,11,23
+1,4:30.0,,Turnover by D. Finney-Smith (bad pass),11,23
+1,4:17.0,J. Crawford misses 3-pt jump shot from 27 ft,,11,23
+1,4:13.0,,Defensive rebound by M. Kleber,11,23
+1,4:06.0,,Shooting foul by D. Bender (drawn by L. Dončić),11,23
+1,4:06.0,,L. Dončić makes free throw 1 of 2,11,24
+1,4:06.0,,L. Dončić misses free throw 2 of 2,11,24
+1,4:03.0,Defensive rebound by D. Bender,,11,24
+1,3:51.0,D. Bender misses 2-pt hook shot from 6 ft,,11,24
+1,3:49.0,,Defensive rebound by L. Dončić,11,24
+1,3:43.0,,J. Jackson misses 3-pt jump shot from 24 ft,11,24
+1,3:41.0,Defensive rebound by J. Jackson,,11,24
+1,3:39.0,J. Jackson makes 2-pt layup from 2 ft,,13,24
+1,3:39.0,Shooting foul by D. Finney-Smith (drawn by J. Jackson),,13,24
+1,3:39.0,D. Melton enters the game for E. Okobo,,13,24
+1,3:39.0,,R. Broekhoff enters the game for J. Jackson,13,24
+1,3:39.0,J. Jackson misses free throw 1 of 1,,13,24
+1,3:37.0,,Defensive rebound by D. Finney-Smith,13,24
+1,3:21.0,,J. Brunson makes 2-pt jump shot from 4 ft (assist by L. Dončić),13,26
+1,3:11.0,J. Jackson misses 3-pt jump shot from 25 ft,,13,26
+1,3:08.0,,Defensive rebound by L. Dončić,13,26
+1,3:04.0,,Shooting foul by T. Daniels (drawn by L. Dončić),13,26
+1,3:04.0,,L. Dončić makes free throw 1 of 2,13,27
+1,3:04.0,,L. Dončić makes free throw 2 of 2,13,28
+1,2:48.0,J. Crawford misses 2-pt jump shot from 8 ft (block by M. Kleber),,13,28
+1,2:45.0,,Defensive rebound by J. Brunson,13,28
+1,2:44.0,,Shooting foul by D. Melton (drawn by J. Brunson),13,28
+1,2:44.0,,J. Brunson makes free throw 1 of 2,13,29
+1,2:44.0,,J. Brunson makes free throw 2 of 2,13,30
+1,2:25.0,J. Crawford makes 3-pt jump shot from 26 ft (assist by D. Melton),,16,30
+1,2:07.0,,L. Dončić misses 2-pt layup from 6 ft (block by J. Jackson),16,30
+1,2:05.0,Defensive rebound by D. Bender,,16,30
+1,2:01.0,T. Daniels misses 2-pt layup from 4 ft,,16,30
+1,2:01.0,,Defensive rebound by M. Kleber,16,30
+1,2:00.0,,Personal foul by T. Daniels (drawn by M. Kleber),16,30
+1,2:00.0,,M. Kleber makes free throw 1 of 2,16,31
+1,2:00.0,M. Bridges enters the game for D. Bender,,16,31
+1,2:00.0,R. Spalding enters the game for J. Jackson,,16,31
+1,2:00.0,,D. Harris enters the game for L. Dončić,16,31
+1,2:00.0,,M. Kleber misses free throw 2 of 2,16,31
+1,1:57.0,Defensive rebound by R. Spalding,,16,31
+1,1:41.0,J. Crawford makes 2-pt jump shot from 20 ft,,18,31
+1,1:21.0,,D. Finney-Smith makes 2-pt layup from 1 ft (assist by D. Harris),18,33
+1,1:13.0,R. Spalding misses 2-pt layup from 4 ft (block by D. Harris),,18,33
+1,1:09.0,,Defensive rebound by M. Kleber,18,33
+1,1:07.0,,Turnover by R. Broekhoff (bad pass; steal by T. Daniels),18,33
+1,1:06.0,Personal take foul by D. Harris (drawn by J. Crawford),,18,33
+1,1:06.0,,D. Nowitzki enters the game for D. Finney-Smith,18,33
+1,1:06.0,,D. Powell enters the game for M. Kleber,18,33
+1,0:56.0,J. Crawford misses 2-pt jump shot from 19 ft,,18,33
+1,0:55.0,,Defensive rebound by D. Powell,18,33
+1,0:36.0,,D. Nowitzki misses 2-pt jump shot from 15 ft,18,33
+1,0:32.0,Defensive rebound by R. Spalding,,18,33
+1,0:14.0,J. Crawford misses 2-pt jump shot from 19 ft,,18,33
+1,0:11.0,,Defensive rebound by J. Brunson,18,33
+1,0:01.0,,Turnover by D. Nowitzki (lost ball; steal by R. Spalding),18,33
+2,11:49.0,,D. Harris misses 2-pt layup from 6 ft (block by R. Spalding),18,33
+2,11:46.0,,Offensive rebound by D. Harris,18,33
+2,11:44.0,,D. Nowitzki makes 3-pt jump shot from 23 ft (assist by D. Harris),18,36
+2,11:25.0,J. Crawford makes 3-pt jump shot from 24 ft,,21,36
+2,11:02.0,,D. Nowitzki misses 2-pt jump shot from 14 ft,21,36
+2,10:59.0,Defensive rebound by J. Crawford,,21,36
+2,10:56.0,J. Crawford misses 3-pt jump shot from 25 ft,,21,36
+2,10:56.0,Offensive rebound by M. Bridges,,21,36
+2,10:44.0,Turnover by D. Melton (bad pass),,21,36
+2,10:35.0,,Offensive foul by D. Powell (drawn by D. Melton),21,36
+2,10:35.0,,Turnover by D. Powell (offensive foul),21,36
+2,10:26.0,J. Crawford makes 2-pt jump shot from 16 ft,,23,36
+2,10:06.0,,Turnover by D. Nowitzki (lost ball; steal by R. Spalding),23,36
+2,10:03.0,Turnover by R. Spalding (out of bounds lost ball),,23,36
+2,9:43.0,,D. Harris makes 3-pt jump shot from 26 ft (assist by J. Brunson),23,39
+2,9:24.0,Offensive foul by J. Crawford (drawn by R. Broekhoff),,23,39
+2,9:24.0,Turnover by J. Crawford (offensive foul),,23,39
+2,9:24.0,J. Jackson enters the game for T. Daniels,,23,39
+2,9:15.0,,Personal foul by J. Crawford (drawn by J. Brunson),23,39
+2,9:15.0,Technical foul by J. Crawford,,23,39
+2,9:15.0,,D. Nowitzki makes technical free throw,23,40
+2,9:05.0,,D. Harris misses 3-pt jump shot from 24 ft,23,40
+2,9:03.0,,Offensive rebound by D. Powell,23,40
+2,9:03.0,,Shooting foul by R. Spalding (drawn by D. Powell),23,40
+2,9:03.0,,D. Powell makes free throw 1 of 2,23,41
+2,9:03.0,D. Bender enters the game for R. Spalding,,23,41
+2,9:03.0,,D. Powell misses free throw 2 of 2,23,41
+2,9:00.0,Defensive rebound by D. Bender,,23,41
+2,8:53.0,Personal foul by J. Brunson (drawn by D. Melton),,23,41
+2,8:46.0,J. Jackson misses 3-pt jump shot from 26 ft,,23,41
+2,8:43.0,Offensive rebound by D. Bender,,23,41
+2,8:42.0,Shooting foul by D. Powell (drawn by J. Jackson),,23,41
+2,8:42.0,J. Jackson makes free throw 1 of 2,,24,41
+2,8:42.0,,M. Kleber enters the game for D. Powell,24,41
+2,8:42.0,J. Jackson makes free throw 2 of 2,,25,41
+2,8:27.0,,J. Brunson makes 2-pt layup from 1 ft,25,43
+2,8:20.0,D. Melton misses 2-pt layup from 1 ft,,25,43
+2,8:18.0,,Defensive rebound by M. Kleber,25,43
+2,8:08.0,,D. Harris makes 2-pt layup from 1 ft,25,45
+2,8:07.0,Phoenix full timeout,,25,45
+2,8:07.0,,T. Burke enters the game for D. Harris,25,45
+2,8:07.0,,D. Finney-Smith enters the game for D. Nowitzki,25,45
+2,7:53.0,Personal foul by D. Finney-Smith (drawn by D. Bender),,25,45
+2,7:43.0,Turnover by J. Crawford (bad pass; steal by D. Finney-Smith),,25,45
+2,7:23.0,,R. Broekhoff misses 3-pt jump shot from 26 ft,25,45
+2,7:22.0,,Offensive rebound by Team,25,45
+2,7:22.0,E. Okobo enters the game for J. Crawford,,25,45
+2,7:18.0,,T. Burke makes 3-pt jump shot from 23 ft (assist by M. Kleber),25,48
+2,7:02.0,J. Jackson misses 2-pt jump shot from 7 ft,,25,48
+2,7:01.0,Offensive rebound by J. Jackson,,25,48
+2,7:01.0,J. Jackson misses 2-pt layup at rim,,25,48
+2,7:00.0,Offensive rebound by Team,,25,48
+2,7:00.0,,L. Dončić enters the game for J. Brunson,25,48
+2,6:58.0,Shooting foul by M. Kleber (drawn by D. Bender),,25,48
+2,6:58.0,D. Bender makes free throw 1 of 2,,26,48
+2,6:58.0,,D. Nowitzki enters the game for M. Kleber,26,48
+2,6:58.0,D. Bender makes free throw 2 of 2,,27,48
+2,6:46.0,,D. Nowitzki misses 3-pt jump shot from 26 ft,27,48
+2,6:43.0,Defensive rebound by D. Melton,,27,48
+2,6:37.0,Turnover by J. Jackson (bad pass; steal by R. Broekhoff),,27,48
+2,6:32.0,,Turnover by R. Broekhoff (bad pass; steal by D. Melton),27,48
+2,6:29.0,D. Melton makes 2-pt layup from 1 ft,,29,48
+2,6:15.0,,Turnover by R. Broekhoff (step out of bounds),29,48
+2,6:06.0,Offensive foul by D. Bender (drawn by R. Broekhoff),,29,48
+2,6:06.0,Turnover by D. Bender (offensive foul),,29,48
+2,5:53.0,,Turnover by R. Broekhoff (lost ball; steal by D. Melton),29,48
+2,5:49.0,Turnover by D. Melton (bad pass; steal by L. Dončić),,29,48
+2,5:46.0,,L. Dončić makes 2-pt layup from 1 ft,29,50
+2,5:38.0,D. Bender misses 3-pt jump shot from 25 ft,,29,50
+2,5:35.0,,Defensive rebound by D. Finney-Smith,29,50
+2,5:29.0,,Turnover by D. Finney-Smith (palming),29,50
+2,5:29.0,J. Crawford enters the game for D. Melton,,29,50
+2,5:29.0,,J. Jackson enters the game for R. Broekhoff,29,50
+2,5:17.0,M. Bridges misses 3-pt jump shot from 24 ft,,29,50
+2,5:14.0,,Defensive rebound by T. Burke,29,50
+2,5:01.0,,D. Nowitzki makes 2-pt jump shot from 11 ft (assist by D. Finney-Smith),29,52
+2,4:53.0,J. Crawford makes 2-pt layup from 2 ft,,31,52
+2,4:46.0,,D. Finney-Smith misses 2-pt layup from 4 ft (block by J. Jackson),31,52
+2,4:43.0,,Offensive rebound by D. Finney-Smith,31,52
+2,4:41.0,,D. Nowitzki makes 3-pt jump shot from 25 ft (assist by D. Finney-Smith),31,55
+2,4:25.0,J. Jackson misses 3-pt jump shot from 23 ft,,31,55
+2,4:24.0,Offensive rebound by D. Bender,,31,55
+2,4:24.0,Shooting foul by D. Nowitzki (drawn by D. Bender),,31,55
+2,4:24.0,D. Bender makes free throw 1 of 2,,32,55
+2,4:24.0,D. Bender misses free throw 2 of 2,,32,55
+2,4:23.0,,Defensive rebound by D. Nowitzki,32,55
+2,4:23.0,,Dallas full timeout,32,55
+2,4:07.0,,D. Nowitzki misses 2-pt jump shot from 17 ft,32,55
+2,4:05.0,,Offensive rebound by D. Finney-Smith,32,55
+2,4:01.0,,T. Burke makes 3-pt jump shot from 25 ft,32,58
+2,3:43.0,J. Jackson makes 2-pt jump shot from 7 ft (assist by D. Bender),,34,58
+2,3:34.0,,Turnover by L. Dončić (bad pass; steal by M. Bridges),34,58
+2,3:33.0,Personal take foul by D. Nowitzki (drawn by M. Bridges),,34,58
+2,3:33.0,M. Bridges makes free throw 1 of 2,,35,58
+2,3:33.0,,M. Kleber enters the game for D. Nowitzki,35,58
+2,3:33.0,M. Bridges makes free throw 2 of 2,,36,58
+2,3:16.0,,L. Dončić misses 3-pt jump shot from 26 ft,36,58
+2,3:13.0,,Offensive rebound by D. Finney-Smith,36,58
+2,3:11.0,,D. Finney-Smith makes 2-pt dunk from 1 ft,36,60
+2,3:02.0,J. Crawford misses 2-pt jump shot from 20 ft,,36,60
+2,2:59.0,,Defensive rebound by L. Dončić,36,60
+2,2:55.0,,L. Dončić misses 2-pt layup from 10 ft (block by J. Crawford),36,60
+2,2:52.0,Defensive rebound by J. Crawford,,36,60
+2,2:44.0,D. Bender misses 2-pt layup from 1 ft,,36,60
+2,2:41.0,,Defensive rebound by M. Kleber,36,60
+2,2:32.0,,M. Kleber makes 3-pt jump shot from 25 ft (assist by L. Dončić),36,63
+2,2:13.0,J. Crawford misses 3-pt jump shot from 25 ft,,36,63
+2,2:10.0,,Defensive rebound by L. Dončić,36,63
+2,2:04.0,,J. Jackson makes 2-pt layup from 2 ft (assist by L. Dončić),36,65
+2,2:04.0,Phoenix full timeout,,36,65
+2,2:04.0,R. Spalding enters the game for D. Bender,,36,65
+2,2:04.0,,D. Nowitzki enters the game for D. Finney-Smith,36,65
+2,1:54.0,J. Crawford misses 2-pt layup from 3 ft,,36,65
+2,1:52.0,Offensive rebound by R. Spalding,,36,65
+2,1:51.0,R. Spalding misses 2-pt dunk at rim,,36,65
+2,1:50.0,Offensive rebound by Team,,36,65
+2,1:42.0,J. Crawford misses 2-pt jump shot from 18 ft,,36,65
+2,1:39.0,,Defensive rebound by L. Dončić,36,65
+2,1:17.0,,L. Dončić makes 2-pt jump shot from 20 ft (assist by D. Nowitzki),36,67
+2,1:17.0,,Shooting foul by J. Jackson (drawn by L. Dončić),36,67
+2,1:17.0,,L. Dončić makes free throw 1 of 1,36,68
+2,1:04.0,J. Jackson makes 2-pt jump shot from 5 ft (assist by J. Crawford),,38,68
+2,0:44.0,,D. Nowitzki misses 2-pt jump shot from 12 ft,38,68
+2,0:42.0,Defensive rebound by E. Okobo,,38,68
+2,0:35.0,R. Spalding misses 2-pt layup from 4 ft (block by D. Nowitzki),,38,68
+2,0:34.0,,Defensive rebound by Team,38,68
+2,0:31.0,,D. Nowitzki misses 3-pt jump shot from 26 ft,38,68
+2,0:28.0,Defensive rebound by J. Crawford,,38,68
+2,0:08.0,Personal foul by T. Burke (drawn by R. Spalding),,38,68
+2,0:08.0,R. Spalding misses free throw 1 of 2,,38,68
+2,0:08.0,Offensive rebound by Team,,38,68
+2,0:08.0,D. Melton enters the game for J. Crawford,,38,68
+2,0:08.0,R. Spalding misses free throw 2 of 2,,38,68
+2,0:06.0,,Defensive rebound by L. Dončić,38,68
+2,0:01.0,,D. Nowitzki misses 3-pt jump shot from 25 ft,38,68
+2,0:00.0,,Offensive rebound by M. Kleber,38,68
+3,11:49.0,,D. Nowitzki misses 2-pt jump shot from 20 ft,38,68
+3,11:47.0,Defensive rebound by Team,,38,68
+3,11:32.0,E. Okobo makes 3-pt jump shot from 25 ft,,41,68
+3,11:15.0,,Turnover by J. Jackson (bad pass; steal by D. Bender),41,68
+3,11:12.0,E. Okobo makes 3-pt jump shot from 25 ft (assist by D. Bender),,44,68
+3,10:57.0,,D. Powell misses 3-pt jump shot from 25 ft,44,68
+3,10:55.0,,Offensive rebound by D. Powell,44,68
+3,10:53.0,,D. Nowitzki makes 3-pt jump shot from 25 ft (assist by D. Powell),44,71
+3,10:36.0,J. Jackson makes 3-pt jump shot from 25 ft (assist by R. Spalding),,47,71
+3,10:19.0,,Shooting foul by E. Okobo (drawn by D. Harris),47,71
+3,10:19.0,,D. Harris makes free throw 1 of 3,47,72
+3,10:19.0,,D. Harris makes free throw 2 of 3,47,73
+3,10:19.0,J. Crawford enters the game for R. Spalding,,47,73
+3,10:19.0,,D. Harris makes free throw 3 of 3,47,74
+3,10:01.0,E. Okobo misses 2-pt jump shot from 16 ft,,47,74
+3,9:58.0,,Defensive rebound by L. Dončić,47,74
+3,9:38.0,,D. Nowitzki misses 2-pt jump shot from 9 ft,47,74
+3,9:35.0,,Offensive rebound by L. Dončić,47,74
+3,9:33.0,,L. Dončić misses 2-pt layup at rim,47,74
+3,9:31.0,,Offensive rebound by L. Dončić,47,74
+3,9:31.0,,L. Dončić makes 2-pt layup at rim,47,76
+3,9:28.0,J. Jackson misses 2-pt layup from 5 ft (block by D. Powell),,47,76
+3,9:25.0,,Defensive rebound by L. Dončić,47,76
+3,9:15.0,,D. Nowitzki makes 2-pt dunk at rim (assist by D. Powell),47,78
+3,8:55.0,J. Crawford makes 2-pt jump shot from 11 ft,,49,78
+3,8:39.0,,D. Nowitzki makes 2-pt jump shot from 13 ft (assist by L. Dončić),49,80
+3,8:27.0,D. Bender misses 3-pt jump shot from 26 ft,,49,80
+3,8:22.0,,Defensive rebound by L. Dončić,49,80
+3,8:17.0,,D. Nowitzki misses 3-pt jump shot from 26 ft,49,80
+3,8:13.0,,Offensive rebound by D. Powell,49,80
+3,8:06.0,,Turnover by L. Dončić (bad pass; steal by E. Okobo),49,80
+3,8:06.0,Personal take foul by D. Nowitzki (drawn by E. Okobo),,49,80
+3,7:51.0,J. Crawford makes 2-pt jump shot from 13 ft,,51,80
+3,7:34.0,,Turnover by D. Harris (traveling),51,80
+3,7:24.0,J. Jackson misses 3-pt jump shot from 25 ft,,51,80
+3,7:20.0,,Defensive rebound by D. Harris,51,80
+3,7:10.0,,Personal foul by D. Bender (drawn by D. Nowitzki),51,80
+3,6:57.0,,L. Dončić misses 2-pt jump shot from 8 ft,51,80
+3,6:55.0,Defensive rebound by D. Bender,,51,80
+3,6:47.0,J. Jackson misses 3-pt jump shot from 25 ft,,51,80
+3,6:45.0,,Defensive rebound by D. Powell,51,80
+3,6:45.0,,Dallas full timeout,51,80
+3,6:45.0,,J. Brunson enters the game for D. Harris,51,80
+3,6:45.0,,D. Finney-Smith enters the game for D. Nowitzki,51,80
+3,6:45.0,,M. Kleber enters the game for D. Powell,51,80
+3,6:33.0,,Turnover by M. Kleber (bad pass; steal by J. Crawford),51,80
+3,6:29.0,D. Bender makes 2-pt dunk at rim (assist by J. Crawford),,53,80
+3,6:14.0,,D. Finney-Smith makes 3-pt jump shot from 26 ft (assist by L. Dončić),53,83
+3,5:54.0,Shooting foul by L. Dončić (drawn by J. Crawford),,53,83
+3,5:54.0,Technical foul by J. Jackson,,53,83
+3,5:54.0,,L. Dončić makes technical free throw,53,84
+3,5:54.0,J. Crawford makes free throw 1 of 3,,54,84
+3,5:54.0,J. Crawford makes free throw 2 of 3,,55,84
+3,5:54.0,J. Crawford makes free throw 3 of 3,,56,84
+3,5:47.0,,Offensive foul by M. Kleber (drawn by J. Jackson),56,84
+3,5:47.0,,Turnover by M. Kleber (offensive foul),56,84
+3,5:34.0,M. Bridges makes 2-pt layup at rim (assist by D. Bender),,58,84
+3,5:21.0,,D. Finney-Smith makes 2-pt jump shot from 21 ft,58,86
+3,5:08.0,J. Jackson makes 3-pt jump shot from 25 ft (assist by D. Bender),,61,86
+3,4:53.0,,Turnover by L. Dončić (bad pass; steal by E. Okobo),61,86
+3,4:47.0,Turnover by E. Okobo (bad pass; steal by J. Jackson),,61,86
+3,4:47.0,,Personal take foul by E. Okobo (drawn by J. Jackson),61,86
+3,4:47.0,,D. Harris enters the game for L. Dončić,61,86
+3,4:47.0,,D. Nowitzki enters the game for J. Jackson,61,86
+3,4:35.0,,Turnover by D. Harris (lost ball; steal by M. Bridges),61,86
+3,4:33.0,M. Bridges makes 2-pt layup from 1 ft,,63,86
+3,4:33.0,Shooting foul by D. Harris (drawn by M. Bridges),,63,86
+3,4:33.0,M. Bridges misses free throw 1 of 1,,63,86
+3,4:30.0,,Defensive rebound by M. Kleber,63,86
+3,4:09.0,,D. Finney-Smith makes 2-pt layup from 1 ft (assist by D. Nowitzki),63,88
+3,4:01.0,J. Crawford makes 3-pt jump shot from 25 ft (assist by E. Okobo),,66,88
+3,3:42.0,,D. Finney-Smith makes 2-pt dunk at rim (assist by J. Brunson),66,90
+3,3:24.0,M. Bridges makes 2-pt layup from 2 ft (assist by D. Bender),,68,90
+3,3:07.0,,J. Brunson misses 2-pt layup from 4 ft (block by D. Bender),68,90
+3,3:07.0,,Offensive rebound by Team,68,90
+3,3:07.0,D. Melton enters the game for J. Jackson,,68,90
+3,3:00.0,,D. Harris misses 2-pt hook shot from 11 ft,68,90
+3,2:59.0,,Offensive rebound by D. Finney-Smith,68,90
+3,2:58.0,,Turnover by Team (shot clock),68,90
+3,2:58.0,Phoenix full timeout,,68,90
+3,2:37.0,M. Bridges makes 2-pt layup from 1 ft,,70,90
+3,2:20.0,,J. Brunson makes 2-pt dunk from 1 ft,70,92
+3,2:08.0,J. Crawford makes 2-pt jump shot from 15 ft,,72,92
+3,2:08.0,Shooting foul by J. Brunson (drawn by J. Crawford),,72,92
+3,2:08.0,,D. Powell enters the game for M. Kleber,72,92
+3,2:08.0,J. Crawford makes free throw 1 of 1,,73,92
+3,1:56.0,,D. Harris misses 2-pt layup from 1 ft,73,92
+3,1:53.0,Defensive rebound by D. Bender,,73,92
+3,1:49.0,D. Melton makes 2-pt layup from 4 ft (assist by J. Crawford),,75,92
+3,1:49.0,Shooting foul by D. Powell (drawn by D. Melton),,75,92
+3,1:49.0,D. Melton misses free throw 1 of 1,,75,92
+3,1:45.0,,Defensive rebound by D. Finney-Smith,75,92
+3,1:39.0,,D. Powell makes 2-pt dunk from 1 ft (assist by D. Harris),75,94
+3,1:39.0,,Shooting foul by D. Bender (drawn by D. Powell),75,94
+3,1:39.0,R. Spalding enters the game for D. Bender,,75,94
+3,1:39.0,,D. Powell makes free throw 1 of 1,75,95
+3,1:22.0,D. Melton misses 2-pt hook shot from 7 ft,,75,95
+3,1:20.0,,Defensive rebound by D. Harris,75,95
+3,1:19.0,,Turnover by D. Harris (lost ball; steal by D. Melton),75,95
+3,1:19.0,Personal foul by D. Harris (drawn by D. Melton),,75,95
+3,1:19.0,D. Melton makes free throw 1 of 2,,76,95
+3,1:19.0,J. Fredette enters the game for M. Bridges,,76,95
+3,1:19.0,J. Jackson enters the game for E. Okobo,,76,95
+3,1:19.0,D. Melton makes free throw 2 of 2,,77,95
+3,1:04.0,,D. Harris misses 2-pt layup from 6 ft,77,95
+3,1:01.0,Defensive rebound by R. Spalding,,77,95
+3,0:57.0,J. Jackson misses 3-pt jump shot from 26 ft,,77,95
+3,0:55.0,,Defensive rebound by J. Brunson,77,95
+3,0:37.0,,D. Nowitzki misses 2-pt jump shot from 6 ft (block by R. Spalding),77,95
+3,0:35.0,,Offensive rebound by D. Nowitzki,77,95
+3,0:35.0,,Personal foul by D. Melton (drawn by D. Powell),77,95
+3,0:35.0,,D. Powell makes free throw 1 of 2,77,96
+3,0:35.0,,R. Broekhoff enters the game for D. Nowitzki,77,96
+3,0:35.0,,D. Powell misses free throw 2 of 2,77,96
+3,0:33.0,Defensive rebound by D. Melton,,77,96
+3,0:14.0,R. Spalding makes 2-pt dunk at rim (assist by J. Fredette),,79,96
+3,0:02.0,,D. Powell makes 2-pt hook shot from 5 ft,79,98
+3,0:01.0,J. Fredette misses 3-pt jump shot from 56 ft,,79,98
+3,0:01.0,Offensive rebound by Team,,79,98
+4,11:49.0,R. Spalding misses 2-pt hook shot from 4 ft,,79,98
+4,11:47.0,,Defensive rebound by D. Powell,79,98
+4,11:32.0,,R. Broekhoff misses 2-pt jump shot from 11 ft,79,98
+4,11:29.0,,Offensive rebound by D. Finney-Smith,79,98
+4,11:26.0,,Shooting foul by R. Spalding (drawn by J. Brunson),79,98
+4,11:26.0,,J. Brunson makes free throw 1 of 2,79,99
+4,11:26.0,,J. Brunson misses free throw 2 of 2,79,99
+4,11:23.0,Defensive rebound by R. Spalding,,79,99
+4,11:04.0,J. Crawford makes 2-pt layup from 1 ft (assist by J. Fredette),,81,99
+4,10:49.0,,D. Powell makes 2-pt layup from 1 ft (assist by T. Burke),81,101
+4,10:41.0,J. Jackson misses 2-pt layup from 4 ft (block by D. Powell),,81,101
+4,10:41.0,,Defensive rebound by D. Powell,81,101
+4,10:32.0,,J. Brunson misses 3-pt jump shot from 23 ft,81,101
+4,10:30.0,,Offensive rebound by D. Finney-Smith,81,101
+4,10:28.0,,T. Burke misses 3-pt jump shot from 25 ft,81,101
+4,10:25.0,Defensive rebound by J. Jackson,,81,101
+4,10:18.0,R. Spalding misses 3-pt jump shot from 26 ft,,81,101
+4,10:15.0,,Defensive rebound by J. Brunson,81,101
+4,9:58.0,,R. Broekhoff misses 3-pt jump shot from 25 ft,81,101
+4,9:56.0,Defensive rebound by R. Spalding,,81,101
+4,9:48.0,J. Crawford makes 2-pt jump shot from 18 ft,,83,101
+4,9:27.0,,D. Powell misses 3-pt jump shot from 25 ft,83,101
+4,9:23.0,Defensive rebound by J. Fredette,,83,101
+4,9:17.0,J. Fredette misses 3-pt jump shot from 25 ft,,83,101
+4,9:14.0,,Defensive rebound by R. Broekhoff,83,101
+4,9:03.0,,D. Finney-Smith misses 3-pt jump shot from 26 ft,83,101
+4,9:00.0,Defensive rebound by J. Jackson,,83,101
+4,9:00.0,Personal foul by J. Brunson (drawn by D. Melton),,83,101
+4,9:00.0,D. Bender enters the game for R. Spalding,,83,101
+4,9:00.0,,D. Nowitzki enters the game for D. Finney-Smith,83,101
+4,8:55.0,J. Crawford makes 3-pt jump shot from 24 ft (assist by D. Bender),,86,101
+4,8:52.0,,Dallas full timeout,86,101
+4,8:30.0,,J. Brunson misses 3-pt jump shot from 26 ft,86,101
+4,8:26.0,Defensive rebound by J. Fredette,,86,101
+4,8:09.0,J. Crawford makes 2-pt jump shot from 17 ft,,88,101
+4,7:58.0,,Personal foul by J. Crawford (drawn by D. Nowitzki),88,101
+4,7:58.0,,L. Dončić enters the game for R. Broekhoff,88,101
+4,7:58.0,,J. Jackson enters the game for J. Brunson,88,101
+4,7:50.0,,Turnover by D. Powell (traveling),88,101
+4,7:47.0,J. Crawford makes 3-pt jump shot from 26 ft,,91,101
+4,7:47.0,Shooting foul by T. Burke (drawn by J. Crawford),,91,101
+4,7:47.0,,J. Brunson enters the game for T. Burke,91,101
+4,7:47.0,J. Crawford misses free throw 1 of 1,,91,101
+4,7:43.0,,Defensive rebound by D. Nowitzki,91,101
+4,7:36.0,,Personal foul by D. Melton (drawn by L. Dončić),91,101
+4,7:27.0,,J. Jackson misses 3-pt jump shot from 24 ft,91,101
+4,7:24.0,Defensive rebound by J. Crawford,,91,101
+4,7:18.0,J. Jackson misses 2-pt layup from 1 ft,,91,101
+4,7:17.0,,Defensive rebound by L. Dončić,91,101
+4,7:14.0,,Personal take foul by J. Crawford (drawn by L. Dončić),91,101
+4,7:05.0,,D. Nowitzki misses 3-pt jump shot from 26 ft,91,101
+4,7:01.0,Defensive rebound by D. Melton,,91,101
+4,6:43.0,J. Fredette misses 2-pt jump shot from 22 ft,,91,101
+4,6:41.0,,Defensive rebound by D. Nowitzki,91,101
+4,6:34.0,,L. Dončić makes 2-pt layup from 2 ft,91,103
+4,6:24.0,J. Crawford misses 3-pt jump shot from 26 ft,,91,103
+4,6:22.0,,Defensive rebound by Team,91,103
+4,6:07.0,,J. Jackson makes 2-pt layup from 1 ft (assist by D. Nowitzki),91,105
+4,6:07.0,Phoenix full timeout,,91,105
+4,6:07.0,M. Bridges enters the game for D. Melton,,91,105
+4,6:07.0,,M. Kleber enters the game for D. Nowitzki,91,105
+4,5:58.0,Turnover by J. Fredette (traveling),,91,105
+4,5:49.0,,L. Dončić misses 3-pt jump shot from 25 ft,91,105
+4,5:45.0,Defensive rebound by D. Bender,,91,105
+4,5:38.0,D. Bender makes 2-pt layup from 2 ft (assist by J. Crawford),,93,105
+4,5:22.0,,Turnover by L. Dončić (bad pass; steal by M. Bridges),93,105
+4,5:15.0,J. Jackson makes 2-pt layup from 2 ft (assist by J. Crawford),,95,105
+4,4:57.0,,J. Brunson misses 2-pt jump shot from 16 ft,95,105
+4,4:56.0,,Offensive rebound by D. Powell,95,105
+4,4:48.0,,L. Dončić misses 2-pt hook shot from 3 ft,95,105
+4,4:45.0,Defensive rebound by D. Bender,,95,105
+4,4:42.0,Shooting foul by J. Jackson (drawn by J. Crawford),,95,105
+4,4:42.0,J. Crawford makes free throw 1 of 2,,96,105
+4,4:42.0,J. Crawford makes free throw 2 of 2,,97,105
+4,4:26.0,,J. Jackson misses 2-pt jump shot from 11 ft,97,105
+4,4:22.0,Defensive rebound by D. Bender,,97,105
+4,4:20.0,J. Crawford makes 3-pt jump shot from 26 ft (assist by J. Fredette),,100,105
+4,4:19.0,,Dallas full timeout,100,105
+4,4:07.0,,Shooting foul by M. Bridges (drawn by L. Dončić),100,105
+4,4:07.0,,L. Dončić makes free throw 1 of 2,100,106
+4,4:07.0,,L. Dončić makes free throw 2 of 2,100,107
+4,3:56.0,J. Jackson misses 2-pt layup from 4 ft (block by D. Powell),,100,107
+4,3:54.0,,Defensive rebound by M. Kleber,100,107
+4,3:49.0,,J. Brunson misses 2-pt jump shot from 7 ft,100,107
+4,3:49.0,Defensive rebound by Team,,100,107
+4,3:49.0,Personal foul by D. Powell (drawn by D. Bender),,100,107
+4,3:39.0,J. Crawford makes 3-pt jump shot from 25 ft,,103,107
+4,3:24.0,,L. Dončić makes 3-pt jump shot from 25 ft,103,110
+4,3:13.0,J. Crawford misses 3-pt jump shot from 27 ft,,103,110
+4,3:10.0,Offensive rebound by Team,,103,110
+4,3:10.0,,D. Nowitzki enters the game for D. Powell,103,110
+4,3:10.0,Violation by Team (kicked ball),,103,110
+4,2:58.0,,J. Jackson makes 3-pt jump shot from 25 ft (assist by L. Dončić),103,113
+4,2:58.0,Phoenix full timeout,,103,113
+4,2:42.0,J. Jackson misses 2-pt hook shot from 10 ft,,103,113
+4,2:40.0,,Defensive rebound by D. Nowitzki,103,113
+4,2:29.0,,D. Nowitzki misses 3-pt jump shot from 27 ft,103,113
+4,2:26.0,Defensive rebound by J. Crawford,,103,113
+4,2:24.0,Turnover by J. Crawford (out of bounds lost ball),,103,113
+4,2:11.0,,L. Dončić makes 3-pt jump shot from 25 ft,103,116
+4,2:00.0,J. Crawford makes 2-pt layup from 1 ft,,105,116
+4,1:55.0,,Shooting foul by J. Jackson (drawn by D. Nowitzki),105,116
+4,1:55.0,,D. Nowitzki makes free throw 1 of 2,105,117
+4,1:55.0,,D. Nowitzki makes free throw 2 of 2,105,118
+4,1:42.0,J. Crawford misses 3-pt jump shot from 26 ft,,105,118
+4,1:39.0,,Defensive rebound by M. Kleber,105,118
+4,1:22.0,,D. Nowitzki makes 2-pt jump shot from 15 ft,105,120
+4,1:13.0,Personal foul by M. Kleber (drawn by J. Crawford),,105,120
+4,1:13.0,J. Crawford makes free throw 1 of 2,,106,120
+4,1:13.0,J. Crawford makes free throw 2 of 2,,107,120
+4,0:53.0,,D. Nowitzki misses 2-pt jump shot from 22 ft,107,120
+4,0:50.0,Defensive rebound by D. Bender,,107,120
+4,0:46.0,Turnover by J. Crawford (lost ball; steal by L. Dončić),,107,120
+4,0:40.0,,D. Nowitzki misses 3-pt jump shot from 26 ft,107,120
+4,0:35.0,,Offensive rebound by L. Dončić,107,120
+4,0:33.0,,D. Nowitzki misses 3-pt jump shot from 29 ft,107,120
+4,0:29.0,Defensive rebound by J. Jackson,,107,120
+4,0:23.0,J. Crawford makes 2-pt layup from 1 ft (assist by J. Fredette),,109,120

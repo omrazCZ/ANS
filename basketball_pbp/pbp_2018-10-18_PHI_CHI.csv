@@ -1,0 +1,481 @@
+QUARTER,TIME_REMAINING,CHICAGO_ACTION,PHILADELPHIA_ACTION,CHICAGO_SCORE,PHILADELPHIA_SCORE
+1,11:44.0,Z. LaVine makes 3-pt jump shot from 26 ft (assist by C. Payne),,3,0
+1,11:29.0,,Shooting foul by W. Carter (drawn by J. Embiid),3,0
+1,11:29.0,,J. Embiid makes free throw 1 of 2,3,1
+1,11:29.0,,J. Embiid makes free throw 2 of 2,3,2
+1,11:13.0,Z. LaVine misses 3-pt jump shot from 25 ft,,3,2
+1,11:06.0,,Defensive rebound by B. Simmons,3,2
+1,11:05.0,,R. Covington makes 2-pt layup from 3 ft (assist by B. Simmons),3,4
+1,10:47.0,B. Portis makes 2-pt hook shot from 10 ft,,5,4
+1,10:33.0,,Turnover by R. Covington (out of bounds lost ball),5,4
+1,10:23.0,Personal foul by R. Covington (drawn by Z. LaVine),,5,4
+1,10:20.0,C. Payne misses 2-pt jump shot from 12 ft (block by B. Simmons),,5,4
+1,10:20.0,Offensive rebound by Team,,5,4
+1,10:12.0,Turnover by Z. LaVine (bad pass; steal by J. Embiid),,5,4
+1,10:04.0,,D. Šarić misses 2-pt jump shot from 11 ft,5,4
+1,10:02.0,,Offensive rebound by J. Embiid,5,4
+1,10:00.0,,J. Embiid makes 2-pt layup from 3 ft,5,6
+1,9:48.0,W. Carter misses 2-pt hook shot from 9 ft,,5,6
+1,9:45.0,,Defensive rebound by J. Embiid,5,6
+1,9:42.0,,Shooting foul by J. Holiday (drawn by R. Covington),5,6
+1,9:42.0,,R. Covington makes free throw 1 of 2,5,7
+1,9:42.0,,R. Covington makes free throw 2 of 2,5,8
+1,9:29.0,J. Holiday makes 3-pt jump shot from 26 ft (assist by W. Carter),,8,8
+1,9:16.0,,J. Embiid makes 2-pt dunk from 1 ft (assist by D. Šarić),8,10
+1,9:12.0,J. Holiday misses 3-pt jump shot from 26 ft,,8,10
+1,9:08.0,,Defensive rebound by B. Simmons,8,10
+1,9:00.0,,M. Fultz misses 2-pt jump shot from 13 ft,8,10
+1,8:57.0,Defensive rebound by Z. LaVine,,8,10
+1,8:49.0,W. Carter misses 2-pt layup from 2 ft (block by J. Embiid),,8,10
+1,8:49.0,Offensive rebound by Team,,8,10
+1,8:42.0,W. Carter makes 2-pt jump shot from 16 ft (assist by Z. LaVine),,10,10
+1,8:20.0,,J. Embiid makes 2-pt jump shot from 10 ft,10,12
+1,8:10.0,Z. LaVine makes 2-pt hook shot from 4 ft,,12,12
+1,8:00.0,,Personal foul by B. Portis (drawn by D. Šarić),12,12
+1,7:52.0,,M. Fultz misses 2-pt jump shot from 16 ft,12,12
+1,7:49.0,Defensive rebound by W. Carter,,12,12
+1,7:48.0,Turnover by W. Carter (lost ball; steal by D. Šarić),,12,12
+1,7:48.0,,Shooting foul by J. Holiday (drawn by J. Embiid),12,12
+1,7:48.0,,J. Embiid makes free throw 1 of 2,12,13
+1,7:48.0,A. Blakeney enters the game for J. Holiday,,12,13
+1,7:48.0,,J. Embiid makes free throw 2 of 2,12,14
+1,7:38.0,B. Portis makes 3-pt jump shot from 27 ft (assist by Z. LaVine),,15,14
+1,7:22.0,,J. Embiid makes 2-pt layup from 1 ft,15,16
+1,7:03.0,Z. LaVine makes 2-pt jump shot from 22 ft,,17,16
+1,7:02.0,,Philadelphia full timeout,17,16
+1,7:02.0,,A. Johnson enters the game for J. Embiid,17,16
+1,7:02.0,,T. McConnell enters the game for M. Fultz,17,16
+1,7:02.0,,J. Redick enters the game for D. Šarić,17,16
+1,6:50.0,,B. Simmons makes 2-pt dunk from 1 ft (assist by A. Johnson),17,18
+1,6:35.0,W. Carter makes 2-pt jump shot from 9 ft (assist by C. Payne),,19,18
+1,6:19.0,,A. Johnson makes 2-pt layup from 1 ft (assist by J. Redick),19,20
+1,6:00.0,B. Portis makes 2-pt hook shot from 5 ft,,21,20
+1,5:53.0,,B. Simmons makes 2-pt dunk at rim (assist by T. McConnell),21,22
+1,5:53.0,R. Lopez enters the game for W. Carter,,21,22
+1,5:39.0,B. Portis makes 3-pt jump shot from 23 ft (assist by C. Payne),,24,22
+1,5:27.0,,J. Redick makes 2-pt jump shot from 19 ft (assist by B. Simmons),24,24
+1,5:12.0,Z. LaVine makes 2-pt jump shot from 4 ft,,26,24
+1,5:12.0,Shooting foul by A. Johnson (drawn by Z. LaVine),,26,24
+1,5:12.0,R. Arcidiacono enters the game for C. Payne,,26,24
+1,5:12.0,Z. LaVine makes free throw 1 of 1,,27,24
+1,5:03.0,,T. McConnell makes 2-pt jump shot from 12 ft,27,26
+1,4:49.0,B. Portis makes 3-pt jump shot from 26 ft (assist by R. Arcidiacono),,30,26
+1,4:30.0,,A. Johnson makes 2-pt dunk at rim (assist by T. McConnell),30,28
+1,4:12.0,Z. LaVine makes 2-pt layup from 1 ft,,32,28
+1,4:02.0,,R. Covington misses 2-pt jump shot from 19 ft,32,28
+1,3:59.0,Defensive rebound by A. Blakeney,,32,28
+1,3:54.0,A. Blakeney makes 2-pt layup from 2 ft,,34,28
+1,3:54.0,Shooting foul by A. Johnson (drawn by A. Blakeney),,34,28
+1,3:54.0,A. Blakeney misses free throw 1 of 1,,34,28
+1,3:54.0,,Defensive rebound by B. Simmons,34,28
+1,3:37.0,,R. Covington misses 3-pt jump shot from 25 ft,34,28
+1,3:35.0,,Offensive rebound by B. Simmons,34,28
+1,3:33.0,,R. Covington makes 3-pt jump shot from 25 ft (assist by B. Simmons),34,31
+1,3:10.0,R. Lopez makes 2-pt jump shot from 18 ft (assist by R. Arcidiacono),,36,31
+1,3:03.0,,Personal foul by A. Blakeney (drawn by T. McConnell),36,31
+1,3:03.0,,T. McConnell makes free throw 1 of 2,36,32
+1,3:03.0,J. Parker enters the game for B. Portis,,36,32
+1,3:03.0,,J. Embiid enters the game for R. Covington,36,32
+1,3:03.0,,M. Fultz enters the game for A. Johnson,36,32
+1,3:03.0,,D. Šarić enters the game for B. Simmons,36,32
+1,3:03.0,,T. McConnell makes free throw 2 of 2,36,33
+1,2:46.0,Z. LaVine makes 2-pt jump shot from 13 ft,,38,33
+1,2:32.0,,D. Šarić makes 2-pt hook shot from 6 ft (assist by T. McConnell),38,35
+1,2:17.0,Def 3 sec tech foul by Team,,38,35
+1,2:17.0,Chicago full timeout,,38,35
+1,2:17.0,,L. Shamet enters the game for T. McConnell,38,35
+1,2:17.0,Z. LaVine makes technical free throw,,39,35
+1,2:11.0,R. Lopez misses 2-pt hook shot from 8 ft,,39,35
+1,2:08.0,,Defensive rebound by D. Šarić,39,35
+1,2:05.0,,Personal foul by Z. LaVine (drawn by M. Fultz),39,35
+1,2:05.0,,M. Fultz makes free throw 1 of 2,39,36
+1,2:05.0,J. Holiday enters the game for Z. LaVine,,39,36
+1,2:05.0,,M. Fultz misses free throw 2 of 2,39,36
+1,2:02.0,Defensive rebound by A. Blakeney,,39,36
+1,1:55.0,J. Parker misses 2-pt jump shot from 12 ft,,39,36
+1,1:51.0,,Defensive rebound by J. Redick,39,36
+1,1:40.0,,D. Šarić misses 3-pt jump shot from 26 ft,39,36
+1,1:38.0,Defensive rebound by J. Holiday,,39,36
+1,1:28.0,A. Blakeney misses 2-pt jump shot from 16 ft,,39,36
+1,1:25.0,,Defensive rebound by D. Šarić,39,36
+1,1:12.0,,J. Embiid makes 2-pt jump shot from 10 ft,39,38
+1,0:56.0,A. Blakeney makes 2-pt jump shot from 18 ft (assist by R. Lopez),,41,38
+1,0:42.0,,Turnover by J. Embiid (traveling),41,38
+1,0:33.0,J. Holiday misses 3-pt jump shot from 26 ft,,41,38
+1,0:30.0,Offensive rebound by J. Parker,,41,38
+1,0:22.0,A. Blakeney misses 2-pt jump shot from 6 ft,,41,38
+1,0:20.0,,Defensive rebound by J. Embiid,41,38
+1,0:03.0,,L. Shamet misses 3-pt jump shot from 24 ft,41,38
+1,0:01.0,Defensive rebound by R. Arcidiacono,,41,38
+1,0:00.0,R. Arcidiacono misses 3-pt jump shot from 38 ft,,41,38
+1,0:00.0,Offensive rebound by Team,,41,38
+2,11:53.0,,M. Fultz misses 2-pt layup from 4 ft (block by R. Lopez),41,38
+2,11:53.0,Defensive rebound by Team,,41,38
+2,11:37.0,J. Parker misses 3-pt jump shot from 26 ft,,41,38
+2,11:34.0,,Defensive rebound by J. Embiid,41,38
+2,11:14.0,,M. Fultz misses 2-pt jump shot from 18 ft,41,38
+2,11:10.0,Defensive rebound by J. Holiday,,41,38
+2,10:55.0,J. Parker misses 2-pt jump shot from 19 ft,,41,38
+2,10:52.0,,Defensive rebound by J. Embiid,41,38
+2,10:48.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by J. Embiid),41,41
+2,10:48.0,,Shooting foul by A. Blakeney (drawn by J. Redick),41,41
+2,10:48.0,B. Portis enters the game for J. Parker,,41,41
+2,10:48.0,,J. Redick makes free throw 1 of 1,41,42
+2,10:34.0,A. Blakeney makes 3-pt jump shot from 26 ft (assist by B. Portis),,44,42
+2,10:20.0,,J. Embiid misses 2-pt jump shot from 16 ft,44,42
+2,10:17.0,Defensive rebound by R. Arcidiacono,,44,42
+2,10:12.0,A. Blakeney misses 2-pt jump shot from 22 ft,,44,42
+2,10:09.0,,Defensive rebound by J. Redick,44,42
+2,10:04.0,,D. Šarić misses 3-pt jump shot from 26 ft,44,42
+2,10:01.0,Defensive rebound by R. Arcidiacono,,44,42
+2,9:47.0,B. Portis makes 2-pt hook shot from 4 ft (assist by J. Holiday),,46,42
+2,9:37.0,,Offensive foul by J. Redick (drawn by R. Lopez),46,42
+2,9:37.0,,Turnover by J. Redick (offensive foul),46,42
+2,9:27.0,A. Blakeney misses 2-pt jump shot from 12 ft,,46,42
+2,9:24.0,,Defensive rebound by J. Embiid,46,42
+2,9:18.0,,M. Fultz makes 2-pt jump shot from 13 ft,46,44
+2,9:06.0,B. Portis misses 3-pt jump shot from 25 ft,,46,44
+2,9:02.0,,Defensive rebound by L. Shamet,46,44
+2,8:56.0,,D. Šarić misses 3-pt jump shot from 26 ft,46,44
+2,8:53.0,,Offensive rebound by M. Fultz,46,44
+2,8:52.0,,J. Embiid makes 2-pt dunk from 1 ft (assist by M. Fultz),46,46
+2,8:52.0,Chicago full timeout,,46,46
+2,8:52.0,W. Carter enters the game for A. Blakeney,,46,46
+2,8:52.0,Z. LaVine enters the game for R. Lopez,,46,46
+2,8:52.0,,R. Covington enters the game for M. Fultz,46,46
+2,8:52.0,,B. Simmons enters the game for J. Redick,46,46
+2,8:44.0,Personal foul by D. Šarić (drawn by B. Portis),,46,46
+2,8:44.0,C. Payne enters the game for R. Arcidiacono,,46,46
+2,8:35.0,J. Holiday misses 3-pt jump shot from 27 ft,,46,46
+2,8:31.0,,Defensive rebound by D. Šarić,46,46
+2,8:21.0,,Turnover by B. Simmons (bad pass; steal by B. Portis),46,46
+2,8:10.0,W. Carter misses 2-pt jump shot from 14 ft,,46,46
+2,8:07.0,,Defensive rebound by B. Simmons,46,46
+2,7:52.0,,J. Embiid misses 2-pt hook shot from 9 ft,46,46
+2,7:50.0,Defensive rebound by Z. LaVine,,46,46
+2,7:40.0,J. Holiday makes 2-pt jump shot from 2 ft (assist by Z. LaVine),,48,46
+2,7:31.0,,Offensive foul by J. Embiid (drawn by C. Payne),48,46
+2,7:31.0,,Turnover by J. Embiid (offensive foul),48,46
+2,7:16.0,Z. LaVine misses 3-pt jump shot from 26 ft,,48,46
+2,7:13.0,,Defensive rebound by D. Šarić,48,46
+2,7:10.0,,L. Shamet makes 3-pt jump shot from 27 ft (assist by B. Simmons),48,49
+2,6:53.0,J. Holiday misses 3-pt jump shot from 26 ft (block by B. Simmons),,48,49
+2,6:52.0,,Defensive rebound by Team,48,49
+2,6:52.0,Loose ball foul by W. Carter (drawn by R. Covington),,48,49
+2,6:52.0,J. Parker enters the game for W. Carter,,48,49
+2,6:52.0,,A. Johnson enters the game for J. Embiid,48,49
+2,6:36.0,,Shooting foul by Z. LaVine (drawn by B. Simmons),48,49
+2,6:36.0,,B. Simmons makes free throw 1 of 2,48,50
+2,6:36.0,Violation by B. Portis (double lane),,48,50
+2,6:36.0,,Violation by A. Johnson (double lane),48,50
+2,6:26.0,,R. Covington makes 3-pt jump shot from 26 ft (assist by B. Simmons),48,53
+2,6:04.0,Z. LaVine misses 2-pt layup from 6 ft (block by L. Shamet),,48,53
+2,6:04.0,Offensive rebound by Team,,48,53
+2,6:01.0,B. Portis misses 2-pt hook shot from 3 ft,,48,53
+2,6:01.0,Offensive rebound by Team,,48,53
+2,5:58.0,J. Holiday makes 2-pt dunk from 1 ft (assist by C. Payne),,50,53
+2,5:51.0,,D. Šarić misses 3-pt jump shot from 26 ft,50,53
+2,5:48.0,Defensive rebound by C. Payne,,50,53
+2,5:35.0,Personal foul by A. Johnson (drawn by B. Portis),,50,53
+2,5:28.0,Turnover by Z. LaVine (lost ball; steal by R. Covington),,50,53
+2,5:23.0,,L. Shamet misses 3-pt jump shot from 26 ft,50,53
+2,5:19.0,Defensive rebound by B. Portis,,50,53
+2,5:12.0,Turnover by C. Payne (bad pass; steal by L. Shamet),,50,53
+2,5:08.0,,L. Shamet makes 3-pt jump shot from 24 ft (assist by B. Simmons),50,56
+2,4:56.0,J. Holiday makes 3-pt jump shot from 25 ft (assist by C. Payne),,53,56
+2,4:43.0,,R. Covington misses 3-pt jump shot from 26 ft,53,56
+2,4:34.0,Defensive rebound by Z. LaVine,,53,56
+2,4:33.0,J. Parker makes 2-pt dunk from 1 ft,,55,56
+2,4:33.0,,Philadelphia full timeout,55,56
+2,4:33.0,,J. Embiid enters the game for A. Johnson,55,56
+2,4:33.0,,J. Redick enters the game for L. Shamet,55,56
+2,4:15.0,,J. Redick makes 2-pt jump shot from 13 ft (assist by D. Šarić),55,58
+2,4:07.0,Turnover by J. Parker (bad pass),,55,58
+2,4:00.0,,Personal foul by J. Parker (drawn by D. Šarić),55,58
+2,4:00.0,,M. Fultz enters the game for D. Šarić,55,58
+2,3:54.0,,J. Redick misses 2-pt jump shot from 22 ft,55,58
+2,3:52.0,Defensive rebound by B. Portis,,55,58
+2,3:47.0,Z. LaVine misses 2-pt layup from 4 ft (block by J. Embiid),,55,58
+2,3:44.0,,Defensive rebound by B. Simmons,55,58
+2,3:40.0,,R. Covington misses 3-pt jump shot from 26 ft,55,58
+2,3:37.0,Defensive rebound by J. Parker,,55,58
+2,3:33.0,,Loose ball foul by M. Fultz (drawn by J. Parker),55,58
+2,3:16.0,J. Parker misses 2-pt jump shot from 12 ft,,55,58
+2,3:13.0,,Defensive rebound by R. Covington,55,58
+2,3:10.0,,Personal foul by J. Parker (drawn by J. Embiid),55,58
+2,3:10.0,,J. Embiid makes free throw 1 of 2,55,59
+2,3:10.0,,J. Embiid makes free throw 2 of 2,55,60
+2,2:49.0,Z. LaVine misses 2-pt jump shot from 20 ft,,55,60
+2,2:48.0,,Defensive rebound by Team,55,60
+2,2:35.0,,B. Simmons makes 2-pt dunk from 1 ft (assist by R. Covington),55,62
+2,2:35.0,Chicago full timeout,,55,62
+2,2:35.0,R. Lopez enters the game for J. Parker,,55,62
+2,2:24.0,J. Holiday misses 3-pt jump shot from 26 ft,,55,62
+2,2:21.0,,Defensive rebound by B. Simmons,55,62
+2,2:08.0,,B. Simmons misses 2-pt layup from 5 ft,55,62
+2,2:05.0,Defensive rebound by B. Portis,,55,62
+2,2:05.0,Turnover by Z. LaVine (out of bounds lost ball),,55,62
+2,1:54.0,,J. Redick misses 2-pt jump shot from 21 ft,55,62
+2,1:50.0,Defensive rebound by B. Portis,,55,62
+2,1:43.0,C. Payne misses 2-pt jump shot from 12 ft,,55,62
+2,1:39.0,,Defensive rebound by J. Embiid,55,62
+2,1:33.0,,J. Embiid misses 3-pt jump shot from 26 ft,55,62
+2,1:33.0,,Offensive rebound by Team,55,62
+2,1:33.0,Loose ball foul by Z. LaVine (drawn by B. Simmons),,55,62
+2,1:33.0,,B. Simmons makes free throw 1 of 2,55,63
+2,1:33.0,A. Blakeney enters the game for Z. LaVine,,55,63
+2,1:33.0,,B. Simmons makes free throw 2 of 2,55,64
+2,1:21.0,Turnover by R. Lopez (bad pass; steal by J. Redick),,55,64
+2,1:17.0,,J. Redick misses 3-pt jump shot from 26 ft,55,64
+2,1:14.0,Defensive rebound by J. Holiday,,55,64
+2,1:07.0,J. Holiday misses 2-pt layup from 5 ft (block by J. Embiid),,55,64
+2,1:04.0,Offensive rebound by R. Lopez,,55,64
+2,1:01.0,B. Portis makes 2-pt jump shot from 9 ft (assist by R. Lopez),,57,64
+2,0:53.0,,J. Embiid misses 3-pt jump shot from 26 ft,57,64
+2,0:51.0,Defensive rebound by B. Portis,,57,64
+2,0:41.0,J. Holiday misses 3-pt jump shot from 24 ft,,57,64
+2,0:38.0,,Defensive rebound by J. Embiid,57,64
+2,0:33.0,,Turnover by M. Fultz (bad pass; steal by R. Lopez),57,64
+2,0:26.0,Shooting foul by J. Embiid (drawn by B. Portis),,57,64
+2,0:26.0,B. Portis makes free throw 1 of 2,,58,64
+2,0:26.0,R. Arcidiacono enters the game for J. Holiday,,58,64
+2,0:26.0,J. Parker enters the game for R. Lopez,,58,64
+2,0:26.0,B. Portis misses free throw 2 of 2,,58,64
+2,0:24.0,,Defensive rebound by R. Covington,58,64
+2,0:06.0,,M. Fultz misses 2-pt jump shot from 12 ft,58,64
+2,0:06.0,,Offensive rebound by Team,58,64
+2,0:06.0,Loose ball foul by C. Payne (drawn by J. Embiid),,58,64
+2,0:06.0,,J. Embiid makes free throw 1 of 2,58,65
+2,0:06.0,J. Holiday enters the game for R. Arcidiacono,,58,65
+2,0:06.0,,T. McConnell enters the game for J. Redick,58,65
+2,0:06.0,,J. Embiid misses free throw 2 of 2,58,65
+2,0:04.0,Defensive rebound by B. Portis,,58,65
+3,11:47.0,,J. Embiid misses 3-pt jump shot from 27 ft,58,65
+3,11:43.0,,Offensive rebound by D. Šarić,58,65
+3,11:43.0,,Shooting foul by B. Portis (drawn by D. Šarić),58,65
+3,11:43.0,,D. Šarić makes free throw 1 of 2,58,66
+3,11:43.0,,D. Šarić makes free throw 2 of 2,58,67
+3,11:29.0,C. Payne misses 2-pt jump shot from 2 ft,,58,67
+3,11:25.0,Offensive rebound by B. Portis,,58,67
+3,11:25.0,B. Portis misses 2-pt layup from 1 ft,,58,67
+3,11:24.0,,Defensive rebound by R. Covington,58,67
+3,11:17.0,,B. Simmons misses 2-pt layup from 3 ft,58,67
+3,11:15.0,Defensive rebound by J. Holiday,,58,67
+3,10:59.0,Z. LaVine makes 3-pt jump shot from 26 ft,,61,67
+3,10:46.0,,B. Simmons makes 2-pt layup from 2 ft (assist by J. Embiid),61,69
+3,10:21.0,B. Portis misses 2-pt hook shot from 14 ft,,61,69
+3,10:19.0,,Defensive rebound by J. Embiid,61,69
+3,10:11.0,,R. Covington makes 3-pt jump shot from 27 ft (assist by D. Šarić),61,72
+3,10:10.0,Chicago full timeout,,61,72
+3,9:52.0,Z. LaVine misses 3-pt jump shot from 30 ft,,61,72
+3,9:50.0,,Defensive rebound by Team,61,72
+3,9:34.0,,Shooting foul by W. Carter (drawn by J. Embiid),61,72
+3,9:34.0,,J. Embiid makes free throw 1 of 2,61,73
+3,9:34.0,,J. Embiid makes free throw 2 of 2,61,74
+3,9:14.0,Turnover by Z. LaVine (bad pass; steal by R. Covington),,61,74
+3,9:09.0,,R. Covington misses 3-pt jump shot from 26 ft,61,74
+3,9:05.0,,Offensive rebound by D. Šarić,61,74
+3,8:57.0,,J. Redick misses 2-pt jump shot from 11 ft (block by Z. LaVine),61,74
+3,8:56.0,,Offensive rebound by J. Redick,61,74
+3,8:55.0,,J. Redick misses 2-pt layup from 4 ft,61,74
+3,8:54.0,,Offensive rebound by D. Šarić,61,74
+3,8:53.0,,D. Šarić misses 2-pt layup from 6 ft (block by Z. LaVine),61,74
+3,8:52.0,,Offensive rebound by D. Šarić,61,74
+3,8:51.0,,D. Šarić makes 2-pt jump shot from 9 ft,61,76
+3,8:51.0,,Shooting foul by B. Portis (drawn by D. Šarić),61,76
+3,8:51.0,,D. Šarić makes free throw 1 of 1,61,77
+3,8:31.0,W. Carter misses 2-pt hook shot from 10 ft,,61,77
+3,8:31.0,,Defensive rebound by Team,61,77
+3,8:31.0,Loose ball foul by B. Portis (drawn by J. Embiid),,61,77
+3,8:31.0,J. Parker enters the game for B. Portis,,61,77
+3,8:31.0,Violation by Team (delay of game),,61,77
+3,8:17.0,,Personal foul by Z. LaVine (drawn by R. Covington),61,77
+3,8:17.0,,R. Covington makes free throw 1 of 2,61,78
+3,8:17.0,R. Arcidiacono enters the game for Z. LaVine,,61,78
+3,8:17.0,,R. Covington makes free throw 2 of 2,61,79
+3,8:09.0,J. Parker misses 2-pt layup from 1 ft (block by J. Embiid),,61,79
+3,8:07.0,,Defensive rebound by J. Embiid,61,79
+3,8:02.0,,D. Šarić makes 3-pt jump shot from 26 ft (assist by R. Covington),61,82
+3,7:39.0,J. Holiday misses 3-pt jump shot from 24 ft (block by R. Covington),,61,82
+3,7:39.0,,Defensive rebound by J. Embiid,61,82
+3,7:28.0,,J. Redick makes 2-pt jump shot from 20 ft (assist by B. Simmons),61,84
+3,7:27.0,Chicago full timeout,,61,84
+3,7:27.0,,A. Johnson enters the game for J. Embiid,61,84
+3,7:27.0,,L. Shamet enters the game for J. Redick,61,84
+3,7:19.0,J. Parker makes 2-pt dunk at rim (assist by W. Carter),,63,84
+3,7:08.0,,Offensive foul by A. Johnson (drawn by J. Holiday),63,84
+3,7:08.0,,Turnover by A. Johnson (offensive foul),63,84
+3,6:55.0,W. Carter misses 2-pt hook shot from 2 ft,,63,84
+3,6:53.0,,Defensive rebound by A. Johnson,63,84
+3,6:47.0,,B. Simmons misses 2-pt layup from 3 ft (block by W. Carter),63,84
+3,6:44.0,Defensive rebound by R. Arcidiacono,,63,84
+3,6:40.0,J. Parker makes 2-pt layup from 2 ft (assist by R. Arcidiacono),,65,84
+3,6:27.0,,Turnover by D. Šarić (bad pass; steal by C. Payne),65,84
+3,6:15.0,C. Payne misses 3-pt jump shot from 27 ft,,65,84
+3,6:13.0,,Defensive rebound by B. Simmons,65,84
+3,6:10.0,,B. Simmons makes 2-pt jump shot from 14 ft,65,86
+3,6:00.0,J. Parker misses 3-pt jump shot from 28 ft,,65,86
+3,5:58.0,,Defensive rebound by Team,65,86
+3,5:58.0,A. Blakeney enters the game for C. Payne,,65,86
+3,5:48.0,,D. Šarić misses 2-pt layup from 1 ft,65,86
+3,5:47.0,Defensive rebound by Team,,65,86
+3,5:41.0,A. Blakeney misses 3-pt jump shot from 25 ft,,65,86
+3,5:36.0,,Defensive rebound by D. Šarić,65,86
+3,5:33.0,,Philadelphia full timeout,65,86
+3,5:26.0,,A. Johnson makes 2-pt hook shot from 6 ft (assist by B. Simmons),65,88
+3,5:12.0,R. Arcidiacono makes 3-pt jump shot from 27 ft (assist by W. Carter),,68,88
+3,4:59.0,,Offensive foul by D. Šarić (drawn by J. Parker),68,88
+3,4:59.0,,Turnover by D. Šarić (offensive foul),68,88
+3,4:59.0,R. Lopez enters the game for W. Carter,,68,88
+3,4:59.0,,M. Fultz enters the game for D. Šarić,68,88
+3,4:46.0,R. Lopez misses 2-pt jump shot from 12 ft,,68,88
+3,4:46.0,,Defensive rebound by B. Simmons,68,88
+3,4:39.0,,R. Covington misses 3-pt jump shot from 27 ft,68,88
+3,4:35.0,Defensive rebound by A. Blakeney,,68,88
+3,4:29.0,A. Blakeney misses 2-pt jump shot from 9 ft,,68,88
+3,4:26.0,,Defensive rebound by R. Covington,68,88
+3,4:16.0,,A. Johnson makes 2-pt hook shot from 6 ft (assist by B. Simmons),68,90
+3,4:01.0,Turnover by J. Parker (bad pass; steal by M. Fultz),,68,90
+3,3:55.0,,R. Covington misses 3-pt jump shot from 23 ft,68,90
+3,3:51.0,Defensive rebound by A. Blakeney,,68,90
+3,3:39.0,J. Parker makes 2-pt dunk from 1 ft (assist by R. Lopez),,70,90
+3,3:23.0,,A. Johnson misses 3-pt jump shot from 27 ft,70,90
+3,3:20.0,Defensive rebound by J. Parker,,70,90
+3,3:12.0,R. Lopez misses 2-pt jump shot from 18 ft,,70,90
+3,3:09.0,,Defensive rebound by L. Shamet,70,90
+3,3:04.0,,R. Covington misses 3-pt jump shot from 27 ft,70,90
+3,3:01.0,,Offensive rebound by M. Fultz,70,90
+3,3:00.0,,M. Fultz misses 2-pt layup from 2 ft,70,90
+3,2:54.0,,Offensive rebound by M. Fultz,70,90
+3,2:54.0,,M. Fultz makes 2-pt layup at rim,70,92
+3,2:46.0,J. Parker misses 2-pt layup from 2 ft,,70,92
+3,2:44.0,,Defensive rebound by B. Simmons,70,92
+3,2:39.0,,R. Covington makes 3-pt jump shot from 27 ft (assist by B. Simmons),70,95
+3,2:34.0,Chicago full timeout,,70,95
+3,2:34.0,Z. LaVine enters the game for J. Holiday,,70,95
+3,2:34.0,B. Portis enters the game for J. Parker,,70,95
+3,2:34.0,,J. Embiid enters the game for R. Covington,70,95
+3,2:34.0,,J. Redick enters the game for A. Johnson,70,95
+3,2:17.0,A. Blakeney makes 2-pt jump shot from 12 ft (assist by B. Portis),,72,95
+3,2:03.0,,Turnover by B. Simmons (traveling),72,95
+3,1:51.0,Turnover by R. Lopez (lost ball; steal by B. Simmons),,72,95
+3,1:44.0,,J. Embiid makes 2-pt layup from 1 ft (assist by L. Shamet),72,97
+3,1:19.0,A. Blakeney misses 2-pt jump shot from 19 ft,,72,97
+3,1:16.0,Offensive rebound by B. Portis,,72,97
+3,1:12.0,B. Portis makes 2-pt jump shot from 14 ft (assist by A. Blakeney),,74,97
+3,0:49.0,,J. Redick misses 3-pt jump shot from 25 ft,74,97
+3,0:49.0,Defensive rebound by B. Portis,,74,97
+3,0:41.0,Turnover by Z. LaVine (lost ball; steal by L. Shamet),,74,97
+3,0:36.0,,L. Shamet makes 3-pt jump shot from 25 ft (assist by B. Simmons),74,100
+3,0:29.0,Shooting foul by J. Embiid (drawn by Z. LaVine),,74,100
+3,0:29.0,Z. LaVine makes free throw 1 of 2,,75,100
+3,0:29.0,Z. LaVine makes free throw 2 of 2,,76,100
+3,0:23.0,,Personal foul by R. Lopez (drawn by J. Embiid),76,100
+3,0:23.0,,J. Embiid makes free throw 1 of 2,76,101
+3,0:23.0,,J. Embiid makes free throw 2 of 2,76,102
+3,0:07.0,Z. LaVine misses 3-pt jump shot from 28 ft,,76,102
+3,0:02.0,,Defensive rebound by B. Simmons,76,102
+3,0:00.0,,M. Fultz misses 3-pt jump shot from 40 ft,76,102
+3,0:00.0,,Offensive rebound by Team,76,102
+4,11:48.0,Z. LaVine makes 2-pt layup from 3 ft,,78,102
+4,11:48.0,Shooting foul by J. Embiid (drawn by Z. LaVine),,78,102
+4,11:48.0,Z. LaVine misses free throw 1 of 1,,78,102
+4,11:47.0,,Defensive rebound by J. Embiid,78,102
+4,11:25.0,,D. Šarić makes 3-pt jump shot from 27 ft (assist by J. Embiid),78,105
+4,11:07.0,Z. LaVine misses 3-pt jump shot from 25 ft,,78,105
+4,11:05.0,,Defensive rebound by L. Shamet,78,105
+4,11:00.0,,Personal foul by R. Lopez (drawn by J. Embiid),78,105
+4,10:51.0,,J. Redick misses 2-pt jump shot from 7 ft,78,105
+4,10:49.0,Defensive rebound by Z. LaVine,,78,105
+4,10:31.0,A. Blakeney makes 2-pt jump shot from 19 ft,,80,105
+4,10:17.0,,D. Šarić misses 2-pt jump shot from 5 ft,80,105
+4,10:17.0,Defensive rebound by Team,,80,105
+4,10:17.0,J. Parker enters the game for R. Lopez,,80,105
+4,10:17.0,,A. Johnson enters the game for J. Embiid,80,105
+4,9:59.0,J. Parker makes 3-pt jump shot from 25 ft (assist by R. Arcidiacono),,83,105
+4,9:46.0,,L. Shamet misses 3-pt jump shot from 29 ft,83,105
+4,9:42.0,Defensive rebound by Z. LaVine,,83,105
+4,9:38.0,Z. LaVine makes 2-pt layup from 3 ft,,85,105
+4,9:38.0,Shooting foul by M. Fultz (drawn by Z. LaVine),,85,105
+4,9:38.0,,F. Korkmaz enters the game for J. Redick,85,105
+4,9:38.0,Z. LaVine makes free throw 1 of 1,,86,105
+4,9:25.0,,A. Johnson misses 2-pt layup from 4 ft (block by Z. LaVine),86,105
+4,9:21.0,,Offensive rebound by A. Johnson,86,105
+4,9:19.0,,A. Johnson misses 2-pt layup from 8 ft (block by B. Portis),86,105
+4,9:19.0,Defensive rebound by B. Portis,,86,105
+4,9:09.0,A. Blakeney makes 2-pt jump shot from 15 ft (assist by J. Parker),,88,105
+4,9:08.0,,Philadelphia full timeout,88,105
+4,9:08.0,,J. Embiid enters the game for A. Johnson,88,105
+4,8:49.0,,M. Fultz makes 3-pt jump shot from 26 ft,88,108
+4,8:32.0,R. Arcidiacono makes 3-pt jump shot from 27 ft (assist by A. Blakeney),,91,108
+4,8:16.0,,Turnover by D. Šarić (step out of bounds),91,108
+4,7:59.0,Z. LaVine makes 2-pt jump shot from 13 ft,,93,108
+4,7:42.0,,M. Fultz misses 2-pt jump shot from 18 ft,93,108
+4,7:41.0,Defensive rebound by A. Blakeney,,93,108
+4,7:34.0,B. Portis misses 3-pt jump shot from 24 ft,,93,108
+4,7:34.0,,Defensive rebound by M. Fultz,93,108
+4,7:25.0,,L. Shamet makes 3-pt jump shot from 23 ft (assist by M. Fultz),93,111
+4,7:12.0,J. Parker misses 3-pt jump shot from 28 ft,,93,111
+4,7:09.0,,Defensive rebound by D. Šarić,93,111
+4,6:46.0,,J. Embiid makes 2-pt jump shot from 12 ft,93,113
+4,6:42.0,Z. LaVine makes 2-pt layup from 2 ft (assist by R. Arcidiacono),,95,113
+4,6:42.0,Shooting foul by L. Shamet (drawn by Z. LaVine),,95,113
+4,6:42.0,,B. Simmons enters the game for D. Šarić,95,113
+4,6:42.0,Z. LaVine makes free throw 1 of 1,,96,113
+4,6:28.0,,Shooting foul by Z. LaVine (drawn by J. Embiid),96,113
+4,6:28.0,,J. Embiid misses free throw 1 of 2,96,113
+4,6:28.0,,Offensive rebound by Team,96,113
+4,6:28.0,,J. Embiid makes free throw 2 of 2,96,114
+4,6:18.0,B. Portis misses 2-pt hook shot from 8 ft,,96,114
+4,6:18.0,Offensive rebound by Team,,96,114
+4,6:05.0,A. Blakeney misses 3-pt jump shot from 28 ft,,96,114
+4,6:02.0,,Defensive rebound by B. Simmons,96,114
+4,5:51.0,,M. Fultz misses 3-pt jump shot from 24 ft,96,114
+4,5:48.0,Defensive rebound by J. Parker,,96,114
+4,5:42.0,J. Parker makes 2-pt dunk from 1 ft (assist by R. Arcidiacono),,98,114
+4,5:22.0,,F. Korkmaz misses 3-pt jump shot from 27 ft,98,114
+4,5:19.0,Defensive rebound by B. Portis,,98,114
+4,5:14.0,B. Portis misses 3-pt jump shot from 27 ft,,98,114
+4,5:11.0,,Defensive rebound by B. Simmons,98,114
+4,4:56.0,,M. Fultz makes 2-pt layup from 5 ft,98,116
+4,4:45.0,R. Arcidiacono makes 2-pt layup from 2 ft,,100,116
+4,4:42.0,,Philadelphia full timeout,100,116
+4,4:42.0,W. Carter enters the game for B. Portis,,100,116
+4,4:42.0,,R. Covington enters the game for F. Korkmaz,100,116
+4,4:30.0,,Turnover by B. Simmons (traveling),100,116
+4,4:19.0,W. Carter misses 2-pt layup from 3 ft,,100,116
+4,4:16.0,,Defensive rebound by R. Covington,100,116
+4,4:01.0,,Personal foul by W. Carter (drawn by J. Embiid),100,116
+4,4:00.0,,Turnover by R. Covington (bad pass; steal by J. Parker),100,116
+4,3:53.0,Personal foul by R. Covington (drawn by W. Carter),,100,116
+4,3:44.0,Turnover by A. Blakeney (bad pass; steal by M. Fultz),,100,116
+4,3:41.0,,R. Covington makes 2-pt dunk from 1 ft (assist by M. Fultz),100,118
+4,3:30.0,J. Parker makes 2-pt dunk from 1 ft (assist by R. Arcidiacono),,102,118
+4,3:11.0,,J. Embiid makes 2-pt jump shot from 15 ft,102,120
+4,3:11.0,C. Hutchison enters the game for Z. LaVine,,102,120
+4,3:11.0,,J. Bolden enters the game for R. Covington,102,120
+4,3:11.0,,A. Johnson enters the game for J. Embiid,102,120
+4,3:11.0,,F. Korkmaz enters the game for B. Simmons,102,120
+4,2:47.0,W. Carter makes 2-pt dunk at rim (assist by R. Arcidiacono),,104,120
+4,2:30.0,,A. Johnson makes 2-pt layup from 3 ft (assist by M. Fultz),104,122
+4,2:30.0,,Shooting foul by J. Parker (drawn by A. Johnson),104,122
+4,2:30.0,,A. Johnson makes free throw 1 of 1,104,123
+4,2:08.0,J. Parker misses 2-pt jump shot from 11 ft,,104,123
+4,2:06.0,,Defensive rebound by F. Korkmaz,104,123
+4,2:01.0,,A. Johnson makes 2-pt dunk from 1 ft (assist by M. Fultz),104,125
+4,1:50.0,C. Hutchison misses 2-pt jump shot from 7 ft,,104,125
+4,1:50.0,,Defensive rebound by L. Shamet,104,125
+4,1:33.0,,J. Bolden misses 3-pt jump shot from 28 ft,104,125
+4,1:30.0,Defensive rebound by W. Carter,,104,125
+4,1:22.0,A. Blakeney misses 2-pt layup from 2 ft,,104,125
+4,1:20.0,Offensive rebound by W. Carter,,104,125
+4,1:20.0,W. Carter makes 2-pt layup from 1 ft,,106,125
+4,1:03.0,,M. Fultz makes 2-pt jump shot from 20 ft,106,127
+4,0:49.0,Shooting foul by J. Bolden (drawn by A. Blakeney),,106,127
+4,0:49.0,A. Blakeney makes free throw 1 of 2,,107,127
+4,0:49.0,T. Ulis enters the game for R. Arcidiacono,,107,127
+4,0:49.0,A. Blakeney makes free throw 2 of 2,,108,127
+4,0:31.0,,M. Fultz misses 2-pt jump shot from 20 ft,108,127
+4,0:27.0,Defensive rebound by J. Parker,,108,127
+4,0:19.0,A. Blakeney misses 2-pt jump shot from 13 ft,,108,127
+4,0:16.0,,Defensive rebound by A. Johnson,108,127

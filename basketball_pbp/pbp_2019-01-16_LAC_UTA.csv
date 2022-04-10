@@ -1,0 +1,468 @@
+QUARTER,TIME_REMAINING,UTAH_ACTION,LA CLIPPERS_ACTION,UTAH_SCORE,LA CLIPPERS_SCORE
+1,11:41.0,Turnover by D. Mitchell (lost ball; steal by T. Harris),,0,0
+1,11:36.0,,S. Gilgeous-Alexander makes 2-pt layup from 2 ft,0,2
+1,11:12.0,R. Gobert makes 2-pt layup at rim (assist by D. Favors),,2,2
+1,10:58.0,,T. Harris makes 2-pt jump shot from 15 ft (assist by S. Gilgeous-Alexander),2,4
+1,10:44.0,R. Gobert makes 2-pt dunk from 1 ft (assist by D. Mitchell),,4,4
+1,10:20.0,,T. Harris misses 3-pt jump shot from 25 ft,4,4
+1,10:18.0,,Offensive rebound by M. Gortat,4,4
+1,10:17.0,,M. Gortat makes 2-pt jump shot from 12 ft,4,6
+1,10:03.0,D. Favors makes 2-pt jump shot from 18 ft (assist by J. Ingles),,6,6
+1,9:49.0,,D. Gallinari misses 2-pt jump shot from 19 ft,6,6
+1,9:46.0,,Offensive rebound by M. Gortat,6,6
+1,9:35.0,,Turnover by S. Gilgeous-Alexander (bad pass; steal by D. Mitchell),6,6
+1,9:30.0,Turnover by D. Mitchell (bad pass; steal by T. Harris),,6,6
+1,9:24.0,,S. Gilgeous-Alexander misses 3-pt jump shot from 23 ft,6,6
+1,9:20.0,Defensive rebound by R. Gobert,,6,6
+1,8:57.0,J. Ingles makes 2-pt layup from 1 ft,,8,6
+1,8:46.0,,T. Harris misses 2-pt jump shot from 18 ft,8,6
+1,8:43.0,Defensive rebound by R. O'Neale,,8,6
+1,8:32.0,D. Favors misses 3-pt jump shot from 23 ft,,8,6
+1,8:30.0,Offensive rebound by R. Gobert,,8,6
+1,8:28.0,R. Gobert misses 2-pt jump shot from 9 ft,,8,6
+1,8:26.0,,Defensive rebound by D. Gallinari,8,6
+1,8:19.0,,A. Bradley makes 3-pt jump shot from 23 ft (assist by M. Gortat),8,9
+1,7:57.0,Shooting foul by A. Bradley (drawn by D. Mitchell),,8,9
+1,7:57.0,D. Mitchell makes free throw 1 of 3,,9,9
+1,7:57.0,D. Mitchell makes free throw 2 of 3,,10,9
+1,7:57.0,D. Mitchell makes free throw 3 of 3,,11,9
+1,7:46.0,,S. Gilgeous-Alexander makes 2-pt jump shot from 10 ft (assist by A. Bradley),11,11
+1,7:35.0,D. Favors makes 2-pt layup from 2 ft (assist by J. Ingles),,13,11
+1,7:20.0,,S. Gilgeous-Alexander makes 2-pt jump shot from 18 ft,13,13
+1,7:04.0,D. Mitchell makes 2-pt layup from 1 ft,,15,13
+1,6:47.0,,T. Harris misses 2-pt jump shot from 10 ft,15,13
+1,6:43.0,Defensive rebound by R. O'Neale,,15,13
+1,6:30.0,R. O'Neale misses 2-pt jump shot from 9 ft,,15,13
+1,6:28.0,,Defensive rebound by A. Bradley,15,13
+1,6:22.0,,A. Bradley makes 2-pt jump shot from 21 ft,15,15
+1,6:20.0,Utah full timeout,,15,15
+1,6:20.0,J. Crowder enters the game for D. Favors,,15,15
+1,6:20.0,K. Korver enters the game for J. Ingles,,15,15
+1,6:05.0,J. Crowder misses 3-pt jump shot from 24 ft,,15,15
+1,6:01.0,,Defensive rebound by M. Gortat,15,15
+1,5:47.0,,Personal foul by J. Crowder (drawn by M. Gortat),15,15
+1,5:40.0,,Turnover by S. Gilgeous-Alexander (bad pass; steal by D. Mitchell),15,15
+1,5:31.0,Shooting foul by M. Gortat (drawn by J. Crowder),,15,15
+1,5:31.0,J. Crowder misses free throw 1 of 2,,15,15
+1,5:31.0,Offensive rebound by Team,,15,15
+1,5:31.0,,M. Harrell enters the game for M. Gortat,15,15
+1,5:31.0,J. Crowder makes free throw 2 of 2,,16,15
+1,5:09.0,,D. Gallinari misses 2-pt jump shot from 12 ft,16,15
+1,5:07.0,Defensive rebound by R. Gobert,,16,15
+1,5:00.0,D. Mitchell makes 2-pt jump shot from 7 ft,,18,15
+1,4:40.0,,S. Gilgeous-Alexander misses 2-pt layup from 2 ft (block by R. Gobert),18,15
+1,4:37.0,Defensive rebound by K. Korver,,18,15
+1,4:33.0,J. Crowder makes 3-pt jump shot from 25 ft (assist by D. Mitchell),,21,15
+1,4:33.0,,LA Clippers full timeout,21,15
+1,4:33.0,,L. Williams enters the game for S. Gilgeous-Alexander,21,15
+1,4:21.0,,T. Harris misses 2-pt layup from 3 ft,21,15
+1,4:19.0,Defensive rebound by R. Gobert,,21,15
+1,4:09.0,D. Mitchell misses 3-pt jump shot from 25 ft,,21,15
+1,4:05.0,,Defensive rebound by T. Harris,21,15
+1,4:01.0,,M. Harrell makes 2-pt layup from 1 ft (assist by L. Williams),21,17
+1,3:47.0,K. Korver misses 2-pt jump shot from 9 ft,,21,17
+1,3:43.0,,Defensive rebound by M. Harrell,21,17
+1,3:32.0,,A. Bradley misses 2-pt jump shot from 4 ft,21,17
+1,3:30.0,Defensive rebound by R. Gobert,,21,17
+1,3:22.0,K. Korver makes 3-pt jump shot from 22 ft (assist by J. Crowder),,24,17
+1,3:05.0,,M. Harrell misses 2-pt layup from 1 ft,24,17
+1,3:03.0,Defensive rebound by R. Gobert,,24,17
+1,2:57.0,D. Mitchell makes 2-pt dunk from 1 ft,,26,17
+1,2:57.0,,LA Clippers full timeout,26,17
+1,2:57.0,,P. Beverley enters the game for A. Bradley,26,17
+1,2:57.0,,T. Wallace enters the game for D. Gallinari,26,17
+1,2:49.0,,L. Williams misses 3-pt jump shot from 25 ft,26,17
+1,2:44.0,Defensive rebound by R. Gobert,,26,17
+1,2:30.0,J. Crowder misses 3-pt jump shot from 24 ft,,26,17
+1,2:28.0,,Defensive rebound by T. Wallace,26,17
+1,2:21.0,,T. Harris misses 3-pt jump shot from 26 ft,26,17
+1,2:18.0,Defensive rebound by R. Gobert,,26,17
+1,1:55.0,K. Korver misses 3-pt jump shot from 24 ft,,26,17
+1,1:52.0,,Defensive rebound by T. Harris,26,17
+1,1:40.0,,T. Wallace misses 2-pt jump shot from 12 ft,26,17
+1,1:39.0,Defensive rebound by R. Gobert,,26,17
+1,1:30.0,Shooting foul by T. Wallace (drawn by R. Gobert),,26,17
+1,1:30.0,R. Gobert makes free throw 1 of 2,,27,17
+1,1:30.0,G. Allen enters the game for D. Mitchell,,27,17
+1,1:30.0,J. Ingles enters the game for R. O'Neale,,27,17
+1,1:30.0,,M. Scott enters the game for T. Harris,27,17
+1,1:30.0,R. Gobert makes free throw 2 of 2,,28,17
+1,1:24.0,,Personal foul by K. Korver (drawn by L. Williams),28,17
+1,1:24.0,D. Favors enters the game for R. Gobert,,28,17
+1,1:16.0,,L. Williams misses 2-pt jump shot from 10 ft,28,17
+1,1:13.0,,Offensive rebound by M. Harrell,28,17
+1,1:11.0,,M. Harrell makes 2-pt layup from 1 ft,28,19
+1,0:57.0,G. Allen misses 2-pt jump shot from 10 ft,,28,19
+1,0:54.0,Offensive rebound by J. Crowder,,28,19
+1,0:48.0,D. Favors misses 2-pt jump shot from 21 ft,,28,19
+1,0:43.0,,Defensive rebound by L. Williams,28,19
+1,0:38.0,,M. Scott makes 3-pt jump shot from 25 ft (assist by P. Beverley),28,22
+1,0:24.0,J. Crowder makes 3-pt jump shot from 23 ft,,31,22
+1,0:04.0,,T. Wallace misses 2-pt layup from 1 ft,31,22
+1,0:01.0,Defensive rebound by D. Favors,,31,22
+1,0:01.0,J. Crowder misses 3-pt jump shot from 38 ft,,31,22
+1,0:01.0,Offensive rebound by Team,,31,22
+2,11:47.0,,M. Scott misses 2-pt layup from 3 ft (block by J. Crowder),31,22
+2,11:47.0,Defensive rebound by Team,,31,22
+2,11:31.0,Turnover by D. Favors (bad pass; steal by M. Harrell),,31,22
+2,11:26.0,,Turnover by M. Harrell (lost ball; steal by G. Allen),31,22
+2,11:15.0,K. Korver makes 2-pt jump shot from 21 ft (assist by G. Allen),,33,22
+2,11:01.0,,L. Williams makes 2-pt jump shot from 1 ft (assist by M. Scott),33,24
+2,10:50.0,Turnover by J. Ingles (traveling),,33,24
+2,10:38.0,,T. Wallace misses 2-pt jump shot from 5 ft,33,24
+2,10:35.0,Defensive rebound by D. Favors,,33,24
+2,10:27.0,K. Korver makes 3-pt jump shot from 26 ft (assist by D. Favors),,36,24
+2,10:27.0,Shooting foul by M. Harrell (drawn by K. Korver),,36,24
+2,10:27.0,,LA Clippers full timeout,36,24
+2,10:27.0,,S. Thornwell enters the game for T. Wallace,36,24
+2,10:27.0,K. Korver makes free throw 1 of 1,,37,24
+2,10:17.0,,Turnover by L. Williams (bad pass; steal by J. Crowder),37,24
+2,10:02.0,Turnover by K. Korver (lost ball; steal by L. Williams),,37,24
+2,10:00.0,,Shooting foul by K. Korver (drawn by S. Thornwell),37,24
+2,10:00.0,,S. Thornwell makes free throw 1 of 2,37,25
+2,10:00.0,G. Niang enters the game for J. Crowder,,37,25
+2,10:00.0,,S. Thornwell makes free throw 2 of 2,37,26
+2,9:42.0,G. Niang misses 3-pt jump shot from 26 ft,,37,26
+2,9:39.0,,Defensive rebound by P. Beverley,37,26
+2,9:31.0,,M. Harrell makes 2-pt jump shot from 10 ft (assist by P. Beverley),37,28
+2,9:18.0,G. Allen misses 2-pt jump shot from 8 ft,,37,28
+2,9:16.0,,Defensive rebound by M. Harrell,37,28
+2,9:06.0,,M. Harrell misses 2-pt layup at rim,37,28
+2,9:04.0,Defensive rebound by D. Favors,,37,28
+2,9:01.0,J. Ingles misses 3-pt jump shot from 25 ft,,37,28
+2,8:56.0,,Defensive rebound by M. Scott,37,28
+2,8:46.0,,L. Williams makes 2-pt jump shot from 15 ft,37,30
+2,8:30.0,J. Ingles misses 3-pt jump shot from 24 ft,,37,30
+2,8:27.0,,Defensive rebound by M. Scott,37,30
+2,8:21.0,,M. Scott makes 2-pt jump shot from 11 ft (assist by L. Williams),37,32
+2,8:10.0,Turnover by J. Ingles (lost ball; steal by M. Harrell),,37,32
+2,8:06.0,,P. Beverley misses 2-pt dunk from 2 ft (block by G. Niang),37,32
+2,8:06.0,,Offensive rebound by Team,37,32
+2,8:06.0,R. O'Neale enters the game for K. Korver,,37,32
+2,7:59.0,,P. Beverley misses 2-pt layup from 2 ft,37,32
+2,7:57.0,Defensive rebound by D. Favors,,37,32
+2,7:53.0,Offensive foul by G. Allen (drawn by S. Thornwell),,37,32
+2,7:53.0,Turnover by G. Allen (offensive foul),,37,32
+2,7:53.0,R. Gobert enters the game for D. Favors,,37,32
+2,7:53.0,D. Mitchell enters the game for J. Ingles,,37,32
+2,7:53.0,,A. Bradley enters the game for S. Thornwell,37,32
+2,7:32.0,,L. Williams misses 2-pt jump shot from 15 ft,37,32
+2,7:29.0,Defensive rebound by R. O'Neale,,37,32
+2,7:23.0,G. Allen misses 2-pt jump shot from 11 ft,,37,32
+2,7:21.0,,Defensive rebound by L. Williams,37,32
+2,7:17.0,,Personal foul by G. Niang (drawn by L. Williams),37,32
+2,7:17.0,,D. Gallinari enters the game for M. Scott,37,32
+2,7:03.0,,M. Harrell misses 2-pt jump shot from 19 ft,37,32
+2,7:01.0,Defensive rebound by R. Gobert,,37,32
+2,6:50.0,D. Mitchell misses 3-pt jump shot from 23 ft,,37,32
+2,6:48.0,,Defensive rebound by Team,37,32
+2,6:48.0,Loose ball foul by R. Gobert (drawn by M. Harrell),,37,32
+2,6:36.0,,L. Williams makes 2-pt layup from 1 ft,37,34
+2,6:18.0,G. Allen misses 3-pt jump shot from 26 ft,,37,34
+2,6:16.0,,Defensive rebound by M. Harrell,37,34
+2,6:03.0,,M. Harrell makes 2-pt layup from 2 ft (assist by L. Williams),37,36
+2,6:03.0,Utah full timeout,,37,36
+2,6:03.0,J. Crowder enters the game for G. Allen,,37,36
+2,6:03.0,K. Korver enters the game for G. Niang,,37,36
+2,6:03.0,,S. Gilgeous-Alexander enters the game for P. Beverley,37,36
+2,5:47.0,Shooting foul by A. Bradley (drawn by K. Korver),,37,36
+2,5:47.0,K. Korver makes free throw 1 of 2,,38,36
+2,5:47.0,K. Korver makes free throw 2 of 2,,39,36
+2,5:26.0,,M. Harrell makes 2-pt dunk from 1 ft (assist by D. Gallinari),39,38
+2,4:59.0,J. Crowder makes 2-pt jump shot from 16 ft (assist by K. Korver),,41,38
+2,4:42.0,,A. Bradley makes 3-pt jump shot from 26 ft (assist by L. Williams),41,41
+2,4:29.0,J. Crowder makes 3-pt jump shot from 24 ft (assist by D. Mitchell),,44,41
+2,4:09.0,,D. Gallinari misses 2-pt jump shot from 12 ft,44,41
+2,4:07.0,Defensive rebound by D. Mitchell,,44,41
+2,4:01.0,Turnover by J. Crowder (bad pass),,44,41
+2,4:01.0,J. Ingles enters the game for K. Korver,,44,41
+2,4:01.0,,M. Gortat enters the game for M. Harrell,44,41
+2,4:01.0,,T. Harris enters the game for L. Williams,44,41
+2,3:48.0,,S. Gilgeous-Alexander misses 3-pt jump shot from 25 ft,44,41
+2,3:44.0,Defensive rebound by R. O'Neale,,44,41
+2,3:27.0,D. Mitchell misses 3-pt jump shot from 25 ft,,44,41
+2,3:23.0,,Defensive rebound by A. Bradley,44,41
+2,3:11.0,,M. Gortat misses 2-pt hook shot from 9 ft,44,41
+2,3:08.0,Defensive rebound by R. O'Neale,,44,41
+2,3:01.0,R. O'Neale makes 2-pt layup from 1 ft (assist by J. Ingles),,46,41
+2,2:49.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 14 ft,46,41
+2,2:45.0,Defensive rebound by J. Crowder,,46,41
+2,2:35.0,J. Crowder misses 3-pt jump shot from 25 ft,,46,41
+2,2:33.0,,Defensive rebound by T. Harris,46,41
+2,2:30.0,,D. Gallinari makes 3-pt jump shot from 23 ft (assist by T. Harris),46,44
+2,2:08.0,J. Crowder makes 2-pt layup from 1 ft (assist by D. Mitchell),,48,44
+2,1:52.0,,Turnover by S. Gilgeous-Alexander (bad pass; steal by J. Ingles),48,44
+2,1:38.0,J. Ingles makes 2-pt jump shot from 9 ft,,50,44
+2,1:24.0,,A. Bradley makes 3-pt jump shot from 25 ft (assist by M. Gortat),50,47
+2,0:59.0,D. Mitchell makes 2-pt layup from 2 ft,,52,47
+2,0:59.0,Shooting foul by S. Gilgeous-Alexander (drawn by D. Mitchell),,52,47
+2,0:59.0,D. Mitchell makes free throw 1 of 1,,53,47
+2,0:47.0,,Turnover by S. Gilgeous-Alexander (bad pass; steal by J. Crowder),53,47
+2,0:45.0,J. Crowder misses 2-pt dunk from 1 ft,,53,47
+2,0:42.0,Offensive rebound by Team,,53,47
+2,0:42.0,,P. Beverley enters the game for S. Gilgeous-Alexander,53,47
+2,0:42.0,,L. Williams enters the game for M. Gortat,53,47
+2,0:41.0,D. Mitchell makes 2-pt layup from 1 ft (assist by J. Ingles),,55,47
+2,0:36.0,,L. Williams misses 2-pt jump shot from 13 ft,55,47
+2,0:32.0,,Offensive rebound by A. Bradley,55,47
+2,0:31.0,,A. Bradley misses 2-pt jump shot from 2 ft (block by R. Gobert),55,47
+2,0:31.0,,Offensive rebound by D. Gallinari,55,47
+2,0:26.0,,D. Gallinari misses 2-pt hook shot from 3 ft,55,47
+2,0:26.0,Defensive rebound by Team,,55,47
+2,0:26.0,,Loose ball foul by D. Gallinari (drawn by R. Gobert),55,47
+2,0:26.0,R. Gobert makes free throw 1 of 2,,56,47
+2,0:26.0,R. Gobert misses free throw 2 of 2,,56,47
+2,0:23.0,,Defensive rebound by D. Gallinari,56,47
+2,0:02.0,,L. Williams makes 2-pt jump shot from 4 ft,56,49
+2,0:01.0,J. Crowder misses 3-pt jump shot from 46 ft,,56,49
+2,0:01.0,Offensive rebound by Team,,56,49
+3,11:49.0,,Turnover by M. Gortat (bad pass; steal by J. Ingles),56,49
+3,11:34.0,D. Mitchell makes 2-pt jump shot from 8 ft,,58,49
+3,11:20.0,,A. Bradley makes 2-pt jump shot from 16 ft (assist by T. Harris),58,51
+3,10:53.0,J. Ingles misses 3-pt jump shot from 26 ft,,58,51
+3,10:50.0,,Defensive rebound by M. Gortat,58,51
+3,10:43.0,,T. Harris makes 2-pt jump shot from 17 ft,58,53
+3,10:29.0,D. Mitchell misses 2-pt layup from 2 ft,,58,53
+3,10:23.0,Offensive rebound by R. Gobert,,58,53
+3,10:23.0,R. Gobert makes 2-pt dunk at rim,,60,53
+3,10:18.0,,D. Gallinari misses 3-pt jump shot from 28 ft,60,53
+3,10:15.0,Defensive rebound by R. Gobert,,60,53
+3,10:06.0,D. Mitchell makes 2-pt hook shot from 5 ft,,62,53
+3,9:55.0,,T. Harris misses 2-pt jump shot from 14 ft,62,53
+3,9:52.0,Defensive rebound by R. O'Neale,,62,53
+3,9:47.0,Shooting foul by M. Gortat (drawn by R. O'Neale),,62,53
+3,9:47.0,R. O'Neale makes free throw 1 of 2,,63,53
+3,9:47.0,R. O'Neale makes free throw 2 of 2,,64,53
+3,9:36.0,,A. Bradley misses 2-pt jump shot from 7 ft,64,53
+3,9:28.0,,Offensive rebound by M. Gortat,64,53
+3,9:28.0,,M. Gortat makes 2-pt layup from 1 ft,64,55
+3,9:18.0,D. Mitchell misses 3-pt jump shot from 25 ft,,64,55
+3,9:11.0,,Defensive rebound by M. Gortat,64,55
+3,9:06.0,,A. Bradley makes 2-pt layup from 1 ft (assist by S. Gilgeous-Alexander),64,57
+3,8:56.0,Shooting foul by M. Gortat (drawn by R. Gobert),,64,57
+3,8:56.0,R. Gobert makes free throw 1 of 2,,65,57
+3,8:56.0,R. Gobert makes free throw 2 of 2,,66,57
+3,8:41.0,,M. Gortat misses 2-pt jump shot from 4 ft,66,57
+3,8:39.0,Defensive rebound by R. Gobert,,66,57
+3,8:29.0,J. Ingles misses 3-pt jump shot from 26 ft,,66,57
+3,8:27.0,Offensive rebound by R. Gobert,,66,57
+3,8:24.0,R. O'Neale misses 3-pt jump shot from 25 ft,,66,57
+3,8:18.0,,Defensive rebound by S. Gilgeous-Alexander,66,57
+3,8:15.0,,A. Bradley misses 3-pt jump shot from 24 ft,66,57
+3,8:11.0,Defensive rebound by D. Favors,,66,57
+3,7:59.0,R. Gobert makes 2-pt dunk from 2 ft (assist by J. Ingles),,68,57
+3,7:48.0,,D. Gallinari misses 3-pt jump shot from 25 ft,68,57
+3,7:45.0,Defensive rebound by R. O'Neale,,68,57
+3,7:32.0,D. Favors makes 2-pt dunk from 1 ft (assist by R. Gobert),,70,57
+3,7:16.0,,T. Harris misses 3-pt jump shot from 25 ft,70,57
+3,7:13.0,Defensive rebound by R. Gobert,,70,57
+3,7:03.0,Personal foul by M. Gortat (drawn by R. Gobert),,70,57
+3,7:03.0,J. Crowder enters the game for D. Favors,,70,57
+3,7:03.0,,P. Beverley enters the game for S. Gilgeous-Alexander,70,57
+3,7:03.0,,M. Harrell enters the game for M. Gortat,70,57
+3,6:51.0,J. Crowder misses 3-pt jump shot from 25 ft,,70,57
+3,6:48.0,,Defensive rebound by P. Beverley,70,57
+3,6:35.0,,M. Harrell misses 2-pt layup from 1 ft (block by R. Gobert),70,57
+3,6:32.0,,Offensive rebound by T. Harris,70,57
+3,6:26.0,,M. Harrell misses 2-pt jump shot from 18 ft,70,57
+3,6:24.0,Defensive rebound by R. Gobert,,70,57
+3,6:15.0,D. Mitchell makes 2-pt layup from 2 ft,,72,57
+3,6:15.0,,LA Clippers full timeout,72,57
+3,6:15.0,K. Korver enters the game for J. Ingles,,72,57
+3,5:58.0,,Turnover by A. Bradley (bad pass; steal by D. Mitchell),72,57
+3,5:57.0,Personal foul by A. Bradley (drawn by D. Mitchell),,72,57
+3,5:57.0,,L. Williams enters the game for D. Gallinari,72,57
+3,5:49.0,Turnover by D. Mitchell (bad pass; steal by P. Beverley),,72,57
+3,5:46.0,,Shooting foul by R. O'Neale (drawn by T. Harris),72,57
+3,5:46.0,,T. Harris makes free throw 1 of 2,72,58
+3,5:46.0,,T. Harris makes free throw 2 of 2,72,59
+3,5:37.0,D. Mitchell misses 3-pt jump shot from 25 ft,,72,59
+3,5:34.0,,Defensive rebound by L. Williams,72,59
+3,5:28.0,,T. Harris misses 2-pt jump shot from 11 ft,72,59
+3,5:24.0,Defensive rebound by D. Mitchell,,72,59
+3,5:17.0,D. Mitchell misses 2-pt jump shot from 10 ft,,72,59
+3,5:14.0,,Defensive rebound by T. Harris,72,59
+3,5:04.0,,T. Harris makes 2-pt jump shot from 14 ft (assist by M. Harrell),72,61
+3,4:43.0,Shooting foul by M. Harrell (drawn by R. O'Neale),,72,61
+3,4:43.0,R. O'Neale makes free throw 1 of 2,,73,61
+3,4:43.0,R. O'Neale makes free throw 2 of 2,,74,61
+3,4:33.0,,Offensive foul by M. Harrell (drawn by R. O'Neale),74,61
+3,4:33.0,,Turnover by M. Harrell (offensive foul),74,61
+3,4:22.0,D. Mitchell misses 2-pt jump shot from 8 ft,,74,61
+3,4:20.0,Offensive rebound by R. Gobert,,74,61
+3,4:20.0,R. Gobert misses 2-pt layup at rim,,74,61
+3,4:20.0,Offensive rebound by R. Gobert,,74,61
+3,4:20.0,Personal foul by M. Harrell (drawn by R. Gobert),,74,61
+3,4:20.0,R. Gobert makes free throw 1 of 2,,75,61
+3,4:20.0,R. Gobert makes free throw 2 of 2,,76,61
+3,4:07.0,,Turnover by A. Bradley (bad pass; steal by R. Gobert),76,61
+3,4:00.0,Shooting foul by T. Harris (drawn by K. Korver),,76,61
+3,4:00.0,K. Korver makes free throw 1 of 2,,77,61
+3,4:00.0,,D. Gallinari enters the game for A. Bradley,77,61
+3,4:00.0,K. Korver makes free throw 2 of 2,,78,61
+3,3:42.0,,L. Williams makes 2-pt jump shot from 16 ft,78,63
+3,3:20.0,R. O'Neale makes 2-pt layup from 2 ft,,80,63
+3,3:11.0,,Shooting foul by R. Gobert (drawn by L. Williams),80,63
+3,3:11.0,,L. Williams misses free throw 1 of 2,80,63
+3,3:11.0,,Offensive rebound by Team,80,63
+3,3:11.0,,T. Wallace enters the game for T. Harris,80,63
+3,3:11.0,,L. Williams makes free throw 2 of 2,80,64
+3,3:00.0,Turnover by D. Mitchell (lost ball; steal by P. Beverley),,80,64
+3,2:57.0,,Shooting foul by K. Korver (drawn by T. Wallace),80,64
+3,2:57.0,Utah full timeout,,80,64
+3,2:57.0,,T. Wallace misses free throw 1 of 2,80,64
+3,2:57.0,,Offensive rebound by Team,80,64
+3,2:57.0,,T. Wallace makes free throw 2 of 2,80,65
+3,2:46.0,D. Mitchell misses 2-pt layup from 3 ft,,80,65
+3,2:43.0,,Defensive rebound by D. Gallinari,80,65
+3,2:32.0,,D. Gallinari misses 3-pt jump shot from 24 ft,80,65
+3,2:29.0,Defensive rebound by R. Gobert,,80,65
+3,2:16.0,R. Gobert misses 2-pt layup from 3 ft,,80,65
+3,2:14.0,,Defensive rebound by L. Williams,80,65
+3,2:10.0,,Turnover by P. Beverley (step out of bounds),80,65
+3,2:10.0,D. Favors enters the game for R. Gobert,,80,65
+3,1:56.0,D. Mitchell makes 2-pt jump shot from 19 ft,,82,65
+3,1:42.0,,D. Gallinari makes 3-pt jump shot from 25 ft (assist by L. Williams),82,68
+3,1:29.0,Shooting foul by D. Gallinari (drawn by D. Mitchell),,82,68
+3,1:29.0,D. Mitchell makes free throw 1 of 2,,83,68
+3,1:29.0,D. Mitchell makes free throw 2 of 2,,84,68
+3,1:22.0,,L. Williams misses 2-pt jump shot from 7 ft (block by R. O'Neale),84,68
+3,1:12.0,,Offensive rebound by L. Williams,84,68
+3,1:12.0,,L. Williams misses 2-pt layup from 1 ft,84,68
+3,1:10.0,Defensive rebound by D. Favors,,84,68
+3,1:09.0,R. O'Neale makes 2-pt layup from 2 ft (assist by D. Mitchell),,86,68
+3,0:53.0,,T. Wallace makes 3-pt jump shot from 23 ft (assist by P. Beverley),86,71
+3,0:40.0,Turnover by D. Mitchell (lost ball; steal by M. Harrell),,86,71
+3,0:37.0,,Shooting foul by J. Crowder (drawn by M. Harrell),86,71
+3,0:37.0,,M. Harrell makes free throw 1 of 2,86,72
+3,0:37.0,,M. Harrell misses free throw 2 of 2,86,72
+3,0:36.0,Defensive rebound by D. Favors,,86,72
+3,0:28.0,Personal foul by P. Beverley (drawn by D. Mitchell),,86,72
+3,0:28.0,D. Mitchell makes free throw 1 of 2,,87,72
+3,0:28.0,J. Ingles enters the game for K. Korver,,87,72
+3,0:28.0,D. Mitchell makes free throw 2 of 2,,88,72
+3,0:08.0,,D. Gallinari misses 3-pt jump shot from 24 ft,88,72
+3,0:05.0,Defensive rebound by D. Favors,,88,72
+3,0:00.0,R. O'Neale misses 2-pt jump shot from 8 ft,,88,72
+3,0:00.0,Offensive rebound by Team,,88,72
+4,11:47.0,Shooting foul by P. Beverley (drawn by D. Favors),,88,72
+4,11:47.0,D. Favors misses free throw 1 of 2,,88,72
+4,11:47.0,Offensive rebound by Team,,88,72
+4,11:47.0,D. Favors misses free throw 2 of 2,,88,72
+4,11:44.0,,Defensive rebound by P. Beverley,88,72
+4,11:40.0,,Personal foul by K. Korver (drawn by T. Wallace),88,72
+4,11:34.0,,L. Williams makes 2-pt layup from 2 ft,88,74
+4,11:22.0,G. Allen misses 2-pt layup from 1 ft,,88,74
+4,11:17.0,Offensive rebound by D. Favors,,88,74
+4,11:17.0,D. Favors makes 2-pt layup at rim,,90,74
+4,11:09.0,,D. Gallinari misses 2-pt jump shot from 7 ft,90,74
+4,11:07.0,,Offensive rebound by T. Harris,90,74
+4,10:58.0,,T. Harris makes 3-pt jump shot from 26 ft,90,77
+4,10:45.0,J. Crowder makes 2-pt jump shot from 9 ft (assist by G. Allen),,92,77
+4,10:36.0,,D. Gallinari misses 2-pt layup from 2 ft,92,77
+4,10:36.0,Defensive rebound by Team,,92,77
+4,10:36.0,,Loose ball foul by D. Gallinari (drawn by D. Favors),92,77
+4,10:15.0,Personal foul by T. Wallace (drawn by G. Allen),,92,77
+4,10:08.0,Turnover by K. Korver (bad pass),,92,77
+4,10:01.0,,T. Wallace misses 2-pt layup from 2 ft,92,77
+4,9:59.0,Defensive rebound by J. Crowder,,92,77
+4,9:49.0,D. Favors makes 2-pt layup from 2 ft (assist by J. Ingles),,94,77
+4,9:38.0,,L. Williams misses 2-pt jump shot from 3 ft,94,77
+4,9:35.0,Defensive rebound by K. Korver,,94,77
+4,9:33.0,Shooting foul by P. Beverley (drawn by D. Favors),,94,77
+4,9:33.0,,LA Clippers full timeout,94,77
+4,9:33.0,Technical foul by D. Rivers,,94,77
+4,9:33.0,K. Korver misses technical free throw,,94,77
+4,9:33.0,Offensive rebound by Team,,94,77
+4,9:33.0,D. Favors misses free throw 1 of 2,,94,77
+4,9:33.0,Offensive rebound by Team,,94,77
+4,9:33.0,,M. Harrell enters the game for T. Wallace,94,77
+4,9:33.0,D. Favors makes free throw 2 of 2,,95,77
+4,9:16.0,,D. Gallinari makes 2-pt jump shot from 9 ft,95,79
+4,9:08.0,K. Korver makes 3-pt jump shot from 25 ft (assist by G. Allen),,98,79
+4,9:00.0,,L. Williams makes 2-pt layup from 2 ft,98,81
+4,8:48.0,K. Korver makes 3-pt jump shot from 26 ft (assist by J. Crowder),,101,81
+4,8:36.0,,P. Beverley misses 2-pt layup from 3 ft,101,81
+4,8:32.0,,Offensive rebound by M. Harrell,101,81
+4,8:32.0,,M. Harrell misses 2-pt layup from 1 ft,101,81
+4,8:32.0,Defensive rebound by D. Favors,,101,81
+4,8:23.0,J. Crowder makes 3-pt jump shot from 25 ft (assist by K. Korver),,104,81
+4,8:09.0,,L. Williams makes 2-pt jump shot from 7 ft,104,83
+4,7:58.0,Shooting foul by M. Harrell (drawn by J. Crowder),,104,83
+4,7:58.0,J. Crowder misses free throw 1 of 2,,104,83
+4,7:58.0,Offensive rebound by Team,,104,83
+4,7:58.0,R. Gobert enters the game for D. Favors,,104,83
+4,7:58.0,J. Crowder makes free throw 2 of 2,,105,83
+4,7:46.0,,T. Harris makes 3-pt jump shot from 22 ft (assist by M. Harrell),105,86
+4,7:38.0,Utah full timeout,,105,86
+4,7:38.0,D. Mitchell enters the game for G. Allen,,105,86
+4,7:38.0,R. O'Neale enters the game for J. Crowder,,105,86
+4,7:31.0,D. Mitchell misses 2-pt layup from 1 ft (block by M. Harrell),,105,86
+4,7:31.0,Offensive rebound by Team,,105,86
+4,7:21.0,K. Korver misses 2-pt jump shot from 19 ft,,105,86
+4,7:20.0,,Defensive rebound by M. Harrell,105,86
+4,7:17.0,,L. Williams makes 2-pt layup from 1 ft,105,88
+4,7:03.0,D. Mitchell misses 2-pt hook shot from 6 ft,,105,88
+4,7:01.0,,Defensive rebound by M. Harrell,105,88
+4,6:56.0,,L. Williams makes 2-pt layup from 2 ft,105,90
+4,6:41.0,R. Gobert makes 2-pt layup from 1 ft (assist by J. Ingles),,107,90
+4,6:25.0,,Personal foul by J. Ingles (drawn by L. Williams),107,90
+4,6:18.0,,L. Williams makes 2-pt jump shot from 18 ft,107,92
+4,6:07.0,R. Gobert makes 2-pt layup from 1 ft (assist by J. Ingles),,109,92
+4,5:56.0,,Shooting foul by K. Korver (drawn by D. Gallinari),109,92
+4,5:56.0,,D. Gallinari misses free throw 1 of 2,109,92
+4,5:56.0,,Offensive rebound by Team,109,92
+4,5:56.0,J. Crowder enters the game for K. Korver,,109,92
+4,5:56.0,,D. Gallinari makes free throw 2 of 2,109,93
+4,5:36.0,J. Ingles misses 3-pt jump shot from 26 ft,,109,93
+4,5:32.0,,Defensive rebound by L. Williams,109,93
+4,5:26.0,,T. Harris makes 3-pt jump shot from 25 ft (assist by L. Williams),109,96
+4,5:25.0,Utah full timeout,,109,96
+4,5:09.0,J. Crowder makes 3-pt jump shot from 23 ft (assist by R. O'Neale),,112,96
+4,4:51.0,,D. Gallinari misses 2-pt jump shot from 16 ft,112,96
+4,4:49.0,Defensive rebound by R. Gobert,,112,96
+4,4:28.0,R. Gobert makes 2-pt jump shot from 4 ft (assist by D. Mitchell),,114,96
+4,4:19.0,Violation by Team (kicked ball),,114,96
+4,4:19.0,,S. Gilgeous-Alexander enters the game for D. Gallinari,114,96
+4,4:19.0,,B. Marjanović enters the game for M. Harrell,114,96
+4,4:19.0,,J. Motley enters the game for L. Williams,114,96
+4,4:11.0,,J. Motley misses 2-pt layup from 4 ft (block by R. Gobert),114,96
+4,4:07.0,Defensive rebound by J. Crowder,,114,96
+4,3:57.0,J. Ingles makes 2-pt layup from 2 ft,,116,96
+4,3:43.0,,B. Marjanović makes 2-pt hook shot from 11 ft (assist by J. Motley),116,98
+4,3:28.0,D. Mitchell makes 2-pt jump shot from 10 ft,,118,98
+4,3:14.0,,B. Marjanović makes 2-pt hook shot from 1 ft (assist by T. Harris),118,100
+4,3:14.0,,Shooting foul by R. Gobert (drawn by B. Marjanović),118,100
+4,3:14.0,G. Allen enters the game for J. Ingles,,118,100
+4,3:14.0,,S. Thornwell enters the game for P. Beverley,118,100
+4,3:14.0,,T. Wallace enters the game for T. Harris,118,100
+4,3:14.0,,B. Marjanović misses free throw 1 of 1,118,100
+4,3:11.0,Defensive rebound by R. Gobert,,118,100
+4,2:54.0,D. Mitchell misses 2-pt jump shot from 8 ft,,118,100
+4,2:51.0,Offensive rebound by R. Gobert,,118,100
+4,2:51.0,Shooting foul by B. Marjanović (drawn by R. Gobert),,118,100
+4,2:51.0,R. Gobert makes free throw 1 of 2,,119,100
+4,2:51.0,G. Niang enters the game for D. Mitchell,,119,100
+4,2:51.0,R. Gobert makes free throw 2 of 2,,120,100
+4,2:42.0,,Turnover by S. Thornwell (traveling),120,100
+4,2:42.0,E. Udoh enters the game for R. Gobert,,120,100
+4,2:30.0,G. Allen makes 2-pt layup from 2 ft,,122,100
+4,2:30.0,Shooting foul by S. Thornwell (drawn by G. Allen),,122,100
+4,2:30.0,T. Cavanaugh enters the game for J. Crowder,,122,100
+4,2:30.0,N. Mitrou-Long enters the game for R. O'Neale,,122,100
+4,2:30.0,G. Allen makes free throw 1 of 1,,123,100
+4,2:13.0,,J. Motley makes 2-pt dunk from 2 ft (assist by S. Thornwell),123,102
+4,1:45.0,G. Allen makes 3-pt jump shot from 27 ft (assist by E. Udoh),,126,102
+4,1:31.0,,T. Wallace makes 2-pt jump shot from 12 ft (assist by J. Motley),126,104
+4,1:08.0,Turnover by G. Allen (traveling),,126,104
+4,1:00.0,,S. Gilgeous-Alexander makes 2-pt jump shot from 14 ft,126,106
+4,0:48.0,G. Niang makes 3-pt jump shot from 25 ft (assist by G. Allen),,129,106
+4,0:37.0,,J. Motley misses 2-pt jump shot from 5 ft,129,106
+4,0:35.0,,Offensive rebound by J. Motley,129,106
+4,0:35.0,,J. Motley makes 2-pt layup from 1 ft,129,108
+4,0:35.0,,Shooting foul by E. Udoh (drawn by J. Motley),129,108
+4,0:35.0,,J. Motley makes free throw 1 of 1,129,109
+4,0:23.0,N. Mitrou-Long misses 3-pt jump shot from 22 ft,,129,109
+4,0:19.0,,Defensive rebound by S. Thornwell,129,109
+4,0:14.0,,T. Wallace misses 3-pt jump shot from 23 ft,129,109
+4,0:10.0,Defensive rebound by T. Cavanaugh,,129,109

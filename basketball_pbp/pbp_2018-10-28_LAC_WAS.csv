@@ -1,0 +1,468 @@
+QUARTER,TIME_REMAINING,WASHINGTON_ACTION,LA CLIPPERS_ACTION,WASHINGTON_SCORE,LA CLIPPERS_SCORE
+1,11:39.0,,D. Gallinari misses 2-pt layup from 1 ft,0,0
+1,11:37.0,Defensive rebound by I. Mahinmi,,0,0
+1,11:29.0,M. Morris misses 3-pt jump shot from 23 ft,,0,0
+1,11:26.0,,Defensive rebound by P. Beverley,0,0
+1,11:10.0,,A. Bradley makes 3-pt jump shot from 23 ft (assist by D. Gallinari),0,3
+1,10:59.0,Turnover by I. Mahinmi (offensive foul),,0,3
+1,10:59.0,Offensive foul by I. Mahinmi (drawn by A. Bradley),,0,3
+1,10:49.0,,A. Bradley makes 2-pt layup from 1 ft (assist by P. Beverley),0,5
+1,10:26.0,J. Wall misses 2-pt jump shot from 19 ft,,0,5
+1,10:22.0,,Defensive rebound by T. Harris,0,5
+1,10:15.0,,T. Harris makes 2-pt jump shot from 6 ft,0,7
+1,10:03.0,O. Porter misses 3-pt jump shot from 25 ft,,0,7
+1,9:59.0,,Defensive rebound by M. Gortat,0,7
+1,9:41.0,,P. Beverley misses 2-pt jump shot from 5 ft,0,7
+1,9:39.0,Defensive rebound by M. Morris,,0,7
+1,9:37.0,B. Beal makes 2-pt jump shot from 16 ft,,2,7
+1,9:19.0,,D. Gallinari misses 3-pt jump shot from 26 ft,2,7
+1,9:15.0,Defensive rebound by O. Porter,,2,7
+1,9:10.0,J. Wall misses 2-pt layup from 3 ft (block by D. Gallinari),,2,7
+1,9:10.0,Offensive rebound by Team,,2,7
+1,9:06.0,O. Porter misses 2-pt jump shot from 9 ft,,2,7
+1,9:01.0,Offensive rebound by I. Mahinmi,,2,7
+1,9:01.0,I. Mahinmi makes 2-pt layup at rim,,4,7
+1,8:54.0,,A. Bradley makes 3-pt jump shot from 25 ft (assist by P. Beverley),4,10
+1,8:37.0,J. Wall misses 2-pt jump shot from 11 ft,,4,10
+1,8:33.0,Offensive rebound by J. Wall,,4,10
+1,8:31.0,Personal foul by P. Beverley (drawn by J. Wall),,4,10
+1,8:24.0,I. Mahinmi misses 2-pt jump shot from 14 ft,,4,10
+1,8:21.0,,Defensive rebound by D. Gallinari,4,10
+1,8:05.0,,A. Bradley misses 3-pt jump shot from 25 ft,4,10
+1,8:03.0,Defensive rebound by B. Beal,,4,10
+1,7:57.0,B. Beal makes 2-pt jump shot from 11 ft,,6,10
+1,7:40.0,,A. Bradley misses 3-pt jump shot from 23 ft,6,10
+1,7:34.0,,T. Harris makes 2-pt layup from 1 ft,6,12
+1,7:34.0,,Offensive rebound by T. Harris,6,12
+1,7:22.0,J. Wall makes 2-pt jump shot from 14 ft,,8,12
+1,7:07.0,,Personal foul by M. Morris (drawn by D. Gallinari),8,12
+1,6:55.0,,D. Gallinari misses 3-pt jump shot from 31 ft,8,12
+1,6:53.0,Defensive rebound by Team,,8,12
+1,6:53.0,,LA Clippers full timeout,8,12
+1,6:41.0,I. Mahinmi makes 2-pt dunk from 1 ft (assist by J. Wall),,10,12
+1,6:24.0,,Turnover by T. Harris (lost ball; steal by J. Wall),10,12
+1,6:12.0,M. Morris misses 2-pt hook shot from 5 ft,,10,12
+1,6:09.0,,Defensive rebound by T. Harris,10,12
+1,6:05.0,,P. Beverley misses 3-pt jump shot from 25 ft,10,12
+1,6:01.0,Defensive rebound by O. Porter,,10,12
+1,5:58.0,B. Beal misses 3-pt jump shot from 25 ft,,10,12
+1,5:54.0,,Defensive rebound by T. Harris,10,12
+1,5:54.0,,Personal foul by B. Beal (drawn by T. Harris),10,12
+1,5:42.0,,D. Gallinari makes 2-pt dunk from 1 ft (assist by M. Gortat),10,14
+1,5:25.0,J. Wall misses 2-pt jump shot from 15 ft,,10,14
+1,5:21.0,Offensive rebound by I. Mahinmi,,10,14
+1,5:16.0,O. Porter makes 2-pt jump shot from 10 ft,,12,14
+1,4:58.0,,A. Bradley makes 3-pt jump shot from 25 ft (assist by P. Beverley),12,17
+1,4:49.0,Shooting foul by M. Gortat (drawn by I. Mahinmi),,12,17
+1,4:49.0,I. Mahinmi makes free throw 1 of 2,,13,17
+1,4:49.0,I. Mahinmi makes free throw 2 of 2,,14,17
+1,4:37.0,,P. Beverley misses 3-pt jump shot from 25 ft,14,17
+1,4:33.0,Defensive rebound by I. Mahinmi,,14,17
+1,4:26.0,B. Beal makes 2-pt layup from 1 ft,,16,17
+1,4:11.0,,M. Gortat misses 2-pt jump shot from 17 ft,16,17
+1,4:08.0,Defensive rebound by I. Mahinmi,,16,17
+1,3:59.0,J. Wall misses 2-pt layup from 3 ft (block by M. Gortat),,16,17
+1,3:57.0,,Defensive rebound by M. Gortat,16,17
+1,3:54.0,,Shooting foul by I. Mahinmi (drawn by D. Gallinari),16,17
+1,3:54.0,,D. Gallinari makes free throw 1 of 2,16,18
+1,3:54.0,J. Green enters the game for I. Mahinmi,,16,18
+1,3:54.0,A. Rivers enters the game for O. Porter,,16,18
+1,3:54.0,,S. Gilgeous-Alexander enters the game for P. Beverley,16,18
+1,3:54.0,,M. Harrell enters the game for M. Gortat,16,18
+1,3:54.0,,D. Gallinari makes free throw 2 of 2,16,19
+1,3:38.0,M. Morris misses 3-pt jump shot from 25 ft,,16,19
+1,3:33.0,,Defensive rebound by D. Gallinari,16,19
+1,3:16.0,,Turnover by M. Harrell (offensive foul),16,19
+1,3:16.0,,Offensive foul by M. Harrell (drawn by M. Morris),16,19
+1,3:16.0,,L. Williams enters the game for D. Gallinari,16,19
+1,2:43.0,M. Morris misses 3-pt jump shot from 23 ft,,16,19
+1,2:38.0,Offensive rebound by J. Green,,16,19
+1,2:38.0,J. Wall misses 2-pt layup from 2 ft (block by A. Bradley),,16,19
+1,2:38.0,,Defensive rebound by Team,16,19
+1,2:38.0,Washington full timeout,,16,19
+1,2:38.0,K. Oubre enters the game for J. Wall,,16,19
+1,2:20.0,,T. Harris misses 3-pt jump shot from 25 ft,16,19
+1,2:16.0,,Offensive rebound by S. Gilgeous-Alexander,16,19
+1,2:13.0,,M. Harrell makes 2-pt layup at rim (assist by A. Bradley),16,21
+1,1:50.0,B. Beal makes 2-pt layup from 1 ft,,18,21
+1,1:41.0,,A. Bradley misses 2-pt jump shot from 9 ft,18,21
+1,1:36.0,,Offensive rebound by A. Bradley,18,21
+1,1:36.0,,A. Bradley misses 2-pt layup from 1 ft,18,21
+1,1:36.0,,Offensive rebound by M. Harrell,18,21
+1,1:33.0,,M. Harrell makes 2-pt layup from 1 ft,18,23
+1,1:18.0,J. Green misses 3-pt jump shot from 27 ft,,18,23
+1,1:14.0,,Defensive rebound by S. Gilgeous-Alexander,18,23
+1,1:08.0,,L. Williams misses 3-pt jump shot from 26 ft,18,23
+1,1:04.0,Defensive rebound by B. Beal,,18,23
+1,0:57.0,B. Beal misses 2-pt jump shot from 15 ft,,18,23
+1,0:54.0,,Defensive rebound by S. Gilgeous-Alexander,18,23
+1,0:42.0,,T. Harris misses 2-pt jump shot from 8 ft,18,23
+1,0:40.0,Defensive rebound by K. Oubre,,18,23
+1,0:33.0,K. Oubre misses 3-pt jump shot from 27 ft,,18,23
+1,0:29.0,,Defensive rebound by M. Harrell,18,23
+1,0:22.0,,M. Harrell makes 2-pt layup from 3 ft (assist by L. Williams),18,25
+1,0:03.0,B. Beal makes 2-pt dunk from 1 ft (assist by A. Rivers),,20,25
+1,0:01.0,,S. Gilgeous-Alexander makes 3-pt jump shot from 40 ft,20,28
+2,11:47.0,A. Rivers misses 2-pt jump shot from 12 ft,,20,28
+2,11:43.0,,Defensive rebound by S. Gilgeous-Alexander,20,28
+2,11:38.0,,S. Gilgeous-Alexander makes 2-pt layup from 1 ft,20,30
+2,11:24.0,Personal foul by M. Teodosić (drawn by K. Oubre),,20,30
+2,11:21.0,Turnover by K. Oubre (bad pass; steal by S. Gilgeous-Alexander),,20,30
+2,11:18.0,,S. Gilgeous-Alexander makes 2-pt layup at rim,20,32
+2,11:04.0,A. Rivers misses 2-pt layup from 4 ft,,20,32
+2,11:01.0,Offensive rebound by J. Green,,20,32
+2,11:01.0,J. Green misses 2-pt layup at rim,,20,32
+2,11:00.0,,Defensive rebound by M. Harrell,20,32
+2,10:58.0,,L. Williams makes 3-pt jump shot from 24 ft (assist by M. Teodosić),20,35
+2,10:56.0,Washington full timeout,,20,35
+2,10:39.0,T. Satoranský makes 2-pt layup from 1 ft (assist by J. Green),,22,35
+2,10:24.0,,M. Teodosić makes 3-pt jump shot from 25 ft (assist by L. Williams),22,38
+2,10:09.0,Personal foul by M. Scott (drawn by K. Oubre),,22,38
+2,10:04.0,J. Green misses 2-pt layup from 4 ft,,22,38
+2,10:04.0,Offensive rebound by J. Green,,22,38
+2,10:04.0,Shooting foul by L. Williams (drawn by J. Green),,22,38
+2,10:04.0,J. Green makes free throw 1 of 2,,23,38
+2,10:04.0,J. Green makes free throw 2 of 2,,24,38
+2,9:53.0,,Personal foul by T. Satoranský (drawn by M. Harrell),24,38
+2,9:47.0,,M. Harrell makes 2-pt layup from 1 ft (assist by L. Williams),24,40
+2,9:47.0,,Shooting foul by J. Green (drawn by M. Harrell),24,40
+2,9:47.0,,M. Harrell misses free throw 1 of 1,24,40
+2,9:45.0,Defensive rebound by J. Green,,24,40
+2,9:32.0,T. Satoranský misses 2-pt jump shot from 16 ft,,24,40
+2,9:27.0,,Defensive rebound by M. Scott,24,40
+2,9:24.0,,M. Harrell makes 2-pt layup from 1 ft (assist by L. Williams),24,42
+2,9:24.0,,Shooting foul by T. Satoranský (drawn by M. Harrell),24,42
+2,9:24.0,,M. Harrell misses free throw 1 of 1,24,42
+2,9:24.0,Defensive rebound by J. Green,,24,42
+2,9:21.0,Washington full timeout,,24,42
+2,9:21.0,O. Porter enters the game for I. Mahinmi,,24,42
+2,9:21.0,J. Wall enters the game for T. Satoranský,,24,42
+2,9:12.0,A. Rivers makes 3-pt jump shot from 26 ft (assist by J. Wall),,27,42
+2,8:53.0,,M. Harrell misses 2-pt layup from 2 ft,27,42
+2,8:50.0,Defensive rebound by J. Wall,,27,42
+2,8:47.0,K. Oubre makes 2-pt dunk from 1 ft (assist by J. Wall),,29,42
+2,8:33.0,,M. Harrell makes 2-pt dunk from 1 ft (assist by M. Scott),29,44
+2,8:24.0,Personal foul by S. Gilgeous-Alexander (drawn by J. Green),,29,44
+2,8:17.0,J. Wall makes 2-pt layup from 3 ft,,31,44
+2,8:17.0,Shooting foul by S. Gilgeous-Alexander (drawn by J. Wall),,31,44
+2,8:17.0,J. Wall makes free throw 1 of 1,,32,44
+2,8:04.0,,M. Scott makes 3-pt jump shot from 23 ft (assist by L. Williams),32,47
+2,7:44.0,Shooting foul by M. Scott (drawn by J. Green),,32,47
+2,7:44.0,J. Green makes free throw 1 of 2,,33,47
+2,7:44.0,J. Green makes free throw 2 of 2,,34,47
+2,7:29.0,,L. Williams misses 2-pt jump shot from 20 ft,34,47
+2,7:27.0,Defensive rebound by K. Oubre,,34,47
+2,7:21.0,K. Oubre misses 2-pt layup from 5 ft,,34,47
+2,7:18.0,Offensive rebound by O. Porter,,34,47
+2,7:18.0,O. Porter makes 2-pt layup at rim,,36,47
+2,7:10.0,,M. Scott makes 3-pt jump shot from 25 ft (assist by S. Gilgeous-Alexander),36,50
+2,6:57.0,J. Wall makes 2-pt layup from 1 ft,,38,50
+2,6:39.0,,M. Scott makes 2-pt layup from 2 ft (assist by L. Williams),38,52
+2,6:26.0,A. Rivers makes 2-pt layup from 3 ft,,40,52
+2,6:26.0,Shooting foul by M. Teodosić (drawn by A. Rivers),,40,52
+2,6:26.0,M. Morris enters the game for J. Green,,40,52
+2,6:26.0,,P. Beverley enters the game for S. Gilgeous-Alexander,40,52
+2,6:26.0,,D. Gallinari enters the game for M. Teodosić,40,52
+2,6:26.0,A. Rivers makes free throw 1 of 1,,41,52
+2,6:11.0,,Turnover by L. Williams (lost ball; steal by A. Rivers),41,52
+2,6:04.0,O. Porter misses 2-pt layup from 2 ft,,41,52
+2,6:04.0,Offensive rebound by Team,,41,52
+2,6:04.0,B. Beal enters the game for A. Rivers,,41,52
+2,6:04.0,,A. Bradley enters the game for M. Scott,41,52
+2,6:00.0,K. Oubre misses 3-pt jump shot from 28 ft,,41,52
+2,5:56.0,,Defensive rebound by M. Harrell,41,52
+2,5:43.0,,Turnover by M. Harrell (bad pass; steal by O. Porter),41,52
+2,5:38.0,J. Wall makes 2-pt jump shot from 18 ft,,43,52
+2,5:36.0,,LA Clippers full timeout,43,52
+2,5:36.0,,M. Gortat enters the game for M. Harrell,43,52
+2,5:36.0,,T. Harris enters the game for L. Williams,43,52
+2,5:21.0,,Turnover by M. Gortat (bad pass; steal by J. Wall),43,52
+2,5:17.0,J. Wall makes 2-pt dunk at rim,,45,52
+2,5:04.0,,D. Gallinari misses 2-pt layup from 3 ft,45,52
+2,4:59.0,,Offensive rebound by D. Gallinari,45,52
+2,4:58.0,,D. Gallinari misses 2-pt layup from 2 ft,45,52
+2,4:58.0,Defensive rebound by B. Beal,,45,52
+2,4:51.0,Turnover by B. Beal (lost ball; steal by D. Gallinari),,45,52
+2,4:47.0,,D. Gallinari makes 2-pt dunk at rim (assist by A. Bradley),45,54
+2,4:47.0,Washington full timeout,,45,54
+2,4:47.0,I. Mahinmi enters the game for M. Morris,,45,54
+2,4:25.0,B. Beal misses 2-pt jump shot from 7 ft,,45,54
+2,4:21.0,,Defensive rebound by M. Gortat,45,54
+2,4:16.0,,M. Gortat makes 2-pt jump shot from 10 ft (assist by A. Bradley),45,56
+2,4:02.0,Personal foul by P. Beverley (drawn by J. Wall),,45,56
+2,4:02.0,J. Wall makes free throw 1 of 2,,46,56
+2,4:02.0,A. Rivers enters the game for K. Oubre,,46,56
+2,4:02.0,J. Wall misses free throw 2 of 2,,46,56
+2,3:59.0,,Defensive rebound by M. Gortat,46,56
+2,3:44.0,,D. Gallinari misses 2-pt layup from 1 ft (block by A. Rivers),46,56
+2,3:44.0,,Offensive rebound by Team,46,56
+2,3:37.0,,D. Gallinari misses 2-pt jump shot from 11 ft,46,56
+2,3:31.0,Defensive rebound by B. Beal,,46,56
+2,3:26.0,J. Wall makes 2-pt layup from 1 ft,,48,56
+2,3:10.0,,A. Bradley makes 2-pt jump shot from 19 ft (assist by M. Gortat),48,58
+2,2:59.0,Personal foul by A. Bradley (drawn by B. Beal),,48,58
+2,2:59.0,B. Beal makes free throw 1 of 2,,49,58
+2,2:59.0,B. Beal makes free throw 2 of 2,,50,58
+2,2:41.0,,T. Harris makes 3-pt jump shot from 23 ft (assist by A. Bradley),50,61
+2,2:27.0,Turnover by A. Rivers (traveling),,50,61
+2,2:18.0,,P. Beverley makes 2-pt layup at rim,50,63
+2,2:05.0,J. Wall makes 2-pt jump shot from 13 ft,,52,63
+2,1:46.0,,D. Gallinari misses 2-pt layup from 2 ft,52,63
+2,1:41.0,,Offensive rebound by M. Gortat,52,63
+2,1:41.0,,M. Gortat misses 2-pt layup from 1 ft,52,63
+2,1:41.0,,Offensive rebound by M. Gortat,52,63
+2,1:39.0,,M. Gortat makes 2-pt layup from 1 ft,52,65
+2,1:33.0,J. Wall makes 2-pt layup from 1 ft,,54,65
+2,1:18.0,,T. Harris misses 2-pt jump shot from 5 ft,54,65
+2,1:18.0,,Offensive rebound by T. Harris,54,65
+2,1:18.0,,T. Harris makes 2-pt layup from 1 ft,54,67
+2,1:18.0,,Shooting foul by I. Mahinmi (drawn by T. Harris),54,67
+2,1:18.0,,T. Harris makes free throw 1 of 1,54,68
+2,1:08.0,Offensive foul by B. Beal (drawn by A. Bradley),,54,68
+2,1:08.0,Turnover by B. Beal (offensive foul),,54,68
+2,0:51.0,,Shooting foul by A. Rivers (drawn by T. Harris),54,68
+2,0:51.0,,T. Harris makes free throw 1 of 2,54,69
+2,0:51.0,,T. Harris misses free throw 2 of 2,54,69
+2,0:49.0,Defensive rebound by O. Porter,,54,69
+2,0:40.0,J. Wall misses 3-pt jump shot from 25 ft,,54,69
+2,0:35.0,Offensive rebound by I. Mahinmi,,54,69
+2,0:34.0,I. Mahinmi misses 2-pt layup from 4 ft (block by M. Gortat),,54,69
+2,0:34.0,,Defensive rebound by D. Gallinari,54,69
+2,0:14.0,,A. Bradley misses 3-pt jump shot from 24 ft,54,69
+2,0:10.0,,Offensive rebound by P. Beverley,54,69
+2,0:01.0,,P. Beverley misses 2-pt jump shot from 21 ft,54,69
+2,0:01.0,Defensive rebound by A. Rivers,,54,69
+3,11:48.0,O. Porter misses 2-pt jump shot from 18 ft,,54,69
+3,11:44.0,,Defensive rebound by T. Harris,54,69
+3,11:39.0,,Personal foul by J. Green (drawn by D. Gallinari),54,69
+3,11:30.0,,D. Gallinari misses 2-pt jump shot from 17 ft,54,69
+3,11:29.0,Defensive rebound by J. Wall,,54,69
+3,11:19.0,J. Wall misses 2-pt jump shot from 13 ft (block by M. Gortat),,54,69
+3,11:16.0,,Defensive rebound by T. Harris,54,69
+3,11:05.0,,Offensive foul by A. Bradley (drawn by B. Beal),54,69
+3,11:05.0,,Turnover by A. Bradley (offensive foul),54,69
+3,10:50.0,B. Beal makes 2-pt jump shot from 17 ft (assist by J. Wall),,56,69
+3,10:50.0,Shooting foul by A. Bradley (drawn by B. Beal),,56,69
+3,10:50.0,B. Beal misses free throw 1 of 1,,56,69
+3,10:50.0,,Defensive rebound by T. Harris,56,69
+3,10:32.0,,A. Bradley makes 2-pt jump shot from 17 ft (assist by M. Gortat),56,71
+3,10:10.0,J. Green makes 2-pt hook shot from 7 ft (assist by J. Wall),,58,71
+3,9:50.0,,T. Harris misses 3-pt jump shot from 23 ft,58,71
+3,9:45.0,Defensive rebound by J. Green,,58,71
+3,9:36.0,Shooting foul by M. Gortat (drawn by I. Mahinmi),,58,71
+3,9:36.0,I. Mahinmi makes free throw 1 of 2,,59,71
+3,9:36.0,I. Mahinmi makes free throw 2 of 2,,60,71
+3,9:26.0,,T. Harris makes 2-pt jump shot from 18 ft,60,73
+3,9:13.0,J. Wall misses 3-pt jump shot from 27 ft,,60,73
+3,9:09.0,Offensive rebound by J. Green,,60,73
+3,9:06.0,B. Beal misses 3-pt jump shot from 25 ft,,60,73
+3,9:04.0,,Defensive rebound by M. Gortat,60,73
+3,8:57.0,,M. Gortat misses 2-pt hook shot from 8 ft,60,73
+3,8:49.0,,Offensive rebound by T. Harris,60,73
+3,8:49.0,,T. Harris makes 2-pt dunk at rim,60,75
+3,8:43.0,Personal foul by T. Harris (drawn by O. Porter),,60,75
+3,8:31.0,B. Beal misses 3-pt jump shot from 25 ft,,60,75
+3,8:29.0,,Defensive rebound by P. Beverley,60,75
+3,8:26.0,,T. Harris makes 2-pt dunk from 1 ft (assist by A. Bradley),60,77
+3,8:25.0,Washington full timeout,,60,77
+3,8:13.0,Shooting foul by M. Gortat (drawn by I. Mahinmi),,60,77
+3,8:13.0,I. Mahinmi misses free throw 1 of 2,,60,77
+3,8:13.0,Offensive rebound by Team,,60,77
+3,8:13.0,I. Mahinmi makes free throw 2 of 2,,61,77
+3,7:57.0,,Turnover by P. Beverley (bad pass),61,77
+3,7:51.0,Turnover by B. Beal (bad pass),,61,77
+3,7:39.0,,A. Bradley misses 2-pt jump shot from 21 ft,61,77
+3,7:36.0,Defensive rebound by B. Beal,,61,77
+3,7:26.0,O. Porter misses 3-pt jump shot from 23 ft,,61,77
+3,7:23.0,Offensive rebound by B. Beal,,61,77
+3,7:14.0,J. Wall misses 2-pt layup from 1 ft,,61,77
+3,7:13.0,,Defensive rebound by M. Gortat,61,77
+3,7:11.0,,Turnover by D. Gallinari (lost ball; steal by O. Porter),61,77
+3,7:06.0,O. Porter misses 2-pt layup from 1 ft,,61,77
+3,7:03.0,,Defensive rebound by P. Beverley,61,77
+3,6:54.0,,Offensive foul by A. Bradley (drawn by J. Green),61,77
+3,6:54.0,,Turnover by A. Bradley (offensive foul),61,77
+3,6:54.0,,S. Gilgeous-Alexander enters the game for A. Bradley,61,77
+3,6:42.0,Shooting foul by S. Gilgeous-Alexander (drawn by B. Beal),,61,77
+3,6:42.0,B. Beal misses free throw 1 of 2,,61,77
+3,6:42.0,Offensive rebound by Team,,61,77
+3,6:42.0,B. Beal makes free throw 2 of 2,,62,77
+3,6:28.0,,Turnover by T. Harris (bad pass; steal by J. Wall),62,77
+3,6:23.0,J. Green makes 2-pt dunk from 1 ft (assist by O. Porter),,64,77
+3,6:10.0,,Turnover by D. Gallinari (bad pass; steal by J. Wall),64,77
+3,6:05.0,B. Beal misses 2-pt layup from 2 ft,,64,77
+3,6:01.0,Offensive rebound by J. Green,,64,77
+3,6:01.0,J. Green makes 2-pt layup from 1 ft,,66,77
+3,6:01.0,,LA Clippers full timeout,66,77
+3,6:01.0,,M. Harrell enters the game for M. Gortat,66,77
+3,5:45.0,,T. Harris makes 3-pt jump shot from 26 ft (assist by S. Gilgeous-Alexander),66,80
+3,5:27.0,B. Beal makes 2-pt layup from 1 ft (assist by J. Green),,68,80
+3,5:15.0,,P. Beverley misses 3-pt jump shot from 25 ft,68,80
+3,5:13.0,Defensive rebound by O. Porter,,68,80
+3,5:06.0,Turnover by J. Wall (lost ball; steal by S. Gilgeous-Alexander),,68,80
+3,5:00.0,,Shooting foul by B. Beal (drawn by M. Harrell),68,80
+3,5:00.0,,M. Harrell misses free throw 1 of 2,68,80
+3,5:00.0,,Offensive rebound by Team,68,80
+3,5:00.0,,M. Harrell makes free throw 2 of 2,68,81
+3,4:41.0,B. Beal makes 3-pt jump shot from 23 ft (assist by O. Porter),,71,81
+3,4:20.0,,P. Beverley makes 3-pt jump shot from 27 ft (assist by M. Harrell),71,84
+3,4:06.0,J. Wall misses 2-pt jump shot from 12 ft,,71,84
+3,4:03.0,,Defensive rebound by M. Harrell,71,84
+3,3:55.0,,D. Gallinari makes 3-pt jump shot from 25 ft (assist by P. Beverley),71,87
+3,3:40.0,Turnover by J. Green (bad pass),,71,87
+3,3:28.0,,P. Beverley makes 3-pt jump shot from 26 ft,71,90
+3,3:10.0,J. Wall misses 2-pt jump shot from 4 ft (block by M. Harrell),,71,90
+3,3:10.0,,Defensive rebound by T. Harris,71,90
+3,3:06.0,,T. Harris makes 2-pt layup from 1 ft,71,92
+3,3:06.0,Washington full timeout,,71,92
+3,3:06.0,K. Oubre enters the game for O. Porter,,71,92
+3,3:06.0,A. Rivers enters the game for J. Wall,,71,92
+3,2:56.0,B. Beal misses 3-pt jump shot from 25 ft,,71,92
+3,2:52.0,,Defensive rebound by D. Gallinari,71,92
+3,2:38.0,,P. Beverley makes 3-pt jump shot from 27 ft (assist by D. Gallinari),71,95
+3,2:25.0,Turnover by A. Rivers (bad pass; steal by D. Gallinari),,71,95
+3,2:20.0,,S. Gilgeous-Alexander misses 2-pt layup from 3 ft (block by B. Beal),71,95
+3,2:15.0,,Offensive rebound by D. Gallinari,71,95
+3,2:15.0,,D. Gallinari makes 2-pt layup at rim,71,97
+3,2:10.0,B. Beal misses 3-pt jump shot from 25 ft,,71,97
+3,2:05.0,,Defensive rebound by D. Gallinari,71,97
+3,1:49.0,,D. Gallinari misses 2-pt jump shot from 18 ft,71,97
+3,1:46.0,Defensive rebound by B. Beal,,71,97
+3,1:39.0,K. Oubre makes 3-pt jump shot from 25 ft (assist by A. Rivers),,74,97
+3,1:14.0,,T. Harris misses 2-pt jump shot from 9 ft,74,97
+3,1:10.0,Defensive rebound by I. Mahinmi,,74,97
+3,1:07.0,Shooting foul by S. Gilgeous-Alexander (drawn by A. Rivers),,74,97
+3,1:07.0,A. Rivers makes free throw 1 of 2,,75,97
+3,1:07.0,T. Satoranský enters the game for B. Beal,,75,97
+3,1:07.0,,M. Scott enters the game for P. Beverley,75,97
+3,1:07.0,,L. Williams enters the game for D. Gallinari,75,97
+3,1:07.0,A. Rivers misses free throw 2 of 2,,75,97
+3,1:03.0,,Defensive rebound by T. Harris,75,97
+3,0:45.0,,L. Williams misses 2-pt jump shot from 9 ft,75,97
+3,0:43.0,Defensive rebound by K. Oubre,,75,97
+3,0:37.0,K. Oubre misses 2-pt layup from 2 ft (block by M. Harrell),,75,97
+3,0:37.0,,Defensive rebound by M. Harrell,75,97
+3,0:28.0,,L. Williams misses 2-pt layup from 2 ft,75,97
+3,0:28.0,Defensive rebound by Team,,75,97
+3,0:28.0,,Loose ball foul by M. Harrell (drawn by J. Green),75,97
+3,0:28.0,J. Green makes free throw 1 of 2,,76,97
+3,0:28.0,J. Green makes free throw 2 of 2,,77,97
+3,0:04.0,,Turnover by Team (shot clock),77,97
+3,0:03.0,K. Oubre misses 3-pt jump shot from 28 ft,,77,97
+3,0:01.0,Offensive rebound by Team,,77,97
+4,11:48.0,,L. Williams misses 2-pt jump shot from 19 ft,77,97
+4,11:44.0,Defensive rebound by T. Satoranský,,77,97
+4,11:38.0,I. Mahinmi makes 2-pt hook shot from 6 ft (assist by T. Satoranský),,79,97
+4,11:27.0,,L. Williams makes 2-pt jump shot from 6 ft (assist by B. Marjanović),79,99
+4,11:05.0,O. Porter makes 2-pt jump shot from 4 ft (assist by K. Oubre),,81,99
+4,10:49.0,,L. Williams makes 2-pt jump shot from 17 ft (assist by M. Teodosić),81,101
+4,10:39.0,Offensive foul by I. Mahinmi (drawn by L. Williams),,81,101
+4,10:39.0,Turnover by I. Mahinmi (offensive foul),,81,101
+4,10:39.0,T. Bryant enters the game for I. Mahinmi,,81,101
+4,10:23.0,,B. Marjanović makes 2-pt layup from 2 ft,81,103
+4,10:13.0,T. Satoranský makes 2-pt hook shot from 8 ft,,83,103
+4,9:58.0,,M. Scott misses 2-pt jump shot from 12 ft,83,103
+4,9:54.0,Defensive rebound by K. Oubre,,83,103
+4,9:44.0,A. Rivers misses 3-pt jump shot from 22 ft,,83,103
+4,9:41.0,,Defensive rebound by B. Marjanović,83,103
+4,9:35.0,,L. Williams makes 2-pt jump shot from 13 ft,83,105
+4,9:11.0,A. Rivers makes 2-pt layup from 2 ft (assist by T. Satoranský),,85,105
+4,9:04.0,,L. Williams makes 2-pt jump shot from 19 ft (assist by M. Teodosić),85,107
+4,8:47.0,T. Satoranský misses 2-pt jump shot from 19 ft,,85,107
+4,8:47.0,,Defensive rebound by M. Scott,85,107
+4,8:40.0,,L. Williams makes 2-pt jump shot from 14 ft,85,109
+4,8:40.0,,Shooting foul by K. Oubre (drawn by L. Williams),85,109
+4,8:40.0,,L. Williams makes free throw 1 of 1,85,110
+4,8:29.0,Turnover by K. Oubre (bad pass; steal by L. Williams),,85,110
+4,8:27.0,,Shooting foul by A. Rivers (drawn by S. Gilgeous-Alexander),85,110
+4,8:27.0,,S. Gilgeous-Alexander misses free throw 1 of 2,85,110
+4,8:27.0,,Offensive rebound by Team,85,110
+4,8:27.0,,S. Gilgeous-Alexander makes free throw 2 of 2,85,111
+4,8:19.0,K. Oubre misses 3-pt jump shot from 26 ft,,85,111
+4,8:14.0,,Defensive rebound by S. Gilgeous-Alexander,85,111
+4,8:10.0,,S. Gilgeous-Alexander misses 2-pt layup from 3 ft,85,111
+4,8:10.0,Defensive rebound by Team,,85,111
+4,7:57.0,Turnover by K. Oubre (lost ball; steal by M. Teodosić),,85,111
+4,7:53.0,,Turnover by S. Gilgeous-Alexander (bad pass),85,111
+4,7:53.0,J. McRae enters the game for O. Porter,,85,111
+4,7:45.0,K. Oubre misses 3-pt jump shot from 25 ft,,85,111
+4,7:42.0,,Defensive rebound by B. Marjanović,85,111
+4,7:35.0,,L. Williams makes 3-pt jump shot from 26 ft,85,114
+4,7:20.0,T. Bryant makes 2-pt jump shot from 20 ft (assist by A. Rivers),,87,114
+4,7:05.0,,L. Williams misses 3-pt jump shot from 26 ft,87,114
+4,7:03.0,Defensive rebound by Team,,87,114
+4,7:03.0,,J. Robinson enters the game for M. Teodosić,87,114
+4,7:03.0,,T. Wallace enters the game for L. Williams,87,114
+4,6:52.0,Turnover by T. Bryant (traveling),,87,114
+4,6:52.0,,LA Clippers full timeout,87,114
+4,6:52.0,T. Brown enters the game for A. Rivers,,87,114
+4,6:44.0,,Offensive foul by B. Marjanović (drawn by K. Oubre),87,114
+4,6:44.0,,Turnover by B. Marjanović (offensive foul),87,114
+4,6:34.0,T. Brown misses 2-pt jump shot from 12 ft,,87,114
+4,6:30.0,Offensive rebound by T. Bryant,,87,114
+4,6:27.0,T. Satoranský makes 3-pt jump shot from 25 ft (assist by J. McRae),,90,114
+4,6:09.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 9 ft,90,114
+4,6:06.0,,Offensive rebound by S. Gilgeous-Alexander,90,114
+4,6:03.0,,B. Marjanović makes 2-pt layup from 3 ft (assist by S. Gilgeous-Alexander),90,116
+4,5:55.0,Shooting foul by B. Marjanović (drawn by K. Oubre),,90,116
+4,5:55.0,K. Oubre makes free throw 1 of 2,,91,116
+4,5:55.0,K. Oubre makes free throw 2 of 2,,92,116
+4,5:43.0,,J. Robinson misses 2-pt jump shot from 5 ft,92,116
+4,5:40.0,Defensive rebound by T. Bryant,,92,116
+4,5:35.0,K. Oubre misses 2-pt layup from 3 ft,,92,116
+4,5:33.0,,Defensive rebound by B. Marjanović,92,116
+4,5:25.0,,J. Robinson misses 2-pt layup from 3 ft,92,116
+4,5:18.0,,Offensive rebound by B. Marjanović,92,116
+4,5:18.0,,B. Marjanović makes 2-pt dunk at rim,92,118
+4,5:12.0,T. Bryant makes 2-pt hook shot from 4 ft (assist by T. Satoranský),,94,118
+4,5:12.0,Shooting foul by B. Marjanović (drawn by T. Bryant),,94,118
+4,5:12.0,T. Bryant makes free throw 1 of 1,,95,118
+4,5:00.0,,J. Robinson makes 2-pt layup from 1 ft (assist by S. Gilgeous-Alexander),95,120
+4,4:40.0,J. McRae misses 2-pt jump shot from 3 ft,,95,120
+4,4:38.0,,Defensive rebound by B. Marjanović,95,120
+4,4:36.0,,M. Scott makes 3-pt jump shot from 26 ft (assist by S. Gilgeous-Alexander),95,123
+4,4:24.0,T. Satoranský misses 2-pt jump shot from 13 ft,,95,123
+4,4:19.0,,Defensive rebound by B. Marjanović,95,123
+4,4:17.0,,Turnover by T. Wallace (traveling),95,123
+4,4:06.0,J. McRae misses 2-pt jump shot from 13 ft,,95,123
+4,3:56.0,Offensive rebound by T. Bryant,,95,123
+4,3:56.0,T. Bryant makes 2-pt layup from 1 ft,,97,123
+4,3:45.0,,S. Gilgeous-Alexander makes 2-pt dunk from 1 ft,97,125
+4,3:31.0,T. Brown misses 2-pt jump shot from 7 ft (block by B. Marjanović),,97,125
+4,3:28.0,Offensive rebound by T. Brown,,97,125
+4,3:26.0,T. Brown makes 3-pt jump shot from 23 ft (assist by T. Bryant),,100,125
+4,3:14.0,,T. Wallace misses 2-pt layup from 3 ft,100,125
+4,3:14.0,,Offensive rebound by B. Marjanović,100,125
+4,3:14.0,,B. Marjanović makes 2-pt dunk at rim,100,127
+4,3:14.0,,Shooting foul by T. Bryant (drawn by B. Marjanović),100,127
+4,3:14.0,,B. Marjanović makes free throw 1 of 1,100,128
+4,2:54.0,T. Bryant misses 2-pt jump shot from 9 ft,,100,128
+4,2:51.0,,Defensive rebound by S. Gilgeous-Alexander,100,128
+4,2:45.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 10 ft (block by J. McRae),100,128
+4,2:42.0,Defensive rebound by T. Brown,,100,128
+4,2:42.0,Shooting foul by M. Scott (drawn by K. Oubre),,100,128
+4,2:42.0,Washington full timeout,,100,128
+4,2:42.0,K. Oubre makes free throw 1 of 2,,101,128
+4,2:42.0,K. Oubre makes free throw 2 of 2,,102,128
+4,2:32.0,,J. Robinson makes 2-pt jump shot from 20 ft (assist by T. Wallace),102,130
+4,2:16.0,T. Bryant misses 3-pt jump shot from 26 ft,,102,130
+4,2:16.0,,Defensive rebound by Team,102,130
+4,2:05.0,,T. Wallace misses 2-pt layup from 3 ft,102,130
+4,2:03.0,Defensive rebound by J. McRae,,102,130
+4,1:59.0,K. Oubre misses 3-pt jump shot from 25 ft,,102,130
+4,1:55.0,,Defensive rebound by B. Marjanović,102,130
+4,1:49.0,,B. Marjanović makes 2-pt layup from 1 ft (assist by S. Gilgeous-Alexander),102,132
+4,1:38.0,T. Satoranský makes 2-pt jump shot from 6 ft,,104,132
+4,1:31.0,,B. Marjanović misses 3-pt jump shot from 26 ft,104,132
+4,1:27.0,Defensive rebound by T. Brown,,104,132
+4,1:21.0,Turnover by T. Brown (bad pass; steal by B. Marjanović),,104,132
+4,1:17.0,,T. Wallace makes 2-pt layup from 1 ft (assist by M. Scott),104,134
+4,1:05.0,T. Bryant misses 2-pt layup from 3 ft (block by B. Marjanović),,104,134
+4,1:01.0,,Defensive rebound by M. Scott,104,134
+4,0:58.0,,T. Wallace misses 2-pt layup from 2 ft,104,134
+4,0:55.0,Defensive rebound by T. Brown,,104,134
+4,0:46.0,K. Oubre misses 2-pt hook shot from 4 ft,,104,134
+4,0:43.0,,Defensive rebound by S. Gilgeous-Alexander,104,134
+4,0:31.0,,B. Marjanović makes 2-pt dunk from 1 ft (assist by S. Gilgeous-Alexander),104,136
+4,0:19.0,T. Bryant misses 3-pt jump shot from 26 ft,,104,136
+4,0:14.0,,Defensive rebound by B. Marjanović,104,136

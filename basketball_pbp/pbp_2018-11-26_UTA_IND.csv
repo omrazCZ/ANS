@@ -1,0 +1,423 @@
+QUARTER,TIME_REMAINING,INDIANA_ACTION,UTAH_ACTION,INDIANA_SCORE,UTAH_SCORE
+1,11:40.0,,J. Ingles misses 2-pt jump shot from 3 ft,0,0
+1,11:38.0,,Offensive rebound by R. Gobert,0,0
+1,11:36.0,,R. Gobert makes 2-pt hook shot from 2 ft,0,2
+1,11:19.0,M. Turner makes 2-pt jump shot from 22 ft (assist by D. Collison),,2,2
+1,10:57.0,,R. Gobert misses 2-pt layup from 2 ft,2,2
+1,10:54.0,Defensive rebound by T. Evans,,2,2
+1,10:45.0,T. Young makes 2-pt jump shot from 19 ft (assist by B. Bogdanović),,4,2
+1,10:25.0,,Turnover by D. Favors (bad pass; steal by T. Evans),4,2
+1,10:21.0,T. Evans makes 2-pt dunk from 1 ft,,6,2
+1,9:55.0,,Turnover by J. Ingles (lost ball; steal by D. Collison),6,2
+1,9:52.0,M. Turner makes 2-pt layup from 2 ft (assist by T. Evans),,8,2
+1,9:52.0,Shooting foul by R. O'Neale (drawn by M. Turner),,8,2
+1,9:52.0,M. Turner makes free throw 1 of 1,,9,2
+1,9:27.0,,D. Favors makes 2-pt hook shot from 2 ft (assist by R. Rubio),9,4
+1,9:22.0,Shooting foul by J. Ingles (drawn by T. Evans),,9,4
+1,9:22.0,T. Evans makes free throw 1 of 2,,10,4
+1,9:22.0,T. Evans makes free throw 2 of 2,,11,4
+1,9:11.0,,J. Ingles makes 3-pt jump shot from 24 ft (assist by R. Rubio),11,7
+1,8:55.0,T. Young misses 3-pt jump shot from 25 ft,,11,7
+1,8:52.0,,Defensive rebound by D. Favors,11,7
+1,8:42.0,,Turnover by R. Rubio (lost ball; steal by D. Collison),11,7
+1,8:39.0,D. Collison makes 2-pt layup from 2 ft (assist by T. Evans),,13,7
+1,8:22.0,,D. Favors misses 3-pt jump shot from 23 ft,13,7
+1,8:17.0,,Offensive rebound by R. O'Neale,13,7
+1,8:15.0,,R. Gobert makes 2-pt dunk from 2 ft (assist by J. Ingles),13,9
+1,7:54.0,D. Collison makes 2-pt jump shot from 15 ft,,15,9
+1,7:37.0,,Turnover by J. Ingles (lost ball; steal by M. Turner),15,9
+1,7:37.0,Turnover by M. Turner (bad pass; steal by R. O'Neale),,15,9
+1,7:33.0,,J. Ingles makes 3-pt jump shot from 23 ft (assist by R. O'Neale),15,12
+1,7:33.0,,A. Burks enters the game for R. O'Neale,15,12
+1,7:16.0,Away from play foul by A. Burks (drawn by B. Bogdanović),,15,12
+1,7:16.0,B. Bogdanović makes free throw 1 of 1,,16,12
+1,7:04.0,B. Bogdanović makes 2-pt layup from 2 ft,,18,12
+1,6:55.0,,Turnover by R. Rubio (lost ball; steal by B. Bogdanović),18,12
+1,6:51.0,B. Bogdanović makes 2-pt layup from 2 ft (assist by D. Collison),,20,12
+1,6:51.0,,Utah full timeout,20,12
+1,6:51.0,,J. Crowder enters the game for D. Favors,20,12
+1,6:37.0,,J. Crowder misses 3-pt jump shot from 23 ft,20,12
+1,6:33.0,Defensive rebound by D. Collison,,20,12
+1,6:16.0,T. Evans misses 3-pt jump shot from 25 ft,,20,12
+1,6:13.0,,Defensive rebound by J. Crowder,20,12
+1,6:06.0,,J. Ingles misses 3-pt jump shot from 25 ft,20,12
+1,6:03.0,Defensive rebound by B. Bogdanović,,20,12
+1,5:47.0,Turnover by M. Turner (bad pass; steal by J. Ingles),,20,12
+1,5:47.0,,R. O'Neale enters the game for J. Ingles,20,12
+1,5:33.0,,R. Rubio makes 2-pt layup from 3 ft,20,14
+1,5:33.0,,Shooting foul by M. Turner (drawn by R. Rubio),20,14
+1,5:33.0,,R. Rubio makes free throw 1 of 1,20,15
+1,5:13.0,Turnover by T. Evans (lost ball; steal by J. Crowder),,20,15
+1,5:08.0,,A. Burks misses 3-pt jump shot from 24 ft,20,15
+1,5:05.0,Defensive rebound by B. Bogdanović,,20,15
+1,4:55.0,D. Collison misses 2-pt layup from 3 ft (block by R. Gobert),,20,15
+1,4:52.0,,Defensive rebound by R. Rubio,20,15
+1,4:50.0,,J. Crowder misses 2-pt jump shot from 5 ft,20,15
+1,4:48.0,,Offensive rebound by R. Gobert,20,15
+1,4:48.0,,R. Gobert makes 2-pt dunk from 1 ft,20,17
+1,4:24.0,T. Evans makes 2-pt jump shot from 19 ft,,22,17
+1,4:11.0,,R. Rubio misses 2-pt jump shot from 19 ft,22,17
+1,4:08.0,,Offensive rebound by R. Rubio,22,17
+1,4:08.0,C. Joseph enters the game for B. Bogdanović,,22,17
+1,4:08.0,D. Sabonis enters the game for T. Young,,22,17
+1,4:08.0,,D. Exum enters the game for R. Rubio,22,17
+1,3:54.0,,J. Crowder misses 2-pt jump shot from 11 ft (block by D. Sabonis),22,17
+1,3:54.0,,Offensive rebound by Team,22,17
+1,3:51.0,,Turnover by Team (shot clock),22,17
+1,3:36.0,D. Sabonis makes 2-pt layup from 3 ft (assist by D. Collison),,24,17
+1,3:24.0,,Personal foul by D. Sabonis (drawn by J. Crowder),24,17
+1,3:24.0,,D. Favors enters the game for R. Gobert,24,17
+1,3:11.0,,D. Favors makes 2-pt dunk from 2 ft (assist by D. Exum),24,19
+1,3:06.0,Indiana full timeout,,24,19
+1,3:06.0,D. McDermott enters the game for T. Evans,,24,19
+1,3:06.0,,J. Ingles enters the game for R. O'Neale,24,19
+1,2:54.0,D. Sabonis misses 2-pt jump shot from 18 ft,,24,19
+1,2:50.0,,Defensive rebound by J. Crowder,24,19
+1,2:38.0,,A. Burks makes 3-pt jump shot from 25 ft (assist by J. Crowder),24,22
+1,2:19.0,C. Joseph makes 2-pt jump shot from 19 ft (assist by D. Sabonis),,26,22
+1,2:00.0,,D. Exum misses 3-pt jump shot from 23 ft,26,22
+1,1:58.0,Defensive rebound by D. McDermott,,26,22
+1,1:52.0,Turnover by C. Joseph (bad pass),,26,22
+1,1:52.0,B. Bogdanović enters the game for D. Collison,,26,22
+1,1:52.0,A. Holiday enters the game for M. Turner,,26,22
+1,1:52.0,,R. Neto enters the game for A. Burks,26,22
+1,1:40.0,,R. Neto misses 3-pt jump shot from 25 ft,26,22
+1,1:37.0,Defensive rebound by D. Sabonis,,26,22
+1,1:31.0,A. Holiday makes 2-pt jump shot from 22 ft,,28,22
+1,1:06.0,,J. Ingles misses 2-pt layup from 5 ft,28,22
+1,1:05.0,Defensive rebound by D. Sabonis,,28,22
+1,0:53.0,C. Joseph makes 3-pt jump shot from 26 ft (assist by D. Sabonis),,31,22
+1,0:37.0,,Shooting foul by D. Sabonis (drawn by D. Favors),31,22
+1,0:37.0,,D. Favors misses free throw 1 of 2,31,22
+1,0:37.0,,Offensive rebound by Team,31,22
+1,0:37.0,,D. Favors makes free throw 2 of 2,31,23
+1,0:28.0,Personal foul by J. Crowder (drawn by D. Sabonis),,31,23
+1,0:22.0,C. Joseph misses 2-pt layup from 4 ft (block by D. Favors),,31,23
+1,0:21.0,Offensive rebound by D. Sabonis,,31,23
+1,0:21.0,D. Sabonis makes 2-pt dunk from 2 ft,,33,23
+1,0:00.0,,J. Ingles makes 2-pt layup from 2 ft (assist by J. Crowder),33,25
+2,11:50.0,D. McDermott misses 2-pt jump shot from 21 ft,,33,25
+2,11:46.0,,Defensive rebound by D. Favors,33,25
+2,11:41.0,,Personal foul by D. McDermott (drawn by J. Ingles),33,25
+2,11:32.0,,R. Neto makes 2-pt layup at rim (assist by J. Ingles),33,27
+2,11:20.0,D. Sabonis misses 2-pt hook shot from 7 ft,,33,27
+2,11:17.0,,Defensive rebound by D. Favors,33,27
+2,11:08.0,,J. Ingles misses 2-pt jump shot from 10 ft,33,27
+2,11:04.0,Defensive rebound by D. Sabonis,,33,27
+2,10:55.0,B. Bogdanović misses 2-pt jump shot from 9 ft,,33,27
+2,10:52.0,,Defensive rebound by J. Crowder,33,27
+2,10:37.0,,Turnover by D. Exum (bad pass; steal by C. Joseph),33,27
+2,10:37.0,Personal foul by R. Neto (drawn by C. Joseph),,33,27
+2,10:27.0,D. Sabonis misses 2-pt layup from 4 ft,,33,27
+2,10:24.0,,Defensive rebound by D. Exum,33,27
+2,10:18.0,,D. Exum misses 2-pt layup from 1 ft,33,27
+2,10:13.0,,Offensive rebound by D. Exum,33,27
+2,10:13.0,,D. Exum misses 2-pt layup from 1 ft,33,27
+2,10:13.0,Defensive rebound by D. Sabonis,,33,27
+2,10:06.0,C. Joseph makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),,36,27
+2,10:04.0,,Utah full timeout,36,27
+2,10:04.0,,A. Burks enters the game for J. Crowder,36,27
+2,10:04.0,,T. Sefolosha enters the game for D. Exum,36,27
+2,9:50.0,,J. Ingles misses 2-pt layup from 6 ft,36,27
+2,9:48.0,,Offensive rebound by D. Favors,36,27
+2,9:47.0,,D. Favors makes 2-pt dunk from 2 ft,36,29
+2,9:24.0,A. Holiday misses 2-pt jump shot from 20 ft,,36,29
+2,9:22.0,,Defensive rebound by J. Ingles,36,29
+2,9:11.0,,R. Neto makes 2-pt layup from 2 ft (assist by A. Burks),36,31
+2,8:59.0,D. McDermott misses 2-pt layup from 5 ft,,36,31
+2,8:56.0,,Defensive rebound by D. Favors,36,31
+2,8:54.0,,Personal foul by A. Holiday (drawn by R. Neto),36,31
+2,8:54.0,T. Young enters the game for B. Bogdanović,,36,31
+2,8:54.0,,G. Allen enters the game for J. Ingles,36,31
+2,8:50.0,,Personal foul by A. Holiday (drawn by R. Neto),36,31
+2,8:39.0,,Turnover by R. Neto (lost ball; steal by T. Young),36,31
+2,8:26.0,A. Holiday misses 3-pt jump shot from 25 ft,,36,31
+2,8:21.0,,Defensive rebound by D. Favors,36,31
+2,8:15.0,,A. Burks makes 2-pt layup from 2 ft,36,33
+2,7:59.0,D. McDermott makes 3-pt jump shot from 22 ft (assist by A. Holiday),,39,33
+2,7:36.0,,D. Favors misses 2-pt jump shot from 20 ft,39,33
+2,7:34.0,Defensive rebound by D. McDermott,,39,33
+2,7:28.0,A. Holiday makes 2-pt jump shot from 6 ft,,41,33
+2,7:09.0,,D. Favors makes 2-pt hook shot from 8 ft (assist by R. Neto),41,35
+2,6:58.0,D. Sabonis makes 2-pt layup from 2 ft (assist by D. McDermott),,43,35
+2,6:58.0,Shooting foul by T. Sefolosha (drawn by D. Sabonis),,43,35
+2,6:58.0,,Technical foul by T. Sefolosha,43,35
+2,6:58.0,,R. Gobert enters the game for D. Favors,43,35
+2,6:58.0,,R. Rubio enters the game for R. Neto,43,35
+2,6:58.0,D. McDermott makes technical free throw,,44,35
+2,6:58.0,D. Sabonis makes free throw 1 of 1,,45,35
+2,6:45.0,,R. Gobert makes 2-pt dunk from 3 ft (assist by R. Rubio),45,37
+2,6:35.0,D. McDermott misses 2-pt jump shot from 21 ft,,45,37
+2,6:33.0,Offensive rebound by D. McDermott,,45,37
+2,6:32.0,D. McDermott makes 2-pt layup from 5 ft,,47,37
+2,6:17.0,,R. Rubio misses 2-pt layup from 3 ft (block by C. Joseph),47,37
+2,6:16.0,,Offensive rebound by R. Rubio,47,37
+2,6:16.0,,Personal foul by T. Young (drawn by R. Gobert),47,37
+2,6:16.0,M. Turner enters the game for D. Sabonis,,47,37
+2,6:02.0,,Turnover by Team (shot clock),47,37
+2,5:54.0,D. McDermott misses 2-pt jump shot from 21 ft,,47,37
+2,5:51.0,,Defensive rebound by A. Burks,47,37
+2,5:40.0,,G. Allen misses 2-pt layup from 2 ft,47,37
+2,5:38.0,Defensive rebound by M. Turner,,47,37
+2,5:25.0,T. Young misses 2-pt hook shot from 4 ft,,47,37
+2,5:25.0,,Defensive rebound by Team,47,37
+2,5:25.0,Loose ball foul by T. Young (drawn by G. Allen),,47,37
+2,5:25.0,,G. Allen makes free throw 1 of 2,47,38
+2,5:25.0,D. Collison enters the game for A. Holiday,,47,38
+2,5:25.0,T. Evans enters the game for D. McDermott,,47,38
+2,5:25.0,,G. Allen makes free throw 2 of 2,47,39
+2,5:17.0,M. Turner makes 2-pt jump shot from 20 ft (assist by D. Collison),,49,39
+2,5:02.0,,A. Burks misses 2-pt jump shot from 8 ft,49,39
+2,5:00.0,Defensive rebound by M. Turner,,49,39
+2,4:48.0,M. Turner makes 2-pt jump shot from 19 ft (assist by D. Collison),,51,39
+2,4:25.0,,A. Burks misses 3-pt jump shot from 25 ft,51,39
+2,4:22.0,Defensive rebound by T. Young,,51,39
+2,4:09.0,M. Turner makes 2-pt jump shot from 19 ft (assist by D. Collison),,53,39
+2,4:01.0,,Utah full timeout,53,39
+2,4:01.0,,J. Crowder enters the game for G. Allen,53,39
+2,4:01.0,,J. Ingles enters the game for A. Burks,53,39
+2,4:01.0,,R. O'Neale enters the game for T. Sefolosha,53,39
+2,3:44.0,,J. Crowder misses 3-pt jump shot from 23 ft,53,39
+2,3:41.0,Defensive rebound by C. Joseph,,53,39
+2,3:23.0,T. Young misses 2-pt jump shot from 19 ft,,53,39
+2,3:19.0,,Defensive rebound by R. O'Neale,53,39
+2,3:09.0,,R. Rubio misses 3-pt jump shot from 25 ft,53,39
+2,3:07.0,Defensive rebound by T. Young,,53,39
+2,2:59.0,T. Evans misses 2-pt jump shot from 21 ft,,53,39
+2,2:55.0,,Defensive rebound by J. Crowder,53,39
+2,2:43.0,,R. Rubio misses 2-pt jump shot from 10 ft,53,39
+2,2:41.0,,Offensive rebound by J. Crowder,53,39
+2,2:40.0,,Shooting foul by M. Turner (drawn by J. Crowder),53,39
+2,2:40.0,,J. Crowder misses free throw 1 of 2,53,39
+2,2:40.0,,Offensive rebound by Team,53,39
+2,2:40.0,B. Bogdanović enters the game for C. Joseph,,53,39
+2,2:40.0,,J. Crowder makes free throw 2 of 2,53,40
+2,2:24.0,D. Collison misses 3-pt jump shot from 24 ft,,53,40
+2,2:21.0,,Defensive rebound by R. Gobert,53,40
+2,2:17.0,,R. O'Neale makes 2-pt dunk from 2 ft (assist by R. Rubio),53,42
+2,1:58.0,T. Young misses 2-pt layup from 2 ft,,53,42
+2,1:56.0,,Defensive rebound by R. O'Neale,53,42
+2,1:53.0,,Shooting foul by M. Turner (drawn by J. Crowder),53,42
+2,1:53.0,,J. Crowder makes free throw 1 of 2,53,43
+2,1:53.0,D. Sabonis enters the game for M. Turner,,53,43
+2,1:53.0,,J. Crowder misses free throw 2 of 2,53,43
+2,1:50.0,Defensive rebound by B. Bogdanović,,53,43
+2,1:48.0,Indiana full timeout,,53,43
+2,1:48.0,C. Joseph enters the game for T. Young,,53,43
+2,1:35.0,B. Bogdanović misses 2-pt jump shot from 9 ft (block by R. Gobert),,53,43
+2,1:32.0,Offensive rebound by D. Collison,,53,43
+2,1:29.0,C. Joseph misses 3-pt jump shot from 24 ft,,53,43
+2,1:26.0,Offensive rebound by Team,,53,43
+2,1:13.0,T. Evans misses 2-pt hook shot from 9 ft,,53,43
+2,1:11.0,,Defensive rebound by R. Gobert,53,43
+2,0:57.0,,R. Rubio misses 3-pt jump shot from 23 ft,53,43
+2,0:54.0,Defensive rebound by C. Joseph,,53,43
+2,0:50.0,B. Bogdanović makes 3-pt jump shot from 22 ft (assist by D. Collison),,56,43
+2,0:39.0,,R. O'Neale makes 2-pt dunk from 1 ft (assist by R. Rubio),56,45
+2,0:31.0,C. Joseph makes 2-pt jump shot from 14 ft,,58,45
+2,0:08.0,,R. Gobert makes 2-pt dunk from 2 ft (assist by J. Crowder),58,47
+2,0:00.0,Turnover by B. Bogdanović (bad pass; steal by R. Rubio),,58,47
+3,11:44.0,Turnover by M. Turner (lost ball; steal by J. Ingles),,58,47
+3,11:22.0,,D. Favors misses 3-pt jump shot from 24 ft,58,47
+3,11:20.0,Defensive rebound by B. Bogdanović,,58,47
+3,11:12.0,T. Evans makes 3-pt jump shot from 26 ft (assist by M. Turner),,61,47
+3,11:02.0,,Personal foul by B. Bogdanović (drawn by J. Ingles),61,47
+3,10:50.0,,R. Gobert makes 2-pt jump shot from 5 ft (assist by R. Rubio),61,49
+3,10:33.0,T. Evans misses 2-pt jump shot from 24 ft,,61,49
+3,10:31.0,,Defensive rebound by R. Gobert,61,49
+3,10:23.0,,R. Rubio makes 3-pt jump shot from 25 ft (assist by R. Gobert),61,52
+3,9:59.0,B. Bogdanović makes 2-pt layup from 2 ft (assist by M. Turner),,63,52
+3,9:59.0,Shooting foul by D. Favors (drawn by B. Bogdanović),,63,52
+3,9:59.0,B. Bogdanović makes free throw 1 of 1,,64,52
+3,9:39.0,,Shooting foul by T. Young (drawn by R. O'Neale),64,52
+3,9:39.0,,R. O'Neale makes free throw 1 of 2,64,53
+3,9:39.0,,R. O'Neale makes free throw 2 of 2,64,54
+3,9:27.0,M. Turner misses 2-pt jump shot from 20 ft,,64,54
+3,9:23.0,,Defensive rebound by J. Ingles,64,54
+3,9:06.0,,R. O'Neale misses 2-pt jump shot from 6 ft (block by M. Turner),64,54
+3,9:03.0,Defensive rebound by D. Collison,,64,54
+3,9:01.0,B. Bogdanović misses 3-pt jump shot from 26 ft,,64,54
+3,9:01.0,,Defensive rebound by R. O'Neale,64,54
+3,8:46.0,,Turnover by D. Favors (bad pass; steal by T. Young),64,54
+3,8:46.0,Personal foul by D. Favors (drawn by D. Collison),,64,54
+3,8:27.0,T. Evans makes 2-pt layup from 2 ft (assist by M. Turner),,66,54
+3,8:17.0,,Turnover by R. Gobert (out of bounds lost ball),66,54
+3,8:17.0,,J. Crowder enters the game for D. Favors,66,54
+3,8:04.0,Personal foul by R. O'Neale (drawn by B. Bogdanović),,66,54
+3,7:54.0,Turnover by T. Evans (lost ball; steal by J. Ingles),,66,54
+3,7:44.0,,Turnover by J. Ingles (out of bounds lost ball),66,54
+3,7:44.0,,Technical foul by J. Ingles,66,54
+3,7:44.0,B. Bogdanović makes technical free throw,,67,54
+3,7:25.0,B. Bogdanović misses 2-pt jump shot from 9 ft,,67,54
+3,7:22.0,,Defensive rebound by R. O'Neale,67,54
+3,7:12.0,,J. Crowder makes 3-pt jump shot from 25 ft,67,57
+3,6:55.0,M. Turner makes 2-pt layup from 2 ft (assist by D. Collison),,69,57
+3,6:43.0,,J. Crowder makes 3-pt jump shot from 24 ft (assist by R. Rubio),69,60
+3,6:30.0,T. Young makes 2-pt jump shot from 10 ft (assist by D. Collison),,71,60
+3,6:30.0,Shooting foul by R. Gobert (drawn by T. Young),,71,60
+3,6:30.0,,Utah full timeout,71,60
+3,6:30.0,,A. Burks enters the game for J. Ingles,71,60
+3,6:30.0,T. Young misses free throw 1 of 1,,71,60
+3,6:30.0,,Defensive rebound by A. Burks,71,60
+3,6:05.0,,J. Crowder misses 2-pt layup from 7 ft (block by M. Turner),71,60
+3,6:01.0,Defensive rebound by M. Turner,,71,60
+3,5:52.0,M. Turner makes 2-pt jump shot from 15 ft (assist by D. Collison),,73,60
+3,5:37.0,,J. Crowder misses 2-pt layup from 2 ft,73,60
+3,5:37.0,Defensive rebound by M. Turner,,73,60
+3,5:26.0,T. Evans misses 2-pt layup from 2 ft (block by R. O'Neale),,73,60
+3,5:26.0,Offensive rebound by Team,,73,60
+3,5:17.0,T. Young misses 2-pt jump shot from 21 ft,,73,60
+3,5:13.0,,Defensive rebound by R. Gobert,73,60
+3,5:07.0,,A. Burks misses 2-pt jump shot from 15 ft,73,60
+3,5:05.0,Defensive rebound by Team,,73,60
+3,5:05.0,,R. Neto enters the game for R. Rubio,73,60
+3,4:40.0,T. Young makes 2-pt jump shot from 6 ft (assist by M. Turner),,75,60
+3,4:28.0,,Turnover by A. Burks (lost ball; steal by M. Turner),75,60
+3,4:27.0,Personal foul by R. O'Neale (drawn by T. Evans),,75,60
+3,4:27.0,T. Evans misses free throw 1 of 2,,75,60
+3,4:27.0,Offensive rebound by Team,,75,60
+3,4:27.0,C. Joseph enters the game for B. Bogdanović,,75,60
+3,4:27.0,D. Sabonis enters the game for T. Young,,75,60
+3,4:27.0,T. Evans makes free throw 2 of 2,,76,60
+3,4:15.0,,Turnover by R. Neto (lost ball; steal by D. Collison),76,60
+3,4:04.0,D. Collison makes 2-pt layup from 3 ft,,78,60
+3,3:53.0,,R. Neto misses 3-pt jump shot from 23 ft,78,60
+3,3:52.0,Defensive rebound by Team,,78,60
+3,3:52.0,,Loose ball foul by R. Gobert (drawn by M. Turner),78,60
+3,3:52.0,M. Turner makes free throw 1 of 2,,79,60
+3,3:52.0,,D. Exum enters the game for R. Gobert,79,60
+3,3:52.0,,D. Favors enters the game for R. O'Neale,79,60
+3,3:52.0,M. Turner misses free throw 2 of 2,,79,60
+3,3:50.0,,Defensive rebound by R. Neto,79,60
+3,3:34.0,,Turnover by D. Exum (lost ball; steal by D. Collison),79,60
+3,3:30.0,T. Evans makes 2-pt layup from 2 ft,,81,60
+3,3:17.0,,Shooting foul by D. Sabonis (drawn by J. Crowder),81,60
+3,3:17.0,,J. Crowder misses free throw 1 of 2,81,60
+3,3:17.0,,Offensive rebound by Team,81,60
+3,3:17.0,,J. Crowder makes free throw 2 of 2,81,61
+3,3:17.0,Indiana full timeout,,81,61
+3,3:17.0,D. McDermott enters the game for T. Evans,,81,61
+3,3:17.0,,J. Ingles enters the game for A. Burks,81,61
+3,3:03.0,,Violation by Team (kicked ball),81,61
+3,2:57.0,D. Collison makes 2-pt jump shot from 19 ft,,83,61
+3,2:43.0,,J. Crowder misses 3-pt jump shot from 23 ft,83,61
+3,2:40.0,,Offensive rebound by D. Favors,83,61
+3,2:37.0,,D. Exum misses 3-pt jump shot from 25 ft,83,61
+3,2:33.0,Defensive rebound by D. McDermott,,83,61
+3,2:15.0,D. Sabonis makes 2-pt jump shot from 5 ft (assist by D. Collison),,85,61
+3,1:57.0,,D. Exum makes 3-pt jump shot from 24 ft (assist by R. Neto),85,64
+3,1:34.0,Turnover by D. Sabonis (bad pass; steal by J. Ingles),,85,64
+3,1:30.0,,D. Exum makes 2-pt dunk from 2 ft (assist by J. Ingles),85,66
+3,1:18.0,Personal foul by J. Ingles (drawn by D. McDermott),,85,66
+3,1:18.0,D. McDermott makes free throw 1 of 2,,86,66
+3,1:18.0,B. Bogdanović enters the game for D. Collison,,86,66
+3,1:18.0,A. Holiday enters the game for M. Turner,,86,66
+3,1:18.0,D. McDermott makes free throw 2 of 2,,87,66
+3,0:56.0,,R. Neto misses 2-pt jump shot from 13 ft,87,66
+3,0:54.0,Defensive rebound by D. Sabonis,,87,66
+3,0:40.0,D. Sabonis misses 2-pt layup from 3 ft,,87,66
+3,0:38.0,,Defensive rebound by D. Favors,87,66
+3,0:27.0,,D. Favors makes 2-pt layup from 2 ft (assist by J. Crowder),87,68
+3,0:07.0,D. Sabonis misses 2-pt hook shot from 4 ft,,87,68
+3,0:06.0,Offensive rebound by D. Sabonis,,87,68
+3,0:06.0,Shooting foul by J. Crowder (drawn by D. Sabonis),,87,68
+3,0:06.0,D. Sabonis makes free throw 1 of 2,,88,68
+3,0:06.0,D. Sabonis makes free throw 2 of 2,,89,68
+3,0:01.0,,Shooting foul by D. McDermott (drawn by D. Exum),89,68
+3,0:01.0,,D. Exum makes free throw 1 of 2,89,69
+3,0:01.0,,D. Exum makes free throw 2 of 2,89,70
+3,0:00.0,C. Joseph misses 3-pt jump shot from 52 ft,,89,70
+3,0:00.0,Offensive rebound by Team,,89,70
+4,11:48.0,,Turnover by R. Rubio (traveling),89,70
+4,11:32.0,Offensive foul by D. Sabonis (drawn by D. Exum),,89,70
+4,11:32.0,Turnover by D. Sabonis (offensive foul),,89,70
+4,11:22.0,,D. Favors makes 2-pt jump shot from 13 ft (assist by R. Rubio),89,72
+4,11:02.0,D. McDermott makes 2-pt dunk from 2 ft (assist by D. Sabonis),,91,72
+4,10:50.0,,J. Ingles misses 3-pt jump shot from 25 ft,91,72
+4,10:45.0,Defensive rebound by A. Holiday,,91,72
+4,10:40.0,Turnover by A. Holiday (bad pass; steal by J. Ingles),,91,72
+4,10:37.0,,J. Ingles makes 2-pt layup from 2 ft,91,74
+4,10:20.0,D. McDermott makes 2-pt layup from 5 ft (assist by A. Holiday),,93,74
+4,10:02.0,,Turnover by D. Exum (bad pass; steal by A. Holiday),93,74
+4,9:56.0,Personal foul by R. Rubio (drawn by D. Sabonis),,93,74
+4,9:43.0,D. Sabonis makes 2-pt layup from 2 ft (assist by D. McDermott),,95,74
+4,9:26.0,,D. Exum misses 3-pt jump shot from 23 ft,95,74
+4,9:23.0,Defensive rebound by D. Sabonis,,95,74
+4,9:20.0,Offensive foul by B. Bogdanović (drawn by R. Rubio),,95,74
+4,9:20.0,Turnover by B. Bogdanović (offensive foul),,95,74
+4,9:20.0,,A. Burks enters the game for D. Exum,95,74
+4,9:20.0,,R. Gobert enters the game for D. Favors,95,74
+4,9:10.0,,T. Sefolosha misses 3-pt jump shot from 24 ft,95,74
+4,9:06.0,Defensive rebound by C. Joseph,,95,74
+4,8:55.0,D. McDermott makes 2-pt hook shot from 6 ft (assist by D. Sabonis),,97,74
+4,8:37.0,,A. Burks misses 3-pt jump shot from 25 ft,97,74
+4,8:35.0,Defensive rebound by D. Sabonis,,97,74
+4,8:26.0,Turnover by D. Sabonis (bad pass; steal by T. Sefolosha),,97,74
+4,8:24.0,,Loose ball foul by T. Sefolosha (drawn by C. Joseph),97,74
+4,8:24.0,,Turnover by T. Sefolosha (turnover),97,74
+4,8:24.0,,G. Allen enters the game for J. Ingles,97,74
+4,8:11.0,C. Joseph makes 3-pt jump shot from 23 ft,,100,74
+4,7:56.0,,R. Rubio misses 3-pt jump shot from 25 ft,100,74
+4,7:54.0,Defensive rebound by B. Bogdanović,,100,74
+4,7:45.0,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by D. Sabonis),,103,74
+4,7:43.0,,Utah full timeout,103,74
+4,7:43.0,,R. Neto enters the game for A. Burks,103,74
+4,7:43.0,,G. Niang enters the game for R. Gobert,103,74
+4,7:43.0,,R. O'Neale enters the game for R. Rubio,103,74
+4,7:43.0,,E. Udoh enters the game for T. Sefolosha,103,74
+4,7:30.0,,Turnover by G. Allen (bad pass; steal by D. Sabonis),103,74
+4,7:26.0,A. Holiday makes 2-pt layup from 2 ft (assist by B. Bogdanović),,105,74
+4,7:13.0,,G. Niang makes 3-pt jump shot from 25 ft (assist by R. Neto),105,77
+4,6:52.0,Turnover by D. Sabonis (bad pass),,105,77
+4,6:44.0,,G. Allen misses 3-pt jump shot from 26 ft,105,77
+4,6:40.0,Defensive rebound by D. McDermott,,105,77
+4,6:29.0,A. Holiday makes 2-pt layup from 3 ft,,107,77
+4,6:13.0,,R. O'Neale makes 2-pt jump shot from 12 ft (assist by G. Allen),107,79
+4,5:56.0,D. McDermott makes 2-pt layup from 2 ft (assist by D. Sabonis),,109,79
+4,5:47.0,,R. O'Neale misses 3-pt jump shot from 22 ft,109,79
+4,5:43.0,Defensive rebound by D. Sabonis,,109,79
+4,5:28.0,Turnover by C. Joseph (bad pass; steal by R. Neto),,109,79
+4,5:25.0,,R. Neto makes 2-pt layup from 2 ft,109,81
+4,5:00.0,D. McDermott makes 3-pt jump shot from 22 ft (assist by B. Bogdanović),,112,81
+4,4:35.0,,G. Allen makes 2-pt jump shot from 18 ft (assist by G. Niang),112,83
+4,4:32.0,Indiana full timeout,,112,83
+4,4:32.0,T. Leaf enters the game for B. Bogdanović,,112,83
+4,4:32.0,K. O'Quinn enters the game for C. Joseph,,112,83
+4,4:32.0,E. Sumner enters the game for D. Sabonis,,112,83
+4,4:21.0,D. McDermott makes 2-pt layup from 2 ft (assist by K. O'Quinn),,114,83
+4,4:01.0,,Shooting foul by E. Sumner (drawn by G. Allen),114,83
+4,4:01.0,,G. Allen misses free throw 1 of 2,114,83
+4,4:01.0,,Offensive rebound by Team,114,83
+4,4:01.0,,D. Exum enters the game for R. Neto,114,83
+4,4:01.0,,G. Allen makes free throw 2 of 2,114,84
+4,3:46.0,T. Leaf misses 2-pt jump shot from 6 ft,,114,84
+4,3:44.0,Offensive rebound by Team,,114,84
+4,3:34.0,E. Sumner makes 3-pt jump shot from 23 ft (assist by K. O'Quinn),,117,84
+4,3:23.0,,D. Exum misses 2-pt jump shot from 10 ft,117,84
+4,3:20.0,,Offensive rebound by D. Exum,117,84
+4,3:17.0,,G. Niang misses 3-pt jump shot from 24 ft,117,84
+4,3:13.0,Defensive rebound by D. McDermott,,117,84
+4,3:05.0,Turnover by K. O'Quinn (bad pass),,117,84
+4,2:57.0,,D. Exum makes 2-pt layup from 1 ft,117,86
+4,2:44.0,T. Leaf misses 3-pt jump shot from 25 ft,,117,86
+4,2:40.0,,Defensive rebound by R. O'Neale,117,86
+4,2:35.0,,G. Allen misses 2-pt jump shot from 20 ft,117,86
+4,2:31.0,Defensive rebound by T. Leaf,,117,86
+4,2:15.0,D. McDermott misses 3-pt jump shot from 23 ft,,117,86
+4,2:11.0,,Defensive rebound by E. Udoh,117,86
+4,2:05.0,,D. Exum misses 2-pt layup from 2 ft,117,86
+4,2:04.0,Defensive rebound by A. Holiday,,117,86
+4,2:04.0,Indiana full timeout,,117,86
+4,2:04.0,I. Anigbogu enters the game for D. McDermott,,117,86
+4,1:54.0,Turnover by E. Sumner (traveling),,117,86
+4,1:35.0,,D. Exum misses 2-pt layup from 4 ft,117,86
+4,1:33.0,Defensive rebound by I. Anigbogu,,117,86
+4,1:30.0,A. Holiday makes 2-pt layup from 2 ft,,119,86
+4,1:14.0,,G. Niang makes 2-pt layup from 2 ft (assist by E. Udoh),119,88
+4,1:14.0,Violation by Team (def goaltending),,119,88
+4,1:05.0,Personal foul by G. Niang (drawn by A. Holiday),,119,88
+4,0:49.0,T. Leaf misses 2-pt jump shot from 14 ft,,119,88
+4,0:46.0,,Defensive rebound by E. Udoh,119,88
+4,0:36.0,,G. Niang misses 3-pt jump shot from 24 ft,119,88
+4,0:33.0,Defensive rebound by T. Leaf,,119,88
+4,0:19.0,A. Holiday makes 2-pt jump shot from 21 ft,,121,88

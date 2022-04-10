@@ -1,0 +1,489 @@
+QUARTER,TIME_REMAINING,PORTLAND_ACTION,NEW ORLEANS_ACTION,PORTLAND_SCORE,NEW ORLEANS_SCORE
+1,11:41.0,C. McCollum makes 2-pt jump shot from 20 ft (assist by D. Lillard),,2,0
+1,11:20.0,,J. Randle makes 2-pt layup from 2 ft,2,2
+1,10:59.0,A. Aminu makes 2-pt layup from 2 ft (assist by D. Lillard),,4,2
+1,10:50.0,,J. Okafor makes 2-pt jump shot from 11 ft (assist by E. Payton),4,4
+1,10:34.0,C. McCollum makes 2-pt jump shot from 15 ft (assist by D. Lillard),,6,4
+1,10:24.0,,J. Okafor misses 2-pt jump shot from 14 ft,6,4
+1,10:20.0,Defensive rebound by J. Nurkić,,6,4
+1,10:12.0,Shooting foul by J. Okafor (drawn by J. Nurkić),,6,4
+1,10:12.0,J. Nurkić makes free throw 1 of 2,,7,4
+1,10:12.0,J. Nurkić makes free throw 2 of 2,,8,4
+1,10:01.0,,J. Randle makes 2-pt hook shot from 8 ft,8,6
+1,9:39.0,A. Aminu misses 2-pt jump shot from 10 ft,,8,6
+1,9:35.0,,Defensive rebound by E. Payton,8,6
+1,9:30.0,,J. Okafor makes 2-pt layup from 2 ft (assist by E. Payton),8,8
+1,9:18.0,Turnover by J. Nurkić (bad pass; steal by K. Williams),,8,8
+1,9:10.0,,J. Randle makes 2-pt layup from 2 ft,8,10
+1,8:56.0,D. Lillard makes 2-pt layup from 2 ft (assist by J. Nurkić),,10,10
+1,8:50.0,,F. Jackson makes 2-pt layup from 1 ft (assist by E. Payton),10,12
+1,8:37.0,J. Nurkić makes 2-pt layup from 2 ft (assist by D. Lillard),,12,12
+1,8:26.0,,J. Okafor makes 2-pt jump shot from 6 ft,12,14
+1,8:13.0,Shooting foul by J. Okafor (drawn by C. McCollum),,12,14
+1,8:13.0,C. McCollum misses free throw 1 of 2,,12,14
+1,8:13.0,Offensive rebound by Team,,12,14
+1,8:13.0,C. McCollum misses free throw 2 of 2,,12,14
+1,8:10.0,,Defensive rebound by K. Williams,12,14
+1,8:03.0,,Shooting foul by A. Aminu (drawn by J. Randle),12,14
+1,8:03.0,,J. Randle misses free throw 1 of 2,12,14
+1,8:03.0,,Offensive rebound by Team,12,14
+1,8:03.0,,J. Randle makes free throw 2 of 2,12,15
+1,7:53.0,J. Nurkić misses 2-pt jump shot from 7 ft,,12,15
+1,7:52.0,Offensive rebound by J. Nurkić,,12,15
+1,7:50.0,Turnover by J. Nurkić (lost ball; steal by J. Randle),,12,15
+1,7:47.0,,F. Jackson makes 2-pt layup from 2 ft,12,17
+1,7:29.0,J. Nurkić misses 2-pt layup from 3 ft (block by J. Randle),,12,17
+1,7:29.0,Offensive rebound by A. Aminu,,12,17
+1,7:29.0,A. Aminu makes 2-pt dunk from 1 ft,,14,17
+1,7:14.0,,Turnover by J. Randle (lost ball; steal by D. Lillard),14,17
+1,7:06.0,C. McCollum misses 2-pt jump shot from 7 ft,,14,17
+1,7:06.0,,Defensive rebound by J. Okafor,14,17
+1,6:56.0,,F. Jackson misses 2-pt jump shot from 8 ft,14,17
+1,6:53.0,Defensive rebound by J. Nurkić,,14,17
+1,6:40.0,J. Nurkić makes 2-pt hook shot from 1 ft,,16,17
+1,6:32.0,,J. Randle makes 3-pt jump shot from 26 ft (assist by E. Payton),16,20
+1,6:11.0,R. Hood makes 3-pt jump shot from 24 ft (assist by D. Lillard),,19,20
+1,6:00.0,,J. Randle misses 3-pt jump shot from 26 ft,19,20
+1,6:00.0,Defensive rebound by C. McCollum,,19,20
+1,5:50.0,C. McCollum makes 2-pt layup from 2 ft (assist by J. Nurkić),,21,20
+1,5:42.0,,New Orleans full timeout,21,20
+1,5:42.0,,I. Clark enters the game for J. Okafor,21,20
+1,5:42.0,,C. Diallo enters the game for E. Payton,21,20
+1,5:27.0,,J. Randle misses 2-pt layup from 1 ft,21,20
+1,5:22.0,,Offensive rebound by J. Randle,21,20
+1,5:22.0,,J. Randle makes 2-pt layup at rim,21,22
+1,5:08.0,R. Hood misses 2-pt jump shot from 11 ft,,21,22
+1,5:05.0,,Defensive rebound by J. Randle,21,22
+1,4:58.0,,J. Randle misses 2-pt jump shot from 19 ft,21,22
+1,4:55.0,Defensive rebound by J. Nurkić,,21,22
+1,4:50.0,Offensive foul by J. Nurkić (drawn by K. Williams),,21,22
+1,4:50.0,Turnover by J. Nurkić (offensive foul),,21,22
+1,4:50.0,E. Freedom enters the game for R. Hood,,21,22
+1,4:50.0,J. Layman enters the game for J. Nurkić,,21,22
+1,4:30.0,,J. Randle makes 2-pt jump shot from 12 ft (assist by F. Jackson),21,24
+1,4:15.0,J. Layman misses 3-pt jump shot from 23 ft,,21,24
+1,4:15.0,,Defensive rebound by K. Williams,21,24
+1,3:56.0,,J. Randle makes 2-pt layup from 2 ft (assist by I. Clark),21,26
+1,3:40.0,J. Layman misses 2-pt layup from 3 ft (block by C. Diallo),,21,26
+1,3:40.0,Offensive rebound by Team,,21,26
+1,3:34.0,C. McCollum makes 2-pt layup from 2 ft (assist by E. Freedom),,23,26
+1,3:16.0,,C. Diallo makes 2-pt jump shot from 19 ft (assist by I. Clark),23,28
+1,3:00.0,Portland full timeout,,23,28
+1,3:00.0,S. Curry enters the game for C. McCollum,,23,28
+1,3:00.0,,D. Miller enters the game for F. Jackson,23,28
+1,3:00.0,,E. Payton enters the game for K. Williams,23,28
+1,2:55.0,S. Curry misses 3-pt jump shot from 25 ft,,23,28
+1,2:52.0,Offensive rebound by D. Lillard,,23,28
+1,2:50.0,A. Aminu misses 3-pt jump shot from 26 ft,,23,28
+1,2:46.0,Offensive rebound by D. Lillard,,23,28
+1,2:40.0,J. Layman misses 2-pt jump shot from 10 ft,,23,28
+1,2:38.0,,Defensive rebound by J. Randle,23,28
+1,2:30.0,,I. Clark makes 2-pt jump shot from 16 ft (assist by E. Payton),23,30
+1,2:10.0,S. Curry makes 2-pt jump shot from 16 ft,,25,30
+1,2:10.0,Shooting foul by I. Clark (drawn by S. Curry),,25,30
+1,2:10.0,Z. Collins enters the game for A. Aminu,,25,30
+1,2:10.0,S. Curry makes free throw 1 of 1,,26,30
+1,1:52.0,,I. Clark misses 3-pt jump shot from 28 ft (block by S. Curry),26,30
+1,1:51.0,,Offensive rebound by I. Clark,26,30
+1,1:51.0,,Turnover by I. Clark (out of bounds lost ball),26,30
+1,1:33.0,E. Freedom makes 2-pt layup from 2 ft (assist by J. Layman),,28,30
+1,1:21.0,,J. Randle makes 3-pt jump shot from 24 ft (assist by E. Payton),28,33
+1,1:00.0,Z. Collins makes 2-pt layup from 1 ft,,30,33
+1,0:46.0,,J. Randle makes 2-pt layup from 4 ft (assist by E. Payton),30,35
+1,0:32.0,D. Lillard misses 2-pt layup from 2 ft,,30,35
+1,0:30.0,,Defensive rebound by C. Diallo,30,35
+1,0:20.0,,E. Payton makes 2-pt layup from 1 ft (assist by J. Randle),30,37
+1,0:20.0,J. Nurkić enters the game for E. Freedom,,30,37
+1,0:20.0,,J. Okafor enters the game for J. Randle,30,37
+1,0:00.0,J. Nurkić misses 2-pt hook shot from 5 ft,,30,37
+1,0:00.0,Offensive rebound by Team,,30,37
+2,11:48.0,,D. Miller misses 3-pt jump shot from 26 ft,30,37
+2,11:45.0,,Offensive rebound by E. Payton,30,37
+2,11:42.0,,I. Clark misses 3-pt jump shot from 25 ft,30,37
+2,11:40.0,Defensive rebound by E. Turner,,30,37
+2,11:22.0,E. Freedom makes 2-pt layup from 2 ft (assist by E. Turner),,32,37
+2,11:14.0,,Offensive foul by C. Diallo (drawn by Z. Collins),32,37
+2,11:14.0,,Turnover by C. Diallo (offensive foul),32,37
+2,11:00.0,Turnover by E. Freedom (lost ball; steal by E. Payton),,32,37
+2,10:46.0,,E. Payton misses 3-pt jump shot from 25 ft,32,37
+2,10:42.0,Defensive rebound by E. Freedom,,32,37
+2,10:29.0,E. Turner misses 2-pt jump shot from 21 ft,,32,37
+2,10:25.0,,Defensive rebound by C. Diallo,32,37
+2,10:14.0,,C. Diallo misses 2-pt jump shot from 15 ft,32,37
+2,10:12.0,Defensive rebound by E. Freedom,,32,37
+2,10:02.0,Z. Collins misses 3-pt jump shot from 25 ft,,32,37
+2,9:59.0,,Defensive rebound by D. Miller,32,37
+2,9:50.0,,C. Diallo misses 2-pt jump shot from 19 ft,32,37
+2,9:48.0,Defensive rebound by E. Freedom,,32,37
+2,9:41.0,Shooting foul by I. Clark (drawn by E. Turner),,32,37
+2,9:41.0,E. Turner makes free throw 1 of 2,,33,37
+2,9:41.0,E. Turner makes free throw 2 of 2,,34,37
+2,9:36.0,,Shooting foul by E. Turner (drawn by E. Payton),34,37
+2,9:36.0,,E. Payton makes free throw 1 of 2,34,38
+2,9:36.0,,E. Payton makes free throw 2 of 2,34,39
+2,9:21.0,Z. Collins makes 2-pt dunk from 1 ft (assist by E. Freedom),,36,39
+2,9:08.0,,J. Okafor makes 2-pt jump shot from 6 ft (assist by E. Payton),36,41
+2,8:48.0,J. Layman misses 2-pt jump shot from 10 ft,,36,41
+2,8:48.0,Offensive rebound by E. Freedom,,36,41
+2,8:48.0,E. Freedom makes 2-pt layup from 1 ft,,38,41
+2,8:48.0,Shooting foul by J. Okafor (drawn by E. Freedom),,38,41
+2,8:48.0,,J. Randle enters the game for C. Diallo,38,41
+2,8:48.0,E. Freedom misses free throw 1 of 1,,38,41
+2,8:46.0,,Defensive rebound by J. Okafor,38,41
+2,8:31.0,,Shooting foul by E. Freedom (drawn by J. Okafor),38,41
+2,8:31.0,,J. Okafor misses free throw 1 of 2,38,41
+2,8:31.0,,Offensive rebound by Team,38,41
+2,8:31.0,,F. Jackson enters the game for I. Clark,38,41
+2,8:31.0,,J. Okafor misses free throw 2 of 2,38,41
+2,8:29.0,Defensive rebound by E. Turner,,38,41
+2,8:18.0,E. Turner misses 2-pt jump shot from 12 ft,,38,41
+2,8:15.0,,Defensive rebound by F. Jackson,38,41
+2,8:10.0,,J. Okafor misses 2-pt layup from 5 ft (block by Z. Collins),38,41
+2,8:07.0,,Offensive rebound by J. Okafor,38,41
+2,8:02.0,,Turnover by J. Randle (traveling),38,41
+2,8:02.0,C. McCollum enters the game for J. Layman,,38,41
+2,8:02.0,,J. Smith enters the game for J. Okafor,38,41
+2,7:48.0,C. McCollum misses 2-pt jump shot from 7 ft,,38,41
+2,7:47.0,Offensive rebound by E. Freedom,,38,41
+2,7:45.0,E. Freedom makes 2-pt layup from 2 ft,,40,41
+2,7:29.0,,E. Payton makes 2-pt jump shot from 2 ft (assist by D. Miller),40,43
+2,7:14.0,E. Freedom makes 2-pt jump shot from 14 ft,,42,43
+2,6:58.0,,F. Jackson misses 2-pt jump shot from 2 ft,42,43
+2,6:56.0,Defensive rebound by Z. Collins,,42,43
+2,6:48.0,S. Curry misses 3-pt jump shot from 29 ft,,42,43
+2,6:45.0,,Defensive rebound by J. Randle,42,43
+2,6:35.0,,J. Randle misses 2-pt layup from 2 ft (block by Z. Collins),42,43
+2,6:29.0,,Offensive rebound by E. Payton,42,43
+2,6:28.0,,D. Miller makes 3-pt jump shot from 26 ft (assist by J. Smith),42,46
+2,6:11.0,,Violation by Team (kicked ball),42,46
+2,6:11.0,,New Orleans full timeout,42,46
+2,6:11.0,J. Nurkić enters the game for E. Freedom,,42,46
+2,6:11.0,,K. Williams enters the game for D. Miller,42,46
+2,6:05.0,Shooting foul by K. Williams (drawn by E. Turner),,42,46
+2,6:05.0,E. Turner misses free throw 1 of 2,,42,46
+2,6:05.0,Offensive rebound by Team,,42,46
+2,6:05.0,E. Turner misses free throw 2 of 2,,42,46
+2,6:01.0,,Defensive rebound by E. Payton,42,46
+2,5:49.0,,E. Payton misses 2-pt layup from 3 ft (block by C. McCollum),42,46
+2,5:46.0,,Offensive rebound by E. Payton,42,46
+2,5:46.0,,Shooting foul by J. Nurkić (drawn by F. Jackson),42,46
+2,5:46.0,,F. Jackson misses free throw 1 of 2,42,46
+2,5:46.0,,Offensive rebound by Team,42,46
+2,5:46.0,,F. Jackson makes free throw 2 of 2,42,47
+2,5:38.0,C. McCollum misses 2-pt jump shot from 8 ft,,42,47
+2,5:35.0,,Defensive rebound by K. Williams,42,47
+2,5:25.0,,J. Randle misses 3-pt jump shot from 25 ft,42,47
+2,5:20.0,Defensive rebound by J. Nurkić,,42,47
+2,5:16.0,S. Curry misses 2-pt layup from 1 ft,,42,47
+2,5:13.0,Offensive rebound by J. Nurkić,,42,47
+2,5:12.0,J. Nurkić misses 2-pt hook shot from 4 ft,,42,47
+2,5:10.0,Offensive rebound by Z. Collins,,42,47
+2,5:08.0,Z. Collins makes 2-pt layup from 1 ft,,44,47
+2,4:59.0,,J. Smith makes 3-pt jump shot from 26 ft (assist by E. Payton),44,50
+2,4:46.0,Z. Collins misses 2-pt dunk from 1 ft,,44,50
+2,4:46.0,Offensive rebound by Z. Collins,,44,50
+2,4:43.0,Z. Collins makes 2-pt dunk from 2 ft,,46,50
+2,4:25.0,,J. Randle misses 2-pt layup from 2 ft,46,50
+2,4:25.0,,Offensive rebound by J. Smith,46,50
+2,4:25.0,,J. Smith misses 2-pt layup from 1 ft,46,50
+2,4:25.0,Defensive rebound by J. Nurkić,,46,50
+2,4:17.0,C. McCollum misses 2-pt layup from 3 ft,,46,50
+2,4:17.0,Offensive rebound by S. Curry,,46,50
+2,4:14.0,S. Curry misses 3-pt jump shot from 25 ft,,46,50
+2,4:14.0,,Defensive rebound by Team,46,50
+2,4:14.0,R. Hood enters the game for S. Curry,,46,50
+2,4:14.0,D. Lillard enters the game for E. Turner,,46,50
+2,4:01.0,,Shooting foul by Z. Collins (drawn by F. Jackson),46,50
+2,4:01.0,,F. Jackson misses free throw 1 of 2,46,50
+2,4:01.0,,Offensive rebound by Team,46,50
+2,4:01.0,,F. Jackson makes free throw 2 of 2,46,51
+2,3:54.0,D. Lillard makes 3-pt jump shot from 26 ft,,49,51
+2,3:41.0,,Personal foul by Z. Collins (drawn by J. Smith),49,51
+2,3:41.0,,J. Smith makes free throw 1 of 2,49,52
+2,3:41.0,,J. Smith makes free throw 2 of 2,49,53
+2,3:28.0,Z. Collins misses 3-pt jump shot from 23 ft,,49,53
+2,3:22.0,,Defensive rebound by F. Jackson,49,53
+2,3:18.0,,F. Jackson misses 2-pt jump shot from 20 ft,49,53
+2,3:15.0,Defensive rebound by J. Nurkić,,49,53
+2,3:06.0,J. Nurkić makes 2-pt layup from 1 ft (assist by D. Lillard),,51,53
+2,2:54.0,,J. Randle misses 3-pt jump shot from 25 ft,51,53
+2,2:51.0,Defensive rebound by D. Lillard,,51,53
+2,2:41.0,J. Nurkić misses 2-pt jump shot from 13 ft,,51,53
+2,2:35.0,Offensive rebound by Z. Collins,,51,53
+2,2:35.0,Z. Collins misses 2-pt layup from 1 ft,,51,53
+2,2:34.0,,Defensive rebound by E. Payton,51,53
+2,2:26.0,,J. Smith misses 3-pt jump shot from 26 ft,51,53
+2,2:23.0,Defensive rebound by J. Nurkić,,51,53
+2,2:14.0,C. McCollum misses 2-pt jump shot from 18 ft,,51,53
+2,2:11.0,,Defensive rebound by J. Randle,51,53
+2,2:06.0,,J. Randle misses 2-pt jump shot from 3 ft,51,53
+2,2:04.0,,Offensive rebound by J. Randle,51,53
+2,2:01.0,,J. Randle misses 2-pt layup from 3 ft,51,53
+2,1:57.0,Defensive rebound by J. Nurkić,,51,53
+2,1:50.0,Z. Collins misses 2-pt layup from 3 ft,,51,53
+2,1:50.0,Offensive rebound by Team,,51,53
+2,1:50.0,Portland full timeout,,51,53
+2,1:50.0,A. Aminu enters the game for Z. Collins,,51,53
+2,1:50.0,,C. Diallo enters the game for J. Smith,51,53
+2,1:45.0,Turnover by D. Lillard (bad pass),,51,53
+2,1:34.0,,Turnover by E. Payton (lost ball; steal by J. Nurkić),51,53
+2,1:30.0,Shooting foul by K. Williams (drawn by R. Hood),,51,53
+2,1:30.0,R. Hood makes free throw 1 of 2,,52,53
+2,1:30.0,R. Hood makes free throw 2 of 2,,53,53
+2,1:17.0,,Shooting foul by J. Nurkić (drawn by J. Randle),53,53
+2,1:17.0,,J. Randle misses free throw 1 of 2,53,53
+2,1:17.0,,Offensive rebound by Team,53,53
+2,1:17.0,Z. Collins enters the game for J. Nurkić,,53,53
+2,1:17.0,,J. Randle misses free throw 2 of 2,53,53
+2,1:17.0,Defensive rebound by Team,,53,53
+2,1:01.0,C. McCollum makes 3-pt jump shot from 26 ft,,56,53
+2,0:52.0,,F. Jackson makes 2-pt layup from 1 ft (assist by J. Randle),56,55
+2,0:35.0,D. Lillard misses 2-pt layup from 2 ft (block by C. Diallo),,56,55
+2,0:35.0,,Defensive rebound by E. Payton,56,55
+2,0:25.0,,Personal foul by R. Hood (drawn by J. Randle),56,55
+2,0:25.0,,J. Randle misses free throw 1 of 2,56,55
+2,0:25.0,,Offensive rebound by Team,56,55
+2,0:25.0,S. Curry enters the game for A. Aminu,,56,55
+2,0:25.0,,J. Randle misses free throw 2 of 2,56,55
+2,0:23.0,Defensive rebound by C. McCollum,,56,55
+2,0:05.0,D. Lillard misses 2-pt layup from 2 ft (block by C. Diallo),,56,55
+2,0:02.0,,Defensive rebound by J. Randle,56,55
+2,0:00.0,,F. Jackson makes 2-pt layup from 2 ft (assist by J. Randle),56,57
+3,11:33.0,,K. Williams misses 2-pt jump shot from 23 ft,56,57
+3,11:31.0,Defensive rebound by J. Nurkić,,56,57
+3,11:26.0,D. Lillard misses 2-pt layup from 2 ft,,56,57
+3,11:23.0,,Defensive rebound by J. Okafor,56,57
+3,11:16.0,,Turnover by J. Randle (bad pass; steal by D. Lillard),56,57
+3,11:14.0,Shooting foul by E. Payton (drawn by D. Lillard),,56,57
+3,11:14.0,D. Lillard makes free throw 1 of 2,,57,57
+3,11:14.0,D. Lillard makes free throw 2 of 2,,58,57
+3,11:00.0,,E. Payton misses 3-pt jump shot from 27 ft,58,57
+3,10:57.0,Defensive rebound by A. Aminu,,58,57
+3,10:52.0,D. Lillard makes 3-pt jump shot from 27 ft,,61,57
+3,10:43.0,,New Orleans full timeout,61,57
+3,10:35.0,,J. Okafor makes 2-pt dunk from 2 ft (assist by E. Payton),61,59
+3,10:15.0,Shooting foul by J. Okafor (drawn by A. Aminu),,61,59
+3,10:15.0,A. Aminu makes free throw 1 of 2,,62,59
+3,10:15.0,,D. Miller enters the game for J. Okafor,62,59
+3,10:15.0,A. Aminu makes free throw 2 of 2,,63,59
+3,10:05.0,,F. Jackson makes 2-pt layup from 1 ft,63,61
+3,9:55.0,D. Lillard misses 3-pt jump shot from 29 ft,,63,61
+3,9:53.0,Offensive rebound by R. Hood,,63,61
+3,9:51.0,D. Lillard misses 3-pt jump shot from 25 ft,,63,61
+3,9:47.0,,Defensive rebound by E. Payton,63,61
+3,9:38.0,,Personal foul by R. Hood (drawn by K. Williams),63,61
+3,9:24.0,,D. Miller misses 2-pt jump shot from 23 ft (block by A. Aminu),63,61
+3,9:18.0,Defensive rebound by A. Aminu,,63,61
+3,9:11.0,D. Lillard misses 2-pt jump shot from 21 ft,,63,61
+3,9:07.0,,Defensive rebound by K. Williams,63,61
+3,8:58.0,,F. Jackson makes 2-pt jump shot from 2 ft (assist by J. Randle),63,63
+3,8:32.0,A. Aminu misses 2-pt layup from 2 ft,,63,63
+3,8:30.0,,Defensive rebound by J. Randle,63,63
+3,8:26.0,,J. Randle makes 2-pt dunk from 1 ft,63,65
+3,8:26.0,Portland full timeout,,63,65
+3,8:14.0,Turnover by J. Nurkić (lost ball; steal by J. Randle),,63,65
+3,8:10.0,,Turnover by J. Randle (lost ball; steal by A. Aminu),63,65
+3,8:08.0,Turnover by R. Hood (out of bounds lost ball),,63,65
+3,7:54.0,,D. Miller makes 3-pt jump shot from 24 ft (assist by E. Payton),63,68
+3,7:41.0,C. McCollum misses 2-pt jump shot from 9 ft,,63,68
+3,7:41.0,,Defensive rebound by E. Payton,63,68
+3,7:33.0,,E. Payton misses 2-pt layup from 2 ft,63,68
+3,7:31.0,Defensive rebound by A. Aminu,,63,68
+3,7:25.0,D. Lillard makes 2-pt layup from 2 ft,,65,68
+3,7:13.0,,F. Jackson misses 3-pt jump shot from 26 ft,65,68
+3,7:13.0,Defensive rebound by R. Hood,,65,68
+3,7:05.0,R. Hood makes 2-pt layup from 3 ft (assist by J. Nurkić),,67,68
+3,7:05.0,Shooting foul by F. Jackson (drawn by R. Hood),,67,68
+3,7:05.0,R. Hood makes free throw 1 of 1,,68,68
+3,6:46.0,,Turnover by J. Randle (bad pass; steal by A. Aminu),68,68
+3,6:41.0,C. McCollum makes 2-pt layup from 3 ft,,70,68
+3,6:31.0,,J. Randle makes 2-pt dunk from 1 ft (assist by K. Williams),70,70
+3,6:26.0,Portland full timeout,,70,70
+3,6:26.0,Z. Collins enters the game for J. Nurkić,,70,70
+3,6:11.0,A. Aminu misses 3-pt jump shot from 25 ft,,70,70
+3,6:09.0,,Defensive rebound by E. Payton,70,70
+3,5:55.0,,J. Randle misses 3-pt jump shot from 27 ft,70,70
+3,5:48.0,Defensive rebound by C. McCollum,,70,70
+3,5:45.0,C. McCollum misses 2-pt jump shot from 18 ft,,70,70
+3,5:43.0,Offensive rebound by Z. Collins,,70,70
+3,5:41.0,Z. Collins misses 2-pt layup from 4 ft (block by J. Randle),,70,70
+3,5:41.0,Offensive rebound by Team,,70,70
+3,5:36.0,Turnover by A. Aminu (out of bounds lost ball),,70,70
+3,5:23.0,,E. Payton misses 2-pt layup from 2 ft (block by Z. Collins),70,70
+3,5:19.0,,Offensive rebound by J. Randle,70,70
+3,5:19.0,,J. Randle misses 2-pt layup from 2 ft,70,70
+3,5:16.0,,Offensive rebound by K. Williams,70,70
+3,5:14.0,,F. Jackson misses 3-pt jump shot from 23 ft,70,70
+3,5:14.0,Defensive rebound by C. McCollum,,70,70
+3,5:08.0,R. Hood misses 2-pt jump shot from 4 ft,,70,70
+3,5:08.0,Offensive rebound by Team,,70,70
+3,5:08.0,,Loose ball foul by F. Jackson (drawn by Z. Collins),70,70
+3,5:01.0,R. Hood makes 2-pt layup from 2 ft (assist by Z. Collins),,72,70
+3,4:51.0,,Turnover by J. Randle (lost ball; steal by A. Aminu),72,70
+3,4:49.0,Offensive foul by A. Aminu (drawn by K. Williams),,72,70
+3,4:49.0,Turnover by A. Aminu (offensive foul),,72,70
+3,4:41.0,,K. Williams makes 3-pt jump shot from 26 ft (assist by E. Payton),72,73
+3,4:17.0,Shooting foul by J. Randle (drawn by Z. Collins),,72,73
+3,4:17.0,Z. Collins makes free throw 1 of 2,,73,73
+3,4:17.0,E. Freedom enters the game for A. Aminu,,73,73
+3,4:17.0,,C. Diallo enters the game for K. Williams,73,73
+3,4:17.0,Z. Collins makes free throw 2 of 2,,74,73
+3,4:07.0,,J. Randle makes 2-pt jump shot from 3 ft,74,75
+3,4:07.0,,Shooting foul by Z. Collins (drawn by J. Randle),74,75
+3,4:07.0,,I. Clark enters the game for E. Payton,74,75
+3,4:07.0,,J. Randle misses free throw 1 of 1,74,75
+3,4:05.0,Defensive rebound by Z. Collins,,74,75
+3,3:54.0,Z. Collins makes 2-pt jump shot from 10 ft (assist by D. Lillard),,76,75
+3,3:39.0,,D. Miller misses 2-pt jump shot from 9 ft,76,75
+3,3:37.0,,Offensive rebound by D. Miller,76,75
+3,3:33.0,,I. Clark misses 3-pt jump shot from 24 ft,76,75
+3,3:31.0,Defensive rebound by Z. Collins,,76,75
+3,3:18.0,D. Lillard makes 3-pt jump shot from 27 ft (assist by C. McCollum),,79,75
+3,3:18.0,S. Curry enters the game for C. McCollum,,79,75
+3,2:54.0,,J. Randle misses 3-pt jump shot from 25 ft,79,75
+3,2:52.0,Defensive rebound by S. Curry,,79,75
+3,2:41.0,Personal foul by D. Miller (drawn by E. Freedom),,79,75
+3,2:41.0,E. Freedom makes free throw 1 of 2,,80,75
+3,2:41.0,,E. Payton enters the game for F. Jackson,80,75
+3,2:41.0,,J. Smith enters the game for J. Randle,80,75
+3,2:41.0,E. Freedom makes free throw 2 of 2,,81,75
+3,2:26.0,,C. Diallo makes 2-pt layup from 1 ft (assist by D. Miller),81,77
+3,2:03.0,Shooting foul by C. Diallo (drawn by E. Freedom),,81,77
+3,2:03.0,E. Freedom makes free throw 1 of 2,,82,77
+3,2:03.0,J. Layman enters the game for Z. Collins,,82,77
+3,2:03.0,E. Turner enters the game for R. Hood,,82,77
+3,2:03.0,E. Freedom makes free throw 2 of 2,,83,77
+3,1:54.0,,J. Smith misses 3-pt jump shot from 25 ft,83,77
+3,1:50.0,Defensive rebound by D. Lillard,,83,77
+3,1:37.0,S. Curry misses 2-pt jump shot from 20 ft,,83,77
+3,1:31.0,,Defensive rebound by C. Diallo,83,77
+3,1:25.0,,E. Payton misses 2-pt jump shot from 10 ft (block by J. Layman),83,77
+3,1:23.0,Defensive rebound by J. Layman,,83,77
+3,1:21.0,D. Lillard misses 3-pt jump shot from 25 ft,,83,77
+3,1:16.0,,Defensive rebound by I. Clark,83,77
+3,1:05.0,,J. Smith makes 3-pt jump shot from 23 ft (assist by E. Payton),83,80
+3,0:39.0,E. Turner makes 2-pt jump shot from 16 ft,,85,80
+3,0:31.0,,Personal foul by E. Turner (drawn by C. Diallo),85,80
+3,0:19.0,,Shooting foul by J. Layman (drawn by E. Payton),85,80
+3,0:19.0,,E. Payton makes free throw 1 of 2,85,81
+3,0:19.0,,E. Payton makes free throw 2 of 2,85,82
+3,0:01.0,Personal foul by J. Smith (drawn by D. Lillard),,85,82
+3,0:01.0,D. Lillard makes free throw 1 of 2,,86,82
+3,0:01.0,D. Lillard makes free throw 2 of 2,,87,82
+3,0:00.0,,D. Miller misses 3-pt jump shot from 56 ft,87,82
+3,0:00.0,,Offensive rebound by Team,87,82
+4,11:44.0,C. McCollum misses 3-pt jump shot from 26 ft,,87,82
+4,11:42.0,Offensive rebound by Team,,87,82
+4,11:42.0,,Loose ball foul by J. Smith (drawn by E. Freedom),87,82
+4,11:36.0,J. Layman misses 3-pt jump shot from 24 ft,,87,82
+4,11:32.0,,Defensive rebound by D. Miller,87,82
+4,11:18.0,,Turnover by J. Smith (lost ball; steal by E. Turner),87,82
+4,11:14.0,J. Layman misses 3-pt jump shot from 25 ft,,87,82
+4,11:10.0,Offensive rebound by E. Freedom,,87,82
+4,11:08.0,Turnover by E. Freedom (off goaltending),,87,82
+4,10:57.0,,I. Clark misses 3-pt jump shot from 26 ft,87,82
+4,10:53.0,Defensive rebound by E. Turner,,87,82
+4,10:48.0,S. Curry makes 3-pt jump shot from 25 ft (assist by E. Turner),,90,82
+4,10:33.0,,E. Payton makes 2-pt layup from 2 ft,90,84
+4,10:25.0,C. McCollum makes 2-pt layup from 1 ft (assist by E. Turner),,92,84
+4,10:08.0,,J. Randle makes 2-pt layup from 2 ft (assist by E. Payton),92,86
+4,9:58.0,E. Turner misses 2-pt layup from 3 ft,,92,86
+4,9:56.0,Offensive rebound by E. Freedom,,92,86
+4,9:53.0,E. Freedom misses 2-pt layup from 1 ft,,92,86
+4,9:51.0,,Defensive rebound by E. Payton,92,86
+4,9:49.0,,I. Clark misses 2-pt layup from 2 ft,92,86
+4,9:47.0,Defensive rebound by E. Freedom,,92,86
+4,9:39.0,Turnover by J. Layman (out of bounds lost ball),,92,86
+4,9:39.0,Z. Collins enters the game for J. Layman,,92,86
+4,9:39.0,,F. Jackson enters the game for E. Payton,92,86
+4,9:27.0,,D. Miller makes 2-pt jump shot from 16 ft (assist by J. Randle),92,88
+4,9:05.0,Turnover by E. Turner (bad pass; steal by I. Clark),,92,88
+4,9:02.0,,F. Jackson makes 2-pt dunk from 1 ft (assist by I. Clark),92,90
+4,9:01.0,Portland full timeout,,92,90
+4,8:46.0,E. Freedom makes 2-pt layup from 2 ft (assist by C. McCollum),,94,90
+4,8:46.0,Shooting foul by J. Smith (drawn by E. Freedom),,94,90
+4,8:46.0,E. Freedom makes free throw 1 of 1,,95,90
+4,8:32.0,,J. Randle misses 2-pt jump shot from 4 ft,95,90
+4,8:30.0,,Offensive rebound by J. Randle,95,90
+4,8:29.0,,J. Randle makes 2-pt layup from 3 ft,95,92
+4,8:22.0,Personal foul by I. Clark (drawn by C. McCollum),,95,92
+4,8:19.0,Offensive foul by E. Freedom (drawn by I. Clark),,95,92
+4,8:19.0,Turnover by E. Freedom (offensive foul),,95,92
+4,8:08.0,,F. Jackson misses 3-pt jump shot from 25 ft,95,92
+4,8:05.0,Defensive rebound by Team,,95,92
+4,7:51.0,S. Curry misses 3-pt jump shot from 27 ft,,95,92
+4,7:47.0,Offensive rebound by Z. Collins,,95,92
+4,7:41.0,S. Curry makes 2-pt layup from 2 ft (assist by Z. Collins),,97,92
+4,7:30.0,,J. Randle makes 2-pt layup from 3 ft,97,94
+4,7:18.0,C. McCollum makes 3-pt jump shot from 25 ft (assist by E. Turner),,100,94
+4,7:00.0,,J. Randle makes 2-pt layup from 2 ft (assist by D. Miller),100,96
+4,6:51.0,C. McCollum misses 2-pt jump shot from 8 ft,,100,96
+4,6:50.0,Offensive rebound by Team,,100,96
+4,6:50.0,R. Hood enters the game for S. Curry,,100,96
+4,6:50.0,D. Lillard enters the game for E. Freedom,,100,96
+4,6:50.0,J. Nurkić enters the game for E. Turner,,100,96
+4,6:50.0,,E. Payton enters the game for I. Clark,100,96
+4,6:50.0,,K. Williams enters the game for J. Smith,100,96
+4,6:43.0,Shooting foul by J. Randle (drawn by J. Nurkić),,100,96
+4,6:43.0,J. Nurkić makes free throw 1 of 2,,101,96
+4,6:43.0,A. Aminu enters the game for Z. Collins,,101,96
+4,6:43.0,J. Nurkić makes free throw 2 of 2,,102,96
+4,6:32.0,,E. Payton makes 3-pt jump shot from 26 ft (assist by J. Randle),102,99
+4,6:18.0,D. Lillard makes 2-pt layup from 2 ft (assist by J. Nurkić),,104,99
+4,6:02.0,,D. Miller misses 2-pt jump shot from 10 ft,104,99
+4,6:02.0,Defensive rebound by C. McCollum,,104,99
+4,5:51.0,C. McCollum makes 3-pt jump shot from 26 ft (assist by A. Aminu),,107,99
+4,5:45.0,,New Orleans full timeout,107,99
+4,5:31.0,,J. Randle makes 2-pt layup from 3 ft,107,101
+4,5:18.0,D. Lillard makes 3-pt jump shot from 28 ft (assist by C. McCollum),,110,101
+4,5:03.0,,Shooting foul by J. Nurkić (drawn by J. Randle),110,101
+4,5:03.0,,J. Randle makes free throw 1 of 2,110,102
+4,5:03.0,,J. Randle makes free throw 2 of 2,110,103
+4,4:50.0,D. Lillard misses 3-pt jump shot from 23 ft,,110,103
+4,4:47.0,,Defensive rebound by K. Williams,110,103
+4,4:36.0,,D. Miller misses 3-pt jump shot from 26 ft,110,103
+4,4:32.0,Defensive rebound by A. Aminu,,110,103
+4,4:20.0,R. Hood makes 2-pt layup from 3 ft (assist by J. Nurkić),,112,103
+4,4:09.0,,Shooting foul by J. Nurkić (drawn by J. Randle),112,103
+4,4:09.0,,J. Randle misses free throw 1 of 2,112,103
+4,4:09.0,,Offensive rebound by Team,112,103
+4,4:09.0,,J. Randle misses free throw 2 of 2,112,103
+4,4:06.0,Defensive rebound by A. Aminu,,112,103
+4,3:51.0,R. Hood makes 3-pt jump shot from 24 ft (assist by C. McCollum),,115,103
+4,3:38.0,,J. Randle makes 2-pt layup from 2 ft (assist by E. Payton),115,105
+4,3:22.0,Shooting foul by D. Miller (drawn by J. Nurkić),,115,105
+4,3:22.0,J. Nurkić misses free throw 1 of 2,,115,105
+4,3:22.0,Offensive rebound by Team,,115,105
+4,3:22.0,J. Nurkić makes free throw 2 of 2,,116,105
+4,3:18.0,,New Orleans full timeout,116,105
+4,3:13.0,,J. Randle makes 2-pt layup from 2 ft (assist by E. Payton),116,107
+4,2:55.0,C. McCollum misses 2-pt layup from 2 ft (block by J. Randle),,116,107
+4,2:55.0,Offensive rebound by J. Nurkić,,116,107
+4,2:50.0,Turnover by J. Nurkić (lost ball; steal by F. Jackson),,116,107
+4,2:45.0,,Offensive foul by J. Randle (drawn by A. Aminu),116,107
+4,2:45.0,,Turnover by J. Randle (offensive foul),116,107
+4,2:31.0,Turnover by D. Lillard (bad pass; steal by D. Miller),,116,107
+4,2:23.0,,Shooting foul by J. Nurkić (drawn by E. Payton),116,107
+4,2:23.0,Z. Collins enters the game for J. Nurkić,,116,107
+4,2:23.0,,E. Payton misses free throw 1 of 2,116,107
+4,2:23.0,,Offensive rebound by Team,116,107
+4,2:23.0,,E. Payton makes free throw 2 of 2,116,108
+4,2:10.0,Shooting foul by K. Williams (drawn by R. Hood),,116,108
+4,2:10.0,R. Hood makes free throw 1 of 2,,117,108
+4,2:10.0,R. Hood makes free throw 2 of 2,,118,108
+4,1:58.0,,E. Payton misses 3-pt jump shot from 26 ft,118,108
+4,1:55.0,Defensive rebound by A. Aminu,,118,108
+4,1:32.0,D. Lillard misses 3-pt jump shot from 26 ft,,118,108
+4,1:29.0,,Defensive rebound by F. Jackson,118,108
+4,1:16.0,,K. Williams misses 2-pt layup from 2 ft,118,108
+4,1:15.0,,Offensive rebound by J. Randle,118,108
+4,1:14.0,,J. Randle makes 2-pt layup from 5 ft,118,110
+4,0:55.0,D. Lillard makes 2-pt jump shot from 6 ft,,120,110
+4,0:55.0,,New Orleans full timeout,120,110
+4,0:51.0,,J. Randle misses 2-pt layup from 4 ft (block by Z. Collins),120,110
+4,0:46.0,,Offensive rebound by E. Payton,120,110
+4,0:44.0,,D. Miller misses 3-pt jump shot from 26 ft,120,110
+4,0:39.0,Defensive rebound by A. Aminu,,120,110
+4,0:20.0,C. McCollum makes 2-pt jump shot from 2 ft,,122,110
+4,0:11.0,,K. Williams misses 3-pt jump shot from 29 ft,122,110
+4,0:07.0,Defensive rebound by A. Aminu,,122,110

@@ -1,0 +1,506 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,WASHINGTON_ACTION,HOUSTON_SCORE,WASHINGTON_SCORE
+1,11:38.0,,T. Bryant makes 2-pt dunk from 1 ft (assist by J. Wall),0,2
+1,11:21.0,E. Gordon makes 2-pt layup from 1 ft,,2,2
+1,11:03.0,,K. Oubre misses 3-pt jump shot from 26 ft,2,2
+1,10:59.0,Defensive rebound by E. Gordon,,2,2
+1,10:53.0,Turnover by J. Harden (bad pass; steal by O. Porter),,2,2
+1,10:44.0,,T. Bryant misses 2-pt layup from 3 ft,2,2
+1,10:42.0,,Offensive rebound by T. Bryant,2,2
+1,10:41.0,,T. Bryant misses 2-pt layup from 1 ft (block by C. Capela),2,2
+1,10:39.0,Defensive rebound by P. Tucker,,2,2
+1,10:35.0,J. Ennis makes 3-pt jump shot from 23 ft (assist by P. Tucker),,5,2
+1,10:16.0,,J. Wall makes 2-pt jump shot from 16 ft,5,4
+1,10:09.0,Turnover by J. Harden (bad pass),,5,4
+1,10:05.0,,Personal foul by J. Harden (drawn by J. Wall),5,4
+1,10:00.0,,O. Porter misses 2-pt jump shot from 21 ft,5,4
+1,9:56.0,Defensive rebound by P. Tucker,,5,4
+1,9:52.0,E. Gordon makes 3-pt jump shot from 25 ft (assist by J. Harden),,8,4
+1,9:37.0,,Personal foul by C. Capela (drawn by K. Oubre),8,4
+1,9:27.0,,J. Wall makes 2-pt jump shot from 2 ft,8,6
+1,9:19.0,P. Tucker makes 3-pt jump shot from 26 ft (assist by J. Harden),,11,6
+1,8:56.0,,J. Wall misses 3-pt jump shot from 25 ft,11,6
+1,8:52.0,Defensive rebound by P. Tucker,,11,6
+1,8:49.0,C. Capela misses 2-pt layup at rim (block by T. Bryant),,11,6
+1,8:47.0,,Defensive rebound by K. Oubre,11,6
+1,8:43.0,,Offensive foul by J. Wall (drawn by J. Ennis),11,6
+1,8:43.0,,Turnover by J. Wall (offensive foul),11,6
+1,8:37.0,E. Gordon misses 2-pt layup from 6 ft,,11,6
+1,8:35.0,Offensive rebound by C. Capela,,11,6
+1,8:34.0,C. Capela misses 2-pt layup from 5 ft (block by B. Beal),,11,6
+1,8:34.0,Offensive rebound by C. Capela,,11,6
+1,8:30.0,C. Capela misses 2-pt layup from 4 ft,,11,6
+1,8:30.0,,Defensive rebound by K. Oubre,11,6
+1,8:25.0,,Shooting foul by E. Gordon (drawn by B. Beal),11,6
+1,8:25.0,,B. Beal makes free throw 1 of 2,11,7
+1,8:25.0,,B. Beal makes free throw 2 of 2,11,8
+1,8:12.0,E. Gordon makes 3-pt jump shot from 27 ft,,14,8
+1,7:58.0,,J. Wall makes 2-pt layup from 2 ft,14,10
+1,7:49.0,J. Ennis makes 2-pt layup from 3 ft (assist by J. Harden),,16,10
+1,7:36.0,,O. Porter misses 2-pt jump shot from 11 ft,16,10
+1,7:33.0,Defensive rebound by C. Capela,,16,10
+1,7:28.0,E. Gordon makes 3-pt jump shot from 28 ft (assist by J. Harden),,19,10
+1,7:27.0,,Washington full timeout,19,10
+1,7:27.0,G. Clark enters the game for J. Ennis,,19,10
+1,7:09.0,,K. Oubre misses 3-pt jump shot from 23 ft,19,10
+1,7:05.0,Defensive rebound by C. Capela,,19,10
+1,6:59.0,J. Harden makes 2-pt layup from 2 ft,,21,10
+1,6:42.0,,B. Beal misses 2-pt jump shot from 13 ft,21,10
+1,6:37.0,Defensive rebound by P. Tucker,,21,10
+1,6:33.0,J. Harden makes 3-pt jump shot from 26 ft,,24,10
+1,6:33.0,Shooting foul by B. Beal (drawn by J. Harden),,24,10
+1,6:33.0,,M. Morris enters the game for T. Bryant,24,10
+1,6:33.0,J. Harden makes free throw 1 of 1,,25,10
+1,6:25.0,,Turnover by J. Wall (lost ball; steal by J. Harden),25,10
+1,6:21.0,J. Harden makes 2-pt dunk from 1 ft (assist by P. Tucker),,27,10
+1,6:21.0,,Washington full timeout,27,10
+1,6:21.0,D. House enters the game for E. Gordon,,27,10
+1,6:00.0,,M. Morris misses 3-pt jump shot from 26 ft,27,10
+1,5:54.0,Defensive rebound by P. Tucker,,27,10
+1,5:47.0,J. Harden misses 2-pt layup from 2 ft,,27,10
+1,5:45.0,,Defensive rebound by M. Morris,27,10
+1,5:33.0,,B. Beal makes 3-pt jump shot from 24 ft (assist by J. Wall),27,13
+1,5:23.0,G. Clark makes 3-pt jump shot from 27 ft (assist by J. Harden),,30,13
+1,5:06.0,,J. Wall misses 2-pt jump shot from 7 ft (block by C. Capela),30,13
+1,5:04.0,,Offensive rebound by B. Beal,30,13
+1,4:59.0,,Shooting foul by D. House (drawn by B. Beal),30,13
+1,4:59.0,,B. Beal makes free throw 1 of 2,30,14
+1,4:59.0,,J. Green enters the game for O. Porter,30,14
+1,4:59.0,,B. Beal makes free throw 2 of 2,30,15
+1,4:46.0,C. Capela makes 2-pt dunk at rim (assist by J. Harden),,32,15
+1,4:26.0,,K. Oubre makes 2-pt jump shot from 8 ft (assist by J. Wall),32,17
+1,4:20.0,Personal foul by K. Oubre (drawn by G. Clark),,32,17
+1,4:20.0,M. Chriss enters the game for C. Capela,,32,17
+1,4:14.0,M. Chriss misses 2-pt layup from 2 ft (block by J. Wall),,32,17
+1,4:11.0,,Defensive rebound by M. Morris,32,17
+1,4:05.0,,Shooting foul by M. Chriss (drawn by J. Wall),32,17
+1,4:05.0,,J. Wall makes free throw 1 of 2,32,18
+1,4:05.0,,J. Wall makes free throw 2 of 2,32,19
+1,3:46.0,J. Harden misses 2-pt layup from 2 ft (block by K. Oubre),,32,19
+1,3:46.0,Offensive rebound by Team,,32,19
+1,3:39.0,J. Harden misses 3-pt jump shot from 28 ft,,32,19
+1,3:39.0,Offensive rebound by Team,,32,19
+1,3:38.0,Turnover by Team (shot clock),,32,19
+1,3:25.0,,K. Oubre misses 3-pt jump shot from 26 ft,32,19
+1,3:23.0,Defensive rebound by Team,,32,19
+1,3:23.0,Personal foul by J. Green (drawn by G. Clark),,32,19
+1,3:23.0,J. Ennis enters the game for P. Tucker,,32,19
+1,3:23.0,,A. Rivers enters the game for K. Oubre,32,19
+1,3:23.0,,T. Satoranský enters the game for J. Wall,32,19
+1,3:10.0,Turnover by J. Harden (bad pass; steal by J. Green),,32,19
+1,3:07.0,,Turnover by J. Green (lost ball; steal by J. Ennis),32,19
+1,3:01.0,J. Ennis makes 2-pt dunk from 1 ft (assist by J. Harden),,34,19
+1,2:49.0,,M. Morris makes 2-pt layup from 1 ft (assist by T. Satoranský),34,21
+1,2:30.0,D. House misses 3-pt jump shot from 27 ft,,34,21
+1,2:26.0,Offensive rebound by M. Chriss,,34,21
+1,2:15.0,D. House misses 3-pt jump shot from 26 ft,,34,21
+1,2:10.0,,Defensive rebound by A. Rivers,34,21
+1,2:03.0,,M. Morris makes 3-pt jump shot from 27 ft (assist by T. Satoranský),34,24
+1,1:44.0,Turnover by J. Harden (step out of bounds),,34,24
+1,1:44.0,E. Gordon enters the game for G. Clark,,34,24
+1,1:28.0,,B. Beal makes 2-pt layup from 2 ft,34,26
+1,1:15.0,M. Chriss misses 3-pt jump shot from 27 ft,,34,26
+1,1:11.0,,Defensive rebound by J. Green,34,26
+1,1:03.0,,J. Green makes 2-pt layup from 2 ft (assist by T. Satoranský),34,28
+1,1:03.0,,Shooting foul by J. Harden (drawn by J. Green),34,28
+1,1:03.0,,J. Green misses free throw 1 of 1,34,28
+1,1:03.0,Defensive rebound by J. Harden,,34,28
+1,0:54.0,Personal foul by M. Morris (drawn by J. Harden),,34,28
+1,0:50.0,M. Chriss makes 2-pt dunk from 1 ft (assist by J. Harden),,36,28
+1,0:37.0,,M. Morris misses 2-pt hook shot from 6 ft,36,28
+1,0:34.0,Defensive rebound by J. Harden,,36,28
+1,0:34.0,,Technical foul by M. Morris,36,28
+1,0:34.0,J. Harden makes technical free throw,,37,28
+1,0:29.0,J. Harden makes 2-pt jump shot from 12 ft,,39,28
+1,0:29.0,Shooting foul by T. Satoranský (drawn by J. Harden),,39,28
+1,0:29.0,J. Harden makes free throw 1 of 1,,40,28
+1,0:09.0,,Turnover by B. Beal (bad pass; steal by J. Harden),40,28
+1,0:09.0,Personal foul by J. Green (drawn by E. Gordon),,40,28
+1,0:09.0,E. Gordon makes free throw 1 of 2,,41,28
+1,0:09.0,E. Gordon makes free throw 2 of 2,,42,28
+1,0:01.0,,J. Green makes 2-pt jump shot from 14 ft (assist by T. Satoranský),42,30
+2,11:44.0,Personal foul by A. Rivers (drawn by C. Capela),,42,30
+2,11:40.0,J. Ennis misses 3-pt jump shot from 28 ft,,42,30
+2,11:34.0,Offensive rebound by G. Clark,,42,30
+2,11:32.0,Shooting foul by O. Porter (drawn by E. Gordon),,42,30
+2,11:32.0,E. Gordon makes free throw 1 of 2,,43,30
+2,11:32.0,E. Gordon misses free throw 2 of 2,,43,30
+2,11:29.0,Offensive rebound by C. Capela,,43,30
+2,11:22.0,G. Clark misses 3-pt jump shot from 23 ft,,43,30
+2,11:19.0,,Defensive rebound by M. Morris,43,30
+2,11:10.0,,Shooting foul by C. Capela (drawn by A. Rivers),43,30
+2,11:10.0,,A. Rivers makes free throw 1 of 2,43,31
+2,11:10.0,,A. Rivers makes free throw 2 of 2,43,32
+2,10:58.0,M. Carter-Williams misses 2-pt layup from 4 ft,,43,32
+2,10:56.0,,Defensive rebound by A. Rivers,43,32
+2,10:44.0,,A. Rivers misses 3-pt jump shot from 24 ft,43,32
+2,10:44.0,,Offensive rebound by Team,43,32
+2,10:44.0,Loose ball foul by M. Carter-Williams (drawn by T. Satoranský),,43,32
+2,10:41.0,,Shooting foul by E. Gordon (drawn by O. Porter),43,32
+2,10:41.0,,O. Porter makes free throw 1 of 2,43,33
+2,10:41.0,,O. Porter makes free throw 2 of 2,43,34
+2,10:27.0,Turnover by M. Carter-Williams (traveling),,43,34
+2,10:21.0,,A. Rivers makes 2-pt layup from 1 ft,43,36
+2,10:11.0,Personal foul by A. Rivers (drawn by M. Carter-Williams),,43,36
+2,10:11.0,P. Tucker enters the game for G. Clark,,43,36
+2,10:08.0,Turnover by C. Capela (lost ball; steal by M. Morris),,43,36
+2,10:01.0,,Turnover by T. Satoranský (lost ball; steal by P. Tucker),43,36
+2,9:59.0,E. Gordon misses 3-pt jump shot from 27 ft,,43,36
+2,9:56.0,,Defensive rebound by Team,43,36
+2,9:56.0,Loose ball foul by C. Capela (drawn by O. Porter),,43,36
+2,9:56.0,M. Chriss enters the game for C. Capela,,43,36
+2,9:47.0,,Personal foul by M. Chriss (drawn by M. Morris),43,36
+2,9:47.0,,M. Morris makes free throw 1 of 2,43,37
+2,9:47.0,,M. Morris makes free throw 2 of 2,43,38
+2,9:32.0,Personal foul by A. Rivers (drawn by E. Gordon),,43,38
+2,9:32.0,,J. Wall enters the game for A. Rivers,43,38
+2,9:32.0,Away from play foul by M. Morris (drawn by M. Chriss),,43,38
+2,9:32.0,E. Gordon misses free throw 1 of 1,,43,38
+2,9:32.0,Offensive rebound by Team,,43,38
+2,9:25.0,E. Gordon makes 2-pt layup from 2 ft,,45,38
+2,9:11.0,,M. Morris makes 2-pt layup from 5 ft,45,40
+2,9:04.0,Offensive foul by M. Chriss (drawn by T. Satoranský),,45,40
+2,9:04.0,Turnover by M. Chriss (offensive foul),,45,40
+2,9:04.0,C. Capela enters the game for M. Carter-Williams,,45,40
+2,9:04.0,J. Harden enters the game for M. Chriss,,45,40
+2,8:54.0,,Turnover by J. Wall (bad pass; steal by J. Ennis),45,40
+2,8:50.0,,Violation by Team (delay of game),45,40
+2,8:44.0,Shooting foul by J. Green (drawn by C. Capela),,45,40
+2,8:44.0,,Violation by Team (delay of game),45,40
+2,8:44.0,,Violation by Team (delay of game),45,40
+2,8:44.0,J. Harden makes technical free throw,,46,40
+2,8:44.0,,B. Beal enters the game for J. Green,46,40
+2,8:44.0,C. Capela misses free throw 1 of 2,,46,40
+2,8:44.0,Offensive rebound by Team,,46,40
+2,8:44.0,C. Capela makes free throw 2 of 2,,47,40
+2,8:25.0,,J. Wall makes 2-pt dunk from 1 ft (assist by T. Satoranský),47,42
+2,8:14.0,P. Tucker misses 3-pt jump shot from 22 ft,,47,42
+2,8:10.0,,Defensive rebound by M. Morris,47,42
+2,8:06.0,,O. Porter makes 3-pt jump shot from 24 ft (assist by T. Satoranský),47,45
+2,7:44.0,Shooting foul by T. Satoranský (drawn by E. Gordon),,47,45
+2,7:44.0,E. Gordon misses free throw 1 of 2,,47,45
+2,7:44.0,Offensive rebound by Team,,47,45
+2,7:44.0,,K. Oubre enters the game for T. Satoranský,47,45
+2,7:44.0,E. Gordon makes free throw 2 of 2,,48,45
+2,7:39.0,,J. Wall misses 2-pt layup from 2 ft,48,45
+2,7:35.0,Defensive rebound by C. Capela,,48,45
+2,7:23.0,J. Harden makes 2-pt layup from 1 ft,,50,45
+2,7:15.0,,O. Porter makes 2-pt layup from 1 ft (assist by J. Wall),50,47
+2,6:52.0,E. Gordon misses 3-pt jump shot from 29 ft,,50,47
+2,6:49.0,,Defensive rebound by K. Oubre,50,47
+2,6:42.0,,Personal foul by P. Tucker (drawn by J. Wall),50,47
+2,6:42.0,,Washington full timeout,50,47
+2,6:42.0,G. Clark enters the game for C. Capela,,50,47
+2,6:42.0,,J. Wall makes free throw 1 of 2,50,48
+2,6:42.0,,J. Wall makes free throw 2 of 2,50,49
+2,6:30.0,P. Tucker misses 3-pt jump shot from 24 ft,,50,49
+2,6:27.0,Offensive rebound by J. Ennis,,50,49
+2,6:27.0,J. Ennis makes 2-pt layup from 3 ft,,52,49
+2,6:27.0,Shooting foul by K. Oubre (drawn by J. Ennis),,52,49
+2,6:27.0,,Technical foul by K. Oubre,52,49
+2,6:27.0,J. Harden makes technical free throw,,53,49
+2,6:27.0,J. Ennis makes free throw 1 of 1,,54,49
+2,6:09.0,,B. Beal makes 2-pt layup from 2 ft,54,51
+2,6:03.0,Turnover by E. Gordon (bad pass),,54,51
+2,5:50.0,,K. Oubre makes 2-pt jump shot from 5 ft (assist by B. Beal),54,53
+2,5:31.0,E. Gordon makes 2-pt layup at rim,,56,53
+2,5:18.0,,J. Wall makes 2-pt layup at rim,56,55
+2,5:00.0,J. Harden makes 3-pt jump shot from 26 ft,,59,55
+2,4:40.0,,Offensive foul by K. Oubre (drawn by P. Tucker),59,55
+2,4:40.0,,Turnover by K. Oubre (offensive foul),59,55
+2,4:40.0,D. House enters the game for E. Gordon,,59,55
+2,4:40.0,,T. Satoranský enters the game for K. Oubre,59,55
+2,4:27.0,Turnover by P. Tucker (bad pass),,59,55
+2,4:13.0,,Shooting foul by P. Tucker (drawn by J. Wall),59,55
+2,4:13.0,,J. Wall makes free throw 1 of 2,59,56
+2,4:13.0,,J. Wall makes free throw 2 of 2,59,57
+2,3:55.0,Houston full timeout,,59,57
+2,3:54.0,Turnover by J. Harden (out of bounds lost ball),,59,57
+2,3:39.0,,O. Porter misses 3-pt jump shot from 24 ft,59,57
+2,3:35.0,Defensive rebound by G. Clark,,59,57
+2,3:26.0,J. Harden misses 2-pt layup from 2 ft,,59,57
+2,3:24.0,,Defensive rebound by M. Morris,59,57
+2,3:23.0,,J. Wall makes 2-pt layup from 1 ft (assist by M. Morris),59,59
+2,3:23.0,,Personal foul by J. Ennis (drawn by J. Wall),59,59
+2,3:23.0,C. Capela enters the game for G. Clark,,59,59
+2,3:23.0,E. Gordon enters the game for D. House,,59,59
+2,3:23.0,,J. Wall misses free throw 1 of 1,59,59
+2,3:23.0,Defensive rebound by C. Capela,,59,59
+2,3:06.0,J. Harden misses 3-pt jump shot from 25 ft,,59,59
+2,3:06.0,,Defensive rebound by T. Satoranský,59,59
+2,2:59.0,,B. Beal misses 3-pt jump shot from 27 ft,59,59
+2,2:55.0,Defensive rebound by J. Harden,,59,59
+2,2:48.0,P. Tucker misses 3-pt jump shot from 23 ft,,59,59
+2,2:46.0,,Defensive rebound by T. Satoranský,59,59
+2,2:43.0,,J. Wall misses 3-pt jump shot from 26 ft,59,59
+2,2:39.0,,Offensive rebound by O. Porter,59,59
+2,2:38.0,,O. Porter makes 2-pt layup from 2 ft,59,61
+2,2:29.0,E. Gordon makes 2-pt layup from 1 ft (assist by C. Capela),,61,61
+2,2:06.0,,M. Morris makes 2-pt dunk from 1 ft (assist by B. Beal),61,63
+2,1:44.0,J. Ennis misses 3-pt jump shot from 27 ft,,61,63
+2,1:39.0,,Defensive rebound by J. Wall,61,63
+2,1:35.0,,T. Satoranský makes 2-pt layup at rim (assist by J. Wall),61,65
+2,1:14.0,E. Gordon misses 3-pt jump shot from 27 ft,,61,65
+2,1:09.0,,Defensive rebound by O. Porter,61,65
+2,1:00.0,,O. Porter makes 2-pt jump shot from 16 ft (assist by T. Satoranský),61,67
+2,0:49.0,J. Harden makes 2-pt layup from 1 ft,,63,67
+2,0:33.0,,M. Morris misses 2-pt jump shot from 7 ft (block by C. Capela),63,67
+2,0:28.0,,Offensive rebound by M. Morris,63,67
+2,0:27.0,,O. Porter misses 3-pt jump shot from 25 ft,63,67
+2,0:24.0,Defensive rebound by C. Capela,,63,67
+2,0:07.0,J. Harden makes 2-pt layup at rim,,65,67
+3,11:43.0,J. Harden makes 2-pt jump shot from 13 ft (assist by C. Capela),,67,67
+3,11:43.0,Shooting foul by J. Wall (drawn by J. Harden),,67,67
+3,11:43.0,J. Harden makes free throw 1 of 1,,68,67
+3,11:26.0,,K. Oubre misses 2-pt jump shot from 3 ft,68,67
+3,11:24.0,,Offensive rebound by T. Bryant,68,67
+3,11:23.0,,T. Bryant makes 2-pt dunk at rim,68,69
+3,11:13.0,J. Ennis misses 2-pt layup from 4 ft (block by B. Beal),,68,69
+3,11:11.0,,Defensive rebound by K. Oubre,68,69
+3,11:11.0,,Technical foul by B. Beal,68,69
+3,11:11.0,J. Harden makes technical free throw,,69,69
+3,10:59.0,,J. Wall makes 3-pt jump shot from 26 ft (assist by O. Porter),69,72
+3,10:42.0,J. Ennis misses 3-pt jump shot from 28 ft,,69,72
+3,10:38.0,Offensive rebound by P. Tucker,,69,72
+3,10:36.0,E. Gordon makes 3-pt jump shot from 27 ft (assist by P. Tucker),,72,72
+3,10:17.0,,B. Beal makes 2-pt layup from 1 ft,72,74
+3,9:55.0,Turnover by J. Harden (bad pass; steal by T. Bryant),,72,74
+3,9:50.0,,J. Wall makes 2-pt layup from 1 ft,72,76
+3,9:38.0,E. Gordon makes 3-pt jump shot from 27 ft (assist by J. Harden),,75,76
+3,9:17.0,,B. Beal makes 3-pt jump shot from 23 ft (assist by J. Wall),75,79
+3,9:00.0,E. Gordon misses 3-pt jump shot from 27 ft,,75,79
+3,8:55.0,,Defensive rebound by O. Porter,75,79
+3,8:41.0,,J. Wall makes 2-pt jump shot from 19 ft,75,81
+3,8:27.0,J. Harden misses 2-pt layup from 3 ft,,75,81
+3,8:24.0,,Defensive rebound by O. Porter,75,81
+3,8:20.0,Technical foul by J. Harden,,75,81
+3,8:20.0,,B. Beal misses technical free throw,75,81
+3,8:20.0,,Offensive rebound by Team,75,81
+3,8:16.0,,Personal foul by E. Gordon (drawn by T. Bryant),75,81
+3,8:16.0,,J. Wall misses 2-pt jump shot from 15 ft,75,81
+3,8:04.0,Defensive rebound by J. Ennis,,75,81
+3,7:50.0,J. Harden makes 2-pt layup from 2 ft,,77,81
+3,7:35.0,,B. Beal makes 2-pt layup from 1 ft (assist by J. Wall),77,83
+3,7:24.0,C. Capela makes 2-pt layup from 1 ft (assist by E. Gordon),,79,83
+3,7:10.0,,B. Beal misses 3-pt jump shot from 22 ft,79,83
+3,7:03.0,Defensive rebound by J. Harden,,79,83
+3,7:01.0,J. Harden misses 2-pt layup from 3 ft,,79,83
+3,6:56.0,Offensive rebound by C. Capela,,79,83
+3,6:56.0,C. Capela makes 2-pt layup from 1 ft,,81,83
+3,6:45.0,,J. Wall misses 2-pt layup from 1 ft,81,83
+3,6:42.0,Defensive rebound by J. Harden,,81,83
+3,6:33.0,E. Gordon misses 3-pt jump shot from 28 ft,,81,83
+3,6:31.0,Offensive rebound by J. Ennis,,81,83
+3,6:31.0,Offensive foul by J. Ennis (drawn by K. Oubre),,81,83
+3,6:31.0,Turnover by J. Ennis (offensive foul),,81,83
+3,6:31.0,,Washington full timeout,81,83
+3,6:31.0,I. Hartenstein enters the game for C. Capela,,81,83
+3,6:31.0,D. House enters the game for J. Ennis,,81,83
+3,6:22.0,,Turnover by J. Wall (bad pass; steal by J. Harden),81,83
+3,6:16.0,J. Harden makes 2-pt layup from 1 ft,,83,83
+3,6:01.0,,B. Beal makes 2-pt jump shot from 15 ft,83,85
+3,5:42.0,E. Gordon misses 2-pt layup from 5 ft (block by T. Bryant),,83,85
+3,5:39.0,,Defensive rebound by T. Bryant,83,85
+3,5:32.0,,B. Beal misses 3-pt jump shot from 22 ft,83,85
+3,5:29.0,Defensive rebound by J. Harden,,83,85
+3,5:25.0,Shooting foul by B. Beal (drawn by D. House),,83,85
+3,5:25.0,D. House makes free throw 1 of 2,,84,85
+3,5:25.0,,M. Morris enters the game for T. Bryant,84,85
+3,5:25.0,D. House makes free throw 2 of 2,,85,85
+3,5:09.0,,J. Wall misses 2-pt layup from 2 ft,85,85
+3,5:02.0,,Offensive rebound by M. Morris,85,85
+3,5:02.0,,M. Morris makes 2-pt layup at rim,85,87
+3,4:53.0,Offensive foul by D. House (drawn by O. Porter),,85,87
+3,4:53.0,Turnover by D. House (offensive foul),,85,87
+3,4:45.0,,Personal foul by I. Hartenstein (drawn by M. Morris),85,87
+3,4:29.0,,K. Oubre misses 3-pt jump shot from 24 ft,85,87
+3,4:27.0,Defensive rebound by D. House,,85,87
+3,4:17.0,J. Harden misses 3-pt jump shot from 26 ft,,85,87
+3,4:10.0,Offensive rebound by D. House,,85,87
+3,4:10.0,D. House misses 2-pt layup from 1 ft,,85,87
+3,4:09.0,,Defensive rebound by M. Morris,85,87
+3,4:04.0,,Offensive foul by M. Morris (drawn by I. Hartenstein),85,87
+3,4:04.0,,Turnover by M. Morris (offensive foul),85,87
+3,4:04.0,,J. Green enters the game for K. Oubre,85,87
+3,3:53.0,Personal foul by O. Porter (drawn by D. House),,85,87
+3,3:53.0,G. Clark enters the game for E. Gordon,,85,87
+3,3:53.0,,A. Rivers enters the game for O. Porter,85,87
+3,3:42.0,G. Clark misses 3-pt jump shot from 26 ft,,85,87
+3,3:38.0,,Defensive rebound by J. Green,85,87
+3,3:32.0,,Turnover by J. Wall (bad pass; steal by P. Tucker),85,87
+3,3:18.0,J. Harden makes 3-pt jump shot from 26 ft,,88,87
+3,2:53.0,,M. Morris misses 2-pt jump shot from 16 ft,88,87
+3,2:49.0,Defensive rebound by G. Clark,,88,87
+3,2:46.0,Shooting foul by J. Green (drawn by J. Harden),,88,87
+3,2:46.0,Houston full timeout,,88,87
+3,2:46.0,,T. Satoranský enters the game for J. Wall,88,87
+3,2:46.0,J. Harden makes free throw 1 of 2,,89,87
+3,2:46.0,J. Harden makes free throw 2 of 2,,90,87
+3,2:26.0,,A. Rivers misses 2-pt layup from 7 ft,90,87
+3,2:20.0,,Offensive rebound by A. Rivers,90,87
+3,2:19.0,,Turnover by A. Rivers (bad pass),90,87
+3,1:55.0,Shooting foul by B. Beal (drawn by J. Harden),,90,87
+3,1:55.0,J. Harden misses free throw 1 of 3,,90,87
+3,1:55.0,Offensive rebound by Team,,90,87
+3,1:55.0,J. Harden makes free throw 2 of 3,,91,87
+3,1:55.0,J. Harden makes free throw 3 of 3,,92,87
+3,1:33.0,,A. Rivers misses 3-pt jump shot from 23 ft,92,87
+3,1:29.0,Defensive rebound by P. Tucker,,92,87
+3,1:23.0,J. Harden makes 3-pt jump shot from 28 ft,,95,87
+3,1:03.0,,B. Beal makes 2-pt jump shot from 10 ft,95,89
+3,0:39.0,J. Harden makes 3-pt jump shot from 28 ft,,98,89
+3,0:33.0,,B. Beal makes 3-pt jump shot from 25 ft,98,92
+3,0:29.0,J. Harden misses 3-pt jump shot from 31 ft,,98,92
+3,0:25.0,,Defensive rebound by A. Rivers,98,92
+3,0:06.0,,Shooting foul by I. Hartenstein (drawn by T. Satoranský),98,92
+3,0:06.0,,T. Satoranský makes free throw 1 of 2,98,93
+3,0:06.0,E. Gordon enters the game for G. Clark,,98,93
+3,0:06.0,,O. Porter enters the game for B. Beal,98,93
+3,0:06.0,,T. Satoranský makes free throw 2 of 2,98,94
+4,11:36.0,,B. Beal misses 3-pt jump shot from 27 ft,98,94
+4,11:30.0,,Offensive rebound by M. Morris,98,94
+4,11:29.0,,M. Morris makes 2-pt dunk at rim,98,96
+4,11:09.0,C. Capela makes 2-pt hook shot from 8 ft (assist by J. Ennis),,100,96
+4,10:54.0,,Shooting foul by G. Clark (drawn by J. Green),100,96
+4,10:54.0,,J. Green makes free throw 1 of 2,100,97
+4,10:54.0,,J. Green makes free throw 2 of 2,100,98
+4,10:31.0,J. Ennis misses 3-pt jump shot from 25 ft,,100,98
+4,10:30.0,,Defensive rebound by Team,100,98
+4,10:30.0,Loose ball foul by C. Capela (drawn by M. Morris),,100,98
+4,10:13.0,,M. Morris makes 3-pt jump shot from 26 ft (assist by B. Beal),100,101
+4,9:58.0,Personal foul by A. Rivers (drawn by C. Capela),,100,101
+4,9:51.0,E. Gordon makes 3-pt jump shot from 28 ft,,103,101
+4,9:38.0,,B. Beal misses 2-pt jump shot from 14 ft,103,101
+4,9:33.0,Defensive rebound by G. Clark,,103,101
+4,9:26.0,E. Gordon misses 2-pt layup from 9 ft,,103,101
+4,9:23.0,,Defensive rebound by A. Rivers,103,101
+4,9:17.0,,A. Rivers makes 2-pt layup from 1 ft,103,103
+4,9:17.0,,Shooting foul by J. Ennis (drawn by A. Rivers),103,103
+4,9:17.0,J. Harden enters the game for D. House,,103,103
+4,9:17.0,,A. Rivers misses free throw 1 of 1,103,103
+4,9:17.0,Defensive rebound by C. Capela,,103,103
+4,8:56.0,C. Capela misses 2-pt hook shot from 14 ft,,103,103
+4,8:53.0,,Defensive rebound by J. Green,103,103
+4,8:42.0,,T. Satoranský misses 2-pt layup from 4 ft (block by C. Capela),103,103
+4,8:42.0,Defensive rebound by Team,,103,103
+4,8:18.0,J. Harden makes 2-pt layup from 1 ft,,105,103
+4,7:56.0,,J. Green makes 3-pt jump shot from 23 ft (assist by B. Beal),105,106
+4,7:45.0,Personal foul by T. Satoranský (drawn by J. Harden),,105,106
+4,7:45.0,,J. Wall enters the game for T. Satoranský,105,106
+4,7:33.0,J. Harden misses 3-pt jump shot from 28 ft,,105,106
+4,7:29.0,,Defensive rebound by M. Morris,105,106
+4,7:27.0,,Personal foul by J. Ennis (drawn by J. Wall),105,106
+4,7:27.0,D. House enters the game for G. Clark,,105,106
+4,7:27.0,P. Tucker enters the game for J. Ennis,,105,106
+4,7:12.0,,J. Green misses 3-pt jump shot from 23 ft,105,106
+4,7:07.0,Defensive rebound by P. Tucker,,105,106
+4,7:03.0,Personal foul by J. Wall (drawn by C. Capela),,105,106
+4,6:50.0,E. Gordon makes 3-pt jump shot from 26 ft (assist by D. House),,108,106
+4,6:36.0,,Personal foul by D. House (drawn by M. Morris),108,106
+4,6:36.0,,Washington full timeout,108,106
+4,6:36.0,,M. Morris misses free throw 1 of 2,108,106
+4,6:36.0,,Offensive rebound by Team,108,106
+4,6:36.0,,M. Morris makes free throw 2 of 2,108,107
+4,6:19.0,C. Capela makes 2-pt layup from 1 ft (assist by E. Gordon),,110,107
+4,6:11.0,,J. Wall makes 2-pt layup from 1 ft,110,109
+4,5:50.0,P. Tucker makes 2-pt layup from 2 ft (assist by J. Harden),,112,109
+4,5:30.0,,J. Wall makes 3-pt jump shot from 26 ft (assist by A. Rivers),112,112
+4,5:00.0,J. Harden misses 2-pt layup from 12 ft,,112,112
+4,4:55.0,Offensive rebound by D. House,,112,112
+4,4:55.0,C. Capela misses 2-pt layup from 1 ft,,112,112
+4,4:55.0,Offensive rebound by C. Capela,,112,112
+4,4:51.0,Personal foul by M. Morris (drawn by J. Harden),,112,112
+4,4:51.0,,O. Porter enters the game for A. Rivers,112,112
+4,4:42.0,E. Gordon makes 3-pt jump shot from 27 ft (assist by J. Harden),,115,112
+4,4:15.0,,J. Green makes 2-pt hook shot from 9 ft (assist by J. Wall),115,114
+4,3:57.0,C. Capela misses 2-pt layup from 3 ft,,115,114
+4,3:52.0,Offensive rebound by C. Capela,,115,114
+4,3:52.0,C. Capela makes 2-pt layup from 1 ft,,117,114
+4,3:44.0,,M. Morris makes 3-pt jump shot from 26 ft (assist by J. Green),117,117
+4,3:42.0,Houston full timeout,,117,117
+4,3:20.0,J. Harden makes 3-pt jump shot from 26 ft,,120,117
+4,3:20.0,Shooting foul by J. Green (drawn by J. Harden),,120,117
+4,3:20.0,J. Ennis enters the game for D. House,,120,117
+4,3:20.0,J. Harden makes free throw 1 of 1,,121,117
+4,3:10.0,,B. Beal makes 2-pt jump shot from 16 ft (assist by J. Wall),121,119
+4,2:45.0,J. Harden misses 3-pt jump shot from 29 ft,,121,119
+4,2:41.0,,Defensive rebound by J. Wall,121,119
+4,2:34.0,,J. Green makes 2-pt layup from 1 ft (assist by J. Wall),121,121
+4,2:30.0,Houston full timeout,,121,121
+4,2:30.0,D. House enters the game for J. Ennis,,121,121
+4,2:05.0,J. Harden misses 2-pt layup from 4 ft,,121,121
+4,2:04.0,Offensive rebound by P. Tucker,,121,121
+4,2:03.0,P. Tucker misses 2-pt layup from 2 ft,,121,121
+4,2:01.0,,Defensive rebound by O. Porter,121,121
+4,1:53.0,,Turnover by B. Beal (bad pass; steal by P. Tucker),121,121
+4,1:49.0,D. House makes 2-pt dunk at rim (assist by J. Harden),,123,121
+4,1:27.0,,J. Wall misses 3-pt jump shot from 27 ft,123,121
+4,1:24.0,,Offensive rebound by M. Morris,123,121
+4,1:23.0,,B. Beal makes 3-pt jump shot from 27 ft (assist by J. Green),123,124
+4,1:00.0,J. Harden misses 3-pt jump shot from 26 ft,,123,124
+4,0:59.0,Offensive rebound by Team,,123,124
+4,0:59.0,Turnover by Team (shot clock),,123,124
+4,0:44.0,,O. Porter misses 3-pt jump shot from 26 ft,123,124
+4,0:40.0,Defensive rebound by Team,,123,124
+4,0:29.0,Turnover by J. Harden (lost ball; steal by M. Morris),,123,124
+4,0:24.0,,J. Wall misses 2-pt layup from 2 ft,123,124
+4,0:22.0,Defensive rebound by P. Tucker,,123,124
+4,0:19.0,Turnover by J. Harden (lost ball; steal by O. Porter),,123,124
+4,0:19.0,,Personal foul by P. Tucker (drawn by O. Porter),123,124
+4,0:19.0,,O. Porter misses free throw 1 of 2,123,124
+4,0:19.0,,Offensive rebound by Team,123,124
+4,0:19.0,,O. Porter makes free throw 2 of 2,123,125
+4,0:09.0,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),,125,125
+4,0:09.0,,Washington full timeout,125,125
+4,0:03.0,,J. Wall misses 2-pt jump shot from 6 ft (block by P. Tucker),125,125
+4,0:02.0,Defensive rebound by P. Tucker,,125,125
+4,0:01.0,Houston full timeout,,125,125
+4,0:01.0,G. Clark enters the game for C. Capela,,125,125
+4,0:00.0,E. Gordon misses 3-pt jump shot from 24 ft (block by J. Wall),,125,125
+4,0:00.0,Offensive rebound by Team,,125,125
+1OT,4:37.0,,O. Porter makes 2-pt hook shot from 7 ft (assist by J. Wall),125,127
+1OT,4:12.0,P. Tucker misses 3-pt jump shot from 24 ft,,125,127
+1OT,4:05.0,,Defensive rebound by J. Wall,125,127
+1OT,3:49.0,,J. Wall makes 2-pt jump shot from 16 ft,125,129
+1OT,3:27.0,Turnover by J. Harden (bad pass),,125,129
+1OT,3:14.0,,O. Porter misses 2-pt jump shot from 18 ft,125,129
+1OT,3:09.0,Defensive rebound by P. Tucker,,125,129
+1OT,3:05.0,Personal foul by B. Beal (drawn by J. Harden),,125,129
+1OT,2:56.0,D. House misses 3-pt jump shot from 26 ft,,125,129
+1OT,2:52.0,Offensive rebound by P. Tucker,,125,129
+1OT,2:42.0,Shooting foul by J. Wall (drawn by J. Harden),,125,129
+1OT,2:42.0,J. Harden makes free throw 1 of 2,,126,129
+1OT,2:42.0,J. Harden misses free throw 2 of 2,,126,129
+1OT,2:39.0,,Defensive rebound by O. Porter,126,129
+1OT,2:18.0,,J. Wall makes 2-pt jump shot from 21 ft (assist by J. Green),126,131
+1OT,1:52.0,Turnover by J. Harden (bad pass; steal by O. Porter),,126,131
+1OT,1:50.0,,B. Beal makes 2-pt dunk from 1 ft (assist by O. Porter),126,133
+1OT,1:50.0,Houston full timeout,,126,133
+1OT,1:35.0,J. Harden makes 3-pt jump shot from 25 ft,,129,133
+1OT,1:13.0,,Turnover by J. Green (traveling),129,133
+1OT,1:03.0,Offensive foul by J. Harden (drawn by J. Wall),,129,133
+1OT,1:03.0,Turnover by J. Harden (offensive foul),,129,133
+1OT,0:41.0,,J. Wall misses 2-pt jump shot from 16 ft,129,133
+1OT,0:37.0,Defensive rebound by E. Gordon,,129,133
+1OT,0:31.0,E. Gordon misses 3-pt jump shot from 27 ft,,129,133
+1OT,0:27.0,Offensive rebound by C. Capela,,129,133
+1OT,0:19.0,J. Harden misses 3-pt jump shot from 26 ft,,129,133
+1OT,0:15.0,Offensive rebound by J. Harden,,129,133
+1OT,0:15.0,Offensive foul by P. Tucker (drawn by J. Green),,129,133
+1OT,0:15.0,Turnover by P. Tucker (offensive foul),,129,133
+1OT,0:15.0,,Washington full timeout,129,133
+1OT,0:15.0,,T. Satoranský enters the game for J. Green,129,133
+1OT,0:13.0,,Personal foul by C. Capela (drawn by M. Morris),129,133
+1OT,0:10.0,,Personal foul by J. Harden (drawn by J. Wall),129,133
+1OT,0:10.0,,J. Wall misses free throw 1 of 2,129,133
+1OT,0:10.0,,Offensive rebound by Team,129,133
+1OT,0:10.0,,J. Green enters the game for T. Satoranský,129,133
+1OT,0:10.0,,J. Wall makes free throw 2 of 2,129,134
+1OT,0:10.0,Houston full timeout,,129,134
+1OT,0:06.0,E. Gordon misses 3-pt jump shot from 23 ft,,129,134
+1OT,0:01.0,Offensive rebound by C. Capela,,129,134
+1OT,0:01.0,C. Capela makes 2-pt layup from 1 ft,,131,134
+1OT,0:01.0,,Washington full timeout,131,134
+1OT,0:01.0,,Personal foul by P. Tucker (drawn by J. Wall),131,134
+1OT,0:01.0,,J. Wall makes free throw 1 of 2,131,135
+1OT,0:01.0,,J. Wall misses free throw 2 of 2,131,135
+1OT,0:00.0,Defensive rebound by J. Harden,,131,135

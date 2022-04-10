@@ -1,0 +1,475 @@
+QUARTER,TIME_REMAINING,MILWAUKEE_ACTION,TORONTO_ACTION,MILWAUKEE_SCORE,TORONTO_SCORE
+1,11:40.0,,Turnover by K. Lowry (bad pass),0,0
+1,11:24.0,K. Middleton misses 3-pt jump shot from 25 ft,,0,0
+1,11:22.0,,Defensive rebound by P. Siakam,0,0
+1,11:12.0,,Turnover by P. Siakam (lost ball; steal by G. Antetokounmpo),0,0
+1,11:07.0,G. Antetokounmpo makes 2-pt layup from 1 ft,,2,0
+1,10:51.0,,M. Gasol misses 3-pt jump shot from 25 ft,2,0
+1,10:48.0,Defensive rebound by G. Antetokounmpo,,2,0
+1,10:42.0,N. Mirotić makes 3-pt jump shot from 29 ft (assist by G. Antetokounmpo),,5,0
+1,10:25.0,,D. Green makes 2-pt layup from 1 ft (assist by M. Gasol),5,2
+1,10:17.0,G. Antetokounmpo misses 3-pt jump shot from 26 ft,,5,2
+1,10:13.0,Offensive rebound by K. Middleton,,5,2
+1,10:05.0,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by N. Mirotić),,7,2
+1,9:55.0,,Personal foul by N. Mirotić (drawn by M. Gasol),7,2
+1,9:46.0,,K. Lowry makes 3-pt jump shot from 27 ft (assist by M. Gasol),7,5
+1,9:33.0,B. Lopez makes 3-pt jump shot from 24 ft (assist by K. Middleton),,10,5
+1,9:18.0,,M. Gasol misses 2-pt jump shot from 8 ft,10,5
+1,9:16.0,Defensive rebound by E. Bledsoe,,10,5
+1,9:10.0,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by K. Middleton),,12,5
+1,9:09.0,,Toronto full timeout,12,5
+1,9:09.0,G. Hill enters the game for E. Bledsoe,,12,5
+1,8:50.0,,K. Lowry makes 3-pt jump shot from 23 ft (assist by M. Gasol),12,8
+1,8:38.0,Turnover by B. Lopez (step out of bounds),,12,8
+1,8:32.0,,Shooting foul by B. Lopez (drawn by K. Lowry),12,8
+1,8:32.0,,K. Lowry makes free throw 1 of 2,12,9
+1,8:32.0,,K. Lowry makes free throw 2 of 2,12,10
+1,8:08.0,G. Hill makes 3-pt jump shot from 24 ft (assist by G. Antetokounmpo),,15,10
+1,7:58.0,,M. Gasol makes 3-pt jump shot from 25 ft (assist by K. Lowry),15,13
+1,7:49.0,Personal foul by D. Green (drawn by G. Antetokounmpo),,15,13
+1,7:49.0,E. İlyasova enters the game for B. Lopez,,15,13
+1,7:47.0,Turnover by N. Mirotić (bad pass; steal by D. Green),,15,13
+1,7:43.0,,K. Lowry makes 2-pt layup from 1 ft (assist by D. Green),15,15
+1,7:26.0,N. Mirotić makes 2-pt jump shot from 15 ft,,17,15
+1,7:09.0,,K. Lowry makes 2-pt jump shot from 18 ft,17,17
+1,6:56.0,K. Middleton makes 2-pt jump shot from 15 ft (assist by E. İlyasova),,19,17
+1,6:34.0,,K. Lowry misses 3-pt jump shot from 26 ft,19,17
+1,6:34.0,Defensive rebound by G. Antetokounmpo,,19,17
+1,6:25.0,G. Antetokounmpo makes 2-pt layup from 1 ft,,21,17
+1,6:10.0,,K. Leonard makes 2-pt jump shot from 15 ft,21,19
+1,5:56.0,G. Antetokounmpo misses 2-pt jump shot from 4 ft (block by K. Leonard),,21,19
+1,5:51.0,Offensive rebound by G. Antetokounmpo,,21,19
+1,5:46.0,G. Antetokounmpo misses 2-pt jump shot from 20 ft,,21,19
+1,5:45.0,Offensive rebound by E. İlyasova,,21,19
+1,5:45.0,Shooting foul by P. Siakam (drawn by E. İlyasova),,21,19
+1,5:45.0,E. İlyasova makes free throw 1 of 2,,22,19
+1,5:45.0,E. Bledsoe enters the game for G. Antetokounmpo,,22,19
+1,5:45.0,M. Brogdon enters the game for K. Middleton,,22,19
+1,5:45.0,B. Lopez enters the game for N. Mirotić,,22,19
+1,5:45.0,,S. Ibaka enters the game for D. Green,22,19
+1,5:45.0,,N. Powell enters the game for K. Leonard,22,19
+1,5:45.0,E. İlyasova misses free throw 2 of 2,,22,19
+1,5:42.0,,Defensive rebound by P. Siakam,22,19
+1,5:30.0,,M. Gasol makes 3-pt jump shot from 26 ft (assist by P. Siakam),22,22
+1,5:04.0,E. Bledsoe makes 2-pt jump shot from 4 ft (assist by B. Lopez),,24,22
+1,4:46.0,,Shooting foul by E. İlyasova (drawn by S. Ibaka),24,22
+1,4:46.0,,S. Ibaka makes free throw 1 of 2,24,23
+1,4:46.0,,S. Ibaka makes free throw 2 of 2,24,24
+1,4:39.0,Personal foul by N. Powell (drawn by E. Bledsoe),,24,24
+1,4:25.0,E. İlyasova misses 3-pt jump shot from 26 ft,,24,24
+1,4:20.0,,Defensive rebound by M. Gasol,24,24
+1,4:10.0,,M. Gasol misses 3-pt jump shot from 25 ft,24,24
+1,4:06.0,,Offensive rebound by P. Siakam,24,24
+1,4:05.0,,Turnover by P. Siakam (bad pass; steal by E. İlyasova),24,24
+1,3:59.0,E. Bledsoe misses 2-pt layup from 1 ft,,24,24
+1,3:57.0,,Defensive rebound by K. Lowry,24,24
+1,3:49.0,,S. Ibaka misses 2-pt hook shot from 5 ft,24,24
+1,3:47.0,Defensive rebound by B. Lopez,,24,24
+1,3:39.0,B. Lopez makes 3-pt jump shot from 26 ft (assist by E. Bledsoe),,27,24
+1,3:15.0,,S. Ibaka misses 3-pt jump shot from 26 ft,27,24
+1,3:12.0,Defensive rebound by G. Hill,,27,24
+1,3:07.0,M. Brogdon misses 3-pt jump shot from 28 ft,,27,24
+1,3:04.0,,Defensive rebound by S. Ibaka,27,24
+1,2:57.0,,Personal foul by M. Brogdon (drawn by K. Lowry),27,24
+1,2:57.0,Milwaukee full timeout,,27,24
+1,2:57.0,G. Antetokounmpo enters the game for G. Hill,,27,24
+1,2:57.0,K. Middleton enters the game for E. İlyasova,,27,24
+1,2:57.0,,K. Leonard enters the game for M. Gasol,27,24
+1,2:57.0,,F. VanVleet enters the game for K. Lowry,27,24
+1,2:49.0,,F. VanVleet makes 3-pt jump shot from 26 ft (assist by P. Siakam),27,27
+1,2:24.0,E. Bledsoe misses 3-pt jump shot from 26 ft,,27,27
+1,2:22.0,,Defensive rebound by N. Powell,27,27
+1,2:14.0,,K. Leonard misses 2-pt jump shot from 7 ft,27,27
+1,2:12.0,,Offensive rebound by S. Ibaka,27,27
+1,2:07.0,,N. Powell misses 2-pt layup from 2 ft (block by G. Antetokounmpo),27,27
+1,2:07.0,,Offensive rebound by Team,27,27
+1,2:07.0,P. Connaughton enters the game for E. Bledsoe,,27,27
+1,2:07.0,N. Mirotić enters the game for B. Lopez,,27,27
+1,2:07.0,,D. Green enters the game for P. Siakam,27,27
+1,2:02.0,,K. Leonard misses 2-pt jump shot from 20 ft,27,27
+1,1:59.0,Defensive rebound by G. Antetokounmpo,,27,27
+1,1:57.0,Shooting foul by K. Leonard (drawn by G. Antetokounmpo),,27,27
+1,1:57.0,G. Antetokounmpo misses free throw 1 of 2,,27,27
+1,1:57.0,Offensive rebound by Team,,27,27
+1,1:57.0,G. Antetokounmpo makes free throw 2 of 2,,28,27
+1,1:43.0,,Personal foul by K. Middleton (drawn by N. Powell),28,27
+1,1:43.0,,N. Powell misses free throw 1 of 2,28,27
+1,1:43.0,,Offensive rebound by Team,28,27
+1,1:43.0,,N. Powell makes free throw 2 of 2,28,28
+1,1:28.0,Turnover by P. Connaughton (lost ball; steal by S. Ibaka),,28,28
+1,1:23.0,,K. Leonard misses 3-pt jump shot from 26 ft,28,28
+1,1:21.0,Defensive rebound by K. Middleton,,28,28
+1,1:11.0,Def 3 sec tech foul by Team,,28,28
+1,1:11.0,K. Middleton makes technical free throw,,29,28
+1,1:06.0,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by P. Connaughton),,31,28
+1,0:54.0,,N. Powell makes 3-pt jump shot from 27 ft (assist by S. Ibaka),31,31
+1,0:40.0,M. Brogdon misses 2-pt layup from 2 ft,,31,31
+1,0:39.0,,Defensive rebound by K. Leonard,31,31
+1,0:33.0,,D. Green misses 3-pt jump shot from 23 ft,31,31
+1,0:30.0,,Offensive rebound by K. Leonard,31,31
+1,0:24.0,,Personal foul by M. Brogdon (drawn by K. Leonard),31,31
+1,0:24.0,,K. Leonard makes free throw 1 of 2,31,32
+1,0:24.0,G. Hill enters the game for M. Brogdon,,31,32
+1,0:24.0,,K. Leonard misses free throw 2 of 2,31,32
+1,0:22.0,Defensive rebound by G. Antetokounmpo,,31,32
+1,0:02.0,N. Mirotić misses 3-pt jump shot from 31 ft,,31,32
+1,0:02.0,Offensive rebound by Team,,31,32
+2,11:43.0,Turnover by G. Antetokounmpo (bad pass; steal by K. Leonard),,31,32
+2,11:27.0,,N. Powell misses 3-pt jump shot from 24 ft (block by P. Connaughton),31,32
+2,11:27.0,,Offensive rebound by Team,31,32
+2,11:19.0,,D. Green misses 3-pt jump shot from 25 ft,31,32
+2,11:15.0,,Offensive rebound by S. Ibaka,31,32
+2,11:14.0,,S. Ibaka makes 2-pt hook shot from 1 ft,31,34
+2,11:02.0,G. Antetokounmpo misses 2-pt jump shot from 8 ft,,31,34
+2,11:00.0,,Defensive rebound by S. Ibaka,31,34
+2,10:53.0,,D. Green makes 2-pt layup from 1 ft (assist by F. VanVleet),31,36
+2,10:53.0,Violation by Team (def goaltending),,31,36
+2,10:31.0,G. Hill misses 3-pt jump shot from 24 ft,,31,36
+2,10:29.0,,Defensive rebound by F. VanVleet,31,36
+2,10:27.0,,N. Powell makes 2-pt layup from 2 ft (assist by F. VanVleet),31,38
+2,10:27.0,,Shooting foul by N. Mirotić (drawn by N. Powell),31,38
+2,10:27.0,,N. Powell makes free throw 1 of 1,31,39
+2,10:18.0,N. Mirotić misses 3-pt jump shot from 28 ft,,31,39
+2,10:15.0,,Defensive rebound by S. Ibaka,31,39
+2,10:03.0,,N. Powell misses 3-pt jump shot from 23 ft,31,39
+2,10:00.0,,Offensive rebound by D. Green,31,39
+2,9:58.0,,D. Green misses 2-pt layup from 3 ft (block by G. Antetokounmpo),31,39
+2,9:58.0,,Offensive rebound by S. Ibaka,31,39
+2,9:56.0,,S. Ibaka makes 2-pt dunk from 1 ft,31,41
+2,9:56.0,Milwaukee full timeout,,31,41
+2,9:56.0,M. Brogdon enters the game for P. Connaughton,,31,41
+2,9:56.0,B. Lopez enters the game for N. Mirotić,,31,41
+2,9:41.0,K. Middleton makes 2-pt jump shot from 10 ft,,33,41
+2,9:21.0,,S. Ibaka misses 3-pt jump shot from 28 ft,33,41
+2,9:17.0,Defensive rebound by M. Brogdon,,33,41
+2,9:11.0,M. Brogdon misses 2-pt jump shot from 4 ft,,33,41
+2,9:09.0,,Defensive rebound by S. Ibaka,33,41
+2,8:52.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by K. Leonard),33,43
+2,8:43.0,Personal foul by D. Green (drawn by K. Middleton),,33,43
+2,8:43.0,,K. Lowry enters the game for D. Green,33,43
+2,8:29.0,K. Middleton makes 3-pt jump shot from 24 ft (assist by G. Antetokounmpo),,36,43
+2,8:09.0,,S. Ibaka makes 2-pt jump shot from 17 ft (assist by F. VanVleet),36,45
+2,7:52.0,B. Lopez misses 3-pt jump shot from 25 ft,,36,45
+2,7:49.0,,Defensive rebound by K. Lowry,36,45
+2,7:43.0,,N. Powell misses 3-pt jump shot from 25 ft,36,45
+2,7:41.0,Defensive rebound by M. Brogdon,,36,45
+2,7:38.0,Shooting foul by K. Lowry (drawn by G. Antetokounmpo),,36,45
+2,7:38.0,G. Antetokounmpo misses free throw 1 of 2,,36,45
+2,7:38.0,Offensive rebound by Team,,36,45
+2,7:38.0,E. Bledsoe enters the game for G. Hill,,36,45
+2,7:38.0,E. İlyasova enters the game for B. Lopez,,36,45
+2,7:38.0,,M. Gasol enters the game for S. Ibaka,36,45
+2,7:38.0,G. Antetokounmpo makes free throw 2 of 2,,37,45
+2,7:28.0,,Personal foul by E. İlyasova (drawn by M. Gasol),37,45
+2,7:28.0,B. Lopez enters the game for G. Antetokounmpo,,37,45
+2,7:28.0,,P. Siakam enters the game for N. Powell,37,45
+2,7:17.0,,K. Lowry misses 3-pt jump shot from 28 ft,37,45
+2,7:14.0,Defensive rebound by K. Middleton,,37,45
+2,7:08.0,K. Middleton makes 3-pt jump shot from 26 ft (assist by M. Brogdon),,40,45
+2,6:46.0,,P. Siakam makes 2-pt layup from 1 ft (assist by K. Lowry),40,47
+2,6:30.0,Shooting foul by P. Siakam (drawn by K. Middleton),,40,47
+2,6:30.0,K. Middleton makes free throw 1 of 2,,41,47
+2,6:30.0,,N. Powell enters the game for K. Leonard,41,47
+2,6:30.0,K. Middleton makes free throw 2 of 2,,42,47
+2,6:19.0,,M. Gasol makes 2-pt jump shot from 6 ft,42,49
+2,5:59.0,M. Brogdon misses 2-pt layup from 2 ft,,42,49
+2,5:56.0,Offensive rebound by E. İlyasova,,42,49
+2,5:56.0,E. İlyasova makes 2-pt layup from 1 ft,,44,49
+2,5:46.0,Violation by Team (kicked ball),,44,49
+2,5:44.0,,Turnover by F. VanVleet (bad pass; steal by E. İlyasova),44,49
+2,5:39.0,E. Bledsoe misses 3-pt jump shot from 26 ft,,44,49
+2,5:37.0,,Defensive rebound by M. Gasol,44,49
+2,5:15.0,,F. VanVleet makes 3-pt jump shot from 26 ft (assist by N. Powell),44,52
+2,4:57.0,Shooting foul by P. Siakam (drawn by E. Bledsoe),,44,52
+2,4:57.0,E. Bledsoe misses free throw 1 of 2,,44,52
+2,4:57.0,Offensive rebound by Team,,44,52
+2,4:57.0,G. Antetokounmpo enters the game for E. İlyasova,,44,52
+2,4:57.0,G. Hill enters the game for K. Middleton,,44,52
+2,4:57.0,,K. Leonard enters the game for P. Siakam,44,52
+2,4:57.0,E. Bledsoe makes free throw 2 of 2,,45,52
+2,4:39.0,,Turnover by N. Powell (bad pass; steal by G. Hill),45,52
+2,4:26.0,Turnover by G. Antetokounmpo (lost ball; steal by M. Gasol),,45,52
+2,4:22.0,,K. Leonard misses 2-pt layup from 3 ft (block by B. Lopez),45,52
+2,4:19.0,,Offensive rebound by K. Leonard,45,52
+2,4:18.0,,Turnover by K. Leonard (lost ball; steal by B. Lopez),45,52
+2,4:14.0,M. Brogdon misses 3-pt jump shot from 28 ft,,45,52
+2,4:10.0,,Defensive rebound by M. Gasol,45,52
+2,4:06.0,,Toronto full timeout,45,52
+2,4:06.0,N. Mirotić enters the game for E. Bledsoe,,45,52
+2,3:48.0,,N. Powell misses 2-pt jump shot from 17 ft,45,52
+2,3:45.0,Defensive rebound by G. Antetokounmpo,,45,52
+2,3:35.0,Shooting foul by M. Gasol (drawn by N. Mirotić),,45,52
+2,3:35.0,N. Mirotić misses free throw 1 of 2,,45,52
+2,3:35.0,Offensive rebound by Team,,45,52
+2,3:35.0,,D. Green enters the game for M. Gasol,45,52
+2,3:35.0,,S. Ibaka enters the game for N. Powell,45,52
+2,3:35.0,N. Mirotić makes free throw 2 of 2,,46,52
+2,3:25.0,,K. Lowry misses 3-pt jump shot from 26 ft,46,52
+2,3:23.0,Defensive rebound by G. Antetokounmpo,,46,52
+2,3:16.0,G. Antetokounmpo misses 2-pt hook shot from 2 ft,,46,52
+2,3:14.0,,Defensive rebound by S. Ibaka,46,52
+2,3:09.0,,F. VanVleet misses 2-pt layup from 1 ft,46,52
+2,3:08.0,,Offensive rebound by S. Ibaka,46,52
+2,3:08.0,,S. Ibaka misses 2-pt layup at rim (block by G. Antetokounmpo),46,52
+2,3:08.0,Defensive rebound by G. Hill,,46,52
+2,3:08.0,Personal foul by K. Lowry (drawn by G. Hill),,46,52
+2,3:08.0,G. Hill makes free throw 1 of 2,,47,52
+2,3:08.0,G. Hill makes free throw 2 of 2,,48,52
+2,2:55.0,,S. Ibaka makes 2-pt jump shot from 19 ft (assist by K. Lowry),48,54
+2,2:40.0,Turnover by N. Mirotić (lost ball; steal by K. Leonard),,48,54
+2,2:26.0,,Shooting foul by B. Lopez (drawn by K. Leonard),48,54
+2,2:26.0,,K. Leonard makes free throw 1 of 2,48,55
+2,2:26.0,K. Middleton enters the game for B. Lopez,,48,55
+2,2:26.0,,N. Powell enters the game for F. VanVleet,48,55
+2,2:26.0,,K. Leonard makes free throw 2 of 2,48,56
+2,2:07.0,N. Mirotić makes 2-pt hook shot from 5 ft (assist by G. Antetokounmpo),,50,56
+2,1:53.0,,N. Powell makes 3-pt jump shot from 24 ft (assist by K. Lowry),50,59
+2,1:36.0,N. Mirotić misses 3-pt jump shot from 23 ft,,50,59
+2,1:34.0,,Defensive rebound by K. Leonard,50,59
+2,1:18.0,,N. Powell misses 3-pt jump shot from 24 ft,50,59
+2,1:15.0,Defensive rebound by G. Hill,,50,59
+2,1:04.0,K. Middleton makes 3-pt jump shot from 25 ft (assist by N. Mirotić),,53,59
+2,0:52.0,,Shooting foul by G. Hill (drawn by K. Lowry),53,59
+2,0:52.0,,K. Lowry makes free throw 1 of 2,53,60
+2,0:52.0,,K. Lowry makes free throw 2 of 2,53,61
+2,0:34.0,N. Mirotić misses 3-pt jump shot from 22 ft,,53,61
+2,0:32.0,Offensive rebound by G. Hill,,53,61
+2,0:28.0,N. Mirotić misses 3-pt jump shot from 27 ft,,53,61
+2,0:25.0,,Defensive rebound by K. Leonard,53,61
+2,0:06.0,,Shooting foul by N. Mirotić (drawn by K. Lowry),53,61
+2,0:06.0,,K. Lowry makes free throw 1 of 2,53,62
+2,0:06.0,E. Bledsoe enters the game for M. Brogdon,,53,62
+2,0:06.0,,K. Lowry makes free throw 2 of 2,53,63
+2,0:03.0,Shooting foul by S. Ibaka (drawn by G. Antetokounmpo),,53,63
+2,0:03.0,G. Antetokounmpo makes free throw 1 of 2,,54,63
+2,0:03.0,E. İlyasova enters the game for N. Mirotić,,54,63
+2,0:03.0,,M. Gasol enters the game for D. Green,54,63
+2,0:03.0,G. Antetokounmpo makes free throw 2 of 2,,55,63
+2,0:01.0,,Personal foul by K. Middleton (drawn by K. Lowry),55,63
+2,0:01.0,,K. Lowry makes free throw 1 of 2,55,64
+2,0:01.0,,K. Lowry makes free throw 2 of 2,55,65
+3,11:47.0,K. Middleton makes 2-pt jump shot from 13 ft,,57,65
+3,11:28.0,,K. Lowry misses 3-pt jump shot from 27 ft,57,65
+3,11:26.0,Defensive rebound by N. Mirotić,,57,65
+3,11:18.0,Personal foul by M. Gasol (drawn by G. Antetokounmpo),,57,65
+3,11:11.0,Offensive foul by G. Antetokounmpo (drawn by K. Lowry),,57,65
+3,11:11.0,Turnover by G. Antetokounmpo (offensive foul),,57,65
+3,10:57.0,,K. Leonard makes 2-pt dunk from 2 ft (assist by M. Gasol),57,67
+3,10:57.0,,Shooting foul by G. Antetokounmpo (drawn by K. Leonard),57,67
+3,10:57.0,,K. Leonard makes free throw 1 of 1,57,68
+3,10:41.0,G. Antetokounmpo misses 3-pt jump shot from 26 ft,,57,68
+3,10:40.0,Offensive rebound by Team,,57,68
+3,10:40.0,,Loose ball foul by D. Green (drawn by N. Mirotić),57,68
+3,10:30.0,E. Bledsoe misses 2-pt jump shot from 3 ft (block by K. Leonard),,57,68
+3,10:27.0,,Defensive rebound by K. Lowry,57,68
+3,10:21.0,,P. Siakam misses 2-pt hook shot from 3 ft,57,68
+3,10:19.0,,Offensive rebound by K. Lowry,57,68
+3,10:14.0,,P. Siakam misses 3-pt jump shot from 23 ft,57,68
+3,10:11.0,Defensive rebound by E. Bledsoe,,57,68
+3,10:02.0,Personal foul by K. Lowry (drawn by K. Middleton),,57,68
+3,10:00.0,Turnover by N. Mirotić (bad pass; steal by K. Leonard),,57,68
+3,9:45.0,,K. Leonard misses 3-pt jump shot from 26 ft,57,68
+3,9:42.0,Defensive rebound by B. Lopez,,57,68
+3,9:24.0,N. Mirotić makes 3-pt jump shot from 24 ft (assist by K. Middleton),,60,68
+3,9:11.0,,K. Leonard makes 2-pt dunk from 2 ft (assist by M. Gasol),60,70
+3,8:47.0,B. Lopez misses 2-pt jump shot from 15 ft (block by M. Gasol),,60,70
+3,8:44.0,,Defensive rebound by M. Gasol,60,70
+3,8:43.0,,P. Siakam makes 2-pt layup from 2 ft (assist by K. Lowry),60,72
+3,8:43.0,,Shooting foul by K. Middleton (drawn by P. Siakam),60,72
+3,8:43.0,Milwaukee full timeout,,60,72
+3,8:43.0,G. Hill enters the game for E. Bledsoe,,60,72
+3,8:43.0,,P. Siakam makes free throw 1 of 1,60,73
+3,8:27.0,B. Lopez makes 2-pt dunk from 1 ft (assist by K. Middleton),,62,73
+3,8:07.0,,M. Gasol makes 3-pt jump shot from 27 ft (assist by P. Siakam),62,76
+3,7:50.0,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by B. Lopez),,64,76
+3,7:35.0,,Personal foul by B. Lopez (drawn by M. Gasol),64,76
+3,7:35.0,E. İlyasova enters the game for B. Lopez,,64,76
+3,7:25.0,,K. Leonard misses 2-pt jump shot from 20 ft,64,76
+3,7:23.0,Defensive rebound by G. Antetokounmpo,,64,76
+3,7:21.0,Personal foul by D. Green (drawn by G. Antetokounmpo),,64,76
+3,7:15.0,E. İlyasova makes 2-pt layup from 1 ft (assist by K. Middleton),,66,76
+3,7:09.0,,Turnover by D. Green (bad pass; steal by G. Hill),66,76
+3,7:05.0,K. Middleton makes 3-pt jump shot from 26 ft (assist by G. Hill),,69,76
+3,6:56.0,,Shooting foul by E. İlyasova (drawn by K. Leonard),69,76
+3,6:56.0,,K. Leonard makes free throw 1 of 2,69,77
+3,6:56.0,M. Brogdon enters the game for N. Mirotić,,69,77
+3,6:56.0,,N. Powell enters the game for D. Green,69,77
+3,6:56.0,,K. Leonard misses free throw 2 of 2,69,77
+3,6:54.0,Defensive rebound by G. Antetokounmpo,,69,77
+3,6:35.0,G. Antetokounmpo misses 2-pt jump shot from 13 ft,,69,77
+3,6:33.0,,Defensive rebound by K. Leonard,69,77
+3,6:19.0,,P. Siakam misses 3-pt jump shot from 23 ft,69,77
+3,6:15.0,Defensive rebound by M. Brogdon,,69,77
+3,6:09.0,K. Middleton makes 2-pt jump shot from 21 ft (assist by M. Brogdon),,71,77
+3,5:47.0,,P. Siakam makes 2-pt dunk from 2 ft (assist by M. Gasol),71,79
+3,5:27.0,K. Middleton misses 3-pt jump shot from 27 ft (block by M. Gasol),,71,79
+3,5:25.0,Offensive rebound by G. Antetokounmpo,,71,79
+3,5:25.0,Shooting foul by P. Siakam (drawn by G. Antetokounmpo),,71,79
+3,5:25.0,G. Antetokounmpo misses free throw 1 of 2,,71,79
+3,5:25.0,Offensive rebound by Team,,71,79
+3,5:25.0,G. Antetokounmpo makes free throw 2 of 2,,72,79
+3,5:07.0,Violation by Team (kicked ball),,72,79
+3,5:07.0,E. Bledsoe enters the game for G. Antetokounmpo,,72,79
+3,5:01.0,,Personal foul by E. İlyasova (drawn by M. Gasol),72,79
+3,5:01.0,,M. Gasol makes free throw 1 of 2,72,80
+3,5:01.0,,F. VanVleet enters the game for P. Siakam,72,80
+3,5:01.0,,M. Gasol makes free throw 2 of 2,72,81
+3,5:01.0,,S. Ibaka enters the game for M. Gasol,72,81
+3,4:36.0,Turnover by Team (shot clock),,72,81
+3,4:22.0,,K. Leonard misses 2-pt layup from 4 ft,72,81
+3,4:20.0,Defensive rebound by K. Middleton,,72,81
+3,4:16.0,E. Bledsoe makes 2-pt layup at rim (assist by K. Middleton),,74,81
+3,3:58.0,,Turnover by S. Ibaka (lost ball; steal by E. İlyasova),74,81
+3,3:50.0,E. İlyasova misses 3-pt jump shot from 25 ft,,74,81
+3,3:48.0,,Defensive rebound by S. Ibaka,74,81
+3,3:35.0,,N. Powell makes 3-pt jump shot from 24 ft (assist by F. VanVleet),74,84
+3,3:23.0,M. Brogdon misses 2-pt jump shot from 6 ft,,74,84
+3,3:21.0,,Defensive rebound by S. Ibaka,74,84
+3,3:15.0,,K. Leonard makes 2-pt jump shot from 20 ft (assist by N. Powell),74,86
+3,3:13.0,Milwaukee full timeout,,74,86
+3,3:13.0,G. Antetokounmpo enters the game for G. Hill,,74,86
+3,2:54.0,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by E. Bledsoe),,76,86
+3,2:30.0,,K. Leonard makes 2-pt jump shot from 17 ft,76,88
+3,2:20.0,G. Antetokounmpo misses 2-pt hook shot from 9 ft,,76,88
+3,2:19.0,,Defensive rebound by Team,76,88
+3,2:10.0,,Offensive foul by K. Leonard (drawn by K. Middleton),76,88
+3,2:10.0,,Turnover by K. Leonard (offensive foul),76,88
+3,2:10.0,N. Mirotić enters the game for K. Middleton,,76,88
+3,1:49.0,E. Bledsoe misses 2-pt jump shot from 5 ft,,76,88
+3,1:47.0,Offensive rebound by E. Bledsoe,,76,88
+3,1:42.0,M. Brogdon misses 2-pt jump shot from 6 ft,,76,88
+3,1:41.0,,Defensive rebound by K. Leonard,76,88
+3,1:34.0,,Def 3 sec tech foul by Team,76,88
+3,1:34.0,,K. Leonard makes technical free throw,76,89
+3,1:34.0,P. Connaughton enters the game for E. Bledsoe,,76,89
+3,1:34.0,B. Lopez enters the game for E. İlyasova,,76,89
+3,1:20.0,,N. Powell misses 3-pt jump shot from 28 ft,76,89
+3,1:17.0,,Offensive rebound by Team,76,89
+3,1:17.0,Loose ball foul by B. Lopez (drawn by K. Lowry),,76,89
+3,1:17.0,,K. Lowry makes free throw 1 of 2,76,90
+3,1:17.0,,M. Gasol enters the game for K. Leonard,76,90
+3,1:17.0,,K. Lowry makes free throw 2 of 2,76,91
+3,1:02.0,M. Brogdon makes 2-pt layup at rim (assist by G. Antetokounmpo),,78,91
+3,0:47.0,,M. Gasol misses 3-pt jump shot from 27 ft,78,91
+3,0:45.0,,Offensive rebound by Team,78,91
+3,0:36.0,,N. Powell makes 3-pt jump shot from 26 ft,78,94
+3,0:18.0,G. Antetokounmpo makes 3-pt jump shot from 25 ft,,81,94
+3,0:01.0,,N. Powell misses 3-pt jump shot from 27 ft,81,94
+3,0:01.0,,Offensive rebound by K. Lowry,81,94
+3,0:00.0,,K. Lowry misses 2-pt layup from 1 ft,81,94
+3,0:00.0,,Offensive rebound by Team,81,94
+4,11:43.0,,Turnover by N. Powell (bad pass; steal by N. Mirotić),81,94
+4,11:39.0,Turnover by N. Mirotić (bad pass; steal by F. VanVleet),,81,94
+4,11:35.0,,F. VanVleet makes 2-pt layup from 1 ft,81,96
+4,11:25.0,Shooting foul by S. Ibaka (drawn by G. Antetokounmpo),,81,96
+4,11:25.0,G. Antetokounmpo makes free throw 1 of 2,,82,96
+4,11:25.0,G. Antetokounmpo misses free throw 2 of 2,,82,96
+4,11:23.0,,Defensive rebound by N. Powell,82,96
+4,11:03.0,,M. Gasol misses 2-pt jump shot from 8 ft,82,96
+4,11:01.0,Defensive rebound by P. Connaughton,,82,96
+4,10:57.0,Personal foul by S. Ibaka (drawn by G. Antetokounmpo),,82,96
+4,10:41.0,N. Mirotić misses 3-pt jump shot from 25 ft,,82,96
+4,10:38.0,,Defensive rebound by M. Gasol,82,96
+4,10:30.0,,Turnover by N. Powell (bad pass),82,96
+4,10:07.0,K. Middleton misses 2-pt layup at rim,,82,96
+4,10:07.0,Offensive rebound by Team,,82,96
+4,9:58.0,P. Connaughton misses 3-pt jump shot from 25 ft,,82,96
+4,9:56.0,,Defensive rebound by S. Ibaka,82,96
+4,9:33.0,,F. VanVleet makes 3-pt jump shot from 25 ft (assist by M. Gasol),82,99
+4,9:33.0,,Away from play foul by G. Antetokounmpo (drawn by S. Ibaka),82,99
+4,9:33.0,B. Lopez enters the game for N. Mirotić,,82,99
+4,9:33.0,,S. Ibaka makes free throw 1 of 1,82,100
+4,9:16.0,K. Middleton makes 2-pt jump shot from 17 ft (assist by P. Connaughton),,84,100
+4,8:49.0,,F. VanVleet makes 2-pt layup from 9 ft (assist by S. Ibaka),84,102
+4,8:38.0,Turnover by G. Antetokounmpo (lost ball; steal by N. Powell),,84,102
+4,8:35.0,,N. Powell makes 2-pt layup from 1 ft (assist by F. VanVleet),84,104
+4,8:31.0,Milwaukee full timeout,,84,104
+4,8:31.0,M. Brogdon enters the game for G. Antetokounmpo,,84,104
+4,8:31.0,E. İlyasova enters the game for P. Connaughton,,84,104
+4,8:23.0,K. Middleton misses 3-pt jump shot from 26 ft,,84,104
+4,8:20.0,,Defensive rebound by S. Ibaka,84,104
+4,8:11.0,,S. Ibaka misses 3-pt jump shot from 26 ft,84,104
+4,8:07.0,Defensive rebound by K. Middleton,,84,104
+4,8:04.0,M. Brogdon misses 2-pt layup from 2 ft (block by D. Green),,84,104
+4,8:04.0,Offensive rebound by Team,,84,104
+4,8:01.0,K. Middleton makes 2-pt jump shot from 12 ft (assist by G. Hill),,86,104
+4,7:40.0,,N. Powell misses 3-pt jump shot from 26 ft,86,104
+4,7:36.0,Defensive rebound by G. Hill,,86,104
+4,7:30.0,K. Middleton makes 2-pt layup from 1 ft (assist by M. Brogdon),,88,104
+4,7:23.0,,Toronto full timeout,88,104
+4,7:23.0,,K. Leonard enters the game for D. Green,88,104
+4,7:23.0,,K. Lowry enters the game for S. Ibaka,88,104
+4,7:23.0,,P. Siakam enters the game for F. VanVleet,88,104
+4,7:05.0,,K. Lowry makes 3-pt jump shot from 27 ft (assist by N. Powell),88,107
+4,6:43.0,E. İlyasova makes 2-pt hook shot from 2 ft (assist by G. Hill),,90,107
+4,6:35.0,,Personal foul by B. Lopez (drawn by K. Lowry),90,107
+4,6:35.0,E. Bledsoe enters the game for G. Hill,,90,107
+4,6:19.0,,N. Powell misses 2-pt jump shot from 19 ft,90,107
+4,6:16.0,Defensive rebound by K. Middleton,,90,107
+4,6:12.0,Shooting foul by N. Powell (drawn by K. Middleton),,90,107
+4,6:12.0,K. Middleton misses free throw 1 of 2,,90,107
+4,6:12.0,Offensive rebound by Team,,90,107
+4,6:12.0,G. Antetokounmpo enters the game for B. Lopez,,90,107
+4,6:12.0,K. Middleton makes free throw 2 of 2,,91,107
+4,5:47.0,,N. Powell misses 3-pt jump shot from 28 ft,91,107
+4,5:45.0,Defensive rebound by M. Brogdon,,91,107
+4,5:34.0,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by K. Middleton),,93,107
+4,5:14.0,,M. Gasol makes 2-pt jump shot from 2 ft (assist by P. Siakam),93,109
+4,5:07.0,Personal foul by P. Siakam (drawn by K. Middleton),,93,109
+4,5:07.0,,F. VanVleet enters the game for P. Siakam,93,109
+4,4:56.0,Turnover by E. İlyasova (lost ball; steal by K. Leonard),,93,109
+4,4:37.0,,N. Powell misses 3-pt jump shot from 23 ft,93,109
+4,4:34.0,Defensive rebound by M. Brogdon,,93,109
+4,4:31.0,M. Brogdon misses 3-pt jump shot from 26 ft,,93,109
+4,4:27.0,,Defensive rebound by N. Powell,93,109
+4,4:18.0,,K. Leonard makes 3-pt jump shot from 26 ft (assist by K. Lowry),93,112
+4,4:16.0,Milwaukee full timeout,,93,112
+4,4:16.0,P. Connaughton enters the game for G. Antetokounmpo,,93,112
+4,4:16.0,B. Lopez enters the game for E. İlyasova,,93,112
+4,4:16.0,N. Mirotić enters the game for K. Middleton,,93,112
+4,3:58.0,P. Connaughton misses 2-pt jump shot from 11 ft,,93,112
+4,3:55.0,,Defensive rebound by N. Powell,93,112
+4,3:50.0,,K. Lowry makes 2-pt layup from 1 ft (assist by F. VanVleet),93,114
+4,3:39.0,M. Brogdon makes 2-pt layup from 1 ft (assist by B. Lopez),,95,114
+4,3:39.0,Shooting foul by M. Gasol (drawn by M. Brogdon),,95,114
+4,3:39.0,S. Brown enters the game for B. Lopez,,95,114
+4,3:39.0,D. Wilson enters the game for N. Mirotić,,95,114
+4,3:39.0,,P. Siakam enters the game for K. Leonard,95,114
+4,3:39.0,M. Brogdon misses free throw 1 of 1,,95,114
+4,3:37.0,,Defensive rebound by P. Siakam,95,114
+4,3:16.0,,M. Gasol makes 2-pt hook shot from 4 ft,95,116
+4,3:05.0,Offensive foul by D. Wilson (drawn by K. Lowry),,95,116
+4,3:05.0,Turnover by D. Wilson (offensive foul),,95,116
+4,3:05.0,T. Frazier enters the game for E. Bledsoe,,95,116
+4,3:05.0,T. Snell enters the game for M. Brogdon,,95,116
+4,3:05.0,,S. Ibaka enters the game for M. Gasol,95,116
+4,3:05.0,,J. Meeks enters the game for K. Lowry,95,116
+4,2:52.0,,S. Ibaka makes 2-pt hook shot from 11 ft (assist by P. Siakam),95,118
+4,2:37.0,S. Brown misses 3-pt jump shot from 25 ft,,95,118
+4,2:34.0,,Defensive rebound by N. Powell,95,118
+4,2:18.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by P. Siakam),95,120
+4,2:08.0,Personal foul by N. Powell (drawn by T. Frazier),,95,120
+4,2:08.0,T. Frazier makes free throw 1 of 2,,96,120
+4,2:08.0,,C. Boucher enters the game for S. Ibaka,96,120
+4,2:08.0,,J. Lin enters the game for N. Powell,96,120
+4,2:08.0,,M. Miller enters the game for P. Siakam,96,120
+4,2:08.0,,E. Moreland enters the game for F. VanVleet,96,120
+4,2:08.0,T. Frazier makes free throw 2 of 2,,97,120
+4,1:49.0,,C. Boucher misses 3-pt jump shot from 27 ft,97,120
+4,1:47.0,Defensive rebound by D. Wilson,,97,120
+4,1:42.0,P. Connaughton makes 3-pt jump shot from 26 ft (assist by S. Brown),,100,120
+4,1:33.0,,J. Meeks misses 2-pt jump shot from 15 ft,100,120
+4,1:28.0,Defensive rebound by P. Connaughton,,100,120
+4,1:21.0,T. Snell misses 2-pt jump shot from 10 ft,,100,120
+4,1:19.0,,Defensive rebound by J. Meeks,100,120
+4,1:03.0,,C. Boucher misses 2-pt dunk from 1 ft (block by D. Wilson),100,120
+4,0:58.0,Defensive rebound by T. Snell,,100,120
+4,0:56.0,T. Frazier misses 3-pt jump shot from 27 ft,,100,120
+4,0:53.0,,Defensive rebound by C. Boucher,100,120
+4,0:48.0,,J. Lin misses 2-pt layup from 2 ft (block by T. Snell),100,120
+4,0:48.0,Defensive rebound by T. Frazier,,100,120
+4,0:44.0,S. Brown makes 2-pt dunk from 1 ft (assist by T. Frazier),,102,120
+4,0:25.0,,J. Meeks misses 3-pt jump shot from 27 ft,102,120
+4,0:21.0,Defensive rebound by T. Frazier,,102,120
+4,0:16.0,P. Connaughton misses 3-pt jump shot from 27 ft,,102,120
+4,0:13.0,,Defensive rebound by E. Moreland,102,120

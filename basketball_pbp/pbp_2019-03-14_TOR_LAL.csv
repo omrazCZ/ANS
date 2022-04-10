@@ -1,0 +1,485 @@
+QUARTER,TIME_REMAINING,LA LAKERS_ACTION,TORONTO_ACTION,LA LAKERS_SCORE,TORONTO_SCORE
+1,11:44.0,,K. Leonard misses 2-pt layup from 2 ft (block by J. McGee),0,0
+1,11:42.0,Defensive rebound by K. Kuzma,,0,0
+1,11:27.0,Turnover by R. Rondo (bad pass),,0,0
+1,11:14.0,,P. Siakam misses 3-pt jump shot from 23 ft,0,0
+1,11:11.0,Defensive rebound by R. Rondo,,0,0
+1,11:02.0,Turnover by R. Rondo (bad pass; steal by M. Gasol),,0,0
+1,10:57.0,,Turnover by J. Lin (lost ball; steal by L. James),0,0
+1,10:53.0,L. James makes 2-pt layup from 1 ft,,2,0
+1,10:43.0,,J. Lin makes 2-pt jump shot from 3 ft (assist by K. Leonard),2,2
+1,10:29.0,K. Kuzma misses 3-pt jump shot from 25 ft,,2,2
+1,10:27.0,,Defensive rebound by J. Lin,2,2
+1,10:23.0,,Shooting foul by K. Kuzma (drawn by P. Siakam),2,2
+1,10:23.0,,P. Siakam makes free throw 1 of 2,2,3
+1,10:23.0,,P. Siakam misses free throw 2 of 2,2,3
+1,10:21.0,Defensive rebound by J. McGee,,2,3
+1,10:05.0,L. James misses 2-pt jump shot from 20 ft,,2,3
+1,10:03.0,,Defensive rebound by J. Lin,2,3
+1,9:59.0,,J. Lin misses 3-pt jump shot from 26 ft,2,3
+1,9:59.0,Defensive rebound by K. Kuzma,,2,3
+1,9:50.0,Shooting foul by D. Green (drawn by L. James),,2,3
+1,9:50.0,L. James makes free throw 1 of 2,,3,3
+1,9:50.0,L. James makes free throw 2 of 2,,4,3
+1,9:32.0,,M. Gasol misses 2-pt jump shot from 8 ft,4,3
+1,9:29.0,Defensive rebound by K. Kuzma,,4,3
+1,9:19.0,L. James misses 2-pt layup from 2 ft,,4,3
+1,9:18.0,,Defensive rebound by Team,4,3
+1,9:09.0,,Shooting foul by K. Kuzma (drawn by P. Siakam),4,3
+1,9:09.0,,P. Siakam makes free throw 1 of 2,4,4
+1,9:09.0,J. Hart enters the game for K. Kuzma,,4,4
+1,9:09.0,,P. Siakam makes free throw 2 of 2,4,5
+1,8:58.0,R. Rondo makes 2-pt jump shot from 2 ft,,6,5
+1,8:53.0,,Turnover by M. Gasol (bad pass; steal by J. McGee),6,5
+1,8:49.0,J. McGee misses 2-pt layup from 1 ft,,6,5
+1,8:47.0,,Defensive rebound by J. Lin,6,5
+1,8:41.0,,K. Leonard misses 2-pt layup from 3 ft,6,5
+1,8:38.0,,Offensive rebound by M. Gasol,6,5
+1,8:35.0,,K. Leonard makes 3-pt jump shot from 23 ft (assist by P. Siakam),6,8
+1,8:23.0,L. James misses 3-pt jump shot from 25 ft,,6,8
+1,8:23.0,,Defensive rebound by J. Lin,6,8
+1,8:15.0,,K. Leonard makes 3-pt jump shot from 25 ft (assist by P. Siakam),6,11
+1,8:14.0,LA Lakers full timeout,,6,11
+1,8:02.0,Offensive foul by J. McGee (drawn by J. Lin),,6,11
+1,8:02.0,Turnover by J. McGee (offensive foul),,6,11
+1,7:48.0,,M. Gasol makes 2-pt jump shot from 20 ft (assist by D. Green),6,13
+1,7:33.0,J. Hart misses 2-pt jump shot from 16 ft,,6,13
+1,7:29.0,,Defensive rebound by J. Lin,6,13
+1,7:25.0,,M. Gasol makes 3-pt jump shot from 25 ft (assist by P. Siakam),6,16
+1,7:08.0,R. Rondo misses 2-pt layup from 2 ft,,6,16
+1,7:07.0,,Defensive rebound by J. Lin,6,16
+1,7:02.0,,K. Leonard misses 3-pt jump shot from 26 ft,6,16
+1,6:59.0,Defensive rebound by L. James,,6,16
+1,6:56.0,J. McGee makes 2-pt dunk from 1 ft (assist by R. Rondo),,8,16
+1,6:43.0,,Turnover by K. Leonard (lost ball; steal by J. Hart),8,16
+1,6:40.0,J. Hart makes 2-pt layup from 2 ft,,10,16
+1,6:40.0,Shooting foul by D. Green (drawn by J. Hart),,10,16
+1,6:40.0,K. Caldwell-Pope enters the game for R. Rondo,,10,16
+1,6:40.0,,N. Powell enters the game for D. Green,10,16
+1,6:40.0,J. Hart misses free throw 1 of 1,,10,16
+1,6:38.0,,Defensive rebound by K. Leonard,10,16
+1,6:23.0,,M. Gasol misses 2-pt jump shot from 16 ft,10,16
+1,6:20.0,Defensive rebound by L. James,,10,16
+1,6:13.0,L. James makes 2-pt layup from 2 ft,,12,16
+1,5:58.0,,J. Lin misses 3-pt jump shot from 26 ft,12,16
+1,5:56.0,Defensive rebound by R. Bullock,,12,16
+1,5:46.0,R. Bullock misses 3-pt jump shot from 23 ft,,12,16
+1,5:43.0,,Defensive rebound by K. Leonard,12,16
+1,5:35.0,,K. Leonard misses 2-pt jump shot from 21 ft,12,16
+1,5:33.0,Defensive rebound by L. James,,12,16
+1,5:26.0,K. Caldwell-Pope misses 2-pt jump shot from 13 ft,,12,16
+1,5:23.0,,Defensive rebound by N. Powell,12,16
+1,5:19.0,,N. Powell makes 2-pt layup from 2 ft,12,18
+1,5:12.0,Turnover by L. James (bad pass; steal by P. Siakam),,12,18
+1,5:10.0,,Personal foul by J. McGee (drawn by P. Siakam),12,18
+1,5:10.0,,P. McCaw enters the game for P. Siakam,12,18
+1,5:00.0,,Turnover by M. Gasol (bad pass),12,18
+1,5:00.0,R. Rondo enters the game for L. James,,12,18
+1,4:51.0,Shooting foul by J. Lin (drawn by R. Rondo),,12,18
+1,4:51.0,R. Rondo misses free throw 1 of 2,,12,18
+1,4:51.0,Offensive rebound by Team,,12,18
+1,4:51.0,R. Rondo makes free throw 2 of 2,,13,18
+1,4:26.0,,N. Powell makes 3-pt jump shot from 26 ft (assist by M. Gasol),13,21
+1,4:12.0,R. Rondo misses 2-pt jump shot from 4 ft (block by J. Lin),,13,21
+1,4:10.0,,Defensive rebound by P. McCaw,13,21
+1,4:09.0,,Shooting foul by J. McGee (drawn by N. Powell),13,21
+1,4:09.0,,N. Powell makes free throw 1 of 2,13,22
+1,4:09.0,J. Williams enters the game for J. McGee,,13,22
+1,4:09.0,,N. Powell misses free throw 2 of 2,13,22
+1,4:08.0,Defensive rebound by Team,,13,22
+1,3:44.0,K. Caldwell-Pope misses 3-pt jump shot from 22 ft,,13,22
+1,3:41.0,Offensive rebound by R. Rondo,,13,22
+1,3:38.0,R. Bullock makes 3-pt jump shot from 24 ft (assist by R. Rondo),,16,22
+1,3:21.0,,M. Gasol makes 2-pt jump shot from 20 ft,16,24
+1,3:10.0,Turnover by K. Caldwell-Pope (bad pass; steal by N. Powell),,16,24
+1,3:05.0,,J. Lin misses 2-pt layup from 2 ft (block by K. Caldwell-Pope),16,24
+1,3:05.0,,Offensive rebound by Team,16,24
+1,3:05.0,,Toronto full timeout,16,24
+1,3:05.0,A. Caruso enters the game for R. Bullock,,16,24
+1,3:05.0,,O. Anunoby enters the game for M. Gasol,16,24
+1,3:05.0,,C. Boucher enters the game for K. Leonard,16,24
+1,3:05.0,,P. Siakam enters the game for J. Lin,16,24
+1,2:51.0,,P. McCaw misses 2-pt layup from 2 ft,16,24
+1,2:49.0,Defensive rebound by K. Caldwell-Pope,,16,24
+1,2:29.0,R. Rondo makes 2-pt layup from 3 ft,,18,24
+1,2:06.0,,N. Powell misses 2-pt jump shot from 20 ft,18,24
+1,2:03.0,Defensive rebound by R. Rondo,,18,24
+1,1:56.0,Personal foul by C. Boucher (drawn by J. Williams),,18,24
+1,1:56.0,M. Muscala enters the game for J. Williams,,18,24
+1,1:50.0,J. Hart makes 3-pt jump shot from 24 ft (assist by R. Rondo),,21,24
+1,1:34.0,,Turnover by P. Siakam (lost ball; steal by J. Hart),21,24
+1,1:30.0,K. Caldwell-Pope makes 2-pt layup from 1 ft (assist by R. Rondo),,23,24
+1,1:13.0,,N. Powell makes 3-pt jump shot from 25 ft (assist by P. McCaw),23,27
+1,1:04.0,Turnover by K. Caldwell-Pope (bad pass; steal by P. McCaw),,23,27
+1,1:03.0,,Shooting foul by K. Caldwell-Pope (drawn by P. McCaw),23,27
+1,1:03.0,,P. McCaw misses free throw 1 of 2,23,27
+1,1:03.0,,Offensive rebound by Team,23,27
+1,1:03.0,,P. McCaw makes free throw 2 of 2,23,28
+1,0:41.0,Shooting foul by N. Powell (drawn by A. Caruso),,23,28
+1,0:41.0,A. Caruso makes free throw 1 of 2,,24,28
+1,0:41.0,A. Caruso makes free throw 2 of 2,,25,28
+1,0:34.0,,P. Siakam misses 2-pt layup from 4 ft,25,28
+1,0:30.0,,Offensive rebound by C. Boucher,25,28
+1,0:30.0,,C. Boucher makes 2-pt dunk from 1 ft,25,30
+1,0:21.0,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,,25,30
+1,0:19.0,,Defensive rebound by N. Powell,25,30
+1,0:02.0,,N. Powell makes 3-pt jump shot from 27 ft (assist by P. McCaw),25,33
+1,0:00.0,K. Caldwell-Pope misses 3-pt jump shot from 46 ft,,25,33
+1,0:00.0,Offensive rebound by Team,,25,33
+2,11:47.0,Turnover by L. James (bad pass; steal by C. Boucher),,25,33
+2,11:35.0,,Shooting foul by A. Caruso (drawn by P. Siakam),25,33
+2,11:35.0,,P. Siakam makes free throw 1 of 2,25,34
+2,11:35.0,,P. Siakam makes free throw 2 of 2,25,35
+2,11:22.0,L. James misses 2-pt layup from 2 ft,,25,35
+2,11:19.0,,Defensive rebound by N. Powell,25,35
+2,11:17.0,,P. Siakam misses 3-pt jump shot from 23 ft,25,35
+2,11:13.0,Defensive rebound by K. Kuzma,,25,35
+2,11:02.0,A. Caruso makes 2-pt layup from 1 ft (assist by K. Kuzma),,27,35
+2,10:39.0,,P. Siakam makes 2-pt layup from 3 ft,27,37
+2,10:24.0,K. Kuzma misses 2-pt hook shot from 5 ft,,27,37
+2,10:22.0,,Defensive rebound by C. Boucher,27,37
+2,10:12.0,,Turnover by P. Siakam (out of bounds lost ball),27,37
+2,9:58.0,Personal foul by O. Anunoby (drawn by L. James),,27,37
+2,9:58.0,Personal foul by O. Anunoby (drawn by L. James),,27,37
+2,9:44.0,Turnover by Team (shot clock),,27,37
+2,9:31.0,,C. Boucher misses 3-pt jump shot from 25 ft,27,37
+2,9:29.0,Defensive rebound by L. James,,27,37
+2,9:24.0,K. Kuzma misses 2-pt layup from 3 ft (block by C. Boucher),,27,37
+2,9:24.0,Offensive rebound by Team,,27,37
+2,9:24.0,M. Wagner enters the game for J. Hart,,27,37
+2,9:22.0,K. Caldwell-Pope makes 2-pt layup from 1 ft (assist by A. Caruso),,29,37
+2,9:01.0,,N. Powell misses 3-pt jump shot from 25 ft,29,37
+2,8:59.0,Defensive rebound by K. Caldwell-Pope,,29,37
+2,8:57.0,L. James makes 2-pt dunk from 1 ft (assist by K. Caldwell-Pope),,31,37
+2,8:37.0,,O. Anunoby misses 3-pt jump shot from 26 ft,31,37
+2,8:34.0,Defensive rebound by A. Caruso,,31,37
+2,8:31.0,L. James makes 2-pt layup from 2 ft (assist by K. Kuzma),,33,37
+2,8:14.0,,C. Boucher misses 2-pt hook shot from 3 ft,33,37
+2,8:13.0,Defensive rebound by K. Caldwell-Pope,,33,37
+2,8:07.0,K. Kuzma makes 2-pt layup from 1 ft (assist by L. James),,35,37
+2,8:07.0,,Toronto full timeout,35,37
+2,8:07.0,,M. Gasol enters the game for C. Boucher,35,37
+2,8:07.0,,K. Leonard enters the game for N. Powell,35,37
+2,7:52.0,,P. Siakam misses 2-pt jump shot from 13 ft,35,37
+2,7:49.0,,Offensive rebound by O. Anunoby,35,37
+2,7:48.0,,O. Anunoby makes 2-pt layup from 2 ft,35,39
+2,7:35.0,A. Caruso makes 2-pt layup from 2 ft (assist by L. James),,37,39
+2,7:13.0,,K. Leonard misses 3-pt jump shot from 25 ft,37,39
+2,7:10.0,Defensive rebound by K. Caldwell-Pope,,37,39
+2,7:03.0,K. Caldwell-Pope misses 3-pt jump shot from 22 ft,,37,39
+2,7:01.0,,Defensive rebound by K. Leonard,37,39
+2,6:55.0,,P. Siakam misses 3-pt jump shot from 24 ft,37,39
+2,6:51.0,Defensive rebound by K. Kuzma,,37,39
+2,6:42.0,A. Caruso makes 2-pt layup from 2 ft (assist by L. James),,39,39
+2,6:29.0,,P. McCaw makes 3-pt jump shot from 23 ft (assist by K. Leonard),39,42
+2,6:29.0,R. Bullock enters the game for K. Caldwell-Pope,,39,42
+2,6:29.0,,D. Green enters the game for P. McCaw,39,42
+2,6:29.0,,J. Lin enters the game for P. Siakam,39,42
+2,6:06.0,Turnover by K. Kuzma (bad pass; steal by M. Gasol),,39,42
+2,5:59.0,,J. Lin makes 2-pt jump shot from 23 ft (assist by K. Leonard),39,44
+2,5:50.0,L. James makes 3-pt jump shot from 23 ft (assist by A. Caruso),,42,44
+2,5:38.0,,K. Leonard makes 2-pt layup from 2 ft,42,46
+2,5:27.0,L. James misses 3-pt jump shot from 24 ft,,42,46
+2,5:25.0,,Defensive rebound by M. Gasol,42,46
+2,5:12.0,,Shooting foul by M. Wagner (drawn by K. Leonard),42,46
+2,5:12.0,,K. Leonard misses free throw 1 of 2,42,46
+2,5:12.0,,Offensive rebound by Team,42,46
+2,5:12.0,,M. Miller enters the game for O. Anunoby,42,46
+2,5:12.0,,K. Leonard misses free throw 2 of 2,42,46
+2,5:10.0,Defensive rebound by K. Kuzma,,42,46
+2,5:00.0,A. Caruso makes 2-pt layup from 2 ft,,44,46
+2,5:00.0,Shooting foul by J. Lin (drawn by A. Caruso),,44,46
+2,5:00.0,A. Caruso makes free throw 1 of 1,,45,46
+2,5:00.0,R. Rondo enters the game for L. James,,45,46
+2,4:43.0,,Turnover by D. Green (bad pass; steal by M. Wagner),45,46
+2,4:34.0,A. Caruso makes 3-pt jump shot from 25 ft (assist by R. Rondo),,48,46
+2,4:18.0,,M. Gasol makes 2-pt hook shot from 6 ft,48,48
+2,4:18.0,,Shooting foul by M. Wagner (drawn by M. Gasol),48,48
+2,4:18.0,J. McGee enters the game for M. Wagner,,48,48
+2,4:18.0,,M. Gasol makes free throw 1 of 1,48,49
+2,3:55.0,Shooting foul by J. Lin (drawn by K. Kuzma),,48,49
+2,3:55.0,K. Kuzma makes free throw 1 of 2,,49,49
+2,3:55.0,K. Kuzma misses free throw 2 of 2,,49,49
+2,3:55.0,,Defensive rebound by K. Leonard,49,49
+2,3:41.0,,M. Gasol misses 3-pt jump shot from 25 ft,49,49
+2,3:38.0,Defensive rebound by R. Rondo,,49,49
+2,3:37.0,Shooting foul by M. Gasol (drawn by J. McGee),,49,49
+2,3:37.0,J. McGee makes free throw 1 of 2,,50,49
+2,3:37.0,,N. Powell enters the game for J. Lin,50,49
+2,3:37.0,,P. Siakam enters the game for M. Miller,50,49
+2,3:37.0,J. McGee misses free throw 2 of 2,,50,49
+2,3:35.0,,Defensive rebound by M. Gasol,50,49
+2,3:23.0,,K. Leonard makes 2-pt layup from 2 ft (assist by P. Siakam),50,51
+2,3:15.0,R. Rondo misses 2-pt layup from 1 ft,,50,51
+2,3:13.0,Offensive rebound by J. McGee,,50,51
+2,3:10.0,J. McGee makes 2-pt dunk at rim,,52,51
+2,3:05.0,,Shooting foul by A. Caruso (drawn by P. Siakam),52,51
+2,3:05.0,,P. Siakam makes free throw 1 of 2,52,52
+2,3:05.0,,P. Siakam makes free throw 2 of 2,52,53
+2,2:55.0,Turnover by R. Rondo (bad pass; steal by D. Green),,52,53
+2,2:42.0,,M. Gasol misses 3-pt jump shot from 26 ft,52,53
+2,2:37.0,,Offensive rebound by D. Green,52,53
+2,2:34.0,,K. Leonard makes 3-pt jump shot from 26 ft (assist by N. Powell),52,56
+2,2:16.0,R. Rondo misses 2-pt layup from 1 ft,,52,56
+2,2:12.0,,Defensive rebound by K. Leonard,52,56
+2,2:07.0,,D. Green makes 3-pt jump shot from 23 ft (assist by K. Leonard),52,59
+2,2:06.0,LA Lakers full timeout,,52,59
+2,2:06.0,J. Hart enters the game for A. Caruso,,52,59
+2,1:53.0,R. Bullock misses 3-pt jump shot from 24 ft,,52,59
+2,1:51.0,Offensive rebound by Team,,52,59
+2,1:43.0,J. Hart misses 3-pt jump shot from 24 ft,,52,59
+2,1:41.0,,Defensive rebound by K. Leonard,52,59
+2,1:36.0,,K. Leonard misses 2-pt jump shot from 5 ft,52,59
+2,1:34.0,,Offensive rebound by D. Green,52,59
+2,1:31.0,,D. Green misses 3-pt jump shot from 26 ft,52,59
+2,1:29.0,Defensive rebound by J. McGee,,52,59
+2,1:24.0,J. Hart misses 3-pt jump shot from 23 ft,,52,59
+2,1:21.0,,Defensive rebound by Team,52,59
+2,1:21.0,M. Wagner enters the game for J. McGee,,52,59
+2,1:05.0,,Turnover by P. Siakam (lost ball; steal by R. Rondo),52,59
+2,0:57.0,Turnover by M. Wagner (bad pass; steal by P. Siakam),,52,59
+2,0:55.0,,Personal foul by R. Rondo (drawn by P. Siakam),52,59
+2,0:55.0,,P. Siakam makes free throw 1 of 2,52,60
+2,0:55.0,,P. McCaw enters the game for D. Green,52,60
+2,0:55.0,,P. Siakam misses free throw 2 of 2,52,60
+2,0:53.0,Defensive rebound by M. Wagner,,52,60
+2,0:48.0,R. Rondo makes 2-pt layup from 2 ft,,54,60
+2,0:33.0,,P. Siakam misses 2-pt layup from 8 ft,54,60
+2,0:31.0,,Offensive rebound by M. Gasol,54,60
+2,0:29.0,,M. Gasol misses 2-pt layup from 1 ft,54,60
+2,0:28.0,,Offensive rebound by P. Siakam,54,60
+2,0:26.0,,P. Siakam misses 2-pt hook shot from 4 ft,54,60
+2,0:26.0,,Offensive rebound by Team,54,60
+2,0:26.0,Loose ball foul by K. Kuzma (drawn by M. Gasol),,54,60
+2,0:26.0,,M. Gasol makes free throw 1 of 2,54,61
+2,0:26.0,K. Caldwell-Pope enters the game for K. Kuzma,,54,61
+2,0:26.0,,M. Gasol makes free throw 2 of 2,54,62
+2,0:02.0,Turnover by R. Rondo (bad pass; steal by K. Leonard),,54,62
+2,0:00.0,,K. Leonard makes 3-pt jump shot from 25 ft,54,65
+3,11:49.0,R. Bullock makes 3-pt jump shot from 26 ft (assist by L. James),,57,65
+3,11:49.0,Shooting foul by D. Green (drawn by R. Bullock),,57,65
+3,11:49.0,R. Bullock makes free throw 1 of 1,,58,65
+3,11:28.0,,K. Leonard misses 2-pt hook shot from 3 ft,58,65
+3,11:26.0,Defensive rebound by J. McGee,,58,65
+3,11:19.0,L. James misses 2-pt jump shot from 11 ft,,58,65
+3,11:17.0,,Defensive rebound by M. Gasol,58,65
+3,11:13.0,,J. Lin makes 2-pt layup from 2 ft,58,67
+3,10:56.0,L. James makes 2-pt jump shot from 12 ft,,60,67
+3,10:38.0,,P. Siakam misses 2-pt hook shot from 9 ft,60,67
+3,10:36.0,Defensive rebound by J. McGee,,60,67
+3,10:24.0,J. McGee makes 2-pt jump shot from 6 ft (assist by L. James),,62,67
+3,10:07.0,,K. Leonard makes 2-pt jump shot from 21 ft,62,69
+3,9:56.0,R. Rondo misses 2-pt jump shot from 21 ft,,62,69
+3,9:54.0,,Defensive rebound by J. Lin,62,69
+3,9:46.0,,M. Gasol makes 3-pt jump shot from 25 ft (assist by D. Green),62,72
+3,9:22.0,L. James misses 2-pt jump shot from 7 ft,,62,72
+3,9:20.0,,Defensive rebound by D. Green,62,72
+3,9:06.0,,P. Siakam makes 2-pt jump shot from 7 ft,62,74
+3,8:47.0,K. Kuzma misses 3-pt jump shot from 25 ft,,62,74
+3,8:44.0,,Defensive rebound by M. Gasol,62,74
+3,8:40.0,,J. Lin misses 3-pt jump shot from 25 ft,62,74
+3,8:37.0,Defensive rebound by K. Kuzma,,62,74
+3,8:26.0,L. James makes 2-pt jump shot from 10 ft,,64,74
+3,8:02.0,,P. Siakam misses 2-pt layup from 3 ft,64,74
+3,8:00.0,Defensive rebound by J. McGee,,64,74
+3,7:57.0,L. James misses 3-pt jump shot from 26 ft,,64,74
+3,7:54.0,,Defensive rebound by M. Gasol,64,74
+3,7:46.0,,K. Leonard misses 2-pt jump shot from 13 ft,64,74
+3,7:44.0,Defensive rebound by J. McGee,,64,74
+3,7:41.0,L. James makes 2-pt layup from 2 ft (assist by R. Rondo),,66,74
+3,7:41.0,Shooting foul by M. Gasol (drawn by L. James),,66,74
+3,7:41.0,L. James makes free throw 1 of 1,,67,74
+3,7:31.0,,J. Lin misses 3-pt jump shot from 24 ft,67,74
+3,7:29.0,Defensive rebound by R. Bullock,,67,74
+3,7:12.0,L. James misses 3-pt jump shot from 23 ft,,67,74
+3,7:09.0,Offensive rebound by J. McGee,,67,74
+3,7:06.0,Turnover by J. McGee (lost ball; steal by D. Green),,67,74
+3,7:01.0,,D. Green misses 3-pt jump shot from 24 ft,67,74
+3,6:58.0,Defensive rebound by J. McGee,,67,74
+3,6:47.0,J. McGee makes 2-pt dunk from 2 ft (assist by K. Kuzma),,69,74
+3,6:30.0,,J. Lin makes 3-pt jump shot from 24 ft (assist by M. Gasol),69,77
+3,6:13.0,R. Rondo makes 2-pt layup from 3 ft,,71,77
+3,5:57.0,,P. Siakam misses 2-pt layup from 2 ft,71,77
+3,5:53.0,,Offensive rebound by P. Siakam,71,77
+3,5:53.0,,P. Siakam makes 2-pt layup from 2 ft,71,79
+3,5:53.0,Violation by Team (def goaltending),,71,79
+3,5:53.0,LA Lakers full timeout,,71,79
+3,5:53.0,A. Caruso enters the game for R. Rondo,,71,79
+3,5:44.0,Shooting foul by M. Gasol (drawn by K. Kuzma),,71,79
+3,5:44.0,K. Kuzma misses free throw 1 of 2,,71,79
+3,5:44.0,Offensive rebound by Team,,71,79
+3,5:44.0,K. Kuzma misses free throw 2 of 2,,71,79
+3,5:41.0,,Defensive rebound by P. Siakam,71,79
+3,5:28.0,,K. Leonard makes 3-pt jump shot from 25 ft (assist by M. Gasol),71,82
+3,5:08.0,K. Kuzma misses 2-pt layup from 4 ft (block by P. Siakam),,71,82
+3,5:05.0,,Defensive rebound by D. Green,71,82
+3,5:05.0,,Personal take foul by L. James (drawn by K. Leonard),71,82
+3,4:56.0,,Turnover by D. Green (bad pass; steal by R. Bullock),71,82
+3,4:52.0,L. James makes 2-pt dunk from 1 ft (assist by A. Caruso),,73,82
+3,4:40.0,,Personal foul by L. James (drawn by K. Leonard),73,82
+3,4:31.0,,Turnover by K. Leonard (bad pass; steal by R. Bullock),73,82
+3,4:22.0,Personal foul by K. Leonard (drawn by L. James),,73,82
+3,4:11.0,K. Kuzma makes 2-pt hook shot from 9 ft,,75,82
+3,4:09.0,,Personal foul by J. McGee (drawn by J. Lin),75,82
+3,4:09.0,R. Rondo enters the game for L. James,,75,82
+3,4:09.0,M. Wagner enters the game for J. McGee,,75,82
+3,3:57.0,,Turnover by D. Green (traveling),75,82
+3,3:46.0,K. Kuzma misses 3-pt jump shot from 25 ft,,75,82
+3,3:43.0,,Defensive rebound by P. Siakam,75,82
+3,3:27.0,,Shooting foul by K. Kuzma (drawn by K. Leonard),75,82
+3,3:27.0,,K. Leonard makes free throw 1 of 2,75,83
+3,3:27.0,J. Hart enters the game for K. Kuzma,,75,83
+3,3:27.0,,O. Anunoby enters the game for D. Green,75,83
+3,3:27.0,,N. Powell enters the game for P. Siakam,75,83
+3,3:27.0,,K. Leonard makes free throw 2 of 2,75,84
+3,3:20.0,R. Rondo makes 2-pt hook shot from 2 ft,,77,84
+3,3:06.0,,N. Powell makes 2-pt layup from 2 ft (assist by M. Gasol),77,86
+3,2:55.0,R. Bullock misses 3-pt jump shot from 23 ft,,77,86
+3,2:53.0,,Defensive rebound by K. Leonard,77,86
+3,2:42.0,,O. Anunoby makes 2-pt layup from 2 ft (assist by J. Lin),77,88
+3,2:41.0,LA Lakers full timeout,,77,88
+3,2:41.0,K. Caldwell-Pope enters the game for R. Bullock,,77,88
+3,2:41.0,,P. McCaw enters the game for M. Gasol,77,88
+3,2:41.0,,M. Miller enters the game for K. Leonard,77,88
+3,2:41.0,,P. Siakam enters the game for J. Lin,77,88
+3,2:21.0,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,,77,88
+3,2:18.0,,Defensive rebound by O. Anunoby,77,88
+3,2:09.0,,Shooting foul by A. Caruso (drawn by P. McCaw),77,88
+3,2:09.0,,P. McCaw makes free throw 1 of 2,77,89
+3,2:09.0,J. Williams enters the game for M. Wagner,,77,89
+3,2:09.0,,P. McCaw makes free throw 2 of 2,77,90
+3,1:52.0,Shooting foul by P. McCaw (drawn by A. Caruso),,77,90
+3,1:52.0,A. Caruso makes free throw 1 of 2,,78,90
+3,1:52.0,A. Caruso makes free throw 2 of 2,,79,90
+3,1:33.0,,O. Anunoby misses 3-pt jump shot from 25 ft,79,90
+3,1:29.0,Defensive rebound by K. Caldwell-Pope,,79,90
+3,1:22.0,Turnover by J. Williams (traveling),,79,90
+3,1:10.0,,P. Siakam misses 2-pt hook shot from 3 ft,79,90
+3,1:06.0,Defensive rebound by J. Williams,,79,90
+3,1:01.0,Turnover by J. Williams (lost ball; steal by O. Anunoby),,79,90
+3,0:54.0,,N. Powell misses 3-pt jump shot from 23 ft,79,90
+3,0:52.0,Defensive rebound by J. Williams,,79,90
+3,0:44.0,Personal foul by M. Miller (drawn by R. Rondo),,79,90
+3,0:44.0,R. Rondo makes free throw 1 of 2,,80,90
+3,0:44.0,R. Rondo makes free throw 2 of 2,,81,90
+3,0:30.0,,N. Powell misses 2-pt jump shot from 4 ft,81,90
+3,0:28.0,Defensive rebound by R. Rondo,,81,90
+3,0:05.0,K. Caldwell-Pope makes 3-pt jump shot from 23 ft (assist by R. Rondo),,84,90
+3,0:00.0,,P. Siakam misses 3-pt jump shot from 27 ft,84,90
+3,0:00.0,,Offensive rebound by Team,84,90
+4,11:42.0,,M. Miller makes 3-pt jump shot from 23 ft (assist by N. Powell),84,93
+4,11:25.0,Personal foul by P. McCaw (drawn by J. Hart),,84,93
+4,11:19.0,A. Caruso misses 2-pt jump shot from 14 ft,,84,93
+4,11:16.0,Offensive rebound by A. Caruso,,84,93
+4,11:14.0,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,,84,93
+4,11:14.0,Offensive rebound by Team,,84,93
+4,11:14.0,,Loose ball foul by N. Powell (drawn by J. Williams),84,93
+4,11:02.0,Turnover by L. James (lost ball; steal by O. Anunoby),,84,93
+4,10:57.0,,P. McCaw misses 2-pt layup from 2 ft,84,93
+4,10:50.0,,Offensive rebound by N. Powell,84,93
+4,10:50.0,,N. Powell makes 2-pt layup at rim,84,95
+4,10:40.0,Turnover by K. Caldwell-Pope (lost ball; steal by M. Miller),,84,95
+4,10:25.0,,N. Powell misses 2-pt hook shot from 5 ft,84,95
+4,10:23.0,Defensive rebound by J. Williams,,84,95
+4,10:15.0,Shooting foul by M. Miller (drawn by L. James),,84,95
+4,10:15.0,L. James misses free throw 1 of 2,,84,95
+4,10:15.0,Offensive rebound by Team,,84,95
+4,10:15.0,L. James misses free throw 2 of 2,,84,95
+4,10:13.0,,Defensive rebound by O. Anunoby,84,95
+4,9:49.0,,N. Powell misses 2-pt jump shot from 20 ft,84,95
+4,9:47.0,,Offensive rebound by P. Siakam,84,95
+4,9:42.0,,M. Miller misses 3-pt jump shot from 25 ft,84,95
+4,9:39.0,Defensive rebound by Team,,84,95
+4,9:39.0,A. Ingram enters the game for J. Williams,,84,95
+4,9:18.0,L. James misses 2-pt jump shot from 13 ft,,84,95
+4,9:14.0,,Defensive rebound by N. Powell,84,95
+4,9:07.0,,Turnover by O. Anunoby (lost ball; steal by A. Ingram),84,95
+4,9:01.0,L. James makes 2-pt dunk from 1 ft (assist by K. Caldwell-Pope),,86,95
+4,8:40.0,,O. Anunoby makes 3-pt jump shot from 24 ft (assist by P. Siakam),86,98
+4,8:26.0,A. Caruso misses 2-pt layup from 3 ft (block by P. Siakam),,86,98
+4,8:24.0,,Defensive rebound by N. Powell,86,98
+4,8:20.0,,M. Miller misses 3-pt jump shot from 25 ft,86,98
+4,8:17.0,,Offensive rebound by O. Anunoby,86,98
+4,8:17.0,,O. Anunoby misses 2-pt layup from 4 ft,86,98
+4,8:14.0,Defensive rebound by A. Caruso,,86,98
+4,8:12.0,K. Caldwell-Pope makes 2-pt layup from 2 ft (assist by A. Caruso),,88,98
+4,7:59.0,,N. Powell misses 3-pt jump shot from 24 ft,88,98
+4,7:59.0,Defensive rebound by J. Hart,,88,98
+4,7:44.0,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,,88,98
+4,7:42.0,,Defensive rebound by N. Powell,88,98
+4,7:35.0,,M. Miller makes 3-pt jump shot from 23 ft (assist by P. Siakam),88,101
+4,7:34.0,LA Lakers full timeout,,88,101
+4,7:34.0,K. Kuzma enters the game for K. Caldwell-Pope,,88,101
+4,7:34.0,,K. Leonard enters the game for P. Siakam,88,101
+4,7:30.0,Turnover by A. Caruso (lost ball; steal by N. Powell),,88,101
+4,7:29.0,,Shooting foul by A. Caruso (drawn by N. Powell),88,101
+4,7:29.0,,N. Powell makes free throw 1 of 2,88,102
+4,7:29.0,,N. Powell makes free throw 2 of 2,88,103
+4,7:18.0,A. Ingram misses 2-pt jump shot from 5 ft,,88,103
+4,7:16.0,,Defensive rebound by K. Leonard,88,103
+4,7:00.0,,K. Leonard misses 2-pt jump shot from 20 ft,88,103
+4,6:58.0,Defensive rebound by A. Caruso,,88,103
+4,6:47.0,K. Kuzma makes 2-pt hook shot from 3 ft (assist by L. James),,90,103
+4,6:23.0,,K. Leonard misses 3-pt jump shot from 23 ft,90,103
+4,6:20.0,Defensive rebound by A. Caruso,,90,103
+4,6:15.0,A. Ingram misses 3-pt jump shot from 23 ft,,90,103
+4,6:13.0,,Defensive rebound by N. Powell,90,103
+4,6:06.0,,M. Miller misses 3-pt jump shot from 25 ft,90,103
+4,6:03.0,Defensive rebound by A. Ingram,,90,103
+4,5:58.0,A. Ingram misses 3-pt jump shot from 25 ft,,90,103
+4,5:54.0,Offensive rebound by K. Kuzma,,90,103
+4,5:54.0,K. Kuzma misses 2-pt layup from 3 ft (block by N. Powell),,90,103
+4,5:50.0,Offensive rebound by A. Ingram,,90,103
+4,5:48.0,L. James makes 2-pt dunk from 2 ft (assist by A. Caruso),,92,103
+4,5:35.0,,N. Powell makes 2-pt hook shot from 5 ft,92,105
+4,5:20.0,Shooting foul by P. McCaw (drawn by L. James),,92,105
+4,5:20.0,L. James misses free throw 1 of 2,,92,105
+4,5:20.0,Offensive rebound by Team,,92,105
+4,5:20.0,R. Bullock enters the game for A. Caruso,,92,105
+4,5:20.0,R. Rondo enters the game for A. Ingram,,92,105
+4,5:20.0,,E. Moreland enters the game for M. Miller,92,105
+4,5:20.0,,P. Siakam enters the game for N. Powell,92,105
+4,5:20.0,L. James makes free throw 2 of 2,,93,105
+4,5:01.0,,Turnover by P. McCaw (bad pass),93,105
+4,4:54.0,J. Hart makes 3-pt jump shot from 25 ft (assist by R. Rondo),,96,105
+4,4:32.0,,Turnover by E. Moreland (3 sec),96,105
+4,4:14.0,L. James misses 2-pt layup from 4 ft (block by P. McCaw),,96,105
+4,4:14.0,,Defensive rebound by E. Moreland,96,105
+4,4:06.0,,Toronto full timeout,96,105
+4,3:56.0,,Turnover by K. Leonard (bad pass),96,105
+4,3:49.0,Offensive foul by R. Bullock (drawn by P. McCaw),,96,105
+4,3:49.0,Turnover by R. Bullock (offensive foul),,96,105
+4,3:31.0,,K. Leonard misses 2-pt jump shot from 9 ft,96,105
+4,3:28.0,Defensive rebound by R. Bullock,,96,105
+4,3:25.0,Turnover by L. James (bad pass),,96,105
+4,3:13.0,,K. Leonard misses 2-pt layup from 1 ft,96,105
+4,3:06.0,,Offensive rebound by E. Moreland,96,105
+4,3:06.0,,E. Moreland makes 2-pt layup at rim,96,107
+4,2:53.0,R. Bullock misses 3-pt jump shot from 26 ft,,96,107
+4,2:50.0,Offensive rebound by Team,,96,107
+4,2:35.0,L. James makes 2-pt layup from 3 ft,,98,107
+4,2:18.0,,Shooting foul by J. Hart (drawn by K. Leonard),98,107
+4,2:18.0,,K. Leonard makes free throw 1 of 2,98,108
+4,2:18.0,K. Caldwell-Pope enters the game for L. James,,98,108
+4,2:18.0,,K. Leonard makes free throw 2 of 2,98,109
+4,1:58.0,Turnover by R. Rondo (bad pass; steal by K. Leonard),,98,109
+4,1:55.0,,Turnover by K. Leonard (lost ball; steal by K. Caldwell-Pope),98,109
+4,1:44.0,R. Bullock misses 3-pt jump shot from 23 ft,,98,109
+4,1:42.0,,Defensive rebound by E. Moreland,98,109
+4,1:28.0,,Shooting foul by K. Caldwell-Pope (drawn by P. Siakam),98,109
+4,1:28.0,,P. Siakam makes free throw 1 of 2,98,110
+4,1:28.0,,J. Loyd enters the game for O. Anunoby,98,110
+4,1:28.0,,M. Miller enters the game for K. Leonard,98,110
+4,1:28.0,,P. Siakam makes free throw 2 of 2,98,111
+4,1:14.0,K. Kuzma misses 2-pt hook shot from 6 ft,,98,111
+4,1:12.0,,Defensive rebound by E. Moreland,98,111
+4,0:58.0,,P. Siakam misses 2-pt layup from 4 ft (block by K. Caldwell-Pope),98,111
+4,0:58.0,,Offensive rebound by Team,98,111
+4,0:58.0,A. Caruso enters the game for J. Hart,,98,111
+4,0:58.0,A. Ingram enters the game for R. Rondo,,98,111
+4,0:58.0,,C. Boucher enters the game for P. Siakam,98,111
+4,0:50.0,,Turnover by P. McCaw (lost ball; steal by K. Kuzma),98,111
+4,0:30.0,A. Ingram misses 3-pt jump shot from 25 ft,,98,111
+4,0:28.0,,Defensive rebound by C. Boucher,98,111
+4,0:20.0,,J. Loyd misses 3-pt jump shot from 24 ft,98,111
+4,0:16.0,,Offensive rebound by E. Moreland,98,111

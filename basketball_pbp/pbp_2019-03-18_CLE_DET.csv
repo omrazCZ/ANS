@@ -1,0 +1,417 @@
+QUARTER,TIME_REMAINING,DETROIT_ACTION,CLEVELAND_ACTION,DETROIT_SCORE,CLEVELAND_SCORE
+1,11:44.0,Offensive foul by W. Ellington (drawn by C. Sexton),,0,0
+1,11:44.0,Turnover by W. Ellington (offensive foul),,0,0
+1,11:30.0,,C. Osman misses 2-pt jump shot from 10 ft,0,0
+1,11:28.0,,Offensive rebound by B. Knight,0,0
+1,11:26.0,,B. Knight misses 3-pt jump shot from 26 ft,0,0
+1,11:26.0,Defensive rebound by A. Drummond,,0,0
+1,11:13.0,Turnover by T. Maker (lost ball; steal by D. Nwaba),,0,0
+1,11:03.0,,D. Nwaba makes 2-pt jump shot from 10 ft (assist by C. Osman),0,2
+1,10:52.0,A. Drummond misses 2-pt hook shot from 16 ft,,0,2
+1,10:50.0,,Defensive rebound by D. Nwaba,0,2
+1,10:46.0,,A. Žižić makes 2-pt layup from 2 ft (assist by D. Nwaba),0,4
+1,10:26.0,W. Ellington misses 3-pt jump shot from 23 ft,,0,4
+1,10:26.0,,Defensive rebound by C. Osman,0,4
+1,10:17.0,,A. Žižić misses 2-pt layup from 1 ft,0,4
+1,10:14.0,Defensive rebound by A. Drummond,,0,4
+1,10:11.0,R. Jackson makes 2-pt jump shot from 15 ft,,2,4
+1,9:47.0,,A. Žižić misses 2-pt hook shot from 8 ft,2,4
+1,9:47.0,Defensive rebound by A. Drummond,,2,4
+1,9:34.0,T. Maker makes 3-pt jump shot from 23 ft (assist by R. Jackson),,5,4
+1,9:23.0,,C. Sexton misses 2-pt layup from 9 ft,5,4
+1,9:23.0,Defensive rebound by A. Drummond,,5,4
+1,9:13.0,Turnover by R. Jackson (lost ball; steal by C. Sexton),,5,4
+1,9:10.0,,C. Sexton makes 2-pt layup from 1 ft,5,6
+1,8:58.0,W. Ellington makes 2-pt layup from 1 ft (assist by A. Drummond),,7,6
+1,8:40.0,,C. Sexton misses 2-pt jump shot from 8 ft (block by B. Brown),7,6
+1,8:37.0,Defensive rebound by B. Brown,,7,6
+1,8:28.0,W. Ellington misses 2-pt layup from 14 ft (block by D. Nwaba),,7,6
+1,8:24.0,,Defensive rebound by B. Knight,7,6
+1,8:20.0,,B. Knight makes 2-pt jump shot from 13 ft,7,8
+1,8:03.0,R. Jackson makes 3-pt jump shot from 28 ft (assist by B. Brown),,10,8
+1,7:47.0,,C. Sexton makes 3-pt jump shot from 25 ft (assist by A. Žižić),10,11
+1,7:28.0,W. Ellington misses 3-pt jump shot from 26 ft,,10,11
+1,7:25.0,,Defensive rebound by A. Žižić,10,11
+1,7:16.0,,C. Osman makes 2-pt jump shot from 12 ft (assist by B. Knight),10,13
+1,7:03.0,R. Jackson makes 2-pt jump shot from 10 ft,,12,13
+1,6:43.0,,Shooting foul by T. Maker (drawn by D. Nwaba),12,13
+1,6:43.0,,Cleveland full timeout,12,13
+1,6:43.0,,M. Chriss enters the game for B. Knight,12,13
+1,6:43.0,,J. Clarkson enters the game for A. Žižić,12,13
+1,6:43.0,,D. Nwaba makes free throw 1 of 2,12,14
+1,6:43.0,,D. Nwaba makes free throw 2 of 2,12,15
+1,6:23.0,Turnover by W. Ellington (traveling),,12,15
+1,6:01.0,,C. Osman misses 2-pt jump shot from 19 ft,12,15
+1,5:57.0,,Offensive rebound by M. Chriss,12,15
+1,5:55.0,,D. Nwaba misses 2-pt jump shot from 9 ft,12,15
+1,5:55.0,,Offensive rebound by Team,12,15
+1,5:54.0,,J. Clarkson makes 2-pt jump shot from 16 ft (assist by C. Osman),12,17
+1,5:34.0,W. Ellington makes 3-pt jump shot from 26 ft (assist by A. Drummond),,15,17
+1,5:19.0,,Shooting foul by A. Drummond (drawn by C. Sexton),15,17
+1,5:19.0,,C. Sexton makes free throw 1 of 2,15,18
+1,5:19.0,L. Kennard enters the game for B. Brown,,15,18
+1,5:19.0,,N. Stauskas enters the game for D. Nwaba,15,18
+1,5:19.0,,C. Sexton makes free throw 2 of 2,15,19
+1,5:07.0,R. Jackson makes 2-pt dunk from 1 ft,,17,19
+1,4:40.0,,C. Sexton misses 2-pt jump shot from 8 ft (block by L. Kennard),17,19
+1,4:36.0,Defensive rebound by T. Maker,,17,19
+1,4:34.0,A. Drummond misses 2-pt layup from 3 ft (block by M. Chriss),,17,19
+1,4:34.0,Offensive rebound by Team,,17,19
+1,4:34.0,G. Robinson enters the game for T. Maker,,17,19
+1,4:34.0,,B. Knight enters the game for C. Sexton,17,19
+1,4:18.0,A. Drummond misses 2-pt jump shot from 7 ft,,17,19
+1,4:14.0,Offensive rebound by A. Drummond,,17,19
+1,4:12.0,A. Drummond misses 2-pt layup at rim,,17,19
+1,4:11.0,,Defensive rebound by M. Chriss,17,19
+1,4:03.0,,C. Osman makes 2-pt jump shot from 11 ft (assist by B. Knight),17,21
+1,3:55.0,L. Kennard misses 3-pt jump shot from 26 ft,,17,21
+1,3:51.0,Offensive rebound by W. Ellington,,17,21
+1,3:50.0,A. Drummond makes 2-pt dunk from 6 ft (assist by W. Ellington),,19,21
+1,3:37.0,,B. Knight misses 2-pt layup from 1 ft,19,21
+1,3:37.0,Defensive rebound by A. Drummond,,19,21
+1,3:29.0,G. Robinson makes 2-pt layup from 2 ft (assist by W. Ellington),,21,21
+1,3:10.0,,J. Clarkson misses 3-pt jump shot from 23 ft,21,21
+1,3:07.0,Defensive rebound by L. Kennard,,21,21
+1,3:00.0,A. Drummond makes 2-pt layup from 1 ft (assist by L. Kennard),,23,21
+1,3:00.0,,Cleveland full timeout,23,21
+1,3:00.0,L. Galloway enters the game for W. Ellington,,23,21
+1,3:00.0,I. Smith enters the game for R. Jackson,,23,21
+1,2:46.0,,M. Chriss makes 2-pt layup from 1 ft (assist by J. Clarkson),23,23
+1,2:30.0,A. Drummond misses 2-pt jump shot from 11 ft,,23,23
+1,2:28.0,,Defensive rebound by M. Chriss,23,23
+1,2:20.0,,M. Chriss misses 3-pt jump shot from 26 ft,23,23
+1,2:18.0,Defensive rebound by L. Kennard,,23,23
+1,2:14.0,Personal foul by M. Chriss (drawn by A. Drummond),,23,23
+1,2:06.0,A. Drummond makes 2-pt dunk from 1 ft (assist by I. Smith),,25,23
+1,1:45.0,,B. Knight makes 2-pt jump shot from 16 ft,25,25
+1,1:32.0,L. Galloway makes 2-pt layup from 1 ft (assist by A. Drummond),,27,25
+1,1:10.0,,N. Stauskas misses 3-pt jump shot from 26 ft,27,25
+1,1:08.0,Defensive rebound by A. Drummond,,27,25
+1,0:54.0,Personal foul by B. Knight (drawn by G. Robinson),,27,25
+1,0:46.0,I. Smith makes 2-pt jump shot from 19 ft,,29,25
+1,0:36.0,,J. Clarkson misses 2-pt jump shot from 1 ft,29,25
+1,0:32.0,,Offensive rebound by M. Chriss,29,25
+1,0:32.0,,M. Chriss misses 2-pt layup from 1 ft,29,25
+1,0:31.0,Defensive rebound by A. Drummond,,29,25
+1,0:21.0,Shooting foul by J. Clarkson (drawn by L. Kennard),,29,25
+1,0:21.0,L. Kennard makes free throw 1 of 3,,30,25
+1,0:21.0,L. Kennard makes free throw 2 of 3,,31,25
+1,0:21.0,L. Kennard makes free throw 3 of 3,,32,25
+1,0:08.0,,Personal foul by I. Smith (drawn by B. Knight),32,25
+1,0:01.0,,C. Osman misses 3-pt jump shot from 25 ft,32,25
+1,0:00.0,Defensive rebound by L. Kennard,,32,25
+2,11:39.0,,B. Knight makes 2-pt layup from 1 ft,32,27
+2,11:21.0,Z. Pachulia makes 2-pt hook shot from 6 ft,,34,27
+2,11:21.0,Shooting foul by N. Stauskas (drawn by Z. Pachulia),,34,27
+2,11:21.0,Z. Pachulia makes free throw 1 of 1,,35,27
+2,11:04.0,,N. Stauskas makes 2-pt layup from 1 ft,35,29
+2,10:54.0,L. Kennard misses 2-pt jump shot from 22 ft,,35,29
+2,10:54.0,,Defensive rebound by B. Knight,35,29
+2,10:45.0,,J. Clarkson misses 2-pt jump shot from 13 ft,35,29
+2,10:42.0,Defensive rebound by Z. Pachulia,,35,29
+2,10:31.0,L. Galloway misses 2-pt jump shot from 9 ft,,35,29
+2,10:29.0,Offensive rebound by Z. Pachulia,,35,29
+2,10:28.0,L. Kennard makes 3-pt jump shot from 28 ft (assist by Z. Pachulia),,38,29
+2,10:10.0,,B. Knight makes 3-pt jump shot from 22 ft,38,32
+2,9:55.0,L. Kennard misses 3-pt jump shot from 26 ft,,38,32
+2,9:55.0,Offensive rebound by G. Robinson,,38,32
+2,9:47.0,Personal foul by D. Nwaba (drawn by I. Smith),,38,32
+2,9:38.0,Shooting foul by C. Frye (drawn by L. Galloway),,38,32
+2,9:38.0,L. Galloway makes free throw 1 of 2,,39,32
+2,9:38.0,L. Galloway makes free throw 2 of 2,,40,32
+2,9:22.0,,B. Knight makes 3-pt jump shot from 24 ft,40,35
+2,9:08.0,G. Robinson makes 3-pt jump shot from 26 ft (assist by I. Smith),,43,35
+2,8:43.0,,N. Stauskas misses 2-pt layup from 6 ft,43,35
+2,8:43.0,Defensive rebound by Z. Pachulia,,43,35
+2,8:35.0,I. Smith makes 3-pt jump shot from 25 ft,,46,35
+2,8:33.0,,Cleveland full timeout,46,35
+2,8:33.0,,C. Sexton enters the game for C. Frye,46,35
+2,8:33.0,,A. Žižić enters the game for B. Knight,46,35
+2,8:13.0,,J. Clarkson makes 2-pt jump shot from 11 ft,46,37
+2,7:57.0,L. Kennard misses 2-pt jump shot from 16 ft,,46,37
+2,7:55.0,Offensive rebound by G. Robinson,,46,37
+2,7:50.0,G. Robinson misses 3-pt jump shot from 23 ft,,46,37
+2,7:48.0,,Defensive rebound by J. Clarkson,46,37
+2,7:41.0,,Personal foul by G. Robinson (drawn by J. Clarkson),46,37
+2,7:41.0,,C. Osman enters the game for N. Stauskas,46,37
+2,7:37.0,,Shooting foul by Z. Pachulia (drawn by A. Žižić),46,37
+2,7:37.0,,A. Žižić makes free throw 1 of 2,46,38
+2,7:37.0,,A. Žižić makes free throw 2 of 2,46,39
+2,7:23.0,G. Robinson misses 2-pt jump shot from 12 ft,,46,39
+2,7:20.0,,Defensive rebound by C. Sexton,46,39
+2,7:08.0,,C. Sexton makes 2-pt layup from 1 ft,46,41
+2,6:59.0,L. Galloway misses 3-pt jump shot from 24 ft,,46,41
+2,6:57.0,,Defensive rebound by A. Žižić,46,41
+2,6:53.0,,D. Nwaba makes 2-pt jump shot from 6 ft,46,43
+2,6:53.0,,Shooting foul by Z. Pachulia (drawn by D. Nwaba),46,43
+2,6:53.0,,D. Nwaba misses free throw 1 of 1,46,43
+2,6:50.0,Defensive rebound by I. Smith,,46,43
+2,6:45.0,Detroit full timeout,,46,43
+2,6:45.0,A. Drummond enters the game for Z. Pachulia,,46,43
+2,6:45.0,T. Maker enters the game for G. Robinson,,46,43
+2,6:30.0,I. Smith misses 2-pt jump shot from 17 ft,,46,43
+2,6:27.0,,Defensive rebound by A. Žižić,46,43
+2,6:20.0,,A. Žižić misses 2-pt layup from 2 ft,46,43
+2,6:16.0,Defensive rebound by T. Maker,,46,43
+2,6:10.0,L. Galloway makes 3-pt jump shot from 26 ft (assist by T. Maker),,49,43
+2,5:54.0,,J. Clarkson misses 3-pt jump shot from 25 ft,49,43
+2,5:51.0,Defensive rebound by I. Smith,,49,43
+2,5:51.0,,B. Knight enters the game for J. Clarkson,49,43
+2,5:38.0,L. Kennard misses 3-pt jump shot from 24 ft,,49,43
+2,5:35.0,,Defensive rebound by D. Nwaba,49,43
+2,5:33.0,,D. Nwaba makes 2-pt dunk from 1 ft (assist by C. Osman),49,45
+2,5:10.0,L. Galloway misses 2-pt layup from 1 ft,,49,45
+2,5:07.0,,Defensive rebound by A. Žižić,49,45
+2,4:59.0,,B. Knight makes 2-pt jump shot from 9 ft,49,47
+2,4:48.0,Shooting foul by A. Žižić (drawn by A. Drummond),,49,47
+2,4:48.0,A. Drummond makes free throw 1 of 2,,50,47
+2,4:48.0,W. Ellington enters the game for L. Kennard,,50,47
+2,4:48.0,R. Jackson enters the game for I. Smith,,50,47
+2,4:48.0,A. Drummond makes free throw 2 of 2,,51,47
+2,4:32.0,,C. Osman misses 2-pt jump shot from 11 ft,51,47
+2,4:30.0,Defensive rebound by A. Drummond,,51,47
+2,4:26.0,T. Maker misses 3-pt jump shot from 26 ft,,51,47
+2,4:23.0,,Defensive rebound by C. Osman,51,47
+2,4:17.0,,C. Osman makes 2-pt jump shot from 20 ft,51,49
+2,4:17.0,,Shooting foul by W. Ellington (drawn by C. Osman),51,49
+2,4:17.0,,C. Osman makes free throw 1 of 1,51,50
+2,4:03.0,Turnover by R. Jackson (bad pass; steal by C. Osman),,51,50
+2,3:59.0,,C. Sexton makes 2-pt layup from 1 ft (assist by C. Osman),51,52
+2,3:52.0,Detroit full timeout,,51,52
+2,3:41.0,L. Galloway misses 3-pt jump shot from 23 ft,,51,52
+2,3:38.0,,Defensive rebound by D. Nwaba,51,52
+2,3:35.0,,A. Žižić makes 2-pt dunk at rim (assist by D. Nwaba),51,54
+2,3:21.0,W. Ellington makes 3-pt jump shot from 27 ft,,54,54
+2,3:11.0,,B. Knight misses 3-pt jump shot from 26 ft,54,54
+2,3:09.0,Defensive rebound by Team,,54,54
+2,3:09.0,L. Kennard enters the game for L. Galloway,,54,54
+2,3:09.0,,J. Clarkson enters the game for B. Knight,54,54
+2,2:56.0,R. Jackson makes 2-pt jump shot from 14 ft,,56,54
+2,2:37.0,,Turnover by A. Žižić (out of bounds lost ball),56,54
+2,2:17.0,L. Kennard misses 2-pt jump shot from 12 ft,,56,54
+2,2:12.0,Offensive rebound by A. Drummond,,56,54
+2,2:12.0,A. Drummond misses 2-pt layup at rim,,56,54
+2,2:12.0,Offensive rebound by A. Drummond,,56,54
+2,2:10.0,A. Drummond makes 2-pt layup at rim,,58,54
+2,2:04.0,,C. Sexton makes 2-pt layup at rim,58,56
+2,1:41.0,T. Maker misses 3-pt jump shot from 24 ft,,58,56
+2,1:37.0,Offensive rebound by A. Drummond,,58,56
+2,1:37.0,A. Drummond misses 2-pt layup at rim,,58,56
+2,1:37.0,Offensive rebound by A. Drummond,,58,56
+2,1:37.0,A. Drummond misses 2-pt layup at rim,,58,56
+2,1:37.0,Offensive rebound by A. Drummond,,58,56
+2,1:37.0,Shooting foul by A. Žižić (drawn by A. Drummond),,58,56
+2,1:37.0,A. Drummond makes free throw 1 of 2,,59,56
+2,1:37.0,,M. Chriss enters the game for A. Žižić,59,56
+2,1:37.0,A. Drummond misses free throw 2 of 2,,59,56
+2,1:35.0,Offensive rebound by R. Jackson,,59,56
+2,1:32.0,L. Kennard misses 3-pt jump shot from 26 ft,,59,56
+2,1:30.0,,Defensive rebound by Team,59,56
+2,1:20.0,,Turnover by C. Sexton (bad pass; steal by W. Ellington),59,56
+2,1:02.0,R. Jackson misses 3-pt jump shot from 24 ft,,59,56
+2,0:58.0,,Defensive rebound by C. Osman,59,56
+2,0:57.0,,C. Osman makes 2-pt layup from 1 ft,59,58
+2,0:46.0,A. Drummond makes 2-pt layup from 1 ft (assist by R. Jackson),,61,58
+2,0:37.0,,C. Sexton misses 2-pt layup from 1 ft,61,58
+2,0:33.0,,Offensive rebound by M. Chriss,61,58
+2,0:33.0,,M. Chriss misses 2-pt layup from 1 ft,61,58
+2,0:32.0,Defensive rebound by A. Drummond,,61,58
+2,0:28.0,W. Ellington misses 3-pt jump shot from 26 ft,,61,58
+2,0:26.0,,Defensive rebound by J. Clarkson,61,58
+2,0:07.0,,J. Clarkson makes 2-pt jump shot from 6 ft,61,60
+2,0:00.0,T. Maker misses 2-pt layup from 2 ft (block by M. Chriss),,61,60
+2,0:00.0,Offensive rebound by Team,,61,60
+3,11:49.0,,Personal foul by B. Brown (drawn by C. Sexton),61,60
+3,11:40.0,,C. Sexton misses 2-pt jump shot from 12 ft (block by B. Brown),61,60
+3,11:37.0,Defensive rebound by B. Brown,,61,60
+3,11:33.0,B. Brown misses 2-pt layup at rim,,61,60
+3,11:29.0,,Defensive rebound by B. Knight,61,60
+3,11:25.0,,B. Knight misses 2-pt layup from 1 ft,61,60
+3,11:22.0,Defensive rebound by R. Jackson,,61,60
+3,11:21.0,B. Brown makes 2-pt layup from 1 ft (assist by R. Jackson),,63,60
+3,11:21.0,Shooting foul by D. Nwaba (drawn by B. Brown),,63,60
+3,11:21.0,B. Brown makes free throw 1 of 1,,64,60
+3,10:57.0,,C. Sexton makes 2-pt jump shot from 16 ft,64,62
+3,10:40.0,R. Jackson makes 3-pt jump shot from 25 ft (assist by A. Drummond),,67,62
+3,10:22.0,,D. Nwaba makes 2-pt hook shot from 5 ft,67,64
+3,9:57.0,R. Jackson misses 3-pt jump shot from 23 ft,,67,64
+3,9:56.0,Offensive rebound by Team,,67,64
+3,9:56.0,Turnover by Team (shot clock),,67,64
+3,9:32.0,,Turnover by D. Nwaba (bad pass; steal by A. Drummond),67,64
+3,9:25.0,Turnover by R. Jackson (bad pass; steal by A. Žižić),,67,64
+3,9:22.0,,Shooting foul by B. Brown (drawn by A. Žižić),67,64
+3,9:22.0,,A. Žižić makes free throw 1 of 2,67,65
+3,9:22.0,,A. Žižić misses free throw 2 of 2,67,65
+3,9:18.0,Defensive rebound by T. Maker,,67,65
+3,9:09.0,W. Ellington misses 3-pt jump shot from 25 ft,,67,65
+3,9:05.0,,Defensive rebound by C. Sexton,67,65
+3,8:47.0,,Turnover by C. Sexton (traveling),67,65
+3,8:35.0,A. Drummond misses 2-pt layup from 8 ft,,67,65
+3,8:34.0,,Defensive rebound by A. Žižić,67,65
+3,8:29.0,,C. Sexton makes 3-pt jump shot from 28 ft (assist by D. Nwaba),67,68
+3,8:05.0,B. Brown makes 2-pt jump shot from 7 ft (assist by T. Maker),,69,68
+3,7:46.0,,Personal foul by W. Ellington (drawn by C. Sexton),69,68
+3,7:33.0,,C. Osman makes 3-pt jump shot from 27 ft (assist by B. Knight),69,71
+3,7:09.0,Turnover by R. Jackson (bad pass; steal by C. Sexton),,69,71
+3,7:05.0,,C. Osman makes 2-pt layup from 1 ft (assist by C. Sexton),69,73
+3,7:05.0,Detroit full timeout,,69,73
+3,6:53.0,W. Ellington makes 3-pt jump shot from 23 ft (assist by T. Maker),,72,73
+3,6:28.0,,Turnover by C. Sexton (bad pass; steal by B. Brown),72,73
+3,6:21.0,T. Maker misses 3-pt jump shot from 25 ft,,72,73
+3,6:16.0,,Defensive rebound by D. Nwaba,72,73
+3,6:07.0,,B. Knight makes 2-pt jump shot from 22 ft,72,75
+3,5:45.0,A. Drummond makes 2-pt layup from 1 ft,,74,75
+3,5:45.0,Shooting foul by A. Žižić (drawn by A. Drummond),,74,75
+3,5:45.0,G. Robinson enters the game for R. Jackson,,74,75
+3,5:45.0,I. Smith enters the game for T. Maker,,74,75
+3,5:45.0,,M. Chriss enters the game for B. Knight,74,75
+3,5:45.0,,J. Clarkson enters the game for A. Žižić,74,75
+3,5:45.0,A. Drummond misses free throw 1 of 1,,74,75
+3,5:43.0,,Defensive rebound by M. Chriss,74,75
+3,5:32.0,,C. Osman misses 2-pt layup from 2 ft (block by A. Drummond),74,75
+3,5:28.0,Defensive rebound by B. Brown,,74,75
+3,5:17.0,W. Ellington makes 3-pt jump shot from 25 ft (assist by A. Drummond),,77,75
+3,4:54.0,,J. Clarkson makes 2-pt layup from 2 ft,77,77
+3,4:43.0,W. Ellington makes 3-pt jump shot from 25 ft (assist by G. Robinson),,80,77
+3,4:20.0,,Shooting foul by B. Brown (drawn by J. Clarkson),80,77
+3,4:20.0,,J. Clarkson makes free throw 1 of 2,80,78
+3,4:20.0,,J. Clarkson makes free throw 2 of 2,80,79
+3,3:58.0,A. Drummond makes 2-pt layup from 1 ft,,82,79
+3,3:40.0,,Turnover by C. Sexton (lost ball; steal by I. Smith),82,79
+3,3:33.0,I. Smith makes 2-pt layup from 1 ft,,84,79
+3,3:33.0,,Cleveland full timeout,84,79
+3,3:33.0,,B. Knight enters the game for C. Sexton,84,79
+3,3:20.0,,J. Clarkson makes 2-pt jump shot from 17 ft (assist by C. Osman),84,81
+3,2:56.0,I. Smith makes 2-pt jump shot from 1 ft,,86,81
+3,2:41.0,,Shooting foul by I. Smith (drawn by C. Osman),86,81
+3,2:41.0,,C. Osman makes free throw 1 of 2,86,82
+3,2:41.0,,N. Stauskas enters the game for D. Nwaba,86,82
+3,2:41.0,,C. Osman makes free throw 2 of 2,86,83
+3,2:20.0,B. Brown misses 3-pt jump shot from 25 ft,,86,83
+3,2:16.0,,Defensive rebound by M. Chriss,86,83
+3,2:05.0,,B. Knight misses 2-pt jump shot from 11 ft,86,83
+3,2:00.0,,M. Chriss makes 2-pt layup at rim,86,85
+3,2:00.0,,Offensive rebound by M. Chriss,86,85
+3,2:00.0,L. Galloway enters the game for B. Brown,,86,85
+3,2:00.0,L. Kennard enters the game for W. Ellington,,86,85
+3,1:43.0,Turnover by L. Kennard (out of bounds lost ball),,86,85
+3,1:20.0,,M. Chriss makes 2-pt layup from 2 ft (assist by N. Stauskas),86,87
+3,1:05.0,Turnover by A. Drummond (bad pass; steal by B. Knight),,86,87
+3,0:56.0,,B. Knight misses 2-pt jump shot from 11 ft,86,87
+3,0:54.0,Defensive rebound by A. Drummond,,86,87
+3,0:50.0,Shooting foul by M. Chriss (drawn by I. Smith),,86,87
+3,0:50.0,I. Smith makes free throw 1 of 2,,87,87
+3,0:50.0,T. Maker enters the game for A. Drummond,,87,87
+3,0:50.0,I. Smith makes free throw 2 of 2,,88,87
+3,0:26.0,,M. Chriss misses 3-pt jump shot from 26 ft,88,87
+3,0:24.0,Defensive rebound by L. Kennard,,88,87
+3,0:04.0,I. Smith misses 2-pt jump shot from 18 ft,,88,87
+3,0:04.0,Offensive rebound by T. Maker,,88,87
+4,11:44.0,G. Robinson misses 2-pt jump shot from 16 ft,,88,87
+4,11:44.0,Offensive rebound by Team,,88,87
+4,11:37.0,I. Smith misses 3-pt jump shot from 25 ft,,88,87
+4,11:33.0,,Defensive rebound by M. Chriss,88,87
+4,11:22.0,,M. Chriss makes 2-pt dunk from 1 ft (assist by B. Knight),88,89
+4,11:11.0,Personal foul by B. Knight (drawn by T. Maker),,88,89
+4,11:03.0,I. Smith misses 2-pt jump shot from 6 ft,,88,89
+4,11:00.0,,Defensive rebound by N. Stauskas,88,89
+4,10:53.0,,N. Stauskas makes 3-pt jump shot from 26 ft (assist by M. Chriss),88,92
+4,10:33.0,G. Robinson makes 3-pt jump shot from 26 ft (assist by L. Kennard),,91,92
+4,10:14.0,,Shooting foul by L. Kennard (drawn by N. Stauskas),91,92
+4,10:14.0,,N. Stauskas makes free throw 1 of 3,91,93
+4,10:14.0,,N. Stauskas makes free throw 2 of 3,91,94
+4,10:14.0,,N. Stauskas makes free throw 3 of 3,91,95
+4,9:53.0,L. Galloway makes 3-pt jump shot from 23 ft (assist by I. Smith),,94,95
+4,9:29.0,,J. Clarkson makes 2-pt jump shot from 9 ft,94,97
+4,9:12.0,L. Kennard makes 3-pt jump shot from 26 ft,,97,97
+4,8:55.0,,N. Stauskas makes 2-pt jump shot from 17 ft (assist by B. Knight),97,99
+4,8:40.0,G. Robinson misses 3-pt jump shot from 26 ft,,97,99
+4,8:37.0,Offensive rebound by T. Maker,,97,99
+4,8:37.0,Turnover by T. Maker (bad pass),,97,99
+4,8:27.0,,Shooting foul by G. Robinson (drawn by M. Chriss),97,99
+4,8:27.0,,M. Chriss makes free throw 1 of 2,97,100
+4,8:27.0,A. Drummond enters the game for G. Robinson,,97,100
+4,8:27.0,,C. Sexton enters the game for B. Knight,97,100
+4,8:27.0,,M. Chriss makes free throw 2 of 2,97,101
+4,8:27.0,Detroit full timeout,,97,101
+4,8:27.0,W. Ellington enters the game for L. Kennard,,97,101
+4,8:12.0,I. Smith makes 2-pt jump shot from 4 ft,,99,101
+4,7:58.0,,Turnover by J. Clarkson (lost ball; steal by A. Drummond),99,101
+4,7:53.0,L. Galloway misses 3-pt jump shot from 23 ft,,99,101
+4,7:51.0,A. Drummond misses 2-pt layup from 1 ft,,99,101
+4,7:51.0,Offensive rebound by A. Drummond,,99,101
+4,7:51.0,Offensive rebound by A. Drummond,,99,101
+4,7:51.0,A. Drummond makes 2-pt layup from 1 ft,,101,101
+4,7:51.0,Shooting foul by M. Chriss (drawn by A. Drummond),,101,101
+4,7:51.0,A. Drummond misses free throw 1 of 1,,101,101
+4,7:48.0,,Defensive rebound by M. Chriss,101,101
+4,7:27.0,,N. Stauskas makes 2-pt jump shot from 15 ft (assist by M. Chriss),101,103
+4,7:00.0,I. Smith misses 2-pt layup at rim,,101,103
+4,6:54.0,A. Drummond makes 2-pt dunk from 1 ft,,103,103
+4,6:54.0,Offensive rebound by A. Drummond,,103,103
+4,6:42.0,,Turnover by D. Nwaba (bad pass; steal by W. Ellington),103,103
+4,6:35.0,W. Ellington makes 3-pt jump shot from 24 ft (assist by I. Smith),,106,103
+4,6:34.0,,Cleveland full timeout,106,103
+4,6:34.0,,C. Osman enters the game for M. Chriss,106,103
+4,6:34.0,,A. Žižić enters the game for J. Clarkson,106,103
+4,6:22.0,,Personal foul by L. Galloway (drawn by C. Osman),106,103
+4,6:08.0,,D. Nwaba makes 2-pt jump shot from 11 ft (assist by N. Stauskas),106,105
+4,5:56.0,Offensive foul by W. Ellington (drawn by N. Stauskas),,106,105
+4,5:56.0,Turnover by W. Ellington (offensive foul),,106,105
+4,5:39.0,,C. Sexton makes 3-pt jump shot from 26 ft,106,108
+4,5:18.0,I. Smith misses 2-pt layup from 2 ft,,106,108
+4,5:17.0,Offensive rebound by T. Maker,,106,108
+4,5:17.0,Shooting foul by C. Osman (drawn by T. Maker),,106,108
+4,5:17.0,T. Maker makes free throw 1 of 2,,107,108
+4,5:17.0,T. Maker makes free throw 2 of 2,,108,108
+4,5:02.0,,N. Stauskas makes 3-pt jump shot from 27 ft (assist by C. Osman),108,111
+4,4:44.0,W. Ellington makes 3-pt jump shot from 25 ft (assist by I. Smith),,111,111
+4,4:14.0,,C. Osman misses 3-pt jump shot from 26 ft,111,111
+4,4:13.0,Defensive rebound by Team,,111,111
+4,4:01.0,W. Ellington misses 3-pt jump shot from 26 ft,,111,111
+4,3:58.0,,Defensive rebound by D. Nwaba,111,111
+4,3:54.0,,Shooting foul by A. Drummond (drawn by D. Nwaba),111,111
+4,3:54.0,,D. Nwaba misses free throw 1 of 2,111,111
+4,3:54.0,,Offensive rebound by Team,111,111
+4,3:54.0,R. Jackson enters the game for I. Smith,,111,111
+4,3:54.0,,D. Nwaba makes free throw 2 of 2,111,112
+4,3:43.0,Shooting foul by N. Stauskas (drawn by W. Ellington),,111,112
+4,3:43.0,W. Ellington makes free throw 1 of 2,,112,112
+4,3:43.0,W. Ellington makes free throw 2 of 2,,113,112
+4,3:27.0,,C. Sexton misses 3-pt jump shot from 27 ft,113,112
+4,3:24.0,Defensive rebound by T. Maker,,113,112
+4,3:04.0,Shooting foul by A. Žižić (drawn by R. Jackson),,113,112
+4,3:04.0,R. Jackson misses free throw 1 of 2,,113,112
+4,3:04.0,Offensive rebound by Team,,113,112
+4,3:04.0,R. Jackson makes free throw 2 of 2,,114,112
+4,2:43.0,,C. Osman misses 3-pt jump shot from 26 ft,114,112
+4,2:40.0,Defensive rebound by A. Drummond,,114,112
+4,2:17.0,A. Drummond misses 2-pt jump shot from 12 ft,,114,112
+4,2:14.0,,Defensive rebound by N. Stauskas,114,112
+4,1:54.0,,C. Sexton makes 3-pt jump shot from 26 ft,114,115
+4,1:54.0,Detroit full timeout,,114,115
+4,1:43.0,W. Ellington misses 3-pt jump shot from 27 ft,,114,115
+4,1:39.0,,Defensive rebound by D. Nwaba,114,115
+4,1:23.0,,C. Osman makes 3-pt jump shot from 27 ft (assist by D. Nwaba),114,118
+4,1:01.0,R. Jackson misses 3-pt jump shot from 25 ft,,114,118
+4,0:58.0,,Defensive rebound by C. Osman,114,118
+4,0:39.0,,C. Sexton makes 3-pt jump shot from 25 ft,114,121
+4,0:39.0,Detroit full timeout,,114,121
+4,0:35.0,L. Galloway misses 3-pt jump shot from 24 ft,,114,121
+4,0:33.0,,Defensive rebound by A. Žižić,114,121
+4,0:33.0,,Personal foul by T. Maker (drawn by A. Žižić),114,121
+4,0:33.0,,A. Žižić makes free throw 1 of 2,114,122
+4,0:33.0,,A. Žižić misses free throw 2 of 2,114,122
+4,0:31.0,Defensive rebound by A. Drummond,,114,122
+4,0:25.0,R. Jackson misses 3-pt jump shot from 32 ft,,114,122
+4,0:21.0,Offensive rebound by T. Maker,,114,122
+4,0:20.0,L. Galloway makes 3-pt jump shot from 24 ft (assist by R. Jackson),,117,122
+4,0:15.0,,Personal take foul by L. Galloway (drawn by C. Osman),117,122
+4,0:15.0,,C. Osman makes free throw 1 of 2,117,123
+4,0:15.0,,C. Osman makes free throw 2 of 2,117,124
+4,0:07.0,R. Jackson misses 3-pt jump shot from 29 ft,,117,124
+4,0:05.0,T. Maker makes 2-pt dunk from 1 ft,,119,124
+4,0:05.0,Offensive rebound by T. Maker,,119,124
+4,0:04.0,,Personal take foul by L. Galloway (drawn by N. Stauskas),119,124
+4,0:04.0,,N. Stauskas makes free throw 1 of 2,119,125
+4,0:04.0,,N. Stauskas makes free throw 2 of 2,119,126

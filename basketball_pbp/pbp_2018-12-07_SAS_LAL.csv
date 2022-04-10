@@ -1,0 +1,473 @@
+QUARTER,TIME_REMAINING,LA LAKERS_ACTION,SAN ANTONIO_ACTION,LA LAKERS_SCORE,SAN ANTONIO_SCORE
+1,11:44.0,L. James makes 2-pt jump shot from 16 ft,,2,0
+1,11:30.0,,Turnover by R. Gay (bad pass; steal by K. Kuzma),2,0
+1,11:23.0,K. Kuzma makes 3-pt jump shot from 23 ft (assist by L. James),,5,0
+1,11:03.0,,L. Aldridge misses 2-pt jump shot from 19 ft,5,0
+1,11:03.0,Defensive rebound by L. James,,5,0
+1,10:57.0,J. Hart makes 2-pt layup from 2 ft (assist by L. James),,7,0
+1,10:38.0,,B. Forbes makes 2-pt jump shot from 19 ft,7,2
+1,10:30.0,K. Kuzma makes 2-pt layup from 2 ft (assist by L. Ball),,9,2
+1,10:09.0,,R. Gay makes 2-pt jump shot from 11 ft,9,4
+1,9:53.0,L. Ball misses 2-pt jump shot from 11 ft,,9,4
+1,9:53.0,,Defensive rebound by L. Aldridge,9,4
+1,9:44.0,,D. DeRozan makes 2-pt jump shot from 10 ft,9,6
+1,9:28.0,Shooting foul by L. Aldridge (drawn by J. McGee),,9,6
+1,9:28.0,J. McGee makes free throw 1 of 2,,10,6
+1,9:28.0,J. McGee makes free throw 2 of 2,,11,6
+1,9:17.0,,D. DeRozan makes 2-pt layup from 3 ft (assist by B. Forbes),11,8
+1,9:12.0,Shooting foul by R. Gay (drawn by K. Kuzma),,11,8
+1,9:12.0,K. Kuzma misses free throw 1 of 2,,11,8
+1,9:12.0,Offensive rebound by Team,,11,8
+1,9:12.0,K. Kuzma makes free throw 2 of 2,,12,8
+1,8:54.0,,D. DeRozan makes 2-pt jump shot from 14 ft,12,10
+1,8:48.0,Turnover by J. McGee (bad pass; steal by R. Gay),,12,10
+1,8:44.0,,R. Gay misses 3-pt jump shot from 27 ft,12,10
+1,8:40.0,Defensive rebound by J. Hart,,12,10
+1,8:32.0,L. James makes 3-pt jump shot from 25 ft (assist by K. Kuzma),,15,10
+1,8:17.0,,D. Cunningham misses 2-pt jump shot from 10 ft,15,10
+1,8:17.0,Defensive rebound by J. McGee,,15,10
+1,8:06.0,K. Kuzma misses 2-pt layup from 2 ft,,15,10
+1,8:03.0,,Defensive rebound by D. Cunningham,15,10
+1,7:49.0,,L. Aldridge makes 2-pt jump shot from 7 ft,15,12
+1,7:35.0,L. James misses 2-pt jump shot from 14 ft,,15,12
+1,7:35.0,,Defensive rebound by R. Gay,15,12
+1,7:24.0,,D. Cunningham makes 3-pt jump shot from 24 ft (assist by B. Forbes),15,15
+1,7:01.0,L. James misses 2-pt jump shot from 18 ft,,15,15
+1,7:01.0,,Defensive rebound by D. Cunningham,15,15
+1,6:50.0,,D. DeRozan misses 2-pt jump shot from 6 ft,15,15
+1,6:49.0,Defensive rebound by J. McGee,,15,15
+1,6:44.0,L. James misses 3-pt jump shot from 27 ft,,15,15
+1,6:41.0,,Defensive rebound by L. Aldridge,15,15
+1,6:38.0,,San Antonio full timeout,15,15
+1,6:26.0,,L. Aldridge makes 2-pt layup from 5 ft (assist by D. DeRozan),15,17
+1,6:14.0,L. Ball makes 2-pt layup from 1 ft (assist by L. James),,17,17
+1,6:14.0,Shooting foul by B. Forbes (drawn by L. Ball),,17,17
+1,6:14.0,,P. Mills enters the game for B. Forbes,17,17
+1,6:14.0,L. Ball makes free throw 1 of 1,,18,17
+1,6:02.0,,D. Cunningham misses 3-pt jump shot from 23 ft,18,17
+1,5:58.0,Defensive rebound by J. McGee,,18,17
+1,5:50.0,J. McGee makes 2-pt dunk from 2 ft (assist by L. James),,20,17
+1,5:37.0,,L. Aldridge misses 2-pt jump shot from 16 ft,20,17
+1,5:34.0,Defensive rebound by J. McGee,,20,17
+1,5:24.0,L. James misses 2-pt layup from 4 ft,,20,17
+1,5:22.0,,Defensive rebound by R. Gay,20,17
+1,5:17.0,,D. Cunningham misses 2-pt jump shot from 18 ft,20,17
+1,5:13.0,,Offensive rebound by R. Gay,20,17
+1,5:12.0,,P. Mills makes 3-pt jump shot from 23 ft (assist by R. Gay),20,20
+1,4:52.0,L. Ball misses 3-pt jump shot from 23 ft,,20,20
+1,4:52.0,Offensive rebound by L. James,,20,20
+1,4:47.0,L. James makes 2-pt layup from 2 ft,,22,20
+1,4:36.0,,L. Aldridge makes 2-pt jump shot from 22 ft (assist by D. Cunningham),22,22
+1,4:33.0,LA Lakers full timeout,,22,22
+1,4:33.0,K. Caldwell-Pope enters the game for L. James,,22,22
+1,4:33.0,,M. Belinelli enters the game for D. Cunningham,22,22
+1,4:33.0,,D. Bertāns enters the game for R. Gay,22,22
+1,4:22.0,L. Ball misses 2-pt jump shot from 1 ft,,22,22
+1,4:21.0,Offensive rebound by L. Ball,,22,22
+1,4:21.0,L. Ball misses 2-pt layup at rim,,22,22
+1,4:21.0,,Defensive rebound by Team,22,22
+1,4:13.0,,Personal foul by J. Hart (drawn by D. DeRozan),22,22
+1,4:13.0,T. Chandler enters the game for J. McGee,,22,22
+1,4:13.0,,L. Aldridge misses 2-pt jump shot from 21 ft,22,22
+1,3:59.0,Defensive rebound by J. Hart,,22,22
+1,3:47.0,K. Kuzma misses 2-pt hook shot from 5 ft,,22,22
+1,3:44.0,,Defensive rebound by D. DeRozan,22,22
+1,3:36.0,,D. DeRozan makes 2-pt jump shot from 12 ft,22,24
+1,3:24.0,L. Ball misses 2-pt jump shot from 18 ft,,22,24
+1,3:22.0,,Defensive rebound by L. Aldridge,22,24
+1,3:19.0,,Turnover by P. Mills (offensive foul),22,24
+1,3:19.0,,Offensive foul by P. Mills (drawn by J. Hart),22,24
+1,3:19.0,S. Mykhailiuk enters the game for J. Hart,,22,24
+1,3:19.0,,J. Poeltl enters the game for L. Aldridge,22,24
+1,3:05.0,L. Ball misses 3-pt jump shot from 25 ft,,22,24
+1,3:02.0,,Defensive rebound by D. Bertāns,22,24
+1,2:56.0,,Shooting foul by K. Kuzma (drawn by D. DeRozan),22,24
+1,2:56.0,,D. DeRozan misses free throw 1 of 2,22,24
+1,2:56.0,,Offensive rebound by Team,22,24
+1,2:56.0,,D. DeRozan makes free throw 2 of 2,22,25
+1,2:33.0,S. Mykhailiuk makes 3-pt jump shot from 26 ft (assist by K. Kuzma),,25,25
+1,2:33.0,,D. White enters the game for D. DeRozan,25,25
+1,2:08.0,,Turnover by J. Poeltl (bad pass; steal by K. Kuzma),25,25
+1,2:05.0,Shooting foul by M. Belinelli (drawn by K. Caldwell-Pope),,25,25
+1,2:05.0,K. Caldwell-Pope makes free throw 1 of 2,,26,25
+1,2:05.0,K. Caldwell-Pope makes free throw 2 of 2,,27,25
+1,1:50.0,,M. Belinelli makes 3-pt jump shot from 26 ft (assist by D. Bertāns),27,28
+1,1:39.0,K. Kuzma makes 2-pt hook shot from 4 ft,,29,28
+1,1:21.0,,Turnover by J. Poeltl (offensive foul),29,28
+1,1:21.0,,Offensive foul by J. Poeltl (drawn by S. Mykhailiuk),29,28
+1,1:05.0,K. Kuzma makes 3-pt jump shot from 27 ft (assist by L. Ball),,32,28
+1,0:54.0,,M. Belinelli makes 3-pt jump shot from 26 ft (assist by J. Poeltl),32,31
+1,0:44.0,K. Kuzma makes 2-pt jump shot from 13 ft,,34,31
+1,0:34.0,,Turnover by J. Poeltl (lost ball; steal by T. Chandler),34,31
+1,0:23.0,Shooting foul by D. Bertāns (drawn by T. Chandler),,34,31
+1,0:23.0,T. Chandler makes free throw 1 of 2,,35,31
+1,0:23.0,L. Stephenson enters the game for K. Kuzma,,35,31
+1,0:23.0,,D. DeRozan enters the game for J. Poeltl,35,31
+1,0:23.0,T. Chandler makes free throw 2 of 2,,36,31
+1,0:07.0,,Shooting foul by S. Mykhailiuk (drawn by D. DeRozan),36,31
+1,0:07.0,,D. DeRozan makes free throw 1 of 2,36,32
+1,0:07.0,L. James enters the game for T. Chandler,,36,32
+1,0:07.0,,D. Cunningham enters the game for M. Belinelli,36,32
+1,0:07.0,,D. DeRozan misses free throw 2 of 2,36,32
+1,0:04.0,Defensive rebound by L. James,,36,32
+2,11:42.0,,M. Belinelli makes 3-pt jump shot from 26 ft (assist by P. Mills),36,35
+2,11:20.0,K. Caldwell-Pope makes 3-pt jump shot from 26 ft (assist by L. James),,39,35
+2,10:58.0,,M. Belinelli makes 2-pt jump shot from 23 ft (assist by D. Cunningham),39,37
+2,10:43.0,M. Beasley makes 2-pt jump shot from 8 ft,,41,37
+2,10:32.0,,P. Mills misses 3-pt jump shot from 26 ft,41,37
+2,10:29.0,Defensive rebound by T. Chandler,,41,37
+2,10:19.0,S. Mykhailiuk makes 3-pt jump shot from 25 ft (assist by L. James),,44,37
+2,10:05.0,,M. Belinelli misses 3-pt jump shot from 27 ft,44,37
+2,10:02.0,,Offensive rebound by J. Poeltl,44,37
+2,9:59.0,,M. Belinelli misses 3-pt jump shot from 24 ft,44,37
+2,9:54.0,Defensive rebound by L. James,,44,37
+2,9:51.0,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,,44,37
+2,9:48.0,,Defensive rebound by Team,44,37
+2,9:48.0,Loose ball foul by M. Beasley (drawn by P. Mills),,44,37
+2,9:48.0,J. McGee enters the game for T. Chandler,,44,37
+2,9:48.0,,B. Forbes enters the game for P. Mills,44,37
+2,9:48.0,,R. Gay enters the game for D. White,44,37
+2,9:33.0,,R. Gay makes 2-pt layup from 2 ft (assist by D. Cunningham),44,39
+2,9:20.0,J. McGee makes 2-pt layup from 4 ft (assist by L. James),,46,39
+2,9:08.0,,B. Forbes makes 2-pt jump shot from 7 ft,46,41
+2,8:52.0,J. McGee misses 2-pt jump shot from 6 ft,,46,41
+2,8:52.0,,Defensive rebound by J. Poeltl,46,41
+2,8:45.0,,Personal foul by M. Beasley (drawn by B. Forbes),46,41
+2,8:45.0,,L. Aldridge enters the game for J. Poeltl,46,41
+2,8:38.0,,D. Cunningham makes 3-pt jump shot from 23 ft (assist by R. Gay),46,44
+2,8:17.0,L. James misses 2-pt jump shot from 6 ft (block by L. Aldridge),,46,44
+2,8:17.0,Offensive rebound by L. James,,46,44
+2,8:07.0,L. James makes 2-pt layup at rim,,48,44
+2,8:03.0,,Turnover by R. Gay (lost ball; steal by L. James),48,44
+2,7:59.0,L. James misses 2-pt jump shot from 5 ft,,48,44
+2,7:59.0,Offensive rebound by Team,,48,44
+2,7:59.0,LA Lakers full timeout,,48,44
+2,7:50.0,M. Beasley misses 2-pt hook shot from 6 ft,,48,44
+2,7:42.0,Offensive rebound by J. McGee,,48,44
+2,7:42.0,J. McGee makes 2-pt layup at rim,,50,44
+2,7:36.0,,B. Forbes makes 2-pt layup from 1 ft,50,46
+2,7:32.0,Shooting foul by L. Aldridge (drawn by L. James),,50,46
+2,7:32.0,L. James misses free throw 1 of 2,,50,46
+2,7:32.0,Offensive rebound by Team,,50,46
+2,7:32.0,J. Hart enters the game for M. Beasley,,50,46
+2,7:32.0,K. Kuzma enters the game for S. Mykhailiuk,,50,46
+2,7:32.0,,D. DeRozan enters the game for M. Belinelli,50,46
+2,7:32.0,L. James makes free throw 2 of 2,,51,46
+2,7:16.0,,L. Aldridge misses 2-pt jump shot from 13 ft,51,46
+2,7:16.0,Defensive rebound by L. James,,51,46
+2,7:08.0,K. Kuzma makes 2-pt jump shot from 12 ft,,53,46
+2,6:58.0,,Shooting foul by J. Hart (drawn by D. DeRozan),53,46
+2,6:58.0,,D. DeRozan misses free throw 1 of 2,53,46
+2,6:58.0,,Offensive rebound by Team,53,46
+2,6:58.0,L. Ball enters the game for K. Caldwell-Pope,,53,46
+2,6:58.0,,D. DeRozan makes free throw 2 of 2,53,47
+2,6:43.0,L. James makes 2-pt layup from 3 ft,,55,47
+2,6:25.0,,Shooting foul by L. Ball (drawn by B. Forbes),55,47
+2,6:25.0,,B. Forbes makes free throw 1 of 3,55,48
+2,6:25.0,,B. Forbes makes free throw 2 of 3,55,49
+2,6:25.0,,B. Forbes makes free throw 3 of 3,55,50
+2,6:16.0,Turnover by K. Kuzma (bad pass; steal by D. Cunningham),,55,50
+2,6:13.0,,B. Forbes makes 2-pt layup from 2 ft (assist by D. Cunningham),55,52
+2,6:07.0,K. Kuzma misses 3-pt jump shot from 26 ft,,55,52
+2,6:07.0,,Defensive rebound by B. Forbes,55,52
+2,5:50.0,,L. Aldridge misses 2-pt jump shot from 9 ft,55,52
+2,5:48.0,Defensive rebound by K. Kuzma,,55,52
+2,5:43.0,L. James makes 2-pt layup from 2 ft,,57,52
+2,5:43.0,Shooting foul by L. Aldridge (drawn by L. James),,57,52
+2,5:43.0,,J. Poeltl enters the game for L. Aldridge,57,52
+2,5:43.0,L. James makes free throw 1 of 1,,58,52
+2,5:21.0,,B. Forbes misses 3-pt jump shot from 27 ft,58,52
+2,5:17.0,,Offensive rebound by B. Forbes,58,52
+2,5:15.0,,B. Forbes misses 3-pt jump shot from 27 ft,58,52
+2,5:13.0,Defensive rebound by K. Kuzma,,58,52
+2,5:09.0,L. James makes 2-pt layup from 2 ft (assist by L. Ball),,60,52
+2,5:09.0,,San Antonio full timeout,60,52
+2,5:09.0,,D. Bertāns enters the game for D. Cunningham,60,52
+2,5:09.0,,P. Mills enters the game for B. Forbes,60,52
+2,4:59.0,,Shooting foul by J. McGee (drawn by D. DeRozan),60,52
+2,4:59.0,,D. DeRozan makes free throw 1 of 2,60,53
+2,4:59.0,,D. DeRozan makes free throw 2 of 2,60,54
+2,4:46.0,L. James misses 2-pt jump shot from 6 ft,,60,54
+2,4:44.0,Offensive rebound by J. McGee,,60,54
+2,4:40.0,L. James makes 3-pt jump shot from 24 ft,,63,54
+2,4:25.0,,R. Gay misses 2-pt dunk from 3 ft (block by J. McGee),63,54
+2,4:25.0,Defensive rebound by Team,,63,54
+2,4:18.0,L. Ball makes 3-pt jump shot from 23 ft (assist by L. James),,66,54
+2,4:01.0,,P. Mills misses 3-pt jump shot from 26 ft,66,54
+2,4:01.0,Defensive rebound by L. James,,66,54
+2,3:54.0,J. Hart misses 3-pt jump shot from 24 ft,,66,54
+2,3:51.0,Offensive rebound by J. McGee,,66,54
+2,3:47.0,L. James makes 3-pt jump shot from 25 ft (assist by L. Ball),,69,54
+2,3:26.0,,R. Gay makes 3-pt jump shot from 27 ft (assist by D. DeRozan),69,57
+2,3:17.0,LA Lakers full timeout,,69,57
+2,3:17.0,K. Caldwell-Pope enters the game for L. James,,69,57
+2,3:17.0,T. Chandler enters the game for J. McGee,,69,57
+2,3:11.0,K. Kuzma misses 2-pt jump shot from 21 ft,,69,57
+2,3:08.0,,Defensive rebound by R. Gay,69,57
+2,2:53.0,,D. Bertāns misses 3-pt jump shot from 24 ft,69,57
+2,2:50.0,Defensive rebound by T. Chandler,,69,57
+2,2:41.0,Turnover by L. Ball (traveling),,69,57
+2,2:41.0,,M. Belinelli enters the game for D. Bertāns,69,57
+2,2:29.0,,P. Mills misses 2-pt jump shot from 22 ft,69,57
+2,2:25.0,Defensive rebound by J. Hart,,69,57
+2,2:20.0,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,,69,57
+2,2:16.0,,Defensive rebound by D. DeRozan,69,57
+2,2:12.0,,Shooting foul by T. Chandler (drawn by D. DeRozan),69,57
+2,2:12.0,,D. DeRozan makes free throw 1 of 2,69,58
+2,2:12.0,,D. DeRozan makes free throw 2 of 2,69,59
+2,1:55.0,L. Ball misses 2-pt layup from 2 ft (block by R. Gay),,69,59
+2,1:52.0,,Defensive rebound by D. DeRozan,69,59
+2,1:50.0,,D. DeRozan misses 2-pt jump shot from 12 ft,69,59
+2,1:46.0,,Offensive rebound by D. DeRozan,69,59
+2,1:44.0,,Shooting foul by K. Caldwell-Pope (drawn by D. DeRozan),69,59
+2,1:44.0,,D. DeRozan makes free throw 1 of 2,69,60
+2,1:44.0,L. James enters the game for J. Hart,,69,60
+2,1:44.0,,D. DeRozan makes free throw 2 of 2,69,61
+2,1:25.0,Personal foul by P. Mills (drawn by L. Ball),,69,61
+2,1:18.0,K. Caldwell-Pope misses 2-pt layup from 4 ft,,69,61
+2,1:16.0,,Defensive rebound by J. Poeltl,69,61
+2,1:12.0,,M. Belinelli misses 3-pt jump shot from 23 ft,69,61
+2,1:08.0,Defensive rebound by T. Chandler,,69,61
+2,1:05.0,K. Caldwell-Pope misses 2-pt layup from 3 ft (block by D. DeRozan),,69,61
+2,1:01.0,,Defensive rebound by J. Poeltl,69,61
+2,0:57.0,,R. Gay makes 3-pt jump shot from 26 ft (assist by D. DeRozan),69,64
+2,0:57.0,,Away from play foul by K. Caldwell-Pope (drawn by J. Poeltl),69,64
+2,0:57.0,,J. Poeltl makes free throw 1 of 1,69,65
+2,0:46.0,K. Kuzma makes 2-pt layup from 3 ft,,71,65
+2,0:33.0,,J. Poeltl makes 2-pt layup from 6 ft (assist by D. DeRozan),71,67
+2,0:33.0,,Shooting foul by L. James (drawn by J. Poeltl),71,67
+2,0:33.0,,J. Poeltl makes free throw 1 of 1,71,68
+2,0:13.0,Shooting foul by J. Poeltl (drawn by L. James),,71,68
+2,0:13.0,L. James makes free throw 1 of 2,,72,68
+2,0:13.0,L. James misses free throw 2 of 2,,72,68
+2,0:11.0,,Defensive rebound by R. Gay,72,68
+2,0:01.0,,D. DeRozan misses 2-pt jump shot from 6 ft,72,68
+2,0:01.0,Defensive rebound by K. Kuzma,,72,68
+3,11:49.0,,B. Forbes misses 3-pt jump shot from 26 ft,72,68
+3,11:44.0,Defensive rebound by K. Kuzma,,72,68
+3,11:30.0,L. Ball misses 3-pt jump shot from 27 ft,,72,68
+3,11:27.0,,Defensive rebound by R. Gay,72,68
+3,11:11.0,,D. Cunningham misses 3-pt jump shot from 24 ft,72,68
+3,11:08.0,,Offensive rebound by L. Aldridge,72,68
+3,10:59.0,,L. Aldridge misses 2-pt jump shot from 7 ft,72,68
+3,10:58.0,,Offensive rebound by L. Aldridge,72,68
+3,10:58.0,,L. Aldridge misses 2-pt layup at rim,72,68
+3,10:58.0,Defensive rebound by Team,,72,68
+3,10:46.0,K. Kuzma makes 2-pt jump shot from 12 ft,,74,68
+3,10:26.0,,L. Aldridge makes 2-pt layup from 2 ft (assist by D. DeRozan),74,70
+3,10:13.0,J. Hart misses 3-pt jump shot from 26 ft,,74,70
+3,10:10.0,,Defensive rebound by D. Cunningham,74,70
+3,10:00.0,,L. Aldridge misses 2-pt jump shot from 10 ft,74,70
+3,9:57.0,Defensive rebound by J. Hart,,74,70
+3,9:49.0,L. James misses 3-pt jump shot from 24 ft,,74,70
+3,9:47.0,,Defensive rebound by D. DeRozan,74,70
+3,9:42.0,,D. DeRozan misses 2-pt jump shot from 15 ft,74,70
+3,9:39.0,Defensive rebound by Team,,74,70
+3,9:24.0,L. Ball misses 3-pt jump shot from 27 ft,,74,70
+3,9:20.0,Offensive rebound by J. McGee,,74,70
+3,9:18.0,K. Kuzma misses 3-pt jump shot from 27 ft,,74,70
+3,9:13.0,,Defensive rebound by D. Cunningham,74,70
+3,9:01.0,,D. DeRozan misses 2-pt jump shot from 22 ft,74,70
+3,9:01.0,Defensive rebound by Team,,74,70
+3,8:51.0,K. Kuzma makes 2-pt layup from 3 ft (assist by L. Ball),,76,70
+3,8:41.0,,Shooting foul by K. Kuzma (drawn by D. DeRozan),76,70
+3,8:41.0,,D. DeRozan makes free throw 1 of 2,76,71
+3,8:41.0,,D. DeRozan makes free throw 2 of 2,76,72
+3,8:27.0,L. Ball misses 2-pt jump shot from 17 ft,,76,72
+3,8:23.0,,Defensive rebound by D. Cunningham,76,72
+3,8:15.0,,D. DeRozan makes 2-pt layup from 2 ft,76,74
+3,7:55.0,Turnover by L. Ball (traveling),,76,74
+3,7:44.0,,R. Gay misses 3-pt jump shot from 25 ft,76,74
+3,7:41.0,Defensive rebound by K. Kuzma,,76,74
+3,7:35.0,K. Kuzma makes 2-pt jump shot from 12 ft,,78,74
+3,7:14.0,,B. Forbes misses 3-pt jump shot from 27 ft,78,74
+3,7:11.0,Defensive rebound by J. McGee,,78,74
+3,7:01.0,Turnover by K. Kuzma (bad pass; steal by B. Forbes),,78,74
+3,6:49.0,,Shooting foul by L. James (drawn by L. Aldridge),78,74
+3,6:49.0,,San Antonio full timeout,78,74
+3,6:49.0,,L. Aldridge makes free throw 1 of 2,78,75
+3,6:49.0,,L. Aldridge makes free throw 2 of 2,78,76
+3,6:34.0,L. James makes 2-pt jump shot from 21 ft,,80,76
+3,6:20.0,,D. DeRozan misses 2-pt jump shot from 12 ft,80,76
+3,6:17.0,Defensive rebound by J. McGee,,80,76
+3,6:15.0,Turnover by J. McGee (bad pass; steal by R. Gay),,80,76
+3,6:11.0,,Turnover by R. Gay (bad pass; steal by L. Ball),80,76
+3,6:07.0,L. James makes 2-pt dunk from 2 ft (assist by L. Ball),,82,76
+3,6:06.0,,San Antonio full timeout,82,76
+3,5:51.0,,L. Aldridge makes 2-pt jump shot from 20 ft (assist by D. DeRozan),82,78
+3,5:35.0,K. Kuzma misses 3-pt jump shot from 29 ft,,82,78
+3,5:32.0,,Defensive rebound by D. Cunningham,82,78
+3,5:23.0,,L. Aldridge makes 2-pt jump shot from 11 ft (assist by D. DeRozan),82,80
+3,5:03.0,L. James misses 3-pt jump shot from 29 ft,,82,80
+3,5:00.0,,Defensive rebound by L. Aldridge,82,80
+3,4:53.0,,Turnover by D. DeRozan (bad pass; steal by L. James),82,80
+3,4:49.0,L. James makes 2-pt layup from 2 ft,,84,80
+3,4:49.0,Shooting foul by D. DeRozan (drawn by L. James),,84,80
+3,4:49.0,T. Chandler enters the game for J. McGee,,84,80
+3,4:49.0,,P. Mills enters the game for B. Forbes,84,80
+3,4:49.0,L. James makes free throw 1 of 1,,85,80
+3,4:29.0,,L. Aldridge misses 2-pt jump shot from 14 ft,85,80
+3,4:27.0,Defensive rebound by K. Kuzma,,85,80
+3,4:16.0,K. Kuzma makes 2-pt jump shot from 6 ft (assist by L. Ball),,87,80
+3,3:57.0,,R. Gay misses 2-pt jump shot from 9 ft,87,80
+3,3:55.0,,Offensive rebound by L. Aldridge,87,80
+3,3:53.0,,D. Cunningham misses 3-pt jump shot from 26 ft,87,80
+3,3:50.0,Defensive rebound by L. James,,87,80
+3,3:47.0,L. James misses 2-pt jump shot from 19 ft,,87,80
+3,3:47.0,,Defensive rebound by D. DeRozan,87,80
+3,3:35.0,,P. Mills makes 3-pt jump shot from 24 ft (assist by L. Aldridge),87,83
+3,3:33.0,LA Lakers full timeout,,87,83
+3,3:33.0,K. Caldwell-Pope enters the game for L. James,,87,83
+3,3:33.0,,M. Belinelli enters the game for D. Cunningham,87,83
+3,3:33.0,,D. Bertāns enters the game for R. Gay,87,83
+3,3:17.0,K. Kuzma misses 2-pt jump shot from 12 ft,,87,83
+3,3:12.0,,Defensive rebound by P. Mills,87,83
+3,2:56.0,,L. Aldridge misses 2-pt jump shot from 7 ft,87,83
+3,2:53.0,Defensive rebound by K. Kuzma,,87,83
+3,2:49.0,Personal foul by D. Bertāns (drawn by T. Chandler),,87,83
+3,2:42.0,J. Hart makes 2-pt jump shot from 17 ft (assist by L. Ball),,89,83
+3,2:26.0,,D. DeRozan misses 2-pt jump shot from 10 ft,89,83
+3,2:23.0,Defensive rebound by K. Kuzma,,89,83
+3,2:19.0,J. Hart misses 3-pt jump shot from 23 ft,,89,83
+3,2:15.0,,Defensive rebound by L. Aldridge,89,83
+3,2:06.0,,D. DeRozan makes 2-pt layup from 6 ft,89,85
+3,1:52.0,T. Chandler makes 2-pt layup from 3 ft (assist by L. Ball),,91,85
+3,1:42.0,,D. DeRozan makes 2-pt layup from 3 ft,91,87
+3,1:27.0,L. Ball makes 3-pt jump shot from 27 ft,,94,87
+3,1:10.0,,D. DeRozan misses 2-pt jump shot from 17 ft,94,87
+3,1:08.0,Defensive rebound by L. Ball,,94,87
+3,1:05.0,J. Hart makes 2-pt layup from 2 ft (assist by L. Ball),,96,87
+3,1:05.0,Shooting foul by P. Mills (drawn by J. Hart),,96,87
+3,1:05.0,,J. Poeltl enters the game for L. Aldridge,96,87
+3,1:05.0,,D. White enters the game for D. DeRozan,96,87
+3,1:05.0,J. Hart makes free throw 1 of 1,,97,87
+3,0:46.0,,D. White makes 2-pt jump shot from 10 ft,97,89
+3,0:35.0,K. Kuzma misses 2-pt jump shot from 7 ft,,97,89
+3,0:33.0,,Defensive rebound by D. White,97,89
+3,0:31.0,,Turnover by D. White (bad pass; steal by K. Caldwell-Pope),97,89
+3,0:28.0,K. Caldwell-Pope makes 2-pt layup from 2 ft (assist by L. Ball),,99,89
+3,0:07.0,,J. Poeltl misses 2-pt layup from 3 ft,99,89
+3,0:04.0,Defensive rebound by T. Chandler,,99,89
+3,0:01.0,K. Kuzma misses 3-pt jump shot from 26 ft,,99,89
+3,0:01.0,,Defensive rebound by D. White,99,89
+4,11:48.0,M. Beasley makes 2-pt layup from 3 ft (assist by L. James),,101,89
+4,11:28.0,,P. Mills misses 2-pt jump shot from 20 ft,101,89
+4,11:24.0,Defensive rebound by M. Beasley,,101,89
+4,11:12.0,M. Beasley misses 2-pt hook shot from 8 ft (block by J. Poeltl),,101,89
+4,11:11.0,,Defensive rebound by Team,101,89
+4,11:11.0,,D. Bertāns enters the game for D. White,101,89
+4,11:00.0,,P. Mills makes 2-pt jump shot from 17 ft,101,91
+4,10:36.0,L. James misses 3-pt jump shot from 28 ft,,101,91
+4,10:32.0,,Defensive rebound by M. Belinelli,101,91
+4,10:30.0,,Personal foul by M. Beasley (drawn by D. Bertāns),101,91
+4,10:23.0,,M. Belinelli misses 2-pt jump shot from 18 ft,101,91
+4,10:16.0,,Offensive rebound by D. Cunningham,101,91
+4,10:16.0,,D. Cunningham makes 2-pt layup at rim,101,93
+4,10:06.0,K. Caldwell-Pope misses 3-pt jump shot from 23 ft,,101,93
+4,10:02.0,Offensive rebound by S. Mykhailiuk,,101,93
+4,9:50.0,M. Beasley misses 3-pt jump shot from 27 ft,,101,93
+4,9:50.0,Offensive rebound by Team,,101,93
+4,9:50.0,Turnover by Team (shot clock),,101,93
+4,9:41.0,,Shooting foul by S. Mykhailiuk (drawn by P. Mills),101,93
+4,9:41.0,,P. Mills makes free throw 1 of 3,101,94
+4,9:41.0,,P. Mills makes free throw 2 of 3,101,95
+4,9:41.0,J. Hart enters the game for S. Mykhailiuk,,101,95
+4,9:41.0,,P. Mills makes free throw 3 of 3,101,96
+4,9:28.0,Turnover by T. Chandler (offensive foul),,101,96
+4,9:28.0,Offensive foul by T. Chandler (drawn by D. Cunningham),,101,96
+4,9:24.0,,Turnover by D. Cunningham (bad pass; steal by K. Caldwell-Pope),101,96
+4,9:20.0,K. Caldwell-Pope makes 2-pt dunk from 4 ft,,103,96
+4,9:09.0,,D. Bertāns makes 3-pt jump shot from 25 ft (assist by P. Mills),103,99
+4,8:52.0,Shooting foul by D. Bertāns (drawn by L. James),,103,99
+4,8:52.0,L. James makes free throw 1 of 2,,104,99
+4,8:52.0,L. James makes free throw 2 of 2,,105,99
+4,8:40.0,,J. Poeltl makes 2-pt layup from 2 ft (assist by M. Belinelli),105,101
+4,8:40.0,,Shooting foul by T. Chandler (drawn by J. Poeltl),105,101
+4,8:40.0,K. Kuzma enters the game for M. Beasley,,105,101
+4,8:40.0,,J. Poeltl makes free throw 1 of 1,105,102
+4,8:30.0,K. Caldwell-Pope makes 3-pt jump shot from 27 ft (assist by L. James),,108,102
+4,8:11.0,,D. Bertāns makes 3-pt jump shot from 27 ft (assist by J. Poeltl),108,105
+4,7:53.0,Offensive foul by L. James (drawn by P. Mills),,108,105
+4,7:53.0,Turnover by L. James (offensive foul),,108,105
+4,7:53.0,J. McGee enters the game for T. Chandler,,108,105
+4,7:43.0,,P. Mills makes 2-pt layup from 3 ft,108,107
+4,7:43.0,LA Lakers full timeout,,108,107
+4,7:43.0,,D. DeRozan enters the game for D. Cunningham,108,107
+4,7:28.0,K. Caldwell-Pope misses 2-pt layup from 6 ft (block by J. Poeltl),,108,107
+4,7:21.0,Offensive rebound by J. McGee,,108,107
+4,7:21.0,J. McGee makes 2-pt layup from 1 ft,,110,107
+4,7:09.0,,D. Bertāns misses 3-pt jump shot from 26 ft,110,107
+4,7:01.0,,Offensive rebound by J. Poeltl,110,107
+4,7:01.0,,J. Poeltl makes 2-pt dunk at rim,110,109
+4,7:01.0,L. Ball enters the game for K. Caldwell-Pope,,110,109
+4,6:53.0,Shooting foul by J. Poeltl (drawn by J. McGee),,110,109
+4,6:53.0,J. McGee makes free throw 1 of 2,,111,109
+4,6:53.0,J. McGee makes free throw 2 of 2,,112,109
+4,6:45.0,,J. Poeltl makes 2-pt layup from 1 ft (assist by P. Mills),112,111
+4,6:45.0,,Shooting foul by J. Hart (drawn by J. Poeltl),112,111
+4,6:45.0,,J. Poeltl makes free throw 1 of 1,112,112
+4,6:22.0,L. James misses 2-pt jump shot from 5 ft,,112,112
+4,6:17.0,Offensive rebound by J. McGee,,112,112
+4,6:17.0,J. McGee misses 2-pt layup from 1 ft,,112,112
+4,6:16.0,,Defensive rebound by J. Poeltl,112,112
+4,6:14.0,,P. Mills misses 3-pt jump shot from 25 ft,112,112
+4,6:12.0,Defensive rebound by Team,,112,112
+4,5:52.0,L. James misses 2-pt layup from 5 ft,,112,112
+4,5:51.0,,Defensive rebound by Team,112,112
+4,5:42.0,,Personal foul by L. James (drawn by D. DeRozan),112,112
+4,5:42.0,,D. DeRozan misses free throw 1 of 2,112,112
+4,5:42.0,,Offensive rebound by Team,112,112
+4,5:42.0,,D. DeRozan makes free throw 2 of 2,112,113
+4,5:25.0,L. James misses 2-pt jump shot from 8 ft (block by D. DeRozan),,112,113
+4,5:21.0,,Defensive rebound by M. Belinelli,112,113
+4,5:16.0,,D. DeRozan makes 2-pt layup from 2 ft (assist by P. Mills),112,115
+4,5:16.0,LA Lakers full timeout,,112,115
+4,5:16.0,K. Caldwell-Pope enters the game for J. McGee,,112,115
+4,4:58.0,L. Ball misses 2-pt layup from 6 ft (block by J. Poeltl),,112,115
+4,4:56.0,,Defensive rebound by D. Bertāns,112,115
+4,4:48.0,,D. Bertāns makes 3-pt jump shot from 26 ft (assist by D. DeRozan),112,118
+4,4:48.0,,Shooting foul by K. Kuzma (drawn by D. Bertāns),112,118
+4,4:48.0,,D. Bertāns makes free throw 1 of 1,112,119
+4,4:40.0,L. Ball makes 2-pt dunk from 1 ft (assist by L. James),,114,119
+4,4:24.0,,J. Poeltl makes 2-pt layup from 1 ft (assist by D. DeRozan),114,121
+4,4:10.0,Personal foul by J. Poeltl (drawn by K. Kuzma),,114,121
+4,4:01.0,J. Hart misses 3-pt jump shot from 27 ft,,114,121
+4,3:58.0,,Defensive rebound by D. Bertāns,114,121
+4,3:44.0,,D. Bertāns misses 3-pt jump shot from 25 ft,114,121
+4,3:40.0,Defensive rebound by L. Ball,,114,121
+4,3:30.0,L. Ball makes 2-pt layup from 1 ft,,116,121
+4,3:28.0,,San Antonio full timeout,116,121
+4,3:14.0,,D. DeRozan makes 2-pt jump shot from 12 ft,116,123
+4,2:55.0,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,,116,123
+4,2:52.0,,Defensive rebound by D. DeRozan,116,123
+4,2:38.0,,D. DeRozan makes 2-pt jump shot from 6 ft,116,125
+4,2:25.0,L. James misses 3-pt jump shot from 30 ft,,116,125
+4,2:22.0,,Defensive rebound by J. Poeltl,116,125
+4,2:10.0,,D. DeRozan makes 2-pt jump shot from 6 ft,116,127
+4,2:10.0,LA Lakers full timeout,,116,127
+4,1:59.0,K. Kuzma misses 3-pt jump shot from 27 ft,,116,127
+4,1:59.0,,Defensive rebound by Team,116,127
+4,1:59.0,Loose ball foul by L. Ball (drawn by P. Mills),,116,127
+4,1:59.0,,P. Mills makes free throw 1 of 2,116,128
+4,1:59.0,,P. Mills misses free throw 2 of 2,116,128
+4,1:57.0,Defensive rebound by L. Ball,,116,128
+4,1:49.0,L. James makes 2-pt layup from 3 ft,,118,128
+4,1:49.0,Shooting foul by J. Poeltl (drawn by L. James),,118,128
+4,1:49.0,L. James misses free throw 1 of 1,,118,128
+4,1:49.0,,Defensive rebound by J. Poeltl,118,128
+4,1:34.0,,D. Bertāns makes 3-pt jump shot from 27 ft (assist by P. Mills),118,131
+4,1:25.0,K. Kuzma makes 2-pt layup from 2 ft,,120,131
+4,1:07.0,,Shooting foul by L. Ball (drawn by D. DeRozan),120,131
+4,1:07.0,,D. DeRozan makes free throw 1 of 2,120,132
+4,1:07.0,I. Bonga enters the game for L. James,,120,132
+4,1:07.0,S. Mykhailiuk enters the game for K. Kuzma,,120,132
+4,1:07.0,,C. Metu enters the game for D. Bertāns,120,132
+4,1:07.0,,Q. Pondexter enters the game for P. Mills,120,132
+4,1:07.0,,D. White enters the game for J. Poeltl,120,132
+4,1:07.0,,D. DeRozan makes free throw 2 of 2,120,133
+4,0:55.0,J. Hart misses 3-pt jump shot from 26 ft,,120,133
+4,0:51.0,,Defensive rebound by D. DeRozan,120,133
+4,0:28.0,,D. DeRozan misses 2-pt jump shot from 19 ft,120,133
+4,0:25.0,Defensive rebound by J. Hart,,120,133
+4,0:23.0,S. Mykhailiuk misses 3-pt jump shot from 26 ft,,120,133
+4,0:19.0,,Defensive rebound by M. Belinelli,120,133

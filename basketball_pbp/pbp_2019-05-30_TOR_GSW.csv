@@ -1,0 +1,439 @@
+QUARTER,TIME_REMAINING,GOLDEN STATE_ACTION,TORONTO_ACTION,GOLDEN STATE_SCORE,TORONTO_SCORE
+1,11:42.0,,Turnover by K. Lowry (bad pass),0,0
+1,11:23.0,K. Thompson misses 2-pt jump shot from 14 ft,,0,0
+1,11:23.0,,Defensive rebound by P. Siakam,0,0
+1,11:14.0,,D. Green misses 3-pt jump shot from 23 ft,0,0
+1,11:11.0,Defensive rebound by D. Green,,0,0
+1,11:06.0,Shooting foul by K. Leonard (drawn by S. Curry),,0,0
+1,11:06.0,S. Curry makes free throw 1 of 2,,1,0
+1,11:06.0,S. Curry makes free throw 2 of 2,,2,0
+1,10:46.0,,D. Green makes 3-pt jump shot from 26 ft (assist by P. Siakam),2,3
+1,10:38.0,K. Thompson misses 2-pt layup from 3 ft (block by D. Green),,2,3
+1,10:35.0,Offensive rebound by K. Thompson,,2,3
+1,10:34.0,K. Thompson makes 2-pt jump shot from 11 ft,,4,3
+1,10:23.0,,Personal foul by K. Thompson (drawn by K. Leonard),4,3
+1,10:15.0,,K. Leonard makes 3-pt jump shot from 26 ft,4,6
+1,10:04.0,S. Curry misses 2-pt jump shot from 16 ft,,4,6
+1,10:01.0,Offensive rebound by A. Iguodala,,4,6
+1,9:59.0,S. Curry makes 3-pt jump shot from 27 ft (assist by A. Iguodala),,7,6
+1,9:34.0,,P. Siakam misses 2-pt hook shot from 11 ft,7,6
+1,9:31.0,Defensive rebound by K. Thompson,,7,6
+1,9:26.0,,Violation by Team (kicked ball),7,6
+1,9:20.0,S. Curry misses 3-pt jump shot from 29 ft,,7,6
+1,9:18.0,,Defensive rebound by K. Leonard,7,6
+1,9:07.0,,D. Green misses 3-pt jump shot from 26 ft,7,6
+1,9:04.0,Defensive rebound by J. Bell,,7,6
+1,8:59.0,D. Green misses 2-pt layup from 3 ft,,7,6
+1,8:57.0,,Defensive rebound by K. Lowry,7,6
+1,8:54.0,,K. Lowry misses 3-pt jump shot from 27 ft,7,6
+1,8:51.0,,Offensive rebound by P. Siakam,7,6
+1,8:47.0,,M. Gasol makes 3-pt jump shot from 26 ft (assist by P. Siakam),7,9
+1,8:31.0,A. Iguodala misses 3-pt jump shot from 26 ft,,7,9
+1,8:29.0,,Defensive rebound by M. Gasol,7,9
+1,8:17.0,,M. Gasol misses 3-pt jump shot from 25 ft,7,9
+1,8:15.0,Defensive rebound by D. Green,,7,9
+1,8:07.0,Turnover by A. Iguodala (bad pass; steal by P. Siakam),,7,9
+1,8:01.0,,K. Leonard misses 3-pt jump shot from 26 ft,7,9
+1,7:57.0,Defensive rebound by J. Bell,,7,9
+1,7:40.0,J. Bell makes 2-pt layup from 1 ft (assist by S. Curry),,9,9
+1,7:30.0,,Toronto full timeout,9,9
+1,7:23.0,,K. Lowry misses 2-pt jump shot from 11 ft,9,9
+1,7:21.0,Defensive rebound by Team,,9,9
+1,7:21.0,,Loose ball foul by M. Gasol (drawn by D. Green),9,9
+1,7:10.0,Turnover by D. Green (lost ball; steal by K. Lowry),,9,9
+1,7:02.0,,M. Gasol makes 3-pt jump shot from 26 ft (assist by P. Siakam),9,12
+1,6:53.0,K. Thompson misses 3-pt jump shot from 26 ft,,9,12
+1,6:50.0,,Defensive rebound by M. Gasol,9,12
+1,6:45.0,,D. Green makes 2-pt layup from 1 ft (assist by K. Lowry),9,14
+1,6:28.0,D. Green makes 2-pt jump shot from 16 ft (assist by J. Bell),,11,14
+1,6:12.0,,Personal foul by A. Iguodala (drawn by K. Leonard),11,14
+1,6:12.0,K. Looney enters the game for J. Bell,,11,14
+1,6:03.0,,P. Siakam makes 2-pt hook shot from 7 ft,11,16
+1,5:44.0,K. Thompson misses 2-pt jump shot from 23 ft,,11,16
+1,5:42.0,,Defensive rebound by M. Gasol,11,16
+1,5:31.0,,Shooting foul by D. Green (drawn by M. Gasol),11,16
+1,5:31.0,,M. Gasol makes free throw 1 of 2,11,17
+1,5:31.0,,M. Gasol makes free throw 2 of 2,11,18
+1,5:16.0,S. Curry makes 3-pt jump shot from 24 ft (assist by D. Green),,14,18
+1,4:58.0,,Offensive foul by P. Siakam (drawn by D. Green),14,18
+1,4:58.0,,Turnover by P. Siakam (offensive foul),14,18
+1,4:42.0,K. Thompson misses 2-pt layup from 2 ft (block by P. Siakam),,14,18
+1,4:39.0,Offensive rebound by A. Iguodala,,14,18
+1,4:37.0,S. Curry makes 3-pt jump shot from 24 ft (assist by A. Iguodala),,17,18
+1,4:27.0,,K. Leonard misses 2-pt hook shot from 2 ft,17,18
+1,4:25.0,Defensive rebound by A. Iguodala,,17,18
+1,4:21.0,K. Thompson makes 2-pt dunk at rim (assist by A. Iguodala),,19,18
+1,3:59.0,,K. Lowry misses 3-pt jump shot from 27 ft,19,18
+1,3:56.0,Defensive rebound by A. Iguodala,,19,18
+1,3:53.0,Personal foul by K. Lowry (drawn by K. Looney),,19,18
+1,3:53.0,,F. VanVleet enters the game for D. Green,19,18
+1,3:45.0,S. Curry misses 3-pt jump shot from 25 ft,,19,18
+1,3:42.0,,Defensive rebound by K. Lowry,19,18
+1,3:37.0,,K. Lowry makes 2-pt layup from 1 ft,19,20
+1,3:25.0,K. Thompson misses 3-pt jump shot from 27 ft,,19,20
+1,3:25.0,,Defensive rebound by M. Gasol,19,20
+1,3:06.0,,F. VanVleet makes 2-pt jump shot from 19 ft (assist by M. Gasol),19,22
+1,3:05.0,Golden State full timeout,,19,22
+1,3:05.0,S. Livingston enters the game for A. Iguodala,,19,22
+1,3:05.0,A. McKinnie enters the game for K. Thompson,,19,22
+1,3:05.0,,S. Ibaka enters the game for M. Gasol,19,22
+1,2:54.0,Offensive foul by K. Looney (drawn by F. VanVleet),,19,22
+1,2:54.0,Turnover by K. Looney (offensive foul),,19,22
+1,2:36.0,,S. Ibaka misses 3-pt jump shot from 26 ft,19,22
+1,2:32.0,Defensive rebound by D. Green,,19,22
+1,2:19.0,S. Livingston misses 2-pt jump shot from 11 ft,,19,22
+1,2:16.0,,Defensive rebound by K. Leonard,19,22
+1,2:08.0,,K. Leonard misses 2-pt jump shot from 13 ft,19,22
+1,2:06.0,Defensive rebound by D. Green,,19,22
+1,2:02.0,Turnover by A. McKinnie (traveling),,19,22
+1,2:02.0,,N. Powell enters the game for K. Leonard,19,22
+1,1:51.0,,K. Lowry misses 3-pt jump shot from 26 ft,19,22
+1,1:47.0,Defensive rebound by D. Green,,19,22
+1,1:40.0,A. McKinnie misses 3-pt jump shot from 25 ft,,19,22
+1,1:38.0,,Defensive rebound by F. VanVleet,19,22
+1,1:22.0,,F. VanVleet misses 3-pt jump shot from 28 ft,19,22
+1,1:18.0,Defensive rebound by S. Curry,,19,22
+1,1:08.0,K. Looney misses 2-pt hook shot from 3 ft,,19,22
+1,1:06.0,,Defensive rebound by N. Powell,19,22
+1,1:01.0,,P. Siakam makes 3-pt jump shot from 26 ft (assist by K. Lowry),19,25
+1,0:45.0,S. Curry misses 2-pt jump shot from 6 ft,,19,25
+1,0:44.0,Offensive rebound by Team,,19,25
+1,0:44.0,,Loose ball foul by N. Powell (drawn by S. Curry),19,25
+1,0:41.0,Turnover by D. Green (bad pass),,19,25
+1,0:41.0,Loose ball foul by S. Livingston (drawn by K. Lowry),,19,25
+1,0:29.0,,S. Ibaka misses 2-pt jump shot from 12 ft,19,25
+1,0:26.0,Defensive rebound by D. Green,,19,25
+1,0:06.0,S. Curry misses 3-pt jump shot from 29 ft,,19,25
+1,0:03.0,Offensive rebound by S. Livingston,,19,25
+1,0:03.0,Shooting foul by S. Ibaka (drawn by S. Livingston),,19,25
+1,0:03.0,S. Livingston makes free throw 1 of 2,,20,25
+1,0:03.0,J. Bell enters the game for S. Curry,,20,25
+1,0:03.0,J. Evans enters the game for D. Green,,20,25
+1,0:03.0,S. Livingston makes free throw 2 of 2,,21,25
+2,11:37.0,J. Jerebko misses 2-pt hook shot from 6 ft,,21,25
+2,11:34.0,Offensive rebound by J. Jerebko,,21,25
+2,11:32.0,Q. Cook makes 3-pt jump shot from 23 ft (assist by S. Livingston),,24,25
+2,11:17.0,,Shooting foul by K. Thompson (drawn by N. Powell),24,25
+2,11:17.0,,N. Powell makes free throw 1 of 2,24,26
+2,11:17.0,,N. Powell makes free throw 2 of 2,24,27
+2,11:07.0,Personal foul by D. Green (drawn by D. Cousins),,24,27
+2,11:07.0,,K. Leonard enters the game for P. Siakam,24,27
+2,10:56.0,Personal foul by N. Powell (drawn by J. Jerebko),,24,27
+2,10:48.0,K. Thompson makes 2-pt dunk from 1 ft (assist by D. Cousins),,26,27
+2,10:24.0,,N. Powell misses 3-pt jump shot from 26 ft,26,27
+2,10:20.0,,Offensive rebound by S. Ibaka,26,27
+2,10:20.0,,S. Ibaka misses 2-pt layup from 1 ft,26,27
+2,10:19.0,,Offensive rebound by S. Ibaka,26,27
+2,10:19.0,,S. Ibaka makes 2-pt hook shot from 3 ft,26,29
+2,9:58.0,J. Jerebko misses 3-pt jump shot from 27 ft,,26,29
+2,9:57.0,,Defensive rebound by Team,26,29
+2,9:48.0,,Offensive foul by S. Ibaka (drawn by S. Livingston),26,29
+2,9:48.0,,Turnover by S. Ibaka (offensive foul),26,29
+2,9:35.0,D. Cousins misses 2-pt jump shot from 18 ft,,26,29
+2,9:31.0,Offensive rebound by K. Thompson,,26,29
+2,9:30.0,Turnover by K. Thompson (bad pass; steal by D. Green),,26,29
+2,9:27.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by F. VanVleet),26,31
+2,9:27.0,Golden State full timeout,,26,31
+2,9:27.0,,P. McCaw enters the game for N. Powell,26,31
+2,9:15.0,Shooting foul by F. VanVleet (drawn by D. Cousins),,26,31
+2,9:15.0,D. Cousins makes free throw 1 of 2,,27,31
+2,9:15.0,D. Cousins makes free throw 2 of 2,,28,31
+2,8:52.0,,F. VanVleet makes 2-pt hook shot from 3 ft,28,33
+2,8:31.0,J. Jerebko makes 3-pt jump shot from 24 ft (assist by D. Cousins),,31,33
+2,8:13.0,,F. VanVleet makes 3-pt jump shot from 26 ft (assist by P. McCaw),31,36
+2,7:57.0,D. Cousins misses 3-pt jump shot from 26 ft,,31,36
+2,7:54.0,,Defensive rebound by D. Green,31,36
+2,7:45.0,,Turnover by F. VanVleet (bad pass; steal by D. Cousins),31,36
+2,7:40.0,Q. Cook makes 2-pt layup at rim (assist by K. Thompson),,33,36
+2,7:40.0,Shooting foul by F. VanVleet (drawn by Q. Cook),,33,36
+2,7:40.0,S. Curry enters the game for D. Cousins,,33,36
+2,7:40.0,D. Green enters the game for J. Jerebko,,33,36
+2,7:40.0,K. Looney enters the game for K. Thompson,,33,36
+2,7:40.0,Q. Cook makes free throw 1 of 1,,34,36
+2,7:28.0,,Personal foul by S. Livingston (drawn by S. Ibaka),34,36
+2,7:28.0,,M. Gasol enters the game for D. Green,34,36
+2,7:28.0,,K. Lowry enters the game for S. Ibaka,34,36
+2,7:18.0,,Personal foul by D. Green (drawn by K. Leonard),34,36
+2,7:08.0,,Shooting foul by K. Looney (drawn by K. Leonard),34,36
+2,7:08.0,,K. Leonard makes free throw 1 of 2,34,37
+2,7:08.0,,K. Leonard makes free throw 2 of 2,34,38
+2,6:56.0,D. Green misses 3-pt jump shot from 23 ft,,34,38
+2,6:53.0,,Defensive rebound by M. Gasol,34,38
+2,6:48.0,,Turnover by K. Leonard (lost ball; steal by S. Curry),34,38
+2,6:41.0,S. Livingston makes 2-pt layup from 1 ft (assist by D. Green),,36,38
+2,6:30.0,,K. Leonard misses 2-pt layup from 1 ft (block by S. Livingston),36,38
+2,6:27.0,Defensive rebound by K. Looney,,36,38
+2,6:13.0,Q. Cook misses 2-pt jump shot from 20 ft,,36,38
+2,6:11.0,,Defensive rebound by K. Lowry,36,38
+2,6:06.0,,Shooting foul by S. Livingston (drawn by K. Lowry),36,38
+2,6:06.0,,K. Lowry makes free throw 1 of 2,36,39
+2,6:06.0,A. Iguodala enters the game for Q. Cook,,36,39
+2,6:06.0,K. Thompson enters the game for S. Livingston,,36,39
+2,6:06.0,,P. Siakam enters the game for P. McCaw,36,39
+2,6:06.0,,K. Lowry makes free throw 2 of 2,36,40
+2,5:55.0,Turnover by S. Curry (bad pass),,36,40
+2,5:55.0,Loose ball foul by S. Curry (drawn by F. VanVleet),,36,40
+2,5:55.0,,F. VanVleet misses free throw 1 of 2,36,40
+2,5:55.0,,Offensive rebound by Team,36,40
+2,5:55.0,,F. VanVleet misses free throw 2 of 2,36,40
+2,5:55.0,Defensive rebound by D. Green,,36,40
+2,5:51.0,Personal foul by K. Leonard (drawn by D. Green),,36,40
+2,5:51.0,D. Green makes free throw 1 of 2,,37,40
+2,5:51.0,D. Green makes free throw 2 of 2,,38,40
+2,5:41.0,,Turnover by P. Siakam (out of bounds lost ball),38,40
+2,5:37.0,K. Thompson makes 3-pt jump shot from 26 ft (assist by S. Curry),,41,40
+2,5:19.0,,M. Gasol misses 2-pt jump shot from 12 ft,41,40
+2,5:17.0,Defensive rebound by S. Curry,,41,40
+2,5:10.0,Turnover by S. Curry (lost ball; steal by M. Gasol),,41,40
+2,4:54.0,,P. Siakam misses 3-pt jump shot from 24 ft,41,40
+2,4:52.0,Defensive rebound by Team,,41,40
+2,4:41.0,S. Curry misses 2-pt layup from 1 ft,,41,40
+2,4:39.0,,Defensive rebound by K. Leonard,41,40
+2,4:33.0,,M. Gasol makes 2-pt layup from 2 ft (assist by K. Lowry),41,42
+2,4:20.0,A. Iguodala misses 3-pt jump shot from 26 ft,,41,42
+2,4:18.0,,Defensive rebound by K. Leonard,41,42
+2,4:10.0,,K. Leonard misses 2-pt jump shot from 14 ft,41,42
+2,4:07.0,Defensive rebound by A. Iguodala,,41,42
+2,4:06.0,Turnover by A. Iguodala (bad pass),,41,42
+2,4:06.0,,Toronto full timeout,41,42
+2,3:49.0,,P. Siakam makes 2-pt hook shot from 9 ft (assist by K. Lowry),41,44
+2,3:35.0,A. Iguodala makes 2-pt dunk at rim (assist by K. Looney),,43,44
+2,3:12.0,,P. Siakam makes 3-pt jump shot from 26 ft (assist by K. Lowry),43,47
+2,2:46.0,K. Looney makes 2-pt jump shot from 20 ft (assist by D. Green),,45,47
+2,2:20.0,,P. Siakam makes 2-pt hook shot from 1 ft,45,49
+2,2:11.0,K. Thompson misses 2-pt jump shot from 20 ft,,45,49
+2,2:09.0,Offensive rebound by S. Curry,,45,49
+2,2:07.0,S. Curry misses 2-pt jump shot from 7 ft,,45,49
+2,2:04.0,,Defensive rebound by P. Siakam,45,49
+2,1:47.0,,K. Leonard makes 2-pt jump shot from 2 ft,45,51
+2,1:47.0,,Shooting foul by S. Curry (drawn by K. Leonard),45,51
+2,1:47.0,,K. Leonard makes free throw 1 of 1,45,52
+2,1:28.0,Personal foul by K. Leonard (drawn by D. Green),,45,52
+2,1:28.0,D. Green makes free throw 1 of 2,,46,52
+2,1:28.0,D. Green makes free throw 2 of 2,,47,52
+2,1:08.0,,Personal foul by K. Looney (drawn by M. Gasol),47,52
+2,1:08.0,,M. Gasol makes free throw 1 of 2,47,53
+2,1:08.0,D. Cousins enters the game for K. Looney,,47,53
+2,1:08.0,,D. Green enters the game for K. Leonard,47,53
+2,1:08.0,,M. Gasol makes free throw 2 of 2,47,54
+2,0:59.0,Offensive foul by D. Green (drawn by K. Lowry),,47,54
+2,0:59.0,Turnover by D. Green (offensive foul),,47,54
+2,0:59.0,J. Bell enters the game for D. Cousins,,47,54
+2,0:59.0,J. Jerebko enters the game for D. Green,,47,54
+2,0:59.0,,K. Leonard enters the game for P. Siakam,47,54
+2,0:38.0,,M. Gasol makes 2-pt jump shot from 5 ft (assist by F. VanVleet),47,56
+2,0:32.0,Shooting foul by M. Gasol (drawn by S. Curry),,47,56
+2,0:32.0,S. Curry makes free throw 1 of 2,,48,56
+2,0:32.0,S. Curry makes free throw 2 of 2,,49,56
+2,0:11.0,,D. Green makes 3-pt jump shot from 23 ft (assist by K. Lowry),49,59
+3,11:47.0,Shooting foul by M. Gasol (drawn by D. Green),,49,59
+3,11:47.0,D. Green makes free throw 1 of 2,,50,59
+3,11:47.0,D. Green makes free throw 2 of 2,,51,59
+3,11:28.0,,P. Siakam makes 2-pt layup from 2 ft,51,61
+3,11:05.0,Turnover by D. Green (bad pass; steal by M. Gasol),,51,61
+3,10:45.0,,P. Siakam makes 2-pt jump shot from 18 ft (assist by K. Lowry),51,63
+3,10:32.0,S. Curry makes 3-pt jump shot from 26 ft (assist by D. Green),,54,63
+3,10:06.0,,M. Gasol misses 2-pt jump shot from 13 ft,54,63
+3,10:04.0,Defensive rebound by D. Green,,54,63
+3,9:59.0,Personal foul by K. Lowry (drawn by D. Green),,54,63
+3,9:52.0,S. Curry makes 2-pt jump shot from 19 ft (assist by D. Green),,56,63
+3,9:30.0,,Shooting foul by A. Iguodala (drawn by P. Siakam),56,63
+3,9:30.0,,P. Siakam makes free throw 1 of 2,56,64
+3,9:30.0,,P. Siakam makes free throw 2 of 2,56,65
+3,9:19.0,D. Green makes 2-pt layup at rim,,58,65
+3,9:13.0,,K. Leonard makes 2-pt layup from 1 ft (assist by P. Siakam),58,67
+3,8:55.0,J. Bell misses 2-pt layup from 1 ft (block by M. Gasol),,58,67
+3,8:52.0,Offensive rebound by Team,,58,67
+3,8:45.0,Turnover by Team (shot clock),,58,67
+3,8:21.0,,K. Leonard misses 3-pt jump shot from 27 ft,58,67
+3,8:19.0,,Offensive rebound by P. Siakam,58,67
+3,8:16.0,,D. Green misses 2-pt layup from 1 ft (block by A. Iguodala),58,67
+3,8:16.0,Defensive rebound by D. Green,,58,67
+3,8:11.0,K. Thompson misses 3-pt jump shot from 24 ft,,58,67
+3,8:09.0,Offensive rebound by J. Bell,,58,67
+3,8:05.0,K. Thompson makes 3-pt jump shot from 26 ft (assist by A. Iguodala),,61,67
+3,7:52.0,,M. Gasol misses 3-pt jump shot from 26 ft,61,67
+3,7:47.0,Defensive rebound by D. Green,,61,67
+3,7:37.0,A. Iguodala misses 3-pt jump shot from 24 ft,,61,67
+3,7:36.0,,Defensive rebound by P. Siakam,61,67
+3,7:29.0,,P. Siakam makes 2-pt hook shot from 3 ft,61,69
+3,7:21.0,S. Curry makes 2-pt jump shot from 10 ft,,63,69
+3,7:11.0,,Shooting foul by D. Green (drawn by K. Leonard),63,69
+3,7:11.0,,K. Leonard makes free throw 1 of 2,63,70
+3,7:11.0,K. Looney enters the game for J. Bell,,63,70
+3,7:11.0,,K. Leonard makes free throw 2 of 2,63,71
+3,6:59.0,Turnover by S. Curry (bad pass; steal by K. Leonard),,63,71
+3,6:55.0,,P. Siakam makes 2-pt layup at rim (assist by K. Leonard),63,73
+3,6:55.0,Golden State full timeout,,63,73
+3,6:40.0,K. Looney makes 2-pt dunk from 1 ft (assist by A. Iguodala),,65,73
+3,6:16.0,,P. Siakam makes 2-pt jump shot from 20 ft,65,75
+3,6:02.0,D. Green misses 2-pt jump shot from 18 ft,,65,75
+3,5:59.0,,Defensive rebound by K. Lowry,65,75
+3,5:55.0,,Turnover by K. Lowry (bad pass; steal by D. Green),65,75
+3,5:48.0,K. Thompson makes 3-pt jump shot from 26 ft (assist by D. Green),,68,75
+3,5:22.0,,M. Gasol makes 2-pt jump shot from 6 ft (assist by D. Green),68,77
+3,5:13.0,Personal foul by M. Gasol (drawn by K. Looney),,68,77
+3,5:13.0,,S. Ibaka enters the game for M. Gasol,68,77
+3,5:13.0,,F. VanVleet enters the game for D. Green,68,77
+3,5:01.0,A. Iguodala misses 3-pt jump shot from 25 ft,,68,77
+3,4:58.0,,Defensive rebound by K. Leonard,68,77
+3,4:38.0,,K. Leonard misses 2-pt jump shot from 18 ft,68,77
+3,4:35.0,Defensive rebound by K. Thompson,,68,77
+3,4:24.0,S. Curry misses 3-pt jump shot from 25 ft,,68,77
+3,4:21.0,,Defensive rebound by K. Lowry,68,77
+3,4:19.0,,P. Siakam makes 2-pt jump shot from 2 ft (assist by K. Leonard),68,79
+3,4:02.0,D. Green misses 2-pt jump shot from 12 ft,,68,79
+3,4:02.0,Offensive rebound by Team,,68,79
+3,4:02.0,,Loose ball foul by F. VanVleet (drawn by A. Iguodala),68,79
+3,4:02.0,S. Livingston enters the game for A. Iguodala,,68,79
+3,4:02.0,A. McKinnie enters the game for K. Thompson,,68,79
+3,3:56.0,Shooting foul by S. Ibaka (drawn by S. Curry),,68,79
+3,3:56.0,S. Curry makes free throw 1 of 2,,69,79
+3,3:56.0,S. Curry makes free throw 2 of 2,,70,79
+3,3:37.0,,K. Lowry misses 2-pt jump shot from 7 ft,70,79
+3,3:33.0,Defensive rebound by S. Livingston,,70,79
+3,3:29.0,Personal foul by P. Siakam (drawn by S. Curry),,70,79
+3,3:29.0,S. Curry makes free throw 1 of 2,,71,79
+3,3:29.0,S. Curry makes free throw 2 of 2,,72,79
+3,3:25.0,,Toronto full timeout,72,79
+3,3:12.0,,F. VanVleet misses 3-pt jump shot from 24 ft,72,79
+3,3:09.0,Defensive rebound by A. McKinnie,,72,79
+3,3:01.0,S. Livingston makes 2-pt layup at rim (assist by D. Green),,74,79
+3,2:47.0,,K. Leonard makes 3-pt jump shot from 26 ft (assist by S. Ibaka),74,82
+3,2:36.0,Turnover by D. Green (bad pass),,74,82
+3,2:26.0,,S. Ibaka misses 3-pt jump shot from 25 ft,74,82
+3,2:22.0,Defensive rebound by S. Livingston,,74,82
+3,2:17.0,Shooting foul by K. Lowry (drawn by S. Curry),,74,82
+3,2:17.0,S. Curry makes free throw 1 of 2,,75,82
+3,2:17.0,,D. Green enters the game for P. Siakam,75,82
+3,2:17.0,S. Curry makes free throw 2 of 2,,76,82
+3,1:58.0,,K. Leonard misses 2-pt jump shot from 7 ft,76,82
+3,1:55.0,Defensive rebound by S. Livingston,,76,82
+3,1:51.0,S. Livingston misses 2-pt jump shot from 16 ft,,76,82
+3,1:50.0,,Defensive rebound by Team,76,82
+3,1:38.0,,Shooting foul by A. McKinnie (drawn by K. Leonard),76,82
+3,1:38.0,,K. Leonard misses free throw 1 of 2,76,82
+3,1:38.0,,Offensive rebound by Team,76,82
+3,1:38.0,,P. McCaw enters the game for K. Lowry,76,82
+3,1:38.0,,K. Leonard makes free throw 2 of 2,76,83
+3,1:23.0,A. McKinnie makes 3-pt jump shot from 23 ft (assist by D. Green),,79,83
+3,1:11.0,,Shooting foul by K. Looney (drawn by K. Leonard),79,83
+3,1:11.0,,K. Leonard makes free throw 1 of 2,79,84
+3,1:11.0,,K. Leonard makes free throw 2 of 2,79,85
+3,0:56.0,A. McKinnie misses 2-pt layup from 3 ft (block by D. Green),,79,85
+3,0:56.0,Offensive rebound by K. Looney,,79,85
+3,0:55.0,K. Looney makes 2-pt layup from 1 ft,,81,85
+3,0:33.0,,P. McCaw makes 3-pt jump shot from 26 ft (assist by K. Leonard),81,88
+3,0:25.0,D. Green misses 3-pt jump shot from 27 ft,,81,88
+3,0:22.0,,Defensive rebound by K. Leonard,81,88
+3,0:00.0,,Turnover by S. Ibaka (bad pass; steal by S. Livingston),81,88
+3,0:00.0,S. Livingston misses 3-pt jump shot from 51 ft,,81,88
+3,0:00.0,Offensive rebound by Team,,81,88
+4,11:48.0,,Shooting foul by Q. Cook (drawn by F. VanVleet),81,88
+4,11:48.0,,F. VanVleet makes free throw 1 of 2,81,89
+4,11:48.0,,F. VanVleet makes free throw 2 of 2,81,90
+4,11:31.0,Shooting foul by P. Siakam (drawn by K. Thompson),,81,90
+4,11:31.0,K. Thompson makes free throw 1 of 2,,82,90
+4,11:31.0,K. Thompson makes free throw 2 of 2,,83,90
+4,11:15.0,,P. McCaw misses 2-pt layup from 3 ft,83,90
+4,11:15.0,Defensive rebound by Team,,83,90
+4,10:57.0,J. Jerebko makes 3-pt jump shot from 24 ft (assist by Q. Cook),,86,90
+4,10:41.0,,Turnover by K. Lowry (bad pass; steal by D. Cousins),86,90
+4,10:38.0,Shooting foul by K. Lowry (drawn by D. Cousins),,86,90
+4,10:38.0,D. Cousins makes free throw 1 of 2,,87,90
+4,10:38.0,D. Cousins misses free throw 2 of 2,,87,90
+4,10:36.0,,Defensive rebound by P. Siakam,87,90
+4,10:15.0,,F. VanVleet makes 2-pt hook shot from 1 ft,87,92
+4,10:09.0,S. Livingston misses 2-pt layup from 2 ft (block by S. Ibaka),,87,92
+4,10:09.0,Offensive rebound by Team,,87,92
+4,10:09.0,,K. Leonard enters the game for P. McCaw,87,92
+4,10:01.0,Q. Cook misses 3-pt jump shot from 25 ft,,87,92
+4,9:57.0,,Defensive rebound by K. Lowry,87,92
+4,9:55.0,,P. Siakam makes 2-pt layup from 1 ft (assist by K. Lowry),87,94
+4,9:44.0,Golden State full timeout,,87,94
+4,9:44.0,D. Green enters the game for J. Jerebko,,87,94
+4,9:38.0,K. Thompson misses 2-pt hook shot from 4 ft,,87,94
+4,9:36.0,,Defensive rebound by S. Ibaka,87,94
+4,9:33.0,,K. Lowry misses 3-pt jump shot from 28 ft,87,94
+4,9:30.0,Defensive rebound by K. Thompson,,87,94
+4,9:15.0,D. Green misses 2-pt hook shot from 1 ft,,87,94
+4,9:12.0,,Defensive rebound by P. Siakam,87,94
+4,8:53.0,,P. Siakam makes 2-pt hook shot from 6 ft (assist by K. Lowry),87,96
+4,8:39.0,Offensive foul by D. Cousins (drawn by K. Lowry),,87,96
+4,8:39.0,Turnover by D. Cousins (offensive foul),,87,96
+4,8:39.0,S. Curry enters the game for Q. Cook,,87,96
+4,8:25.0,,Shooting foul by D. Cousins (drawn by S. Ibaka),87,96
+4,8:25.0,,S. Ibaka misses free throw 1 of 2,87,96
+4,8:25.0,,Offensive rebound by Team,87,96
+4,8:25.0,K. Looney enters the game for D. Cousins,,87,96
+4,8:25.0,,S. Ibaka makes free throw 2 of 2,87,97
+4,8:11.0,Shooting foul by K. Lowry (drawn by K. Looney),,87,97
+4,8:11.0,K. Looney misses free throw 1 of 2,,87,97
+4,8:11.0,Offensive rebound by Team,,87,97
+4,8:11.0,,D. Green enters the game for K. Lowry,87,97
+4,8:11.0,K. Looney makes free throw 2 of 2,,88,97
+4,7:57.0,,S. Ibaka misses 2-pt jump shot from 19 ft,88,97
+4,7:53.0,Defensive rebound by S. Curry,,88,97
+4,7:53.0,,M. Gasol enters the game for S. Ibaka,88,97
+4,7:40.0,S. Curry misses 3-pt jump shot from 26 ft,,88,97
+4,7:37.0,,Defensive rebound by M. Gasol,88,97
+4,7:32.0,,D. Green makes 3-pt jump shot from 23 ft (assist by P. Siakam),88,100
+4,7:31.0,Golden State full timeout,,88,100
+4,7:31.0,A. Iguodala enters the game for S. Livingston,,88,100
+4,7:08.0,K. Looney makes 2-pt dunk from 2 ft (assist by A. Iguodala),,90,100
+4,6:58.0,,Personal foul by S. Curry (drawn by P. Siakam),90,100
+4,6:44.0,,Turnover by K. Leonard (lost ball; steal by K. Looney),90,100
+4,6:41.0,A. Iguodala makes 2-pt dunk from 1 ft,,92,100
+4,6:32.0,,Personal foul by S. Curry (drawn by D. Green),92,100
+4,6:21.0,,K. Leonard makes 3-pt jump shot from 26 ft,92,103
+4,6:09.0,D. Green misses 2-pt layup from 1 ft (block by P. Siakam),,92,103
+4,6:05.0,,Defensive rebound by M. Gasol,92,103
+4,5:52.0,,D. Green misses 3-pt jump shot from 23 ft,92,103
+4,5:49.0,Defensive rebound by S. Curry,,92,103
+4,5:41.0,S. Curry makes 2-pt jump shot from 12 ft (assist by D. Green),,94,103
+4,5:18.0,,Personal foul by A. Iguodala (drawn by M. Gasol),94,103
+4,5:18.0,,M. Gasol makes free throw 1 of 2,94,104
+4,5:18.0,,M. Gasol makes free throw 2 of 2,94,105
+4,5:08.0,Offensive foul by K. Thompson (drawn by D. Green),,94,105
+4,5:08.0,Turnover by K. Thompson (offensive foul),,94,105
+4,5:08.0,Technical foul by K. Thompson,,94,105
+4,5:08.0,,K. Leonard makes technical free throw,94,106
+4,4:46.0,,F. VanVleet misses 3-pt jump shot from 29 ft,94,106
+4,4:43.0,,Offensive rebound by D. Green,94,106
+4,4:42.0,,Toronto full timeout,94,106
+4,4:40.0,,K. Leonard misses 3-pt jump shot from 23 ft,94,106
+4,4:36.0,Defensive rebound by A. Iguodala,,94,106
+4,4:15.0,K. Thompson makes 2-pt jump shot from 18 ft (assist by S. Curry),,96,106
+4,3:54.0,,M. Gasol makes 2-pt jump shot from 17 ft (assist by K. Leonard),96,108
+4,3:46.0,K. Thompson makes 2-pt layup from 1 ft (assist by S. Curry),,98,108
+4,3:21.0,,F. VanVleet makes 2-pt jump shot from 20 ft (assist by K. Leonard),98,110
+4,3:09.0,S. Curry misses 2-pt jump shot from 10 ft,,98,110
+4,3:07.0,,Defensive rebound by K. Leonard,98,110
+4,2:44.0,,D. Green misses 3-pt jump shot from 26 ft,98,110
+4,2:40.0,Defensive rebound by K. Looney,,98,110
+4,2:35.0,S. Curry makes 2-pt layup at rim (assist by A. Iguodala),,100,110
+4,2:35.0,Shooting foul by M. Gasol (drawn by S. Curry),,100,110
+4,2:35.0,,K. Lowry enters the game for D. Green,100,110
+4,2:35.0,S. Curry makes free throw 1 of 1,,101,110
+4,2:18.0,,Personal foul by K. Looney (drawn by K. Leonard),101,110
+4,2:18.0,,K. Leonard misses free throw 1 of 2,101,110
+4,2:18.0,,Offensive rebound by Team,101,110
+4,2:18.0,,K. Leonard makes free throw 2 of 2,101,111
+4,1:55.0,A. Iguodala makes 2-pt hook shot from 4 ft (assist by D. Green),,103,111
+4,1:31.0,,K. Lowry misses 2-pt jump shot from 21 ft,103,111
+4,1:29.0,,Offensive rebound by K. Leonard,103,111
+4,1:19.0,,Shooting foul by D. Green (drawn by F. VanVleet),103,111
+4,1:19.0,,F. VanVleet makes free throw 1 of 2,103,112
+4,1:19.0,A. McKinnie enters the game for A. Iguodala,,103,112
+4,1:19.0,,F. VanVleet makes free throw 2 of 2,103,113
+4,1:14.0,Shooting foul by M. Gasol (drawn by S. Curry),,103,113
+4,1:14.0,,D. Green enters the game for M. Gasol,103,113
+4,1:14.0,S. Curry makes free throw 1 of 3,,104,113
+4,1:14.0,S. Curry makes free throw 2 of 3,,105,113
+4,1:14.0,S. Curry makes free throw 3 of 3,,106,113
+4,0:55.0,,P. Siakam misses 2-pt jump shot from 5 ft,106,113
+4,0:54.0,,P. Siakam makes 2-pt layup at rim,106,115
+4,0:54.0,,Offensive rebound by P. Siakam,106,115
+4,0:49.0,Turnover by D. Green (bad pass),,106,115
+4,0:30.0,,K. Lowry makes 3-pt jump shot from 28 ft,106,118
+4,0:20.0,A. McKinnie makes 3-pt jump shot from 23 ft (assist by S. Curry),,109,118

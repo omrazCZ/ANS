@@ -1,0 +1,459 @@
+QUARTER,TIME_REMAINING,DENVER_ACTION,TORONTO_ACTION,DENVER_SCORE,TORONTO_SCORE
+1,11:44.0,N. Jokić misses 2-pt jump shot from 15 ft,,0,0
+1,11:41.0,,Defensive rebound by K. Lowry,0,0
+1,11:29.0,,D. Green makes 3-pt jump shot from 23 ft (assist by P. Siakam),0,3
+1,11:04.0,G. Harris misses 3-pt jump shot from 24 ft,,0,3
+1,11:02.0,,Defensive rebound by K. Lowry,0,3
+1,10:56.0,,K. Leonard misses 3-pt jump shot from 23 ft,0,3
+1,10:54.0,Defensive rebound by G. Harris,,0,3
+1,10:47.0,P. Millsap misses 2-pt jump shot from 11 ft,,0,3
+1,10:44.0,Offensive rebound by N. Jokić,,0,3
+1,10:40.0,J. Hernangómez makes 3-pt jump shot from 26 ft (assist by N. Jokić),,3,3
+1,10:24.0,,S. Ibaka makes 3-pt jump shot from 27 ft (assist by P. Siakam),3,6
+1,9:59.0,J. Hernangómez makes 2-pt jump shot from 23 ft (assist by N. Jokić),,5,6
+1,9:43.0,,Turnover by P. Siakam (lost ball; steal by J. Hernangómez),5,6
+1,9:35.0,J. Hernangómez misses 3-pt jump shot from 26 ft,,5,6
+1,9:32.0,,Defensive rebound by K. Leonard,5,6
+1,9:32.0,,Personal foul by G. Harris (drawn by K. Leonard),5,6
+1,9:09.0,,S. Ibaka misses 3-pt jump shot from 27 ft,5,6
+1,9:04.0,,Offensive rebound by D. Green,5,6
+1,8:55.0,,Turnover by P. Siakam (bad pass),5,6
+1,8:41.0,P. Millsap makes 2-pt layup from 2 ft (assist by N. Jokić),,7,6
+1,8:26.0,,D. Green misses 3-pt jump shot from 23 ft,7,6
+1,8:24.0,Defensive rebound by J. Hernangómez,,7,6
+1,8:12.0,J. Murray makes 3-pt jump shot from 25 ft (assist by N. Jokić),,10,6
+1,7:58.0,,K. Leonard misses 3-pt jump shot from 27 ft,10,6
+1,7:57.0,Defensive rebound by N. Jokić,,10,6
+1,7:53.0,J. Hernangómez misses 2-pt dunk from 1 ft (block by K. Lowry),,10,6
+1,7:51.0,,Defensive rebound by K. Leonard,10,6
+1,7:37.0,,P. Siakam makes 2-pt layup from 1 ft (assist by K. Leonard),10,8
+1,7:29.0,Personal foul by P. Siakam (drawn by P. Millsap),,10,8
+1,7:21.0,N. Jokić makes 2-pt layup from 1 ft (assist by J. Murray),,12,8
+1,7:13.0,,P. Siakam makes 2-pt layup from 1 ft (assist by K. Lowry),12,10
+1,7:02.0,G. Harris makes 2-pt jump shot from 9 ft (assist by N. Jokić),,14,10
+1,6:43.0,,P. Siakam makes 2-pt layup from 2 ft (assist by S. Ibaka),14,12
+1,6:30.0,J. Murray makes 2-pt jump shot from 16 ft,,16,12
+1,6:20.0,,S. Ibaka makes 2-pt jump shot from 18 ft (assist by K. Lowry),16,14
+1,6:09.0,J. Murray misses 2-pt layup at rim,,16,14
+1,6:07.0,,Defensive rebound by K. Leonard,16,14
+1,6:04.0,Loose ball foul by J. Murray (drawn by K. Leonard),,16,14
+1,6:04.0,,Toronto full timeout,16,14
+1,6:00.0,,Turnover by K. Lowry (bad pass),16,14
+1,5:43.0,J. Murray misses 3-pt jump shot from 26 ft,,16,14
+1,5:40.0,,Defensive rebound by S. Ibaka,16,14
+1,5:32.0,,K. Lowry misses 3-pt jump shot from 26 ft,16,14
+1,5:29.0,Defensive rebound by P. Millsap,,16,14
+1,5:24.0,Personal foul by S. Ibaka (drawn by N. Jokić),,16,14
+1,5:14.0,Turnover by J. Hernangómez (bad pass),,16,14
+1,5:07.0,,K. Leonard makes 2-pt jump shot from 16 ft (assist by K. Lowry),16,16
+1,4:55.0,Turnover by J. Murray (bad pass; steal by P. Siakam),,16,16
+1,4:51.0,,Shooting foul by P. Millsap (drawn by K. Leonard),16,16
+1,4:51.0,,K. Leonard makes free throw 1 of 2,16,17
+1,4:51.0,M. Morris enters the game for J. Murray,,16,17
+1,4:51.0,,K. Leonard makes free throw 2 of 2,16,18
+1,4:38.0,J. Hernangómez misses 3-pt jump shot from 25 ft,,16,18
+1,4:33.0,,Defensive rebound by P. Siakam,16,18
+1,4:30.0,,D. Green misses 3-pt jump shot from 27 ft,16,18
+1,4:26.0,Defensive rebound by J. Hernangómez,,16,18
+1,4:25.0,Turnover by J. Hernangómez (lost ball; steal by K. Lowry),,16,18
+1,4:23.0,,K. Leonard makes 2-pt layup from 1 ft (assist by K. Lowry),16,20
+1,4:23.0,Denver full timeout,,16,20
+1,4:11.0,G. Harris misses 3-pt jump shot from 25 ft,,16,20
+1,4:08.0,Offensive rebound by P. Millsap,,16,20
+1,4:01.0,Shooting foul by P. Siakam (drawn by P. Millsap),,16,20
+1,4:01.0,P. Millsap makes free throw 1 of 2,,17,20
+1,4:01.0,,O. Anunoby enters the game for D. Green,17,20
+1,4:01.0,,F. VanVleet enters the game for P. Siakam,17,20
+1,4:01.0,,Violation by Team (delay of game),17,20
+1,4:01.0,P. Millsap makes free throw 2 of 2,,18,20
+1,3:44.0,,K. Leonard makes 2-pt jump shot from 16 ft,18,22
+1,3:33.0,Shooting foul by O. Anunoby (drawn by G. Harris),,18,22
+1,3:33.0,G. Harris makes free throw 1 of 2,,19,22
+1,3:33.0,M. Plumlee enters the game for P. Millsap,,19,22
+1,3:33.0,,J. Valančiūnas enters the game for S. Ibaka,19,22
+1,3:33.0,G. Harris misses free throw 2 of 2,,19,22
+1,3:32.0,,Defensive rebound by O. Anunoby,19,22
+1,3:11.0,,K. Leonard misses 3-pt jump shot from 27 ft,19,22
+1,3:07.0,Defensive rebound by N. Jokić,,19,22
+1,3:02.0,M. Morris misses 3-pt jump shot from 27 ft,,19,22
+1,3:02.0,Offensive rebound by Team,,19,22
+1,3:02.0,,Loose ball foul by O. Anunoby (drawn by N. Jokić),19,22
+1,3:02.0,N. Jokić makes free throw 1 of 2,,20,22
+1,3:02.0,J. Murray enters the game for G. Harris,,20,22
+1,3:02.0,N. Jokić makes free throw 2 of 2,,21,22
+1,2:48.0,,Personal foul by M. Plumlee (drawn by F. VanVleet),21,22
+1,2:39.0,,Turnover by F. VanVleet (bad pass; steal by J. Hernangómez),21,22
+1,2:35.0,M. Morris makes 2-pt layup from 1 ft (assist by N. Jokić),,23,22
+1,2:21.0,,F. VanVleet misses 3-pt jump shot from 23 ft,23,22
+1,2:19.0,Defensive rebound by J. Murray,,23,22
+1,2:11.0,J. Hernangómez makes 2-pt layup from 1 ft (assist by N. Jokić),,25,22
+1,1:54.0,,J. Valančiūnas misses 2-pt layup from 1 ft,25,22
+1,1:52.0,Defensive rebound by N. Jokić,,25,22
+1,1:52.0,T. Lyles enters the game for N. Jokić,,25,22
+1,1:52.0,,C. Miles enters the game for K. Leonard,25,22
+1,1:52.0,,D. Wright enters the game for K. Lowry,25,22
+1,1:35.0,M. Morris makes 2-pt layup from 1 ft (assist by M. Plumlee),,27,22
+1,1:27.0,,F. VanVleet makes 2-pt layup from 1 ft,27,24
+1,1:12.0,M. Plumlee misses 2-pt layup from 1 ft,,27,24
+1,1:09.0,Offensive rebound by J. Hernangómez,,27,24
+1,1:09.0,J. Hernangómez misses 2-pt layup at rim,,27,24
+1,1:08.0,,Defensive rebound by J. Valančiūnas,27,24
+1,1:03.0,,C. Miles misses 3-pt jump shot from 26 ft,27,24
+1,1:02.0,Defensive rebound by M. Plumlee,,27,24
+1,0:49.0,Offensive foul by T. Lyles (drawn by D. Wright),,27,24
+1,0:49.0,Turnover by T. Lyles (offensive foul),,27,24
+1,0:49.0,M. Beasley enters the game for J. Hernangómez,,27,24
+1,0:32.0,,O. Anunoby misses 3-pt jump shot from 23 ft,27,24
+1,0:29.0,Defensive rebound by J. Murray,,27,24
+1,0:14.0,Personal foul by O. Anunoby (drawn by T. Lyles),,27,24
+1,0:14.0,T. Lyles misses free throw 1 of 2,,27,24
+1,0:14.0,Offensive rebound by Team,,27,24
+1,0:14.0,T. Craig enters the game for M. Morris,,27,24
+1,0:14.0,,D. Green enters the game for O. Anunoby,27,24
+1,0:14.0,T. Lyles misses free throw 2 of 2,,27,24
+1,0:12.0,,Defensive rebound by F. VanVleet,27,24
+1,0:00.0,,Turnover by D. Wright (lost ball; steal by M. Plumlee),27,24
+2,11:47.0,,C. Miles misses 3-pt jump shot from 24 ft,27,24
+2,11:43.0,Defensive rebound by M. Plumlee,,27,24
+2,11:40.0,Turnover by J. Murray (traveling),,27,24
+2,11:22.0,,F. VanVleet misses 3-pt jump shot from 27 ft,27,24
+2,11:19.0,,Offensive rebound by D. Wright,27,24
+2,11:15.0,,Turnover by F. VanVleet (bad pass),27,24
+2,11:03.0,M. Morris makes 2-pt jump shot from 8 ft (assist by J. Murray),,29,24
+2,10:51.0,,Turnover by C. Miles (bad pass; steal by T. Lyles),29,24
+2,10:48.0,M. Beasley makes 2-pt dunk from 1 ft (assist by J. Murray),,31,24
+2,10:29.0,,C. Miles makes 3-pt jump shot from 23 ft (assist by D. Wright),31,27
+2,10:14.0,Turnover by J. Murray (lost ball; steal by D. Wright),,31,27
+2,10:08.0,,F. VanVleet misses 3-pt jump shot from 23 ft,31,27
+2,10:04.0,Defensive rebound by M. Plumlee,,31,27
+2,10:01.0,J. Murray makes 2-pt dunk from 1 ft (assist by T. Lyles),,33,27
+2,9:50.0,,J. Valančiūnas makes 2-pt layup from 1 ft (assist by F. VanVleet),33,29
+2,9:35.0,T. Lyles misses 2-pt dunk from 2 ft (block by J. Valančiūnas),,33,29
+2,9:32.0,,Defensive rebound by J. Valančiūnas,33,29
+2,9:29.0,,F. VanVleet misses 2-pt layup from 2 ft,33,29
+2,9:27.0,Defensive rebound by M. Beasley,,33,29
+2,9:23.0,J. Murray misses 3-pt jump shot from 23 ft,,33,29
+2,9:20.0,Offensive rebound by J. Murray,,33,29
+2,9:18.0,M. Morris misses 3-pt jump shot from 26 ft,,33,29
+2,9:15.0,,Defensive rebound by Team,33,29
+2,8:58.0,,C. Miles makes 2-pt jump shot from 21 ft,33,31
+2,8:43.0,Turnover by M. Morris (bad pass; steal by C. Miles),,33,31
+2,8:42.0,,Personal foul by M. Morris (drawn by C. Miles),33,31
+2,8:42.0,,P. Siakam enters the game for F. VanVleet,33,31
+2,8:33.0,,D. Wright misses 2-pt jump shot from 2 ft (block by M. Plumlee),33,31
+2,8:33.0,,Offensive rebound by J. Valančiūnas,33,31
+2,8:33.0,,J. Valančiūnas makes 2-pt layup from 3 ft,33,33
+2,8:33.0,Violation by Team (def goaltending),,33,33
+2,8:20.0,T. Lyles misses 2-pt layup from 2 ft,,33,33
+2,8:18.0,,Defensive rebound by J. Valančiūnas,33,33
+2,8:09.0,,D. Wright misses 2-pt layup from 2 ft,33,33
+2,8:07.0,Defensive rebound by M. Plumlee,,33,33
+2,8:03.0,M. Morris misses 2-pt jump shot from 19 ft,,33,33
+2,7:59.0,,Defensive rebound by P. Siakam,33,33
+2,7:51.0,,J. Valančiūnas misses 2-pt jump shot from 7 ft,33,33
+2,7:47.0,,Offensive rebound by P. Siakam,33,33
+2,7:45.0,,J. Valančiūnas misses 2-pt layup from 1 ft,33,33
+2,7:43.0,Defensive rebound by T. Lyles,,33,33
+2,7:24.0,M. Beasley misses 2-pt jump shot from 19 ft,,33,33
+2,7:21.0,,Defensive rebound by D. Wright,33,33
+2,7:18.0,,D. Wright makes 2-pt layup from 1 ft,33,35
+2,7:18.0,Denver full timeout,,33,35
+2,7:18.0,T. Craig enters the game for T. Lyles,,33,35
+2,7:18.0,N. Jokić enters the game for J. Murray,,33,35
+2,7:18.0,,K. Lowry enters the game for D. Green,33,35
+2,7:09.0,Shooting foul by J. Valančiūnas (drawn by M. Plumlee),,33,35
+2,7:09.0,M. Plumlee misses free throw 1 of 2,,33,35
+2,7:09.0,Offensive rebound by Team,,33,35
+2,7:09.0,M. Plumlee misses free throw 2 of 2,,33,35
+2,7:04.0,,Defensive rebound by J. Valančiūnas,33,35
+2,6:45.0,,P. Siakam misses 3-pt jump shot from 23 ft,33,35
+2,6:44.0,Defensive rebound by Team,,33,35
+2,6:44.0,,S. Ibaka enters the game for C. Miles,33,35
+2,6:44.0,,K. Leonard enters the game for J. Valančiūnas,33,35
+2,6:28.0,N. Jokić makes 2-pt layup from 1 ft,,35,35
+2,6:11.0,,Shooting foul by M. Plumlee (drawn by K. Leonard),35,35
+2,6:11.0,,K. Leonard makes free throw 1 of 2,35,36
+2,6:11.0,P. Millsap enters the game for M. Morris,,35,36
+2,6:11.0,J. Murray enters the game for M. Plumlee,,35,36
+2,6:11.0,,K. Leonard makes free throw 2 of 2,35,37
+2,5:57.0,,Violation by Team (kicked ball),35,37
+2,5:46.0,J. Murray makes 3-pt jump shot from 23 ft (assist by N. Jokić),,38,37
+2,5:32.0,,P. Siakam makes 2-pt jump shot from 6 ft (assist by K. Lowry),38,39
+2,5:21.0,M. Beasley makes 3-pt jump shot from 27 ft (assist by N. Jokić),,41,39
+2,5:08.0,,Turnover by K. Lowry (bad pass; steal by P. Millsap),41,39
+2,5:05.0,Turnover by P. Millsap (bad pass),,41,39
+2,5:05.0,,D. Green enters the game for D. Wright,41,39
+2,4:51.0,,D. Green misses 3-pt jump shot from 26 ft,41,39
+2,4:48.0,Defensive rebound by T. Craig,,41,39
+2,4:43.0,Offensive foul by P. Millsap (drawn by D. Green),,41,39
+2,4:43.0,Turnover by P. Millsap (offensive foul),,41,39
+2,4:29.0,,K. Leonard makes 2-pt jump shot from 8 ft,41,41
+2,4:17.0,J. Murray misses 2-pt jump shot from 8 ft,,41,41
+2,4:10.0,Offensive rebound by N. Jokić,,41,41
+2,4:10.0,N. Jokić makes 2-pt layup at rim,,43,41
+2,4:08.0,,P. Siakam misses 2-pt layup from 1 ft,43,41
+2,4:03.0,Defensive rebound by P. Millsap,,43,41
+2,4:00.0,P. Millsap misses 3-pt jump shot from 26 ft,,43,41
+2,3:57.0,Offensive rebound by M. Beasley,,43,41
+2,3:48.0,M. Beasley makes 3-pt jump shot from 25 ft (assist by J. Murray),,46,41
+2,3:35.0,,D. Green misses 2-pt jump shot from 21 ft,46,41
+2,3:33.0,Defensive rebound by Team,,46,41
+2,3:23.0,P. Millsap misses 2-pt hook shot from 4 ft,,46,41
+2,3:21.0,,Defensive rebound by K. Leonard,46,41
+2,3:16.0,,S. Ibaka misses 3-pt jump shot from 27 ft,46,41
+2,3:12.0,Defensive rebound by J. Murray,,46,41
+2,3:04.0,N. Jokić makes 2-pt layup from 5 ft (assist by T. Craig),,48,41
+2,3:04.0,,Toronto full timeout,48,41
+2,2:53.0,,K. Leonard misses 3-pt jump shot from 23 ft,48,41
+2,2:50.0,Defensive rebound by P. Millsap,,48,41
+2,2:35.0,J. Murray misses 2-pt layup from 4 ft,,48,41
+2,2:33.0,Offensive rebound by T. Craig,,48,41
+2,2:31.0,T. Craig makes 2-pt layup at rim,,50,41
+2,2:15.0,,K. Lowry misses 3-pt jump shot from 29 ft,50,41
+2,2:12.0,Defensive rebound by P. Millsap,,50,41
+2,1:57.0,P. Millsap misses 3-pt jump shot from 27 ft,,50,41
+2,1:56.0,,Defensive rebound by Team,50,41
+2,1:41.0,,Personal foul by T. Craig (drawn by S. Ibaka),50,41
+2,1:41.0,,J. Valančiūnas enters the game for P. Siakam,50,41
+2,1:27.0,,K. Leonard makes 2-pt layup from 1 ft,50,43
+2,1:17.0,N. Jokić makes 2-pt jump shot from 10 ft (assist by M. Beasley),,52,43
+2,1:17.0,Shooting foul by J. Valančiūnas (drawn by N. Jokić),,52,43
+2,1:17.0,N. Jokić misses free throw 1 of 1,,52,43
+2,1:17.0,,Defensive rebound by S. Ibaka,52,43
+2,0:57.0,,K. Leonard makes 2-pt layup from 2 ft,52,45
+2,0:46.0,N. Jokić makes 2-pt jump shot from 6 ft (assist by J. Murray),,54,45
+2,0:37.0,,J. Valančiūnas makes 2-pt layup from 1 ft (assist by K. Leonard),54,47
+2,0:31.0,P. Millsap misses 2-pt layup from 3 ft (block by S. Ibaka),,54,47
+2,0:28.0,Offensive rebound by T. Craig,,54,47
+2,0:26.0,T. Craig makes 3-pt jump shot from 23 ft,,57,47
+2,0:08.0,,Turnover by K. Leonard (lost ball; steal by T. Craig),57,47
+2,0:05.0,J. Murray makes 2-pt dunk from 1 ft (assist by N. Jokić),,59,47
+2,0:00.0,,K. Lowry misses 3-pt jump shot from 26 ft,59,47
+2,0:00.0,,Offensive rebound by Team,59,47
+3,11:45.0,,Shooting foul by T. Craig (drawn by K. Lowry),59,47
+3,11:45.0,,K. Lowry makes free throw 1 of 2,59,48
+3,11:45.0,,K. Lowry makes free throw 2 of 2,59,49
+3,11:28.0,J. Hernangómez misses 2-pt layup from 2 ft (block by K. Lowry),,59,49
+3,11:28.0,Offensive rebound by Team,,59,49
+3,11:24.0,J. Murray makes 2-pt jump shot from 21 ft,,61,49
+3,11:10.0,,S. Ibaka makes 2-pt jump shot from 14 ft (assist by K. Lowry),61,51
+3,10:55.0,J. Murray makes 2-pt jump shot from 14 ft (assist by N. Jokić),,63,51
+3,10:43.0,,D. Green makes 3-pt jump shot from 23 ft (assist by P. Siakam),63,54
+3,10:34.0,Personal foul by D. Green (drawn by N. Jokić),,63,54
+3,10:29.0,T. Craig misses 3-pt jump shot from 28 ft,,63,54
+3,10:26.0,,Defensive rebound by S. Ibaka,63,54
+3,10:15.0,,K. Lowry misses 2-pt layup from 1 ft,63,54
+3,10:13.0,Defensive rebound by N. Jokić,,63,54
+3,10:02.0,J. Murray misses 3-pt jump shot from 26 ft,,63,54
+3,9:58.0,,Defensive rebound by P. Siakam,63,54
+3,9:45.0,,P. Siakam makes 2-pt layup from 2 ft (assist by S. Ibaka),63,56
+3,9:25.0,T. Craig makes 3-pt jump shot from 25 ft (assist by N. Jokić),,66,56
+3,9:10.0,,S. Ibaka misses 3-pt jump shot from 26 ft,66,56
+3,9:07.0,Defensive rebound by P. Millsap,,66,56
+3,8:47.0,Turnover by J. Murray (bad pass; steal by D. Green),,66,56
+3,8:32.0,,K. Lowry makes 3-pt jump shot from 26 ft (assist by P. Siakam),66,59
+3,8:13.0,J. Hernangómez makes 3-pt jump shot from 27 ft (assist by P. Millsap),,69,59
+3,8:03.0,,Turnover by K. Lowry (bad pass; steal by N. Jokić),69,59
+3,7:56.0,J. Hernangómez misses 3-pt jump shot from 23 ft,,69,59
+3,7:52.0,Offensive rebound by N. Jokić,,69,59
+3,7:50.0,Personal foul by S. Ibaka (drawn by N. Jokić),,69,59
+3,7:43.0,P. Millsap misses 2-pt jump shot from 9 ft,,69,59
+3,7:40.0,,Defensive rebound by P. Siakam,69,59
+3,7:36.0,,P. Siakam makes 2-pt layup from 1 ft (assist by K. Lowry),69,61
+3,7:22.0,J. Murray misses 3-pt jump shot from 27 ft,,69,61
+3,7:20.0,,Defensive rebound by D. Green,69,61
+3,7:09.0,,K. Leonard misses 2-pt layup from 1 ft,69,61
+3,7:06.0,,Offensive rebound by K. Leonard,69,61
+3,7:06.0,,K. Leonard misses 2-pt layup at rim,69,61
+3,7:05.0,Defensive rebound by P. Millsap,,69,61
+3,6:59.0,N. Jokić makes 2-pt layup from 3 ft (assist by P. Millsap),,71,61
+3,6:47.0,,S. Ibaka makes 2-pt jump shot from 20 ft (assist by K. Lowry),71,63
+3,6:32.0,Turnover by P. Millsap (bad pass; steal by D. Green),,71,63
+3,6:26.0,,Turnover by S. Ibaka (out of bounds lost ball),71,63
+3,6:26.0,,Toronto full timeout,71,63
+3,6:10.0,N. Jokić misses 2-pt hook shot from 4 ft,,71,63
+3,6:09.0,,Defensive rebound by S. Ibaka,71,63
+3,5:59.0,,S. Ibaka makes 2-pt jump shot from 20 ft (assist by K. Lowry),71,65
+3,5:40.0,J. Murray misses 3-pt jump shot from 26 ft,,71,65
+3,5:36.0,Offensive rebound by N. Jokić,,71,65
+3,5:31.0,P. Millsap makes 2-pt dunk from 1 ft (assist by N. Jokić),,73,65
+3,5:20.0,,K. Leonard makes 3-pt jump shot from 25 ft (assist by P. Siakam),73,68
+3,4:54.0,J. Murray makes 2-pt layup from 1 ft,,75,68
+3,4:54.0,,Violation by Team (def goaltending),75,68
+3,4:40.0,,P. Siakam makes 2-pt layup at rim (assist by K. Lowry),75,70
+3,4:24.0,J. Murray misses 2-pt layup from 2 ft,,75,70
+3,4:22.0,Offensive rebound by T. Craig,,75,70
+3,4:20.0,Turnover by T. Craig (bad pass; steal by P. Siakam),,75,70
+3,4:20.0,,Turnover by P. Siakam (step out of bounds),75,70
+3,4:20.0,M. Beasley enters the game for T. Craig,,75,70
+3,4:20.0,M. Morris enters the game for P. Millsap,,75,70
+3,4:20.0,M. Plumlee enters the game for J. Murray,,75,70
+3,4:20.0,,F. VanVleet enters the game for D. Green,75,70
+3,4:18.0,Shooting foul by K. Lowry (drawn by J. Hernangómez),,75,70
+3,4:18.0,J. Hernangómez makes free throw 1 of 2,,76,70
+3,4:18.0,J. Hernangómez misses free throw 2 of 2,,76,70
+3,4:16.0,,Defensive rebound by S. Ibaka,76,70
+3,4:05.0,,P. Siakam misses 3-pt jump shot from 26 ft,76,70
+3,4:02.0,Defensive rebound by M. Morris,,76,70
+3,3:41.0,N. Jokić misses 2-pt jump shot from 15 ft,,76,70
+3,3:38.0,Offensive rebound by J. Hernangómez,,76,70
+3,3:37.0,Turnover by J. Hernangómez (lost ball; steal by F. VanVleet),,76,70
+3,3:28.0,,K. Lowry misses 3-pt jump shot from 25 ft,76,70
+3,3:25.0,Defensive rebound by M. Plumlee,,76,70
+3,3:15.0,M. Plumlee makes 2-pt layup from 1 ft (assist by N. Jokić),,78,70
+3,2:58.0,,Turnover by S. Ibaka (lost ball; steal by M. Plumlee),78,70
+3,2:58.0,Personal foul by K. Lowry (drawn by M. Plumlee),,78,70
+3,2:58.0,Denver full timeout,,78,70
+3,2:58.0,,O. Anunoby enters the game for S. Ibaka,78,70
+3,2:58.0,,C. Miles enters the game for K. Lowry,78,70
+3,2:58.0,,J. Valančiūnas enters the game for P. Siakam,78,70
+3,2:46.0,Turnover by N. Jokić (bad pass),,78,70
+3,2:31.0,,O. Anunoby misses 2-pt layup from 2 ft (block by M. Plumlee),78,70
+3,2:28.0,Defensive rebound by N. Jokić,,78,70
+3,2:25.0,M. Beasley makes 2-pt dunk from 2 ft (assist by N. Jokić),,80,70
+3,2:02.0,,O. Anunoby makes 3-pt jump shot from 23 ft (assist by F. VanVleet),80,73
+3,1:46.0,Turnover by M. Plumlee (bad pass; steal by F. VanVleet),,80,73
+3,1:41.0,,C. Miles misses 3-pt jump shot from 26 ft,80,73
+3,1:39.0,Defensive rebound by Team,,80,73
+3,1:39.0,,Loose ball foul by J. Valančiūnas (drawn by N. Jokić),80,73
+3,1:39.0,N. Jokić makes free throw 1 of 2,,81,73
+3,1:39.0,T. Craig enters the game for J. Hernangómez,,81,73
+3,1:39.0,,D. Wright enters the game for K. Leonard,81,73
+3,1:39.0,N. Jokić makes free throw 2 of 2,,82,73
+3,1:14.0,,O. Anunoby misses 2-pt jump shot from 14 ft,82,73
+3,1:12.0,Defensive rebound by Team,,82,73
+3,1:12.0,T. Lyles enters the game for N. Jokić,,82,73
+3,0:57.0,M. Beasley makes 2-pt jump shot from 21 ft (assist by T. Lyles),,84,73
+3,0:46.0,,D. Wright makes 2-pt layup from 1 ft,84,75
+3,0:33.0,M. Beasley misses 2-pt layup from 3 ft,,84,75
+3,0:33.0,Offensive rebound by M. Plumlee,,84,75
+3,0:33.0,M. Plumlee makes 2-pt layup from 1 ft,,86,75
+3,0:23.0,,D. Wright makes 3-pt jump shot from 24 ft (assist by F. VanVleet),86,78
+4,11:44.0,M. Plumlee misses 2-pt layup from 3 ft,,86,78
+4,11:41.0,Offensive rebound by M. Plumlee,,86,78
+4,11:41.0,M. Plumlee misses 2-pt layup from 1 ft,,86,78
+4,11:41.0,,Defensive rebound by F. VanVleet,86,78
+4,11:33.0,,C. Miles misses 2-pt jump shot from 3 ft,86,78
+4,11:31.0,Defensive rebound by T. Lyles,,86,78
+4,11:15.0,M. Morris misses 2-pt jump shot from 11 ft,,86,78
+4,11:12.0,,Defensive rebound by J. Valančiūnas,86,78
+4,10:56.0,,F. VanVleet misses 3-pt jump shot from 23 ft,86,78
+4,10:53.0,Defensive rebound by J. Murray,,86,78
+4,10:45.0,T. Lyles makes 3-pt jump shot from 26 ft (assist by J. Murray),,89,78
+4,10:20.0,,O. Anunoby makes 3-pt jump shot from 25 ft (assist by D. Wright),89,81
+4,10:04.0,Turnover by J. Murray (bad pass; steal by F. VanVleet),,89,81
+4,10:02.0,,Turnover by O. Anunoby (bad pass),89,81
+4,9:48.0,J. Murray misses 2-pt jump shot from 10 ft,,89,81
+4,9:46.0,,Defensive rebound by D. Wright,89,81
+4,9:44.0,,Personal foul by M. Plumlee (drawn by D. Wright),89,81
+4,9:32.0,,Offensive foul by J. Valančiūnas (drawn by M. Plumlee),89,81
+4,9:32.0,,Turnover by J. Valančiūnas (offensive foul),89,81
+4,9:10.0,J. Murray misses 2-pt jump shot from 21 ft,,89,81
+4,9:08.0,,Defensive rebound by J. Valančiūnas,89,81
+4,9:00.0,,D. Wright makes 2-pt layup from 1 ft,89,83
+4,9:00.0,Denver full timeout,,89,83
+4,8:44.0,M. Morris misses 2-pt layup from 1 ft,,89,83
+4,8:40.0,Offensive rebound by M. Plumlee,,89,83
+4,8:40.0,M. Plumlee misses 2-pt layup from 1 ft,,89,83
+4,8:39.0,,Defensive rebound by J. Valančiūnas,89,83
+4,8:22.0,,Shooting foul by M. Plumlee (drawn by J. Valančiūnas),89,83
+4,8:22.0,,J. Valančiūnas makes free throw 1 of 2,89,84
+4,8:22.0,,J. Valančiūnas makes free throw 2 of 2,89,85
+4,8:09.0,M. Morris misses 2-pt jump shot from 10 ft,,89,85
+4,8:06.0,,Defensive rebound by J. Valančiūnas,89,85
+4,7:59.0,,C. Miles makes 3-pt jump shot from 26 ft (assist by F. VanVleet),89,88
+4,7:38.0,Turnover by M. Plumlee (bad pass; steal by D. Wright),,89,88
+4,7:32.0,,D. Wright misses 2-pt hook shot from 2 ft,89,88
+4,7:30.0,Defensive rebound by J. Murray,,89,88
+4,7:14.0,Shooting foul by J. Valančiūnas (drawn by M. Morris),,89,88
+4,7:14.0,Technical foul by N. Nurse,,89,88
+4,7:14.0,J. Murray makes technical free throw,,90,88
+4,7:14.0,M. Morris makes free throw 1 of 3,,91,88
+4,7:14.0,M. Morris makes free throw 2 of 3,,92,88
+4,7:14.0,J. Hernangómez enters the game for M. Beasley,,92,88
+4,7:14.0,N. Jokić enters the game for T. Lyles,,92,88
+4,7:14.0,P. Millsap enters the game for M. Plumlee,,92,88
+4,7:14.0,M. Morris misses free throw 3 of 3,,92,88
+4,7:13.0,,Defensive rebound by J. Valančiūnas,92,88
+4,7:13.0,,Toronto full timeout,92,88
+4,7:13.0,,S. Ibaka enters the game for O. Anunoby,92,88
+4,7:13.0,,K. Leonard enters the game for J. Valančiūnas,92,88
+4,7:13.0,,K. Lowry enters the game for D. Wright,92,88
+4,6:51.0,,F. VanVleet misses 3-pt jump shot from 26 ft,92,88
+4,6:48.0,Defensive rebound by P. Millsap,,92,88
+4,6:34.0,J. Murray makes 2-pt jump shot from 17 ft (assist by M. Morris),,94,88
+4,6:19.0,,K. Leonard makes 2-pt jump shot from 14 ft,94,90
+4,5:55.0,J. Hernangómez misses 3-pt jump shot from 24 ft,,94,90
+4,5:52.0,,Defensive rebound by K. Leonard,94,90
+4,5:46.0,,K. Leonard misses 2-pt jump shot from 19 ft,94,90
+4,5:43.0,,Offensive rebound by K. Leonard,94,90
+4,5:32.0,,C. Miles misses 3-pt jump shot from 26 ft,94,90
+4,5:30.0,Defensive rebound by N. Jokić,,94,90
+4,5:30.0,Personal foul by K. Lowry (drawn by N. Jokić),,94,90
+4,5:30.0,,D. Green enters the game for C. Miles,94,90
+4,5:30.0,,P. Siakam enters the game for F. VanVleet,94,90
+4,5:16.0,Turnover by J. Murray (bad pass),,94,90
+4,5:08.0,,Shooting foul by J. Hernangómez (drawn by K. Leonard),94,90
+4,5:08.0,,K. Leonard makes free throw 1 of 2,94,91
+4,5:08.0,,K. Leonard makes free throw 2 of 2,94,92
+4,4:54.0,M. Morris misses 2-pt layup from 5 ft (block by K. Lowry),,94,92
+4,4:51.0,,Defensive rebound by Team,94,92
+4,4:40.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by P. Siakam),94,94
+4,4:40.0,Denver full timeout,,94,94
+4,4:40.0,M. Beasley enters the game for M. Morris,,94,94
+4,4:28.0,Personal foul by S. Ibaka (drawn by J. Murray),,94,94
+4,4:22.0,J. Hernangómez makes 3-pt jump shot from 26 ft (assist by J. Murray),,97,94
+4,4:01.0,,K. Leonard misses 3-pt jump shot from 25 ft,97,94
+4,3:58.0,Defensive rebound by N. Jokić,,97,94
+4,3:41.0,Turnover by J. Murray (traveling),,97,94
+4,3:20.0,,D. Green makes 3-pt jump shot from 23 ft (assist by K. Lowry),97,97
+4,3:00.0,Turnover by N. Jokić (bad pass),,97,97
+4,2:44.0,,Turnover by K. Leonard (out of bounds lost ball),97,97
+4,2:40.0,M. Beasley makes 3-pt jump shot from 23 ft (assist by P. Millsap),,100,97
+4,2:28.0,,Shooting foul by N. Jokić (drawn by S. Ibaka),100,97
+4,2:28.0,,S. Ibaka makes free throw 1 of 2,100,98
+4,2:28.0,,S. Ibaka makes free throw 2 of 2,100,99
+4,2:28.0,N. Jokić misses 3-pt jump shot from 26 ft,,100,99
+4,2:11.0,,Defensive rebound by K. Leonard,100,99
+4,2:05.0,,Turnover by K. Leonard (lost ball; steal by N. Jokić),100,99
+4,1:52.0,P. Millsap misses 2-pt layup from 3 ft,,100,99
+4,1:50.0,,Defensive rebound by D. Green,100,99
+4,1:36.0,,K. Leonard misses 3-pt jump shot from 24 ft,100,99
+4,1:34.0,Defensive rebound by J. Murray,,100,99
+4,1:19.0,J. Murray misses 2-pt jump shot from 7 ft,,100,99
+4,1:17.0,Offensive rebound by Team,,100,99
+4,1:14.0,N. Jokić misses 2-pt jump shot from 23 ft,,100,99
+4,1:12.0,,Defensive rebound by P. Siakam,100,99
+4,0:55.0,,K. Leonard makes 2-pt jump shot from 17 ft (assist by P. Siakam),100,101
+4,0:54.0,Denver full timeout,,100,101
+4,0:47.0,Personal foul by D. Green (drawn by J. Murray),,100,101
+4,0:40.0,N. Jokić makes 2-pt jump shot from 12 ft (assist by J. Murray),,102,101
+4,0:40.0,,Toronto full timeout,102,101
+4,0:21.0,,D. Green misses 2-pt jump shot from 22 ft,102,101
+4,0:18.0,,Offensive rebound by K. Lowry,102,101
+4,0:16.0,,D. Green misses 3-pt jump shot from 26 ft,102,101
+4,0:12.0,Defensive rebound by J. Hernangómez,,102,101
+4,0:12.0,Personal foul by K. Leonard (drawn by J. Hernangómez),,102,101
+4,0:12.0,J. Hernangómez misses free throw 1 of 2,,102,101
+4,0:12.0,Offensive rebound by Team,,102,101
+4,0:12.0,,J. Valančiūnas enters the game for D. Green,102,101
+4,0:12.0,J. Hernangómez makes free throw 2 of 2,,103,101
+4,0:12.0,,Toronto full timeout,103,101
+4,0:12.0,T. Craig enters the game for N. Jokić,,103,101
+4,0:12.0,M. Plumlee enters the game for J. Murray,,103,101
+4,0:12.0,,D. Green enters the game for P. Siakam,103,101
+4,0:12.0,,F. VanVleet enters the game for J. Valančiūnas,103,101
+4,0:07.0,,K. Leonard makes 2-pt jump shot from 10 ft,103,103
+4,0:07.0,Denver full timeout,,103,103
+4,0:07.0,N. Jokić enters the game for T. Craig,,103,103
+4,0:07.0,J. Murray enters the game for M. Plumlee,,103,103
+4,0:07.0,,P. Siakam enters the game for F. VanVleet,103,103
+4,0:07.0,Away from play foul by S. Ibaka (drawn by N. Jokić),,103,103
+4,0:07.0,N. Jokić makes free throw 1 of 1,,104,103
+4,0:05.0,Personal foul by K. Leonard (drawn by N. Jokić),,104,103
+4,0:05.0,N. Jokić makes free throw 1 of 2,,105,103
+4,0:05.0,T. Craig enters the game for J. Murray,,105,103
+4,0:05.0,,J. Valančiūnas enters the game for S. Ibaka,105,103
+4,0:05.0,N. Jokić makes free throw 2 of 2,,106,103
+4,0:00.0,,K. Lowry misses 3-pt jump shot from 26 ft,106,103
+4,0:00.0,,Offensive rebound by Team,106,103

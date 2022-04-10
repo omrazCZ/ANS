@@ -1,0 +1,495 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,DETROIT_ACTION,HOUSTON_SCORE,DETROIT_SCORE
+1,11:46.0,,A. Drummond makes 2-pt layup from 1 ft (assist by R. Bullock),0,2
+1,11:29.0,Turnover by P. Tucker (step out of bounds),,0,2
+1,11:11.0,,A. Drummond misses 2-pt hook shot from 4 ft,0,2
+1,11:09.0,Defensive rebound by C. Capela,,0,2
+1,11:00.0,C. Paul makes 2-pt layup from 5 ft,,2,2
+1,10:48.0,,R. Bullock makes 3-pt jump shot from 25 ft (assist by B. Griffin),2,5
+1,10:34.0,Turnover by J. Harden (bad pass; steal by A. Drummond),,2,5
+1,10:31.0,,Turnover by G. Robinson (out of bounds lost ball),2,5
+1,10:23.0,C. Paul misses 2-pt jump shot from 15 ft,,2,5
+1,10:19.0,,Defensive rebound by B. Griffin,2,5
+1,10:04.0,,G. Robinson makes 2-pt layup from 5 ft (assist by R. Jackson),2,7
+1,9:46.0,J. Harden misses 2-pt jump shot from 11 ft,,2,7
+1,9:43.0,,Defensive rebound by R. Bullock,2,7
+1,9:39.0,,R. Jackson misses 2-pt layup from 5 ft (block by C. Capela),2,7
+1,9:39.0,,Offensive rebound by A. Drummond,2,7
+1,9:35.0,,A. Drummond misses 2-pt layup from 1 ft,2,7
+1,9:34.0,Defensive rebound by C. Paul,,2,7
+1,9:30.0,J. Harden makes 2-pt layup from 1 ft (assist by C. Paul),,4,7
+1,9:11.0,,B. Griffin makes 2-pt layup from 3 ft,4,9
+1,9:05.0,Turnover by J. Harden (bad pass; steal by A. Drummond),,4,9
+1,9:03.0,,Shooting foul by J. Harden (drawn by A. Drummond),4,9
+1,9:03.0,,A. Drummond misses free throw 1 of 2,4,9
+1,9:03.0,,Offensive rebound by Team,4,9
+1,9:03.0,,A. Drummond makes free throw 2 of 2,4,10
+1,8:47.0,Turnover by J. Ennis (lost ball; steal by R. Jackson),,4,10
+1,8:40.0,,G. Robinson misses 3-pt jump shot from 26 ft,4,10
+1,8:36.0,Defensive rebound by P. Tucker,,4,10
+1,8:32.0,C. Capela makes 2-pt layup from 2 ft (assist by J. Harden),,6,10
+1,8:18.0,,R. Jackson misses 2-pt layup from 2 ft,6,10
+1,8:17.0,Defensive rebound by C. Capela,,6,10
+1,8:14.0,J. Ennis makes 3-pt jump shot from 25 ft (assist by C. Paul),,9,10
+1,7:53.0,,G. Robinson makes 2-pt dunk from 1 ft (assist by R. Jackson),9,12
+1,7:39.0,J. Harden makes 2-pt layup from 2 ft,,11,12
+1,7:28.0,,B. Griffin makes 3-pt jump shot from 26 ft,11,15
+1,7:15.0,J. Ennis makes 2-pt dunk at rim (assist by P. Tucker),,13,15
+1,7:10.0,,Detroit full timeout,13,15
+1,7:10.0,E. Gordon enters the game for C. Paul,,13,15
+1,6:56.0,,R. Jackson misses 2-pt layup from 4 ft,13,15
+1,6:56.0,,Offensive rebound by A. Drummond,13,15
+1,6:53.0,,A. Drummond misses 2-pt layup from 3 ft (block by C. Capela),13,15
+1,6:51.0,,Offensive rebound by R. Bullock,13,15
+1,6:45.0,,R. Bullock makes 2-pt jump shot from 8 ft,13,17
+1,6:30.0,C. Capela makes 2-pt layup from 2 ft (assist by E. Gordon),,15,17
+1,6:22.0,,R. Jackson makes 2-pt jump shot from 7 ft,15,19
+1,6:00.0,C. Capela makes 2-pt layup from 3 ft (assist by J. Harden),,17,19
+1,5:48.0,,G. Robinson makes 2-pt jump shot from 9 ft (assist by B. Griffin),17,21
+1,5:41.0,E. Gordon misses 3-pt jump shot from 29 ft,,17,21
+1,5:38.0,,Defensive rebound by B. Griffin,17,21
+1,5:33.0,,Offensive foul by B. Griffin (drawn by P. Tucker),17,21
+1,5:33.0,,Turnover by B. Griffin (offensive foul),17,21
+1,5:33.0,G. Clark enters the game for J. Ennis,,17,21
+1,5:19.0,J. Harden misses 3-pt jump shot from 26 ft,,17,21
+1,5:17.0,,Defensive rebound by G. Robinson,17,21
+1,5:00.0,,R. Jackson misses 2-pt jump shot from 15 ft,17,21
+1,4:57.0,Defensive rebound by J. Harden,,17,21
+1,4:50.0,Personal foul by G. Robinson (drawn by J. Harden),,17,21
+1,4:45.0,Shooting foul by R. Bullock (drawn by J. Harden),,17,21
+1,4:45.0,J. Harden misses free throw 1 of 3,,17,21
+1,4:45.0,Offensive rebound by Team,,17,21
+1,4:45.0,J. Harden makes free throw 2 of 3,,18,21
+1,4:45.0,,L. Galloway enters the game for R. Jackson,18,21
+1,4:45.0,,I. Smith enters the game for G. Robinson,18,21
+1,4:45.0,J. Harden makes free throw 3 of 3,,19,21
+1,4:29.0,,Shooting foul by E. Gordon (drawn by B. Griffin),19,21
+1,4:29.0,,B. Griffin misses free throw 1 of 2,19,21
+1,4:29.0,,Offensive rebound by Team,19,21
+1,4:29.0,I. Hartenstein enters the game for C. Capela,,19,21
+1,4:29.0,,B. Griffin makes free throw 2 of 2,19,22
+1,4:17.0,E. Gordon misses 3-pt jump shot from 25 ft,,19,22
+1,4:15.0,,Defensive rebound by A. Drummond,19,22
+1,4:01.0,,B. Griffin misses 3-pt jump shot from 25 ft,19,22
+1,3:58.0,Defensive rebound by P. Tucker,,19,22
+1,3:49.0,J. Harden makes 3-pt jump shot from 25 ft,,22,22
+1,3:41.0,,L. Galloway misses 3-pt jump shot from 23 ft (block by G. Clark),22,22
+1,3:37.0,Defensive rebound by P. Tucker,,22,22
+1,3:32.0,J. Harden makes 2-pt layup from 2 ft,,24,22
+1,3:26.0,,Personal foul by I. Hartenstein (drawn by A. Drummond),24,22
+1,3:26.0,,S. Johnson enters the game for R. Bullock,24,22
+1,3:17.0,,I. Smith makes 2-pt jump shot from 16 ft,24,24
+1,3:02.0,E. Gordon makes 2-pt layup from 2 ft (assist by J. Harden),,26,24
+1,2:49.0,,A. Drummond makes 2-pt layup from 2 ft,26,26
+1,2:32.0,J. Harden makes 3-pt jump shot from 25 ft,,29,26
+1,2:32.0,Shooting foul by B. Griffin (drawn by J. Harden),,29,26
+1,2:32.0,Houston full timeout,,29,26
+1,2:32.0,C. Paul enters the game for P. Tucker,,29,26
+1,2:32.0,,B. Brown enters the game for B. Griffin,29,26
+1,2:32.0,J. Harden makes free throw 1 of 1,,30,26
+1,2:16.0,,Shooting foul by E. Gordon (drawn by A. Drummond),30,26
+1,2:16.0,,A. Drummond makes free throw 1 of 2,30,27
+1,2:16.0,G. Green enters the game for J. Harden,,30,27
+1,2:16.0,,A. Drummond misses free throw 2 of 2,30,27
+1,2:14.0,Defensive rebound by I. Hartenstein,,30,27
+1,1:59.0,E. Gordon misses 2-pt layup from 6 ft,,30,27
+1,1:57.0,,Defensive rebound by A. Drummond,30,27
+1,1:42.0,,Turnover by I. Smith (bad pass; steal by E. Gordon),30,27
+1,1:29.0,C. Paul misses 3-pt jump shot from 25 ft,,30,27
+1,1:26.0,,Defensive rebound by A. Drummond,30,27
+1,1:16.0,,Shooting foul by I. Hartenstein (drawn by B. Brown),30,27
+1,1:16.0,,B. Brown makes free throw 1 of 2,30,28
+1,1:16.0,,B. Brown misses free throw 2 of 2,30,28
+1,1:14.0,,Offensive rebound by A. Drummond,30,28
+1,1:13.0,,A. Drummond misses 2-pt layup from 1 ft,30,28
+1,1:09.0,,Offensive rebound by A. Drummond,30,28
+1,1:09.0,,A. Drummond misses 2-pt layup from 1 ft,30,28
+1,1:09.0,,Offensive rebound by A. Drummond,30,28
+1,1:09.0,,A. Drummond makes 2-pt layup from 1 ft,30,30
+1,0:53.0,G. Green misses 3-pt jump shot from 23 ft,,30,30
+1,0:51.0,,Defensive rebound by A. Drummond,30,30
+1,0:47.0,,S. Johnson makes 2-pt layup from 1 ft,30,32
+1,0:35.0,G. Clark misses 3-pt jump shot from 25 ft,,30,32
+1,0:33.0,,Defensive rebound by Team,30,32
+1,0:11.0,,S. Johnson misses 2-pt layup from 1 ft,30,32
+1,0:09.0,,Offensive rebound by B. Brown,30,32
+1,0:09.0,,B. Brown misses 2-pt layup from 1 ft (block by I. Hartenstein),30,32
+1,0:09.0,,Offensive rebound by A. Drummond,30,32
+1,0:09.0,,A. Drummond makes 2-pt layup at rim,30,34
+1,0:05.0,Personal foul by L. Galloway (drawn by C. Paul),,30,34
+1,0:00.0,C. Paul misses 2-pt layup from 5 ft,,30,34
+1,0:00.0,Offensive rebound by Team,,30,34
+2,11:41.0,Shooting foul by J. Leuer (drawn by E. Gordon),,30,34
+2,11:41.0,E. Gordon makes free throw 1 of 2,,31,34
+2,11:41.0,E. Gordon makes free throw 2 of 2,,32,34
+2,11:26.0,,I. Smith misses 2-pt jump shot from 13 ft,32,34
+2,11:22.0,Defensive rebound by C. Capela,,32,34
+2,11:10.0,G. Green misses 3-pt jump shot from 26 ft,,32,34
+2,11:06.0,Offensive rebound by C. Capela,,32,34
+2,11:03.0,C. Capela makes 2-pt hook shot from 4 ft,,34,34
+2,10:49.0,,S. Johnson misses 3-pt jump shot from 23 ft,34,34
+2,10:47.0,Defensive rebound by E. Gordon,,34,34
+2,10:39.0,C. Capela makes 2-pt layup from 3 ft (assist by E. Gordon),,36,34
+2,10:23.0,,L. Galloway makes 2-pt jump shot from 13 ft (assist by B. Brown),36,36
+2,10:06.0,C. Paul misses 3-pt jump shot from 25 ft,,36,36
+2,10:05.0,,Defensive rebound by Team,36,36
+2,9:48.0,,L. Galloway misses 2-pt jump shot from 16 ft,36,36
+2,9:45.0,Defensive rebound by G. Green,,36,36
+2,9:37.0,C. Capela misses 2-pt hook shot from 11 ft,,36,36
+2,9:35.0,,Defensive rebound by L. Galloway,36,36
+2,9:21.0,,B. Brown makes 2-pt layup from 1 ft,36,38
+2,9:09.0,C. Paul misses 2-pt jump shot from 14 ft,,36,38
+2,9:08.0,Offensive rebound by Team,,36,38
+2,9:05.0,E. Gordon misses 2-pt jump shot from 11 ft,,36,38
+2,9:00.0,Offensive rebound by C. Capela,,36,38
+2,9:00.0,C. Capela makes 2-pt layup at rim,,38,38
+2,8:52.0,,I. Smith makes 3-pt jump shot from 25 ft,38,41
+2,8:31.0,Shooting foul by L. Galloway (drawn by C. Paul),,38,41
+2,8:31.0,C. Paul makes free throw 1 of 2,,39,41
+2,8:31.0,C. Paul makes free throw 2 of 2,,40,41
+2,8:14.0,,I. Smith makes 2-pt jump shot from 16 ft (assist by L. Galloway),40,43
+2,7:57.0,C. Capela makes 2-pt hook shot from 8 ft (assist by C. Paul),,42,43
+2,7:45.0,,I. Smith misses 3-pt jump shot from 25 ft,42,43
+2,7:41.0,Defensive rebound by G. Clark,,42,43
+2,7:37.0,C. Capela makes 2-pt layup from 3 ft (assist by C. Paul),,44,43
+2,7:37.0,Shooting foul by J. Leuer (drawn by C. Capela),,44,43
+2,7:37.0,J. Ennis enters the game for G. Clark,,44,43
+2,7:37.0,J. Harden enters the game for E. Gordon,,44,43
+2,7:37.0,C. Capela makes free throw 1 of 1,,45,43
+2,7:33.0,,Detroit full timeout,45,43
+2,7:33.0,P. Tucker enters the game for G. Green,,45,43
+2,7:33.0,,A. Drummond enters the game for S. Johnson,45,43
+2,7:33.0,,B. Griffin enters the game for J. Leuer,45,43
+2,7:14.0,,I. Smith makes 2-pt jump shot from 19 ft,45,45
+2,6:57.0,P. Tucker misses 2-pt jump shot from 6 ft,,45,45
+2,6:55.0,Offensive rebound by C. Capela,,45,45
+2,6:54.0,C. Capela misses 2-pt layup from 3 ft,,45,45
+2,6:52.0,Offensive rebound by C. Capela,,45,45
+2,6:52.0,C. Capela makes 2-pt layup from 3 ft,,47,45
+2,6:41.0,,A. Drummond makes 2-pt layup from 1 ft (assist by L. Galloway),47,47
+2,6:30.0,Turnover by C. Capela (bad pass; steal by B. Brown),,47,47
+2,6:27.0,,B. Brown makes 2-pt dunk from 1 ft,47,49
+2,6:01.0,Turnover by J. Harden (bad pass; steal by A. Drummond),,47,49
+2,5:57.0,,L. Galloway misses 3-pt jump shot from 26 ft,47,49
+2,5:54.0,,Offensive rebound by B. Griffin,47,49
+2,5:54.0,,Shooting foul by C. Capela (drawn by B. Griffin),47,49
+2,5:54.0,,B. Griffin makes free throw 1 of 2,47,50
+2,5:54.0,E. Gordon enters the game for C. Paul,,47,50
+2,5:54.0,,R. Jackson enters the game for I. Smith,47,50
+2,5:54.0,,B. Griffin makes free throw 2 of 2,47,51
+2,5:45.0,J. Harden misses 3-pt jump shot from 25 ft,,47,51
+2,5:40.0,Offensive rebound by C. Capela,,47,51
+2,5:39.0,C. Capela misses 2-pt layup from 1 ft,,47,51
+2,5:38.0,,Defensive rebound by A. Drummond,47,51
+2,5:34.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by R. Jackson),47,53
+2,5:15.0,E. Gordon misses 2-pt layup from 2 ft,,47,53
+2,5:15.0,,Defensive rebound by A. Drummond,47,53
+2,5:04.0,,Shooting foul by J. Harden (drawn by B. Griffin),47,53
+2,5:04.0,,B. Griffin misses free throw 1 of 2,47,53
+2,5:04.0,,Offensive rebound by Team,47,53
+2,5:04.0,,R. Bullock enters the game for L. Galloway,47,53
+2,5:04.0,,B. Griffin makes free throw 2 of 2,47,54
+2,4:44.0,Turnover by J. Harden (step out of bounds),,47,54
+2,4:29.0,,Shooting foul by J. Ennis (drawn by R. Jackson),47,54
+2,4:29.0,,R. Jackson misses free throw 1 of 2,47,54
+2,4:29.0,,Offensive rebound by Team,47,54
+2,4:29.0,,R. Jackson makes free throw 2 of 2,47,55
+2,4:05.0,J. Harden misses 2-pt jump shot from 16 ft,,47,55
+2,4:00.0,Offensive rebound by C. Capela,,47,55
+2,4:00.0,C. Capela misses 2-pt layup from 2 ft,,47,55
+2,3:58.0,,Defensive rebound by B. Griffin,47,55
+2,3:39.0,,R. Jackson misses 3-pt jump shot from 26 ft,47,55
+2,3:35.0,Defensive rebound by C. Capela,,47,55
+2,3:33.0,Shooting foul by B. Brown (drawn by J. Harden),,47,55
+2,3:33.0,J. Harden makes free throw 1 of 2,,48,55
+2,3:33.0,C. Paul enters the game for E. Gordon,,48,55
+2,3:33.0,,L. Galloway enters the game for B. Brown,48,55
+2,3:33.0,J. Harden makes free throw 2 of 2,,49,55
+2,3:14.0,,B. Griffin makes 2-pt hook shot from 1 ft,49,57
+2,2:52.0,P. Tucker misses 3-pt jump shot from 26 ft,,49,57
+2,2:52.0,,Defensive rebound by B. Griffin,49,57
+2,2:37.0,,Personal foul by P. Tucker (drawn by B. Griffin),49,57
+2,2:37.0,Houston full timeout,,49,57
+2,2:22.0,,Turnover by Team (shot clock),49,57
+2,2:13.0,C. Paul misses 2-pt jump shot from 19 ft,,49,57
+2,2:09.0,,Defensive rebound by L. Galloway,49,57
+2,1:59.0,,Personal foul by P. Tucker (drawn by B. Griffin),49,57
+2,1:59.0,,B. Griffin makes free throw 1 of 2,49,58
+2,1:59.0,,B. Griffin makes free throw 2 of 2,49,59
+2,1:46.0,J. Harden misses 2-pt layup from 4 ft (block by A. Drummond),,49,59
+2,1:43.0,Offensive rebound by C. Capela,,49,59
+2,1:43.0,C. Capela misses 2-pt layup from 1 ft,,49,59
+2,1:40.0,Offensive rebound by C. Capela,,49,59
+2,1:40.0,C. Capela makes 2-pt layup at rim,,51,59
+2,1:33.0,,Turnover by B. Griffin (bad pass; steal by C. Capela),51,59
+2,1:27.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by C. Capela),,54,59
+2,1:06.0,,A. Drummond misses 3-pt jump shot from 22 ft,54,59
+2,1:03.0,Defensive rebound by P. Tucker,,54,59
+2,0:57.0,J. Harden misses 2-pt layup from 2 ft (block by A. Drummond),,54,59
+2,0:55.0,,Defensive rebound by R. Jackson,54,59
+2,0:51.0,,R. Bullock misses 3-pt jump shot from 25 ft,54,59
+2,0:51.0,,Offensive rebound by Team,54,59
+2,0:47.0,,Shooting foul by C. Capela (drawn by A. Drummond),54,59
+2,0:47.0,,A. Drummond makes free throw 1 of 2,54,60
+2,0:47.0,,A. Drummond makes free throw 2 of 2,54,61
+2,0:35.0,J. Harden misses 2-pt layup from 4 ft (block by A. Drummond),,54,61
+2,0:32.0,Offensive rebound by C. Paul,,54,61
+2,0:32.0,Personal foul by R. Jackson (drawn by C. Paul),,54,61
+2,0:32.0,C. Paul makes free throw 1 of 2,,55,61
+2,0:32.0,C. Paul makes free throw 2 of 2,,56,61
+2,0:13.0,,B. Griffin misses 2-pt jump shot from 9 ft,56,61
+2,0:12.0,,Offensive rebound by A. Drummond,56,61
+2,0:10.0,,A. Drummond misses 2-pt layup from 4 ft (block by C. Capela),56,61
+2,0:10.0,,Offensive rebound by A. Drummond,56,61
+2,0:09.0,,A. Drummond misses 2-pt dunk from 2 ft,56,61
+2,0:09.0,Defensive rebound by Team,,56,61
+2,0:01.0,J. Ennis misses 3-pt jump shot from 23 ft,,56,61
+2,0:01.0,Offensive rebound by Team,,56,61
+3,11:46.0,J. Harden misses 2-pt jump shot from 9 ft,,56,61
+3,11:44.0,,Defensive rebound by R. Bullock,56,61
+3,11:40.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by R. Jackson),56,63
+3,11:20.0,P. Tucker makes 2-pt jump shot from 8 ft (assist by C. Paul),,58,63
+3,11:01.0,,R. Jackson misses 3-pt jump shot from 25 ft,58,63
+3,10:58.0,Defensive rebound by P. Tucker,,58,63
+3,10:49.0,J. Harden misses 3-pt jump shot from 27 ft,,58,63
+3,10:46.0,,Defensive rebound by R. Jackson,58,63
+3,10:42.0,,R. Jackson misses 3-pt jump shot from 26 ft,58,63
+3,10:38.0,,Offensive rebound by A. Drummond,58,63
+3,10:38.0,,A. Drummond makes 2-pt layup at rim,58,65
+3,10:31.0,C. Paul misses 3-pt jump shot from 26 ft,,58,65
+3,10:30.0,Offensive rebound by C. Capela,,58,65
+3,10:29.0,Turnover by C. Capela (bad pass; steal by R. Bullock),,58,65
+3,10:21.0,,G. Robinson makes 3-pt jump shot from 22 ft (assist by R. Jackson),58,68
+3,10:18.0,Houston full timeout,,58,68
+3,10:05.0,Turnover by C. Paul (back court),,58,68
+3,9:52.0,,A. Drummond makes 2-pt layup from 2 ft (assist by B. Griffin),58,70
+3,9:38.0,J. Harden misses 2-pt layup from 5 ft,,58,70
+3,9:35.0,,Defensive rebound by R. Bullock,58,70
+3,9:30.0,,B. Griffin makes 2-pt layup from 2 ft,58,72
+3,9:01.0,J. Harden makes 2-pt jump shot from 6 ft,,60,72
+3,8:33.0,,B. Griffin misses 2-pt layup from 4 ft,60,72
+3,8:29.0,Defensive rebound by C. Paul,,60,72
+3,8:27.0,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),,62,72
+3,8:06.0,,Shooting foul by C. Paul (drawn by G. Robinson),62,72
+3,8:06.0,,G. Robinson makes free throw 1 of 2,62,73
+3,8:06.0,,G. Robinson misses free throw 2 of 2,62,73
+3,8:05.0,Defensive rebound by Team,,62,73
+3,7:58.0,,Violation by Team (kicked ball),62,73
+3,7:45.0,C. Capela misses 2-pt layup from 2 ft,,62,73
+3,7:43.0,,Defensive rebound by B. Griffin,62,73
+3,7:26.0,,Personal foul by J. Ennis (drawn by A. Drummond),62,73
+3,7:12.0,,B. Griffin misses 2-pt jump shot from 12 ft,62,73
+3,7:08.0,Defensive rebound by C. Capela,,62,73
+3,7:01.0,C. Capela misses 2-pt layup from 1 ft,,62,73
+3,6:57.0,Offensive rebound by C. Capela,,62,73
+3,6:57.0,C. Capela makes 2-pt layup from 1 ft,,64,73
+3,6:49.0,,Offensive foul by R. Jackson (drawn by J. Harden),64,73
+3,6:49.0,,Turnover by R. Jackson (offensive foul),64,73
+3,6:49.0,E. Gordon enters the game for C. Paul,,64,73
+3,6:38.0,P. Tucker misses 3-pt jump shot from 25 ft,,64,73
+3,6:35.0,,Defensive rebound by G. Robinson,64,73
+3,6:20.0,,Turnover by B. Griffin (lost ball; steal by P. Tucker),64,73
+3,6:14.0,J. Harden misses 3-pt jump shot from 26 ft,,64,73
+3,6:11.0,Offensive rebound by C. Capela,,64,73
+3,6:00.0,J. Harden misses 2-pt jump shot from 12 ft,,64,73
+3,5:57.0,Offensive rebound by J. Ennis,,64,73
+3,5:50.0,Shooting foul by G. Robinson (drawn by J. Harden),,64,73
+3,5:50.0,J. Harden makes free throw 1 of 3,,65,73
+3,5:50.0,J. Harden makes free throw 2 of 3,,66,73
+3,5:50.0,,L. Galloway enters the game for B. Griffin,66,73
+3,5:50.0,,S. Johnson enters the game for G. Robinson,66,73
+3,5:50.0,J. Harden makes free throw 3 of 3,,67,73
+3,5:39.0,,S. Johnson misses 2-pt layup from 3 ft,67,73
+3,5:37.0,Defensive rebound by J. Ennis,,67,73
+3,5:23.0,E. Gordon makes 2-pt layup from 3 ft (assist by J. Harden),,69,73
+3,5:12.0,,A. Drummond misses 2-pt layup from 2 ft (block by J. Harden),69,73
+3,5:12.0,,Offensive rebound by Team,69,73
+3,5:12.0,G. Clark enters the game for P. Tucker,,69,73
+3,4:58.0,,S. Johnson makes 2-pt layup from 2 ft (assist by L. Galloway),69,75
+3,4:39.0,J. Ennis misses 2-pt layup from 3 ft,,69,75
+3,4:37.0,,Defensive rebound by R. Jackson,69,75
+3,4:23.0,,Turnover by A. Drummond (bad pass),69,75
+3,4:23.0,,I. Smith enters the game for R. Jackson,69,75
+3,4:11.0,J. Harden misses 2-pt layup from 3 ft (block by A. Drummond),,69,75
+3,4:09.0,,Defensive rebound by S. Johnson,69,75
+3,4:08.0,,Turnover by S. Johnson (lost ball; steal by J. Ennis),69,75
+3,4:03.0,Turnover by C. Capela (lost ball; steal by S. Johnson),,69,75
+3,3:47.0,,I. Smith misses 3-pt jump shot from 25 ft,69,75
+3,3:44.0,Defensive rebound by Team,,69,75
+3,3:44.0,G. Green enters the game for J. Ennis,,69,75
+3,3:23.0,J. Harden makes 2-pt layup from 5 ft,,71,75
+3,3:15.0,,Detroit full timeout,71,75
+3,3:15.0,P. Tucker enters the game for C. Capela,,71,75
+3,3:15.0,,B. Griffin enters the game for R. Bullock,71,75
+3,2:54.0,,B. Griffin misses 3-pt jump shot from 25 ft,71,75
+3,2:49.0,Defensive rebound by P. Tucker,,71,75
+3,2:33.0,Personal foul by A. Drummond (drawn by J. Harden),,71,75
+3,2:33.0,C. Capela enters the game for G. Clark,,71,75
+3,2:26.0,E. Gordon makes 3-pt jump shot from 26 ft (assist by P. Tucker),,74,75
+3,2:02.0,,S. Johnson makes 3-pt jump shot from 23 ft (assist by L. Galloway),74,78
+3,1:49.0,J. Harden misses 2-pt layup from 3 ft (block by A. Drummond),,74,78
+3,1:49.0,,Defensive rebound by I. Smith,74,78
+3,1:44.0,,L. Galloway misses 3-pt jump shot from 23 ft,74,78
+3,1:41.0,Defensive rebound by C. Capela,,74,78
+3,1:32.0,E. Gordon misses 2-pt layup from 5 ft,,74,78
+3,1:29.0,Offensive rebound by C. Capela,,74,78
+3,1:29.0,E. Gordon misses 3-pt jump shot from 26 ft,,74,78
+3,1:24.0,,Defensive rebound by I. Smith,74,78
+3,1:10.0,,Turnover by S. Johnson (bad pass),74,78
+3,1:10.0,C. Paul enters the game for J. Harden,,74,78
+3,0:57.0,E. Gordon misses 2-pt layup from 3 ft,,74,78
+3,0:55.0,,Defensive rebound by L. Galloway,74,78
+3,0:43.0,,L. Galloway misses 3-pt jump shot from 24 ft,74,78
+3,0:41.0,Defensive rebound by C. Capela,,74,78
+3,0:30.0,C. Paul makes 2-pt jump shot from 6 ft,,76,78
+3,0:10.0,,L. Galloway misses 3-pt jump shot from 26 ft,76,78
+3,0:06.0,Defensive rebound by C. Capela,,76,78
+3,0:02.0,C. Paul makes 3-pt jump shot from 30 ft,,79,78
+3,0:00.0,,S. Johnson misses 3-pt jump shot from 55 ft,79,78
+3,0:00.0,,Offensive rebound by Team,79,78
+4,11:42.0,,S. Johnson misses 2-pt layup from 4 ft,79,78
+4,11:42.0,,Offensive rebound by Team,79,78
+4,11:42.0,,Turnover by S. Johnson (traveling),79,78
+4,11:23.0,I. Hartenstein makes 2-pt dunk at rim (assist by C. Paul),,81,78
+4,11:00.0,,I. Smith misses 2-pt jump shot from 20 ft,81,78
+4,10:54.0,Defensive rebound by E. Gordon,,81,78
+4,10:49.0,Turnover by C. Paul (bad pass; steal by S. Johnson),,81,78
+4,10:47.0,,Personal foul by C. Paul (drawn by R. Bullock),81,78
+4,10:39.0,,Offensive foul by I. Smith (drawn by G. Green),81,78
+4,10:39.0,,Turnover by I. Smith (offensive foul),81,78
+4,10:26.0,C. Paul makes 2-pt layup from 5 ft,,83,78
+4,10:17.0,,Personal foul by I. Hartenstein (drawn by Z. Pachulia),83,78
+4,10:17.0,,B. Brown enters the game for S. Johnson,83,78
+4,10:03.0,,R. Bullock misses 3-pt jump shot from 28 ft,83,78
+4,10:00.0,Defensive rebound by Team,,83,78
+4,9:50.0,I. Hartenstein misses 3-pt jump shot from 26 ft,,83,78
+4,9:47.0,,Defensive rebound by B. Brown,83,78
+4,9:33.0,,I. Smith misses 2-pt jump shot from 12 ft,83,78
+4,9:32.0,,Offensive rebound by Team,83,78
+4,9:32.0,Loose ball foul by C. Paul (drawn by R. Bullock),,83,78
+4,9:32.0,G. Clark enters the game for I. Hartenstein,,83,78
+4,9:25.0,,Z. Pachulia misses 2-pt layup from 3 ft (block by G. Clark),83,78
+4,9:22.0,,Offensive rebound by Team,83,78
+4,9:17.0,,Z. Pachulia misses 2-pt layup from 6 ft,83,78
+4,9:13.0,Defensive rebound by P. Tucker,,83,78
+4,9:05.0,G. Clark misses 3-pt jump shot from 27 ft,,83,78
+4,9:05.0,,Defensive rebound by Team,83,78
+4,8:47.0,,Shooting foul by G. Clark (drawn by B. Griffin),83,78
+4,8:47.0,,B. Griffin makes free throw 1 of 2,83,79
+4,8:47.0,,B. Griffin misses free throw 2 of 2,83,79
+4,8:45.0,Defensive rebound by G. Clark,,83,79
+4,8:28.0,P. Tucker misses 2-pt layup from 4 ft,,83,79
+4,8:27.0,,Defensive rebound by Z. Pachulia,83,79
+4,8:13.0,,I. Smith misses 2-pt jump shot from 6 ft,83,79
+4,8:12.0,Defensive rebound by C. Paul,,83,79
+4,7:49.0,C. Paul makes 2-pt layup from 5 ft,,85,79
+4,7:42.0,,Detroit full timeout,85,79
+4,7:42.0,C. Capela enters the game for G. Clark,,85,79
+4,7:42.0,J. Harden enters the game for G. Green,,85,79
+4,7:42.0,,A. Drummond enters the game for Z. Pachulia,85,79
+4,7:42.0,,R. Jackson enters the game for I. Smith,85,79
+4,7:24.0,,R. Jackson makes 2-pt layup from 3 ft,85,81
+4,7:24.0,,Shooting foul by E. Gordon (drawn by R. Jackson),85,81
+4,7:24.0,,R. Jackson makes free throw 1 of 1,85,82
+4,7:06.0,C. Paul makes 2-pt jump shot from 15 ft,,87,82
+4,6:48.0,,Shooting foul by E. Gordon (drawn by R. Jackson),87,82
+4,6:48.0,,R. Jackson makes free throw 1 of 2,87,83
+4,6:48.0,J. Ennis enters the game for E. Gordon,,87,83
+4,6:48.0,,R. Jackson makes free throw 2 of 2,87,84
+4,6:35.0,C. Paul misses 2-pt jump shot from 18 ft,,87,84
+4,6:32.0,,Defensive rebound by B. Griffin,87,84
+4,6:20.0,,B. Griffin misses 3-pt jump shot from 25 ft,87,84
+4,6:18.0,,Offensive rebound by Team,87,84
+4,6:09.0,,B. Griffin makes 2-pt layup from 2 ft (assist by A. Drummond),87,86
+4,5:40.0,J. Harden misses 3-pt jump shot from 26 ft,,87,86
+4,5:39.0,,Defensive rebound by A. Drummond,87,86
+4,5:27.0,,Personal foul by C. Paul (drawn by A. Drummond),87,86
+4,5:27.0,,A. Drummond makes free throw 1 of 2,87,87
+4,5:27.0,,A. Drummond misses free throw 2 of 2,87,87
+4,5:27.0,Defensive rebound by Team,,87,87
+4,5:27.0,,Loose ball foul by B. Griffin (drawn by C. Capela),87,87
+4,5:27.0,E. Gordon enters the game for C. Paul,,87,87
+4,5:04.0,J. Harden makes 3-pt jump shot from 25 ft,,90,87
+4,4:42.0,,B. Griffin misses 2-pt layup from 3 ft,90,87
+4,4:38.0,,Offensive rebound by B. Griffin,90,87
+4,4:38.0,,B. Griffin makes 2-pt layup at rim,90,89
+4,4:16.0,J. Harden misses 3-pt jump shot from 29 ft,,90,89
+4,4:13.0,,Defensive rebound by A. Drummond,90,89
+4,3:52.0,,B. Griffin misses 3-pt jump shot from 25 ft,90,89
+4,3:48.0,,Offensive rebound by R. Bullock,90,89
+4,3:48.0,,Turnover by R. Bullock (bad pass; steal by C. Capela),90,89
+4,3:43.0,E. Gordon misses 3-pt jump shot from 23 ft,,90,89
+4,3:38.0,Offensive rebound by J. Ennis,,90,89
+4,3:36.0,P. Tucker misses 3-pt jump shot from 24 ft,,90,89
+4,3:33.0,,Defensive rebound by R. Jackson,90,89
+4,3:31.0,,Detroit full timeout,90,89
+4,3:14.0,,B. Griffin misses 2-pt jump shot from 8 ft,90,89
+4,3:11.0,Defensive rebound by C. Capela,,90,89
+4,2:49.0,Turnover by J. Harden (lost ball; steal by B. Brown),,90,89
+4,2:38.0,,R. Jackson makes 2-pt layup from 5 ft,90,91
+4,2:17.0,Shooting foul by B. Brown (drawn by J. Harden),,90,91
+4,2:17.0,J. Harden makes free throw 1 of 3,,91,91
+4,2:17.0,J. Harden makes free throw 2 of 3,,92,91
+4,2:17.0,C. Paul enters the game for E. Gordon,,92,91
+4,2:17.0,J. Harden makes free throw 3 of 3,,93,91
+4,2:02.0,,Turnover by B. Griffin (lost ball; steal by J. Ennis),93,91
+4,1:59.0,Personal foul by R. Bullock (drawn by J. Harden),,93,91
+4,1:39.0,P. Tucker misses 2-pt hook shot from 9 ft,,93,91
+4,1:36.0,Offensive rebound by P. Tucker,,93,91
+4,1:24.0,C. Paul misses 3-pt jump shot from 25 ft,,93,91
+4,1:18.0,,Defensive rebound by A. Drummond,93,91
+4,1:11.0,,Shooting foul by J. Harden (drawn by R. Jackson),93,91
+4,1:11.0,,R. Jackson makes free throw 1 of 2,93,92
+4,1:11.0,,R. Jackson makes free throw 2 of 2,93,93
+4,0:52.0,Personal foul by R. Jackson (drawn by J. Harden),,93,93
+4,0:52.0,J. Harden makes free throw 1 of 2,,94,93
+4,0:52.0,J. Harden misses free throw 2 of 2,,94,93
+4,0:49.0,Offensive rebound by J. Harden,,94,93
+4,0:39.0,Turnover by J. Harden (lost ball; steal by B. Brown),,94,93
+4,0:37.0,,Shooting foul by J. Harden (drawn by B. Brown),94,93
+4,0:37.0,,B. Brown makes free throw 1 of 2,94,94
+4,0:37.0,,B. Brown makes free throw 2 of 2,94,95
+4,0:27.0,J. Harden makes 2-pt jump shot from 20 ft,,96,95
+4,0:19.0,,Detroit full timeout,96,95
+4,0:19.0,E. Gordon enters the game for C. Paul,,96,95
+4,0:03.0,,B. Griffin makes 3-pt jump shot from 30 ft,96,98
+4,0:02.0,Houston full timeout,,96,98
+4,0:02.0,C. Paul enters the game for C. Capela,,96,98
+4,0:02.0,,L. Galloway enters the game for R. Jackson,96,98
+4,0:02.0,Houston full timeout,,96,98
+4,0:00.0,E. Gordon makes 2-pt layup from 3 ft (assist by C. Paul),,98,98
+4,0:00.0,,Detroit full timeout,98,98
+1OT,4:45.0,,Shooting foul by P. Tucker (drawn by B. Griffin),98,98
+1OT,4:45.0,,B. Griffin misses free throw 1 of 2,98,98
+1OT,4:45.0,,Offensive rebound by Team,98,98
+1OT,4:45.0,,B. Griffin makes free throw 2 of 2,98,99
+1OT,4:29.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by J. Harden),,101,99
+1OT,4:05.0,,Shooting foul by J. Harden (drawn by R. Jackson),101,99
+1OT,4:05.0,,R. Jackson makes free throw 1 of 2,101,100
+1OT,4:05.0,,R. Jackson makes free throw 2 of 2,101,101
+1OT,3:50.0,C. Capela makes 2-pt dunk from 1 ft (assist by C. Paul),,103,101
+1OT,3:33.0,,B. Griffin makes 2-pt dunk at rim (assist by R. Jackson),103,103
+1OT,3:15.0,E. Gordon misses 3-pt jump shot from 29 ft,,103,103
+1OT,3:12.0,,Defensive rebound by A. Drummond,103,103
+1OT,2:52.0,,R. Bullock makes 3-pt jump shot from 24 ft (assist by B. Griffin),103,106
+1OT,2:23.0,Turnover by J. Harden (bad pass; steal by R. Bullock),,103,106
+1OT,2:18.0,,B. Griffin makes 2-pt dunk at rim (assist by R. Bullock),103,108
+1OT,2:02.0,C. Capela makes 2-pt layup from 5 ft (assist by J. Harden),,105,108
+1OT,1:38.0,,Shooting foul by P. Tucker (drawn by R. Jackson),105,108
+1OT,1:38.0,,R. Jackson makes free throw 1 of 3,105,109
+1OT,1:38.0,,R. Jackson makes free throw 2 of 3,105,110
+1OT,1:38.0,,R. Jackson makes free throw 3 of 3,105,111
+1OT,1:26.0,J. Harden misses 3-pt jump shot from 28 ft,,105,111
+1OT,1:20.0,,Defensive rebound by A. Drummond,105,111
+1OT,1:17.0,,Detroit full timeout,105,111
+1OT,1:17.0,,I. Smith enters the game for B. Brown,105,111
+1OT,1:02.0,,R. Jackson makes 2-pt jump shot from 8 ft,105,113
+1OT,0:53.0,J. Harden misses 3-pt jump shot from 26 ft,,105,113
+1OT,0:50.0,,Defensive rebound by B. Griffin,105,113
+1OT,0:35.0,,R. Jackson makes 2-pt hook shot from 6 ft,105,115
+1OT,0:20.0,P. Tucker makes 3-pt jump shot from 22 ft (assist by C. Paul),,108,115
+1OT,0:15.0,,Personal foul by C. Paul (drawn by R. Jackson),108,115
+1OT,0:15.0,,R. Jackson misses free throw 1 of 2,108,115
+1OT,0:15.0,,Offensive rebound by Team,108,115
+1OT,0:15.0,,B. Brown enters the game for I. Smith,108,115
+1OT,0:15.0,,R. Jackson makes free throw 2 of 2,108,116
+1OT,0:02.0,C. Paul makes 3-pt jump shot from 23 ft (assist by J. Harden),,111,116

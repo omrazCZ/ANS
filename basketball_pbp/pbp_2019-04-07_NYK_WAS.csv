@@ -1,0 +1,425 @@
+QUARTER,TIME_REMAINING,WASHINGTON_ACTION,NEW YORK_ACTION,WASHINGTON_SCORE,NEW YORK_SCORE
+1,11:44.0,,M. Robinson makes 2-pt dunk from 1 ft (assist by K. Knox),0,2
+1,11:27.0,B. Portis misses 2-pt layup from 3 ft (block by M. Robinson),,0,2
+1,11:23.0,Offensive rebound by T. Satoranský,,0,2
+1,11:18.0,T. Brown makes 2-pt jump shot from 8 ft (assist by T. Satoranský),,2,2
+1,11:07.0,,M. Hezonja makes 2-pt layup from 1 ft,2,4
+1,10:59.0,B. Beal misses 3-pt jump shot from 25 ft,,2,4
+1,10:55.0,,Defensive rebound by M. Robinson,2,4
+1,10:40.0,,L. Kornet misses 3-pt jump shot from 27 ft,2,4
+1,10:36.0,Defensive rebound by T. Bryant,,2,4
+1,10:32.0,B. Portis misses 2-pt layup from 1 ft,,2,4
+1,10:29.0,,Defensive rebound by D. Dotson,2,4
+1,10:15.0,,Turnover by M. Hezonja (bad pass; steal by B. Beal),2,4
+1,10:05.0,T. Brown makes 2-pt jump shot from 21 ft,,4,4
+1,9:50.0,,D. Dotson misses 3-pt jump shot from 25 ft,4,4
+1,9:45.0,Defensive rebound by B. Portis,,4,4
+1,9:34.0,T. Satoranský misses 3-pt jump shot from 24 ft,,4,4
+1,9:30.0,,Defensive rebound by M. Robinson,4,4
+1,9:25.0,,K. Knox misses 3-pt jump shot from 25 ft,4,4
+1,9:22.0,Defensive rebound by T. Bryant,,4,4
+1,9:11.0,B. Portis misses 3-pt jump shot from 25 ft,,4,4
+1,9:05.0,,Defensive rebound by M. Hezonja,4,4
+1,8:59.0,,M. Hezonja makes 2-pt layup from 1 ft,4,6
+1,8:45.0,B. Beal misses 2-pt jump shot from 19 ft,,4,6
+1,8:43.0,,Defensive rebound by K. Knox,4,6
+1,8:25.0,,L. Kornet misses 3-pt jump shot from 26 ft,4,6
+1,8:19.0,Defensive rebound by T. Brown,,4,6
+1,8:12.0,B. Beal misses 2-pt jump shot from 12 ft,,4,6
+1,8:10.0,Offensive rebound by B. Portis,,4,6
+1,8:09.0,B. Portis misses 2-pt layup from 2 ft (block by L. Kornet),,4,6
+1,8:09.0,Offensive rebound by T. Satoranský,,4,6
+1,8:04.0,B. Beal misses 3-pt jump shot from 24 ft,,4,6
+1,8:02.0,Offensive rebound by B. Portis,,4,6
+1,8:01.0,B. Portis misses 2-pt layup from 1 ft (block by L. Kornet),,4,6
+1,8:01.0,,Defensive rebound by K. Knox,4,6
+1,7:54.0,,K. Knox misses 2-pt layup at rim,4,6
+1,7:52.0,Defensive rebound by T. Bryant,,4,6
+1,7:47.0,B. Beal makes 3-pt jump shot from 23 ft (assist by T. Satoranský),,7,6
+1,7:23.0,,M. Hezonja misses 3-pt jump shot from 26 ft,7,6
+1,7:16.0,Defensive rebound by B. Beal,,7,6
+1,7:13.0,T. Bryant makes 2-pt dunk at rim (assist by B. Beal),,9,6
+1,6:52.0,,K. Knox makes 2-pt layup from 2 ft (assist by M. Hezonja),9,8
+1,6:44.0,B. Beal misses 2-pt layup from 1 ft,,9,8
+1,6:43.0,,Defensive rebound by L. Kornet,9,8
+1,6:36.0,,D. Dotson makes 3-pt jump shot from 26 ft (assist by M. Hezonja),9,11
+1,6:19.0,T. Brown misses 3-pt jump shot from 27 ft,,9,11
+1,6:19.0,,Defensive rebound by M. Robinson,9,11
+1,6:05.0,,Personal foul by T. Brown (drawn by M. Hezonja),9,11
+1,6:05.0,,New York full timeout,9,11
+1,5:52.0,,M. Hezonja makes 2-pt jump shot from 10 ft (assist by D. Dotson),9,13
+1,5:32.0,T. Bryant misses 2-pt hook shot from 6 ft (block by M. Robinson),,9,13
+1,5:29.0,Offensive rebound by T. Bryant,,9,13
+1,5:25.0,Turnover by Team (shot clock),,9,13
+1,5:06.0,,Shooting foul by B. Beal (drawn by K. Knox),9,13
+1,5:06.0,,K. Knox makes free throw 1 of 2,9,14
+1,5:06.0,,K. Knox makes free throw 2 of 2,9,15
+1,4:54.0,B. Beal misses 2-pt jump shot from 20 ft,,9,15
+1,4:52.0,,Defensive rebound by M. Robinson,9,15
+1,4:44.0,,K. Knox makes 3-pt jump shot from 23 ft (assist by L. Kornet),9,18
+1,4:35.0,T. Bryant makes 3-pt jump shot from 24 ft (assist by T. Satoranský),,12,18
+1,4:17.0,,Shooting foul by T. Brown (drawn by K. Knox),12,18
+1,4:17.0,,K. Knox misses free throw 1 of 2,12,18
+1,4:17.0,,Offensive rebound by Team,12,18
+1,4:17.0,J. Green enters the game for T. Brown,,12,18
+1,4:17.0,,D. Smith enters the game for D. Dotson,12,18
+1,4:17.0,,K. Knox makes free throw 2 of 2,12,19
+1,4:10.0,Personal foul by D. Smith (drawn by T. Satoranský),,12,19
+1,4:04.0,T. Bryant makes 2-pt layup from 1 ft (assist by B. Beal),,14,19
+1,4:04.0,Personal foul by M. Robinson (drawn by T. Bryant),,14,19
+1,4:04.0,T. Bryant makes free throw 1 of 1,,15,19
+1,3:50.0,,L. Kornet makes 3-pt jump shot from 24 ft (assist by K. Knox),15,22
+1,3:31.0,Turnover by T. Bryant (traveling),,15,22
+1,3:31.0,S. Dekker enters the game for T. Bryant,,15,22
+1,3:20.0,,M. Robinson makes 2-pt dunk from 1 ft (assist by M. Hezonja),15,24
+1,3:03.0,B. Beal makes 2-pt layup from 2 ft (assist by T. Satoranský),,17,24
+1,2:44.0,,K. Knox misses 2-pt jump shot from 4 ft,17,24
+1,2:42.0,Defensive rebound by J. Green,,17,24
+1,2:35.0,T. Satoranský misses 3-pt jump shot from 24 ft,,17,24
+1,2:34.0,,Defensive rebound by M. Hezonja,17,24
+1,2:29.0,,Shooting foul by S. Dekker (drawn by L. Kornet),17,24
+1,2:29.0,Washington full timeout,,17,24
+1,2:29.0,C. Randle enters the game for T. Satoranský,,17,24
+1,2:29.0,,H. Ellenson enters the game for M. Robinson,17,24
+1,2:29.0,,L. Kornet misses free throw 1 of 2,17,24
+1,2:29.0,,Offensive rebound by Team,17,24
+1,2:29.0,,L. Kornet makes free throw 2 of 2,17,25
+1,2:12.0,Turnover by J. Green (bad pass; steal by L. Kornet),,17,25
+1,2:08.0,,D. Smith makes 2-pt dunk from 1 ft (assist by K. Knox),17,27
+1,1:55.0,B. Beal misses 2-pt layup from 1 ft,,17,27
+1,1:55.0,Offensive rebound by B. Portis,,17,27
+1,1:52.0,B. Portis misses 2-pt layup at rim,,17,27
+1,1:51.0,Offensive rebound by B. Portis,,17,27
+1,1:40.0,B. Beal misses 3-pt jump shot from 26 ft,,17,27
+1,1:36.0,Offensive rebound by B. Portis,,17,27
+1,1:32.0,S. Dekker makes 3-pt jump shot from 24 ft (assist by C. Randle),,20,27
+1,1:12.0,,L. Kornet makes 2-pt layup from 1 ft (assist by K. Knox),20,29
+1,1:02.0,B. Beal misses 2-pt jump shot from 17 ft,,20,29
+1,1:00.0,Offensive rebound by B. Portis,,20,29
+1,1:00.0,Offensive foul by B. Portis (drawn by L. Kornet),,20,29
+1,1:00.0,Turnover by B. Portis (offensive foul),,20,29
+1,0:50.0,,Turnover by M. Hezonja (bad pass; steal by C. Randle),20,29
+1,0:46.0,Shooting foul by L. Kornet (drawn by J. Green),,20,29
+1,0:46.0,Offensive rebound by Team,,20,29
+1,0:46.0,J. Green misses free throw 1 of 2,,20,29
+1,0:46.0,J. Green makes free throw 2 of 2,,21,29
+1,0:34.0,,Turnover by M. Hezonja (bad pass; steal by S. Dekker),21,29
+1,0:29.0,B. Beal makes 2-pt dunk at rim,,23,29
+1,0:08.0,,D. Smith misses 3-pt jump shot from 25 ft,23,29
+1,0:05.0,Defensive rebound by B. Portis,,23,29
+1,0:00.0,B. Beal misses 2-pt layup from 2 ft,,23,29
+1,0:00.0,Offensive rebound by Team,,23,29
+2,11:45.0,S. Dekker makes 2-pt layup at rim (assist by J. Green),,25,29
+2,11:31.0,,D. Dotson misses 2-pt jump shot from 16 ft,25,29
+2,11:27.0,Defensive rebound by S. Dekker,,25,29
+2,11:20.0,Shooting foul by H. Ellenson (drawn by J. Green),,25,29
+2,11:20.0,J. Green makes free throw 1 of 2,,26,29
+2,11:20.0,,J. Jenkins enters the game for M. Hezonja,26,29
+2,11:20.0,J. Green makes free throw 2 of 2,,27,29
+2,11:06.0,,Turnover by M. Robinson (bad pass; steal by S. Dekker),27,29
+2,10:57.0,J. Green misses 3-pt jump shot from 26 ft,,27,29
+2,10:54.0,,Defensive rebound by D. Smith,27,29
+2,10:34.0,,D. Smith misses 2-pt jump shot from 13 ft,27,29
+2,10:31.0,Defensive rebound by T. Satoranský,,27,29
+2,10:11.0,T. Satoranský makes 2-pt jump shot from 9 ft,,29,29
+2,9:57.0,,J. Jenkins makes 3-pt jump shot from 25 ft (assist by H. Ellenson),29,32
+2,9:43.0,C. Randle makes 3-pt jump shot from 28 ft,,32,32
+2,9:23.0,,H. Ellenson makes 3-pt jump shot from 24 ft,32,35
+2,8:59.0,J. Green makes 2-pt jump shot from 22 ft,,34,35
+2,8:35.0,,Turnover by J. Jenkins (bad pass; steal by J. Green),34,35
+2,8:34.0,Personal foul by M. Robinson (drawn by J. Green),,34,35
+2,8:19.0,J. Green misses 3-pt jump shot from 24 ft,,34,35
+2,8:16.0,,Defensive rebound by J. Jenkins,34,35
+2,8:07.0,,M. Robinson makes 2-pt dunk at rim (assist by D. Smith),34,37
+2,7:53.0,T. Satoranský misses 2-pt jump shot from 13 ft,,34,37
+2,7:51.0,,Defensive rebound by M. Robinson,34,37
+2,7:47.0,,Turnover by D. Smith (bad pass; steal by S. Dekker),34,37
+2,7:40.0,I. Mahinmi makes 2-pt layup from 1 ft (assist by C. Randle),,36,37
+2,7:24.0,,H. Ellenson makes 3-pt jump shot from 23 ft (assist by D. Dotson),36,40
+2,7:07.0,C. Randle misses 3-pt jump shot from 28 ft,,36,40
+2,7:03.0,Offensive rebound by T. Satoranský,,36,40
+2,7:00.0,S. Dekker misses 3-pt jump shot from 24 ft,,36,40
+2,6:58.0,,Defensive rebound by D. Dotson,36,40
+2,6:53.0,,Shooting foul by I. Mahinmi (drawn by H. Ellenson),36,40
+2,6:53.0,,New York full timeout,36,40
+2,6:53.0,T. Brown enters the game for S. Dekker,,36,40
+2,6:53.0,,H. Ellenson makes free throw 1 of 2,36,41
+2,6:53.0,,H. Ellenson makes free throw 2 of 2,36,42
+2,6:36.0,J. Green makes 2-pt dunk at rim,,38,42
+2,6:10.0,,J. Jenkins makes 2-pt jump shot from 20 ft (assist by D. Smith),38,44
+2,5:51.0,J. Green makes 2-pt layup from 1 ft,,40,44
+2,5:40.0,,Turnover by D. Smith (bad pass),40,44
+2,5:40.0,B. Beal enters the game for C. Randle,,40,44
+2,5:23.0,J. Green makes 2-pt jump shot from 11 ft,,42,44
+2,5:16.0,,New York full timeout,42,44
+2,5:16.0,S. Dekker enters the game for T. Satoranský,,42,44
+2,5:16.0,,M. Hezonja enters the game for H. Ellenson,42,44
+2,5:16.0,,K. Knox enters the game for D. Smith,42,44
+2,5:03.0,,D. Dotson misses 2-pt jump shot from 17 ft,42,44
+2,5:00.0,Defensive rebound by I. Mahinmi,,42,44
+2,4:44.0,J. Green makes 2-pt jump shot from 10 ft,,44,44
+2,4:26.0,,M. Hezonja makes 2-pt jump shot from 10 ft,44,46
+2,4:16.0,Shooting foul by J. Jenkins (drawn by J. Green),,44,46
+2,4:16.0,J. Green makes free throw 1 of 2,,45,46
+2,4:16.0,T. Bryant enters the game for I. Mahinmi,,45,46
+2,4:16.0,J. Green makes free throw 2 of 2,,46,46
+2,4:00.0,,K. Knox misses 3-pt jump shot from 26 ft,46,46
+2,3:59.0,Defensive rebound by Team,,46,46
+2,3:41.0,J. Green makes 2-pt jump shot from 12 ft,,48,46
+2,3:32.0,,New York full timeout,48,46
+2,3:32.0,T. Satoranský enters the game for S. Dekker,,48,46
+2,3:21.0,,M. Hezonja misses 3-pt jump shot from 26 ft,48,46
+2,3:17.0,Defensive rebound by T. Brown,,48,46
+2,3:09.0,T. Satoranský misses 2-pt layup at rim,,48,46
+2,3:04.0,Offensive rebound by T. Bryant,,48,46
+2,3:04.0,T. Bryant makes 2-pt layup at rim,,50,46
+2,2:53.0,,J. Jenkins misses 3-pt jump shot from 23 ft,50,46
+2,2:49.0,Defensive rebound by T. Brown,,50,46
+2,2:34.0,J. Green makes 2-pt jump shot from 12 ft,,52,46
+2,2:17.0,,K. Knox misses 2-pt layup from 1 ft (block by T. Bryant),52,46
+2,2:14.0,Defensive rebound by T. Brown,,52,46
+2,2:11.0,T. Bryant misses 2-pt layup from 2 ft,,52,46
+2,2:11.0,,Defensive rebound by D. Dotson,52,46
+2,2:02.0,,M. Hezonja makes 2-pt layup from 3 ft (assist by D. Dotson),52,48
+2,1:49.0,Turnover by B. Beal (bad pass; steal by M. Hezonja),,52,48
+2,1:45.0,,K. Knox makes 2-pt dunk from 1 ft (assist by M. Hezonja),52,50
+2,1:30.0,T. Brown misses 2-pt jump shot from 5 ft (block by D. Dotson),,52,50
+2,1:28.0,Offensive rebound by T. Brown,,52,50
+2,1:26.0,J. Green misses 3-pt jump shot from 25 ft,,52,50
+2,1:23.0,,Defensive rebound by M. Robinson,52,50
+2,1:15.0,,Personal foul by T. Bryant (drawn by J. Jenkins),52,50
+2,1:15.0,,L. Kornet enters the game for J. Jenkins,52,50
+2,1:00.0,,D. Dotson misses 2-pt jump shot from 22 ft,52,50
+2,0:58.0,,Offensive rebound by M. Hezonja,52,50
+2,0:51.0,,M. Hezonja makes 2-pt jump shot from 5 ft,52,52
+2,0:36.0,B. Beal makes 3-pt jump shot from 25 ft,,55,52
+2,0:29.0,,K. Knox misses 3-pt jump shot from 26 ft,55,52
+2,0:26.0,Defensive rebound by J. Green,,55,52
+2,0:06.0,Shooting foul by K. Knox (drawn by T. Bryant),,55,52
+2,0:06.0,T. Bryant misses free throw 1 of 2,,55,52
+2,0:06.0,Offensive rebound by Team,,55,52
+2,0:06.0,,D. Smith enters the game for L. Kornet,55,52
+2,0:06.0,T. Bryant makes free throw 2 of 2,,56,52
+2,0:00.0,,Turnover by D. Smith (lost ball; steal by T. Satoranský),56,52
+3,11:40.0,T. Bryant makes 2-pt layup from 1 ft (assist by B. Beal),,58,52
+3,11:25.0,,L. Kornet makes 3-pt jump shot from 24 ft (assist by K. Knox),58,55
+3,11:15.0,T. Brown misses 2-pt jump shot from 23 ft,,58,55
+3,11:09.0,,Defensive rebound by K. Knox,58,55
+3,10:56.0,,L. Kornet makes 2-pt jump shot from 7 ft (assist by D. Dotson),58,57
+3,10:37.0,T. Satoranský makes 2-pt layup from 1 ft,,60,57
+3,10:37.0,Shooting foul by M. Hezonja (drawn by T. Satoranský),,60,57
+3,10:37.0,T. Satoranský makes free throw 1 of 1,,61,57
+3,10:25.0,,D. Dotson misses 2-pt jump shot from 7 ft,61,57
+3,10:25.0,,M. Robinson makes 2-pt layup from 1 ft,61,59
+3,10:25.0,,Offensive rebound by M. Robinson,61,59
+3,10:25.0,,Shooting foul by B. Portis (drawn by M. Robinson),61,59
+3,10:25.0,,M. Robinson makes free throw 1 of 1,61,60
+3,10:19.0,B. Beal makes 2-pt layup from 2 ft (assist by T. Satoranský),,63,60
+3,10:19.0,Shooting foul by M. Hezonja (drawn by B. Beal),,63,60
+3,10:19.0,B. Beal makes free throw 1 of 1,,64,60
+3,10:03.0,,M. Hezonja misses 2-pt jump shot from 5 ft,64,60
+3,10:01.0,Defensive rebound by B. Beal,,64,60
+3,9:57.0,Turnover by T. Satoranský (bad pass; steal by K. Knox),,64,60
+3,9:55.0,,Shooting foul by B. Beal (drawn by K. Knox),64,60
+3,9:55.0,,Offensive rebound by Team,64,60
+3,9:55.0,,K. Knox misses free throw 1 of 2,64,60
+3,9:55.0,,K. Knox makes free throw 2 of 2,64,61
+3,9:42.0,B. Portis misses 2-pt jump shot from 19 ft,,64,61
+3,9:40.0,,Defensive rebound by K. Knox,64,61
+3,9:33.0,,Turnover by M. Hezonja (bad pass; steal by T. Bryant),64,61
+3,9:24.0,B. Beal misses 3-pt jump shot from 24 ft,,64,61
+3,9:21.0,,Defensive rebound by M. Robinson,64,61
+3,9:08.0,,M. Hezonja makes 3-pt jump shot from 29 ft (assist by D. Dotson),64,64
+3,8:52.0,T. Brown misses 3-pt jump shot from 26 ft,,64,64
+3,8:45.0,Offensive rebound by Team,,64,64
+3,8:39.0,B. Portis makes 3-pt jump shot from 26 ft (assist by B. Beal),,67,64
+3,8:16.0,,K. Knox makes 2-pt jump shot from 10 ft (assist by M. Hezonja),67,66
+3,8:02.0,T. Bryant misses 3-pt jump shot from 25 ft,,67,66
+3,8:00.0,,Defensive rebound by K. Knox,67,66
+3,7:45.0,,M. Hezonja misses 2-pt jump shot from 8 ft,67,66
+3,7:41.0,,M. Hezonja makes 2-pt layup at rim,67,68
+3,7:41.0,,Offensive rebound by M. Hezonja,67,68
+3,7:32.0,Turnover by T. Satoranský (bad pass; steal by M. Hezonja),,67,68
+3,7:24.0,,Turnover by M. Hezonja (lost ball; steal by T. Satoranský),67,68
+3,7:21.0,T. Satoranský makes 2-pt dunk from 1 ft,,69,68
+3,7:13.0,,L. Kornet misses 3-pt jump shot from 26 ft,69,68
+3,7:10.0,Defensive rebound by T. Bryant,,69,68
+3,7:03.0,T. Bryant makes 2-pt dunk from 1 ft (assist by B. Beal),,71,68
+3,6:51.0,,D. Dotson misses 2-pt jump shot from 19 ft,71,68
+3,6:47.0,Defensive rebound by B. Beal,,71,68
+3,6:35.0,B. Beal misses 2-pt jump shot from 18 ft,,71,68
+3,6:31.0,,Defensive rebound by K. Knox,71,68
+3,6:28.0,,K. Knox misses 3-pt jump shot from 25 ft,71,68
+3,6:24.0,Defensive rebound by T. Brown,,71,68
+3,6:15.0,B. Portis makes 2-pt jump shot from 22 ft (assist by T. Brown),,73,68
+3,6:14.0,,New York full timeout,73,68
+3,6:14.0,D. Robinson enters the game for B. Beal,,73,68
+3,6:14.0,,D. Smith enters the game for D. Dotson,73,68
+3,5:52.0,,D. Smith misses 2-pt layup from 2 ft (block by D. Robinson),73,68
+3,5:50.0,Defensive rebound by Team,,73,68
+3,5:37.0,Shooting foul by M. Robinson (drawn by D. Robinson),,73,68
+3,5:37.0,D. Robinson makes free throw 1 of 2,,74,68
+3,5:37.0,D. Robinson makes free throw 2 of 2,,75,68
+3,5:15.0,,Turnover by D. Smith (bad pass),75,68
+3,5:01.0,T. Bryant makes 2-pt hook shot from 7 ft (assist by T. Brown),,77,68
+3,4:49.0,,M. Hezonja misses 2-pt jump shot from 14 ft,77,68
+3,4:48.0,Defensive rebound by T. Brown,,77,68
+3,4:40.0,B. Portis makes 3-pt jump shot from 26 ft (assist by T. Brown),,80,68
+3,4:22.0,,K. Knox makes 2-pt jump shot from 17 ft,80,70
+3,4:06.0,D. Robinson makes 2-pt dunk at rim (assist by T. Satoranský),,82,70
+3,3:54.0,,M. Hezonja misses 3-pt jump shot from 26 ft,82,70
+3,3:51.0,Defensive rebound by B. Portis,,82,70
+3,3:43.0,B. Portis misses 3-pt jump shot from 26 ft,,82,70
+3,3:41.0,,Defensive rebound by L. Kornet,82,70
+3,3:23.0,,M. Hezonja misses 2-pt layup at rim,82,70
+3,3:21.0,Defensive rebound by B. Portis,,82,70
+3,3:09.0,B. Portis misses 2-pt hook shot from 10 ft,,82,70
+3,3:08.0,Offensive rebound by T. Bryant,,82,70
+3,3:08.0,T. Bryant misses 2-pt layup from 1 ft (block by L. Kornet),,82,70
+3,3:08.0,,Defensive rebound by Team,82,70
+3,3:08.0,,D. Dotson enters the game for M. Hezonja,82,70
+3,3:08.0,,H. Ellenson enters the game for K. Knox,82,70
+3,3:08.0,,J. Jenkins enters the game for L. Kornet,82,70
+3,2:54.0,,D. Smith makes 3-pt jump shot from 25 ft,82,73
+3,2:35.0,T. Brown makes 2-pt layup from 1 ft (assist by T. Satoranský),,84,73
+3,2:10.0,,J. Jenkins misses 2-pt layup from 2 ft (block by T. Bryant),84,73
+3,2:08.0,Defensive rebound by T. Satoranský,,84,73
+3,2:07.0,Shooting foul by H. Ellenson (drawn by D. Robinson),,84,73
+3,2:07.0,D. Robinson misses free throw 1 of 2,,84,73
+3,2:07.0,Offensive rebound by Team,,84,73
+3,2:07.0,S. Dekker enters the game for T. Brown,,84,73
+3,2:07.0,C. Randle enters the game for T. Bryant,,84,73
+3,2:07.0,,L. Kornet enters the game for M. Robinson,84,73
+3,2:07.0,D. Robinson makes free throw 2 of 2,,85,73
+3,1:48.0,,D. Smith makes 3-pt jump shot from 25 ft,85,76
+3,1:29.0,D. Robinson misses 2-pt jump shot from 18 ft,,85,76
+3,1:28.0,,Defensive rebound by J. Jenkins,85,76
+3,1:28.0,,Personal foul by B. Portis (drawn by H. Ellenson),85,76
+3,1:09.0,,J. Jenkins makes 3-pt jump shot from 27 ft (assist by H. Ellenson),85,79
+3,0:55.0,B. Portis makes 2-pt layup from 2 ft (assist by C. Randle),,87,79
+3,0:55.0,Shooting foul by D. Smith (drawn by B. Portis),,87,79
+3,0:55.0,B. Portis makes free throw 1 of 1,,88,79
+3,0:40.0,,H. Ellenson misses 2-pt hook shot from 6 ft (block by D. Robinson),88,79
+3,0:38.0,Defensive rebound by Team,,88,79
+3,0:38.0,Personal foul by H. Ellenson (drawn by D. Robinson),,88,79
+3,0:38.0,D. Robinson makes free throw 1 of 2,,89,79
+3,0:38.0,D. Robinson misses free throw 2 of 2,,89,79
+3,0:36.0,,Defensive rebound by H. Ellenson,89,79
+3,0:28.0,,Turnover by D. Dotson (bad pass),89,79
+3,0:15.0,B. Portis misses 3-pt jump shot from 26 ft,,89,79
+3,0:12.0,,Defensive rebound by H. Ellenson,89,79
+3,0:00.0,,D. Smith misses 2-pt jump shot from 20 ft,89,79
+3,0:00.0,,Offensive rebound by Team,89,79
+4,11:49.0,,Turnover by L. Kornet (bad pass; steal by C. Randle),89,79
+4,11:42.0,C. Randle misses 2-pt layup from 2 ft (block by L. Kornet),,89,79
+4,11:41.0,,Defensive rebound by L. Kornet,89,79
+4,11:41.0,,Personal foul by C. Randle (drawn by L. Kornet),89,79
+4,11:25.0,,D. Dotson makes 3-pt jump shot from 25 ft (assist by D. Smith),89,82
+4,11:07.0,,Violation by Team (kicked ball),89,82
+4,10:53.0,C. Randle misses 3-pt jump shot from 27 ft,,89,82
+4,10:51.0,,Defensive rebound by L. Kornet,89,82
+4,10:47.0,,Turnover by D. Dotson (bad pass; steal by T. Brown),89,82
+4,10:43.0,T. Brown makes 2-pt layup at rim,,91,82
+4,10:22.0,,L. Kornet makes 3-pt jump shot from 24 ft (assist by J. Jenkins),91,85
+4,10:01.0,D. Robinson makes 2-pt hook shot from 6 ft,,93,85
+4,9:39.0,,D. Smith makes 2-pt jump shot from 17 ft,93,87
+4,9:22.0,D. Robinson makes 2-pt jump shot from 12 ft (assist by C. Randle),,95,87
+4,9:12.0,,L. Kornet makes 3-pt jump shot from 25 ft (assist by D. Smith),95,90
+4,8:52.0,I. Mahinmi misses 2-pt hook shot from 4 ft,,95,90
+4,8:50.0,,Defensive rebound by L. Kornet,95,90
+4,8:45.0,,D. Smith makes 3-pt jump shot from 25 ft,95,93
+4,8:43.0,Washington full timeout,,95,93
+4,8:43.0,,M. Hezonja enters the game for D. Dotson,95,93
+4,8:31.0,C. Randle makes 3-pt jump shot from 25 ft (assist by S. Dekker),,98,93
+4,8:05.0,,D. Smith misses 2-pt layup from 2 ft,98,93
+4,8:01.0,,Offensive rebound by H. Ellenson,98,93
+4,8:01.0,,H. Ellenson makes 2-pt layup at rim,98,95
+4,7:51.0,S. Dekker misses 3-pt jump shot from 25 ft,,98,95
+4,7:50.0,,Defensive rebound by Team,98,95
+4,7:50.0,Loose ball foul by D. Robinson (drawn by H. Ellenson),,98,95
+4,7:39.0,,Turnover by D. Smith (lost ball; steal by D. Robinson),98,95
+4,7:33.0,S. Dekker makes 2-pt dunk from 1 ft (assist by T. Brown),,100,95
+4,7:14.0,,M. Hezonja makes 3-pt jump shot from 26 ft,100,98
+4,6:52.0,D. Robinson misses 2-pt jump shot from 19 ft,,100,98
+4,6:46.0,Offensive rebound by S. Dekker,,100,98
+4,6:43.0,S. Dekker misses 2-pt layup from 1 ft,,100,98
+4,6:43.0,Offensive rebound by I. Mahinmi,,100,98
+4,6:42.0,I. Mahinmi misses 2-pt layup from 1 ft,,100,98
+4,6:41.0,,Defensive rebound by M. Hezonja,100,98
+4,6:24.0,,D. Smith misses 3-pt jump shot from 25 ft,100,98
+4,6:20.0,Defensive rebound by C. Randle,,100,98
+4,6:16.0,C. Randle misses 3-pt jump shot from 26 ft,,100,98
+4,6:13.0,Offensive rebound by T. Brown,,100,98
+4,6:08.0,Turnover by S. Dekker (bad pass; steal by D. Smith),,100,98
+4,6:08.0,,New York full timeout,100,98
+4,6:08.0,,K. Knox enters the game for H. Ellenson,100,98
+4,6:08.0,,M. Robinson enters the game for D. Smith,100,98
+4,6:00.0,,K. Knox misses 3-pt jump shot from 25 ft,100,98
+4,5:55.0,Defensive rebound by D. Robinson,,100,98
+4,5:50.0,D. Robinson misses 3-pt jump shot from 27 ft,,100,98
+4,5:46.0,,Defensive rebound by J. Jenkins,100,98
+4,5:35.0,,M. Hezonja misses 2-pt jump shot from 20 ft,100,98
+4,5:32.0,Defensive rebound by D. Robinson,,100,98
+4,5:17.0,C. Randle makes 3-pt jump shot from 25 ft (assist by T. Brown),,103,98
+4,5:01.0,,Shooting foul by D. Robinson (drawn by M. Hezonja),103,98
+4,5:01.0,,M. Hezonja misses free throw 1 of 2,103,98
+4,5:01.0,,Offensive rebound by Team,103,98
+4,5:01.0,,M. Hezonja makes free throw 2 of 2,103,99
+4,4:37.0,D. Robinson misses 2-pt layup from 1 ft,,103,99
+4,4:33.0,Offensive rebound by I. Mahinmi,,103,99
+4,4:33.0,I. Mahinmi misses 2-pt layup from 1 ft,,103,99
+4,4:32.0,Offensive rebound by S. Dekker,,103,99
+4,4:31.0,S. Dekker misses 2-pt layup at rim,,103,99
+4,4:30.0,,Defensive rebound by L. Kornet,103,99
+4,4:21.0,,M. Hezonja makes 2-pt jump shot from 12 ft,103,101
+4,4:06.0,S. Dekker misses 3-pt jump shot from 26 ft,,103,101
+4,4:02.0,,Defensive rebound by K. Knox,103,101
+4,3:56.0,,M. Hezonja misses 2-pt layup from 1 ft,103,101
+4,3:52.0,,Offensive rebound by M. Robinson,103,101
+4,3:52.0,,M. Robinson misses 2-pt layup at rim,103,101
+4,3:51.0,,Offensive rebound by J. Jenkins,103,101
+4,3:39.0,,L. Kornet misses 3-pt jump shot from 25 ft,103,101
+4,3:35.0,Defensive rebound by I. Mahinmi,,103,101
+4,3:35.0,Washington full timeout,,103,101
+4,3:23.0,T. Brown misses 2-pt jump shot from 14 ft,,103,101
+4,3:17.0,,Defensive rebound by M. Hezonja,103,101
+4,3:11.0,,M. Hezonja makes 2-pt dunk from 1 ft,103,103
+4,2:58.0,C. Randle misses 3-pt jump shot from 26 ft,,103,103
+4,2:54.0,,Defensive rebound by M. Robinson,103,103
+4,2:51.0,,Shooting foul by I. Mahinmi (drawn by K. Knox),103,103
+4,2:51.0,,K. Knox makes free throw 1 of 2,103,104
+4,2:51.0,,D. Smith enters the game for J. Jenkins,103,104
+4,2:51.0,,K. Knox misses free throw 2 of 2,103,104
+4,2:48.0,,Offensive rebound by L. Kornet,103,104
+4,2:48.0,,L. Kornet misses 2-pt layup at rim,103,104
+4,2:47.0,Defensive rebound by I. Mahinmi,,103,104
+4,2:31.0,C. Randle misses 2-pt layup from 1 ft (block by M. Robinson),,103,104
+4,2:28.0,,Defensive rebound by M. Robinson,103,104
+4,2:20.0,,Personal foul by I. Mahinmi (drawn by M. Robinson),103,104
+4,2:20.0,,M. Robinson makes free throw 1 of 2,103,105
+4,2:20.0,,M. Robinson makes free throw 2 of 2,103,106
+4,2:05.0,C. Randle makes 2-pt layup at rim,,105,106
+4,1:46.0,,K. Knox misses 3-pt jump shot from 25 ft,105,106
+4,1:42.0,Defensive rebound by D. Robinson,,105,106
+4,1:30.0,T. Brown makes 2-pt jump shot from 5 ft,,107,106
+4,1:30.0,,Violation by Team (def goaltending),107,106
+4,1:19.0,,D. Smith makes 2-pt jump shot from 10 ft,107,108
+4,1:02.0,T. Brown makes 3-pt jump shot from 23 ft (assist by C. Randle),,110,108
+4,0:57.0,,New York full timeout,110,108
+4,0:44.0,,M. Hezonja makes 3-pt jump shot from 24 ft (assist by D. Smith),110,111
+4,0:22.0,T. Brown misses 2-pt jump shot from 24 ft,,110,111
+4,0:20.0,Offensive rebound by S. Dekker,,110,111
+4,0:19.0,S. Dekker misses 2-pt layup from 1 ft,,110,111
+4,0:19.0,Offensive rebound by I. Mahinmi,,110,111
+4,0:19.0,I. Mahinmi misses 2-pt dunk from 2 ft (block by K. Knox),,110,111
+4,0:19.0,Offensive rebound by I. Mahinmi,,110,111
+4,0:18.0,Personal foul by M. Robinson (drawn by I. Mahinmi),,110,111
+4,0:18.0,Washington full timeout,,110,111
+4,0:18.0,,D. Dotson enters the game for L. Kornet,110,111
+4,0:17.0,Turnover by S. Dekker (out of bounds lost ball),,110,111
+4,0:08.0,,Personal take foul by C. Randle (drawn by M. Hezonja),110,111
+4,0:08.0,,M. Hezonja makes free throw 1 of 2,110,112
+4,0:08.0,,M. Hezonja makes free throw 2 of 2,110,113
+4,0:08.0,Washington full timeout,,110,113
+4,0:06.0,C. Randle misses 3-pt jump shot from 24 ft,,110,113
+4,0:03.0,,Defensive rebound by D. Smith,110,113

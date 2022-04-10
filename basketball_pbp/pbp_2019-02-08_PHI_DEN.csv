@@ -1,0 +1,437 @@
+QUARTER,TIME_REMAINING,DENVER_ACTION,PHILADELPHIA_ACTION,DENVER_SCORE,PHILADELPHIA_SCORE
+1,11:39.0,Turnover by N. Jokić (traveling),,0,0
+1,11:29.0,,T. Harris misses 2-pt layup from 2 ft,0,0
+1,11:26.0,Defensive rebound by N. Jokić,,0,0
+1,11:23.0,Personal foul by T. Harris (drawn by N. Jokić),,0,0
+1,11:20.0,N. Jokić misses 3-pt jump shot from 26 ft,,0,0
+1,11:17.0,Offensive rebound by M. Plumlee,,0,0
+1,11:12.0,M. Plumlee makes 2-pt dunk at rim (assist by N. Jokić),,2,0
+1,10:59.0,,J. Embiid misses 2-pt jump shot from 5 ft,2,0
+1,10:56.0,Defensive rebound by M. Plumlee,,2,0
+1,10:37.0,J. Murray misses 3-pt jump shot from 26 ft,,2,0
+1,10:33.0,,Defensive rebound by B. Simmons,2,0
+1,10:17.0,,B. Simmons makes 2-pt hook shot from 7 ft,2,2
+1,10:05.0,W. Barton misses 2-pt layup from 3 ft,,2,2
+1,10:03.0,,Defensive rebound by B. Simmons,2,2
+1,10:01.0,,Turnover by B. Simmons (lost ball; steal by M. Plumlee),2,2
+1,9:54.0,N. Jokić makes 2-pt layup from 2 ft (assist by M. Plumlee),,4,2
+1,9:45.0,,J. Embiid makes 2-pt layup from 2 ft,4,4
+1,9:33.0,J. Murray makes 2-pt layup from 1 ft (assist by M. Plumlee),,6,4
+1,9:18.0,,Shooting foul by M. Plumlee (drawn by J. Embiid),6,4
+1,9:18.0,,J. Embiid makes free throw 1 of 2,6,5
+1,9:18.0,,J. Embiid makes free throw 2 of 2,6,6
+1,9:00.0,N. Jokić misses 2-pt hook shot from 8 ft,,6,6
+1,8:57.0,,Defensive rebound by J. Embiid,6,6
+1,8:52.0,,T. Harris makes 3-pt jump shot from 25 ft (assist by B. Simmons),6,9
+1,8:22.0,M. Beasley misses 3-pt jump shot from 25 ft,,6,9
+1,8:19.0,,Defensive rebound by J. Embiid,6,9
+1,8:10.0,,T. Harris makes 2-pt jump shot from 7 ft,6,11
+1,7:54.0,M. Beasley misses 2-pt layup from 2 ft,,6,11
+1,7:51.0,,Defensive rebound by J. Embiid,6,11
+1,7:48.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by T. Harris),6,14
+1,7:47.0,Denver full timeout,,6,14
+1,7:32.0,W. Barton misses 2-pt jump shot from 23 ft,,6,14
+1,7:28.0,,Defensive rebound by J. Redick,6,14
+1,7:23.0,,Turnover by J. Redick (bad pass),6,14
+1,7:14.0,J. Murray misses 2-pt jump shot from 18 ft,,6,14
+1,7:10.0,,Defensive rebound by J. Embiid,6,14
+1,7:05.0,,J. Embiid misses 3-pt jump shot from 26 ft,6,14
+1,7:03.0,Defensive rebound by M. Beasley,,6,14
+1,6:52.0,Turnover by M. Plumlee (bad pass; steal by T. Harris),,6,14
+1,6:42.0,,J. Embiid misses 2-pt jump shot from 5 ft,6,14
+1,6:40.0,Defensive rebound by J. Murray,,6,14
+1,6:34.0,W. Barton misses 2-pt layup from 4 ft (block by J. Embiid),,6,14
+1,6:32.0,,Defensive rebound by J. Butler,6,14
+1,6:27.0,,J. Butler misses 3-pt jump shot from 23 ft,6,14
+1,6:24.0,Defensive rebound by J. Murray,,6,14
+1,6:19.0,M. Beasley makes 3-pt jump shot from 24 ft (assist by J. Murray),,9,14
+1,5:57.0,,J. Redick makes 2-pt jump shot from 17 ft (assist by J. Butler),9,16
+1,5:45.0,Turnover by N. Jokić (traveling),,9,16
+1,5:45.0,,J. Ennis enters the game for J. Embiid,9,16
+1,5:45.0,,B. Marjanović enters the game for J. Redick,9,16
+1,5:35.0,,B. Simmons misses 2-pt jump shot from 5 ft,9,16
+1,5:33.0,Defensive rebound by W. Barton,,9,16
+1,5:26.0,Turnover by N. Jokić (bad pass),,9,16
+1,5:26.0,T. Craig enters the game for W. Barton,,9,16
+1,5:26.0,T. Lyles enters the game for M. Plumlee,,9,16
+1,5:09.0,,B. Marjanović makes 2-pt layup from 2 ft (assist by J. Butler),9,18
+1,5:00.0,M. Beasley makes 2-pt layup from 1 ft (assist by J. Murray),,11,18
+1,4:47.0,,B. Simmons makes 2-pt jump shot from 5 ft,11,20
+1,4:38.0,Personal foul by J. Butler (drawn by N. Jokić),,11,20
+1,4:26.0,J. Murray makes 2-pt jump shot from 8 ft (assist by T. Lyles),,13,20
+1,4:10.0,,B. Marjanović misses 2-pt hook shot from 8 ft,13,20
+1,4:08.0,Defensive rebound by T. Lyles,,13,20
+1,4:06.0,M. Beasley makes 3-pt jump shot from 24 ft (assist by T. Lyles),,16,20
+1,4:04.0,,Philadelphia full timeout,16,20
+1,4:04.0,,M. Scott enters the game for T. Harris,16,20
+1,3:49.0,,M. Scott misses 3-pt jump shot from 25 ft,16,20
+1,3:46.0,,Offensive rebound by B. Simmons,16,20
+1,3:39.0,,B. Simmons misses 2-pt jump shot from 9 ft,16,20
+1,3:37.0,,Offensive rebound by J. Butler,16,20
+1,3:34.0,,Shooting foul by T. Craig (drawn by J. Butler),16,20
+1,3:34.0,,J. Butler makes free throw 1 of 2,16,21
+1,3:34.0,,J. Butler makes free throw 2 of 2,16,22
+1,3:22.0,N. Jokić makes 2-pt jump shot from 14 ft (assist by J. Murray),,18,22
+1,3:03.0,,B. Simmons makes 2-pt dunk from 1 ft (assist by J. Ennis),18,24
+1,2:51.0,M. Beasley misses 3-pt jump shot from 23 ft,,18,24
+1,2:47.0,,Defensive rebound by B. Marjanović,18,24
+1,2:44.0,,Turnover by B. Simmons (bad pass),18,24
+1,2:44.0,W. Barton enters the game for M. Beasley,,18,24
+1,2:44.0,M. Morris enters the game for N. Jokić,,18,24
+1,2:44.0,M. Plumlee enters the game for J. Murray,,18,24
+1,2:44.0,,J. Embiid enters the game for J. Butler,18,24
+1,2:44.0,,F. Korkmaz enters the game for J. Ennis,18,24
+1,2:44.0,,T. McConnell enters the game for B. Marjanović,18,24
+1,2:44.0,,J. Redick enters the game for B. Simmons,18,24
+1,2:31.0,Shooting foul by M. Scott (drawn by W. Barton),,18,24
+1,2:31.0,W. Barton makes free throw 1 of 2,,19,24
+1,2:31.0,W. Barton makes free throw 2 of 2,,20,24
+1,2:13.0,,Offensive foul by J. Embiid (drawn by M. Plumlee),20,24
+1,2:13.0,,Turnover by J. Embiid (offensive foul),20,24
+1,1:58.0,M. Morris misses 2-pt jump shot from 17 ft,,20,24
+1,1:54.0,,Defensive rebound by J. Embiid,20,24
+1,1:51.0,,Turnover by J. Redick (bad pass; steal by T. Lyles),20,24
+1,1:48.0,Shooting foul by F. Korkmaz (drawn by M. Morris),,20,24
+1,1:48.0,M. Morris misses free throw 1 of 2,,20,24
+1,1:48.0,Offensive rebound by Team,,20,24
+1,1:48.0,M. Morris makes free throw 2 of 2,,21,24
+1,1:30.0,,J. Embiid misses 3-pt jump shot from 25 ft,21,24
+1,1:26.0,Defensive rebound by M. Plumlee,,21,24
+1,1:20.0,T. Lyles misses 3-pt jump shot from 25 ft,,21,24
+1,1:16.0,,Defensive rebound by J. Redick,21,24
+1,1:10.0,,T. McConnell makes 2-pt jump shot from 17 ft,21,26
+1,0:53.0,M. Morris makes 2-pt jump shot from 11 ft (assist by T. Lyles),,23,26
+1,0:41.0,,F. Korkmaz makes 2-pt layup from 2 ft (assist by J. Redick),23,28
+1,0:34.0,M. Plumlee misses 2-pt jump shot from 12 ft,,23,28
+1,0:34.0,,Defensive rebound by Team,23,28
+1,0:32.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by T. McConnell),23,31
+1,0:08.0,T. Craig misses 3-pt jump shot from 25 ft,,23,31
+1,0:05.0,,Defensive rebound by J. Embiid,23,31
+1,0:01.0,,J. Embiid misses 2-pt layup from 2 ft,23,31
+1,0:01.0,,Offensive rebound by F. Korkmaz,23,31
+1,0:01.0,,F. Korkmaz makes 2-pt dunk at rim,23,33
+1,0:01.0,T. Lyles misses 3-pt jump shot from 50 ft,,23,33
+1,0:01.0,Offensive rebound by Team,,23,33
+2,11:40.0,,Turnover by J. Embiid (out of bounds lost ball),23,33
+2,11:23.0,W. Barton makes 2-pt jump shot from 15 ft,,25,33
+2,11:05.0,,J. Redick makes 2-pt jump shot from 10 ft (assist by M. Scott),25,35
+2,10:50.0,T. Lyles misses 3-pt jump shot from 24 ft,,25,35
+2,10:46.0,Offensive rebound by J. Hernangómez,,25,35
+2,10:43.0,W. Barton makes 2-pt jump shot from 10 ft (assist by T. Lyles),,27,35
+2,10:25.0,,J. Redick misses 2-pt jump shot from 8 ft,27,35
+2,10:25.0,,Offensive rebound by Team,27,35
+2,10:25.0,Loose ball foul by J. Hernangómez (drawn by J. Embiid),,27,35
+2,10:14.0,,M. Scott misses 2-pt jump shot from 10 ft,27,35
+2,10:10.0,Defensive rebound by M. Plumlee,,27,35
+2,9:59.0,J. Hernangómez makes 2-pt jump shot from 13 ft (assist by M. Plumlee),,29,35
+2,9:46.0,,J. Redick misses 2-pt jump shot from 19 ft,29,35
+2,9:42.0,Defensive rebound by M. Plumlee,,29,35
+2,9:29.0,Turnover by T. Lyles (lost ball; steal by J. Butler),,29,35
+2,9:25.0,,M. Scott misses 3-pt jump shot from 25 ft,29,35
+2,9:21.0,Defensive rebound by T. Lyles,,29,35
+2,9:06.0,T. Lyles misses 2-pt jump shot from 6 ft,,29,35
+2,9:03.0,,Defensive rebound by J. Redick,29,35
+2,8:58.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by T. McConnell),29,38
+2,8:38.0,M. Plumlee misses 2-pt jump shot from 16 ft,,29,38
+2,8:32.0,Offensive rebound by W. Barton,,29,38
+2,8:32.0,W. Barton misses 2-pt layup from 1 ft,,29,38
+2,8:31.0,,Defensive rebound by T. McConnell,29,38
+2,8:23.0,,J. Redick makes 3-pt jump shot from 23 ft (assist by J. Butler),29,41
+2,8:22.0,Denver full timeout,,29,41
+2,8:22.0,M. Beasley enters the game for W. Barton,,29,41
+2,8:22.0,N. Jokić enters the game for M. Morris,,29,41
+2,8:22.0,J. Murray enters the game for M. Plumlee,,29,41
+2,8:22.0,,J. Ennis enters the game for J. Embiid,29,41
+2,8:22.0,,T. Harris enters the game for T. McConnell,29,41
+2,8:22.0,,B. Marjanović enters the game for J. Redick,29,41
+2,8:22.0,,B. Simmons enters the game for M. Scott,29,41
+2,8:05.0,N. Jokić misses 2-pt jump shot from 21 ft,,29,41
+2,8:02.0,,Defensive rebound by J. Ennis,29,41
+2,7:47.0,,J. Butler makes 2-pt jump shot from 13 ft,29,43
+2,7:33.0,J. Hernangómez makes 2-pt dunk from 1 ft (assist by N. Jokić),,31,43
+2,7:18.0,,B. Simmons misses 2-pt hook shot from 7 ft (block by T. Lyles),31,43
+2,7:15.0,Defensive rebound by J. Murray,,31,43
+2,6:56.0,J. Murray misses 2-pt jump shot from 12 ft,,31,43
+2,6:53.0,,Defensive rebound by T. Harris,31,43
+2,6:42.0,,T. Harris makes 2-pt layup from 2 ft,31,45
+2,6:42.0,,Violation by Team (delay of game),31,45
+2,6:31.0,N. Jokić makes 3-pt jump shot from 26 ft (assist by J. Murray),,34,45
+2,6:13.0,,J. Butler makes 2-pt dunk from 1 ft (assist by B. Simmons),34,47
+2,6:01.0,N. Jokić misses 2-pt layup from 2 ft,,34,47
+2,5:58.0,,Defensive rebound by J. Butler,34,47
+2,5:50.0,,J. Ennis makes 3-pt jump shot from 23 ft (assist by T. Harris),34,50
+2,5:48.0,Denver full timeout,,34,50
+2,5:48.0,W. Barton enters the game for J. Hernangómez,,34,50
+2,5:48.0,M. Plumlee enters the game for T. Lyles,,34,50
+2,5:36.0,N. Jokić misses 2-pt jump shot from 11 ft,,34,50
+2,5:32.0,,Defensive rebound by J. Butler,34,50
+2,5:16.0,,T. Harris misses 2-pt jump shot from 8 ft,34,50
+2,5:14.0,Defensive rebound by N. Jokić,,34,50
+2,5:07.0,N. Jokić makes 2-pt layup from 1 ft (assist by W. Barton),,36,50
+2,4:51.0,,B. Marjanović makes 2-pt dunk from 1 ft (assist by J. Butler),36,52
+2,4:36.0,J. Murray makes 2-pt jump shot from 10 ft,,38,52
+2,4:23.0,,Turnover by B. Simmons (bad pass; steal by N. Jokić),38,52
+2,4:19.0,M. Beasley misses 3-pt jump shot from 26 ft,,38,52
+2,4:15.0,Offensive rebound by M. Plumlee,,38,52
+2,4:11.0,W. Barton makes 2-pt layup from 2 ft (assist by M. Plumlee),,40,52
+2,4:07.0,,Personal foul by M. Beasley (drawn by J. Butler),40,52
+2,4:07.0,,J. Embiid enters the game for J. Ennis,40,52
+2,4:07.0,,J. Redick enters the game for B. Marjanović,40,52
+2,4:03.0,,Offensive foul by J. Embiid (drawn by N. Jokić),40,52
+2,4:03.0,,Turnover by J. Embiid (offensive foul),40,52
+2,3:51.0,W. Barton makes 2-pt jump shot from 12 ft (assist by N. Jokić),,42,52
+2,3:34.0,,J. Redick makes 2-pt jump shot from 20 ft,42,54
+2,3:21.0,J. Murray makes 2-pt layup at rim (assist by N. Jokić),,44,54
+2,3:05.0,,B. Simmons misses 2-pt dunk from 2 ft,44,54
+2,3:03.0,,Offensive rebound by J. Embiid,44,54
+2,3:02.0,,J. Embiid misses 3-pt jump shot from 22 ft,44,54
+2,3:02.0,Defensive rebound by W. Barton,,44,54
+2,2:55.0,J. Murray makes 3-pt jump shot from 25 ft (assist by W. Barton),,47,54
+2,2:53.0,,Philadelphia full timeout,47,54
+2,2:53.0,,F. Korkmaz enters the game for J. Butler,47,54
+2,2:41.0,,J. Embiid misses 2-pt layup from 1 ft,47,54
+2,2:39.0,Defensive rebound by N. Jokić,,47,54
+2,2:33.0,W. Barton makes 2-pt layup from 1 ft,,49,54
+2,2:20.0,,J. Redick misses 2-pt jump shot from 22 ft,49,54
+2,2:20.0,Defensive rebound by M. Plumlee,,49,54
+2,2:00.0,W. Barton misses 3-pt jump shot from 23 ft,,49,54
+2,1:58.0,,Defensive rebound by J. Embiid,49,54
+2,1:49.0,,T. Harris misses 3-pt jump shot from 26 ft,49,54
+2,1:45.0,Defensive rebound by N. Jokić,,49,54
+2,1:37.0,N. Jokić makes 2-pt jump shot from 13 ft,,51,54
+2,1:16.0,,Turnover by J. Embiid (bad pass; steal by N. Jokić),51,54
+2,1:11.0,M. Beasley makes 2-pt dunk at rim (assist by W. Barton),,53,54
+2,0:50.0,,Shooting foul by W. Barton (drawn by B. Simmons),53,54
+2,0:50.0,,B. Simmons makes free throw 1 of 2,53,55
+2,0:50.0,,B. Simmons makes free throw 2 of 2,53,56
+2,0:32.0,N. Jokić misses 2-pt layup from 3 ft (block by J. Embiid),,53,56
+2,0:27.0,,Defensive rebound by T. Harris,53,56
+2,0:25.0,,T. Harris misses 2-pt layup from 3 ft (block by J. Murray),53,56
+2,0:23.0,Defensive rebound by W. Barton,,53,56
+2,0:04.0,Shooting foul by F. Korkmaz (drawn by N. Jokić),,53,56
+2,0:04.0,N. Jokić makes free throw 1 of 3,,54,56
+2,0:04.0,N. Jokić makes free throw 2 of 3,,55,56
+2,0:04.0,N. Jokić makes free throw 3 of 3,,56,56
+2,0:00.0,,B. Simmons misses 3-pt jump shot from 29 ft,56,56
+2,0:00.0,,Offensive rebound by Team,56,56
+3,11:39.0,,J. Butler makes 2-pt jump shot from 13 ft,56,58
+3,11:23.0,N. Jokić makes 2-pt jump shot from 20 ft (assist by W. Barton),,58,58
+3,11:11.0,,J. Redick makes 2-pt layup from 3 ft (assist by B. Simmons),58,60
+3,10:53.0,N. Jokić misses 3-pt jump shot from 28 ft,,58,60
+3,10:51.0,Offensive rebound by J. Murray,,58,60
+3,10:49.0,J. Murray misses 3-pt jump shot from 24 ft,,58,60
+3,10:45.0,,Defensive rebound by T. Harris,58,60
+3,10:33.0,,Turnover by B. Simmons (3 sec),58,60
+3,10:15.0,J. Murray makes 2-pt layup from 1 ft (assist by M. Plumlee),,60,60
+3,9:56.0,,J. Redick makes 3-pt jump shot from 25 ft (assist by J. Embiid),60,63
+3,9:38.0,M. Beasley makes 2-pt layup from 2 ft (assist by N. Jokić),,62,63
+3,9:31.0,,J. Embiid misses 3-pt jump shot from 29 ft,62,63
+3,9:28.0,,Offensive rebound by T. Harris,62,63
+3,9:27.0,,T. Harris makes 2-pt layup from 1 ft,62,65
+3,9:10.0,J. Murray makes 2-pt layup from 1 ft (assist by N. Jokić),,64,65
+3,9:00.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by B. Simmons),64,68
+3,8:59.0,Denver full timeout,,64,68
+3,8:48.0,N. Jokić misses 3-pt jump shot from 25 ft,,64,68
+3,8:45.0,,Defensive rebound by T. Harris,64,68
+3,8:38.0,,Personal foul by W. Barton (drawn by J. Redick),64,68
+3,8:29.0,,J. Embiid misses 2-pt hook shot from 8 ft,64,68
+3,8:27.0,Defensive rebound by N. Jokić,,64,68
+3,8:16.0,J. Murray misses 2-pt jump shot from 6 ft,,64,68
+3,8:13.0,,Defensive rebound by T. Harris,64,68
+3,8:09.0,,J. Redick makes 2-pt jump shot from 15 ft (assist by T. Harris),64,70
+3,7:45.0,J. Murray misses 3-pt jump shot from 27 ft,,64,70
+3,7:43.0,,Defensive rebound by J. Embiid,64,70
+3,7:25.0,,T. Harris misses 2-pt jump shot from 14 ft,64,70
+3,7:23.0,,Offensive rebound by J. Embiid,64,70
+3,7:22.0,,J. Embiid misses 2-pt layup from 2 ft,64,70
+3,7:20.0,Defensive rebound by W. Barton,,64,70
+3,7:12.0,M. Plumlee makes 2-pt hook shot from 7 ft,,66,70
+3,7:03.0,,B. Simmons makes 2-pt dunk from 1 ft,66,72
+3,6:44.0,N. Jokić makes 2-pt hook shot from 9 ft (assist by J. Murray),,68,72
+3,6:33.0,,T. Harris misses 2-pt jump shot from 14 ft,68,72
+3,6:31.0,Defensive rebound by W. Barton,,68,72
+3,6:20.0,Turnover by W. Barton (bad pass; steal by J. Embiid),,68,72
+3,6:11.0,,Turnover by B. Simmons (3 sec),68,72
+3,6:11.0,,J. Ennis enters the game for J. Embiid,68,72
+3,6:11.0,,B. Marjanović enters the game for J. Redick,68,72
+3,5:54.0,Def 3 sec tech foul by Team,,68,72
+3,5:54.0,J. Murray makes technical free throw,,69,72
+3,5:54.0,T. Lyles enters the game for M. Plumlee,,69,72
+3,5:50.0,Turnover by M. Beasley (lost ball; steal by J. Butler),,69,72
+3,5:40.0,,J. Butler misses 2-pt jump shot from 20 ft,69,72
+3,5:36.0,Defensive rebound by J. Murray,,69,72
+3,5:31.0,J. Murray misses 2-pt layup from 3 ft,,69,72
+3,5:28.0,,Defensive rebound by B. Marjanović,69,72
+3,5:14.0,,Shooting foul by N. Jokić (drawn by J. Butler),69,72
+3,5:14.0,,J. Butler makes free throw 1 of 2,69,73
+3,5:14.0,,J. Butler makes free throw 2 of 2,69,74
+3,4:59.0,T. Lyles makes 3-pt jump shot from 26 ft (assist by J. Murray),,72,74
+3,4:33.0,,Shooting foul by W. Barton (drawn by J. Butler),72,74
+3,4:33.0,,J. Butler makes free throw 1 of 2,72,75
+3,4:33.0,T. Craig enters the game for W. Barton,,72,75
+3,4:33.0,,T. McConnell enters the game for T. Harris,72,75
+3,4:33.0,,M. Scott enters the game for B. Simmons,72,75
+3,4:33.0,,J. Butler makes free throw 2 of 2,72,76
+3,4:21.0,N. Jokić makes 2-pt layup from 1 ft (assist by T. Lyles),,74,76
+3,3:59.0,,J. Butler misses 2-pt layup from 2 ft (block by T. Lyles),74,76
+3,3:58.0,Defensive rebound by N. Jokić,,74,76
+3,3:44.0,N. Jokić misses 2-pt jump shot from 20 ft,,74,76
+3,3:39.0,,Defensive rebound by J. Ennis,74,76
+3,3:34.0,,J. Ennis misses 2-pt layup at rim,74,76
+3,3:32.0,Defensive rebound by M. Beasley,,74,76
+3,3:30.0,Turnover by M. Beasley (lost ball; steal by J. Ennis),,74,76
+3,3:17.0,,B. Marjanović misses 3-pt jump shot from 26 ft,74,76
+3,3:15.0,Defensive rebound by T. Lyles,,74,76
+3,3:06.0,Turnover by J. Murray (lost ball; steal by T. McConnell),,74,76
+3,3:02.0,,J. Butler misses 2-pt layup from 2 ft,74,76
+3,3:02.0,Defensive rebound by Team,,74,76
+3,3:02.0,W. Barton enters the game for M. Beasley,,74,76
+3,3:02.0,M. Morris enters the game for N. Jokić,,74,76
+3,3:02.0,M. Plumlee enters the game for J. Murray,,74,76
+3,2:46.0,M. Morris makes 2-pt jump shot from 11 ft (assist by W. Barton),,76,76
+3,2:45.0,,Philadelphia full timeout,76,76
+3,2:45.0,,J. Embiid enters the game for J. Butler,76,76
+3,2:45.0,,F. Korkmaz enters the game for J. Ennis,76,76
+3,2:45.0,,J. Redick enters the game for B. Marjanović,76,76
+3,2:30.0,,J. Embiid misses 2-pt jump shot from 19 ft,76,76
+3,2:27.0,Defensive rebound by W. Barton,,76,76
+3,2:16.0,T. Lyles makes 2-pt jump shot from 5 ft (assist by M. Morris),,78,76
+3,2:05.0,,Shooting foul by M. Plumlee (drawn by J. Redick),78,76
+3,2:05.0,,J. Redick makes free throw 1 of 2,78,77
+3,2:05.0,,J. Redick misses free throw 2 of 2,78,77
+3,2:03.0,Defensive rebound by M. Plumlee,,78,77
+3,1:52.0,M. Morris misses 2-pt jump shot from 21 ft,,78,77
+3,1:49.0,,Defensive rebound by J. Embiid,78,77
+3,1:39.0,,Personal foul by T. Craig (drawn by J. Redick),78,77
+3,1:39.0,,J. Redick makes free throw 1 of 2,78,78
+3,1:39.0,,J. Redick makes free throw 2 of 2,78,79
+3,1:29.0,Shooting foul by M. Scott (drawn by T. Lyles),,78,79
+3,1:29.0,T. Lyles makes free throw 1 of 2,,79,79
+3,1:29.0,T. Lyles makes free throw 2 of 2,,80,79
+3,1:14.0,,J. Embiid makes 2-pt jump shot from 8 ft,80,81
+3,0:56.0,W. Barton misses 2-pt jump shot from 8 ft,,80,81
+3,0:54.0,,Defensive rebound by J. Embiid,80,81
+3,0:51.0,,J. Redick misses 3-pt jump shot from 28 ft,80,81
+3,0:47.0,Defensive rebound by T. Lyles,,80,81
+3,0:32.0,M. Plumlee makes 2-pt dunk from 1 ft (assist by W. Barton),,82,81
+3,0:21.0,,Personal foul by M. Plumlee (drawn by J. Embiid),82,81
+3,0:21.0,,J. Embiid makes free throw 1 of 2,82,82
+3,0:21.0,J. Murray enters the game for T. Craig,,82,82
+3,0:21.0,,J. Embiid makes free throw 2 of 2,82,83
+3,0:00.0,J. Murray misses 3-pt jump shot from 23 ft (block by J. Embiid),,82,83
+3,0:00.0,Offensive rebound by Team,,82,83
+4,11:38.0,M. Morris makes 2-pt jump shot from 8 ft,,84,83
+4,11:14.0,,Shooting foul by W. Barton (drawn by J. Embiid),84,83
+4,11:14.0,,J. Embiid makes free throw 1 of 2,84,84
+4,11:14.0,,J. Embiid misses free throw 2 of 2,84,84
+4,11:12.0,Defensive rebound by J. Hernangómez,,84,84
+4,10:57.0,T. Lyles makes 2-pt jump shot from 20 ft (assist by W. Barton),,86,84
+4,10:37.0,,M. Scott makes 2-pt jump shot from 9 ft (assist by J. Redick),86,86
+4,10:18.0,W. Barton makes 2-pt jump shot from 14 ft,,88,86
+4,10:09.0,,Shooting foul by J. Hernangómez (drawn by J. Redick),88,86
+4,10:09.0,,J. Redick makes free throw 1 of 3,88,87
+4,10:09.0,,J. Redick makes free throw 2 of 3,88,88
+4,10:09.0,,J. Redick makes free throw 3 of 3,88,89
+4,9:56.0,W. Barton misses 2-pt jump shot from 14 ft,,88,89
+4,9:53.0,,Defensive rebound by F. Korkmaz,88,89
+4,9:45.0,,Turnover by J. Redick (bad pass),88,89
+4,9:34.0,T. Lyles misses 3-pt jump shot from 27 ft,,88,89
+4,9:32.0,,Defensive rebound by Team,88,89
+4,9:18.0,,T. McConnell makes 2-pt jump shot from 11 ft,88,91
+4,9:02.0,T. Lyles makes 2-pt jump shot from 21 ft (assist by M. Plumlee),,90,91
+4,8:44.0,,Shooting foul by M. Plumlee (drawn by J. Embiid),90,91
+4,8:44.0,,J. Embiid makes free throw 1 of 2,90,92
+4,8:44.0,M. Beasley enters the game for W. Barton,,90,92
+4,8:44.0,N. Jokić enters the game for M. Morris,,90,92
+4,8:44.0,J. Murray enters the game for M. Plumlee,,90,92
+4,8:44.0,,T. Harris enters the game for T. McConnell,90,92
+4,8:44.0,,B. Simmons enters the game for M. Scott,90,92
+4,8:44.0,,J. Embiid makes free throw 2 of 2,90,93
+4,8:26.0,T. Lyles makes 2-pt layup from 2 ft (assist by N. Jokić),,92,93
+4,8:04.0,,Turnover by B. Simmons (out of bounds lost ball),92,93
+4,8:04.0,,J. Butler enters the game for J. Embiid,92,93
+4,8:04.0,,J. Ennis enters the game for F. Korkmaz,92,93
+4,8:04.0,,B. Marjanović enters the game for J. Redick,92,93
+4,7:50.0,J. Murray makes 3-pt jump shot from 27 ft (assist by N. Jokić),,95,93
+4,7:48.0,,Philadelphia full timeout,95,93
+4,7:33.0,,J. Ennis makes 3-pt jump shot from 24 ft (assist by J. Butler),95,96
+4,7:17.0,J. Murray makes 2-pt jump shot from 7 ft (assist by N. Jokić),,97,96
+4,7:00.0,,J. Butler misses 2-pt jump shot from 19 ft,97,96
+4,6:57.0,Defensive rebound by M. Beasley,,97,96
+4,6:40.0,J. Murray misses 3-pt jump shot from 26 ft,,97,96
+4,6:37.0,,Defensive rebound by J. Butler,97,96
+4,6:34.0,,Offensive foul by B. Marjanović (drawn by N. Jokić),97,96
+4,6:34.0,,Turnover by B. Marjanović (offensive foul),97,96
+4,6:09.0,J. Murray misses 2-pt jump shot from 14 ft (block by B. Marjanović),,97,96
+4,6:09.0,Offensive rebound by Team,,97,96
+4,6:08.0,Turnover by Team (shot clock),,97,96
+4,6:04.0,,Turnover by B. Simmons (traveling),97,96
+4,5:52.0,Turnover by T. Lyles (bad pass),,97,96
+4,5:45.0,,Shooting foul by M. Beasley (drawn by J. Butler),97,96
+4,5:45.0,,J. Butler makes free throw 1 of 2,97,97
+4,5:45.0,W. Barton enters the game for J. Hernangómez,,97,97
+4,5:45.0,M. Plumlee enters the game for T. Lyles,,97,97
+4,5:45.0,,J. Butler makes free throw 2 of 2,97,98
+4,5:35.0,N. Jokić misses 2-pt jump shot from 18 ft,,97,98
+4,5:30.0,,Defensive rebound by J. Ennis,97,98
+4,5:24.0,,T. Harris makes 3-pt jump shot from 26 ft (assist by B. Simmons),97,101
+4,5:23.0,Denver full timeout,,97,101
+4,5:17.0,W. Barton misses 2-pt jump shot from 18 ft,,97,101
+4,5:13.0,Offensive rebound by N. Jokić,,97,101
+4,5:12.0,N. Jokić makes 2-pt jump shot from 1 ft,,99,101
+4,5:01.0,,Turnover by B. Simmons (bad pass; steal by N. Jokić),99,101
+4,4:58.0,N. Jokić makes 2-pt layup from 1 ft,,101,101
+4,4:31.0,,J. Butler makes 2-pt jump shot from 17 ft (assist by J. Ennis),101,103
+4,4:09.0,M. Plumlee makes 2-pt dunk at rim (assist by N. Jokić),,103,103
+4,4:09.0,,Philadelphia full timeout,103,103
+4,4:09.0,,J. Embiid enters the game for J. Ennis,103,103
+4,4:09.0,,J. Redick enters the game for B. Marjanović,103,103
+4,3:56.0,,T. Harris makes 2-pt jump shot from 12 ft (assist by B. Simmons),103,105
+4,3:38.0,Turnover by N. Jokić (3 sec),,103,105
+4,3:26.0,,J. Embiid misses 2-pt jump shot from 18 ft,103,105
+4,3:22.0,,Offensive rebound by B. Simmons,103,105
+4,3:14.0,,Turnover by B. Simmons (traveling),103,105
+4,3:04.0,M. Beasley misses 3-pt jump shot from 26 ft,,103,105
+4,3:00.0,,Defensive rebound by T. Harris,103,105
+4,2:45.0,,J. Embiid makes 2-pt layup from 2 ft (assist by J. Redick),103,107
+4,2:24.0,Turnover by W. Barton (lost ball; steal by J. Butler),,103,107
+4,2:21.0,,Shooting foul by N. Jokić (drawn by J. Butler),103,107
+4,2:21.0,,J. Butler makes free throw 1 of 2,103,108
+4,2:21.0,,J. Butler makes free throw 2 of 2,103,109
+4,2:02.0,M. Plumlee makes 2-pt hook shot from 7 ft,,105,109
+4,1:48.0,,B. Simmons makes 2-pt dunk at rim,105,111
+4,1:48.0,,Shooting foul by M. Plumlee (drawn by B. Simmons),105,111
+4,1:48.0,Denver full timeout,,105,111
+4,1:48.0,,B. Simmons misses free throw 1 of 1,105,111
+4,1:46.0,Defensive rebound by N. Jokić,,105,111
+4,1:26.0,M. Beasley misses 2-pt layup from 2 ft (block by J. Embiid),,105,111
+4,1:23.0,,Defensive rebound by T. Harris,105,111
+4,1:04.0,,J. Embiid makes 2-pt jump shot from 18 ft,105,113
+4,0:55.0,N. Jokić misses 3-pt jump shot from 27 ft,,105,113
+4,0:51.0,,Defensive rebound by J. Butler,105,113
+4,0:39.0,,J. Embiid misses 3-pt jump shot from 28 ft,105,113
+4,0:36.0,Defensive rebound by N. Jokić,,105,113
+4,0:33.0,Personal foul by B. Simmons (drawn by N. Jokić),,105,113
+4,0:33.0,Denver full timeout,,105,113
+4,0:30.0,Personal foul by J. Embiid (drawn by J. Murray),,105,113
+4,0:30.0,J. Murray makes free throw 1 of 2,,106,113
+4,0:30.0,T. Craig enters the game for N. Jokić,,106,113
+4,0:30.0,J. Murray makes free throw 2 of 2,,107,113
+4,0:29.0,,Personal take foul by M. Plumlee (drawn by J. Butler),107,113
+4,0:29.0,N. Jokić enters the game for M. Plumlee,,107,113
+4,0:29.0,,J. Butler makes free throw 1 of 2,107,114
+4,0:29.0,J. Hernangómez enters the game for T. Craig,,107,114
+4,0:29.0,,M. Scott enters the game for J. Redick,107,114
+4,0:29.0,,J. Butler makes free throw 2 of 2,107,115
+4,0:22.0,W. Barton misses 2-pt jump shot from 3 ft,,107,115
+4,0:20.0,Offensive rebound by N. Jokić,,107,115
+4,0:20.0,N. Jokić makes 2-pt layup from 1 ft,,109,115
+4,0:20.0,Shooting foul by T. Harris (drawn by N. Jokić),,109,115
+4,0:20.0,N. Jokić makes free throw 1 of 1,,110,115
+4,0:15.0,,Personal take foul by J. Hernangómez (drawn by J. Butler),110,115
+4,0:15.0,,J. Butler makes free throw 1 of 2,110,116
+4,0:15.0,,J. Butler makes free throw 2 of 2,110,117
+4,0:07.0,J. Murray misses 3-pt jump shot from 25 ft,,110,117
+4,0:03.0,Offensive rebound by W. Barton,,110,117
+4,0:01.0,W. Barton misses 2-pt layup from 1 ft,,110,117
+4,0:01.0,,Defensive rebound by J. Butler,110,117

@@ -1,0 +1,487 @@
+QUARTER,TIME_REMAINING,NEW ORLEANS_ACTION,HOUSTON_ACTION,NEW ORLEANS_SCORE,HOUSTON_SCORE
+1,11:48.0,D. Miller misses 3-pt jump shot from 26 ft (block by K. Faried),,0,0
+1,11:47.0,,Defensive rebound by P. Tucker,0,0
+1,11:33.0,,E. Gordon makes 3-pt jump shot from 23 ft (assist by J. Harden),0,3
+1,11:27.0,Turnover by S. Hill (lost ball; steal by C. Paul),,0,3
+1,11:17.0,,J. Harden misses 2-pt jump shot from 8 ft,0,3
+1,11:17.0,,Offensive rebound by K. Faried,0,3
+1,11:16.0,,K. Faried misses 2-pt layup from 1 ft,0,3
+1,11:15.0,,Offensive rebound by K. Faried,0,3
+1,11:15.0,,K. Faried makes 2-pt layup from 1 ft,0,5
+1,11:00.0,S. Hill makes 3-pt jump shot from 23 ft (assist by J. Holiday),,3,5
+1,10:31.0,,J. Harden misses 3-pt jump shot from 26 ft (block by J. Holiday),3,5
+1,10:29.0,Defensive rebound by J. Holiday,,3,5
+1,10:18.0,Turnover by J. Okafor (lost ball; steal by J. Harden),,3,5
+1,10:05.0,,E. Gordon makes 3-pt jump shot from 26 ft (assist by J. Harden),3,8
+1,9:43.0,F. Jackson misses 2-pt jump shot from 7 ft,,3,8
+1,9:42.0,Offensive rebound by J. Okafor,,3,8
+1,9:41.0,J. Okafor makes 2-pt layup at rim,,5,8
+1,9:29.0,,C. Paul misses 3-pt jump shot from 25 ft,5,8
+1,9:29.0,Defensive rebound by S. Hill,,5,8
+1,9:15.0,J. Okafor makes 2-pt hook shot from 5 ft (assist by S. Hill),,7,8
+1,8:58.0,,E. Gordon misses 3-pt jump shot from 26 ft,7,8
+1,8:57.0,,Offensive rebound by K. Faried,7,8
+1,8:55.0,,K. Faried misses 2-pt layup from 1 ft,7,8
+1,8:50.0,,Offensive rebound by Team,7,8
+1,8:44.0,,K. Faried misses 2-pt layup from 5 ft (block by J. Okafor),7,8
+1,8:39.0,Defensive rebound by Team,,7,8
+1,8:33.0,Turnover by F. Jackson (bad pass; steal by J. Harden),,7,8
+1,8:27.0,,P. Tucker makes 3-pt jump shot from 24 ft (assist by C. Paul),7,11
+1,8:16.0,Personal foul by K. Faried (drawn by F. Jackson),,7,11
+1,8:10.0,J. Holiday misses 2-pt jump shot from 18 ft,,7,11
+1,8:09.0,,Defensive rebound by P. Tucker,7,11
+1,8:01.0,,J. Harden makes 2-pt layup from 1 ft,7,13
+1,8:01.0,,Shooting foul by S. Hill (drawn by J. Harden),7,13
+1,8:01.0,,J. Harden makes free throw 1 of 1,7,14
+1,7:40.0,J. Okafor makes 2-pt dunk from 1 ft,,9,14
+1,7:25.0,,K. Faried makes 2-pt layup from 3 ft (assist by J. Harden),9,16
+1,7:18.0,J. Holiday makes 2-pt layup from 3 ft,,11,16
+1,7:18.0,Shooting foul by E. Gordon (drawn by J. Holiday),,11,16
+1,7:18.0,J. Holiday makes free throw 1 of 1,,12,16
+1,6:58.0,,E. Gordon makes 3-pt jump shot from 25 ft (assist by C. Paul),12,19
+1,6:47.0,F. Jackson misses 2-pt layup from 2 ft,,12,19
+1,6:46.0,Offensive rebound by F. Jackson,,12,19
+1,6:45.0,F. Jackson makes 2-pt layup from 1 ft,,14,19
+1,6:38.0,,Turnover by C. Paul (bad pass; steal by D. Miller),14,19
+1,6:31.0,D. Miller misses 3-pt jump shot from 28 ft,,14,19
+1,6:31.0,Offensive rebound by J. Okafor,,14,19
+1,6:31.0,J. Okafor misses 2-pt layup from 2 ft,,14,19
+1,6:31.0,,Defensive rebound by K. Faried,14,19
+1,6:19.0,,J. Harden misses 2-pt layup from 2 ft,14,19
+1,6:18.0,Defensive rebound by J. Holiday,,14,19
+1,6:07.0,S. Hill misses 3-pt jump shot from 22 ft,,14,19
+1,6:07.0,,Defensive rebound by C. Paul,14,19
+1,5:56.0,,J. Harden makes 3-pt jump shot from 27 ft (assist by C. Paul),14,22
+1,5:33.0,F. Jackson misses 3-pt jump shot from 23 ft,,14,22
+1,5:32.0,,Defensive rebound by P. Tucker,14,22
+1,5:22.0,,J. Harden makes 2-pt jump shot from 8 ft,14,24
+1,5:12.0,J. Holiday misses 2-pt jump shot from 3 ft,,14,24
+1,5:11.0,Offensive rebound by J. Holiday,,14,24
+1,5:05.0,J. Holiday misses 2-pt jump shot from 21 ft,,14,24
+1,5:04.0,,Defensive rebound by K. Faried,14,24
+1,4:56.0,,P. Tucker misses 3-pt jump shot from 23 ft,14,24
+1,4:55.0,Defensive rebound by J. Okafor,,14,24
+1,4:46.0,Shooting foul by E. Gordon (drawn by J. Okafor),,14,24
+1,4:46.0,,Houston full timeout,14,24
+1,4:46.0,K. Williams enters the game for S. Hill,,14,24
+1,4:46.0,,J. Ennis enters the game for K. Faried,14,24
+1,4:46.0,,N. Hilário enters the game for E. Gordon,14,24
+1,4:46.0,,A. Rivers enters the game for C. Paul,14,24
+1,4:46.0,J. Okafor makes free throw 1 of 2,,15,24
+1,4:46.0,J. Okafor makes free throw 2 of 2,,16,24
+1,4:34.0,,J. Harden misses 3-pt jump shot from 26 ft,16,24
+1,4:33.0,Defensive rebound by J. Okafor,,16,24
+1,4:16.0,J. Holiday makes 3-pt jump shot from 26 ft,,19,24
+1,3:57.0,,J. Ennis makes 3-pt jump shot from 25 ft (assist by A. Rivers),19,27
+1,3:41.0,J. Holiday misses 3-pt jump shot from 26 ft,,19,27
+1,3:40.0,Offensive rebound by F. Jackson,,19,27
+1,3:34.0,F. Jackson makes 2-pt layup from 5 ft,,21,27
+1,3:18.0,,J. Harden makes 3-pt jump shot from 26 ft,21,30
+1,3:06.0,Turnover by J. Holiday (bad pass),,21,30
+1,3:06.0,C. Diallo enters the game for J. Okafor,,21,30
+1,3:06.0,,G. Green enters the game for P. Tucker,21,30
+1,2:54.0,,Turnover by J. Harden (bad pass; steal by D. Miller),21,30
+1,2:46.0,K. Williams misses 2-pt jump shot from 11 ft,,21,30
+1,2:45.0,Offensive rebound by K. Williams,,21,30
+1,2:44.0,K. Williams misses 2-pt layup from 3 ft (block by G. Green),,21,30
+1,2:44.0,Offensive rebound by K. Williams,,21,30
+1,2:42.0,F. Jackson misses 3-pt jump shot from 23 ft,,21,30
+1,2:41.0,,Defensive rebound by J. Ennis,21,30
+1,2:28.0,,J. Ennis makes 3-pt jump shot from 27 ft (assist by N. Hilário),21,33
+1,2:22.0,New Orleans full timeout,,21,33
+1,2:22.0,I. Clark enters the game for F. Jackson,,21,33
+1,2:09.0,K. Williams makes 2-pt hook shot from 7 ft (assist by D. Miller),,23,33
+1,1:55.0,,A. Rivers makes 2-pt layup from 3 ft,23,35
+1,1:55.0,Violation by Team (def goaltending),,23,35
+1,1:38.0,I. Clark makes 3-pt jump shot from 26 ft (assist by J. Holiday),,26,35
+1,1:30.0,,Personal foul by C. Diallo (drawn by J. Harden),26,35
+1,1:22.0,,A. Rivers misses 3-pt jump shot from 23 ft,26,35
+1,1:19.0,Defensive rebound by K. Williams,,26,35
+1,1:07.0,D. Miller makes 2-pt jump shot from 12 ft (assist by J. Holiday),,28,35
+1,0:54.0,,J. Harden misses 2-pt layup from 5 ft (block by J. Holiday),28,35
+1,0:53.0,Defensive rebound by I. Clark,,28,35
+1,0:48.0,J. Holiday misses 2-pt jump shot from 8 ft,,28,35
+1,0:47.0,,Defensive rebound by N. Hilário,28,35
+1,0:28.0,,J. Harden misses 3-pt jump shot from 25 ft,28,35
+1,0:26.0,,Offensive rebound by G. Green,28,35
+1,0:25.0,,G. Green misses 3-pt jump shot from 25 ft,28,35
+1,0:24.0,Defensive rebound by C. Diallo,,28,35
+1,0:00.0,J. Holiday misses 3-pt jump shot from 29 ft,,28,35
+1,0:00.0,Offensive rebound by Team,,28,35
+2,11:48.0,,G. Green misses 2-pt jump shot from 15 ft,28,35
+2,11:47.0,Defensive rebound by C. Diallo,,28,35
+2,11:36.0,K. Williams makes 2-pt jump shot from 11 ft (assist by T. Frazier),,30,35
+2,11:20.0,,J. Ennis makes 3-pt jump shot from 26 ft (assist by A. Rivers),30,38
+2,11:05.0,Turnover by I. Clark (bad pass; steal by K. Faried),,30,38
+2,10:57.0,,Turnover by A. Rivers (bad pass; steal by W. Johnson),30,38
+2,10:53.0,W. Johnson makes 2-pt dunk from 1 ft,,32,38
+2,10:45.0,,E. Gordon makes 3-pt jump shot from 26 ft,32,41
+2,10:30.0,K. Williams makes 2-pt jump shot from 20 ft (assist by T. Frazier),,34,41
+2,10:13.0,,K. Faried makes 2-pt layup from 1 ft (assist by J. Ennis),34,43
+2,10:13.0,,Shooting foul by C. Diallo (drawn by K. Faried),34,43
+2,10:13.0,,C. Paul enters the game for G. Green,34,43
+2,10:13.0,,K. Faried misses free throw 1 of 1,34,43
+2,10:13.0,Defensive rebound by K. Williams,,34,43
+2,9:55.0,W. Johnson misses 2-pt jump shot from 18 ft,,34,43
+2,9:54.0,Offensive rebound by C. Diallo,,34,43
+2,9:47.0,T. Frazier misses 2-pt jump shot from 19 ft,,34,43
+2,9:44.0,Offensive rebound by K. Williams,,34,43
+2,9:39.0,C. Diallo misses 2-pt layup from 3 ft,,34,43
+2,9:37.0,,Defensive rebound by K. Faried,34,43
+2,9:33.0,,E. Gordon misses 3-pt jump shot from 26 ft,34,43
+2,9:30.0,Defensive rebound by C. Diallo,,34,43
+2,9:25.0,Shooting foul by C. Paul (drawn by W. Johnson),,34,43
+2,9:25.0,W. Johnson makes free throw 1 of 3,,35,43
+2,9:25.0,W. Johnson misses free throw 2 of 3,,35,43
+2,9:25.0,Offensive rebound by Team,,35,43
+2,9:25.0,,G. Green enters the game for J. Ennis,35,43
+2,9:25.0,W. Johnson misses free throw 3 of 3,,35,43
+2,9:25.0,,Defensive rebound by E. Gordon,35,43
+2,9:13.0,,Shooting foul by T. Frazier (drawn by K. Faried),35,43
+2,9:13.0,,K. Faried makes free throw 1 of 2,35,44
+2,9:13.0,,K. Faried makes free throw 2 of 2,35,45
+2,9:00.0,W. Johnson makes 2-pt jump shot from 18 ft,,37,45
+2,8:41.0,,E. Gordon makes 2-pt layup from 1 ft (assist by C. Paul),37,47
+2,8:26.0,I. Clark makes 2-pt layup from 2 ft (assist by T. Frazier),,39,47
+2,8:13.0,,K. Faried misses 2-pt layup from 2 ft,39,47
+2,8:11.0,Defensive rebound by T. Frazier,,39,47
+2,8:07.0,C. Diallo misses 2-pt layup from 3 ft,,39,47
+2,8:07.0,,Defensive rebound by K. Faried,39,47
+2,7:58.0,,G. Green makes 2-pt layup from 5 ft (assist by C. Paul),39,49
+2,7:46.0,W. Johnson misses 3-pt jump shot from 26 ft,,39,49
+2,7:45.0,,Defensive rebound by E. Gordon,39,49
+2,7:38.0,,K. Faried makes 2-pt layup from 2 ft,39,51
+2,7:38.0,,Shooting foul by W. Johnson (drawn by K. Faried),39,51
+2,7:38.0,D. Miller enters the game for C. Diallo,,39,51
+2,7:38.0,J. Okafor enters the game for W. Johnson,,39,51
+2,7:38.0,,K. Faried makes free throw 1 of 1,39,52
+2,7:28.0,D. Miller makes 3-pt jump shot from 26 ft (assist by T. Frazier),,42,52
+2,7:02.0,,C. Paul makes 2-pt jump shot from 17 ft,42,54
+2,6:48.0,I. Clark makes 3-pt jump shot from 26 ft (assist by T. Frazier),,45,54
+2,6:35.0,,G. Green makes 3-pt jump shot from 23 ft (assist by C. Paul),45,57
+2,6:18.0,I. Clark misses 3-pt jump shot from 24 ft,,45,57
+2,6:17.0,Offensive rebound by K. Williams,,45,57
+2,6:09.0,I. Clark makes 2-pt layup from 3 ft (assist by T. Frazier),,47,57
+2,6:01.0,,Houston full timeout,47,57
+2,6:01.0,,J. Harden enters the game for K. Faried,47,57
+2,6:01.0,,P. Tucker enters the game for E. Gordon,47,57
+2,5:45.0,,C. Paul misses 3-pt jump shot from 26 ft,47,57
+2,5:44.0,Defensive rebound by I. Clark,,47,57
+2,5:38.0,T. Frazier makes 2-pt layup from 2 ft,,49,57
+2,5:25.0,,Shooting foul by D. Miller (drawn by J. Harden),49,57
+2,5:25.0,,J. Harden makes free throw 1 of 2,49,58
+2,5:25.0,,J. Ennis enters the game for G. Green,49,58
+2,5:25.0,,J. Harden makes free throw 2 of 2,49,59
+2,5:15.0,I. Clark misses 3-pt jump shot from 26 ft,,49,59
+2,5:14.0,,Defensive rebound by J. Ennis,49,59
+2,5:14.0,J. Holiday enters the game for I. Clark,,49,59
+2,5:14.0,F. Jackson enters the game for T. Frazier,,49,59
+2,4:48.0,,J. Harden misses 3-pt jump shot from 23 ft,49,59
+2,4:47.0,Defensive rebound by K. Williams,,49,59
+2,4:38.0,D. Miller misses 3-pt jump shot from 27 ft,,49,59
+2,4:37.0,,Defensive rebound by C. Paul,49,59
+2,4:31.0,,P. Tucker makes 2-pt layup from 1 ft (assist by C. Paul),49,61
+2,4:19.0,Offensive foul by J. Okafor (drawn by A. Rivers),,49,61
+2,4:19.0,Turnover by J. Okafor (offensive foul),,49,61
+2,4:19.0,S. Hill enters the game for D. Miller,,49,61
+2,4:19.0,,K. Faried enters the game for C. Paul,49,61
+2,4:19.0,,E. Gordon enters the game for A. Rivers,49,61
+2,4:07.0,,K. Faried makes 2-pt layup from 1 ft (assist by J. Harden),49,63
+2,3:59.0,Shooting foul by J. Ennis (drawn by S. Hill),,49,63
+2,3:59.0,S. Hill makes free throw 1 of 2,,50,63
+2,3:59.0,D. Miller enters the game for K. Williams,,50,63
+2,3:59.0,S. Hill makes free throw 2 of 2,,51,63
+2,3:45.0,,J. Harden makes 2-pt layup from 1 ft,51,65
+2,3:29.0,F. Jackson misses 3-pt jump shot from 23 ft,,51,65
+2,3:28.0,,Defensive rebound by J. Harden,51,65
+2,3:17.0,,Personal foul by J. Holiday (drawn by P. Tucker),51,65
+2,3:17.0,,P. Tucker misses free throw 1 of 2,51,65
+2,3:17.0,,Offensive rebound by Team,51,65
+2,3:17.0,,P. Tucker makes free throw 2 of 2,51,66
+2,3:05.0,F. Jackson misses 2-pt layup from 3 ft (block by J. Harden),,51,66
+2,3:02.0,,Defensive rebound by J. Harden,51,66
+2,3:02.0,,Turnover by K. Faried (out of bounds lost ball),51,66
+2,2:51.0,J. Okafor makes 2-pt dunk from 1 ft (assist by D. Miller),,53,66
+2,2:29.0,,P. Tucker misses 3-pt jump shot from 23 ft,53,66
+2,2:26.0,Defensive rebound by J. Holiday,,53,66
+2,2:23.0,J. Holiday misses 2-pt layup from 5 ft (block by P. Tucker),,53,66
+2,2:23.0,Offensive rebound by Team,,53,66
+2,2:23.0,New Orleans full timeout,,53,66
+2,2:23.0,,A. Rivers enters the game for J. Ennis,53,66
+2,2:15.0,D. Miller misses 3-pt jump shot from 26 ft,,53,66
+2,2:12.0,,Defensive rebound by E. Gordon,53,66
+2,2:00.0,,P. Tucker misses 3-pt jump shot from 23 ft,53,66
+2,1:59.0,Defensive rebound by F. Jackson,,53,66
+2,1:48.0,J. Okafor makes 2-pt jump shot from 10 ft (assist by F. Jackson),,55,66
+2,1:29.0,,Turnover by J. Harden (bad pass; steal by F. Jackson),55,66
+2,1:25.0,F. Jackson makes 2-pt layup from 1 ft,,57,66
+2,1:11.0,,P. Tucker misses 2-pt layup from 1 ft (block by J. Holiday),57,66
+2,1:09.0,Defensive rebound by F. Jackson,,57,66
+2,0:50.0,D. Miller misses 3-pt jump shot from 26 ft,,57,66
+2,0:48.0,,Defensive rebound by P. Tucker,57,66
+2,0:31.0,,E. Gordon misses 3-pt jump shot from 23 ft,57,66
+2,0:29.0,Defensive rebound by S. Hill,,57,66
+2,0:19.0,J. Okafor misses 2-pt jump shot from 7 ft,,57,66
+2,0:18.0,Offensive rebound by J. Okafor,,57,66
+2,0:18.0,Shooting foul by K. Faried (drawn by J. Okafor),,57,66
+2,0:18.0,J. Okafor makes free throw 1 of 2,,58,66
+2,0:18.0,J. Okafor makes free throw 2 of 2,,59,66
+2,0:03.0,,J. Harden misses 2-pt layup from 5 ft (block by J. Holiday),59,66
+2,0:02.0,,Offensive rebound by J. Harden,59,66
+2,0:01.0,,Turnover by J. Harden (lost ball; steal by S. Hill),59,66
+3,11:43.0,,P. Tucker misses 3-pt jump shot from 24 ft,59,66
+3,11:41.0,Defensive rebound by J. Okafor,,59,66
+3,11:22.0,F. Jackson makes 2-pt layup from 2 ft,,61,66
+3,11:08.0,,K. Faried makes 2-pt layup from 4 ft (assist by P. Tucker),61,68
+3,10:48.0,J. Holiday misses 2-pt hook shot from 5 ft,,61,68
+3,10:47.0,,Defensive rebound by J. Harden,61,68
+3,10:36.0,,P. Tucker makes 3-pt jump shot from 26 ft (assist by J. Harden),61,71
+3,10:24.0,S. Hill makes 2-pt layup from 2 ft (assist by D. Miller),,63,71
+3,10:17.0,,K. Faried misses 2-pt layup from 1 ft,63,71
+3,10:17.0,,Offensive rebound by K. Faried,63,71
+3,10:17.0,,K. Faried misses 2-pt layup at rim,63,71
+3,10:15.0,,Offensive rebound by K. Faried,63,71
+3,10:14.0,,K. Faried makes 2-pt layup from 1 ft,63,73
+3,9:59.0,J. Okafor makes 2-pt layup from 1 ft (assist by J. Holiday),,65,73
+3,9:39.0,,K. Faried misses 2-pt layup from 3 ft,65,73
+3,9:38.0,,Offensive rebound by C. Paul,65,73
+3,9:38.0,,C. Paul makes 2-pt layup at rim,65,75
+3,9:29.0,D. Miller misses 3-pt jump shot from 25 ft,,65,75
+3,9:27.0,,Defensive rebound by J. Harden,65,75
+3,9:18.0,,K. Faried misses 2-pt layup from 2 ft,65,75
+3,9:17.0,Defensive rebound by J. Holiday,,65,75
+3,9:10.0,Personal foul by E. Gordon (drawn by F. Jackson),,65,75
+3,9:01.0,D. Miller makes 3-pt jump shot from 25 ft (assist by J. Holiday),,68,75
+3,8:50.0,,Personal foul by S. Hill (drawn by K. Faried),68,75
+3,8:37.0,,C. Paul makes 3-pt jump shot from 26 ft,68,78
+3,8:29.0,D. Miller misses 3-pt jump shot from 26 ft,,68,78
+3,8:28.0,Offensive rebound by J. Okafor,,68,78
+3,8:24.0,J. Okafor makes 2-pt layup from 1 ft,,70,78
+3,8:14.0,,J. Harden misses 3-pt jump shot from 26 ft,70,78
+3,8:13.0,Defensive rebound by D. Miller,,70,78
+3,8:08.0,Shooting foul by C. Paul (drawn by F. Jackson),,70,78
+3,8:08.0,F. Jackson makes free throw 1 of 2,,71,78
+3,8:08.0,F. Jackson makes free throw 2 of 2,,72,78
+3,7:56.0,,P. Tucker misses 3-pt jump shot from 25 ft,72,78
+3,7:55.0,Defensive rebound by F. Jackson,,72,78
+3,7:47.0,F. Jackson misses 3-pt jump shot from 26 ft,,72,78
+3,7:47.0,,Defensive rebound by C. Paul,72,78
+3,7:33.0,,K. Faried misses 2-pt dunk from 2 ft,72,78
+3,7:33.0,Defensive rebound by J. Okafor,,72,78
+3,7:26.0,D. Miller makes 2-pt layup from 2 ft (assist by J. Holiday),,74,78
+3,7:16.0,,Shooting foul by J. Okafor (drawn by J. Harden),74,78
+3,7:16.0,,J. Harden makes free throw 1 of 2,74,79
+3,7:16.0,,N. Hilário enters the game for K. Faried,74,79
+3,7:16.0,,J. Harden makes free throw 2 of 2,74,80
+3,7:06.0,S. Hill makes 2-pt jump shot from 8 ft,,76,80
+3,6:52.0,,J. Harden misses 3-pt jump shot from 26 ft,76,80
+3,6:51.0,Defensive rebound by F. Jackson,,76,80
+3,6:48.0,,Houston full timeout,76,80
+3,6:48.0,,A. Rivers enters the game for C. Paul,76,80
+3,6:37.0,Turnover by J. Okafor (lost ball; steal by J. Harden),,76,80
+3,6:32.0,,J. Harden makes 3-pt jump shot from 25 ft (assist by A. Rivers),76,83
+3,6:21.0,J. Holiday makes 3-pt jump shot from 25 ft,,79,83
+3,6:08.0,,J. Harden misses 3-pt jump shot from 25 ft,79,83
+3,6:08.0,,Offensive rebound by N. Hilário,79,83
+3,6:01.0,,Shooting foul by J. Okafor (drawn by N. Hilário),79,83
+3,6:01.0,,N. Hilário misses free throw 1 of 2,79,83
+3,6:01.0,,Offensive rebound by Team,79,83
+3,6:01.0,,N. Hilário misses free throw 2 of 2,79,83
+3,6:01.0,Defensive rebound by F. Jackson,,79,83
+3,5:38.0,S. Hill misses 2-pt jump shot from 15 ft,,79,83
+3,5:38.0,,Defensive rebound by J. Harden,79,83
+3,5:29.0,,E. Gordon misses 3-pt jump shot from 27 ft,79,83
+3,5:28.0,Defensive rebound by J. Holiday,,79,83
+3,5:07.0,Turnover by J. Holiday (bad pass),,79,83
+3,5:07.0,K. Williams enters the game for S. Hill,,79,83
+3,4:51.0,,J. Harden misses 2-pt layup from 3 ft (block by J. Okafor),79,83
+3,4:48.0,Defensive rebound by K. Williams,,79,83
+3,4:40.0,Personal foul by E. Gordon (drawn by J. Okafor),,79,83
+3,4:40.0,,J. Ennis enters the game for E. Gordon,79,83
+3,4:36.0,J. Okafor makes 2-pt jump shot from 11 ft (assist by J. Holiday),,81,83
+3,4:21.0,,J. Harden misses 3-pt jump shot from 26 ft,81,83
+3,4:20.0,Defensive rebound by J. Okafor,,81,83
+3,4:13.0,Turnover by F. Jackson (lost ball; steal by N. Hilário),,81,83
+3,3:57.0,,A. Rivers makes 3-pt jump shot from 27 ft (assist by J. Harden),81,86
+3,3:44.0,Shooting foul by P. Tucker (drawn by J. Holiday),,81,86
+3,3:44.0,J. Holiday makes free throw 1 of 2,,82,86
+3,3:44.0,I. Clark enters the game for F. Jackson,,82,86
+3,3:44.0,J. Holiday makes free throw 2 of 2,,83,86
+3,3:32.0,,Shooting foul by K. Williams (drawn by N. Hilário),83,86
+3,3:32.0,,N. Hilário makes free throw 1 of 2,83,87
+3,3:32.0,,G. Green enters the game for P. Tucker,83,87
+3,3:32.0,,N. Hilário makes free throw 2 of 2,83,88
+3,3:19.0,K. Williams misses 3-pt jump shot from 26 ft,,83,88
+3,3:18.0,,Defensive rebound by J. Harden,83,88
+3,3:11.0,,Turnover by J. Harden (lost ball; steal by J. Holiday),83,88
+3,3:05.0,J. Okafor makes 2-pt dunk from 1 ft (assist by K. Williams),,85,88
+3,3:05.0,Shooting foul by J. Ennis (drawn by J. Okafor),,85,88
+3,3:05.0,J. Okafor makes free throw 1 of 1,,86,88
+3,2:49.0,,J. Harden misses 3-pt jump shot from 26 ft,86,88
+3,2:48.0,Defensive rebound by J. Okafor,,86,88
+3,2:39.0,New Orleans full timeout,,86,88
+3,2:31.0,I. Clark makes 2-pt layup at rim (assist by J. Okafor),,88,88
+3,2:18.0,,G. Green misses 2-pt jump shot from 12 ft,88,88
+3,2:17.0,Defensive rebound by I. Clark,,88,88
+3,2:06.0,K. Williams makes 2-pt layup from 1 ft (assist by J. Okafor),,90,88
+3,1:44.0,,J. Harden misses 3-pt jump shot from 25 ft (block by J. Holiday),90,88
+3,1:43.0,Defensive rebound by J. Okafor,,90,88
+3,1:25.0,J. Holiday misses 3-pt jump shot from 25 ft,,90,88
+3,1:23.0,,Defensive rebound by Team,90,88
+3,1:23.0,C. Diallo enters the game for J. Holiday,,90,88
+3,1:23.0,T. Frazier enters the game for J. Okafor,,90,88
+3,1:23.0,,K. Faried enters the game for G. Green,90,88
+3,1:23.0,,C. Paul enters the game for J. Harden,90,88
+3,1:23.0,,P. Tucker enters the game for N. Hilário,90,88
+3,1:01.0,,A. Rivers misses 3-pt jump shot from 27 ft,90,88
+3,0:59.0,,Offensive rebound by K. Faried,90,88
+3,0:53.0,,Personal foul by T. Frazier (drawn by C. Paul),90,88
+3,0:53.0,,C. Paul makes free throw 1 of 2,90,89
+3,0:53.0,,C. Paul misses free throw 2 of 2,90,89
+3,0:53.0,Defensive rebound by T. Frazier,,90,89
+3,0:32.0,T. Frazier makes 2-pt jump shot from 11 ft,,92,89
+3,0:28.0,,K. Faried makes 2-pt dunk from 1 ft (assist by C. Paul),92,91
+3,0:19.0,C. Diallo makes 2-pt dunk from 1 ft (assist by T. Frazier),,94,91
+3,0:00.0,,C. Paul misses 3-pt jump shot from 27 ft,94,91
+3,0:00.0,,Offensive rebound by Team,94,91
+4,11:46.0,Turnover by K. Williams (bad pass; steal by A. Rivers),,94,91
+4,11:30.0,,E. Gordon makes 2-pt layup from 1 ft,94,93
+4,11:18.0,Personal foul by K. Faried (drawn by T. Frazier),,94,93
+4,11:18.0,,J. Ennis enters the game for K. Faried,94,93
+4,11:12.0,D. Miller makes 3-pt jump shot from 26 ft (assist by T. Frazier),,97,93
+4,11:12.0,Shooting foul by E. Gordon (drawn by D. Miller),,97,93
+4,11:12.0,D. Miller makes free throw 1 of 1,,98,93
+4,10:56.0,,C. Paul misses 2-pt jump shot from 15 ft,98,93
+4,10:56.0,Defensive rebound by K. Williams,,98,93
+4,10:56.0,J. Holiday enters the game for T. Frazier,,98,93
+4,10:56.0,,J. Harden enters the game for E. Gordon,98,93
+4,10:38.0,C. Diallo makes 2-pt layup at rim (assist by D. Miller),,100,93
+4,10:31.0,,Shooting foul by C. Diallo (drawn by J. Harden),100,93
+4,10:31.0,,J. Harden makes free throw 1 of 2,100,94
+4,10:31.0,T. Frazier enters the game for D. Miller,,100,94
+4,10:31.0,,J. Harden makes free throw 2 of 2,100,95
+4,10:17.0,Turnover by J. Holiday (bad pass; steal by C. Paul),,100,95
+4,10:12.0,,J. Ennis misses 2-pt layup from 2 ft,100,95
+4,10:11.0,,Offensive rebound by A. Rivers,100,95
+4,9:57.0,,A. Rivers makes 3-pt jump shot from 26 ft,100,98
+4,9:54.0,Turnover by C. Diallo (bad pass),,100,98
+4,9:54.0,J. Okafor enters the game for C. Diallo,,100,98
+4,9:54.0,,K. Faried enters the game for C. Paul,100,98
+4,9:47.0,,J. Harden misses 2-pt layup from 3 ft (block by J. Holiday),100,98
+4,9:46.0,,Offensive rebound by K. Faried,100,98
+4,9:36.0,,A. Rivers misses 3-pt jump shot from 27 ft,100,98
+4,9:35.0,Defensive rebound by K. Williams,,100,98
+4,9:22.0,I. Clark makes 3-pt jump shot from 23 ft (assist by T. Frazier),,103,98
+4,9:01.0,,Turnover by A. Rivers (lost ball; steal by T. Frazier),103,98
+4,8:55.0,Turnover by J. Holiday (bad pass; steal by J. Harden),,103,98
+4,8:50.0,,J. Harden misses 3-pt jump shot from 26 ft,103,98
+4,8:49.0,Defensive rebound by K. Williams,,103,98
+4,8:38.0,I. Clark misses 3-pt jump shot from 27 ft (block by K. Faried),,103,98
+4,8:35.0,,Defensive rebound by A. Rivers,103,98
+4,8:26.0,,J. Harden misses 2-pt jump shot from 10 ft,103,98
+4,8:26.0,,Offensive rebound by Team,103,98
+4,8:16.0,,Offensive foul by P. Tucker (drawn by T. Frazier),103,98
+4,8:16.0,,Turnover by P. Tucker (offensive foul),103,98
+4,7:50.0,J. Holiday misses 3-pt jump shot from 22 ft,,103,98
+4,7:49.0,,Defensive rebound by P. Tucker,103,98
+4,7:29.0,,J. Harden misses 2-pt jump shot from 6 ft,103,98
+4,7:27.0,,Offensive rebound by J. Harden,103,98
+4,7:27.0,D. Miller enters the game for I. Clark,,103,98
+4,7:27.0,,J. Harden misses 2-pt layup from 8 ft (block by K. Williams),103,98
+4,7:27.0,Defensive rebound by Team,,103,98
+4,7:18.0,T. Frazier makes 2-pt layup from 1 ft,,105,98
+4,7:18.0,Shooting foul by P. Tucker (drawn by T. Frazier),,105,98
+4,7:18.0,,E. Gordon enters the game for J. Ennis,105,98
+4,7:18.0,T. Frazier makes free throw 1 of 1,,106,98
+4,6:55.0,,J. Harden makes 3-pt jump shot from 26 ft,106,101
+4,6:36.0,J. Okafor misses 2-pt layup from 2 ft,,106,101
+4,6:35.0,,Defensive rebound by P. Tucker,106,101
+4,6:27.0,,J. Harden misses 3-pt jump shot from 30 ft,106,101
+4,6:26.0,Defensive rebound by K. Williams,,106,101
+4,6:19.0,New Orleans full timeout,,106,101
+4,6:10.0,Turnover by J. Okafor (back court),,106,101
+4,6:00.0,,P. Tucker misses 3-pt jump shot from 23 ft,106,101
+4,5:56.0,Defensive rebound by K. Williams,,106,101
+4,5:48.0,J. Okafor makes 2-pt dunk at rim (assist by T. Frazier),,108,101
+4,5:45.0,,Houston full timeout,108,101
+4,5:39.0,,Shooting foul by D. Miller (drawn by E. Gordon),108,101
+4,5:39.0,,E. Gordon makes free throw 1 of 2,108,102
+4,5:39.0,,E. Gordon misses free throw 2 of 2,108,102
+4,5:37.0,Defensive rebound by J. Okafor,,108,102
+4,5:29.0,Personal foul by K. Faried (drawn by J. Okafor),,108,102
+4,5:20.0,D. Miller misses 3-pt jump shot from 27 ft,,108,102
+4,5:19.0,Offensive rebound by K. Williams,,108,102
+4,5:04.0,J. Holiday makes 2-pt jump shot from 13 ft,,110,102
+4,4:57.0,,E. Gordon misses 3-pt jump shot from 27 ft,110,102
+4,4:57.0,Defensive rebound by T. Frazier,,110,102
+4,4:44.0,Turnover by T. Frazier (traveling),,110,102
+4,4:44.0,,C. Paul enters the game for A. Rivers,110,102
+4,4:21.0,,E. Gordon misses 3-pt jump shot from 27 ft,110,102
+4,4:20.0,Defensive rebound by K. Williams,,110,102
+4,4:01.0,J. Holiday makes 2-pt layup from 2 ft,,112,102
+4,3:47.0,Violation by Team (kicked ball),,112,102
+4,3:47.0,,A. Rivers enters the game for K. Faried,112,102
+4,3:41.0,,Turnover by C. Paul (bad pass; steal by D. Miller),112,102
+4,3:34.0,J. Holiday makes 2-pt jump shot from 7 ft,,114,102
+4,3:13.0,,A. Rivers misses 3-pt jump shot from 23 ft,114,102
+4,3:11.0,Defensive rebound by T. Frazier,,114,102
+4,2:58.0,J. Holiday misses 2-pt jump shot from 14 ft,,114,102
+4,2:57.0,,Defensive rebound by Team,114,102
+4,2:43.0,,P. Tucker misses 2-pt layup from 2 ft,114,102
+4,2:43.0,Defensive rebound by K. Williams,,114,102
+4,2:24.0,J. Okafor misses 2-pt jump shot from 10 ft,,114,102
+4,2:23.0,,Defensive rebound by J. Harden,114,102
+4,2:17.0,,J. Harden makes 2-pt layup from 1 ft,114,104
+4,1:59.0,Personal foul by J. Harden (drawn by T. Frazier),,114,104
+4,1:59.0,T. Frazier makes free throw 1 of 2,,115,104
+4,1:59.0,,J. Ennis enters the game for A. Rivers,115,104
+4,1:59.0,T. Frazier makes free throw 2 of 2,,116,104
+4,1:53.0,,J. Harden makes 3-pt jump shot from 28 ft,116,107
+4,1:31.0,J. Holiday misses 2-pt jump shot from 17 ft,,116,107
+4,1:28.0,,Defensive rebound by J. Harden,116,107
+4,1:22.0,,P. Tucker misses 3-pt jump shot from 23 ft,116,107
+4,1:21.0,,Offensive rebound by Team,116,107
+4,1:17.0,,J. Ennis misses 3-pt jump shot from 23 ft,116,107
+4,1:14.0,,Offensive rebound by P. Tucker,116,107
+4,1:10.0,,E. Gordon misses 3-pt jump shot from 25 ft,116,107
+4,1:08.0,,Offensive rebound by J. Ennis,116,107
+4,1:08.0,,Houston full timeout,116,107
+4,1:06.0,,Turnover by E. Gordon (traveling),116,107
+4,1:00.0,Turnover by T. Frazier (lost ball; steal by P. Tucker),,116,107
+4,0:57.0,,J. Harden makes 2-pt layup from 1 ft (assist by P. Tucker),116,109
+4,0:47.0,J. Okafor makes 2-pt layup from 1 ft (assist by J. Holiday),,118,109
+4,0:39.0,,C. Paul makes 2-pt layup from 2 ft,118,111
+4,0:34.0,Turnover by T. Frazier (lost ball; steal by P. Tucker),,118,111
+4,0:28.0,,E. Gordon misses 3-pt jump shot from 26 ft,118,111
+4,0:28.0,,Offensive rebound by Team,118,111
+4,0:26.0,,Personal foul by D. Miller (drawn by C. Paul),118,111
+4,0:22.0,,J. Harden makes 3-pt jump shot from 26 ft (assist by C. Paul),118,114
+4,0:22.0,New Orleans full timeout,,118,114
+4,0:21.0,Personal take foul by C. Paul (drawn by K. Williams),,118,114
+4,0:21.0,K. Williams misses free throw 1 of 2,,118,114
+4,0:21.0,Offensive rebound by Team,,118,114
+4,0:21.0,K. Williams misses free throw 2 of 2,,118,114
+4,0:20.0,,Defensive rebound by J. Ennis,118,114
+4,0:15.0,,Turnover by J. Harden (step out of bounds),118,114
+4,0:15.0,I. Clark enters the game for J. Okafor,,118,114
+4,0:15.0,F. Jackson enters the game for K. Williams,,118,114
+4,0:12.0,Personal take foul by P. Tucker (drawn by T. Frazier),,118,114
+4,0:12.0,T. Frazier makes free throw 1 of 2,,119,114
+4,0:12.0,K. Williams enters the game for I. Clark,,119,114
+4,0:12.0,T. Frazier misses free throw 2 of 2,,119,114
+4,0:12.0,,Defensive rebound by J. Harden,119,114
+4,0:06.0,,Shooting foul by T. Frazier (drawn by J. Harden),119,114
+4,0:06.0,,J. Harden misses free throw 1 of 3,119,114
+4,0:06.0,,Offensive rebound by Team,119,114
+4,0:06.0,,J. Harden makes free throw 2 of 3,119,115
+4,0:06.0,J. Okafor enters the game for K. Williams,,119,115
+4,0:06.0,,J. Harden makes free throw 3 of 3,119,116
+4,0:06.0,New Orleans full timeout,,119,116
+4,0:06.0,I. Clark enters the game for J. Okafor,,119,116
+4,0:03.0,Personal take foul by C. Paul (drawn by J. Holiday),,119,116
+4,0:03.0,J. Holiday makes free throw 1 of 2,,120,116
+4,0:03.0,J. Holiday makes free throw 2 of 2,,121,116
+4,0:03.0,,Houston full timeout,121,116
+4,0:03.0,J. Okafor enters the game for F. Jackson,,121,116
+4,0:01.0,,C. Paul misses 3-pt jump shot from 25 ft,121,116
+4,0:01.0,,Offensive rebound by Team,121,116

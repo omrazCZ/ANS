@@ -1,0 +1,451 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,GOLDEN STATE_ACTION,HOUSTON_SCORE,GOLDEN STATE_SCORE
+1,11:46.0,Turnover by C. Capela (traveling),,0,0
+1,11:30.0,,A. Iguodala makes 2-pt jump shot from 12 ft,0,2
+1,11:22.0,Offensive foul by J. Harden (drawn by K. Durant),,0,2
+1,11:22.0,Turnover by J. Harden (offensive foul),,0,2
+1,11:06.0,,Shooting foul by P. Tucker (drawn by A. Iguodala),0,2
+1,11:06.0,,A. Iguodala makes free throw 1 of 2,0,3
+1,11:06.0,,A. Iguodala misses free throw 2 of 2,0,3
+1,11:05.0,Defensive rebound by J. Harden,,0,3
+1,10:42.0,Turnover by E. Gordon (bad pass),,0,3
+1,10:35.0,,A. Iguodala makes 3-pt jump shot from 23 ft (assist by S. Curry),0,6
+1,10:09.0,J. Harden misses 2-pt jump shot from 7 ft,,0,6
+1,10:08.0,Offensive rebound by C. Capela,,0,6
+1,10:08.0,C. Capela makes 2-pt layup at rim,,2,6
+1,9:56.0,,Turnover by D. Green (bad pass; steal by C. Paul),2,6
+1,9:49.0,Turnover by C. Paul (bad pass; steal by K. Durant),,2,6
+1,9:43.0,,K. Thompson makes 2-pt layup from 1 ft (assist by K. Durant),2,8
+1,9:30.0,J. Harden misses 2-pt layup from 2 ft (block by K. Durant),,2,8
+1,9:29.0,Offensive rebound by Team,,2,8
+1,9:18.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by C. Capela),,5,8
+1,9:08.0,,K. Thompson misses 3-pt jump shot from 29 ft,5,8
+1,9:06.0,Defensive rebound by P. Tucker,,5,8
+1,8:47.0,Turnover by J. Harden (bad pass; steal by S. Curry),,5,8
+1,8:41.0,,K. Durant misses 2-pt layup from 3 ft,5,8
+1,8:40.0,,Offensive rebound by D. Green,5,8
+1,8:35.0,,D. Green makes 2-pt layup from 1 ft,5,10
+1,8:31.0,Shooting foul by D. Green (drawn by C. Capela),,5,10
+1,8:31.0,C. Capela misses free throw 1 of 2,,5,10
+1,8:31.0,Offensive rebound by Team,,5,10
+1,8:31.0,,Golden State full timeout,5,10
+1,8:31.0,,J. Jerebko enters the game for S. Curry,5,10
+1,8:31.0,C. Capela makes free throw 2 of 2,,6,10
+1,8:09.0,,K. Durant makes 2-pt jump shot from 18 ft (assist by D. Green),6,12
+1,7:48.0,C. Paul makes 2-pt jump shot from 17 ft (assist by P. Tucker),,8,12
+1,7:31.0,,A. Iguodala misses 3-pt jump shot from 26 ft,8,12
+1,7:29.0,Defensive rebound by P. Tucker,,8,12
+1,7:20.0,Turnover by C. Paul (bad pass; steal by D. Green),,8,12
+1,7:13.0,,K. Thompson misses 2-pt jump shot from 18 ft,8,12
+1,7:12.0,,Offensive rebound by J. Jerebko,8,12
+1,7:12.0,,J. Jerebko makes 2-pt dunk from 1 ft,8,14
+1,6:52.0,,Violation by Team (kicked ball),8,14
+1,6:52.0,D. House enters the game for C. Paul,,8,14
+1,6:43.0,J. Harden misses 2-pt layup from 7 ft,,8,14
+1,6:42.0,,Defensive rebound by J. Jerebko,8,14
+1,6:32.0,,K. Durant makes 3-pt jump shot from 23 ft (assist by D. Green),8,17
+1,6:27.0,Houston full timeout,,8,17
+1,6:27.0,C. Paul enters the game for J. Harden,,8,17
+1,6:15.0,C. Paul misses 3-pt jump shot from 26 ft,,8,17
+1,6:13.0,,Defensive rebound by D. Green,8,17
+1,6:00.0,,K. Durant misses 2-pt jump shot from 12 ft,8,17
+1,5:59.0,,Offensive rebound by A. Iguodala,8,17
+1,5:54.0,,K. Durant misses 3-pt jump shot from 29 ft,8,17
+1,5:52.0,Defensive rebound by C. Capela,,8,17
+1,5:29.0,Turnover by E. Gordon (bad pass; steal by K. Thompson),,8,17
+1,5:17.0,,J. Jerebko makes 2-pt layup from 2 ft (assist by A. Iguodala),8,19
+1,5:12.0,Personal foul by K. Durant (drawn by E. Gordon),,8,19
+1,5:12.0,A. Rivers enters the game for E. Gordon,,8,19
+1,5:12.0,,S. Curry enters the game for A. Iguodala,8,19
+1,5:12.0,,K. Looney enters the game for J. Jerebko,8,19
+1,4:56.0,,Violation by Team (kicked ball),8,19
+1,4:45.0,D. House misses 3-pt jump shot from 23 ft,,8,19
+1,4:43.0,,Defensive rebound by S. Curry,8,19
+1,4:32.0,,D. Green makes 2-pt hook shot from 7 ft (assist by K. Durant),8,21
+1,4:32.0,,Shooting foul by C. Paul (drawn by D. Green),8,21
+1,4:32.0,I. Shumpert enters the game for C. Capela,,8,21
+1,4:32.0,,A. McKinnie enters the game for K. Thompson,8,21
+1,4:32.0,,D. Green makes free throw 1 of 1,8,22
+1,4:20.0,C. Paul makes 3-pt jump shot from 29 ft,,11,22
+1,4:06.0,,A. McKinnie misses 2-pt jump shot from 8 ft,11,22
+1,4:05.0,,Offensive rebound by D. Green,11,22
+1,4:02.0,,D. Green misses 2-pt layup from 1 ft,11,22
+1,4:01.0,,Offensive rebound by D. Green,11,22
+1,4:01.0,,D. Green makes 2-pt layup from 1 ft,11,24
+1,3:57.0,I. Shumpert misses 3-pt jump shot from 23 ft,,11,24
+1,3:55.0,,Defensive rebound by D. Green,11,24
+1,3:50.0,,S. Curry misses 3-pt jump shot from 33 ft,11,24
+1,3:48.0,,Offensive rebound by D. Green,11,24
+1,3:38.0,,D. Green misses 3-pt jump shot from 25 ft,11,24
+1,3:36.0,Defensive rebound by C. Paul,,11,24
+1,3:35.0,Personal foul by S. Curry (drawn by C. Paul),,11,24
+1,3:35.0,K. Faried enters the game for D. House,,11,24
+1,3:19.0,C. Paul makes 3-pt jump shot from 25 ft,,14,24
+1,3:04.0,,S. Curry misses 3-pt jump shot from 23 ft,14,24
+1,3:02.0,Defensive rebound by C. Paul,,14,24
+1,2:53.0,I. Shumpert misses 3-pt jump shot from 26 ft,,14,24
+1,2:51.0,,Defensive rebound by Team,14,24
+1,2:29.0,,K. Durant misses 2-pt jump shot from 16 ft,14,24
+1,2:28.0,,Offensive rebound by K. Looney,14,24
+1,2:23.0,,S. Curry misses 3-pt jump shot from 31 ft,14,24
+1,2:21.0,Defensive rebound by I. Shumpert,,14,24
+1,2:04.0,I. Shumpert misses 3-pt jump shot from 26 ft,,14,24
+1,2:02.0,Offensive rebound by I. Shumpert,,14,24
+1,1:59.0,K. Faried misses 2-pt jump shot from 18 ft,,14,24
+1,1:57.0,Offensive rebound by Team,,14,24
+1,1:57.0,E. Gordon enters the game for C. Paul,,14,24
+1,1:57.0,,A. Iguodala enters the game for K. Durant,14,24
+1,1:50.0,A. Rivers misses 3-pt jump shot from 26 ft,,14,24
+1,1:48.0,Offensive rebound by P. Tucker,,14,24
+1,1:45.0,Personal foul by K. Looney (drawn by E. Gordon),,14,24
+1,1:45.0,G. Green enters the game for P. Tucker,,14,24
+1,1:45.0,,J. Jerebko enters the game for K. Looney,14,24
+1,1:33.0,Turnover by A. Rivers (lost ball; steal by D. Green),,14,24
+1,1:28.0,,Turnover by D. Green (bad pass),14,24
+1,1:11.0,Turnover by A. Rivers (bad pass; steal by A. Iguodala),,14,24
+1,1:06.0,,S. Curry misses 3-pt jump shot from 30 ft,14,24
+1,1:04.0,,Offensive rebound by J. Jerebko,14,24
+1,1:04.0,,J. Jerebko misses 2-pt layup from 1 ft,14,24
+1,1:03.0,Defensive rebound by I. Shumpert,,14,24
+1,0:57.0,E. Gordon misses 3-pt jump shot from 30 ft,,14,24
+1,0:55.0,,Defensive rebound by A. McKinnie,14,24
+1,0:44.0,,S. Curry makes 2-pt layup from 3 ft,14,26
+1,0:30.0,I. Shumpert misses 3-pt jump shot from 27 ft,,14,26
+1,0:28.0,Offensive rebound by K. Faried,,14,26
+1,0:28.0,G. Green makes 3-pt jump shot from 25 ft (assist by K. Faried),,17,26
+1,0:08.0,,S. Curry makes 3-pt jump shot from 28 ft,17,29
+1,0:02.0,A. Rivers makes 3-pt jump shot from 27 ft,,20,29
+2,11:40.0,,K. Durant misses 2-pt jump shot from 10 ft,20,29
+2,11:39.0,Defensive rebound by A. Rivers,,20,29
+2,11:26.0,A. Rivers makes 2-pt layup from 4 ft,,22,29
+2,11:14.0,,J. Jerebko misses 2-pt hook shot from 8 ft,22,29
+2,11:12.0,Defensive rebound by C. Capela,,22,29
+2,11:02.0,Personal foul by K. Looney (drawn by E. Gordon),,22,29
+2,10:56.0,G. Green misses 3-pt jump shot from 22 ft,,22,29
+2,10:54.0,,Defensive rebound by K. Durant,22,29
+2,10:46.0,,Shooting foul by G. Green (drawn by K. Durant),22,29
+2,10:46.0,,K. Durant makes free throw 1 of 2,22,30
+2,10:46.0,P. Tucker enters the game for G. Green,,22,30
+2,10:46.0,,K. Durant makes free throw 2 of 2,22,31
+2,10:24.0,C. Capela makes 2-pt layup from 1 ft (assist by C. Paul),,24,31
+2,10:12.0,,K. Durant misses 2-pt jump shot from 17 ft,24,31
+2,10:11.0,,Offensive rebound by K. Looney,24,31
+2,10:07.0,,S. Livingston misses 2-pt dunk from 2 ft (block by C. Capela),24,31
+2,10:06.0,Defensive rebound by C. Capela,,24,31
+2,9:52.0,E. Gordon misses 2-pt layup from 5 ft (block by K. Looney),,24,31
+2,9:51.0,Offensive rebound by C. Capela,,24,31
+2,9:44.0,A. Rivers makes 3-pt jump shot from 26 ft (assist by C. Capela),,27,31
+2,9:38.0,,Golden State full timeout,27,31
+2,9:38.0,,A. Bogut enters the game for J. Jerebko,27,31
+2,9:38.0,,A. McKinnie enters the game for K. Looney,27,31
+2,9:28.0,,S. Livingston misses 2-pt layup from 4 ft (block by C. Capela),27,31
+2,9:27.0,,Offensive rebound by Team,27,31
+2,9:18.0,,S. Livingston misses 2-pt jump shot from 17 ft,27,31
+2,9:16.0,,Offensive rebound by A. Bogut,27,31
+2,9:14.0,,A. Bogut misses 2-pt layup from 2 ft,27,31
+2,9:14.0,Defensive rebound by C. Paul,,27,31
+2,9:14.0,Personal foul by S. Livingston (drawn by C. Paul),,27,31
+2,8:59.0,Turnover by C. Paul (bad pass; steal by S. Livingston),,27,31
+2,8:58.0,,Shooting foul by P. Tucker (drawn by K. Durant),27,31
+2,8:58.0,,K. Durant misses free throw 1 of 2,27,31
+2,8:58.0,,Offensive rebound by Team,27,31
+2,8:58.0,,K. Durant makes free throw 2 of 2,27,32
+2,8:43.0,E. Gordon misses 2-pt layup from 2 ft,,27,32
+2,8:41.0,Offensive rebound by C. Capela,,27,32
+2,8:41.0,C. Capela makes 2-pt dunk at rim,,29,32
+2,8:24.0,,Turnover by K. Durant (bad pass; steal by C. Paul),29,32
+2,8:19.0,E. Gordon misses 3-pt jump shot from 28 ft,,29,32
+2,8:17.0,,Defensive rebound by K. Thompson,29,32
+2,8:00.0,,K. Thompson misses 3-pt jump shot from 23 ft,29,32
+2,7:58.0,,Offensive rebound by A. McKinnie,29,32
+2,7:46.0,,K. Durant makes 2-pt jump shot from 20 ft,29,34
+2,7:36.0,E. Gordon makes 2-pt layup from 3 ft (assist by C. Paul),,31,34
+2,7:32.0,,S. Livingston misses 2-pt jump shot from 18 ft,31,34
+2,7:30.0,,Offensive rebound by A. McKinnie,31,34
+2,7:30.0,,A. McKinnie makes 2-pt dunk from 1 ft,31,36
+2,7:17.0,C. Paul misses 3-pt jump shot from 27 ft,,31,36
+2,7:15.0,,Defensive rebound by A. Bogut,31,36
+2,7:09.0,,Personal foul by P. Tucker (drawn by K. Durant),31,36
+2,7:09.0,J. Harden enters the game for C. Paul,,31,36
+2,7:09.0,D. House enters the game for A. Rivers,,31,36
+2,7:09.0,,S. Curry enters the game for A. Bogut,31,36
+2,7:09.0,,D. Green enters the game for S. Livingston,31,36
+2,7:09.0,,A. Iguodala enters the game for A. McKinnie,31,36
+2,6:57.0,,S. Curry misses 3-pt jump shot from 26 ft,31,36
+2,6:55.0,,Offensive rebound by A. Iguodala,31,36
+2,6:52.0,,K. Thompson makes 2-pt jump shot from 19 ft,31,38
+2,6:49.0,Houston full timeout,,31,38
+2,6:28.0,D. House misses 2-pt layup from 6 ft,,31,38
+2,6:27.0,,Defensive rebound by D. Green,31,38
+2,6:08.0,,A. Iguodala makes 2-pt dunk from 2 ft (assist by D. Green),31,40
+2,5:44.0,J. Harden makes 2-pt layup from 3 ft,,33,40
+2,5:25.0,,K. Durant makes 2-pt jump shot from 19 ft,33,42
+2,5:14.0,Turnover by J. Harden (bad pass),,33,42
+2,5:14.0,C. Paul enters the game for E. Gordon,,33,42
+2,5:14.0,A. Rivers enters the game for D. House,,33,42
+2,4:58.0,,D. Green misses 2-pt jump shot from 7 ft,33,42
+2,4:57.0,Defensive rebound by C. Capela,,33,42
+2,4:49.0,J. Harden misses 3-pt jump shot from 28 ft,,33,42
+2,4:48.0,,Defensive rebound by Team,33,42
+2,4:39.0,,K. Thompson makes 2-pt jump shot from 20 ft (assist by D. Green),33,44
+2,4:27.0,J. Harden makes 2-pt layup from 4 ft,,35,44
+2,4:20.0,,K. Thompson makes 2-pt dunk from 4 ft (assist by A. Iguodala),35,46
+2,4:03.0,J. Harden makes 3-pt jump shot from 27 ft,,38,46
+2,3:52.0,,K. Thompson makes 2-pt jump shot from 6 ft (assist by D. Green),38,48
+2,3:29.0,C. Capela misses 2-pt layup from 5 ft (block by S. Curry),,38,48
+2,3:27.0,,Defensive rebound by S. Curry,38,48
+2,3:21.0,,K. Thompson misses 3-pt jump shot from 25 ft,38,48
+2,3:19.0,Defensive rebound by P. Tucker,,38,48
+2,3:09.0,A. Rivers makes 3-pt jump shot from 23 ft (assist by C. Paul),,41,48
+2,2:57.0,,S. Curry makes 2-pt jump shot from 11 ft,41,50
+2,2:57.0,,Shooting foul by C. Capela (drawn by S. Curry),41,50
+2,2:57.0,K. Faried enters the game for C. Capela,,41,50
+2,2:57.0,,S. Curry makes free throw 1 of 1,41,51
+2,2:33.0,Turnover by Team (shot clock),,41,51
+2,2:20.0,,K. Thompson makes 3-pt jump shot from 27 ft (assist by A. Iguodala),41,54
+2,2:07.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by C. Paul),,44,54
+2,1:50.0,,Turnover by A. Iguodala (bad pass; steal by P. Tucker),44,54
+2,1:41.0,Offensive foul by C. Paul (drawn by S. Curry),,44,54
+2,1:41.0,Turnover by C. Paul (offensive foul),,44,54
+2,1:29.0,,S. Curry makes 2-pt jump shot from 17 ft,44,56
+2,1:10.0,Personal foul by S. Curry (drawn by J. Harden),,44,56
+2,1:10.0,E. Gordon enters the game for K. Faried,,44,56
+2,0:59.0,A. Rivers misses 2-pt jump shot from 12 ft,,44,56
+2,0:57.0,,Defensive rebound by A. Iguodala,44,56
+2,0:50.0,,K. Thompson misses 3-pt jump shot from 26 ft,44,56
+2,0:48.0,,Offensive rebound by A. Iguodala,44,56
+2,0:48.0,,A. Iguodala makes 2-pt dunk from 1 ft,44,58
+2,0:34.0,Personal foul by D. Green (drawn by J. Harden),,44,58
+2,0:34.0,J. Harden makes free throw 1 of 2,,45,58
+2,0:34.0,J. Harden makes free throw 2 of 2,,46,58
+2,0:29.0,,K. Thompson misses 2-pt jump shot from 19 ft,46,58
+2,0:28.0,Defensive rebound by P. Tucker,,46,58
+2,0:06.0,J. Harden makes 3-pt jump shot from 28 ft,,49,58
+3,11:48.0,,K. Durant makes 3-pt jump shot from 23 ft (assist by K. Thompson),49,61
+3,11:26.0,E. Gordon makes 3-pt jump shot from 29 ft (assist by C. Paul),,52,61
+3,11:15.0,,Shooting foul by C. Capela (drawn by D. Green),52,61
+3,11:15.0,,D. Green makes free throw 1 of 2,52,62
+3,11:15.0,,D. Green makes free throw 2 of 2,52,63
+3,11:05.0,Shooting foul by K. Durant (drawn by C. Capela),,52,63
+3,11:05.0,C. Capela makes free throw 1 of 2,,53,63
+3,11:05.0,C. Capela misses free throw 2 of 2,,53,63
+3,11:03.0,,Defensive rebound by K. Durant,53,63
+3,10:50.0,,A. Iguodala misses 3-pt jump shot from 26 ft,53,63
+3,10:48.0,Defensive rebound by J. Harden,,53,63
+3,10:41.0,C. Capela makes 2-pt dunk from 2 ft (assist by J. Harden),,55,63
+3,10:25.0,,K. Durant makes 3-pt jump shot from 28 ft,55,66
+3,10:11.0,E. Gordon misses 3-pt jump shot from 27 ft,,55,66
+3,10:11.0,,Defensive rebound by Team,55,66
+3,9:58.0,,K. Durant makes 2-pt jump shot from 14 ft,55,68
+3,9:40.0,J. Harden misses 2-pt jump shot from 9 ft,,55,68
+3,9:39.0,,Defensive rebound by D. Green,55,68
+3,9:17.0,,Turnover by K. Thompson (bad pass; steal by J. Harden),55,68
+3,9:09.0,E. Gordon makes 3-pt jump shot from 29 ft (assist by J. Harden),,58,68
+3,8:55.0,,D. Green makes 2-pt layup from 1 ft (assist by S. Curry),58,70
+3,8:50.0,Personal foul by S. Curry (drawn by C. Paul),,58,70
+3,8:33.0,C. Paul misses 2-pt jump shot from 9 ft,,58,70
+3,8:32.0,Offensive rebound by C. Capela,,58,70
+3,8:32.0,C. Capela makes 2-pt jump shot from 5 ft,,60,70
+3,8:14.0,,A. Iguodala makes 3-pt jump shot from 26 ft (assist by S. Curry),60,73
+3,8:05.0,Turnover by J. Harden (bad pass; steal by K. Thompson),,60,73
+3,8:00.0,,Personal take foul by J. Harden (drawn by K. Durant),60,73
+3,7:54.0,,S. Curry misses 3-pt jump shot from 27 ft,60,73
+3,7:52.0,Defensive rebound by C. Paul,,60,73
+3,7:38.0,J. Harden misses 3-pt jump shot from 29 ft,,60,73
+3,7:36.0,,Defensive rebound by K. Thompson,60,73
+3,7:26.0,,K. Durant misses 2-pt jump shot from 18 ft,60,73
+3,7:25.0,Defensive rebound by P. Tucker,,60,73
+3,7:16.0,E. Gordon makes 3-pt jump shot from 31 ft (assist by J. Harden),,63,73
+3,7:07.0,,Golden State full timeout,63,73
+3,7:04.0,,S. Curry makes 3-pt jump shot from 28 ft (assist by D. Green),63,76
+3,6:43.0,Personal foul by S. Curry (drawn by P. Tucker),,63,76
+3,6:43.0,,K. Looney enters the game for S. Curry,63,76
+3,6:31.0,P. Tucker makes 3-pt jump shot from 27 ft (assist by J. Harden),,66,76
+3,6:12.0,,A. Iguodala misses 3-pt jump shot from 27 ft,66,76
+3,6:10.0,,Offensive rebound by D. Green,66,76
+3,6:07.0,,K. Durant misses 3-pt jump shot from 29 ft,66,76
+3,6:05.0,Defensive rebound by J. Harden,,66,76
+3,6:00.0,Personal foul by D. Green (drawn by P. Tucker),,66,76
+3,6:00.0,A. Rivers enters the game for C. Paul,,66,76
+3,5:43.0,Shooting foul by K. Looney (drawn by C. Capela),,66,76
+3,5:43.0,C. Capela misses free throw 1 of 2,,66,76
+3,5:43.0,Offensive rebound by Team,,66,76
+3,5:43.0,C. Capela makes free throw 2 of 2,,67,76
+3,5:34.0,,Personal foul by A. Rivers (drawn by K. Thompson),67,76
+3,5:21.0,,K. Thompson misses 3-pt jump shot from 24 ft,67,76
+3,5:19.0,Defensive rebound by P. Tucker,,67,76
+3,5:15.0,E. Gordon misses 2-pt layup from 4 ft (block by A. Iguodala),,67,76
+3,5:14.0,Offensive rebound by Team,,67,76
+3,4:57.0,A. Rivers misses 3-pt jump shot from 24 ft,,67,76
+3,4:55.0,,Defensive rebound by D. Green,67,76
+3,4:45.0,,K. Thompson makes 3-pt jump shot from 29 ft (assist by K. Durant),67,79
+3,4:29.0,E. Gordon misses 3-pt jump shot from 29 ft,,67,79
+3,4:27.0,,Defensive rebound by K. Thompson,67,79
+3,4:15.0,,K. Thompson makes 3-pt jump shot from 26 ft (assist by K. Looney),67,82
+3,4:14.0,Houston full timeout,,67,82
+3,4:14.0,C. Paul enters the game for E. Gordon,,67,82
+3,4:14.0,,S. Livingston enters the game for A. Iguodala,67,82
+3,3:56.0,J. Harden misses 3-pt jump shot from 28 ft,,67,82
+3,3:54.0,,Defensive rebound by S. Livingston,67,82
+3,3:34.0,,K. Thompson misses 2-pt jump shot from 20 ft,67,82
+3,3:32.0,Defensive rebound by C. Capela,,67,82
+3,3:12.0,P. Tucker misses 3-pt jump shot from 23 ft,,67,82
+3,3:10.0,,Defensive rebound by K. Durant,67,82
+3,2:55.0,,K. Durant misses 2-pt jump shot from 11 ft,67,82
+3,2:54.0,,Offensive rebound by K. Looney,67,82
+3,2:48.0,,K. Durant misses 3-pt jump shot from 26 ft,67,82
+3,2:46.0,Defensive rebound by C. Paul,,67,82
+3,2:28.0,C. Paul misses 2-pt layup from 3 ft,,67,82
+3,2:27.0,Offensive rebound by C. Paul,,67,82
+3,2:23.0,C. Paul makes 2-pt jump shot from 6 ft,,69,82
+3,2:05.0,,Turnover by K. Thompson (bad pass),69,82
+3,2:05.0,N. Hilário enters the game for C. Capela,,69,82
+3,2:05.0,,A. McKinnie enters the game for K. Thompson,69,82
+3,1:56.0,Turnover by J. Harden (dbl dribble),,69,82
+3,1:44.0,,D. Green misses 3-pt jump shot from 23 ft,69,82
+3,1:42.0,Defensive rebound by J. Harden,,69,82
+3,1:37.0,Shooting foul by S. Livingston (drawn by J. Harden),,69,82
+3,1:37.0,J. Harden makes free throw 1 of 2,,70,82
+3,1:37.0,J. Harden misses free throw 2 of 2,,70,82
+3,1:36.0,,Defensive rebound by K. Looney,70,82
+3,1:21.0,,A. McKinnie misses 3-pt jump shot from 23 ft,70,82
+3,1:19.0,Defensive rebound by P. Tucker,,70,82
+3,1:10.0,J. Harden misses 2-pt layup from 8 ft (block by K. Durant),,70,82
+3,1:09.0,Offensive rebound by N. Hilário,,70,82
+3,1:01.0,Personal foul by K. Looney (drawn by C. Paul),,70,82
+3,1:01.0,C. Paul makes free throw 1 of 2,,71,82
+3,1:01.0,C. Paul makes free throw 2 of 2,,72,82
+3,0:57.0,,Golden State full timeout,72,82
+3,0:57.0,,A. Iguodala enters the game for K. Looney,72,82
+3,0:49.0,,Turnover by D. Green (bad pass),72,82
+3,0:33.0,C. Paul misses 3-pt jump shot from 29 ft,,72,82
+3,0:31.0,,Defensive rebound by K. Durant,72,82
+3,0:31.0,,Personal foul by P. Tucker (drawn by K. Durant),72,82
+3,0:11.0,,K. Durant misses 2-pt jump shot from 20 ft,72,82
+3,0:09.0,Defensive rebound by J. Harden,,72,82
+3,0:01.0,Shooting foul by K. Durant (drawn by J. Harden),,72,82
+3,0:01.0,J. Harden makes free throw 1 of 3,,73,82
+3,0:01.0,J. Harden makes free throw 2 of 3,,74,82
+3,0:01.0,,S. Curry enters the game for A. McKinnie,74,82
+3,0:01.0,J. Harden makes free throw 3 of 3,,75,82
+3,0:01.0,,Technical foul by D. Green,75,82
+3,0:01.0,Technical foul by N. Hilário,,75,82
+3,0:00.0,,S. Curry misses 3-pt jump shot from 59 ft,75,82
+3,0:00.0,,Offensive rebound by Team,75,82
+4,11:51.0,C. Paul misses 2-pt jump shot from 10 ft,,75,82
+4,11:50.0,,Defensive rebound by J. Jerebko,75,82
+4,11:31.0,,Shooting foul by A. Rivers (drawn by S. Curry),75,82
+4,11:31.0,,S. Curry makes free throw 1 of 2,75,83
+4,11:31.0,G. Green enters the game for P. Tucker,,75,83
+4,11:31.0,,S. Curry makes free throw 2 of 2,75,84
+4,11:14.0,G. Green misses 2-pt layup from 8 ft,,75,84
+4,11:13.0,,Defensive rebound by J. Jerebko,75,84
+4,11:03.0,,K. Thompson misses 2-pt jump shot from 17 ft,75,84
+4,11:02.0,Defensive rebound by E. Gordon,,75,84
+4,10:51.0,E. Gordon makes 2-pt layup from 4 ft (assist by A. Rivers),,77,84
+4,10:37.0,,Turnover by S. Curry (lost ball; steal by C. Paul),77,84
+4,10:22.0,G. Green makes 3-pt jump shot from 24 ft (assist by A. Rivers),,80,84
+4,10:04.0,,S. Livingston makes 2-pt jump shot from 16 ft,80,86
+4,9:47.0,Turnover by A. Rivers (lost ball; steal by S. Curry),,80,86
+4,9:42.0,,S. Livingston makes 2-pt dunk from 1 ft (assist by S. Curry),80,88
+4,9:42.0,Houston full timeout,,80,88
+4,9:42.0,C. Capela enters the game for N. Hilário,,80,88
+4,9:42.0,J. Harden enters the game for A. Rivers,,80,88
+4,9:42.0,,K. Durant enters the game for J. Jerebko,80,88
+4,9:29.0,E. Gordon makes 2-pt jump shot from 6 ft,,82,88
+4,9:08.0,,K. Thompson misses 3-pt jump shot from 33 ft,82,88
+4,9:06.0,,Offensive rebound by S. Curry,82,88
+4,9:00.0,,S. Livingston makes 2-pt jump shot from 12 ft (assist by S. Curry),82,90
+4,8:35.0,J. Harden makes 2-pt jump shot from 10 ft,,84,90
+4,8:16.0,,K. Looney makes 2-pt layup from 1 ft (assist by S. Livingston),84,92
+4,7:58.0,J. Harden makes 2-pt layup from 6 ft,,86,92
+4,7:45.0,,Turnover by S. Curry (bad pass),86,92
+4,7:45.0,P. Tucker enters the game for C. Paul,,86,92
+4,7:45.0,,D. Green enters the game for S. Livingston,86,92
+4,7:45.0,,A. Iguodala enters the game for K. Looney,86,92
+4,7:25.0,J. Harden makes 3-pt jump shot from 27 ft,,89,92
+4,7:15.0,,Personal foul by C. Capela (drawn by K. Durant),89,92
+4,7:03.0,,Shooting foul by C. Capela (drawn by A. Iguodala),89,92
+4,7:03.0,,A. Iguodala makes free throw 1 of 2,89,93
+4,7:03.0,,A. Iguodala misses free throw 2 of 2,89,93
+4,7:01.0,Defensive rebound by J. Harden,,89,93
+4,6:44.0,Shooting foul by K. Durant (drawn by C. Capela),,89,93
+4,6:44.0,C. Capela misses free throw 1 of 2,,89,93
+4,6:44.0,Offensive rebound by Team,,89,93
+4,6:44.0,C. Capela makes free throw 2 of 2,,90,93
+4,6:31.0,,S. Curry makes 3-pt jump shot from 28 ft (assist by K. Durant),90,96
+4,6:11.0,Personal foul by K. Thompson (drawn by G. Green),,90,96
+4,6:11.0,C. Paul enters the game for C. Capela,,90,96
+4,6:01.0,J. Harden misses 3-pt jump shot from 25 ft,,90,96
+4,5:59.0,,Defensive rebound by K. Thompson,90,96
+4,5:51.0,,A. Iguodala makes 2-pt dunk at rim (assist by D. Green),90,98
+4,5:51.0,Houston full timeout,,90,98
+4,5:51.0,C. Capela enters the game for G. Green,,90,98
+4,5:37.0,Personal foul by S. Curry (drawn by C. Capela),,90,98
+4,5:24.0,P. Tucker misses 3-pt jump shot from 23 ft,,90,98
+4,5:22.0,,Defensive rebound by K. Durant,90,98
+4,5:08.0,,Personal foul by J. Harden (drawn by K. Durant),90,98
+4,5:01.0,,K. Durant misses 2-pt jump shot from 12 ft,90,98
+4,5:00.0,Defensive rebound by C. Capela,,90,98
+4,4:54.0,Turnover by J. Harden (bad pass; steal by K. Thompson),,90,98
+4,4:51.0,,Personal foul by C. Capela (drawn by K. Thompson),90,98
+4,4:51.0,,K. Thompson makes free throw 1 of 2,90,99
+4,4:51.0,,K. Thompson makes free throw 2 of 2,90,100
+4,4:37.0,C. Capela misses 2-pt layup from 5 ft,,90,100
+4,4:35.0,,Defensive rebound by D. Green,90,100
+4,4:31.0,,S. Curry misses 3-pt jump shot from 26 ft,90,100
+4,4:29.0,,Offensive rebound by A. Iguodala,90,100
+4,4:16.0,,D. Green makes 2-pt dunk from 1 ft (assist by K. Thompson),90,102
+4,3:57.0,J. Harden makes 2-pt layup from 3 ft,,92,102
+4,3:45.0,,Golden State full timeout,92,102
+4,3:45.0,G. Green enters the game for C. Capela,,92,102
+4,3:39.0,,K. Durant makes 2-pt jump shot from 18 ft,92,104
+4,3:30.0,Turnover by E. Gordon (out of bounds lost ball),,92,104
+4,3:10.0,,S. Curry misses 3-pt jump shot from 23 ft,92,104
+4,3:08.0,Defensive rebound by J. Harden,,92,104
+4,3:02.0,Shooting foul by K. Thompson (drawn by J. Harden),,92,104
+4,3:02.0,J. Harden makes free throw 1 of 2,,93,104
+4,3:02.0,J. Harden makes free throw 2 of 2,,94,104
+4,2:45.0,,K. Durant makes 2-pt jump shot from 20 ft,94,106
+4,2:33.0,Personal foul by A. Iguodala (drawn by P. Tucker),,94,106
+4,2:33.0,P. Tucker makes free throw 1 of 2,,95,106
+4,2:33.0,P. Tucker makes free throw 2 of 2,,96,106
+4,2:13.0,,K. Durant misses 2-pt jump shot from 11 ft,96,106
+4,2:10.0,,Offensive rebound by Team,96,106
+4,1:56.0,,D. Green makes 2-pt layup from 2 ft (assist by A. Iguodala),96,108
+4,1:46.0,C. Paul makes 2-pt layup from 2 ft,,98,108
+4,1:28.0,,Turnover by K. Durant (lost ball),98,108
+4,1:28.0,,Loose ball foul by K. Durant (drawn by C. Paul),98,108
+4,1:28.0,C. Paul makes free throw 1 of 2,,99,108
+4,1:28.0,C. Capela enters the game for G. Green,,99,108
+4,1:28.0,C. Paul makes free throw 2 of 2,,100,108
+4,1:20.0,,Turnover by K. Durant (bad pass),100,108
+4,1:20.0,,Loose ball foul by A. Iguodala (drawn by P. Tucker),100,108
+4,1:20.0,P. Tucker makes free throw 1 of 2,,101,108
+4,1:20.0,P. Tucker makes free throw 2 of 2,,102,108
+4,0:58.0,,S. Curry misses 3-pt jump shot from 26 ft,102,108
+4,0:56.0,Defensive rebound by P. Tucker,,102,108
+4,0:50.0,C. Paul misses 3-pt jump shot from 29 ft,,102,108
+4,0:48.0,,Defensive rebound by K. Thompson,102,108
+4,0:41.0,,Personal take foul by C. Capela (drawn by S. Curry),102,108
+4,0:41.0,A. Rivers enters the game for C. Capela,,102,108
+4,0:41.0,,S. Curry makes free throw 1 of 2,102,109
+4,0:41.0,,S. Curry makes free throw 2 of 2,102,110
+4,0:31.0,J. Harden misses 2-pt layup from 8 ft,,102,110
+4,0:30.0,Offensive rebound by C. Paul,,102,110
+4,0:23.0,C. Paul misses 3-pt jump shot from 23 ft,,102,110
+4,0:22.0,,Defensive rebound by D. Green,102,110
+4,0:22.0,,Personal take foul by A. Rivers (drawn by K. Durant),102,110
+4,0:22.0,,K. Durant makes free throw 1 of 2,102,111
+4,0:22.0,,K. Durant makes free throw 2 of 2,102,112
+4,0:14.0,C. Paul makes 2-pt layup from 2 ft,,104,112
+4,0:11.0,,Personal take foul by A. Rivers (drawn by K. Durant),104,112
+4,0:11.0,,K. Durant makes free throw 1 of 2,104,113
+4,0:11.0,,K. Durant misses free throw 2 of 2,104,113
+4,0:09.0,Defensive rebound by P. Tucker,,104,113
+4,0:05.0,A. Rivers makes 3-pt jump shot from 29 ft (assist by P. Tucker),,107,113
+4,0:04.0,,Turnover by S. Curry (out of bounds lost ball),107,113
+4,0:03.0,J. Harden makes 2-pt dunk from 2 ft (assist by C. Paul),,109,113
+4,0:03.0,,Golden State full timeout,109,113
+4,0:02.0,,Personal take foul by J. Harden (drawn by K. Durant),109,113
+4,0:02.0,,K. Durant makes free throw 1 of 2,109,114
+4,0:02.0,,K. Durant makes free throw 2 of 2,109,115

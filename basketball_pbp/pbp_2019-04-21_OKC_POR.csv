@@ -1,0 +1,468 @@
+QUARTER,TIME_REMAINING,PORTLAND_ACTION,OKLAHOMA CITY_ACTION,PORTLAND_SCORE,OKLAHOMA CITY_SCORE
+1,11:37.0,,J. Grant misses 2-pt layup from 1 ft,0,0
+1,11:36.0,Defensive rebound by E. Freedom,,0,0
+1,11:23.0,A. Aminu makes 3-pt jump shot from 24 ft (assist by E. Freedom),,3,0
+1,11:06.0,,P. George misses 2-pt layup from 6 ft (block by C. McCollum),3,0
+1,11:06.0,Defensive rebound by D. Lillard,,3,0
+1,10:52.0,E. Freedom makes 2-pt jump shot from 16 ft (assist by D. Lillard),,5,0
+1,10:35.0,,P. George makes 3-pt jump shot from 23 ft (assist by R. Westbrook),5,3
+1,10:16.0,D. Lillard misses 3-pt jump shot from 25 ft,,5,3
+1,10:15.0,,Defensive rebound by J. Grant,5,3
+1,10:03.0,,Offensive foul by R. Westbrook (drawn by D. Lillard),5,3
+1,10:03.0,,Turnover by R. Westbrook (offensive foul),5,3
+1,9:52.0,Def 3 sec tech foul by Team,,5,3
+1,9:52.0,D. Lillard makes technical free throw,,6,3
+1,9:47.0,Personal foul by P. George (drawn by D. Lillard),,6,3
+1,9:42.0,C. McCollum misses 2-pt jump shot from 17 ft,,6,3
+1,9:38.0,,Defensive rebound by T. Ferguson,6,3
+1,9:31.0,,S. Adams misses 2-pt jump shot from 3 ft (block by M. Harkless),6,3
+1,9:31.0,,Offensive rebound by Team,6,3
+1,9:31.0,,Oklahoma City full timeout,6,3
+1,9:31.0,Technical foul by B. Donovan,,6,3
+1,9:31.0,D. Lillard makes technical free throw,,7,3
+1,9:27.0,,Personal foul by E. Freedom (drawn by S. Adams),7,3
+1,9:23.0,,P. George makes 2-pt jump shot from 14 ft (assist by R. Westbrook),7,5
+1,9:03.0,Offensive foul by C. McCollum (drawn by P. George),,7,5
+1,9:03.0,Turnover by C. McCollum (offensive foul),,7,5
+1,8:55.0,,R. Westbrook makes 3-pt jump shot from 26 ft (assist by T. Ferguson),7,8
+1,8:33.0,E. Freedom misses 2-pt jump shot from 12 ft,,7,8
+1,8:31.0,Offensive rebound by M. Harkless,,7,8
+1,8:31.0,M. Harkless misses 2-pt layup from 1 ft,,7,8
+1,8:31.0,,Defensive rebound by S. Adams,7,8
+1,8:18.0,,R. Westbrook misses 3-pt jump shot from 27 ft,7,8
+1,8:13.0,Defensive rebound by A. Aminu,,7,8
+1,8:08.0,A. Aminu makes 2-pt jump shot from 9 ft,,9,8
+1,7:56.0,,P. George makes 2-pt layup from 1 ft,9,10
+1,7:38.0,C. McCollum misses 2-pt layup from 4 ft,,9,10
+1,7:36.0,,Defensive rebound by S. Adams,9,10
+1,7:30.0,,J. Grant misses 3-pt jump shot from 24 ft,9,10
+1,7:27.0,Defensive rebound by D. Lillard,,9,10
+1,7:20.0,A. Aminu misses 2-pt layup from 2 ft,,9,10
+1,7:19.0,,Defensive rebound by J. Grant,9,10
+1,7:08.0,,S. Adams makes 2-pt layup from 2 ft (assist by P. George),9,12
+1,6:45.0,M. Harkless misses 2-pt layup from 2 ft,,9,12
+1,6:42.0,Offensive rebound by A. Aminu,,9,12
+1,6:40.0,D. Lillard misses 3-pt jump shot from 25 ft,,9,12
+1,6:37.0,,Defensive rebound by T. Ferguson,9,12
+1,6:30.0,,R. Westbrook makes 2-pt jump shot from 17 ft,9,14
+1,6:29.0,Portland full timeout,,9,14
+1,6:14.0,Turnover by D. Lillard (bad pass; steal by S. Adams),,9,14
+1,6:00.0,,S. Adams misses 2-pt dunk from 1 ft,9,14
+1,5:57.0,Defensive rebound by E. Freedom,,9,14
+1,5:52.0,C. McCollum makes 3-pt jump shot from 25 ft,,12,14
+1,5:40.0,,P. George misses 3-pt jump shot from 25 ft,12,14
+1,5:37.0,Defensive rebound by D. Lillard,,12,14
+1,5:27.0,M. Harkless misses 3-pt jump shot from 23 ft,,12,14
+1,5:23.0,,Defensive rebound by S. Adams,12,14
+1,5:18.0,,R. Westbrook misses 2-pt jump shot from 19 ft,12,14
+1,5:16.0,,Offensive rebound by S. Adams,12,14
+1,5:13.0,,Personal foul by M. Harkless (drawn by J. Grant),12,14
+1,5:09.0,,T. Ferguson misses 2-pt jump shot from 21 ft,12,14
+1,5:06.0,Defensive rebound by A. Aminu,,12,14
+1,4:57.0,M. Harkless misses 2-pt layup from 4 ft (block by P. George),,12,14
+1,4:54.0,,Defensive rebound by P. George,12,14
+1,4:50.0,,Turnover by P. George (bad pass; steal by A. Aminu),12,14
+1,4:45.0,M. Harkless makes 2-pt dunk from 1 ft (assist by D. Lillard),,14,14
+1,4:31.0,,S. Adams makes 2-pt jump shot from 8 ft (assist by P. George),14,16
+1,4:14.0,C. McCollum misses 3-pt jump shot from 25 ft,,14,16
+1,4:11.0,Offensive rebound by Team,,14,16
+1,4:11.0,R. Hood enters the game for M. Harkless,,14,16
+1,4:11.0,M. Leonard enters the game for E. Freedom,,14,16
+1,4:11.0,,D. Schröder enters the game for P. George,14,16
+1,3:56.0,Turnover by Team (shot clock),,14,16
+1,3:49.0,,R. Westbrook makes 2-pt jump shot from 21 ft,14,18
+1,3:35.0,C. McCollum makes 2-pt jump shot from 14 ft,,16,18
+1,3:19.0,,Turnover by T. Ferguson (bad pass; steal by R. Hood),16,18
+1,3:15.0,A. Aminu makes 2-pt layup from 2 ft (assist by D. Lillard),,18,18
+1,3:15.0,Shooting foul by D. Schröder (drawn by A. Aminu),,18,18
+1,3:15.0,,P. George enters the game for T. Ferguson,18,18
+1,3:15.0,A. Aminu makes free throw 1 of 1,,19,18
+1,3:07.0,,Shooting foul by M. Leonard (drawn by R. Westbrook),19,18
+1,3:07.0,Z. Collins enters the game for A. Aminu,,19,18
+1,3:07.0,,M. Morris enters the game for S. Adams,19,18
+1,3:07.0,,N. Noel enters the game for J. Grant,19,18
+1,3:07.0,,R. Westbrook misses free throw 1 of 2,19,18
+1,3:07.0,,Offensive rebound by Team,19,18
+1,3:07.0,,R. Westbrook makes free throw 2 of 2,19,19
+1,2:57.0,M. Leonard makes 2-pt layup from 1 ft,,21,19
+1,2:50.0,,R. Westbrook misses 2-pt jump shot from 21 ft,21,19
+1,2:47.0,Defensive rebound by Z. Collins,,21,19
+1,2:35.0,Z. Collins makes 2-pt hook shot from 6 ft (assist by D. Lillard),,23,19
+1,2:19.0,,P. George misses 2-pt jump shot from 4 ft,23,19
+1,2:16.0,Defensive rebound by C. McCollum,,23,19
+1,2:13.0,C. McCollum misses 2-pt jump shot from 16 ft,,23,19
+1,2:12.0,,Defensive rebound by N. Noel,23,19
+1,2:06.0,,D. Schröder misses 3-pt jump shot from 25 ft,23,19
+1,2:04.0,Defensive rebound by Team,,23,19
+1,2:04.0,E. Turner enters the game for C. McCollum,,23,19
+1,2:04.0,,R. Felton enters the game for R. Westbrook,23,19
+1,1:50.0,M. Leonard misses 3-pt jump shot from 26 ft,,23,19
+1,1:46.0,,Defensive rebound by P. George,23,19
+1,1:37.0,,M. Morris makes 3-pt jump shot from 26 ft (assist by P. George),23,22
+1,1:12.0,Z. Collins makes 3-pt jump shot from 28 ft (assist by D. Lillard),,26,22
+1,1:00.0,,Turnover by P. George (bad pass; steal by M. Leonard),26,22
+1,0:44.0,D. Lillard misses 2-pt jump shot from 17 ft,,26,22
+1,0:43.0,,Defensive rebound by D. Schröder,26,22
+1,0:31.0,,N. Noel makes 2-pt dunk from 2 ft (assist by M. Morris),26,24
+1,0:11.0,D. Lillard misses 3-pt jump shot from 27 ft,,26,24
+1,0:08.0,,Defensive rebound by Team,26,24
+1,0:04.0,,P. George misses 3-pt jump shot from 26 ft,26,24
+1,0:00.0,Defensive rebound by M. Leonard,,26,24
+2,11:54.0,Personal foul by R. Felton (drawn by E. Turner),,26,24
+2,11:40.0,M. Leonard misses 3-pt jump shot from 22 ft,,26,24
+2,11:37.0,,Defensive rebound by D. Schröder,26,24
+2,11:20.0,,P. George misses 2-pt jump shot from 16 ft,26,24
+2,11:17.0,Defensive rebound by E. Turner,,26,24
+2,11:11.0,R. Hood misses 3-pt jump shot from 26 ft,,26,24
+2,11:09.0,,Defensive rebound by Team,26,24
+2,10:59.0,,R. Felton makes 3-pt jump shot from 25 ft (assist by M. Morris),26,27
+2,10:34.0,Shooting foul by P. George (drawn by R. Hood),,26,27
+2,10:34.0,R. Hood makes free throw 1 of 2,,27,27
+2,10:34.0,R. Hood makes free throw 2 of 2,,28,27
+2,10:28.0,,Shooting foul by M. Leonard (drawn by P. George),28,27
+2,10:28.0,,P. George makes free throw 1 of 2,28,28
+2,10:28.0,,P. George makes free throw 2 of 2,28,29
+2,10:07.0,E. Turner misses 2-pt jump shot from 2 ft,,28,29
+2,10:04.0,Offensive rebound by E. Turner,,28,29
+2,10:04.0,E. Turner misses 2-pt layup at rim (block by M. Morris),,28,29
+2,10:03.0,,Defensive rebound by D. Schröder,28,29
+2,9:50.0,,M. Morris misses 3-pt jump shot from 26 ft,28,29
+2,9:47.0,Defensive rebound by E. Turner,,28,29
+2,9:43.0,Turnover by E. Turner (bad pass; steal by P. George),,28,29
+2,9:35.0,,D. Schröder makes 2-pt layup from 2 ft,28,31
+2,9:19.0,S. Curry misses 2-pt jump shot from 18 ft,,28,31
+2,9:15.0,,Defensive rebound by P. George,28,31
+2,9:13.0,,Offensive foul by P. George (drawn by S. Curry),28,31
+2,9:13.0,,Turnover by P. George (offensive foul),28,31
+2,9:13.0,C. McCollum enters the game for R. Hood,,28,31
+2,9:13.0,,R. Westbrook enters the game for P. George,28,31
+2,8:50.0,Turnover by Z. Collins (lost ball; steal by N. Noel),,28,31
+2,8:45.0,,D. Schröder misses 3-pt jump shot from 26 ft,28,31
+2,8:43.0,Defensive rebound by E. Turner,,28,31
+2,8:37.0,C. McCollum misses 2-pt layup from 2 ft,,28,31
+2,8:34.0,,Defensive rebound by M. Morris,28,31
+2,8:29.0,,R. Felton makes 2-pt jump shot from 19 ft,28,33
+2,8:28.0,Portland full timeout,,28,33
+2,8:28.0,M. Harkless enters the game for M. Leonard,,28,33
+2,8:28.0,D. Lillard enters the game for E. Turner,,28,33
+2,8:28.0,,S. Adams enters the game for N. Noel,28,33
+2,8:15.0,M. Harkless makes 2-pt dunk from 1 ft (assist by Z. Collins),,30,33
+2,8:01.0,,Turnover by D. Schröder (bad pass; steal by C. McCollum),30,33
+2,7:54.0,Z. Collins misses 2-pt layup from 2 ft,,30,33
+2,7:52.0,Offensive rebound by Z. Collins,,30,33
+2,7:48.0,Personal foul by D. Schröder (drawn by C. McCollum),,30,33
+2,7:48.0,,T. Ferguson enters the game for R. Felton,30,33
+2,7:43.0,C. McCollum makes 2-pt jump shot from 13 ft,,32,33
+2,7:24.0,,Personal foul by Z. Collins (drawn by S. Adams),32,33
+2,7:16.0,,S. Adams misses 2-pt hook shot from 4 ft (block by M. Harkless),32,33
+2,7:14.0,Defensive rebound by S. Curry,,32,33
+2,7:02.0,S. Curry misses 2-pt jump shot from 11 ft,,32,33
+2,6:59.0,,Defensive rebound by S. Adams,32,33
+2,6:52.0,,Turnover by D. Schröder (bad pass; steal by S. Curry),32,33
+2,6:38.0,M. Harkless misses 2-pt layup from 2 ft,,32,33
+2,6:36.0,,Defensive rebound by S. Adams,32,33
+2,6:30.0,,R. Westbrook misses 2-pt jump shot from 19 ft,32,33
+2,6:27.0,Defensive rebound by M. Harkless,,32,33
+2,6:22.0,Turnover by D. Lillard (bad pass; steal by T. Ferguson),,32,33
+2,6:14.0,,R. Westbrook misses 2-pt layup from 6 ft (block by Z. Collins),32,33
+2,6:12.0,,Offensive rebound by R. Westbrook,32,33
+2,6:12.0,,Offensive foul by R. Westbrook (drawn by Z. Collins),32,33
+2,6:12.0,,Turnover by R. Westbrook (offensive foul),32,33
+2,6:12.0,,J. Grant enters the game for M. Morris,32,33
+2,6:00.0,Z. Collins misses 2-pt layup from 2 ft,,32,33
+2,5:59.0,,Defensive rebound by J. Grant,32,33
+2,5:54.0,,S. Adams makes 2-pt dunk from 1 ft (assist by D. Schröder),32,35
+2,5:34.0,M. Harkless misses 2-pt layup from 2 ft,,32,35
+2,5:31.0,Offensive rebound by Team,,32,35
+2,5:29.0,,Violation by Team (kicked ball),32,35
+2,5:29.0,E. Freedom enters the game for Z. Collins,,32,35
+2,5:29.0,,R. Felton enters the game for D. Schröder,32,35
+2,5:21.0,M. Harkless makes 3-pt jump shot from 24 ft (assist by D. Lillard),,35,35
+2,4:52.0,,Turnover by J. Grant (lost ball; steal by M. Harkless),35,35
+2,4:34.0,D. Lillard misses 2-pt layup from 1 ft,,35,35
+2,4:29.0,Offensive rebound by E. Freedom,,35,35
+2,4:29.0,E. Freedom makes 2-pt layup at rim,,37,35
+2,4:24.0,,R. Felton makes 3-pt jump shot from 25 ft (assist by R. Westbrook),37,38
+2,4:04.0,D. Lillard misses 3-pt jump shot from 25 ft,,37,38
+2,4:02.0,,Defensive rebound by R. Westbrook,37,38
+2,3:57.0,,J. Grant makes 3-pt jump shot from 24 ft (assist by R. Westbrook),37,41
+2,3:34.0,C. McCollum makes 2-pt jump shot from 13 ft,,39,41
+2,3:23.0,,R. Westbrook misses 2-pt jump shot from 15 ft,39,41
+2,3:20.0,Defensive rebound by M. Harkless,,39,41
+2,3:11.0,Turnover by M. Harkless (traveling),,39,41
+2,2:59.0,,R. Westbrook makes 2-pt jump shot from 19 ft,39,43
+2,2:43.0,C. McCollum misses 3-pt jump shot from 25 ft,,39,43
+2,2:41.0,,Defensive rebound by J. Grant,39,43
+2,2:31.0,,R. Westbrook makes 3-pt jump shot from 26 ft (assist by J. Grant),39,46
+2,2:29.0,Portland full timeout,,39,46
+2,2:29.0,A. Aminu enters the game for S. Curry,,39,46
+2,2:18.0,Personal foul by J. Grant (drawn by E. Freedom),,39,46
+2,2:12.0,C. McCollum makes 3-pt jump shot from 24 ft,,42,46
+2,1:59.0,,Turnover by R. Westbrook (lost ball; steal by D. Lillard),42,46
+2,1:53.0,Turnover by D. Lillard (traveling),,42,46
+2,1:37.0,,Turnover by S. Adams (lost ball; steal by E. Freedom),42,46
+2,1:33.0,M. Harkless misses 3-pt jump shot from 25 ft,,42,46
+2,1:33.0,,Defensive rebound by R. Felton,42,46
+2,1:23.0,,R. Westbrook misses 2-pt jump shot from 12 ft,42,46
+2,1:21.0,Defensive rebound by E. Freedom,,42,46
+2,1:14.0,D. Lillard makes 2-pt jump shot from 12 ft,,44,46
+2,1:01.0,,Personal foul by D. Lillard (drawn by J. Grant),44,46
+2,1:01.0,,D. Schröder enters the game for R. Felton,44,46
+2,0:55.0,,R. Westbrook misses 2-pt jump shot from 15 ft,44,46
+2,0:52.0,Defensive rebound by M. Harkless,,44,46
+2,0:32.0,D. Lillard makes 3-pt jump shot from 26 ft,,47,46
+2,0:26.0,,R. Westbrook misses 2-pt layup from 2 ft (block by E. Freedom),47,46
+2,0:23.0,Defensive rebound by M. Harkless,,47,46
+2,0:03.0,A. Aminu makes 3-pt jump shot from 23 ft (assist by D. Lillard),,50,46
+2,0:00.0,,T. Ferguson misses 3-pt jump shot from 35 ft,50,46
+2,0:00.0,,Offensive rebound by Team,50,46
+3,11:40.0,C. McCollum makes 2-pt jump shot from 5 ft (assist by E. Freedom),,52,46
+3,11:22.0,,R. Westbrook misses 3-pt jump shot from 25 ft,52,46
+3,11:19.0,,Offensive rebound by R. Westbrook,52,46
+3,11:18.0,,Personal foul by C. McCollum (drawn by R. Westbrook),52,46
+3,11:10.0,,P. George misses 3-pt jump shot from 24 ft,52,46
+3,11:07.0,Defensive rebound by E. Freedom,,52,46
+3,10:57.0,A. Aminu makes 3-pt jump shot from 23 ft (assist by C. McCollum),,55,46
+3,10:44.0,,P. George makes 2-pt jump shot from 15 ft (assist by R. Westbrook),55,48
+3,10:28.0,D. Lillard misses 2-pt layup from 1 ft,,55,48
+3,10:28.0,,Defensive rebound by S. Adams,55,48
+3,10:22.0,,T. Ferguson makes 3-pt jump shot from 22 ft (assist by P. George),55,51
+3,9:52.0,M. Harkless misses 3-pt jump shot from 23 ft,,55,51
+3,9:50.0,,Defensive rebound by P. George,55,51
+3,9:43.0,,P. George misses 3-pt jump shot from 25 ft,55,51
+3,9:39.0,Defensive rebound by Team,,55,51
+3,9:39.0,,Loose ball foul by R. Westbrook (drawn by M. Harkless),55,51
+3,9:25.0,C. McCollum misses 2-pt jump shot from 15 ft (block by S. Adams),,55,51
+3,9:22.0,,Defensive rebound by R. Westbrook,55,51
+3,9:18.0,,T. Ferguson misses 3-pt jump shot from 23 ft,55,51
+3,9:14.0,Defensive rebound by M. Harkless,,55,51
+3,9:10.0,D. Lillard makes 3-pt jump shot from 27 ft (assist by C. McCollum),,58,51
+3,9:00.0,,Personal foul by D. Lillard (drawn by J. Grant),58,51
+3,8:48.0,,J. Grant makes 3-pt jump shot from 23 ft (assist by P. George),58,54
+3,8:21.0,M. Harkless makes 2-pt layup from 1 ft (assist by C. McCollum),,60,54
+3,8:11.0,,R. Westbrook misses 2-pt jump shot from 17 ft,60,54
+3,8:08.0,Defensive rebound by C. McCollum,,60,54
+3,8:00.0,D. Lillard makes 3-pt jump shot from 28 ft,,63,54
+3,7:45.0,,T. Ferguson misses 3-pt jump shot from 22 ft,63,54
+3,7:43.0,Defensive rebound by A. Aminu,,63,54
+3,7:33.0,D. Lillard makes 3-pt jump shot from 27 ft,,66,54
+3,7:31.0,,Oklahoma City full timeout,66,54
+3,7:17.0,,P. George misses 3-pt jump shot from 24 ft,66,54
+3,7:15.0,Defensive rebound by Team,,66,54
+3,7:00.0,E. Freedom misses 2-pt jump shot from 10 ft,,66,54
+3,6:57.0,,Defensive rebound by R. Westbrook,66,54
+3,6:48.0,,P. George misses 2-pt jump shot from 12 ft,66,54
+3,6:45.0,Defensive rebound by M. Harkless,,66,54
+3,6:37.0,A. Aminu misses 3-pt jump shot from 28 ft,,66,54
+3,6:33.0,,Defensive rebound by P. George,66,54
+3,6:29.0,,Personal foul by E. Freedom (drawn by S. Adams),66,54
+3,6:22.0,,Turnover by P. George (bad pass; steal by M. Harkless),66,54
+3,6:18.0,D. Lillard makes 2-pt dunk from 1 ft,,68,54
+3,6:03.0,,P. George makes 3-pt jump shot from 23 ft (assist by S. Adams),68,57
+3,5:45.0,Shooting foul by S. Adams (drawn by D. Lillard),,68,57
+3,5:45.0,D. Lillard makes free throw 1 of 2,,69,57
+3,5:45.0,D. Lillard makes free throw 2 of 2,,70,57
+3,5:32.0,,R. Westbrook misses 3-pt jump shot from 24 ft,70,57
+3,5:28.0,Defensive rebound by A. Aminu,,70,57
+3,5:14.0,A. Aminu misses 2-pt hook shot from 6 ft,,70,57
+3,5:11.0,,Defensive rebound by R. Westbrook,70,57
+3,5:05.0,,R. Westbrook misses 2-pt jump shot from 18 ft,70,57
+3,5:03.0,Defensive rebound by E. Freedom,,70,57
+3,4:45.0,A. Aminu makes 3-pt jump shot from 23 ft (assist by E. Freedom),,73,57
+3,4:33.0,,T. Ferguson misses 3-pt jump shot from 23 ft,73,57
+3,4:31.0,Defensive rebound by A. Aminu,,73,57
+3,4:10.0,A. Aminu misses 3-pt jump shot from 23 ft,,73,57
+3,4:08.0,Offensive rebound by E. Freedom,,73,57
+3,4:08.0,Shooting foul by T. Ferguson (drawn by E. Freedom),,73,57
+3,4:08.0,E. Freedom makes free throw 1 of 2,,74,57
+3,4:08.0,,Oklahoma City full timeout,74,57
+3,4:08.0,R. Hood enters the game for A. Aminu,,74,57
+3,4:08.0,,D. Schröder enters the game for T. Ferguson,74,57
+3,4:08.0,E. Freedom makes free throw 2 of 2,,75,57
+3,3:53.0,,D. Schröder makes 2-pt jump shot from 6 ft,75,59
+3,3:28.0,C. McCollum misses 3-pt jump shot from 26 ft,,75,59
+3,3:24.0,,Defensive rebound by J. Grant,75,59
+3,3:19.0,,Shooting foul by E. Freedom (drawn by D. Schröder),75,59
+3,3:19.0,,D. Schröder makes free throw 1 of 2,75,60
+3,3:19.0,,D. Schröder misses free throw 2 of 2,75,60
+3,3:18.0,Defensive rebound by Team,,75,60
+3,2:59.0,Turnover by E. Freedom (lost ball; steal by J. Grant),,75,60
+3,2:45.0,,P. George misses 2-pt jump shot from 7 ft,75,60
+3,2:44.0,Defensive rebound by E. Freedom,,75,60
+3,2:24.0,R. Hood makes 2-pt jump shot from 13 ft,,77,60
+3,2:12.0,,D. Schröder misses 2-pt layup from 2 ft,77,60
+3,2:11.0,Defensive rebound by E. Freedom,,77,60
+3,1:55.0,D. Lillard makes 2-pt jump shot from 14 ft,,79,60
+3,1:40.0,,Turnover by D. Schröder (bad pass; steal by E. Freedom),79,60
+3,1:32.0,C. McCollum misses 2-pt layup from 6 ft,,79,60
+3,1:30.0,,Defensive rebound by R. Westbrook,79,60
+3,1:25.0,,J. Grant misses 2-pt dunk from 2 ft (block by M. Harkless),79,60
+3,1:25.0,,Offensive rebound by Team,79,60
+3,1:25.0,A. Aminu enters the game for M. Harkless,,79,60
+3,1:18.0,,D. Schröder makes 2-pt jump shot from 16 ft,79,62
+3,0:57.0,R. Hood misses 3-pt jump shot from 26 ft,,79,62
+3,0:54.0,,Defensive rebound by P. George,79,62
+3,0:45.0,,Shooting foul by E. Freedom (drawn by P. George),79,62
+3,0:45.0,,P. George misses free throw 1 of 2,79,62
+3,0:45.0,,Offensive rebound by Team,79,62
+3,0:45.0,Z. Collins enters the game for E. Freedom,,79,62
+3,0:45.0,S. Curry enters the game for C. McCollum,,79,62
+3,0:45.0,,M. Morris enters the game for S. Adams,79,62
+3,0:45.0,,N. Noel enters the game for J. Grant,79,62
+3,0:45.0,,P. George makes free throw 2 of 2,79,63
+3,0:32.0,A. Aminu misses 3-pt jump shot from 26 ft,,79,63
+3,0:29.0,,Defensive rebound by Team,79,63
+3,0:29.0,Loose ball foul by D. Lillard (drawn by P. George),,79,63
+3,0:29.0,,P. George makes free throw 1 of 2,79,64
+3,0:29.0,M. Leonard enters the game for Z. Collins,,79,64
+3,0:29.0,,P. George makes free throw 2 of 2,79,65
+3,0:18.0,Personal foul by M. Morris (drawn by D. Lillard),,79,65
+3,0:11.0,D. Lillard misses 2-pt jump shot from 8 ft,,79,65
+3,0:09.0,,Defensive rebound by P. George,79,65
+3,0:02.0,,P. George makes 3-pt jump shot from 23 ft (assist by D. Schröder),79,68
+4,11:49.0,,Shooting foul by C. McCollum (drawn by P. George),79,68
+4,11:49.0,,P. George makes free throw 1 of 2,79,69
+4,11:49.0,,P. George makes free throw 2 of 2,79,70
+4,11:29.0,Offensive foul by Z. Collins (drawn by D. Schröder),,79,70
+4,11:29.0,Turnover by Z. Collins (offensive foul),,79,70
+4,11:16.0,,D. Schröder misses 3-pt jump shot from 22 ft,79,70
+4,11:13.0,Defensive rebound by S. Curry,,79,70
+4,11:01.0,S. Curry misses 2-pt layup from 1 ft,,79,70
+4,11:01.0,Offensive rebound by Team,,79,70
+4,11:01.0,,Loose ball foul by R. Felton (drawn by Z. Collins),79,70
+4,10:56.0,C. McCollum makes 3-pt jump shot from 27 ft,,82,70
+4,10:39.0,,D. Schröder misses 2-pt jump shot from 9 ft,82,70
+4,10:35.0,Defensive rebound by R. Hood,,82,70
+4,10:26.0,Shooting foul by N. Noel (drawn by Z. Collins),,82,70
+4,10:26.0,Z. Collins makes free throw 1 of 2,,83,70
+4,10:26.0,Z. Collins makes free throw 2 of 2,,84,70
+4,10:16.0,,R. Felton misses 3-pt jump shot from 25 ft,84,70
+4,10:14.0,,Offensive rebound by Team,84,70
+4,10:14.0,Loose ball foul by A. Aminu (drawn by N. Noel),,84,70
+4,10:01.0,,N. Noel misses 2-pt jump shot from 12 ft,84,70
+4,9:58.0,Defensive rebound by R. Hood,,84,70
+4,9:45.0,A. Aminu misses 2-pt layup from 3 ft (block by N. Noel),,84,70
+4,9:42.0,,Defensive rebound by P. George,84,70
+4,9:40.0,,Turnover by N. Noel (turnover),84,70
+4,9:40.0,,Loose ball foul by N. Noel (drawn by A. Aminu),84,70
+4,9:40.0,,R. Westbrook enters the game for P. George,84,70
+4,9:28.0,C. McCollum makes 3-pt jump shot from 26 ft,,87,70
+4,9:18.0,,Shooting foul by C. McCollum (drawn by D. Schröder),87,70
+4,9:18.0,,D. Schröder makes free throw 1 of 2,87,71
+4,9:18.0,D. Lillard enters the game for S. Curry,,87,71
+4,9:18.0,,P. George enters the game for R. Felton,87,71
+4,9:18.0,,D. Schröder makes free throw 2 of 2,87,72
+4,9:01.0,Shooting foul by M. Morris (drawn by Z. Collins),,87,72
+4,9:01.0,Z. Collins misses free throw 1 of 2,,87,72
+4,9:01.0,Offensive rebound by Team,,87,72
+4,9:01.0,Z. Collins makes free throw 2 of 2,,88,72
+4,8:51.0,,N. Noel misses 2-pt layup from 2 ft (block by A. Aminu),88,72
+4,8:47.0,Defensive rebound by A. Aminu,,88,72
+4,8:35.0,A. Aminu misses 2-pt layup from 3 ft,,88,72
+4,8:35.0,Offensive rebound by A. Aminu,,88,72
+4,8:32.0,A. Aminu makes 2-pt layup from 1 ft,,90,72
+4,8:22.0,,Def 3 sec tech foul by Team,90,72
+4,8:22.0,,P. George makes technical free throw,90,73
+4,8:22.0,,T. Ferguson enters the game for M. Morris,90,73
+4,8:22.0,,J. Grant enters the game for N. Noel,90,73
+4,8:15.0,,J. Grant misses 2-pt layup from 3 ft,90,73
+4,8:12.0,,Offensive rebound by R. Westbrook,90,73
+4,8:12.0,,R. Westbrook misses 2-pt layup at rim,90,73
+4,8:12.0,,Offensive rebound by J. Grant,90,73
+4,8:09.0,,D. Schröder makes 3-pt jump shot from 26 ft (assist by J. Grant),90,76
+4,7:46.0,D. Lillard misses 2-pt jump shot from 13 ft,,90,76
+4,7:44.0,,Defensive rebound by P. George,90,76
+4,7:34.0,,D. Schröder misses 3-pt jump shot from 25 ft,90,76
+4,7:30.0,Defensive rebound by Z. Collins,,90,76
+4,7:24.0,R. Hood misses 2-pt layup from 3 ft,,90,76
+4,7:20.0,Offensive rebound by Z. Collins,,90,76
+4,7:20.0,Z. Collins makes 2-pt dunk from 1 ft,,92,76
+4,7:10.0,,P. George makes 2-pt jump shot from 14 ft (assist by D. Schröder),92,78
+4,6:50.0,Offensive foul by D. Lillard (drawn by J. Grant),,92,78
+4,6:50.0,Turnover by D. Lillard (offensive foul),,92,78
+4,6:50.0,,Oklahoma City full timeout,92,78
+4,6:50.0,M. Harkless enters the game for A. Aminu,,92,78
+4,6:50.0,E. Freedom enters the game for Z. Collins,,92,78
+4,6:39.0,,J. Grant misses 2-pt dunk at rim,92,78
+4,6:37.0,Defensive rebound by C. McCollum,,92,78
+4,6:15.0,C. McCollum misses 3-pt jump shot from 25 ft,,92,78
+4,6:14.0,Offensive rebound by Team,,92,78
+4,6:14.0,,Loose ball foul by J. Grant (drawn by E. Freedom),92,78
+4,6:14.0,E. Freedom makes free throw 1 of 2,,93,78
+4,6:14.0,E. Freedom makes free throw 2 of 2,,94,78
+4,5:59.0,,P. George misses 2-pt jump shot from 17 ft,94,78
+4,5:56.0,Defensive rebound by M. Harkless,,94,78
+4,5:37.0,Turnover by E. Freedom (lost ball; steal by J. Grant),,94,78
+4,5:30.0,,J. Grant makes 3-pt jump shot from 23 ft (assist by R. Westbrook),94,81
+4,5:08.0,D. Lillard misses 2-pt jump shot from 19 ft,,94,81
+4,5:05.0,,Defensive rebound by J. Grant,94,81
+4,5:05.0,A. Aminu enters the game for R. Hood,,94,81
+4,4:58.0,,R. Westbrook misses 3-pt jump shot from 23 ft,94,81
+4,4:53.0,Defensive rebound by M. Harkless,,94,81
+4,4:38.0,A. Aminu misses 3-pt jump shot from 23 ft,,94,81
+4,4:35.0,,Defensive rebound by J. Grant,94,81
+4,4:31.0,,P. George misses 2-pt layup from 4 ft (block by C. McCollum),94,81
+4,4:29.0,Defensive rebound by C. McCollum,,94,81
+4,4:26.0,C. McCollum makes 3-pt jump shot from 26 ft,,97,81
+4,4:16.0,,P. George makes 3-pt jump shot from 23 ft (assist by R. Westbrook),97,84
+4,3:54.0,Turnover by C. McCollum (bad pass; steal by D. Schröder),,97,84
+4,3:48.0,,Personal foul by D. Lillard (drawn by P. George),97,84
+4,3:42.0,,J. Grant misses 3-pt jump shot from 25 ft,97,84
+4,3:38.0,,Offensive rebound by T. Ferguson,97,84
+4,3:37.0,,D. Schröder makes 3-pt jump shot from 25 ft (assist by T. Ferguson),97,87
+4,3:35.0,Portland full timeout,,97,87
+4,3:22.0,D. Lillard misses 2-pt layup from 2 ft,,97,87
+4,3:21.0,,Defensive rebound by J. Grant,97,87
+4,3:14.0,,T. Ferguson misses 3-pt jump shot from 24 ft,97,87
+4,3:11.0,Defensive rebound by E. Freedom,,97,87
+4,3:07.0,Personal foul by J. Grant (drawn by M. Harkless),,97,87
+4,3:07.0,M. Harkless makes free throw 1 of 2,,98,87
+4,3:07.0,M. Harkless makes free throw 2 of 2,,99,87
+4,2:59.0,,D. Schröder makes 2-pt layup from 2 ft,99,89
+4,2:34.0,C. McCollum makes 2-pt jump shot from 11 ft,,101,89
+4,2:24.0,,Shooting foul by M. Harkless (drawn by P. George),101,89
+4,2:24.0,,P. George makes free throw 1 of 2,101,90
+4,2:24.0,,P. George makes free throw 2 of 2,101,91
+4,2:06.0,A. Aminu misses 3-pt jump shot from 23 ft,,101,91
+4,2:02.0,,Defensive rebound by R. Westbrook,101,91
+4,1:55.0,,Shooting foul by M. Harkless (drawn by R. Westbrook),101,91
+4,1:55.0,,R. Westbrook misses free throw 1 of 2,101,91
+4,1:55.0,,Offensive rebound by Team,101,91
+4,1:55.0,,R. Westbrook makes free throw 2 of 2,101,92
+4,1:37.0,D. Lillard misses 2-pt layup from 2 ft,,101,92
+4,1:35.0,,Defensive rebound by P. George,101,92
+4,1:31.0,,J. Grant makes 2-pt dunk from 1 ft (assist by P. George),101,94
+4,1:25.0,Portland full timeout,,101,94
+4,1:18.0,M. Harkless makes 2-pt layup from 1 ft (assist by D. Lillard),,103,94
+4,1:02.0,,R. Westbrook misses 3-pt jump shot from 23 ft,103,94
+4,0:58.0,Defensive rebound by A. Aminu,,103,94
+4,0:47.0,Personal take foul by T. Ferguson (drawn by D. Lillard),,103,94
+4,0:47.0,D. Lillard makes free throw 1 of 2,,104,94
+4,0:47.0,D. Lillard makes free throw 2 of 2,,105,94
+4,0:47.0,,Oklahoma City full timeout,105,94
+4,0:46.0,,Shooting foul by M. Harkless (drawn by P. George),105,94
+4,0:46.0,,P. George makes free throw 1 of 3,105,95
+4,0:46.0,,P. George misses free throw 2 of 3,105,95
+4,0:46.0,,Offensive rebound by Team,105,95
+4,0:46.0,,P. George makes free throw 3 of 3,105,96
+4,0:46.0,S. Curry enters the game for M. Harkless,,105,96
+4,0:43.0,Personal take foul by T. Ferguson (drawn by C. McCollum),,105,96
+4,0:43.0,C. McCollum makes free throw 1 of 2,,106,96
+4,0:43.0,M. Harkless enters the game for S. Curry,,106,96
+4,0:43.0,C. McCollum makes free throw 2 of 2,,107,96
+4,0:41.0,,P. George misses 3-pt jump shot from 25 ft,107,96
+4,0:38.0,Defensive rebound by M. Harkless,,107,96
+4,0:38.0,Personal foul by T. Ferguson (drawn by M. Harkless),,107,96
+4,0:38.0,M. Harkless makes free throw 1 of 2,,108,96
+4,0:38.0,S. Curry enters the game for A. Aminu,,108,96
+4,0:38.0,J. Layman enters the game for D. Lillard,,108,96
+4,0:38.0,A. Simons enters the game for C. McCollum,,108,96
+4,0:38.0,,D. Burton enters the game for P. George,108,96
+4,0:38.0,,A. Nader enters the game for J. Grant,108,96
+4,0:38.0,,N. Noel enters the game for R. Westbrook,108,96
+4,0:38.0,M. Harkless makes free throw 2 of 2,,109,96
+4,0:35.0,,D. Burton misses 3-pt jump shot from 25 ft,109,96
+4,0:32.0,Defensive rebound by Team,,109,96
+4,0:32.0,Z. Collins enters the game for E. Freedom,,109,96
+4,0:21.0,J. Layman makes 2-pt layup from 1 ft (assist by S. Curry),,111,96
+4,0:16.0,,A. Nader makes 2-pt layup from 2 ft,111,98

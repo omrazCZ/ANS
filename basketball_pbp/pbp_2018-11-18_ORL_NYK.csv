@@ -1,0 +1,475 @@
+QUARTER,TIME_REMAINING,NEW YORK_ACTION,ORLANDO_ACTION,NEW YORK_SCORE,ORLANDO_SCORE
+1,11:49.0,,Personal foul by K. Knox (drawn by A. Gordon),0,0
+1,11:40.0,,A. Gordon makes 2-pt dunk from 2 ft (assist by E. Fournier),0,2
+1,11:14.0,T. Hardaway misses 3-pt jump shot from 26 ft,,0,2
+1,11:11.0,,Defensive rebound by W. Iwundu,0,2
+1,11:04.0,,E. Fournier makes 2-pt layup from 1 ft (assist by N. Vučević),0,4
+1,10:54.0,E. Mudiay makes 2-pt jump shot from 17 ft,,2,4
+1,10:37.0,,A. Gordon makes 2-pt layup from 1 ft (assist by N. Vučević),2,6
+1,10:37.0,,Shooting foul by M. Robinson (drawn by A. Gordon),2,6
+1,10:37.0,,A. Gordon makes free throw 1 of 1,2,7
+1,10:27.0,E. Mudiay makes 2-pt layup from 2 ft,,4,7
+1,10:10.0,,Turnover by A. Gordon (bad pass; steal by M. Robinson),4,7
+1,10:05.0,T. Hardaway misses 2-pt layup from 1 ft,,4,7
+1,10:02.0,Offensive rebound by A. Trier,,4,7
+1,9:59.0,T. Hardaway misses 3-pt jump shot from 25 ft,,4,7
+1,9:56.0,,Defensive rebound by N. Vučević,4,7
+1,9:48.0,,A. Gordon makes 2-pt jump shot from 15 ft (assist by D. Augustin),4,9
+1,9:35.0,K. Knox misses 2-pt jump shot from 21 ft,,4,9
+1,9:31.0,Offensive rebound by M. Robinson,,4,9
+1,9:29.0,T. Hardaway misses 3-pt jump shot from 23 ft,,4,9
+1,9:27.0,,Defensive rebound by D. Augustin,4,9
+1,9:23.0,,A. Gordon makes 3-pt jump shot from 26 ft (assist by D. Augustin),4,12
+1,9:17.0,New York full timeout,,4,12
+1,9:07.0,Shooting foul by E. Fournier (drawn by T. Hardaway),,4,12
+1,9:07.0,T. Hardaway makes free throw 1 of 2,,5,12
+1,9:07.0,T. Hardaway makes free throw 2 of 2,,6,12
+1,8:56.0,,Personal foul by K. Knox (drawn by A. Gordon),6,12
+1,8:52.0,,A. Gordon makes 2-pt dunk from 1 ft (assist by W. Iwundu),6,14
+1,8:35.0,A. Trier misses 2-pt layup from 3 ft,,6,14
+1,8:31.0,,Defensive rebound by N. Vučević,6,14
+1,8:26.0,,N. Vučević makes 2-pt jump shot from 17 ft (assist by D. Augustin),6,16
+1,8:10.0,M. Robinson misses 2-pt dunk at rim,,6,16
+1,8:10.0,,Defensive rebound by E. Fournier,6,16
+1,8:10.0,,Technical foul by,6,16
+1,8:10.0,N. Vonleh enters the game for K. Knox,,6,16
+1,8:10.0,,E. Fournier makes technical free throw,6,17
+1,8:10.0,,Personal foul by M. Robinson (drawn by E. Fournier),6,17
+1,8:10.0,E. Freedom enters the game for M. Robinson,,6,17
+1,7:54.0,,A. Gordon makes 2-pt jump shot from 13 ft,6,19
+1,7:43.0,T. Hardaway makes 2-pt layup from 1 ft,,8,19
+1,7:25.0,,A. Gordon makes 3-pt jump shot from 26 ft,8,22
+1,7:12.0,E. Mudiay makes 2-pt jump shot from 13 ft,,10,22
+1,6:59.0,,E. Fournier makes 2-pt layup from 1 ft (assist by N. Vučević),10,24
+1,6:59.0,,Shooting foul by E. Mudiay (drawn by E. Fournier),10,24
+1,6:59.0,,E. Fournier makes free throw 1 of 1,10,25
+1,6:46.0,A. Trier misses 2-pt layup from 3 ft,,10,25
+1,6:42.0,,Defensive rebound by N. Vučević,10,25
+1,6:34.0,,N. Vučević misses 2-pt hook shot from 4 ft,10,25
+1,6:31.0,Defensive rebound by E. Freedom,,10,25
+1,6:24.0,E. Freedom misses 2-pt hook shot from 4 ft,,10,25
+1,6:22.0,,Defensive rebound by D. Augustin,10,25
+1,6:18.0,,A. Gordon misses 3-pt jump shot from 26 ft,10,25
+1,6:14.0,,Offensive rebound by W. Iwundu,10,25
+1,6:12.0,,D. Augustin makes 3-pt jump shot from 23 ft (assist by N. Vučević),10,28
+1,5:59.0,T. Hardaway makes 3-pt jump shot from 27 ft,,13,28
+1,5:49.0,,Personal foul by E. Mudiay (drawn by D. Augustin),13,28
+1,5:49.0,,D. Augustin makes free throw 1 of 2,13,29
+1,5:49.0,T. Burke enters the game for E. Mudiay,,13,29
+1,5:49.0,,D. Augustin makes free throw 2 of 2,13,30
+1,5:34.0,T. Hardaway misses 2-pt jump shot from 6 ft,,13,30
+1,5:29.0,Offensive rebound by E. Freedom,,13,30
+1,5:29.0,E. Freedom misses 2-pt layup from 1 ft,,13,30
+1,5:28.0,,Defensive rebound by E. Fournier,13,30
+1,5:26.0,,Turnover by E. Fournier (bad pass; steal by T. Hardaway),13,30
+1,5:19.0,T. Burke misses 2-pt layup from 1 ft,,13,30
+1,5:14.0,Offensive rebound by E. Freedom,,13,30
+1,5:14.0,E. Freedom makes 2-pt layup from 2 ft,,15,30
+1,5:00.0,,N. Vučević makes 2-pt jump shot from 12 ft (assist by E. Fournier),15,32
+1,4:52.0,T. Burke makes 2-pt jump shot from 19 ft,,17,32
+1,4:30.0,,E. Fournier makes 2-pt layup from 2 ft,17,34
+1,4:18.0,E. Freedom misses 2-pt hook shot from 6 ft,,17,34
+1,4:15.0,Offensive rebound by N. Vonleh,,17,34
+1,4:14.0,A. Trier makes 3-pt jump shot from 26 ft (assist by N. Vonleh),,20,34
+1,4:05.0,,Orlando full timeout,20,34
+1,4:05.0,D. Dotson enters the game for A. Trier,,20,34
+1,4:05.0,,J. Grant enters the game for D. Augustin,20,34
+1,4:05.0,,T. Ross enters the game for W. Iwundu,20,34
+1,3:54.0,,A. Gordon makes 3-pt jump shot from 26 ft,20,37
+1,3:38.0,Shooting foul by E. Fournier (drawn by T. Hardaway),,20,37
+1,3:38.0,T. Hardaway makes free throw 1 of 2,,21,37
+1,3:38.0,,J. Isaac enters the game for E. Fournier,21,37
+1,3:38.0,,J. Simmons enters the game for A. Gordon,21,37
+1,3:38.0,T. Hardaway makes free throw 2 of 2,,22,37
+1,3:38.0,,Violation by Team (delay of game),22,37
+1,3:16.0,,J. Simmons makes 2-pt layup at rim (assist by N. Vučević),22,39
+1,3:06.0,Turnover by T. Burke (lost ball; steal by J. Isaac),,22,39
+1,3:06.0,F. Ntilikina enters the game for T. Hardaway,,22,39
+1,2:51.0,,J. Isaac misses 2-pt layup from 11 ft,22,39
+1,2:50.0,Defensive rebound by N. Vonleh,,22,39
+1,2:39.0,Personal foul by J. Grant (drawn by T. Burke),,22,39
+1,2:39.0,,M. Bamba enters the game for N. Vučević,22,39
+1,2:31.0,T. Burke makes 2-pt layup from 2 ft,,24,39
+1,2:31.0,,Violation by Team (def goaltending),24,39
+1,2:17.0,,Offensive foul by J. Grant (drawn by T. Burke),24,39
+1,2:17.0,,Turnover by J. Grant (offensive foul),24,39
+1,2:04.0,N. Vonleh misses 2-pt hook shot from 3 ft,,24,39
+1,2:04.0,Offensive rebound by E. Freedom,,24,39
+1,2:04.0,Shooting foul by M. Bamba (drawn by E. Freedom),,24,39
+1,2:04.0,E. Freedom makes free throw 1 of 2,,25,39
+1,2:04.0,E. Freedom makes free throw 2 of 2,,26,39
+1,1:46.0,,M. Bamba misses 2-pt jump shot from 19 ft,26,39
+1,1:43.0,Defensive rebound by T. Burke,,26,39
+1,1:38.0,D. Dotson misses 2-pt jump shot from 15 ft,,26,39
+1,1:30.0,Offensive rebound by E. Freedom,,26,39
+1,1:30.0,E. Freedom misses 2-pt layup from 1 ft,,26,39
+1,1:29.0,,Defensive rebound by T. Ross,26,39
+1,1:16.0,,T. Ross makes 3-pt jump shot from 26 ft,26,42
+1,1:01.0,N. Vonleh misses 2-pt hook shot from 3 ft,,26,42
+1,0:59.0,,Defensive rebound by J. Grant,26,42
+1,0:54.0,,J. Grant misses 3-pt jump shot from 26 ft,26,42
+1,0:52.0,,Offensive rebound by Team,26,42
+1,0:48.0,,J. Simmons misses 3-pt jump shot from 26 ft,26,42
+1,0:44.0,Defensive rebound by N. Vonleh,,26,42
+1,0:41.0,Personal foul by J. Simmons (drawn by T. Burke),,26,42
+1,0:41.0,T. Burke makes free throw 1 of 2,,27,42
+1,0:41.0,T. Burke makes free throw 2 of 2,,28,42
+1,0:24.0,,T. Ross misses 3-pt jump shot from 26 ft,28,42
+1,0:19.0,Defensive rebound by N. Vonleh,,28,42
+1,0:17.0,Turnover by N. Vonleh (lost ball; steal by J. Isaac),,28,42
+1,0:15.0,,M. Bamba makes 2-pt jump shot from 1 ft (assist by J. Isaac),28,44
+1,0:04.0,T. Burke makes 2-pt jump shot from 6 ft,,30,44
+1,0:04.0,Shooting foul by J. Grant (drawn by T. Burke),,30,44
+1,0:04.0,T. Hardaway enters the game for E. Freedom,,30,44
+1,0:04.0,,I. Briscoe enters the game for J. Grant,30,44
+1,0:04.0,T. Burke makes free throw 1 of 1,,31,44
+1,0:00.0,,J. Simmons misses 2-pt jump shot from 16 ft (block by N. Vonleh),31,44
+1,0:00.0,Defensive rebound by Team,,31,44
+2,11:44.0,E. Freedom makes 2-pt dunk from 1 ft,,33,44
+2,11:30.0,,T. Ross misses 2-pt jump shot from 14 ft,33,44
+2,11:26.0,Defensive rebound by E. Freedom,,33,44
+2,11:20.0,Turnover by E. Freedom (traveling),,33,44
+2,11:09.0,,Shooting foul by D. Dotson (drawn by J. Simmons),33,44
+2,11:09.0,,J. Simmons makes free throw 1 of 2,33,45
+2,11:09.0,,J. Simmons makes free throw 2 of 2,33,46
+2,11:01.0,T. Burke makes 2-pt jump shot from 12 ft,,35,46
+2,11:01.0,Shooting foul by I. Briscoe (drawn by T. Burke),,35,46
+2,11:01.0,T. Burke makes free throw 1 of 1,,36,46
+2,10:44.0,,M. Bamba misses 2-pt layup from 7 ft,36,46
+2,10:40.0,,Offensive rebound by M. Bamba,36,46
+2,10:39.0,,M. Bamba makes 2-pt layup from 1 ft,36,48
+2,10:24.0,N. Vonleh misses 2-pt jump shot from 8 ft,,36,48
+2,10:21.0,Offensive rebound by E. Freedom,,36,48
+2,10:16.0,E. Freedom makes 2-pt hook shot from 5 ft,,38,48
+2,9:58.0,,M. Bamba misses 3-pt jump shot from 26 ft,38,48
+2,9:58.0,,Offensive rebound by Team,38,48
+2,9:58.0,,Personal foul by N. Vonleh (drawn by J. Isaac),38,48
+2,9:53.0,,J. Isaac makes 2-pt layup from 3 ft (assist by J. Simmons),38,50
+2,9:43.0,D. Dotson makes 2-pt layup from 1 ft (assist by T. Burke),,40,50
+2,9:33.0,,Orlando full timeout,40,50
+2,9:20.0,,Turnover by T. Ross (bad pass; steal by T. Burke),40,50
+2,9:16.0,D. Dotson misses 2-pt layup from 3 ft (block by M. Bamba),,40,50
+2,9:13.0,,Defensive rebound by J. Simmons,40,50
+2,9:10.0,,T. Ross misses 3-pt jump shot from 26 ft,40,50
+2,9:10.0,Defensive rebound by E. Freedom,,40,50
+2,9:02.0,Turnover by E. Freedom (traveling),,40,50
+2,8:47.0,,Personal foul by D. Dotson (drawn by J. Simmons),40,50
+2,8:39.0,,M. Bamba misses 3-pt jump shot from 25 ft,40,50
+2,8:35.0,Defensive rebound by N. Vonleh,,40,50
+2,8:27.0,T. Burke makes 2-pt jump shot from 16 ft,,42,50
+2,8:11.0,,J. Isaac makes 3-pt jump shot from 25 ft (assist by T. Ross),42,53
+2,7:48.0,T. Burke makes 2-pt jump shot from 6 ft,,44,53
+2,7:40.0,,J. Isaac misses 3-pt jump shot from 25 ft,44,53
+2,7:40.0,Defensive rebound by E. Freedom,,44,53
+2,7:29.0,T. Burke misses 2-pt jump shot from 17 ft,,44,53
+2,7:26.0,Offensive rebound by E. Freedom,,44,53
+2,7:25.0,Turnover by E. Freedom (bad pass; steal by J. Simmons),,44,53
+2,7:20.0,,J. Simmons misses 2-pt layup from 3 ft,44,53
+2,7:15.0,Defensive rebound by N. Vonleh,,44,53
+2,7:02.0,Shooting foul by I. Briscoe (drawn by D. Dotson),,44,53
+2,7:02.0,D. Dotson makes free throw 1 of 2,,45,53
+2,7:02.0,T. Hardaway enters the game for F. Ntilikina,,45,53
+2,7:02.0,M. Robinson enters the game for N. Vonleh,,45,53
+2,7:02.0,,E. Fournier enters the game for J. Isaac,45,53
+2,7:02.0,,A. Gordon enters the game for T. Ross,45,53
+2,7:02.0,D. Dotson misses free throw 2 of 2,,45,53
+2,6:58.0,,Defensive rebound by J. Simmons,45,53
+2,6:40.0,,A. Gordon misses 3-pt jump shot from 25 ft,45,53
+2,6:37.0,Defensive rebound by T. Burke,,45,53
+2,6:26.0,T. Burke misses 3-pt jump shot from 27 ft,,45,53
+2,6:24.0,,Defensive rebound by E. Fournier,45,53
+2,6:13.0,,E. Fournier makes 3-pt jump shot from 27 ft (assist by A. Gordon),45,56
+2,6:05.0,New York full timeout,,45,56
+2,6:05.0,K. Knox enters the game for T. Burke,,45,56
+2,6:05.0,E. Mudiay enters the game for D. Dotson,,45,56
+2,6:05.0,,D. Augustin enters the game for I. Briscoe,45,56
+2,5:49.0,E. Freedom makes 2-pt hook shot from 7 ft,,47,56
+2,5:35.0,,A. Gordon makes 2-pt layup from 2 ft (assist by D. Augustin),47,58
+2,5:35.0,,Shooting foul by M. Robinson (drawn by A. Gordon),47,58
+2,5:35.0,,N. Vučević enters the game for M. Bamba,47,58
+2,5:35.0,,A. Gordon misses free throw 1 of 1,47,58
+2,5:35.0,Defensive rebound by E. Freedom,,47,58
+2,5:16.0,T. Hardaway misses 3-pt jump shot from 25 ft,,47,58
+2,5:13.0,Offensive rebound by E. Mudiay,,47,58
+2,5:06.0,Shooting foul by A. Gordon (drawn by E. Mudiay),,47,58
+2,5:06.0,E. Mudiay misses free throw 1 of 2,,47,58
+2,5:06.0,Offensive rebound by Team,,47,58
+2,5:06.0,E. Mudiay makes free throw 2 of 2,,48,58
+2,4:41.0,,D. Augustin misses 2-pt jump shot from 10 ft,48,58
+2,4:39.0,Defensive rebound by E. Freedom,,48,58
+2,4:28.0,K. Knox misses 3-pt jump shot from 24 ft,,48,58
+2,4:22.0,Offensive rebound by M. Robinson,,48,58
+2,4:20.0,T. Hardaway makes 3-pt jump shot from 25 ft (assist by E. Freedom),,51,58
+2,4:01.0,,E. Fournier misses 3-pt jump shot from 25 ft,51,58
+2,3:59.0,Defensive rebound by T. Hardaway,,51,58
+2,3:53.0,E. Freedom makes 2-pt layup from 2 ft (assist by T. Hardaway),,53,58
+2,3:46.0,,Orlando full timeout,53,58
+2,3:46.0,N. Vonleh enters the game for M. Robinson,,53,58
+2,3:39.0,,Turnover by N. Vučević (3 sec),53,58
+2,3:28.0,K. Knox misses 2-pt jump shot from 6 ft,,53,58
+2,3:27.0,Offensive rebound by E. Freedom,,53,58
+2,3:27.0,E. Freedom misses 2-pt layup from 1 ft,,53,58
+2,3:27.0,Offensive rebound by E. Freedom,,53,58
+2,3:25.0,E. Freedom makes 2-pt layup from 1 ft,,55,58
+2,3:09.0,,Shooting foul by E. Freedom (drawn by N. Vučević),55,58
+2,3:09.0,,N. Vučević makes free throw 1 of 2,55,59
+2,3:09.0,,N. Vučević makes free throw 2 of 2,55,60
+2,2:58.0,T. Hardaway misses 2-pt jump shot from 17 ft,,55,60
+2,2:53.0,,Defensive rebound by J. Simmons,55,60
+2,2:47.0,,N. Vučević makes 3-pt jump shot from 26 ft (assist by J. Simmons),55,63
+2,2:33.0,E. Mudiay misses 2-pt jump shot from 15 ft,,55,63
+2,2:32.0,Offensive rebound by Team,,55,63
+2,2:32.0,,Loose ball foul by N. Vučević (drawn by E. Freedom),55,63
+2,2:32.0,M. Robinson enters the game for E. Freedom,,55,63
+2,2:32.0,,T. Ross enters the game for J. Simmons,55,63
+2,2:27.0,Personal foul by D. Augustin (drawn by T. Hardaway),,55,63
+2,2:27.0,,Technical foul by N. Vučević,55,63
+2,2:27.0,T. Hardaway makes technical free throw,,56,63
+2,2:27.0,T. Hardaway makes free throw 1 of 2,,57,63
+2,2:27.0,T. Hardaway makes free throw 2 of 2,,58,63
+2,2:11.0,,Personal foul by M. Robinson (drawn by N. Vučević),58,63
+2,2:11.0,,N. Vučević makes free throw 1 of 2,58,64
+2,2:11.0,E. Freedom enters the game for M. Robinson,,58,64
+2,2:11.0,,N. Vučević makes free throw 2 of 2,58,65
+2,2:02.0,E. Mudiay makes 2-pt layup from 2 ft (assist by T. Hardaway),,60,65
+2,1:48.0,,N. Vučević misses 2-pt layup from 2 ft,60,65
+2,1:46.0,,Offensive rebound by Team,60,65
+2,1:30.0,,A. Gordon misses 3-pt jump shot from 26 ft,60,65
+2,1:27.0,Defensive rebound by E. Freedom,,60,65
+2,1:20.0,Turnover by N. Vonleh (3 sec),,60,65
+2,1:20.0,,J. Simmons enters the game for E. Fournier,60,65
+2,1:04.0,,N. Vučević misses 2-pt hook shot from 5 ft (block by E. Freedom),60,65
+2,1:01.0,,Offensive rebound by N. Vučević,60,65
+2,0:58.0,,A. Gordon makes 2-pt dunk at rim (assist by N. Vučević),60,67
+2,0:50.0,T. Hardaway makes 2-pt layup from 3 ft,,62,67
+2,0:50.0,Shooting foul by T. Ross (drawn by T. Hardaway),,62,67
+2,0:50.0,F. Ntilikina enters the game for E. Freedom,,62,67
+2,0:50.0,T. Hardaway makes free throw 1 of 1,,63,67
+2,0:36.0,,J. Simmons misses 3-pt jump shot from 25 ft,63,67
+2,0:33.0,Defensive rebound by F. Ntilikina,,63,67
+2,0:27.0,N. Vonleh makes 3-pt jump shot from 26 ft (assist by E. Mudiay),,66,67
+2,0:04.0,,Turnover by N. Vučević (3 sec),66,67
+3,11:48.0,K. Knox misses 3-pt jump shot from 26 ft,,66,67
+3,11:46.0,,Defensive rebound by Team,66,67
+3,11:31.0,,E. Fournier makes 2-pt layup from 2 ft,66,69
+3,11:18.0,E. Freedom misses 3-pt jump shot from 26 ft,,66,69
+3,11:15.0,,Defensive rebound by N. Vučević,66,69
+3,11:07.0,,D. Augustin makes 2-pt jump shot from 17 ft,66,71
+3,10:56.0,Turnover by K. Knox (traveling),,66,71
+3,10:39.0,,N. Vučević makes 2-pt hook shot from 8 ft,66,73
+3,10:38.0,New York full timeout,,66,73
+3,10:26.0,T. Hardaway makes 2-pt dunk from 2 ft,,68,73
+3,10:09.0,,A. Gordon misses 3-pt jump shot from 23 ft,68,73
+3,10:07.0,,Offensive rebound by Team,68,73
+3,9:59.0,,N. Vučević makes 2-pt jump shot from 16 ft (assist by E. Fournier),68,75
+3,9:44.0,T. Hardaway makes 3-pt jump shot from 26 ft,,71,75
+3,9:22.0,,N. Vučević misses 3-pt jump shot from 25 ft,71,75
+3,9:20.0,Defensive rebound by K. Knox,,71,75
+3,9:09.0,K. Knox misses 2-pt jump shot from 22 ft,,71,75
+3,9:07.0,Offensive rebound by N. Vonleh,,71,75
+3,9:04.0,E. Freedom misses 2-pt jump shot from 13 ft,,71,75
+3,9:00.0,Offensive rebound by K. Knox,,71,75
+3,8:58.0,K. Knox makes 2-pt layup from 3 ft,,73,75
+3,8:44.0,,Offensive foul by A. Gordon (drawn by E. Mudiay),73,75
+3,8:44.0,,Turnover by A. Gordon (offensive foul),73,75
+3,8:30.0,E. Mudiay misses 3-pt jump shot from 26 ft,,73,75
+3,8:26.0,,Defensive rebound by A. Gordon,73,75
+3,8:21.0,,E. Fournier makes 2-pt layup from 2 ft (assist by A. Gordon),73,77
+3,8:05.0,E. Freedom misses 2-pt hook shot from 5 ft (block by N. Vučević),,73,77
+3,8:02.0,,Defensive rebound by E. Fournier,73,77
+3,7:58.0,,D. Augustin makes 3-pt jump shot from 25 ft (assist by E. Fournier),73,80
+3,7:49.0,Offensive foul by E. Mudiay (drawn by D. Augustin),,73,80
+3,7:49.0,Turnover by E. Mudiay (offensive foul),,73,80
+3,7:38.0,,E. Fournier makes 3-pt jump shot from 25 ft (assist by N. Vučević),73,83
+3,7:18.0,K. Knox makes 2-pt layup from 1 ft (assist by E. Mudiay),,75,83
+3,7:09.0,,A. Gordon makes 2-pt dunk from 2 ft (assist by W. Iwundu),75,85
+3,6:57.0,Turnover by E. Mudiay (lost ball; steal by E. Fournier),,75,85
+3,6:55.0,,Shooting foul by T. Hardaway (drawn by W. Iwundu),75,85
+3,6:55.0,,W. Iwundu makes free throw 1 of 2,75,86
+3,6:55.0,T. Burke enters the game for E. Mudiay,,75,86
+3,6:55.0,,W. Iwundu makes free throw 2 of 2,75,87
+3,6:32.0,N. Vonleh makes 2-pt layup from 2 ft,,77,87
+3,6:17.0,,Turnover by N. Vučević (traveling),77,87
+3,6:09.0,T. Burke misses 3-pt jump shot from 27 ft,,77,87
+3,6:05.0,,Defensive rebound by N. Vučević,77,87
+3,5:55.0,,A. Gordon makes 2-pt layup from 3 ft (assist by E. Fournier),77,89
+3,5:44.0,Turnover by T. Burke (bad pass),,77,89
+3,5:44.0,F. Ntilikina enters the game for K. Knox,,77,89
+3,5:31.0,,E. Fournier misses 3-pt jump shot from 26 ft,77,89
+3,5:29.0,Defensive rebound by E. Freedom,,77,89
+3,5:21.0,Personal foul by D. Augustin (drawn by N. Vonleh),,77,89
+3,5:15.0,T. Burke makes 2-pt jump shot from 21 ft (assist by E. Freedom),,79,89
+3,5:03.0,,Turnover by D. Augustin (bad pass; steal by T. Hardaway),79,89
+3,5:00.0,T. Hardaway makes 2-pt dunk from 1 ft,,81,89
+3,4:35.0,,Offensive foul by A. Gordon (drawn by N. Vonleh),81,89
+3,4:35.0,,Turnover by A. Gordon (offensive foul),81,89
+3,4:35.0,M. Robinson enters the game for E. Freedom,,81,89
+3,4:35.0,,I. Briscoe enters the game for D. Augustin,81,89
+3,4:35.0,,T. Ross enters the game for W. Iwundu,81,89
+3,4:26.0,Shooting foul by I. Briscoe (drawn by T. Burke),,81,89
+3,4:26.0,T. Burke makes free throw 1 of 2,,82,89
+3,4:26.0,T. Burke makes free throw 2 of 2,,83,89
+3,4:05.0,,Turnover by A. Gordon (lost ball; steal by T. Hardaway),83,89
+3,3:45.0,T. Burke makes 2-pt jump shot from 5 ft,,85,89
+3,3:45.0,,J. Isaac enters the game for E. Fournier,85,89
+3,3:45.0,,J. Simmons enters the game for A. Gordon,85,89
+3,3:20.0,,Personal foul by M. Robinson (drawn by N. Vučević),85,89
+3,3:20.0,D. Dotson enters the game for M. Robinson,,85,89
+3,3:13.0,,Personal foul by T. Hardaway (drawn by J. Isaac),85,89
+3,2:59.0,,T. Ross misses 2-pt jump shot from 22 ft,85,89
+3,2:58.0,,Offensive rebound by N. Vučević,85,89
+3,2:56.0,,N. Vučević makes 2-pt layup from 3 ft,85,91
+3,2:47.0,T. Hardaway makes 3-pt jump shot from 25 ft (assist by F. Ntilikina),,88,91
+3,2:27.0,,J. Simmons makes 2-pt layup from 1 ft (assist by N. Vučević),88,93
+3,2:27.0,,Shooting foul by F. Ntilikina (drawn by J. Simmons),88,93
+3,2:27.0,,Orlando full timeout,88,93
+3,2:27.0,,J. Simmons makes free throw 1 of 1,88,94
+3,2:14.0,Shooting foul by J. Isaac (drawn by N. Vonleh),,88,94
+3,2:14.0,N. Vonleh makes free throw 1 of 2,,89,94
+3,2:14.0,,M. Bamba enters the game for N. Vučević,89,94
+3,2:14.0,N. Vonleh makes free throw 2 of 2,,90,94
+3,2:01.0,,T. Ross misses 3-pt jump shot from 26 ft,90,94
+3,2:00.0,,Offensive rebound by J. Isaac,90,94
+3,2:00.0,,J. Isaac makes 2-pt layup from 1 ft,90,96
+3,2:00.0,,Shooting foul by N. Vonleh (drawn by J. Isaac),90,96
+3,2:00.0,,J. Isaac misses free throw 1 of 1,90,96
+3,2:00.0,Defensive rebound by N. Vonleh,,90,96
+3,2:00.0,T. Burke misses 3-pt jump shot from 25 ft,,90,96
+3,1:39.0,,Defensive rebound by T. Ross,90,96
+3,1:27.0,,J. Isaac makes 2-pt layup from 2 ft (assist by M. Bamba),90,98
+3,1:17.0,Turnover by D. Dotson (out of bounds lost ball),,90,98
+3,1:17.0,E. Freedom enters the game for D. Dotson,,90,98
+3,1:17.0,A. Trier enters the game for N. Vonleh,,90,98
+3,0:55.0,,J. Simmons misses 2-pt jump shot from 9 ft,90,98
+3,0:53.0,Defensive rebound by E. Freedom,,90,98
+3,0:49.0,A. Trier misses 2-pt layup from 5 ft (block by J. Isaac),,90,98
+3,0:45.0,,Defensive rebound by T. Ross,90,98
+3,0:38.0,,Turnover by M. Bamba (bad pass; steal by T. Burke),90,98
+3,0:34.0,Shooting foul by J. Simmons (drawn by A. Trier),,90,98
+3,0:34.0,A. Trier makes free throw 1 of 2,,91,98
+3,0:34.0,K. Knox enters the game for T. Hardaway,,91,98
+3,0:34.0,A. Trier makes free throw 2 of 2,,92,98
+3,0:15.0,,T. Ross misses 2-pt jump shot from 19 ft,92,98
+3,0:12.0,Defensive rebound by F. Ntilikina,,92,98
+3,0:03.0,Offensive foul by T. Burke (drawn by I. Briscoe),,92,98
+3,0:03.0,Turnover by T. Burke (offensive foul),,92,98
+3,0:00.0,,T. Ross misses 3-pt jump shot from 25 ft,92,98
+3,0:00.0,,Offensive rebound by Team,92,98
+4,12:00.0,,Turnover by (5 sec),92,98
+4,11:46.0,Offensive foul by E. Freedom (drawn by M. Bamba),,92,98
+4,11:46.0,Turnover by E. Freedom (offensive foul),,92,98
+4,11:32.0,,J. Simmons makes 2-pt layup from 2 ft (assist by J. Isaac),92,100
+4,11:15.0,Shooting foul by M. Bamba (drawn by E. Freedom),,92,100
+4,11:15.0,E. Freedom makes free throw 1 of 2,,93,100
+4,11:15.0,E. Freedom makes free throw 2 of 2,,94,100
+4,10:55.0,,J. Isaac misses 3-pt jump shot from 26 ft,94,100
+4,10:52.0,Defensive rebound by E. Freedom,,94,100
+4,10:38.0,T. Burke makes 3-pt jump shot from 27 ft,,97,100
+4,10:21.0,,T. Ross misses 3-pt jump shot from 25 ft,97,100
+4,10:21.0,Defensive rebound by A. Trier,,97,100
+4,10:03.0,T. Burke misses 3-pt jump shot from 25 ft,,97,100
+4,10:02.0,,Defensive rebound by Team,97,100
+4,9:39.0,,T. Ross misses 2-pt jump shot from 9 ft,97,100
+4,9:39.0,,Offensive rebound by Team,97,100
+4,9:33.0,,T. Ross makes 2-pt jump shot from 19 ft,97,102
+4,9:19.0,T. Burke misses 2-pt jump shot from 19 ft,,97,102
+4,9:16.0,,Defensive rebound by M. Bamba,97,102
+4,9:00.0,,J. Simmons misses 2-pt jump shot from 16 ft,97,102
+4,8:56.0,Defensive rebound by E. Freedom,,97,102
+4,8:49.0,A. Trier makes 2-pt jump shot from 17 ft,,99,102
+4,8:31.0,,Shooting foul by K. Knox (drawn by J. Isaac),99,102
+4,8:31.0,,J. Isaac makes free throw 1 of 2,99,103
+4,8:31.0,T. Hardaway enters the game for A. Trier,,99,103
+4,8:31.0,,J. Isaac makes free throw 2 of 2,99,104
+4,8:17.0,K. Knox misses 3-pt jump shot from 26 ft,,99,104
+4,8:14.0,,Defensive rebound by I. Briscoe,99,104
+4,8:06.0,,T. Ross makes 3-pt jump shot from 25 ft (assist by I. Briscoe),99,107
+4,8:06.0,New York full timeout,,99,107
+4,7:50.0,E. Freedom makes 2-pt layup from 2 ft,,101,107
+4,7:50.0,Shooting foul by M. Bamba (drawn by E. Freedom),,101,107
+4,7:50.0,E. Freedom makes free throw 1 of 1,,102,107
+4,7:34.0,,T. Ross makes 2-pt jump shot from 14 ft (assist by J. Isaac),102,109
+4,7:09.0,T. Burke misses 3-pt jump shot from 26 ft,,102,109
+4,7:05.0,,Defensive rebound by T. Ross,102,109
+4,6:55.0,,J. Isaac makes 2-pt layup from 3 ft (assist by M. Bamba),102,111
+4,6:55.0,,Shooting foul by E. Freedom (drawn by J. Isaac),102,111
+4,6:55.0,E. Mudiay enters the game for T. Burke,,102,111
+4,6:55.0,N. Vonleh enters the game for K. Knox,,102,111
+4,6:55.0,,E. Fournier enters the game for M. Bamba,102,111
+4,6:55.0,,N. Vučević enters the game for J. Simmons,102,111
+4,6:55.0,,J. Isaac makes free throw 1 of 1,102,112
+4,6:38.0,E. Freedom makes 2-pt hook shot from 6 ft (assist by F. Ntilikina),,104,112
+4,6:18.0,,Turnover by E. Fournier (bad pass; steal by F. Ntilikina),104,112
+4,6:14.0,F. Ntilikina misses 2-pt layup from 4 ft (block by T. Ross),,104,112
+4,6:14.0,Offensive rebound by Team,,104,112
+4,6:14.0,,D. Augustin enters the game for I. Briscoe,104,112
+4,6:09.0,T. Hardaway misses 3-pt jump shot from 26 ft,,104,112
+4,6:04.0,,Defensive rebound by J. Isaac,104,112
+4,5:47.0,,N. Vučević makes 2-pt hook shot from 5 ft (assist by E. Fournier),104,114
+4,5:37.0,T. Hardaway misses 2-pt layup from 3 ft (block by N. Vučević),,104,114
+4,5:33.0,,Defensive rebound by J. Isaac,104,114
+4,5:27.0,,J. Isaac makes 2-pt dunk from 2 ft (assist by D. Augustin),104,116
+4,5:27.0,New York full timeout,,104,116
+4,5:27.0,T. Burke enters the game for F. Ntilikina,,104,116
+4,5:27.0,,A. Gordon enters the game for T. Ross,104,116
+4,5:21.0,Def 3 sec tech foul by Team,,104,116
+4,5:21.0,T. Hardaway makes technical free throw,,105,116
+4,5:13.0,E. Mudiay makes 2-pt jump shot from 15 ft (assist by E. Freedom),,107,116
+4,4:53.0,,Turnover by E. Fournier (out of bounds lost ball),107,116
+4,4:40.0,T. Hardaway misses 2-pt jump shot from 5 ft (block by E. Fournier),,107,116
+4,4:35.0,Offensive rebound by T. Hardaway,,107,116
+4,4:34.0,T. Hardaway misses 2-pt jump shot from 13 ft,,107,116
+4,4:31.0,Offensive rebound by T. Burke,,107,116
+4,4:30.0,T. Burke makes 2-pt jump shot from 12 ft,,109,116
+4,4:21.0,,Offensive foul by D. Augustin (drawn by T. Burke),109,116
+4,4:21.0,,Turnover by D. Augustin (offensive foul),109,116
+4,4:21.0,,Technical foul by D. Augustin,109,116
+4,4:21.0,T. Hardaway misses technical free throw,,109,116
+4,4:21.0,Offensive rebound by Team,,109,116
+4,4:15.0,T. Burke makes 2-pt layup from 3 ft,,111,116
+4,4:03.0,,N. Vučević makes 3-pt jump shot from 25 ft (assist by D. Augustin),111,119
+4,3:47.0,Shooting foul by N. Vučević (drawn by E. Mudiay),,111,119
+4,3:47.0,E. Mudiay misses free throw 1 of 2,,111,119
+4,3:47.0,Offensive rebound by Team,,111,119
+4,3:47.0,E. Mudiay makes free throw 2 of 2,,112,119
+4,3:31.0,,A. Gordon makes 3-pt jump shot from 25 ft (assist by N. Vučević),112,122
+4,3:13.0,Personal foul by E. Fournier (drawn by T. Hardaway),,112,122
+4,3:11.0,Personal foul by D. Augustin (drawn by T. Burke),,112,122
+4,3:11.0,T. Burke makes free throw 1 of 2,,113,122
+4,3:11.0,F. Ntilikina enters the game for E. Freedom,,113,122
+4,3:11.0,T. Burke makes free throw 2 of 2,,114,122
+4,2:57.0,,Personal foul by N. Vonleh (drawn by N. Vučević),114,122
+4,2:51.0,,Shooting foul by F. Ntilikina (drawn by N. Vučević),114,122
+4,2:51.0,,N. Vučević makes free throw 1 of 2,114,123
+4,2:51.0,E. Freedom enters the game for F. Ntilikina,,114,123
+4,2:51.0,,N. Vučević makes free throw 2 of 2,114,124
+4,2:29.0,E. Mudiay misses 2-pt jump shot from 12 ft,,114,124
+4,2:25.0,,Defensive rebound by J. Isaac,114,124
+4,2:05.0,,E. Fournier misses 2-pt jump shot from 14 ft,114,124
+4,2:01.0,,Offensive rebound by N. Vučević,114,124
+4,2:01.0,,N. Vučević misses 2-pt layup from 3 ft,114,124
+4,1:58.0,,Offensive rebound by N. Vučević,114,124
+4,1:58.0,,N. Vučević makes 2-pt layup from 1 ft,114,126
+4,1:53.0,T. Burke misses 3-pt jump shot from 29 ft,,114,126
+4,1:51.0,,Defensive rebound by D. Augustin,114,126
+4,1:40.0,Violation by Team (kicked ball),,114,126
+4,1:36.0,,Shooting foul by N. Vonleh (drawn by E. Fournier),114,126
+4,1:36.0,D. Dotson enters the game for E. Freedom,,114,126
+4,1:36.0,K. Knox enters the game for E. Mudiay,,114,126
+4,1:36.0,,E. Fournier makes free throw 1 of 2,114,127
+4,1:36.0,,E. Fournier misses free throw 2 of 2,114,127
+4,1:31.0,Defensive rebound by N. Vonleh,,114,127
+4,1:21.0,Turnover by T. Hardaway (bad pass; steal by A. Gordon),,114,127
+4,1:04.0,,N. Vučević makes 2-pt hook shot from 3 ft (assist by D. Augustin),114,129
+4,0:57.0,T. Hardaway makes 3-pt jump shot from 28 ft (assist by T. Burke),,117,129
+4,0:35.0,,Shooting foul by T. Burke (drawn by D. Augustin),117,129
+4,0:35.0,,D. Augustin misses free throw 1 of 3,117,129
+4,0:35.0,,Offensive rebound by Team,117,129
+4,0:35.0,,D. Augustin makes free throw 2 of 3,117,130
+4,0:35.0,,D. Augustin makes free throw 3 of 3,117,131
+4,0:31.0,Personal foul by D. Augustin (drawn by T. Burke),,117,131
+4,0:31.0,T. Burke misses free throw 1 of 2,,117,131
+4,0:31.0,Offensive rebound by Team,,117,131
+4,0:31.0,T. Burke misses free throw 2 of 2,,117,131
+4,0:29.0,,Defensive rebound by N. Vučević,117,131
+4,0:07.0,,Turnover by Team (shot clock),117,131

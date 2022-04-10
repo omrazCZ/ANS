@@ -1,0 +1,457 @@
+QUARTER,TIME_REMAINING,NEW YORK_ACTION,DALLAS_ACTION,NEW YORK_SCORE,DALLAS_SCORE
+1,11:47.0,,Personal foul by F. Ntilikina (drawn by H. Barnes),0,0
+1,11:35.0,,H. Barnes misses 2-pt jump shot from 22 ft,0,0
+1,11:32.0,Defensive rebound by T. Hardaway,,0,0
+1,11:17.0,F. Ntilikina misses 3-pt jump shot from 23 ft,,0,0
+1,11:14.0,,Defensive rebound by D. Jordan,0,0
+1,11:09.0,,D. Smith misses 2-pt layup from 2 ft,0,0
+1,11:08.0,,Offensive rebound by D. Smith,0,0
+1,11:08.0,,D. Smith makes 2-pt layup from 1 ft,0,2
+1,11:08.0,,Shooting foul by N. Vonleh (drawn by D. Smith),0,2
+1,11:08.0,,D. Smith misses free throw 1 of 1,0,2
+1,11:08.0,Defensive rebound by T. Hardaway,,0,2
+1,10:56.0,N. Vonleh misses 3-pt jump shot from 25 ft,,0,2
+1,10:53.0,,Defensive rebound by H. Barnes,0,2
+1,10:48.0,,Turnover by D. Smith (bad pass; steal by M. Robinson),0,2
+1,10:43.0,D. Dotson misses 2-pt layup from 1 ft,,0,2
+1,10:41.0,Offensive rebound by M. Robinson,,0,2
+1,10:40.0,M. Robinson makes 2-pt dunk at rim,,2,2
+1,10:35.0,,Personal foul by T. Hardaway (drawn by W. Matthews),2,2
+1,10:25.0,,H. Barnes misses 3-pt jump shot from 23 ft,2,2
+1,10:24.0,,Offensive rebound by Team,2,2
+1,10:24.0,,Personal foul by N. Vonleh (drawn by D. Jordan),2,2
+1,10:12.0,,D. Jordan makes 2-pt jump shot from 4 ft (assist by L. Dončić),2,4
+1,9:55.0,N. Vonleh makes 2-pt hook shot from 9 ft,,4,4
+1,9:55.0,,Violation by Team (def goaltending),4,4
+1,9:46.0,,D. Smith misses 3-pt jump shot from 25 ft,4,4
+1,9:42.0,Defensive rebound by D. Dotson,,4,4
+1,9:34.0,T. Hardaway misses 2-pt jump shot from 16 ft,,4,4
+1,9:32.0,,Defensive rebound by L. Dončić,4,4
+1,9:23.0,,L. Dončić misses 3-pt jump shot from 27 ft,4,4
+1,9:19.0,Defensive rebound by M. Robinson,,4,4
+1,9:08.0,F. Ntilikina misses 2-pt jump shot from 21 ft,,4,4
+1,9:04.0,Offensive rebound by D. Dotson,,4,4
+1,9:01.0,D. Dotson makes 2-pt jump shot from 14 ft,,6,4
+1,8:41.0,,Turnover by W. Matthews (bad pass; steal by T. Hardaway),6,4
+1,8:35.0,D. Dotson misses 3-pt jump shot from 24 ft,,6,4
+1,8:33.0,Offensive rebound by M. Robinson,,6,4
+1,8:31.0,M. Robinson makes 2-pt layup from 1 ft,,8,4
+1,8:14.0,,Turnover by H. Barnes (bad pass; steal by D. Dotson),8,4
+1,8:10.0,Turnover by D. Dotson (bad pass; steal by L. Dončić),,8,4
+1,7:50.0,,D. Smith makes 2-pt layup from 1 ft,8,6
+1,7:40.0,T. Hardaway misses 3-pt jump shot from 27 ft,,8,6
+1,7:37.0,,Defensive rebound by W. Matthews,8,6
+1,7:33.0,,W. Matthews misses 3-pt jump shot from 26 ft,8,6
+1,7:28.0,Defensive rebound by N. Vonleh,,8,6
+1,7:19.0,D. Dotson makes 3-pt jump shot from 27 ft (assist by F. Ntilikina),,11,6
+1,7:18.0,,Dallas full timeout,11,6
+1,7:18.0,L. Thomas enters the game for N. Vonleh,,11,6
+1,7:18.0,,D. Finney-Smith enters the game for W. Matthews,11,6
+1,7:09.0,,Shooting foul by L. Thomas (drawn by H. Barnes),11,6
+1,7:09.0,,H. Barnes makes free throw 1 of 2,11,7
+1,7:09.0,,H. Barnes misses free throw 2 of 2,11,7
+1,7:06.0,Defensive rebound by T. Hardaway,,11,7
+1,6:57.0,F. Ntilikina misses 2-pt layup from 1 ft,,11,7
+1,6:56.0,,Defensive rebound by D. Jordan,11,7
+1,6:56.0,,J. Barea enters the game for D. Smith,11,7
+1,6:39.0,,D. Jordan misses 2-pt dunk from 3 ft,11,7
+1,6:38.0,Defensive rebound by L. Thomas,,11,7
+1,6:28.0,F. Ntilikina makes 2-pt jump shot from 10 ft,,13,7
+1,6:28.0,Shooting foul by L. Dončić (drawn by F. Ntilikina),,13,7
+1,6:28.0,F. Ntilikina makes free throw 1 of 1,,14,7
+1,6:16.0,,H. Barnes misses 3-pt jump shot from 25 ft,14,7
+1,6:16.0,Defensive rebound by Team,,14,7
+1,6:02.0,T. Hardaway makes 3-pt jump shot from 26 ft (assist by D. Dotson),,17,7
+1,5:40.0,,D. Jordan misses 2-pt hook shot from 2 ft,17,7
+1,5:38.0,,Offensive rebound by D. Finney-Smith,17,7
+1,5:37.0,,D. Finney-Smith makes 2-pt dunk from 1 ft,17,9
+1,5:23.0,L. Thomas makes 2-pt hook shot from 4 ft (assist by F. Ntilikina),,19,9
+1,5:10.0,,D. Finney-Smith makes 3-pt jump shot from 26 ft (assist by J. Barea),19,12
+1,4:53.0,D. Dotson makes 2-pt layup at rim (assist by F. Ntilikina),,21,12
+1,4:43.0,,H. Barnes makes 3-pt jump shot from 26 ft (assist by J. Barea),21,15
+1,4:29.0,F. Ntilikina makes 2-pt jump shot from 15 ft,,23,15
+1,4:14.0,,J. Barea makes 2-pt jump shot from 11 ft,23,17
+1,4:04.0,D. Dotson misses 2-pt layup from 1 ft,,23,17
+1,4:03.0,,Defensive rebound by D. Jordan,23,17
+1,3:58.0,,H. Barnes makes 2-pt jump shot from 3 ft (assist by J. Barea),23,19
+1,3:58.0,,Shooting foul by L. Thomas (drawn by H. Barnes),23,19
+1,3:58.0,E. Freedom enters the game for T. Hardaway,,23,19
+1,3:58.0,E. Mudiay enters the game for F. Ntilikina,,23,19
+1,3:58.0,A. Trier enters the game for M. Robinson,,23,19
+1,3:58.0,,W. Matthews enters the game for L. Dončić,23,19
+1,3:58.0,,D. Powell enters the game for D. Jordan,23,19
+1,3:58.0,,H. Barnes makes free throw 1 of 1,23,20
+1,3:34.0,E. Freedom makes 2-pt layup at rim (assist by A. Trier),,25,20
+1,3:18.0,,Turnover by J. Barea (bad pass; steal by L. Thomas),25,20
+1,3:11.0,A. Trier makes 2-pt layup from 1 ft,,27,20
+1,3:11.0,Shooting foul by D. Powell (drawn by A. Trier),,27,20
+1,3:11.0,A. Trier misses free throw 1 of 1,,27,20
+1,3:09.0,Offensive rebound by A. Trier,,27,20
+1,3:03.0,Personal foul by D. Finney-Smith (drawn by E. Freedom),,27,20
+1,2:50.0,E. Freedom makes 2-pt jump shot from 7 ft (assist by L. Thomas),,29,20
+1,2:44.0,,Personal foul by L. Thomas (drawn by H. Barnes),29,20
+1,2:44.0,New York full timeout,,29,20
+1,2:44.0,T. Burke enters the game for D. Dotson,,29,20
+1,2:44.0,,H. Barnes makes free throw 1 of 2,29,21
+1,2:44.0,,H. Barnes makes free throw 2 of 2,29,22
+1,2:32.0,E. Freedom misses 2-pt jump shot from 7 ft (block by D. Powell),,29,22
+1,2:30.0,,Defensive rebound by D. Powell,29,22
+1,2:19.0,,D. Finney-Smith makes 2-pt jump shot from 1 ft (assist by H. Barnes),29,24
+1,2:01.0,Offensive foul by E. Mudiay (drawn by J. Barea),,29,24
+1,2:01.0,Turnover by E. Mudiay (offensive foul),,29,24
+1,1:50.0,,Turnover by J. Barea (bad pass; steal by E. Mudiay),29,24
+1,1:44.0,L. Thomas misses 3-pt jump shot from 25 ft,,29,24
+1,1:40.0,,Defensive rebound by W. Matthews,29,24
+1,1:36.0,,D. Finney-Smith makes 3-pt jump shot from 25 ft (assist by W. Matthews),29,27
+1,1:29.0,New York full timeout,,29,27
+1,1:29.0,,M. Kleber enters the game for H. Barnes,29,27
+1,1:14.0,T. Burke makes 2-pt jump shot from 22 ft,,31,27
+1,1:01.0,,J. Barea misses 2-pt layup from 2 ft,31,27
+1,0:59.0,Defensive rebound by T. Burke,,31,27
+1,0:50.0,E. Freedom makes 2-pt layup at rim (assist by E. Mudiay),,33,27
+1,0:32.0,,M. Kleber misses 3-pt jump shot from 23 ft,33,27
+1,0:29.0,,Offensive rebound by D. Finney-Smith,33,27
+1,0:20.0,,J. Barea misses 2-pt jump shot from 9 ft,33,27
+1,0:18.0,Defensive rebound by E. Mudiay,,33,27
+1,0:06.0,Personal foul by W. Matthews (drawn by A. Trier),,33,27
+1,0:06.0,,D. Smith enters the game for J. Barea,33,27
+1,0:00.0,Turnover by A. Trier (bad pass),,33,27
+1,0:00.0,,W. Matthews misses 2-pt jump shot from 18 ft,33,27
+1,0:00.0,,Offensive rebound by Team,33,27
+2,11:41.0,T. Burke misses 2-pt jump shot from 14 ft,,33,27
+2,11:38.0,,Defensive rebound by D. Powell,33,27
+2,11:28.0,,Shooting foul by L. Thomas (drawn by D. Smith),33,27
+2,11:28.0,,D. Smith makes free throw 1 of 2,33,28
+2,11:28.0,M. Hezonja enters the game for L. Thomas,,33,28
+2,11:28.0,,D. Smith makes free throw 2 of 2,33,29
+2,11:18.0,Personal foul by W. Matthews (drawn by A. Trier),,33,29
+2,11:12.0,A. Trier misses 3-pt jump shot from 25 ft,,33,29
+2,11:08.0,,Defensive rebound by M. Kleber,33,29
+2,11:03.0,,Turnover by D. Smith (bad pass; steal by E. Mudiay),33,29
+2,10:57.0,E. Mudiay misses 3-pt jump shot from 23 ft,,33,29
+2,10:53.0,,Defensive rebound by J. Brunson,33,29
+2,10:49.0,,Shooting foul by M. Hezonja (drawn by W. Matthews),33,29
+2,10:49.0,,W. Matthews makes free throw 1 of 2,33,30
+2,10:49.0,,W. Matthews makes free throw 2 of 2,33,31
+2,10:36.0,M. Hezonja makes 2-pt hook shot from 3 ft (assist by E. Mudiay),,35,31
+2,10:15.0,,M. Kleber misses 3-pt jump shot from 24 ft,35,31
+2,10:13.0,,Offensive rebound by M. Kleber,35,31
+2,10:11.0,,M. Kleber makes 2-pt jump shot from 10 ft,35,33
+2,9:51.0,A. Trier makes 2-pt jump shot from 7 ft (assist by T. Burke),,37,33
+2,9:31.0,,M. Kleber makes 2-pt jump shot from 8 ft,37,35
+2,9:16.0,Turnover by A. Trier (lost ball; steal by W. Matthews),,37,35
+2,8:57.0,,D. Smith makes 3-pt jump shot from 27 ft (assist by W. Matthews),37,38
+2,8:42.0,T. Burke misses 3-pt jump shot from 25 ft,,37,38
+2,8:39.0,Offensive rebound by E. Mudiay,,37,38
+2,8:33.0,M. Hezonja makes 2-pt layup from 2 ft (assist by E. Freedom),,39,38
+2,8:33.0,,Dallas full timeout,39,38
+2,8:33.0,F. Ntilikina enters the game for E. Mudiay,,39,38
+2,8:33.0,,L. Dončić enters the game for J. Brunson,39,38
+2,8:33.0,,D. Finney-Smith enters the game for W. Matthews,39,38
+2,8:21.0,,D. Powell makes 2-pt layup from 1 ft (assist by L. Dončić),39,40
+2,8:05.0,M. Hezonja makes 2-pt hook shot from 2 ft (assist by T. Burke),,41,40
+2,7:54.0,,Offensive foul by M. Kleber (drawn by E. Freedom),41,40
+2,7:54.0,,Turnover by M. Kleber (offensive foul),41,40
+2,7:54.0,T. Hardaway enters the game for T. Burke,,41,40
+2,7:37.0,Turnover by E. Freedom (lost ball; steal by D. Powell),,41,40
+2,7:31.0,,D. Smith misses 2-pt layup from 2 ft (block by F. Ntilikina),41,40
+2,7:31.0,,Offensive rebound by Team,41,40
+2,7:31.0,D. Dotson enters the game for A. Trier,,41,40
+2,7:24.0,,D. Powell makes 3-pt jump shot from 26 ft (assist by L. Dončić),41,43
+2,7:06.0,M. Hezonja makes 3-pt jump shot from 26 ft (assist by T. Hardaway),,44,43
+2,6:46.0,,D. Powell misses 3-pt jump shot from 25 ft,44,43
+2,6:43.0,Defensive rebound by T. Hardaway,,44,43
+2,6:38.0,D. Dotson misses 3-pt jump shot from 25 ft,,44,43
+2,6:34.0,,Defensive rebound by L. Dončić,44,43
+2,6:27.0,,D. Finney-Smith misses 2-pt jump shot from 15 ft,44,43
+2,6:25.0,Defensive rebound by M. Hezonja,,44,43
+2,6:21.0,M. Hezonja makes 2-pt jump shot from 5 ft,,46,43
+2,6:21.0,Shooting foul by M. Kleber (drawn by M. Hezonja),,46,43
+2,6:21.0,M. Robinson enters the game for E. Freedom,,46,43
+2,6:21.0,,H. Barnes enters the game for M. Kleber,46,43
+2,6:21.0,,D. Jordan enters the game for D. Powell,46,43
+2,6:21.0,M. Hezonja misses free throw 1 of 1,,46,43
+2,6:18.0,,Defensive rebound by D. Finney-Smith,46,43
+2,6:02.0,,L. Dončić makes 2-pt layup at rim,46,45
+2,5:46.0,M. Hezonja misses 2-pt jump shot from 8 ft,,46,45
+2,5:44.0,Offensive rebound by T. Hardaway,,46,45
+2,5:42.0,T. Hardaway misses 3-pt jump shot from 25 ft,,46,45
+2,5:42.0,Offensive rebound by Team,,46,45
+2,5:42.0,,Loose ball foul by D. Finney-Smith (drawn by M. Hezonja),46,45
+2,5:32.0,F. Ntilikina misses 3-pt jump shot from 22 ft,,46,45
+2,5:28.0,,Defensive rebound by D. Finney-Smith,46,45
+2,5:18.0,,L. Dončić misses 3-pt jump shot from 25 ft,46,45
+2,5:16.0,,Offensive rebound by D. Finney-Smith,46,45
+2,5:15.0,,D. Smith makes 2-pt layup at rim (assist by D. Finney-Smith),46,47
+2,4:55.0,T. Hardaway misses 3-pt jump shot from 26 ft,,46,47
+2,4:52.0,Offensive rebound by M. Robinson,,46,47
+2,4:49.0,Turnover by F. Ntilikina (out of bounds lost ball),,46,47
+2,4:49.0,N. Vonleh enters the game for M. Hezonja,,46,47
+2,4:38.0,,L. Dončić misses 2-pt layup from 2 ft,46,47
+2,4:36.0,,Offensive rebound by L. Dončić,46,47
+2,4:35.0,,L. Dončić makes 2-pt layup from 1 ft,46,49
+2,4:27.0,T. Hardaway misses 2-pt jump shot from 20 ft,,46,49
+2,4:27.0,,Defensive rebound by L. Dončić,46,49
+2,4:18.0,,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by L. Dončić),46,51
+2,3:50.0,T. Hardaway makes 2-pt jump shot from 18 ft,,48,51
+2,3:37.0,,L. Dončić misses 3-pt jump shot from 26 ft,48,51
+2,3:34.0,,Offensive rebound by D. Finney-Smith,48,51
+2,3:28.0,,Personal foul by F. Ntilikina (drawn by D. Jordan),48,51
+2,3:28.0,,J. Barea enters the game for D. Smith,48,51
+2,3:14.0,,H. Barnes makes 2-pt layup from 3 ft,48,53
+2,2:56.0,Personal foul by D. Finney-Smith (drawn by N. Vonleh),,48,53
+2,2:56.0,New York full timeout,,48,53
+2,2:56.0,,W. Matthews enters the game for D. Finney-Smith,48,53
+2,2:48.0,N. Vonleh misses 3-pt jump shot from 23 ft,,48,53
+2,2:44.0,,Defensive rebound by J. Barea,48,53
+2,2:32.0,,Offensive foul by D. Jordan (drawn by T. Hardaway),48,53
+2,2:32.0,,Turnover by D. Jordan (offensive foul),48,53
+2,2:26.0,Offensive foul by N. Vonleh (drawn by H. Barnes),,48,53
+2,2:26.0,Turnover by N. Vonleh (offensive foul),,48,53
+2,2:26.0,M. Hezonja enters the game for N. Vonleh,,48,53
+2,2:14.0,,D. Jordan makes 2-pt layup from 1 ft (assist by L. Dončić),48,55
+2,1:54.0,T. Hardaway makes 2-pt jump shot from 13 ft (assist by M. Robinson),,50,55
+2,1:31.0,,Turnover by L. Dončić (bad pass; steal by F. Ntilikina),50,55
+2,1:27.0,M. Hezonja misses 3-pt jump shot from 24 ft,,50,55
+2,1:24.0,,Defensive rebound by D. Jordan,50,55
+2,1:14.0,,Def 3 sec tech foul by Team,50,55
+2,1:14.0,,W. Matthews misses technical free throw,50,55
+2,1:14.0,,Offensive rebound by Team,50,55
+2,1:08.0,,L. Dončić misses 2-pt jump shot from 13 ft,50,55
+2,1:06.0,Defensive rebound by M. Robinson,,50,55
+2,0:58.0,T. Hardaway misses 3-pt jump shot from 25 ft,,50,55
+2,0:57.0,,Defensive rebound by Team,50,55
+2,0:57.0,Loose ball foul by M. Robinson (drawn by D. Jordan),,50,55
+2,0:47.0,,Offensive foul by H. Barnes (drawn by M. Hezonja),50,55
+2,0:47.0,,Turnover by H. Barnes (offensive foul),50,55
+2,0:37.0,T. Hardaway makes 3-pt jump shot from 28 ft (assist by M. Robinson),,53,55
+2,0:29.0,,H. Barnes makes 2-pt hook shot from 4 ft (assist by J. Barea),53,57
+2,0:29.0,,Shooting foul by M. Robinson (drawn by H. Barnes),53,57
+2,0:29.0,,D. Smith enters the game for J. Barea,53,57
+2,0:29.0,,H. Barnes makes free throw 1 of 1,53,58
+2,0:11.0,T. Hardaway makes 3-pt jump shot from 25 ft (assist by F. Ntilikina),,56,58
+2,0:00.0,,Shooting foul by M. Robinson (drawn by D. Smith),56,58
+2,0:00.0,,D. Smith makes free throw 1 of 3,56,59
+2,0:00.0,,D. Smith misses free throw 2 of 3,56,59
+2,0:00.0,,Offensive rebound by Team,56,59
+2,0:00.0,E. Freedom enters the game for M. Hezonja,,56,59
+2,0:00.0,,D. Smith misses free throw 3 of 3,56,59
+2,0:00.0,,Offensive rebound by Team,56,59
+3,11:43.0,D. Dotson misses 2-pt layup from 2 ft,,56,59
+3,11:41.0,Offensive rebound by M. Robinson,,56,59
+3,11:40.0,M. Robinson makes 2-pt layup from 1 ft,,58,59
+3,11:27.0,,Offensive foul by L. Dončić (drawn by M. Robinson),58,59
+3,11:27.0,,Turnover by L. Dončić (offensive foul),58,59
+3,11:09.0,T. Hardaway misses 2-pt jump shot from 13 ft,,58,59
+3,11:04.0,,Defensive rebound by L. Dončić,58,59
+3,10:56.0,,H. Barnes misses 3-pt jump shot from 25 ft,58,59
+3,10:53.0,Defensive rebound by D. Dotson,,58,59
+3,10:46.0,F. Ntilikina misses 3-pt jump shot from 26 ft,,58,59
+3,10:44.0,Offensive rebound by Team,,58,59
+3,10:44.0,,Loose ball foul by D. Jordan (drawn by N. Vonleh),58,59
+3,10:30.0,M. Robinson misses 2-pt layup from 3 ft,,58,59
+3,10:29.0,Offensive rebound by N. Vonleh,,58,59
+3,10:29.0,N. Vonleh makes 2-pt dunk at rim,,60,59
+3,10:29.0,Shooting foul by L. Dončić (drawn by N. Vonleh),,60,59
+3,10:29.0,N. Vonleh misses free throw 1 of 1,,60,59
+3,10:26.0,,Defensive rebound by L. Dončić,60,59
+3,10:15.0,,Turnover by D. Smith (bad pass; steal by M. Robinson),60,59
+3,10:10.0,Turnover by T. Hardaway (out of bounds lost ball),,60,59
+3,9:46.0,,Turnover by Team (shot clock),60,59
+3,9:31.0,T. Hardaway misses 3-pt jump shot from 23 ft,,60,59
+3,9:28.0,,Defensive rebound by D. Jordan,60,59
+3,9:21.0,,D. Smith misses 3-pt jump shot from 26 ft,60,59
+3,9:18.0,Defensive rebound by N. Vonleh,,60,59
+3,9:01.0,F. Ntilikina misses 3-pt jump shot from 25 ft,,60,59
+3,8:59.0,,Defensive rebound by L. Dončić,60,59
+3,8:56.0,,Shooting foul by N. Vonleh (drawn by D. Smith),60,59
+3,8:56.0,,D. Smith misses free throw 1 of 2,60,59
+3,8:56.0,,Offensive rebound by Team,60,59
+3,8:56.0,L. Thomas enters the game for N. Vonleh,,60,59
+3,8:56.0,,D. Smith makes free throw 2 of 2,60,60
+3,8:40.0,L. Thomas makes 2-pt jump shot from 20 ft (assist by M. Robinson),,62,60
+3,8:26.0,,D. Smith makes 2-pt layup from 1 ft,62,62
+3,8:14.0,D. Dotson makes 2-pt jump shot from 17 ft (assist by L. Thomas),,64,62
+3,8:05.0,,Turnover by D. Smith (lost ball; steal by F. Ntilikina),64,62
+3,8:02.0,,Loose ball foul by D. Smith (drawn by D. Dotson),64,62
+3,8:02.0,,D. Finney-Smith enters the game for D. Smith,64,62
+3,7:44.0,T. Hardaway makes 2-pt jump shot from 8 ft,,66,62
+3,7:38.0,,Turnover by L. Dončić (out of bounds lost ball),66,62
+3,7:17.0,T. Hardaway makes 3-pt jump shot from 26 ft (assist by F. Ntilikina),,69,62
+3,7:16.0,,Dallas full timeout,69,62
+3,7:16.0,,D. Smith enters the game for W. Matthews,69,62
+3,6:57.0,,H. Barnes misses 2-pt jump shot from 8 ft,69,62
+3,6:55.0,,Offensive rebound by D. Jordan,69,62
+3,6:52.0,,L. Dončić misses 3-pt jump shot from 22 ft,69,62
+3,6:49.0,,Offensive rebound by L. Dončić,69,62
+3,6:49.0,,L. Dončić makes 2-pt jump shot from 4 ft,69,64
+3,6:49.0,,Shooting foul by T. Hardaway (drawn by L. Dončić),69,64
+3,6:49.0,,L. Dončić misses free throw 1 of 1,69,64
+3,6:49.0,Defensive rebound by T. Hardaway,,69,64
+3,6:33.0,M. Robinson makes 2-pt dunk from 1 ft (assist by T. Hardaway),,71,64
+3,6:12.0,,D. Smith makes 2-pt jump shot from 21 ft,71,66
+3,5:58.0,Personal foul by H. Barnes (drawn by L. Thomas),,71,66
+3,5:51.0,M. Robinson makes 2-pt dunk from 1 ft (assist by L. Thomas),,73,66
+3,5:32.0,,L. Dončić makes 2-pt jump shot from 21 ft,73,68
+3,5:14.0,L. Thomas makes 2-pt jump shot from 14 ft (assist by F. Ntilikina),,75,68
+3,4:54.0,,Turnover by D. Smith (bad pass; steal by M. Robinson),75,68
+3,4:47.0,Turnover by F. Ntilikina (bad pass; steal by D. Jordan),,75,68
+3,4:41.0,,L. Dončić misses 2-pt jump shot from 8 ft,75,68
+3,4:39.0,,Offensive rebound by D. Finney-Smith,75,68
+3,4:38.0,,D. Finney-Smith makes 2-pt layup at rim,75,70
+3,4:26.0,D. Dotson makes 2-pt jump shot from 19 ft (assist by F. Ntilikina),,77,70
+3,4:06.0,,H. Barnes misses 3-pt jump shot from 23 ft,77,70
+3,4:02.0,Defensive rebound by M. Robinson,,77,70
+3,3:57.0,T. Hardaway misses 3-pt jump shot from 25 ft,,77,70
+3,3:54.0,,Defensive rebound by D. Jordan,77,70
+3,3:46.0,,D. Smith misses 2-pt jump shot from 17 ft,77,70
+3,3:43.0,Defensive rebound by D. Dotson,,77,70
+3,3:35.0,Personal foul by H. Barnes (drawn by L. Thomas),,77,70
+3,3:35.0,L. Thomas makes free throw 1 of 2,,78,70
+3,3:35.0,E. Freedom enters the game for D. Dotson,,78,70
+3,3:35.0,E. Mudiay enters the game for F. Ntilikina,,78,70
+3,3:35.0,A. Trier enters the game for M. Robinson,,78,70
+3,3:35.0,,J. Barea enters the game for H. Barnes,78,70
+3,3:35.0,,M. Kleber enters the game for L. Dončić,78,70
+3,3:35.0,,W. Matthews enters the game for D. Jordan,78,70
+3,3:35.0,,D. Powell enters the game for D. Smith,78,70
+3,3:35.0,L. Thomas makes free throw 2 of 2,,79,70
+3,3:20.0,,W. Matthews misses 2-pt jump shot from 4 ft (block by E. Freedom),79,70
+3,3:18.0,Defensive rebound by E. Freedom,,79,70
+3,3:00.0,T. Hardaway misses 3-pt jump shot from 23 ft,,79,70
+3,2:55.0,,Defensive rebound by J. Barea,79,70
+3,2:47.0,,M. Kleber misses 2-pt layup from 3 ft,79,70
+3,2:45.0,Defensive rebound by E. Freedom,,79,70
+3,2:30.0,A. Trier makes 3-pt jump shot from 26 ft (assist by E. Freedom),,82,70
+3,2:29.0,,Dallas full timeout,82,70
+3,2:15.0,,M. Kleber makes 3-pt jump shot from 26 ft (assist by J. Barea),82,73
+3,1:51.0,E. Freedom makes 2-pt layup from 2 ft (assist by E. Mudiay),,84,73
+3,1:51.0,,Violation by Team (def goaltending),84,73
+3,1:34.0,,J. Barea misses 2-pt layup from 3 ft,84,73
+3,1:32.0,Defensive rebound by E. Freedom,,84,73
+3,1:20.0,Shooting foul by D. Powell (drawn by L. Thomas),,84,73
+3,1:20.0,L. Thomas makes free throw 1 of 2,,85,73
+3,1:20.0,L. Thomas makes free throw 2 of 2,,86,73
+3,1:09.0,,Shooting foul by T. Hardaway (drawn by D. Finney-Smith),86,73
+3,1:09.0,,D. Finney-Smith makes free throw 1 of 2,86,74
+3,1:09.0,D. Dotson enters the game for T. Hardaway,,86,74
+3,1:09.0,,D. Finney-Smith misses free throw 2 of 2,86,74
+3,1:06.0,Defensive rebound by L. Thomas,,86,74
+3,0:50.0,D. Dotson misses 2-pt jump shot from 3 ft,,86,74
+3,0:47.0,,Defensive rebound by W. Matthews,86,74
+3,0:36.0,,D. Powell misses 2-pt layup from 2 ft,86,74
+3,0:35.0,Defensive rebound by E. Freedom,,86,74
+3,0:30.0,A. Trier makes 2-pt layup from 1 ft,,88,74
+3,0:19.0,,D. Powell makes 3-pt jump shot from 25 ft (assist by M. Kleber),88,77
+3,0:02.0,A. Trier misses 3-pt jump shot from 26 ft,,88,77
+3,0:02.0,Offensive rebound by Team,,88,77
+3,0:02.0,Personal foul by W. Matthews (drawn by E. Freedom),,88,77
+3,0:02.0,E. Freedom misses free throw 1 of 2,,88,77
+3,0:02.0,Offensive rebound by Team,,88,77
+3,0:02.0,E. Freedom makes free throw 2 of 2,,89,77
+3,0:00.0,,Turnover by D. Finney-Smith (bad pass; steal by L. Thomas),89,77
+4,11:46.0,,D. Finney-Smith misses 2-pt hook shot from 5 ft (block by E. Freedom),89,77
+4,11:46.0,,Offensive rebound by Team,89,77
+4,11:39.0,,W. Matthews makes 2-pt jump shot from 12 ft (assist by D. Finney-Smith),89,79
+4,11:21.0,Shooting foul by D. Powell (drawn by E. Freedom),,89,79
+4,11:21.0,E. Freedom makes free throw 1 of 2,,90,79
+4,11:21.0,N. Vonleh enters the game for L. Thomas,,90,79
+4,11:21.0,E. Freedom makes free throw 2 of 2,,91,79
+4,11:13.0,,Personal foul by N. Vonleh (drawn by M. Kleber),91,79
+4,11:13.0,M. Robinson enters the game for N. Vonleh,,91,79
+4,11:08.0,,M. Kleber makes 2-pt dunk from 1 ft (assist by W. Matthews),91,81
+4,10:53.0,Shooting foul by D. Powell (drawn by M. Robinson),,91,81
+4,10:53.0,M. Robinson makes free throw 1 of 2,,92,81
+4,10:53.0,M. Robinson misses free throw 2 of 2,,92,81
+4,10:50.0,,Defensive rebound by M. Kleber,92,81
+4,10:43.0,,D. Finney-Smith makes 2-pt layup from 1 ft (assist by J. Barea),92,83
+4,10:21.0,E. Mudiay makes 2-pt jump shot from 17 ft,,94,83
+4,10:10.0,,J. Barea misses 3-pt jump shot from 26 ft,94,83
+4,10:08.0,Defensive rebound by E. Freedom,,94,83
+4,9:59.0,E. Mudiay makes 2-pt jump shot from 11 ft,,96,83
+4,9:58.0,,Dallas full timeout,96,83
+4,9:58.0,,H. Barnes enters the game for J. Barea,96,83
+4,9:58.0,,L. Dončić enters the game for D. Finney-Smith,96,83
+4,9:58.0,,D. Jordan enters the game for M. Kleber,96,83
+4,9:58.0,,D. Smith enters the game for D. Powell,96,83
+4,9:42.0,,Personal foul by A. Trier (drawn by W. Matthews),96,83
+4,9:35.0,,Turnover by L. Dončić (bad pass; steal by E. Mudiay),96,83
+4,9:30.0,A. Trier makes 2-pt dunk from 1 ft (assist by E. Mudiay),,98,83
+4,9:11.0,,H. Barnes misses 3-pt jump shot from 25 ft,98,83
+4,9:07.0,Defensive rebound by D. Dotson,,98,83
+4,8:56.0,Personal foul by D. Smith (drawn by E. Mudiay),,98,83
+4,8:56.0,,D. Finney-Smith enters the game for W. Matthews,98,83
+4,8:48.0,A. Trier makes 2-pt layup from 1 ft,,100,83
+4,8:46.0,,Dallas full timeout,100,83
+4,8:32.0,,L. Dončić makes 2-pt jump shot from 3 ft,100,85
+4,8:18.0,E. Mudiay makes 2-pt layup from 1 ft,,102,85
+4,8:03.0,,L. Dončić makes 2-pt jump shot from 18 ft,102,87
+4,7:43.0,E. Mudiay misses 3-pt jump shot from 25 ft,,102,87
+4,7:41.0,Offensive rebound by M. Robinson,,102,87
+4,7:41.0,Shooting foul by H. Barnes (drawn by M. Robinson),,102,87
+4,7:41.0,M. Robinson makes free throw 1 of 2,,103,87
+4,7:41.0,M. Robinson makes free throw 2 of 2,,104,87
+4,7:27.0,,D. Smith makes 3-pt jump shot from 23 ft (assist by L. Dončić),104,90
+4,7:02.0,Shooting foul by D. Finney-Smith (drawn by A. Trier),,104,90
+4,7:02.0,T. Hardaway enters the game for D. Dotson,,104,90
+4,7:02.0,F. Ntilikina enters the game for E. Mudiay,,104,90
+4,7:02.0,A. Trier makes free throw 1 of 2,,105,90
+4,7:02.0,A. Trier makes free throw 2 of 2,,106,90
+4,6:43.0,,D. Finney-Smith makes 2-pt jump shot from 12 ft,106,92
+4,6:28.0,E. Freedom makes 2-pt layup from 1 ft (assist by T. Hardaway),,108,92
+4,6:07.0,,Turnover by D. Smith (bad pass; steal by F. Ntilikina),108,92
+4,6:00.0,Turnover by F. Ntilikina (bad pass; steal by D. Finney-Smith),,108,92
+4,5:54.0,,D. Smith misses 2-pt layup from 1 ft,108,92
+4,5:52.0,Defensive rebound by A. Trier,,108,92
+4,5:34.0,E. Freedom misses 2-pt jump shot from 7 ft,,108,92
+4,5:32.0,,Defensive rebound by D. Jordan,108,92
+4,5:27.0,,Personal foul by A. Trier (drawn by L. Dončić),108,92
+4,5:19.0,,L. Dončić makes 3-pt jump shot from 25 ft,108,95
+4,5:02.0,New York full timeout,,108,95
+4,5:02.0,D. Dotson enters the game for E. Freedom,,108,95
+4,4:57.0,Turnover by T. Hardaway (bad pass; steal by D. Finney-Smith),,108,95
+4,4:57.0,,Personal foul by D. Dotson (drawn by L. Dončić),108,95
+4,4:44.0,,H. Barnes misses 3-pt jump shot from 23 ft,108,95
+4,4:40.0,Defensive rebound by D. Dotson,,108,95
+4,4:40.0,Personal foul by D. Finney-Smith (drawn by D. Dotson),,108,95
+4,4:40.0,D. Dotson misses free throw 1 of 2,,108,95
+4,4:40.0,Offensive rebound by Team,,108,95
+4,4:40.0,,W. Matthews enters the game for D. Finney-Smith,108,95
+4,4:40.0,D. Dotson misses free throw 2 of 2,,108,95
+4,4:37.0,,Defensive rebound by D. Jordan,108,95
+4,4:22.0,,H. Barnes misses 2-pt jump shot from 9 ft,108,95
+4,4:20.0,,Offensive rebound by D. Jordan,108,95
+4,4:19.0,,D. Jordan misses 2-pt layup at rim,108,95
+4,4:17.0,Defensive rebound by M. Robinson,,108,95
+4,4:10.0,Shooting foul by D. Smith (drawn by F. Ntilikina),,108,95
+4,4:10.0,F. Ntilikina makes free throw 1 of 2,,109,95
+4,4:10.0,F. Ntilikina makes free throw 2 of 2,,110,95
+4,3:51.0,,H. Barnes misses 2-pt layup at rim (block by M. Robinson),110,95
+4,3:48.0,Defensive rebound by D. Dotson,,110,95
+4,3:34.0,Personal foul by D. Jordan (drawn by A. Trier),,110,95
+4,3:34.0,A. Trier makes free throw 1 of 2,,111,95
+4,3:34.0,A. Trier makes free throw 2 of 2,,112,95
+4,3:21.0,,W. Matthews makes 3-pt jump shot from 25 ft (assist by D. Jordan),112,98
+4,2:54.0,A. Trier makes 2-pt layup from 1 ft,,114,98
+4,2:42.0,,Personal foul by M. Robinson (drawn by W. Matthews),114,98
+4,2:42.0,,W. Matthews makes free throw 1 of 2,114,99
+4,2:42.0,,W. Matthews makes free throw 2 of 2,114,100
+4,2:25.0,Turnover by A. Trier (back court),,114,100
+4,2:18.0,,W. Matthews misses 3-pt jump shot from 25 ft,114,100
+4,2:13.0,Defensive rebound by D. Dotson,,114,100
+4,1:55.0,Shooting foul by D. Smith (drawn by A. Trier),,114,100
+4,1:55.0,A. Trier makes free throw 1 of 2,,115,100
+4,1:55.0,A. Trier makes free throw 2 of 2,,116,100
+4,1:38.0,,D. Smith makes 2-pt jump shot from 19 ft (assist by W. Matthews),116,102
+4,1:17.0,A. Trier makes 2-pt jump shot from 20 ft,,118,102
+4,1:07.0,,L. Dončić makes 3-pt jump shot from 24 ft (assist by H. Barnes),118,105
+4,0:50.0,,Violation by Team (kicked ball),118,105
+4,0:38.0,D. Dotson misses 2-pt jump shot from 17 ft,,118,105
+4,0:35.0,,Defensive rebound by D. Smith,118,105
+4,0:29.0,,Personal foul by M. Robinson (drawn by D. Smith),118,105
+4,0:29.0,,D. Smith makes free throw 1 of 2,118,106
+4,0:29.0,,M. Kleber enters the game for D. Jordan,118,106
+4,0:29.0,,D. Smith misses free throw 2 of 2,118,106
+4,0:27.0,Defensive rebound by M. Robinson,,118,106
+4,0:08.0,D. Dotson misses 2-pt jump shot from 15 ft,,118,106
+4,0:05.0,,Defensive rebound by L. Dončić,118,106

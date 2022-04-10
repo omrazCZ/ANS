@@ -1,0 +1,446 @@
+QUARTER,TIME_REMAINING,BOSTON_ACTION,MINNESOTA_ACTION,BOSTON_SCORE,MINNESOTA_SCORE
+1,11:40.0,,J. Teague makes 2-pt layup from 5 ft,0,2
+1,11:23.0,M. Morris makes 3-pt jump shot from 26 ft (assist by M. Smart),,3,2
+1,11:02.0,,A. Wiggins makes 2-pt jump shot from 10 ft,3,4
+1,10:45.0,,Violation by Team (kicked ball),3,4
+1,10:43.0,K. Irving makes 2-pt jump shot from 21 ft (assist by M. Smart),,5,4
+1,10:24.0,,K. Towns makes 3-pt jump shot from 25 ft (assist by A. Wiggins),5,7
+1,10:06.0,A. Horford makes 2-pt hook shot from 6 ft,,7,7
+1,9:50.0,,Turnover by R. Covington (lost ball; steal by M. Morris),7,7
+1,9:46.0,K. Irving misses 2-pt layup from 2 ft,,7,7
+1,9:45.0,,Defensive rebound by J. Teague,7,7
+1,9:37.0,,R. Covington misses 3-pt jump shot from 24 ft,7,7
+1,9:35.0,Defensive rebound by M. Smart,,7,7
+1,9:33.0,Personal foul by R. Covington (drawn by A. Horford),,7,7
+1,9:25.0,J. Tatum misses 3-pt jump shot from 23 ft,,7,7
+1,9:23.0,,Defensive rebound by K. Towns,7,7
+1,9:15.0,,Turnover by J. Teague (bad pass; steal by M. Smart),7,7
+1,8:58.0,Turnover by K. Irving (bad pass),,7,7
+1,8:48.0,,J. Teague makes 3-pt jump shot from 25 ft,7,10
+1,8:40.0,K. Irving makes 2-pt layup from 2 ft,,9,10
+1,8:26.0,,A. Wiggins makes 2-pt jump shot from 17 ft,9,12
+1,8:07.0,M. Morris misses 2-pt jump shot from 16 ft,,9,12
+1,8:05.0,,Defensive rebound by T. Gibson,9,12
+1,7:56.0,,T. Gibson makes 2-pt layup from 4 ft (assist by K. Towns),9,14
+1,7:56.0,,Shooting foul by M. Morris (drawn by T. Gibson),9,14
+1,7:56.0,,T. Gibson misses free throw 1 of 1,9,14
+1,7:54.0,Defensive rebound by J. Tatum,,9,14
+1,7:38.0,K. Irving misses 3-pt jump shot from 26 ft,,9,14
+1,7:34.0,,Defensive rebound by K. Towns,9,14
+1,7:27.0,,Personal foul by M. Smart (drawn by J. Teague),9,14
+1,7:12.0,,J. Teague misses 2-pt layup from 7 ft,9,14
+1,7:08.0,Defensive rebound by M. Morris,,9,14
+1,7:03.0,Turnover by M. Morris (traveling),,9,14
+1,6:46.0,,J. Teague misses 2-pt layup from 4 ft,9,14
+1,6:44.0,Defensive rebound by M. Morris,,9,14
+1,6:38.0,J. Tatum misses 3-pt jump shot from 23 ft,,9,14
+1,6:35.0,,Defensive rebound by R. Covington,9,14
+1,6:31.0,,Shooting foul by K. Irving (drawn by A. Wiggins),9,14
+1,6:31.0,,Minnesota full timeout,9,14
+1,6:31.0,G. Hayward enters the game for J. Tatum,,9,14
+1,6:31.0,,A. Wiggins makes free throw 1 of 2,9,15
+1,6:31.0,,A. Wiggins makes free throw 2 of 2,9,16
+1,6:20.0,Turnover by K. Irving (bad pass; steal by K. Towns),,9,16
+1,6:12.0,,K. Towns misses 2-pt jump shot from 5 ft,9,16
+1,6:11.0,Defensive rebound by A. Horford,,9,16
+1,5:54.0,K. Irving makes 3-pt jump shot from 23 ft (assist by G. Hayward),,12,16
+1,5:46.0,,R. Covington misses 3-pt jump shot from 25 ft,12,16
+1,5:45.0,,Offensive rebound by Team,12,16
+1,5:45.0,Loose ball foul by M. Morris (drawn by T. Gibson),,12,16
+1,5:45.0,A. Baynes enters the game for M. Morris,,12,16
+1,5:33.0,,J. Teague misses 2-pt jump shot from 10 ft,12,16
+1,5:30.0,,Offensive rebound by T. Gibson,12,16
+1,5:30.0,,T. Gibson makes 2-pt layup from 4 ft,12,18
+1,5:30.0,,Shooting foul by A. Baynes (drawn by T. Gibson),12,18
+1,5:30.0,,T. Gibson misses free throw 1 of 1,12,18
+1,5:30.0,Defensive rebound by G. Hayward,,12,18
+1,5:20.0,M. Smart makes 3-pt jump shot from 30 ft (assist by A. Baynes),,15,18
+1,5:02.0,,A. Wiggins misses 3-pt jump shot from 26 ft,15,18
+1,4:59.0,Defensive rebound by K. Irving,,15,18
+1,4:49.0,G. Hayward misses 2-pt jump shot from 14 ft,,15,18
+1,4:46.0,,Defensive rebound by Team,15,18
+1,4:46.0,,D. Rose enters the game for R. Covington,15,18
+1,4:36.0,,J. Teague misses 2-pt layup from 2 ft (block by A. Horford),15,18
+1,4:35.0,Defensive rebound by A. Baynes,,15,18
+1,4:31.0,Shooting foul by T. Gibson (drawn by K. Irving),,15,18
+1,4:31.0,K. Irving makes free throw 1 of 2,,16,18
+1,4:31.0,K. Irving makes free throw 2 of 2,,17,18
+1,4:13.0,,T. Gibson misses 2-pt layup from 4 ft,17,18
+1,4:05.0,,Offensive rebound by T. Gibson,17,18
+1,4:05.0,,T. Gibson makes 2-pt hook shot from 1 ft,17,20
+1,3:59.0,M. Smart makes 3-pt jump shot from 26 ft (assist by K. Irving),,20,20
+1,3:40.0,,D. Rose makes 2-pt jump shot from 6 ft,20,22
+1,3:23.0,A. Horford makes 3-pt jump shot from 25 ft (assist by K. Irving),,23,22
+1,3:05.0,,T. Gibson misses 2-pt layup from 2 ft,23,22
+1,3:04.0,Defensive rebound by Team,,23,22
+1,3:04.0,T. Rozier enters the game for K. Irving,,23,22
+1,3:04.0,,T. Jones enters the game for J. Teague,23,22
+1,2:44.0,M. Smart misses 3-pt jump shot from 24 ft,,23,22
+1,2:40.0,Offensive rebound by T. Rozier,,23,22
+1,2:39.0,Boston full timeout,,23,22
+1,2:39.0,J. Tatum enters the game for M. Smart,,23,22
+1,2:39.0,,D. Šarić enters the game for T. Gibson,23,22
+1,2:33.0,A. Horford misses 3-pt jump shot from 24 ft,,23,22
+1,2:30.0,,Defensive rebound by D. Šarić,23,22
+1,2:20.0,,Turnover by D. Rose (bad pass; steal by G. Hayward),23,22
+1,2:08.0,A. Horford makes 2-pt layup from 4 ft (assist by G. Hayward),,25,22
+1,1:46.0,,D. Šarić misses 3-pt jump shot from 23 ft,25,22
+1,1:42.0,Defensive rebound by G. Hayward,,25,22
+1,1:30.0,J. Tatum makes 2-pt jump shot from 10 ft (assist by T. Rozier),,27,22
+1,1:15.0,,D. Rose makes 2-pt layup from 4 ft,27,24
+1,0:58.0,J. Tatum misses 3-pt jump shot from 26 ft,,27,24
+1,0:55.0,,Defensive rebound by K. Towns,27,24
+1,0:43.0,,A. Wiggins misses 3-pt jump shot from 24 ft,27,24
+1,0:40.0,Defensive rebound by J. Tatum,,27,24
+1,0:32.0,Personal foul by T. Jones (drawn by J. Tatum),,27,24
+1,0:32.0,S. Ojeleye enters the game for A. Horford,,27,24
+1,0:32.0,,G. Dieng enters the game for K. Towns,27,24
+1,0:25.0,G. Hayward makes 2-pt jump shot from 8 ft (assist by T. Rozier),,29,24
+1,0:02.0,,D. Rose makes 2-pt jump shot from 11 ft,29,26
+2,11:44.0,S. Ojeleye misses 2-pt jump shot from 8 ft (block by D. Šarić),,29,26
+2,11:39.0,Offensive rebound by S. Ojeleye,,29,26
+2,11:38.0,A. Baynes misses 3-pt jump shot from 26 ft,,29,26
+2,11:36.0,,Defensive rebound by R. Covington,29,26
+2,11:34.0,,D. Rose misses 2-pt layup from 6 ft (block by A. Baynes),29,26
+2,11:30.0,Defensive rebound by J. Tatum,,29,26
+2,11:29.0,G. Hayward misses 2-pt layup from 1 ft,,29,26
+2,11:26.0,,Defensive rebound by D. Šarić,29,26
+2,11:08.0,,D. Rose misses 2-pt jump shot from 21 ft,29,26
+2,11:06.0,Defensive rebound by J. Tatum,,29,26
+2,10:53.0,Offensive foul by A. Baynes (drawn by D. Rose),,29,26
+2,10:53.0,Turnover by A. Baynes (offensive foul),,29,26
+2,10:40.0,,G. Dieng misses 2-pt jump shot from 19 ft,29,26
+2,10:37.0,Defensive rebound by G. Hayward,,29,26
+2,10:29.0,J. Tatum misses 2-pt jump shot from 15 ft,,29,26
+2,10:27.0,,Defensive rebound by Team,29,26
+2,10:04.0,,D. Šarić makes 2-pt layup from 2 ft (assist by G. Dieng),29,28
+2,9:46.0,S. Ojeleye misses 3-pt jump shot from 25 ft,,29,28
+2,9:45.0,,Defensive rebound by G. Dieng,29,28
+2,9:29.0,,D. Šarić makes 2-pt layup from 1 ft (assist by T. Jones),29,30
+2,9:12.0,J. Tatum makes 3-pt jump shot from 25 ft (assist by G. Hayward),,32,30
+2,8:52.0,,Personal foul by A. Baynes (drawn by D. Rose),32,30
+2,8:52.0,M. Morris enters the game for A. Baynes,,32,30
+2,8:52.0,D. Theis enters the game for S. Ojeleye,,32,30
+2,8:44.0,,D. Šarić misses 3-pt jump shot from 26 ft,32,30
+2,8:42.0,Defensive rebound by J. Tatum,,32,30
+2,8:34.0,T. Rozier misses 3-pt jump shot from 25 ft,,32,30
+2,8:25.0,Offensive rebound by G. Hayward,,32,30
+2,8:25.0,G. Hayward makes 2-pt layup at rim,,34,30
+2,8:19.0,,D. Rose makes 2-pt layup from 1 ft,34,32
+2,8:06.0,Shooting foul by T. Jones (drawn by G. Hayward),,34,32
+2,8:06.0,G. Hayward makes free throw 1 of 2,,35,32
+2,8:06.0,G. Hayward makes free throw 2 of 2,,36,32
+2,8:01.0,,Personal foul by D. Theis (drawn by R. Covington),36,32
+2,8:01.0,K. Irving enters the game for G. Hayward,,36,32
+2,7:55.0,,Turnover by D. Rose (bad pass; steal by J. Tatum),36,32
+2,7:52.0,Turnover by J. Tatum (out of bounds lost ball),,36,32
+2,7:36.0,,D. Rose makes 2-pt jump shot from 16 ft,36,34
+2,7:20.0,Turnover by D. Theis (out of bounds lost ball),,36,34
+2,7:05.0,,Shooting foul by M. Morris (drawn by D. Rose),36,34
+2,7:05.0,,D. Rose makes free throw 1 of 2,36,35
+2,7:05.0,,D. Rose makes free throw 2 of 2,36,36
+2,6:53.0,Personal foul by G. Dieng (drawn by K. Irving),,36,36
+2,6:53.0,,Minnesota full timeout,36,36
+2,6:53.0,,J. Teague enters the game for G. Dieng,36,36
+2,6:53.0,,K. Towns enters the game for T. Jones,36,36
+2,6:43.0,M. Morris makes 3-pt jump shot from 25 ft (assist by K. Irving),,39,36
+2,6:29.0,,Turnover by J. Teague (bad pass),39,36
+2,6:14.0,M. Morris makes 3-pt jump shot from 22 ft (assist by K. Irving),,42,36
+2,6:04.0,,Personal foul by D. Theis (drawn by K. Towns),42,36
+2,6:04.0,,T. Gibson enters the game for D. Šarić,42,36
+2,5:51.0,,K. Towns misses 2-pt jump shot from 16 ft,42,36
+2,5:49.0,,Offensive rebound by Team,42,36
+2,5:47.0,,Turnover by T. Gibson (traveling),42,36
+2,5:34.0,K. Irving makes 2-pt jump shot from 12 ft,,44,36
+2,5:34.0,Shooting foul by D. Rose (drawn by K. Irving),,44,36
+2,5:34.0,K. Irving makes free throw 1 of 1,,45,36
+2,5:27.0,,Turnover by R. Covington (traveling),45,36
+2,5:16.0,M. Morris misses 3-pt jump shot from 25 ft,,45,36
+2,5:14.0,,Defensive rebound by K. Towns,45,36
+2,5:07.0,,T. Gibson makes 2-pt layup from 6 ft (assist by J. Teague),45,38
+2,5:07.0,Violation by Team (def goaltending),,45,38
+2,4:50.0,T. Rozier misses 2-pt jump shot from 15 ft,,45,38
+2,4:47.0,,Defensive rebound by T. Gibson,45,38
+2,4:40.0,,R. Covington misses 2-pt jump shot from 20 ft,45,38
+2,4:36.0,Defensive rebound by T. Rozier,,45,38
+2,4:26.0,D. Theis makes 2-pt layup from 3 ft (assist by T. Rozier),,47,38
+2,4:26.0,,Minnesota full timeout,47,38
+2,4:26.0,G. Hayward enters the game for M. Morris,,47,38
+2,4:26.0,A. Horford enters the game for T. Rozier,,47,38
+2,4:26.0,M. Smart enters the game for J. Tatum,,47,38
+2,4:26.0,,A. Wiggins enters the game for D. Rose,47,38
+2,4:12.0,Violation by Team (kicked ball),,47,38
+2,4:00.0,,K. Towns misses 2-pt layup from 3 ft,47,38
+2,3:57.0,,Offensive rebound by K. Towns,47,38
+2,3:57.0,,K. Towns misses 2-pt layup from 1 ft,47,38
+2,3:57.0,,Offensive rebound by Team,47,38
+2,3:53.0,,K. Towns makes 2-pt layup from 6 ft (assist by A. Wiggins),47,40
+2,3:35.0,Shooting foul by K. Towns (drawn by G. Hayward),,47,40
+2,3:35.0,G. Hayward makes free throw 1 of 2,,48,40
+2,3:35.0,G. Hayward makes free throw 2 of 2,,49,40
+2,3:24.0,,A. Wiggins misses 2-pt jump shot from 17 ft,49,40
+2,3:22.0,Defensive rebound by K. Irving,,49,40
+2,3:16.0,G. Hayward makes 3-pt jump shot from 25 ft (assist by K. Irving),,52,40
+2,3:02.0,,R. Covington makes 3-pt jump shot from 24 ft (assist by J. Teague),52,43
+2,2:50.0,G. Hayward misses 2-pt layup from 5 ft,,52,43
+2,2:46.0,Offensive rebound by G. Hayward,,52,43
+2,2:44.0,K. Irving misses 3-pt jump shot from 24 ft,,52,43
+2,2:42.0,,Defensive rebound by T. Gibson,52,43
+2,2:34.0,,R. Covington misses 2-pt jump shot from 12 ft,52,43
+2,2:34.0,Defensive rebound by Team,,52,43
+2,2:12.0,G. Hayward makes 3-pt jump shot from 25 ft (assist by M. Smart),,55,43
+2,1:56.0,,A. Wiggins misses 3-pt jump shot from 22 ft,55,43
+2,1:52.0,Defensive rebound by G. Hayward,,55,43
+2,1:43.0,D. Theis misses 2-pt layup from 1 ft (block by K. Towns),,55,43
+2,1:39.0,,Defensive rebound by R. Covington,55,43
+2,1:36.0,,Personal foul by D. Theis (drawn by T. Gibson),55,43
+2,1:36.0,,T. Gibson misses free throw 1 of 2,55,43
+2,1:36.0,,Offensive rebound by Team,55,43
+2,1:36.0,,T. Gibson misses free throw 2 of 2,55,43
+2,1:34.0,Defensive rebound by K. Irving,,55,43
+2,1:28.0,D. Theis misses 3-pt jump shot from 26 ft,,55,43
+2,1:26.0,,Defensive rebound by J. Teague,55,43
+2,1:13.0,,Turnover by T. Gibson (traveling),55,43
+2,1:01.0,D. Theis makes 2-pt dunk from 2 ft (assist by A. Horford),,57,43
+2,0:45.0,,R. Covington makes 3-pt jump shot from 26 ft (assist by T. Gibson),57,46
+2,0:35.0,K. Irving misses 2-pt layup from 1 ft,,57,46
+2,0:34.0,,Defensive rebound by T. Gibson,57,46
+2,0:27.0,,J. Teague misses 2-pt jump shot from 9 ft,57,46
+2,0:24.0,,Offensive rebound by J. Teague,57,46
+2,0:24.0,,Shooting foul by M. Smart (drawn by R. Covington),57,46
+2,0:24.0,,R. Covington makes free throw 1 of 2,57,47
+2,0:24.0,M. Morris enters the game for M. Smart,,57,47
+2,0:24.0,J. Tatum enters the game for D. Theis,,57,47
+2,0:24.0,,R. Covington makes free throw 2 of 2,57,48
+2,0:06.0,Turnover by K. Irving (lost ball; steal by R. Covington),,57,48
+2,0:00.0,,Turnover by A. Wiggins (bad pass; steal by M. Morris),57,48
+2,0:00.0,K. Irving misses 3-pt jump shot from 29 ft,,57,48
+2,0:00.0,Offensive rebound by Team,,57,48
+3,11:40.0,M. Morris misses 2-pt jump shot from 16 ft,,57,48
+3,11:35.0,,Defensive rebound by A. Wiggins,57,48
+3,11:16.0,,A. Wiggins misses 2-pt jump shot from 11 ft,57,48
+3,11:13.0,Defensive rebound by M. Morris,,57,48
+3,11:06.0,A. Horford misses 3-pt jump shot from 26 ft,,57,48
+3,11:03.0,,Defensive rebound by T. Gibson,57,48
+3,10:58.0,,Personal foul by A. Horford (drawn by K. Towns),57,48
+3,10:48.0,,K. Towns makes 3-pt jump shot from 26 ft (assist by J. Teague),57,51
+3,10:30.0,M. Morris misses 3-pt jump shot from 23 ft,,57,51
+3,10:29.0,,Defensive rebound by T. Gibson,57,51
+3,10:22.0,,K. Towns misses 3-pt jump shot from 27 ft,57,51
+3,10:20.0,Defensive rebound by Team,,57,51
+3,10:11.0,Shooting foul by A. Wiggins (drawn by K. Irving),,57,51
+3,10:11.0,K. Irving makes free throw 1 of 2,,58,51
+3,10:11.0,K. Irving makes free throw 2 of 2,,59,51
+3,10:03.0,,Turnover by K. Towns (traveling),59,51
+3,9:56.0,Shooting foul by J. Teague (drawn by K. Irving),,59,51
+3,9:56.0,K. Irving makes free throw 1 of 2,,60,51
+3,9:56.0,K. Irving makes free throw 2 of 2,,61,51
+3,9:43.0,,Turnover by J. Teague (traveling),61,51
+3,9:38.0,K. Irving misses 3-pt jump shot from 22 ft,,61,51
+3,9:37.0,Offensive rebound by Team,,61,51
+3,9:37.0,,Loose ball foul by K. Towns (drawn by A. Horford),61,51
+3,9:23.0,Turnover by A. Horford (bad pass; steal by R. Covington),,61,51
+3,9:04.0,,K. Towns makes 2-pt layup from 4 ft (assist by A. Wiggins),61,53
+3,8:48.0,A. Horford makes 2-pt layup from 4 ft,,63,53
+3,8:28.0,,K. Towns misses 2-pt hook shot from 6 ft,63,53
+3,8:25.0,,Offensive rebound by K. Towns,63,53
+3,8:25.0,,Shooting foul by A. Horford (drawn by K. Towns),63,53
+3,8:25.0,,K. Towns makes free throw 1 of 2,63,54
+3,8:25.0,,K. Towns makes free throw 2 of 2,63,55
+3,8:11.0,J. Tatum makes 2-pt jump shot from 15 ft,,65,55
+3,7:56.0,,Turnover by A. Wiggins (bad pass; steal by M. Smart),65,55
+3,7:53.0,J. Tatum makes 2-pt dunk from 2 ft (assist by K. Irving),,67,55
+3,7:47.0,,Minnesota full timeout,67,55
+3,7:41.0,,Shooting foul by J. Tatum (drawn by A. Wiggins),67,55
+3,7:41.0,,A. Wiggins makes free throw 1 of 2,67,56
+3,7:41.0,,A. Wiggins misses free throw 2 of 2,67,56
+3,7:39.0,Defensive rebound by J. Tatum,,67,56
+3,7:26.0,A. Horford makes 2-pt dunk from 1 ft (assist by J. Tatum),,69,56
+3,7:15.0,,A. Wiggins makes 2-pt jump shot from 4 ft,69,58
+3,6:56.0,A. Horford misses 3-pt jump shot from 25 ft,,69,58
+3,6:53.0,Offensive rebound by M. Smart,,69,58
+3,6:44.0,J. Tatum makes 3-pt jump shot from 26 ft,,72,58
+3,6:26.0,,A. Wiggins makes 3-pt jump shot from 22 ft (assist by J. Teague),72,61
+3,6:06.0,Turnover by A. Horford (out of bounds lost ball),,72,61
+3,5:46.0,,A. Wiggins makes 3-pt jump shot from 25 ft (assist by J. Teague),72,64
+3,5:25.0,K. Irving misses 3-pt jump shot from 23 ft,,72,64
+3,5:24.0,,Defensive rebound by Team,72,64
+3,5:24.0,G. Hayward enters the game for J. Tatum,,72,64
+3,5:10.0,,J. Teague misses 2-pt jump shot from 18 ft,72,64
+3,5:06.0,Defensive rebound by A. Horford,,72,64
+3,5:05.0,Personal foul by J. Teague (drawn by A. Horford),,72,64
+3,5:05.0,,D. Rose enters the game for R. Covington,72,64
+3,4:59.0,A. Horford makes 2-pt jump shot from 16 ft (assist by G. Hayward),,74,64
+3,4:32.0,,J. Teague makes 2-pt jump shot from 8 ft,74,66
+3,4:22.0,K. Irving misses 3-pt jump shot from 27 ft,,74,66
+3,4:20.0,,Defensive rebound by K. Towns,74,66
+3,4:16.0,,Shooting foul by M. Smart (drawn by J. Teague),74,66
+3,4:16.0,,J. Teague makes free throw 1 of 2,74,67
+3,4:16.0,S. Ojeleye enters the game for M. Morris,,74,67
+3,4:16.0,T. Rozier enters the game for M. Smart,,74,67
+3,4:16.0,,D. Šarić enters the game for T. Gibson,74,67
+3,4:16.0,,J. Teague makes free throw 2 of 2,74,68
+3,4:00.0,A. Horford makes 2-pt layup from 2 ft (assist by T. Rozier),,76,68
+3,3:51.0,,D. Šarić makes 2-pt layup from 2 ft (assist by D. Rose),76,70
+3,3:36.0,Turnover by G. Hayward (lost ball; steal by D. Rose),,76,70
+3,3:30.0,,D. Rose misses 2-pt jump shot from 15 ft,76,70
+3,3:28.0,Defensive rebound by A. Horford,,76,70
+3,3:20.0,K. Irving misses 2-pt jump shot from 11 ft,,76,70
+3,3:16.0,,Defensive rebound by K. Towns,76,70
+3,3:10.0,,K. Towns misses 3-pt jump shot from 26 ft,76,70
+3,3:07.0,Defensive rebound by T. Rozier,,76,70
+3,3:05.0,Boston full timeout,,76,70
+3,3:05.0,J. Tatum enters the game for K. Irving,,76,70
+3,2:59.0,T. Rozier makes 3-pt jump shot from 25 ft (assist by G. Hayward),,79,70
+3,2:40.0,,D. Rose makes 3-pt jump shot from 24 ft,79,73
+3,2:17.0,T. Rozier misses 3-pt jump shot from 26 ft,,79,73
+3,2:15.0,,Defensive rebound by K. Towns,79,73
+3,2:07.0,,Turnover by K. Towns (traveling),79,73
+3,2:07.0,A. Baynes enters the game for A. Horford,,79,73
+3,2:07.0,,T. Jones enters the game for J. Teague,79,73
+3,1:57.0,G. Hayward misses 2-pt jump shot from 14 ft,,79,73
+3,1:53.0,Offensive rebound by A. Baynes,,79,73
+3,1:47.0,G. Hayward misses 3-pt jump shot from 25 ft,,79,73
+3,1:45.0,,Defensive rebound by A. Wiggins,79,73
+3,1:35.0,,A. Wiggins misses 2-pt layup from 2 ft,79,73
+3,1:33.0,Defensive rebound by A. Baynes,,79,73
+3,1:21.0,J. Tatum makes 3-pt jump shot from 26 ft (assist by G. Hayward),,82,73
+3,1:07.0,,K. Towns makes 2-pt layup from 3 ft (assist by D. Rose),82,75
+3,0:49.0,J. Tatum misses 3-pt jump shot from 23 ft,,82,75
+3,0:46.0,,Defensive rebound by D. Šarić,82,75
+3,0:40.0,,D. Rose misses 3-pt jump shot from 25 ft,82,75
+3,0:38.0,Defensive rebound by S. Ojeleye,,82,75
+3,0:33.0,T. Rozier makes 2-pt jump shot from 8 ft,,84,75
+3,0:18.0,,Shooting foul by A. Baynes (drawn by K. Towns),84,75
+3,0:18.0,,K. Towns makes free throw 1 of 2,84,76
+3,0:18.0,,K. Towns makes free throw 2 of 2,84,77
+3,0:09.0,Boston full timeout,,84,77
+3,0:09.0,A. Horford enters the game for A. Baynes,,84,77
+3,0:09.0,K. Irving enters the game for S. Ojeleye,,84,77
+3,0:09.0,,R. Covington enters the game for T. Jones,84,77
+3,0:09.0,,G. Dieng enters the game for K. Towns,84,77
+3,0:04.0,Turnover by J. Tatum (traveling),,84,77
+3,0:04.0,M. Smart enters the game for K. Irving,,84,77
+3,0:04.0,R. Williams enters the game for T. Rozier,,84,77
+3,0:00.0,,A. Wiggins misses 2-pt layup from 4 ft,84,77
+3,0:00.0,,Offensive rebound by Team,84,77
+4,11:44.0,,D. Rose makes 2-pt jump shot from 9 ft,84,79
+4,11:30.0,T. Rozier misses 3-pt jump shot from 27 ft,,84,79
+4,11:27.0,,Defensive rebound by R. Covington,84,79
+4,11:14.0,,R. Covington misses 3-pt jump shot from 27 ft,84,79
+4,11:10.0,Defensive rebound by T. Rozier,,84,79
+4,11:03.0,G. Hayward makes 3-pt jump shot from 23 ft (assist by J. Tatum),,87,79
+4,10:51.0,,D. Šarić misses 3-pt jump shot from 26 ft,87,79
+4,10:48.0,Defensive rebound by T. Rozier,,87,79
+4,10:34.0,M. Morris makes 2-pt jump shot from 9 ft (assist by T. Rozier),,89,79
+4,10:16.0,,D. Rose makes 2-pt layup from 2 ft (assist by D. Šarić),89,81
+4,9:54.0,Turnover by M. Morris (lost ball; steal by R. Covington),,89,81
+4,9:49.0,,D. Rose misses 2-pt layup from 3 ft (block by T. Rozier),89,81
+4,9:46.0,,Offensive rebound by T. Jones,89,81
+4,9:45.0,,T. Jones misses 3-pt jump shot from 22 ft,89,81
+4,9:44.0,,Offensive rebound by R. Covington,89,81
+4,9:44.0,,Shooting foul by A. Baynes (drawn by R. Covington),89,81
+4,9:44.0,,R. Covington makes free throw 1 of 2,89,82
+4,9:44.0,,R. Covington makes free throw 2 of 2,89,83
+4,9:25.0,J. Tatum misses 3-pt jump shot from 25 ft,,89,83
+4,9:24.0,,Defensive rebound by R. Covington,89,83
+4,9:15.0,,D. Rose makes 3-pt jump shot from 23 ft (assist by T. Jones),89,86
+4,9:00.0,G. Hayward misses 2-pt jump shot from 13 ft,,89,86
+4,8:56.0,,Defensive rebound by R. Covington,89,86
+4,8:48.0,,G. Dieng makes 2-pt layup from 3 ft (assist by D. Rose),89,88
+4,8:48.0,,Shooting foul by J. Tatum (drawn by G. Dieng),89,88
+4,8:48.0,K. Irving enters the game for J. Tatum,,89,88
+4,8:48.0,,G. Dieng makes free throw 1 of 1,89,89
+4,8:36.0,M. Morris makes 3-pt jump shot from 27 ft (assist by G. Hayward),,92,89
+4,8:12.0,,D. Šarić misses 3-pt jump shot from 23 ft,92,89
+4,8:09.0,Defensive rebound by A. Baynes,,92,89
+4,7:55.0,Shooting foul by D. Šarić (drawn by M. Morris),,92,89
+4,7:55.0,M. Morris makes free throw 1 of 2,,93,89
+4,7:55.0,M. Morris makes free throw 2 of 2,,94,89
+4,7:37.0,,R. Covington misses 3-pt jump shot from 25 ft,94,89
+4,7:34.0,Defensive rebound by G. Hayward,,94,89
+4,7:32.0,T. Rozier makes 2-pt dunk from 1 ft (assist by G. Hayward),,96,89
+4,7:24.0,,Minnesota full timeout,96,89
+4,7:24.0,,K. Towns enters the game for G. Dieng,96,89
+4,7:13.0,,D. Rose misses 2-pt jump shot from 10 ft,96,89
+4,7:13.0,,Loose ball foul by K. Towns (drawn by M. Morris),96,89
+4,7:13.0,Defensive rebound by Team,,96,89
+4,7:03.0,Shooting foul by R. Covington (drawn by G. Hayward),,96,89
+4,7:03.0,G. Hayward makes free throw 1 of 2,,97,89
+4,7:03.0,,J. Teague enters the game for T. Jones,97,89
+4,7:03.0,G. Hayward makes free throw 2 of 2,,98,89
+4,6:50.0,,K. Towns makes 2-pt layup from 2 ft (assist by D. Rose),98,91
+4,6:40.0,Turnover by G. Hayward (traveling),,98,91
+4,6:21.0,,K. Towns misses 3-pt jump shot from 23 ft,98,91
+4,6:20.0,,Offensive rebound by D. Šarić,98,91
+4,6:20.0,,Shooting foul by M. Morris (drawn by D. Šarić),98,91
+4,6:20.0,A. Horford enters the game for A. Baynes,,98,91
+4,6:20.0,M. Smart enters the game for G. Hayward,,98,91
+4,6:20.0,J. Tatum enters the game for T. Rozier,,98,91
+4,6:20.0,,D. Šarić makes free throw 1 of 2,98,92
+4,6:20.0,,D. Šarić misses free throw 2 of 2,98,92
+4,6:18.0,Defensive rebound by J. Tatum,,98,92
+4,6:04.0,M. Smart misses 3-pt jump shot from 27 ft,,98,92
+4,6:02.0,,Defensive rebound by R. Covington,98,92
+4,5:50.0,,Turnover by J. Teague (bad pass; steal by M. Smart),98,92
+4,5:50.0,Personal foul by R. Covington (drawn by J. Tatum),,98,92
+4,5:40.0,M. Morris misses 3-pt jump shot from 24 ft,,98,92
+4,5:37.0,,Defensive rebound by R. Covington,98,92
+4,5:16.0,,K. Towns misses 3-pt jump shot from 24 ft,98,92
+4,5:14.0,Defensive rebound by J. Tatum,,98,92
+4,5:08.0,K. Irving makes 3-pt jump shot from 27 ft (assist by A. Horford),,101,92
+4,4:49.0,,R. Covington makes 2-pt layup from 1 ft (assist by J. Teague),101,94
+4,4:29.0,Turnover by K. Irving (bad pass; steal by R. Covington),,101,94
+4,4:27.0,,R. Covington makes 2-pt layup from 1 ft,101,96
+4,4:27.0,,Shooting foul by M. Morris (drawn by R. Covington),101,96
+4,4:27.0,,A. Wiggins enters the game for D. Šarić,101,96
+4,4:27.0,,R. Covington makes free throw 1 of 1,101,97
+4,4:13.0,K. Irving makes 2-pt layup from 2 ft,,103,97
+4,3:54.0,,D. Rose makes 2-pt layup from 1 ft,103,99
+4,3:46.0,Boston full timeout,,103,99
+4,3:46.0,G. Hayward enters the game for M. Morris,,103,99
+4,3:34.0,G. Hayward misses 2-pt jump shot from 15 ft,,103,99
+4,3:31.0,,Defensive rebound by R. Covington,103,99
+4,3:31.0,,Personal foul by K. Irving (drawn by R. Covington),103,99
+4,3:31.0,,R. Covington makes free throw 1 of 2,103,100
+4,3:31.0,,R. Covington makes free throw 2 of 2,103,101
+4,3:11.0,J. Tatum misses 2-pt jump shot from 16 ft,,103,101
+4,3:10.0,Offensive rebound by Team,,103,101
+4,3:10.0,,Loose ball foul by K. Towns (drawn by G. Hayward),103,101
+4,3:10.0,G. Hayward makes free throw 1 of 2,,104,101
+4,3:10.0,G. Hayward makes free throw 2 of 2,,105,101
+4,2:50.0,,D. Rose misses 2-pt layup from 2 ft,105,101
+4,2:49.0,Defensive rebound by J. Tatum,,105,101
+4,2:47.0,Shooting foul by R. Covington (drawn by J. Tatum),,105,101
+4,2:47.0,J. Tatum makes free throw 1 of 2,,106,101
+4,2:47.0,J. Tatum makes free throw 2 of 2,,107,101
+4,2:36.0,,Turnover by D. Rose (bad pass; steal by G. Hayward),107,101
+4,2:31.0,G. Hayward makes 2-pt jump shot from 22 ft (assist by K. Irving),,109,101
+4,2:07.0,,Personal foul by J. Tatum (drawn by A. Wiggins),109,101
+4,2:07.0,,A. Wiggins makes free throw 1 of 2,109,102
+4,2:07.0,,A. Wiggins makes free throw 2 of 2,109,103
+4,1:54.0,G. Hayward makes 2-pt layup from 1 ft,,111,103
+4,1:43.0,,Turnover by J. Teague (bad pass; steal by M. Smart),111,103
+4,1:24.0,J. Tatum misses 3-pt jump shot from 23 ft,,111,103
+4,1:23.0,Offensive rebound by Team,,111,103
+4,1:23.0,,Loose ball foul by J. Teague (drawn by G. Hayward),111,103
+4,1:23.0,G. Hayward makes free throw 1 of 2,,112,103
+4,1:23.0,G. Hayward makes free throw 2 of 2,,113,103
+4,1:23.0,,Minnesota full timeout,113,103
+4,1:13.0,,J. Teague misses 3-pt jump shot from 25 ft,113,103
+4,1:09.0,,Offensive rebound by J. Teague,113,103
+4,1:09.0,Loose ball foul by K. Irving (drawn by J. Teague),,113,103
+4,1:09.0,,J. Teague makes free throw 1 of 2,113,104
+4,1:09.0,,J. Teague makes free throw 2 of 2,113,105
+4,0:49.0,A. Horford misses 2-pt jump shot from 6 ft,,113,105
+4,0:47.0,Offensive rebound by G. Hayward,,113,105
+4,0:47.0,G. Hayward misses 2-pt layup from 1 ft,,113,105
+4,0:47.0,,Defensive rebound by Team,113,105
+4,0:47.0,Loose ball foul by A. Horford (drawn by K. Towns),,113,105
+4,0:47.0,,K. Towns makes free throw 1 of 2,113,106
+4,0:47.0,,K. Towns makes free throw 2 of 2,113,107
+4,0:36.0,G. Hayward makes 3-pt jump shot from 23 ft (assist by K. Irving),,116,107
+4,0:30.0,,D. Rose makes 2-pt jump shot from 15 ft,116,109
+4,0:23.0,J. Tatum makes 2-pt layup from 2 ft (assist by K. Irving),,118,109
+4,0:21.0,,R. Covington misses 3-pt jump shot from 27 ft,118,109
+4,0:18.0,Defensive rebound by G. Hayward,,118,109

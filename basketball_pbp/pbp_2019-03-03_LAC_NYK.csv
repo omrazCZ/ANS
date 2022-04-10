@@ -1,0 +1,482 @@
+QUARTER,TIME_REMAINING,NEW YORK_ACTION,LA CLIPPERS_ACTION,NEW YORK_SCORE,LA CLIPPERS_SCORE
+1,11:41.0,,D. Gallinari makes 2-pt dunk from 3 ft,0,2
+1,11:12.0,D. Smith makes 2-pt layup from 2 ft,,2,2
+1,11:01.0,,Turnover by S. Gilgeous-Alexander (lost ball; steal by D. Smith),2,2
+1,10:57.0,D. Smith makes 2-pt layup from 1 ft (assist by L. Thomas),,4,2
+1,10:44.0,,I. Zubac misses 2-pt layup from 3 ft (block by D. Smith),4,2
+1,10:41.0,Defensive rebound by D. Dotson,,4,2
+1,10:38.0,D. Smith misses 3-pt jump shot from 28 ft,,4,2
+1,10:34.0,,Defensive rebound by I. Zubac,4,2
+1,10:28.0,,D. Gallinari makes 2-pt layup from 2 ft (assist by S. Gilgeous-Alexander),4,4
+1,10:13.0,L. Thomas misses 2-pt jump shot from 20 ft,,4,4
+1,10:09.0,,Defensive rebound by L. Shamet,4,4
+1,9:57.0,,Turnover by I. Zubac (lost ball; steal by K. Knox),4,4
+1,9:49.0,K. Knox misses 3-pt jump shot from 27 ft,,4,4
+1,9:45.0,,Defensive rebound by P. Beverley,4,4
+1,9:39.0,,D. Gallinari misses 3-pt jump shot from 25 ft,4,4
+1,9:36.0,Defensive rebound by N. Vonleh,,4,4
+1,9:30.0,D. Dotson misses 2-pt layup from 4 ft,,4,4
+1,9:27.0,D. Dotson misses 2-pt layup at rim,,4,4
+1,9:27.0,Offensive rebound by D. Dotson,,4,4
+1,9:27.0,,Defensive rebound by D. Gallinari,4,4
+1,9:21.0,,S. Gilgeous-Alexander misses 2-pt layup from 2 ft,4,4
+1,9:21.0,,Offensive rebound by I. Zubac,4,4
+1,9:16.0,,L. Shamet makes 3-pt jump shot from 26 ft (assist by I. Zubac),4,7
+1,8:57.0,K. Knox misses 2-pt jump shot from 22 ft,,4,7
+1,8:53.0,,Defensive rebound by P. Beverley,4,7
+1,8:50.0,,Personal foul by D. Dotson (drawn by P. Beverley),4,7
+1,8:36.0,,L. Shamet makes 3-pt jump shot from 26 ft (assist by D. Gallinari),4,10
+1,8:30.0,New York full timeout,,4,10
+1,8:20.0,L. Thomas misses 2-pt jump shot from 17 ft,,4,10
+1,8:17.0,,Defensive rebound by P. Beverley,4,10
+1,7:58.0,,D. Gallinari makes 2-pt jump shot from 18 ft,4,12
+1,7:39.0,D. Dotson makes 3-pt jump shot from 27 ft (assist by L. Thomas),,7,12
+1,7:12.0,,D. Gallinari makes 3-pt jump shot from 26 ft (assist by P. Beverley),7,15
+1,7:03.0,D. Dotson misses 3-pt jump shot from 26 ft,,7,15
+1,7:01.0,,Defensive rebound by D. Gallinari,7,15
+1,6:51.0,,Personal foul by D. Smith (drawn by D. Gallinari),7,15
+1,6:51.0,M. Robinson enters the game for L. Thomas,,7,15
+1,6:51.0,A. Trier enters the game for N. Vonleh,,7,15
+1,6:37.0,,D. Gallinari misses 3-pt jump shot from 27 ft,7,15
+1,6:33.0,,Offensive rebound by I. Zubac,7,15
+1,6:33.0,,I. Zubac misses 2-pt layup from 1 ft,7,15
+1,6:33.0,Defensive rebound by M. Robinson,,7,15
+1,6:24.0,D. Smith misses 2-pt layup from 2 ft,,7,15
+1,6:19.0,,Defensive rebound by L. Shamet,7,15
+1,6:17.0,,L. Shamet misses 3-pt jump shot from 30 ft,7,15
+1,6:17.0,Defensive rebound by D. Dotson,,7,15
+1,6:09.0,D. Dotson misses 2-pt jump shot from 20 ft,,7,15
+1,6:06.0,,Defensive rebound by P. Beverley,7,15
+1,6:01.0,,S. Gilgeous-Alexander makes 3-pt jump shot from 27 ft (assist by P. Beverley),7,18
+1,5:57.0,New York full timeout,,7,18
+1,5:57.0,E. Mudiay enters the game for D. Smith,,7,18
+1,5:45.0,Personal foul by S. Gilgeous-Alexander (drawn by E. Mudiay),,7,18
+1,5:34.0,A. Trier makes 3-pt jump shot from 27 ft,,10,18
+1,5:13.0,,L. Shamet makes 3-pt jump shot from 26 ft (assist by D. Gallinari),10,21
+1,4:57.0,Turnover by A. Trier (out of bounds lost ball),,10,21
+1,4:48.0,,L. Shamet makes 3-pt jump shot from 25 ft (assist by P. Beverley),10,24
+1,4:27.0,K. Knox misses 2-pt jump shot from 13 ft,,10,24
+1,4:25.0,,Defensive rebound by P. Beverley,10,24
+1,4:09.0,,I. Zubac makes 2-pt layup from 1 ft (assist by D. Gallinari),10,26
+1,3:49.0,A. Trier misses 2-pt jump shot from 13 ft,,10,26
+1,3:45.0,,Defensive rebound by I. Zubac,10,26
+1,3:38.0,,I. Zubac misses 2-pt jump shot from 20 ft (block by M. Robinson),10,26
+1,3:34.0,Defensive rebound by D. Dotson,,10,26
+1,3:29.0,A. Trier misses 2-pt jump shot from 1 ft,,10,26
+1,3:27.0,,Defensive rebound by I. Zubac,10,26
+1,3:19.0,,Turnover by I. Zubac (bad pass; steal by E. Mudiay),10,26
+1,3:16.0,E. Mudiay makes 2-pt layup from 1 ft,,12,26
+1,3:13.0,,L. Shamet makes 3-pt jump shot from 26 ft (assist by I. Zubac),12,29
+1,3:01.0,E. Mudiay misses 2-pt jump shot from 15 ft,,12,29
+1,2:58.0,,Defensive rebound by D. Gallinari,12,29
+1,2:48.0,,I. Zubac misses 2-pt hook shot from 3 ft (block by M. Robinson),12,29
+1,2:48.0,,Offensive rebound by Team,12,29
+1,2:48.0,,LA Clippers full timeout,12,29
+1,2:48.0,H. Ellenson enters the game for D. Dotson,,12,29
+1,2:48.0,J. Jenkins enters the game for K. Knox,,12,29
+1,2:48.0,,M. Harrell enters the game for S. Gilgeous-Alexander,12,29
+1,2:48.0,,L. Williams enters the game for I. Zubac,12,29
+1,2:40.0,,L. Shamet makes 3-pt jump shot from 26 ft (assist by P. Beverley),12,32
+1,2:29.0,J. Jenkins misses 2-pt jump shot from 19 ft,,12,32
+1,2:26.0,,Defensive rebound by D. Gallinari,12,32
+1,2:20.0,,L. Williams misses 2-pt jump shot from 20 ft,12,32
+1,2:17.0,Defensive rebound by A. Trier,,12,32
+1,2:17.0,Personal take foul by P. Beverley (drawn by A. Trier),,12,32
+1,2:17.0,,J. Green enters the game for D. Gallinari,12,32
+1,2:07.0,Shooting foul by L. Shamet (drawn by A. Trier),,12,32
+1,2:07.0,A. Trier makes free throw 1 of 2,,13,32
+1,2:07.0,A. Trier makes free throw 2 of 2,,14,32
+1,1:57.0,,L. Shamet misses 3-pt jump shot from 25 ft,14,32
+1,1:55.0,Defensive rebound by M. Robinson,,14,32
+1,1:45.0,E. Mudiay misses 2-pt layup from 3 ft (block by J. Green),,14,32
+1,1:45.0,,Defensive rebound by Team,14,32
+1,1:45.0,,G. Temple enters the game for P. Beverley,14,32
+1,1:45.0,,T. Wallace enters the game for L. Shamet,14,32
+1,1:36.0,,L. Williams misses 2-pt layup from 3 ft,14,32
+1,1:34.0,Defensive rebound by M. Robinson,,14,32
+1,1:21.0,M. Robinson makes 2-pt dunk from 2 ft (assist by A. Trier),,16,32
+1,1:03.0,,J. Green makes 2-pt layup from 3 ft (assist by L. Williams),16,34
+1,0:47.0,Shooting foul by G. Temple (drawn by H. Ellenson),,16,34
+1,0:47.0,H. Ellenson makes free throw 1 of 2,,17,34
+1,0:47.0,H. Ellenson makes free throw 2 of 2,,18,34
+1,0:40.0,,Personal foul by H. Ellenson (drawn by L. Williams),18,34
+1,0:36.0,,J. Green makes 3-pt jump shot from 22 ft (assist by T. Wallace),18,37
+1,0:17.0,Turnover by H. Ellenson (bad pass),,18,37
+1,0:07.0,,Personal foul by M. Robinson (drawn by L. Williams),18,37
+1,0:07.0,,L. Williams misses free throw 1 of 2,18,37
+1,0:07.0,,Offensive rebound by Team,18,37
+1,0:07.0,,L. Williams makes free throw 2 of 2,18,38
+1,0:03.0,M. Robinson makes 2-pt dunk from 1 ft (assist by E. Mudiay),,20,38
+2,11:40.0,Personal foul by G. Temple (drawn by A. Trier),,20,38
+2,11:31.0,Offensive foul by H. Ellenson (drawn by M. Harrell),,20,38
+2,11:31.0,Turnover by H. Ellenson (offensive foul),,20,38
+2,11:13.0,,M. Harrell misses 2-pt layup from 2 ft (block by M. Robinson),20,38
+2,11:13.0,,Offensive rebound by Team,20,38
+2,11:11.0,,M. Harrell makes 2-pt dunk from 2 ft (assist by T. Wallace),20,40
+2,10:46.0,Turnover by A. Trier (bad pass; steal by T. Wallace),,20,40
+2,10:42.0,,T. Wallace makes 2-pt dunk from 1 ft,20,42
+2,10:32.0,J. Jenkins misses 2-pt jump shot from 19 ft,,20,42
+2,10:28.0,,Defensive rebound by M. Harrell,20,42
+2,10:27.0,,Turnover by M. Harrell (bad pass),20,42
+2,10:14.0,H. Ellenson misses 3-pt jump shot from 26 ft,,20,42
+2,10:11.0,,Defensive rebound by G. Temple,20,42
+2,10:08.0,,Personal foul by H. Ellenson (drawn by L. Williams),20,42
+2,10:08.0,D. Smith enters the game for H. Ellenson,,20,42
+2,10:08.0,L. Thomas enters the game for J. Jenkins,,20,42
+2,10:03.0,,Shooting foul by M. Robinson (drawn by L. Williams),20,42
+2,10:03.0,,L. Williams makes free throw 1 of 3,20,43
+2,10:03.0,,L. Williams makes free throw 2 of 3,20,44
+2,10:03.0,,L. Williams makes free throw 3 of 3,20,45
+2,9:48.0,M. Robinson makes 2-pt dunk from 1 ft (assist by A. Trier),,22,45
+2,9:40.0,,Shooting foul by A. Trier (drawn by L. Williams),22,45
+2,9:40.0,,L. Williams makes free throw 1 of 2,22,46
+2,9:40.0,,L. Williams makes free throw 2 of 2,22,47
+2,9:28.0,Turnover by A. Trier (lost ball; steal by L. Williams),,22,47
+2,9:23.0,,J. Green misses 2-pt layup from 1 ft,22,47
+2,9:16.0,Defensive rebound by M. Robinson,,22,47
+2,9:08.0,E. Mudiay makes 3-pt jump shot from 28 ft (assist by L. Thomas),,25,47
+2,8:56.0,,L. Williams makes 3-pt jump shot from 27 ft (assist by M. Harrell),25,50
+2,8:38.0,E. Mudiay makes 2-pt layup from 3 ft (assist by L. Thomas),,27,50
+2,8:25.0,,J. Green makes 3-pt jump shot from 26 ft (assist by T. Wallace),27,53
+2,8:14.0,New York full timeout,,27,53
+2,8:14.0,K. Knox enters the game for A. Trier,,27,53
+2,7:52.0,L. Thomas misses 2-pt jump shot from 20 ft,,27,53
+2,7:50.0,,Defensive rebound by G. Temple,27,53
+2,7:44.0,,M. Harrell misses 2-pt layup from 2 ft,27,53
+2,7:38.0,,Offensive rebound by M. Harrell,27,53
+2,7:38.0,,M. Harrell makes 2-pt layup from 1 ft,27,55
+2,7:36.0,Offensive foul by M. Robinson (drawn by T. Wallace),,27,55
+2,7:36.0,Turnover by M. Robinson (offensive foul),,27,55
+2,7:36.0,D. Dotson enters the game for M. Robinson,,27,55
+2,7:36.0,N. Vonleh enters the game for L. Thomas,,27,55
+2,7:26.0,,Turnover by L. Williams (bad pass; steal by E. Mudiay),27,55
+2,7:26.0,Personal take foul by J. Green (drawn by E. Mudiay),,27,55
+2,7:14.0,E. Mudiay makes 2-pt jump shot from 21 ft (assist by D. Smith),,29,55
+2,7:08.0,,M. Harrell makes 2-pt layup from 2 ft (assist by L. Williams),29,57
+2,7:08.0,,Shooting foul by N. Vonleh (drawn by M. Harrell),29,57
+2,7:08.0,,M. Harrell misses free throw 1 of 1,29,57
+2,7:03.0,Defensive rebound by K. Knox,,29,57
+2,7:00.0,K. Knox makes 2-pt jump shot from 14 ft,,31,57
+2,7:00.0,Shooting foul by J. Green (drawn by K. Knox),,31,57
+2,7:00.0,,S. Gilgeous-Alexander enters the game for T. Wallace,31,57
+2,7:00.0,K. Knox makes free throw 1 of 1,,32,57
+2,6:43.0,,L. Williams misses 2-pt jump shot from 15 ft,32,57
+2,6:43.0,,Offensive rebound by J. Green,32,57
+2,6:43.0,,J. Green makes 2-pt layup from 2 ft,32,59
+2,6:43.0,,Shooting foul by K. Knox (drawn by J. Green),32,59
+2,6:43.0,,J. Green makes free throw 1 of 1,32,60
+2,6:33.0,Shooting foul by M. Harrell (drawn by N. Vonleh),,32,60
+2,6:33.0,Offensive rebound by Team,,32,60
+2,6:33.0,N. Vonleh misses free throw 1 of 2,,32,60
+2,6:33.0,,P. Beverley enters the game for G. Temple,32,60
+2,6:33.0,N. Vonleh makes free throw 2 of 2,,33,60
+2,6:22.0,,S. Gilgeous-Alexander makes 3-pt jump shot from 23 ft (assist by L. Williams),33,63
+2,6:09.0,N. Vonleh makes 2-pt hook shot from 2 ft (assist by D. Smith),,35,63
+2,5:53.0,,L. Williams misses 2-pt jump shot from 21 ft,35,63
+2,5:53.0,,Offensive rebound by Team,35,63
+2,5:53.0,L. Kornet enters the game for E. Mudiay,,35,63
+2,5:53.0,,D. Gallinari enters the game for J. Green,35,63
+2,5:53.0,,L. Shamet enters the game for L. Williams,35,63
+2,5:46.0,,M. Harrell makes 2-pt hook shot from 5 ft,35,65
+2,5:34.0,D. Smith misses 2-pt layup from 3 ft,,35,65
+2,5:32.0,,Defensive rebound by S. Gilgeous-Alexander,35,65
+2,5:28.0,,S. Gilgeous-Alexander makes 2-pt layup from 4 ft,35,67
+2,5:28.0,,Shooting foul by D. Smith (drawn by S. Gilgeous-Alexander),35,67
+2,5:28.0,,I. Zubac enters the game for M. Harrell,35,67
+2,5:28.0,,S. Gilgeous-Alexander makes free throw 1 of 1,35,68
+2,5:19.0,Personal foul by S. Gilgeous-Alexander (drawn by D. Dotson),,35,68
+2,5:19.0,D. Dotson makes free throw 1 of 2,,36,68
+2,5:19.0,D. Dotson makes free throw 2 of 2,,37,68
+2,4:54.0,,D. Gallinari misses 2-pt jump shot from 17 ft,37,68
+2,4:53.0,Defensive rebound by D. Smith,,37,68
+2,4:49.0,D. Dotson makes 2-pt layup from 2 ft (assist by D. Smith),,39,68
+2,4:36.0,,D. Gallinari makes 2-pt layup from 3 ft (assist by P. Beverley),39,70
+2,4:36.0,,Shooting foul by L. Kornet (drawn by D. Gallinari),39,70
+2,4:36.0,,D. Gallinari makes free throw 1 of 1,39,71
+2,4:30.0,Turnover by D. Smith (bad pass),,39,71
+2,4:14.0,,Turnover by D. Gallinari (lost ball; steal by D. Smith),39,71
+2,4:14.0,Personal take foul by D. Gallinari (drawn by K. Knox),,39,71
+2,4:14.0,K. Knox makes free throw 1 of 2,,40,71
+2,4:14.0,K. Knox makes free throw 2 of 2,,41,71
+2,4:00.0,,L. Shamet makes 3-pt jump shot from 26 ft (assist by S. Gilgeous-Alexander),41,74
+2,3:57.0,Turnover by K. Knox (inbound),,41,74
+2,3:53.0,,I. Zubac misses 2-pt jump shot from 15 ft,41,74
+2,3:46.0,Defensive rebound by N. Vonleh,,41,74
+2,3:46.0,Personal foul by P. Beverley (drawn by D. Smith),,41,74
+2,3:46.0,D. Smith misses free throw 1 of 2,,41,74
+2,3:46.0,Offensive rebound by Team,,41,74
+2,3:46.0,E. Mudiay enters the game for K. Knox,,41,74
+2,3:46.0,D. Smith makes free throw 2 of 2,,42,74
+2,3:33.0,,S. Gilgeous-Alexander makes 2-pt jump shot from 20 ft,42,76
+2,3:17.0,E. Mudiay misses 3-pt jump shot from 26 ft,,42,76
+2,3:14.0,,Defensive rebound by Team,42,76
+2,3:05.0,,I. Zubac makes 2-pt dunk from 3 ft (assist by S. Gilgeous-Alexander),42,78
+2,2:54.0,Shooting foul by I. Zubac (drawn by N. Vonleh),,42,78
+2,2:54.0,,LA Clippers full timeout,42,78
+2,2:54.0,N. Vonleh makes free throw 1 of 2,,43,78
+2,2:54.0,N. Vonleh makes free throw 2 of 2,,44,78
+2,2:36.0,,D. Gallinari misses 2-pt dunk from 2 ft (block by L. Kornet),44,78
+2,2:36.0,,Offensive rebound by Team,44,78
+2,2:28.0,,P. Beverley misses 2-pt hook shot from 6 ft,44,78
+2,2:25.0,Defensive rebound by E. Mudiay,,44,78
+2,2:15.0,D. Smith misses 2-pt layup from 2 ft,,44,78
+2,2:12.0,,Defensive rebound by D. Gallinari,44,78
+2,2:01.0,,Turnover by D. Gallinari (traveling),44,78
+2,1:46.0,D. Dotson misses 3-pt jump shot from 26 ft,,44,78
+2,1:43.0,,Defensive rebound by I. Zubac,44,78
+2,1:34.0,,D. Gallinari makes 3-pt jump shot from 26 ft (assist by I. Zubac),44,81
+2,1:18.0,Turnover by N. Vonleh (bad pass; steal by S. Gilgeous-Alexander),,44,81
+2,1:11.0,,Personal foul by N. Vonleh (drawn by I. Zubac),44,81
+2,1:11.0,,I. Zubac misses free throw 1 of 2,44,81
+2,1:11.0,,Offensive rebound by Team,44,81
+2,1:11.0,,I. Zubac makes free throw 2 of 2,44,82
+2,0:58.0,L. Kornet misses 2-pt jump shot from 9 ft,,44,82
+2,0:56.0,,Defensive rebound by P. Beverley,44,82
+2,0:33.0,,P. Beverley misses 3-pt jump shot from 26 ft,44,82
+2,0:31.0,Defensive rebound by E. Mudiay,,44,82
+2,0:27.0,D. Dotson misses 2-pt jump shot from 2 ft,,44,82
+2,0:23.0,,Defensive rebound by P. Beverley,44,82
+2,0:04.0,,L. Shamet misses 3-pt jump shot from 24 ft,44,82
+2,0:01.0,Defensive rebound by N. Vonleh,,44,82
+2,0:01.0,Personal foul by P. Beverley (drawn by E. Mudiay),,44,82
+2,0:01.0,E. Mudiay makes free throw 1 of 2,,45,82
+2,0:01.0,E. Mudiay makes free throw 2 of 2,,46,82
+2,0:00.0,,P. Beverley misses 3-pt jump shot from 26 ft,46,82
+2,0:00.0,,Offensive rebound by Team,46,82
+3,11:39.0,N. Vonleh makes 2-pt layup from 2 ft,,48,82
+3,11:34.0,,Turnover by I. Zubac (offensive foul),48,82
+3,11:34.0,,Offensive foul by I. Zubac (drawn by N. Vonleh),48,82
+3,11:19.0,N. Vonleh makes 2-pt hook shot from 4 ft,,50,82
+3,11:19.0,Shooting foul by I. Zubac (drawn by N. Vonleh),,50,82
+3,11:19.0,N. Vonleh makes free throw 1 of 1,,51,82
+3,10:59.0,,D. Gallinari misses 2-pt jump shot from 15 ft,51,82
+3,10:56.0,Defensive rebound by N. Vonleh,,51,82
+3,10:50.0,N. Vonleh makes 3-pt jump shot from 26 ft (assist by D. Smith),,54,82
+3,10:33.0,,D. Gallinari misses 3-pt jump shot from 28 ft,54,82
+3,10:30.0,Defensive rebound by N. Vonleh,,54,82
+3,10:23.0,N. Vonleh misses 3-pt jump shot from 26 ft,,54,82
+3,10:19.0,,Defensive rebound by S. Gilgeous-Alexander,54,82
+3,10:12.0,,D. Gallinari makes 3-pt jump shot from 27 ft (assist by S. Gilgeous-Alexander),54,85
+3,9:51.0,K. Knox misses 2-pt jump shot from 22 ft,,54,85
+3,9:49.0,,Defensive rebound by I. Zubac,54,85
+3,9:46.0,,S. Gilgeous-Alexander makes 2-pt layup from 1 ft,54,87
+3,9:41.0,Shooting foul by P. Beverley (drawn by K. Knox),,54,87
+3,9:41.0,K. Knox misses free throw 1 of 2,,54,87
+3,9:41.0,Offensive rebound by Team,,54,87
+3,9:41.0,K. Knox makes free throw 2 of 2,,55,87
+3,9:23.0,,D. Gallinari makes 2-pt dunk from 2 ft (assist by I. Zubac),55,89
+3,9:11.0,D. Smith makes 2-pt jump shot from 19 ft,,57,89
+3,8:55.0,,P. Beverley makes 3-pt jump shot from 25 ft (assist by D. Gallinari),57,92
+3,8:55.0,New York full timeout,,57,92
+3,8:47.0,Shooting foul by S. Gilgeous-Alexander (drawn by D. Smith),,57,92
+3,8:47.0,D. Smith misses free throw 1 of 2,,57,92
+3,8:47.0,Offensive rebound by Team,,57,92
+3,8:47.0,D. Smith makes free throw 2 of 2,,58,92
+3,8:31.0,,I. Zubac misses 2-pt dunk from 1 ft,58,92
+3,8:27.0,Defensive rebound by N. Vonleh,,58,92
+3,8:21.0,N. Vonleh makes 2-pt layup from 2 ft (assist by D. Smith),,60,92
+3,8:01.0,,L. Shamet misses 3-pt jump shot from 27 ft,60,92
+3,7:58.0,,Offensive rebound by D. Gallinari,60,92
+3,7:58.0,,Offensive foul by D. Gallinari (drawn by N. Vonleh),60,92
+3,7:58.0,,Turnover by D. Gallinari (offensive foul),60,92
+3,7:58.0,,M. Harrell enters the game for I. Zubac,60,92
+3,7:49.0,D. Dotson misses 3-pt jump shot from 26 ft,,60,92
+3,7:44.0,,Defensive rebound by M. Harrell,60,92
+3,7:28.0,,Turnover by M. Harrell (lost ball; steal by L. Kornet),60,92
+3,7:21.0,D. Smith misses 2-pt jump shot from 17 ft,,60,92
+3,7:17.0,,Defensive rebound by P. Beverley,60,92
+3,7:06.0,,Turnover by M. Harrell (step out of bounds),60,92
+3,6:47.0,L. Kornet misses 2-pt jump shot from 13 ft,,60,92
+3,6:44.0,,Defensive rebound by D. Gallinari,60,92
+3,6:30.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 13 ft,60,92
+3,6:26.0,Defensive rebound by K. Knox,,60,92
+3,6:21.0,D. Smith misses 3-pt jump shot from 26 ft,,60,92
+3,6:20.0,,Defensive rebound by P. Beverley,60,92
+3,6:20.0,,LA Clippers full timeout,60,92
+3,5:56.0,,Turnover by Team (shot clock),60,92
+3,5:37.0,D. Dotson makes 3-pt jump shot from 27 ft (assist by N. Vonleh),,63,92
+3,5:23.0,,Personal foul by N. Vonleh (drawn by M. Harrell),63,92
+3,5:23.0,,L. Williams enters the game for S. Gilgeous-Alexander,63,92
+3,5:10.0,,D. Gallinari misses 2-pt layup from 2 ft,63,92
+3,5:06.0,Defensive rebound by N. Vonleh,,63,92
+3,5:00.0,K. Knox misses 2-pt jump shot from 4 ft,,63,92
+3,4:57.0,,Defensive rebound by L. Shamet,63,92
+3,4:54.0,,L. Shamet misses 2-pt layup from 3 ft (block by N. Vonleh),63,92
+3,4:51.0,Defensive rebound by N. Vonleh,,63,92
+3,4:46.0,D. Smith misses 3-pt jump shot from 24 ft,,63,92
+3,4:42.0,,Defensive rebound by P. Beverley,63,92
+3,4:32.0,,L. Williams misses 3-pt jump shot from 26 ft (block by L. Kornet),63,92
+3,4:26.0,Defensive rebound by D. Dotson,,63,92
+3,4:23.0,Offensive foul by N. Vonleh (drawn by D. Gallinari),,63,92
+3,4:23.0,Turnover by N. Vonleh (offensive foul),,63,92
+3,4:23.0,E. Mudiay enters the game for D. Smith,,63,92
+3,4:23.0,,J. Green enters the game for D. Gallinari,63,92
+3,4:11.0,,Turnover by P. Beverley (bad pass; steal by D. Dotson),63,92
+3,4:06.0,D. Dotson makes 3-pt jump shot from 27 ft (assist by L. Kornet),,66,92
+3,3:43.0,,L. Williams misses 3-pt jump shot from 28 ft,66,92
+3,3:40.0,Defensive rebound by K. Knox,,66,92
+3,3:35.0,Personal foul by P. Beverley (drawn by N. Vonleh),,66,92
+3,3:35.0,,G. Temple enters the game for P. Beverley,66,92
+3,3:26.0,D. Dotson makes 3-pt jump shot from 24 ft (assist by E. Mudiay),,69,92
+3,3:11.0,,J. Green misses 3-pt jump shot from 25 ft,69,92
+3,3:07.0,Defensive rebound by N. Vonleh,,69,92
+3,3:05.0,Personal foul by G. Temple (drawn by D. Dotson),,69,92
+3,3:05.0,D. Dotson misses free throw 1 of 2,,69,92
+3,3:05.0,Offensive rebound by Team,,69,92
+3,3:05.0,,T. Wallace enters the game for L. Shamet,69,92
+3,3:05.0,D. Dotson makes free throw 2 of 2,,70,92
+3,2:56.0,,Shooting foul by N. Vonleh (drawn by L. Williams),70,92
+3,2:56.0,,L. Williams makes free throw 1 of 2,70,93
+3,2:56.0,M. Robinson enters the game for N. Vonleh,,70,93
+3,2:56.0,,L. Williams makes free throw 2 of 2,70,94
+3,2:39.0,E. Mudiay misses 2-pt jump shot from 10 ft,,70,94
+3,2:37.0,,Defensive rebound by L. Williams,70,94
+3,2:30.0,,J. Green misses 2-pt layup from 5 ft,70,94
+3,2:27.0,Defensive rebound by L. Kornet,,70,94
+3,2:17.0,D. Dotson misses 3-pt jump shot from 26 ft,,70,94
+3,2:12.0,,Defensive rebound by J. Green,70,94
+3,2:12.0,A. Trier enters the game for K. Knox,,70,94
+3,1:58.0,,J. Green misses 2-pt jump shot from 21 ft,70,94
+3,1:54.0,Defensive rebound by M. Robinson,,70,94
+3,1:48.0,Turnover by E. Mudiay (bad pass; steal by M. Harrell),,70,94
+3,1:42.0,,M. Harrell misses 2-pt layup from 3 ft,70,94
+3,1:38.0,,J. Green makes 2-pt layup at rim,70,96
+3,1:38.0,,Offensive rebound by J. Green,70,96
+3,1:19.0,D. Dotson misses 2-pt layup from 3 ft,,70,96
+3,1:16.0,Offensive rebound by M. Robinson,,70,96
+3,1:16.0,M. Robinson misses 2-pt layup from 3 ft (block by G. Temple),,70,96
+3,1:16.0,,Defensive rebound by G. Temple,70,96
+3,1:07.0,,L. Williams makes 3-pt jump shot from 26 ft (assist by T. Wallace),70,99
+3,0:52.0,L. Kornet misses 3-pt jump shot from 27 ft,,70,99
+3,0:48.0,Offensive rebound by M. Robinson,,70,99
+3,0:47.0,A. Trier makes 3-pt jump shot from 26 ft (assist by M. Robinson),,73,99
+3,0:47.0,Away from play foul by J. Green (drawn by L. Kornet),,73,99
+3,0:47.0,L. Kornet makes free throw 1 of 1,,74,99
+3,0:41.0,,L. Williams makes 2-pt jump shot from 5 ft,74,101
+3,0:33.0,E. Mudiay misses 2-pt layup from 4 ft,,74,101
+3,0:32.0,Offensive rebound by M. Robinson,,74,101
+3,0:32.0,M. Robinson makes 2-pt dunk from 2 ft,,76,101
+3,0:12.0,,L. Williams misses 2-pt jump shot from 7 ft,76,101
+3,0:09.0,Defensive rebound by E. Mudiay,,76,101
+3,0:04.0,Personal foul by G. Temple (drawn by L. Kornet),,76,101
+3,0:04.0,L. Kornet makes free throw 1 of 2,,77,101
+3,0:04.0,L. Kornet makes free throw 2 of 2,,78,101
+3,0:00.0,,M. Harrell misses 3-pt jump shot from 40 ft,78,101
+3,0:00.0,,Offensive rebound by Team,78,101
+4,11:48.0,,T. Wallace misses 2-pt layup from 2 ft,78,101
+4,11:44.0,,Offensive rebound by T. Wallace,78,101
+4,11:44.0,,T. Wallace misses 2-pt layup at rim,78,101
+4,11:43.0,Defensive rebound by J. Jenkins,,78,101
+4,11:33.0,Personal foul by J. Green (drawn by H. Ellenson),,78,101
+4,11:19.0,Turnover by J. Jenkins (bad pass; steal by M. Harrell),,78,101
+4,11:08.0,,M. Harrell makes 2-pt hook shot from 6 ft (assist by T. Wallace),78,103
+4,10:53.0,Turnover by M. Robinson (3 sec),,78,103
+4,10:41.0,,Turnover by T. Wallace (bad pass; steal by E. Mudiay),78,103
+4,10:36.0,E. Mudiay makes 2-pt layup from 1 ft,,80,103
+4,10:23.0,,L. Williams misses 2-pt jump shot from 18 ft,80,103
+4,10:19.0,Defensive rebound by H. Ellenson,,80,103
+4,10:09.0,E. Mudiay misses 2-pt jump shot from 11 ft,,80,103
+4,10:07.0,Offensive rebound by M. Robinson,,80,103
+4,10:07.0,Shooting foul by M. Harrell (drawn by M. Robinson),,80,103
+4,10:07.0,,Technical foul by M. Harrell,80,103
+4,10:07.0,J. Jenkins misses technical free throw,,80,103
+4,10:07.0,Offensive rebound by Team,,80,103
+4,10:07.0,M. Robinson makes free throw 1 of 2,,81,103
+4,10:07.0,M. Robinson makes free throw 2 of 2,,82,103
+4,9:52.0,,M. Harrell makes 2-pt dunk from 1 ft (assist by L. Williams),82,105
+4,9:52.0,,Shooting foul by H. Ellenson (drawn by M. Harrell),82,105
+4,9:52.0,,S. Gilgeous-Alexander enters the game for T. Wallace,82,105
+4,9:52.0,,M. Harrell misses free throw 1 of 1,82,105
+4,9:48.0,Defensive rebound by M. Robinson,,82,105
+4,9:40.0,A. Trier makes 3-pt jump shot from 25 ft (assist by E. Mudiay),,85,105
+4,9:23.0,,M. Harrell makes 2-pt hook shot from 5 ft (assist by G. Temple),85,107
+4,9:04.0,E. Mudiay misses 2-pt layup from 1 ft,,85,107
+4,9:02.0,,Defensive rebound by M. Harrell,85,107
+4,8:56.0,,M. Harrell misses 2-pt dunk from 4 ft (block by M. Robinson),85,107
+4,8:53.0,Defensive rebound by H. Ellenson,,85,107
+4,8:53.0,Shooting foul by G. Temple (drawn by A. Trier),,85,107
+4,8:53.0,A. Trier makes free throw 1 of 2,,86,107
+4,8:53.0,A. Trier misses free throw 2 of 2,,86,107
+4,8:48.0,,Defensive rebound by L. Williams,86,107
+4,8:41.0,,M. Harrell makes 2-pt dunk from 2 ft (assist by L. Williams),86,109
+4,8:35.0,New York full timeout,,86,109
+4,8:35.0,N. Vonleh enters the game for J. Jenkins,,86,109
+4,8:19.0,N. Vonleh makes 2-pt dunk from 1 ft,,88,109
+4,7:52.0,,G. Temple makes 2-pt jump shot from 20 ft,88,111
+4,7:33.0,H. Ellenson misses 3-pt jump shot from 24 ft,,88,111
+4,7:30.0,Offensive rebound by M. Robinson,,88,111
+4,7:28.0,M. Robinson makes 2-pt layup from 2 ft,,90,111
+4,7:08.0,,M. Harrell makes 2-pt hook shot from 9 ft,90,113
+4,6:45.0,E. Mudiay makes 3-pt jump shot from 26 ft (assist by A. Trier),,93,113
+4,6:37.0,,J. Green makes 3-pt jump shot from 26 ft (assist by L. Williams),93,116
+4,6:18.0,A. Trier makes 2-pt jump shot from 18 ft (assist by N. Vonleh),,95,116
+4,5:56.0,,L. Williams makes 2-pt layup from 2 ft,95,118
+4,5:34.0,H. Ellenson misses 2-pt layup from 2 ft,,95,118
+4,5:32.0,,Defensive rebound by G. Temple,95,118
+4,5:28.0,,S. Gilgeous-Alexander misses 3-pt jump shot from 23 ft,95,118
+4,5:24.0,,Offensive rebound by J. Green,95,118
+4,5:23.0,,J. Green misses 2-pt layup from 3 ft,95,118
+4,5:21.0,Defensive rebound by M. Robinson,,95,118
+4,5:10.0,H. Ellenson misses 2-pt jump shot from 9 ft,,95,118
+4,5:06.0,Offensive rebound by N. Vonleh,,95,118
+4,5:05.0,M. Robinson makes 2-pt dunk from 1 ft (assist by N. Vonleh),,97,118
+4,4:50.0,,L. Williams misses 3-pt jump shot from 27 ft,97,118
+4,4:47.0,,Offensive rebound by M. Harrell,97,118
+4,4:41.0,,M. Harrell misses 2-pt layup from 2 ft,97,118
+4,4:40.0,Defensive rebound by M. Robinson,,97,118
+4,4:40.0,Personal take foul by L. Williams (drawn by A. Trier),,97,118
+4,4:40.0,D. Smith enters the game for H. Ellenson,,97,118
+4,4:40.0,,J. Robinson enters the game for J. Green,97,118
+4,4:40.0,,L. Shamet enters the game for M. Harrell,97,118
+4,4:40.0,,S. Thornwell enters the game for G. Temple,97,118
+4,4:40.0,,I. Zubac enters the game for L. Williams,97,118
+4,4:22.0,E. Mudiay misses 3-pt jump shot from 26 ft,,97,118
+4,4:19.0,,Defensive rebound by I. Zubac,97,118
+4,4:10.0,,S. Gilgeous-Alexander makes 2-pt dunk from 1 ft,97,120
+4,3:46.0,E. Mudiay misses 2-pt jump shot from 5 ft,,97,120
+4,3:44.0,Offensive rebound by N. Vonleh,,97,120
+4,3:43.0,N. Vonleh misses 2-pt hook shot from 2 ft (block by I. Zubac),,97,120
+4,3:40.0,,Defensive rebound by S. Gilgeous-Alexander,97,120
+4,3:36.0,,J. Robinson misses 3-pt jump shot from 28 ft,97,120
+4,3:34.0,Defensive rebound by E. Mudiay,,97,120
+4,3:28.0,M. Robinson makes 2-pt dunk at rim (assist by D. Smith),,99,120
+4,3:28.0,,LA Clippers full timeout,99,120
+4,3:28.0,J. Jenkins enters the game for E. Mudiay,,99,120
+4,3:28.0,L. Kornet enters the game for M. Robinson,,99,120
+4,3:28.0,,J. Motley enters the game for S. Gilgeous-Alexander,99,120
+4,3:28.0,,T. Wallace enters the game for L. Shamet,99,120
+4,3:13.0,,J. Robinson misses 2-pt jump shot from 12 ft,99,120
+4,3:10.0,Defensive rebound by N. Vonleh,,99,120
+4,2:55.0,J. Jenkins misses 2-pt jump shot from 14 ft (block by S. Thornwell),,99,120
+4,2:50.0,Offensive rebound by L. Kornet,,99,120
+4,2:50.0,L. Kornet misses 3-pt jump shot from 27 ft,,99,120
+4,2:49.0,,Defensive rebound by I. Zubac,99,120
+4,2:47.0,,Offensive foul by J. Motley (drawn by L. Kornet),99,120
+4,2:47.0,,Turnover by J. Motley (offensive foul),99,120
+4,2:47.0,H. Ellenson enters the game for N. Vonleh,,99,120
+4,2:37.0,J. Jenkins misses 3-pt jump shot from 27 ft,,99,120
+4,2:33.0,,Defensive rebound by J. Robinson,99,120
+4,2:27.0,,Turnover by T. Wallace (out of bounds lost ball),99,120
+4,2:14.0,H. Ellenson makes 2-pt layup from 2 ft (assist by L. Kornet),,101,120
+4,2:01.0,,I. Zubac makes 2-pt dunk from 3 ft (assist by J. Robinson),101,122
+4,1:50.0,L. Kornet makes 3-pt jump shot from 24 ft (assist by A. Trier),,104,122
+4,1:37.0,,T. Wallace makes 3-pt jump shot from 24 ft (assist by S. Thornwell),104,125
+4,1:25.0,L. Kornet misses 3-pt jump shot from 25 ft,,104,125
+4,1:22.0,,Defensive rebound by S. Thornwell,104,125
+4,1:13.0,,T. Wallace misses 2-pt hook shot from 4 ft,104,125
+4,1:10.0,Defensive rebound by H. Ellenson,,104,125
+4,1:07.0,Personal foul by J. Robinson (drawn by H. Ellenson),,104,125
+4,1:07.0,H. Ellenson makes free throw 1 of 2,,105,125
+4,1:07.0,H. Ellenson misses free throw 2 of 2,,105,125
+4,1:03.0,,Defensive rebound by I. Zubac,105,125
+4,0:55.0,,J. Motley makes 2-pt dunk from 3 ft (assist by I. Zubac),105,127
+4,0:55.0,,Shooting foul by J. Jenkins (drawn by J. Motley),105,127
+4,0:55.0,,J. Motley makes free throw 1 of 1,105,128
+4,0:47.0,D. Smith misses 2-pt layup from 2 ft,,105,128
+4,0:44.0,,Defensive rebound by J. Motley,105,128
+4,0:42.0,,J. Motley misses 2-pt layup from 4 ft (block by L. Kornet),105,128
+4,0:38.0,Defensive rebound by L. Kornet,,105,128
+4,0:35.0,A. Trier makes 2-pt layup at rim,,107,128
+4,0:22.0,,Turnover by T. Wallace (lost ball; steal by L. Kornet),107,128
+4,0:15.0,J. Jenkins misses 3-pt jump shot from 27 ft,,107,128
+4,0:13.0,,Defensive rebound by I. Zubac,107,128

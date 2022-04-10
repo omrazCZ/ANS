@@ -5,12 +5,28 @@
     "version": "0.2.0",
     "configurations": [
         {
-            "name": "Python: Current File",
+            "name": "Current File",
             "type": "python",
             "request": "launch",
             "program": "${file}",
             "console": "integratedTerminal",
             "justMyCode": true
+        },
+        {
+            "name": "basket_download",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/basketball_reference_api.py",
+            "args": [],
+            "console": "integratedTerminal"
+        },
+        {
+            "name": "pbp_process",
+            "type": "python",
+            "request": "launch",
+            "program": "${workspaceFolder}/get_lineups.py",
+            "args": [],
+            "console": "integratedTerminal"
         }
     ]
 }

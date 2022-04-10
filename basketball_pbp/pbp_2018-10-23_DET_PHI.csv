@@ -1,0 +1,533 @@
+QUARTER,TIME_REMAINING,PHILADELPHIA_ACTION,DETROIT_ACTION,PHILADELPHIA_SCORE,DETROIT_SCORE
+1,11:46.0,,R. Bullock misses 3-pt jump shot from 23 ft,0,0
+1,11:46.0,,Offensive rebound by Team,0,0
+1,11:46.0,,Personal foul by J. Embiid (drawn by B. Griffin),0,0
+1,11:42.0,,Turnover by A. Drummond (bad pass),0,0
+1,11:23.0,D. Šarić misses 3-pt jump shot from 26 ft,,0,0
+1,11:20.0,,Defensive rebound by A. Drummond,0,0
+1,11:16.0,,S. Johnson misses 2-pt layup from 4 ft,0,0
+1,11:15.0,Defensive rebound by J. Embiid,,0,0
+1,11:00.0,M. Fultz makes 2-pt jump shot from 15 ft,,2,0
+1,10:37.0,,B. Griffin misses 2-pt layup from 4 ft,2,0
+1,10:34.0,,Offensive rebound by A. Drummond,2,0
+1,10:26.0,,R. Bullock makes 3-pt jump shot from 25 ft (assist by A. Drummond),2,3
+1,10:18.0,R. Covington makes 3-pt jump shot from 25 ft (assist by D. Šarić),,5,3
+1,10:05.0,,R. Jackson makes 2-pt jump shot from 16 ft,5,5
+1,9:51.0,R. Covington misses 2-pt layup from 4 ft,,5,5
+1,9:51.0,Offensive rebound by J. Embiid,,5,5
+1,9:51.0,Shooting foul by R. Jackson (drawn by J. Embiid),,5,5
+1,9:51.0,J. Embiid makes free throw 1 of 2,,6,5
+1,9:51.0,J. Embiid makes free throw 2 of 2,,7,5
+1,9:36.0,,A. Drummond misses 2-pt layup from 7 ft,7,5
+1,9:36.0,,Offensive rebound by Team,7,5
+1,9:30.0,,R. Jackson makes 3-pt jump shot from 27 ft,7,8
+1,9:15.0,R. Covington makes 2-pt hook shot from 6 ft,,9,8
+1,9:04.0,,Shooting foul by J. Embiid (drawn by B. Griffin),9,8
+1,9:04.0,,B. Griffin misses free throw 1 of 2,9,8
+1,9:04.0,,Offensive rebound by Team,9,8
+1,9:04.0,A. Johnson enters the game for J. Embiid,,9,8
+1,9:04.0,,B. Griffin misses free throw 2 of 2,9,8
+1,8:59.0,,Offensive rebound by B. Griffin,9,8
+1,8:58.0,,B. Griffin makes 2-pt layup from 1 ft,9,10
+1,8:45.0,D. Šarić misses 3-pt jump shot from 23 ft,,9,10
+1,8:42.0,,Defensive rebound by A. Drummond,9,10
+1,8:34.0,,A. Drummond misses 3-pt jump shot from 26 ft,9,10
+1,8:29.0,Defensive rebound by M. Fultz,,9,10
+1,8:26.0,M. Fultz makes 2-pt layup from 1 ft,,11,10
+1,8:16.0,,S. Johnson misses 3-pt jump shot from 23 ft (block by R. Covington),11,10
+1,8:16.0,,Offensive rebound by Team,11,10
+1,8:03.0,,S. Johnson misses 2-pt jump shot from 11 ft,11,10
+1,8:00.0,Defensive rebound by D. Šarić,,11,10
+1,7:54.0,M. Fultz misses 2-pt jump shot from 15 ft,,11,10
+1,7:51.0,,Defensive rebound by A. Drummond,11,10
+1,7:45.0,,R. Jackson makes 3-pt jump shot from 27 ft (assist by S. Johnson),11,13
+1,7:30.0,R. Covington misses 2-pt jump shot from 15 ft,,11,13
+1,7:27.0,,Defensive rebound by A. Drummond,11,13
+1,7:27.0,J. Redick enters the game for L. Shamet,,11,13
+1,7:12.0,,A. Drummond misses 2-pt hook shot from 6 ft,11,13
+1,7:10.0,Defensive rebound by D. Šarić,,11,13
+1,7:05.0,Personal foul by B. Griffin (drawn by A. Johnson),,11,13
+1,6:50.0,D. Šarić misses 2-pt jump shot from 16 ft,,11,13
+1,6:47.0,Offensive rebound by A. Johnson,,11,13
+1,6:46.0,A. Johnson misses 2-pt layup from 2 ft,,11,13
+1,6:46.0,Offensive rebound by M. Fultz,,11,13
+1,6:46.0,,Detroit full timeout,11,13
+1,6:46.0,,L. Galloway enters the game for S. Johnson,11,13
+1,6:41.0,J. Redick makes 3-pt jump shot from 25 ft (assist by M. Fultz),,14,13
+1,6:24.0,,B. Griffin makes 2-pt layup at rim (assist by R. Bullock),14,15
+1,6:12.0,A. Johnson makes 2-pt dunk from 1 ft (assist by J. Redick),,16,15
+1,6:06.0,,Turnover by R. Jackson (bad pass; steal by R. Covington),16,15
+1,6:02.0,Turnover by A. Johnson (out of bounds lost ball),,16,15
+1,6:02.0,T. McConnell enters the game for M. Fultz,,16,15
+1,5:49.0,,R. Jackson misses 2-pt layup from 4 ft,16,15
+1,5:49.0,Defensive rebound by Team,,16,15
+1,5:41.0,J. Redick misses 2-pt jump shot from 19 ft,,16,15
+1,5:36.0,,Defensive rebound by B. Griffin,16,15
+1,5:31.0,,B. Griffin misses 2-pt hook shot from 4 ft,16,15
+1,5:29.0,,Offensive rebound by A. Drummond,16,15
+1,5:29.0,,A. Drummond misses 2-pt layup from 2 ft,16,15
+1,5:29.0,,Offensive rebound by A. Drummond,16,15
+1,5:29.0,,A. Drummond misses 2-pt layup from 1 ft,16,15
+1,5:29.0,,Offensive rebound by Team,16,15
+1,5:29.0,,Shooting foul by A. Johnson (drawn by A. Drummond),16,15
+1,5:29.0,,A. Drummond makes free throw 1 of 2,16,16
+1,5:29.0,,I. Smith enters the game for R. Jackson,16,16
+1,5:29.0,,A. Drummond makes free throw 2 of 2,16,17
+1,5:20.0,T. McConnell makes 2-pt jump shot from 16 ft,,18,17
+1,5:03.0,,B. Griffin misses 2-pt layup from 1 ft,18,17
+1,5:00.0,Defensive rebound by R. Covington,,18,17
+1,5:00.0,,Z. Pachulia enters the game for A. Drummond,18,17
+1,4:46.0,D. Šarić misses 3-pt jump shot from 26 ft,,18,17
+1,4:44.0,,Defensive rebound by Z. Pachulia,18,17
+1,4:35.0,,R. Bullock misses 3-pt jump shot from 27 ft,18,17
+1,4:35.0,Defensive rebound by D. Šarić,,18,17
+1,4:19.0,A. Johnson makes 2-pt layup at rim (assist by J. Redick),,20,17
+1,4:12.0,,L. Galloway misses 3-pt jump shot from 27 ft,20,17
+1,4:12.0,Defensive rebound by T. McConnell,,20,17
+1,4:06.0,Turnover by T. McConnell (palming),,20,17
+1,4:06.0,M. Muscala enters the game for D. Šarić,,20,17
+1,3:44.0,,B. Griffin misses 3-pt jump shot from 28 ft,20,17
+1,3:42.0,,Offensive rebound by R. Bullock,20,17
+1,3:42.0,,Shooting foul by R. Covington (drawn by R. Bullock),20,17
+1,3:42.0,,R. Bullock makes free throw 1 of 2,20,18
+1,3:42.0,,R. Bullock makes free throw 2 of 2,20,19
+1,3:32.0,J. Redick makes 2-pt jump shot from 23 ft (assist by A. Johnson),,22,19
+1,3:15.0,,B. Griffin makes 2-pt layup from 2 ft,22,21
+1,3:02.0,A. Johnson makes 2-pt hook shot from 4 ft,,24,21
+1,2:51.0,,R. Bullock misses 2-pt layup from 7 ft (block by M. Muscala),24,21
+1,2:47.0,Defensive rebound by A. Johnson,,24,21
+1,2:43.0,T. McConnell makes 2-pt layup from 3 ft,,26,21
+1,2:20.0,,I. Smith makes 2-pt jump shot from 3 ft,26,23
+1,2:20.0,Philadelphia full timeout,,26,23
+1,2:20.0,L. Shamet enters the game for R. Covington,,26,23
+1,2:20.0,,S. Johnson enters the game for R. Bullock,26,23
+1,2:20.0,,L. Kennard enters the game for B. Griffin,26,23
+1,1:57.0,T. McConnell misses 2-pt jump shot from 11 ft,,26,23
+1,1:55.0,,Defensive rebound by Z. Pachulia,26,23
+1,1:48.0,,Offensive foul by Z. Pachulia (drawn by T. McConnell),26,23
+1,1:48.0,,Turnover by Z. Pachulia (offensive foul),26,23
+1,1:42.0,Personal foul by Z. Pachulia (drawn by A. Johnson),,26,23
+1,1:32.0,J. Redick misses 3-pt jump shot from 25 ft,,26,23
+1,1:29.0,,Defensive rebound by L. Kennard,26,23
+1,1:25.0,,L. Kennard makes 2-pt layup from 1 ft,26,25
+1,1:07.0,Turnover by A. Johnson (3 sec),,26,25
+1,1:07.0,D. Šarić enters the game for A. Johnson,,26,25
+1,0:57.0,,L. Galloway makes 2-pt layup from 2 ft (assist by I. Smith),26,27
+1,0:51.0,M. Muscala misses 3-pt jump shot from 26 ft,,26,27
+1,0:49.0,Offensive rebound by D. Šarić,,26,27
+1,0:49.0,Personal foul by L. Galloway (drawn by D. Šarić),,26,27
+1,0:49.0,D. Šarić makes free throw 1 of 2,,27,27
+1,0:49.0,D. Šarić makes free throw 2 of 2,,28,27
+1,0:36.0,,L. Kennard misses 3-pt jump shot from 26 ft,28,27
+1,0:33.0,Defensive rebound by J. Redick,,28,27
+1,0:16.0,Turnover by D. Šarić (back court),,28,27
+1,0:02.0,,I. Smith misses 2-pt layup from 2 ft,28,27
+1,0:02.0,,Offensive rebound by Z. Pachulia,28,27
+1,0:00.0,,Z. Pachulia misses 2-pt layup from 1 ft,28,27
+1,0:00.0,,Offensive rebound by Team,28,27
+2,11:39.0,J. Embiid misses 2-pt layup from 5 ft,,28,27
+2,11:37.0,,Defensive rebound by S. Johnson,28,27
+2,11:25.0,,A. Drummond makes 2-pt hook shot from 2 ft (assist by L. Kennard),28,29
+2,11:11.0,L. Shamet makes 2-pt jump shot from 14 ft (assist by J. Embiid),,30,29
+2,10:50.0,Violation by Team (kicked ball),,30,29
+2,10:45.0,,R. Jackson misses 2-pt jump shot from 12 ft,30,29
+2,10:42.0,Defensive rebound by R. Covington,,30,29
+2,10:34.0,M. Fultz makes 2-pt layup from 6 ft,,32,29
+2,10:34.0,D. Šarić enters the game for M. Muscala,,32,29
+2,10:19.0,,L. Galloway misses 3-pt jump shot from 26 ft,32,29
+2,10:17.0,Defensive rebound by J. Embiid,,32,29
+2,10:10.0,R. Covington misses 2-pt layup from 2 ft,,32,29
+2,10:07.0,Offensive rebound by R. Covington,,32,29
+2,10:05.0,M. Fultz makes 3-pt jump shot from 23 ft (assist by L. Shamet),,35,29
+2,9:59.0,,Detroit full timeout,35,29
+2,9:59.0,,R. Bullock enters the game for L. Galloway,35,29
+2,9:59.0,,B. Griffin enters the game for S. Johnson,35,29
+2,9:45.0,,A. Drummond misses 2-pt hook shot from 4 ft,35,29
+2,9:43.0,Defensive rebound by D. Šarić,,35,29
+2,9:25.0,J. Embiid misses 2-pt hook shot from 6 ft,,35,29
+2,9:23.0,,Defensive rebound by A. Drummond,35,29
+2,9:17.0,,R. Jackson makes 3-pt jump shot from 28 ft (assist by L. Kennard),35,32
+2,9:08.0,Personal foul by A. Drummond (drawn by J. Embiid),,35,32
+2,9:08.0,J. Redick enters the game for L. Shamet,,35,32
+2,8:55.0,J. Embiid makes 2-pt hook shot from 4 ft,,37,32
+2,8:44.0,,B. Griffin makes 2-pt layup from 1 ft,37,34
+2,8:30.0,D. Šarić makes 2-pt jump shot from 21 ft (assist by J. Embiid),,39,34
+2,8:21.0,,Personal foul by D. Šarić (drawn by R. Jackson),39,34
+2,8:18.0,,Personal foul by M. Fultz (drawn by B. Griffin),39,34
+2,8:08.0,,B. Griffin makes 2-pt hook shot from 4 ft,39,36
+2,8:08.0,,Shooting foul by D. Šarić (drawn by B. Griffin),39,36
+2,8:08.0,,B. Griffin misses free throw 1 of 1,39,36
+2,8:06.0,Defensive rebound by R. Covington,,39,36
+2,7:58.0,Shooting foul by L. Kennard (drawn by J. Redick),,39,36
+2,7:58.0,J. Redick makes free throw 1 of 2,,40,36
+2,7:58.0,,I. Smith enters the game for L. Kennard,40,36
+2,7:58.0,J. Redick makes free throw 2 of 2,,41,36
+2,7:49.0,,B. Griffin makes 2-pt layup from 2 ft,41,38
+2,7:34.0,D. Šarić misses 2-pt layup from 2 ft (block by A. Drummond),,41,38
+2,7:33.0,Offensive rebound by Team,,41,38
+2,7:28.0,J. Redick makes 3-pt jump shot from 25 ft (assist by D. Šarić),,44,38
+2,7:10.0,,R. Bullock makes 3-pt jump shot from 27 ft (assist by B. Griffin),44,41
+2,6:57.0,J. Redick misses 3-pt jump shot from 25 ft,,44,41
+2,6:54.0,,Defensive rebound by B. Griffin,44,41
+2,6:42.0,,Turnover by A. Drummond (off goaltending),44,41
+2,6:34.0,Away from play foul by B. Griffin (drawn by J. Redick),,44,41
+2,6:34.0,J. Redick makes free throw 1 of 1,,45,41
+2,6:34.0,,Z. Pachulia enters the game for A. Drummond,45,41
+2,6:24.0,J. Embiid makes 2-pt layup from 2 ft (assist by J. Redick),,47,41
+2,6:18.0,,B. Griffin makes 2-pt layup from 2 ft,47,43
+2,6:18.0,,Shooting foul by R. Covington (drawn by B. Griffin),47,43
+2,6:18.0,T. McConnell enters the game for M. Fultz,,47,43
+2,6:18.0,,L. Galloway enters the game for R. Jackson,47,43
+2,6:18.0,,B. Griffin misses free throw 1 of 1,47,43
+2,6:16.0,Defensive rebound by J. Embiid,,47,43
+2,5:59.0,J. Embiid makes 2-pt layup from 3 ft (assist by T. McConnell),,49,43
+2,5:52.0,,B. Griffin makes 3-pt jump shot from 25 ft (assist by I. Smith),49,46
+2,5:30.0,Shooting foul by Z. Pachulia (drawn by J. Embiid),,49,46
+2,5:30.0,J. Embiid makes free throw 1 of 2,,50,46
+2,5:30.0,J. Embiid makes free throw 2 of 2,,51,46
+2,5:13.0,,B. Griffin misses 2-pt hook shot from 6 ft,51,46
+2,5:09.0,Defensive rebound by J. Embiid,,51,46
+2,4:59.0,D. Šarić makes 2-pt layup from 2 ft (assist by J. Embiid),,53,46
+2,4:59.0,Shooting foul by L. Galloway (drawn by D. Šarić),,53,46
+2,4:59.0,D. Šarić misses free throw 1 of 1,,53,46
+2,4:59.0,,Defensive rebound by B. Griffin,53,46
+2,4:40.0,,Shooting foul by D. Šarić (drawn by B. Griffin),53,46
+2,4:40.0,,B. Griffin misses free throw 1 of 2,53,46
+2,4:40.0,,Offensive rebound by Team,53,46
+2,4:40.0,M. Muscala enters the game for D. Šarić,,53,46
+2,4:40.0,,B. Griffin misses free throw 2 of 2,53,46
+2,4:37.0,Defensive rebound by R. Covington,,53,46
+2,4:20.0,Shooting foul by Z. Pachulia (drawn by J. Embiid),,53,46
+2,4:20.0,J. Embiid misses free throw 1 of 2,,53,46
+2,4:20.0,Offensive rebound by Team,,53,46
+2,4:20.0,,A. Drummond enters the game for Z. Pachulia,53,46
+2,4:20.0,J. Embiid makes free throw 2 of 2,,54,46
+2,4:10.0,,B. Griffin makes 3-pt jump shot from 25 ft,54,49
+2,3:57.0,R. Covington misses 3-pt jump shot from 25 ft,,54,49
+2,3:54.0,,Defensive rebound by A. Drummond,54,49
+2,3:50.0,,B. Griffin makes 2-pt dunk at rim,54,51
+2,3:50.0,Philadelphia full timeout,,54,51
+2,3:50.0,L. Shamet enters the game for R. Covington,,54,51
+2,3:32.0,J. Redick makes 2-pt jump shot from 21 ft (assist by J. Embiid),,56,51
+2,3:20.0,,A. Drummond makes 2-pt hook shot from 4 ft (assist by R. Bullock),56,53
+2,3:13.0,J. Embiid misses 3-pt jump shot from 24 ft,,56,53
+2,3:13.0,,Defensive rebound by Team,56,53
+2,3:02.0,,I. Smith misses 3-pt jump shot from 26 ft,56,53
+2,2:58.0,Defensive rebound by J. Embiid,,56,53
+2,2:48.0,J. Embiid makes 2-pt layup from 4 ft (assist by T. McConnell),,58,53
+2,2:35.0,,A. Drummond misses 2-pt layup from 5 ft,58,53
+2,2:33.0,Defensive rebound by J. Redick,,58,53
+2,2:29.0,J. Redick misses 3-pt jump shot from 26 ft,,58,53
+2,2:25.0,Offensive rebound by Team,,58,53
+2,2:25.0,,R. Jackson enters the game for I. Smith,58,53
+2,2:15.0,J. Embiid makes 2-pt jump shot from 18 ft,,60,53
+2,1:54.0,,R. Jackson misses 3-pt jump shot from 23 ft,60,53
+2,1:50.0,Defensive rebound by M. Muscala,,60,53
+2,1:40.0,Personal foul by A. Drummond (drawn by J. Embiid),,60,53
+2,1:40.0,J. Embiid makes free throw 1 of 2,,61,53
+2,1:40.0,J. Embiid makes free throw 2 of 2,,62,53
+2,1:28.0,,B. Griffin makes 2-pt layup from 3 ft,62,55
+2,1:15.0,M. Muscala makes 2-pt layup from 1 ft (assist by J. Redick),,64,55
+2,0:59.0,,B. Griffin makes 2-pt jump shot from 9 ft,64,57
+2,0:44.0,J. Redick misses 3-pt jump shot from 25 ft,,64,57
+2,0:40.0,,Defensive rebound by R. Bullock,64,57
+2,0:37.0,,Personal foul by M. Muscala (drawn by B. Griffin),64,57
+2,0:37.0,,B. Griffin makes free throw 1 of 2,64,58
+2,0:37.0,A. Johnson enters the game for J. Embiid,,64,58
+2,0:37.0,,B. Griffin makes free throw 2 of 2,64,59
+2,0:31.0,J. Redick misses 3-pt jump shot from 26 ft,,64,59
+2,0:27.0,,Defensive rebound by A. Drummond,64,59
+2,0:16.0,,Personal foul by L. Shamet (drawn by L. Galloway),64,59
+2,0:16.0,,L. Galloway makes free throw 1 of 2,64,60
+2,0:16.0,D. Šarić enters the game for A. Johnson,,64,60
+2,0:16.0,,S. Johnson enters the game for B. Griffin,64,60
+2,0:16.0,,L. Galloway makes free throw 2 of 2,64,61
+2,0:00.0,Turnover by T. McConnell (lost ball; steal by A. Drummond),,64,61
+2,0:00.0,,A. Drummond misses 3-pt jump shot from 66 ft,64,61
+2,0:00.0,,Offensive rebound by Team,64,61
+3,11:45.0,J. Embiid makes 2-pt jump shot from 15 ft (assist by D. Šarić),,66,61
+3,11:30.0,,R. Bullock makes 2-pt jump shot from 23 ft (assist by B. Griffin),66,63
+3,11:30.0,,Shooting foul by L. Shamet (drawn by R. Bullock),66,63
+3,11:30.0,,R. Bullock makes free throw 1 of 1,66,64
+3,11:18.0,Turnover by M. Fultz (lost ball; steal by A. Drummond),,66,64
+3,11:03.0,,B. Griffin makes 2-pt layup from 1 ft,66,66
+3,10:54.0,D. Šarić misses 3-pt jump shot from 27 ft,,66,66
+3,10:49.0,Offensive rebound by M. Fultz,,66,66
+3,10:47.0,D. Šarić makes 3-pt jump shot from 26 ft (assist by R. Covington),,69,66
+3,10:24.0,,R. Bullock makes 2-pt jump shot from 17 ft (assist by R. Jackson),69,68
+3,10:11.0,L. Shamet misses 3-pt jump shot from 25 ft,,69,68
+3,10:08.0,,Defensive rebound by B. Griffin,69,68
+3,10:05.0,,Turnover by A. Drummond (out of bounds lost ball),69,68
+3,9:47.0,D. Šarić makes 2-pt layup from 3 ft (assist by L. Shamet),,71,68
+3,9:39.0,,R. Jackson makes 2-pt hook shot from 7 ft,71,70
+3,9:14.0,J. Embiid makes 2-pt hook shot from 11 ft,,73,70
+3,8:51.0,,A. Drummond makes 2-pt layup from 1 ft (assist by S. Johnson),73,72
+3,8:41.0,L. Shamet makes 3-pt jump shot from 26 ft (assist by J. Embiid),,76,72
+3,8:12.0,,A. Drummond makes 2-pt jump shot from 6 ft (assist by S. Johnson),76,74
+3,8:01.0,M. Fultz makes 2-pt dunk at rim (assist by D. Šarić),,78,74
+3,7:45.0,,Shooting foul by M. Fultz (drawn by R. Jackson),78,74
+3,7:45.0,,R. Jackson makes free throw 1 of 2,78,75
+3,7:45.0,,R. Jackson makes free throw 2 of 2,78,76
+3,7:35.0,Turnover by M. Fultz (bad pass; steal by A. Drummond),,78,76
+3,7:30.0,,S. Johnson misses 3-pt jump shot from 23 ft,78,76
+3,7:26.0,,Offensive rebound by A. Drummond,78,76
+3,7:23.0,,A. Drummond misses 2-pt hook shot from 6 ft,78,76
+3,7:23.0,Defensive rebound by M. Fultz,,78,76
+3,7:12.0,L. Shamet misses 3-pt jump shot from 26 ft,,78,76
+3,7:09.0,,Defensive rebound by A. Drummond,78,76
+3,7:06.0,,R. Bullock misses 2-pt layup from 4 ft (block by M. Fultz),78,76
+3,7:06.0,,Offensive rebound by B. Griffin,78,76
+3,7:06.0,,Personal foul by D. Šarić (drawn by B. Griffin),78,76
+3,7:06.0,A. Johnson enters the game for J. Embiid,,78,76
+3,7:06.0,M. Muscala enters the game for D. Šarić,,78,76
+3,7:06.0,J. Redick enters the game for L. Shamet,,78,76
+3,7:06.0,,L. Galloway enters the game for S. Johnson,78,76
+3,6:59.0,,A. Drummond misses 2-pt layup from 2 ft (block by M. Muscala),78,76
+3,6:56.0,Defensive rebound by M. Fultz,,78,76
+3,6:51.0,M. Fultz misses 2-pt jump shot from 11 ft,,78,76
+3,6:48.0,,Defensive rebound by B. Griffin,78,76
+3,6:43.0,,R. Bullock misses 3-pt jump shot from 26 ft,78,76
+3,6:40.0,Defensive rebound by A. Johnson,,78,76
+3,6:30.0,Turnover by R. Covington (discontinued dribble),,78,76
+3,6:30.0,,Detroit full timeout,78,76
+3,6:30.0,T. McConnell enters the game for M. Fultz,,78,76
+3,6:30.0,,Z. Pachulia enters the game for A. Drummond,78,76
+3,6:20.0,,Personal foul by A. Johnson (drawn by R. Jackson),78,76
+3,6:09.0,,B. Griffin misses 3-pt jump shot from 25 ft,78,76
+3,6:03.0,Defensive rebound by T. McConnell,,78,76
+3,5:56.0,Personal foul by L. Galloway (drawn by A. Johnson),,78,76
+3,5:45.0,A. Johnson misses 2-pt hook shot from 10 ft,,78,76
+3,5:40.0,Offensive rebound by M. Muscala,,78,76
+3,5:37.0,R. Covington makes 3-pt jump shot from 25 ft (assist by T. McConnell),,81,76
+3,5:19.0,,R. Bullock makes 2-pt jump shot from 17 ft,81,78
+3,5:06.0,J. Redick misses 3-pt jump shot from 26 ft,,81,78
+3,5:06.0,,Defensive rebound by Z. Pachulia,81,78
+3,4:57.0,,B. Griffin makes 2-pt layup from 3 ft,81,80
+3,4:54.0,Philadelphia full timeout,,81,80
+3,4:54.0,,L. Kennard enters the game for R. Bullock,81,80
+3,4:54.0,,I. Smith enters the game for R. Jackson,81,80
+3,4:38.0,J. Redick makes 3-pt jump shot from 26 ft (assist by T. McConnell),,84,80
+3,4:19.0,,B. Griffin makes 2-pt hook shot from 8 ft,84,82
+3,4:19.0,J. Embiid enters the game for A. Johnson,,84,82
+3,4:19.0,,A. Drummond enters the game for Z. Pachulia,84,82
+3,4:03.0,R. Covington makes 2-pt layup from 1 ft (assist by T. McConnell),,86,82
+3,4:03.0,D. Šarić enters the game for M. Muscala,,86,82
+3,3:34.0,,A. Drummond misses 2-pt layup from 5 ft,86,82
+3,3:31.0,Defensive rebound by J. Embiid,,86,82
+3,3:26.0,T. McConnell misses 3-pt jump shot from 23 ft,,86,82
+3,3:23.0,,Defensive rebound by A. Drummond,86,82
+3,3:16.0,,I. Smith makes 2-pt layup from 2 ft (assist by B. Griffin),86,84
+3,2:55.0,J. Redick misses 3-pt jump shot from 25 ft,,86,84
+3,2:46.0,,Defensive rebound by A. Drummond,86,84
+3,2:36.0,,Turnover by A. Drummond (lost ball; steal by T. McConnell),86,84
+3,2:31.0,R. Covington makes 3-pt jump shot from 26 ft (assist by T. McConnell),,89,84
+3,2:03.0,,B. Griffin misses 2-pt jump shot from 15 ft,89,84
+3,2:01.0,,Offensive rebound by A. Drummond,89,84
+3,2:01.0,,A. Drummond misses 2-pt layup at rim,89,84
+3,2:01.0,Defensive rebound by T. McConnell,,89,84
+3,2:01.0,Personal foul by A. Drummond (drawn by T. McConnell),,89,84
+3,2:01.0,,Technical foul by A. Drummond,89,84
+3,2:01.0,M. Fultz enters the game for T. McConnell,,89,84
+3,2:01.0,J. Redick makes technical free throw,,90,84
+3,2:01.0,,S. Johnson enters the game for B. Griffin,90,84
+3,1:47.0,J. Embiid makes 2-pt jump shot from 14 ft,,92,84
+3,1:28.0,,L. Kennard misses 2-pt jump shot from 8 ft (block by J. Embiid),92,84
+3,1:25.0,Defensive rebound by M. Fultz,,92,84
+3,1:21.0,J. Embiid makes 2-pt jump shot from 18 ft,,94,84
+3,1:11.0,,I. Smith makes 2-pt layup from 4 ft,94,86
+3,1:11.0,,Shooting foul by M. Fultz (drawn by I. Smith),94,86
+3,1:11.0,,I. Smith makes free throw 1 of 1,94,87
+3,1:04.0,,Violation by Team (kicked ball),94,87
+3,1:01.0,J. Redick misses 2-pt layup from 4 ft,,94,87
+3,0:59.0,,Defensive rebound by L. Galloway,94,87
+3,0:59.0,,Personal foul by J. Embiid (drawn by A. Drummond),94,87
+3,0:59.0,,A. Drummond misses free throw 1 of 2,94,87
+3,0:59.0,,Offensive rebound by Team,94,87
+3,0:59.0,,A. Drummond misses free throw 2 of 2,94,87
+3,0:57.0,,Offensive rebound by Team,94,87
+3,0:48.0,,S. Johnson misses 2-pt jump shot from 11 ft,94,87
+3,0:45.0,Defensive rebound by J. Redick,,94,87
+3,0:35.0,D. Šarić misses 3-pt jump shot from 25 ft,,94,87
+3,0:31.0,,Defensive rebound by A. Drummond,94,87
+3,0:25.0,,A. Drummond misses 2-pt layup from 4 ft,94,87
+3,0:23.0,Defensive rebound by R. Covington,,94,87
+3,0:01.0,M. Fultz misses 3-pt jump shot from 25 ft (block by I. Smith),,94,87
+3,0:01.0,,Defensive rebound by L. Galloway,94,87
+4,11:45.0,,I. Smith makes 2-pt layup from 3 ft,94,89
+4,11:31.0,M. Fultz makes 2-pt jump shot from 14 ft,,96,89
+4,11:09.0,,I. Smith makes 2-pt layup from 3 ft,96,91
+4,10:49.0,J. Embiid misses 3-pt jump shot from 26 ft,,96,91
+4,10:44.0,Offensive rebound by R. Covington,,96,91
+4,10:44.0,Personal foul by S. Johnson (drawn by D. Šarić),,96,91
+4,10:41.0,J. Embiid makes 2-pt dunk at rim (assist by R. Covington),,98,91
+4,10:41.0,,Detroit full timeout,98,91
+4,10:29.0,,I. Smith makes 2-pt jump shot from 5 ft,98,93
+4,10:12.0,Personal foul by S. Johnson (drawn by D. Šarić),,98,93
+4,10:12.0,T. McConnell enters the game for M. Fultz,,98,93
+4,10:00.0,D. Šarić makes 3-pt jump shot from 25 ft (assist by J. Embiid),,101,93
+4,9:40.0,,Shooting foul by R. Covington (drawn by R. Jackson),101,93
+4,9:40.0,,R. Jackson makes free throw 1 of 2,101,94
+4,9:40.0,,R. Bullock enters the game for L. Galloway,101,94
+4,9:40.0,,B. Griffin enters the game for S. Johnson,101,94
+4,9:40.0,,R. Jackson makes free throw 2 of 2,101,95
+4,9:31.0,Turnover by T. McConnell (bad pass),,101,95
+4,9:12.0,,B. Griffin makes 3-pt jump shot from 26 ft (assist by R. Bullock),101,98
+4,8:46.0,J. Embiid misses 2-pt dunk from 3 ft (block by A. Drummond),,101,98
+4,8:45.0,Offensive rebound by Team,,101,98
+4,8:45.0,J. Redick enters the game for L. Shamet,,101,98
+4,8:43.0,D. Šarić misses 3-pt jump shot from 26 ft,,101,98
+4,8:43.0,,Defensive rebound by I. Smith,101,98
+4,8:41.0,,Personal foul by R. Covington (drawn by I. Smith),101,98
+4,8:41.0,A. Johnson enters the game for R. Covington,,101,98
+4,8:41.0,L. Shamet enters the game for J. Embiid,,101,98
+4,8:30.0,,Personal foul by A. Johnson (drawn by B. Griffin),101,98
+4,8:22.0,,A. Drummond misses 2-pt layup from 5 ft (block by D. Šarić),101,98
+4,8:19.0,Defensive rebound by A. Johnson,,101,98
+4,8:14.0,Shooting foul by B. Griffin (drawn by A. Johnson),,101,98
+4,8:14.0,A. Johnson misses free throw 1 of 2,,101,98
+4,8:14.0,Offensive rebound by Team,,101,98
+4,8:14.0,,Z. Pachulia enters the game for A. Drummond,101,98
+4,8:14.0,A. Johnson misses free throw 2 of 2,,101,98
+4,8:14.0,,Defensive rebound by B. Griffin,101,98
+4,7:58.0,,B. Griffin misses 3-pt jump shot from 27 ft,101,98
+4,7:53.0,Defensive rebound by J. Redick,,101,98
+4,7:46.0,T. McConnell makes 2-pt jump shot from 15 ft,,103,98
+4,7:39.0,,I. Smith makes 2-pt layup from 1 ft,103,100
+4,7:39.0,Philadelphia full timeout,,103,100
+4,7:28.0,L. Shamet misses 3-pt jump shot from 26 ft,,103,100
+4,7:24.0,,Defensive rebound by R. Jackson,103,100
+4,7:20.0,,Z. Pachulia makes 2-pt layup from 1 ft (assist by R. Jackson),103,102
+4,7:20.0,J. Embiid enters the game for A. Johnson,,103,102
+4,7:20.0,M. Muscala enters the game for D. Šarić,,103,102
+4,6:58.0,J. Embiid misses 2-pt jump shot from 17 ft,,103,102
+4,6:55.0,,Defensive rebound by Z. Pachulia,103,102
+4,6:39.0,,R. Jackson misses 3-pt jump shot from 23 ft,103,102
+4,6:36.0,,Offensive rebound by Z. Pachulia,103,102
+4,6:35.0,,B. Griffin misses 3-pt jump shot from 25 ft,103,102
+4,6:31.0,Defensive rebound by T. McConnell,,103,102
+4,6:27.0,M. Muscala makes 3-pt jump shot from 26 ft (assist by J. Redick),,106,102
+4,6:07.0,,B. Griffin misses 2-pt jump shot from 15 ft (block by J. Embiid),106,102
+4,6:04.0,Defensive rebound by J. Embiid,,106,102
+4,6:03.0,Shooting foul by I. Smith (drawn by J. Embiid),,106,102
+4,6:03.0,J. Embiid misses free throw 1 of 2,,106,102
+4,6:03.0,Offensive rebound by Team,,106,102
+4,6:03.0,R. Covington enters the game for L. Shamet,,106,102
+4,6:03.0,,A. Drummond enters the game for Z. Pachulia,106,102
+4,6:03.0,J. Embiid makes free throw 2 of 2,,107,102
+4,5:45.0,,Turnover by A. Drummond (bad pass),107,102
+4,5:29.0,R. Covington misses 2-pt layup from 2 ft (block by B. Griffin),,107,102
+4,5:26.0,,Defensive rebound by B. Griffin,107,102
+4,5:20.0,,A. Drummond makes 2-pt layup from 2 ft (assist by B. Griffin),107,104
+4,5:04.0,J. Redick misses 3-pt jump shot from 26 ft,,107,104
+4,5:02.0,,Defensive rebound by B. Griffin,107,104
+4,4:54.0,,R. Jackson misses 2-pt layup from 6 ft (block by J. Embiid),107,104
+4,4:54.0,,Offensive rebound by Team,107,104
+4,4:54.0,,Detroit full timeout,107,104
+4,4:50.0,,I. Smith makes 3-pt jump shot from 26 ft (assist by A. Drummond),107,107
+4,4:33.0,Personal foul by R. Jackson (drawn by R. Covington),,107,107
+4,4:33.0,R. Covington misses free throw 1 of 2,,107,107
+4,4:33.0,Offensive rebound by Team,,107,107
+4,4:33.0,R. Covington makes free throw 2 of 2,,108,107
+4,4:15.0,,I. Smith misses 2-pt jump shot from 12 ft,108,107
+4,4:13.0,Defensive rebound by J. Embiid,,108,107
+4,4:05.0,Philadelphia full timeout,,108,107
+4,4:05.0,D. Šarić enters the game for M. Muscala,,108,107
+4,3:58.0,T. McConnell makes 2-pt jump shot from 14 ft (assist by J. Redick),,110,107
+4,3:42.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by B. Griffin),110,109
+4,3:27.0,D. Šarić misses 3-pt jump shot from 26 ft,,110,109
+4,3:25.0,,Defensive rebound by Team,110,109
+4,3:09.0,,Shooting foul by J. Embiid (drawn by B. Griffin),110,109
+4,3:09.0,,B. Griffin makes free throw 1 of 2,110,110
+4,3:09.0,,B. Griffin makes free throw 2 of 2,110,111
+4,2:59.0,Personal foul by B. Griffin (drawn by J. Embiid),,110,111
+4,2:59.0,J. Embiid makes free throw 1 of 2,,111,111
+4,2:59.0,J. Embiid makes free throw 2 of 2,,112,111
+4,2:49.0,,B. Griffin makes 3-pt jump shot from 26 ft,112,114
+4,2:27.0,J. Embiid misses 2-pt hook shot from 10 ft,,112,114
+4,2:27.0,,Defensive rebound by Team,112,114
+4,2:27.0,Violation by Team (kicked ball),,112,114
+4,2:15.0,,B. Griffin misses 2-pt hook shot from 9 ft,112,114
+4,2:11.0,Defensive rebound by D. Šarić,,112,114
+4,2:06.0,T. McConnell makes 2-pt layup from 1 ft,,114,114
+4,1:56.0,,R. Jackson makes 2-pt layup from 2 ft,114,116
+4,1:42.0,J. Redick makes 3-pt jump shot from 26 ft (assist by T. McConnell),,117,116
+4,1:24.0,,B. Griffin misses 2-pt layup from 5 ft,117,116
+4,1:23.0,,Offensive rebound by B. Griffin,117,116
+4,1:23.0,,Detroit full timeout,117,116
+4,1:21.0,,R. Bullock makes 2-pt jump shot from 17 ft (assist by R. Jackson),117,118
+4,1:08.0,Personal foul by A. Drummond (drawn by J. Embiid),,117,118
+4,1:08.0,J. Embiid misses free throw 1 of 2,,117,118
+4,1:08.0,Offensive rebound by Team,,117,118
+4,1:08.0,J. Embiid makes free throw 2 of 2,,118,118
+4,0:54.0,,Turnover by B. Griffin (lost ball; steal by D. Šarić),118,118
+4,0:42.0,J. Embiid makes 2-pt layup from 5 ft,,120,118
+4,0:42.0,,Technical foul by A. Drummond,120,118
+4,0:42.0,,A. Drummond ejected from game,120,118
+4,0:42.0,,L. Galloway enters the game for A. Drummond,120,118
+4,0:42.0,J. Redick misses technical free throw,,120,118
+4,0:42.0,,Defensive rebound by Team,120,118
+4,0:34.0,,B. Griffin makes 2-pt jump shot from 10 ft,120,120
+4,0:34.0,Philadelphia full timeout,,120,120
+4,0:34.0,,Z. Pachulia enters the game for L. Galloway,120,120
+4,0:33.0,J. Embiid misses 3-pt jump shot from 27 ft,,120,120
+4,0:29.0,,Defensive rebound by B. Griffin,120,120
+4,0:11.0,,R. Bullock misses 2-pt jump shot from 7 ft,120,120
+4,0:09.0,Defensive rebound by D. Šarić,,120,120
+4,0:09.0,Philadelphia full timeout,,120,120
+4,0:09.0,,S. Johnson enters the game for I. Smith,120,120
+4,0:01.0,D. Šarić misses 3-pt jump shot from 28 ft,,120,120
+4,0:01.0,Offensive rebound by Team,,120,120
+1OT,5:00.0,,Violation by Team (jump ball),120,120
+1OT,5:00.0,Personal foul by Z. Pachulia (drawn by J. Embiid),,120,120
+1OT,4:53.0,Turnover by T. McConnell (traveling),,120,120
+1OT,4:42.0,,R. Bullock misses 3-pt jump shot from 26 ft,120,120
+1OT,4:38.0,,Offensive rebound by R. Jackson,120,120
+1OT,4:27.0,,R. Bullock misses 3-pt jump shot from 23 ft,120,120
+1OT,4:27.0,,Offensive rebound by Team,120,120
+1OT,4:20.0,,B. Griffin makes 3-pt jump shot from 26 ft,120,123
+1OT,3:58.0,J. Redick misses 3-pt jump shot from 24 ft,,120,123
+1OT,3:55.0,,Defensive rebound by B. Griffin,120,123
+1OT,3:51.0,,I. Smith makes 3-pt jump shot from 26 ft (assist by B. Griffin),120,126
+1OT,3:50.0,Philadelphia full timeout,,120,126
+1OT,3:40.0,T. McConnell misses 2-pt jump shot from 13 ft,,120,126
+1OT,3:37.0,,Defensive rebound by B. Griffin,120,126
+1OT,3:24.0,,B. Griffin misses 2-pt jump shot from 16 ft,120,126
+1OT,3:20.0,Defensive rebound by J. Embiid,,120,126
+1OT,3:15.0,J. Redick makes 2-pt layup from 2 ft,,122,126
+1OT,3:15.0,Personal foul by R. Jackson (drawn by J. Redick),,122,126
+1OT,3:15.0,J. Redick makes free throw 1 of 1,,123,126
+1OT,2:52.0,,R. Jackson makes 2-pt jump shot from 16 ft (assist by I. Smith),123,128
+1OT,2:30.0,R. Covington makes 2-pt layup from 3 ft (assist by T. McConnell),,125,128
+1OT,2:16.0,,B. Griffin misses 2-pt layup from 4 ft,125,128
+1OT,2:14.0,Defensive rebound by D. Šarić,,125,128
+1OT,2:03.0,J. Redick makes 3-pt jump shot from 25 ft (assist by J. Embiid),,128,128
+1OT,1:52.0,,B. Griffin misses 3-pt jump shot from 25 ft,128,128
+1OT,1:46.0,Defensive rebound by R. Covington,,128,128
+1OT,1:28.0,D. Šarić misses 3-pt jump shot from 26 ft,,128,128
+1OT,1:27.0,,Defensive rebound by Team,128,128
+1OT,1:13.0,,R. Jackson misses 2-pt jump shot from 15 ft,128,128
+1OT,1:09.0,Defensive rebound by J. Embiid,,128,128
+1OT,0:56.0,Turnover by J. Embiid (lost ball; steal by Z. Pachulia),,128,128
+1OT,0:56.0,,Personal foul by J. Embiid (drawn by Z. Pachulia),128,128
+1OT,0:41.0,,R. Jackson misses 3-pt jump shot from 23 ft,128,128
+1OT,0:38.0,Defensive rebound by J. Redick,,128,128
+1OT,0:22.0,J. Redick misses 2-pt jump shot from 21 ft,,128,128
+1OT,0:20.0,,Defensive rebound by R. Jackson,128,128
+1OT,0:20.0,,Personal foul by J. Redick (drawn by R. Jackson),128,128
+1OT,0:20.0,,R. Jackson makes free throw 1 of 2,128,129
+1OT,0:20.0,,R. Jackson makes free throw 2 of 2,128,130
+1OT,0:05.0,J. Redick makes 3-pt jump shot from 26 ft (assist by D. Šarić),,131,130
+1OT,0:05.0,Shooting foul by R. Jackson (drawn by J. Redick),,131,130
+1OT,0:05.0,J. Redick makes free throw 1 of 1,,132,130
+1OT,0:05.0,,Detroit full timeout,132,130
+1OT,0:05.0,A. Johnson enters the game for J. Redick,,132,130
+1OT,0:05.0,,L. Galloway enters the game for Z. Pachulia,132,130
+1OT,0:01.0,,B. Griffin makes 2-pt layup from 2 ft,132,132
+1OT,0:01.0,,Shooting foul by R. Covington (drawn by B. Griffin),132,132
+1OT,0:01.0,,Z. Pachulia enters the game for L. Galloway,132,132
+1OT,0:01.0,,B. Griffin makes free throw 1 of 1,132,133
+1OT,0:01.0,Philadelphia full timeout,,132,133
+1OT,0:01.0,J. Redick enters the game for A. Johnson,,132,133
+1OT,0:01.0,,S. Johnson enters the game for I. Smith,132,133
+1OT,0:00.0,J. Embiid misses 3-pt jump shot from 27 ft,,132,133
+1OT,0:00.0,Offensive rebound by Team,,132,133

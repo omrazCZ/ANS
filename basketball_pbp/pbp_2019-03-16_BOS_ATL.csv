@@ -1,0 +1,513 @@
+QUARTER,TIME_REMAINING,ATLANTA_ACTION,BOSTON_ACTION,ATLANTA_SCORE,BOSTON_SCORE
+1,11:51.0,,K. Irving makes 2-pt jump shot from 22 ft (assist by M. Smart),0,2
+1,11:37.0,Turnover by K. Huerter (bad pass; steal by J. Tatum),,0,2
+1,11:32.0,,M. Smart makes 2-pt layup from 1 ft (assist by J. Tatum),0,4
+1,11:20.0,K. Huerter misses 3-pt jump shot from 26 ft,,0,4
+1,11:18.0,Offensive rebound by D. Dedmon,,0,4
+1,11:15.0,D. Dedmon misses 2-pt layup from 2 ft,,0,4
+1,11:14.0,Offensive rebound by J. Collins,,0,4
+1,11:13.0,J. Collins makes 2-pt layup at rim,,2,4
+1,11:04.0,,K. Irving makes 2-pt jump shot from 10 ft,2,6
+1,10:54.0,T. Young makes 2-pt layup from 2 ft,,4,6
+1,10:35.0,,Turnover by A. Horford (lost ball; steal by J. Collins),4,6
+1,10:31.0,T. Prince misses 3-pt jump shot from 26 ft,,4,6
+1,10:29.0,Offensive rebound by T. Young,,4,6
+1,10:20.0,J. Collins makes 2-pt layup from 3 ft (assist by T. Young),,6,6
+1,10:04.0,,M. Smart makes 2-pt layup from 1 ft (assist by J. Tatum),6,8
+1,9:50.0,Personal foul by K. Irving (drawn by T. Young),,6,8
+1,9:42.0,J. Collins misses 2-pt dunk from 3 ft,,6,8
+1,9:40.0,,Defensive rebound by K. Irving,6,8
+1,9:34.0,,Turnover by A. Horford (lost ball; steal by D. Dedmon),6,8
+1,9:30.0,Turnover by J. Collins (bad pass; steal by M. Morris),,6,8
+1,9:26.0,,M. Morris misses 2-pt layup from 2 ft (block by J. Collins),6,8
+1,9:25.0,,Offensive rebound by Team,6,8
+1,9:25.0,,Away from play foul by T. Prince (drawn by M. Smart),6,8
+1,9:25.0,,M. Smart makes free throw 1 of 1,6,9
+1,9:18.0,,K. Irving misses 3-pt jump shot from 28 ft,6,9
+1,9:16.0,Defensive rebound by D. Dedmon,,6,9
+1,9:06.0,J. Collins makes 2-pt jump shot from 14 ft,,8,9
+1,8:53.0,,J. Tatum makes 2-pt layup from 3 ft (assist by K. Irving),8,11
+1,8:39.0,T. Young makes 3-pt jump shot from 30 ft,,11,11
+1,8:25.0,,K. Irving misses 2-pt jump shot from 18 ft,11,11
+1,8:23.0,Defensive rebound by D. Dedmon,,11,11
+1,8:14.0,T. Young makes 2-pt jump shot from 9 ft,,13,11
+1,8:03.0,,A. Horford makes 2-pt jump shot from 21 ft (assist by M. Smart),13,13
+1,7:44.0,Turnover by D. Dedmon (bad pass; steal by K. Irving),,13,13
+1,7:41.0,,Turnover by J. Tatum (lost ball; steal by T. Young),13,13
+1,7:34.0,T. Young makes 2-pt jump shot from 3 ft,,15,13
+1,7:26.0,,K. Irving makes 2-pt layup from 3 ft,15,15
+1,7:17.0,T. Young misses 3-pt jump shot from 33 ft,,15,15
+1,7:15.0,,Defensive rebound by J. Tatum,15,15
+1,7:08.0,,K. Irving makes 3-pt jump shot from 23 ft (assist by M. Smart),15,18
+1,7:08.0,Atlanta full timeout,,15,18
+1,6:55.0,T. Prince makes 2-pt layup from 3 ft (assist by D. Dedmon),,17,18
+1,6:37.0,,Shooting foul by D. Dedmon (drawn by M. Morris),17,18
+1,6:37.0,,M. Morris makes free throw 1 of 2,17,19
+1,6:37.0,,M. Morris makes free throw 2 of 2,17,20
+1,6:19.0,T. Prince makes 3-pt jump shot from 25 ft (assist by J. Collins),,20,20
+1,6:00.0,,J. Tatum makes 2-pt jump shot from 17 ft,20,22
+1,5:44.0,K. Huerter makes 3-pt jump shot from 26 ft (assist by T. Young),,23,22
+1,5:24.0,,M. Morris misses 2-pt jump shot from 17 ft,23,22
+1,5:22.0,Defensive rebound by K. Huerter,,23,22
+1,5:15.0,J. Collins misses 2-pt jump shot from 9 ft (block by A. Horford),,23,22
+1,5:13.0,Offensive rebound by J. Collins,,23,22
+1,5:10.0,K. Huerter makes 2-pt layup from 3 ft (assist by J. Collins),,25,22
+1,5:08.0,,K. Irving misses 3-pt jump shot from 31 ft,25,22
+1,5:06.0,Defensive rebound by D. Dedmon,,25,22
+1,4:58.0,T. Prince makes 2-pt layup from 1 ft (assist by T. Young),,27,22
+1,4:58.0,,Boston full timeout,27,22
+1,4:58.0,K. Bazemore enters the game for D. Dedmon,,27,22
+1,4:58.0,A. Len enters the game for K. Huerter,,27,22
+1,4:58.0,,A. Baynes enters the game for A. Horford,27,22
+1,4:58.0,,G. Hayward enters the game for M. Morris,27,22
+1,4:58.0,,T. Rozier enters the game for M. Smart,27,22
+1,4:42.0,,K. Irving makes 2-pt jump shot from 14 ft,27,24
+1,4:24.0,T. Prince misses 2-pt jump shot from 11 ft,,27,24
+1,4:22.0,,Defensive rebound by A. Baynes,27,24
+1,4:10.0,,A. Baynes makes 3-pt jump shot from 26 ft (assist by T. Rozier),27,27
+1,4:10.0,V. Carter enters the game for J. Collins,,27,27
+1,4:10.0,,J. Brown enters the game for G. Hayward,27,27
+1,3:45.0,T. Prince misses 2-pt layup from 4 ft,,27,27
+1,3:44.0,Offensive rebound by A. Len,,27,27
+1,3:43.0,A. Len makes 2-pt layup from 1 ft,,29,27
+1,3:43.0,Shooting foul by A. Baynes (drawn by A. Len),,29,27
+1,3:43.0,A. Len makes free throw 1 of 1,,30,27
+1,3:32.0,,T. Rozier makes 3-pt jump shot from 26 ft (assist by J. Brown),30,30
+1,3:20.0,Turnover by T. Young (lost ball; steal by T. Rozier),,30,30
+1,3:15.0,,J. Tatum makes 2-pt layup from 1 ft (assist by K. Irving),30,32
+1,2:57.0,A. Len misses 2-pt layup from 2 ft,,30,32
+1,2:55.0,,Defensive rebound by K. Irving,30,32
+1,2:50.0,,J. Brown makes 3-pt jump shot from 25 ft (assist by J. Tatum),30,35
+1,2:27.0,T. Prince misses 2-pt jump shot from 8 ft (block by K. Irving),,30,35
+1,2:25.0,Offensive rebound by A. Len,,30,35
+1,2:23.0,A. Len misses 3-pt jump shot from 25 ft,,30,35
+1,2:21.0,,Defensive rebound by J. Brown,30,35
+1,2:19.0,,J. Tatum misses 3-pt jump shot from 23 ft,30,35
+1,2:17.0,Defensive rebound by T. Young,,30,35
+1,2:13.0,Shooting foul by J. Brown (drawn by T. Prince),,30,35
+1,2:13.0,T. Prince makes free throw 1 of 2,,31,35
+1,2:13.0,J. Adams enters the game for T. Young,,31,35
+1,2:13.0,T. Prince makes free throw 2 of 2,,32,35
+1,1:59.0,,K. Irving misses 3-pt jump shot from 25 ft,32,35
+1,1:56.0,Defensive rebound by A. Len,,32,35
+1,1:49.0,T. Prince misses 3-pt jump shot from 24 ft,,32,35
+1,1:47.0,,Defensive rebound by A. Baynes,32,35
+1,1:32.0,,A. Baynes misses 2-pt layup from 5 ft (block by T. Prince),32,35
+1,1:32.0,,Offensive rebound by Team,32,35
+1,1:32.0,D. Bembry enters the game for T. Prince,,32,35
+1,1:32.0,,M. Morris enters the game for J. Tatum,32,35
+1,1:26.0,,K. Irving misses 2-pt jump shot from 8 ft,32,35
+1,1:24.0,Defensive rebound by D. Bembry,,32,35
+1,1:17.0,D. Bembry makes 2-pt layup from 3 ft (assist by J. Adams),,34,35
+1,1:08.0,,M. Morris misses 2-pt layup from 2 ft,34,35
+1,1:07.0,,Offensive rebound by K. Irving,34,35
+1,1:00.0,,Personal foul by K. Bazemore (drawn by J. Brown),34,35
+1,0:58.0,,J. Brown makes 2-pt layup from 2 ft (assist by A. Baynes),34,37
+1,0:58.0,,Shooting foul by A. Len (drawn by J. Brown),34,37
+1,0:58.0,,J. Brown makes free throw 1 of 1,34,38
+1,0:46.0,V. Carter misses 2-pt layup from 3 ft (block by A. Baynes),,34,38
+1,0:44.0,Offensive rebound by V. Carter,,34,38
+1,0:42.0,V. Carter misses 2-pt layup from 2 ft,,34,38
+1,0:40.0,,Defensive rebound by M. Morris,34,38
+1,0:34.0,,M. Morris makes 3-pt jump shot from 25 ft (assist by J. Brown),34,41
+1,0:15.0,Shooting foul by A. Baynes (drawn by K. Bazemore),,34,41
+1,0:15.0,K. Bazemore makes free throw 1 of 2,,35,41
+1,0:15.0,T. Prince enters the game for A. Len,,35,41
+1,0:15.0,K. Bazemore makes free throw 2 of 2,,36,41
+1,0:04.0,,Personal foul by T. Prince (drawn by K. Irving),36,41
+1,0:04.0,,K. Irving makes free throw 1 of 2,36,42
+1,0:04.0,A. Len enters the game for T. Prince,,36,42
+1,0:04.0,,M. Smart enters the game for A. Baynes,36,42
+1,0:04.0,,K. Irving misses free throw 2 of 2,36,42
+1,0:04.0,,Offensive rebound by Team,36,42
+1,0:04.0,Loose ball foul by A. Len (drawn by T. Rozier),,36,42
+1,0:04.0,,T. Rozier misses free throw 1 of 2,36,42
+1,0:04.0,,Offensive rebound by Team,36,42
+1,0:04.0,,T. Rozier makes free throw 2 of 2,36,43
+1,0:01.0,K. Bazemore misses 3-pt jump shot from 31 ft,,36,43
+1,0:00.0,Offensive rebound by Team,,36,43
+2,11:43.0,V. Carter misses 2-pt layup from 3 ft,,36,43
+2,11:41.0,,Defensive rebound by J. Brown,36,43
+2,11:37.0,,J. Brown makes 2-pt layup from 5 ft,36,45
+2,11:23.0,V. Carter makes 3-pt jump shot from 27 ft (assist by D. Bembry),,39,45
+2,11:01.0,,A. Horford makes 2-pt hook shot from 5 ft (assist by M. Smart),39,47
+2,10:52.0,Personal foul by A. Horford (drawn by J. Collins),,39,47
+2,10:43.0,V. Carter makes 3-pt jump shot from 27 ft (assist by K. Bazemore),,42,47
+2,10:29.0,,T. Rozier misses 3-pt jump shot from 23 ft,42,47
+2,10:26.0,,Offensive rebound by M. Smart,42,47
+2,10:24.0,,J. Brown makes 3-pt jump shot from 25 ft (assist by M. Smart),42,50
+2,10:01.0,V. Carter makes 2-pt dunk from 1 ft,,44,50
+2,9:43.0,,Personal foul by J. Adams (drawn by T. Rozier),44,50
+2,9:36.0,,Shooting foul by J. Collins (drawn by A. Horford),44,50
+2,9:36.0,,A. Horford makes free throw 1 of 2,44,51
+2,9:36.0,,A. Horford makes free throw 2 of 2,44,52
+2,9:18.0,J. Collins makes 2-pt layup from 2 ft (assist by D. Bembry),,46,52
+2,9:10.0,,Turnover by T. Rozier (bad pass; steal by D. Bembry),46,52
+2,9:07.0,Personal foul by M. Smart (drawn by D. Bembry),,46,52
+2,8:57.0,D. Bembry misses 2-pt layup from 8 ft (block by M. Morris),,46,52
+2,8:55.0,Offensive rebound by Team,,46,52
+2,8:55.0,D. Dedmon enters the game for V. Carter,,46,52
+2,8:47.0,K. Bazemore makes 2-pt jump shot from 17 ft (assist by J. Adams),,48,52
+2,8:26.0,,M. Morris makes 2-pt jump shot from 3 ft (assist by M. Smart),48,54
+2,8:04.0,J. Collins misses 3-pt jump shot from 23 ft,,48,54
+2,7:59.0,,Defensive rebound by A. Horford,48,54
+2,7:51.0,,Turnover by T. Rozier (bad pass; steal by D. Dedmon),48,54
+2,7:46.0,D. Bembry misses 2-pt layup from 4 ft,,48,54
+2,7:44.0,Offensive rebound by J. Collins,,48,54
+2,7:36.0,J. Collins misses 3-pt jump shot from 27 ft,,48,54
+2,7:34.0,,Defensive rebound by M. Morris,48,54
+2,7:29.0,,Boston full timeout,48,54
+2,7:29.0,K. Huerter enters the game for J. Adams,,48,54
+2,7:29.0,T. Young enters the game for K. Bazemore,,48,54
+2,7:29.0,,A. Baynes enters the game for J. Brown,48,54
+2,7:29.0,,J. Tatum enters the game for T. Rozier,48,54
+2,7:19.0,,M. Morris makes 2-pt dunk from 2 ft (assist by M. Smart),48,56
+2,6:59.0,T. Young misses 3-pt jump shot from 26 ft,,48,56
+2,6:57.0,,Defensive rebound by M. Morris,48,56
+2,6:50.0,,Def 3 sec tech foul by Team,48,56
+2,6:50.0,,J. Tatum makes technical free throw,48,57
+2,6:37.0,,M. Smart makes 2-pt layup from 2 ft (assist by A. Horford),48,59
+2,6:24.0,Turnover by T. Young (bad pass),,48,59
+2,6:07.0,,Turnover by M. Smart (bad pass; steal by D. Bembry),48,59
+2,6:02.0,K. Huerter misses 3-pt jump shot from 25 ft,,48,59
+2,6:00.0,,Defensive rebound by J. Tatum,48,59
+2,5:52.0,,M. Smart makes 3-pt jump shot from 26 ft,48,62
+2,5:51.0,Atlanta full timeout,,48,62
+2,5:51.0,T. Prince enters the game for D. Bembry,,48,62
+2,5:39.0,T. Young misses 2-pt layup from 12 ft (block by M. Smart),,48,62
+2,5:37.0,,Defensive rebound by J. Tatum,48,62
+2,5:33.0,,J. Tatum makes 2-pt dunk from 1 ft,48,64
+2,5:25.0,Personal foul by M. Smart (drawn by T. Young),,48,64
+2,5:25.0,,K. Irving enters the game for M. Morris,48,64
+2,5:15.0,K. Huerter makes 2-pt layup from 2 ft (assist by J. Collins),,50,64
+2,5:02.0,,Turnover by A. Horford (bad pass; steal by T. Young),50,64
+2,4:56.0,J. Collins misses 2-pt layup from 4 ft,,50,64
+2,4:55.0,,Defensive rebound by J. Tatum,50,64
+2,4:44.0,,A. Horford misses 2-pt jump shot from 12 ft,50,64
+2,4:42.0,,Offensive rebound by Team,50,64
+2,4:42.0,,D. Theis enters the game for A. Horford,50,64
+2,4:35.0,,Shooting foul by J. Collins (drawn by A. Baynes),50,64
+2,4:35.0,,A. Baynes makes free throw 1 of 2,50,65
+2,4:35.0,,A. Baynes makes free throw 2 of 2,50,66
+2,4:22.0,T. Young makes 3-pt jump shot from 34 ft (assist by K. Huerter),,53,66
+2,4:10.0,,M. Smart misses 3-pt jump shot from 26 ft,53,66
+2,4:08.0,Defensive rebound by D. Dedmon,,53,66
+2,4:04.0,D. Dedmon misses 3-pt jump shot from 28 ft,,53,66
+2,4:02.0,Offensive rebound by Team,,53,66
+2,4:02.0,,Loose ball foul by A. Baynes (drawn by J. Collins),53,66
+2,4:02.0,,J. Brown enters the game for A. Baynes,53,66
+2,3:55.0,Turnover by K. Huerter (bad pass),,53,66
+2,3:42.0,,D. Theis makes 2-pt dunk from 3 ft (assist by K. Irving),53,68
+2,3:31.0,J. Collins makes 2-pt dunk from 2 ft (assist by T. Young),,55,68
+2,3:31.0,Shooting foul by J. Tatum (drawn by J. Collins),,55,68
+2,3:31.0,J. Collins makes free throw 1 of 1,,56,68
+2,3:21.0,,J. Tatum misses 2-pt jump shot from 5 ft,56,68
+2,3:19.0,Defensive rebound by D. Dedmon,,56,68
+2,3:11.0,Shooting foul by M. Smart (drawn by J. Collins),,56,68
+2,3:11.0,J. Collins misses free throw 1 of 2,,56,68
+2,3:11.0,Offensive rebound by Team,,56,68
+2,3:11.0,,A. Horford enters the game for M. Smart,56,68
+2,3:11.0,J. Collins makes free throw 2 of 2,,57,68
+2,3:04.0,,K. Irving misses 2-pt layup from 4 ft,57,68
+2,3:02.0,Defensive rebound by Team,,57,68
+2,2:51.0,D. Dedmon misses 3-pt jump shot from 23 ft,,57,68
+2,2:49.0,,Defensive rebound by J. Brown,57,68
+2,2:41.0,,J. Brown misses 2-pt layup from 2 ft (block by D. Dedmon),57,68
+2,2:40.0,,Offensive rebound by Team,57,68
+2,2:35.0,,J. Tatum misses 2-pt layup from 4 ft (block by T. Prince),57,68
+2,2:33.0,,Offensive rebound by Team,57,68
+2,2:29.0,,J. Brown misses 3-pt jump shot from 26 ft,57,68
+2,2:27.0,Defensive rebound by D. Dedmon,,57,68
+2,2:16.0,J. Collins makes 2-pt layup from 2 ft,,59,68
+2,2:05.0,,K. Irving misses 2-pt jump shot from 8 ft,59,68
+2,2:03.0,,Offensive rebound by K. Irving,59,68
+2,1:50.0,,A. Horford misses 2-pt jump shot from 13 ft,59,68
+2,1:48.0,Defensive rebound by J. Collins,,59,68
+2,1:36.0,Turnover by T. Prince (bad pass),,59,68
+2,1:26.0,,K. Irving makes 2-pt jump shot from 20 ft,59,70
+2,1:08.0,T. Prince misses 2-pt layup from 3 ft,,59,70
+2,1:06.0,,Defensive rebound by J. Tatum,59,70
+2,1:04.0,,J. Brown makes 2-pt dunk from 1 ft (assist by J. Tatum),59,72
+2,0:46.0,J. Collins misses 2-pt layup from 3 ft,,59,72
+2,0:45.0,Offensive rebound by J. Collins,,59,72
+2,0:44.0,J. Collins misses 2-pt hook shot from 2 ft,,59,72
+2,0:42.0,,Defensive rebound by A. Horford,59,72
+2,0:37.0,,A. Horford makes 2-pt layup from 1 ft (assist by K. Irving),59,74
+2,0:30.0,K. Huerter misses 3-pt jump shot from 23 ft,,59,74
+2,0:27.0,,Defensive rebound by K. Irving,59,74
+2,0:03.0,,J. Tatum misses 2-pt layup from 2 ft,59,74
+2,0:00.0,Defensive rebound by D. Dedmon,,59,74
+2,0:00.0,T. Prince makes 3-pt jump shot from 26 ft,,62,74
+3,11:35.0,K. Huerter misses 3-pt jump shot from 24 ft,,62,74
+3,11:30.0,,Defensive rebound by K. Irving,62,74
+3,11:23.0,,M. Morris misses 3-pt jump shot from 28 ft,62,74
+3,11:21.0,Defensive rebound by D. Dedmon,,62,74
+3,11:04.0,J. Collins misses 3-pt jump shot from 25 ft,,62,74
+3,11:02.0,Offensive rebound by K. Huerter,,62,74
+3,11:00.0,Offensive foul by J. Collins (drawn by M. Smart),,62,74
+3,11:00.0,Turnover by J. Collins (offensive foul),,62,74
+3,10:40.0,,K. Irving makes 2-pt jump shot from 17 ft,62,76
+3,10:23.0,J. Collins misses 2-pt layup from 3 ft (block by M. Morris),,62,76
+3,10:21.0,Offensive rebound by J. Collins,,62,76
+3,10:21.0,Shooting foul by M. Morris (drawn by J. Collins),,62,76
+3,10:21.0,J. Collins misses free throw 1 of 2,,62,76
+3,10:21.0,Offensive rebound by Team,,62,76
+3,10:21.0,J. Collins makes free throw 2 of 2,,63,76
+3,10:07.0,,M. Smart makes 3-pt jump shot from 28 ft (assist by K. Irving),63,79
+3,9:44.0,D. Dedmon misses 3-pt jump shot from 23 ft,,63,79
+3,9:41.0,,Defensive rebound by M. Morris,63,79
+3,9:36.0,,K. Irving makes 3-pt jump shot from 27 ft,63,82
+3,9:36.0,Atlanta full timeout,,63,82
+3,9:20.0,D. Dedmon misses 2-pt hook shot from 5 ft,,63,82
+3,9:18.0,Offensive rebound by J. Collins,,63,82
+3,9:16.0,J. Collins makes 2-pt layup from 2 ft,,65,82
+3,8:56.0,,J. Tatum makes 2-pt layup from 3 ft,65,84
+3,8:39.0,T. Young makes 3-pt jump shot from 34 ft (assist by T. Prince),,68,84
+3,8:19.0,,A. Horford misses 2-pt jump shot from 19 ft,68,84
+3,8:17.0,Defensive rebound by T. Prince,,68,84
+3,8:10.0,Shooting foul by A. Horford (drawn by T. Prince),,68,84
+3,8:10.0,T. Prince makes free throw 1 of 2,,69,84
+3,8:10.0,,A. Baynes enters the game for A. Horford,69,84
+3,8:10.0,T. Prince makes free throw 2 of 2,,70,84
+3,7:58.0,,M. Morris makes 2-pt jump shot from 22 ft (assist by K. Irving),70,86
+3,7:48.0,Turnover by T. Young (lost ball; steal by A. Baynes),,70,86
+3,7:47.0,,Shooting foul by D. Dedmon (drawn by J. Tatum),70,86
+3,7:47.0,,J. Tatum makes free throw 1 of 2,70,87
+3,7:47.0,,J. Tatum makes free throw 2 of 2,70,88
+3,7:34.0,T. Young makes 2-pt jump shot from 9 ft (assist by J. Collins),,72,88
+3,7:15.0,,J. Tatum misses 2-pt jump shot from 14 ft,72,88
+3,7:14.0,,Offensive rebound by M. Morris,72,88
+3,7:10.0,,M. Smart misses 3-pt jump shot from 23 ft,72,88
+3,7:08.0,Defensive rebound by K. Huerter,,72,88
+3,7:03.0,T. Young makes 3-pt jump shot from 29 ft (assist by K. Huerter),,75,88
+3,6:56.0,,J. Tatum makes 2-pt layup from 1 ft (assist by M. Smart),75,90
+3,6:33.0,Turnover by J. Collins (lost ball; steal by M. Smart),,75,90
+3,6:26.0,,J. Tatum misses 3-pt jump shot from 23 ft,75,90
+3,6:24.0,,Offensive rebound by M. Morris,75,90
+3,6:20.0,,K. Irving misses 3-pt jump shot from 23 ft,75,90
+3,6:18.0,Defensive rebound by D. Dedmon,,75,90
+3,6:11.0,Turnover by K. Huerter (bad pass),,75,90
+3,6:01.0,,M. Morris makes 3-pt jump shot from 26 ft (assist by K. Irving),75,93
+3,6:00.0,Atlanta full timeout,,75,93
+3,6:00.0,D. Bembry enters the game for J. Collins,,75,93
+3,6:00.0,V. Carter enters the game for D. Dedmon,,75,93
+3,6:00.0,A. Len enters the game for T. Young,,75,93
+3,5:45.0,K. Huerter misses 3-pt jump shot from 26 ft,,75,93
+3,5:43.0,,Defensive rebound by K. Irving,75,93
+3,5:40.0,,Turnover by M. Morris (bad pass),75,93
+3,5:27.0,T. Prince misses 2-pt layup from 3 ft,,75,93
+3,5:25.0,,Defensive rebound by A. Baynes,75,93
+3,5:20.0,,K. Irving misses 2-pt jump shot from 15 ft,75,93
+3,5:18.0,Defensive rebound by T. Prince,,75,93
+3,5:18.0,,J. Brown enters the game for J. Tatum,75,93
+3,5:06.0,T. Prince misses 2-pt jump shot from 20 ft,,75,93
+3,5:04.0,,Defensive rebound by M. Morris,75,93
+3,4:55.0,,Shooting foul by D. Bembry (drawn by M. Smart),75,93
+3,4:55.0,,M. Smart makes free throw 1 of 3,75,94
+3,4:55.0,,M. Smart makes free throw 2 of 3,75,95
+3,4:55.0,K. Bazemore enters the game for T. Prince,,75,95
+3,4:55.0,,M. Smart makes free throw 3 of 3,75,96
+3,4:41.0,V. Carter makes 3-pt jump shot from 27 ft (assist by D. Bembry),,78,96
+3,4:16.0,,M. Morris misses 3-pt jump shot from 23 ft,78,96
+3,4:15.0,,Offensive rebound by Team,78,96
+3,4:09.0,,J. Brown makes 2-pt layup from 2 ft (assist by K. Irving),78,98
+3,4:04.0,Turnover by A. Len (bad pass; steal by M. Smart),,78,98
+3,3:59.0,,Turnover by K. Irving (bad pass; steal by V. Carter),78,98
+3,3:54.0,K. Huerter misses 3-pt jump shot from 26 ft,,78,98
+3,3:51.0,,Defensive rebound by M. Morris,78,98
+3,3:44.0,,K. Irving makes 2-pt layup from 1 ft,78,100
+3,3:23.0,Offensive foul by D. Bembry (drawn by A. Baynes),,78,100
+3,3:23.0,Turnover by D. Bembry (offensive foul),,78,100
+3,3:23.0,J. Adams enters the game for K. Huerter,,78,100
+3,3:23.0,,T. Rozier enters the game for M. Smart,78,100
+3,3:12.0,,K. Irving makes 3-pt jump shot from 27 ft,78,103
+3,3:01.0,Personal foul by J. Brown (drawn by K. Bazemore),,78,103
+3,2:55.0,A. Len misses 3-pt jump shot from 25 ft,,78,103
+3,2:53.0,,Defensive rebound by Team,78,103
+3,2:44.0,,K. Irving misses 3-pt jump shot from 27 ft,78,103
+3,2:42.0,Defensive rebound by A. Len,,78,103
+3,2:27.0,J. Adams makes 3-pt jump shot from 27 ft (assist by A. Len),,81,103
+3,2:08.0,,M. Morris misses 2-pt layup from 4 ft (block by A. Len),81,103
+3,2:08.0,Defensive rebound by V. Carter,,81,103
+3,2:01.0,V. Carter misses 3-pt jump shot from 27 ft,,81,103
+3,1:57.0,,Defensive rebound by M. Morris,81,103
+3,1:51.0,,Turnover by K. Irving (bad pass; steal by D. Bembry),81,103
+3,1:48.0,D. Bembry makes 2-pt layup from 1 ft,,83,103
+3,1:48.0,,Boston full timeout,83,103
+3,1:48.0,,S. Ojeleye enters the game for A. Baynes,83,103
+3,1:48.0,,D. Theis enters the game for M. Morris,83,103
+3,1:35.0,,Personal foul by V. Carter (drawn by D. Theis),83,103
+3,1:35.0,,D. Theis misses free throw 1 of 2,83,103
+3,1:35.0,,Offensive rebound by Team,83,103
+3,1:35.0,,J. Tatum enters the game for K. Irving,83,103
+3,1:35.0,,D. Theis makes free throw 2 of 2,83,104
+3,1:26.0,V. Carter makes 3-pt jump shot from 26 ft (assist by K. Bazemore),,86,104
+3,1:09.0,,J. Brown misses 2-pt jump shot from 14 ft,86,104
+3,1:07.0,Defensive rebound by J. Adams,,86,104
+3,0:55.0,A. Len makes 2-pt dunk from 1 ft (assist by K. Bazemore),,88,104
+3,0:34.0,,Turnover by J. Tatum (out of bounds lost ball),88,104
+3,0:27.0,A. Len makes 2-pt layup from 2 ft (assist by D. Bembry),,90,104
+3,0:27.0,Shooting foul by D. Theis (drawn by A. Len),,90,104
+3,0:27.0,A. Len misses free throw 1 of 1,,90,104
+3,0:25.0,Offensive rebound by Team,,90,104
+3,0:23.0,V. Carter makes 2-pt jump shot from 11 ft (assist by K. Bazemore),,92,104
+3,0:05.0,,Personal foul by J. Adams (drawn by T. Rozier),92,104
+3,0:05.0,,T. Rozier makes free throw 1 of 2,92,105
+3,0:05.0,,T. Rozier misses free throw 2 of 2,92,105
+3,0:05.0,,Offensive rebound by T. Rozier,92,105
+3,0:00.0,,T. Rozier misses 2-pt jump shot from 13 ft,92,105
+3,0:00.0,,Offensive rebound by Team,92,105
+4,11:39.0,,J. Brown misses 2-pt jump shot from 17 ft,92,105
+4,11:36.0,,Offensive rebound by J. Tatum,92,105
+4,11:31.0,,D. Theis misses 3-pt jump shot from 26 ft,92,105
+4,11:29.0,Defensive rebound by D. Bembry,,92,105
+4,11:22.0,K. Bazemore misses 2-pt layup from 3 ft,,92,105
+4,11:21.0,Offensive rebound by J. Collins,,92,105
+4,11:21.0,Shooting foul by J. Brown (drawn by J. Collins),,92,105
+4,11:21.0,J. Collins makes free throw 1 of 2,,93,105
+4,11:21.0,J. Collins makes free throw 2 of 2,,94,105
+4,10:57.0,,J. Tatum misses 2-pt jump shot from 12 ft,94,105
+4,10:55.0,,Offensive rebound by D. Theis,94,105
+4,10:49.0,,Shooting foul by J. Adams (drawn by S. Ojeleye),94,105
+4,10:49.0,,S. Ojeleye misses free throw 1 of 2,94,105
+4,10:49.0,,Offensive rebound by Team,94,105
+4,10:49.0,,S. Ojeleye makes free throw 2 of 2,94,106
+4,10:34.0,Personal foul by D. Theis (drawn by J. Collins),,94,106
+4,10:26.0,K. Bazemore makes 2-pt layup from 2 ft (assist by J. Collins),,96,106
+4,10:06.0,,J. Brown misses 2-pt layup from 3 ft,96,106
+4,10:05.0,,Offensive rebound by T. Rozier,96,106
+4,9:58.0,,J. Brown misses 3-pt jump shot from 23 ft,96,106
+4,9:56.0,Defensive rebound by J. Adams,,96,106
+4,9:42.0,Shooting foul by S. Ojeleye (drawn by J. Collins),,96,106
+4,9:42.0,J. Collins makes free throw 1 of 2,,97,106
+4,9:42.0,,A. Baynes enters the game for J. Brown,97,106
+4,9:42.0,,M. Smart enters the game for D. Theis,97,106
+4,9:42.0,J. Collins misses free throw 2 of 2,,97,106
+4,9:42.0,,Defensive rebound by J. Tatum,97,106
+4,9:27.0,,T. Rozier misses 3-pt jump shot from 27 ft,97,106
+4,9:25.0,Defensive rebound by D. Bembry,,97,106
+4,9:16.0,J. Collins misses 2-pt layup from 2 ft,,97,106
+4,9:15.0,,Defensive rebound by Team,97,106
+4,9:08.0,,M. Smart misses 3-pt jump shot from 28 ft,97,106
+4,9:07.0,Defensive rebound by Team,,97,106
+4,8:53.0,K. Bazemore makes 2-pt jump shot from 19 ft,,99,106
+4,8:38.0,,J. Tatum makes 2-pt layup from 1 ft (assist by T. Rozier),99,108
+4,8:38.0,,Shooting foul by K. Bazemore (drawn by J. Tatum),99,108
+4,8:38.0,,J. Tatum makes free throw 1 of 1,99,109
+4,8:24.0,Shooting foul by M. Smart (drawn by K. Bazemore),,99,109
+4,8:24.0,K. Bazemore makes free throw 1 of 2,,100,109
+4,8:24.0,K. Bazemore makes free throw 2 of 2,,101,109
+4,8:12.0,,T. Rozier misses 3-pt jump shot from 28 ft,101,109
+4,8:10.0,Defensive rebound by J. Collins,,101,109
+4,8:10.0,D. Dedmon enters the game for V. Carter,,101,109
+4,8:10.0,,K. Irving enters the game for S. Ojeleye,101,109
+4,8:10.0,,M. Morris enters the game for T. Rozier,101,109
+4,8:03.0,T. Young enters the game for J. Adams,,101,109
+4,7:51.0,T. Young makes 2-pt layup from 3 ft,,103,109
+4,7:37.0,,J. Tatum misses 2-pt jump shot from 13 ft,103,109
+4,7:35.0,Defensive rebound by T. Young,,103,109
+4,7:26.0,T. Young makes 3-pt jump shot from 32 ft,,106,109
+4,7:25.0,,Boston full timeout,106,109
+4,7:25.0,V. Carter enters the game for K. Bazemore,,106,109
+4,7:25.0,T. Prince enters the game for J. Collins,,106,109
+4,7:13.0,,K. Irving makes 2-pt jump shot from 9 ft,106,111
+4,7:13.0,,Shooting foul by T. Young (drawn by K. Irving),106,111
+4,7:13.0,,K. Irving makes free throw 1 of 1,106,112
+4,7:00.0,D. Dedmon makes 2-pt layup from 5 ft (assist by T. Prince),,108,112
+4,7:00.0,Shooting foul by A. Baynes (drawn by D. Dedmon),,108,112
+4,7:00.0,,A. Horford enters the game for A. Baynes,108,112
+4,7:00.0,D. Dedmon makes free throw 1 of 1,,109,112
+4,6:42.0,,K. Irving misses 2-pt jump shot from 14 ft,109,112
+4,6:40.0,Defensive rebound by T. Prince,,109,112
+4,6:30.0,Personal foul by K. Irving (drawn by T. Young),,109,112
+4,6:30.0,T. Young makes free throw 1 of 2,,110,112
+4,6:30.0,K. Bazemore enters the game for D. Bembry,,110,112
+4,6:30.0,,J. Brown enters the game for J. Tatum,110,112
+4,6:30.0,T. Young misses free throw 2 of 2,,110,112
+4,6:30.0,,Defensive rebound by M. Morris,110,112
+4,6:18.0,,K. Irving misses 3-pt jump shot from 27 ft,110,112
+4,6:16.0,,Offensive rebound by M. Morris,110,112
+4,6:13.0,,M. Smart misses 3-pt jump shot from 27 ft,110,112
+4,6:11.0,Defensive rebound by D. Dedmon,,110,112
+4,5:53.0,Shooting foul by A. Horford (drawn by K. Bazemore),,110,112
+4,5:53.0,K. Bazemore makes free throw 1 of 2,,111,112
+4,5:53.0,K. Bazemore makes free throw 2 of 2,,112,112
+4,5:40.0,,Turnover by M. Morris (lost ball; steal by D. Dedmon),112,112
+4,5:35.0,Turnover by T. Young (lost ball; steal by M. Smart),,112,112
+4,5:26.0,,J. Brown makes 3-pt jump shot from 24 ft (assist by A. Horford),112,115
+4,4:59.0,V. Carter misses 3-pt jump shot from 23 ft,,112,115
+4,4:58.0,Offensive rebound by V. Carter,,112,115
+4,4:58.0,Offensive foul by V. Carter (drawn by J. Brown),,112,115
+4,4:58.0,Turnover by V. Carter (offensive foul),,112,115
+4,4:47.0,,M. Morris makes 2-pt jump shot from 17 ft (assist by K. Irving),112,117
+4,4:32.0,T. Young misses 3-pt jump shot from 26 ft,,112,117
+4,4:30.0,Offensive rebound by K. Bazemore,,112,117
+4,4:24.0,K. Bazemore misses 3-pt jump shot from 24 ft,,112,117
+4,4:21.0,,Defensive rebound by A. Horford,112,117
+4,4:05.0,,Shooting foul by T. Young (drawn by M. Morris),112,117
+4,4:05.0,Atlanta full timeout,,112,117
+4,4:05.0,K. Huerter enters the game for K. Bazemore,,112,117
+4,4:05.0,,M. Morris makes free throw 1 of 2,112,118
+4,4:05.0,,M. Morris makes free throw 2 of 2,112,119
+4,3:41.0,Turnover by T. Young (lost ball; steal by M. Smart),,112,119
+4,3:38.0,,J. Brown makes 2-pt layup from 1 ft (assist by M. Smart),112,121
+4,3:38.0,,Shooting foul by T. Prince (drawn by J. Brown),112,121
+4,3:38.0,,J. Brown misses free throw 1 of 1,112,121
+4,3:37.0,Defensive rebound by Team,,112,121
+4,3:22.0,D. Dedmon makes 2-pt layup from 1 ft (assist by K. Huerter),,114,121
+4,3:11.0,,Boston full timeout,114,121
+4,3:11.0,J. Collins enters the game for V. Carter,,114,121
+4,3:09.0,,Shooting foul by J. Collins (drawn by M. Morris),114,121
+4,3:09.0,,M. Morris makes free throw 1 of 2,114,122
+4,3:09.0,,M. Morris misses free throw 2 of 2,114,122
+4,3:09.0,Defensive rebound by D. Dedmon,,114,122
+4,2:52.0,Turnover by T. Young (bad pass; steal by M. Smart),,114,122
+4,2:47.0,,M. Morris misses 3-pt jump shot from 24 ft,114,122
+4,2:45.0,,Offensive rebound by A. Horford,114,122
+4,2:43.0,,K. Irving makes 3-pt jump shot from 31 ft (assist by A. Horford),114,125
+4,2:25.0,D. Dedmon misses 3-pt jump shot from 22 ft,,114,125
+4,2:24.0,Offensive rebound by J. Collins,,114,125
+4,2:22.0,T. Prince makes 3-pt jump shot from 26 ft (assist by J. Collins),,117,125
+4,2:01.0,,A. Horford misses 2-pt hook shot from 5 ft,117,125
+4,1:59.0,Defensive rebound by T. Prince,,117,125
+4,1:51.0,D. Dedmon misses 2-pt jump shot from 15 ft,,117,125
+4,1:49.0,,Defensive rebound by K. Irving,117,125
+4,1:40.0,,A. Horford misses 3-pt jump shot from 27 ft,117,125
+4,1:38.0,Defensive rebound by D. Dedmon,,117,125
+4,1:25.0,K. Huerter misses 2-pt hook shot from 5 ft,,117,125
+4,1:23.0,,Defensive rebound by K. Irving,117,125
+4,1:21.0,,Turnover by K. Irving (traveling),117,125
+4,1:09.0,T. Young misses 2-pt jump shot from 8 ft,,117,125
+4,1:07.0,Offensive rebound by K. Huerter,,117,125
+4,1:05.0,K. Huerter makes 3-pt jump shot from 23 ft,,120,125
+4,1:03.0,,Turnover by M. Morris (bad pass; steal by K. Huerter),120,125
+4,0:59.0,K. Huerter misses 2-pt layup from 4 ft,,120,125
+4,0:58.0,Offensive rebound by K. Huerter,,120,125
+4,0:57.0,K. Huerter misses 2-pt layup from 3 ft,,120,125
+4,0:56.0,,Defensive rebound by K. Irving,120,125
+4,0:49.0,,M. Morris misses 3-pt jump shot from 27 ft,120,125
+4,0:48.0,Defensive rebound by T. Young,,120,125
+4,0:48.0,Atlanta full timeout,,120,125
+4,0:48.0,,J. Tatum enters the game for M. Morris,120,125
+4,0:37.0,D. Dedmon misses 3-pt jump shot from 26 ft,,120,125
+4,0:36.0,,Defensive rebound by A. Horford,120,125
+4,0:36.0,,Personal foul by K. Huerter (drawn by A. Horford),120,125
+4,0:36.0,,A. Horford misses free throw 1 of 2,120,125
+4,0:36.0,,Offensive rebound by Team,120,125
+4,0:36.0,,A. Horford makes free throw 2 of 2,120,126
+4,0:20.0,J. Collins misses 2-pt layup from 2 ft (block by K. Irving),,120,126
+4,0:19.0,Offensive rebound by J. Collins,,120,126
+4,0:18.0,J. Collins misses 2-pt layup from 2 ft,,120,126
+4,0:17.0,,Defensive rebound by A. Horford,120,126
+4,0:16.0,,Personal foul by K. Huerter (drawn by J. Brown),120,126
+4,0:16.0,,J. Brown makes free throw 1 of 2,120,127
+4,0:16.0,,J. Brown makes free throw 2 of 2,120,128
+4,0:16.0,Atlanta full timeout,,120,128
+4,0:11.0,T. Young misses 2-pt layup from 3 ft,,120,128
+4,0:08.0,,Defensive rebound by K. Irving,120,128
+4,0:06.0,,Personal take foul by D. Dedmon (drawn by J. Brown),120,128
+4,0:06.0,,J. Brown misses free throw 1 of 2,120,128
+4,0:06.0,,Offensive rebound by Team,120,128
+4,0:06.0,,J. Brown makes free throw 2 of 2,120,129
+4,0:01.0,T. Young misses 2-pt jump shot from 17 ft,,120,129
+4,0:00.0,,Defensive rebound by J. Tatum,120,129

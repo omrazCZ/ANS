@@ -1,0 +1,459 @@
+QUARTER,TIME_REMAINING,PORTLAND_ACTION,DALLAS_ACTION,PORTLAND_SCORE,DALLAS_SCORE
+1,11:40.0,J. Nurkić misses 2-pt hook shot from 7 ft,,0,0
+1,11:37.0,,Defensive rebound by L. Dončić,0,0
+1,11:18.0,,L. Dončić misses 3-pt jump shot from 28 ft,0,0
+1,11:14.0,Defensive rebound by A. Aminu,,0,0
+1,11:02.0,A. Aminu makes 2-pt jump shot from 10 ft,,2,0
+1,10:53.0,,L. Dončić makes 2-pt dunk from 1 ft,2,2
+1,10:53.0,,Shooting foul by J. Nurkić (drawn by L. Dončić),2,2
+1,10:53.0,,L. Dončić makes free throw 1 of 1,2,3
+1,10:45.0,D. Lillard misses 2-pt jump shot from 18 ft,,2,3
+1,10:42.0,,Defensive rebound by L. Dončić,2,3
+1,10:37.0,,T. Hardaway makes 2-pt layup from 2 ft,2,5
+1,10:24.0,C. McCollum makes 2-pt jump shot from 13 ft,,4,5
+1,10:04.0,,D. Finney-Smith misses 3-pt jump shot from 25 ft,4,5
+1,10:00.0,Defensive rebound by M. Harkless,,4,5
+1,9:51.0,J. Nurkić makes 2-pt jump shot from 3 ft (assist by C. McCollum),,6,5
+1,9:39.0,,M. Kleber misses 2-pt jump shot from 3 ft,6,5
+1,9:36.0,,Offensive rebound by J. Brunson,6,5
+1,9:35.0,,J. Brunson makes 2-pt layup at rim,6,7
+1,9:22.0,A. Aminu misses 3-pt jump shot from 26 ft,,6,7
+1,9:22.0,,Defensive rebound by L. Dončić,6,7
+1,9:16.0,,M. Kleber misses 3-pt jump shot from 26 ft,6,7
+1,9:14.0,,Offensive rebound by Team,6,7
+1,9:14.0,Loose ball foul by J. Nurkić (drawn by L. Dončić),,6,7
+1,9:10.0,,Personal foul by C. McCollum (drawn by T. Hardaway),6,7
+1,8:56.0,,M. Kleber misses 2-pt jump shot from 13 ft,6,7
+1,8:55.0,Defensive rebound by D. Lillard,,6,7
+1,8:44.0,M. Harkless misses 2-pt jump shot from 5 ft,,6,7
+1,8:40.0,,Defensive rebound by D. Finney-Smith,6,7
+1,8:28.0,,Turnover by L. Dončić (lost ball; steal by M. Harkless),6,7
+1,8:24.0,D. Lillard makes 2-pt jump shot from 5 ft (assist by C. McCollum),,8,7
+1,8:09.0,,T. Hardaway misses 2-pt jump shot from 18 ft,8,7
+1,8:06.0,Defensive rebound by J. Nurkić,,8,7
+1,7:57.0,J. Nurkić makes 2-pt layup from 1 ft (assist by D. Lillard),,10,7
+1,7:45.0,,L. Dončić makes 2-pt layup from 2 ft,10,9
+1,7:33.0,C. McCollum misses 3-pt jump shot from 27 ft,,10,9
+1,7:30.0,,Defensive rebound by L. Dončić,10,9
+1,7:19.0,,Turnover by J. Brunson (lost ball; steal by D. Lillard),10,9
+1,7:13.0,D. Lillard misses 2-pt jump shot from 10 ft,,10,9
+1,7:10.0,,Defensive rebound by Team,10,9
+1,6:54.0,,Turnover by J. Brunson (lost ball; steal by D. Lillard),10,9
+1,6:41.0,C. McCollum misses 2-pt jump shot from 17 ft,,10,9
+1,6:38.0,,Defensive rebound by J. Brunson,10,9
+1,6:34.0,,T. Hardaway misses 3-pt jump shot from 28 ft,10,9
+1,6:31.0,Defensive rebound by J. Nurkić,,10,9
+1,6:24.0,Turnover by D. Lillard (traveling),,10,9
+1,6:24.0,,Dallas full timeout,10,9
+1,6:24.0,,T. Burke enters the game for L. Dončić,10,9
+1,6:24.0,,D. Powell enters the game for M. Kleber,10,9
+1,6:07.0,,T. Hardaway makes 2-pt jump shot from 12 ft,10,11
+1,5:42.0,Offensive foul by M. Harkless (drawn by J. Brunson),,10,11
+1,5:42.0,Turnover by M. Harkless (offensive foul),,10,11
+1,5:42.0,Z. Collins enters the game for M. Harkless,,10,11
+1,5:42.0,R. Hood enters the game for J. Nurkić,,10,11
+1,5:33.0,,T. Hardaway makes 3-pt jump shot from 25 ft (assist by J. Brunson),10,14
+1,5:21.0,Shooting foul by D. Powell (drawn by C. McCollum),,10,14
+1,5:21.0,C. McCollum makes free throw 1 of 2,,11,14
+1,5:21.0,,D. Nowitzki enters the game for D. Finney-Smith,11,14
+1,5:21.0,C. McCollum makes free throw 2 of 2,,12,14
+1,5:10.0,,Turnover by D. Nowitzki (traveling),12,14
+1,4:59.0,D. Lillard misses 3-pt jump shot from 25 ft,,12,14
+1,4:55.0,,Defensive rebound by D. Powell,12,14
+1,4:46.0,,Shooting foul by Z. Collins (drawn by D. Powell),12,14
+1,4:46.0,,D. Powell makes free throw 1 of 2,12,15
+1,4:46.0,,D. Powell misses free throw 2 of 2,12,15
+1,4:44.0,Defensive rebound by Z. Collins,,12,15
+1,4:32.0,Turnover by A. Aminu (bad pass),,12,15
+1,4:19.0,,T. Hardaway misses 3-pt jump shot from 27 ft,12,15
+1,4:17.0,Defensive rebound by A. Aminu,,12,15
+1,4:09.0,R. Hood misses 2-pt jump shot from 6 ft (block by J. Brunson),,12,15
+1,4:07.0,Offensive rebound by C. McCollum,,12,15
+1,4:05.0,C. McCollum misses 2-pt jump shot from 16 ft,,12,15
+1,4:02.0,Offensive rebound by Z. Collins,,12,15
+1,3:59.0,C. McCollum misses 3-pt jump shot from 26 ft,,12,15
+1,3:57.0,,Defensive rebound by D. Powell,12,15
+1,3:44.0,,Turnover by J. Brunson (bad pass; steal by Z. Collins),12,15
+1,3:37.0,R. Hood makes 3-pt jump shot from 24 ft (assist by C. McCollum),,15,15
+1,3:19.0,,T. Burke makes 2-pt layup from 2 ft,15,17
+1,3:18.0,Portland full timeout,,15,17
+1,3:18.0,J. Layman enters the game for A. Aminu,,15,17
+1,3:18.0,E. Turner enters the game for C. McCollum,,15,17
+1,3:18.0,,L. Dončić enters the game for J. Brunson,15,17
+1,3:18.0,,D. Harris enters the game for T. Hardaway,15,17
+1,3:00.0,E. Turner misses 3-pt jump shot from 25 ft,,15,17
+1,2:56.0,,Defensive rebound by L. Dončić,15,17
+1,2:46.0,,L. Dončić misses 3-pt jump shot from 27 ft,15,17
+1,2:42.0,Defensive rebound by E. Turner,,15,17
+1,2:31.0,D. Lillard misses 3-pt jump shot from 26 ft,,15,17
+1,2:29.0,,Defensive rebound by D. Nowitzki,15,17
+1,2:24.0,,Personal foul by R. Hood (drawn by L. Dončić),15,17
+1,2:24.0,,L. Dončić makes free throw 1 of 2,15,18
+1,2:24.0,,L. Dončić makes free throw 2 of 2,15,19
+1,2:15.0,Personal foul by T. Burke (drawn by D. Lillard),,15,19
+1,2:06.0,D. Lillard misses 2-pt jump shot from 17 ft,,15,19
+1,2:04.0,,Defensive rebound by D. Nowitzki,15,19
+1,1:58.0,,T. Burke misses 2-pt jump shot from 11 ft,15,19
+1,1:55.0,Defensive rebound by Z. Collins,,15,19
+1,1:48.0,D. Lillard misses 2-pt layup from 2 ft,,15,19
+1,1:46.0,Offensive rebound by Z. Collins,,15,19
+1,1:45.0,Z. Collins makes 2-pt layup from 1 ft,,17,19
+1,1:27.0,,T. Burke makes 3-pt jump shot from 23 ft (assist by L. Dončić),17,22
+1,1:06.0,Z. Collins makes 2-pt layup from 1 ft (assist by E. Turner),,19,22
+1,0:59.0,,D. Nowitzki makes 3-pt jump shot from 26 ft (assist by L. Dončić),19,25
+1,0:42.0,D. Lillard makes 3-pt jump shot from 25 ft,,22,25
+1,0:26.0,,Turnover by D. Harris (bad pass; steal by R. Hood),22,25
+1,0:08.0,Personal take foul by D. Powell (drawn by D. Lillard),,22,25
+1,0:08.0,C. McCollum enters the game for E. Turner,,22,25
+1,0:08.0,,D. Finney-Smith enters the game for D. Nowitzki,22,25
+1,0:08.0,,M. Kleber enters the game for D. Powell,22,25
+1,0:02.0,Shooting foul by D. Finney-Smith (drawn by D. Lillard),,22,25
+1,0:02.0,D. Lillard makes free throw 1 of 2,,23,25
+1,0:02.0,D. Lillard makes free throw 2 of 2,,24,25
+2,11:46.0,,L. Dončić misses 2-pt jump shot from 5 ft,24,25
+2,11:43.0,,Offensive rebound by R. Broekhoff,24,25
+2,11:43.0,,R. Broekhoff misses 2-pt layup at rim,24,25
+2,11:42.0,Defensive rebound by Z. Collins,,24,25
+2,11:40.0,J. Layman makes 2-pt dunk from 1 ft (assist by E. Turner),,26,25
+2,11:18.0,,L. Dončić misses 2-pt jump shot from 15 ft,26,25
+2,11:15.0,Defensive rebound by Z. Collins,,26,25
+2,11:15.0,,J. Brunson enters the game for L. Dončić,26,25
+2,11:05.0,Turnover by J. Layman (bad pass; steal by R. Broekhoff),,26,25
+2,10:43.0,,J. Brunson misses 3-pt jump shot from 31 ft,26,25
+2,10:41.0,,Offensive rebound by Team,26,25
+2,10:41.0,,Turnover by Team (shot clock),26,25
+2,10:26.0,S. Curry makes 2-pt jump shot from 3 ft (assist by E. Turner),,28,25
+2,10:24.0,,Dallas full timeout,28,25
+2,10:24.0,,L. Dončić enters the game for J. Brunson,28,25
+2,10:03.0,,M. Kleber misses 2-pt jump shot from 4 ft (block by Z. Collins),28,25
+2,9:59.0,,Offensive rebound by D. Harris,28,25
+2,9:58.0,,D. Harris misses 3-pt jump shot from 25 ft,28,25
+2,9:58.0,Defensive rebound by E. Turner,,28,25
+2,9:52.0,J. Layman makes 2-pt layup from 3 ft (assist by E. Turner),,30,25
+2,9:44.0,,Shooting foul by Z. Collins (drawn by D. Harris),30,25
+2,9:44.0,,D. Harris misses free throw 1 of 2,30,25
+2,9:44.0,,Offensive rebound by Team,30,25
+2,9:44.0,,D. Finney-Smith enters the game for D. Nowitzki,30,25
+2,9:44.0,,D. Harris makes free throw 2 of 2,30,26
+2,9:30.0,J. Layman makes 3-pt jump shot from 27 ft (assist by Z. Collins),,33,26
+2,9:14.0,,Turnover by D. Finney-Smith (traveling),33,26
+2,8:58.0,R. Hood makes 3-pt jump shot from 25 ft (assist by J. Layman),,36,26
+2,8:40.0,,D. Harris misses 2-pt hook shot from 3 ft,36,26
+2,8:39.0,Defensive rebound by E. Turner,,36,26
+2,8:35.0,E. Turner makes 2-pt jump shot from 6 ft,,38,26
+2,8:33.0,,Dallas full timeout,38,26
+2,8:33.0,,T. Hardaway enters the game for D. Harris,38,26
+2,8:33.0,,D. Powell enters the game for M. Kleber,38,26
+2,8:19.0,,L. Dončić misses 2-pt layup from 3 ft,38,26
+2,8:18.0,,Offensive rebound by D. Powell,38,26
+2,8:07.0,,Turnover by L. Dončić (bad pass; steal by Z. Collins),38,26
+2,7:59.0,S. Curry misses 3-pt jump shot from 25 ft,,38,26
+2,7:56.0,,Defensive rebound by D. Finney-Smith,38,26
+2,7:50.0,,T. Hardaway misses 2-pt jump shot from 18 ft,38,26
+2,7:47.0,,Offensive rebound by D. Powell,38,26
+2,7:44.0,,R. Broekhoff misses 3-pt jump shot from 24 ft,38,26
+2,7:41.0,Defensive rebound by E. Turner,,38,26
+2,7:33.0,Shooting foul by D. Finney-Smith (drawn by Z. Collins),,38,26
+2,7:33.0,Z. Collins misses free throw 1 of 2,,38,26
+2,7:33.0,Offensive rebound by Team,,38,26
+2,7:33.0,,J. Brunson enters the game for L. Dončić,38,26
+2,7:33.0,Z. Collins makes free throw 2 of 2,,39,26
+2,7:10.0,,D. Powell makes 2-pt hook shot from 2 ft,39,28
+2,7:10.0,,Shooting foul by Z. Collins (drawn by D. Powell),39,28
+2,7:10.0,M. Harkless enters the game for Z. Collins,,39,28
+2,7:10.0,C. McCollum enters the game for R. Hood,,39,28
+2,7:10.0,J. Nurkić enters the game for E. Turner,,39,28
+2,7:10.0,,D. Powell makes free throw 1 of 1,39,29
+2,6:56.0,J. Layman misses 2-pt layup from 7 ft (block by R. Broekhoff),,39,29
+2,6:52.0,,Defensive rebound by T. Hardaway,39,29
+2,6:49.0,,Personal foul by J. Layman (drawn by D. Powell),39,29
+2,6:41.0,,Offensive foul by J. Brunson (drawn by C. McCollum),39,29
+2,6:41.0,,Turnover by J. Brunson (offensive foul),39,29
+2,6:26.0,S. Curry makes 2-pt jump shot from 14 ft (assist by C. McCollum),,41,29
+2,6:14.0,,D. Finney-Smith misses 3-pt jump shot from 26 ft,41,29
+2,6:11.0,,Offensive rebound by D. Powell,41,29
+2,6:10.0,,T. Hardaway makes 3-pt jump shot from 26 ft (assist by D. Powell),41,32
+2,6:00.0,Personal foul by D. Powell (drawn by J. Nurkić),,41,32
+2,6:00.0,,M. Kleber enters the game for D. Powell,41,32
+2,5:53.0,Offensive foul by S. Curry (drawn by J. Brunson),,41,32
+2,5:53.0,Turnover by S. Curry (offensive foul),,41,32
+2,5:42.0,,Turnover by T. Hardaway (bad pass; steal by S. Curry),41,32
+2,5:39.0,S. Curry misses 3-pt jump shot from 27 ft,,41,32
+2,5:36.0,Offensive rebound by J. Nurkić,,41,32
+2,5:28.0,M. Harkless makes 2-pt dunk from 1 ft (assist by C. McCollum),,43,32
+2,5:16.0,,M. Kleber makes 3-pt jump shot from 26 ft (assist by J. Brunson),43,35
+2,5:04.0,Turnover by J. Nurkić (out of bounds lost ball),,43,35
+2,5:04.0,A. Aminu enters the game for J. Layman,,43,35
+2,4:55.0,,M. Kleber makes 2-pt dunk from 1 ft (assist by J. Brunson),43,37
+2,4:38.0,A. Aminu misses 2-pt jump shot from 23 ft,,43,37
+2,4:36.0,,Defensive rebound by T. Hardaway,43,37
+2,4:32.0,,T. Hardaway misses 2-pt layup from 2 ft (block by M. Harkless),43,37
+2,4:32.0,,Offensive rebound by Team,43,37
+2,4:32.0,D. Lillard enters the game for S. Curry,,43,37
+2,4:26.0,,J. Brunson makes 3-pt jump shot from 25 ft (assist by T. Hardaway),43,40
+2,4:09.0,M. Harkless misses 3-pt jump shot from 25 ft,,43,40
+2,4:07.0,Offensive rebound by J. Nurkić,,43,40
+2,4:05.0,J. Nurkić makes 2-pt layup from 1 ft,,45,40
+2,3:54.0,,M. Kleber misses 3-pt jump shot from 26 ft,45,40
+2,3:54.0,Defensive rebound by Team,,45,40
+2,3:36.0,M. Harkless makes 2-pt dunk from 1 ft (assist by D. Lillard),,47,40
+2,3:24.0,,M. Kleber misses 3-pt jump shot from 25 ft,47,40
+2,3:21.0,Defensive rebound by A. Aminu,,47,40
+2,3:15.0,J. Nurkić makes 2-pt hook shot from 6 ft (assist by A. Aminu),,49,40
+2,3:13.0,,Dallas full timeout,49,40
+2,3:13.0,,L. Dončić enters the game for R. Broekhoff,49,40
+2,2:59.0,,J. Brunson misses 2-pt jump shot from 7 ft,49,40
+2,2:57.0,Defensive rebound by C. McCollum,,49,40
+2,2:51.0,C. McCollum makes 2-pt jump shot from 5 ft,,51,40
+2,2:39.0,,M. Kleber makes 2-pt dunk from 2 ft (assist by T. Hardaway),51,42
+2,2:16.0,C. McCollum misses 3-pt jump shot from 26 ft,,51,42
+2,2:14.0,,Defensive rebound by D. Finney-Smith,51,42
+2,2:07.0,,M. Kleber misses 3-pt jump shot from 25 ft,51,42
+2,2:04.0,Defensive rebound by J. Nurkić,,51,42
+2,1:49.0,J. Nurkić makes 2-pt dunk from 1 ft (assist by D. Lillard),,53,42
+2,1:43.0,,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by J. Brunson),53,44
+2,1:43.0,Portland full timeout,,53,44
+2,1:43.0,,T. Burke enters the game for J. Brunson,53,44
+2,1:43.0,,D. Nowitzki enters the game for M. Kleber,53,44
+2,1:31.0,C. McCollum makes 2-pt jump shot from 15 ft (assist by J. Nurkić),,55,44
+2,1:09.0,,Turnover by D. Nowitzki (bad pass),55,44
+2,1:00.0,D. Lillard misses 2-pt jump shot from 16 ft,,55,44
+2,0:56.0,,Defensive rebound by D. Nowitzki,55,44
+2,0:48.0,,T. Hardaway misses 2-pt layup from 2 ft (block by J. Nurkić),55,44
+2,0:47.0,,Offensive rebound by Team,55,44
+2,0:39.0,,T. Burke misses 2-pt layup from 4 ft,55,44
+2,0:37.0,Defensive rebound by A. Aminu,,55,44
+2,0:35.0,Turnover by A. Aminu (bad pass),,55,44
+2,0:27.0,,Personal foul by M. Harkless (drawn by L. Dončić),55,44
+2,0:23.0,,L. Dončić makes 3-pt jump shot from 27 ft,55,47
+2,0:04.0,C. McCollum misses 2-pt jump shot from 13 ft,,55,47
+2,0:01.0,Offensive rebound by J. Nurkić,,55,47
+2,0:01.0,J. Nurkić makes 2-pt layup from 1 ft,,57,47
+2,0:00.0,,Turnover by L. Dončić (bad pass),57,47
+2,0:00.0,S. Curry enters the game for A. Aminu,,57,47
+2,0:00.0,R. Hood enters the game for J. Nurkić,,57,47
+2,0:00.0,,M. Kleber enters the game for D. Nowitzki,57,47
+2,0:00.0,R. Hood misses 3-pt jump shot from 34 ft,,57,47
+2,0:00.0,Offensive rebound by Team,,57,47
+3,11:47.0,,T. Hardaway misses 3-pt jump shot from 25 ft,57,47
+3,11:43.0,Defensive rebound by J. Nurkić,,57,47
+3,11:35.0,Turnover by D. Lillard (bad pass; steal by M. Kleber),,57,47
+3,11:30.0,,M. Kleber makes 2-pt dunk from 1 ft (assist by J. Brunson),57,49
+3,11:15.0,C. McCollum misses 2-pt jump shot from 16 ft,,57,49
+3,11:11.0,,Defensive rebound by T. Hardaway,57,49
+3,11:07.0,,D. Finney-Smith makes 3-pt jump shot from 26 ft (assist by T. Hardaway),57,52
+3,10:47.0,M. Harkless misses 2-pt jump shot from 7 ft,,57,52
+3,10:45.0,Offensive rebound by M. Harkless,,57,52
+3,10:44.0,M. Harkless misses 2-pt layup from 1 ft,,57,52
+3,10:40.0,Offensive rebound by J. Nurkić,,57,52
+3,10:40.0,J. Nurkić makes 2-pt layup at rim,,59,52
+3,10:31.0,,D. Finney-Smith misses 2-pt layup from 1 ft,59,52
+3,10:28.0,Defensive rebound by A. Aminu,,59,52
+3,10:26.0,Personal take foul by M. Kleber (drawn by A. Aminu),,59,52
+3,10:13.0,J. Nurkić makes 2-pt dunk from 1 ft (assist by D. Lillard),,61,52
+3,9:59.0,,L. Dončić makes 3-pt jump shot from 26 ft (assist by D. Finney-Smith),61,55
+3,9:39.0,M. Harkless misses 3-pt jump shot from 26 ft,,61,55
+3,9:36.0,,Defensive rebound by M. Kleber,61,55
+3,9:18.0,,J. Brunson misses 3-pt jump shot from 23 ft,61,55
+3,9:15.0,Defensive rebound by J. Nurkić,,61,55
+3,9:07.0,Offensive foul by D. Lillard (drawn by T. Hardaway),,61,55
+3,9:07.0,Turnover by D. Lillard (offensive foul),,61,55
+3,8:53.0,,T. Hardaway makes 2-pt jump shot from 6 ft (assist by L. Dončić),61,57
+3,8:43.0,C. McCollum makes 2-pt jump shot from 8 ft,,63,57
+3,8:30.0,,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by J. Brunson),63,59
+3,8:24.0,Portland full timeout,,63,59
+3,8:13.0,D. Lillard misses 3-pt jump shot from 28 ft,,63,59
+3,8:08.0,Offensive rebound by M. Harkless,,63,59
+3,8:05.0,J. Nurkić makes 2-pt hook shot from 4 ft (assist by A. Aminu),,65,59
+3,7:45.0,,Shooting foul by J. Nurkić (drawn by T. Hardaway),65,59
+3,7:45.0,,T. Hardaway misses free throw 1 of 2,65,59
+3,7:45.0,,Offensive rebound by Team,65,59
+3,7:45.0,,T. Hardaway makes free throw 2 of 2,65,60
+3,7:38.0,Offensive foul by J. Nurkić (drawn by J. Brunson),,65,60
+3,7:38.0,Turnover by J. Nurkić (offensive foul),,65,60
+3,7:38.0,Z. Collins enters the game for J. Nurkić,,65,60
+3,7:25.0,,T. Hardaway makes 2-pt layup from 1 ft (assist by L. Dončić),65,62
+3,6:57.0,Z. Collins makes 2-pt jump shot from 4 ft,,67,62
+3,6:48.0,,L. Dončić misses 3-pt jump shot from 26 ft,67,62
+3,6:45.0,Defensive rebound by Z. Collins,,67,62
+3,6:38.0,C. McCollum misses 3-pt jump shot from 24 ft,,67,62
+3,6:34.0,,Defensive rebound by L. Dončić,67,62
+3,6:13.0,,M. Kleber misses 3-pt jump shot from 26 ft,67,62
+3,6:10.0,Defensive rebound by C. McCollum,,67,62
+3,6:05.0,Flagrant foul type 1 by T. Hardaway (drawn by Z. Collins),,67,62
+3,6:05.0,Z. Collins misses flagrant free throw 1 of 2,,67,62
+3,6:05.0,Offensive rebound by Team,,67,62
+3,6:05.0,Z. Collins misses flagrant free throw 2 of 2,,67,62
+3,6:05.0,Offensive rebound by Team,,67,62
+3,6:05.0,,T. Burke enters the game for L. Dončić,67,62
+3,6:05.0,,D. Powell enters the game for M. Kleber,67,62
+3,5:59.0,D. Lillard misses 2-pt jump shot from 6 ft,,67,62
+3,5:56.0,Offensive rebound by Z. Collins,,67,62
+3,5:55.0,Turnover by Z. Collins (lost ball; steal by J. Brunson),,67,62
+3,5:46.0,,J. Brunson misses 2-pt layup from 3 ft,67,62
+3,5:44.0,,Offensive rebound by D. Finney-Smith,67,62
+3,5:42.0,,D. Finney-Smith makes 2-pt dunk from 1 ft,67,64
+3,5:38.0,Offensive foul by Z. Collins (drawn by J. Brunson),,67,64
+3,5:38.0,Turnover by Z. Collins (offensive foul),,67,64
+3,5:38.0,R. Hood enters the game for M. Harkless,,67,64
+3,5:31.0,,T. Hardaway makes 2-pt layup from 2 ft (assist by J. Brunson),67,66
+3,5:31.0,,Shooting foul by R. Hood (drawn by T. Hardaway),67,66
+3,5:31.0,,T. Hardaway makes free throw 1 of 1,67,67
+3,5:19.0,D. Lillard makes 2-pt jump shot from 17 ft (assist by A. Aminu),,69,67
+3,4:58.0,,J. Brunson misses 2-pt jump shot from 15 ft,69,67
+3,4:55.0,Defensive rebound by D. Lillard,,69,67
+3,4:48.0,D. Lillard makes 3-pt jump shot from 26 ft,,72,67
+3,4:31.0,,Personal foul by R. Hood (drawn by D. Powell),72,67
+3,4:20.0,,T. Hardaway makes 2-pt jump shot from 15 ft (assist by D. Powell),72,69
+3,4:05.0,C. McCollum makes 2-pt jump shot from 6 ft,,74,69
+3,3:53.0,,J. Brunson misses 2-pt jump shot from 10 ft,74,69
+3,3:49.0,Defensive rebound by C. McCollum,,74,69
+3,3:44.0,Personal foul by J. Brunson (drawn by D. Lillard),,74,69
+3,3:44.0,J. Layman enters the game for A. Aminu,,74,69
+3,3:44.0,E. Turner enters the game for C. McCollum,,74,69
+3,3:44.0,,L. Dončić enters the game for J. Brunson,74,69
+3,3:44.0,,D. Nowitzki enters the game for D. Finney-Smith,74,69
+3,3:40.0,Personal foul by T. Burke (drawn by D. Lillard),,74,69
+3,3:33.0,D. Lillard makes 3-pt jump shot from 25 ft (assist by E. Turner),,77,69
+3,3:11.0,,T. Burke misses 2-pt layup from 2 ft (block by Z. Collins),77,69
+3,3:09.0,,Offensive rebound by T. Burke,77,69
+3,3:09.0,,Shooting foul by Z. Collins (drawn by D. Powell),77,69
+3,3:09.0,,D. Powell makes free throw 1 of 2,77,70
+3,3:09.0,M. Leonard enters the game for Z. Collins,,77,70
+3,3:09.0,,C. Lee enters the game for T. Hardaway,77,70
+3,3:09.0,,D. Powell makes free throw 2 of 2,77,71
+3,2:56.0,D. Lillard makes 2-pt jump shot from 22 ft,,79,71
+3,2:41.0,,T. Burke makes 3-pt jump shot from 25 ft (assist by L. Dončić),79,74
+3,2:21.0,D. Lillard makes 3-pt jump shot from 26 ft,,82,74
+3,1:57.0,,Shooting foul by M. Leonard (drawn by L. Dončić),82,74
+3,1:57.0,,Dallas full timeout,82,74
+3,1:57.0,,L. Dončić misses free throw 1 of 2,82,74
+3,1:57.0,,Offensive rebound by Team,82,74
+3,1:57.0,,L. Dončić misses free throw 2 of 2,82,74
+3,1:53.0,Defensive rebound by E. Turner,,82,74
+3,1:46.0,D. Lillard makes 3-pt jump shot from 24 ft (assist by E. Turner),,85,74
+3,1:24.0,,T. Burke misses 3-pt jump shot from 26 ft,85,74
+3,1:21.0,Defensive rebound by E. Turner,,85,74
+3,1:15.0,D. Lillard makes 3-pt jump shot from 26 ft (assist by E. Turner),,88,74
+3,1:02.0,,Personal foul by R. Hood (drawn by L. Dončić),88,74
+3,1:02.0,,L. Dončić makes free throw 1 of 2,88,75
+3,1:02.0,,L. Dončić makes free throw 2 of 2,88,76
+3,0:43.0,D. Lillard makes 2-pt layup from 4 ft,,90,76
+3,0:34.0,,Shooting foul by J. Layman (drawn by D. Powell),90,76
+3,0:34.0,,D. Powell makes free throw 1 of 2,90,77
+3,0:34.0,,D. Powell makes free throw 2 of 2,90,78
+3,0:20.0,M. Leonard makes 2-pt jump shot from 13 ft (assist by D. Lillard),,92,78
+3,0:01.0,,D. Nowitzki misses 3-pt jump shot from 25 ft,92,78
+3,0:01.0,,Offensive rebound by Team,92,78
+4,11:50.0,Personal foul by T. Burke (drawn by J. Layman),,92,78
+4,11:40.0,Turnover by D. Lillard (out of bounds lost ball),,92,78
+4,11:29.0,,D. Powell makes 2-pt layup from 2 ft (assist by T. Burke),92,80
+4,11:29.0,,Shooting foul by J. Layman (drawn by D. Powell),92,80
+4,11:29.0,,D. Powell makes free throw 1 of 1,92,81
+4,11:12.0,J. Layman makes 2-pt layup from 2 ft (assist by R. Hood),,94,81
+4,10:59.0,,Offensive foul by T. Burke (drawn by D. Lillard),94,81
+4,10:59.0,,Turnover by T. Burke (offensive foul),94,81
+4,10:43.0,R. Hood makes 2-pt jump shot from 8 ft,,96,81
+4,10:26.0,,L. Dončić misses 2-pt jump shot from 10 ft,96,81
+4,10:24.0,Defensive rebound by R. Hood,,96,81
+4,10:18.0,J. Layman misses 2-pt hook shot from 4 ft,,96,81
+4,10:16.0,,Defensive rebound by D. Finney-Smith,96,81
+4,10:03.0,,D. Finney-Smith misses 3-pt jump shot from 24 ft,96,81
+4,9:59.0,Defensive rebound by E. Turner,,96,81
+4,9:37.0,Turnover by E. Turner (bad pass; steal by T. Burke),,96,81
+4,9:32.0,,D. Finney-Smith misses 2-pt layup from 2 ft,96,81
+4,9:28.0,,Offensive rebound by D. Finney-Smith,96,81
+4,9:28.0,,D. Finney-Smith makes 2-pt layup from 1 ft,96,83
+4,9:23.0,Personal take foul by C. Lee (drawn by E. Turner),,96,83
+4,9:23.0,C. McCollum enters the game for D. Lillard,,96,83
+4,9:23.0,,J. Jackson enters the game for T. Burke,96,83
+4,9:14.0,Turnover by C. McCollum (palming),,96,83
+4,8:55.0,,J. Jackson misses 2-pt jump shot from 5 ft,96,83
+4,8:51.0,Defensive rebound by E. Turner,,96,83
+4,8:45.0,Turnover by E. Turner (lost ball; steal by D. Finney-Smith),,96,83
+4,8:37.0,,L. Dončić makes 2-pt jump shot from 2 ft,96,85
+4,8:17.0,Shooting foul by L. Dončić (drawn by M. Leonard),,96,85
+4,8:17.0,M. Leonard misses free throw 1 of 2,,96,85
+4,8:17.0,Offensive rebound by Team,,96,85
+4,8:17.0,S. Curry enters the game for E. Turner,,96,85
+4,8:17.0,M. Leonard misses free throw 2 of 2,,96,85
+4,8:13.0,Offensive rebound by C. McCollum,,96,85
+4,8:00.0,C. McCollum misses 3-pt jump shot from 26 ft,,96,85
+4,7:57.0,,Defensive rebound by L. Dončić,96,85
+4,7:44.0,,Offensive foul by C. Lee (drawn by S. Curry),96,85
+4,7:44.0,,Turnover by C. Lee (offensive foul),96,85
+4,7:35.0,Personal foul by L. Dončić (drawn by R. Hood),,96,85
+4,7:29.0,R. Hood misses 3-pt jump shot from 26 ft,,96,85
+4,7:25.0,,Defensive rebound by L. Dončić,96,85
+4,7:18.0,,L. Dončić makes 3-pt jump shot from 26 ft,96,88
+4,7:01.0,R. Hood misses 3-pt jump shot from 26 ft,,96,88
+4,6:59.0,,Defensive rebound by L. Dončić,96,88
+4,6:52.0,,D. Powell misses 3-pt jump shot from 25 ft,96,88
+4,6:49.0,Defensive rebound by J. Layman,,96,88
+4,6:42.0,Turnover by J. Layman (bad pass; steal by C. Lee),,96,88
+4,6:41.0,,Personal foul by C. McCollum (drawn by C. Lee),96,88
+4,6:41.0,,Dallas full timeout,96,88
+4,6:41.0,J. Nurkić enters the game for M. Leonard,,96,88
+4,6:41.0,,M. Kleber enters the game for D. Finney-Smith,96,88
+4,6:24.0,,D. Powell misses 2-pt layup from 2 ft,96,88
+4,6:22.0,Defensive rebound by J. Nurkić,,96,88
+4,6:22.0,,T. Hardaway enters the game for C. Lee,96,88
+4,6:04.0,C. McCollum misses 2-pt layup from 4 ft,,96,88
+4,6:04.0,,Defensive rebound by Team,96,88
+4,5:51.0,,Personal foul by J. Nurkić (drawn by D. Powell),96,88
+4,5:46.0,,D. Powell makes 2-pt dunk from 2 ft (assist by L. Dončić),96,90
+4,5:23.0,S. Curry misses 2-pt jump shot from 14 ft,,96,90
+4,5:20.0,,Defensive rebound by M. Kleber,96,90
+4,5:11.0,,L. Dončić makes 3-pt jump shot from 26 ft,96,93
+4,5:10.0,Portland full timeout,,96,93
+4,5:10.0,M. Harkless enters the game for S. Curry,,96,93
+4,5:10.0,D. Lillard enters the game for R. Hood,,96,93
+4,5:10.0,,D. Finney-Smith enters the game for J. Jackson,96,93
+4,4:55.0,Turnover by C. McCollum (bad pass),,96,93
+4,4:42.0,,T. Hardaway misses 3-pt jump shot from 25 ft,96,93
+4,4:36.0,,Offensive rebound by T. Hardaway,96,93
+4,4:35.0,,T. Hardaway makes 2-pt dunk from 1 ft,96,95
+4,4:17.0,J. Nurkić misses 2-pt layup from 7 ft (block by L. Dončić),,96,95
+4,4:13.0,,Defensive rebound by Team,96,95
+4,3:58.0,,Offensive foul by D. Finney-Smith (drawn by D. Lillard),96,95
+4,3:58.0,,Turnover by D. Finney-Smith (offensive foul),96,95
+4,3:48.0,D. Lillard misses 3-pt jump shot from 27 ft,,96,95
+4,3:45.0,Offensive rebound by M. Harkless,,96,95
+4,3:45.0,Shooting foul by L. Dončić (drawn by M. Harkless),,96,95
+4,3:45.0,M. Harkless misses free throw 1 of 2,,96,95
+4,3:45.0,Offensive rebound by Team,,96,95
+4,3:45.0,M. Harkless makes free throw 2 of 2,,97,95
+4,3:35.0,,L. Dončić misses 3-pt jump shot from 28 ft,97,95
+4,3:30.0,Defensive rebound by D. Lillard,,97,95
+4,3:21.0,J. Layman misses 3-pt jump shot from 26 ft,,97,95
+4,3:17.0,,Defensive rebound by D. Powell,97,95
+4,3:12.0,,Shooting foul by J. Nurkić (drawn by T. Hardaway),97,95
+4,3:12.0,Z. Collins enters the game for J. Nurkić,,97,95
+4,3:12.0,,T. Hardaway makes free throw 1 of 2,97,96
+4,3:12.0,,T. Hardaway makes free throw 2 of 2,97,97
+4,2:54.0,D. Lillard misses 3-pt jump shot from 25 ft,,97,97
+4,2:50.0,,Defensive rebound by M. Kleber,97,97
+4,2:47.0,,T. Hardaway misses 3-pt jump shot from 25 ft,97,97
+4,2:44.0,,Offensive rebound by D. Powell,97,97
+4,2:32.0,,L. Dončić makes 2-pt layup from 3 ft,97,99
+4,2:18.0,Personal foul by D. Finney-Smith (drawn by D. Lillard),,97,99
+4,2:18.0,D. Lillard makes free throw 1 of 2,,98,99
+4,2:18.0,D. Lillard makes free throw 2 of 2,,99,99
+4,2:03.0,,D. Powell misses 2-pt layup from 1 ft,99,99
+4,2:01.0,Defensive rebound by M. Harkless,,99,99
+4,1:46.0,Turnover by D. Lillard (out of bounds lost ball),,99,99
+4,1:28.0,,L. Dončić makes 2-pt layup from 2 ft,99,101
+4,1:28.0,,Shooting foul by M. Harkless (drawn by L. Dončić),99,101
+4,1:28.0,R. Hood enters the game for M. Harkless,,99,101
+4,1:28.0,,L. Dončić makes free throw 1 of 1,99,102
+4,1:14.0,D. Lillard misses 2-pt jump shot from 2 ft,,99,102
+4,1:10.0,Offensive rebound by Team,,99,102
+4,1:04.0,C. McCollum misses 2-pt jump shot from 10 ft,,99,102
+4,1:00.0,,Defensive rebound by D. Powell,99,102
+4,0:43.0,,L. Dončić misses 2-pt jump shot from 16 ft,99,102
+4,0:40.0,Defensive rebound by C. McCollum,,99,102
+4,0:34.0,C. McCollum makes 2-pt jump shot from 14 ft,,101,102
+4,0:13.0,,L. Dončić misses 3-pt jump shot from 27 ft,101,102
+4,0:08.0,Defensive rebound by Z. Collins,,101,102
+4,0:02.0,D. Lillard misses 2-pt layup from 4 ft,,101,102
+4,0:02.0,,Defensive rebound by M. Kleber,101,102

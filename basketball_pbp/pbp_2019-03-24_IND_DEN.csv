@@ -1,0 +1,433 @@
+QUARTER,TIME_REMAINING,DENVER_ACTION,INDIANA_ACTION,DENVER_SCORE,INDIANA_SCORE
+1,11:42.0,Personal foul by C. Joseph (drawn by P. Millsap),,0,0
+1,11:29.0,N. Jokić misses 2-pt hook shot from 4 ft,,0,0
+1,11:28.0,,Defensive rebound by Team,0,0
+1,11:28.0,Loose ball foul by P. Millsap (drawn by T. Young),,0,0
+1,11:16.0,,Turnover by M. Turner (traveling),0,0
+1,11:08.0,Turnover by W. Barton (bad pass; steal by M. Turner),,0,0
+1,10:58.0,,M. Turner misses 2-pt jump shot from 17 ft,0,0
+1,10:54.0,Defensive rebound by N. Jokić,,0,0
+1,10:36.0,Turnover by J. Murray (bad pass; steal by C. Joseph),,0,0
+1,10:31.0,,B. Bogdanović makes 2-pt layup at rim (assist by C. Joseph),0,2
+1,10:16.0,N. Jokić misses 2-pt jump shot from 8 ft,,0,2
+1,10:13.0,,Defensive rebound by M. Turner,0,2
+1,9:59.0,,M. Turner makes 2-pt jump shot from 20 ft (assist by B. Bogdanović),0,4
+1,9:40.0,J. Murray misses 2-pt jump shot from 12 ft,,0,4
+1,9:36.0,Offensive rebound by J. Murray,,0,4
+1,9:35.0,W. Barton makes 2-pt jump shot from 8 ft (assist by J. Murray),,2,4
+1,9:09.0,,B. Bogdanović makes 3-pt jump shot from 27 ft,2,7
+1,8:57.0,N. Jokić makes 2-pt layup from 1 ft (assist by J. Murray),,4,7
+1,8:44.0,,M. Turner makes 2-pt jump shot from 16 ft (assist by C. Joseph),4,9
+1,8:25.0,W. Barton makes 2-pt jump shot from 12 ft (assist by G. Harris),,6,9
+1,8:11.0,,Personal foul by W. Barton (drawn by B. Bogdanović),6,9
+1,7:54.0,,W. Matthews misses 3-pt jump shot from 29 ft,6,9
+1,7:52.0,,Offensive rebound by M. Turner,6,9
+1,7:52.0,,M. Turner misses 2-pt dunk from 1 ft (block by N. Jokić),6,9
+1,7:50.0,Defensive rebound by J. Murray,,6,9
+1,7:47.0,P. Millsap makes 3-pt jump shot from 28 ft (assist by J. Murray),,9,9
+1,7:34.0,,M. Turner makes 2-pt jump shot from 14 ft (assist by B. Bogdanović),9,11
+1,7:16.0,P. Millsap misses 2-pt jump shot from 10 ft,,9,11
+1,7:15.0,Offensive rebound by Team,,9,11
+1,7:13.0,J. Murray makes 2-pt jump shot from 16 ft (assist by N. Jokić),,11,11
+1,6:56.0,,Turnover by T. Young (out of bounds lost ball),11,11
+1,6:56.0,,Indiana full timeout,11,11
+1,6:47.0,W. Barton misses 2-pt layup from 1 ft,,11,11
+1,6:45.0,Offensive rebound by N. Jokić,,11,11
+1,6:45.0,N. Jokić makes 2-pt layup at rim,,13,11
+1,6:29.0,,T. Young makes 2-pt layup from 1 ft,13,13
+1,6:10.0,Turnover by J. Murray (lost ball; steal by B. Bogdanović),,13,13
+1,6:07.0,,B. Bogdanović makes 2-pt dunk at rim,13,15
+1,5:48.0,P. Millsap misses 2-pt layup from 7 ft,,13,15
+1,5:46.0,,Defensive rebound by B. Bogdanović,13,15
+1,5:40.0,,Turnover by T. Young (lost ball; steal by P. Millsap),13,15
+1,5:35.0,G. Harris makes 2-pt layup from 1 ft,,15,15
+1,5:16.0,,M. Turner misses 3-pt jump shot from 24 ft,15,15
+1,5:13.0,Defensive rebound by W. Barton,,15,15
+1,5:04.0,W. Barton misses 2-pt jump shot from 7 ft,,15,15
+1,5:01.0,,Defensive rebound by T. Young,15,15
+1,4:52.0,,M. Turner makes 2-pt layup from 2 ft (assist by W. Matthews),15,17
+1,4:26.0,N. Jokić makes 2-pt layup at rim (assist by J. Murray),,17,17
+1,4:12.0,,W. Matthews misses 2-pt layup from 3 ft,17,17
+1,4:11.0,Defensive rebound by N. Jokić,,17,17
+1,4:04.0,P. Millsap makes 2-pt dunk from 1 ft (assist by J. Murray),,19,17
+1,3:40.0,,T. Young misses 2-pt jump shot from 20 ft,19,17
+1,3:37.0,Defensive rebound by J. Murray,,19,17
+1,3:34.0,Turnover by J. Murray (bad pass; steal by C. Joseph),,19,17
+1,3:30.0,,B. Bogdanović makes 2-pt layup from 1 ft,19,19
+1,3:12.0,J. Murray misses 2-pt jump shot from 3 ft,,19,19
+1,3:08.0,,Defensive rebound by M. Turner,19,19
+1,3:04.0,,M. Turner makes 2-pt dunk from 1 ft,19,21
+1,3:03.0,Denver full timeout,,19,21
+1,3:03.0,M. Beasley enters the game for G. Harris,,19,21
+1,3:03.0,M. Morris enters the game for P. Millsap,,19,21
+1,3:03.0,M. Plumlee enters the game for J. Murray,,19,21
+1,3:03.0,,T. Evans enters the game for C. Joseph,19,21
+1,3:03.0,,D. Sabonis enters the game for T. Young,19,21
+1,2:49.0,W. Barton misses 3-pt jump shot from 26 ft,,19,21
+1,2:47.0,,Defensive rebound by T. Evans,19,21
+1,2:34.0,,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by W. Matthews),19,24
+1,2:21.0,Turnover by M. Plumlee (bad pass),,19,24
+1,2:21.0,P. Millsap enters the game for N. Jokić,,19,24
+1,2:11.0,,Turnover by D. Sabonis (traveling),19,24
+1,2:11.0,,D. McDermott enters the game for B. Bogdanović,19,24
+1,1:59.0,Turnover by W. Barton (bad pass),,19,24
+1,1:45.0,,D. Sabonis makes 2-pt layup at rim (assist by W. Matthews),19,26
+1,1:31.0,Personal foul by D. Sabonis (drawn by P. Millsap),,19,26
+1,1:31.0,,A. Holiday enters the game for W. Matthews,19,26
+1,1:31.0,,T. Young enters the game for M. Turner,19,26
+1,1:29.0,M. Beasley makes 2-pt jump shot from 18 ft (assist by W. Barton),,21,26
+1,1:12.0,,A. Holiday misses 3-pt jump shot from 24 ft,21,26
+1,1:09.0,Defensive rebound by Team,,21,26
+1,1:09.0,T. Craig enters the game for W. Barton,,21,26
+1,0:49.0,P. Millsap misses 2-pt jump shot from 9 ft,,21,26
+1,0:46.0,,Defensive rebound by D. Sabonis,21,26
+1,0:29.0,,D. Sabonis misses 2-pt hook shot from 5 ft,21,26
+1,0:27.0,,Offensive rebound by D. McDermott,21,26
+1,0:25.0,,D. McDermott misses 2-pt jump shot from 16 ft,21,26
+1,0:24.0,Defensive rebound by Team,,21,26
+1,0:24.0,,Loose ball foul by D. Sabonis (drawn by M. Plumlee),21,26
+1,0:24.0,M. Plumlee makes free throw 1 of 2,,22,26
+1,0:24.0,M. Plumlee makes free throw 2 of 2,,23,26
+1,0:11.0,,Shooting foul by T. Craig (drawn by T. Evans),23,26
+1,0:11.0,,T. Evans makes free throw 1 of 2,23,27
+1,0:11.0,J. Murray enters the game for T. Craig,,23,27
+1,0:11.0,,M. Turner enters the game for D. Sabonis,23,27
+1,0:11.0,,T. Evans misses free throw 2 of 2,23,27
+1,0:10.0,Defensive rebound by M. Plumlee,,23,27
+1,0:02.0,J. Murray misses 3-pt jump shot from 31 ft,,23,27
+1,0:00.0,Offensive rebound by Team,,23,27
+2,11:37.0,,Shooting foul by M. Morris (drawn by D. Sabonis),23,27
+2,11:37.0,,D. Sabonis misses free throw 1 of 2,23,27
+2,11:37.0,,Offensive rebound by Team,23,27
+2,11:37.0,,D. Sabonis makes free throw 2 of 2,23,28
+2,11:25.0,M. Morris misses 2-pt jump shot from 18 ft,,23,28
+2,11:22.0,,Defensive rebound by T. Evans,23,28
+2,11:18.0,,T. Evans misses 2-pt layup from 3 ft,23,28
+2,11:18.0,Defensive rebound by Team,,23,28
+2,11:10.0,M. Plumlee misses 2-pt layup from 1 ft (block by T. Evans),,23,28
+2,11:08.0,,Defensive rebound by D. McDermott,23,28
+2,10:58.0,,D. Sabonis makes 2-pt jump shot from 5 ft (assist by T. Evans),23,30
+2,10:37.0,M. Morris misses 3-pt jump shot from 27 ft,,23,30
+2,10:33.0,Offensive rebound by P. Millsap,,23,30
+2,10:30.0,Turnover by P. Millsap (traveling),,23,30
+2,10:17.0,,Turnover by T. Evans (bad pass; steal by M. Beasley),23,30
+2,10:14.0,Shooting foul by D. McDermott (drawn by M. Beasley),,23,30
+2,10:14.0,M. Beasley makes free throw 1 of 2,,24,30
+2,10:14.0,M. Beasley makes free throw 2 of 2,,25,30
+2,10:02.0,,D. McDermott makes 2-pt jump shot from 20 ft (assist by T. Young),25,32
+2,9:40.0,Personal foul by D. McDermott (drawn by M. Beasley),,25,32
+2,9:38.0,Personal foul by A. Holiday (drawn by P. Millsap),,25,32
+2,9:26.0,Shooting foul by T. Young (drawn by M. Plumlee),,25,32
+2,9:26.0,M. Plumlee makes free throw 1 of 2,,26,32
+2,9:26.0,M. Plumlee makes free throw 2 of 2,,27,32
+2,9:10.0,,T. Evans misses 3-pt jump shot from 25 ft,27,32
+2,9:09.0,Defensive rebound by M. Beasley,,27,32
+2,8:50.0,M. Beasley misses 3-pt jump shot from 26 ft,,27,32
+2,8:47.0,,Defensive rebound by D. Sabonis,27,32
+2,8:41.0,,T. Evans makes 2-pt layup from 2 ft (assist by A. Holiday),27,34
+2,8:35.0,M. Beasley misses 2-pt layup from 1 ft,,27,34
+2,8:32.0,,Defensive rebound by D. Sabonis,27,34
+2,8:25.0,,D. McDermott misses 3-pt jump shot from 27 ft,27,34
+2,8:22.0,,Offensive rebound by D. Sabonis,27,34
+2,8:12.0,,D. McDermott makes 2-pt layup from 5 ft (assist by T. Young),27,36
+2,7:56.0,Turnover by M. Plumlee (lost ball; steal by T. Young),,27,36
+2,7:56.0,,Personal take foul by M. Plumlee (drawn by T. Evans),27,36
+2,7:56.0,G. Harris enters the game for M. Beasley,,27,36
+2,7:56.0,N. Jokić enters the game for P. Millsap,,27,36
+2,7:56.0,J. Murray enters the game for M. Morris,,27,36
+2,7:56.0,,M. Turner enters the game for T. Young,27,36
+2,7:41.0,,D. McDermott makes 2-pt jump shot from 18 ft (assist by D. Sabonis),27,38
+2,7:18.0,N. Jokić makes 2-pt jump shot from 16 ft (assist by M. Plumlee),,29,38
+2,7:02.0,,T. Evans misses 2-pt dunk from 5 ft (block by T. Craig),29,38
+2,7:01.0,,Offensive rebound by D. Sabonis,29,38
+2,6:57.0,,D. McDermott misses 3-pt jump shot from 27 ft,29,38
+2,6:56.0,Defensive rebound by N. Jokić,,29,38
+2,6:47.0,G. Harris makes 2-pt layup from 1 ft (assist by N. Jokić),,31,38
+2,6:40.0,,Indiana full timeout,31,38
+2,6:40.0,,B. Bogdanović enters the game for T. Evans,31,38
+2,6:40.0,,C. Joseph enters the game for A. Holiday,31,38
+2,6:40.0,,W. Matthews enters the game for D. McDermott,31,38
+2,6:27.0,,D. Sabonis makes 2-pt layup from 2 ft (assist by W. Matthews),31,40
+2,6:16.0,N. Jokić misses 2-pt hook shot from 6 ft,,31,40
+2,6:14.0,,Defensive rebound by Team,31,40
+2,6:06.0,,B. Bogdanović makes 3-pt jump shot from 23 ft (assist by C. Joseph),31,43
+2,5:50.0,G. Harris makes 2-pt layup from 2 ft (assist by N. Jokić),,33,43
+2,5:34.0,,D. Sabonis misses 2-pt dunk from 1 ft (block by M. Plumlee),33,43
+2,5:31.0,Defensive rebound by M. Plumlee,,33,43
+2,5:25.0,T. Craig misses 3-pt jump shot from 23 ft,,33,43
+2,5:25.0,,Defensive rebound by B. Bogdanović,33,43
+2,5:10.0,,Turnover by D. Sabonis (bad pass; steal by J. Murray),33,43
+2,5:10.0,W. Barton enters the game for T. Craig,,33,43
+2,4:50.0,Turnover by M. Plumlee (3 sec),,33,43
+2,4:50.0,P. Millsap enters the game for M. Plumlee,,33,43
+2,4:27.0,,C. Joseph misses 2-pt jump shot from 18 ft,33,43
+2,4:25.0,,Offensive rebound by M. Turner,33,43
+2,4:21.0,,B. Bogdanović makes 2-pt jump shot from 6 ft (assist by M. Turner),33,45
+2,4:03.0,J. Murray misses 2-pt jump shot from 13 ft,,33,45
+2,4:01.0,,Defensive rebound by D. Sabonis,33,45
+2,3:53.0,,Shooting foul by N. Jokić (drawn by B. Bogdanović),33,45
+2,3:53.0,,B. Bogdanović makes free throw 1 of 2,33,46
+2,3:53.0,,T. Young enters the game for D. Sabonis,33,46
+2,3:53.0,,B. Bogdanović makes free throw 2 of 2,33,47
+2,3:43.0,G. Harris misses 2-pt jump shot from 10 ft,,33,47
+2,3:40.0,,Defensive rebound by M. Turner,33,47
+2,3:32.0,,B. Bogdanović makes 2-pt jump shot from 7 ft,33,49
+2,3:31.0,Denver full timeout,,33,49
+2,3:15.0,N. Jokić makes 2-pt hook shot from 2 ft,,35,49
+2,2:58.0,,Personal foul by P. Millsap (drawn by T. Young),35,49
+2,2:53.0,,B. Bogdanović makes 3-pt jump shot from 27 ft (assist by T. Young),35,52
+2,2:35.0,W. Barton makes 3-pt jump shot from 24 ft (assist by N. Jokić),,38,52
+2,2:14.0,,M. Turner misses 2-pt layup from 1 ft (block by N. Jokić),38,52
+2,2:11.0,,Offensive rebound by M. Turner,38,52
+2,2:11.0,,M. Turner misses 2-pt layup at rim (block by N. Jokić),38,52
+2,2:11.0,,Offensive rebound by T. Young,38,52
+2,2:07.0,,T. Young makes 2-pt layup from 1 ft,38,54
+2,1:57.0,J. Murray misses 3-pt jump shot from 27 ft,,38,54
+2,1:54.0,Offensive rebound by N. Jokić,,38,54
+2,1:50.0,G. Harris makes 2-pt jump shot from 17 ft (assist by N. Jokić),,40,54
+2,1:36.0,,B. Bogdanović makes 2-pt layup from 1 ft,40,56
+2,1:21.0,J. Murray makes 2-pt jump shot from 6 ft,,42,56
+2,1:13.0,,Personal foul by P. Millsap (drawn by M. Turner),42,56
+2,1:13.0,,M. Turner makes free throw 1 of 2,42,57
+2,1:13.0,T. Craig enters the game for P. Millsap,,42,57
+2,1:13.0,,M. Turner makes free throw 2 of 2,42,58
+2,0:58.0,N. Jokić misses 3-pt jump shot from 26 ft,,42,58
+2,0:55.0,Offensive rebound by T. Craig,,42,58
+2,0:55.0,Shooting foul by W. Matthews (drawn by T. Craig),,42,58
+2,0:55.0,T. Craig makes free throw 1 of 2,,43,58
+2,0:55.0,T. Craig makes free throw 2 of 2,,44,58
+2,0:37.0,,Shooting foul by G. Harris (drawn by T. Young),44,58
+2,0:37.0,,T. Young makes free throw 1 of 2,44,59
+2,0:37.0,,T. Young makes free throw 2 of 2,44,60
+2,0:24.0,N. Jokić makes 2-pt layup from 2 ft,,46,60
+2,0:03.0,,B. Bogdanović misses 3-pt jump shot from 27 ft (block by N. Jokić),46,60
+2,0:03.0,,Offensive rebound by Team,46,60
+2,0:03.0,M. Plumlee enters the game for N. Jokić,,46,60
+2,0:01.0,,W. Matthews makes 2-pt layup from 2 ft (assist by B. Bogdanović),46,62
+2,0:00.0,J. Murray misses 3-pt jump shot from 49 ft,,46,62
+2,0:00.0,Offensive rebound by Team,,46,62
+3,11:49.0,,B. Bogdanović misses 2-pt jump shot from 7 ft,46,62
+3,11:47.0,,Offensive rebound by M. Turner,46,62
+3,11:47.0,,M. Turner makes 2-pt layup from 3 ft,46,64
+3,11:47.0,,Shooting foul by N. Jokić (drawn by M. Turner),46,64
+3,11:47.0,,M. Turner makes free throw 1 of 1,46,65
+3,11:31.0,W. Barton makes 3-pt jump shot from 29 ft (assist by N. Jokić),,49,65
+3,11:16.0,,Personal foul by W. Barton (drawn by B. Bogdanović),49,65
+3,11:05.0,,T. Young misses 3-pt jump shot from 23 ft,49,65
+3,11:03.0,Defensive rebound by J. Murray,,49,65
+3,10:58.0,Turnover by W. Barton (out of bounds lost ball),,49,65
+3,10:44.0,,M. Turner misses 2-pt dunk from 1 ft (block by G. Harris),49,65
+3,10:44.0,,Offensive rebound by Team,49,65
+3,10:40.0,,C. Joseph makes 2-pt jump shot from 14 ft,49,67
+3,10:20.0,N. Jokić misses 2-pt layup from 2 ft,,49,67
+3,10:18.0,Offensive rebound by N. Jokić,,49,67
+3,10:18.0,N. Jokić makes 2-pt layup from 1 ft,,51,67
+3,10:10.0,,Offensive foul by T. Young (drawn by G. Harris),51,67
+3,10:10.0,,Turnover by T. Young (offensive foul),51,67
+3,9:56.0,Shooting foul by M. Turner (drawn by N. Jokić),,51,67
+3,9:56.0,N. Jokić makes free throw 1 of 2,,52,67
+3,9:56.0,N. Jokić makes free throw 2 of 2,,53,67
+3,9:45.0,,C. Joseph misses 2-pt jump shot from 17 ft,53,67
+3,9:41.0,,Offensive rebound by T. Young,53,67
+3,9:40.0,,T. Young misses 2-pt layup from 1 ft,53,67
+3,9:40.0,Defensive rebound by P. Millsap,,53,67
+3,9:31.0,Shooting foul by T. Young (drawn by P. Millsap),,53,67
+3,9:31.0,P. Millsap makes free throw 1 of 2,,54,67
+3,9:31.0,P. Millsap misses free throw 2 of 2,,54,67
+3,9:31.0,,Defensive rebound by B. Bogdanović,54,67
+3,9:14.0,,W. Matthews misses 2-pt layup from 2 ft,54,67
+3,9:11.0,Defensive rebound by N. Jokić,,54,67
+3,8:54.0,J. Murray misses 2-pt jump shot from 1 ft,,54,67
+3,8:51.0,Offensive rebound by P. Millsap,,54,67
+3,8:51.0,P. Millsap misses 2-pt layup from 1 ft,,54,67
+3,8:50.0,Offensive rebound by W. Barton,,54,67
+3,8:50.0,W. Barton misses 2-pt layup from 1 ft,,54,67
+3,8:49.0,Offensive rebound by W. Barton,,54,67
+3,8:49.0,W. Barton makes 2-pt layup from 1 ft,,56,67
+3,8:32.0,,B. Bogdanović makes 2-pt jump shot from 16 ft,56,69
+3,8:15.0,W. Barton misses 3-pt jump shot from 27 ft,,56,69
+3,8:12.0,,Defensive rebound by B. Bogdanović,56,69
+3,8:03.0,,M. Turner misses 2-pt layup from 2 ft,56,69
+3,8:00.0,Defensive rebound by N. Jokić,,56,69
+3,7:59.0,Turnover by N. Jokić (lost ball; steal by T. Young),,56,69
+3,7:57.0,,T. Young makes 2-pt dunk at rim,56,71
+3,7:45.0,P. Millsap misses 3-pt jump shot from 26 ft,,56,71
+3,7:42.0,,Defensive rebound by B. Bogdanović,56,71
+3,7:32.0,,M. Turner misses 2-pt jump shot from 21 ft,56,71
+3,7:29.0,Defensive rebound by G. Harris,,56,71
+3,7:19.0,W. Barton misses 2-pt jump shot from 3 ft (block by M. Turner),,56,71
+3,7:16.0,,Defensive rebound by M. Turner,56,71
+3,7:14.0,,B. Bogdanović makes 2-pt layup at rim (assist by M. Turner),56,73
+3,7:13.0,Denver full timeout,,56,73
+3,6:58.0,J. Murray misses 2-pt jump shot from 17 ft,,56,73
+3,6:56.0,Offensive rebound by P. Millsap,,56,73
+3,6:55.0,W. Barton makes 3-pt jump shot from 27 ft (assist by P. Millsap),,59,73
+3,6:28.0,,C. Joseph misses 2-pt jump shot from 7 ft,59,73
+3,6:25.0,Defensive rebound by P. Millsap,,59,73
+3,6:20.0,Turnover by J. Murray (lost ball; steal by C. Joseph),,59,73
+3,6:12.0,,Personal foul by W. Barton (drawn by T. Young),59,73
+3,6:01.0,,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by W. Matthews),59,76
+3,5:35.0,W. Barton misses 2-pt jump shot from 8 ft,,59,76
+3,5:30.0,Offensive rebound by J. Murray,,59,76
+3,5:20.0,G. Harris makes 3-pt jump shot from 27 ft (assist by N. Jokić),,62,76
+3,5:04.0,,M. Turner makes 2-pt layup from 1 ft (assist by T. Young),62,78
+3,4:50.0,P. Millsap misses 2-pt layup from 1 ft,,62,78
+3,4:46.0,,Defensive rebound by B. Bogdanović,62,78
+3,4:43.0,,B. Bogdanović misses 2-pt jump shot from 14 ft,62,78
+3,4:40.0,Defensive rebound by N. Jokić,,62,78
+3,4:35.0,J. Murray misses 2-pt jump shot from 16 ft,,62,78
+3,4:31.0,,Defensive rebound by M. Turner,62,78
+3,4:15.0,,W. Matthews makes 3-pt jump shot from 23 ft (assist by T. Young),62,81
+3,3:55.0,Turnover by W. Barton (lost ball; steal by C. Joseph),,62,81
+3,3:51.0,,Shooting foul by J. Murray (drawn by B. Bogdanović),62,81
+3,3:51.0,Denver full timeout,,62,81
+3,3:51.0,M. Beasley enters the game for W. Barton,,62,81
+3,3:51.0,M. Morris enters the game for P. Millsap,,62,81
+3,3:51.0,M. Plumlee enters the game for J. Murray,,62,81
+3,3:51.0,,T. Evans enters the game for C. Joseph,62,81
+3,3:51.0,,D. Sabonis enters the game for T. Young,62,81
+3,3:51.0,,B. Bogdanović makes free throw 1 of 2,62,82
+3,3:51.0,,B. Bogdanović makes free throw 2 of 2,62,83
+3,3:38.0,N. Jokić misses 2-pt layup from 2 ft,,62,83
+3,3:35.0,,Defensive rebound by M. Turner,62,83
+3,3:31.0,,W. Matthews makes 3-pt jump shot from 26 ft (assist by D. Sabonis),62,86
+3,3:11.0,N. Jokić makes 3-pt jump shot from 28 ft (assist by M. Morris),,65,86
+3,2:53.0,,W. Matthews misses 3-pt jump shot from 26 ft,65,86
+3,2:50.0,Defensive rebound by N. Jokić,,65,86
+3,2:46.0,M. Morris makes 2-pt layup from 2 ft (assist by N. Jokić),,67,86
+3,2:43.0,,Indiana full timeout,67,86
+3,2:43.0,J. Murray enters the game for G. Harris,,67,86
+3,2:43.0,,D. McDermott enters the game for B. Bogdanović,67,86
+3,2:36.0,,Offensive foul by D. Sabonis (drawn by J. Murray),67,86
+3,2:36.0,,Turnover by D. Sabonis (offensive foul),67,86
+3,2:27.0,N. Jokić misses 2-pt layup from 1 ft (block by M. Turner),,67,86
+3,2:23.0,,Defensive rebound by D. Sabonis,67,86
+3,2:10.0,,Turnover by T. Evans (bad pass; steal by N. Jokić),67,86
+3,2:05.0,M. Morris misses 3-pt jump shot from 23 ft,,67,86
+3,2:02.0,,Defensive rebound by D. Sabonis,67,86
+3,1:44.0,,T. Evans makes 2-pt layup from 1 ft (assist by D. Sabonis),67,88
+3,1:32.0,N. Jokić misses 3-pt jump shot from 27 ft,,67,88
+3,1:29.0,,Defensive rebound by D. Sabonis,67,88
+3,1:18.0,,D. Sabonis misses 2-pt hook shot from 6 ft,67,88
+3,1:15.0,Defensive rebound by N. Jokić,,67,88
+3,0:55.0,Turnover by M. Beasley (bad pass; steal by D. McDermott),,67,88
+3,0:46.0,,D. Sabonis makes 2-pt layup from 1 ft (assist by T. Evans),67,90
+3,0:32.0,M. Plumlee misses 2-pt layup from 2 ft,,67,90
+3,0:30.0,,Defensive rebound by M. Turner,67,90
+3,0:11.0,,T. Evans makes 2-pt jump shot from 20 ft,67,92
+3,0:02.0,J. Murray misses 2-pt jump shot from 19 ft,,67,92
+3,0:02.0,,Defensive rebound by D. McDermott,67,92
+4,11:50.0,Offensive foul by T. Craig (drawn by T. Evans),,67,92
+4,11:50.0,Turnover by T. Craig (offensive foul),,67,92
+4,11:40.0,,D. Sabonis misses 2-pt layup from 3 ft,67,92
+4,11:38.0,Defensive rebound by J. Hernangómez,,67,92
+4,11:33.0,T. Craig misses 3-pt jump shot from 26 ft,,67,92
+4,11:30.0,,Defensive rebound by A. Holiday,67,92
+4,11:27.0,,T. Evans makes 2-pt layup from 2 ft (assist by A. Holiday),67,94
+4,11:07.0,Personal foul by D. Sabonis (drawn by M. Plumlee),,67,94
+4,11:04.0,M. Beasley misses 3-pt jump shot from 31 ft,,67,94
+4,11:00.0,Offensive rebound by J. Hernangómez,,67,94
+4,10:55.0,M. Morris makes 2-pt layup from 1 ft (assist by M. Plumlee),,69,94
+4,10:44.0,,Turnover by T. Evans (bad pass),69,94
+4,10:35.0,M. Morris makes 2-pt jump shot from 10 ft,,71,94
+4,10:34.0,,Indiana full timeout,71,94
+4,10:11.0,,T. Evans misses 2-pt jump shot from 19 ft,71,94
+4,10:08.0,Defensive rebound by M. Plumlee,,71,94
+4,10:01.0,M. Beasley misses 2-pt jump shot from 19 ft,,71,94
+4,9:58.0,,Defensive rebound by T. Young,71,94
+4,9:48.0,,D. Sabonis makes 2-pt dunk from 2 ft (assist by A. Holiday),71,96
+4,9:33.0,M. Beasley misses 3-pt jump shot from 27 ft,,71,96
+4,9:29.0,,Defensive rebound by T. Young,71,96
+4,9:22.0,,A. Holiday makes 2-pt jump shot from 4 ft,71,98
+4,9:21.0,Denver full timeout,,71,98
+4,9:21.0,T. Lyles enters the game for M. Beasley,,71,98
+4,9:21.0,J. Vanderbilt enters the game for M. Plumlee,,71,98
+4,9:06.0,T. Lyles misses 2-pt jump shot from 11 ft,,71,98
+4,9:04.0,,Defensive rebound by D. Sabonis,71,98
+4,8:53.0,,A. Holiday misses 2-pt jump shot from 19 ft,71,98
+4,8:50.0,Defensive rebound by T. Lyles,,71,98
+4,8:41.0,J. Hernangómez misses 3-pt jump shot from 29 ft,,71,98
+4,8:37.0,,Defensive rebound by T. Evans,71,98
+4,8:33.0,,T. Evans makes 2-pt layup from 1 ft,71,100
+4,8:20.0,Personal foul by A. Holiday (drawn by M. Morris),,71,100
+4,8:14.0,M. Morris misses 2-pt jump shot from 11 ft,,71,100
+4,8:12.0,,Defensive rebound by T. Young,71,100
+4,8:09.0,,Shooting foul by J. Hernangómez (drawn by A. Holiday),71,100
+4,8:09.0,,A. Holiday makes free throw 1 of 2,71,101
+4,8:09.0,,A. Holiday makes free throw 2 of 2,71,102
+4,7:57.0,T. Lyles misses 2-pt jump shot from 17 ft,,71,102
+4,7:54.0,,Defensive rebound by D. Sabonis,71,102
+4,7:36.0,,D. Sabonis misses 2-pt hook shot from 9 ft,71,102
+4,7:32.0,Defensive rebound by T. Craig,,71,102
+4,7:21.0,T. Craig makes 3-pt jump shot from 28 ft (assist by T. Lyles),,74,102
+4,6:58.0,,D. Sabonis makes 2-pt layup from 2 ft (assist by T. Evans),74,104
+4,6:47.0,Turnover by J. Vanderbilt (traveling),,74,104
+4,6:36.0,,D. McDermott misses 2-pt layup from 2 ft,74,104
+4,6:32.0,Defensive rebound by T. Craig,,74,104
+4,6:25.0,J. Hernangómez misses 3-pt jump shot from 29 ft,,74,104
+4,6:22.0,,Defensive rebound by D. Sabonis,74,104
+4,6:17.0,,Indiana full timeout,74,104
+4,6:17.0,,T. Leaf enters the game for T. Young,74,104
+4,6:08.0,,D. McDermott makes 2-pt dunk from 1 ft (assist by D. Sabonis),74,106
+4,5:50.0,J. Hernangómez misses 3-pt jump shot from 25 ft,,74,106
+4,5:46.0,J. Vanderbilt makes 2-pt layup from 1 ft,,76,106
+4,5:46.0,Offensive rebound by J. Vanderbilt,,76,106
+4,5:27.0,,D. Sabonis misses 2-pt hook shot from 5 ft,76,106
+4,5:24.0,Defensive rebound by T. Craig,,76,106
+4,5:18.0,T. Craig misses 2-pt jump shot from 2 ft (block by T. Leaf),,76,106
+4,5:15.0,,Defensive rebound by T. Leaf,76,106
+4,5:14.0,,D. Sabonis makes 2-pt dunk from 1 ft (assist by T. Leaf),76,108
+4,5:00.0,J. Hernangómez misses 3-pt jump shot from 28 ft,,76,108
+4,4:55.0,,Defensive rebound by T. Evans,76,108
+4,4:48.0,,A. Holiday makes 3-pt jump shot from 26 ft,76,111
+4,4:27.0,M. Morris misses 2-pt jump shot from 19 ft,,76,111
+4,4:24.0,,Defensive rebound by T. Evans,76,111
+4,4:09.0,,T. Leaf misses 2-pt jump shot from 7 ft,76,111
+4,4:06.0,,Offensive rebound by D. Sabonis,76,111
+4,4:06.0,,Personal foul by J. Vanderbilt (drawn by D. Sabonis),76,111
+4,4:06.0,,K. O'Quinn enters the game for D. Sabonis,76,111
+4,4:00.0,,A. Holiday makes 2-pt layup from 1 ft (assist by K. O'Quinn),76,113
+4,3:59.0,Denver full timeout,,76,113
+4,3:51.0,J. Vanderbilt misses 2-pt jump shot from 9 ft (block by K. O'Quinn),,76,113
+4,3:50.0,Offensive rebound by Team,,76,113
+4,3:50.0,,A. Johnson enters the game for T. Evans,76,113
+4,3:50.0,,E. Sumner enters the game for D. McDermott,76,113
+4,3:50.0,T. Lyles misses 3-pt jump shot from 27 ft,,76,113
+4,3:44.0,,Defensive rebound by K. O'Quinn,76,113
+4,3:31.0,,A. Holiday misses 2-pt jump shot from 7 ft,76,113
+4,3:28.0,Defensive rebound by T. Lyles,,76,113
+4,3:24.0,Turnover by J. Vanderbilt (out of bounds lost ball),,76,113
+4,3:08.0,,T. Leaf makes 2-pt jump shot from 11 ft (assist by A. Holiday),76,115
+4,2:49.0,J. Hernangómez misses 3-pt jump shot from 26 ft,,76,115
+4,2:44.0,Offensive rebound by J. Vanderbilt,,76,115
+4,2:44.0,J. Vanderbilt makes 2-pt layup from 1 ft,,78,115
+4,2:38.0,,A. Holiday makes 2-pt jump shot from 4 ft,78,117
+4,2:21.0,T. Lyles misses 2-pt jump shot from 19 ft,,78,117
+4,2:18.0,,Defensive rebound by E. Sumner,78,117
+4,2:12.0,,A. Holiday misses 3-pt jump shot from 26 ft,78,117
+4,2:08.0,Defensive rebound by T. Lyles,,78,117
+4,2:04.0,M. Morris makes 2-pt layup from 1 ft (assist by T. Lyles),,80,117
+4,1:47.0,,K. O'Quinn makes 2-pt jump shot from 15 ft (assist by E. Sumner),80,119
+4,1:38.0,M. Morris misses 2-pt jump shot from 17 ft,,80,119
+4,1:35.0,,Defensive rebound by A. Holiday,80,119
+4,1:30.0,,K. O'Quinn makes 2-pt dunk at rim (assist by A. Holiday),80,121
+4,1:30.0,Denver full timeout,,80,121
+4,1:20.0,Personal foul by A. Johnson (drawn by J. Hernangómez),,80,121
+4,1:12.0,M. Morris makes 2-pt jump shot from 15 ft,,82,121
+4,0:59.0,,Shooting foul by T. Lyles (drawn by T. Leaf),82,121
+4,0:59.0,,T. Leaf misses free throw 1 of 2,82,121
+4,0:59.0,,Offensive rebound by Team,82,121
+4,0:59.0,,T. Leaf makes free throw 2 of 2,82,122
+4,0:47.0,Shooting foul by K. O'Quinn (drawn by T. Lyles),,82,122
+4,0:47.0,T. Lyles makes free throw 1 of 2,,83,122
+4,0:47.0,T. Lyles makes free throw 2 of 2,,84,122
+4,0:32.0,,T. Leaf makes 2-pt hook shot from 9 ft (assist by K. O'Quinn),84,124
+4,0:16.0,T. Lyles misses 2-pt jump shot from 6 ft,,84,124
+4,0:13.0,Offensive rebound by Team,,84,124
+4,0:11.0,M. Morris misses 3-pt jump shot from 23 ft,,84,124
+4,0:08.0,Offensive rebound by M. Morris,,84,124
+4,0:07.0,M. Morris makes 2-pt layup from 1 ft,,86,124
+4,0:07.0,,Turnover by K. O'Quinn (bad pass; steal by J. Vanderbilt),86,124
+4,0:03.0,Shooting foul by K. O'Quinn (drawn by J. Hernangómez),,86,124
+4,0:03.0,J. Hernangómez makes free throw 1 of 2,,87,124
+4,0:03.0,J. Hernangómez makes free throw 2 of 2,,88,124

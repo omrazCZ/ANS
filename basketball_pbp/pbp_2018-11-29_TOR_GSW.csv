@@ -1,0 +1,475 @@
+QUARTER,TIME_REMAINING,GOLDEN STATE_ACTION,TORONTO_ACTION,GOLDEN STATE_SCORE,TORONTO_SCORE
+1,11:35.0,,K. Lowry misses 2-pt jump shot from 19 ft,0,0
+1,11:33.0,Defensive rebound by K. Durant,,0,0
+1,11:19.0,D. Jones makes 2-pt jump shot from 20 ft (assist by K. Thompson),,2,0
+1,11:05.0,,P. Siakam makes 3-pt jump shot from 26 ft (assist by D. Green),2,3
+1,10:46.0,K. Durant makes 2-pt jump shot from 16 ft (assist by A. Iguodala),,4,3
+1,10:32.0,,S. Ibaka makes 2-pt hook shot from 9 ft,4,5
+1,10:18.0,Q. Cook misses 2-pt jump shot from 18 ft,,4,5
+1,10:12.0,,Defensive rebound by P. Siakam,4,5
+1,10:04.0,,D. Green makes 2-pt layup from 1 ft,4,7
+1,9:56.0,K. Thompson makes 2-pt jump shot from 11 ft (assist by K. Durant),,6,7
+1,9:26.0,,K. Leonard makes 2-pt jump shot from 11 ft,6,9
+1,9:15.0,Turnover by K. Thompson (bad pass),,6,9
+1,9:11.0,,Personal foul by K. Thompson (drawn by K. Lowry),6,9
+1,9:04.0,,K. Leonard makes 3-pt jump shot from 26 ft,6,12
+1,8:50.0,K. Durant misses 2-pt jump shot from 14 ft (block by K. Leonard),,6,12
+1,8:47.0,,Defensive rebound by K. Lowry,6,12
+1,8:44.0,,P. Siakam makes 2-pt dunk from 1 ft (assist by K. Lowry),6,14
+1,8:22.0,Turnover by Q. Cook (bad pass),,6,14
+1,8:02.0,,K. Lowry misses 3-pt jump shot from 26 ft,6,14
+1,7:57.0,Defensive rebound by K. Durant,,6,14
+1,7:52.0,K. Durant misses 3-pt jump shot from 25 ft,,6,14
+1,7:50.0,,Defensive rebound by S. Ibaka,6,14
+1,7:42.0,,S. Ibaka makes 3-pt jump shot from 26 ft (assist by K. Lowry),6,17
+1,7:40.0,Golden State full timeout,,6,17
+1,7:34.0,Turnover by K. Thompson (lost ball; steal by D. Green),,6,17
+1,7:29.0,,K. Lowry makes 3-pt jump shot from 23 ft (assist by K. Leonard),6,20
+1,7:06.0,K. Durant makes 2-pt jump shot from 12 ft,,8,20
+1,6:48.0,,K. Leonard makes 2-pt jump shot from 10 ft,8,22
+1,6:29.0,A. Iguodala makes 2-pt layup at rim,,10,22
+1,6:20.0,,Turnover by S. Ibaka (traveling),10,22
+1,6:11.0,Personal foul by K. Leonard (drawn by D. Jones),,10,22
+1,6:06.0,K. Durant makes 2-pt dunk from 1 ft (assist by A. Iguodala),,12,22
+1,5:41.0,,S. Ibaka makes 2-pt jump shot from 18 ft (assist by D. Green),12,24
+1,5:24.0,K. Thompson makes 2-pt jump shot from 11 ft (assist by K. Durant),,14,24
+1,5:12.0,,D. Green misses 2-pt hook shot from 4 ft,14,24
+1,5:09.0,,Offensive rebound by D. Green,14,24
+1,5:09.0,,D. Green misses 3-pt jump shot from 23 ft,14,24
+1,5:06.0,Defensive rebound by A. Iguodala,,14,24
+1,5:02.0,Q. Cook misses 2-pt jump shot from 20 ft,,14,24
+1,4:58.0,,Defensive rebound by K. Lowry,14,24
+1,4:58.0,J. Jerebko enters the game for Q. Cook,,14,24
+1,4:52.0,,K. Leonard makes 2-pt jump shot from 20 ft (assist by K. Lowry),14,26
+1,4:33.0,Turnover by A. Iguodala (bad pass; steal by K. Leonard),,14,26
+1,4:29.0,,K. Leonard makes 2-pt layup from 1 ft (assist by K. Lowry),14,28
+1,4:18.0,Offensive foul by D. Jones (drawn by K. Leonard),,14,28
+1,4:18.0,Turnover by D. Jones (offensive foul),,14,28
+1,4:18.0,J. Bell enters the game for A. Iguodala,,14,28
+1,4:18.0,S. Livingston enters the game for D. Jones,,14,28
+1,3:58.0,,K. Leonard makes 2-pt jump shot from 17 ft,14,30
+1,3:42.0,Personal foul by S. Ibaka (drawn by J. Bell),,14,30
+1,3:39.0,Turnover by K. Thompson (bad pass; steal by K. Lowry),,14,30
+1,3:35.0,,P. Siakam makes 2-pt layup from 2 ft (assist by K. Lowry),14,32
+1,3:34.0,Golden State full timeout,,14,32
+1,3:34.0,D. Lee enters the game for K. Thompson,,14,32
+1,3:23.0,S. Livingston makes 2-pt layup from 1 ft,,16,32
+1,3:23.0,Shooting foul by D. Green (drawn by S. Livingston),,16,32
+1,3:23.0,K. Looney enters the game for J. Bell,,16,32
+1,3:23.0,,J. Valančiūnas enters the game for S. Ibaka,16,32
+1,3:23.0,S. Livingston makes free throw 1 of 1,,17,32
+1,3:07.0,,K. Leonard misses 3-pt jump shot from 26 ft,17,32
+1,3:04.0,Defensive rebound by D. Lee,,17,32
+1,2:59.0,K. Durant makes 2-pt layup at rim (assist by S. Livingston),,19,32
+1,2:47.0,,Personal foul by K. Looney (drawn by J. Valančiūnas),19,32
+1,2:47.0,,O. Anunoby enters the game for D. Green,19,32
+1,2:47.0,,F. VanVleet enters the game for K. Leonard,19,32
+1,2:38.0,,Turnover by K. Lowry (lost ball; steal by D. Lee),19,32
+1,2:31.0,S. Livingston misses 2-pt jump shot from 13 ft,,19,32
+1,2:29.0,Offensive rebound by Team,,19,32
+1,2:17.0,D. Lee misses 3-pt jump shot from 27 ft,,19,32
+1,2:17.0,,Defensive rebound by Team,19,32
+1,2:17.0,Loose ball foul by J. Jerebko (drawn by K. Lowry),,19,32
+1,2:08.0,,Turnover by F. VanVleet (bad pass),19,32
+1,1:56.0,K. Durant makes 2-pt jump shot from 14 ft (assist by J. Jerebko),,21,32
+1,1:40.0,,Turnover by J. Valančiūnas (bad pass; steal by J. Jerebko),21,32
+1,1:25.0,J. Jerebko makes 2-pt hook shot from 6 ft,,23,32
+1,1:23.0,,Toronto full timeout,23,32
+1,1:23.0,,D. Wright enters the game for K. Lowry,23,32
+1,1:07.0,,P. Siakam makes 3-pt jump shot from 23 ft (assist by F. VanVleet),23,35
+1,0:49.0,K. Durant misses 2-pt jump shot from 17 ft,,23,35
+1,0:47.0,,Defensive rebound by J. Valančiūnas,23,35
+1,0:37.0,,O. Anunoby makes 3-pt jump shot from 27 ft (assist by D. Wright),23,38
+1,0:27.0,Shooting foul by J. Valančiūnas (drawn by K. Durant),,23,38
+1,0:27.0,K. Durant makes free throw 1 of 2,,24,38
+1,0:27.0,K. Durant makes free throw 2 of 2,,25,38
+1,0:03.0,,F. VanVleet misses 3-pt jump shot from 29 ft,25,38
+1,0:03.0,,Offensive rebound by Team,25,38
+1,0:03.0,,Turnover by Team (shot clock),25,38
+1,0:03.0,Q. Cook enters the game for S. Livingston,,25,38
+1,0:03.0,K. Thompson enters the game for K. Looney,,25,38
+1,0:03.0,,D. Green enters the game for J. Valančiūnas,25,38
+1,0:00.0,K. Thompson misses 3-pt jump shot from 31 ft,,25,38
+1,0:00.0,Offensive rebound by Team,,25,38
+2,11:46.0,J. Jerebko makes 2-pt hook shot from 4 ft (assist by S. Livingston),,27,38
+2,11:33.0,,O. Anunoby misses 3-pt jump shot from 23 ft,27,38
+2,11:32.0,Defensive rebound by Team,,27,38
+2,11:32.0,,Loose ball foul by J. Valančiūnas (drawn by K. Looney),27,38
+2,11:21.0,K. Thompson misses 2-pt jump shot from 19 ft,,27,38
+2,11:18.0,,Defensive rebound by O. Anunoby,27,38
+2,11:09.0,,J. Valančiūnas makes 2-pt hook shot from 4 ft (assist by F. VanVleet),27,40
+2,10:50.0,Shooting foul by D. Wright (drawn by S. Livingston),,27,40
+2,10:50.0,S. Livingston misses free throw 1 of 2,,27,40
+2,10:50.0,Offensive rebound by Team,,27,40
+2,10:50.0,S. Livingston makes free throw 2 of 2,,28,40
+2,10:34.0,,J. Valančiūnas makes 2-pt jump shot from 5 ft (assist by D. Wright),28,42
+2,10:22.0,K. Looney misses 2-pt layup from 1 ft (block by J. Valančiūnas),,28,42
+2,10:19.0,Offensive rebound by K. Looney,,28,42
+2,10:19.0,K. Looney makes 2-pt jump shot from 11 ft,,30,42
+2,10:03.0,,K. Leonard makes 2-pt layup from 2 ft,30,44
+2,10:00.0,Offensive foul by J. Jerebko (drawn by D. Wright),,30,44
+2,10:00.0,Turnover by J. Jerebko (offensive foul),,30,44
+2,9:45.0,,O. Anunoby makes 2-pt layup from 4 ft,30,46
+2,9:30.0,D. Lee misses 2-pt jump shot from 9 ft,,30,46
+2,9:28.0,Offensive rebound by K. Looney,,30,46
+2,9:25.0,S. Livingston misses 2-pt layup from 1 ft,,30,46
+2,9:24.0,,Defensive rebound by O. Anunoby,30,46
+2,9:24.0,,Turnover by O. Anunoby (traveling),30,46
+2,9:24.0,Q. Cook enters the game for J. Jerebko,,30,46
+2,9:24.0,,C. Miles enters the game for D. Wright,30,46
+2,9:18.0,K. Thompson makes 2-pt jump shot from 17 ft,,32,46
+2,9:04.0,,Turnover by K. Leonard (out of bounds lost ball),32,46
+2,8:53.0,Personal foul by K. Leonard (drawn by K. Looney),,32,46
+2,8:40.0,D. Lee misses 3-pt jump shot from 26 ft,,32,46
+2,8:37.0,,Defensive rebound by J. Valančiūnas,32,46
+2,8:28.0,,Shooting foul by Q. Cook (drawn by J. Valančiūnas),32,46
+2,8:28.0,,J. Valančiūnas makes free throw 1 of 2,32,47
+2,8:28.0,,J. Valančiūnas makes free throw 2 of 2,32,48
+2,8:15.0,D. Lee makes 3-pt jump shot from 23 ft (assist by S. Livingston),,35,48
+2,7:55.0,,F. VanVleet misses 3-pt jump shot from 29 ft,35,48
+2,7:52.0,Defensive rebound by S. Livingston,,35,48
+2,7:45.0,S. Livingston misses 2-pt jump shot from 13 ft,,35,48
+2,7:43.0,,Defensive rebound by J. Valančiūnas,35,48
+2,7:37.0,,C. Miles misses 3-pt jump shot from 24 ft (block by S. Livingston),35,48
+2,7:37.0,,Offensive rebound by Team,35,48
+2,7:37.0,A. Iguodala enters the game for D. Lee,,35,48
+2,7:37.0,J. Jerebko enters the game for S. Livingston,,35,48
+2,7:37.0,,D. Green enters the game for K. Leonard,35,48
+2,7:37.0,,S. Ibaka enters the game for J. Valančiūnas,35,48
+2,7:37.0,,K. Lowry enters the game for F. VanVleet,35,48
+2,7:23.0,,D. Green makes 2-pt jump shot from 6 ft (assist by S. Ibaka),35,50
+2,7:09.0,K. Looney misses 2-pt layup from 2 ft,,35,50
+2,7:07.0,,Defensive rebound by K. Lowry,35,50
+2,7:06.0,,Turnover by O. Anunoby (traveling),35,50
+2,7:06.0,J. Bell enters the game for K. Looney,,35,50
+2,7:06.0,K. Durant enters the game for K. Thompson,,35,50
+2,6:51.0,K. Durant misses 2-pt jump shot from 11 ft,,35,50
+2,6:48.0,Offensive rebound by J. Bell,,35,50
+2,6:47.0,J. Bell misses 2-pt layup from 1 ft,,35,50
+2,6:45.0,,Defensive rebound by C. Miles,35,50
+2,6:39.0,,Turnover by C. Miles (lost ball; steal by Q. Cook),35,50
+2,6:34.0,A. Iguodala misses 2-pt layup from 2 ft,,35,50
+2,6:31.0,Offensive rebound by J. Jerebko,,35,50
+2,6:31.0,J. Jerebko misses 2-pt layup at rim,,35,50
+2,6:30.0,Offensive rebound by J. Jerebko,,35,50
+2,6:30.0,J. Jerebko misses 2-pt layup at rim,,35,50
+2,6:30.0,,Defensive rebound by C. Miles,35,50
+2,6:23.0,,K. Lowry makes 2-pt jump shot from 1 ft,35,52
+2,6:07.0,Q. Cook makes 2-pt jump shot from 18 ft,,37,52
+2,5:58.0,,Offensive foul by C. Miles (drawn by J. Bell),37,52
+2,5:58.0,,Turnover by C. Miles (offensive foul),37,52
+2,5:58.0,,Toronto full timeout,37,52
+2,5:58.0,,K. Leonard enters the game for O. Anunoby,37,52
+2,5:58.0,,P. Siakam enters the game for C. Miles,37,52
+2,5:44.0,Q. Cook makes 2-pt jump shot from 19 ft,,39,52
+2,5:24.0,,S. Ibaka misses 2-pt jump shot from 6 ft,39,52
+2,5:22.0,,Offensive rebound by S. Ibaka,39,52
+2,5:20.0,,S. Ibaka makes 2-pt hook shot from 7 ft,39,54
+2,5:09.0,K. Durant misses 3-pt jump shot from 25 ft (block by P. Siakam),,39,54
+2,5:05.0,Offensive rebound by J. Bell,,39,54
+2,5:02.0,Q. Cook misses 3-pt jump shot from 23 ft,,39,54
+2,4:59.0,Offensive rebound by K. Durant,,39,54
+2,4:59.0,K. Durant makes 2-pt jump shot from 12 ft,,41,54
+2,4:47.0,,K. Lowry misses 3-pt jump shot from 28 ft,41,54
+2,4:44.0,Defensive rebound by J. Jerebko,,41,54
+2,4:32.0,A. Iguodala makes 2-pt jump shot from 19 ft (assist by Q. Cook),,43,54
+2,4:18.0,,Shooting foul by J. Jerebko (drawn by P. Siakam),43,54
+2,4:18.0,,P. Siakam makes free throw 1 of 2,43,55
+2,4:18.0,K. Thompson enters the game for J. Jerebko,,43,55
+2,4:18.0,,P. Siakam makes free throw 2 of 2,43,56
+2,4:05.0,A. Iguodala misses 3-pt jump shot from 23 ft,,43,56
+2,4:02.0,,Defensive rebound by K. Leonard,43,56
+2,3:52.0,,K. Leonard misses 2-pt hook shot from 7 ft,43,56
+2,3:48.0,Defensive rebound by J. Bell,,43,56
+2,3:37.0,Shooting foul by D. Green (drawn by K. Thompson),,43,56
+2,3:37.0,K. Thompson makes free throw 1 of 2,,44,56
+2,3:37.0,K. Thompson makes free throw 2 of 2,,45,56
+2,3:23.0,,S. Ibaka misses 2-pt jump shot from 10 ft,45,56
+2,3:20.0,Defensive rebound by K. Durant,,45,56
+2,3:14.0,K. Durant misses 2-pt layup from 2 ft,,45,56
+2,3:13.0,,Defensive rebound by S. Ibaka,45,56
+2,3:08.0,,P. Siakam makes 2-pt layup from 1 ft (assist by D. Green),45,58
+2,2:59.0,K. Thompson makes 3-pt jump shot from 25 ft (assist by K. Durant),,48,58
+2,2:48.0,,S. Ibaka makes 2-pt jump shot from 3 ft (assist by K. Lowry),48,60
+2,2:36.0,Shooting foul by S. Ibaka (drawn by K. Durant),,48,60
+2,2:36.0,Golden State full timeout,,48,60
+2,2:36.0,K. Durant makes free throw 1 of 2,,49,60
+2,2:36.0,K. Durant makes free throw 2 of 2,,50,60
+2,2:15.0,,K. Leonard makes 2-pt jump shot from 11 ft,50,62
+2,1:57.0,A. Iguodala makes 2-pt dunk from 1 ft (assist by K. Thompson),,52,62
+2,1:47.0,,S. Ibaka misses 3-pt jump shot from 27 ft,52,62
+2,1:44.0,Defensive rebound by K. Thompson,,52,62
+2,1:38.0,K. Thompson makes 2-pt jump shot from 16 ft,,54,62
+2,1:20.0,,K. Leonard makes 3-pt jump shot from 29 ft,54,65
+2,1:03.0,K. Durant makes 2-pt jump shot from 7 ft,,56,65
+2,0:45.0,,Personal foul by Q. Cook (drawn by K. Leonard),56,65
+2,0:36.0,,Shooting foul by K. Durant (drawn by K. Leonard),56,65
+2,0:36.0,,K. Leonard makes free throw 1 of 2,56,66
+2,0:36.0,K. Looney enters the game for J. Bell,,56,66
+2,0:36.0,,J. Valančiūnas enters the game for D. Green,56,66
+2,0:36.0,,F. VanVleet enters the game for S. Ibaka,56,66
+2,0:36.0,,K. Leonard makes free throw 2 of 2,56,67
+2,0:31.0,K. Durant misses 3-pt jump shot from 27 ft,,56,67
+2,0:28.0,Offensive rebound by A. Iguodala,,56,67
+2,0:20.0,Personal foul by P. Siakam (drawn by K. Durant),,56,67
+2,0:20.0,K. Durant makes free throw 1 of 2,,57,67
+2,0:20.0,J. Evans enters the game for Q. Cook,,57,67
+2,0:20.0,,D. Green enters the game for J. Valančiūnas,57,67
+2,0:20.0,K. Durant makes free throw 2 of 2,,58,67
+2,0:04.0,,K. Leonard misses 3-pt jump shot from 28 ft,58,67
+2,0:00.0,Defensive rebound by K. Thompson,,58,67
+3,11:45.0,A. Iguodala misses 3-pt jump shot from 24 ft,,58,67
+3,11:41.0,,Defensive rebound by K. Lowry,58,67
+3,11:30.0,,S. Ibaka misses 2-pt layup from 3 ft (block by A. Iguodala),58,67
+3,11:30.0,,Offensive rebound by Team,58,67
+3,11:28.0,,D. Green misses 2-pt jump shot from 15 ft,58,67
+3,11:25.0,Defensive rebound by A. Iguodala,,58,67
+3,11:19.0,Q. Cook makes 2-pt jump shot from 11 ft,,60,67
+3,10:51.0,,S. Ibaka makes 2-pt dunk from 2 ft,60,69
+3,10:28.0,Q. Cook makes 2-pt jump shot from 13 ft (assist by K. Durant),,62,69
+3,10:17.0,,Personal foul by D. Jones (drawn by K. Lowry),62,69
+3,10:02.0,,P. Siakam makes 3-pt jump shot from 24 ft (assist by K. Lowry),62,72
+3,9:40.0,Personal foul by D. Green (drawn by A. Iguodala),,62,72
+3,9:26.0,Turnover by Team (shot clock),,62,72
+3,9:14.0,,K. Leonard misses 2-pt layup from 1 ft (block by K. Thompson),62,72
+3,9:11.0,,Offensive rebound by K. Leonard,62,72
+3,9:10.0,,K. Leonard makes 2-pt layup from 2 ft,62,74
+3,9:03.0,Q. Cook misses 3-pt jump shot from 25 ft,,62,74
+3,9:01.0,,Defensive rebound by K. Lowry,62,74
+3,8:57.0,,K. Leonard makes 3-pt jump shot from 25 ft (assist by K. Lowry),62,77
+3,8:55.0,Golden State full timeout,,62,77
+3,8:55.0,J. Bell enters the game for D. Jones,,62,77
+3,8:39.0,K. Durant misses 2-pt jump shot from 15 ft,,62,77
+3,8:37.0,,Defensive rebound by S. Ibaka,62,77
+3,8:21.0,,Turnover by S. Ibaka (3 sec),62,77
+3,8:14.0,Personal foul by P. Siakam (drawn by A. Iguodala),,62,77
+3,8:03.0,K. Durant misses 2-pt jump shot from 10 ft,,62,77
+3,8:01.0,,Defensive rebound by K. Leonard,62,77
+3,7:57.0,,Shooting foul by J. Bell (drawn by S. Ibaka),62,77
+3,7:57.0,,S. Ibaka makes free throw 1 of 2,62,78
+3,7:57.0,,S. Ibaka makes free throw 2 of 2,62,79
+3,7:43.0,Shooting foul by S. Ibaka (drawn by K. Durant),,62,79
+3,7:43.0,K. Durant makes free throw 1 of 2,,63,79
+3,7:43.0,K. Durant makes free throw 2 of 2,,64,79
+3,7:18.0,,K. Lowry misses 3-pt jump shot from 29 ft,64,79
+3,7:15.0,,Offensive rebound by D. Green,64,79
+3,7:13.0,,K. Lowry misses 3-pt jump shot from 29 ft,64,79
+3,7:11.0,Defensive rebound by Team,,64,79
+3,6:58.0,Q. Cook misses 2-pt jump shot from 15 ft,,64,79
+3,6:55.0,,Defensive rebound by D. Green,64,79
+3,6:55.0,J. Jerebko enters the game for Q. Cook,,64,79
+3,6:43.0,,K. Leonard misses 2-pt jump shot from 10 ft,64,79
+3,6:41.0,Defensive rebound by K. Durant,,64,79
+3,6:34.0,K. Durant makes 3-pt jump shot from 27 ft,,67,79
+3,6:15.0,,Shooting foul by K. Durant (drawn by K. Leonard),67,79
+3,6:15.0,,K. Leonard makes free throw 1 of 2,67,80
+3,6:15.0,,K. Leonard makes free throw 2 of 2,67,81
+3,6:07.0,K. Thompson makes 2-pt layup from 1 ft (assist by A. Iguodala),,69,81
+3,5:55.0,,P. Siakam makes 2-pt layup from 1 ft,69,83
+3,5:32.0,J. Bell misses 2-pt jump shot from 5 ft,,69,83
+3,5:28.0,,Defensive rebound by D. Green,69,83
+3,5:24.0,,K. Leonard misses 3-pt jump shot from 25 ft,69,83
+3,5:19.0,Defensive rebound by J. Jerebko,,69,83
+3,5:17.0,K. Thompson makes 3-pt jump shot from 27 ft (assist by J. Jerebko),,72,83
+3,4:52.0,,K. Leonard makes 2-pt jump shot from 9 ft,72,85
+3,4:37.0,K. Thompson makes 3-pt jump shot from 26 ft (assist by K. Durant),,75,85
+3,4:25.0,,D. Green misses 3-pt jump shot from 28 ft,75,85
+3,4:23.0,Defensive rebound by J. Jerebko,,75,85
+3,4:17.0,K. Durant makes 2-pt dunk from 2 ft (assist by A. Iguodala),,77,85
+3,4:17.0,,Toronto full timeout,77,85
+3,3:59.0,,Personal foul by K. Thompson (drawn by S. Ibaka),77,85
+3,3:52.0,,K. Leonard misses 2-pt jump shot from 10 ft (block by J. Jerebko),77,85
+3,3:49.0,,Offensive rebound by D. Green,77,85
+3,3:47.0,,D. Green makes 3-pt jump shot from 25 ft,77,88
+3,3:28.0,K. Thompson misses 2-pt jump shot from 10 ft,,77,88
+3,3:26.0,,Defensive rebound by K. Lowry,77,88
+3,3:17.0,,S. Ibaka makes 2-pt dunk at rim (assist by K. Lowry),77,90
+3,2:51.0,Turnover by J. Jerebko (out of bounds lost ball),,77,90
+3,2:51.0,D. Lee enters the game for A. Iguodala,,77,90
+3,2:51.0,S. Livingston enters the game for K. Thompson,,77,90
+3,2:51.0,,O. Anunoby enters the game for K. Leonard,77,90
+3,2:39.0,,O. Anunoby misses 3-pt jump shot from 23 ft,77,90
+3,2:37.0,,Offensive rebound by Team,77,90
+3,2:37.0,K. Looney enters the game for J. Bell,,77,90
+3,2:37.0,,J. Valančiūnas enters the game for D. Green,77,90
+3,2:37.0,,F. VanVleet enters the game for S. Ibaka,77,90
+3,2:31.0,,K. Lowry misses 2-pt jump shot from 19 ft,77,90
+3,2:27.0,Defensive rebound by K. Looney,,77,90
+3,2:18.0,K. Looney misses 3-pt jump shot from 27 ft,,77,90
+3,2:14.0,Offensive rebound by K. Durant,,77,90
+3,2:11.0,K. Durant makes 2-pt layup from 1 ft,,79,90
+3,2:02.0,,K. Lowry misses 2-pt layup from 2 ft,79,90
+3,2:00.0,Defensive rebound by K. Durant,,79,90
+3,1:58.0,Personal foul by F. VanVleet (drawn by S. Livingston),,79,90
+3,1:58.0,,D. Wright enters the game for K. Lowry,79,90
+3,1:51.0,Turnover by D. Lee (traveling),,79,90
+3,1:30.0,,J. Valančiūnas makes 2-pt layup from 1 ft (assist by P. Siakam),79,92
+3,1:20.0,K. Durant makes 2-pt jump shot from 18 ft,,81,92
+3,1:05.0,,J. Valančiūnas makes 2-pt hook shot from 3 ft (assist by F. VanVleet),81,94
+3,0:52.0,K. Durant makes 2-pt jump shot from 21 ft,,83,94
+3,0:43.0,,P. Siakam misses 2-pt layup from 4 ft,83,94
+3,0:42.0,,Offensive rebound by Team,83,94
+3,0:42.0,Loose ball foul by K. Looney (drawn by J. Valančiūnas),,83,94
+3,0:42.0,,J. Valančiūnas makes free throw 1 of 2,83,95
+3,0:42.0,,J. Valančiūnas makes free throw 2 of 2,83,96
+3,0:30.0,K. Durant makes 2-pt jump shot from 23 ft,,85,96
+3,0:09.0,,D. Wright misses 2-pt jump shot from 4 ft,85,96
+3,0:07.0,Defensive rebound by D. Lee,,85,96
+3,0:03.0,K. Durant makes 3-pt jump shot from 31 ft,,88,96
+3,0:00.0,,F. VanVleet misses 3-pt jump shot from 44 ft,88,96
+3,0:00.0,,Offensive rebound by Team,88,96
+4,11:44.0,,Shooting foul by K. Looney (drawn by D. Wright),88,96
+4,11:44.0,,D. Wright makes free throw 1 of 2,88,97
+4,11:44.0,,D. Wright makes free throw 2 of 2,88,98
+4,11:28.0,K. Thompson misses 3-pt jump shot from 23 ft,,88,98
+4,11:26.0,,Defensive rebound by F. VanVleet,88,98
+4,11:17.0,,Turnover by F. VanVleet (bad pass; steal by D. Lee),88,98
+4,11:12.0,J. Jerebko makes 2-pt dunk from 1 ft (assist by S. Livingston),,90,98
+4,10:52.0,,D. Wright makes 3-pt jump shot from 25 ft (assist by K. Leonard),90,101
+4,10:32.0,D. Lee makes 2-pt jump shot from 7 ft (assist by J. Jerebko),,92,101
+4,10:12.0,,Shooting foul by K. Thompson (drawn by K. Leonard),92,101
+4,10:12.0,,K. Leonard makes free throw 1 of 2,92,102
+4,10:12.0,,K. Leonard makes free throw 2 of 2,92,103
+4,10:00.0,K. Thompson misses 3-pt jump shot from 28 ft,,92,103
+4,9:57.0,Offensive rebound by K. Looney,,92,103
+4,9:53.0,K. Thompson misses 2-pt jump shot from 6 ft,,92,103
+4,9:49.0,Offensive rebound by K. Looney,,92,103
+4,9:46.0,D. Lee makes 2-pt layup from 2 ft (assist by K. Looney),,94,103
+4,9:29.0,,O. Anunoby misses 3-pt jump shot from 25 ft,94,103
+4,9:25.0,,Offensive rebound by O. Anunoby,94,103
+4,9:22.0,,Turnover by O. Anunoby (lost ball; steal by S. Livingston),94,103
+4,9:14.0,J. Jerebko makes 3-pt jump shot from 27 ft (assist by S. Livingston),,97,103
+4,9:04.0,,Toronto full timeout,97,103
+4,8:51.0,,O. Anunoby misses 3-pt jump shot from 25 ft,97,103
+4,8:48.0,Defensive rebound by S. Livingston,,97,103
+4,8:38.0,K. Looney makes 2-pt dunk from 9 ft (assist by K. Thompson),,99,103
+4,8:13.0,,O. Anunoby misses 3-pt jump shot from 23 ft,99,103
+4,8:11.0,Defensive rebound by K. Looney,,99,103
+4,8:01.0,K. Thompson makes 2-pt jump shot from 8 ft (assist by S. Livingston),,101,103
+4,7:42.0,,D. Wright makes 3-pt jump shot from 26 ft,101,106
+4,7:31.0,J. Jerebko makes 2-pt dunk from 1 ft (assist by S. Livingston),,103,106
+4,7:31.0,Shooting foul by F. VanVleet (drawn by J. Jerebko),,103,106
+4,7:31.0,,D. Green enters the game for O. Anunoby,103,106
+4,7:31.0,,K. Lowry enters the game for K. Leonard,103,106
+4,7:31.0,,P. Siakam enters the game for F. VanVleet,103,106
+4,7:31.0,J. Jerebko makes free throw 1 of 1,,104,106
+4,7:12.0,,J. Valančiūnas misses 2-pt layup from 1 ft,104,106
+4,7:10.0,Defensive rebound by J. Jerebko,,104,106
+4,7:02.0,S. Livingston misses 2-pt jump shot from 10 ft,,104,106
+4,7:00.0,,Defensive rebound by J. Valančiūnas,104,106
+4,6:52.0,,K. Lowry makes 2-pt jump shot from 12 ft,104,108
+4,6:50.0,Golden State full timeout,,104,108
+4,6:50.0,J. Bell enters the game for J. Jerebko,,104,108
+4,6:50.0,K. Durant enters the game for S. Livingston,,104,108
+4,6:50.0,A. Iguodala enters the game for K. Looney,,104,108
+4,6:50.0,,S. Ibaka enters the game for J. Valančiūnas,104,108
+4,6:35.0,J. Bell misses 2-pt layup from 3 ft (block by D. Green),,104,108
+4,6:35.0,Offensive rebound by Team,,104,108
+4,6:27.0,K. Thompson misses 2-pt jump shot from 18 ft,,104,108
+4,6:26.0,,Defensive rebound by P. Siakam,104,108
+4,6:15.0,,Shooting foul by A. Iguodala (drawn by S. Ibaka),104,108
+4,6:15.0,,Offensive rebound by Team,104,108
+4,6:15.0,,S. Ibaka misses free throw 1 of 2,104,108
+4,6:15.0,,S. Ibaka makes free throw 2 of 2,104,109
+4,5:55.0,K. Durant misses 2-pt jump shot from 16 ft,,104,109
+4,5:54.0,Offensive rebound by Team,,104,109
+4,5:54.0,,Loose ball foul by D. Wright (drawn by J. Bell),104,109
+4,5:54.0,,K. Leonard enters the game for D. Wright,104,109
+4,5:45.0,A. Iguodala misses 3-pt jump shot from 27 ft,,104,109
+4,5:42.0,,Defensive rebound by K. Leonard,104,109
+4,5:32.0,,K. Lowry misses 2-pt layup from 2 ft (block by A. Iguodala),104,109
+4,5:30.0,Defensive rebound by D. Lee,,104,109
+4,5:28.0,D. Lee misses 2-pt layup from 1 ft (block by S. Ibaka),,104,109
+4,5:25.0,Offensive rebound by J. Bell,,104,109
+4,5:23.0,K. Thompson misses 3-pt jump shot from 24 ft,,104,109
+4,5:21.0,,Defensive rebound by K. Leonard,104,109
+4,5:14.0,,K. Leonard makes 2-pt jump shot from 20 ft,104,111
+4,4:54.0,K. Durant misses 2-pt layup from 1 ft,,104,111
+4,4:52.0,,Defensive rebound by K. Leonard,104,111
+4,4:43.0,,D. Green makes 3-pt jump shot from 25 ft (assist by K. Leonard),104,114
+4,4:41.0,Golden State full timeout,,104,114
+4,4:41.0,J. Jerebko enters the game for J. Bell,,104,114
+4,4:41.0,K. Looney enters the game for D. Lee,,104,114
+4,4:24.0,K. Durant misses 2-pt jump shot from 9 ft,,104,114
+4,4:22.0,Offensive rebound by K. Durant,,104,114
+4,4:20.0,J. Jerebko makes 3-pt jump shot from 26 ft (assist by K. Durant),,107,114
+4,3:53.0,,Turnover by P. Siakam (lost ball; steal by A. Iguodala),107,114
+4,3:41.0,Shooting foul by S. Ibaka (drawn by K. Looney),,107,114
+4,3:41.0,K. Looney misses free throw 1 of 2,,107,114
+4,3:41.0,Offensive rebound by Team,,107,114
+4,3:41.0,K. Looney makes free throw 2 of 2,,108,114
+4,3:24.0,,D. Green misses 3-pt jump shot from 26 ft,108,114
+4,3:21.0,Defensive rebound by J. Jerebko,,108,114
+4,3:09.0,K. Looney misses 2-pt layup from 2 ft (block by D. Green),,108,114
+4,3:09.0,Offensive rebound by Team,,108,114
+4,3:01.0,J. Jerebko misses 3-pt jump shot from 28 ft,,108,114
+4,2:56.0,Offensive rebound by A. Iguodala,,108,114
+4,2:53.0,K. Thompson misses 3-pt jump shot from 27 ft,,108,114
+4,2:49.0,,Defensive rebound by K. Lowry,108,114
+4,2:49.0,,Personal foul by J. Jerebko (drawn by K. Lowry),108,114
+4,2:35.0,,K. Lowry misses 3-pt jump shot from 25 ft,108,114
+4,2:32.0,Defensive rebound by K. Durant,,108,114
+4,2:26.0,K. Durant makes 2-pt dunk from 1 ft,,110,114
+4,1:58.0,,S. Ibaka misses 3-pt jump shot from 25 ft,110,114
+4,1:56.0,Defensive rebound by K. Durant,,110,114
+4,1:40.0,K. Durant misses 2-pt layup from 2 ft,,110,114
+4,1:40.0,Offensive rebound by K. Looney,,110,114
+4,1:40.0,K. Looney makes 2-pt layup from 1 ft,,112,114
+4,1:40.0,,Toronto full timeout,112,114
+4,1:31.0,,K. Leonard makes 2-pt jump shot from 14 ft,112,116
+4,1:20.0,Shooting foul by P. Siakam (drawn by K. Durant),,112,116
+4,1:20.0,K. Durant makes free throw 1 of 2,,113,116
+4,1:20.0,K. Durant misses free throw 2 of 2,,113,116
+4,1:16.0,Offensive rebound by K. Looney,,113,116
+4,1:15.0,K. Thompson misses 3-pt jump shot from 27 ft,,113,116
+4,1:13.0,,Defensive rebound by K. Leonard,113,116
+4,0:56.0,,K. Lowry makes 3-pt jump shot from 23 ft,113,119
+4,0:45.0,K. Durant makes 3-pt jump shot from 28 ft,,116,119
+4,0:23.0,,K. Leonard misses 2-pt jump shot from 19 ft,116,119
+4,0:19.0,Defensive rebound by K. Looney,,116,119
+4,0:09.0,K. Durant makes 3-pt jump shot from 24 ft,,119,119
+4,0:08.0,,Toronto full timeout,119,119
+1OT,4:42.0,,P. Siakam makes 2-pt hook shot from 4 ft (assist by K. Lowry),119,121
+1OT,4:30.0,Personal foul by K. Leonard (drawn by K. Durant),,119,121
+1OT,4:21.0,J. Jerebko misses 3-pt jump shot from 23 ft,,119,121
+1OT,4:18.0,,Defensive rebound by K. Lowry,119,121
+1OT,4:08.0,,S. Ibaka makes 2-pt jump shot from 16 ft (assist by K. Lowry),119,123
+1OT,3:52.0,Turnover by J. Jerebko (traveling),,119,123
+1OT,3:38.0,,K. Leonard misses 2-pt jump shot from 2 ft,119,123
+1OT,3:36.0,Defensive rebound by K. Durant,,119,123
+1OT,3:33.0,Personal foul by K. Lowry (drawn by K. Thompson),,119,123
+1OT,3:30.0,Personal foul by D. Green (drawn by K. Thompson),,119,123
+1OT,3:27.0,Shooting foul by K. Leonard (drawn by K. Durant),,119,123
+1OT,3:27.0,K. Durant makes free throw 1 of 2,,120,123
+1OT,3:27.0,K. Durant makes free throw 2 of 2,,121,123
+1OT,3:02.0,,K. Lowry misses 2-pt jump shot from 10 ft,121,123
+1OT,3:01.0,Defensive rebound by K. Thompson,,121,123
+1OT,2:53.0,K. Durant makes 2-pt jump shot from 14 ft,,123,123
+1OT,2:29.0,,P. Siakam misses 3-pt jump shot from 24 ft,123,123
+1OT,2:26.0,Defensive rebound by K. Looney,,123,123
+1OT,2:14.0,Turnover by K. Thompson (lost ball; steal by K. Lowry),,123,123
+1OT,2:07.0,,D. Green makes 3-pt jump shot from 28 ft (assist by K. Lowry),123,126
+1OT,1:53.0,Turnover by K. Durant (out of bounds lost ball),,123,126
+1OT,1:35.0,,Personal foul by K. Durant (drawn by K. Leonard),123,126
+1OT,1:20.0,,Turnover by S. Ibaka (off goaltending),123,126
+1OT,1:08.0,Turnover by A. Iguodala (lost ball; steal by K. Lowry),,123,126
+1OT,1:05.0,,Shooting foul by A. Iguodala (drawn by P. Siakam),123,126
+1OT,1:05.0,,P. Siakam makes free throw 1 of 2,123,127
+1OT,1:05.0,,P. Siakam makes free throw 2 of 2,123,128
+1OT,0:55.0,J. Jerebko makes 2-pt layup from 1 ft (assist by K. Looney),,125,128
+1OT,0:32.0,,K. Leonard misses 2-pt jump shot from 16 ft,125,128
+1OT,0:30.0,Defensive rebound by J. Jerebko,,125,128
+1OT,0:22.0,Turnover by A. Iguodala (traveling),,125,128
+1OT,0:22.0,,Personal take foul by J. Jerebko (drawn by P. Siakam),125,128
+1OT,0:22.0,,P. Siakam makes free throw 1 of 2,125,129
+1OT,0:22.0,,P. Siakam misses free throw 2 of 2,125,129
+1OT,0:19.0,,Offensive rebound by K. Leonard,125,129
+1OT,0:14.0,,Shooting foul by K. Durant (drawn by P. Siakam),125,129
+1OT,0:14.0,,P. Siakam makes free throw 1 of 2,125,130
+1OT,0:14.0,,P. Siakam makes free throw 2 of 2,125,131
+1OT,0:14.0,Golden State full timeout,,125,131
+1OT,0:11.0,K. Thompson misses 2-pt jump shot from 20 ft,,125,131
+1OT,0:09.0,Offensive rebound by J. Jerebko,,125,131
+1OT,0:07.0,J. Jerebko misses 2-pt jump shot from 19 ft,,125,131
+1OT,0:07.0,Offensive rebound by Team,,125,131
+1OT,0:04.0,J. Jerebko makes 3-pt jump shot from 26 ft (assist by A. Iguodala),,128,131

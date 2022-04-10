@@ -1,0 +1,447 @@
+QUARTER,TIME_REMAINING,DALLAS_ACTION,HOUSTON_ACTION,DALLAS_SCORE,HOUSTON_SCORE
+1,11:47.0,,P. Tucker makes 3-pt jump shot from 23 ft (assist by J. Harden),0,3
+1,11:33.0,Turnover by D. Jordan (out of bounds lost ball),,0,3
+1,11:12.0,,J. Harden misses 3-pt jump shot from 25 ft,0,3
+1,11:09.0,Defensive rebound by L. Dončić,,0,3
+1,11:08.0,Turnover by L. Dončić (bad pass),,0,3
+1,10:54.0,,J. Harden makes 2-pt jump shot from 4 ft (assist by C. Capela),0,5
+1,10:41.0,W. Matthews misses 2-pt jump shot from 12 ft,,0,5
+1,10:41.0,Offensive rebound by Team,,0,5
+1,10:41.0,,Loose ball foul by J. Harden (drawn by D. Jordan),0,5
+1,10:32.0,Personal foul by J. Ennis (drawn by W. Matthews),,0,5
+1,10:23.0,Turnover by D. Jordan (3 sec),,0,5
+1,10:13.0,,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),0,7
+1,10:12.0,Dallas full timeout,,0,7
+1,9:56.0,D. Jordan makes 2-pt dunk from 1 ft (assist by H. Barnes),,2,7
+1,9:41.0,,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),2,9
+1,9:21.0,W. Matthews misses 2-pt layup from 5 ft,,2,9
+1,9:20.0,Offensive rebound by D. Jordan,,2,9
+1,9:13.0,L. Dončić makes 3-pt jump shot from 25 ft,,5,9
+1,8:55.0,,J. Ennis misses 3-pt jump shot from 24 ft,5,9
+1,8:51.0,Defensive rebound by D. Jordan,,5,9
+1,8:29.0,L. Dončić makes 3-pt jump shot from 24 ft,,8,9
+1,8:23.0,,J. Ennis misses 2-pt layup from 1 ft (block by D. Jordan),8,9
+1,8:23.0,,Offensive rebound by Team,8,9
+1,8:19.0,,J. Harden misses 3-pt jump shot from 26 ft,8,9
+1,8:15.0,Defensive rebound by L. Dončić,,8,9
+1,8:09.0,W. Matthews misses 3-pt jump shot from 22 ft,,8,9
+1,8:06.0,,Defensive rebound by J. Harden,8,9
+1,8:04.0,,Shooting foul by L. Dončić (drawn by J. Harden),8,9
+1,8:04.0,,J. Harden misses free throw 1 of 2,8,9
+1,8:04.0,,Offensive rebound by Team,8,9
+1,8:04.0,,J. Harden makes free throw 2 of 2,8,10
+1,8:04.0,,D. House enters the game for J. Ennis,8,10
+1,7:45.0,L. Dončić misses 3-pt jump shot from 25 ft,,8,10
+1,7:42.0,Offensive rebound by D. Jordan,,8,10
+1,7:39.0,H. Barnes misses 2-pt jump shot from 20 ft,,8,10
+1,7:37.0,Offensive rebound by L. Dončić,,8,10
+1,7:36.0,H. Barnes makes 3-pt jump shot from 25 ft (assist by L. Dončić),,11,10
+1,7:26.0,,E. Gordon makes 3-pt jump shot from 25 ft (assist by J. Harden),11,13
+1,7:12.0,W. Matthews makes 2-pt layup from 2 ft (assist by D. Jordan),,13,13
+1,7:02.0,,J. Harden makes 3-pt jump shot from 25 ft,13,16
+1,6:53.0,Personal foul by D. House (drawn by W. Matthews),,13,16
+1,6:41.0,D. Smith makes 2-pt dunk from 1 ft,,15,16
+1,6:29.0,,Turnover by J. Harden (bad pass; steal by D. Smith),15,16
+1,6:24.0,D. Smith misses 3-pt jump shot from 25 ft,,15,16
+1,6:21.0,,Defensive rebound by J. Harden,15,16
+1,6:13.0,,C. Capela makes 2-pt layup at rim (assist by E. Gordon),15,18
+1,6:03.0,H. Barnes makes 2-pt layup from 2 ft (assist by W. Matthews),,17,18
+1,5:44.0,,D. House misses 3-pt jump shot from 22 ft,17,18
+1,5:44.0,Defensive rebound by D. Jordan,,17,18
+1,5:35.0,D. Smith misses 2-pt layup from 2 ft (block by C. Capela),,17,18
+1,5:34.0,,Defensive rebound by J. Harden,17,18
+1,5:34.0,,Personal take foul by D. Jordan (drawn by J. Harden),17,18
+1,5:34.0,,G. Clark enters the game for C. Capela,17,18
+1,5:34.0,,I. Hartenstein enters the game for E. Gordon,17,18
+1,5:25.0,,Turnover by J. Harden (bad pass),17,18
+1,5:06.0,W. Matthews makes 2-pt layup at rim,,19,18
+1,4:49.0,,G. Clark misses 3-pt jump shot from 26 ft,19,18
+1,4:47.0,Defensive rebound by D. Smith,,19,18
+1,4:40.0,L. Dončić makes 2-pt jump shot from 11 ft (assist by D. Smith),,21,18
+1,4:20.0,,D. House misses 3-pt jump shot from 25 ft,21,18
+1,4:19.0,Defensive rebound by Team,,21,18
+1,4:13.0,Personal foul by I. Hartenstein (drawn by D. Jordan),,21,18
+1,4:06.0,D. Jordan makes 2-pt dunk from 1 ft (assist by L. Dončić),,23,18
+1,3:48.0,,J. Harden makes 3-pt jump shot from 25 ft,23,21
+1,3:37.0,L. Dončić makes 2-pt dunk from 1 ft,,25,21
+1,3:37.0,,Houston full timeout,25,21
+1,3:37.0,J. Barea enters the game for W. Matthews,,25,21
+1,3:37.0,D. Finney-Smith enters the game for D. Smith,,25,21
+1,3:37.0,,C. Capela enters the game for I. Hartenstein,25,21
+1,3:25.0,,Personal foul by L. Dončić (drawn by J. Harden),25,21
+1,3:25.0,M. Kleber enters the game for L. Dončić,,25,21
+1,3:18.0,,Turnover by J. Harden (traveling),25,21
+1,3:00.0,Personal foul by D. House (drawn by M. Kleber),,25,21
+1,3:00.0,M. Kleber makes free throw 1 of 2,,26,21
+1,3:00.0,D. Powell enters the game for D. Jordan,,26,21
+1,3:00.0,,J. Ennis enters the game for D. House,26,21
+1,3:00.0,M. Kleber misses free throw 2 of 2,,26,21
+1,2:59.0,,Defensive rebound by P. Tucker,26,21
+1,2:50.0,,P. Tucker misses 3-pt jump shot from 25 ft,26,21
+1,2:46.0,Defensive rebound by H. Barnes,,26,21
+1,2:41.0,H. Barnes misses 2-pt layup from 1 ft,,26,21
+1,2:34.0,,Defensive rebound by J. Harden,26,21
+1,2:24.0,,Shooting foul by D. Finney-Smith (drawn by J. Harden),26,21
+1,2:24.0,,J. Harden misses free throw 1 of 2,26,21
+1,2:24.0,,Offensive rebound by Team,26,21
+1,2:24.0,D. Harris enters the game for H. Barnes,,26,21
+1,2:24.0,,E. Gordon enters the game for P. Tucker,26,21
+1,2:24.0,,J. Harden makes free throw 2 of 2,26,22
+1,2:01.0,J. Barea misses 2-pt layup from 7 ft (block by E. Gordon),,26,22
+1,1:58.0,,Defensive rebound by J. Ennis,26,22
+1,1:55.0,,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),26,24
+1,1:46.0,J. Barea makes 3-pt jump shot from 26 ft,,29,24
+1,1:32.0,,Turnover by J. Harden (bad pass),29,24
+1,1:23.0,J. Barea misses 2-pt layup from 2 ft,,29,24
+1,1:16.0,Offensive rebound by M. Kleber,,29,24
+1,1:16.0,M. Kleber makes 2-pt dunk at rim,,31,24
+1,1:11.0,,Shooting foul by D. Harris (drawn by E. Gordon),31,24
+1,1:11.0,,E. Gordon makes free throw 1 of 3,31,25
+1,1:11.0,,E. Gordon makes free throw 2 of 3,31,26
+1,1:11.0,,D. House enters the game for J. Harden,31,26
+1,1:11.0,,E. Gordon misses free throw 3 of 3,31,26
+1,1:11.0,Defensive rebound by D. Powell,,31,26
+1,0:58.0,M. Kleber misses 3-pt jump shot from 23 ft,,31,26
+1,0:56.0,,Defensive rebound by D. House,31,26
+1,0:49.0,,E. Gordon makes 2-pt layup from 3 ft,31,28
+1,0:42.0,Shooting foul by G. Clark (drawn by J. Barea),,31,28
+1,0:42.0,J. Barea makes free throw 1 of 2,,32,28
+1,0:42.0,J. Barea makes free throw 2 of 2,,33,28
+1,0:29.0,,E. Gordon misses 3-pt jump shot from 26 ft,33,28
+1,0:25.0,Defensive rebound by J. Barea,,33,28
+1,0:05.0,D. Harris makes 3-pt jump shot from 30 ft (assist by J. Barea),,36,28
+1,0:00.0,,E. Gordon misses 2-pt jump shot from 22 ft,36,28
+1,0:00.0,,Offensive rebound by Team,36,28
+2,11:50.0,D. Harris makes 2-pt layup from 1 ft (assist by J. Barea),,38,28
+2,11:35.0,,J. Ennis makes 2-pt layup at rim (assist by E. Gordon),38,30
+2,11:13.0,J. Barea misses 2-pt jump shot from 14 ft,,38,30
+2,11:13.0,Offensive rebound by Team,,38,30
+2,11:13.0,,Loose ball foul by G. Clark (drawn by D. Powell),38,30
+2,11:06.0,D. Powell makes 2-pt layup from 2 ft (assist by J. Barea),,40,30
+2,10:51.0,,Personal foul by D. Powell (drawn by E. Gordon),40,30
+2,10:43.0,,J. Ennis misses 2-pt layup from 1 ft,40,30
+2,10:41.0,,Offensive rebound by D. House,40,30
+2,10:41.0,,D. House misses 2-pt layup from 1 ft,40,30
+2,10:40.0,,Offensive rebound by D. House,40,30
+2,10:39.0,,Shooting foul by M. Kleber (drawn by D. House),40,30
+2,10:39.0,,D. House makes free throw 1 of 2,40,31
+2,10:39.0,,P. Tucker enters the game for G. Clark,40,31
+2,10:39.0,,D. House makes free throw 2 of 2,40,32
+2,10:28.0,D. Powell makes 2-pt layup from 1 ft (assist by J. Barea),,42,32
+2,10:18.0,,Shooting foul by M. Kleber (drawn by I. Hartenstein),42,32
+2,10:18.0,,I. Hartenstein makes free throw 1 of 2,42,33
+2,10:18.0,W. Matthews enters the game for D. Finney-Smith,,42,33
+2,10:18.0,,I. Hartenstein makes free throw 2 of 2,42,34
+2,9:57.0,M. Kleber makes 3-pt jump shot from 26 ft (assist by D. Harris),,45,34
+2,9:46.0,,E. Gordon misses 3-pt jump shot from 26 ft,45,34
+2,9:42.0,Defensive rebound by J. Barea,,45,34
+2,9:36.0,Personal foul by P. Tucker (drawn by M. Kleber),,45,34
+2,9:36.0,,J. Harden enters the game for D. House,45,34
+2,9:32.0,Personal foul by I. Hartenstein (drawn by D. Powell),,45,34
+2,9:32.0,,C. Capela enters the game for I. Hartenstein,45,34
+2,9:22.0,W. Matthews makes 2-pt layup from 2 ft (assist by J. Barea),,47,34
+2,9:11.0,,E. Gordon misses 2-pt layup from 8 ft (block by D. Powell),47,34
+2,9:11.0,Defensive rebound by Team,,47,34
+2,8:58.0,J. Barea makes 2-pt layup from 2 ft,,49,34
+2,8:43.0,,C. Capela makes 2-pt layup from 1 ft (assist by J. Harden),49,36
+2,8:26.0,W. Matthews makes 3-pt jump shot from 26 ft (assist by J. Barea),,52,36
+2,8:12.0,,P. Tucker misses 3-pt jump shot from 24 ft,52,36
+2,8:09.0,Defensive rebound by D. Harris,,52,36
+2,8:00.0,Personal foul by C. Capela (drawn by D. Powell),,52,36
+2,8:00.0,D. Smith enters the game for J. Barea,,52,36
+2,8:00.0,,G. Clark enters the game for C. Capela,52,36
+2,7:48.0,Turnover by W. Matthews (lost ball; steal by J. Harden),,52,36
+2,7:44.0,,Personal foul by D. Harris (drawn by J. Ennis),52,36
+2,7:36.0,,J. Harden misses 3-pt jump shot from 25 ft,52,36
+2,7:33.0,Defensive rebound by D. Smith,,52,36
+2,7:27.0,M. Kleber makes 3-pt jump shot from 24 ft (assist by D. Harris),,55,36
+2,7:06.0,,J. Ennis makes 2-pt layup from 1 ft (assist by J. Harden),55,38
+2,6:43.0,W. Matthews makes 2-pt jump shot from 10 ft (assist by D. Harris),,57,38
+2,6:29.0,,J. Harden makes 3-pt jump shot from 25 ft,57,41
+2,6:07.0,D. Harris misses 2-pt jump shot from 21 ft (block by G. Clark),,57,41
+2,6:02.0,,Defensive rebound by J. Harden,57,41
+2,5:59.0,,Turnover by E. Gordon (bad pass; steal by D. Powell),57,41
+2,5:52.0,D. Smith makes 2-pt dunk from 1 ft,,59,41
+2,5:40.0,,Turnover by J. Harden (lost ball; steal by D. Smith),59,41
+2,5:40.0,Clear path foul by P. Tucker,,59,41
+2,5:40.0,,Houston full timeout,59,41
+2,5:40.0,H. Barnes enters the game for D. Harris,,59,41
+2,5:40.0,L. Dončić enters the game for M. Kleber,,59,41
+2,5:40.0,D. Finney-Smith enters the game for W. Matthews,,59,41
+2,5:40.0,D. Jordan enters the game for D. Powell,,59,41
+2,5:40.0,D. Smith misses clear path free throw 1 of 2,,59,41
+2,5:40.0,Offensive rebound by Team,,59,41
+2,5:40.0,D. Smith makes clear path free throw 2 of 2,,60,41
+2,5:40.0,,C. Capela enters the game for G. Clark,60,41
+2,5:31.0,H. Barnes misses 2-pt jump shot from 20 ft,,60,41
+2,5:28.0,,Defensive rebound by J. Harden,60,41
+2,5:23.0,,J. Harden misses 3-pt jump shot from 25 ft,60,41
+2,5:22.0,,Offensive rebound by J. Ennis,60,41
+2,5:15.0,,E. Gordon makes 3-pt jump shot from 25 ft,60,44
+2,4:57.0,D. Jordan misses 2-pt jump shot from 6 ft,,60,44
+2,4:54.0,Offensive rebound by H. Barnes,,60,44
+2,4:50.0,L. Dončić misses 3-pt jump shot from 30 ft,,60,44
+2,4:49.0,Offensive rebound by Team,,60,44
+2,4:49.0,,Loose ball foul by E. Gordon (drawn by D. Jordan),60,44
+2,4:49.0,D. Jordan misses free throw 1 of 2,,60,44
+2,4:49.0,Offensive rebound by Team,,60,44
+2,4:49.0,D. Jordan makes free throw 2 of 2,,61,44
+2,4:27.0,,E. Gordon makes 2-pt layup at rim,61,46
+2,4:17.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,,61,46
+2,4:11.0,Offensive rebound by L. Dončić,,61,46
+2,3:58.0,D. Smith makes 3-pt jump shot from 25 ft,,64,46
+2,3:45.0,,E. Gordon makes 3-pt jump shot from 27 ft (assist by J. Harden),64,49
+2,3:28.0,L. Dončić misses 2-pt jump shot from 8 ft,,64,49
+2,3:27.0,Offensive rebound by Team,,64,49
+2,3:19.0,Personal foul by J. Ennis (drawn by D. Jordan),,64,49
+2,3:19.0,D. Jordan makes free throw 1 of 2,,65,49
+2,3:19.0,D. Jordan makes free throw 2 of 2,,66,49
+2,3:06.0,,J. Harden misses 3-pt jump shot from 25 ft,66,49
+2,3:04.0,,Offensive rebound by C. Capela,66,49
+2,3:03.0,,Turnover by C. Capela (lost ball; steal by D. Finney-Smith),66,49
+2,2:56.0,Turnover by L. Dončić (bad pass; steal by P. Tucker),,66,49
+2,2:50.0,,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),66,51
+2,2:49.0,Dallas full timeout,,66,51
+2,2:35.0,Turnover by D. Jordan (bad pass; steal by J. Harden),,66,51
+2,2:29.0,,J. Ennis misses 3-pt jump shot from 25 ft,66,51
+2,2:26.0,,Offensive rebound by C. Capela,66,51
+2,2:24.0,,J. Ennis makes 3-pt jump shot from 23 ft (assist by C. Capela),66,54
+2,2:09.0,Turnover by H. Barnes (out of bounds lost ball),,66,54
+2,1:52.0,,E. Gordon misses 3-pt jump shot from 27 ft,66,54
+2,1:46.0,,Offensive rebound by J. Ennis,66,54
+2,1:46.0,,J. Ennis misses 2-pt layup from 1 ft,66,54
+2,1:45.0,Defensive rebound by D. Jordan,,66,54
+2,1:36.0,Shooting foul by J. Harden (drawn by D. Jordan),,66,54
+2,1:36.0,D. Jordan misses free throw 1 of 2,,66,54
+2,1:36.0,Offensive rebound by Team,,66,54
+2,1:36.0,D. Jordan makes free throw 2 of 2,,67,54
+2,1:13.0,,E. Gordon misses 3-pt jump shot from 28 ft,67,54
+2,1:10.0,Defensive rebound by D. Smith,,67,54
+2,1:06.0,Turnover by D. Smith (bad pass; steal by P. Tucker),,67,54
+2,1:01.0,,Turnover by J. Harden (lost ball; steal by D. Smith),67,54
+2,0:56.0,Personal foul by P. Tucker (drawn by L. Dončić),,67,54
+2,0:56.0,L. Dončić makes free throw 1 of 2,,68,54
+2,0:56.0,W. Matthews enters the game for D. Finney-Smith,,68,54
+2,0:56.0,L. Dončić makes free throw 2 of 2,,69,54
+2,0:41.0,,P. Tucker misses 3-pt jump shot from 24 ft,69,54
+2,0:38.0,Defensive rebound by D. Jordan,,69,54
+2,0:19.0,D. Jordan makes 2-pt dunk from 2 ft (assist by D. Smith),,71,54
+2,0:05.0,,C. Capela makes 2-pt hook shot from 2 ft (assist by J. Harden),71,56
+2,0:00.0,L. Dončić makes 3-pt jump shot from 38 ft,,74,56
+3,11:48.0,Turnover by D. Smith (bad pass; steal by J. Harden),,74,56
+3,11:42.0,,E. Gordon misses 3-pt jump shot from 27 ft,74,56
+3,11:39.0,Defensive rebound by L. Dončić,,74,56
+3,11:35.0,L. Dončić makes 2-pt layup from 1 ft,,76,56
+3,11:35.0,Shooting foul by C. Capela (drawn by L. Dončić),,76,56
+3,11:35.0,L. Dončić makes free throw 1 of 1,,77,56
+3,11:21.0,,Offensive foul by J. Ennis (drawn by L. Dončić),77,56
+3,11:21.0,,Turnover by J. Ennis (offensive foul),77,56
+3,11:05.0,D. Smith misses 2-pt layup from 1 ft,,77,56
+3,11:03.0,,Defensive rebound by P. Tucker,77,56
+3,10:58.0,,J. Ennis makes 2-pt layup from 2 ft (assist by J. Harden),77,58
+3,10:45.0,H. Barnes misses 3-pt jump shot from 25 ft,,77,58
+3,10:45.0,,Defensive rebound by J. Harden,77,58
+3,10:37.0,,J. Harden makes 2-pt layup from 3 ft,77,60
+3,10:13.0,L. Dončić misses 3-pt jump shot from 25 ft,,77,60
+3,10:10.0,,Defensive rebound by C. Capela,77,60
+3,10:01.0,Violation by Team (kicked ball),,77,60
+3,9:40.0,,E. Gordon misses 3-pt jump shot from 24 ft,77,60
+3,9:38.0,,Offensive rebound by C. Capela,77,60
+3,9:30.0,,J. Harden makes 2-pt jump shot from 12 ft,77,62
+3,9:19.0,D. Smith makes 2-pt layup from 2 ft,,79,62
+3,8:57.0,,J. Ennis makes 3-pt jump shot from 26 ft (assist by J. Harden),79,65
+3,8:43.0,Turnover by L. Dončić (bad pass; steal by J. Harden),,79,65
+3,8:38.0,,J. Ennis makes 2-pt layup from 2 ft (assist by J. Harden),79,67
+3,8:38.0,Dallas full timeout,,79,67
+3,8:23.0,W. Matthews misses 3-pt jump shot from 26 ft,,79,67
+3,8:20.0,,Defensive rebound by J. Harden,79,67
+3,8:10.0,,J. Harden misses 2-pt layup from 4 ft (block by D. Jordan),79,67
+3,8:10.0,,Offensive rebound by Team,79,67
+3,8:00.0,,J. Ennis makes 2-pt jump shot from 8 ft (assist by E. Gordon),79,69
+3,7:47.0,D. Jordan makes 2-pt hook shot from 7 ft,,81,69
+3,7:33.0,,Turnover by E. Gordon (lost ball; steal by D. Smith),81,69
+3,7:15.0,Shooting foul by J. Harden (drawn by L. Dončić),,81,69
+3,7:15.0,L. Dončić makes free throw 1 of 2,,82,69
+3,7:15.0,L. Dončić makes free throw 2 of 2,,83,69
+3,6:52.0,,J. Ennis makes 2-pt layup from 1 ft,83,71
+3,6:39.0,H. Barnes makes 2-pt layup from 2 ft,,85,71
+3,6:25.0,,J. Harden misses 3-pt jump shot from 26 ft,85,71
+3,6:22.0,,Offensive rebound by C. Capela,85,71
+3,6:18.0,,P. Tucker misses 3-pt jump shot from 23 ft,85,71
+3,6:14.0,Defensive rebound by L. Dončić,,85,71
+3,6:09.0,D. Smith misses 3-pt jump shot from 26 ft,,85,71
+3,6:06.0,,Defensive rebound by C. Capela,85,71
+3,6:00.0,,Shooting foul by D. Smith (drawn by J. Harden),85,71
+3,6:00.0,,J. Harden makes free throw 1 of 2,85,72
+3,6:00.0,,D. House enters the game for J. Ennis,85,72
+3,6:00.0,,J. Harden makes free throw 2 of 2,85,73
+3,5:47.0,Shooting foul by J. Harden (drawn by D. Jordan),,85,73
+3,5:47.0,D. Jordan misses free throw 1 of 2,,85,73
+3,5:47.0,Offensive rebound by Team,,85,73
+3,5:47.0,,G. Clark enters the game for E. Gordon,85,73
+3,5:47.0,D. Jordan makes free throw 2 of 2,,86,73
+3,5:31.0,,Turnover by J. Harden (bad pass; steal by L. Dončić),86,73
+3,5:17.0,Turnover by L. Dončić (bad pass; steal by J. Harden),,86,73
+3,5:12.0,,C. Capela misses 2-pt layup from 1 ft,86,73
+3,5:10.0,,Offensive rebound by J. Harden,86,73
+3,5:07.0,,D. House makes 3-pt jump shot from 26 ft (assist by J. Harden),86,76
+3,5:07.0,D. Finney-Smith enters the game for L. Dončić,,86,76
+3,4:43.0,H. Barnes misses 2-pt jump shot from 10 ft,,86,76
+3,4:40.0,,Defensive rebound by J. Harden,86,76
+3,4:35.0,,J. Harden makes 3-pt jump shot from 26 ft,86,79
+3,4:15.0,H. Barnes misses 2-pt layup at rim,,86,79
+3,4:12.0,,Defensive rebound by C. Capela,86,79
+3,3:58.0,,C. Capela misses 2-pt layup from 2 ft,86,79
+3,3:56.0,Defensive rebound by D. Jordan,,86,79
+3,3:48.0,H. Barnes makes 3-pt jump shot from 23 ft (assist by D. Smith),,89,79
+3,3:23.0,,G. Clark misses 3-pt jump shot from 26 ft,89,79
+3,3:20.0,,Offensive rebound by C. Capela,89,79
+3,3:09.0,,D. House misses 3-pt jump shot from 26 ft,89,79
+3,3:05.0,,Offensive rebound by P. Tucker,89,79
+3,3:02.0,,D. House makes 2-pt layup from 1 ft (assist by P. Tucker),89,81
+3,3:01.0,Dallas full timeout,,89,81
+3,3:01.0,J. Barea enters the game for D. Jordan,,89,81
+3,3:01.0,L. Dončić enters the game for W. Matthews,,89,81
+3,3:01.0,D. Powell enters the game for D. Smith,,89,81
+3,2:50.0,H. Barnes makes 3-pt jump shot from 25 ft (assist by J. Barea),,92,81
+3,2:22.0,,Turnover by Team (shot clock),92,81
+3,2:15.0,Personal foul by D. House (drawn by H. Barnes),,92,81
+3,2:15.0,,J. Ennis enters the game for G. Clark,92,81
+3,2:15.0,,E. Gordon enters the game for P. Tucker,92,81
+3,2:00.0,D. Finney-Smith makes 2-pt jump shot from 18 ft (assist by J. Barea),,94,81
+3,1:45.0,,Personal foul by D. Powell (drawn by E. Gordon),94,81
+3,1:31.0,,D. House makes 3-pt jump shot from 24 ft (assist by J. Harden),94,84
+3,1:19.0,J. Barea misses 3-pt jump shot from 26 ft,,94,84
+3,1:17.0,,Defensive rebound by J. Harden,94,84
+3,1:09.0,,Shooting foul by D. Finney-Smith (drawn by J. Harden),94,84
+3,1:09.0,,J. Harden makes free throw 1 of 3,94,85
+3,1:09.0,,J. Harden makes free throw 2 of 3,94,86
+3,1:09.0,,J. Harden makes free throw 3 of 3,94,87
+3,0:53.0,H. Barnes misses 2-pt layup from 6 ft (block by C. Capela),,94,87
+3,0:50.0,,Defensive rebound by E. Gordon,94,87
+3,0:48.0,,E. Gordon makes 2-pt layup from 1 ft,94,89
+3,0:37.0,D. Powell misses 3-pt jump shot from 25 ft,,94,89
+3,0:33.0,Offensive rebound by D. Finney-Smith,,94,89
+3,0:28.0,D. Powell makes 2-pt layup from 2 ft (assist by J. Barea),,96,89
+3,0:07.0,,J. Harden misses 3-pt jump shot from 27 ft,96,89
+3,0:04.0,Defensive rebound by D. Powell,,96,89
+3,0:00.0,L. Dončić misses 3-pt jump shot from 33 ft,,96,89
+3,0:00.0,Offensive rebound by Team,,96,89
+4,11:36.0,,Turnover by Team (shot clock),96,89
+4,11:24.0,Turnover by J. Barea (bad pass; steal by J. Harden),,96,89
+4,11:11.0,,P. Tucker misses 3-pt jump shot from 26 ft,96,89
+4,11:09.0,Defensive rebound by M. Kleber,,96,89
+4,11:01.0,Personal foul by D. House (drawn by D. Powell),,96,89
+4,10:54.0,D. Finney-Smith makes 3-pt jump shot from 25 ft (assist by D. Harris),,99,89
+4,10:42.0,,Turnover by J. Harden (bad pass; steal by D. Finney-Smith),99,89
+4,10:34.0,J. Barea makes 2-pt layup from 1 ft,,101,89
+4,10:20.0,,Turnover by E. Gordon (out of bounds lost ball),101,89
+4,10:20.0,,C. Capela enters the game for D. House,101,89
+4,9:59.0,J. Barea makes 2-pt layup from 2 ft,,103,89
+4,9:37.0,,P. Tucker makes 2-pt layup from 3 ft (assist by J. Harden),103,91
+4,9:20.0,D. Harris makes 3-pt jump shot from 26 ft (assist by M. Kleber),,106,91
+4,9:19.0,,Houston full timeout,106,91
+4,9:05.0,,Shooting foul by M. Kleber (drawn by C. Capela),106,91
+4,9:05.0,,C. Capela misses free throw 1 of 2,106,91
+4,9:05.0,,Offensive rebound by Team,106,91
+4,9:05.0,,C. Capela misses free throw 2 of 2,106,91
+4,9:05.0,,Offensive rebound by P. Tucker,106,91
+4,8:50.0,,C. Capela makes 2-pt layup from 3 ft (assist by J. Harden),106,93
+4,8:39.0,Shooting foul by J. Ennis (drawn by D. Harris),,106,93
+4,8:39.0,D. Harris makes free throw 1 of 3,,107,93
+4,8:39.0,D. Harris makes free throw 2 of 3,,108,93
+4,8:39.0,D. Harris makes free throw 3 of 3,,109,93
+4,8:25.0,,C. Capela makes 2-pt dunk from 1 ft (assist by J. Ennis),109,95
+4,8:06.0,J. Barea makes 2-pt jump shot from 11 ft,,111,95
+4,7:59.0,,E. Gordon misses 3-pt jump shot from 28 ft,111,95
+4,7:55.0,Defensive rebound by D. Finney-Smith,,111,95
+4,7:36.0,D. Harris makes 3-pt jump shot from 23 ft (assist by J. Barea),,114,95
+4,7:25.0,,C. Capela misses 2-pt layup from 3 ft (block by D. Harris),114,95
+4,7:24.0,Defensive rebound by J. Barea,,114,95
+4,7:20.0,D. Finney-Smith misses 2-pt layup from 4 ft (block by E. Gordon),,114,95
+4,7:20.0,Offensive rebound by Team,,114,95
+4,7:20.0,,G. Clark enters the game for J. Ennis,114,95
+4,7:20.0,,D. House enters the game for E. Gordon,114,95
+4,7:05.0,D. Harris makes 3-pt jump shot from 28 ft (assist by J. Barea),,117,95
+4,7:04.0,,Houston full timeout,117,95
+4,7:04.0,,M. Carter-Williams enters the game for C. Capela,117,95
+4,7:04.0,,M. Chriss enters the game for J. Harden,117,95
+4,7:04.0,,I. Hartenstein enters the game for P. Tucker,117,95
+4,6:50.0,,D. House misses 3-pt jump shot from 24 ft,117,95
+4,6:48.0,,Offensive rebound by M. Chriss,117,95
+4,6:43.0,,D. House makes 2-pt layup from 2 ft,117,97
+4,6:43.0,,Shooting foul by D. Powell (drawn by D. House),117,97
+4,6:43.0,,D. House misses free throw 1 of 1,117,97
+4,6:43.0,Defensive rebound by D. Powell,,117,97
+4,6:26.0,D. Harris makes 3-pt jump shot from 25 ft (assist by J. Barea),,120,97
+4,6:15.0,,D. House makes 2-pt layup from 2 ft (assist by G. Clark),120,99
+4,5:52.0,D. Harris misses 3-pt jump shot from 30 ft,,120,99
+4,5:49.0,,Defensive rebound by M. Carter-Williams,120,99
+4,5:45.0,,M. Carter-Williams misses 2-pt layup from 3 ft (block by D. Harris),120,99
+4,5:45.0,,Offensive rebound by Team,120,99
+4,5:45.0,H. Barnes enters the game for D. Harris,,120,99
+4,5:45.0,D. Smith enters the game for D. Powell,,120,99
+4,5:41.0,,D. House misses 3-pt jump shot from 23 ft,120,99
+4,5:39.0,Defensive rebound by H. Barnes,,120,99
+4,5:31.0,H. Barnes misses 2-pt layup from 3 ft,,120,99
+4,5:29.0,,Defensive rebound by M. Chriss,120,99
+4,5:12.0,,G. Clark misses 3-pt jump shot from 23 ft,120,99
+4,5:10.0,,Offensive rebound by I. Hartenstein,120,99
+4,5:04.0,,Turnover by M. Carter-Williams (lost ball; steal by J. Barea),120,99
+4,4:49.0,D. Finney-Smith misses 2-pt jump shot from 17 ft,,120,99
+4,4:47.0,,Defensive rebound by D. House,120,99
+4,4:42.0,,Shooting foul by D. Finney-Smith (drawn by D. House),120,99
+4,4:42.0,,D. House misses free throw 1 of 2,120,99
+4,4:42.0,,Offensive rebound by Team,120,99
+4,4:42.0,J. Brunson enters the game for J. Barea,,120,99
+4,4:42.0,,D. House makes free throw 2 of 2,120,100
+4,4:31.0,Personal foul by G. Clark (drawn by M. Kleber),,120,100
+4,4:17.0,H. Barnes misses 3-pt jump shot from 27 ft,,120,100
+4,4:15.0,Offensive rebound by D. Finney-Smith,,120,100
+4,4:02.0,Turnover by Team (shot clock),,120,100
+4,3:46.0,,M. Carter-Williams misses 2-pt jump shot from 7 ft,120,100
+4,3:46.0,,Offensive rebound by Team,120,100
+4,3:46.0,R. Broekhoff enters the game for H. Barnes,,120,100
+4,3:46.0,S. Mejri enters the game for M. Kleber,,120,100
+4,3:35.0,,M. Carter-Williams misses 2-pt jump shot from 15 ft,120,100
+4,3:34.0,,Offensive rebound by I. Hartenstein,120,100
+4,3:32.0,,I. Hartenstein misses 2-pt layup from 2 ft (block by D. Finney-Smith),120,100
+4,3:32.0,Defensive rebound by Team,,120,100
+4,3:22.0,Personal foul by M. Chriss (drawn by J. Brunson),,120,100
+4,3:12.0,S. Mejri misses 2-pt jump shot from 6 ft,,120,100
+4,3:12.0,Offensive rebound by Team,,120,100
+4,3:02.0,J. Brunson misses 3-pt jump shot from 24 ft,,120,100
+4,2:59.0,,Defensive rebound by D. House,120,100
+4,2:55.0,,M. Chriss makes 2-pt layup from 2 ft (assist by D. House),120,102
+4,2:55.0,,Shooting foul by D. Smith (drawn by M. Chriss),120,102
+4,2:55.0,,M. Chriss misses free throw 1 of 1,120,102
+4,2:55.0,Defensive rebound by S. Mejri,,120,102
+4,2:43.0,Turnover by J. Brunson (bad pass; steal by G. Clark),,120,102
+4,2:40.0,,G. Clark misses 2-pt dunk from 2 ft (block by D. Smith),120,102
+4,2:40.0,,Offensive rebound by Team,120,102
+4,2:32.0,,M. Carter-Williams misses 3-pt jump shot from 26 ft,120,102
+4,2:31.0,Defensive rebound by S. Mejri,,120,102
+4,2:13.0,D. Finney-Smith misses 2-pt hook shot from 7 ft,,120,102
+4,2:11.0,Offensive rebound by S. Mejri,,120,102
+4,2:10.0,S. Mejri makes 2-pt layup from 2 ft,,122,102
+4,2:02.0,,D. House misses 3-pt jump shot from 28 ft,122,102
+4,1:59.0,Defensive rebound by S. Mejri,,122,102
+4,1:41.0,D. Finney-Smith misses 2-pt dunk from 1 ft,,122,102
+4,1:39.0,Offensive rebound by D. Smith,,122,102
+4,1:39.0,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by D. Smith),,124,102
+4,1:32.0,,Turnover by D. House (bad pass; steal by D. Finney-Smith),124,102
+4,1:25.0,Shooting foul by I. Hartenstein (drawn by S. Mejri),,124,102
+4,1:25.0,S. Mejri makes free throw 1 of 2,,125,102
+4,1:25.0,S. Mejri makes free throw 2 of 2,,126,102
+4,1:14.0,,G. Clark misses 3-pt jump shot from 24 ft,126,102
+4,1:12.0,Defensive rebound by D. Smith,,126,102
+4,1:02.0,S. Mejri makes 2-pt dunk from 1 ft (assist by D. Smith),,128,102
+4,0:51.0,,Offensive foul by I. Hartenstein (drawn by S. Mejri),128,102
+4,0:51.0,,Turnover by I. Hartenstein (offensive foul),128,102
+4,0:38.0,Turnover by D. Smith (bad pass; steal by G. Clark),,128,102
+4,0:36.0,,D. House makes 2-pt dunk from 2 ft (assist by G. Clark),128,104
+4,0:36.0,,Shooting foul by S. Mejri (drawn by D. House),128,104
+4,0:36.0,,D. House makes free throw 1 of 1,128,105
+4,0:18.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,,128,105
+4,0:16.0,,Defensive rebound by I. Hartenstein,128,105
+4,0:06.0,,I. Hartenstein makes 3-pt jump shot from 26 ft (assist by M. Chriss),128,108

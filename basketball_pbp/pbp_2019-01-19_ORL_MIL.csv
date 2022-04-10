@@ -1,0 +1,409 @@
+QUARTER,TIME_REMAINING,MILWAUKEE_ACTION,ORLANDO_ACTION,MILWAUKEE_SCORE,ORLANDO_SCORE
+1,11:47.0,,E. Fournier makes 2-pt jump shot from 10 ft (assist by N. Vučević),0,2
+1,11:31.0,Shooting foul by D. Augustin (drawn by E. Bledsoe),,0,2
+1,11:31.0,E. Bledsoe misses free throw 1 of 2,,0,2
+1,11:31.0,Offensive rebound by Team,,0,2
+1,11:31.0,E. Bledsoe makes free throw 2 of 2,,1,2
+1,11:19.0,,E. Fournier misses 2-pt jump shot from 10 ft (block by B. Lopez),1,2
+1,11:19.0,,Offensive rebound by Team,1,2
+1,11:11.0,,N. Vučević misses 2-pt jump shot from 13 ft,1,2
+1,11:06.0,Defensive rebound by G. Antetokounmpo,,1,2
+1,10:55.0,Turnover by G. Antetokounmpo (bad pass; steal by J. Isaac),,1,2
+1,10:39.0,,J. Isaac makes 2-pt jump shot from 10 ft (assist by D. Augustin),1,4
+1,10:30.0,B. Lopez makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),,4,4
+1,10:06.0,,Turnover by Team (shot clock),4,4
+1,9:52.0,B. Lopez misses 3-pt jump shot from 25 ft,,4,4
+1,9:50.0,,Defensive rebound by N. Vučević,4,4
+1,9:45.0,,N. Vučević misses 3-pt jump shot from 26 ft,4,4
+1,9:42.0,Defensive rebound by E. Bledsoe,,4,4
+1,9:37.0,Shooting foul by J. Isaac (drawn by G. Antetokounmpo),,4,4
+1,9:37.0,G. Antetokounmpo makes free throw 1 of 2,,5,4
+1,9:37.0,G. Antetokounmpo makes free throw 2 of 2,,6,4
+1,9:27.0,,N. Vučević misses 2-pt layup from 4 ft (block by B. Lopez),6,4
+1,9:24.0,,Offensive rebound by J. Isaac,6,4
+1,9:21.0,,D. Augustin makes 3-pt jump shot from 26 ft (assist by J. Isaac),6,7
+1,9:16.0,Personal foul by J. Isaac (drawn by G. Antetokounmpo),,6,7
+1,9:08.0,K. Middleton misses 2-pt jump shot from 14 ft,,6,7
+1,9:05.0,,Defensive rebound by E. Fournier,6,7
+1,8:58.0,,N. Vučević misses 2-pt hook shot from 10 ft,6,7
+1,8:55.0,Defensive rebound by M. Brogdon,,6,7
+1,8:46.0,K. Middleton misses 2-pt jump shot from 11 ft,,6,7
+1,8:42.0,,Defensive rebound by J. Isaac,6,7
+1,8:34.0,,N. Vučević makes 2-pt layup from 1 ft (assist by J. Simmons),6,9
+1,8:18.0,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by E. Bledsoe),,8,9
+1,8:02.0,,J. Isaac misses 3-pt jump shot from 25 ft,8,9
+1,7:58.0,Defensive rebound by E. Bledsoe,,8,9
+1,7:51.0,Milwaukee full timeout,,8,9
+1,7:51.0,S. Brown enters the game for M. Brogdon,,8,9
+1,7:40.0,G. Antetokounmpo makes 2-pt dunk from 1 ft,,10,9
+1,7:24.0,,D. Augustin misses 2-pt jump shot from 7 ft (block by B. Lopez),10,9
+1,7:21.0,Defensive rebound by B. Lopez,,10,9
+1,7:19.0,E. Bledsoe makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),,12,9
+1,7:04.0,,J. Simmons misses 2-pt jump shot from 20 ft,12,9
+1,7:01.0,Defensive rebound by E. Bledsoe,,12,9
+1,6:54.0,G. Antetokounmpo makes 2-pt hook shot from 7 ft,,14,9
+1,6:40.0,,N. Vučević makes 2-pt jump shot from 17 ft (assist by D. Augustin),14,11
+1,6:29.0,E. Bledsoe makes 2-pt jump shot from 9 ft,,16,11
+1,6:12.0,,N. Vučević misses 2-pt layup from 4 ft (block by B. Lopez),16,11
+1,6:10.0,Defensive rebound by E. Bledsoe,,16,11
+1,6:06.0,S. Brown makes 3-pt jump shot from 25 ft (assist by E. Bledsoe),,19,11
+1,6:03.0,,Orlando full timeout,19,11
+1,6:03.0,,W. Iwundu enters the game for J. Simmons,19,11
+1,5:47.0,,E. Fournier misses 3-pt jump shot from 26 ft,19,11
+1,5:43.0,Defensive rebound by E. Bledsoe,,19,11
+1,5:35.0,B. Lopez misses 3-pt jump shot from 23 ft,,19,11
+1,5:31.0,,Defensive rebound by W. Iwundu,19,11
+1,5:22.0,,E. Fournier makes 2-pt jump shot from 18 ft,19,13
+1,5:09.0,G. Antetokounmpo misses 3-pt jump shot from 26 ft,,19,13
+1,5:06.0,,Defensive rebound by J. Isaac,19,13
+1,4:57.0,,N. Vučević makes 2-pt layup from 2 ft (assist by E. Fournier),19,15
+1,4:44.0,E. Bledsoe makes 2-pt jump shot from 6 ft,,21,15
+1,4:23.0,,W. Iwundu misses 2-pt jump shot from 7 ft,21,15
+1,4:20.0,Defensive rebound by K. Middleton,,21,15
+1,4:14.0,K. Middleton misses 2-pt layup from 4 ft,,21,15
+1,4:14.0,,Defensive rebound by Team,21,15
+1,4:14.0,Loose ball foul by G. Antetokounmpo (drawn by J. Isaac),,21,15
+1,4:14.0,M. Brogdon enters the game for G. Antetokounmpo,,21,15
+1,4:14.0,G. Hill enters the game for E. Bledsoe,,21,15
+1,4:14.0,D. Wilson enters the game for K. Middleton,,21,15
+1,4:14.0,,I. Briscoe enters the game for D. Augustin,21,15
+1,4:14.0,,T. Ross enters the game for E. Fournier,21,15
+1,3:50.0,,I. Briscoe misses 2-pt jump shot from 18 ft,21,15
+1,3:48.0,Defensive rebound by D. Wilson,,21,15
+1,3:37.0,M. Brogdon makes 2-pt layup from 5 ft (assist by G. Hill),,23,15
+1,3:23.0,,N. Vučević makes 2-pt jump shot from 16 ft (assist by W. Iwundu),23,17
+1,3:15.0,Shooting foul by I. Briscoe (drawn by M. Brogdon),,23,17
+1,3:15.0,M. Brogdon makes free throw 1 of 2,,24,17
+1,3:15.0,E. İlyasova enters the game for B. Lopez,,24,17
+1,3:15.0,,J. Martin enters the game for J. Isaac,24,17
+1,3:15.0,M. Brogdon makes free throw 2 of 2,,25,17
+1,3:02.0,,Personal foul by D. Wilson (drawn by N. Vučević),25,17
+1,3:02.0,,M. Bamba enters the game for N. Vučević,25,17
+1,2:57.0,,T. Ross misses 2-pt jump shot from 17 ft,25,17
+1,2:53.0,Defensive rebound by D. Wilson,,25,17
+1,2:50.0,Turnover by G. Hill (traveling),,25,17
+1,2:39.0,,I. Briscoe misses 2-pt jump shot from 10 ft,25,17
+1,2:35.0,Defensive rebound by E. İlyasova,,25,17
+1,2:28.0,M. Brogdon makes 2-pt jump shot from 16 ft (assist by S. Brown),,27,17
+1,2:16.0,,Turnover by T. Ross (lost ball; steal by G. Hill),27,17
+1,2:05.0,Turnover by M. Brogdon (out of bounds lost ball),,27,17
+1,2:05.0,T. Snell enters the game for S. Brown,,27,17
+1,1:57.0,,Personal foul by G. Hill (drawn by T. Ross),27,17
+1,1:52.0,,T. Ross misses 3-pt jump shot from 27 ft,27,17
+1,1:48.0,Defensive rebound by T. Snell,,27,17
+1,1:40.0,T. Snell misses 2-pt jump shot from 11 ft,,27,17
+1,1:39.0,,Defensive rebound by Team,27,17
+1,1:39.0,Loose ball foul by T. Snell (drawn by M. Bamba),,27,17
+1,1:39.0,,M. Bamba misses free throw 1 of 2,27,17
+1,1:39.0,,Offensive rebound by Team,27,17
+1,1:39.0,,M. Bamba makes free throw 2 of 2,27,18
+1,1:27.0,Turnover by D. Wilson (out of bounds lost ball),,27,18
+1,1:15.0,,Turnover by T. Ross (bad pass; steal by G. Hill),27,18
+1,1:08.0,T. Snell makes 3-pt jump shot from 26 ft (assist by G. Hill),,30,18
+1,0:55.0,,I. Briscoe misses 2-pt jump shot from 19 ft,30,18
+1,0:52.0,Defensive rebound by D. Wilson,,30,18
+1,0:45.0,D. Wilson makes 3-pt jump shot from 25 ft (assist by G. Hill),,33,18
+1,0:38.0,,T. Ross makes 3-pt jump shot from 25 ft (assist by I. Briscoe),33,21
+1,0:27.0,D. Wilson misses 3-pt jump shot from 25 ft,,33,21
+1,0:22.0,,Defensive rebound by W. Iwundu,33,21
+1,0:04.0,,J. Martin makes 3-pt jump shot from 25 ft (assist by I. Briscoe),33,24
+1,0:00.0,G. Hill misses 3-pt jump shot from 37 ft,,33,24
+1,0:00.0,Offensive rebound by Team,,33,24
+2,11:42.0,G. Hill misses 3-pt jump shot from 23 ft,,33,24
+2,11:40.0,,Defensive rebound by M. Bamba,33,24
+2,11:31.0,,Turnover by I. Briscoe (bad pass; steal by G. Antetokounmpo),33,24
+2,11:31.0,E. Bledsoe enters the game for G. Hill,,33,24
+2,11:19.0,E. Bledsoe makes 2-pt jump shot from 8 ft,,35,24
+2,11:00.0,,T. Ross makes 2-pt jump shot from 18 ft (assist by M. Bamba),35,26
+2,10:51.0,M. Brogdon misses 2-pt layup from 3 ft,,35,26
+2,10:49.0,,Defensive rebound by M. Bamba,35,26
+2,10:41.0,,E. Fournier misses 2-pt jump shot from 16 ft,35,26
+2,10:39.0,Defensive rebound by G. Antetokounmpo,,35,26
+2,10:32.0,T. Snell makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),,38,26
+2,10:15.0,,E. Fournier misses 2-pt jump shot from 15 ft,38,26
+2,10:13.0,,Offensive rebound by M. Bamba,38,26
+2,10:10.0,,Turnover by M. Bamba (lost ball; steal by E. İlyasova),38,26
+2,10:01.0,Turnover by G. Antetokounmpo (lost ball; steal by E. Fournier),,38,26
+2,9:53.0,,J. Martin makes 3-pt jump shot from 23 ft (assist by E. Fournier),38,29
+2,9:34.0,M. Brogdon misses 3-pt jump shot from 27 ft,,38,29
+2,9:30.0,,Defensive rebound by J. Martin,38,29
+2,9:24.0,,E. Fournier misses 2-pt jump shot from 18 ft,38,29
+2,9:21.0,Defensive rebound by G. Antetokounmpo,,38,29
+2,9:15.0,E. Bledsoe misses 3-pt jump shot from 23 ft,,38,29
+2,9:13.0,,Defensive rebound by J. Martin,38,29
+2,9:01.0,,T. Ross misses 3-pt jump shot from 26 ft,38,29
+2,8:57.0,Defensive rebound by G. Antetokounmpo,,38,29
+2,8:52.0,E. İlyasova makes 3-pt jump shot from 26 ft (assist by T. Snell),,41,29
+2,8:28.0,,J. Martin makes 3-pt jump shot from 25 ft (assist by E. Fournier),41,32
+2,8:10.0,E. Bledsoe makes 2-pt layup from 4 ft,,43,32
+2,7:50.0,,J. Martin misses 3-pt jump shot from 25 ft,43,32
+2,7:47.0,Defensive rebound by G. Antetokounmpo,,43,32
+2,7:43.0,M. Brogdon makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),,45,32
+2,7:43.0,,Orlando full timeout,45,32
+2,7:43.0,G. Hill enters the game for M. Brogdon,,45,32
+2,7:43.0,D. Wilson enters the game for E. İlyasova,,45,32
+2,7:43.0,,W. Iwundu enters the game for E. Fournier,45,32
+2,7:32.0,,Personal foul by G. Hill (drawn by T. Ross),45,32
+2,7:26.0,,Turnover by J. Martin (bad pass),45,32
+2,7:11.0,G. Antetokounmpo makes 2-pt jump shot from 10 ft,,47,32
+2,6:46.0,,I. Briscoe makes 2-pt layup from 3 ft,47,34
+2,6:24.0,G. Antetokounmpo misses 2-pt jump shot from 11 ft,,47,34
+2,6:22.0,,Defensive rebound by M. Bamba,47,34
+2,6:17.0,,J. Martin misses 2-pt layup from 3 ft (block by D. Wilson),47,34
+2,6:14.0,Defensive rebound by D. Wilson,,47,34
+2,6:01.0,Shooting foul by W. Iwundu (drawn by G. Antetokounmpo),,47,34
+2,6:01.0,G. Antetokounmpo makes free throw 1 of 2,,48,34
+2,6:01.0,B. Lopez enters the game for T. Snell,,48,34
+2,6:01.0,K. Middleton enters the game for D. Wilson,,48,34
+2,6:01.0,,D. Augustin enters the game for M. Bamba,48,34
+2,6:01.0,,J. Isaac enters the game for I. Briscoe,48,34
+2,6:01.0,,J. Simmons enters the game for J. Martin,48,34
+2,6:01.0,,N. Vučević enters the game for T. Ross,48,34
+2,6:01.0,G. Antetokounmpo misses free throw 2 of 2,,48,34
+2,5:59.0,,Defensive rebound by N. Vučević,48,34
+2,5:46.0,,D. Augustin misses 2-pt jump shot from 12 ft,48,34
+2,5:43.0,Defensive rebound by B. Lopez,,48,34
+2,5:38.0,B. Lopez misses 3-pt jump shot from 26 ft,,48,34
+2,5:34.0,,Defensive rebound by W. Iwundu,48,34
+2,5:34.0,D. Wilson enters the game for G. Antetokounmpo,,48,34
+2,5:24.0,,Personal foul by E. Bledsoe (drawn by D. Augustin),48,34
+2,5:17.0,,Turnover by J. Simmons (bad pass; steal by G. Hill),48,34
+2,5:11.0,D. Wilson misses 2-pt layup from 2 ft (block by N. Vučević),,48,34
+2,5:07.0,Offensive rebound by G. Hill,,48,34
+2,5:05.0,E. Bledsoe makes 3-pt jump shot from 26 ft (assist by G. Hill),,51,34
+2,4:41.0,,N. Vučević misses 2-pt jump shot from 15 ft,51,34
+2,4:36.0,Defensive rebound by K. Middleton,,51,34
+2,4:30.0,Shooting foul by J. Simmons (drawn by K. Middleton),,51,34
+2,4:30.0,K. Middleton makes free throw 1 of 2,,52,34
+2,4:30.0,S. Brown enters the game for E. Bledsoe,,52,34
+2,4:30.0,K. Middleton makes free throw 2 of 2,,53,34
+2,4:09.0,,J. Simmons misses 3-pt jump shot from 25 ft,53,34
+2,4:04.0,Defensive rebound by D. Wilson,,53,34
+2,3:54.0,K. Middleton misses 3-pt jump shot from 26 ft,,53,34
+2,3:49.0,,Defensive rebound by J. Simmons,53,34
+2,3:43.0,,N. Vučević misses 2-pt hook shot from 8 ft,53,34
+2,3:41.0,Defensive rebound by S. Brown,,53,34
+2,3:34.0,D. Wilson misses 2-pt jump shot from 13 ft,,53,34
+2,3:30.0,Offensive rebound by D. Wilson,,53,34
+2,3:22.0,B. Lopez misses 3-pt jump shot from 25 ft,,53,34
+2,3:19.0,,Defensive rebound by Team,53,34
+2,2:59.0,,J. Simmons makes 2-pt layup from 3 ft,53,36
+2,2:44.0,Turnover by G. Hill (bad pass),,53,36
+2,2:44.0,Milwaukee full timeout,,53,36
+2,2:44.0,,T. Ross enters the game for W. Iwundu,53,36
+2,2:26.0,,N. Vučević makes 2-pt dunk from 1 ft (assist by J. Simmons),53,38
+2,2:08.0,G. Hill makes 2-pt jump shot from 13 ft,,55,38
+2,1:50.0,,N. Vučević makes 3-pt jump shot from 26 ft (assist by J. Simmons),55,41
+2,1:31.0,K. Middleton makes 2-pt layup from 4 ft,,57,41
+2,1:13.0,,J. Simmons makes 3-pt jump shot from 24 ft (assist by D. Augustin),57,44
+2,0:54.0,D. Wilson makes 2-pt jump shot from 18 ft,,59,44
+2,0:38.0,,N. Vučević makes 2-pt layup from 3 ft,59,46
+2,0:30.0,K. Middleton misses 2-pt jump shot from 4 ft,,59,46
+2,0:30.0,,Defensive rebound by Team,59,46
+2,0:30.0,Loose ball foul by D. Wilson (drawn by J. Isaac),,59,46
+2,0:30.0,G. Antetokounmpo enters the game for G. Hill,,59,46
+2,0:30.0,M. Brogdon enters the game for D. Wilson,,59,46
+2,0:30.0,,J. Martin enters the game for J. Isaac,59,46
+2,0:07.0,,N. Vučević misses 2-pt layup from 4 ft (block by B. Lopez),59,46
+2,0:04.0,Defensive rebound by B. Lopez,,59,46
+2,0:02.0,M. Brogdon misses 3-pt jump shot from 26 ft,,59,46
+2,0:02.0,,Defensive rebound by T. Ross,59,46
+3,11:49.0,K. Middleton makes 2-pt jump shot from 17 ft,,61,46
+3,11:29.0,,J. Isaac makes 2-pt jump shot from 19 ft (assist by N. Vučević),61,48
+3,11:13.0,E. Bledsoe makes 2-pt layup from 3 ft (assist by K. Middleton),,63,48
+3,10:58.0,,N. Vučević makes 2-pt jump shot from 8 ft (assist by E. Fournier),63,50
+3,10:44.0,K. Middleton misses 2-pt jump shot from 17 ft,,63,50
+3,10:39.0,,Defensive rebound by D. Augustin,63,50
+3,10:34.0,,N. Vučević misses 2-pt jump shot from 12 ft,63,50
+3,10:31.0,Defensive rebound by G. Antetokounmpo,,63,50
+3,10:25.0,G. Antetokounmpo makes 2-pt layup from 3 ft,,65,50
+3,10:12.0,,N. Vučević misses 3-pt jump shot from 25 ft,65,50
+3,10:09.0,Defensive rebound by G. Antetokounmpo,,65,50
+3,9:55.0,Shooting foul by J. Simmons (drawn by E. Bledsoe),,65,50
+3,9:55.0,E. Bledsoe makes free throw 1 of 2,,66,50
+3,9:55.0,E. Bledsoe makes free throw 2 of 2,,67,50
+3,9:40.0,,E. Fournier makes 2-pt jump shot from 11 ft,67,52
+3,9:29.0,B. Lopez misses 3-pt jump shot from 27 ft,,67,52
+3,9:27.0,,Defensive rebound by J. Isaac,67,52
+3,9:16.0,,J. Simmons makes 2-pt jump shot from 8 ft,67,54
+3,9:00.0,G. Antetokounmpo makes 2-pt dunk from 1 ft,,69,54
+3,8:39.0,,J. Simmons makes 3-pt jump shot from 23 ft (assist by N. Vučević),69,57
+3,8:24.0,K. Middleton misses 2-pt layup from 3 ft (block by N. Vučević),,69,57
+3,8:23.0,Offensive rebound by Team,,69,57
+3,8:18.0,G. Antetokounmpo misses 3-pt jump shot from 26 ft,,69,57
+3,8:15.0,,Defensive rebound by J. Simmons,69,57
+3,8:07.0,,J. Simmons misses 2-pt layup from 3 ft,69,57
+3,8:06.0,Defensive rebound by G. Antetokounmpo,,69,57
+3,8:02.0,M. Brogdon makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),,71,57
+3,7:44.0,,N. Vučević misses 2-pt layup from 4 ft (block by B. Lopez),71,57
+3,7:44.0,,Offensive rebound by N. Vučević,71,57
+3,7:44.0,,Shooting foul by B. Lopez (drawn by N. Vučević),71,57
+3,7:44.0,,N. Vučević makes free throw 1 of 2,71,58
+3,7:44.0,S. Brown enters the game for M. Brogdon,,71,58
+3,7:44.0,,N. Vučević makes free throw 2 of 2,71,59
+3,7:35.0,B. Lopez makes 3-pt jump shot from 25 ft (assist by S. Brown),,74,59
+3,7:21.0,,E. Fournier makes 2-pt layup from 3 ft (assist by D. Augustin),74,61
+3,7:21.0,,Shooting foul by S. Brown (drawn by E. Fournier),74,61
+3,7:21.0,,E. Fournier makes free throw 1 of 1,74,62
+3,7:13.0,K. Middleton makes 2-pt jump shot from 9 ft,,76,62
+3,6:56.0,,J. Isaac misses 3-pt jump shot from 26 ft,76,62
+3,6:54.0,Defensive rebound by S. Brown,,76,62
+3,6:52.0,Turnover by S. Brown (bad pass),,76,62
+3,6:52.0,,Orlando full timeout,76,62
+3,6:33.0,,J. Simmons misses 3-pt jump shot from 24 ft,76,62
+3,6:31.0,Defensive rebound by K. Middleton,,76,62
+3,6:28.0,Turnover by G. Antetokounmpo (traveling),,76,62
+3,6:16.0,,E. Fournier misses 3-pt jump shot from 23 ft,76,62
+3,6:14.0,Defensive rebound by E. Bledsoe,,76,62
+3,6:14.0,Personal foul by E. Fournier (drawn by E. Bledsoe),,76,62
+3,6:02.0,B. Lopez makes 2-pt jump shot from 18 ft,,78,62
+3,5:42.0,,D. Augustin makes 3-pt jump shot from 25 ft (assist by J. Isaac),78,65
+3,5:26.0,G. Antetokounmpo misses 2-pt hook shot from 9 ft,,78,65
+3,5:23.0,,Defensive rebound by N. Vučević,78,65
+3,5:16.0,,D. Augustin makes 2-pt layup from 1 ft (assist by N. Vučević),78,67
+3,5:03.0,Personal foul by J. Simmons (drawn by K. Middleton),,78,67
+3,5:03.0,G. Hill enters the game for G. Antetokounmpo,,78,67
+3,5:03.0,D. Wilson enters the game for E. Bledsoe,,78,67
+3,5:03.0,,W. Iwundu enters the game for J. Simmons,78,67
+3,4:55.0,K. Middleton misses 3-pt jump shot from 27 ft,,78,67
+3,4:51.0,,Defensive rebound by J. Isaac,78,67
+3,4:44.0,,N. Vučević makes 3-pt jump shot from 25 ft (assist by D. Augustin),78,70
+3,4:43.0,Milwaukee full timeout,,78,70
+3,4:43.0,,T. Ross enters the game for E. Fournier,78,70
+3,4:33.0,K. Middleton makes 2-pt jump shot from 16 ft (assist by D. Wilson),,80,70
+3,4:17.0,,N. Vučević makes 2-pt layup from 4 ft (assist by D. Augustin),80,72
+3,4:17.0,,Shooting foul by D. Wilson (drawn by N. Vučević),80,72
+3,4:17.0,M. Brogdon enters the game for B. Lopez,,80,72
+3,4:17.0,E. İlyasova enters the game for K. Middleton,,80,72
+3,4:17.0,,N. Vučević makes free throw 1 of 1,80,73
+3,3:59.0,Turnover by M. Brogdon (traveling),,80,73
+3,3:59.0,,J. Martin enters the game for J. Isaac,80,73
+3,3:46.0,,J. Martin misses 2-pt jump shot from 16 ft,80,73
+3,3:42.0,Defensive rebound by M. Brogdon,,80,73
+3,3:26.0,M. Brogdon makes 2-pt layup from 2 ft,,82,73
+3,3:11.0,,T. Ross makes 2-pt jump shot from 20 ft (assist by J. Martin),82,75
+3,2:50.0,S. Brown misses 3-pt jump shot from 25 ft,,82,75
+3,2:47.0,,Defensive rebound by D. Augustin,82,75
+3,2:47.0,,M. Bamba enters the game for D. Augustin,82,75
+3,2:47.0,,I. Briscoe enters the game for N. Vučević,82,75
+3,2:34.0,,T. Ross misses 2-pt jump shot from 20 ft,82,75
+3,2:30.0,Defensive rebound by D. Wilson,,82,75
+3,2:15.0,M. Brogdon makes 2-pt layup from 2 ft,,84,75
+3,2:05.0,,T. Ross misses 3-pt jump shot from 26 ft,84,75
+3,2:02.0,,Offensive rebound by W. Iwundu,84,75
+3,1:52.0,,W. Iwundu misses 2-pt jump shot from 14 ft,84,75
+3,1:49.0,Defensive rebound by D. Wilson,,84,75
+3,1:34.0,Turnover by S. Brown (bad pass; steal by T. Ross),,84,75
+3,1:29.0,,T. Ross makes 2-pt layup from 2 ft,84,77
+3,1:10.0,G. Hill misses 2-pt jump shot from 10 ft,,84,77
+3,1:07.0,,Defensive rebound by I. Briscoe,84,77
+3,0:55.0,,T. Ross makes 2-pt jump shot from 9 ft,84,79
+3,0:37.0,D. Wilson makes 3-pt jump shot from 24 ft (assist by M. Brogdon),,87,79
+3,0:27.0,,T. Ross makes 3-pt jump shot from 27 ft (assist by J. Martin),87,82
+3,0:07.0,Personal foul by J. Martin (drawn by M. Brogdon),,87,82
+3,0:07.0,G. Antetokounmpo enters the game for S. Brown,,87,82
+3,0:07.0,T. Snell enters the game for D. Wilson,,87,82
+3,0:00.0,G. Antetokounmpo misses 2-pt jump shot from 9 ft,,87,82
+3,0:00.0,Offensive rebound by Team,,87,82
+4,11:45.0,,J. Martin makes 3-pt jump shot from 24 ft (assist by I. Briscoe),87,85
+4,11:17.0,T. Snell misses 2-pt jump shot from 12 ft,,87,85
+4,11:12.0,Offensive rebound by G. Antetokounmpo,,87,85
+4,11:12.0,G. Antetokounmpo makes 2-pt layup from 1 ft,,89,85
+4,11:03.0,,T. Ross misses 3-pt jump shot from 26 ft,89,85
+4,11:00.0,Defensive rebound by T. Snell,,89,85
+4,10:56.0,E. Bledsoe makes 3-pt jump shot from 26 ft (assist by E. İlyasova),,92,85
+4,10:36.0,,M. Bamba makes 2-pt dunk from 1 ft (assist by I. Briscoe),92,87
+4,10:20.0,E. Bledsoe makes 2-pt jump shot from 18 ft,,94,87
+4,10:04.0,,E. Fournier makes 2-pt jump shot from 11 ft,94,89
+4,9:51.0,Personal foul by J. Martin (drawn by E. Bledsoe),,94,89
+4,9:43.0,E. Bledsoe misses 2-pt jump shot from 13 ft,,94,89
+4,9:40.0,,Defensive rebound by M. Bamba,94,89
+4,9:31.0,,Turnover by E. Fournier (bad pass; steal by M. Brogdon),94,89
+4,9:27.0,M. Brogdon makes 2-pt layup from 3 ft,,96,89
+4,9:14.0,,T. Ross misses 2-pt jump shot from 20 ft,96,89
+4,9:12.0,Defensive rebound by E. Bledsoe,,96,89
+4,9:09.0,E. Bledsoe makes 2-pt layup from 2 ft,,98,89
+4,9:09.0,Shooting foul by J. Martin (drawn by E. Bledsoe),,98,89
+4,9:09.0,G. Hill enters the game for M. Brogdon,,98,89
+4,9:09.0,D. Wilson enters the game for E. İlyasova,,98,89
+4,9:09.0,E. Bledsoe makes free throw 1 of 1,,99,89
+4,9:06.0,,Orlando full timeout,99,89
+4,8:59.0,,M. Bamba makes 2-pt layup from 3 ft (assist by T. Ross),99,91
+4,8:59.0,,Shooting foul by D. Wilson (drawn by M. Bamba),99,91
+4,8:59.0,,M. Bamba misses free throw 1 of 1,99,91
+4,8:56.0,Defensive rebound by Team,,99,91
+4,8:44.0,D. Wilson misses 3-pt jump shot from 26 ft,,99,91
+4,8:41.0,Offensive rebound by G. Antetokounmpo,,99,91
+4,8:33.0,G. Antetokounmpo makes 2-pt jump shot from 13 ft,,101,91
+4,8:10.0,,I. Briscoe makes 3-pt jump shot from 23 ft (assist by E. Fournier),101,94
+4,7:50.0,Turnover by G. Antetokounmpo (bad pass; steal by T. Ross),,101,94
+4,7:45.0,,T. Ross misses 2-pt layup from 3 ft,101,94
+4,7:45.0,Defensive rebound by G. Hill,,101,94
+4,7:45.0,Personal foul by T. Ross (drawn by G. Hill),,101,94
+4,7:37.0,E. Bledsoe makes 2-pt jump shot from 18 ft,,103,94
+4,7:20.0,,E. Fournier misses 3-pt jump shot from 23 ft,103,94
+4,7:17.0,Defensive rebound by D. Wilson,,103,94
+4,7:17.0,K. Middleton enters the game for T. Snell,,103,94
+4,7:17.0,,J. Isaac enters the game for J. Martin,103,94
+4,6:57.0,K. Middleton misses 2-pt jump shot from 15 ft,,103,94
+4,6:53.0,,Defensive rebound by M. Bamba,103,94
+4,6:43.0,,M. Bamba misses 2-pt jump shot from 19 ft,103,94
+4,6:39.0,Defensive rebound by G. Antetokounmpo,,103,94
+4,6:38.0,Personal foul by E. Fournier (drawn by G. Antetokounmpo),,103,94
+4,6:30.0,G. Antetokounmpo misses 2-pt jump shot from 20 ft,,103,94
+4,6:27.0,,Defensive rebound by I. Briscoe,103,94
+4,6:21.0,,I. Briscoe makes 2-pt jump shot from 17 ft,103,96
+4,6:07.0,G. Antetokounmpo makes 3-pt jump shot from 26 ft (assist by D. Wilson),,106,96
+4,5:43.0,,E. Fournier misses 3-pt jump shot from 26 ft,106,96
+4,5:40.0,Defensive rebound by D. Wilson,,106,96
+4,5:29.0,G. Antetokounmpo misses 2-pt layup from 2 ft (block by M. Bamba),,106,96
+4,5:27.0,,Defensive rebound by Team,106,96
+4,5:27.0,M. Brogdon enters the game for G. Antetokounmpo,,106,96
+4,5:27.0,B. Lopez enters the game for E. Bledsoe,,106,96
+4,5:27.0,,D. Augustin enters the game for M. Bamba,106,96
+4,5:27.0,,N. Vučević enters the game for I. Briscoe,106,96
+4,5:13.0,,N. Vučević makes 2-pt jump shot from 18 ft (assist by T. Ross),106,98
+4,5:06.0,Milwaukee full timeout,,106,98
+4,4:54.0,B. Lopez misses 2-pt jump shot from 12 ft,,106,98
+4,4:51.0,,Defensive rebound by N. Vučević,106,98
+4,4:29.0,,D. Augustin makes 3-pt jump shot from 26 ft,106,101
+4,4:15.0,D. Wilson misses 3-pt jump shot from 27 ft,,106,101
+4,4:12.0,,Defensive rebound by N. Vučević,106,101
+4,3:59.0,,Shooting foul by G. Hill (drawn by D. Augustin),106,101
+4,3:59.0,,Offensive rebound by Team,106,101
+4,3:59.0,,D. Augustin misses free throw 1 of 2,106,101
+4,3:59.0,G. Antetokounmpo enters the game for D. Wilson,,106,101
+4,3:59.0,,D. Augustin makes free throw 2 of 2,106,102
+4,3:44.0,K. Middleton makes 3-pt jump shot from 27 ft,,109,102
+4,3:26.0,,J. Isaac misses 2-pt jump shot from 16 ft,109,102
+4,3:25.0,,Offensive rebound by Team,109,102
+4,3:25.0,Loose ball foul by G. Antetokounmpo (drawn by N. Vučević),,109,102
+4,3:25.0,,Orlando full timeout,109,102
+4,3:25.0,E. Bledsoe enters the game for G. Hill,,109,102
+4,3:16.0,,N. Vučević misses 2-pt hook shot from 8 ft,109,102
+4,3:14.0,Defensive rebound by G. Antetokounmpo,,109,102
+4,3:00.0,E. Bledsoe makes 2-pt jump shot from 12 ft (assist by K. Middleton),,111,102
+4,2:43.0,,E. Fournier misses 3-pt jump shot from 22 ft,111,102
+4,2:40.0,Defensive rebound by B. Lopez,,111,102
+4,2:31.0,M. Brogdon makes 2-pt layup from 2 ft (assist by K. Middleton),,113,102
+4,2:15.0,,D. Augustin makes 2-pt layup from 3 ft,113,104
+4,1:47.0,K. Middleton makes 2-pt jump shot from 11 ft (assist by B. Lopez),,115,104
+4,1:37.0,,N. Vučević misses 3-pt jump shot from 25 ft,115,104
+4,1:33.0,Defensive rebound by G. Antetokounmpo,,115,104
+4,1:24.0,Turnover by K. Middleton (bad pass),,115,104
+4,1:12.0,,T. Ross makes 2-pt dunk from 1 ft (assist by D. Augustin),115,106
+4,0:51.0,G. Antetokounmpo makes 2-pt layup from 2 ft,,117,106
+4,0:44.0,,Turnover by D. Augustin (bad pass; steal by G. Antetokounmpo),117,106
+4,0:40.0,Shooting foul by J. Isaac (drawn by G. Antetokounmpo),,117,106
+4,0:40.0,S. Brown enters the game for E. Bledsoe,,117,106
+4,0:40.0,G. Hill enters the game for M. Brogdon,,117,106
+4,0:40.0,T. Snell enters the game for B. Lopez,,117,106
+4,0:40.0,D. Wilson enters the game for K. Middleton,,117,106
+4,0:40.0,G. Antetokounmpo misses free throw 1 of 2,,117,106
+4,0:40.0,Offensive rebound by Team,,117,106
+4,0:40.0,G. Antetokounmpo makes free throw 2 of 2,,118,106
+4,0:32.0,,D. Augustin misses 3-pt jump shot from 26 ft,118,106
+4,0:29.0,,Offensive rebound by J. Isaac,118,106
+4,0:29.0,,J. Isaac makes 2-pt dunk at rim,118,108
+4,0:10.0,Turnover by G. Antetokounmpo (lost ball; steal by E. Fournier),,118,108
+4,0:10.0,,Personal foul by G. Antetokounmpo (drawn by E. Fournier),118,108

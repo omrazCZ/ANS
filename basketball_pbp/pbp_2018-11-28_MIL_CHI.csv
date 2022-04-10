@@ -1,0 +1,472 @@
+QUARTER,TIME_REMAINING,CHICAGO_ACTION,MILWAUKEE_ACTION,CHICAGO_SCORE,MILWAUKEE_SCORE
+1,11:41.0,,K. Middleton misses 3-pt jump shot from 27 ft,0,0
+1,11:38.0,Defensive rebound by W. Carter,,0,0
+1,11:26.0,Z. LaVine makes 2-pt jump shot from 17 ft,,2,0
+1,11:12.0,,B. Lopez misses 3-pt jump shot from 23 ft,2,0
+1,11:09.0,Defensive rebound by Z. LaVine,,2,0
+1,11:03.0,J. Parker makes 3-pt jump shot from 27 ft,,5,0
+1,10:48.0,,M. Brogdon makes 2-pt layup at rim,5,2
+1,10:30.0,Z. LaVine makes 3-pt jump shot from 28 ft (assist by J. Holiday),,8,2
+1,10:19.0,,Personal foul by J. Parker (drawn by G. Antetokounmpo),8,2
+1,10:08.0,,Shooting foul by W. Carter (drawn by E. Bledsoe),8,2
+1,10:08.0,,E. Bledsoe makes free throw 1 of 2,8,3
+1,10:08.0,,E. Bledsoe misses free throw 2 of 2,8,3
+1,10:05.0,Defensive rebound by W. Carter,,8,3
+1,9:48.0,R. Arcidiacono misses 3-pt jump shot from 26 ft,,8,3
+1,9:46.0,,Defensive rebound by K. Middleton,8,3
+1,9:37.0,,B. Lopez makes 2-pt layup from 2 ft,8,5
+1,9:28.0,W. Carter makes 2-pt jump shot from 19 ft (assist by R. Arcidiacono),,10,5
+1,9:17.0,,M. Brogdon misses 2-pt layup from 2 ft,10,5
+1,9:15.0,Defensive rebound by Z. LaVine,,10,5
+1,9:07.0,Z. LaVine makes 2-pt layup from 1 ft,,12,5
+1,9:04.0,,Milwaukee full timeout,12,5
+1,8:51.0,,Turnover by B. Lopez (bad pass; steal by R. Arcidiacono),12,5
+1,8:49.0,Shooting foul by B. Lopez (drawn by Z. LaVine),,12,5
+1,8:49.0,Z. LaVine makes free throw 1 of 2,,13,5
+1,8:49.0,Z. LaVine makes free throw 2 of 2,,14,5
+1,8:30.0,,G. Antetokounmpo makes 2-pt jump shot from 19 ft,14,7
+1,8:19.0,J. Parker makes 2-pt layup at rim (assist by J. Holiday),,16,7
+1,8:08.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by M. Brogdon),16,9
+1,7:56.0,Shooting foul by K. Middleton (drawn by J. Holiday),,16,9
+1,7:56.0,J. Holiday makes free throw 1 of 2,,17,9
+1,7:56.0,J. Holiday misses free throw 2 of 2,,17,9
+1,7:54.0,,Defensive rebound by G. Antetokounmpo,17,9
+1,7:40.0,,K. Middleton misses 2-pt jump shot from 19 ft (block by Z. LaVine),17,9
+1,7:36.0,Defensive rebound by J. Parker,,17,9
+1,7:36.0,,P. Connaughton enters the game for M. Brogdon,17,9
+1,7:33.0,J. Parker makes 3-pt jump shot from 26 ft (assist by R. Arcidiacono),,20,9
+1,7:17.0,,P. Connaughton misses 3-pt jump shot from 26 ft,20,9
+1,7:14.0,Defensive rebound by R. Arcidiacono,,20,9
+1,7:08.0,J. Parker misses 2-pt layup from 3 ft,,20,9
+1,7:05.0,,Defensive rebound by B. Lopez,20,9
+1,7:02.0,,Shooting foul by W. Carter (drawn by G. Antetokounmpo),20,9
+1,7:02.0,,G. Antetokounmpo makes free throw 1 of 2,20,10
+1,7:02.0,R. Lopez enters the game for W. Carter,,20,10
+1,7:02.0,,G. Antetokounmpo makes free throw 2 of 2,20,11
+1,6:35.0,Z. LaVine makes 2-pt jump shot from 21 ft (assist by R. Lopez),,22,11
+1,6:16.0,,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by K. Middleton),22,13
+1,5:57.0,Turnover by J. Holiday (bad pass; steal by E. Bledsoe),,22,13
+1,5:56.0,,E. Bledsoe makes 2-pt layup from 1 ft,22,15
+1,5:56.0,Chicago full timeout,,22,15
+1,5:56.0,,E. İlyasova enters the game for G. Antetokounmpo,22,15
+1,5:39.0,J. Parker misses 3-pt jump shot from 27 ft,,22,15
+1,5:35.0,,Defensive rebound by P. Connaughton,22,15
+1,5:28.0,,Turnover by E. İlyasova (bad pass; steal by R. Arcidiacono),22,15
+1,5:24.0,R. Arcidiacono misses 2-pt layup from 2 ft,,22,15
+1,5:18.0,,Defensive rebound by P. Connaughton,22,15
+1,5:15.0,,B. Lopez misses 3-pt jump shot from 24 ft,22,15
+1,5:11.0,,Offensive rebound by E. Bledsoe,22,15
+1,5:05.0,,K. Middleton makes 2-pt jump shot from 14 ft,22,17
+1,4:53.0,R. Arcidiacono makes 3-pt jump shot from 26 ft (assist by J. Parker),,25,17
+1,4:39.0,,B. Lopez misses 2-pt jump shot from 15 ft,25,17
+1,4:36.0,Defensive rebound by J. Parker,,25,17
+1,4:31.0,J. Holiday misses 3-pt jump shot from 24 ft,,25,17
+1,4:28.0,,Defensive rebound by E. Bledsoe,25,17
+1,4:23.0,,K. Middleton misses 3-pt jump shot from 27 ft,25,17
+1,4:19.0,Defensive rebound by R. Arcidiacono,,25,17
+1,4:08.0,R. Lopez makes 2-pt hook shot from 5 ft (assist by R. Arcidiacono),,27,17
+1,3:57.0,,K. Middleton makes 2-pt jump shot from 16 ft (assist by E. Bledsoe),27,19
+1,3:39.0,Shooting foul by E. İlyasova (drawn by J. Parker),,27,19
+1,3:39.0,J. Parker makes free throw 1 of 2,,28,19
+1,3:39.0,S. Harrison enters the game for Z. LaVine,,28,19
+1,3:39.0,,M. Brogdon enters the game for E. Bledsoe,28,19
+1,3:39.0,,T. Maker enters the game for B. Lopez,28,19
+1,3:39.0,,T. Snell enters the game for K. Middleton,28,19
+1,3:39.0,J. Parker makes free throw 2 of 2,,29,19
+1,3:21.0,,E. İlyasova makes 2-pt layup from 2 ft (assist by T. Maker),29,21
+1,3:03.0,Offensive foul by J. Holiday (drawn by E. İlyasova),,29,21
+1,3:03.0,Turnover by J. Holiday (offensive foul),,29,21
+1,3:03.0,C. Hutchison enters the game for J. Parker,,29,21
+1,2:50.0,,T. Maker misses 3-pt jump shot from 28 ft,29,21
+1,2:47.0,Defensive rebound by S. Harrison,,29,21
+1,2:35.0,R. Lopez makes 2-pt layup at rim,,31,21
+1,2:20.0,,E. İlyasova makes 2-pt layup from 1 ft (assist by P. Connaughton),31,23
+1,2:20.0,,Shooting foul by C. Hutchison (drawn by E. İlyasova),31,23
+1,2:20.0,,E. İlyasova makes free throw 1 of 1,31,24
+1,2:01.0,Shooting foul by M. Brogdon (drawn by S. Harrison),,31,24
+1,2:01.0,S. Harrison misses free throw 1 of 3,,31,24
+1,2:01.0,Offensive rebound by Team,,31,24
+1,2:01.0,S. Harrison makes free throw 2 of 3,,32,24
+1,2:01.0,,G. Antetokounmpo enters the game for T. Maker,32,24
+1,2:01.0,S. Harrison misses free throw 3 of 3,,32,24
+1,1:55.0,,Defensive rebound by G. Antetokounmpo,32,24
+1,1:49.0,,Turnover by P. Connaughton (bad pass; steal by J. Holiday),32,24
+1,1:44.0,J. Holiday makes 3-pt jump shot from 27 ft (assist by R. Arcidiacono),,35,24
+1,1:27.0,,M. Brogdon makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),35,26
+1,1:12.0,R. Lopez misses 2-pt hook shot from 5 ft,,35,26
+1,1:12.0,,Defensive rebound by E. İlyasova,35,26
+1,1:06.0,,M. Brogdon misses 2-pt hook shot from 2 ft,35,26
+1,1:05.0,Defensive rebound by R. Arcidiacono,,35,26
+1,1:05.0,Personal foul by G. Antetokounmpo (drawn by R. Arcidiacono),,35,26
+1,1:05.0,R. Arcidiacono makes free throw 1 of 2,,36,26
+1,1:05.0,R. Arcidiacono makes free throw 2 of 2,,37,26
+1,0:51.0,,G. Antetokounmpo makes 2-pt layup at rim (assist by M. Brogdon),37,28
+1,0:51.0,,Shooting foul by R. Lopez (drawn by M. Brogdon),37,28
+1,0:51.0,Technical foul by R. Lopez,,37,28
+1,0:51.0,,M. Brogdon makes technical free throw,37,29
+1,0:51.0,,G. Antetokounmpo makes free throw 1 of 1,37,30
+1,0:36.0,Personal foul by T. Snell (drawn by J. Holiday),,37,30
+1,0:36.0,J. Holiday makes free throw 1 of 2,,38,30
+1,0:36.0,J. Parker enters the game for R. Lopez,,38,30
+1,0:36.0,J. Holiday misses free throw 2 of 2,,38,30
+1,0:35.0,,Defensive rebound by E. İlyasova,38,30
+1,0:21.0,,E. İlyasova misses 3-pt jump shot from 27 ft,38,30
+1,0:20.0,Defensive rebound by Team,,38,30
+1,0:02.0,Shooting foul by P. Connaughton (drawn by S. Harrison),,38,30
+1,0:02.0,S. Harrison makes free throw 1 of 2,,39,30
+1,0:02.0,S. Harrison makes free throw 2 of 2,,40,30
+2,11:46.0,J. Parker makes 2-pt layup from 1 ft,,42,30
+2,11:22.0,,G. Antetokounmpo misses 3-pt jump shot from 27 ft,42,30
+2,11:22.0,Defensive rebound by Team,,42,30
+2,11:22.0,,Loose ball foul by T. Maker (drawn by C. Hutchison),42,30
+2,11:08.0,J. Parker misses 2-pt jump shot from 12 ft,,42,30
+2,11:04.0,Offensive rebound by R. Lopez,,42,30
+2,11:01.0,Turnover by J. Parker (bad pass; steal by D. DiVincenzo),,42,30
+2,10:56.0,,Turnover by M. Brogdon (lost ball; steal by S. Harrison),42,30
+2,10:45.0,Turnover by J. Parker (lost ball; steal by D. DiVincenzo),,42,30
+2,10:42.0,,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by D. DiVincenzo),42,32
+2,10:42.0,,Shooting foul by R. Lopez (drawn by G. Antetokounmpo),42,32
+2,10:42.0,,G. Antetokounmpo makes free throw 1 of 1,42,33
+2,10:23.0,Turnover by J. Parker (lost ball; steal by D. DiVincenzo),,42,33
+2,10:18.0,,G. Antetokounmpo misses 2-pt layup from 2 ft (block by C. Hutchison),42,33
+2,10:13.0,,Offensive rebound by G. Antetokounmpo,42,33
+2,10:12.0,,T. Snell makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),42,35
+2,10:12.0,,Technical foul by F. Hoiberg,42,35
+2,10:12.0,,M. Brogdon makes technical free throw,42,36
+2,10:12.0,Z. LaVine enters the game for C. Hutchison,,42,36
+2,9:51.0,R. Lopez makes 2-pt hook shot from 8 ft (assist by Z. LaVine),,44,36
+2,9:36.0,,G. Antetokounmpo makes 2-pt layup at rim,44,38
+2,9:25.0,J. Parker misses 2-pt layup from 4 ft (block by M. Brogdon),,44,38
+2,9:25.0,Offensive rebound by Team,,44,38
+2,9:25.0,W. Carter enters the game for R. Lopez,,44,38
+2,9:15.0,J. Parker misses 3-pt jump shot from 23 ft,,44,38
+2,9:13.0,,Defensive rebound by T. Maker,44,38
+2,9:05.0,,M. Brogdon makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),44,41
+2,9:05.0,Chicago full timeout,,44,41
+2,9:05.0,J. Holiday enters the game for S. Harrison,,44,41
+2,9:05.0,C. Hutchison enters the game for J. Parker,,44,41
+2,8:47.0,C. Hutchison misses 2-pt layup from 2 ft,,44,41
+2,8:45.0,,Defensive rebound by G. Antetokounmpo,44,41
+2,8:36.0,,T. Snell misses 2-pt layup from 3 ft,44,41
+2,8:33.0,Defensive rebound by W. Carter,,44,41
+2,8:18.0,C. Payne makes 2-pt jump shot from 5 ft (assist by J. Holiday),,46,41
+2,7:59.0,,G. Antetokounmpo makes 2-pt jump shot from 19 ft,46,43
+2,7:47.0,Z. LaVine misses 3-pt jump shot from 28 ft,,46,43
+2,7:44.0,,Defensive rebound by T. Snell,46,43
+2,7:40.0,,M. Brogdon makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),46,46
+2,7:12.0,C. Payne makes 2-pt jump shot from 11 ft,,48,46
+2,6:59.0,,D. DiVincenzo misses 3-pt jump shot from 28 ft,48,46
+2,6:56.0,Defensive rebound by C. Hutchison,,48,46
+2,6:47.0,C. Hutchison misses 3-pt jump shot from 24 ft,,48,46
+2,6:45.0,,Defensive rebound by M. Brogdon,48,46
+2,6:34.0,,G. Antetokounmpo misses 2-pt jump shot from 10 ft,48,46
+2,6:32.0,Defensive rebound by J. Holiday,,48,46
+2,6:25.0,C. Payne misses 3-pt jump shot from 27 ft,,48,46
+2,6:22.0,,Defensive rebound by G. Antetokounmpo,48,46
+2,6:18.0,,Milwaukee full timeout,48,46
+2,6:18.0,R. Arcidiacono enters the game for C. Hutchison,,48,46
+2,6:18.0,,E. Bledsoe enters the game for G. Antetokounmpo,48,46
+2,6:18.0,,E. İlyasova enters the game for M. Brogdon,48,46
+2,6:18.0,,B. Lopez enters the game for T. Maker,48,46
+2,6:18.0,,K. Middleton enters the game for T. Snell,48,46
+2,6:11.0,,Personal foul by C. Payne (drawn by D. DiVincenzo),48,46
+2,5:55.0,,B. Lopez makes 2-pt jump shot from 1 ft (assist by K. Middleton),48,48
+2,5:34.0,R. Arcidiacono misses 3-pt jump shot from 24 ft,,48,48
+2,5:31.0,,Defensive rebound by K. Middleton,48,48
+2,5:28.0,,E. İlyasova makes 2-pt layup from 1 ft (assist by K. Middleton),48,50
+2,5:16.0,Shooting foul by E. Bledsoe (drawn by Z. LaVine),,48,50
+2,5:16.0,Z. LaVine makes free throw 1 of 2,,49,50
+2,5:16.0,Z. LaVine makes free throw 2 of 2,,50,50
+2,5:02.0,,E. İlyasova misses 2-pt layup from 2 ft,50,50
+2,4:58.0,,Offensive rebound by E. İlyasova,50,50
+2,4:58.0,,E. İlyasova makes 2-pt layup from 1 ft,50,52
+2,4:43.0,Z. LaVine misses 2-pt layup from 4 ft,,50,52
+2,4:39.0,Offensive rebound by W. Carter,,50,52
+2,4:39.0,W. Carter misses 2-pt layup from 1 ft,,50,52
+2,4:39.0,Offensive rebound by W. Carter,,50,52
+2,4:39.0,Personal foul by D. DiVincenzo (drawn by W. Carter),,50,52
+2,4:39.0,,P. Connaughton enters the game for D. DiVincenzo,50,52
+2,4:24.0,Z. LaVine makes 2-pt layup from 1 ft,,52,52
+2,4:15.0,,Turnover by E. Bledsoe (bad pass; steal by J. Holiday),52,52
+2,4:06.0,W. Carter misses 2-pt jump shot from 10 ft (block by P. Connaughton),,52,52
+2,4:03.0,,Defensive rebound by E. Bledsoe,52,52
+2,4:01.0,,P. Connaughton makes 3-pt jump shot from 27 ft (assist by E. Bledsoe),52,55
+2,3:40.0,Z. LaVine makes 3-pt jump shot from 28 ft (assist by W. Carter),,55,55
+2,3:19.0,,K. Middleton makes 2-pt jump shot from 14 ft,55,57
+2,3:00.0,Z. LaVine misses 2-pt jump shot from 20 ft,,55,57
+2,2:58.0,,Defensive rebound by K. Middleton,55,57
+2,2:48.0,,P. Connaughton misses 2-pt layup at rim,55,57
+2,2:45.0,Defensive rebound by J. Holiday,,55,57
+2,2:41.0,Personal foul by E. Bledsoe (drawn by Z. LaVine),,55,57
+2,2:41.0,J. Parker enters the game for C. Payne,,55,57
+2,2:31.0,R. Arcidiacono makes 3-pt jump shot from 27 ft (assist by Z. LaVine),,58,57
+2,2:11.0,,K. Middleton makes 3-pt jump shot from 26 ft (assist by E. Bledsoe),58,60
+2,1:55.0,W. Carter misses 3-pt jump shot from 28 ft,,58,60
+2,1:51.0,,Defensive rebound by E. Bledsoe,58,60
+2,1:41.0,,B. Lopez misses 3-pt jump shot from 23 ft,58,60
+2,1:39.0,Defensive rebound by J. Holiday,,58,60
+2,1:22.0,R. Arcidiacono makes 2-pt layup from 1 ft,,60,60
+2,1:12.0,,Turnover by E. Bledsoe (bad pass; steal by R. Arcidiacono),60,60
+2,1:00.0,W. Carter makes 2-pt hook shot from 4 ft,,62,60
+2,1:00.0,,Milwaukee full timeout,62,60
+2,1:00.0,R. Lopez enters the game for W. Carter,,62,60
+2,1:00.0,,G. Antetokounmpo enters the game for E. Bledsoe,62,60
+2,1:00.0,,M. Brogdon enters the game for E. İlyasova,62,60
+2,0:46.0,,Def 3 sec tech foul by Team,62,60
+2,0:46.0,,K. Middleton makes technical free throw,62,61
+2,0:41.0,,G. Antetokounmpo makes 2-pt layup from 1 ft,62,63
+2,0:34.0,Z. LaVine misses 3-pt jump shot from 27 ft,,62,63
+2,0:30.0,,Defensive rebound by M. Brogdon,62,63
+2,0:20.0,,K. Middleton misses 3-pt jump shot from 28 ft,62,63
+2,0:18.0,Defensive rebound by R. Lopez,,62,63
+2,0:00.0,J. Parker misses 3-pt jump shot from 26 ft,,62,63
+2,0:00.0,Offensive rebound by Team,,62,63
+3,11:52.0,Personal foul by K. Middleton (drawn by J. Holiday),,62,63
+3,11:48.0,Personal foul by B. Lopez (drawn by W. Carter),,62,63
+3,11:41.0,J. Parker makes 2-pt jump shot from 16 ft,,64,63
+3,11:25.0,,B. Lopez makes 3-pt jump shot from 23 ft (assist by M. Brogdon),64,66
+3,11:17.0,J. Parker misses 2-pt jump shot from 20 ft,,64,66
+3,11:14.0,,Defensive rebound by E. Bledsoe,64,66
+3,11:07.0,,M. Brogdon misses 2-pt layup from 1 ft,64,66
+3,11:06.0,,Offensive rebound by G. Antetokounmpo,64,66
+3,11:06.0,,Shooting foul by J. Parker (drawn by G. Antetokounmpo),64,66
+3,11:06.0,,G. Antetokounmpo misses free throw 1 of 2,64,66
+3,11:06.0,,Offensive rebound by Team,64,66
+3,11:06.0,,G. Antetokounmpo makes free throw 2 of 2,64,67
+3,10:43.0,R. Arcidiacono misses 2-pt hook shot from 3 ft (block by B. Lopez),,64,67
+3,10:39.0,,Defensive rebound by B. Lopez,64,67
+3,10:36.0,,B. Lopez misses 3-pt jump shot from 28 ft,64,67
+3,10:34.0,Defensive rebound by Z. LaVine,,64,67
+3,10:25.0,W. Carter misses 2-pt jump shot from 6 ft,,64,67
+3,10:24.0,Offensive rebound by J. Parker,,64,67
+3,10:23.0,J. Parker makes 2-pt hook shot from 4 ft,,66,67
+3,10:05.0,,G. Antetokounmpo misses 2-pt jump shot from 4 ft,66,67
+3,10:05.0,Defensive rebound by Z. LaVine,,66,67
+3,9:59.0,J. Holiday misses 3-pt jump shot from 28 ft,,66,67
+3,9:55.0,,Defensive rebound by G. Antetokounmpo,66,67
+3,9:53.0,,Turnover by G. Antetokounmpo (bad pass),66,67
+3,9:42.0,Z. LaVine misses 2-pt layup from 6 ft,,66,67
+3,9:40.0,,Defensive rebound by G. Antetokounmpo,66,67
+3,9:36.0,,M. Brogdon makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),66,70
+3,9:21.0,J. Holiday makes 3-pt jump shot from 27 ft (assist by J. Parker),,69,70
+3,9:00.0,,M. Brogdon makes 3-pt jump shot from 24 ft (assist by B. Lopez),69,73
+3,8:49.0,Shooting foul by M. Brogdon (drawn by R. Arcidiacono),,69,73
+3,8:49.0,R. Arcidiacono makes free throw 1 of 3,,70,73
+3,8:49.0,R. Arcidiacono makes free throw 2 of 3,,71,73
+3,8:49.0,R. Arcidiacono makes free throw 3 of 3,,72,73
+3,8:32.0,,Shooting foul by J. Parker (drawn by G. Antetokounmpo),72,73
+3,8:32.0,,G. Antetokounmpo makes free throw 1 of 2,72,74
+3,8:32.0,,G. Antetokounmpo misses free throw 2 of 2,72,74
+3,8:29.0,Defensive rebound by J. Holiday,,72,74
+3,8:10.0,W. Carter misses 2-pt jump shot from 15 ft,,72,74
+3,8:07.0,Offensive rebound by J. Holiday,,72,74
+3,8:06.0,J. Holiday misses 3-pt jump shot from 23 ft,,72,74
+3,8:03.0,,Defensive rebound by K. Middleton,72,74
+3,7:59.0,,K. Middleton misses 2-pt layup from 3 ft,72,74
+3,7:56.0,Defensive rebound by J. Parker,,72,74
+3,7:53.0,J. Holiday misses 3-pt jump shot from 27 ft,,72,74
+3,7:48.0,,Defensive rebound by M. Brogdon,72,74
+3,7:40.0,,B. Lopez makes 3-pt jump shot from 29 ft (assist by G. Antetokounmpo),72,77
+3,7:40.0,Chicago full timeout,,72,77
+3,7:40.0,,P. Connaughton enters the game for M. Brogdon,72,77
+3,7:28.0,Z. LaVine makes 2-pt dunk at rim (assist by J. Parker),,74,77
+3,7:18.0,,B. Lopez misses 3-pt jump shot from 26 ft,74,77
+3,7:15.0,Defensive rebound by J. Parker,,74,77
+3,7:00.0,J. Parker makes 2-pt jump shot from 17 ft (assist by W. Carter),,76,77
+3,6:45.0,,G. Antetokounmpo misses 3-pt jump shot from 28 ft,76,77
+3,6:45.0,Defensive rebound by Z. LaVine,,76,77
+3,6:37.0,R. Arcidiacono makes 3-pt jump shot from 23 ft (assist by W. Carter),,79,77
+3,6:15.0,,K. Middleton makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),79,80
+3,6:03.0,R. Arcidiacono makes 3-pt jump shot from 24 ft (assist by J. Parker),,82,80
+3,5:39.0,,Turnover by G. Antetokounmpo (lost ball; steal by R. Arcidiacono),82,80
+3,5:35.0,J. Holiday misses 3-pt jump shot from 27 ft,,82,80
+3,5:31.0,Offensive rebound by J. Parker,,82,80
+3,5:22.0,Z. LaVine misses 3-pt jump shot from 23 ft,,82,80
+3,5:19.0,,Defensive rebound by K. Middleton,82,80
+3,5:04.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by B. Lopez),82,82
+3,4:56.0,Z. LaVine misses 2-pt jump shot from 3 ft (block by E. Bledsoe),,82,82
+3,4:54.0,,Defensive rebound by P. Connaughton,82,82
+3,4:54.0,,Personal take foul by J. Holiday (drawn by K. Middleton),82,82
+3,4:54.0,S. Harrison enters the game for Z. LaVine,,82,82
+3,4:54.0,,E. İlyasova enters the game for G. Antetokounmpo,82,82
+3,4:49.0,,Personal foul by W. Carter (drawn by K. Middleton),82,82
+3,4:42.0,,Personal foul by J. Parker (drawn by K. Middleton),82,82
+3,4:42.0,,K. Middleton makes free throw 1 of 2,82,83
+3,4:42.0,C. Hutchison enters the game for W. Carter,,82,83
+3,4:42.0,R. Lopez enters the game for J. Parker,,82,83
+3,4:42.0,,T. Maker enters the game for B. Lopez,82,83
+3,4:42.0,,K. Middleton misses free throw 2 of 2,82,83
+3,4:38.0,Defensive rebound by R. Lopez,,82,83
+3,4:30.0,J. Holiday misses 3-pt jump shot from 27 ft,,82,83
+3,4:27.0,,Defensive rebound by E. İlyasova,82,83
+3,4:22.0,,K. Middleton misses 2-pt layup from 3 ft,82,83
+3,4:22.0,Defensive rebound by Team,,82,83
+3,4:22.0,,Loose ball foul by T. Maker (drawn by R. Lopez),82,83
+3,4:22.0,,M. Brogdon enters the game for E. Bledsoe,82,83
+3,4:03.0,R. Arcidiacono misses 3-pt jump shot from 27 ft,,82,83
+3,4:00.0,,Defensive rebound by T. Maker,82,83
+3,3:50.0,,K. Middleton misses 2-pt jump shot from 16 ft,82,83
+3,3:48.0,Defensive rebound by R. Arcidiacono,,82,83
+3,3:38.0,S. Harrison misses 3-pt jump shot from 26 ft,,82,83
+3,3:33.0,Offensive rebound by C. Hutchison,,82,83
+3,3:33.0,,T. Snell enters the game for K. Middleton,82,83
+3,3:21.0,J. Holiday misses 3-pt jump shot from 30 ft,,82,83
+3,3:17.0,,Defensive rebound by E. İlyasova,82,83
+3,3:10.0,,P. Connaughton makes 2-pt dunk from 2 ft (assist by M. Brogdon),82,85
+3,2:53.0,Turnover by S. Harrison (traveling),,82,85
+3,2:53.0,,Milwaukee full timeout,82,85
+3,2:53.0,Z. LaVine enters the game for R. Arcidiacono,,82,85
+3,2:40.0,,Turnover by M. Brogdon (bad pass; steal by C. Hutchison),82,85
+3,2:34.0,C. Hutchison makes 2-pt dunk from 1 ft,,84,85
+3,2:26.0,,M. Brogdon makes 3-pt jump shot from 26 ft (assist by P. Connaughton),84,88
+3,2:09.0,R. Lopez makes 2-pt jump shot from 10 ft (assist by Z. LaVine),,86,88
+3,2:09.0,Shooting foul by M. Brogdon (drawn by R. Lopez),,86,88
+3,2:09.0,R. Lopez makes free throw 1 of 1,,87,88
+3,1:43.0,,T. Snell misses 2-pt hook shot from 6 ft,87,88
+3,1:40.0,Defensive rebound by R. Lopez,,87,88
+3,1:21.0,S. Harrison misses 3-pt jump shot from 28 ft (block by P. Connaughton),,87,88
+3,1:18.0,,Defensive rebound by P. Connaughton,87,88
+3,1:18.0,,P. Connaughton makes 2-pt dunk from 1 ft,87,90
+3,0:56.0,Z. LaVine misses 2-pt jump shot from 19 ft,,87,90
+3,0:52.0,,Defensive rebound by T. Maker,87,90
+3,0:46.0,,T. Snell misses 2-pt jump shot from 20 ft,87,90
+3,0:44.0,Defensive rebound by Z. LaVine,,87,90
+3,0:39.0,Z. LaVine misses 2-pt layup from 1 ft (block by T. Maker),,87,90
+3,0:39.0,Offensive rebound by Team,,87,90
+3,0:39.0,,G. Antetokounmpo enters the game for T. Maker,87,90
+3,0:33.0,Shooting foul by M. Brogdon (drawn by Z. LaVine),,87,90
+3,0:33.0,Z. LaVine makes free throw 1 of 2,,88,90
+3,0:33.0,C. Payne enters the game for R. Lopez,,88,90
+3,0:33.0,,D. DiVincenzo enters the game for M. Brogdon,88,90
+3,0:33.0,Z. LaVine makes free throw 2 of 2,,89,90
+3,0:25.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft,89,92
+3,0:07.0,Offensive foul by Z. LaVine (drawn by E. İlyasova),,89,92
+3,0:07.0,Turnover by Z. LaVine (offensive foul),,89,92
+3,0:00.0,,G. Antetokounmpo misses 2-pt layup from 1 ft,89,92
+3,0:00.0,Defensive rebound by Z. LaVine,,89,92
+4,11:42.0,,B. Lopez misses 3-pt jump shot from 24 ft,89,92
+4,11:39.0,Defensive rebound by C. Hutchison,,89,92
+4,11:24.0,W. Carter misses 2-pt hook shot from 7 ft,,89,92
+4,11:21.0,,Defensive rebound by G. Antetokounmpo,89,92
+4,11:16.0,,T. Snell misses 3-pt jump shot from 27 ft,89,92
+4,11:13.0,Defensive rebound by W. Carter,,89,92
+4,11:07.0,J. Parker misses 3-pt jump shot from 28 ft,,89,92
+4,11:03.0,,Defensive rebound by G. Antetokounmpo,89,92
+4,10:56.0,,D. DiVincenzo misses 3-pt jump shot from 25 ft,89,92
+4,10:56.0,Defensive rebound by Team,,89,92
+4,10:56.0,,Loose ball foul by D. DiVincenzo (drawn by J. Parker),89,92
+4,10:40.0,W. Carter makes 2-pt jump shot from 18 ft (assist by C. Payne),,91,92
+4,10:28.0,,Personal foul by W. Carter (drawn by B. Lopez),91,92
+4,10:28.0,R. Arcidiacono enters the game for Z. LaVine,,91,92
+4,10:19.0,,G. Antetokounmpo makes 2-pt jump shot from 7 ft,91,94
+4,10:15.0,Shooting foul by G. Antetokounmpo (drawn by J. Parker),,91,94
+4,10:15.0,J. Parker misses free throw 1 of 2,,91,94
+4,10:15.0,Offensive rebound by Team,,91,94
+4,10:15.0,J. Parker makes free throw 2 of 2,,92,94
+4,9:52.0,,E. Bledsoe makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),92,96
+4,9:45.0,Personal foul by B. Lopez (drawn by W. Carter),,92,96
+4,9:40.0,Turnover by R. Arcidiacono (bad pass; steal by G. Antetokounmpo),,92,96
+4,9:40.0,,Personal take foul by R. Arcidiacono (drawn by G. Antetokounmpo),92,96
+4,9:19.0,,T. Snell misses 3-pt jump shot from 25 ft,92,96
+4,9:16.0,Defensive rebound by W. Carter,,92,96
+4,9:11.0,Turnover by C. Payne (bad pass; steal by G. Antetokounmpo),,92,96
+4,9:11.0,,Personal foul by W. Carter (drawn by G. Antetokounmpo),92,96
+4,9:11.0,R. Lopez enters the game for W. Carter,,92,96
+4,9:00.0,,T. Snell makes 2-pt dunk from 1 ft (assist by E. Bledsoe),92,98
+4,8:37.0,J. Parker misses 2-pt jump shot from 16 ft,,92,98
+4,8:30.0,Offensive rebound by R. Lopez,,92,98
+4,8:23.0,C. Payne makes 2-pt layup from 2 ft (assist by C. Hutchison),,94,98
+4,8:23.0,Shooting foul by T. Snell (drawn by C. Payne),,94,98
+4,8:23.0,C. Payne makes free throw 1 of 1,,95,98
+4,8:03.0,,Turnover by G. Antetokounmpo (bad pass),95,98
+4,7:54.0,Offensive foul by R. Lopez (drawn by D. DiVincenzo),,95,98
+4,7:54.0,Turnover by R. Lopez (offensive foul),,95,98
+4,7:54.0,J. Holiday enters the game for C. Hutchison,,95,98
+4,7:54.0,,K. Middleton enters the game for T. Snell,95,98
+4,7:42.0,,E. Bledsoe misses 2-pt jump shot from 18 ft,95,98
+4,7:40.0,,Offensive rebound by D. DiVincenzo,95,98
+4,7:34.0,,Shooting foul by C. Payne (drawn by E. Bledsoe),95,98
+4,7:34.0,,E. Bledsoe makes free throw 1 of 2,95,99
+4,7:34.0,,E. Bledsoe makes free throw 2 of 2,95,100
+4,7:24.0,J. Parker misses 2-pt jump shot from 5 ft (block by G. Antetokounmpo),,95,100
+4,7:19.0,Offensive rebound by J. Holiday,,95,100
+4,7:17.0,J. Parker makes 2-pt jump shot from 21 ft (assist by J. Holiday),,97,100
+4,7:04.0,,G. Antetokounmpo misses 3-pt jump shot from 27 ft,97,100
+4,7:02.0,Defensive rebound by R. Arcidiacono,,97,100
+4,6:59.0,Personal foul by D. DiVincenzo (drawn by J. Parker),,97,100
+4,6:59.0,J. Parker misses free throw 1 of 2,,97,100
+4,6:59.0,Offensive rebound by Team,,97,100
+4,6:59.0,,E. İlyasova enters the game for G. Antetokounmpo,97,100
+4,6:59.0,J. Parker makes free throw 2 of 2,,98,100
+4,6:44.0,,D. DiVincenzo misses 3-pt jump shot from 27 ft,98,100
+4,6:42.0,Defensive rebound by C. Payne,,98,100
+4,6:34.0,R. Lopez makes 2-pt dunk from 1 ft (assist by C. Payne),,100,100
+4,6:23.0,,Shooting foul by J. Parker (drawn by B. Lopez),100,100
+4,6:23.0,,Milwaukee full timeout,100,100
+4,6:23.0,Z. LaVine enters the game for J. Parker,,100,100
+4,6:23.0,,G. Antetokounmpo enters the game for E. Bledsoe,100,100
+4,6:23.0,,M. Brogdon enters the game for D. DiVincenzo,100,100
+4,6:23.0,,P. Connaughton enters the game for E. İlyasova,100,100
+4,6:23.0,,B. Lopez makes free throw 1 of 2,100,101
+4,6:23.0,,B. Lopez makes free throw 2 of 2,100,102
+4,6:07.0,R. Lopez makes 2-pt hook shot from 6 ft (assist by Z. LaVine),,102,102
+4,5:55.0,,M. Brogdon makes 3-pt jump shot from 27 ft (assist by P. Connaughton),102,105
+4,5:33.0,R. Lopez misses 3-pt jump shot from 26 ft,,102,105
+4,5:29.0,,Defensive rebound by M. Brogdon,102,105
+4,5:20.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft,102,107
+4,5:18.0,Chicago full timeout,,102,107
+4,5:18.0,J. Parker enters the game for C. Payne,,102,107
+4,5:18.0,,E. İlyasova enters the game for B. Lopez,102,107
+4,5:02.0,R. Arcidiacono makes 3-pt jump shot from 23 ft (assist by R. Lopez),,105,107
+4,4:42.0,,Turnover by G. Antetokounmpo (bad pass; steal by R. Arcidiacono),105,107
+4,4:27.0,Z. LaVine misses 3-pt jump shot from 23 ft,,105,107
+4,4:24.0,,Defensive rebound by K. Middleton,105,107
+4,4:18.0,Violation by Team (kicked ball),,105,107
+4,4:13.0,,Shooting foul by R. Lopez (drawn by G. Antetokounmpo),105,107
+4,4:13.0,,G. Antetokounmpo misses free throw 1 of 2,105,107
+4,4:13.0,,Offensive rebound by Team,105,107
+4,4:13.0,,G. Antetokounmpo misses free throw 2 of 2,105,107
+4,4:10.0,Defensive rebound by J. Parker,,105,107
+4,3:59.0,R. Lopez makes 2-pt jump shot from 2 ft (assist by Z. LaVine),,107,107
+4,3:42.0,,Turnover by E. İlyasova (traveling),107,107
+4,3:31.0,Offensive foul by R. Lopez (drawn by M. Brogdon),,107,107
+4,3:31.0,Turnover by R. Lopez (offensive foul),,107,107
+4,3:19.0,,P. Connaughton misses 3-pt jump shot from 25 ft,107,107
+4,3:17.0,Defensive rebound by J. Parker,,107,107
+4,3:02.0,R. Lopez makes 2-pt hook shot from 6 ft (assist by Z. LaVine),,109,107
+4,2:45.0,,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by K. Middleton),109,109
+4,2:24.0,J. Parker misses 2-pt layup from 7 ft,,109,109
+4,2:21.0,,Defensive rebound by E. İlyasova,109,109
+4,2:02.0,,P. Connaughton misses 3-pt jump shot from 24 ft,109,109
+4,1:59.0,Defensive rebound by Z. LaVine,,109,109
+4,1:48.0,J. Parker makes 2-pt dunk from 1 ft (assist by Z. LaVine),,111,109
+4,1:48.0,Shooting foul by K. Middleton (drawn by J. Parker),,111,109
+4,1:48.0,,E. Bledsoe enters the game for P. Connaughton,111,109
+4,1:48.0,,B. Lopez enters the game for E. İlyasova,111,109
+4,1:48.0,J. Parker misses free throw 1 of 1,,111,109
+4,1:48.0,,Defensive rebound by B. Lopez,111,109
+4,1:34.0,,G. Antetokounmpo makes 2-pt dunk from 3 ft (assist by M. Brogdon),111,111
+4,1:18.0,R. Arcidiacono misses 3-pt jump shot from 26 ft,,111,111
+4,1:15.0,,Defensive rebound by G. Antetokounmpo,111,111
+4,1:03.0,,B. Lopez misses 3-pt jump shot from 23 ft,111,111
+4,1:01.0,Defensive rebound by Z. LaVine,,111,111
+4,0:50.0,J. Parker misses 2-pt layup from 1 ft (block by B. Lopez),,111,111
+4,0:49.0,,Defensive rebound by Team,111,111
+4,0:49.0,W. Carter enters the game for R. Lopez,,111,111
+4,0:36.0,,Personal foul by W. Carter (drawn by G. Antetokounmpo),111,111
+4,0:36.0,R. Lopez enters the game for W. Carter,,111,111
+4,0:36.0,,G. Antetokounmpo makes free throw 1 of 2,111,112
+4,0:36.0,,G. Antetokounmpo makes free throw 2 of 2,111,113
+4,0:36.0,Chicago full timeout,,111,113
+4,0:33.0,Z. LaVine makes 2-pt layup from 1 ft (assist by J. Parker),,113,113
+4,0:11.0,,B. Lopez misses 2-pt layup from 2 ft,113,113
+4,0:10.0,,Offensive rebound by B. Lopez,113,113
+4,0:09.0,,B. Lopez misses 2-pt layup from 3 ft (block by R. Lopez),113,113
+4,0:09.0,,Offensive rebound by B. Lopez,113,113
+4,0:08.0,,B. Lopez misses 2-pt layup from 1 ft,113,113
+4,0:07.0,,Offensive rebound by E. Bledsoe,113,113
+4,0:05.0,,K. Middleton makes 3-pt jump shot from 25 ft (assist by M. Brogdon),113,116
+4,0:05.0,Chicago full timeout,,113,116
+4,0:05.0,,E. İlyasova enters the game for B. Lopez,113,116
+4,0:01.0,J. Holiday misses 3-pt jump shot from 26 ft,,113,116
+4,0:01.0,,Defensive rebound by M. Brogdon,113,116

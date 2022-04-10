@@ -1,0 +1,441 @@
+QUARTER,TIME_REMAINING,MIAMI_ACTION,MEMPHIS_ACTION,MIAMI_SCORE,MEMPHIS_SCORE
+1,11:42.0,J. Richardson misses 3-pt jump shot from 26 ft,,0,0
+1,11:38.0,,Defensive rebound by J. Jackson,0,0
+1,11:20.0,,K. Anderson makes 2-pt layup from 1 ft,0,2
+1,11:02.0,J. Johnson makes 2-pt layup at rim (assist by R. McGruder),,2,2
+1,10:54.0,,Shooting foul by J. Johnson (drawn by J. Jackson),2,2
+1,10:54.0,,J. Jackson makes free throw 1 of 2,2,3
+1,10:54.0,,J. Jackson makes free throw 2 of 2,2,4
+1,10:41.0,H. Whiteside misses 3-pt jump shot from 23 ft,,2,4
+1,10:38.0,Offensive rebound by Team,,2,4
+1,10:33.0,H. Whiteside misses 2-pt hook shot from 6 ft,,2,4
+1,10:29.0,,Defensive rebound by J. Jackson,2,4
+1,10:22.0,,M. Gasol makes 2-pt jump shot from 13 ft,2,6
+1,10:09.0,J. Winslow makes 3-pt jump shot from 25 ft (assist by J. Richardson),,5,6
+1,9:52.0,,M. Conley makes 2-pt jump shot from 9 ft,5,8
+1,9:38.0,Turnover by J. Johnson (bad pass; steal by J. Jackson),,5,8
+1,9:33.0,,K. Anderson makes 2-pt layup from 1 ft,5,10
+1,9:06.0,H. Whiteside makes 2-pt dunk at rim (assist by R. McGruder),,7,10
+1,8:40.0,,J. Jackson makes 2-pt jump shot from 7 ft,7,12
+1,8:24.0,J. Winslow misses 2-pt layup from 3 ft,,7,12
+1,8:21.0,,Defensive rebound by M. Gasol,7,12
+1,8:07.0,,J. Jackson makes 2-pt layup from 1 ft (assist by M. Conley),7,14
+1,7:52.0,R. McGruder misses 3-pt jump shot from 27 ft,,7,14
+1,7:49.0,,Defensive rebound by K. Anderson,7,14
+1,7:47.0,,Shooting foul by R. McGruder (drawn by G. Temple),7,14
+1,7:47.0,,G. Temple misses free throw 1 of 2,7,14
+1,7:47.0,,Offensive rebound by Team,7,14
+1,7:47.0,,S. Mack enters the game for M. Conley,7,14
+1,7:47.0,,G. Temple makes free throw 2 of 2,7,15
+1,7:43.0,Miami full timeout,,7,15
+1,7:27.0,R. McGruder misses 3-pt jump shot from 23 ft,,7,15
+1,7:23.0,Offensive rebound by H. Whiteside,,7,15
+1,7:23.0,Personal foul by S. Mack (drawn by H. Whiteside),,7,15
+1,7:17.0,R. McGruder makes 2-pt layup from 1 ft (assist by H. Whiteside),,9,15
+1,7:04.0,,Turnover by K. Anderson (bad pass; steal by J. Richardson),9,15
+1,6:59.0,R. McGruder misses 2-pt layup from 2 ft (block by K. Anderson),,9,15
+1,6:52.0,Offensive rebound by J. Winslow,,9,15
+1,6:51.0,J. Johnson makes 3-pt jump shot from 26 ft (assist by J. Winslow),,12,15
+1,6:45.0,,Memphis full timeout,12,15
+1,6:39.0,,Shooting foul by J. Winslow (drawn by K. Anderson),12,15
+1,6:39.0,,K. Anderson makes free throw 1 of 2,12,16
+1,6:39.0,,K. Anderson makes free throw 2 of 2,12,17
+1,6:31.0,Turnover by J. Winslow (out of bounds lost ball),,12,17
+1,6:31.0,T. Johnson enters the game for J. Winslow,,12,17
+1,6:31.0,,J. Green enters the game for J. Jackson,12,17
+1,6:19.0,,G. Temple misses 3-pt jump shot from 25 ft,12,17
+1,6:17.0,Defensive rebound by Team,,12,17
+1,6:03.0,T. Johnson makes 3-pt jump shot from 26 ft (assist by J. Richardson),,15,17
+1,5:41.0,,J. Green makes 3-pt jump shot from 25 ft (assist by S. Mack),15,20
+1,5:21.0,Shooting foul by K. Anderson (drawn by R. McGruder),,15,20
+1,5:21.0,R. McGruder makes free throw 1 of 3,,16,20
+1,5:21.0,R. McGruder makes free throw 2 of 3,,17,20
+1,5:21.0,,M. Brooks enters the game for K. Anderson,17,20
+1,5:21.0,R. McGruder makes free throw 3 of 3,,18,20
+1,5:13.0,,S. Mack misses 2-pt jump shot from 12 ft,18,20
+1,5:11.0,,Offensive rebound by S. Mack,18,20
+1,5:09.0,,J. Green misses 3-pt jump shot from 25 ft,18,20
+1,5:05.0,Defensive rebound by H. Whiteside,,18,20
+1,4:51.0,J. Johnson misses 3-pt jump shot from 26 ft,,18,20
+1,4:48.0,Offensive rebound by R. McGruder,,18,20
+1,4:45.0,Turnover by R. McGruder (out of bounds lost ball),,18,20
+1,4:30.0,,M. Gasol misses 2-pt jump shot from 20 ft,18,20
+1,4:26.0,Defensive rebound by T. Johnson,,18,20
+1,4:20.0,Shooting foul by S. Mack (drawn by T. Johnson),,18,20
+1,4:20.0,T. Johnson misses free throw 1 of 2,,18,20
+1,4:20.0,Offensive rebound by Team,,18,20
+1,4:20.0,B. Adebayo enters the game for J. Johnson,,18,20
+1,4:20.0,K. Olynyk enters the game for H. Whiteside,,18,20
+1,4:20.0,,M. Conley enters the game for S. Mack,18,20
+1,4:20.0,,W. Selden enters the game for G. Temple,18,20
+1,4:20.0,T. Johnson makes free throw 2 of 2,,19,20
+1,4:00.0,,Personal foul by T. Johnson (drawn by M. Gasol),19,20
+1,3:52.0,,W. Selden misses 2-pt jump shot from 15 ft,19,20
+1,3:49.0,,Offensive rebound by Team,19,20
+1,3:38.0,,M. Gasol makes 2-pt dunk at rim (assist by M. Conley),19,22
+1,3:21.0,Personal foul by J. Green (drawn by K. Olynyk),,19,22
+1,3:16.0,J. Richardson makes 3-pt jump shot from 27 ft (assist by B. Adebayo),,22,22
+1,2:54.0,,M. Gasol misses 2-pt layup from 1 ft,22,22
+1,2:49.0,,Offensive rebound by J. Green,22,22
+1,2:49.0,,J. Green makes 2-pt dunk at rim,22,24
+1,2:37.0,Personal foul by W. Selden (drawn by J. Richardson),,22,24
+1,2:37.0,J. Richardson makes free throw 1 of 2,,23,24
+1,2:37.0,D. Jones enters the game for R. McGruder,,23,24
+1,2:37.0,,J. Jackson enters the game for M. Gasol,23,24
+1,2:37.0,J. Richardson misses free throw 2 of 2,,23,24
+1,2:33.0,Offensive rebound by J. Richardson,,23,24
+1,2:28.0,K. Olynyk misses 3-pt jump shot from 25 ft,,23,24
+1,2:25.0,,Defensive rebound by M. Conley,23,24
+1,2:15.0,,J. Jackson makes 2-pt dunk from 1 ft (assist by M. Conley),23,26
+1,2:01.0,J. Richardson misses 2-pt layup from 1 ft,,23,26
+1,2:00.0,Offensive rebound by J. Richardson,,23,26
+1,1:59.0,J. Richardson makes 2-pt layup from 4 ft,,25,26
+1,1:47.0,,M. Conley misses 2-pt jump shot from 18 ft,25,26
+1,1:44.0,Defensive rebound by T. Johnson,,25,26
+1,1:39.0,Shooting foul by J. Jackson (drawn by T. Johnson),,25,26
+1,1:39.0,T. Johnson makes free throw 1 of 2,,26,26
+1,1:39.0,T. Johnson makes free throw 2 of 2,,27,26
+1,1:26.0,,J. Jackson misses 2-pt jump shot from 11 ft,27,26
+1,1:22.0,Defensive rebound by B. Adebayo,,27,26
+1,1:11.0,T. Johnson misses 2-pt layup from 2 ft (block by M. Conley),,27,26
+1,1:11.0,Offensive rebound by Team,,27,26
+1,1:11.0,J. Winslow enters the game for J. Richardson,,27,26
+1,1:02.0,B. Adebayo makes 2-pt layup from 2 ft (assist by J. Winslow),,29,26
+1,0:44.0,,Turnover by J. Green (bad pass; steal by T. Johnson),29,26
+1,0:41.0,Turnover by T. Johnson (bad pass; steal by W. Selden),,29,26
+1,0:38.0,,W. Selden misses 2-pt layup at rim,29,26
+1,0:38.0,,Offensive rebound by M. Brooks,29,26
+1,0:38.0,,M. Brooks makes 2-pt layup at rim,29,28
+1,0:21.0,Turnover by J. Winslow (bad pass; steal by M. Conley),,29,28
+1,0:16.0,,J. Green misses 2-pt layup from 4 ft (block by D. Jones),29,28
+1,0:16.0,,Offensive rebound by Team,29,28
+1,0:02.0,,M. Conley misses 3-pt jump shot from 26 ft,29,28
+1,0:02.0,Defensive rebound by J. Winslow,,29,28
+2,11:46.0,,Personal foul by D. Jones (drawn by W. Selden),29,28
+2,11:36.0,,J. Noah misses 2-pt layup from 2 ft,29,28
+2,11:32.0,Defensive rebound by T. Johnson,,29,28
+2,11:24.0,K. Olynyk makes 3-pt jump shot from 24 ft (assist by T. Johnson),,32,28
+2,11:11.0,,M. Conley misses 2-pt jump shot from 12 ft,32,28
+2,11:10.0,,Offensive rebound by M. Conley,32,28
+2,11:08.0,,M. Conley makes 2-pt jump shot from 6 ft,32,30
+2,10:52.0,K. Olynyk makes 3-pt jump shot from 25 ft (assist by T. Johnson),,35,30
+2,10:30.0,,M. Brooks misses 3-pt jump shot from 27 ft,35,30
+2,10:28.0,Defensive rebound by J. Winslow,,35,30
+2,10:18.0,K. Olynyk misses 3-pt jump shot from 26 ft,,35,30
+2,10:14.0,Offensive rebound by B. Adebayo,,35,30
+2,10:11.0,D. Jones makes 2-pt layup from 1 ft (assist by B. Adebayo),,37,30
+2,10:10.0,,Memphis full timeout,37,30
+2,10:10.0,W. Ellington enters the game for T. Johnson,,37,30
+2,10:10.0,,O. Casspi enters the game for M. Brooks,37,30
+2,10:10.0,,M. Gasol enters the game for J. Green,37,30
+2,10:10.0,,G. Temple enters the game for W. Selden,37,30
+2,9:54.0,,J. Noah makes 2-pt dunk from 1 ft (assist by M. Conley),37,32
+2,9:30.0,D. Jones misses 2-pt layup from 2 ft,,37,32
+2,9:26.0,Offensive rebound by B. Adebayo,,37,32
+2,9:26.0,B. Adebayo makes 2-pt layup from 1 ft,,39,32
+2,9:06.0,,Shooting foul by K. Olynyk (drawn by J. Noah),39,32
+2,9:06.0,,J. Noah makes free throw 1 of 2,39,33
+2,9:06.0,,J. Noah misses free throw 2 of 2,39,33
+2,9:04.0,Defensive rebound by D. Jones,,39,33
+2,8:51.0,W. Ellington misses 3-pt jump shot from 27 ft,,39,33
+2,8:46.0,,Defensive rebound by O. Casspi,39,33
+2,8:39.0,,Personal foul by D. Jones (drawn by M. Conley),39,33
+2,8:39.0,,S. Mack enters the game for M. Conley,39,33
+2,8:28.0,,O. Casspi misses 2-pt hook shot from 1 ft,39,33
+2,8:26.0,Defensive rebound by D. Jones,,39,33
+2,8:19.0,K. Olynyk makes 2-pt layup from 1 ft (assist by J. Winslow),,41,33
+2,7:54.0,,Turnover by Team (shot clock),41,33
+2,7:39.0,J. Winslow misses 3-pt jump shot from 26 ft,,41,33
+2,7:36.0,,Defensive rebound by J. Noah,41,33
+2,7:30.0,,G. Temple misses 3-pt jump shot from 25 ft,41,33
+2,7:26.0,Defensive rebound by W. Ellington,,41,33
+2,7:19.0,W. Ellington misses 2-pt layup from 3 ft,,41,33
+2,7:17.0,Offensive rebound by B. Adebayo,,41,33
+2,7:14.0,J. Winslow misses 3-pt jump shot from 25 ft,,41,33
+2,7:09.0,,Defensive rebound by G. Temple,41,33
+2,7:01.0,,S. Mack misses 3-pt jump shot from 24 ft,41,33
+2,6:58.0,Defensive rebound by J. Winslow,,41,33
+2,6:51.0,Miami full timeout,,41,33
+2,6:51.0,J. Richardson enters the game for B. Adebayo,,41,33
+2,6:51.0,H. Whiteside enters the game for J. Winslow,,41,33
+2,6:51.0,,K. Anderson enters the game for J. Noah,41,33
+2,6:41.0,D. Jones misses 2-pt layup from 2 ft,,41,33
+2,6:39.0,,Defensive rebound by M. Gasol,41,33
+2,6:22.0,,M. Gasol makes 2-pt hook shot from 9 ft (assist by G. Temple),41,35
+2,6:09.0,J. Richardson makes 3-pt jump shot from 29 ft (assist by K. Olynyk),,44,35
+2,5:50.0,,O. Casspi misses 2-pt jump shot from 8 ft,44,35
+2,5:46.0,Defensive rebound by K. Olynyk,,44,35
+2,5:39.0,H. Whiteside makes 2-pt dunk at rim (assist by D. Jones),,46,35
+2,5:23.0,,Shooting foul by H. Whiteside (drawn by K. Anderson),46,35
+2,5:23.0,,K. Anderson makes free throw 1 of 2,46,36
+2,5:23.0,R. McGruder enters the game for D. Jones,,46,36
+2,5:23.0,,J. Jackson enters the game for O. Casspi,46,36
+2,5:23.0,,K. Anderson makes free throw 2 of 2,46,37
+2,5:13.0,Personal foul by K. Anderson (drawn by J. Richardson),,46,37
+2,5:13.0,,M. Conley enters the game for S. Mack,46,37
+2,5:05.0,J. Richardson misses 3-pt jump shot from 26 ft,,46,37
+2,5:02.0,,Defensive rebound by M. Gasol,46,37
+2,4:53.0,,J. Jackson makes 2-pt dunk from 1 ft (assist by M. Gasol),46,39
+2,4:53.0,,Shooting foul by H. Whiteside (drawn by J. Jackson),46,39
+2,4:53.0,,J. Jackson misses free throw 1 of 1,46,39
+2,4:53.0,Defensive rebound by K. Olynyk,,46,39
+2,4:45.0,Personal foul by K. Anderson (drawn by J. Richardson),,46,39
+2,4:45.0,J. Johnson enters the game for W. Ellington,,46,39
+2,4:45.0,T. Johnson enters the game for K. Olynyk,,46,39
+2,4:45.0,,W. Selden enters the game for K. Anderson,46,39
+2,4:40.0,J. Johnson makes 2-pt layup from 1 ft (assist by H. Whiteside),,48,39
+2,4:27.0,,W. Selden misses 3-pt jump shot from 25 ft,48,39
+2,4:23.0,Defensive rebound by H. Whiteside,,48,39
+2,4:13.0,J. Johnson misses 3-pt jump shot from 24 ft,,48,39
+2,4:10.0,,Defensive rebound by M. Conley,48,39
+2,3:59.0,,M. Conley makes 3-pt jump shot from 25 ft (assist by M. Gasol),48,42
+2,3:38.0,T. Johnson makes 3-pt jump shot from 25 ft (assist by J. Richardson),,51,42
+2,3:12.0,,J. Jackson misses 3-pt jump shot from 25 ft,51,42
+2,3:08.0,Defensive rebound by J. Richardson,,51,42
+2,2:59.0,Turnover by J. Johnson (lost ball; steal by J. Jackson),,51,42
+2,2:52.0,,W. Selden misses 2-pt layup from 2 ft (block by J. Johnson),51,42
+2,2:48.0,,Offensive rebound by G. Temple,51,42
+2,2:42.0,,J. Jackson makes 2-pt layup from 1 ft (assist by G. Temple),51,44
+2,2:28.0,J. Richardson misses 3-pt jump shot from 26 ft,,51,44
+2,2:24.0,,Defensive rebound by M. Gasol,51,44
+2,2:13.0,,M. Gasol misses 2-pt layup from 1 ft (block by H. Whiteside),51,44
+2,2:13.0,,Offensive rebound by Team,51,44
+2,2:13.0,J. Winslow enters the game for R. McGruder,,51,44
+2,2:13.0,,J. Green enters the game for J. Jackson,51,44
+2,2:05.0,,M. Gasol misses 3-pt jump shot from 25 ft,51,44
+2,2:01.0,Defensive rebound by J. Johnson,,51,44
+2,1:43.0,Turnover by H. Whiteside (traveling),,51,44
+2,1:24.0,,M. Conley misses 2-pt layup from 8 ft (block by H. Whiteside),51,44
+2,1:19.0,Defensive rebound by J. Richardson,,51,44
+2,1:17.0,T. Johnson misses 3-pt jump shot from 23 ft,,51,44
+2,1:13.0,,Defensive rebound by J. Green,51,44
+2,1:04.0,,M. Gasol misses 3-pt jump shot from 26 ft,51,44
+2,1:02.0,Defensive rebound by T. Johnson,,51,44
+2,0:44.0,T. Johnson misses 3-pt jump shot from 26 ft,,51,44
+2,0:42.0,,Defensive rebound by J. Green,51,44
+2,0:37.0,,Personal foul by J. Winslow (drawn by M. Conley),51,44
+2,0:37.0,,M. Conley makes free throw 1 of 2,51,45
+2,0:37.0,B. Adebayo enters the game for H. Whiteside,,51,45
+2,0:37.0,R. McGruder enters the game for J. Winslow,,51,45
+2,0:37.0,,M. Conley makes free throw 2 of 2,51,46
+2,0:22.0,Personal foul by W. Selden (drawn by J. Johnson),,51,46
+2,0:08.0,J. Richardson misses 2-pt layup from 2 ft,,51,46
+2,0:02.0,,Defensive rebound by J. Green,51,46
+2,0:00.0,,G. Temple makes 3-pt jump shot from 32 ft (assist by M. Gasol),51,49
+3,11:43.0,,M. Gasol makes 2-pt jump shot from 9 ft (assist by M. Conley),51,51
+3,11:24.0,H. Whiteside makes 2-pt hook shot from 2 ft (assist by J. Richardson),,53,51
+3,11:08.0,,Turnover by J. Jackson (out of bounds lost ball),53,51
+3,10:46.0,J. Johnson misses 2-pt layup from 1 ft,,53,51
+3,10:42.0,,Defensive rebound by J. Jackson,53,51
+3,10:32.0,,Shooting foul by J. Johnson (drawn by J. Jackson),53,51
+3,10:32.0,,J. Jackson makes free throw 1 of 2,53,52
+3,10:32.0,,J. Jackson misses free throw 2 of 2,53,52
+3,10:29.0,Defensive rebound by J. Johnson,,53,52
+3,10:15.0,J. Winslow misses 2-pt hook shot from 2 ft,,53,52
+3,10:13.0,,Defensive rebound by K. Anderson,53,52
+3,10:00.0,,M. Gasol makes 2-pt jump shot from 20 ft (assist by M. Conley),53,54
+3,9:44.0,J. Richardson makes 2-pt jump shot from 12 ft,,55,54
+3,9:30.0,,J. Jackson misses 3-pt jump shot from 26 ft,55,54
+3,9:27.0,Defensive rebound by H. Whiteside,,55,54
+3,9:18.0,J. Johnson misses 3-pt jump shot from 25 ft,,55,54
+3,9:15.0,,Defensive rebound by G. Temple,55,54
+3,9:11.0,,Personal foul by J. Johnson (drawn by J. Jackson),55,54
+3,8:56.0,,K. Anderson misses 2-pt jump shot from 12 ft,55,54
+3,8:52.0,,Offensive rebound by J. Jackson,55,54
+3,8:44.0,,G. Temple makes 3-pt jump shot from 23 ft (assist by M. Conley),55,57
+3,8:24.0,R. McGruder misses 3-pt jump shot from 25 ft,,55,57
+3,8:20.0,Offensive rebound by J. Johnson,,55,57
+3,8:20.0,J. Johnson makes 2-pt dunk at rim,,57,57
+3,8:04.0,,Turnover by J. Jackson (lost ball),57,57
+3,8:04.0,,Loose ball foul by J. Jackson (drawn by J. Richardson),57,57
+3,7:46.0,R. McGruder makes 3-pt jump shot from 25 ft (assist by J. Johnson),,60,57
+3,7:23.0,,Turnover by M. Gasol (step out of bounds),60,57
+3,7:23.0,,S. Mack enters the game for K. Anderson,60,57
+3,7:08.0,R. McGruder misses 3-pt jump shot from 25 ft,,60,57
+3,7:03.0,,Defensive rebound by M. Gasol,60,57
+3,6:56.0,,M. Gasol misses 3-pt jump shot from 26 ft,60,57
+3,6:53.0,Defensive rebound by R. McGruder,,60,57
+3,6:47.0,J. Winslow misses 3-pt jump shot from 25 ft,,60,57
+3,6:42.0,Offensive rebound by H. Whiteside,,60,57
+3,6:41.0,H. Whiteside misses 2-pt layup from 2 ft (block by J. Jackson),,60,57
+3,6:34.0,Offensive rebound by H. Whiteside,,60,57
+3,6:34.0,Turnover by H. Whiteside (bad pass; steal by G. Temple),,60,57
+3,6:31.0,,J. Jackson makes 2-pt dunk at rim (assist by M. Gasol),60,59
+3,6:10.0,,Memphis full timeout,60,59
+3,6:10.0,T. Johnson enters the game for J. Winslow,,60,59
+3,6:10.0,,M. Brooks enters the game for M. Conley,60,59
+3,6:10.0,,J. Green enters the game for J. Jackson,60,59
+3,6:04.0,J. Johnson makes 3-pt jump shot from 24 ft (assist by T. Johnson),,63,59
+3,5:41.0,,M. Brooks makes 2-pt jump shot from 13 ft (assist by M. Gasol),63,61
+3,5:23.0,T. Johnson makes 2-pt layup at rim,,65,61
+3,5:03.0,,Personal take foul by J. Richardson (drawn by J. Green),65,61
+3,5:03.0,J. Winslow enters the game for J. Richardson,,65,61
+3,4:49.0,,M. Gasol misses 2-pt jump shot from 10 ft,65,61
+3,4:46.0,Defensive rebound by J. Johnson,,65,61
+3,4:29.0,Turnover by T. Johnson (bad pass),,65,61
+3,4:09.0,,M. Brooks misses 3-pt jump shot from 26 ft,65,61
+3,4:06.0,Defensive rebound by H. Whiteside,,65,61
+3,3:55.0,Turnover by J. Winslow (back court),,65,61
+3,3:55.0,B. Adebayo enters the game for H. Whiteside,,65,61
+3,3:55.0,,J. Noah enters the game for M. Gasol,65,61
+3,3:41.0,,S. Mack misses 2-pt jump shot from 16 ft,65,61
+3,3:38.0,Defensive rebound by B. Adebayo,,65,61
+3,3:17.0,J. Winslow misses 2-pt jump shot from 21 ft,,65,61
+3,3:16.0,,Defensive rebound by J. Noah,65,61
+3,2:56.0,,S. Mack makes 2-pt jump shot from 12 ft,65,63
+3,2:38.0,Turnover by R. McGruder (bad pass; steal by J. Noah),,65,63
+3,2:26.0,,G. Temple makes 3-pt jump shot from 26 ft (assist by J. Noah),65,66
+3,2:25.0,Miami full timeout,,65,66
+3,2:25.0,K. Olynyk enters the game for J. Johnson,,65,66
+3,2:25.0,,M. Conley enters the game for G. Temple,65,66
+3,2:11.0,T. Johnson misses 2-pt layup from 3 ft (block by M. Conley),,65,66
+3,2:11.0,Offensive rebound by Team,,65,66
+3,2:07.0,Personal foul by M. Brooks (drawn by J. Winslow),,65,66
+3,2:07.0,D. Jones enters the game for R. McGruder,,65,66
+3,1:55.0,K. Olynyk misses 2-pt jump shot from 4 ft,,65,66
+3,1:51.0,Offensive rebound by K. Olynyk,,65,66
+3,1:42.0,T. Johnson makes 3-pt jump shot from 27 ft (assist by K. Olynyk),,68,66
+3,1:16.0,,M. Conley misses 2-pt layup from 1 ft (block by B. Adebayo),68,66
+3,1:12.0,Defensive rebound by K. Olynyk,,68,66
+3,1:12.0,Shooting foul by J. Green (drawn by J. Winslow),,68,66
+3,1:12.0,J. Winslow misses free throw 1 of 2,,68,66
+3,1:12.0,Offensive rebound by Team,,68,66
+3,1:12.0,J. Winslow makes free throw 2 of 2,,69,66
+3,0:58.0,,J. Green makes 2-pt layup from 1 ft (assist by S. Mack),69,68
+3,0:43.0,J. Winslow misses 3-pt jump shot from 23 ft,,69,68
+3,0:38.0,,Defensive rebound by J. Green,69,68
+3,0:34.0,,M. Conley makes 2-pt jump shot from 11 ft,69,70
+3,0:10.0,D. Jones makes 2-pt layup from 1 ft (assist by K. Olynyk),,71,70
+3,0:07.0,Technical foul by,,71,70
+3,0:07.0,T. Johnson misses technical free throw,,71,70
+3,0:07.0,,Defensive rebound by Team,71,70
+3,0:00.0,,Shooting foul by D. Jones (drawn by M. Conley),71,70
+3,0:00.0,,M. Conley makes free throw 1 of 3,71,71
+3,0:00.0,,M. Conley makes free throw 2 of 3,71,72
+3,0:00.0,,M. Conley makes free throw 3 of 3,71,73
+4,11:37.0,K. Olynyk misses 3-pt jump shot from 26 ft,,71,73
+4,11:36.0,Offensive rebound by Team,,71,73
+4,11:36.0,Turnover by Team (shot clock),,71,73
+4,11:11.0,,J. Noah makes 2-pt layup from 2 ft (assist by S. Mack),71,75
+4,10:55.0,J. Richardson misses 2-pt layup at rim,,71,75
+4,10:52.0,Offensive rebound by D. Jones,,71,75
+4,10:52.0,D. Jones misses 2-pt layup at rim,,71,75
+4,10:52.0,Offensive rebound by D. Jones,,71,75
+4,10:52.0,D. Jones misses 2-pt layup at rim,,71,75
+4,10:52.0,,Defensive rebound by Team,71,75
+4,10:52.0,,Loose ball foul by J. Green (drawn by D. Jones),71,75
+4,10:52.0,,Turnover by J. Green (turnover),71,75
+4,10:52.0,,Technical foul by J. Green,71,75
+4,10:52.0,K. Olynyk misses technical free throw,,71,75
+4,10:52.0,Offensive rebound by Team,,71,75
+4,10:45.0,T. Johnson misses 3-pt jump shot from 27 ft,,71,75
+4,10:45.0,,Defensive rebound by Team,71,75
+4,10:45.0,Technical foul by J. Richardson,,71,75
+4,10:45.0,,M. Conley makes technical free throw,71,76
+4,10:45.0,Loose ball foul by J. Richardson (drawn by J. Green),,71,76
+4,10:31.0,,M. Brooks misses 3-pt jump shot from 23 ft,71,76
+4,10:29.0,Defensive rebound by B. Adebayo,,71,76
+4,10:12.0,D. Jones makes 3-pt jump shot from 24 ft (assist by T. Johnson),,74,76
+4,9:51.0,,M. Brooks misses 3-pt jump shot from 27 ft,74,76
+4,9:48.0,Defensive rebound by K. Olynyk,,74,76
+4,9:39.0,T. Johnson makes 3-pt jump shot from 26 ft (assist by K. Olynyk),,77,76
+4,9:37.0,,Memphis full timeout,77,76
+4,9:37.0,,K. Anderson enters the game for M. Brooks,77,76
+4,9:16.0,,M. Conley misses 2-pt jump shot from 21 ft,77,76
+4,9:13.0,Defensive rebound by J. Richardson,,77,76
+4,8:56.0,D. Jones makes 2-pt dunk at rim (assist by B. Adebayo),,79,76
+4,8:29.0,,J. Green misses 3-pt jump shot from 22 ft,79,76
+4,8:27.0,,Offensive rebound by J. Noah,79,76
+4,8:22.0,,Turnover by S. Mack (bad pass; steal by K. Olynyk),79,76
+4,8:15.0,J. Richardson misses 3-pt jump shot from 27 ft,,79,76
+4,8:14.0,,Defensive rebound by Team,79,76
+4,8:14.0,,M. Gasol enters the game for J. Green,79,76
+4,8:14.0,,J. Jackson enters the game for S. Mack,79,76
+4,8:14.0,,G. Temple enters the game for J. Noah,79,76
+4,8:04.0,,M. Conley misses 3-pt jump shot from 24 ft,79,76
+4,8:02.0,Defensive rebound by Team,,79,76
+4,7:48.0,K. Olynyk makes 3-pt jump shot from 26 ft (assist by B. Adebayo),,82,76
+4,7:39.0,,Memphis full timeout,82,76
+4,7:39.0,,S. Mack enters the game for K. Anderson,82,76
+4,7:27.0,,M. Conley makes 2-pt jump shot from 14 ft,82,78
+4,7:14.0,J. Richardson makes 2-pt layup at rim (assist by K. Olynyk),,84,78
+4,6:52.0,,G. Temple misses 3-pt jump shot from 23 ft,84,78
+4,6:47.0,Defensive rebound by D. Jones,,84,78
+4,6:36.0,Offensive foul by B. Adebayo (drawn by G. Temple),,84,78
+4,6:36.0,Turnover by B. Adebayo (offensive foul),,84,78
+4,6:16.0,,S. Mack misses 3-pt jump shot from 23 ft,84,78
+4,6:13.0,Defensive rebound by D. Jones,,84,78
+4,5:54.0,T. Johnson misses 2-pt jump shot from 5 ft,,84,78
+4,5:51.0,,Defensive rebound by S. Mack,84,78
+4,5:46.0,,M. Gasol misses 2-pt dunk from 1 ft (block by K. Olynyk),84,78
+4,5:45.0,,Offensive rebound by M. Gasol,84,78
+4,5:45.0,,Shooting foul by T. Johnson (drawn by M. Gasol),84,78
+4,5:45.0,,Technical foul by M. Gasol,84,78
+4,5:45.0,J. Richardson makes technical free throw,,85,78
+4,5:45.0,,M. Gasol misses free throw 1 of 2,85,78
+4,5:45.0,,Offensive rebound by Team,85,78
+4,5:45.0,,M. Gasol makes free throw 2 of 2,85,79
+4,5:21.0,J. Richardson misses 2-pt jump shot from 23 ft,,85,79
+4,5:20.0,Offensive rebound by Team,,85,79
+4,5:20.0,,Loose ball foul by S. Mack (drawn by D. Jones),85,79
+4,5:20.0,Miami full timeout,,85,79
+4,5:20.0,,K. Anderson enters the game for S. Mack,85,79
+4,5:12.0,Turnover by K. Olynyk (bad pass; steal by M. Conley),,85,79
+4,5:09.0,,G. Temple makes 2-pt layup from 1 ft (assist by M. Conley),85,81
+4,5:09.0,,Shooting foul by T. Johnson (drawn by G. Temple),85,81
+4,5:09.0,,S. Mack enters the game for K. Anderson,85,81
+4,5:09.0,,G. Temple makes free throw 1 of 1,85,82
+4,4:51.0,K. Olynyk makes 3-pt jump shot from 25 ft (assist by J. Richardson),,88,82
+4,4:25.0,,S. Mack makes 3-pt jump shot from 28 ft (assist by G. Temple),88,85
+4,4:05.0,J. Richardson misses 3-pt jump shot from 25 ft,,88,85
+4,4:04.0,,Defensive rebound by M. Gasol,88,85
+4,3:53.0,,M. Gasol misses 3-pt jump shot from 25 ft,88,85
+4,3:48.0,Defensive rebound by B. Adebayo,,88,85
+4,3:32.0,D. Jones makes 2-pt dunk from 1 ft (assist by J. Richardson),,90,85
+4,3:08.0,,M. Conley makes 2-pt jump shot from 8 ft,90,87
+4,3:08.0,Miami full timeout,,90,87
+4,3:08.0,,J. Green enters the game for J. Jackson,90,87
+4,2:57.0,J. Richardson makes 2-pt dunk from 1 ft,,92,87
+4,2:42.0,,J. Green misses 2-pt layup from 2 ft (block by D. Jones),92,87
+4,2:38.0,Defensive rebound by D. Jones,,92,87
+4,2:28.0,Personal foul by G. Temple (drawn by T. Johnson),,92,87
+4,2:18.0,T. Johnson misses 2-pt jump shot from 20 ft (block by M. Conley),,92,87
+4,2:18.0,Offensive rebound by Team,,92,87
+4,2:13.0,J. Richardson makes 2-pt jump shot from 13 ft (assist by B. Adebayo),,94,87
+4,2:01.0,,G. Temple misses 3-pt jump shot from 23 ft,94,87
+4,1:58.0,Defensive rebound by B. Adebayo,,94,87
+4,1:41.0,J. Richardson misses 2-pt jump shot from 20 ft,,94,87
+4,1:38.0,,Defensive rebound by G. Temple,94,87
+4,1:35.0,,G. Temple makes 2-pt layup from 7 ft,94,89
+4,1:15.0,Turnover by K. Olynyk (lost ball; steal by S. Mack),,94,89
+4,1:14.0,Loose ball foul by D. Jones (drawn by S. Mack),,94,89
+4,1:14.0,,Memphis full timeout,94,89
+4,1:01.0,,M. Gasol misses 2-pt layup from 1 ft,94,89
+4,0:55.0,,Offensive rebound by J. Green,94,89
+4,0:55.0,,J. Green misses 2-pt dunk from 1 ft,94,89
+4,0:55.0,Defensive rebound by D. Jones,,94,89
+4,0:52.0,Turnover by J. Richardson (bad pass; steal by S. Mack),,94,89
+4,0:48.0,,J. Green misses 2-pt layup from 2 ft,94,89
+4,0:45.0,,Offensive rebound by S. Mack,94,89
+4,0:45.0,,S. Mack misses 2-pt layup from 7 ft (block by B. Adebayo),94,89
+4,0:45.0,Defensive rebound by B. Adebayo,,94,89
+4,0:45.0,Miami full timeout,,94,89
+4,0:41.0,D. Jones makes 2-pt layup from 1 ft (assist by J. Richardson),,96,89
+4,0:34.0,,M. Conley makes 3-pt jump shot from 25 ft,96,92
+4,0:24.0,Personal take foul by J. Green (drawn by D. Jones),,96,92
+4,0:22.0,Turnover by B. Adebayo (step out of bounds),,96,92
+4,0:22.0,,Memphis full timeout,96,92
+4,0:17.0,,M. Conley misses 2-pt layup from 1 ft,96,92
+4,0:15.0,Defensive rebound by T. Johnson,,96,92
+4,0:14.0,Personal take foul by G. Temple (drawn by K. Olynyk),,96,92
+4,0:14.0,K. Olynyk makes free throw 1 of 2,,97,92
+4,0:14.0,K. Olynyk makes free throw 2 of 2,,98,92
+4,0:07.0,,Shooting foul by T. Johnson (drawn by S. Mack),98,92
+4,0:07.0,,S. Mack misses free throw 1 of 3,98,92
+4,0:07.0,,Offensive rebound by Team,98,92
+4,0:07.0,,S. Mack makes free throw 2 of 3,98,93
+4,0:07.0,,S. Mack makes free throw 3 of 3,98,94
+4,0:07.0,,Loose ball foul by J. Green (drawn by K. Olynyk),98,94
+4,0:07.0,K. Olynyk makes free throw 1 of 2,,99,94
+4,0:07.0,K. Olynyk makes free throw 2 of 2,,100,94
+4,0:01.0,,M. Gasol makes 3-pt jump shot from 31 ft (assist by S. Mack),100,97

@@ -53,14 +53,30 @@ schedule["DATE"]=schedule["DATE"].dt.date
 schedule.to_csv('Schedule_2019.csv', index=False, header=True)
 
 # Load team code as dictionary
-with open('team_code.csv',newline='') as pscfile:
+with open('team_code.csv', newline='') as pscfile:
     reader = csv.reader(pscfile)
     next(reader)
     team_code = dict(reader)
 
 
 # Get play by play stats
-i = 1300
-test = get_pbp(schedule["DATE"][i], team_code.get(schedule["HOME"][i]), team_code.get(schedule["VISITOR"][i]))
+#i = 1300
+#test = get_pbp(schedule["DATE"][i], team_code.get(schedule["HOME"][i]), team_code.get(schedule["VISITOR"][i]))
 
-test.to_csv('pbp_' + str(schedule["DATE"][i]) + '_' + schedule["HOME"][i] + '_' + schedule["VISITOR"][i] + '.csv', index=False, header=True)
+#test.to_csv('pbp_' + str(schedule["DATE"][i]) + '_' + schedule["HOME"][i] + '_' + schedule["VISITOR"][i] + '.csv', index=False, header=True)
+
+failed = 0
+failed_games = []
+
+for i in range(schedule.shape[0]):
+    try:
+        home = team_code.get(schedule["HOME"][i])
+        away = team_code.get(schedule["VISITOR"][i])
+        game = get_pbp(schedule["DATE"][i], home, away)
+        game.to_csv('basketball_pbp/pbp_' + str(schedule["DATE"][i]) + '_' + home + '_' + away + '.csv', index=False, header=True)
+    except:
+        failed += 1
+        failed_games.append(i)
+
+print("Failed games: " + str(failed))
+print("Done")

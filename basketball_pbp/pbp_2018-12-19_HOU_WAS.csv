@@ -1,0 +1,416 @@
+QUARTER,TIME_REMAINING,WASHINGTON_ACTION,HOUSTON_ACTION,WASHINGTON_SCORE,HOUSTON_SCORE
+1,11:38.0,B. Beal makes 2-pt jump shot from 14 ft (assist by T. Ariza),,2,0
+1,11:20.0,,J. Harden misses 2-pt dunk from 2 ft,2,0
+1,11:20.0,Defensive rebound by Team,,2,0
+1,11:05.0,J. Green misses 2-pt jump shot from 16 ft,,2,0
+1,11:01.0,,Defensive rebound by J. Harden,2,0
+1,10:57.0,,Shooting foul by J. Green (drawn by C. Capela),2,0
+1,10:57.0,,C. Capela misses free throw 1 of 2,2,0
+1,10:57.0,,Offensive rebound by Team,2,0
+1,10:57.0,,C. Capela makes free throw 2 of 2,2,1
+1,10:36.0,T. Bryant makes 2-pt hook shot from 5 ft (assist by T. Ariza),,4,1
+1,10:24.0,,P. Tucker misses 3-pt jump shot from 24 ft,4,1
+1,10:23.0,Defensive rebound by Team,,4,1
+1,10:10.0,J. Wall makes 2-pt jump shot from 20 ft,,6,1
+1,9:42.0,,E. Gordon makes 3-pt jump shot from 25 ft (assist by C. Paul),6,4
+1,9:31.0,T. Bryant makes 3-pt jump shot from 27 ft (assist by B. Beal),,9,4
+1,9:10.0,,C. Capela makes 2-pt dunk from 1 ft (assist by P. Tucker),9,6
+1,8:58.0,Shooting foul by C. Capela (drawn by J. Green),,9,6
+1,8:58.0,J. Green makes free throw 1 of 2,,10,6
+1,8:58.0,J. Green misses free throw 2 of 2,,10,6
+1,8:57.0,,Defensive rebound by P. Tucker,10,6
+1,8:47.0,,C. Capela misses 2-pt dunk from 1 ft,10,6
+1,8:44.0,Defensive rebound by B. Beal,,10,6
+1,8:33.0,J. Green misses 2-pt jump shot from 12 ft,,10,6
+1,8:31.0,,Defensive rebound by P. Tucker,10,6
+1,8:25.0,,E. Gordon misses 3-pt jump shot from 23 ft,10,6
+1,8:22.0,,Offensive rebound by C. Capela,10,6
+1,8:12.0,,Turnover by C. Paul (bad pass; steal by B. Beal),10,6
+1,8:07.0,T. Ariza misses 3-pt jump shot from 23 ft,,10,6
+1,8:06.0,Offensive rebound by J. Green,,10,6
+1,8:06.0,Personal foul by J. Harden (drawn by J. Green),,10,6
+1,7:52.0,T. Ariza makes 2-pt layup from 2 ft (assist by J. Wall),,12,6
+1,7:38.0,,J. Harden misses 2-pt layup from 5 ft (block by T. Bryant),12,6
+1,7:33.0,Defensive rebound by J. Green,,12,6
+1,7:30.0,J. Wall misses 3-pt jump shot from 27 ft,,12,6
+1,7:29.0,,Defensive rebound by Team,12,6
+1,7:21.0,,C. Paul misses 3-pt jump shot from 27 ft,12,6
+1,7:18.0,Defensive rebound by J. Green,,12,6
+1,7:08.0,J. Wall misses 2-pt layup from 3 ft,,12,6
+1,7:06.0,,Defensive rebound by J. Harden,12,6
+1,7:01.0,,E. Gordon misses 3-pt jump shot from 23 ft,12,6
+1,7:00.0,Defensive rebound by T. Ariza,,12,6
+1,6:46.0,Turnover by J. Wall (bad pass; steal by C. Paul),,12,6
+1,6:40.0,,J. Harden makes 3-pt jump shot from 26 ft (assist by C. Paul),12,9
+1,6:28.0,B. Beal makes 2-pt layup from 4 ft,,14,9
+1,6:19.0,,P. Tucker makes 3-pt jump shot from 23 ft (assist by E. Gordon),14,12
+1,5:55.0,B. Beal makes 2-pt layup from 3 ft,,16,12
+1,5:41.0,,Shooting foul by T. Bryant (drawn by C. Capela),16,12
+1,5:41.0,,Houston full timeout,16,12
+1,5:41.0,,G. Green enters the game for C. Paul,16,12
+1,5:41.0,,D. House enters the game for P. Tucker,16,12
+1,5:41.0,,C. Capela makes free throw 1 of 2,16,13
+1,5:41.0,,C. Capela misses free throw 2 of 2,16,13
+1,5:41.0,Defensive rebound by T. Bryant,,16,13
+1,5:16.0,T. Bryant makes 2-pt layup from 4 ft (assist by J. Wall),,18,13
+1,5:03.0,,E. Gordon makes 2-pt layup from 3 ft (assist by J. Harden),18,15
+1,5:03.0,,Shooting foul by B. Beal (drawn by E. Gordon),18,15
+1,5:03.0,,E. Gordon misses free throw 1 of 1,18,15
+1,5:03.0,Defensive rebound by T. Ariza,,18,15
+1,4:50.0,T. Bryant misses 2-pt layup from 2 ft,,18,15
+1,4:49.0,,Defensive rebound by D. House,18,15
+1,4:49.0,,Turnover by D. House (bad pass),18,15
+1,4:49.0,,Loose ball foul by J. Harden (drawn by T. Ariza),18,15
+1,4:41.0,T. Ariza misses 3-pt jump shot from 23 ft,,18,15
+1,4:38.0,,Defensive rebound by C. Capela,18,15
+1,4:29.0,,J. Harden misses 2-pt layup from 3 ft,18,15
+1,4:25.0,,Offensive rebound by C. Capela,18,15
+1,4:25.0,,C. Capela makes 2-pt layup from 1 ft,18,17
+1,4:13.0,B. Beal misses 3-pt jump shot from 26 ft,,18,17
+1,4:11.0,,Defensive rebound by C. Capela,18,17
+1,3:58.0,,J. Harden makes 3-pt jump shot from 27 ft,18,20
+1,3:31.0,B. Beal makes 2-pt layup from 3 ft,,20,20
+1,3:15.0,,D. House misses 3-pt jump shot from 25 ft,20,20
+1,3:12.0,Defensive rebound by J. Wall,,20,20
+1,3:06.0,T. Ariza makes 2-pt layup from 1 ft (assist by J. Wall),,22,20
+1,2:45.0,,J. Harden makes 3-pt jump shot from 26 ft,22,23
+1,2:16.0,B. Beal misses 3-pt jump shot from 28 ft,,22,23
+1,2:15.0,Offensive rebound by T. Bryant,,22,23
+1,2:15.0,T. Bryant makes 2-pt dunk at rim,,24,23
+1,2:05.0,,Shooting foul by J. Green (drawn by J. Harden),24,23
+1,2:05.0,Washington full timeout,,24,23
+1,2:05.0,M. Morris enters the game for T. Ariza,,24,23
+1,2:05.0,T. Satoranský enters the game for J. Green,,24,23
+1,2:05.0,,C. Paul enters the game for C. Capela,24,23
+1,2:05.0,,P. Tucker enters the game for E. Gordon,24,23
+1,2:05.0,,J. Harden makes free throw 1 of 2,24,24
+1,2:05.0,,J. Harden makes free throw 2 of 2,24,25
+1,1:52.0,J. Wall misses 2-pt layup from 3 ft,,24,25
+1,1:50.0,,Defensive rebound by P. Tucker,24,25
+1,1:36.0,,J. Harden makes 2-pt layup from 2 ft,24,27
+1,1:30.0,Shooting foul by C. Paul (drawn by J. Wall),,24,27
+1,1:30.0,J. Wall makes free throw 1 of 2,,25,27
+1,1:30.0,C. Randle enters the game for B. Beal,,25,27
+1,1:30.0,,B. Knight enters the game for J. Harden,25,27
+1,1:30.0,J. Wall makes free throw 2 of 2,,26,27
+1,1:17.0,,Personal foul by C. Randle (drawn by C. Paul),26,27
+1,1:17.0,,C. Paul makes free throw 1 of 2,26,28
+1,1:17.0,,C. Paul makes free throw 2 of 2,26,29
+1,0:55.0,C. Randle misses 2-pt layup from 3 ft,,26,29
+1,0:54.0,,Defensive rebound by P. Tucker,26,29
+1,0:50.0,,B. Knight misses 3-pt jump shot from 25 ft,26,29
+1,0:46.0,Defensive rebound by J. Wall,,26,29
+1,0:35.0,M. Morris makes 2-pt jump shot from 11 ft (assist by J. Wall),,28,29
+1,0:30.0,,C. Paul makes 3-pt jump shot from 26 ft,28,32
+1,0:05.0,Turnover by J. Wall (lost ball; steal by P. Tucker),,28,32
+1,0:01.0,,B. Knight makes 2-pt layup from 2 ft (assist by C. Paul),28,34
+2,11:44.0,,C. Paul makes 3-pt jump shot from 27 ft,28,37
+2,11:24.0,M. Morris misses 2-pt jump shot from 9 ft,,28,37
+2,11:22.0,,Defensive rebound by P. Tucker,28,37
+2,11:16.0,,B. Knight misses 3-pt jump shot from 27 ft,28,37
+2,11:13.0,Defensive rebound by Team,,28,37
+2,11:01.0,Offensive foul by C. Randle (drawn by P. Tucker),,28,37
+2,11:01.0,Turnover by C. Randle (offensive foul),,28,37
+2,11:01.0,T. Ariza enters the game for T. Bryant,,28,37
+2,10:44.0,,Turnover by P. Tucker (traveling),28,37
+2,10:29.0,Turnover by M. Morris (bad pass; steal by C. Paul),,28,37
+2,10:18.0,,G. Green makes 3-pt jump shot from 26 ft,28,40
+2,10:15.0,Washington full timeout,,28,40
+2,10:15.0,B. Beal enters the game for C. Randle,,28,40
+2,10:00.0,M. Morris makes 2-pt layup from 4 ft (assist by B. Beal),,30,40
+2,9:44.0,,Turnover by G. Green (lost ball; steal by T. Ariza),30,40
+2,9:33.0,S. Dekker makes 2-pt layup from 2 ft (assist by B. Beal),,32,40
+2,9:14.0,,C. Paul makes 3-pt jump shot from 28 ft,32,43
+2,9:01.0,T. Ariza misses 3-pt jump shot from 28 ft,,32,43
+2,8:59.0,,Defensive rebound by D. House,32,43
+2,8:47.0,,C. Paul misses 3-pt jump shot from 28 ft,32,43
+2,8:45.0,Defensive rebound by T. Ariza,,32,43
+2,8:39.0,B. Beal misses 2-pt jump shot from 19 ft,,32,43
+2,8:37.0,,Defensive rebound by P. Tucker,32,43
+2,8:21.0,,G. Green misses 3-pt jump shot from 22 ft,32,43
+2,8:18.0,Defensive rebound by B. Beal,,32,43
+2,8:12.0,S. Dekker makes 2-pt layup from 2 ft (assist by B. Beal),,34,43
+2,8:00.0,,B. Knight misses 2-pt jump shot from 21 ft,34,43
+2,7:56.0,Defensive rebound by T. Ariza,,34,43
+2,7:47.0,S. Dekker makes 2-pt layup from 3 ft,,36,43
+2,7:47.0,,Houston full timeout,36,43
+2,7:47.0,,C. Capela enters the game for G. Green,36,43
+2,7:47.0,,E. Gordon enters the game for B. Knight,36,43
+2,7:47.0,,J. Harden enters the game for P. Tucker,36,43
+2,7:37.0,,C. Capela makes 2-pt dunk from 3 ft (assist by C. Paul),36,45
+2,7:19.0,T. Satoranský misses 2-pt layup from 3 ft,,36,45
+2,7:18.0,,Defensive rebound by C. Paul,36,45
+2,7:09.0,,D. House misses 3-pt jump shot from 23 ft,36,45
+2,7:07.0,Defensive rebound by S. Dekker,,36,45
+2,6:59.0,T. Ariza makes 2-pt layup from 2 ft (assist by T. Satoranský),,38,45
+2,6:47.0,Violation by Team (kicked ball),,38,45
+2,6:47.0,J. Wall enters the game for T. Satoranský,,38,45
+2,6:33.0,,C. Paul makes 3-pt jump shot from 28 ft,38,48
+2,6:14.0,S. Dekker makes 3-pt jump shot from 23 ft (assist by B. Beal),,41,48
+2,5:54.0,,Shooting foul by B. Beal (drawn by J. Harden),41,48
+2,5:54.0,,J. Harden makes free throw 1 of 2,41,49
+2,5:54.0,,P. Tucker enters the game for D. House,41,49
+2,5:54.0,,J. Harden makes free throw 2 of 2,41,50
+2,5:42.0,T. Ariza misses 3-pt jump shot from 27 ft,,41,50
+2,5:39.0,,Defensive rebound by C. Capela,41,50
+2,5:31.0,,C. Capela makes 2-pt layup from 1 ft (assist by J. Harden),41,52
+2,5:20.0,M. Morris misses 3-pt jump shot from 23 ft,,41,52
+2,5:19.0,,Defensive rebound by C. Capela,41,52
+2,5:18.0,,Personal foul by S. Dekker (drawn by C. Capela),41,52
+2,5:18.0,J. Green enters the game for S. Dekker,,41,52
+2,5:00.0,,E. Gordon misses 3-pt jump shot from 29 ft,41,52
+2,4:57.0,Defensive rebound by M. Morris,,41,52
+2,4:51.0,B. Beal makes 2-pt dunk from 3 ft (assist by J. Green),,43,52
+2,4:40.0,,E. Gordon misses 3-pt jump shot from 24 ft,43,52
+2,4:36.0,Defensive rebound by M. Morris,,43,52
+2,4:30.0,Turnover by B. Beal (bad pass; steal by P. Tucker),,43,52
+2,4:22.0,,C. Capela makes 2-pt layup from 3 ft (assist by P. Tucker),43,54
+2,4:20.0,Washington full timeout,,43,54
+2,4:20.0,,G. Green enters the game for C. Paul,43,54
+2,4:01.0,B. Beal makes 2-pt jump shot from 10 ft,,45,54
+2,3:44.0,,E. Gordon makes 3-pt jump shot from 29 ft (assist by J. Harden),45,57
+2,3:35.0,Personal foul by E. Gordon (drawn by J. Green),,45,57
+2,3:27.0,M. Morris misses 2-pt hook shot from 10 ft,,45,57
+2,3:26.0,,Defensive rebound by C. Capela,45,57
+2,3:15.0,,J. Harden misses 3-pt jump shot from 25 ft,45,57
+2,3:12.0,Defensive rebound by T. Ariza,,45,57
+2,3:03.0,B. Beal makes 3-pt jump shot from 28 ft,,48,57
+2,2:47.0,,P. Tucker makes 3-pt jump shot from 26 ft (assist by J. Harden),48,60
+2,2:27.0,T. Ariza makes 3-pt jump shot from 23 ft (assist by B. Beal),,51,60
+2,2:11.0,,Turnover by G. Green (bad pass; steal by T. Ariza),51,60
+2,2:07.0,T. Ariza makes 2-pt dunk from 3 ft,,53,60
+2,1:53.0,,P. Tucker makes 3-pt jump shot from 23 ft (assist by C. Capela),53,63
+2,1:38.0,B. Beal makes 3-pt jump shot from 26 ft (assist by J. Wall),,56,63
+2,1:25.0,,J. Harden makes 2-pt dunk from 2 ft,56,65
+2,1:04.0,Turnover by J. Wall (lost ball; steal by J. Harden),,56,65
+2,1:00.0,,P. Tucker makes 2-pt layup from 2 ft,56,67
+2,0:55.0,J. Green makes 2-pt layup from 2 ft (assist by J. Wall),,58,67
+2,0:34.0,,J. Harden makes 2-pt layup from 1 ft,58,69
+2,0:34.0,,Shooting foul by M. Morris (drawn by J. Harden),58,69
+2,0:34.0,,J. Harden makes free throw 1 of 1,58,70
+2,0:30.0,Turnover by J. Wall (bad pass; steal by J. Harden),,58,70
+2,0:25.0,,Turnover by J. Harden (step out of bounds),58,70
+2,0:07.0,Personal foul by G. Green (drawn by B. Beal),,58,70
+3,11:50.0,,Personal foul by T. Ariza (drawn by C. Paul),58,70
+3,11:40.0,,Turnover by C. Capela (bad pass; steal by J. Wall),58,70
+3,11:31.0,J. Green misses 3-pt jump shot from 23 ft,,58,70
+3,11:27.0,,Defensive rebound by C. Paul,58,70
+3,11:25.0,,Shooting foul by B. Beal (drawn by J. Harden),58,70
+3,11:25.0,,J. Harden makes free throw 1 of 2,58,71
+3,11:25.0,,J. Harden makes free throw 2 of 2,58,72
+3,11:10.0,T. Ariza misses 3-pt jump shot from 23 ft,,58,72
+3,11:08.0,,Defensive rebound by P. Tucker,58,72
+3,11:04.0,,Turnover by J. Harden (bad pass; steal by J. Wall),58,72
+3,10:50.0,J. Green makes 2-pt dunk from 2 ft (assist by T. Bryant),,60,72
+3,10:35.0,,C. Capela misses 2-pt layup from 5 ft,60,72
+3,10:34.0,,Offensive rebound by Team,60,72
+3,10:34.0,,Turnover by C. Capela (traveling),60,72
+3,10:20.0,J. Green makes 2-pt layup from 3 ft (assist by J. Wall),,62,72
+3,9:59.0,,C. Paul makes 3-pt jump shot from 24 ft (assist by E. Gordon),62,75
+3,9:55.0,J. Wall misses 3-pt jump shot from 26 ft,,62,75
+3,9:42.0,,Defensive rebound by C. Capela,62,75
+3,9:33.0,,Turnover by C. Paul (bad pass; steal by T. Ariza),62,75
+3,9:30.0,T. Ariza misses 2-pt layup from 5 ft (block by C. Paul),,62,75
+3,9:30.0,,Defensive rebound by Team,62,75
+3,9:25.0,,E. Gordon makes 3-pt jump shot from 24 ft (assist by C. Paul),62,78
+3,9:23.0,Washington full timeout,,62,78
+3,9:08.0,J. Green makes 2-pt jump shot from 12 ft,,64,78
+3,8:53.0,,E. Gordon misses 2-pt layup from 4 ft (block by B. Beal),64,78
+3,8:51.0,,Offensive rebound by E. Gordon,64,78
+3,8:42.0,,C. Paul makes 2-pt layup from 4 ft,64,80
+3,8:21.0,T. Ariza makes 2-pt layup from 2 ft (assist by J. Green),,66,80
+3,7:57.0,,Turnover by Team (shot clock),66,80
+3,7:47.0,J. Green misses 3-pt jump shot from 23 ft,,66,80
+3,7:45.0,,Defensive rebound by J. Harden,66,80
+3,7:31.0,,J. Harden makes 3-pt jump shot from 28 ft,66,83
+3,7:11.0,J. Wall makes 2-pt jump shot from 6 ft,,68,83
+3,6:56.0,,C. Capela misses 2-pt hook shot from 6 ft,68,83
+3,6:55.0,Defensive rebound by T. Ariza,,68,83
+3,6:52.0,J. Wall makes 2-pt layup from 3 ft,,70,83
+3,6:52.0,,Violation by Team (def goaltending),70,83
+3,6:41.0,,J. Harden makes 2-pt layup from 4 ft (assist by C. Capela),70,85
+3,6:25.0,Personal foul by C. Paul (drawn by J. Green),,70,85
+3,6:25.0,,G. Green enters the game for C. Paul,70,85
+3,6:10.0,T. Ariza makes 2-pt jump shot from 15 ft (assist by J. Wall),,72,85
+3,5:44.0,,C. Capela makes 2-pt dunk from 4 ft (assist by J. Harden),72,87
+3,5:31.0,Personal foul by G. Green (drawn by J. Wall),,72,87
+3,5:31.0,M. Morris enters the game for T. Bryant,,72,87
+3,5:25.0,B. Beal makes 2-pt layup from 2 ft,,74,87
+3,5:07.0,,Turnover by E. Gordon (lost ball; steal by B. Beal),74,87
+3,4:56.0,T. Ariza misses 3-pt jump shot from 23 ft,,74,87
+3,4:52.0,,Defensive rebound by P. Tucker,74,87
+3,4:46.0,,Offensive foul by P. Tucker (drawn by T. Ariza),74,87
+3,4:46.0,,Turnover by P. Tucker (offensive foul),74,87
+3,4:46.0,,D. House enters the game for P. Tucker,74,87
+3,4:38.0,Turnover by J. Wall (bad pass),,74,87
+3,4:21.0,,J. Harden misses 3-pt jump shot from 27 ft,74,87
+3,4:19.0,Defensive rebound by Team,,74,87
+3,4:19.0,,Loose ball foul by C. Capela (drawn by M. Morris),74,87
+3,4:14.0,Shooting foul by J. Harden (drawn by B. Beal),,74,87
+3,4:14.0,B. Beal makes free throw 1 of 2,,75,87
+3,4:14.0,B. Beal makes free throw 2 of 2,,76,87
+3,4:03.0,,E. Gordon makes 2-pt layup from 2 ft (assist by J. Harden),76,89
+3,3:45.0,B. Beal misses 2-pt layup from 2 ft,,76,89
+3,3:44.0,Offensive rebound by M. Morris,,76,89
+3,3:44.0,M. Morris misses 2-pt layup from 3 ft (block by C. Capela),,76,89
+3,3:44.0,,Defensive rebound by Team,76,89
+3,3:27.0,,C. Capela makes 2-pt dunk from 3 ft (assist by G. Green),76,91
+3,3:27.0,Washington full timeout,,76,91
+3,3:12.0,J. Wall makes 2-pt layup from 2 ft,,78,91
+3,2:53.0,,D. House misses 3-pt jump shot from 23 ft,78,91
+3,2:50.0,,Offensive rebound by C. Capela,78,91
+3,2:43.0,,G. Green makes 3-pt jump shot from 27 ft (assist by E. Gordon),78,94
+3,2:18.0,J. Green makes 2-pt layup from 3 ft (assist by J. Wall),,80,94
+3,2:18.0,Shooting foul by G. Green (drawn by J. Green),,80,94
+3,2:18.0,T. Satoranský enters the game for B. Beal,,80,94
+3,2:18.0,,I. Hartenstein enters the game for C. Capela,80,94
+3,2:18.0,,C. Paul enters the game for G. Green,80,94
+3,2:18.0,J. Green makes free throw 1 of 1,,81,94
+3,2:02.0,,I. Hartenstein makes 2-pt dunk from 3 ft (assist by J. Harden),81,96
+3,1:49.0,Shooting foul by I. Hartenstein (drawn by J. Wall),,81,96
+3,1:49.0,J. Wall makes free throw 1 of 2,,82,96
+3,1:49.0,S. Dekker enters the game for J. Green,,82,96
+3,1:49.0,,G. Green enters the game for E. Gordon,82,96
+3,1:49.0,J. Wall makes free throw 2 of 2,,83,96
+3,1:38.0,,Shooting foul by S. Dekker (drawn by D. House),83,96
+3,1:38.0,,D. House misses free throw 1 of 2,83,96
+3,1:38.0,,Offensive rebound by Team,83,96
+3,1:38.0,,D. House misses free throw 2 of 2,83,96
+3,1:38.0,Defensive rebound by S. Dekker,,83,96
+3,1:27.0,Shooting foul by I. Hartenstein (drawn by J. Wall),,83,96
+3,1:27.0,J. Wall makes free throw 1 of 2,,84,96
+3,1:27.0,J. Wall makes free throw 2 of 2,,85,96
+3,1:17.0,,Shooting foul by M. Morris (drawn by J. Harden),85,96
+3,1:17.0,,J. Harden makes free throw 1 of 2,85,97
+3,1:17.0,,J. Harden makes free throw 2 of 2,85,98
+3,1:04.0,J. Wall misses 2-pt layup from 3 ft,,85,98
+3,1:03.0,,Defensive rebound by G. Green,85,98
+3,0:50.0,,J. Harden makes 3-pt jump shot from 24 ft,85,101
+3,0:38.0,S. Dekker makes 2-pt layup from 2 ft (assist by T. Ariza),,87,101
+3,0:31.0,,J. Harden misses 3-pt jump shot from 31 ft,87,101
+3,0:30.0,Defensive rebound by Team,,87,101
+3,0:30.0,,Loose ball foul by I. Hartenstein (drawn by M. Morris),87,101
+3,0:30.0,M. Morris misses free throw 1 of 2,,87,101
+3,0:30.0,Offensive rebound by Team,,87,101
+3,0:30.0,,P. Tucker enters the game for I. Hartenstein,87,101
+3,0:30.0,M. Morris makes free throw 2 of 2,,88,101
+3,0:09.0,,J. Harden misses 3-pt jump shot from 32 ft,88,101
+3,0:07.0,Defensive rebound by M. Morris,,88,101
+3,0:01.0,Shooting foul by J. Harden (drawn by J. Wall),,88,101
+3,0:01.0,J. Wall makes free throw 1 of 2,,89,101
+3,0:01.0,J. Wall makes free throw 2 of 2,,90,101
+4,11:53.0,Personal foul by C. Capela (drawn by M. Morris),,90,101
+4,11:39.0,J. Wall misses 3-pt jump shot from 29 ft,,90,101
+4,11:38.0,,Defensive rebound by Team,90,101
+4,11:28.0,,D. House makes 3-pt jump shot from 24 ft (assist by C. Paul),90,104
+4,11:19.0,B. Beal misses 2-pt jump shot from 13 ft,,90,104
+4,11:16.0,,Defensive rebound by D. House,90,104
+4,11:08.0,,Turnover by C. Paul (bad pass; steal by S. Dekker),90,104
+4,11:04.0,S. Dekker makes 2-pt layup from 3 ft (assist by B. Beal),,92,104
+4,10:49.0,,C. Capela misses 2-pt layup from 6 ft,92,104
+4,10:46.0,Defensive rebound by T. Satoranský,,92,104
+4,10:43.0,B. Beal misses 3-pt jump shot from 25 ft,,92,104
+4,10:41.0,,Defensive rebound by P. Tucker,92,104
+4,10:28.0,,C. Paul misses 3-pt jump shot from 29 ft,92,104
+4,10:26.0,Defensive rebound by J. Wall,,92,104
+4,10:24.0,Turnover by J. Wall (bad pass; steal by D. House),,92,104
+4,10:20.0,,D. House misses 3-pt jump shot from 26 ft,92,104
+4,10:18.0,Defensive rebound by J. Wall,,92,104
+4,10:09.0,S. Dekker makes 2-pt jump shot from 14 ft (assist by J. Wall),,94,104
+4,9:46.0,,D. House makes 3-pt jump shot from 27 ft (assist by C. Paul),94,107
+4,9:26.0,Turnover by S. Dekker (bad pass; steal by C. Capela),,94,107
+4,9:20.0,,C. Paul makes 2-pt jump shot from 11 ft,94,109
+4,9:19.0,Washington full timeout,,94,109
+4,9:07.0,S. Dekker misses 3-pt jump shot from 26 ft,,94,109
+4,9:06.0,,Defensive rebound by C. Capela,94,109
+4,9:00.0,,C. Capela makes 2-pt dunk from 2 ft (assist by C. Paul),94,111
+4,8:46.0,Shooting foul by G. Green (drawn by B. Beal),,94,111
+4,8:46.0,B. Beal misses free throw 1 of 2,,94,111
+4,8:46.0,Offensive rebound by Team,,94,111
+4,8:46.0,B. Beal makes free throw 2 of 2,,95,111
+4,8:23.0,,C. Paul misses 3-pt jump shot from 28 ft,95,111
+4,8:20.0,Defensive rebound by B. Beal,,95,111
+4,8:08.0,B. Beal misses 3-pt jump shot from 29 ft,,95,111
+4,8:06.0,,Defensive rebound by G. Green,95,111
+4,7:54.0,,G. Green misses 3-pt jump shot from 27 ft,95,111
+4,7:52.0,Defensive rebound by M. Morris,,95,111
+4,7:46.0,T. Satoranský makes 3-pt jump shot from 26 ft (assist by J. Wall),,98,111
+4,7:36.0,,Turnover by (8 sec),98,111
+4,7:36.0,T. Ariza enters the game for M. Morris,,98,111
+4,7:36.0,,E. Gordon enters the game for D. House,98,111
+4,7:36.0,,J. Harden enters the game for C. Paul,98,111
+4,7:24.0,B. Beal makes 3-pt jump shot from 23 ft (assist by J. Wall),,101,111
+4,6:56.0,,J. Harden makes 3-pt jump shot from 28 ft,101,114
+4,6:46.0,J. Wall makes 2-pt layup from 2 ft,,103,114
+4,6:33.0,,E. Gordon misses 3-pt jump shot from 26 ft,103,114
+4,6:31.0,Defensive rebound by T. Satoranský,,103,114
+4,6:23.0,T. Ariza misses 3-pt jump shot from 28 ft,,103,114
+4,6:21.0,,Defensive rebound by P. Tucker,103,114
+4,6:17.0,,Personal foul by S. Dekker (drawn by C. Capela),103,114
+4,6:14.0,,G. Green misses 3-pt jump shot from 29 ft,103,114
+4,6:11.0,,Offensive rebound by C. Capela,103,114
+4,6:09.0,,E. Gordon makes 3-pt jump shot from 29 ft (assist by P. Tucker),103,117
+4,5:59.0,Turnover by J. Wall (discontinued dribble),,103,117
+4,5:41.0,,J. Harden misses 3-pt jump shot from 27 ft,103,117
+4,5:39.0,,Offensive rebound by P. Tucker,103,117
+4,5:37.0,,G. Green makes 3-pt jump shot from 24 ft (assist by P. Tucker),103,120
+4,5:25.0,T. Satoranský misses 3-pt jump shot from 24 ft,,103,120
+4,5:25.0,,Defensive rebound by C. Capela,103,120
+4,5:16.0,,G. Green makes 3-pt jump shot from 24 ft (assist by J. Harden),103,123
+4,5:14.0,Washington full timeout,,103,123
+4,5:14.0,J. Green enters the game for S. Dekker,,103,123
+4,5:03.0,,Violation by Team (kicked ball),103,123
+4,4:52.0,J. Wall misses 2-pt jump shot from 18 ft,,103,123
+4,4:49.0,,Defensive rebound by E. Gordon,103,123
+4,4:39.0,,C. Capela makes 2-pt dunk from 2 ft (assist by J. Harden),103,125
+4,4:15.0,Shooting foul by P. Tucker (drawn by B. Beal),,103,125
+4,4:15.0,B. Beal makes free throw 1 of 2,,104,125
+4,4:15.0,T. Brown enters the game for T. Ariza,,104,125
+4,4:15.0,T. Bryant enters the game for J. Green,,104,125
+4,4:15.0,C. Randle enters the game for J. Wall,,104,125
+4,4:15.0,,M. Carter-Williams enters the game for C. Capela,104,125
+4,4:15.0,,M. Chriss enters the game for E. Gordon,104,125
+4,4:15.0,,G. Clark enters the game for G. Green,104,125
+4,4:15.0,,I. Hartenstein enters the game for J. Harden,104,125
+4,4:15.0,,D. House enters the game for P. Tucker,104,125
+4,4:15.0,B. Beal makes free throw 2 of 2,,105,125
+4,3:55.0,,Shooting foul by C. Randle (drawn by D. House),105,125
+4,3:55.0,,D. House makes free throw 1 of 3,105,126
+4,3:55.0,,D. House makes free throw 2 of 3,105,127
+4,3:55.0,J. McRae enters the game for B. Beal,,105,127
+4,3:55.0,,D. House makes free throw 3 of 3,105,128
+4,3:42.0,Shooting foul by I. Hartenstein (drawn by C. Randle),,105,128
+4,3:42.0,C. Randle makes free throw 1 of 2,,106,128
+4,3:42.0,C. Randle makes free throw 2 of 2,,107,128
+4,3:32.0,,M. Carter-Williams makes 2-pt layup from 2 ft (assist by I. Hartenstein),107,130
+4,3:13.0,Personal foul by M. Carter-Williams (drawn by T. Brown),,107,130
+4,3:13.0,T. Brown misses free throw 1 of 2,,107,130
+4,3:13.0,Offensive rebound by Team,,107,130
+4,3:13.0,T. Brown misses free throw 2 of 2,,107,130
+4,3:13.0,,Defensive rebound by M. Chriss,107,130
+4,3:00.0,,M. Chriss misses 3-pt jump shot from 24 ft,107,130
+4,2:56.0,Defensive rebound by T. Bryant,,107,130
+4,2:50.0,T. Brown misses 3-pt jump shot from 24 ft,,107,130
+4,2:47.0,,Defensive rebound by G. Clark,107,130
+4,2:42.0,,G. Clark makes 3-pt jump shot from 28 ft (assist by M. Carter-Williams),107,133
+4,2:29.0,T. Brown misses 2-pt jump shot from 14 ft,,107,133
+4,2:27.0,,Defensive rebound by D. House,107,133
+4,2:23.0,,Turnover by D. House (discontinued dribble),107,133
+4,2:09.0,T. Brown misses 2-pt layup from 3 ft,,107,133
+4,2:06.0,,Defensive rebound by I. Hartenstein,107,133
+4,1:53.0,,M. Carter-Williams misses 3-pt jump shot from 28 ft,107,133
+4,1:50.0,,Offensive rebound by I. Hartenstein,107,133
+4,1:47.0,,D. House misses 3-pt jump shot from 28 ft,107,133
+4,1:44.0,Defensive rebound by T. Bryant,,107,133
+4,1:25.0,J. McRae misses 2-pt jump shot from 11 ft,,107,133
+4,1:22.0,Offensive rebound by J. McRae,,107,133
+4,1:22.0,J. McRae makes 2-pt layup from 3 ft,,109,133
+4,1:07.0,,Turnover by D. House (out of bounds lost ball),109,133
+4,1:01.0,C. Randle makes 3-pt jump shot from 28 ft,,112,133
+4,0:51.0,,M. Carter-Williams misses 3-pt jump shot from 27 ft,112,133
+4,0:50.0,Defensive rebound by T. Satoranský,,112,133
+4,0:43.0,C. Randle makes 3-pt jump shot from 25 ft (assist by T. Satoranský),,115,133
+4,0:36.0,,D. House misses 3-pt jump shot from 28 ft,115,133
+4,0:36.0,,Offensive rebound by G. Clark,115,133
+4,0:31.0,,M. Carter-Williams makes 3-pt jump shot from 28 ft (assist by G. Clark),115,136
+4,0:16.0,T. Bryant makes 3-pt jump shot from 28 ft (assist by T. Brown),,118,136

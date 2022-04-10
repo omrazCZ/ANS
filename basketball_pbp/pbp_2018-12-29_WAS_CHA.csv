@@ -1,0 +1,463 @@
+QUARTER,TIME_REMAINING,CHARLOTTE_ACTION,WASHINGTON_ACTION,CHARLOTTE_SCORE,WASHINGTON_SCORE
+1,11:31.0,,J. Green makes 2-pt jump shot from 21 ft (assist by T. Ariza),0,2
+1,11:11.0,Turnover by C. Zeller (bad pass),,0,2
+1,10:55.0,,B. Beal makes 2-pt jump shot from 19 ft,0,4
+1,10:41.0,K. Walker misses 3-pt jump shot from 26 ft,,0,4
+1,10:38.0,,Defensive rebound by T. Bryant,0,4
+1,10:33.0,,J. Green misses 3-pt jump shot from 23 ft,0,4
+1,10:31.0,Defensive rebound by C. Zeller,,0,4
+1,10:24.0,C. Zeller makes 2-pt layup from 3 ft (assist by K. Walker),,2,4
+1,10:07.0,,Personal foul by J. Lamb (drawn by T. Ariza),2,4
+1,10:01.0,,T. Satoranský misses 2-pt jump shot from 6 ft,2,4
+1,9:59.0,Defensive rebound by C. Zeller,,2,4
+1,9:53.0,M. Williams makes 3-pt jump shot from 25 ft (assist by K. Walker),,5,4
+1,9:38.0,,Turnover by B. Beal (bad pass; steal by N. Batum),5,4
+1,9:35.0,Turnover by M. Williams (lost ball; steal by B. Beal),,5,4
+1,9:09.0,,T. Ariza misses 2-pt jump shot from 6 ft,5,4
+1,9:07.0,Defensive rebound by J. Lamb,,5,4
+1,8:55.0,J. Lamb misses 2-pt jump shot from 4 ft,,5,4
+1,8:53.0,Offensive rebound by C. Zeller,,5,4
+1,8:44.0,J. Lamb misses 2-pt jump shot from 5 ft,,5,4
+1,8:41.0,Offensive rebound by C. Zeller,,5,4
+1,8:41.0,C. Zeller makes 2-pt layup from 1 ft,,7,4
+1,8:25.0,,T. Bryant makes 2-pt layup from 2 ft (assist by T. Ariza),7,6
+1,8:25.0,,Shooting foul by M. Williams (drawn by T. Bryant),7,6
+1,8:25.0,,T. Bryant makes free throw 1 of 1,7,7
+1,8:14.0,K. Walker makes 2-pt layup from 4 ft (assist by M. Williams),,9,7
+1,7:58.0,,T. Bryant misses 3-pt jump shot from 26 ft,9,7
+1,7:55.0,Defensive rebound by M. Williams,,9,7
+1,7:48.0,K. Walker misses 2-pt hook shot from 6 ft,,9,7
+1,7:47.0,Offensive rebound by C. Zeller,,9,7
+1,7:47.0,C. Zeller misses 2-pt layup from 3 ft,,9,7
+1,7:45.0,,Defensive rebound by T. Satoranský,9,7
+1,7:39.0,,B. Beal misses 2-pt jump shot from 5 ft,9,7
+1,7:35.0,Defensive rebound by J. Lamb,,9,7
+1,7:35.0,Shooting foul by T. Ariza (drawn by J. Lamb),,9,7
+1,7:35.0,J. Lamb misses free throw 1 of 2,,9,7
+1,7:35.0,Offensive rebound by Team,,9,7
+1,7:35.0,J. Lamb makes free throw 2 of 2,,10,7
+1,7:20.0,,T. Satoranský misses 2-pt jump shot from 13 ft,10,7
+1,7:17.0,Defensive rebound by J. Lamb,,10,7
+1,7:01.0,M. Williams makes 2-pt layup from 3 ft (assist by C. Zeller),,12,7
+1,7:00.0,,Washington full timeout,12,7
+1,6:41.0,,T. Ariza misses 2-pt jump shot from 15 ft,12,7
+1,6:34.0,,Offensive rebound by T. Satoranský,12,7
+1,6:32.0,,Turnover by J. Green (offensive foul),12,7
+1,6:32.0,,Offensive foul by J. Green (drawn by K. Walker),12,7
+1,6:20.0,N. Batum makes 3-pt jump shot from 24 ft (assist by C. Zeller),,15,7
+1,6:07.0,,T. Bryant makes 2-pt dunk from 2 ft (assist by T. Ariza),15,9
+1,5:43.0,Turnover by N. Batum (bad pass; steal by J. Green),,15,9
+1,5:33.0,,B. Beal misses 3-pt jump shot from 26 ft,15,9
+1,5:31.0,Defensive rebound by K. Walker,,15,9
+1,5:24.0,M. Williams misses 3-pt jump shot from 23 ft,,15,9
+1,5:21.0,,Defensive rebound by J. Green,15,9
+1,5:17.0,,T. Ariza misses 3-pt jump shot from 28 ft,15,9
+1,5:13.0,Defensive rebound by M. Williams,,15,9
+1,5:09.0,C. Zeller makes 2-pt layup from 3 ft (assist by M. Williams),,17,9
+1,4:56.0,,T. Bryant misses 2-pt hook shot from 6 ft,17,9
+1,4:55.0,,Offensive rebound by T. Ariza,17,9
+1,4:55.0,,Personal foul by N. Batum (drawn by T. Ariza),17,9
+1,4:55.0,M. Kidd-Gilchrist enters the game for J. Lamb,,17,9
+1,4:55.0,M. Monk enters the game for M. Williams,,17,9
+1,4:55.0,,T. Brown enters the game for T. Ariza,17,9
+1,4:55.0,,S. Dekker enters the game for J. Green,17,9
+1,4:48.0,,Personal foul by K. Walker (drawn by T. Satoranský),17,9
+1,4:39.0,,T. Satoranský makes 3-pt jump shot from 25 ft (assist by B. Beal),17,12
+1,4:26.0,K. Walker misses 2-pt jump shot from 15 ft,,17,12
+1,4:22.0,,Defensive rebound by T. Bryant,17,12
+1,4:13.0,,T. Satoranský misses 3-pt jump shot from 24 ft,17,12
+1,4:09.0,Defensive rebound by N. Batum,,17,12
+1,4:03.0,K. Walker misses 2-pt layup from 6 ft (block by S. Dekker),,17,12
+1,4:03.0,Offensive rebound by Team,,17,12
+1,3:51.0,K. Walker makes 2-pt jump shot from 3 ft,,19,12
+1,3:35.0,,S. Dekker makes 2-pt layup from 4 ft,19,14
+1,3:15.0,Turnover by C. Zeller (out of bounds lost ball),,19,14
+1,3:15.0,,C. Randle enters the game for T. Satoranský,19,14
+1,3:10.0,,B. Beal misses 2-pt jump shot from 4 ft (block by C. Zeller),19,14
+1,3:08.0,,Offensive rebound by S. Dekker,19,14
+1,3:08.0,,S. Dekker makes 2-pt dunk from 1 ft,19,16
+1,3:06.0,Charlotte full timeout,,19,16
+1,3:06.0,D. Graham enters the game for K. Walker,,19,16
+1,3:06.0,W. Hernangómez enters the game for C. Zeller,,19,16
+1,2:54.0,M. Monk makes 2-pt layup from 2 ft (assist by N. Batum),,21,16
+1,2:28.0,,T. Bryant misses 2-pt layup from 2 ft,21,16
+1,2:25.0,,Offensive rebound by T. Bryant,21,16
+1,2:25.0,,T. Bryant makes 2-pt layup at rim,21,18
+1,2:17.0,Shooting foul by B. Beal (drawn by N. Batum),,21,18
+1,2:17.0,N. Batum makes free throw 1 of 3,,22,18
+1,2:17.0,N. Batum makes free throw 2 of 3,,23,18
+1,2:17.0,N. Batum makes free throw 3 of 3,,24,18
+1,2:02.0,,T. Brown makes 2-pt dunk from 1 ft (assist by T. Bryant),24,20
+1,1:52.0,Turnover by D. Graham (lost ball; steal by B. Beal),,24,20
+1,1:47.0,,S. Dekker makes 2-pt dunk from 2 ft (assist by B. Beal),24,22
+1,1:24.0,M. Kidd-Gilchrist misses 2-pt layup from 3 ft,,24,22
+1,1:22.0,,Defensive rebound by S. Dekker,24,22
+1,1:14.0,,T. Brown makes 2-pt layup from 3 ft,24,24
+1,1:14.0,Charlotte full timeout,,24,24
+1,1:14.0,J. Lamb enters the game for N. Batum,,24,24
+1,0:59.0,J. Lamb misses 3-pt jump shot from 26 ft,,24,24
+1,0:57.0,,Defensive rebound by T. Bryant,24,24
+1,0:42.0,,C. Randle makes 3-pt jump shot from 26 ft,24,27
+1,0:32.0,D. Graham makes 3-pt jump shot from 27 ft (assist by J. Lamb),,27,27
+1,0:13.0,,T. Bryant misses 3-pt jump shot from 26 ft,27,27
+1,0:10.0,,Offensive rebound by C. Randle,27,27
+1,0:07.0,,Turnover by C. Randle (lost ball; steal by M. Monk),27,27
+1,0:02.0,D. Graham misses 3-pt jump shot from 27 ft,,27,27
+1,0:02.0,Offensive rebound by M. Kidd-Gilchrist,,27,27
+1,0:00.0,M. Kidd-Gilchrist makes 2-pt layup from 1 ft,,29,27
+2,11:46.0,M. Monk misses 3-pt jump shot from 26 ft,,29,27
+2,11:43.0,,Defensive rebound by C. Randle,29,27
+2,11:27.0,,J. Green misses 2-pt jump shot from 12 ft,29,27
+2,11:25.0,,Offensive rebound by Team,29,27
+2,11:25.0,Loose ball foul by M. Kidd-Gilchrist (drawn by S. Dekker),,29,27
+2,11:19.0,,Shooting foul by W. Hernangómez (drawn by C. Randle),29,27
+2,11:19.0,,C. Randle makes free throw 1 of 2,29,28
+2,11:19.0,,C. Randle makes free throw 2 of 2,29,29
+2,11:04.0,W. Hernangómez misses 2-pt layup from 3 ft (block by J. Green),,29,29
+2,11:01.0,,Defensive rebound by C. Randle,29,29
+2,10:49.0,,T. Brown makes 3-pt jump shot from 25 ft (assist by T. Ariza),29,32
+2,10:35.0,M. Kidd-Gilchrist makes 2-pt layup from 3 ft (assist by D. Graham),,31,32
+2,10:35.0,Shooting foul by S. Dekker (drawn by M. Kidd-Gilchrist),,31,32
+2,10:35.0,M. Williams enters the game for W. Hernangómez,,31,32
+2,10:35.0,M. Kidd-Gilchrist makes free throw 1 of 1,,32,32
+2,10:22.0,,S. Dekker makes 2-pt layup from 2 ft (assist by T. Ariza),32,34
+2,10:03.0,J. Lamb makes 2-pt jump shot from 15 ft,,34,34
+2,9:52.0,,T. Ariza makes 2-pt layup from 2 ft (assist by J. Green),34,36
+2,9:38.0,D. Graham makes 2-pt layup from 2 ft,,36,36
+2,9:25.0,,Personal foul by M. Monk (drawn by J. Green),36,36
+2,9:20.0,,Shooting foul by D. Graham (drawn by T. Brown),36,36
+2,9:20.0,,T. Brown makes free throw 1 of 2,36,37
+2,9:20.0,,T. Brown makes free throw 2 of 2,36,38
+2,9:09.0,Personal foul by J. Green (drawn by J. Lamb),,36,38
+2,9:01.0,J. Lamb makes 3-pt jump shot from 27 ft,,39,38
+2,8:44.0,,Turnover by T. Brown (bad pass; steal by D. Graham),39,38
+2,8:38.0,D. Graham misses 2-pt layup from 3 ft,,39,38
+2,8:36.0,Offensive rebound by M. Williams,,39,38
+2,8:36.0,M. Williams misses 2-pt layup from 4 ft,,39,38
+2,8:36.0,Offensive rebound by Team,,39,38
+2,8:36.0,K. Walker enters the game for M. Monk,,39,38
+2,8:23.0,Turnover by J. Lamb (bad pass; steal by J. Green),,39,38
+2,8:15.0,,C. Randle makes 2-pt layup from 1 ft (assist by S. Dekker),39,40
+2,7:48.0,J. Lamb misses 3-pt jump shot from 26 ft,,39,40
+2,7:46.0,,Defensive rebound by T. Brown,39,40
+2,7:32.0,,S. Dekker makes 2-pt layup from 2 ft (assist by C. Randle),39,42
+2,7:32.0,Charlotte full timeout,,39,42
+2,7:32.0,N. Batum enters the game for D. Graham,,39,42
+2,7:32.0,C. Zeller enters the game for M. Kidd-Gilchrist,,39,42
+2,7:10.0,K. Walker makes 3-pt jump shot from 26 ft (assist by C. Zeller),,42,42
+2,6:52.0,,S. Dekker makes 3-pt jump shot from 25 ft (assist by T. Brown),42,45
+2,6:29.0,M. Williams makes 2-pt hook shot from 4 ft (assist by K. Walker),,44,45
+2,6:20.0,,T. Ariza misses 3-pt jump shot from 27 ft,44,45
+2,6:16.0,Defensive rebound by K. Walker,,44,45
+2,6:15.0,Personal foul by T. Brown (drawn by J. Lamb),,44,45
+2,6:15.0,,B. Beal enters the game for T. Brown,44,45
+2,6:03.0,M. Williams makes 2-pt layup from 2 ft (assist by C. Zeller),,46,45
+2,5:50.0,,T. Ariza misses 2-pt layup from 2 ft,46,45
+2,5:48.0,Defensive rebound by N. Batum,,46,45
+2,5:39.0,K. Walker makes 3-pt jump shot from 25 ft,,49,45
+2,5:27.0,,Personal foul by N. Batum (drawn by B. Beal),49,45
+2,5:27.0,,T. Satoranský enters the game for C. Randle,49,45
+2,5:27.0,,B. Beal makes free throw 1 of 2,49,46
+2,5:27.0,,B. Beal misses free throw 2 of 2,49,46
+2,5:25.0,Defensive rebound by N. Batum,,49,46
+2,5:16.0,Turnover by C. Zeller (bad pass),,49,46
+2,5:03.0,,Shooting foul by J. Lamb (drawn by T. Ariza),49,46
+2,5:03.0,,T. Ariza makes free throw 1 of 2,49,47
+2,5:03.0,,T. Ariza makes free throw 2 of 2,49,48
+2,4:52.0,C. Zeller misses 2-pt layup from 3 ft,,49,48
+2,4:47.0,Offensive rebound by N. Batum,,49,48
+2,4:47.0,N. Batum makes 2-pt layup from 1 ft,,51,48
+2,4:38.0,,J. Green makes 2-pt jump shot from 10 ft (assist by S. Dekker),51,50
+2,4:27.0,Personal foul by T. Satoranský (drawn by J. Lamb),,51,50
+2,4:23.0,Turnover by C. Zeller (offensive foul),,51,50
+2,4:23.0,Offensive foul by C. Zeller (drawn by B. Beal),,51,50
+2,4:13.0,,B. Beal makes 2-pt layup from 1 ft (assist by T. Ariza),51,52
+2,4:13.0,,Shooting foul by C. Zeller (drawn by B. Beal),51,52
+2,4:13.0,,T. Bryant enters the game for S. Dekker,51,52
+2,4:13.0,,B. Beal makes free throw 1 of 1,51,53
+2,4:06.0,Personal foul by T. Satoranský (drawn by K. Walker),,51,53
+2,4:06.0,K. Walker makes free throw 1 of 2,,52,53
+2,4:06.0,K. Walker makes free throw 2 of 2,,53,53
+2,3:52.0,,J. Green makes 2-pt jump shot from 8 ft (assist by B. Beal),53,55
+2,3:40.0,M. Williams misses 3-pt jump shot from 25 ft,,53,55
+2,3:36.0,,Defensive rebound by T. Ariza,53,55
+2,3:29.0,,Personal foul by C. Zeller (drawn by T. Bryant),53,55
+2,3:29.0,,T. Bryant makes free throw 1 of 2,53,56
+2,3:29.0,M. Kidd-Gilchrist enters the game for C. Zeller,,53,56
+2,3:29.0,,T. Bryant makes free throw 2 of 2,53,57
+2,3:17.0,Turnover by N. Batum (bad pass; steal by B. Beal),,53,57
+2,3:03.0,,B. Beal misses 3-pt jump shot from 26 ft,53,57
+2,2:59.0,Defensive rebound by K. Walker,,53,57
+2,2:51.0,M. Williams misses 3-pt jump shot from 25 ft,,53,57
+2,2:49.0,Offensive rebound by K. Walker,,53,57
+2,2:38.0,Turnover by J. Lamb (lost ball; steal by B. Beal),,53,57
+2,2:25.0,,J. Green makes 2-pt jump shot from 2 ft,53,59
+2,2:10.0,M. Williams makes 3-pt jump shot from 26 ft (assist by K. Walker),,56,59
+2,1:50.0,,T. Ariza makes 3-pt jump shot from 27 ft,56,62
+2,1:38.0,K. Walker makes 2-pt layup from 3 ft,,58,62
+2,1:17.0,,T. Satoranský makes 3-pt jump shot from 26 ft (assist by J. Green),58,65
+2,1:03.0,K. Walker makes 2-pt jump shot from 11 ft,,60,65
+2,1:03.0,Shooting foul by T. Satoranský (drawn by K. Walker),,60,65
+2,1:03.0,,Washington full timeout,60,65
+2,1:03.0,,S. Dekker enters the game for J. Green,60,65
+2,1:03.0,,C. Randle enters the game for T. Satoranský,60,65
+2,1:03.0,K. Walker makes free throw 1 of 1,,61,65
+2,0:50.0,,B. Beal makes 2-pt jump shot from 11 ft,61,67
+2,0:43.0,J. Lamb misses 2-pt layup from 5 ft,,61,67
+2,0:41.0,,Defensive rebound by B. Beal,61,67
+2,0:28.0,,S. Dekker misses 2-pt jump shot from 12 ft,61,67
+2,0:25.0,Defensive rebound by J. Lamb,,61,67
+2,0:04.0,N. Batum misses 3-pt jump shot from 28 ft,,61,67
+2,0:02.0,,Defensive rebound by Team,61,67
+3,11:42.0,J. Lamb misses 3-pt jump shot from 26 ft,,61,67
+3,11:38.0,,Defensive rebound by J. Green,61,67
+3,11:28.0,,Turnover by B. Beal (lost ball; steal by C. Zeller),61,67
+3,11:24.0,J. Lamb makes 2-pt layup from 2 ft,,63,67
+3,11:24.0,,Violation by Team (def goaltending),63,67
+3,11:06.0,,B. Beal misses 3-pt jump shot from 27 ft,63,67
+3,11:02.0,Defensive rebound by C. Zeller,,63,67
+3,10:55.0,N. Batum misses 2-pt layup from 2 ft (block by J. Green),,63,67
+3,10:53.0,,Defensive rebound by J. Green,63,67
+3,10:51.0,,B. Beal makes 2-pt layup from 1 ft (assist by J. Green),63,69
+3,10:28.0,N. Batum misses 3-pt jump shot from 27 ft,,63,69
+3,10:24.0,,Defensive rebound by T. Bryant,63,69
+3,10:18.0,,B. Beal misses 3-pt jump shot from 25 ft,63,69
+3,10:16.0,Defensive rebound by C. Zeller,,63,69
+3,10:09.0,Shooting foul by T. Bryant (drawn by J. Lamb),,63,69
+3,10:09.0,J. Lamb makes free throw 1 of 2,,64,69
+3,10:09.0,J. Lamb misses free throw 2 of 2,,64,69
+3,10:05.0,,Defensive rebound by T. Bryant,64,69
+3,9:49.0,,Turnover by T. Ariza (bad pass),64,69
+3,9:43.0,K. Walker misses 3-pt jump shot from 26 ft,,64,69
+3,9:39.0,,Defensive rebound by B. Beal,64,69
+3,9:34.0,,J. Green misses 2-pt dunk from 4 ft,64,69
+3,9:33.0,,Offensive rebound by Team,64,69
+3,9:28.0,,Personal foul by M. Williams (drawn by T. Bryant),64,69
+3,9:21.0,,B. Beal makes 3-pt jump shot from 26 ft (assist by T. Bryant),64,72
+3,9:01.0,Turnover by C. Zeller (bad pass; steal by B. Beal),,64,72
+3,8:56.0,,T. Ariza makes 2-pt layup from 3 ft,64,74
+3,8:56.0,Charlotte full timeout,,64,74
+3,8:42.0,N. Batum misses 2-pt jump shot from 17 ft,,64,74
+3,8:38.0,,Defensive rebound by B. Beal,64,74
+3,8:25.0,,J. Green misses 3-pt jump shot from 24 ft,64,74
+3,8:20.0,Defensive rebound by M. Williams,,64,74
+3,8:10.0,Shooting foul by J. Green (drawn by J. Lamb),,64,74
+3,8:10.0,J. Lamb makes free throw 1 of 2,,65,74
+3,8:10.0,D. Graham enters the game for N. Batum,,65,74
+3,8:10.0,J. Lamb makes free throw 2 of 2,,66,74
+3,7:51.0,,B. Beal misses 2-pt layup at rim,66,74
+3,7:51.0,Defensive rebound by Team,,66,74
+3,7:40.0,K. Walker misses 3-pt jump shot from 27 ft,,66,74
+3,7:36.0,Offensive rebound by J. Lamb,,66,74
+3,7:36.0,J. Lamb makes 2-pt layup at rim,,68,74
+3,7:30.0,,B. Beal misses 3-pt jump shot from 27 ft,68,74
+3,7:25.0,Defensive rebound by D. Graham,,68,74
+3,7:23.0,M. Williams makes 2-pt layup from 2 ft (assist by D. Graham),,70,74
+3,7:23.0,,Washington full timeout,70,74
+3,7:14.0,,Personal foul by C. Zeller (drawn by T. Bryant),70,74
+3,7:10.0,,T. Ariza misses 3-pt jump shot from 27 ft,70,74
+3,7:07.0,Defensive rebound by M. Williams,,70,74
+3,6:59.0,Turnover by K. Walker (bad pass; steal by B. Beal),,70,74
+3,6:53.0,,T. Satoranský makes 2-pt layup from 3 ft (assist by T. Ariza),70,76
+3,6:30.0,Turnover by C. Zeller (offensive foul),,70,76
+3,6:30.0,Offensive foul by C. Zeller (drawn by T. Satoranský),,70,76
+3,6:30.0,M. Kidd-Gilchrist enters the game for C. Zeller,,70,76
+3,6:16.0,,Turnover by T. Satoranský (bad pass; steal by K. Walker),70,76
+3,6:14.0,K. Walker makes 2-pt layup from 1 ft,,72,76
+3,6:14.0,Shooting foul by B. Beal (drawn by K. Walker),,72,76
+3,6:14.0,K. Walker misses free throw 1 of 1,,72,76
+3,6:11.0,,Defensive rebound by T. Ariza,72,76
+3,5:52.0,,T. Satoranský misses 3-pt jump shot from 27 ft,72,76
+3,5:51.0,,Offensive rebound by Team,72,76
+3,5:51.0,Loose ball foul by J. Lamb (drawn by T. Bryant),,72,76
+3,5:51.0,N. Batum enters the game for D. Graham,,72,76
+3,5:51.0,M. Monk enters the game for J. Lamb,,72,76
+3,5:39.0,,Turnover by T. Ariza (bad pass; steal by M. Kidd-Gilchrist),72,76
+3,5:35.0,Turnover by M. Monk (out of bounds lost ball),,72,76
+3,5:28.0,,Shooting foul by M. Williams (drawn by T. Satoranský),72,76
+3,5:28.0,,T. Satoranský makes free throw 1 of 2,72,77
+3,5:28.0,,T. Satoranský makes free throw 2 of 2,72,78
+3,5:14.0,M. Kidd-Gilchrist makes 2-pt hook shot from 8 ft (assist by M. Monk),,74,78
+3,4:58.0,,T. Ariza makes 3-pt jump shot from 25 ft (assist by T. Satoranský),74,81
+3,4:41.0,M. Monk makes 2-pt jump shot from 20 ft,,76,81
+3,4:22.0,,J. Green misses 2-pt layup from 3 ft (block by M. Williams),76,81
+3,4:17.0,Defensive rebound by N. Batum,,76,81
+3,4:15.0,M. Williams makes 3-pt jump shot from 26 ft (assist by N. Batum),,79,81
+3,4:00.0,,T. Bryant makes 2-pt dunk from 2 ft (assist by T. Ariza),79,83
+3,3:46.0,K. Walker makes 2-pt jump shot from 17 ft,,81,83
+3,3:28.0,,T. Satoranský makes 3-pt jump shot from 26 ft (assist by J. Green),81,86
+3,3:05.0,K. Walker makes 2-pt layup from 2 ft,,83,86
+3,2:51.0,,T. Bryant makes 2-pt jump shot from 19 ft (assist by T. Satoranský),83,88
+3,2:33.0,K. Walker misses 2-pt layup from 1 ft (block by T. Bryant),,83,88
+3,2:33.0,,Defensive rebound by T. Satoranský,83,88
+3,2:33.0,,Shooting foul by M. Kidd-Gilchrist (drawn by T. Satoranský),83,88
+3,2:33.0,,T. Satoranský makes free throw 1 of 2,83,89
+3,2:33.0,D. Graham enters the game for K. Walker,,83,89
+3,2:33.0,W. Hernangómez enters the game for M. Williams,,83,89
+3,2:33.0,,T. Brown enters the game for T. Ariza,83,89
+3,2:33.0,,S. Dekker enters the game for J. Green,83,89
+3,2:33.0,,T. Satoranský makes free throw 2 of 2,83,90
+3,2:23.0,M. Monk misses 3-pt jump shot from 26 ft,,83,90
+3,2:20.0,Offensive rebound by M. Kidd-Gilchrist,,83,90
+3,2:17.0,W. Hernangómez misses 2-pt layup from 6 ft,,83,90
+3,2:15.0,,Defensive rebound by T. Bryant,83,90
+3,2:03.0,,B. Beal misses 2-pt jump shot from 22 ft,83,90
+3,2:03.0,Defensive rebound by Team,,83,90
+3,1:47.0,Turnover by W. Hernangómez (offensive foul),,83,90
+3,1:47.0,Offensive foul by W. Hernangómez (drawn by T. Bryant),,83,90
+3,1:39.0,,S. Dekker misses 3-pt jump shot from 25 ft,83,90
+3,1:34.0,Defensive rebound by D. Graham,,83,90
+3,1:29.0,W. Hernangómez makes 2-pt dunk from 1 ft (assist by D. Graham),,85,90
+3,1:08.0,,T. Bryant makes 2-pt hook shot from 8 ft (assist by T. Satoranský),85,92
+3,0:53.0,M. Monk makes 3-pt jump shot from 27 ft (assist by D. Graham),,88,92
+3,0:38.0,,Turnover by B. Beal (bad pass; steal by N. Batum),88,92
+3,0:33.0,M. Kidd-Gilchrist makes 2-pt layup from 2 ft (assist by N. Batum),,90,92
+3,0:15.0,,T. Bryant makes 2-pt layup from 3 ft (assist by T. Satoranský),90,94
+3,0:00.0,D. Graham makes 2-pt layup from 2 ft,,92,94
+4,11:52.0,,T. Ariza misses 3-pt jump shot from 26 ft,92,94
+4,11:48.0,,Offensive rebound by T. Bryant,92,94
+4,11:39.0,,T. Bryant makes 2-pt layup from 7 ft,92,96
+4,11:28.0,Shooting foul by C. Randle (drawn by D. Graham),,92,96
+4,11:28.0,D. Graham makes free throw 1 of 2,,93,96
+4,11:28.0,J. Lamb enters the game for N. Batum,,93,96
+4,11:28.0,D. Graham makes free throw 2 of 2,,94,96
+4,11:11.0,,C. Randle misses 2-pt layup from 3 ft,94,96
+4,11:09.0,Defensive rebound by W. Hernangómez,,94,96
+4,10:56.0,W. Hernangómez misses 2-pt layup from 4 ft (block by T. Brown),,94,96
+4,10:52.0,,Defensive rebound by S. Dekker,94,96
+4,10:40.0,,Turnover by C. Randle (lost ball; steal by M. Monk),94,96
+4,10:37.0,Shooting foul by C. Randle (drawn by M. Monk),,94,96
+4,10:37.0,M. Monk makes free throw 1 of 2,,95,96
+4,10:37.0,,J. Green enters the game for T. Bryant,95,96
+4,10:37.0,M. Monk makes free throw 2 of 2,,96,96
+4,10:29.0,,C. Randle makes 2-pt layup from 2 ft (assist by J. Green),96,98
+4,10:10.0,W. Hernangómez misses 3-pt jump shot from 24 ft,,96,98
+4,10:07.0,,Defensive rebound by S. Dekker,96,98
+4,9:52.0,,C. Randle makes 2-pt layup from 3 ft,96,100
+4,9:50.0,Offensive foul by W. Hernangómez (drawn by C. Randle),,96,100
+4,9:50.0,Turnover by W. Hernangómez (offensive foul),,96,100
+4,9:40.0,,S. Dekker misses 2-pt layup from 3 ft,96,100
+4,9:38.0,Defensive rebound by D. Graham,,96,100
+4,9:33.0,D. Graham makes 2-pt layup from 2 ft,,98,100
+4,9:23.0,,C. Randle misses 3-pt jump shot from 26 ft,98,100
+4,9:20.0,,Offensive rebound by J. Green,98,100
+4,9:18.0,,T. Ariza misses 3-pt jump shot from 26 ft,98,100
+4,9:14.0,,Offensive rebound by T. Brown,98,100
+4,9:12.0,,T. Ariza makes 3-pt jump shot from 26 ft (assist by T. Brown),98,103
+4,9:11.0,Charlotte full timeout,,98,103
+4,9:11.0,K. Walker enters the game for W. Hernangómez,,98,103
+4,9:11.0,M. Williams enters the game for M. Monk,,98,103
+4,8:52.0,K. Walker makes 3-pt jump shot from 26 ft,,101,103
+4,8:52.0,Shooting foul by J. Green (drawn by K. Walker),,101,103
+4,8:52.0,K. Walker misses free throw 1 of 1,,101,103
+4,8:50.0,,Defensive rebound by T. Ariza,101,103
+4,8:32.0,,S. Dekker misses 3-pt jump shot from 24 ft,101,103
+4,8:27.0,,Offensive rebound by T. Ariza,101,103
+4,8:26.0,,T. Ariza misses 3-pt jump shot from 26 ft,101,103
+4,8:22.0,Defensive rebound by M. Kidd-Gilchrist,,101,103
+4,8:12.0,J. Lamb misses 2-pt hook shot from 5 ft,,101,103
+4,8:09.0,,Defensive rebound by S. Dekker,101,103
+4,7:52.0,,T. Brown misses 3-pt jump shot from 27 ft,101,103
+4,7:49.0,Defensive rebound by M. Kidd-Gilchrist,,101,103
+4,7:39.0,Personal foul by C. Randle (drawn by M. Kidd-Gilchrist),,101,103
+4,7:39.0,N. Batum enters the game for J. Lamb,,101,103
+4,7:39.0,,B. Beal enters the game for T. Brown,101,103
+4,7:32.0,K. Walker misses 2-pt jump shot from 22 ft,,101,103
+4,7:29.0,Offensive rebound by M. Williams,,101,103
+4,7:27.0,M. Williams misses 2-pt jump shot from 3 ft,,101,103
+4,7:25.0,,Defensive rebound by J. Green,101,103
+4,7:21.0,,Personal foul by M. Kidd-Gilchrist (drawn by S. Dekker),101,103
+4,7:21.0,,T. Satoranský enters the game for C. Randle,101,103
+4,7:13.0,,Personal foul by M. Kidd-Gilchrist (drawn by T. Ariza),101,103
+4,7:06.0,,J. Green misses 3-pt jump shot from 26 ft,101,103
+4,7:03.0,Defensive rebound by D. Graham,,101,103
+4,6:54.0,K. Walker misses 2-pt layup from 2 ft,,101,103
+4,6:52.0,,Defensive rebound by J. Green,101,103
+4,6:42.0,,B. Beal misses 2-pt layup from 1 ft (block by K. Walker),101,103
+4,6:41.0,Defensive rebound by M. Kidd-Gilchrist,,101,103
+4,6:33.0,M. Williams misses 2-pt dunk from 2 ft (block by J. Green),,101,103
+4,6:30.0,,Defensive rebound by T. Ariza,101,103
+4,6:25.0,,J. Green misses 2-pt layup from 1 ft,101,103
+4,6:22.0,Defensive rebound by M. Kidd-Gilchrist,,101,103
+4,6:18.0,M. Kidd-Gilchrist makes 2-pt layup from 2 ft,,103,103
+4,6:16.0,,Washington full timeout,103,103
+4,6:16.0,C. Zeller enters the game for M. Kidd-Gilchrist,,103,103
+4,6:16.0,,T. Bryant enters the game for S. Dekker,103,103
+4,6:00.0,,B. Beal misses 2-pt jump shot from 20 ft,103,103
+4,5:57.0,,Offensive rebound by Team,103,103
+4,5:51.0,,Turnover by T. Ariza (bad pass),103,103
+4,5:37.0,K. Walker makes 2-pt jump shot from 18 ft (assist by N. Batum),,105,103
+4,5:24.0,,T. Satoranský misses 3-pt jump shot from 23 ft,105,103
+4,5:21.0,Defensive rebound by C. Zeller,,105,103
+4,5:09.0,K. Walker misses 2-pt jump shot from 20 ft,,105,103
+4,5:06.0,,Defensive rebound by T. Ariza,105,103
+4,4:51.0,,T. Ariza makes 2-pt layup from 3 ft (assist by J. Green),105,105
+4,4:51.0,,Shooting foul by N. Batum (drawn by T. Ariza),105,105
+4,4:51.0,J. Lamb enters the game for D. Graham,,105,105
+4,4:51.0,,T. Ariza makes free throw 1 of 1,105,106
+4,4:38.0,J. Lamb misses 2-pt jump shot from 17 ft,,105,106
+4,4:35.0,,Defensive rebound by B. Beal,105,106
+4,4:27.0,,T. Satoranský makes 3-pt jump shot from 26 ft (assist by T. Ariza),105,109
+4,4:10.0,K. Walker misses 2-pt jump shot from 22 ft,,105,109
+4,4:08.0,,Defensive rebound by J. Green,105,109
+4,3:57.0,,T. Bryant makes 2-pt dunk from 1 ft (assist by T. Satoranský),105,111
+4,3:57.0,Charlotte full timeout,,105,111
+4,3:57.0,D. Graham enters the game for J. Lamb,,105,111
+4,3:47.0,K. Walker makes 3-pt jump shot from 26 ft (assist by D. Graham),,108,111
+4,3:23.0,,J. Green makes 3-pt jump shot from 25 ft (assist by B. Beal),108,114
+4,3:07.0,K. Walker makes 2-pt layup from 1 ft,,110,114
+4,2:57.0,,T. Satoranský makes 2-pt layup from 2 ft (assist by B. Beal),110,116
+4,2:45.0,K. Walker makes 3-pt jump shot from 26 ft,,113,116
+4,2:24.0,,B. Beal makes 2-pt dunk from 2 ft (assist by T. Bryant),113,118
+4,2:14.0,Personal foul by B. Beal (drawn by K. Walker),,113,118
+4,2:14.0,K. Walker makes free throw 1 of 2,,114,118
+4,2:14.0,M. Kidd-Gilchrist enters the game for D. Graham,,114,118
+4,2:14.0,K. Walker misses free throw 2 of 2,,114,118
+4,2:12.0,,Defensive rebound by T. Bryant,114,118
+4,2:01.0,,T. Ariza makes 3-pt jump shot from 25 ft,114,121
+4,1:44.0,N. Batum misses 3-pt jump shot from 26 ft,,114,121
+4,1:41.0,,Defensive rebound by T. Bryant,114,121
+4,1:21.0,,J. Green misses 3-pt jump shot from 25 ft,114,121
+4,1:19.0,,Offensive rebound by Team,114,121
+4,1:14.0,,B. Beal misses 2-pt layup from 2 ft (block by N. Batum),114,121
+4,1:11.0,Defensive rebound by M. Williams,,114,121
+4,1:03.0,K. Walker makes 2-pt layup from 2 ft,,116,121
+4,0:42.0,,B. Beal makes 2-pt layup from 5 ft (assist by T. Satoranský),116,123
+4,0:35.0,M. Williams misses 3-pt jump shot from 23 ft,,116,123
+4,0:31.0,,Defensive rebound by T. Satoranský,116,123
+4,0:25.0,,Personal take foul by M. Kidd-Gilchrist (drawn by T. Satoranský),116,123
+4,0:24.0,,Personal take foul by M. Williams (drawn by J. Green),116,123
+4,0:24.0,,J. Green makes free throw 1 of 2,116,124
+4,0:24.0,,J. Green makes free throw 2 of 2,116,125
+4,0:24.0,Charlotte full timeout,,116,125
+4,0:24.0,,Technical foul by B. Beal,116,125
+4,0:24.0,D. Graham enters the game for M. Kidd-Gilchrist,,116,125
+4,0:24.0,K. Walker makes technical free throw,,117,125
+4,0:23.0,Shooting foul by T. Bryant (drawn by C. Zeller),,117,125
+4,0:23.0,C. Zeller makes free throw 1 of 2,,118,125
+4,0:23.0,M. Kidd-Gilchrist enters the game for D. Graham,,118,125
+4,0:23.0,C. Zeller makes free throw 2 of 2,,119,125
+4,0:23.0,,Washington full timeout,119,125
+4,0:23.0,D. Graham enters the game for C. Zeller,,119,125
+4,0:21.0,,Turnover by T. Ariza (bad pass; steal by M. Williams),119,125
+4,0:17.0,K. Walker makes 2-pt layup from 2 ft,,121,125
+4,0:17.0,,Personal take foul by D. Graham (drawn by T. Satoranský),121,125
+4,0:17.0,,T. Satoranský misses free throw 1 of 2,121,125
+4,0:17.0,,Offensive rebound by Team,121,125
+4,0:17.0,C. Zeller enters the game for M. Kidd-Gilchrist,,121,125
+4,0:17.0,,T. Satoranský misses free throw 2 of 2,121,125
+4,0:15.0,Defensive rebound by C. Zeller,,121,125
+4,0:11.0,K. Walker makes 2-pt layup from 2 ft,,123,125
+4,0:11.0,,Washington full timeout,123,125
+4,0:11.0,M. Kidd-Gilchrist enters the game for C. Zeller,,123,125
+4,0:09.0,,Personal take foul by M. Williams (drawn by B. Beal),123,125
+4,0:09.0,,B. Beal makes free throw 1 of 2,123,126
+4,0:09.0,C. Zeller enters the game for M. Kidd-Gilchrist,,123,126
+4,0:09.0,,C. Randle enters the game for T. Bryant,123,126
+4,0:09.0,,B. Beal makes free throw 2 of 2,123,127
+4,0:02.0,K. Walker makes 3-pt jump shot from 27 ft (assist by M. Williams),,126,127
+4,0:01.0,,T. Ariza makes 2-pt layup from 1 ft (assist by J. Green),126,129
+4,0:01.0,,Shooting foul by K. Walker (drawn by T. Ariza),126,129
+4,0:01.0,,T. Ariza makes free throw 1 of 1,126,130
+4,0:00.0,C. Zeller misses 3-pt jump shot from 32 ft,,126,130
+4,0:00.0,Offensive rebound by Team,,126,130

@@ -1,0 +1,461 @@
+QUARTER,TIME_REMAINING,MILWAUKEE_ACTION,WASHINGTON_ACTION,MILWAUKEE_SCORE,WASHINGTON_SCORE
+1,11:40.0,Turnover by B. Lopez (bad pass; steal by T. Ariza),,0,0
+1,11:32.0,,T. Ariza makes 2-pt layup from 2 ft,0,2
+1,11:19.0,Turnover by K. Middleton (bad pass; steal by O. Porter),,0,2
+1,11:15.0,,T. Satoranský makes 2-pt dunk at rim (assist by B. Beal),0,4
+1,11:15.0,,Shooting foul by B. Lopez (drawn by T. Satoranský),0,4
+1,11:15.0,Milwaukee full timeout,,0,4
+1,11:15.0,,T. Satoranský makes free throw 1 of 1,0,5
+1,10:59.0,G. Antetokounmpo makes 2-pt dunk at rim,,2,5
+1,10:44.0,,T. Ariza misses 2-pt jump shot from 15 ft,2,5
+1,10:39.0,,Offensive rebound by T. Bryant,2,5
+1,10:39.0,,T. Bryant makes 2-pt dunk at rim,2,7
+1,10:37.0,Personal foul by T. Ariza (drawn by K. Middleton),,2,7
+1,10:27.0,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by K. Middleton),,4,7
+1,10:27.0,,O. Porter misses 2-pt jump shot from 15 ft,4,7
+1,10:27.0,Defensive rebound by M. Brogdon,,4,7
+1,10:04.0,M. Brogdon misses 2-pt layup from 3 ft (block by B. Beal),,4,7
+1,10:03.0,,Defensive rebound by B. Beal,4,7
+1,10:01.0,,Turnover by B. Beal (bad pass; steal by B. Lopez),4,7
+1,9:53.0,M. Brogdon makes 3-pt jump shot from 24 ft,,7,7
+1,9:38.0,,O. Porter makes 2-pt jump shot from 9 ft (assist by T. Satoranský),7,9
+1,9:29.0,K. Middleton makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),,9,9
+1,9:15.0,,T. Bryant misses 2-pt jump shot from 16 ft,9,9
+1,9:13.0,Defensive rebound by K. Middleton,,9,9
+1,9:06.0,G. Antetokounmpo makes 2-pt layup from 1 ft,,11,9
+1,9:06.0,Shooting foul by T. Satoranský (drawn by G. Antetokounmpo),,11,9
+1,9:06.0,G. Antetokounmpo makes free throw 1 of 1,,12,9
+1,8:54.0,,T. Bryant misses 2-pt jump shot from 20 ft,12,9
+1,8:51.0,Defensive rebound by M. Brogdon,,12,9
+1,8:38.0,K. Middleton makes 3-pt jump shot from 26 ft (assist by T. Snell),,15,9
+1,8:26.0,,T. Satoranský misses 2-pt jump shot from 13 ft,15,9
+1,8:26.0,Defensive rebound by K. Middleton,,15,9
+1,8:19.0,Turnover by K. Middleton (bad pass; steal by O. Porter),,15,9
+1,8:07.0,,B. Beal makes 2-pt layup from 3 ft (assist by T. Satoranský),15,11
+1,7:55.0,T. Snell makes 2-pt layup from 1 ft (assist by M. Brogdon),,17,11
+1,7:47.0,,O. Porter misses 2-pt jump shot from 18 ft,17,11
+1,7:44.0,Defensive rebound by M. Brogdon,,17,11
+1,7:39.0,M. Brogdon misses 2-pt layup from 1 ft,,17,11
+1,7:36.0,,Defensive rebound by T. Satoranský,17,11
+1,7:32.0,,B. Beal misses 2-pt jump shot from 17 ft,17,11
+1,7:28.0,Defensive rebound by K. Middleton,,17,11
+1,7:16.0,B. Lopez makes 3-pt jump shot from 25 ft (assist by K. Middleton),,20,11
+1,7:12.0,,Washington full timeout,20,11
+1,7:12.0,S. Brown enters the game for T. Snell,,20,11
+1,6:53.0,,Turnover by T. Bryant (lost ball; steal by B. Lopez),20,11
+1,6:48.0,K. Middleton misses 3-pt jump shot from 26 ft,,20,11
+1,6:42.0,,Defensive rebound by T. Ariza,20,11
+1,6:38.0,,B. Beal makes 2-pt jump shot from 14 ft,20,13
+1,6:25.0,Shooting foul by T. Bryant (drawn by G. Antetokounmpo),,20,13
+1,6:25.0,G. Antetokounmpo makes free throw 1 of 2,,21,13
+1,6:25.0,,J. Green enters the game for T. Bryant,21,13
+1,6:25.0,G. Antetokounmpo makes free throw 2 of 2,,22,13
+1,6:10.0,,T. Satoranský makes 2-pt dunk at rim (assist by J. Green),22,15
+1,5:59.0,B. Lopez makes 3-pt jump shot from 26 ft (assist by M. Brogdon),,25,15
+1,5:49.0,,B. Beal misses 3-pt jump shot from 26 ft,25,15
+1,5:45.0,Defensive rebound by G. Antetokounmpo,,25,15
+1,5:40.0,K. Middleton misses 3-pt jump shot from 25 ft,,25,15
+1,5:35.0,Offensive rebound by M. Brogdon,,25,15
+1,5:34.0,M. Brogdon misses 2-pt layup from 1 ft,,25,15
+1,5:34.0,,Defensive rebound by Team,25,15
+1,5:34.0,G. Hill enters the game for G. Antetokounmpo,,25,15
+1,5:34.0,D. Wilson enters the game for M. Brogdon,,25,15
+1,5:26.0,,T. Satoranský makes 3-pt jump shot from 26 ft (assist by B. Beal),25,18
+1,5:00.0,Shooting foul by T. Ariza (drawn by B. Lopez),,25,18
+1,5:00.0,B. Lopez makes free throw 1 of 2,,26,18
+1,5:00.0,B. Lopez makes free throw 2 of 2,,27,18
+1,4:53.0,,B. Beal misses 3-pt jump shot from 25 ft,27,18
+1,4:49.0,Defensive rebound by B. Lopez,,27,18
+1,4:34.0,D. Wilson makes 2-pt layup from 2 ft (assist by S. Brown),,29,18
+1,4:24.0,,T. Ariza misses 3-pt jump shot from 26 ft,29,18
+1,4:20.0,Defensive rebound by B. Lopez,,29,18
+1,4:16.0,S. Brown misses 3-pt jump shot from 26 ft,,29,18
+1,4:11.0,,Defensive rebound by T. Satoranský,29,18
+1,4:01.0,,J. Green misses 3-pt jump shot from 26 ft,29,18
+1,3:57.0,Defensive rebound by K. Middleton,,29,18
+1,3:50.0,Shooting foul by T. Satoranský (drawn by B. Lopez),,29,18
+1,3:50.0,B. Lopez makes free throw 1 of 2,,30,18
+1,3:50.0,P. Connaughton enters the game for K. Middleton,,30,18
+1,3:50.0,,S. Dekker enters the game for T. Ariza,30,18
+1,3:50.0,,C. Randle enters the game for T. Satoranský,30,18
+1,3:50.0,B. Lopez makes free throw 2 of 2,,31,18
+1,3:43.0,,Personal foul by G. Hill (drawn by C. Randle),31,18
+1,3:43.0,E. İlyasova enters the game for B. Lopez,,31,18
+1,3:34.0,,Turnover by B. Beal (lost ball; steal by S. Brown),31,18
+1,3:19.0,D. Wilson misses 3-pt jump shot from 26 ft,,31,18
+1,3:14.0,,Defensive rebound by S. Dekker,31,18
+1,3:08.0,,J. Green makes 3-pt jump shot from 23 ft (assist by B. Beal),31,21
+1,2:49.0,G. Hill makes 3-pt jump shot from 25 ft (assist by E. İlyasova),,34,21
+1,2:34.0,,O. Porter makes 3-pt jump shot from 25 ft (assist by C. Randle),34,24
+1,2:13.0,G. Hill misses 2-pt jump shot from 19 ft (block by S. Dekker),,34,24
+1,2:09.0,,Defensive rebound by J. Green,34,24
+1,1:50.0,,O. Porter misses 3-pt jump shot from 29 ft,34,24
+1,1:50.0,Defensive rebound by P. Connaughton,,34,24
+1,1:50.0,Turnover by G. Hill (bad pass),,34,24
+1,1:50.0,G. Antetokounmpo enters the game for S. Brown,,34,24
+1,1:50.0,T. Snell enters the game for D. Wilson,,34,24
+1,1:47.0,,Turnover by J. Green (lost ball),34,24
+1,1:32.0,G. Hill makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),,36,24
+1,1:14.0,,O. Porter misses 2-pt jump shot from 12 ft,36,24
+1,1:11.0,Defensive rebound by G. Antetokounmpo,,36,24
+1,1:08.0,Shooting foul by B. Beal (drawn by G. Antetokounmpo),,36,24
+1,1:08.0,G. Antetokounmpo makes free throw 1 of 2,,37,24
+1,1:08.0,G. Antetokounmpo makes free throw 2 of 2,,38,24
+1,0:50.0,,J. Green misses 3-pt jump shot from 25 ft,38,24
+1,0:46.0,,Offensive rebound by S. Dekker,38,24
+1,0:46.0,,S. Dekker makes 2-pt layup from 1 ft,38,26
+1,0:24.0,T. Snell misses 3-pt jump shot from 23 ft,,38,26
+1,0:24.0,,Defensive rebound by O. Porter,38,26
+1,0:00.0,,Turnover by C. Randle (bad pass; steal by P. Connaughton),38,26
+2,12:00.0,Technical foul by S. Brooks,,38,26
+2,12:00.0,M. Brogdon makes technical free throw,,39,26
+2,11:43.0,,C. Randle misses 2-pt jump shot from 17 ft,39,26
+2,11:39.0,Defensive rebound by P. Connaughton,,39,26
+2,11:34.0,Offensive foul by G. Antetokounmpo (drawn by J. Green),,39,26
+2,11:34.0,Turnover by G. Antetokounmpo (offensive foul),,39,26
+2,11:34.0,,T. Bryant enters the game for O. Porter,39,26
+2,11:16.0,,T. Bryant makes 2-pt jump shot from 9 ft (assist by C. Randle),39,28
+2,10:56.0,G. Antetokounmpo misses 2-pt jump shot from 16 ft,,39,28
+2,10:52.0,,Defensive rebound by T. Bryant,39,28
+2,10:45.0,,T. Bryant makes 2-pt layup from 1 ft (assist by C. Randle),39,30
+2,10:36.0,Personal foul by S. Dekker (drawn by T. Snell),,39,30
+2,10:36.0,B. Lopez enters the game for E. İlyasova,,39,30
+2,10:24.0,G. Antetokounmpo misses 2-pt layup from 1 ft (block by T. Bryant),,39,30
+2,10:24.0,Offensive rebound by Team,,39,30
+2,10:20.0,Shooting foul by J. Green (drawn by G. Antetokounmpo),,39,30
+2,10:20.0,G. Antetokounmpo makes free throw 1 of 2,,40,30
+2,10:20.0,G. Antetokounmpo makes free throw 2 of 2,,41,30
+2,10:07.0,,T. Ariza makes 2-pt layup from 2 ft (assist by J. Green),41,32
+2,9:58.0,B. Lopez misses 3-pt jump shot from 28 ft,,41,32
+2,9:58.0,,Defensive rebound by T. Ariza,41,32
+2,9:49.0,,T. Ariza misses 3-pt jump shot from 26 ft,41,32
+2,9:43.0,Defensive rebound by M. Brogdon,,41,32
+2,9:38.0,B. Lopez makes 2-pt dunk from 1 ft (assist by M. Brogdon),,43,32
+2,9:26.0,,T. Bryant makes 2-pt jump shot from 9 ft (assist by C. Randle),43,34
+2,9:05.0,G. Antetokounmpo misses 2-pt jump shot from 19 ft,,43,34
+2,9:00.0,,Defensive rebound by S. Dekker,43,34
+2,8:50.0,,T. Bryant makes 2-pt jump shot from 17 ft (assist by T. Ariza),43,36
+2,8:27.0,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by P. Connaughton),,45,36
+2,8:10.0,,C. Randle misses 2-pt jump shot from 10 ft,45,36
+2,8:00.0,,Offensive rebound by S. Dekker,45,36
+2,8:00.0,,S. Dekker misses 2-pt layup at rim,45,36
+2,7:57.0,,Offensive rebound by T. Bryant,45,36
+2,7:57.0,,T. Bryant makes 2-pt dunk at rim,45,38
+2,7:57.0,Milwaukee full timeout,,45,38
+2,7:57.0,S. Brown enters the game for G. Antetokounmpo,,45,38
+2,7:57.0,K. Middleton enters the game for P. Connaughton,,45,38
+2,7:57.0,D. Wilson enters the game for T. Snell,,45,38
+2,7:47.0,S. Brown makes 3-pt jump shot from 23 ft (assist by K. Middleton),,48,38
+2,7:33.0,,Turnover by T. Bryant (bad pass),48,38
+2,7:20.0,K. Middleton makes 3-pt jump shot from 25 ft,,51,38
+2,7:03.0,,J. Green makes 2-pt layup from 3 ft (assist by C. Randle),51,40
+2,7:03.0,,Shooting foul by D. Wilson (drawn by J. Green),51,40
+2,7:03.0,,B. Beal enters the game for T. Bryant,51,40
+2,7:03.0,,T. Satoranský enters the game for C. Randle,51,40
+2,7:03.0,,J. Green makes free throw 1 of 1,51,41
+2,6:43.0,K. Middleton misses 2-pt jump shot from 8 ft,,51,41
+2,6:40.0,,Defensive rebound by T. Ariza,51,41
+2,6:33.0,,J. Green misses 3-pt jump shot from 23 ft,51,41
+2,6:33.0,Defensive rebound by K. Middleton,,51,41
+2,6:25.0,D. Wilson misses 2-pt layup from 1 ft,,51,41
+2,6:20.0,,Defensive rebound by T. Satoranský,51,41
+2,6:13.0,,J. Green misses 2-pt layup from 3 ft (block by S. Brown),51,41
+2,6:13.0,,Offensive rebound by S. Dekker,51,41
+2,6:06.0,,S. Dekker misses 2-pt layup from 2 ft (block by B. Lopez),51,41
+2,6:06.0,Defensive rebound by K. Middleton,,51,41
+2,5:57.0,K. Middleton misses 2-pt layup from 6 ft,,51,41
+2,5:57.0,Offensive rebound by K. Middleton,,51,41
+2,5:56.0,Personal foul by B. Beal (drawn by K. Middleton),,51,41
+2,5:56.0,,O. Porter enters the game for S. Dekker,51,41
+2,5:47.0,M. Brogdon makes 3-pt jump shot from 26 ft (assist by B. Lopez),,54,41
+2,5:29.0,,T. Ariza misses 3-pt jump shot from 26 ft,54,41
+2,5:25.0,Defensive rebound by D. Wilson,,54,41
+2,5:09.0,B. Lopez makes 2-pt layup from 8 ft,,56,41
+2,5:09.0,,Washington full timeout,56,41
+2,5:09.0,G. Antetokounmpo enters the game for M. Brogdon,,56,41
+2,5:09.0,G. Hill enters the game for B. Lopez,,56,41
+2,4:54.0,,J. Green misses 3-pt jump shot from 25 ft,56,41
+2,4:50.0,Defensive rebound by G. Antetokounmpo,,56,41
+2,4:28.0,S. Brown misses 3-pt jump shot from 24 ft,,56,41
+2,4:25.0,,Defensive rebound by B. Beal,56,41
+2,4:22.0,,Shooting foul by K. Middleton (drawn by B. Beal),56,41
+2,4:22.0,,B. Beal makes free throw 1 of 2,56,42
+2,4:22.0,,B. Beal makes free throw 2 of 2,56,43
+2,4:06.0,Turnover by K. Middleton (bad pass; steal by T. Satoranský),,56,43
+2,4:02.0,,B. Beal misses 2-pt jump shot from 6 ft,56,43
+2,4:00.0,Defensive rebound by G. Hill,,56,43
+2,3:53.0,G. Antetokounmpo misses 2-pt jump shot from 5 ft (block by J. Green),,56,43
+2,3:46.0,,Defensive rebound by B. Beal,56,43
+2,3:46.0,,J. Green makes 2-pt dunk from 1 ft (assist by T. Ariza),56,45
+2,3:23.0,G. Antetokounmpo misses 3-pt jump shot from 26 ft,,56,45
+2,3:23.0,,Defensive rebound by Team,56,45
+2,3:18.0,,T. Ariza misses 3-pt jump shot from 25 ft,56,45
+2,3:15.0,Defensive rebound by D. Wilson,,56,45
+2,3:13.0,Shooting foul by T. Satoranský (drawn by G. Antetokounmpo),,56,45
+2,3:13.0,G. Antetokounmpo makes free throw 1 of 2,,57,45
+2,3:13.0,P. Connaughton enters the game for S. Brown,,57,45
+2,3:13.0,B. Lopez enters the game for D. Wilson,,57,45
+2,3:13.0,,T. Bryant enters the game for T. Satoranský,57,45
+2,3:13.0,G. Antetokounmpo makes free throw 2 of 2,,58,45
+2,2:55.0,,O. Porter misses 2-pt jump shot from 11 ft,58,45
+2,2:52.0,Defensive rebound by G. Antetokounmpo,,58,45
+2,2:47.0,B. Lopez misses 3-pt jump shot from 28 ft,,58,45
+2,2:44.0,,Defensive rebound by J. Green,58,45
+2,2:41.0,,Shooting foul by G. Antetokounmpo (drawn by J. Green),58,45
+2,2:41.0,,J. Green makes free throw 1 of 2,58,46
+2,2:41.0,,J. Green makes free throw 2 of 2,58,47
+2,2:30.0,P. Connaughton misses 3-pt jump shot from 23 ft,,58,47
+2,2:26.0,,Defensive rebound by T. Bryant,58,47
+2,2:24.0,,B. Beal misses 3-pt jump shot from 26 ft,58,47
+2,2:24.0,Defensive rebound by B. Lopez,,58,47
+2,2:08.0,B. Lopez makes 3-pt jump shot from 28 ft (assist by P. Connaughton),,61,47
+2,2:03.0,,Turnover by T. Bryant (lost ball; steal by G. Hill),61,47
+2,2:03.0,Personal foul by B. Beal (drawn by G. Hill),,61,47
+2,2:03.0,G. Hill makes free throw 1 of 2,,62,47
+2,2:03.0,,C. Randle enters the game for B. Beal,62,47
+2,2:03.0,G. Hill makes free throw 2 of 2,,63,47
+2,1:41.0,,J. Green misses 2-pt jump shot from 19 ft,63,47
+2,1:36.0,Defensive rebound by G. Hill,,63,47
+2,1:29.0,G. Antetokounmpo makes 2-pt dunk from 1 ft,,65,47
+2,1:29.0,Shooting foul by J. Green (drawn by G. Antetokounmpo),,65,47
+2,1:29.0,G. Antetokounmpo makes free throw 1 of 1,,66,47
+2,1:20.0,,Turnover by C. Randle (bad pass; steal by G. Hill),66,47
+2,1:17.0,G. Antetokounmpo makes 2-pt layup at rim (assist by G. Hill),,68,47
+2,1:17.0,,Washington full timeout,68,47
+2,1:17.0,D. Wilson enters the game for B. Lopez,,68,47
+2,1:00.0,,T. Ariza misses 2-pt jump shot from 9 ft,68,47
+2,0:54.0,Defensive rebound by D. Wilson,,68,47
+2,0:39.0,K. Middleton makes 3-pt jump shot from 26 ft (assist by P. Connaughton),,71,47
+2,0:28.0,,C. Randle misses 2-pt layup from 2 ft (block by D. Wilson),71,47
+2,0:28.0,Defensive rebound by G. Antetokounmpo,,71,47
+2,0:24.0,Shooting foul by O. Porter (drawn by G. Antetokounmpo),,71,47
+2,0:24.0,G. Antetokounmpo makes free throw 1 of 2,,72,47
+2,0:24.0,,B. Beal enters the game for C. Randle,72,47
+2,0:24.0,G. Antetokounmpo makes free throw 2 of 2,,73,47
+2,0:04.0,,O. Porter misses 2-pt jump shot from 16 ft,73,47
+2,0:01.0,,Offensive rebound by O. Porter,73,47
+2,0:01.0,,O. Porter makes 2-pt layup from 1 ft,73,49
+2,0:01.0,,Shooting foul by D. Wilson (drawn by O. Porter),73,49
+2,0:01.0,,C. Randle enters the game for B. Beal,73,49
+2,0:01.0,,O. Porter makes free throw 1 of 1,73,50
+2,0:01.0,G. Hill misses 3-pt jump shot from 53 ft,,73,50
+2,0:01.0,Offensive rebound by Team,,73,50
+3,11:44.0,,B. Beal misses 2-pt layup from 2 ft,73,50
+3,11:41.0,Defensive rebound by G. Antetokounmpo,,73,50
+3,11:32.0,Turnover by G. Antetokounmpo (bad pass; steal by O. Porter),,73,50
+3,11:28.0,,O. Porter misses 3-pt jump shot from 26 ft,73,50
+3,11:23.0,Defensive rebound by T. Snell,,73,50
+3,11:12.0,Personal foul by B. Beal (drawn by K. Middleton),,73,50
+3,11:01.0,T. Snell makes 3-pt jump shot from 23 ft (assist by K. Middleton),,76,50
+3,10:47.0,,B. Beal makes 2-pt layup from 2 ft (assist by T. Satoranský),76,52
+3,10:31.0,B. Lopez makes 2-pt layup from 1 ft (assist by T. Snell),,78,52
+3,10:21.0,,B. Beal makes 2-pt jump shot from 9 ft (assist by T. Satoranský),78,54
+3,10:04.0,G. Antetokounmpo makes 2-pt jump shot from 2 ft (assist by M. Brogdon),,80,54
+3,9:52.0,,T. Bryant misses 2-pt hook shot from 6 ft,80,54
+3,9:50.0,Defensive rebound by G. Antetokounmpo,,80,54
+3,9:46.0,Shooting foul by O. Porter (drawn by G. Antetokounmpo),,80,54
+3,9:46.0,G. Antetokounmpo makes free throw 1 of 2,,81,54
+3,9:46.0,G. Antetokounmpo makes free throw 2 of 2,,82,54
+3,9:37.0,,T. Satoranský misses 2-pt jump shot from 18 ft,82,54
+3,9:32.0,Defensive rebound by B. Lopez,,82,54
+3,9:26.0,K. Middleton makes 2-pt jump shot from 21 ft,,84,54
+3,9:11.0,,T. Satoranský misses 3-pt jump shot from 26 ft,84,54
+3,9:06.0,Defensive rebound by M. Brogdon,,84,54
+3,9:00.0,M. Brogdon makes 2-pt layup from 1 ft (assist by T. Snell),,86,54
+3,9:00.0,,Washington full timeout,86,54
+3,8:38.0,,O. Porter makes 2-pt jump shot from 13 ft,86,56
+3,8:22.0,M. Brogdon misses 2-pt jump shot from 8 ft,,86,56
+3,8:22.0,Offensive rebound by Team,,86,56
+3,8:08.0,M. Brogdon misses 3-pt jump shot from 27 ft,,86,56
+3,8:03.0,,Defensive rebound by O. Porter,86,56
+3,7:57.0,,O. Porter makes 2-pt jump shot from 16 ft,86,58
+3,7:36.0,B. Lopez makes 2-pt layup from 2 ft (assist by K. Middleton),,88,58
+3,7:30.0,,Shooting foul by G. Antetokounmpo (drawn by T. Ariza),88,58
+3,7:30.0,,T. Ariza makes free throw 1 of 2,88,59
+3,7:30.0,,T. Ariza misses free throw 2 of 2,88,59
+3,7:26.0,Defensive rebound by G. Antetokounmpo,,88,59
+3,7:15.0,Shooting foul by O. Porter (drawn by G. Antetokounmpo),,88,59
+3,7:15.0,G. Antetokounmpo makes free throw 1 of 2,,89,59
+3,7:15.0,S. Brown enters the game for T. Snell,,89,59
+3,7:15.0,,J. Green enters the game for T. Bryant,89,59
+3,7:15.0,G. Antetokounmpo makes free throw 2 of 2,,90,59
+3,7:04.0,,J. Green misses 2-pt jump shot from 19 ft,90,59
+3,7:04.0,Defensive rebound by M. Brogdon,,90,59
+3,6:54.0,Turnover by G. Antetokounmpo (palming),,90,59
+3,6:49.0,,Shooting foul by S. Brown (drawn by J. Green),90,59
+3,6:49.0,,J. Green makes free throw 1 of 2,90,60
+3,6:49.0,,J. Green makes free throw 2 of 2,90,61
+3,6:29.0,M. Brogdon misses 2-pt layup from 2 ft,,90,61
+3,6:24.0,,Defensive rebound by T. Satoranský,90,61
+3,6:23.0,,T. Ariza makes 2-pt layup from 2 ft (assist by O. Porter),90,63
+3,6:13.0,G. Antetokounmpo misses 3-pt jump shot from 26 ft,,90,63
+3,6:13.0,Offensive rebound by M. Brogdon,,90,63
+3,6:04.0,G. Antetokounmpo misses 3-pt jump shot from 24 ft,,90,63
+3,6:03.0,,Defensive rebound by O. Porter,90,63
+3,5:56.0,,O. Porter makes 2-pt layup from 2 ft,90,65
+3,5:56.0,,Shooting foul by G. Antetokounmpo (drawn by O. Porter),90,65
+3,5:56.0,Milwaukee full timeout,,90,65
+3,5:56.0,E. İlyasova enters the game for G. Antetokounmpo,,90,65
+3,5:56.0,D. Wilson enters the game for B. Lopez,,90,65
+3,5:56.0,,O. Porter makes free throw 1 of 1,90,66
+3,5:46.0,S. Brown misses 2-pt layup from 2 ft (block by T. Satoranský),,90,66
+3,5:45.0,Offensive rebound by Team,,90,66
+3,5:45.0,Turnover by E. İlyasova (turnover),,90,66
+3,5:45.0,Loose ball foul by E. İlyasova (drawn by T. Ariza),,90,66
+3,5:37.0,,B. Beal makes 2-pt jump shot from 21 ft,90,68
+3,5:19.0,K. Middleton misses 3-pt jump shot from 26 ft,,90,68
+3,5:19.0,,Defensive rebound by T. Ariza,90,68
+3,5:14.0,,J. Green makes 2-pt layup from 1 ft (assist by T. Ariza),90,70
+3,4:57.0,S. Brown misses 2-pt jump shot from 17 ft,,90,70
+3,4:52.0,,Defensive rebound by T. Ariza,90,70
+3,4:45.0,,J. Green makes 3-pt jump shot from 24 ft (assist by T. Satoranský),90,73
+3,4:18.0,Turnover by Team (shot clock),,90,73
+3,4:18.0,P. Connaughton enters the game for M. Brogdon,,90,73
+3,4:18.0,G. Hill enters the game for E. İlyasova,,90,73
+3,4:08.0,,T. Satoranský makes 2-pt dunk from 1 ft,90,75
+3,4:08.0,Milwaukee full timeout,,90,75
+3,4:08.0,G. Antetokounmpo enters the game for S. Brown,,90,75
+3,3:40.0,K. Middleton makes 2-pt jump shot from 18 ft,,92,75
+3,3:16.0,,T. Ariza makes 2-pt layup from 2 ft,92,77
+3,3:00.0,G. Hill makes 3-pt jump shot from 28 ft (assist by K. Middleton),,95,77
+3,2:42.0,,J. Green misses 3-pt jump shot from 24 ft,95,77
+3,2:34.0,Defensive rebound by P. Connaughton,,95,77
+3,2:32.0,P. Connaughton misses 3-pt jump shot from 26 ft,,95,77
+3,2:29.0,,Defensive rebound by B. Beal,95,77
+3,2:27.0,,B. Beal makes 3-pt jump shot from 26 ft (assist by O. Porter),95,80
+3,2:06.0,Turnover by G. Antetokounmpo (lost ball; steal by O. Porter),,95,80
+3,2:00.0,,Turnover by O. Porter (lost ball; steal by P. Connaughton),95,80
+3,1:49.0,K. Middleton makes 3-pt jump shot from 25 ft (assist by P. Connaughton),,98,80
+3,1:30.0,,Shooting foul by D. Wilson (drawn by B. Beal),98,80
+3,1:30.0,,B. Beal misses free throw 1 of 2,98,80
+3,1:30.0,,Offensive rebound by Team,98,80
+3,1:30.0,B. Lopez enters the game for G. Antetokounmpo,,98,80
+3,1:30.0,,S. Dekker enters the game for T. Ariza,98,80
+3,1:30.0,,J. McRae enters the game for O. Porter,98,80
+3,1:30.0,,B. Beal makes free throw 2 of 2,98,81
+3,1:15.0,K. Middleton makes 2-pt jump shot from 20 ft,,100,81
+3,0:56.0,,S. Dekker misses 3-pt jump shot from 26 ft,100,81
+3,0:53.0,,Offensive rebound by J. Green,100,81
+3,0:53.0,,Shooting foul by D. Wilson (drawn by J. Green),100,81
+3,0:53.0,,J. Green misses free throw 1 of 2,100,81
+3,0:53.0,,Offensive rebound by Team,100,81
+3,0:53.0,T. Snell enters the game for D. Wilson,,100,81
+3,0:53.0,,J. Green makes free throw 2 of 2,100,82
+3,0:40.0,Personal foul by J. McRae (drawn by T. Snell),,100,82
+3,0:33.0,K. Middleton misses 2-pt jump shot from 20 ft,,100,82
+3,0:28.0,,Defensive rebound by T. Satoranský,100,82
+3,0:24.0,,J. Green makes 2-pt dunk at rim (assist by T. Satoranský),100,84
+3,0:02.0,G. Hill misses 2-pt jump shot from 12 ft,,100,84
+3,0:02.0,,Defensive rebound by S. Dekker,100,84
+4,11:45.0,G. Antetokounmpo misses 2-pt jump shot from 13 ft,,100,84
+4,11:40.0,,Defensive rebound by S. Dekker,100,84
+4,11:29.0,,J. Green misses 3-pt jump shot from 26 ft,100,84
+4,11:23.0,Defensive rebound by T. Snell,,100,84
+4,11:14.0,T. Snell makes 3-pt jump shot from 26 ft (assist by G. Hill),,103,84
+4,10:51.0,,Turnover by T. Ariza (bad pass; steal by G. Antetokounmpo),103,84
+4,10:49.0,G. Antetokounmpo makes 2-pt layup from 1 ft,,105,84
+4,10:49.0,Shooting foul by B. Beal (drawn by G. Antetokounmpo),,105,84
+4,10:49.0,G. Antetokounmpo makes free throw 1 of 1,,106,84
+4,10:29.0,,J. Green misses 2-pt jump shot from 5 ft (block by B. Lopez),106,84
+4,10:25.0,Defensive rebound by B. Lopez,,106,84
+4,10:21.0,G. Antetokounmpo makes 2-pt layup from 1 ft,,108,84
+4,10:09.0,,S. Dekker misses 3-pt jump shot from 27 ft,108,84
+4,10:09.0,,Offensive rebound by J. McRae,108,84
+4,10:04.0,,T. Ariza makes 3-pt jump shot from 27 ft (assist by J. McRae),108,87
+4,9:40.0,G. Hill misses 3-pt jump shot from 26 ft,,108,87
+4,9:37.0,,Defensive rebound by T. Ariza,108,87
+4,9:30.0,,Shooting foul by T. Snell (drawn by J. McRae),108,87
+4,9:30.0,,J. McRae misses free throw 1 of 2,108,87
+4,9:30.0,,Offensive rebound by Team,108,87
+4,9:30.0,M. Brogdon enters the game for G. Hill,,108,87
+4,9:30.0,,O. Porter enters the game for S. Dekker,108,87
+4,9:30.0,,J. McRae makes free throw 2 of 2,108,88
+4,9:12.0,G. Antetokounmpo misses 2-pt layup from 1 ft,,108,88
+4,9:06.0,Offensive rebound by G. Antetokounmpo,,108,88
+4,9:06.0,G. Antetokounmpo misses 2-pt layup at rim,,108,88
+4,9:05.0,,Defensive rebound by O. Porter,108,88
+4,9:02.0,,B. Beal makes 2-pt layup from 1 ft (assist by T. Ariza),108,90
+4,8:43.0,Turnover by M. Brogdon (out of bounds lost ball),,108,90
+4,8:37.0,,Shooting foul by M. Brogdon (drawn by B. Beal),108,90
+4,8:37.0,,B. Beal makes free throw 1 of 2,108,91
+4,8:37.0,,B. Beal makes free throw 2 of 2,108,92
+4,8:21.0,Personal foul by T. Ariza (drawn by G. Antetokounmpo),,108,92
+4,8:18.0,T. Snell makes 2-pt layup from 1 ft (assist by P. Connaughton),,110,92
+4,8:08.0,,B. Beal misses 2-pt layup from 1 ft,110,92
+4,8:05.0,Defensive rebound by B. Lopez,,110,92
+4,8:03.0,M. Brogdon misses 3-pt jump shot from 27 ft,,110,92
+4,7:58.0,Offensive rebound by P. Connaughton,,110,92
+4,7:58.0,P. Connaughton makes 2-pt dunk at rim,,112,92
+4,7:58.0,,Washington full timeout,112,92
+4,7:58.0,D. Wilson enters the game for B. Lopez,,112,92
+4,7:48.0,,Personal foul by T. Snell (drawn by J. Green),112,92
+4,7:42.0,,B. Beal misses 3-pt jump shot from 26 ft,112,92
+4,7:37.0,Defensive rebound by G. Antetokounmpo,,112,92
+4,7:20.0,M. Brogdon makes 2-pt layup from 2 ft,,114,92
+4,7:06.0,,B. Beal makes 2-pt jump shot from 18 ft,114,94
+4,6:43.0,P. Connaughton misses 2-pt layup from 4 ft (block by J. Green),,114,94
+4,6:39.0,,Defensive rebound by B. Beal,114,94
+4,6:36.0,,O. Porter makes 3-pt jump shot from 23 ft (assist by J. McRae),114,97
+4,6:14.0,M. Brogdon makes 2-pt layup from 1 ft,,116,97
+4,6:01.0,,J. Green misses 3-pt jump shot from 23 ft,116,97
+4,5:58.0,,Offensive rebound by O. Porter,116,97
+4,5:56.0,,T. Ariza misses 3-pt jump shot from 25 ft,116,97
+4,5:53.0,,Offensive rebound by O. Porter,116,97
+4,5:51.0,,J. McRae misses 2-pt layup from 3 ft,116,97
+4,5:48.0,Defensive rebound by T. Snell,,116,97
+4,5:45.0,G. Antetokounmpo makes 2-pt layup at rim (assist by T. Snell),,118,97
+4,5:28.0,,Shooting foul by D. Wilson (drawn by B. Beal),118,97
+4,5:28.0,,B. Beal makes free throw 1 of 2,118,98
+4,5:28.0,G. Hill enters the game for G. Antetokounmpo,,118,98
+4,5:28.0,K. Middleton enters the game for P. Connaughton,,118,98
+4,5:28.0,,B. Beal makes free throw 2 of 2,118,99
+4,5:05.0,G. Hill makes 3-pt jump shot from 24 ft (assist by T. Snell),,121,99
+4,4:47.0,,J. McRae makes 2-pt jump shot from 11 ft,121,101
+4,4:34.0,D. Wilson makes 3-pt jump shot from 23 ft (assist by M. Brogdon),,124,101
+4,4:24.0,,J. McRae misses 3-pt jump shot from 23 ft,124,101
+4,4:19.0,Defensive rebound by D. Wilson,,124,101
+4,3:58.0,G. Hill misses 3-pt jump shot from 27 ft,,124,101
+4,3:55.0,Offensive rebound by M. Brogdon,,124,101
+4,3:55.0,M. Brogdon makes 2-pt layup from 1 ft,,126,101
+4,3:55.0,,Washington full timeout,126,101
+4,3:55.0,S. Brown enters the game for M. Brogdon,,126,101
+4,3:55.0,P. Connaughton enters the game for K. Middleton,,126,101
+4,3:55.0,C. Wood enters the game for T. Snell,,126,101
+4,3:55.0,,T. Brown enters the game for T. Ariza,126,101
+4,3:55.0,,S. Dekker enters the game for B. Beal,126,101
+4,3:55.0,,J. Jenkins enters the game for J. Green,126,101
+4,3:55.0,,C. Randle enters the game for O. Porter,126,101
+4,3:37.0,,T. Brown makes 2-pt jump shot from 18 ft (assist by S. Dekker),126,103
+4,3:15.0,C. Wood misses 2-pt jump shot from 7 ft,,126,103
+4,3:12.0,,Defensive rebound by S. Dekker,126,103
+4,3:03.0,,Turnover by T. Brown (bad pass; steal by G. Hill),126,103
+4,2:56.0,S. Brown misses 3-pt jump shot from 27 ft,,126,103
+4,2:51.0,,Defensive rebound by J. McRae,126,103
+4,2:46.0,,J. McRae makes 2-pt jump shot from 13 ft,126,105
+4,2:27.0,P. Connaughton misses 3-pt jump shot from 27 ft,,126,105
+4,2:21.0,,Defensive rebound by T. Brown,126,105
+4,2:10.0,,J. Jenkins makes 3-pt jump shot from 26 ft (assist by T. Brown),126,108
+4,1:44.0,G. Hill misses 2-pt jump shot from 12 ft,,126,108
+4,1:38.0,,Defensive rebound by J. Jenkins,126,108
+4,1:36.0,,Turnover by J. McRae (bad pass; steal by G. Hill),126,108
+4,1:31.0,P. Connaughton makes 2-pt dunk at rim (assist by G. Hill),,128,108
+4,1:24.0,,T. Brown misses 2-pt layup from 2 ft,128,108
+4,1:24.0,,Offensive rebound by T. Brown,128,108
+4,1:20.0,,C. Randle makes 3-pt jump shot from 26 ft (assist by J. Jenkins),128,111
+4,1:08.0,P. Connaughton makes 3-pt jump shot from 26 ft (assist by D. Wilson),,131,111
+4,1:00.0,,S. Dekker misses 3-pt jump shot from 26 ft,131,111
+4,0:55.0,,Offensive rebound by J. McRae,131,111
+4,0:55.0,,Personal foul by S. Brown (drawn by J. McRae),131,111
+4,0:55.0,,J. McRae misses free throw 1 of 2,131,111
+4,0:55.0,,Offensive rebound by Team,131,111
+4,0:55.0,,J. McRae makes free throw 2 of 2,131,112
+4,0:41.0,C. Wood misses 2-pt hook shot from 9 ft,,131,112
+4,0:36.0,,Defensive rebound by T. Brown,131,112
+4,0:34.0,,Shooting foul by P. Connaughton (drawn by J. McRae),131,112
+4,0:34.0,,J. McRae misses free throw 1 of 2,131,112
+4,0:34.0,,Offensive rebound by Team,131,112
+4,0:34.0,,J. McRae misses free throw 2 of 2,131,112
+4,0:31.0,Defensive rebound by D. Wilson,,131,112
+4,0:11.0,S. Brown misses 3-pt jump shot from 27 ft,,131,112
+4,0:07.0,,Defensive rebound by T. Brown,131,112
+4,0:01.0,,J. McRae makes 3-pt jump shot from 28 ft (assist by T. Brown),131,115

@@ -1,0 +1,479 @@
+QUARTER,TIME_REMAINING,ATLANTA_ACTION,LA CLIPPERS_ACTION,ATLANTA_SCORE,LA CLIPPERS_SCORE
+1,11:43.0,,Personal foul by J. Collins (drawn by S. Gilgeous-Alexander),0,0
+1,11:35.0,,Turnover by T. Harris (bad pass; steal by D. Bembry),0,0
+1,11:30.0,D. Dedmon makes 2-pt dunk from 1 ft (assist by D. Bembry),,2,0
+1,11:14.0,,M. Gortat makes 2-pt layup from 1 ft (assist by P. Beverley),2,2
+1,10:52.0,D. Dedmon makes 2-pt jump shot from 10 ft (assist by T. Young),,4,2
+1,10:34.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 12 ft,4,2
+1,10:30.0,Defensive rebound by D. Dedmon,,4,2
+1,10:21.0,J. Collins misses 3-pt jump shot from 23 ft,,4,2
+1,10:18.0,,Defensive rebound by P. Beverley,4,2
+1,10:09.0,,T. Harris makes 2-pt jump shot from 16 ft,4,4
+1,9:49.0,D. Bembry misses 3-pt jump shot from 26 ft,,4,4
+1,9:46.0,,Defensive rebound by T. Harris,4,4
+1,9:37.0,,S. Gilgeous-Alexander makes 3-pt jump shot from 24 ft (assist by P. Beverley),4,7
+1,9:22.0,J. Collins makes 3-pt jump shot from 26 ft (assist by T. Young),,7,7
+1,9:08.0,,Personal foul by D. Dedmon (drawn by P. Beverley),7,7
+1,8:54.0,,P. Beverley misses 2-pt jump shot from 9 ft,7,7
+1,8:52.0,,Offensive rebound by M. Gortat,7,7
+1,8:48.0,,Turnover by M. Gortat (lost ball; steal by J. Collins),7,7
+1,8:41.0,J. Collins makes 2-pt layup from 1 ft (assist by D. Dedmon),,9,7
+1,8:41.0,Shooting foul by S. Gilgeous-Alexander (drawn by J. Collins),,9,7
+1,8:41.0,J. Collins makes free throw 1 of 1,,10,7
+1,8:24.0,,S. Gilgeous-Alexander misses 3-pt jump shot from 23 ft,10,7
+1,8:21.0,,Offensive rebound by P. Beverley,10,7
+1,8:19.0,,A. Bradley makes 3-pt jump shot from 26 ft (assist by T. Harris),10,10
+1,8:07.0,T. Young misses 3-pt jump shot from 26 ft,,10,10
+1,8:04.0,Offensive rebound by J. Collins,,10,10
+1,7:53.0,J. Collins misses 3-pt jump shot from 23 ft,,10,10
+1,7:51.0,,Defensive rebound by T. Harris,10,10
+1,7:48.0,,Offensive foul by T. Harris (drawn by J. Collins),10,10
+1,7:48.0,,Turnover by T. Harris (offensive foul),10,10
+1,7:48.0,J. Lin enters the game for D. Bembry,,10,10
+1,7:48.0,T. Prince enters the game for K. Huerter,,10,10
+1,7:24.0,T. Prince misses 2-pt jump shot from 12 ft,,10,10
+1,7:24.0,Offensive rebound by Team,,10,10
+1,7:24.0,Turnover by Team (shot clock),,10,10
+1,7:11.0,,S. Gilgeous-Alexander makes 2-pt layup from 2 ft,10,12
+1,7:00.0,T. Young makes 2-pt jump shot from 12 ft,,12,12
+1,6:40.0,,T. Harris misses 3-pt jump shot from 25 ft,12,12
+1,6:36.0,Defensive rebound by D. Dedmon,,12,12
+1,6:30.0,J. Lin makes 3-pt jump shot from 25 ft,,15,12
+1,6:18.0,,M. Gortat misses 2-pt jump shot from 11 ft,15,12
+1,6:16.0,Defensive rebound by T. Prince,,15,12
+1,6:07.0,J. Collins makes 3-pt jump shot from 23 ft (assist by T. Young),,18,12
+1,5:56.0,,LA Clippers full timeout,18,12
+1,5:56.0,D. Bembry enters the game for D. Dedmon,,18,12
+1,5:56.0,A. Len enters the game for T. Young,,18,12
+1,5:56.0,,M. Harrell enters the game for M. Gortat,18,12
+1,5:45.0,,T. Harris makes 2-pt jump shot from 16 ft,18,14
+1,5:32.0,Personal foul by M. Harrell (drawn by J. Lin),,18,14
+1,5:24.0,T. Prince misses 2-pt jump shot from 17 ft,,18,14
+1,5:22.0,,Defensive rebound by P. Beverley,18,14
+1,5:14.0,,Personal foul by T. Prince (drawn by S. Gilgeous-Alexander),18,14
+1,5:14.0,O. Spellman enters the game for J. Collins,,18,14
+1,5:13.0,,Personal foul by D. Bembry (drawn by A. Bradley),18,14
+1,5:09.0,,Turnover by M. Harrell (bad pass; steal by D. Bembry),18,14
+1,5:02.0,J. Lin misses 3-pt jump shot from 23 ft,,18,14
+1,4:55.0,Offensive rebound by O. Spellman,,18,14
+1,4:55.0,O. Spellman makes 2-pt layup at rim,,20,14
+1,4:51.0,,A. Bradley misses 3-pt jump shot from 25 ft,20,14
+1,4:49.0,Defensive rebound by J. Lin,,20,14
+1,4:35.0,Personal foul by T. Harris (drawn by J. Lin),,20,14
+1,4:35.0,,M. Scott enters the game for S. Gilgeous-Alexander,20,14
+1,4:35.0,,L. Williams enters the game for T. Harris,20,14
+1,4:29.0,T. Prince misses 2-pt jump shot from 14 ft,,20,14
+1,4:25.0,,Defensive rebound by L. Williams,20,14
+1,4:08.0,,L. Williams misses 2-pt jump shot from 15 ft,20,14
+1,4:04.0,,Offensive rebound by A. Bradley,20,14
+1,4:03.0,,Offensive foul by A. Bradley (drawn by D. Bembry),20,14
+1,4:03.0,,Turnover by A. Bradley (offensive foul),20,14
+1,3:50.0,Turnover by J. Lin (bad pass; steal by P. Beverley),,20,14
+1,3:49.0,,Personal foul by J. Lin (drawn by P. Beverley),20,14
+1,3:49.0,,P. Beverley makes free throw 1 of 2,20,15
+1,3:49.0,,P. Beverley makes free throw 2 of 2,20,16
+1,3:37.0,J. Lin misses 2-pt layup from 4 ft (block by P. Beverley),,20,16
+1,3:35.0,Offensive rebound by J. Lin,,20,16
+1,3:34.0,Turnover by J. Lin (lost ball; steal by P. Beverley),,20,16
+1,3:21.0,,P. Beverley makes 2-pt jump shot from 10 ft (assist by M. Scott),20,18
+1,3:04.0,Turnover by T. Prince (bad pass; steal by P. Beverley),,20,18
+1,2:56.0,,Shooting foul by O. Spellman (drawn by L. Williams),20,18
+1,2:56.0,Atlanta full timeout,,20,18
+1,2:56.0,,J. Robinson enters the game for A. Bradley,20,18
+1,2:56.0,,L. Williams makes free throw 1 of 3,20,19
+1,2:56.0,,L. Williams makes free throw 2 of 3,20,20
+1,2:56.0,,L. Williams makes free throw 3 of 3,20,21
+1,2:36.0,A. Len makes 2-pt dunk from 1 ft (assist by D. Bembry),,22,21
+1,2:36.0,Shooting foul by M. Scott (drawn by A. Len),,22,21
+1,2:36.0,K. Huerter enters the game for T. Prince,,22,21
+1,2:36.0,A. Len makes free throw 1 of 1,,23,21
+1,2:29.0,,Personal foul by D. Bembry (drawn by L. Williams),23,21
+1,2:29.0,,L. Williams makes free throw 1 of 2,23,22
+1,2:29.0,T. Young enters the game for D. Bembry,,23,22
+1,2:29.0,,L. Williams makes free throw 2 of 2,23,23
+1,2:15.0,T. Young makes 3-pt jump shot from 25 ft (assist by O. Spellman),,26,23
+1,1:56.0,,L. Williams misses 2-pt jump shot from 15 ft,26,23
+1,1:53.0,Defensive rebound by A. Len,,26,23
+1,1:49.0,Personal foul by L. Williams (drawn by J. Lin),,26,23
+1,1:49.0,J. Lin misses free throw 1 of 2,,26,23
+1,1:49.0,Offensive rebound by Team,,26,23
+1,1:49.0,J. Lin makes free throw 2 of 2,,27,23
+1,1:33.0,,M. Harrell makes 2-pt layup from 1 ft (assist by L. Williams),27,25
+1,1:18.0,K. Huerter makes 3-pt jump shot from 26 ft,,30,25
+1,1:03.0,,L. Williams misses 2-pt layup from 2 ft,30,25
+1,1:01.0,Defensive rebound by A. Len,,30,25
+1,1:01.0,,S. Gilgeous-Alexander enters the game for P. Beverley,30,25
+1,0:45.0,Turnover by J. Lin (bad pass; steal by L. Williams),,30,25
+1,0:38.0,,J. Robinson misses 2-pt layup from 6 ft,30,25
+1,0:36.0,,Offensive rebound by J. Robinson,30,25
+1,0:33.0,,L. Williams misses 3-pt jump shot from 30 ft,30,25
+1,0:33.0,Defensive rebound by O. Spellman,,30,25
+1,0:23.0,O. Spellman misses 3-pt jump shot from 25 ft,,30,25
+1,0:19.0,,Defensive rebound by J. Robinson,30,25
+1,0:04.0,,Turnover by M. Harrell (traveling),30,25
+1,0:04.0,,P. Beverley enters the game for J. Robinson,30,25
+1,0:04.0,,S. Thornwell enters the game for L. Williams,30,25
+1,0:01.0,T. Young makes 2-pt jump shot from 2 ft (assist by A. Len),,32,25
+2,11:40.0,T. Young makes 2-pt layup from 1 ft,,34,25
+2,11:23.0,,M. Scott misses 3-pt jump shot from 24 ft,34,25
+2,11:22.0,Defensive rebound by K. Huerter,,34,25
+2,11:15.0,J. Collins makes 3-pt jump shot from 27 ft (assist by T. Young),,37,25
+2,11:03.0,,M. Harrell makes 2-pt dunk from 1 ft (assist by L. Williams),37,27
+2,10:44.0,T. Young makes 2-pt jump shot from 6 ft,,39,27
+2,10:25.0,,M. Harrell makes 2-pt layup from 1 ft (assist by M. Scott),39,29
+2,10:02.0,K. Huerter misses 2-pt jump shot from 6 ft,,39,29
+2,10:00.0,,Defensive rebound by M. Scott,39,29
+2,9:52.0,,M. Scott misses 3-pt jump shot from 25 ft,39,29
+2,9:49.0,Defensive rebound by D. Dedmon,,39,29
+2,9:43.0,Shooting foul by S. Gilgeous-Alexander (drawn by T. Young),,39,29
+2,9:43.0,T. Young makes free throw 1 of 2,,40,29
+2,9:43.0,T. Young makes free throw 2 of 2,,41,29
+2,9:33.0,,M. Harrell misses 2-pt layup from 2 ft,41,29
+2,9:30.0,,Offensive rebound by M. Harrell,41,29
+2,9:29.0,,M. Harrell makes 2-pt layup from 2 ft,41,31
+2,9:21.0,T. Young misses 2-pt layup from 2 ft,,41,31
+2,9:20.0,Offensive rebound by J. Collins,,41,31
+2,9:20.0,J. Collins makes 2-pt dunk at rim,,43,31
+2,9:13.0,,Shooting foul by J. Collins (drawn by L. Williams),43,31
+2,9:13.0,,L. Williams makes free throw 1 of 2,43,32
+2,9:13.0,,A. Bradley enters the game for J. Robinson,43,32
+2,9:13.0,,L. Williams makes free throw 2 of 2,43,33
+2,8:59.0,Turnover by T. Young (bad pass; steal by M. Harrell),,43,33
+2,8:55.0,,M. Harrell makes 2-pt layup from 2 ft,43,35
+2,8:41.0,T. Young misses 2-pt jump shot from 17 ft,,43,35
+2,8:39.0,,Defensive rebound by L. Williams,43,35
+2,8:34.0,Violation by Team (kicked ball),,43,35
+2,8:26.0,,M. Scott makes 3-pt jump shot from 26 ft (assist by L. Williams),43,38
+2,8:16.0,Atlanta full timeout,,43,38
+2,8:08.0,K. Huerter misses 2-pt layup from 2 ft,,43,38
+2,8:07.0,Offensive rebound by D. Dedmon,,43,38
+2,8:07.0,D. Dedmon makes 2-pt dunk at rim,,45,38
+2,7:50.0,,S. Gilgeous-Alexander makes 2-pt layup from 2 ft,45,40
+2,7:39.0,Shooting foul by A. Bradley (drawn by T. Young),,45,40
+2,7:39.0,T. Young makes free throw 1 of 2,,46,40
+2,7:39.0,,T. Harris enters the game for M. Scott,46,40
+2,7:39.0,T. Young makes free throw 2 of 2,,47,40
+2,7:29.0,,Turnover by L. Williams (bad pass; steal by K. Huerter),47,40
+2,7:23.0,Turnover by K. Huerter (bad pass; steal by M. Harrell),,47,40
+2,7:19.0,,Turnover by M. Harrell (bad pass; steal by K. Huerter),47,40
+2,7:17.0,K. Huerter makes 2-pt layup from 2 ft,,49,40
+2,7:08.0,,M. Harrell makes 2-pt dunk from 1 ft (assist by S. Gilgeous-Alexander),49,42
+2,6:54.0,Personal foul by S. Gilgeous-Alexander (drawn by K. Huerter),,49,42
+2,6:54.0,D. Bembry enters the game for T. Prince,,49,42
+2,6:51.0,Turnover by D. Dedmon (bad pass),,49,42
+2,6:33.0,,L. Williams misses 3-pt jump shot from 23 ft,49,42
+2,6:31.0,Defensive rebound by J. Collins,,49,42
+2,6:24.0,D. Dedmon misses 3-pt jump shot from 23 ft,,49,42
+2,6:20.0,,Defensive rebound by T. Harris,49,42
+2,6:11.0,,L. Williams misses 2-pt layup from 2 ft,49,42
+2,6:07.0,Defensive rebound by D. Dedmon,,49,42
+2,6:04.0,T. Young makes 2-pt layup from 3 ft,,51,42
+2,6:03.0,,LA Clippers full timeout,51,42
+2,6:03.0,,P. Beverley enters the game for L. Williams,51,42
+2,5:49.0,,T. Harris misses 2-pt jump shot from 7 ft,51,42
+2,5:47.0,Defensive rebound by K. Huerter,,51,42
+2,5:43.0,K. Huerter misses 3-pt jump shot from 26 ft,,51,42
+2,5:40.0,,Defensive rebound by P. Beverley,51,42
+2,5:30.0,,M. Harrell makes 2-pt hook shot from 4 ft (assist by P. Beverley),51,44
+2,5:14.0,K. Huerter misses 3-pt jump shot from 28 ft,,51,44
+2,5:12.0,,Defensive rebound by P. Beverley,51,44
+2,4:51.0,,A. Bradley misses 2-pt jump shot from 17 ft,51,44
+2,4:48.0,,Offensive rebound by Team,51,44
+2,4:48.0,A. Len enters the game for J. Collins,,51,44
+2,4:48.0,J. Lin enters the game for D. Dedmon,,51,44
+2,4:48.0,T. Prince enters the game for K. Huerter,,51,44
+2,4:48.0,O. Spellman enters the game for T. Young,,51,44
+2,4:48.0,,M. Gortat enters the game for M. Harrell,51,44
+2,4:43.0,,T. Harris makes 2-pt jump shot from 15 ft (assist by P. Beverley),51,46
+2,4:33.0,Personal foul by P. Beverley (drawn by J. Lin),,51,46
+2,4:28.0,Turnover by D. Bembry (lost ball; steal by S. Gilgeous-Alexander),,51,46
+2,4:17.0,,P. Beverley misses 3-pt jump shot from 25 ft,51,46
+2,4:14.0,,Offensive rebound by M. Gortat,51,46
+2,4:08.0,,M. Gortat makes 2-pt hook shot from 4 ft (assist by T. Harris),51,48
+2,3:57.0,A. Len misses 3-pt jump shot from 26 ft,,51,48
+2,3:54.0,,Defensive rebound by P. Beverley,51,48
+2,3:51.0,,M. Gortat makes 2-pt layup from 2 ft (assist by P. Beverley),51,50
+2,3:30.0,Shooting foul by S. Gilgeous-Alexander (drawn by J. Lin),,51,50
+2,3:30.0,J. Lin makes free throw 1 of 2,,52,50
+2,3:30.0,,L. Williams enters the game for S. Gilgeous-Alexander,52,50
+2,3:30.0,J. Lin makes free throw 2 of 2,,53,50
+2,3:22.0,,T. Harris misses 2-pt jump shot from 15 ft,53,50
+2,3:18.0,Defensive rebound by A. Len,,53,50
+2,3:06.0,J. Lin makes 2-pt jump shot from 8 ft (assist by A. Len),,55,50
+2,2:51.0,,Turnover by M. Gortat (traveling),55,50
+2,2:45.0,Personal foul by A. Bradley (drawn by J. Lin),,55,50
+2,2:45.0,J. Lin makes free throw 1 of 2,,56,50
+2,2:45.0,,J. Robinson enters the game for A. Bradley,56,50
+2,2:45.0,J. Lin makes free throw 2 of 2,,57,50
+2,2:38.0,,T. Harris makes 3-pt jump shot from 26 ft (assist by L. Williams),57,53
+2,2:21.0,A. Len makes 2-pt layup from 1 ft (assist by J. Lin),,59,53
+2,2:12.0,,Personal foul by O. Spellman (drawn by M. Gortat),59,53
+2,2:12.0,J. Collins enters the game for O. Spellman,,59,53
+2,2:07.0,,Shooting foul by A. Len (drawn by T. Harris),59,53
+2,2:07.0,,T. Harris makes free throw 1 of 2,59,54
+2,2:07.0,,T. Harris makes free throw 2 of 2,59,55
+2,1:51.0,T. Prince misses 2-pt jump shot from 10 ft,,59,55
+2,1:50.0,Offensive rebound by T. Prince,,59,55
+2,1:43.0,Turnover by J. Lin (bad pass; steal by L. Williams),,59,55
+2,1:37.0,,T. Harris misses 2-pt jump shot from 6 ft,59,55
+2,1:31.0,,Offensive rebound by M. Gortat,59,55
+2,1:31.0,,Personal foul by T. Prince (drawn by L. Williams),59,55
+2,1:13.0,,T. Harris makes 2-pt jump shot from 8 ft (assist by P. Beverley),59,57
+2,0:57.0,Shooting foul by M. Gortat (drawn by A. Len),,59,57
+2,0:57.0,A. Len makes free throw 1 of 2,,60,57
+2,0:57.0,T. Young enters the game for D. Bembry,,60,57
+2,0:57.0,A. Len makes free throw 2 of 2,,61,57
+2,0:47.0,,L. Williams misses 2-pt layup from 3 ft (block by A. Len),61,57
+2,0:44.0,Defensive rebound by A. Len,,61,57
+2,0:43.0,T. Prince misses 3-pt jump shot from 23 ft,,61,57
+2,0:43.0,Offensive rebound by A. Len,,61,57
+2,0:41.0,A. Len misses 2-pt layup at rim,,61,57
+2,0:39.0,,Defensive rebound by J. Robinson,61,57
+2,0:32.0,,Shooting foul by A. Len (drawn by T. Harris),61,57
+2,0:32.0,,T. Harris misses free throw 1 of 2,61,57
+2,0:32.0,,Offensive rebound by Team,61,57
+2,0:32.0,,T. Harris makes free throw 2 of 2,61,58
+2,0:22.0,Shooting foul by P. Beverley (drawn by J. Collins),,61,58
+2,0:22.0,J. Collins makes free throw 1 of 2,,62,58
+2,0:22.0,J. Collins makes free throw 2 of 2,,63,58
+2,0:05.0,,P. Beverley misses 3-pt jump shot from 24 ft,63,58
+2,0:03.0,,Offensive rebound by M. Gortat,63,58
+2,0:00.0,,J. Robinson makes 3-pt jump shot from 25 ft (assist by M. Gortat),63,61
+2,0:00.0,,Shooting foul by T. Young (drawn by J. Robinson),63,61
+2,0:00.0,,J. Robinson misses free throw 1 of 1,63,61
+2,0:00.0,Defensive rebound by J. Collins,,63,61
+3,12:00.0,Technical foul by T. Young,,63,61
+3,12:00.0,,L. Williams makes technical free throw,63,62
+3,11:45.0,T. Young misses 3-pt jump shot from 23 ft,,63,62
+3,11:44.0,Offensive rebound by Team,,63,62
+3,11:37.0,T. Young makes 2-pt layup from 2 ft,,65,62
+3,11:15.0,,A. Bradley makes 3-pt jump shot from 26 ft (assist by T. Harris),65,65
+3,10:59.0,K. Huerter misses 3-pt jump shot from 22 ft,,65,65
+3,10:55.0,Offensive rebound by J. Collins,,65,65
+3,10:52.0,D. Bembry misses 3-pt jump shot from 24 ft,,65,65
+3,10:50.0,,Defensive rebound by M. Gortat,65,65
+3,10:40.0,,Turnover by S. Gilgeous-Alexander (traveling),65,65
+3,10:25.0,D. Bembry makes 2-pt layup from 2 ft,,67,65
+3,10:18.0,,A. Bradley misses 3-pt jump shot from 23 ft,67,65
+3,10:15.0,,Offensive rebound by S. Gilgeous-Alexander,67,65
+3,10:13.0,,T. Harris misses 3-pt jump shot from 30 ft,67,65
+3,10:09.0,Defensive rebound by T. Young,,67,65
+3,9:47.0,T. Young makes 2-pt layup from 1 ft,,69,65
+3,9:33.0,,S. Gilgeous-Alexander makes 2-pt layup from 2 ft (assist by T. Harris),69,67
+3,9:27.0,K. Huerter misses 3-pt jump shot from 24 ft,,69,67
+3,9:22.0,,Defensive rebound by T. Harris,69,67
+3,9:15.0,,M. Gortat makes 2-pt layup from 1 ft (assist by T. Harris),69,69
+3,9:04.0,Personal foul by A. Bradley (drawn by T. Young),,69,69
+3,8:55.0,J. Collins makes 2-pt dunk from 1 ft (assist by D. Bembry),,71,69
+3,8:42.0,,Offensive foul by M. Gortat (drawn by J. Collins),71,69
+3,8:42.0,,Turnover by M. Gortat (offensive foul),71,69
+3,8:42.0,,S. Thornwell enters the game for A. Bradley,71,69
+3,8:31.0,Turnover by K. Huerter (bad pass; steal by S. Gilgeous-Alexander),,71,69
+3,8:16.0,,S. Gilgeous-Alexander makes 2-pt layup at rim,71,71
+3,7:56.0,D. Bembry misses 2-pt layup from 2 ft,,71,71
+3,7:54.0,,Defensive rebound by S. Gilgeous-Alexander,71,71
+3,7:45.0,,S. Thornwell misses 2-pt layup from 2 ft,71,71
+3,7:43.0,Defensive rebound by T. Young,,71,71
+3,7:36.0,J. Collins makes 2-pt dunk from 2 ft (assist by T. Young),,73,71
+3,7:21.0,,M. Gortat makes 2-pt jump shot from 13 ft (assist by S. Gilgeous-Alexander),73,73
+3,7:21.0,Atlanta full timeout,,73,73
+3,7:21.0,V. Carter enters the game for D. Bembry,,73,73
+3,7:21.0,J. Lin enters the game for J. Collins,,73,73
+3,7:21.0,T. Prince enters the game for T. Young,,73,73
+3,7:21.0,,M. Harrell enters the game for M. Gortat,73,73
+3,7:07.0,V. Carter misses 3-pt jump shot from 26 ft,,73,73
+3,7:04.0,,Defensive rebound by T. Harris,73,73
+3,6:44.0,,T. Harris misses 2-pt jump shot from 14 ft,73,73
+3,6:43.0,Defensive rebound by K. Huerter,,73,73
+3,6:23.0,T. Prince makes 2-pt layup from 1 ft (assist by K. Huerter),,75,73
+3,6:08.0,,P. Beverley misses 3-pt jump shot from 26 ft,75,73
+3,6:05.0,Defensive rebound by V. Carter,,75,73
+3,5:53.0,D. Dedmon makes 2-pt jump shot from 18 ft (assist by K. Huerter),,77,73
+3,5:38.0,,Shooting foul by D. Dedmon (drawn by T. Harris),77,73
+3,5:38.0,,T. Harris makes free throw 1 of 2,77,74
+3,5:38.0,A. Len enters the game for D. Dedmon,,77,74
+3,5:38.0,,L. Williams enters the game for S. Thornwell,77,74
+3,5:38.0,,T. Harris makes free throw 2 of 2,77,75
+3,5:19.0,K. Huerter misses 2-pt jump shot from 9 ft (block by T. Harris),,77,75
+3,5:16.0,,Defensive rebound by T. Harris,77,75
+3,5:09.0,,L. Williams misses 2-pt jump shot from 19 ft,77,75
+3,5:08.0,,Offensive rebound by P. Beverley,77,75
+3,5:08.0,,Shooting foul by J. Lin (drawn by P. Beverley),77,75
+3,5:08.0,,P. Beverley makes free throw 1 of 2,77,76
+3,5:08.0,,P. Beverley makes free throw 2 of 2,77,77
+3,4:54.0,A. Len makes 2-pt dunk from 3 ft (assist by J. Lin),,79,77
+3,4:44.0,,Turnover by S. Gilgeous-Alexander (bad pass),79,77
+3,4:30.0,V. Carter makes 2-pt jump shot from 20 ft (assist by J. Lin),,81,77
+3,4:30.0,,LA Clippers full timeout,81,77
+3,4:22.0,,M. Harrell misses 2-pt layup from 2 ft (block by T. Prince),81,77
+3,4:22.0,Defensive rebound by Team,,81,77
+3,4:22.0,,J. Robinson enters the game for S. Gilgeous-Alexander,81,77
+3,4:04.0,Turnover by V. Carter (bad pass; steal by M. Harrell),,81,77
+3,3:55.0,,Turnover by L. Williams (bad pass; steal by A. Len),81,77
+3,3:49.0,A. Len makes 2-pt layup from 2 ft (assist by K. Huerter),,83,77
+3,3:32.0,,T. Harris makes 2-pt jump shot from 7 ft,83,79
+3,3:15.0,J. Lin misses 2-pt jump shot from 11 ft,,83,79
+3,3:13.0,,Defensive rebound by T. Harris,83,79
+3,3:05.0,,L. Williams misses 2-pt jump shot from 20 ft,83,79
+3,3:00.0,Defensive rebound by A. Len,,83,79
+3,2:47.0,A. Len misses 2-pt layup from 1 ft (block by M. Harrell),,83,79
+3,2:44.0,,Defensive rebound by T. Harris,83,79
+3,2:30.0,,Turnover by L. Williams (back court),83,79
+3,2:30.0,D. Bembry enters the game for K. Huerter,,83,79
+3,2:30.0,T. Young enters the game for J. Lin,,83,79
+3,2:18.0,A. Len makes 2-pt hook shot from 6 ft (assist by V. Carter),,85,79
+3,2:06.0,,T. Harris makes 2-pt jump shot from 8 ft (assist by L. Williams),85,81
+3,1:50.0,A. Len makes 2-pt layup from 2 ft (assist by V. Carter),,87,81
+3,1:50.0,Shooting foul by M. Harrell (drawn by A. Len),,87,81
+3,1:50.0,,T. Wallace enters the game for P. Beverley,87,81
+3,1:50.0,A. Len makes free throw 1 of 1,,88,81
+3,1:36.0,,L. Williams misses 2-pt jump shot from 20 ft,88,81
+3,1:32.0,Defensive rebound by V. Carter,,88,81
+3,1:23.0,Turnover by A. Len (3 sec),,88,81
+3,1:12.0,,L. Williams misses 3-pt jump shot from 25 ft,88,81
+3,1:07.0,Defensive rebound by V. Carter,,88,81
+3,1:03.0,T. Young misses 2-pt jump shot from 12 ft,,88,81
+3,1:03.0,Offensive rebound by A. Len,,88,81
+3,0:57.0,A. Len misses 2-pt layup from 1 ft,,88,81
+3,0:56.0,Offensive rebound by A. Len,,88,81
+3,0:56.0,A. Len misses 2-pt layup from 1 ft,,88,81
+3,0:55.0,Offensive rebound by T. Young,,88,81
+3,0:55.0,V. Carter makes 3-pt jump shot from 29 ft (assist by T. Young),,91,81
+3,0:43.0,,M. Harrell misses 2-pt layup from 2 ft,91,81
+3,0:42.0,Defensive rebound by V. Carter,,91,81
+3,0:42.0,,M. Scott enters the game for T. Harris,91,81
+3,0:34.0,Atlanta full timeout,,91,81
+3,0:33.0,T. Prince makes 2-pt layup from 1 ft (assist by D. Bembry),,93,81
+3,0:33.0,Shooting foul by J. Robinson (drawn by T. Prince),,93,81
+3,0:33.0,T. Prince makes free throw 1 of 1,,94,81
+3,0:19.0,,L. Williams makes 2-pt layup from 3 ft,94,83
+3,0:03.0,Turnover by A. Len (out of bounds lost ball),,94,83
+3,0:00.0,,M. Harrell misses 3-pt jump shot from 50 ft,94,83
+3,0:00.0,,Offensive rebound by Team,94,83
+4,11:41.0,,T. Wallace misses 2-pt layup from 5 ft (block by D. Dedmon),94,83
+4,11:38.0,Defensive rebound by D. Dedmon,,94,83
+4,11:28.0,D. Dedmon makes 3-pt jump shot from 27 ft (assist by T. Young),,97,83
+4,11:14.0,,L. Williams makes 2-pt layup from 2 ft,97,85
+4,10:55.0,T. Young misses 3-pt jump shot from 24 ft,,97,85
+4,10:51.0,,Defensive rebound by M. Harrell,97,85
+4,10:38.0,Violation by Team (kicked ball),,97,85
+4,10:38.0,,P. Beverley enters the game for J. Robinson,97,85
+4,10:38.0,,A. Bradley enters the game for T. Wallace,97,85
+4,10:32.0,,L. Williams makes 2-pt layup from 1 ft,97,87
+4,10:07.0,D. Bembry makes 2-pt layup from 2 ft (assist by D. Dedmon),,99,87
+4,10:00.0,,Turnover by L. Williams (bad pass; steal by J. Collins),99,87
+4,9:55.0,Shooting foul by L. Williams (drawn by J. Collins),,99,87
+4,9:55.0,J. Collins makes free throw 1 of 2,,100,87
+4,9:55.0,K. Huerter enters the game for T. Young,,100,87
+4,9:55.0,J. Collins makes free throw 2 of 2,,101,87
+4,9:47.0,,A. Bradley makes 3-pt jump shot from 24 ft (assist by L. Williams),101,90
+4,9:28.0,Shooting foul by P. Beverley (drawn by D. Bembry),,101,90
+4,9:28.0,D. Bembry makes free throw 1 of 2,,102,90
+4,9:28.0,,T. Harris enters the game for M. Scott,102,90
+4,9:28.0,D. Bembry makes free throw 2 of 2,,103,90
+4,9:19.0,,M. Harrell misses 2-pt layup from 2 ft,103,90
+4,9:15.0,Defensive rebound by J. Collins,,103,90
+4,9:03.0,D. Bembry misses 2-pt layup from 1 ft,,103,90
+4,9:02.0,,Defensive rebound by M. Harrell,103,90
+4,8:56.0,,Turnover by L. Williams (out of bounds lost ball),103,90
+4,8:41.0,J. Lin misses 3-pt jump shot from 26 ft,,103,90
+4,8:36.0,,Defensive rebound by A. Bradley,103,90
+4,8:29.0,,Personal foul by K. Huerter (drawn by L. Williams),103,90
+4,8:29.0,A. Len enters the game for D. Dedmon,,103,90
+4,8:13.0,,L. Williams makes 3-pt jump shot from 26 ft (assist by T. Harris),103,93
+4,7:58.0,J. Lin misses 3-pt jump shot from 23 ft,,103,93
+4,7:56.0,Offensive rebound by Team,,103,93
+4,7:56.0,O. Spellman enters the game for J. Collins,,103,93
+4,7:46.0,Personal foul by T. Harris (drawn by J. Lin),,103,93
+4,7:46.0,T. Prince enters the game for D. Bembry,,103,93
+4,7:41.0,J. Lin makes 2-pt jump shot from 9 ft,,105,93
+4,7:41.0,Shooting foul by P. Beverley (drawn by J. Lin),,105,93
+4,7:41.0,J. Lin makes free throw 1 of 1,,106,93
+4,7:24.0,,A. Bradley misses 2-pt layup from 7 ft (block by K. Huerter),106,93
+4,7:21.0,Defensive rebound by A. Len,,106,93
+4,7:17.0,T. Prince misses 3-pt jump shot from 25 ft,,106,93
+4,7:17.0,Offensive rebound by Team,,106,93
+4,7:17.0,,Loose ball foul by M. Harrell (drawn by A. Len),106,93
+4,7:17.0,A. Len misses free throw 1 of 2,,106,93
+4,7:17.0,Offensive rebound by Team,,106,93
+4,7:17.0,A. Len makes free throw 2 of 2,,107,93
+4,7:10.0,,Personal foul by T. Prince (drawn by L. Williams),107,93
+4,7:04.0,,T. Harris misses 2-pt jump shot from 20 ft,107,93
+4,7:02.0,Defensive rebound by O. Spellman,,107,93
+4,6:53.0,A. Len makes 2-pt jump shot from 9 ft (assist by J. Lin),,109,93
+4,6:52.0,,LA Clippers full timeout,109,93
+4,6:43.0,,Personal foul by T. Prince (drawn by P. Beverley),109,93
+4,6:31.0,,Personal foul by O. Spellman (drawn by M. Harrell),109,93
+4,6:23.0,,L. Williams misses 2-pt jump shot from 18 ft,109,93
+4,6:17.0,,Offensive rebound by M. Harrell,109,93
+4,6:17.0,,M. Harrell makes 2-pt layup at rim,109,95
+4,6:05.0,T. Prince makes 2-pt jump shot from 15 ft (assist by A. Len),,111,95
+4,5:46.0,,T. Harris makes 2-pt jump shot from 6 ft (assist by L. Williams),111,97
+4,5:46.0,,Shooting foul by O. Spellman (drawn by T. Harris),111,97
+4,5:46.0,,T. Harris makes free throw 1 of 1,111,98
+4,5:31.0,O. Spellman makes 3-pt jump shot from 25 ft (assist by K. Huerter),,114,98
+4,5:22.0,,Shooting foul by O. Spellman (drawn by L. Williams),114,98
+4,5:22.0,,L. Williams makes free throw 1 of 2,114,99
+4,5:22.0,,L. Williams makes free throw 2 of 2,114,100
+4,5:15.0,Personal foul by A. Bradley (drawn by T. Prince),,114,100
+4,5:15.0,T. Prince makes free throw 1 of 2,,115,100
+4,5:15.0,J. Collins enters the game for J. Lin,,115,100
+4,5:15.0,T. Young enters the game for O. Spellman,,115,100
+4,5:15.0,T. Prince makes free throw 2 of 2,,116,100
+4,5:02.0,,A. Bradley misses 3-pt jump shot from 25 ft,116,100
+4,4:58.0,,Offensive rebound by P. Beverley,116,100
+4,4:55.0,,L. Williams misses 3-pt jump shot from 26 ft,116,100
+4,4:52.0,,Offensive rebound by P. Beverley,116,100
+4,4:50.0,,A. Bradley makes 3-pt jump shot from 26 ft (assist by T. Harris),116,103
+4,4:35.0,Offensive foul by J. Collins (drawn by L. Williams),,116,103
+4,4:35.0,Turnover by J. Collins (offensive foul),,116,103
+4,4:12.0,,T. Harris makes 2-pt jump shot from 5 ft,116,105
+4,4:00.0,Turnover by A. Len (off goaltending),,116,105
+4,4:00.0,,LA Clippers full timeout,116,105
+4,4:00.0,D. Dedmon enters the game for A. Len,,116,105
+4,3:51.0,,T. Harris makes 3-pt jump shot from 26 ft (assist by L. Williams),116,108
+4,3:34.0,T. Young misses 3-pt jump shot from 26 ft,,116,108
+4,3:30.0,Offensive rebound by K. Huerter,,116,108
+4,3:26.0,K. Huerter misses 3-pt jump shot from 26 ft,,116,108
+4,3:23.0,Offensive rebound by D. Dedmon,,116,108
+4,3:18.0,Atlanta full timeout,,116,108
+4,3:18.0,D. Bembry enters the game for K. Huerter,,116,108
+4,3:10.0,T. Young makes 2-pt jump shot from 3 ft,,118,108
+4,2:52.0,,T. Harris makes 2-pt layup from 2 ft,118,110
+4,2:49.0,Turnover by J. Collins (inbound),,118,110
+4,2:38.0,,A. Bradley misses 3-pt jump shot from 26 ft (block by D. Bembry),118,110
+4,2:35.0,Defensive rebound by T. Young,,118,110
+4,2:22.0,D. Dedmon misses 3-pt jump shot from 25 ft,,118,110
+4,2:18.0,,Defensive rebound by P. Beverley,118,110
+4,2:18.0,,Personal foul by D. Dedmon (drawn by P. Beverley),118,110
+4,2:18.0,,P. Beverley makes free throw 1 of 2,118,111
+4,2:18.0,,P. Beverley makes free throw 2 of 2,118,112
+4,1:57.0,J. Collins misses 2-pt layup from 2 ft (block by T. Harris),,118,112
+4,1:54.0,,Defensive rebound by L. Williams,118,112
+4,1:52.0,,M. Harrell misses 2-pt layup from 1 ft (block by T. Prince),118,112
+4,1:48.0,Defensive rebound by D. Dedmon,,118,112
+4,1:30.0,T. Young misses 3-pt jump shot from 29 ft,,118,112
+4,1:27.0,Offensive rebound by D. Dedmon,,118,112
+4,1:18.0,D. Dedmon makes 2-pt dunk from 1 ft (assist by T. Young),,120,112
+4,1:18.0,,LA Clippers full timeout,120,112
+4,1:11.0,,M. Harrell makes 2-pt dunk from 2 ft (assist by L. Williams),120,114
+4,0:54.0,T. Young makes 3-pt jump shot from 31 ft,,123,114
+4,0:48.0,,Shooting foul by J. Collins (drawn by L. Williams),123,114
+4,0:48.0,,L. Williams makes free throw 1 of 2,123,115
+4,0:48.0,,L. Williams makes free throw 2 of 2,123,116
+4,0:41.0,Atlanta full timeout,,123,116
+4,0:41.0,,S. Thornwell enters the game for L. Williams,123,116
+4,0:34.0,Turnover by D. Bembry (bad pass),,123,116
+4,0:34.0,,L. Williams enters the game for S. Thornwell,123,116
+4,0:28.0,,Shooting foul by T. Prince (drawn by P. Beverley),123,116
+4,0:28.0,,P. Beverley makes free throw 1 of 2,123,117
+4,0:28.0,V. Carter enters the game for D. Bembry,,123,117
+4,0:28.0,,S. Thornwell enters the game for L. Williams,123,117
+4,0:28.0,,P. Beverley makes free throw 2 of 2,123,118
+4,0:21.0,Personal take foul by M. Harrell (drawn by T. Prince),,123,118
+4,0:21.0,T. Prince misses free throw 1 of 2,,123,118
+4,0:21.0,Offensive rebound by Team,,123,118
+4,0:21.0,D. Bembry enters the game for V. Carter,,123,118
+4,0:21.0,T. Prince misses free throw 2 of 2,,123,118
+4,0:17.0,Offensive rebound by D. Dedmon,,123,118
+4,0:04.0,Turnover by Team (shot clock),,123,118

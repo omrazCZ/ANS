@@ -1,0 +1,423 @@
+QUARTER,TIME_REMAINING,DENVER_ACTION,HOUSTON_ACTION,DENVER_SCORE,HOUSTON_SCORE
+1,11:47.0,,E. Gordon misses 3-pt jump shot from 26 ft,0,0
+1,11:42.0,Defensive rebound by W. Barton,,0,0
+1,11:27.0,G. Harris makes 3-pt jump shot from 23 ft (assist by N. Jokić),,3,0
+1,11:15.0,,J. Harden makes 2-pt layup from 1 ft,3,2
+1,10:53.0,P. Millsap makes 2-pt jump shot from 3 ft (assist by N. Jokić),,5,2
+1,10:41.0,,E. Gordon misses 2-pt jump shot from 5 ft (block by N. Jokić),5,2
+1,10:38.0,Defensive rebound by N. Jokić,,5,2
+1,10:35.0,W. Barton misses 3-pt jump shot from 26 ft,,5,2
+1,10:31.0,,Defensive rebound by C. Capela,5,2
+1,10:18.0,,C. Paul misses 3-pt jump shot from 23 ft,5,2
+1,10:14.0,Defensive rebound by J. Murray,,5,2
+1,10:06.0,P. Millsap misses 2-pt jump shot from 8 ft (block by J. Harden),,5,2
+1,10:06.0,Offensive rebound by Team,,5,2
+1,9:57.0,G. Harris makes 3-pt jump shot from 23 ft (assist by N. Jokić),,8,2
+1,9:34.0,,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),8,4
+1,9:20.0,J. Murray makes 2-pt jump shot from 15 ft (assist by N. Jokić),,10,4
+1,9:20.0,Shooting foul by C. Paul (drawn by J. Murray),,10,4
+1,9:20.0,J. Murray makes free throw 1 of 1,,11,4
+1,9:09.0,,E. Gordon makes 2-pt layup from 1 ft (assist by J. Harden),11,6
+1,8:49.0,P. Millsap misses 2-pt jump shot from 8 ft,,11,6
+1,8:47.0,,Defensive rebound by C. Capela,11,6
+1,8:34.0,,E. Gordon makes 3-pt jump shot from 24 ft (assist by C. Paul),11,9
+1,8:11.0,N. Jokić misses 2-pt jump shot from 19 ft,,11,9
+1,8:09.0,,Defensive rebound by C. Paul,11,9
+1,8:01.0,,J. Harden makes 2-pt jump shot from 11 ft,11,11
+1,7:47.0,J. Murray makes 2-pt layup from 3 ft (assist by W. Barton),,13,11
+1,7:36.0,,C. Capela misses 2-pt layup from 4 ft,13,11
+1,7:34.0,Defensive rebound by J. Murray,,13,11
+1,7:32.0,Turnover by G. Harris (out of bounds lost ball),,13,11
+1,7:25.0,,Personal foul by J. Murray (drawn by C. Paul),13,11
+1,7:15.0,,J. Harden misses 2-pt layup from 6 ft (block by N. Jokić),13,11
+1,7:13.0,,Offensive rebound by J. Harden,13,11
+1,7:12.0,,J. Harden misses 2-pt jump shot from 9 ft,13,11
+1,7:10.0,Defensive rebound by P. Millsap,,13,11
+1,7:05.0,J. Murray misses 2-pt layup from 7 ft,,13,11
+1,7:01.0,Offensive rebound by N. Jokić,,13,11
+1,7:01.0,N. Jokić makes 2-pt layup at rim,,15,11
+1,6:48.0,,J. Harden misses 3-pt jump shot from 25 ft,15,11
+1,6:46.0,,Offensive rebound by C. Capela,15,11
+1,6:45.0,,C. Capela misses 2-pt layup from 2 ft,15,11
+1,6:45.0,Defensive rebound by Team,,15,11
+1,6:45.0,,Houston full timeout,15,11
+1,6:45.0,,D. House enters the game for C. Paul,15,11
+1,6:38.0,J. Murray makes 2-pt layup from 1 ft,,17,11
+1,6:19.0,,J. Harden makes 3-pt jump shot from 25 ft,17,14
+1,5:55.0,J. Murray misses 2-pt jump shot from 18 ft,,17,14
+1,5:52.0,,Defensive rebound by C. Capela,17,14
+1,5:41.0,,Turnover by J. Harden (bad pass),17,14
+1,5:41.0,M. Plumlee enters the game for P. Millsap,,17,14
+1,5:41.0,,I. Shumpert enters the game for E. Gordon,17,14
+1,5:30.0,G. Harris misses 3-pt jump shot from 25 ft,,17,14
+1,5:27.0,,Defensive rebound by C. Capela,17,14
+1,5:10.0,,J. Harden misses 3-pt jump shot from 26 ft,17,14
+1,5:05.0,Defensive rebound by G. Harris,,17,14
+1,5:03.0,J. Murray misses 2-pt jump shot from 14 ft,,17,14
+1,4:59.0,,Defensive rebound by P. Tucker,17,14
+1,4:44.0,,I. Shumpert misses 2-pt jump shot from 14 ft,17,14
+1,4:41.0,Defensive rebound by M. Plumlee,,17,14
+1,4:28.0,M. Plumlee misses 2-pt jump shot from 6 ft (block by C. Capela),,17,14
+1,4:25.0,,Defensive rebound by P. Tucker,17,14
+1,4:21.0,,C. Capela makes 2-pt dunk from 2 ft (assist by J. Harden),17,16
+1,4:11.0,Personal foul by I. Shumpert (drawn by J. Murray),,17,16
+1,4:11.0,M. Morris enters the game for J. Murray,,17,16
+1,4:11.0,,A. Rivers enters the game for P. Tucker,17,16
+1,4:00.0,N. Jokić makes 2-pt dunk from 1 ft (assist by G. Harris),,19,16
+1,3:38.0,,J. Harden misses 2-pt layup from 1 ft,19,16
+1,3:36.0,Defensive rebound by M. Morris,,19,16
+1,3:19.0,N. Jokić misses 2-pt jump shot from 8 ft,,19,16
+1,3:19.0,,Defensive rebound by C. Capela,19,16
+1,3:00.0,,Turnover by C. Capela (lost ball; steal by M. Plumlee),19,16
+1,2:43.0,M. Morris makes 2-pt layup from 3 ft (assist by N. Jokić),,21,16
+1,2:26.0,,D. House misses 3-pt jump shot from 26 ft,21,16
+1,2:23.0,Defensive rebound by M. Plumlee,,21,16
+1,2:15.0,W. Barton misses 2-pt layup from 3 ft,,21,16
+1,2:15.0,Offensive rebound by N. Jokić,,21,16
+1,2:15.0,N. Jokić makes 2-pt layup at rim,,23,16
+1,2:15.0,,Houston full timeout,23,16
+1,2:15.0,M. Beasley enters the game for W. Barton,,23,16
+1,2:15.0,T. Craig enters the game for G. Harris,,23,16
+1,2:15.0,P. Millsap enters the game for N. Jokić,,23,16
+1,2:15.0,,N. Hilário enters the game for C. Capela,23,16
+1,2:15.0,,C. Paul enters the game for J. Harden,23,16
+1,1:54.0,,Turnover by C. Paul (bad pass; steal by P. Millsap),23,16
+1,1:50.0,Turnover by M. Beasley (lost ball; steal by I. Shumpert),,23,16
+1,1:35.0,,A. Rivers makes 3-pt jump shot from 24 ft (assist by D. House),23,19
+1,1:06.0,M. Plumlee misses 2-pt jump shot from 20 ft,,23,19
+1,1:04.0,Offensive rebound by M. Morris,,23,19
+1,0:55.0,M. Beasley misses 2-pt jump shot from 19 ft,,23,19
+1,0:52.0,,Defensive rebound by N. Hilário,23,19
+1,0:46.0,,I. Shumpert makes 3-pt jump shot from 25 ft (assist by A. Rivers),23,22
+1,0:28.0,M. Morris misses 3-pt jump shot from 27 ft,,23,22
+1,0:26.0,,Defensive rebound by N. Hilário,23,22
+1,0:07.0,,Turnover by C. Paul (bad pass; steal by T. Craig),23,22
+1,0:05.0,Shooting foul by D. House (drawn by T. Craig),,23,22
+1,0:05.0,T. Craig makes free throw 1 of 2,,24,22
+1,0:05.0,T. Craig makes free throw 2 of 2,,25,22
+1,0:03.0,,Personal take foul by T. Craig (drawn by C. Paul),25,22
+2,12:00.0,T. Craig misses 3-pt jump shot from 23 ft,,25,22
+2,11:45.0,,Defensive rebound by Team,25,22
+2,11:28.0,,A. Rivers makes 3-pt jump shot from 24 ft (assist by C. Paul),25,25
+2,11:14.0,Personal foul by N. Hilário (drawn by M. Plumlee),,25,25
+2,11:10.0,J. Murray makes 2-pt layup from 7 ft (assist by M. Morris),,27,25
+2,10:58.0,,E. Gordon makes 2-pt jump shot from 5 ft (assist by C. Paul),27,27
+2,10:48.0,J. Murray misses 2-pt jump shot from 9 ft (block by A. Rivers),,27,27
+2,10:44.0,,Defensive rebound by I. Shumpert,27,27
+2,10:42.0,,A. Rivers makes 3-pt jump shot from 26 ft (assist by I. Shumpert),27,30
+2,10:26.0,Denver full timeout,,27,30
+2,10:18.0,T. Craig misses 2-pt jump shot from 15 ft,,27,30
+2,10:17.0,Offensive rebound by Team,,27,30
+2,10:17.0,Turnover by Team (shot clock),,27,30
+2,10:04.0,,A. Rivers makes 2-pt jump shot from 7 ft (assist by C. Paul),27,32
+2,9:52.0,Turnover by M. Beasley (dbl dribble),,27,32
+2,9:52.0,G. Harris enters the game for T. Craig,,27,32
+2,9:32.0,,Turnover by I. Shumpert (lost ball; steal by J. Murray),27,32
+2,9:27.0,M. Beasley misses 3-pt jump shot from 23 ft,,27,32
+2,9:22.0,,Defensive rebound by E. Gordon,27,32
+2,9:04.0,,N. Hilário makes 2-pt jump shot from 16 ft (assist by C. Paul),27,34
+2,8:40.0,J. Murray makes 2-pt layup from 1 ft (assist by M. Plumlee),,29,34
+2,8:40.0,Shooting foul by N. Hilário (drawn by J. Murray),,29,34
+2,8:40.0,J. Murray makes free throw 1 of 1,,30,34
+2,8:21.0,,C. Paul misses 2-pt jump shot from 17 ft,30,34
+2,8:19.0,,Offensive rebound by N. Hilário,30,34
+2,8:16.0,,N. Hilário misses 2-pt jump shot from 4 ft,30,34
+2,8:16.0,Defensive rebound by J. Murray,,30,34
+2,8:04.0,M. Beasley misses 3-pt jump shot from 25 ft,,30,34
+2,8:02.0,,Defensive rebound by I. Shumpert,30,34
+2,7:52.0,,E. Gordon makes 3-pt jump shot from 29 ft (assist by A. Rivers),30,37
+2,7:33.0,M. Beasley makes 2-pt layup from 2 ft (assist by M. Plumlee),,32,37
+2,7:13.0,,Turnover by E. Gordon (bad pass; steal by M. Beasley),32,37
+2,7:09.0,J. Murray misses 3-pt jump shot from 26 ft,,32,37
+2,7:06.0,,Defensive rebound by I. Shumpert,32,37
+2,6:58.0,,A. Rivers makes 2-pt jump shot from 7 ft (assist by I. Shumpert),32,39
+2,6:58.0,,Shooting foul by G. Harris (drawn by A. Rivers),32,39
+2,6:58.0,W. Barton enters the game for J. Murray,,32,39
+2,6:58.0,N. Jokić enters the game for M. Plumlee,,32,39
+2,6:58.0,,C. Capela enters the game for N. Hilário,32,39
+2,6:58.0,,J. Harden enters the game for C. Paul,32,39
+2,6:58.0,,P. Tucker enters the game for I. Shumpert,32,39
+2,6:58.0,,A. Rivers misses free throw 1 of 1,32,39
+2,6:58.0,Defensive rebound by N. Jokić,,32,39
+2,6:35.0,N. Jokić misses 2-pt jump shot from 8 ft,,32,39
+2,6:34.0,,Defensive rebound by C. Capela,32,39
+2,6:22.0,,P. Tucker makes 3-pt jump shot from 23 ft (assist by J. Harden),32,42
+2,5:57.0,N. Jokić misses 2-pt jump shot from 9 ft,,32,42
+2,5:57.0,,Defensive rebound by Team,32,42
+2,5:57.0,P. Millsap enters the game for M. Beasley,,32,42
+2,5:44.0,,J. Harden makes 3-pt jump shot from 26 ft,32,45
+2,5:43.0,Denver full timeout,,32,45
+2,5:43.0,J. Murray enters the game for M. Morris,,32,45
+2,5:31.0,G. Harris makes 2-pt jump shot from 7 ft (assist by N. Jokić),,34,45
+2,5:11.0,,Personal foul by W. Barton (drawn by E. Gordon),34,45
+2,5:06.0,,Shooting foul by N. Jokić (drawn by C. Capela),34,45
+2,5:06.0,,C. Capela misses free throw 1 of 2,34,45
+2,5:06.0,,Offensive rebound by Team,34,45
+2,5:06.0,,C. Capela makes free throw 2 of 2,34,46
+2,4:46.0,G. Harris misses 2-pt jump shot from 11 ft,,34,46
+2,4:46.0,Offensive rebound by Team,,34,46
+2,4:44.0,Shooting foul by E. Gordon (drawn by N. Jokić),,34,46
+2,4:44.0,N. Jokić makes free throw 1 of 2,,35,46
+2,4:44.0,N. Jokić makes free throw 2 of 2,,36,46
+2,4:28.0,,J. Harden misses 3-pt jump shot from 23 ft,36,46
+2,4:26.0,,Offensive rebound by C. Capela,36,46
+2,4:23.0,,C. Capela misses 2-pt jump shot from 1 ft (block by P. Millsap),36,46
+2,4:23.0,,Offensive rebound by C. Capela,36,46
+2,4:19.0,,C. Capela makes 2-pt dunk from 2 ft,36,48
+2,4:06.0,W. Barton misses 3-pt jump shot from 24 ft,,36,48
+2,4:03.0,,Defensive rebound by J. Harden,36,48
+2,3:59.0,,C. Capela makes 2-pt layup from 1 ft (assist by J. Harden),36,50
+2,3:47.0,Personal foul by J. Harden (drawn by N. Jokić),,36,50
+2,3:47.0,,C. Paul enters the game for E. Gordon,36,50
+2,3:39.0,N. Jokić makes 2-pt jump shot from 18 ft (assist by J. Murray),,38,50
+2,3:22.0,,J. Harden misses 2-pt layup from 3 ft,38,50
+2,3:20.0,Defensive rebound by G. Harris,,38,50
+2,3:17.0,J. Murray makes 2-pt layup at rim (assist by W. Barton),,40,50
+2,2:55.0,,C. Capela makes 2-pt dunk from 1 ft (assist by C. Paul),40,52
+2,2:42.0,G. Harris misses 2-pt jump shot from 2 ft,,40,52
+2,2:39.0,,Defensive rebound by P. Tucker,40,52
+2,2:32.0,,Shooting foul by N. Jokić (drawn by J. Harden),40,52
+2,2:32.0,,J. Harden makes free throw 1 of 2,40,53
+2,2:32.0,,J. Harden makes free throw 2 of 2,40,54
+2,2:11.0,W. Barton misses 2-pt layup from 8 ft,,40,54
+2,2:10.0,Offensive rebound by N. Jokić,,40,54
+2,2:09.0,N. Jokić makes 2-pt layup from 2 ft,,42,54
+2,2:03.0,,Personal foul by P. Millsap (drawn by J. Harden),42,54
+2,2:03.0,,J. Harden makes free throw 1 of 2,42,55
+2,2:03.0,,J. Harden makes free throw 2 of 2,42,56
+2,1:46.0,N. Jokić misses 2-pt jump shot from 17 ft,,42,56
+2,1:44.0,,Defensive rebound by P. Tucker,42,56
+2,1:32.0,,C. Capela makes 2-pt dunk at rim (assist by J. Harden),42,58
+2,1:15.0,Turnover by N. Jokić (step out of bounds),,42,58
+2,1:15.0,M. Plumlee enters the game for N. Jokić,,42,58
+2,1:02.0,,Personal foul by W. Barton (drawn by C. Paul),42,58
+2,1:02.0,,C. Paul makes free throw 1 of 2,42,59
+2,1:02.0,,C. Paul makes free throw 2 of 2,42,60
+2,0:45.0,Shooting foul by C. Paul (drawn by J. Murray),,42,60
+2,0:45.0,J. Murray makes free throw 1 of 2,,43,60
+2,0:45.0,J. Murray makes free throw 2 of 2,,44,60
+2,0:31.0,,J. Harden misses 3-pt jump shot from 29 ft,44,60
+2,0:29.0,,Offensive rebound by C. Capela,44,60
+2,0:27.0,,J. Harden makes 2-pt dunk from 1 ft (assist by C. Capela),44,62
+2,0:04.0,J. Murray misses 2-pt jump shot from 6 ft,,44,62
+2,0:03.0,,Defensive rebound by C. Capela,44,62
+2,0:00.0,,C. Paul misses 3-pt jump shot from 30 ft,44,62
+2,0:00.0,,Offensive rebound by Team,44,62
+3,11:52.0,N. Jokić misses 2-pt layup from 2 ft,,44,62
+3,11:47.0,,Defensive rebound by C. Paul,44,62
+3,11:42.0,,Turnover by J. Harden (traveling),44,62
+3,11:34.0,Turnover by G. Harris (bad pass; steal by C. Capela),,44,62
+3,11:14.0,,J. Harden makes 2-pt jump shot from 8 ft,44,64
+3,11:03.0,Shooting foul by E. Gordon (drawn by J. Murray),,44,64
+3,11:03.0,J. Murray misses free throw 1 of 3,,44,64
+3,11:03.0,Offensive rebound by Team,,44,64
+3,11:03.0,J. Murray makes free throw 2 of 3,,45,64
+3,11:03.0,J. Murray makes free throw 3 of 3,,46,64
+3,10:48.0,,C. Paul misses 2-pt jump shot from 6 ft,46,64
+3,10:46.0,Defensive rebound by P. Millsap,,46,64
+3,10:43.0,Turnover by P. Millsap (lost ball; steal by P. Tucker),,46,64
+3,10:36.0,,P. Tucker misses 3-pt jump shot from 23 ft,46,64
+3,10:33.0,Defensive rebound by N. Jokić,,46,64
+3,10:21.0,P. Millsap makes 2-pt layup from 2 ft (assist by G. Harris),,48,64
+3,10:10.0,,E. Gordon misses 3-pt jump shot from 26 ft,48,64
+3,10:07.0,Defensive rebound by N. Jokić,,48,64
+3,9:58.0,N. Jokić makes 2-pt dunk from 1 ft (assist by W. Barton),,50,64
+3,9:42.0,,C. Capela misses 2-pt layup from 4 ft,50,64
+3,9:38.0,Defensive rebound by N. Jokić,,50,64
+3,9:24.0,G. Harris misses 2-pt jump shot from 18 ft,,50,64
+3,9:21.0,,Defensive rebound by C. Paul,50,64
+3,9:15.0,,E. Gordon makes 2-pt layup from 2 ft,50,66
+3,8:54.0,Turnover by N. Jokić (bad pass; steal by C. Paul),,50,66
+3,8:40.0,,Turnover by C. Paul (lost ball; steal by J. Murray),50,66
+3,8:34.0,P. Millsap makes 2-pt layup from 1 ft (assist by J. Murray),,52,66
+3,8:16.0,,J. Harden makes 2-pt jump shot from 6 ft,52,68
+3,8:16.0,,Shooting foul by G. Harris (drawn by J. Harden),52,68
+3,8:16.0,,J. Harden makes free throw 1 of 1,52,69
+3,8:01.0,J. Murray makes 2-pt layup from 2 ft (assist by G. Harris),,54,69
+3,7:42.0,,Turnover by J. Harden (lost ball; steal by P. Millsap),54,69
+3,7:37.0,J. Murray misses 3-pt jump shot from 26 ft,,54,69
+3,7:35.0,Offensive rebound by J. Murray,,54,69
+3,7:30.0,G. Harris misses 3-pt jump shot from 25 ft,,54,69
+3,7:29.0,Offensive rebound by Team,,54,69
+3,7:29.0,,Loose ball foul by C. Capela (drawn by N. Jokić),54,69
+3,7:18.0,N. Jokić makes 2-pt jump shot from 10 ft (assist by J. Murray),,56,69
+3,7:04.0,,C. Paul makes 2-pt jump shot from 13 ft,56,71
+3,6:43.0,P. Millsap makes 2-pt jump shot from 3 ft (assist by W. Barton),,58,71
+3,6:15.0,,E. Gordon makes 3-pt jump shot from 27 ft (assist by C. Paul),58,74
+3,5:58.0,Offensive foul by P. Millsap (drawn by P. Tucker),,58,74
+3,5:58.0,Turnover by P. Millsap (offensive foul),,58,74
+3,5:58.0,,Houston full timeout,58,74
+3,5:38.0,,J. Harden misses 3-pt jump shot from 26 ft,58,74
+3,5:35.0,,Offensive rebound by P. Tucker,58,74
+3,5:23.0,,J. Harden misses 2-pt jump shot from 9 ft,58,74
+3,5:23.0,Defensive rebound by Team,,58,74
+3,4:58.0,P. Millsap misses 3-pt jump shot from 26 ft,,58,74
+3,4:58.0,,Defensive rebound by Team,58,74
+3,4:58.0,Loose ball foul by N. Jokić (drawn by P. Tucker),,58,74
+3,4:58.0,,A. Rivers enters the game for E. Gordon,58,74
+3,4:58.0,,I. Shumpert enters the game for C. Paul,58,74
+3,4:40.0,,Shooting foul by G. Harris (drawn by J. Harden),58,74
+3,4:40.0,,J. Harden makes free throw 1 of 2,58,75
+3,4:40.0,,D. House enters the game for P. Tucker,58,75
+3,4:40.0,,J. Harden makes free throw 2 of 2,58,76
+3,4:26.0,G. Harris misses 2-pt jump shot from 20 ft,,58,76
+3,4:22.0,,Defensive rebound by C. Capela,58,76
+3,4:13.0,,Turnover by J. Harden (lost ball),58,76
+3,4:13.0,,Loose ball foul by J. Harden (drawn by J. Murray),58,76
+3,4:13.0,M. Morris enters the game for P. Millsap,,58,76
+3,4:13.0,M. Plumlee enters the game for J. Murray,,58,76
+3,4:00.0,G. Harris makes 3-pt jump shot from 26 ft (assist by M. Morris),,61,76
+3,3:40.0,,C. Capela misses 2-pt layup from 2 ft,61,76
+3,3:37.0,Defensive rebound by M. Plumlee,,61,76
+3,3:35.0,Personal foul by A. Rivers (drawn by G. Harris),,61,76
+3,3:35.0,,N. Hilário enters the game for C. Capela,61,76
+3,3:27.0,G. Harris misses 2-pt layup from 3 ft,,61,76
+3,3:26.0,,Defensive rebound by J. Harden,61,76
+3,3:22.0,,D. House misses 3-pt jump shot from 25 ft,61,76
+3,3:20.0,Defensive rebound by Team,,61,76
+3,3:08.0,N. Jokić misses 2-pt layup from 6 ft,,61,76
+3,3:04.0,,Defensive rebound by J. Harden,61,76
+3,3:03.0,,Shooting foul by M. Morris (drawn by J. Harden),61,76
+3,3:03.0,,J. Harden misses free throw 1 of 2,61,76
+3,3:03.0,,Offensive rebound by Team,61,76
+3,3:03.0,M. Beasley enters the game for G. Harris,,61,76
+3,3:03.0,,J. Harden makes free throw 2 of 2,61,77
+3,2:52.0,M. Morris makes 2-pt jump shot from 20 ft,,63,77
+3,2:37.0,,J. Harden makes 3-pt jump shot from 26 ft,63,80
+3,2:36.0,Denver full timeout,,63,80
+3,2:36.0,J. Hernangómez enters the game for N. Jokić,,63,80
+3,2:20.0,W. Barton makes 2-pt jump shot from 12 ft,,65,80
+3,1:56.0,,I. Shumpert misses 3-pt jump shot from 23 ft,65,80
+3,1:53.0,Defensive rebound by M. Plumlee,,65,80
+3,1:37.0,M. Beasley misses 3-pt jump shot from 23 ft,,65,80
+3,1:34.0,,Defensive rebound by N. Hilário,65,80
+3,1:29.0,,Shooting foul by M. Beasley (drawn by J. Harden),65,80
+3,1:29.0,,J. Harden makes free throw 1 of 3,65,81
+3,1:29.0,,J. Harden makes free throw 2 of 3,65,82
+3,1:29.0,,J. Harden makes free throw 3 of 3,65,83
+3,1:20.0,W. Barton misses 2-pt layup from 2 ft,,65,83
+3,1:18.0,Offensive rebound by M. Plumlee,,65,83
+3,1:15.0,M. Beasley misses 3-pt jump shot from 25 ft,,65,83
+3,1:15.0,,Defensive rebound by Team,65,83
+3,1:02.0,,J. Harden misses 2-pt layup from 2 ft,65,83
+3,0:58.0,,Offensive rebound by J. Harden,65,83
+3,0:54.0,,Shooting foul by J. Hernangómez (drawn by J. Harden),65,83
+3,0:54.0,,J. Harden makes free throw 1 of 2,65,84
+3,0:54.0,,J. Harden makes free throw 2 of 2,65,85
+3,0:41.0,Turnover by M. Plumlee (bad pass; steal by J. Harden),,65,85
+3,0:25.0,,A. Rivers makes 2-pt jump shot from 8 ft,65,87
+3,0:01.0,Turnover by W. Barton (bad pass; steal by A. Rivers),,65,87
+3,0:00.0,,A. Rivers misses 3-pt jump shot from 41 ft,65,87
+3,0:00.0,,Offensive rebound by Team,65,87
+4,11:38.0,,N. Hilário misses 2-pt jump shot from 15 ft,65,87
+4,11:35.0,Defensive rebound by M. Beasley,,65,87
+4,11:26.0,M. Plumlee makes 2-pt layup from 2 ft (assist by M. Morris),,67,87
+4,11:08.0,,C. Paul misses 3-pt jump shot from 26 ft,67,87
+4,11:05.0,Defensive rebound by M. Plumlee,,67,87
+4,10:52.0,Shooting foul by I. Shumpert (drawn by M. Beasley),,67,87
+4,10:52.0,M. Beasley makes free throw 1 of 2,,68,87
+4,10:52.0,M. Beasley makes free throw 2 of 2,,69,87
+4,10:44.0,,E. Gordon makes 3-pt jump shot from 27 ft (assist by C. Paul),69,90
+4,10:22.0,J. Hernangómez misses 2-pt layup from 3 ft,,69,90
+4,10:22.0,Offensive rebound by Team,,69,90
+4,10:22.0,,Loose ball foul by N. Hilário (drawn by M. Plumlee),69,90
+4,10:15.0,Shooting foul by D. House (drawn by M. Plumlee),,69,90
+4,10:15.0,M. Plumlee makes free throw 1 of 2,,70,90
+4,10:15.0,M. Plumlee makes free throw 2 of 2,,71,90
+4,10:00.0,,D. House misses 3-pt jump shot from 23 ft,71,90
+4,9:57.0,Defensive rebound by M. Morris,,71,90
+4,9:55.0,M. Morris makes 2-pt layup from 3 ft,,73,90
+4,9:55.0,,Violation by Team (def goaltending),73,90
+4,9:42.0,,C. Paul makes 2-pt jump shot from 11 ft,73,92
+4,9:31.0,M. Morris makes 3-pt jump shot from 26 ft,,76,92
+4,9:10.0,,D. House misses 3-pt jump shot from 23 ft,76,92
+4,9:08.0,,Offensive rebound by I. Shumpert,76,92
+4,9:07.0,,I. Shumpert makes 2-pt layup from 2 ft,76,94
+4,8:50.0,T. Lyles misses 3-pt jump shot from 26 ft,,76,94
+4,8:48.0,,Defensive rebound by C. Paul,76,94
+4,8:31.0,,E. Gordon misses 2-pt jump shot from 19 ft,76,94
+4,8:29.0,Defensive rebound by T. Lyles,,76,94
+4,8:29.0,Turnover by T. Lyles (traveling),,76,94
+4,8:29.0,,P. Tucker enters the game for D. House,76,94
+4,8:10.0,,N. Hilário misses 2-pt jump shot from 8 ft,76,94
+4,8:08.0,Defensive rebound by M. Plumlee,,76,94
+4,7:47.0,M. Morris misses 3-pt jump shot from 25 ft,,76,94
+4,7:44.0,,Defensive rebound by I. Shumpert,76,94
+4,7:36.0,,C. Paul misses 2-pt layup from 3 ft,76,94
+4,7:35.0,,Offensive rebound by N. Hilário,76,94
+4,7:35.0,,Personal foul by M. Plumlee (drawn by N. Hilário),76,94
+4,7:35.0,,C. Capela enters the game for N. Hilário,76,94
+4,7:35.0,,A. Rivers enters the game for I. Shumpert,76,94
+4,7:27.0,,C. Paul misses 2-pt jump shot from 15 ft,76,94
+4,7:25.0,Defensive rebound by T. Lyles,,76,94
+4,7:09.0,M. Plumlee misses 2-pt layup from 5 ft,,76,94
+4,7:09.0,Offensive rebound by Team,,76,94
+4,7:09.0,,Loose ball foul by P. Tucker (drawn by M. Morris),76,94
+4,7:03.0,M. Beasley misses 3-pt jump shot from 26 ft,,76,94
+4,6:59.0,,Defensive rebound by C. Capela,76,94
+4,6:58.0,,C. Paul makes 2-pt jump shot from 10 ft,76,96
+4,6:58.0,,Shooting foul by M. Morris (drawn by C. Paul),76,96
+4,6:58.0,,Houston full timeout,76,96
+4,6:58.0,,J. Harden enters the game for E. Gordon,76,96
+4,6:58.0,,C. Paul makes free throw 1 of 1,76,97
+4,6:47.0,T. Lyles makes 2-pt jump shot from 12 ft (assist by M. Morris),,78,97
+4,6:23.0,,J. Harden makes 3-pt jump shot from 26 ft,78,100
+4,6:03.0,T. Lyles misses 2-pt jump shot from 13 ft,,78,100
+4,6:01.0,,Defensive rebound by A. Rivers,78,100
+4,5:40.0,,A. Rivers misses 3-pt jump shot from 23 ft,78,100
+4,5:37.0,Defensive rebound by M. Plumlee,,78,100
+4,5:23.0,T. Lyles misses 3-pt jump shot from 26 ft,,78,100
+4,5:19.0,,Defensive rebound by C. Capela,78,100
+4,5:08.0,,A. Rivers misses 3-pt jump shot from 23 ft,78,100
+4,5:06.0,,Offensive rebound by C. Capela,78,100
+4,5:05.0,,C. Capela makes 2-pt dunk from 2 ft,78,102
+4,5:05.0,Denver full timeout,,78,102
+4,5:05.0,J. Vanderbilt enters the game for M. Plumlee,,78,102
+4,5:05.0,,D. House enters the game for C. Paul,78,102
+4,5:05.0,,I. Shumpert enters the game for P. Tucker,78,102
+4,4:53.0,M. Beasley misses 3-pt jump shot from 27 ft,,78,102
+4,4:52.0,,Defensive rebound by Team,78,102
+4,4:34.0,,J. Harden misses 3-pt jump shot from 26 ft,78,102
+4,4:31.0,Defensive rebound by T. Lyles,,78,102
+4,4:21.0,J. Vanderbilt misses 2-pt hook shot from 7 ft,,78,102
+4,4:18.0,,Defensive rebound by J. Harden,78,102
+4,4:03.0,,C. Capela makes 2-pt layup from 2 ft,78,104
+4,3:48.0,M. Morris misses 2-pt jump shot from 11 ft,,78,104
+4,3:46.0,Offensive rebound by J. Vanderbilt,,78,104
+4,3:43.0,T. Lyles misses 3-pt jump shot from 25 ft,,78,104
+4,3:40.0,,Defensive rebound by I. Shumpert,78,104
+4,3:31.0,,J. Harden makes 3-pt jump shot from 26 ft,78,107
+4,3:21.0,Personal take foul by A. Rivers (drawn by M. Morris),,78,107
+4,3:21.0,,C. Chiozza enters the game for C. Capela,78,107
+4,3:21.0,,G. Clark enters the game for J. Harden,78,107
+4,3:21.0,M. Morris makes free throw 1 of 2,,79,107
+4,3:21.0,M. Morris makes free throw 2 of 2,,80,107
+4,3:14.0,,D. House misses 3-pt jump shot from 26 ft,80,107
+4,3:12.0,Defensive rebound by J. Vanderbilt,,80,107
+4,2:53.0,J. Vanderbilt misses 2-pt layup from 2 ft,,80,107
+4,2:51.0,,Defensive rebound by I. Shumpert,80,107
+4,2:40.0,,C. Chiozza misses 2-pt layup from 4 ft,80,107
+4,2:38.0,Defensive rebound by J. Vanderbilt,,80,107
+4,2:37.0,Shooting foul by I. Shumpert (drawn by M. Morris),,80,107
+4,2:37.0,M. Morris makes free throw 1 of 2,,81,107
+4,2:37.0,M. Morris makes free throw 2 of 2,,82,107
+4,2:21.0,,G. Clark makes 3-pt jump shot from 27 ft (assist by D. House),82,110
+4,2:06.0,M. Beasley misses 3-pt jump shot from 26 ft,,82,110
+4,2:05.0,,Defensive rebound by C. Chiozza,82,110
+4,2:00.0,,G. Clark misses 3-pt jump shot from 25 ft,82,110
+4,1:57.0,Defensive rebound by M. Beasley,,82,110
+4,1:42.0,Turnover by T. Lyles (bad pass; steal by D. House),,82,110
+4,1:35.0,,G. Clark misses 3-pt jump shot from 23 ft,82,110
+4,1:33.0,Defensive rebound by Team,,82,110
+4,1:10.0,M. Morris misses 2-pt jump shot from 18 ft,,82,110
+4,1:08.0,,Defensive rebound by I. Shumpert,82,110
+4,1:01.0,,G. Clark misses 3-pt jump shot from 25 ft,82,110
+4,0:57.0,Defensive rebound by T. Lyles,,82,110
+4,0:51.0,Turnover by M. Beasley (lost ball; steal by C. Chiozza),,82,110
+4,0:47.0,,I. Shumpert makes 2-pt layup from 1 ft (assist by A. Rivers),82,112
+4,0:33.0,M. Morris makes 2-pt layup from 2 ft,,84,112
+4,0:33.0,Shooting foul by G. Clark (drawn by M. Morris),,84,112
+4,0:33.0,M. Morris makes free throw 1 of 1,,85,112
+4,0:15.0,,A. Rivers misses 3-pt jump shot from 26 ft,85,112
+4,0:13.0,Defensive rebound by T. Lyles,,85,112
+4,0:07.0,Turnover by T. Lyles (bad pass),,85,112

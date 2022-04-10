@@ -1,0 +1,462 @@
+QUARTER,TIME_REMAINING,DALLAS_ACTION,DETROIT_ACTION,DALLAS_SCORE,DETROIT_SCORE
+1,11:45.0,,B. Griffin makes 2-pt layup from 3 ft (assist by R. Jackson),0,2
+1,11:26.0,H. Barnes makes 2-pt jump shot from 21 ft (assist by J. Brunson),,2,2
+1,11:12.0,,B. Griffin makes 3-pt jump shot from 26 ft (assist by R. Bullock),2,5
+1,11:01.0,J. Brunson misses 2-pt jump shot from 10 ft,,2,5
+1,10:57.0,,Defensive rebound by A. Drummond,2,5
+1,10:40.0,,B. Griffin makes 2-pt layup from 2 ft,2,7
+1,10:29.0,Personal foul by R. Bullock (drawn by H. Barnes),,2,7
+1,10:14.0,J. Brunson makes 2-pt jump shot from 18 ft,,4,7
+1,9:55.0,,A. Drummond makes 2-pt layup from 2 ft (assist by B. Griffin),4,9
+1,9:39.0,J. Brunson misses 2-pt layup from 4 ft (block by A. Drummond),,4,9
+1,9:36.0,Offensive rebound by S. Mejri,,4,9
+1,9:36.0,S. Mejri misses 2-pt layup from 2 ft,,4,9
+1,9:34.0,Offensive rebound by H. Barnes,,4,9
+1,9:27.0,Turnover by D. Finney-Smith (bad pass; steal by R. Jackson),,4,9
+1,9:24.0,,R. Jackson makes 2-pt layup from 1 ft,4,11
+1,9:23.0,Dallas full timeout,,4,11
+1,9:03.0,D. Finney-Smith misses 3-pt jump shot from 25 ft,,4,11
+1,8:58.0,,Defensive rebound by B. Brown,4,11
+1,8:41.0,,R. Jackson misses 2-pt layup from 2 ft,4,11
+1,8:36.0,,Offensive rebound by A. Drummond,4,11
+1,8:36.0,,A. Drummond misses 2-pt dunk from 1 ft (block by S. Mejri),4,11
+1,8:35.0,Defensive rebound by M. Kleber,,4,11
+1,8:24.0,Turnover by J. Brunson (bad pass),,4,11
+1,8:03.0,,R. Bullock misses 3-pt jump shot from 26 ft,4,11
+1,8:00.0,,Offensive rebound by A. Drummond,4,11
+1,7:58.0,,Offensive foul by A. Drummond (drawn by S. Mejri),4,11
+1,7:58.0,,Turnover by A. Drummond (offensive foul),4,11
+1,7:44.0,H. Barnes misses 3-pt jump shot from 26 ft,,4,11
+1,7:41.0,,Defensive rebound by A. Drummond,4,11
+1,7:36.0,,R. Jackson misses 2-pt jump shot from 19 ft,4,11
+1,7:32.0,Defensive rebound by M. Kleber,,4,11
+1,7:21.0,H. Barnes makes 2-pt dunk from 1 ft (assist by D. Finney-Smith),,6,11
+1,7:05.0,,B. Griffin misses 3-pt jump shot from 25 ft,6,11
+1,7:02.0,Defensive rebound by S. Mejri,,6,11
+1,6:51.0,H. Barnes misses 2-pt layup from 5 ft,,6,11
+1,6:50.0,,Defensive rebound by A. Drummond,6,11
+1,6:45.0,,A. Drummond makes 2-pt layup from 3 ft,6,13
+1,6:21.0,M. Kleber misses 2-pt hook shot from 8 ft,,6,13
+1,6:19.0,Offensive rebound by S. Mejri,,6,13
+1,6:18.0,Personal foul by R. Jackson (drawn by D. Finney-Smith),,6,13
+1,6:18.0,R. Broekhoff enters the game for D. Finney-Smith,,6,13
+1,6:03.0,J. Brunson misses 2-pt jump shot from 11 ft (block by B. Brown),,6,13
+1,6:03.0,Offensive rebound by Team,,6,13
+1,6:03.0,Turnover by Team (shot clock),,6,13
+1,5:53.0,,Turnover by R. Jackson (lost ball; steal by M. Kleber),6,13
+1,5:32.0,M. Kleber makes 3-pt jump shot from 25 ft (assist by J. Brunson),,9,13
+1,5:25.0,,Detroit full timeout,9,13
+1,5:25.0,D. Powell enters the game for S. Mejri,,9,13
+1,5:25.0,,L. Kennard enters the game for R. Bullock,9,13
+1,5:14.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by B. Griffin),9,15
+1,4:59.0,H. Barnes makes 2-pt jump shot from 14 ft,,11,15
+1,4:47.0,,L. Kennard misses 3-pt jump shot from 26 ft,11,15
+1,4:45.0,Defensive rebound by J. Brunson,,11,15
+1,4:33.0,R. Broekhoff misses 3-pt jump shot from 23 ft,,11,15
+1,4:29.0,,Defensive rebound by R. Jackson,11,15
+1,4:12.0,,B. Brown misses 2-pt layup from 5 ft,11,15
+1,4:11.0,Defensive rebound by M. Kleber,,11,15
+1,4:08.0,Personal foul by R. Jackson (drawn by J. Brunson),,11,15
+1,4:08.0,D. Harris enters the game for J. Brunson,,11,15
+1,4:08.0,,J. Calderón enters the game for B. Brown,11,15
+1,4:08.0,,S. Johnson enters the game for R. Jackson,11,15
+1,3:58.0,D. Powell makes 2-pt dunk from 1 ft (assist by H. Barnes),,13,15
+1,3:33.0,,B. Griffin misses 2-pt hook shot from 7 ft,13,15
+1,3:31.0,Defensive rebound by R. Broekhoff,,13,15
+1,3:29.0,R. Broekhoff makes 2-pt layup from 2 ft,,15,15
+1,3:29.0,,Violation by Team (def goaltending),15,15
+1,3:15.0,,B. Griffin misses 2-pt layup from 3 ft (block by D. Powell),15,15
+1,3:15.0,Defensive rebound by Team,,15,15
+1,3:00.0,R. Broekhoff misses 2-pt jump shot from 8 ft,,15,15
+1,2:57.0,,Defensive rebound by A. Drummond,15,15
+1,2:47.0,,S. Johnson misses 2-pt jump shot from 20 ft,15,15
+1,2:46.0,Defensive rebound by R. Broekhoff,,15,15
+1,2:37.0,R. Broekhoff makes 3-pt jump shot from 26 ft (assist by H. Barnes),,18,15
+1,2:09.0,,S. Johnson misses 3-pt jump shot from 25 ft,18,15
+1,2:06.0,Defensive rebound by M. Kleber,,18,15
+1,1:59.0,Turnover by D. Harris (bad pass; steal by S. Johnson),,18,15
+1,1:41.0,,B. Griffin misses 2-pt layup from 3 ft,18,15
+1,1:37.0,Defensive rebound by D. Powell,,18,15
+1,1:32.0,D. Harris misses 3-pt jump shot from 25 ft,,18,15
+1,1:32.0,,Defensive rebound by L. Kennard,18,15
+1,1:24.0,,Personal foul by M. Kleber (drawn by A. Drummond),18,15
+1,1:24.0,,G. Robinson enters the game for B. Griffin,18,15
+1,1:19.0,,Personal foul by R. Broekhoff (drawn by G. Robinson),18,15
+1,1:19.0,,G. Robinson misses free throw 1 of 2,18,15
+1,1:19.0,,Offensive rebound by Team,18,15
+1,1:19.0,D. Nowitzki enters the game for M. Kleber,,18,15
+1,1:19.0,,G. Robinson makes free throw 2 of 2,18,16
+1,1:02.0,H. Barnes misses 2-pt layup from 2 ft,,18,16
+1,1:00.0,Offensive rebound by H. Barnes,,18,16
+1,1:00.0,Violation by Team (kicked ball),,18,16
+1,0:45.0,,Offensive foul by S. Johnson (drawn by D. Harris),18,16
+1,0:45.0,,Turnover by S. Johnson (offensive foul),18,16
+1,0:30.0,H. Barnes misses 2-pt jump shot from 11 ft,,18,16
+1,0:28.0,Offensive rebound by H. Barnes,,18,16
+1,0:27.0,D. Harris makes 3-pt jump shot from 24 ft (assist by H. Barnes),,21,16
+1,0:06.0,,G. Robinson makes 3-pt jump shot from 24 ft (assist by S. Johnson),21,19
+1,0:03.0,Personal foul by J. Calderón (drawn by D. Harris),,21,19
+1,0:00.0,D. Nowitzki misses 3-pt jump shot from 23 ft,,21,19
+1,0:00.0,Offensive rebound by Team,,21,19
+2,11:40.0,D. Nowitzki misses 2-pt jump shot from 19 ft,,21,19
+2,11:34.0,,Defensive rebound by J. Calderón,21,19
+2,11:25.0,,S. Johnson misses 3-pt jump shot from 24 ft,21,19
+2,11:23.0,,Offensive rebound by S. Johnson,21,19
+2,11:21.0,,S. Johnson misses 2-pt layup from 2 ft,21,19
+2,11:17.0,Defensive rebound by D. Nowitzki,,21,19
+2,11:10.0,D. Harris makes 2-pt jump shot from 6 ft,,23,19
+2,11:10.0,Shooting foul by L. Galloway (drawn by D. Harris),,23,19
+2,11:10.0,D. Harris makes free throw 1 of 1,,24,19
+2,10:53.0,,L. Galloway makes 3-pt jump shot from 23 ft (assist by J. Calderón),24,22
+2,10:31.0,D. Harris makes 2-pt jump shot from 10 ft,,26,22
+2,10:18.0,,Personal foul by R. Broekhoff (drawn by L. Galloway),26,22
+2,10:10.0,,Turnover by J. Calderón (bad pass; steal by D. Powell),26,22
+2,10:04.0,D. Harris makes 2-pt layup from 2 ft,,28,22
+2,9:59.0,,Detroit full timeout,28,22
+2,9:59.0,,B. Griffin enters the game for S. Johnson,28,22
+2,9:51.0,,L. Kennard misses 2-pt jump shot from 23 ft,28,22
+2,9:45.0,Defensive rebound by R. Broekhoff,,28,22
+2,9:31.0,D. Finney-Smith makes 2-pt hook shot from 9 ft (assist by D. Harris),,30,22
+2,9:22.0,,Personal foul by D. Powell (drawn by B. Griffin),30,22
+2,9:22.0,J. Brunson enters the game for D. Harris,,30,22
+2,9:14.0,,Personal foul by D. Powell (drawn by B. Griffin),30,22
+2,9:14.0,M. Kleber enters the game for D. Powell,,30,22
+2,9:08.0,,L. Galloway misses 3-pt jump shot from 26 ft,30,22
+2,9:03.0,Defensive rebound by D. Finney-Smith,,30,22
+2,8:58.0,D. Nowitzki misses 2-pt jump shot from 19 ft,,30,22
+2,8:55.0,,Defensive rebound by Z. Pachulia,30,22
+2,8:52.0,,L. Kennard misses 3-pt jump shot from 23 ft,30,22
+2,8:48.0,Defensive rebound by M. Kleber,,30,22
+2,8:29.0,R. Broekhoff makes 2-pt layup from 3 ft (assist by J. Brunson),,32,22
+2,8:23.0,,Shooting foul by D. Nowitzki (drawn by B. Griffin),32,22
+2,8:23.0,,B. Griffin makes free throw 1 of 2,32,23
+2,8:23.0,,R. Bullock enters the game for L. Kennard,32,23
+2,8:23.0,,B. Griffin makes free throw 2 of 2,32,24
+2,8:11.0,D. Nowitzki misses 3-pt jump shot from 26 ft,,32,24
+2,8:07.0,,Defensive rebound by R. Bullock,32,24
+2,7:57.0,,Shooting foul by R. Broekhoff (drawn by B. Griffin),32,24
+2,7:57.0,,B. Griffin makes free throw 1 of 2,32,25
+2,7:57.0,H. Barnes enters the game for R. Broekhoff,,32,25
+2,7:57.0,,R. Jackson enters the game for J. Calderón,32,25
+2,7:57.0,,B. Griffin makes free throw 2 of 2,32,26
+2,7:43.0,D. Nowitzki makes 2-pt jump shot from 17 ft (assist by J. Brunson),,34,26
+2,7:30.0,,R. Bullock misses 3-pt jump shot from 26 ft,34,26
+2,7:26.0,Defensive rebound by M. Kleber,,34,26
+2,7:07.0,D. Nowitzki makes 3-pt jump shot from 25 ft (assist by M. Kleber),,37,26
+2,6:43.0,,R. Jackson misses 3-pt jump shot from 23 ft,37,26
+2,6:40.0,Defensive rebound by J. Brunson,,37,26
+2,6:27.0,J. Brunson makes 2-pt layup from 4 ft,,39,26
+2,6:17.0,,R. Jackson makes 3-pt jump shot from 27 ft (assist by B. Griffin),39,29
+2,6:16.0,Dallas full timeout,,39,29
+2,6:16.0,S. Mejri enters the game for D. Nowitzki,,39,29
+2,6:16.0,,A. Drummond enters the game for Z. Pachulia,39,29
+2,6:01.0,H. Barnes misses 3-pt jump shot from 25 ft,,39,29
+2,5:56.0,Offensive rebound by D. Finney-Smith,,39,29
+2,5:55.0,D. Finney-Smith makes 2-pt layup from 1 ft,,41,29
+2,5:41.0,,L. Galloway misses 3-pt jump shot from 25 ft,41,29
+2,5:38.0,Defensive rebound by H. Barnes,,41,29
+2,5:30.0,Shooting foul by A. Drummond (drawn by H. Barnes),,41,29
+2,5:30.0,H. Barnes makes free throw 1 of 2,,42,29
+2,5:30.0,H. Barnes makes free throw 2 of 2,,43,29
+2,5:04.0,,B. Griffin makes 2-pt layup from 7 ft,43,31
+2,4:46.0,J. Brunson misses 2-pt jump shot from 17 ft,,43,31
+2,4:44.0,,Defensive rebound by R. Jackson,43,31
+2,4:35.0,,L. Galloway makes 3-pt jump shot from 27 ft (assist by R. Jackson),43,34
+2,4:08.0,S. Mejri misses 2-pt layup from 1 ft,,43,34
+2,4:06.0,Offensive rebound by S. Mejri,,43,34
+2,4:06.0,S. Mejri makes 2-pt layup at rim,,45,34
+2,3:49.0,,Shooting foul by J. Brunson (drawn by L. Galloway),45,34
+2,3:49.0,,L. Galloway misses free throw 1 of 3,45,34
+2,3:49.0,,Offensive rebound by Team,45,34
+2,3:49.0,,L. Galloway makes free throw 2 of 3,45,35
+2,3:49.0,,L. Galloway makes free throw 3 of 3,45,36
+2,3:31.0,J. Brunson misses 2-pt layup from 4 ft (block by L. Galloway),,45,36
+2,3:30.0,,Defensive rebound by L. Galloway,45,36
+2,3:20.0,,Turnover by A. Drummond (out of bounds lost ball),45,36
+2,3:20.0,D. Harris enters the game for D. Finney-Smith,,45,36
+2,3:20.0,,B. Brown enters the game for L. Galloway,45,36
+2,2:57.0,D. Harris misses 2-pt jump shot from 20 ft,,45,36
+2,2:55.0,Offensive rebound by Team,,45,36
+2,2:55.0,Turnover by Team (shot clock),,45,36
+2,2:47.0,,R. Bullock misses 3-pt jump shot from 28 ft,45,36
+2,2:41.0,Defensive rebound by S. Mejri,,45,36
+2,2:34.0,D. Harris makes 2-pt layup from 2 ft,,47,36
+2,2:22.0,,B. Griffin misses 2-pt hook shot from 4 ft,47,36
+2,2:17.0,,Offensive rebound by A. Drummond,47,36
+2,2:17.0,,A. Drummond makes 2-pt layup from 1 ft,47,38
+2,2:12.0,Turnover by D. Harris (bad pass),,47,38
+2,2:12.0,D. Powell enters the game for S. Mejri,,47,38
+2,2:03.0,,R. Jackson makes 2-pt jump shot from 9 ft,47,40
+2,1:44.0,H. Barnes misses 2-pt jump shot from 16 ft,,47,40
+2,1:42.0,,Defensive rebound by A. Drummond,47,40
+2,1:35.0,,Offensive foul by R. Bullock (drawn by J. Brunson),47,40
+2,1:35.0,,Turnover by R. Bullock (offensive foul),47,40
+2,1:21.0,H. Barnes makes 2-pt layup from 3 ft (assist by J. Brunson),,49,40
+2,1:14.0,,R. Jackson makes 2-pt layup from 2 ft,49,42
+2,1:14.0,,Shooting foul by D. Harris (drawn by R. Jackson),49,42
+2,1:14.0,,Z. Pachulia enters the game for A. Drummond,49,42
+2,1:14.0,,R. Jackson makes free throw 1 of 1,49,43
+2,0:53.0,Turnover by H. Barnes (traveling),,49,43
+2,0:46.0,,B. Griffin misses 3-pt jump shot from 26 ft,49,43
+2,0:42.0,,Offensive rebound by R. Bullock,49,43
+2,0:32.0,,Personal foul by M. Kleber (drawn by Z. Pachulia),49,43
+2,0:32.0,,Z. Pachulia makes free throw 1 of 2,49,44
+2,0:32.0,D. Finney-Smith enters the game for D. Harris,,49,44
+2,0:32.0,,L. Galloway enters the game for R. Jackson,49,44
+2,0:32.0,,Z. Pachulia makes free throw 2 of 2,49,45
+2,0:19.0,D. Powell misses 2-pt layup from 5 ft,,49,45
+2,0:16.0,Offensive rebound by M. Kleber,,49,45
+2,0:13.0,J. Brunson misses 2-pt jump shot from 6 ft,,49,45
+2,0:13.0,Offensive rebound by Team,,49,45
+2,0:11.0,,Loose ball foul by B. Griffin (drawn by H. Barnes),49,45
+2,0:11.0,,S. Johnson enters the game for R. Bullock,49,45
+2,0:02.0,H. Barnes misses 2-pt layup from 3 ft,,49,45
+2,0:00.0,,Defensive rebound by B. Griffin,49,45
+2,0:00.0,,B. Griffin misses 3-pt jump shot from 45 ft,49,45
+2,0:00.0,,Offensive rebound by Team,49,45
+3,11:36.0,J. Brunson makes 2-pt jump shot from 18 ft,,51,45
+3,11:21.0,,Shooting foul by M. Kleber (drawn by B. Griffin),51,45
+3,11:21.0,,B. Griffin misses free throw 1 of 2,51,45
+3,11:21.0,,Offensive rebound by Team,51,45
+3,11:21.0,,B. Griffin misses free throw 2 of 2,51,45
+3,11:18.0,,Offensive rebound by B. Griffin,51,45
+3,11:18.0,,B. Griffin misses 2-pt layup from 2 ft,51,45
+3,11:14.0,Defensive rebound by S. Mejri,,51,45
+3,11:05.0,H. Barnes misses 2-pt layup from 8 ft,,51,45
+3,11:03.0,,Defensive rebound by A. Drummond,51,45
+3,11:00.0,,B. Brown misses 2-pt layup from 2 ft (block by S. Mejri),51,45
+3,11:00.0,Defensive rebound by Team,,51,45
+3,10:55.0,Personal foul by B. Brown (drawn by J. Brunson),,51,45
+3,10:38.0,D. Finney-Smith misses 2-pt jump shot from 6 ft,,51,45
+3,10:37.0,,Defensive rebound by R. Jackson,51,45
+3,10:26.0,,B. Griffin misses 3-pt jump shot from 25 ft,51,45
+3,10:22.0,Defensive rebound by H. Barnes,,51,45
+3,10:10.0,S. Mejri misses 2-pt jump shot from 20 ft,,51,45
+3,10:07.0,,Defensive rebound by B. Griffin,51,45
+3,9:58.0,,R. Bullock makes 3-pt jump shot from 25 ft (assist by B. Griffin),51,48
+3,9:43.0,J. Brunson misses 2-pt jump shot from 15 ft,,51,48
+3,9:40.0,,Defensive rebound by B. Brown,51,48
+3,9:36.0,,Offensive foul by B. Brown (drawn by M. Kleber),51,48
+3,9:36.0,,Turnover by B. Brown (offensive foul),51,48
+3,9:16.0,Shooting foul by B. Brown (drawn by M. Kleber),,51,48
+3,9:16.0,M. Kleber makes free throw 1 of 2,,52,48
+3,9:16.0,M. Kleber misses free throw 2 of 2,,52,48
+3,9:14.0,,Defensive rebound by A. Drummond,52,48
+3,8:58.0,,B. Griffin makes 2-pt hook shot from 3 ft (assist by R. Jackson),52,50
+3,8:36.0,H. Barnes makes 2-pt jump shot from 17 ft,,54,50
+3,8:13.0,,R. Jackson misses 3-pt jump shot from 25 ft,54,50
+3,8:10.0,Defensive rebound by S. Mejri,,54,50
+3,8:04.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,,54,50
+3,8:01.0,,Defensive rebound by A. Drummond,54,50
+3,7:53.0,,R. Jackson misses 2-pt jump shot from 20 ft,54,50
+3,7:51.0,Defensive rebound by H. Barnes,,54,50
+3,7:39.0,Turnover by H. Barnes (lost ball; steal by A. Drummond),,54,50
+3,7:35.0,,Turnover by B. Griffin (bad pass),54,50
+3,7:14.0,J. Brunson misses 2-pt layup from 3 ft (block by B. Brown),,54,50
+3,7:12.0,,Defensive rebound by B. Griffin,54,50
+3,7:10.0,,R. Bullock misses 3-pt jump shot from 25 ft,54,50
+3,7:06.0,Defensive rebound by M. Kleber,,54,50
+3,6:55.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,,54,50
+3,6:52.0,,Defensive rebound by A. Drummond,54,50
+3,6:33.0,,A. Drummond makes 2-pt jump shot from 8 ft (assist by B. Griffin),54,52
+3,6:33.0,Dallas full timeout,,54,52
+3,6:33.0,R. Broekhoff enters the game for D. Finney-Smith,,54,52
+3,6:33.0,D. Powell enters the game for S. Mejri,,54,52
+3,6:33.0,,J. Calderón enters the game for R. Jackson,54,52
+3,6:20.0,Personal foul by A. Drummond (drawn by D. Powell),,54,52
+3,6:15.0,H. Barnes makes 3-pt jump shot from 26 ft (assist by M. Kleber),,57,52
+3,5:59.0,,Personal foul by M. Kleber (drawn by B. Griffin),57,52
+3,5:59.0,D. Finney-Smith enters the game for J. Brunson,,57,52
+3,5:59.0,D. Harris enters the game for M. Kleber,,57,52
+3,5:49.0,,R. Bullock misses 3-pt jump shot from 25 ft,57,52
+3,5:44.0,Defensive rebound by H. Barnes,,57,52
+3,5:39.0,H. Barnes makes 2-pt jump shot from 10 ft,,59,52
+3,5:39.0,Shooting foul by J. Calderón (drawn by H. Barnes),,59,52
+3,5:39.0,H. Barnes makes free throw 1 of 1,,60,52
+3,5:14.0,,B. Brown misses 2-pt jump shot from 15 ft,60,52
+3,5:11.0,Defensive rebound by D. Harris,,60,52
+3,4:59.0,H. Barnes misses 2-pt layup from 7 ft,,60,52
+3,4:59.0,Offensive rebound by Team,,60,52
+3,4:45.0,D. Finney-Smith misses 2-pt layup from 1 ft,,60,52
+3,4:44.0,,Defensive rebound by B. Griffin,60,52
+3,4:37.0,,Personal foul by D. Finney-Smith (drawn by B. Griffin),60,52
+3,4:37.0,,L. Galloway enters the game for B. Brown,60,52
+3,4:31.0,,Shooting foul by D. Finney-Smith (drawn by B. Griffin),60,52
+3,4:31.0,,B. Griffin makes free throw 1 of 2,60,53
+3,4:31.0,,B. Griffin makes free throw 2 of 2,60,54
+3,4:08.0,D. Harris makes 2-pt layup from 4 ft,,62,54
+3,3:50.0,,R. Bullock misses 3-pt jump shot from 23 ft,62,54
+3,3:46.0,Defensive rebound by D. Powell,,62,54
+3,3:42.0,Shooting foul by L. Galloway (drawn by D. Harris),,62,54
+3,3:42.0,D. Harris misses free throw 1 of 2,,62,54
+3,3:42.0,Offensive rebound by Team,,62,54
+3,3:42.0,D. Harris makes free throw 2 of 2,,63,54
+3,3:23.0,,B. Griffin misses 2-pt layup from 4 ft,63,54
+3,3:20.0,,Offensive rebound by A. Drummond,63,54
+3,3:20.0,,A. Drummond misses 2-pt layup at rim,63,54
+3,3:20.0,Defensive rebound by D. Powell,,63,54
+3,3:18.0,D. Powell makes 2-pt layup from 2 ft (assist by H. Barnes),,65,54
+3,2:55.0,,J. Calderón makes 3-pt jump shot from 27 ft (assist by B. Griffin),65,57
+3,2:36.0,D. Harris misses 3-pt jump shot from 26 ft,,65,57
+3,2:35.0,,Defensive rebound by Team,65,57
+3,2:35.0,,Detroit full timeout,65,57
+3,2:35.0,,R. Jackson enters the game for J. Calderón,65,57
+3,2:35.0,,S. Johnson enters the game for B. Griffin,65,57
+3,2:12.0,,S. Johnson misses 2-pt jump shot from 9 ft,65,57
+3,2:08.0,,A. Drummond makes 2-pt layup at rim,65,59
+3,2:08.0,,Offensive rebound by A. Drummond,65,59
+3,1:58.0,D. Powell misses 3-pt jump shot from 27 ft,,65,59
+3,1:55.0,,Defensive rebound by S. Johnson,65,59
+3,1:44.0,,Personal foul by D. Finney-Smith (drawn by R. Bullock),65,59
+3,1:44.0,,R. Bullock misses free throw 1 of 2,65,59
+3,1:44.0,,Offensive rebound by Team,65,59
+3,1:44.0,D. Nowitzki enters the game for H. Barnes,,65,59
+3,1:44.0,,R. Bullock makes free throw 2 of 2,65,60
+3,1:28.0,D. Powell makes 2-pt dunk from 1 ft (assist by D. Harris),,67,60
+3,1:11.0,,R. Bullock misses 3-pt jump shot from 23 ft,67,60
+3,1:08.0,Defensive rebound by D. Harris,,67,60
+3,1:05.0,D. Nowitzki misses 3-pt jump shot from 26 ft,,67,60
+3,0:57.0,Offensive rebound by D. Finney-Smith,,67,60
+3,0:57.0,D. Finney-Smith misses 2-pt layup from 1 ft,,67,60
+3,0:56.0,,Defensive rebound by A. Drummond,67,60
+3,0:46.0,,S. Johnson misses 3-pt jump shot from 24 ft,67,60
+3,0:44.0,Defensive rebound by D. Powell,,67,60
+3,0:34.0,D. Powell makes 3-pt jump shot from 26 ft (assist by D. Harris),,70,60
+3,0:15.0,,L. Galloway makes 3-pt jump shot from 24 ft (assist by R. Jackson),70,63
+3,0:02.0,D. Powell misses 2-pt jump shot from 14 ft (block by S. Johnson),,70,63
+3,0:00.0,,Defensive rebound by A. Drummond,70,63
+4,11:49.0,Violation by Team (kicked ball),,70,63
+4,11:42.0,,S. Johnson misses 2-pt layup at rim,70,63
+4,11:40.0,Defensive rebound by D. Nowitzki,,70,63
+4,11:28.0,Personal foul by Z. Pachulia (drawn by D. Powell),,70,63
+4,11:18.0,D. Harris misses 3-pt jump shot from 28 ft,,70,63
+4,11:14.0,,Defensive rebound by Z. Pachulia,70,63
+4,11:04.0,,Z. Pachulia misses 2-pt jump shot from 16 ft,70,63
+4,11:01.0,Defensive rebound by D. Harris,,70,63
+4,10:46.0,D. Nowitzki makes 2-pt jump shot from 13 ft (assist by R. Broekhoff),,72,63
+4,10:28.0,,L. Kennard makes 2-pt jump shot from 15 ft (assist by Z. Pachulia),72,65
+4,10:09.0,D. Finney-Smith makes 2-pt jump shot from 19 ft (assist by D. Powell),,74,65
+4,9:52.0,,L. Kennard misses 3-pt jump shot from 26 ft,74,65
+4,9:50.0,Defensive rebound by D. Powell,,74,65
+4,9:37.0,D. Powell misses 2-pt layup from 3 ft,,74,65
+4,9:35.0,,Defensive rebound by L. Kennard,74,65
+4,9:25.0,,R. Jackson makes 2-pt jump shot from 14 ft,74,67
+4,9:25.0,,Shooting foul by D. Harris (drawn by R. Jackson),74,67
+4,9:25.0,J. Brunson enters the game for D. Harris,,74,67
+4,9:25.0,M. Kleber enters the game for D. Powell,,74,67
+4,9:25.0,,B. Griffin enters the game for S. Johnson,74,67
+4,9:25.0,,R. Jackson makes free throw 1 of 1,74,68
+4,9:04.0,M. Kleber misses 3-pt jump shot from 26 ft,,74,68
+4,9:00.0,,Defensive rebound by L. Kennard,74,68
+4,8:58.0,,Personal foul by M. Kleber (drawn by B. Griffin),74,68
+4,8:58.0,H. Barnes enters the game for M. Kleber,,74,68
+4,8:51.0,,Z. Pachulia makes 2-pt layup from 2 ft (assist by R. Jackson),74,70
+4,8:44.0,Personal foul by R. Jackson (drawn by J. Brunson),,74,70
+4,8:42.0,Personal foul by R. Jackson (drawn by J. Brunson),,74,70
+4,8:42.0,Offensive foul by J. Brunson (drawn by R. Jackson),,74,70
+4,8:42.0,Turnover by J. Brunson (offensive foul),,74,70
+4,8:27.0,,R. Jackson misses 3-pt jump shot from 23 ft,74,70
+4,8:21.0,,Offensive rebound by B. Griffin,74,70
+4,8:21.0,,B. Griffin misses 2-pt layup at rim,74,70
+4,8:20.0,Defensive rebound by D. Finney-Smith,,74,70
+4,8:08.0,D. Nowitzki misses 3-pt jump shot from 25 ft,,74,70
+4,8:05.0,,Defensive rebound by L. Galloway,74,70
+4,7:53.0,,L. Galloway misses 3-pt jump shot from 26 ft,74,70
+4,7:49.0,,Offensive rebound by L. Galloway,74,70
+4,7:40.0,,B. Griffin makes 3-pt jump shot from 24 ft (assist by L. Kennard),74,73
+4,7:38.0,Dallas full timeout,,74,73
+4,7:38.0,D. Powell enters the game for D. Nowitzki,,74,73
+4,7:38.0,,A. Drummond enters the game for Z. Pachulia,74,73
+4,7:19.0,J. Brunson makes 2-pt layup from 2 ft,,76,73
+4,7:04.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by R. Jackson),76,75
+4,6:52.0,J. Brunson misses 2-pt jump shot from 18 ft,,76,75
+4,6:49.0,,Defensive rebound by B. Griffin,76,75
+4,6:33.0,,Turnover by B. Griffin (3 sec),76,75
+4,6:17.0,H. Barnes makes 2-pt jump shot from 5 ft (assist by J. Brunson),,78,75
+4,6:04.0,,R. Jackson misses 2-pt layup from 7 ft,78,75
+4,6:04.0,,Offensive rebound by R. Jackson,78,75
+4,6:01.0,,A. Drummond makes 2-pt layup from 2 ft (assist by R. Jackson),78,77
+4,5:46.0,Turnover by H. Barnes (lost ball; steal by R. Jackson),,78,77
+4,5:40.0,,R. Jackson misses 2-pt layup from 2 ft,78,77
+4,5:38.0,,Offensive rebound by R. Jackson,78,77
+4,5:28.0,,B. Griffin misses 2-pt layup from 5 ft (block by D. Finney-Smith),78,77
+4,5:28.0,,Offensive rebound by Team,78,77
+4,5:28.0,D. Harris enters the game for D. Finney-Smith,,78,77
+4,5:28.0,S. Mejri enters the game for D. Powell,,78,77
+4,5:25.0,,B. Griffin makes 2-pt hook shot from 5 ft (assist by R. Jackson),78,79
+4,5:09.0,D. Harris misses 2-pt jump shot from 10 ft,,78,79
+4,5:02.0,Offensive rebound by S. Mejri,,78,79
+4,5:02.0,S. Mejri makes 2-pt dunk from 1 ft,,80,79
+4,4:55.0,,Offensive foul by L. Kennard (drawn by D. Harris),80,79
+4,4:55.0,,Turnover by L. Kennard (offensive foul),80,79
+4,4:37.0,H. Barnes misses 2-pt jump shot from 13 ft,,80,79
+4,4:34.0,,Defensive rebound by A. Drummond,80,79
+4,4:28.0,,Offensive foul by R. Jackson (drawn by J. Brunson),80,79
+4,4:28.0,,Turnover by R. Jackson (offensive foul),80,79
+4,4:05.0,H. Barnes makes 3-pt jump shot from 31 ft,,83,79
+4,3:39.0,,B. Griffin misses 3-pt jump shot from 25 ft,83,79
+4,3:38.0,,Offensive rebound by Team,83,79
+4,3:38.0,,Detroit full timeout,83,79
+4,3:38.0,,R. Bullock enters the game for L. Galloway,83,79
+4,3:33.0,,B. Griffin misses 2-pt hook shot from 7 ft,83,79
+4,3:32.0,Defensive rebound by S. Mejri,,83,79
+4,3:18.0,H. Barnes misses 3-pt jump shot from 27 ft,,83,79
+4,3:12.0,,Defensive rebound by R. Jackson,83,79
+4,3:07.0,,A. Drummond makes 2-pt layup from 4 ft (assist by R. Jackson),83,81
+4,2:47.0,H. Barnes misses 2-pt jump shot from 18 ft,,83,81
+4,2:44.0,,Defensive rebound by R. Jackson,83,81
+4,2:32.0,,A. Drummond makes 2-pt hook shot from 5 ft (assist by R. Bullock),83,83
+4,2:32.0,Dallas full timeout,,83,83
+4,2:32.0,M. Kleber enters the game for R. Broekhoff,,83,83
+4,2:32.0,D. Powell enters the game for S. Mejri,,83,83
+4,2:22.0,Shooting foul by B. Griffin (drawn by D. Powell),,83,83
+4,2:22.0,D. Powell makes free throw 1 of 2,,84,83
+4,2:22.0,D. Powell misses free throw 2 of 2,,84,83
+4,2:18.0,,Defensive rebound by B. Griffin,84,83
+4,2:00.0,,B. Griffin misses 2-pt layup at rim,84,83
+4,1:59.0,,Offensive rebound by B. Griffin,84,83
+4,1:59.0,,B. Griffin misses 2-pt layup from 2 ft,84,83
+4,1:59.0,,Offensive rebound by B. Griffin,84,83
+4,1:58.0,,B. Griffin misses 2-pt layup at rim,84,83
+4,1:58.0,,Offensive rebound by A. Drummond,84,83
+4,1:56.0,,A. Drummond makes 2-pt layup from 1 ft,84,85
+4,1:46.0,J. Brunson misses 2-pt jump shot from 8 ft,,84,85
+4,1:45.0,,Defensive rebound by Team,84,85
+4,1:45.0,D. Finney-Smith enters the game for D. Harris,,84,85
+4,1:34.0,,R. Jackson makes 2-pt layup from 2 ft,84,87
+4,1:34.0,Dallas full timeout,,84,87
+4,1:34.0,,B. Brown enters the game for L. Kennard,84,87
+4,1:29.0,H. Barnes misses 3-pt jump shot from 26 ft,,84,87
+4,1:26.0,,Defensive rebound by A. Drummond,84,87
+4,1:11.0,Violation by Team (kicked ball),,84,87
+4,1:11.0,D. Harris enters the game for D. Finney-Smith,,84,87
+4,1:06.0,,B. Griffin misses 2-pt layup from 4 ft (block by D. Powell),84,87
+4,1:06.0,Defensive rebound by Team,,84,87
+4,0:56.0,Personal foul by A. Drummond (drawn by H. Barnes),,84,87
+4,0:56.0,H. Barnes makes free throw 1 of 2,,85,87
+4,0:56.0,H. Barnes makes free throw 2 of 2,,86,87
+4,0:34.0,,B. Griffin makes 2-pt hook shot from 9 ft,86,89
+4,0:25.0,H. Barnes makes 2-pt layup from 2 ft,,88,89
+4,0:25.0,,Detroit full timeout,88,89
+4,0:25.0,,L. Galloway enters the game for B. Brown,88,89
+4,0:25.0,,L. Kennard enters the game for A. Drummond,88,89
+4,0:22.0,,Personal take foul by D. Powell (drawn by R. Jackson),88,89
+4,0:21.0,,Personal take foul by D. Powell (drawn by R. Jackson),88,89
+4,0:21.0,,R. Jackson makes free throw 1 of 2,88,90
+4,0:21.0,R. Broekhoff enters the game for M. Kleber,,88,90
+4,0:21.0,,B. Brown enters the game for L. Galloway,88,90
+4,0:21.0,,A. Drummond enters the game for L. Kennard,88,90
+4,0:21.0,,R. Jackson makes free throw 2 of 2,88,91
+4,0:11.0,H. Barnes misses 3-pt jump shot from 27 ft,,88,91
+4,0:06.0,Offensive rebound by D. Harris,,88,91
+4,0:05.0,Personal take foul by B. Griffin (drawn by J. Brunson),,88,91
+4,0:05.0,J. Brunson makes free throw 1 of 2,,89,91
+4,0:05.0,M. Kleber enters the game for R. Broekhoff,,89,91
+4,0:05.0,,Z. Pachulia enters the game for R. Jackson,89,91
+4,0:05.0,J. Brunson misses free throw 2 of 2,,89,91
+4,0:03.0,,Defensive rebound by A. Drummond,89,91
+4,0:03.0,,Personal take foul by J. Brunson (drawn by A. Drummond),89,91
+4,0:03.0,,A. Drummond makes free throw 1 of 2,89,92
+4,0:03.0,,A. Drummond makes free throw 2 of 2,89,93
+4,0:03.0,,R. Jackson enters the game for Z. Pachulia,89,93
+4,0:01.0,Turnover by D. Harris (bad pass; steal by B. Griffin),,89,93

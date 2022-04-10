@@ -1,0 +1,470 @@
+QUARTER,TIME_REMAINING,BOSTON_ACTION,TORONTO_ACTION,BOSTON_SCORE,TORONTO_SCORE
+1,11:45.0,Turnover by G. Hayward (bad pass; steal by K. Leonard),,0,0
+1,11:31.0,,S. Ibaka misses 2-pt hook shot from 6 ft,0,0
+1,11:28.0,Defensive rebound by K. Irving,,0,0
+1,11:22.0,A. Horford makes 3-pt jump shot from 26 ft (assist by K. Irving),,3,0
+1,11:08.0,,Turnover by P. Siakam (traveling),3,0
+1,10:52.0,Offensive foul by A. Horford (drawn by K. Lowry),,3,0
+1,10:52.0,Turnover by A. Horford (offensive foul),,3,0
+1,10:40.0,,S. Ibaka makes 2-pt jump shot from 13 ft (assist by K. Lowry),3,2
+1,10:25.0,A. Horford misses 3-pt jump shot from 26 ft,,3,2
+1,10:21.0,Offensive rebound by A. Horford,,3,2
+1,10:07.0,J. Brown misses 3-pt jump shot from 28 ft,,3,2
+1,10:06.0,Offensive rebound by Team,,3,2
+1,10:06.0,Turnover by Team (shot clock),,3,2
+1,9:51.0,,Personal foul by J. Brown (drawn by K. Leonard),3,2
+1,9:47.0,,K. Leonard misses 2-pt jump shot from 9 ft,3,2
+1,9:44.0,,Offensive rebound by D. Green,3,2
+1,9:39.0,,P. Siakam misses 3-pt jump shot from 23 ft,3,2
+1,9:36.0,Defensive rebound by A. Horford,,3,2
+1,9:34.0,G. Hayward makes 2-pt jump shot from 15 ft (assist by K. Irving),,5,2
+1,9:32.0,Violation by Team (delay of game),,5,2
+1,9:25.0,,D. Green misses 3-pt jump shot from 24 ft,5,2
+1,9:22.0,Defensive rebound by J. Tatum,,5,2
+1,9:17.0,Offensive foul by A. Horford (drawn by K. Lowry),,5,2
+1,9:17.0,Turnover by A. Horford (offensive foul),,5,2
+1,9:02.0,,S. Ibaka makes 2-pt layup from 1 ft (assist by K. Leonard),5,4
+1,8:50.0,J. Brown misses 3-pt jump shot from 26 ft,,5,4
+1,8:48.0,Offensive rebound by A. Horford,,5,4
+1,8:43.0,G. Hayward misses 3-pt jump shot from 26 ft,,5,4
+1,8:39.0,,Defensive rebound by P. Siakam,5,4
+1,8:35.0,,K. Lowry makes 3-pt jump shot from 30 ft (assist by P. Siakam),5,7
+1,8:17.0,G. Hayward makes 2-pt jump shot from 1 ft (assist by K. Irving),,7,7
+1,8:10.0,,Turnover by K. Leonard (out of bounds lost ball),7,7
+1,8:01.0,K. Irving misses 3-pt jump shot from 24 ft,,7,7
+1,7:58.0,,Defensive rebound by P. Siakam,7,7
+1,7:41.0,,S. Ibaka makes 2-pt dunk from 2 ft (assist by D. Green),7,9
+1,7:25.0,J. Tatum misses 2-pt jump shot from 13 ft,,7,9
+1,7:22.0,,Defensive rebound by K. Lowry,7,9
+1,7:19.0,,K. Lowry misses 3-pt jump shot from 27 ft,7,9
+1,7:15.0,Defensive rebound by J. Brown,,7,9
+1,7:00.0,J. Tatum misses 2-pt jump shot from 12 ft,,7,9
+1,6:58.0,,Defensive rebound by P. Siakam,7,9
+1,6:52.0,,Turnover by P. Siakam (lost ball; steal by A. Horford),7,9
+1,6:48.0,J. Tatum makes 2-pt layup from 1 ft (assist by A. Horford),,9,9
+1,6:37.0,,Toronto full timeout,9,9
+1,6:37.0,M. Morris enters the game for G. Hayward,,9,9
+1,6:37.0,T. Rozier enters the game for J. Tatum,,9,9
+1,6:29.0,,K. Leonard misses 2-pt jump shot from 13 ft,9,9
+1,6:26.0,Defensive rebound by T. Rozier,,9,9
+1,6:17.0,Personal foul by K. Leonard (drawn by M. Morris),,9,9
+1,6:13.0,Personal foul by P. Siakam (drawn by M. Morris),,9,9
+1,6:00.0,T. Rozier misses 2-pt jump shot from 20 ft,,9,9
+1,5:58.0,,Defensive rebound by P. Siakam,9,9
+1,5:50.0,,P. Siakam makes 2-pt layup from 1 ft,9,11
+1,5:40.0,M. Morris misses 3-pt jump shot from 26 ft,,9,11
+1,5:40.0,,Defensive rebound by D. Green,9,11
+1,5:27.0,,P. Siakam misses 3-pt jump shot from 23 ft,9,11
+1,5:25.0,Defensive rebound by Team,,9,11
+1,5:10.0,K. Irving makes 2-pt layup from 1 ft,,11,11
+1,4:57.0,,D. Green makes 3-pt jump shot from 23 ft (assist by K. Leonard),11,14
+1,4:40.0,Offensive foul by J. Brown (drawn by D. Green),,11,14
+1,4:40.0,Turnover by J. Brown (offensive foul),,11,14
+1,4:40.0,,O. Anunoby enters the game for D. Green,11,14
+1,4:40.0,,F. VanVleet enters the game for P. Siakam,11,14
+1,4:24.0,,Turnover by K. Leonard (traveling),11,14
+1,4:06.0,A. Horford misses 2-pt layup from 2 ft,,11,14
+1,4:05.0,,Defensive rebound by K. Leonard,11,14
+1,3:58.0,,F. VanVleet misses 3-pt jump shot from 25 ft,11,14
+1,3:58.0,Defensive rebound by J. Brown,,11,14
+1,3:46.0,T. Rozier makes 3-pt jump shot from 23 ft (assist by A. Horford),,14,14
+1,3:33.0,,K. Lowry misses 3-pt jump shot from 30 ft,14,14
+1,3:29.0,Defensive rebound by J. Brown,,14,14
+1,3:17.0,J. Brown makes 2-pt layup from 1 ft (assist by M. Morris),,16,14
+1,3:02.0,,O. Anunoby makes 3-pt jump shot from 26 ft (assist by S. Ibaka),16,17
+1,3:02.0,Boston full timeout,,16,17
+1,3:02.0,M. Smart enters the game for J. Brown,,16,17
+1,3:02.0,J. Tatum enters the game for K. Irving,,16,17
+1,3:02.0,,J. Valančiūnas enters the game for S. Ibaka,16,17
+1,2:51.0,A. Horford makes 2-pt dunk from 2 ft (assist by M. Smart),,18,17
+1,2:51.0,Shooting foul by K. Lowry (drawn by A. Horford),,18,17
+1,2:51.0,A. Horford makes free throw 1 of 1,,19,17
+1,2:33.0,,Offensive foul by J. Valančiūnas (drawn by A. Horford),19,17
+1,2:33.0,,Turnover by J. Valančiūnas (offensive foul),19,17
+1,2:33.0,A. Baynes enters the game for A. Horford,,19,17
+1,2:33.0,,C. Miles enters the game for K. Leonard,19,17
+1,2:33.0,,N. Powell enters the game for K. Lowry,19,17
+1,2:16.0,M. Morris misses 2-pt jump shot from 18 ft,,19,17
+1,2:12.0,,Defensive rebound by J. Valančiūnas,19,17
+1,2:03.0,,C. Miles misses 3-pt jump shot from 26 ft,19,17
+1,2:01.0,Defensive rebound by J. Tatum,,19,17
+1,1:57.0,M. Smart misses 3-pt jump shot from 26 ft,,19,17
+1,1:55.0,,Defensive rebound by Team,19,17
+1,1:41.0,,N. Powell misses 2-pt layup at rim,19,17
+1,1:39.0,Defensive rebound by M. Smart,,19,17
+1,1:34.0,A. Baynes misses 3-pt jump shot from 23 ft,,19,17
+1,1:30.0,Offensive rebound by T. Rozier,,19,17
+1,1:29.0,A. Baynes makes 2-pt layup from 4 ft (assist by T. Rozier),,21,17
+1,1:29.0,Shooting foul by F. VanVleet (drawn by A. Baynes),,21,17
+1,1:29.0,A. Baynes makes free throw 1 of 1,,22,17
+1,1:16.0,,O. Anunoby misses 3-pt jump shot from 25 ft,22,17
+1,1:13.0,Defensive rebound by A. Baynes,,22,17
+1,1:04.0,M. Morris misses 2-pt jump shot from 11 ft,,22,17
+1,1:01.0,,Defensive rebound by F. VanVleet,22,17
+1,0:59.0,,Shooting foul by T. Rozier (drawn by F. VanVleet),22,17
+1,0:59.0,,F. VanVleet makes free throw 1 of 2,22,18
+1,0:59.0,,F. VanVleet misses free throw 2 of 2,22,18
+1,0:55.0,Defensive rebound by J. Tatum,,22,18
+1,0:51.0,Turnover by J. Tatum (lost ball; steal by N. Powell),,22,18
+1,0:48.0,,Turnover by O. Anunoby (traveling),22,18
+1,0:38.0,Personal foul by O. Anunoby (drawn by A. Baynes),,22,18
+1,0:38.0,A. Baynes misses free throw 1 of 2,,22,18
+1,0:38.0,Offensive rebound by Team,,22,18
+1,0:38.0,Turnover by M. Morris (lane violation),,22,18
+1,0:33.0,,C. Miles misses 3-pt jump shot from 26 ft,22,18
+1,0:29.0,Defensive rebound by A. Baynes,,22,18
+1,0:12.0,J. Tatum makes 3-pt jump shot from 26 ft,,25,18
+1,0:00.0,,C. Miles misses 3-pt jump shot from 28 ft,25,18
+1,0:00.0,,Offensive rebound by Team,25,18
+2,11:47.0,,N. Powell misses 2-pt layup from 2 ft (block by A. Baynes),25,18
+2,11:44.0,,Offensive rebound by O. Anunoby,25,18
+2,11:44.0,,O. Anunoby makes 2-pt layup from 1 ft,25,20
+2,11:20.0,J. Tatum misses 2-pt jump shot from 17 ft,,25,20
+2,11:19.0,,Defensive rebound by J. Valančiūnas,25,20
+2,11:14.0,,Personal foul by M. Morris (drawn by C. Miles),25,20
+2,11:14.0,G. Hayward enters the game for M. Morris,,25,20
+2,11:03.0,,O. Anunoby misses 3-pt jump shot from 24 ft,25,20
+2,11:00.0,Defensive rebound by T. Rozier,,25,20
+2,10:55.0,Shooting foul by O. Anunoby (drawn by T. Rozier),,25,20
+2,10:55.0,T. Rozier makes free throw 1 of 2,,26,20
+2,10:55.0,,D. Green enters the game for O. Anunoby,26,20
+2,10:55.0,T. Rozier makes free throw 2 of 2,,27,20
+2,10:38.0,,D. Green makes 2-pt jump shot from 13 ft (assist by N. Powell),27,22
+2,10:23.0,Turnover by J. Tatum (bad pass; steal by D. Green),,27,22
+2,10:15.0,,F. VanVleet misses 3-pt jump shot from 23 ft,27,22
+2,10:13.0,Defensive rebound by T. Rozier,,27,22
+2,10:02.0,A. Baynes makes 2-pt hook shot from 7 ft (assist by M. Smart),,29,22
+2,9:49.0,,D. Green misses 3-pt jump shot from 23 ft,29,22
+2,9:47.0,,Offensive rebound by J. Valančiūnas,29,22
+2,9:36.0,,N. Powell misses 2-pt jump shot from 1 ft,29,22
+2,9:36.0,Defensive rebound by Team,,29,22
+2,9:28.0,Offensive foul by A. Baynes (drawn by J. Valančiūnas),,29,22
+2,9:28.0,Turnover by A. Baynes (offensive foul),,29,22
+2,9:28.0,,K. Leonard enters the game for N. Powell,29,22
+2,9:14.0,,K. Leonard makes 2-pt layup from 2 ft,29,24
+2,9:03.0,G. Hayward misses 2-pt jump shot from 8 ft (block by C. Miles),,29,24
+2,9:03.0,Offensive rebound by Team,,29,24
+2,8:59.0,J. Tatum misses 2-pt jump shot from 18 ft,,29,24
+2,8:55.0,,Defensive rebound by K. Leonard,29,24
+2,8:30.0,,F. VanVleet misses 3-pt jump shot from 26 ft,29,24
+2,8:27.0,Defensive rebound by M. Smart,,29,24
+2,8:26.0,J. Tatum makes 2-pt jump shot from 5 ft (assist by M. Smart),,31,24
+2,8:26.0,K. Irving enters the game for T. Rozier,,31,24
+2,8:26.0,,K. Lowry enters the game for C. Miles,31,24
+2,8:02.0,,F. VanVleet makes 3-pt jump shot from 27 ft,31,27
+2,7:44.0,K. Irving makes 2-pt jump shot from 18 ft (assist by G. Hayward),,33,27
+2,7:30.0,,J. Valančiūnas misses 2-pt jump shot from 17 ft,33,27
+2,7:27.0,,Offensive rebound by K. Leonard,33,27
+2,7:26.0,,Shooting foul by M. Smart (drawn by K. Leonard),33,27
+2,7:26.0,,K. Leonard makes free throw 1 of 2,33,28
+2,7:26.0,,S. Ibaka enters the game for J. Valančiūnas,33,28
+2,7:26.0,,K. Leonard makes free throw 2 of 2,33,29
+2,7:14.0,K. Irving misses 2-pt jump shot from 15 ft,,33,29
+2,7:12.0,,Defensive rebound by S. Ibaka,33,29
+2,7:07.0,,K. Leonard makes 3-pt jump shot from 27 ft (assist by K. Lowry),33,32
+2,6:57.0,Personal foul by D. Green (drawn by J. Tatum),,33,32
+2,6:57.0,,Toronto full timeout,33,32
+2,6:57.0,A. Horford enters the game for A. Baynes,,33,32
+2,6:50.0,G. Hayward misses 2-pt layup from 2 ft,,33,32
+2,6:48.0,Offensive rebound by G. Hayward,,33,32
+2,6:46.0,J. Tatum misses 3-pt jump shot from 25 ft,,33,32
+2,6:46.0,Offensive rebound by G. Hayward,,33,32
+2,6:37.0,K. Irving makes 3-pt jump shot from 27 ft (assist by M. Smart),,36,32
+2,6:18.0,,K. Lowry makes 3-pt jump shot from 25 ft,36,35
+2,6:00.0,G. Hayward makes 2-pt jump shot from 11 ft (assist by A. Horford),,38,35
+2,5:48.0,,K. Lowry makes 2-pt layup from 1 ft,38,37
+2,5:34.0,K. Irving misses 2-pt layup from 3 ft,,38,37
+2,5:32.0,,Defensive rebound by K. Leonard,38,37
+2,5:27.0,,S. Ibaka makes 2-pt jump shot from 20 ft (assist by F. VanVleet),38,39
+2,5:08.0,J. Tatum makes 2-pt jump shot from 21 ft,,40,39
+2,4:53.0,,F. VanVleet misses 2-pt layup from 2 ft (block by J. Tatum),40,39
+2,4:53.0,,Offensive rebound by Team,40,39
+2,4:53.0,J. Brown enters the game for G. Hayward,,40,39
+2,4:53.0,M. Morris enters the game for M. Smart,,40,39
+2,4:53.0,,P. Siakam enters the game for F. VanVleet,40,39
+2,4:40.0,,K. Leonard misses 2-pt jump shot from 18 ft,40,39
+2,4:39.0,Defensive rebound by Team,,40,39
+2,4:39.0,,Loose ball foul by S. Ibaka (drawn by A. Horford),40,39
+2,4:28.0,A. Horford misses 3-pt jump shot from 26 ft,,40,39
+2,4:24.0,,Defensive rebound by D. Green,40,39
+2,4:07.0,,P. Siakam misses 2-pt jump shot from 6 ft (block by K. Irving),40,39
+2,4:04.0,Defensive rebound by J. Tatum,,40,39
+2,3:54.0,Offensive foul by J. Tatum (drawn by D. Green),,40,39
+2,3:54.0,Turnover by J. Tatum (offensive foul),,40,39
+2,3:37.0,,K. Leonard misses 2-pt layup from 2 ft,40,39
+2,3:35.0,,Offensive rebound by K. Leonard,40,39
+2,3:27.0,,K. Leonard misses 2-pt layup from 2 ft (block by M. Morris),40,39
+2,3:24.0,Defensive rebound by M. Morris,,40,39
+2,3:24.0,Turnover by K. Irving (bad pass),,40,39
+2,3:20.0,,K. Leonard misses 2-pt layup from 1 ft,40,39
+2,3:19.0,Defensive rebound by J. Tatum,,40,39
+2,3:04.0,K. Irving misses 2-pt jump shot from 16 ft,,40,39
+2,3:01.0,,Defensive rebound by K. Lowry,40,39
+2,2:56.0,,S. Ibaka makes 2-pt hook shot from 4 ft (assist by P. Siakam),40,41
+2,2:55.0,Boston full timeout,,40,41
+2,2:42.0,M. Morris makes 2-pt jump shot from 17 ft (assist by J. Tatum),,42,41
+2,2:16.0,,K. Leonard misses 2-pt jump shot from 13 ft,42,41
+2,2:16.0,,Offensive rebound by Team,42,41
+2,2:16.0,Loose ball foul by M. Morris (drawn by S. Ibaka),,42,41
+2,2:16.0,T. Rozier enters the game for J. Tatum,,42,41
+2,2:16.0,,F. VanVleet enters the game for D. Green,42,41
+2,1:59.0,,Turnover by F. VanVleet (bad pass; steal by T. Rozier),42,41
+2,1:55.0,J. Brown makes 3-pt jump shot from 26 ft (assist by T. Rozier),,45,41
+2,1:42.0,,Personal foul by T. Rozier (drawn by S. Ibaka),45,41
+2,1:35.0,,K. Leonard makes 2-pt jump shot from 13 ft,45,43
+2,1:20.0,K. Irving misses 2-pt layup from 2 ft,,45,43
+2,1:20.0,Offensive rebound by A. Horford,,45,43
+2,1:16.0,T. Rozier makes 3-pt jump shot from 28 ft (assist by A. Horford),,48,43
+2,1:00.0,,K. Leonard misses 2-pt hook shot from 4 ft,48,43
+2,0:58.0,Defensive rebound by K. Irving,,48,43
+2,0:44.0,J. Brown makes 3-pt jump shot from 23 ft (assist by T. Rozier),,51,43
+2,0:30.0,,S. Ibaka makes 3-pt jump shot from 27 ft (assist by K. Lowry),51,46
+2,0:13.0,K. Irving makes 2-pt layup from 4 ft,,53,46
+2,0:00.0,,K. Lowry misses 2-pt layup from 1 ft (block by A. Horford),53,46
+2,0:00.0,,Offensive rebound by F. VanVleet,53,46
+2,0:00.0,,F. VanVleet makes 3-pt jump shot from 26 ft,53,49
+3,11:47.0,,P. Siakam makes 2-pt jump shot from 4 ft,53,51
+3,11:32.0,K. Irving makes 2-pt jump shot from 3 ft,,55,51
+3,11:18.0,,K. Leonard makes 2-pt dunk from 1 ft (assist by D. Green),55,53
+3,11:00.0,J. Tatum makes 3-pt jump shot from 24 ft (assist by A. Horford),,58,53
+3,10:50.0,,Personal foul by J. Brown (drawn by K. Leonard),58,53
+3,10:38.0,,K. Leonard makes 2-pt jump shot from 16 ft,58,55
+3,10:25.0,M. Morris misses 3-pt jump shot from 26 ft,,58,55
+3,10:22.0,Offensive rebound by A. Horford,,58,55
+3,10:21.0,J. Brown makes 2-pt jump shot from 16 ft (assist by A. Horford),,60,55
+3,10:03.0,,K. Leonard makes 2-pt jump shot from 8 ft,60,57
+3,9:50.0,J. Tatum misses 3-pt jump shot from 24 ft,,60,57
+3,9:47.0,,Defensive rebound by K. Leonard,60,57
+3,9:43.0,,Personal foul by K. Irving (drawn by K. Leonard),60,57
+3,9:43.0,M. Smart enters the game for J. Brown,,60,57
+3,9:31.0,,S. Ibaka makes 2-pt dunk from 2 ft (assist by K. Leonard),60,59
+3,9:01.0,K. Irving misses 2-pt layup from 2 ft,,60,59
+3,8:59.0,Offensive rebound by K. Irving,,60,59
+3,8:59.0,K. Irving misses 2-pt layup at rim,,60,59
+3,8:58.0,,Defensive rebound by P. Siakam,60,59
+3,8:53.0,,K. Leonard misses 3-pt jump shot from 26 ft,60,59
+3,8:51.0,Defensive rebound by A. Horford,,60,59
+3,8:48.0,Personal foul by K. Lowry (drawn by K. Irving),,60,59
+3,8:40.0,M. Smart misses 3-pt jump shot from 25 ft,,60,59
+3,8:37.0,Offensive rebound by K. Irving,,60,59
+3,8:35.0,M. Morris makes 3-pt jump shot from 26 ft (assist by K. Irving),,63,59
+3,8:15.0,,Shooting foul by J. Tatum (drawn by K. Leonard),63,59
+3,8:15.0,,K. Leonard makes free throw 1 of 2,63,60
+3,8:15.0,,K. Leonard makes free throw 2 of 2,63,61
+3,8:00.0,M. Smart makes 2-pt layup from 1 ft,,65,61
+3,7:53.0,,K. Leonard misses 3-pt jump shot from 27 ft,65,61
+3,7:51.0,Defensive rebound by A. Horford,,65,61
+3,7:43.0,A. Horford misses 2-pt dunk from 1 ft,,65,61
+3,7:43.0,,Defensive rebound by Team,65,61
+3,7:43.0,Loose ball foul by A. Horford (drawn by S. Ibaka),,65,61
+3,7:31.0,,P. Siakam misses 2-pt layup from 2 ft,65,61
+3,7:29.0,Defensive rebound by A. Horford,,65,61
+3,7:20.0,M. Smart misses 2-pt jump shot from 19 ft,,65,61
+3,7:16.0,,Defensive rebound by K. Leonard,65,61
+3,7:13.0,,K. Leonard makes 2-pt layup from 1 ft,65,63
+3,6:52.0,K. Irving makes 2-pt jump shot from 16 ft,,67,63
+3,6:37.0,,Toronto full timeout,67,63
+3,6:37.0,,O. Anunoby enters the game for P. Siakam,67,63
+3,6:26.0,,Shooting foul by K. Irving (drawn by K. Leonard),67,63
+3,6:26.0,,K. Leonard makes free throw 1 of 3,67,64
+3,6:26.0,,K. Leonard makes free throw 2 of 3,67,65
+3,6:26.0,,K. Leonard makes free throw 3 of 3,67,66
+3,6:09.0,Personal foul by K. Lowry (drawn by K. Irving),,67,66
+3,6:05.0,J. Tatum makes 2-pt dunk from 1 ft (assist by A. Horford),,69,66
+3,6:00.0,,D. Green makes 3-pt jump shot from 27 ft (assist by K. Lowry),69,69
+3,5:36.0,A. Horford misses 3-pt jump shot from 25 ft,,69,69
+3,5:33.0,,Defensive rebound by D. Green,69,69
+3,5:24.0,,K. Leonard makes 2-pt dunk from 1 ft (assist by K. Lowry),69,71
+3,5:11.0,A. Horford makes 3-pt jump shot from 25 ft (assist by K. Irving),,72,71
+3,4:52.0,,S. Ibaka misses 3-pt jump shot from 26 ft,72,71
+3,4:50.0,Defensive rebound by J. Tatum,,72,71
+3,4:38.0,J. Tatum misses 3-pt jump shot from 25 ft,,72,71
+3,4:35.0,,Defensive rebound by K. Leonard,72,71
+3,4:18.0,,D. Green makes 3-pt jump shot from 24 ft (assist by S. Ibaka),72,74
+3,4:02.0,K. Irving makes 2-pt jump shot from 17 ft (assist by M. Smart),,74,74
+3,3:55.0,,Personal foul by M. Smart (drawn by K. Lowry),74,74
+3,3:55.0,,K. Lowry misses free throw 1 of 2,74,74
+3,3:55.0,,Offensive rebound by Team,74,74
+3,3:55.0,G. Hayward enters the game for M. Morris,,74,74
+3,3:55.0,T. Rozier enters the game for M. Smart,,74,74
+3,3:55.0,,F. VanVleet enters the game for K. Leonard,74,74
+3,3:55.0,,K. Lowry makes free throw 2 of 2,74,75
+3,3:41.0,Turnover by A. Horford (out of bounds lost ball),,74,75
+3,3:30.0,,Shooting foul by K. Irving (drawn by K. Lowry),74,75
+3,3:30.0,,K. Lowry misses free throw 1 of 2,74,75
+3,3:30.0,,Offensive rebound by Team,74,75
+3,3:30.0,A. Baynes enters the game for A. Horford,,74,75
+3,3:30.0,J. Brown enters the game for K. Irving,,74,75
+3,3:30.0,,J. Valančiūnas enters the game for S. Ibaka,74,75
+3,3:30.0,,K. Lowry makes free throw 2 of 2,74,76
+3,3:20.0,Personal foul by O. Anunoby (drawn by A. Baynes),,74,76
+3,3:15.0,G. Hayward misses 3-pt jump shot from 26 ft,,74,76
+3,3:11.0,,Defensive rebound by J. Valančiūnas,74,76
+3,3:05.0,,Personal foul by J. Brown (drawn by J. Valančiūnas),74,76
+3,3:05.0,,J. Valančiūnas makes free throw 1 of 2,74,77
+3,3:05.0,,J. Valančiūnas makes free throw 2 of 2,74,78
+3,2:49.0,J. Tatum misses 2-pt jump shot from 2 ft,,74,78
+3,2:46.0,Offensive rebound by Team,,74,78
+3,2:46.0,Boston full timeout,,74,78
+3,2:46.0,,C. Miles enters the game for K. Lowry,74,78
+3,2:41.0,T. Rozier misses 3-pt jump shot from 25 ft,,74,78
+3,2:38.0,,Defensive rebound by D. Green,74,78
+3,2:35.0,,Turnover by D. Green (bad pass; steal by J. Tatum),74,78
+3,2:29.0,G. Hayward makes 3-pt jump shot from 26 ft (assist by J. Tatum),,77,78
+3,2:14.0,,J. Valančiūnas makes 2-pt jump shot from 5 ft (assist by F. VanVleet),77,80
+3,1:55.0,G. Hayward misses 2-pt jump shot from 12 ft,,77,80
+3,1:55.0,,Defensive rebound by J. Valančiūnas,77,80
+3,1:46.0,,C. Miles makes 2-pt layup from 3 ft (assist by F. VanVleet),77,82
+3,1:46.0,G. Hayward makes 2-pt jump shot from 16 ft,,79,82
+3,1:17.0,,J. Valančiūnas misses 2-pt hook shot from 3 ft,79,82
+3,1:15.0,Defensive rebound by G. Hayward,,79,82
+3,1:06.0,A. Baynes misses 3-pt jump shot from 24 ft,,79,82
+3,1:03.0,Offensive rebound by T. Rozier,,79,82
+3,0:50.0,Turnover by Team (shot clock),,79,82
+3,0:50.0,K. Irving enters the game for J. Tatum,,79,82
+3,0:50.0,,N. Powell enters the game for D. Green,79,82
+3,0:36.0,,Offensive foul by J. Valančiūnas (drawn by G. Hayward),79,82
+3,0:36.0,,Turnover by J. Valančiūnas (offensive foul),79,82
+3,0:28.0,T. Rozier misses 2-pt jump shot from 10 ft,,79,82
+3,0:25.0,Offensive rebound by A. Baynes,,79,82
+3,0:24.0,A. Baynes misses 2-pt layup at rim,,79,82
+3,0:24.0,Offensive rebound by A. Baynes,,79,82
+3,0:23.0,A. Baynes misses 2-pt layup at rim,,79,82
+3,0:21.0,Offensive rebound by A. Baynes,,79,82
+3,0:21.0,A. Baynes misses 2-pt layup at rim,,79,82
+3,0:21.0,,Defensive rebound by O. Anunoby,79,82
+3,0:01.0,,Turnover by F. VanVleet (bad pass; steal by G. Hayward),79,82
+3,0:00.0,J. Brown misses 3-pt jump shot from 27 ft,,79,82
+3,0:00.0,Offensive rebound by Team,,79,82
+4,11:57.0,Personal foul by N. Powell (drawn by K. Irving),,79,82
+4,11:47.0,G. Hayward misses 2-pt jump shot from 18 ft,,79,82
+4,11:44.0,,Defensive rebound by O. Anunoby,79,82
+4,11:33.0,,F. VanVleet makes 2-pt layup from 2 ft,79,84
+4,11:25.0,Shooting foul by J. Valančiūnas (drawn by J. Brown),,79,84
+4,11:25.0,J. Brown misses free throw 1 of 2,,79,84
+4,11:25.0,Offensive rebound by Team,,79,84
+4,11:25.0,M. Smart enters the game for T. Rozier,,79,84
+4,11:25.0,J. Brown misses free throw 2 of 2,,79,84
+4,11:23.0,,Defensive rebound by N. Powell,79,84
+4,11:04.0,,F. VanVleet misses 2-pt layup from 1 ft,79,84
+4,11:01.0,Defensive rebound by G. Hayward,,79,84
+4,10:55.0,M. Smart misses 2-pt jump shot from 16 ft,,79,84
+4,10:52.0,,Defensive rebound by F. VanVleet,79,84
+4,10:41.0,,F. VanVleet misses 3-pt jump shot from 26 ft,79,84
+4,10:38.0,Defensive rebound by G. Hayward,,79,84
+4,10:30.0,K. Irving makes 2-pt layup from 2 ft (assist by G. Hayward),,81,84
+4,10:18.0,,C. Miles misses 2-pt jump shot from 17 ft (block by M. Smart),81,84
+4,10:16.0,Defensive rebound by G. Hayward,,81,84
+4,10:12.0,G. Hayward makes 2-pt layup from 1 ft,,83,84
+4,10:12.0,Shooting foul by C. Miles (drawn by G. Hayward),,83,84
+4,10:12.0,G. Hayward makes free throw 1 of 1,,84,84
+4,10:00.0,,N. Powell misses 2-pt layup from 2 ft,84,84
+4,10:00.0,Defensive rebound by Team,,84,84
+4,10:00.0,,Loose ball foul by J. Valančiūnas (drawn by A. Baynes),84,84
+4,10:00.0,T. Rozier enters the game for K. Irving,,84,84
+4,9:47.0,T. Rozier misses 2-pt jump shot from 19 ft,,84,84
+4,9:45.0,Offensive rebound by A. Baynes,,84,84
+4,9:45.0,A. Baynes misses 2-pt layup at rim,,84,84
+4,9:45.0,,Defensive rebound by Team,84,84
+4,9:32.0,,O. Anunoby makes 2-pt layup from 1 ft (assist by F. VanVleet),84,86
+4,9:16.0,G. Hayward misses 2-pt jump shot from 13 ft,,84,86
+4,9:13.0,,Defensive rebound by F. VanVleet,84,86
+4,9:09.0,,C. Miles misses 3-pt jump shot from 27 ft,84,86
+4,9:07.0,Defensive rebound by G. Hayward,,84,86
+4,9:03.0,J. Brown makes 3-pt jump shot from 25 ft (assist by M. Smart),,87,86
+4,8:52.0,,F. VanVleet makes 2-pt layup from 2 ft,87,88
+4,8:52.0,,Shooting foul by M. Smart (drawn by F. VanVleet),87,88
+4,8:52.0,A. Horford enters the game for A. Baynes,,87,88
+4,8:52.0,M. Morris enters the game for G. Hayward,,87,88
+4,8:52.0,,K. Leonard enters the game for C. Miles,87,88
+4,8:52.0,,F. VanVleet misses free throw 1 of 1,87,88
+4,8:52.0,,Offensive rebound by F. VanVleet,87,88
+4,8:40.0,,N. Powell makes 2-pt jump shot from 15 ft,87,90
+4,8:38.0,Boston full timeout,,87,90
+4,8:38.0,,S. Ibaka enters the game for J. Valančiūnas,87,90
+4,8:23.0,J. Brown misses 2-pt layup from 2 ft,,87,90
+4,8:19.0,Offensive rebound by J. Brown,,87,90
+4,8:19.0,J. Brown misses 2-pt layup at rim,,87,90
+4,8:18.0,,Defensive rebound by N. Powell,87,90
+4,8:00.0,,F. VanVleet misses 3-pt jump shot from 26 ft,87,90
+4,7:57.0,Defensive rebound by M. Morris,,87,90
+4,7:46.0,A. Horford misses 2-pt jump shot from 9 ft,,87,90
+4,7:44.0,,Defensive rebound by S. Ibaka,87,90
+4,7:28.0,,Turnover by K. Leonard (back court),87,90
+4,7:28.0,K. Irving enters the game for J. Brown,,87,90
+4,7:28.0,J. Tatum enters the game for T. Rozier,,87,90
+4,7:28.0,,K. Lowry enters the game for N. Powell,87,90
+4,7:19.0,K. Irving misses 2-pt jump shot from 8 ft,,87,90
+4,7:16.0,,Defensive rebound by K. Lowry,87,90
+4,7:10.0,,O. Anunoby makes 2-pt layup from 1 ft (assist by K. Lowry),87,92
+4,6:55.0,K. Irving misses 2-pt layup from 3 ft (block by S. Ibaka),,87,92
+4,6:55.0,Offensive rebound by A. Horford,,87,92
+4,6:50.0,A. Horford makes 2-pt layup at rim,,89,92
+4,6:36.0,,S. Ibaka misses 2-pt jump shot from 15 ft,89,92
+4,6:33.0,Defensive rebound by A. Horford,,89,92
+4,6:25.0,M. Smart misses 2-pt jump shot from 10 ft,,89,92
+4,6:22.0,,Defensive rebound by K. Leonard,89,92
+4,6:16.0,,K. Leonard makes 3-pt jump shot from 26 ft (assist by F. VanVleet),89,95
+4,5:53.0,M. Morris makes 3-pt jump shot from 25 ft (assist by A. Horford),,92,95
+4,5:31.0,,K. Leonard misses 2-pt jump shot from 12 ft,92,95
+4,5:30.0,,Offensive rebound by S. Ibaka,92,95
+4,5:30.0,,S. Ibaka makes 2-pt hook shot from 2 ft,92,97
+4,5:30.0,,Shooting foul by M. Morris (drawn by S. Ibaka),92,97
+4,5:30.0,G. Hayward enters the game for M. Smart,,92,97
+4,5:30.0,,S. Ibaka misses free throw 1 of 1,92,97
+4,5:26.0,Defensive rebound by J. Tatum,,92,97
+4,5:19.0,Personal foul by O. Anunoby (drawn by J. Tatum),,92,97
+4,5:19.0,J. Tatum makes free throw 1 of 2,,93,97
+4,5:19.0,,D. Green enters the game for F. VanVleet,93,97
+4,5:19.0,J. Tatum makes free throw 2 of 2,,94,97
+4,5:01.0,,K. Leonard misses 3-pt jump shot from 26 ft,94,97
+4,4:59.0,,Offensive rebound by S. Ibaka,94,97
+4,4:57.0,,D. Green misses 3-pt jump shot from 27 ft,94,97
+4,4:52.0,,Offensive rebound by S. Ibaka,94,97
+4,4:50.0,,S. Ibaka misses 2-pt hook shot from 6 ft,94,97
+4,4:47.0,Defensive rebound by J. Tatum,,94,97
+4,4:35.0,Offensive foul by J. Tatum (drawn by K. Lowry),,94,97
+4,4:35.0,Turnover by J. Tatum (offensive foul),,94,97
+4,4:35.0,,Toronto full timeout,94,97
+4,4:21.0,,S. Ibaka makes 2-pt jump shot from 17 ft (assist by D. Green),94,99
+4,4:03.0,K. Irving makes 2-pt jump shot from 17 ft (assist by A. Horford),,96,99
+4,3:36.0,,K. Leonard makes 2-pt jump shot from 8 ft,96,101
+4,3:28.0,Offensive foul by M. Morris (drawn by K. Lowry),,96,101
+4,3:28.0,Turnover by M. Morris (offensive foul),,96,101
+4,3:28.0,T. Rozier enters the game for M. Morris,,96,101
+4,3:18.0,,Personal foul by J. Tatum (drawn by K. Leonard),96,101
+4,3:04.0,,K. Leonard misses 2-pt hook shot from 6 ft,96,101
+4,3:04.0,,Offensive rebound by O. Anunoby,96,101
+4,3:04.0,,Turnover by Team (shot clock),96,101
+4,3:04.0,Boston full timeout,,96,101
+4,3:04.0,,F. VanVleet enters the game for O. Anunoby,96,101
+4,2:53.0,A. Horford makes 3-pt jump shot from 26 ft (assist by K. Irving),,99,101
+4,2:29.0,,D. Green makes 3-pt jump shot from 23 ft (assist by F. VanVleet),99,104
+4,2:16.0,Offensive foul by J. Tatum (drawn by K. Lowry),,99,104
+4,2:16.0,Turnover by J. Tatum (offensive foul),,99,104
+4,2:08.0,,K. Lowry makes 3-pt jump shot from 27 ft (assist by F. VanVleet),99,107
+4,1:57.0,K. Irving misses 3-pt jump shot from 26 ft,,99,107
+4,1:53.0,,Defensive rebound by K. Lowry,99,107
+4,1:46.0,,Offensive foul by S. Ibaka (drawn by T. Rozier),99,107
+4,1:46.0,,Turnover by S. Ibaka (offensive foul),99,107
+4,1:34.0,T. Rozier misses 2-pt jump shot from 12 ft,,99,107
+4,1:30.0,,Defensive rebound by K. Leonard,99,107
+4,1:20.0,,K. Leonard misses 2-pt jump shot from 5 ft,99,107
+4,1:19.0,Defensive rebound by J. Tatum,,99,107
+4,1:14.0,J. Tatum misses 2-pt layup from 2 ft (block by D. Green),,99,107
+4,1:10.0,,Defensive rebound by F. VanVleet,99,107
+4,0:52.0,,K. Lowry makes 2-pt jump shot from 16 ft,99,109
+4,0:41.0,A. Horford misses 3-pt jump shot from 27 ft,,99,109
+4,0:38.0,,Defensive rebound by K. Lowry,99,109
+4,0:32.0,,K. Leonard misses 2-pt layup from 3 ft,99,109
+4,0:32.0,,Offensive rebound by S. Ibaka,99,109
+4,0:32.0,,S. Ibaka makes 2-pt dunk from 1 ft,99,111
+4,0:27.0,K. Irving makes 2-pt layup from 2 ft,,101,111
+4,0:22.0,,Toronto full timeout,101,111
+4,0:20.0,,Personal foul by T. Rozier (drawn by K. Leonard),101,111
+4,0:20.0,A. Baynes enters the game for A. Horford,,101,111
+4,0:17.0,,Personal foul by T. Rozier (drawn by K. Leonard),101,111
+4,0:17.0,,K. Leonard makes free throw 1 of 2,101,112
+4,0:17.0,,K. Leonard makes free throw 2 of 2,101,113
+4,0:09.0,J. Tatum misses 3-pt jump shot from 23 ft,,101,113
+4,0:07.0,,Defensive rebound by K. Lowry,101,113

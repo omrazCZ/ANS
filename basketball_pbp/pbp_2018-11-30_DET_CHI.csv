@@ -1,0 +1,438 @@
+QUARTER,TIME_REMAINING,CHICAGO_ACTION,DETROIT_ACTION,CHICAGO_SCORE,DETROIT_SCORE
+1,11:36.0,,G. Robinson misses 2-pt jump shot from 9 ft,0,0
+1,11:29.0,,Offensive rebound by A. Drummond,0,0
+1,11:29.0,,A. Drummond makes 2-pt layup at rim,0,2
+1,11:15.0,J. Parker misses 3-pt jump shot from 28 ft,,0,2
+1,11:12.0,,Defensive rebound by A. Drummond,0,2
+1,11:10.0,,Personal foul by J. Parker (drawn by B. Griffin),0,2
+1,10:57.0,,R. Jackson makes 3-pt jump shot from 29 ft (assist by R. Bullock),0,5
+1,10:46.0,Turnover by W. Carter (bad pass),,0,5
+1,10:38.0,,R. Bullock misses 3-pt jump shot from 27 ft,0,5
+1,10:36.0,Defensive rebound by J. Parker,,0,5
+1,10:27.0,J. Holiday misses 2-pt jump shot from 4 ft (block by A. Drummond),,0,5
+1,10:20.0,,Defensive rebound by A. Drummond,0,5
+1,10:18.0,,B. Griffin misses 2-pt layup from 2 ft (block by J. Holiday),0,5
+1,10:17.0,,Offensive rebound by Team,0,5
+1,10:07.0,,R. Jackson makes 3-pt jump shot from 28 ft (assist by B. Griffin),0,8
+1,9:50.0,R. Arcidiacono makes 2-pt layup from 1 ft,,2,8
+1,9:28.0,,Turnover by A. Drummond (3 sec),2,8
+1,9:17.0,W. Carter makes 2-pt layup from 2 ft (assist by J. Holiday),,4,8
+1,8:58.0,,A. Drummond makes 2-pt layup from 2 ft,4,10
+1,8:47.0,J. Parker misses 2-pt jump shot from 21 ft,,4,10
+1,8:45.0,,Defensive rebound by A. Drummond,4,10
+1,8:36.0,,R. Bullock makes 3-pt jump shot from 26 ft (assist by A. Drummond),4,13
+1,8:25.0,J. Parker makes 2-pt jump shot from 14 ft,,6,13
+1,8:05.0,,R. Jackson makes 2-pt jump shot from 13 ft,6,15
+1,7:47.0,Z. LaVine makes 2-pt jump shot from 13 ft,,8,15
+1,7:35.0,,B. Griffin makes 3-pt jump shot from 24 ft (assist by G. Robinson),8,18
+1,7:19.0,R. Arcidiacono misses 3-pt jump shot from 29 ft,,8,18
+1,7:15.0,,Defensive rebound by A. Drummond,8,18
+1,6:59.0,,G. Robinson misses 2-pt jump shot from 11 ft,8,18
+1,6:57.0,,Offensive rebound by A. Drummond,8,18
+1,6:55.0,,A. Drummond makes 2-pt layup from 1 ft,8,20
+1,6:55.0,Chicago full timeout,,8,20
+1,6:43.0,Shooting foul by A. Drummond (drawn by W. Carter),,8,20
+1,6:43.0,W. Carter makes free throw 1 of 2,,9,20
+1,6:43.0,W. Carter makes free throw 2 of 2,,10,20
+1,6:28.0,,R. Jackson makes 3-pt jump shot from 27 ft,10,23
+1,6:16.0,Turnover by J. Parker (bad pass; steal by R. Jackson),,10,23
+1,6:11.0,,Turnover by R. Bullock (bad pass; steal by J. Holiday),10,23
+1,6:04.0,J. Holiday misses 3-pt jump shot from 27 ft,,10,23
+1,6:00.0,,Defensive rebound by R. Bullock,10,23
+1,5:48.0,,G. Robinson misses 3-pt jump shot from 24 ft (block by Z. LaVine),10,23
+1,5:46.0,,Offensive rebound by A. Drummond,10,23
+1,5:45.0,,Turnover by A. Drummond (bad pass; steal by J. Holiday),10,23
+1,5:37.0,R. Arcidiacono misses 3-pt jump shot from 28 ft,,10,23
+1,5:37.0,,Defensive rebound by B. Griffin,10,23
+1,5:25.0,,R. Bullock misses 3-pt jump shot from 26 ft,10,23
+1,5:20.0,Defensive rebound by J. Holiday,,10,23
+1,5:19.0,Turnover by J. Parker (bad pass),,10,23
+1,5:03.0,,R. Bullock misses 3-pt jump shot from 23 ft,10,23
+1,5:00.0,Defensive rebound by J. Parker,,10,23
+1,4:55.0,J. Parker makes 2-pt layup from 3 ft,,12,23
+1,4:33.0,,B. Griffin makes 2-pt jump shot from 14 ft,12,25
+1,4:12.0,Shooting foul by A. Drummond (drawn by W. Carter),,12,25
+1,4:12.0,W. Carter makes free throw 1 of 2,,13,25
+1,4:12.0,C. Hutchison enters the game for Z. LaVine,,13,25
+1,4:12.0,,L. Galloway enters the game for R. Bullock,13,25
+1,4:12.0,,S. Johnson enters the game for A. Drummond,13,25
+1,4:12.0,,Z. Pachulia enters the game for G. Robinson,13,25
+1,4:12.0,W. Carter misses free throw 2 of 2,,13,25
+1,4:08.0,,Defensive rebound by Z. Pachulia,13,25
+1,3:48.0,,R. Jackson makes 3-pt jump shot from 23 ft,13,28
+1,3:23.0,W. Carter misses 2-pt jump shot from 12 ft,,13,28
+1,3:20.0,,Defensive rebound by B. Griffin,13,28
+1,3:15.0,,B. Griffin misses 3-pt jump shot from 27 ft,13,28
+1,3:11.0,Defensive rebound by W. Carter,,13,28
+1,3:04.0,W. Carter makes 2-pt jump shot from 9 ft,,15,28
+1,3:00.0,,Detroit full timeout,15,28
+1,3:00.0,R. Lopez enters the game for W. Carter,,15,28
+1,2:41.0,,S. Johnson misses 2-pt jump shot from 6 ft,15,28
+1,2:39.0,,Offensive rebound by Z. Pachulia,15,28
+1,2:36.0,,Turnover by Z. Pachulia (lost ball; steal by J. Parker),15,28
+1,2:36.0,Personal foul by Z. Pachulia (drawn by J. Parker),,15,28
+1,2:27.0,J. Holiday makes 3-pt jump shot from 27 ft (assist by R. Arcidiacono),,18,28
+1,2:09.0,,Shooting foul by R. Lopez (drawn by Z. Pachulia),18,28
+1,2:09.0,,Z. Pachulia makes free throw 1 of 2,18,29
+1,2:09.0,C. Payne enters the game for R. Arcidiacono,,18,29
+1,2:09.0,,B. Brown enters the game for B. Griffin,18,29
+1,2:09.0,,I. Smith enters the game for R. Jackson,18,29
+1,2:09.0,,Z. Pachulia makes free throw 2 of 2,18,30
+1,1:56.0,Turnover by C. Hutchison (out of bounds lost ball),,18,30
+1,1:41.0,,L. Galloway misses 2-pt jump shot from 15 ft,18,30
+1,1:37.0,Defensive rebound by C. Hutchison,,18,30
+1,1:30.0,C. Hutchison misses 2-pt jump shot from 6 ft,,18,30
+1,1:28.0,,Defensive rebound by Z. Pachulia,18,30
+1,1:23.0,,S. Johnson misses 3-pt jump shot from 29 ft,18,30
+1,1:19.0,Defensive rebound by C. Payne,,18,30
+1,1:15.0,J. Holiday misses 3-pt jump shot from 27 ft,,18,30
+1,1:12.0,,Defensive rebound by I. Smith,18,30
+1,1:09.0,,Z. Pachulia makes 2-pt layup from 2 ft (assist by L. Galloway),18,32
+1,0:49.0,J. Parker misses 2-pt jump shot from 11 ft,,18,32
+1,0:45.0,,Defensive rebound by S. Johnson,18,32
+1,0:43.0,,Turnover by S. Johnson (bad pass; steal by J. Holiday),18,32
+1,0:38.0,J. Holiday makes 3-pt jump shot from 23 ft (assist by C. Payne),,21,32
+1,0:23.0,,I. Smith makes 2-pt layup from 5 ft,21,34
+1,0:08.0,Personal foul by I. Smith (drawn by C. Payne),,21,34
+1,0:00.0,R. Lopez misses 2-pt jump shot from 16 ft,,21,34
+1,0:00.0,Offensive rebound by Team,,21,34
+2,11:44.0,Z. LaVine makes 2-pt jump shot from 19 ft,,23,34
+2,11:26.0,,L. Galloway misses 2-pt layup from 4 ft (block by R. Lopez),23,34
+2,11:20.0,Defensive rebound by S. Harrison,,23,34
+2,11:17.0,Turnover by S. Harrison (bad pass; steal by Z. Pachulia),,23,34
+2,11:12.0,,L. Galloway misses 2-pt layup from 3 ft (block by R. Lopez),23,34
+2,11:07.0,Defensive rebound by C. Hutchison,,23,34
+2,11:00.0,Z. LaVine misses 2-pt jump shot from 19 ft,,23,34
+2,10:56.0,,Defensive rebound by S. Johnson,23,34
+2,10:51.0,,S. Johnson makes 2-pt layup from 5 ft,23,36
+2,10:34.0,C. Payne makes 2-pt jump shot from 22 ft,,25,36
+2,10:11.0,,I. Smith makes 2-pt jump shot from 14 ft,25,38
+2,9:48.0,Z. LaVine misses 2-pt jump shot from 16 ft,,25,38
+2,9:46.0,,Defensive rebound by S. Johnson,25,38
+2,9:44.0,,Shooting foul by R. Lopez (drawn by S. Johnson),25,38
+2,9:44.0,,S. Johnson makes free throw 1 of 2,25,39
+2,9:44.0,,S. Johnson makes free throw 2 of 2,25,40
+2,9:29.0,Turnover by Z. LaVine (bad pass),,25,40
+2,9:19.0,,I. Smith misses 2-pt jump shot from 8 ft,25,40
+2,9:16.0,Defensive rebound by S. Harrison,,25,40
+2,9:13.0,C. Payne misses 3-pt jump shot from 23 ft,,25,40
+2,9:09.0,,Defensive rebound by B. Brown,25,40
+2,9:03.0,,S. Johnson makes 2-pt jump shot from 14 ft (assist by B. Brown),25,42
+2,9:02.0,Chicago full timeout,,25,42
+2,8:48.0,C. Payne misses 2-pt layup from 1 ft,,25,42
+2,8:46.0,,Defensive rebound by Z. Pachulia,25,42
+2,8:35.0,,L. Galloway misses 2-pt jump shot from 15 ft,25,42
+2,8:32.0,,Offensive rebound by S. Johnson,25,42
+2,8:23.0,,Turnover by I. Smith (traveling),25,42
+2,7:58.0,R. Lopez makes 2-pt hook shot from 11 ft,,27,42
+2,7:50.0,,Personal foul by C. Payne (drawn by I. Smith),27,42
+2,7:42.0,,L. Galloway misses 3-pt jump shot from 27 ft,27,42
+2,7:42.0,Defensive rebound by Team,,27,42
+2,7:26.0,S. Harrison makes 2-pt layup from 2 ft (assist by C. Hutchison),,29,42
+2,7:26.0,Shooting foul by S. Johnson (drawn by S. Harrison),,29,42
+2,7:26.0,S. Harrison makes free throw 1 of 1,,30,42
+2,7:11.0,,L. Galloway makes 2-pt jump shot from 17 ft (assist by Z. Pachulia),30,44
+2,6:58.0,Turnover by Z. LaVine (bad pass),,30,44
+2,6:42.0,,S. Johnson misses 2-pt jump shot from 15 ft,30,44
+2,6:36.0,Defensive rebound by C. Hutchison,,30,44
+2,6:20.0,Z. LaVine misses 2-pt jump shot from 13 ft (block by B. Brown),,30,44
+2,6:20.0,Offensive rebound by Team,,30,44
+2,6:20.0,R. Arcidiacono enters the game for S. Harrison,,30,44
+2,6:20.0,W. Carter enters the game for C. Hutchison,,30,44
+2,6:20.0,J. Holiday enters the game for R. Lopez,,30,44
+2,6:20.0,J. Parker enters the game for C. Payne,,30,44
+2,6:20.0,,R. Bullock enters the game for L. Galloway,30,44
+2,6:20.0,,B. Griffin enters the game for S. Johnson,30,44
+2,6:13.0,Z. LaVine misses 2-pt jump shot from 21 ft,,30,44
+2,6:10.0,,Defensive rebound by Z. Pachulia,30,44
+2,6:03.0,,Z. Pachulia misses 2-pt jump shot from 18 ft,30,44
+2,5:59.0,Defensive rebound by R. Arcidiacono,,30,44
+2,5:52.0,J. Parker misses 2-pt jump shot from 18 ft,,30,44
+2,5:48.0,,Defensive rebound by Z. Pachulia,30,44
+2,5:47.0,,Offensive foul by I. Smith (drawn by R. Arcidiacono),30,44
+2,5:47.0,,Turnover by I. Smith (offensive foul),30,44
+2,5:47.0,,A. Drummond enters the game for Z. Pachulia,30,44
+2,5:47.0,,R. Jackson enters the game for I. Smith,30,44
+2,5:22.0,W. Carter makes 2-pt hook shot from 5 ft (assist by J. Holiday),,32,44
+2,5:03.0,,R. Bullock makes 3-pt jump shot from 23 ft (assist by B. Griffin),32,47
+2,4:53.0,W. Carter misses 3-pt jump shot from 27 ft,,32,47
+2,4:49.0,,Defensive rebound by B. Griffin,32,47
+2,4:37.0,,B. Griffin misses 2-pt jump shot from 12 ft,32,47
+2,4:34.0,,Offensive rebound by B. Griffin,32,47
+2,4:34.0,,Shooting foul by R. Arcidiacono (drawn by A. Drummond),32,47
+2,4:34.0,,A. Drummond misses free throw 1 of 2,32,47
+2,4:34.0,,Offensive rebound by Team,32,47
+2,4:34.0,,A. Drummond makes free throw 2 of 2,32,48
+2,4:16.0,J. Holiday misses 3-pt jump shot from 23 ft,,32,48
+2,4:11.0,Offensive rebound by J. Parker,,32,48
+2,4:09.0,J. Parker makes 2-pt dunk from 2 ft (assist by J. Holiday),,34,48
+2,3:57.0,,Offensive foul by R. Bullock (drawn by J. Holiday),34,48
+2,3:57.0,,Turnover by R. Bullock (offensive foul),34,48
+2,3:48.0,J. Holiday misses 2-pt layup from 5 ft,,34,48
+2,3:45.0,,Defensive rebound by A. Drummond,34,48
+2,3:34.0,,Offensive foul by B. Griffin (drawn by W. Carter),34,48
+2,3:34.0,,Turnover by B. Griffin (offensive foul),34,48
+2,3:20.0,W. Carter misses 2-pt jump shot from 10 ft,,34,48
+2,3:16.0,,Defensive rebound by B. Griffin,34,48
+2,3:05.0,,R. Jackson makes 3-pt jump shot from 27 ft (assist by B. Brown),34,51
+2,3:04.0,Chicago full timeout,,34,51
+2,3:04.0,C. Payne enters the game for Z. LaVine,,34,51
+2,2:54.0,R. Arcidiacono misses 3-pt jump shot from 29 ft,,34,51
+2,2:50.0,,Defensive rebound by B. Griffin,34,51
+2,2:33.0,,A. Drummond makes 2-pt jump shot from 10 ft (assist by B. Griffin),34,53
+2,2:23.0,J. Parker misses 3-pt jump shot from 23 ft,,34,53
+2,2:20.0,Offensive rebound by J. Parker,,34,53
+2,2:18.0,J. Parker misses 2-pt dunk at rim (block by A. Drummond),,34,53
+2,2:18.0,,Defensive rebound by Team,34,53
+2,1:53.0,,R. Jackson misses 3-pt jump shot from 25 ft,34,53
+2,1:50.0,Defensive rebound by C. Payne,,34,53
+2,1:40.0,J. Parker makes 2-pt layup from 2 ft (assist by J. Holiday),,36,53
+2,1:21.0,,B. Griffin makes 2-pt hook shot from 6 ft (assist by R. Bullock),36,55
+2,1:01.0,W. Carter makes 2-pt jump shot from 5 ft,,38,55
+2,0:56.0,,Personal foul by J. Parker (drawn by B. Griffin),38,55
+2,0:56.0,,Z. Pachulia enters the game for A. Drummond,38,55
+2,0:45.0,,B. Griffin misses 2-pt layup from 1 ft (block by W. Carter),38,55
+2,0:42.0,Defensive rebound by J. Holiday,,38,55
+2,0:30.0,J. Parker makes 2-pt layup from 2 ft (assist by J. Holiday),,40,55
+2,0:07.0,,B. Griffin misses 3-pt jump shot from 27 ft,40,55
+2,0:04.0,Defensive rebound by R. Arcidiacono,,40,55
+2,0:02.0,Turnover by R. Arcidiacono (bad pass),,40,55
+2,0:01.0,,R. Jackson misses 3-pt jump shot from 48 ft,40,55
+2,0:01.0,,Offensive rebound by Team,40,55
+3,12:00.0,,Violation by Team (delay of game),40,55
+3,11:41.0,W. Carter makes 2-pt jump shot from 13 ft (assist by Z. LaVine),,42,55
+3,11:27.0,,Personal foul by W. Carter (drawn by B. Griffin),42,55
+3,11:13.0,,B. Griffin makes 3-pt jump shot from 29 ft (assist by R. Jackson),42,58
+3,10:57.0,Shooting foul by B. Griffin (drawn by W. Carter),,42,58
+3,10:57.0,W. Carter makes free throw 1 of 2,,43,58
+3,10:57.0,W. Carter makes free throw 2 of 2,,44,58
+3,10:40.0,,R. Bullock misses 3-pt jump shot from 30 ft,44,58
+3,10:37.0,Defensive rebound by J. Holiday,,44,58
+3,10:28.0,J. Parker makes 2-pt hook shot from 10 ft (assist by Z. LaVine),,46,58
+3,10:16.0,,Turnover by B. Griffin (traveling),46,58
+3,10:00.0,Personal foul by B. Griffin (drawn by W. Carter),,46,58
+3,9:53.0,W. Carter makes 2-pt layup from 4 ft (assist by Z. LaVine),,48,58
+3,9:47.0,,Detroit full timeout,48,58
+3,9:31.0,,A. Drummond misses 2-pt layup from 2 ft (block by W. Carter),48,58
+3,9:27.0,Defensive rebound by W. Carter,,48,58
+3,9:18.0,W. Carter makes 2-pt layup from 2 ft (assist by Z. LaVine),,50,58
+3,9:03.0,,B. Griffin makes 2-pt layup from 4 ft (assist by R. Jackson),50,60
+3,8:46.0,Turnover by R. Arcidiacono (bad pass; steal by A. Drummond),,50,60
+3,8:46.0,,Personal foul by R. Arcidiacono (drawn by R. Jackson),50,60
+3,8:37.0,,R. Bullock makes 2-pt layup from 3 ft (assist by B. Griffin),50,62
+3,8:18.0,,Violation by Team (kicked ball),50,62
+3,8:13.0,W. Carter makes 2-pt layup from 1 ft (assist by Z. LaVine),,52,62
+3,8:13.0,Shooting foul by A. Drummond (drawn by W. Carter),,52,62
+3,8:13.0,W. Carter makes free throw 1 of 1,,53,62
+3,8:03.0,,R. Jackson misses 2-pt jump shot from 13 ft,53,62
+3,8:03.0,Defensive rebound by Team,,53,62
+3,7:51.0,W. Carter makes 2-pt jump shot from 16 ft (assist by Z. LaVine),,55,62
+3,7:39.0,,Personal foul by W. Carter (drawn by A. Drummond),55,62
+3,7:32.0,,Turnover by R. Jackson (bad pass),55,62
+3,7:22.0,W. Carter makes 2-pt jump shot from 7 ft (assist by Z. LaVine),,57,62
+3,7:12.0,,Personal foul by W. Carter (drawn by R. Jackson),57,62
+3,7:02.0,,B. Griffin makes 2-pt layup from 3 ft,57,64
+3,7:02.0,Violation by Team (def goaltending),,57,64
+3,6:45.0,W. Carter misses 2-pt layup from 1 ft,,57,64
+3,6:42.0,,Defensive rebound by A. Drummond,57,64
+3,6:41.0,,B. Griffin makes 2-pt layup from 3 ft (assist by A. Drummond),57,66
+3,6:41.0,,Shooting foul by Z. LaVine (drawn by B. Griffin),57,66
+3,6:41.0,,L. Galloway enters the game for G. Robinson,57,66
+3,6:41.0,,B. Griffin misses free throw 1 of 1,57,66
+3,6:41.0,Defensive rebound by Z. LaVine,,57,66
+3,6:21.0,Turnover by Z. LaVine (bad pass),,57,66
+3,6:16.0,,R. Jackson misses 2-pt layup from 3 ft,57,66
+3,6:13.0,,Offensive rebound by A. Drummond,57,66
+3,6:13.0,,A. Drummond misses 2-pt layup at rim,57,66
+3,6:13.0,Defensive rebound by J. Parker,,57,66
+3,6:11.0,Turnover by R. Arcidiacono (traveling),,57,66
+3,5:59.0,,A. Drummond misses 2-pt layup from 1 ft (block by W. Carter),57,66
+3,5:54.0,Defensive rebound by J. Holiday,,57,66
+3,5:42.0,Z. LaVine misses 2-pt jump shot from 17 ft,,57,66
+3,5:40.0,Offensive rebound by W. Carter,,57,66
+3,5:32.0,J. Parker misses 2-pt dunk from 1 ft (block by A. Drummond),,57,66
+3,5:32.0,Offensive rebound by Team,,57,66
+3,5:27.0,J. Parker misses 3-pt jump shot from 24 ft,,57,66
+3,5:25.0,,Defensive rebound by A. Drummond,57,66
+3,5:08.0,,Shooting foul by J. Parker (drawn by B. Griffin),57,66
+3,5:08.0,,B. Griffin misses free throw 1 of 2,57,66
+3,5:08.0,,Offensive rebound by Team,57,66
+3,5:08.0,,I. Smith enters the game for R. Jackson,57,66
+3,5:08.0,,B. Griffin makes free throw 2 of 2,57,67
+3,4:50.0,J. Parker misses 3-pt jump shot from 27 ft,,57,67
+3,4:45.0,,Defensive rebound by R. Bullock,57,67
+3,4:45.0,,A. Drummond makes 2-pt dunk from 3 ft (assist by R. Bullock),57,69
+3,4:45.0,Chicago full timeout,,57,69
+3,4:45.0,C. Payne enters the game for Z. LaVine,,57,69
+3,4:33.0,J. Holiday misses 3-pt jump shot from 28 ft,,57,69
+3,4:29.0,Offensive rebound by J. Parker,,57,69
+3,4:19.0,C. Payne misses 2-pt layup from 4 ft,,57,69
+3,4:16.0,,Defensive rebound by A. Drummond,57,69
+3,4:13.0,,L. Galloway makes 3-pt jump shot from 24 ft (assist by R. Bullock),57,72
+3,3:57.0,W. Carter misses 2-pt jump shot from 10 ft,,57,72
+3,3:54.0,,Defensive rebound by B. Griffin,57,72
+3,3:50.0,,Shooting foul by J. Parker (drawn by B. Griffin),57,72
+3,3:50.0,,B. Griffin makes free throw 1 of 2,57,73
+3,3:50.0,S. Harrison enters the game for R. Arcidiacono,,57,73
+3,3:50.0,R. Lopez enters the game for J. Parker,,57,73
+3,3:50.0,,B. Griffin makes free throw 2 of 2,57,74
+3,3:35.0,R. Lopez makes 2-pt jump shot from 20 ft (assist by J. Holiday),,59,74
+3,3:20.0,,R. Bullock makes 3-pt jump shot from 24 ft (assist by L. Galloway),59,77
+3,3:11.0,Turnover by W. Carter (lost ball; steal by A. Drummond),,59,77
+3,3:04.0,,A. Drummond makes 2-pt layup from 5 ft (assist by R. Bullock),59,79
+3,2:37.0,J. Holiday makes 2-pt jump shot from 11 ft (assist by W. Carter),,61,79
+3,2:07.0,,R. Bullock misses 3-pt jump shot from 23 ft,61,79
+3,2:05.0,Defensive rebound by W. Carter,,61,79
+3,1:49.0,W. Carter makes 2-pt jump shot from 16 ft (assist by J. Holiday),,63,79
+3,1:41.0,,Detroit full timeout,63,79
+3,1:41.0,C. Hutchison enters the game for W. Carter,,63,79
+3,1:41.0,,B. Brown enters the game for R. Bullock,63,79
+3,1:41.0,,S. Johnson enters the game for B. Griffin,63,79
+3,1:28.0,,S. Johnson misses 3-pt jump shot from 24 ft,63,79
+3,1:25.0,Defensive rebound by S. Harrison,,63,79
+3,1:13.0,C. Payne misses 3-pt jump shot from 28 ft,,63,79
+3,1:12.0,,Defensive rebound by Team,63,79
+3,0:48.0,,L. Galloway misses 2-pt jump shot from 21 ft,63,79
+3,0:43.0,Defensive rebound by C. Hutchison,,63,79
+3,0:37.0,Personal foul by B. Brown (drawn by C. Payne),,63,79
+3,0:30.0,C. Hutchison misses 3-pt jump shot from 26 ft,,63,79
+3,0:28.0,,Defensive rebound by L. Galloway,63,79
+3,0:25.0,,S. Johnson misses 2-pt layup from 4 ft,63,79
+3,0:25.0,Defensive rebound by C. Hutchison,,63,79
+3,0:07.0,C. Hutchison makes 2-pt layup at rim (assist by C. Payne),,65,79
+3,0:00.0,,I. Smith misses 3-pt jump shot from 26 ft,65,79
+3,0:00.0,,Offensive rebound by Team,65,79
+4,11:42.0,,L. Galloway misses 2-pt jump shot from 14 ft,65,79
+4,11:42.0,Defensive rebound by Team,,65,79
+4,11:42.0,,Loose ball foul by S. Johnson (drawn by C. Hutchison),65,79
+4,11:26.0,Turnover by Z. LaVine (out of bounds lost ball),,65,79
+4,11:07.0,,I. Smith makes 2-pt layup from 3 ft,65,81
+4,10:50.0,C. Payne makes 2-pt layup from 3 ft (assist by Z. LaVine),,67,81
+4,10:32.0,,I. Smith misses 3-pt jump shot from 28 ft,67,81
+4,10:32.0,,Offensive rebound by Team,67,81
+4,10:32.0,Loose ball foul by R. Lopez (drawn by Z. Pachulia),,67,81
+4,10:21.0,,B. Brown misses 2-pt layup from 4 ft,67,81
+4,10:15.0,,Offensive rebound by B. Brown,67,81
+4,10:15.0,,B. Brown makes 2-pt layup from 1 ft,67,83
+4,10:11.0,C. Payne misses 3-pt jump shot from 26 ft,,67,83
+4,10:07.0,,Defensive rebound by S. Johnson,67,83
+4,9:55.0,,Turnover by S. Johnson (out of bounds lost ball),67,83
+4,9:40.0,Z. LaVine misses 2-pt layup from 1 ft,,67,83
+4,9:38.0,,Defensive rebound by B. Brown,67,83
+4,9:34.0,,L. Galloway misses 3-pt jump shot from 23 ft,67,83
+4,9:32.0,Defensive rebound by R. Lopez,,67,83
+4,9:18.0,C. Payne makes 2-pt layup from 2 ft (assist by R. Lopez),,69,83
+4,9:04.0,,B. Brown makes 2-pt layup from 3 ft,69,85
+4,8:57.0,Z. LaVine makes 2-pt layup from 2 ft,,71,85
+4,8:57.0,Shooting foul by L. Galloway (drawn by Z. LaVine),,71,85
+4,8:57.0,Z. LaVine makes free throw 1 of 1,,72,85
+4,8:43.0,,I. Smith misses 2-pt jump shot from 7 ft,72,85
+4,8:43.0,,Offensive rebound by Z. Pachulia,72,85
+4,8:43.0,,Personal foul by Z. LaVine (drawn by Z. Pachulia),72,85
+4,8:43.0,,R. Bullock enters the game for L. Galloway,72,85
+4,8:35.0,,B. Brown misses 3-pt jump shot from 27 ft,72,85
+4,8:32.0,Defensive rebound by Z. LaVine,,72,85
+4,8:23.0,Z. LaVine misses 2-pt layup from 3 ft,,72,85
+4,8:20.0,,Defensive rebound by Z. Pachulia,72,85
+4,8:12.0,,S. Johnson misses 3-pt jump shot from 23 ft,72,85
+4,8:10.0,Defensive rebound by C. Payne,,72,85
+4,8:02.0,R. Lopez makes 2-pt hook shot from 6 ft (assist by C. Payne),,74,85
+4,7:57.0,,Detroit full timeout,74,85
+4,7:57.0,J. Parker enters the game for C. Hutchison,,74,85
+4,7:57.0,,B. Griffin enters the game for B. Brown,74,85
+4,7:57.0,,R. Jackson enters the game for S. Johnson,74,85
+4,7:52.0,,Personal foul by Z. LaVine (drawn by R. Bullock),74,85
+4,7:37.0,,I. Smith misses 2-pt jump shot from 16 ft,74,85
+4,7:35.0,Defensive rebound by C. Payne,,74,85
+4,7:25.0,R. Lopez makes 2-pt layup from 7 ft (assist by C. Payne),,76,85
+4,7:13.0,,R. Bullock misses 3-pt jump shot from 23 ft,76,85
+4,7:09.0,Defensive rebound by C. Payne,,76,85
+4,7:02.0,Z. LaVine misses 2-pt layup from 2 ft,,76,85
+4,6:59.0,,Defensive rebound by Z. Pachulia,76,85
+4,6:50.0,,Personal foul by C. Payne (drawn by I. Smith),76,85
+4,6:50.0,W. Carter enters the game for S. Harrison,,76,85
+4,6:50.0,J. Holiday enters the game for R. Lopez,,76,85
+4,6:50.0,,A. Drummond enters the game for Z. Pachulia,76,85
+4,6:38.0,,R. Jackson makes 3-pt jump shot from 26 ft (assist by I. Smith),76,88
+4,6:13.0,Z. LaVine misses 2-pt jump shot from 18 ft,,76,88
+4,6:13.0,Offensive rebound by W. Carter,,76,88
+4,6:13.0,Personal foul by B. Griffin (drawn by W. Carter),,76,88
+4,6:06.0,W. Carter misses 2-pt jump shot from 14 ft,,76,88
+4,6:02.0,,Defensive rebound by B. Griffin,76,88
+4,5:52.0,,A. Drummond makes 2-pt hook shot from 3 ft,76,90
+4,5:51.0,Chicago full timeout,,76,90
+4,5:51.0,R. Arcidiacono enters the game for C. Payne,,76,90
+4,5:39.0,W. Carter misses 2-pt hook shot from 8 ft (block by A. Drummond),,76,90
+4,5:35.0,,Defensive rebound by A. Drummond,76,90
+4,5:28.0,,Personal foul by W. Carter (drawn by B. Griffin),76,90
+4,5:28.0,,B. Griffin makes free throw 1 of 2,76,91
+4,5:28.0,,B. Griffin misses free throw 2 of 2,76,91
+4,5:25.0,,Offensive rebound by A. Drummond,76,91
+4,5:24.0,,A. Drummond misses 2-pt layup from 4 ft,76,91
+4,5:21.0,Defensive rebound by W. Carter,,76,91
+4,5:16.0,R. Arcidiacono misses 3-pt jump shot from 27 ft,,76,91
+4,5:11.0,,Defensive rebound by B. Griffin,76,91
+4,4:52.0,,R. Jackson misses 2-pt layup from 6 ft,76,91
+4,4:48.0,Defensive rebound by W. Carter,,76,91
+4,4:45.0,Turnover by Z. LaVine (out of bounds lost ball),,76,91
+4,4:30.0,,R. Bullock makes 2-pt layup from 3 ft,76,93
+4,4:23.0,Shooting foul by B. Griffin (drawn by J. Parker),,76,93
+4,4:23.0,,Technical foul by B. Griffin,76,93
+4,4:23.0,Z. LaVine makes technical free throw,,77,93
+4,4:23.0,J. Parker misses free throw 1 of 2,,77,93
+4,4:23.0,Offensive rebound by Team,,77,93
+4,4:23.0,J. Parker misses free throw 2 of 2,,77,93
+4,4:21.0,,Defensive rebound by A. Drummond,77,93
+4,4:06.0,,I. Smith makes 2-pt jump shot from 5 ft,77,95
+4,4:06.0,,Shooting foul by R. Arcidiacono (drawn by I. Smith),77,95
+4,4:06.0,,I. Smith makes free throw 1 of 1,77,96
+4,3:53.0,J. Parker misses 2-pt layup from 3 ft,,77,96
+4,3:51.0,,Defensive rebound by B. Griffin,77,96
+4,3:48.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by B. Griffin),77,98
+4,3:32.0,R. Arcidiacono makes 3-pt jump shot from 23 ft (assist by Z. LaVine),,80,98
+4,3:24.0,,Detroit full timeout,80,98
+4,3:24.0,A. Blakeney enters the game for R. Arcidiacono,,80,98
+4,3:24.0,C. Felício enters the game for W. Carter,,80,98
+4,3:24.0,S. Harrison enters the game for J. Holiday,,80,98
+4,3:24.0,C. Hutchison enters the game for Z. LaVine,,80,98
+4,3:24.0,C. Payne enters the game for J. Parker,,80,98
+4,3:24.0,,B. Brown enters the game for B. Griffin,80,98
+4,3:24.0,,S. Johnson enters the game for R. Jackson,80,98
+4,3:10.0,,I. Smith misses 2-pt layup from 2 ft,80,98
+4,3:09.0,,Offensive rebound by A. Drummond,80,98
+4,3:09.0,,A. Drummond misses 2-pt layup from 1 ft,80,98
+4,3:09.0,,Offensive rebound by A. Drummond,80,98
+4,3:09.0,,A. Drummond misses 2-pt layup from 2 ft,80,98
+4,3:08.0,,Offensive rebound by A. Drummond,80,98
+4,3:06.0,,A. Drummond misses 2-pt layup from 1 ft,80,98
+4,3:05.0,Defensive rebound by C. Hutchison,,80,98
+4,2:44.0,C. Felício makes 2-pt layup from 2 ft (assist by C. Payne),,82,98
+4,2:43.0,,Turnover by R. Bullock (bad pass; steal by S. Harrison),82,98
+4,2:23.0,A. Blakeney misses 2-pt jump shot from 10 ft,,82,98
+4,2:20.0,,Defensive rebound by A. Drummond,82,98
+4,2:16.0,,I. Smith makes 3-pt jump shot from 29 ft (assist by R. Bullock),82,101
+4,2:03.0,C. Payne misses 2-pt layup from 1 ft,,82,101
+4,2:00.0,,Defensive rebound by A. Drummond,82,101
+4,1:57.0,,S. Johnson misses 3-pt jump shot from 24 ft,82,101
+4,1:52.0,Defensive rebound by C. Felício,,82,101
+4,1:43.0,C. Felício misses 2-pt layup from 1 ft,,82,101
+4,1:40.0,,Defensive rebound by S. Johnson,82,101
+4,1:38.0,,A. Drummond makes 2-pt layup from 1 ft (assist by S. Johnson),82,103
+4,1:33.0,Personal take foul by B. Brown (drawn by C. Payne),,82,103
+4,1:33.0,C. Payne makes free throw 1 of 2,,83,103
+4,1:33.0,,Z. Pachulia enters the game for R. Bullock,83,103
+4,1:33.0,,K. Thomas enters the game for A. Drummond,83,103
+4,1:33.0,C. Payne makes free throw 2 of 2,,84,103
+4,1:14.0,,K. Thomas makes 2-pt layup from 1 ft (assist by Z. Pachulia),84,105
+4,0:53.0,Turnover by C. Felício (lost ball; steal by Z. Pachulia),,84,105
+4,0:49.0,,Shooting foul by C. Hutchison (drawn by S. Johnson),84,105
+4,0:49.0,,S. Johnson makes free throw 1 of 2,84,106
+4,0:49.0,,S. Johnson makes free throw 2 of 2,84,107
+4,0:40.0,A. Blakeney misses 3-pt jump shot from 28 ft,,84,107
+4,0:37.0,Offensive rebound by C. Payne,,84,107
+4,0:29.0,S. Harrison misses 2-pt jump shot from 13 ft,,84,107
+4,0:29.0,Offensive rebound by C. Felício,,84,107
+4,0:29.0,C. Felício makes 2-pt layup at rim,,86,107
+4,0:09.0,,I. Smith misses 3-pt jump shot from 27 ft,86,107
+4,0:03.0,Defensive rebound by C. Felício,,86,107
+4,0:00.0,A. Blakeney makes 2-pt layup from 2 ft,,88,107

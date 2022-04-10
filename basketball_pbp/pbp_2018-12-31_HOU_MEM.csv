@@ -1,0 +1,469 @@
+QUARTER,TIME_REMAINING,MEMPHIS_ACTION,HOUSTON_ACTION,MEMPHIS_SCORE,HOUSTON_SCORE
+1,11:36.0,,D. House misses 3-pt jump shot from 25 ft,0,0
+1,11:32.0,Defensive rebound by M. Conley,,0,0
+1,11:14.0,J. Jackson misses 3-pt jump shot from 24 ft,,0,0
+1,11:12.0,,Defensive rebound by J. Harden,0,0
+1,11:04.0,,Personal foul by K. Anderson (drawn by C. Capela),0,0
+1,11:00.0,,Shooting foul by G. Temple (drawn by J. Harden),0,0
+1,11:00.0,,J. Harden makes free throw 1 of 2,0,1
+1,11:00.0,,J. Harden misses free throw 2 of 2,0,1
+1,11:00.0,Defensive rebound by J. Jackson,,0,1
+1,10:44.0,G. Temple misses 3-pt jump shot from 25 ft,,0,1
+1,10:40.0,,Defensive rebound by C. Capela,0,1
+1,10:22.0,,P. Tucker misses 3-pt jump shot from 22 ft,0,1
+1,10:20.0,Defensive rebound by G. Temple,,0,1
+1,10:09.0,G. Temple misses 2-pt layup from 1 ft,,0,1
+1,10:06.0,,Defensive rebound by A. Rivers,0,1
+1,10:01.0,,J. Harden misses 3-pt jump shot from 27 ft,0,1
+1,9:58.0,Defensive rebound by M. Gasol,,0,1
+1,9:46.0,M. Conley makes 2-pt jump shot from 19 ft,,2,1
+1,9:29.0,,P. Tucker misses 2-pt layup from 1 ft,2,1
+1,9:27.0,Defensive rebound by M. Gasol,,2,1
+1,9:09.0,J. Jackson misses 2-pt hook shot from 5 ft,,2,1
+1,9:07.0,,Defensive rebound by C. Capela,2,1
+1,8:48.0,,Turnover by J. Harden (bad pass; steal by M. Gasol),2,1
+1,8:45.0,Shooting foul by P. Tucker (drawn by M. Conley),,2,1
+1,8:45.0,M. Conley makes free throw 1 of 2,,3,1
+1,8:45.0,M. Conley makes free throw 2 of 2,,4,1
+1,8:30.0,,A. Rivers misses 2-pt jump shot from 9 ft,4,1
+1,8:28.0,Defensive rebound by J. Jackson,,4,1
+1,8:25.0,G. Temple makes 2-pt layup from 1 ft (assist by M. Conley),,6,1
+1,8:15.0,,Shooting foul by J. Jackson (drawn by J. Harden),6,1
+1,8:15.0,,J. Harden misses free throw 1 of 2,6,1
+1,8:15.0,,Offensive rebound by Team,6,1
+1,8:15.0,,J. Harden makes free throw 2 of 2,6,2
+1,7:56.0,M. Gasol misses 2-pt jump shot from 20 ft,,6,2
+1,7:56.0,,Defensive rebound by Team,6,2
+1,7:56.0,,G. Green enters the game for D. House,6,2
+1,7:44.0,,G. Green makes 3-pt jump shot from 26 ft (assist by J. Harden),6,5
+1,7:25.0,M. Conley misses 3-pt jump shot from 25 ft,,6,5
+1,7:22.0,,Defensive rebound by C. Capela,6,5
+1,7:03.0,,J. Harden makes 3-pt jump shot from 25 ft,6,8
+1,6:56.0,Memphis full timeout,,6,8
+1,6:45.0,M. Gasol misses 2-pt hook shot from 8 ft,,6,8
+1,6:43.0,,Defensive rebound by C. Capela,6,8
+1,6:23.0,,J. Harden misses 2-pt jump shot from 10 ft,6,8
+1,6:21.0,,Offensive rebound by J. Harden,6,8
+1,6:11.0,,G. Green misses 3-pt jump shot from 26 ft,6,8
+1,6:08.0,Defensive rebound by M. Gasol,,6,8
+1,5:45.0,J. Jackson misses 2-pt jump shot from 10 ft,,6,8
+1,5:43.0,,Defensive rebound by C. Capela,6,8
+1,5:43.0,J. Green enters the game for M. Conley,,6,8
+1,5:43.0,S. Mack enters the game for J. Jackson,,6,8
+1,5:19.0,,G. Green makes 3-pt jump shot from 23 ft (assist by J. Harden),6,11
+1,5:01.0,Turnover by K. Anderson (bad pass),,6,11
+1,5:01.0,,D. House enters the game for A. Rivers,6,11
+1,4:46.0,,G. Green makes 3-pt jump shot from 26 ft (assist by J. Harden),6,14
+1,4:26.0,J. Green makes 3-pt jump shot from 23 ft (assist by S. Mack),,9,14
+1,4:20.0,,D. House makes 3-pt jump shot from 27 ft (assist by J. Harden),9,17
+1,3:56.0,G. Temple misses 2-pt layup from 6 ft,,9,17
+1,3:54.0,,Defensive rebound by J. Harden,9,17
+1,3:48.0,,C. Capela makes 2-pt layup from 1 ft (assist by J. Harden),9,19
+1,3:35.0,G. Temple misses 3-pt jump shot from 25 ft,,9,19
+1,3:32.0,,Defensive rebound by P. Tucker,9,19
+1,3:24.0,,G. Green makes 3-pt jump shot from 23 ft (assist by J. Harden),9,22
+1,3:24.0,Memphis full timeout,,9,22
+1,3:24.0,D. Brooks enters the game for G. Temple,,9,22
+1,3:24.0,,G. Clark enters the game for C. Capela,9,22
+1,3:24.0,,N. Hilário enters the game for P. Tucker,9,22
+1,3:18.0,Personal foul by G. Clark (drawn by K. Anderson),,9,22
+1,3:10.0,K. Anderson misses 2-pt jump shot from 8 ft,,9,22
+1,3:05.0,Offensive rebound by K. Anderson,,9,22
+1,3:05.0,K. Anderson makes 2-pt layup at rim,,11,22
+1,2:56.0,,G. Green misses 3-pt jump shot from 25 ft,11,22
+1,2:53.0,,Offensive rebound by D. House,11,22
+1,2:46.0,,J. Harden makes 3-pt jump shot from 26 ft,11,25
+1,2:46.0,J. Noah enters the game for M. Gasol,,11,25
+1,2:46.0,,B. Knight enters the game for G. Green,11,25
+1,2:46.0,,A. Rivers enters the game for J. Harden,11,25
+1,2:20.0,J. Noah misses 2-pt layup from 3 ft (block by D. House),,11,25
+1,2:18.0,,Defensive rebound by N. Hilário,11,25
+1,2:01.0,,N. Hilário misses 2-pt hook shot from 9 ft,11,25
+1,1:59.0,Defensive rebound by K. Anderson,,11,25
+1,1:57.0,Turnover by K. Anderson (bad pass),,11,25
+1,1:57.0,M. Conley enters the game for K. Anderson,,11,25
+1,1:45.0,,B. Knight misses 3-pt jump shot from 26 ft,11,25
+1,1:42.0,Defensive rebound by J. Noah,,11,25
+1,1:31.0,Turnover by D. Brooks (bad pass; steal by G. Clark),,11,25
+1,1:31.0,,Personal take foul by J. Noah (drawn by G. Clark),11,25
+1,1:23.0,,D. House misses 2-pt layup from 3 ft,11,25
+1,1:21.0,Defensive rebound by J. Noah,,11,25
+1,1:12.0,J. Green makes 3-pt jump shot from 25 ft (assist by M. Conley),,14,25
+1,0:55.0,,A. Rivers makes 2-pt layup from 3 ft (assist by B. Knight),14,27
+1,0:45.0,Shooting foul by G. Clark (drawn by J. Green),,14,27
+1,0:45.0,J. Green makes free throw 1 of 2,,15,27
+1,0:45.0,J. Green makes free throw 2 of 2,,16,27
+1,0:36.0,,A. Rivers misses 3-pt jump shot from 26 ft,16,27
+1,0:34.0,Defensive rebound by J. Green,,16,27
+1,0:17.0,S. Mack makes 2-pt layup from 3 ft,,18,27
+1,0:17.0,Shooting foul by N. Hilário (drawn by S. Mack),,18,27
+1,0:17.0,S. Mack misses free throw 1 of 1,,18,27
+1,0:13.0,Offensive rebound by J. Green,,18,27
+1,0:03.0,M. Conley misses 2-pt jump shot from 13 ft,,18,27
+1,0:02.0,,Defensive rebound by G. Clark,18,27
+2,11:43.0,D. Brooks misses 3-pt jump shot from 25 ft,,18,27
+2,11:41.0,,Defensive rebound by B. Knight,18,27
+2,11:23.0,,Shooting foul by J. Noah (drawn by D. House),18,27
+2,11:23.0,,D. House makes free throw 1 of 2,18,28
+2,11:23.0,,D. House makes free throw 2 of 2,18,29
+2,11:12.0,M. Conley misses 2-pt layup from 4 ft,,18,29
+2,11:09.0,,Defensive rebound by N. Hilário,18,29
+2,11:01.0,,A. Rivers makes 3-pt jump shot from 26 ft (assist by B. Knight),18,32
+2,10:48.0,Turnover by J. Noah (bad pass),,18,32
+2,10:48.0,J. Jackson enters the game for J. Noah,,18,32
+2,10:43.0,,Personal foul by D. Brooks (drawn by B. Knight),18,32
+2,10:34.0,,A. Rivers misses 2-pt layup from 6 ft,18,32
+2,10:31.0,Defensive rebound by M. Conley,,18,32
+2,10:24.0,Turnover by D. Brooks (bad pass; steal by A. Rivers),,18,32
+2,10:24.0,,Turnover by A. Rivers (out of bounds lost ball),18,32
+2,10:24.0,M. Brooks enters the game for D. Brooks,,18,32
+2,10:09.0,M. Conley makes 2-pt jump shot from 19 ft (assist by M. Brooks),,20,32
+2,9:53.0,,B. Knight misses 3-pt jump shot from 26 ft,20,32
+2,9:53.0,Defensive rebound by O. Casspi,,20,32
+2,9:46.0,Personal foul by A. Rivers (drawn by O. Casspi),,20,32
+2,9:46.0,,C. Capela enters the game for G. Clark,20,32
+2,9:46.0,,P. Tucker enters the game for N. Hilário,20,32
+2,9:34.0,M. Brooks misses 2-pt jump shot from 12 ft,,20,32
+2,9:32.0,,Defensive rebound by P. Tucker,20,32
+2,9:27.0,,Personal foul by W. Selden (drawn by A. Rivers),20,32
+2,9:17.0,,Shooting foul by O. Casspi (drawn by C. Capela),20,32
+2,9:17.0,,C. Capela misses free throw 1 of 2,20,32
+2,9:17.0,,Offensive rebound by Team,20,32
+2,9:17.0,,G. Green enters the game for D. House,20,32
+2,9:17.0,,J. Harden enters the game for A. Rivers,20,32
+2,9:17.0,,C. Capela makes free throw 2 of 2,20,33
+2,9:04.0,J. Jackson misses 2-pt jump shot from 18 ft,,20,33
+2,9:00.0,,Defensive rebound by P. Tucker,20,33
+2,8:45.0,,Shooting foul by J. Jackson (drawn by B. Knight),20,33
+2,8:45.0,,B. Knight misses free throw 1 of 2,20,33
+2,8:45.0,,Offensive rebound by Team,20,33
+2,8:45.0,,B. Knight makes free throw 2 of 2,20,34
+2,8:28.0,J. Jackson makes 2-pt hook shot from 10 ft,,22,34
+2,8:08.0,,C. Capela makes 2-pt dunk at rim (assist by J. Harden),22,36
+2,7:42.0,Turnover by M. Brooks (lost ball; steal by B. Knight),,22,36
+2,7:35.0,,Shooting foul by J. Jackson (drawn by J. Harden),22,36
+2,7:35.0,,J. Harden makes free throw 1 of 2,22,37
+2,7:35.0,K. Anderson enters the game for M. Brooks,,22,37
+2,7:35.0,M. Gasol enters the game for J. Jackson,,22,37
+2,7:35.0,G. Temple enters the game for W. Selden,,22,37
+2,7:35.0,,J. Harden makes free throw 2 of 2,22,38
+2,7:24.0,Personal foul by B. Knight (drawn by K. Anderson),,22,38
+2,7:09.0,M. Conley misses 2-pt jump shot from 19 ft,,22,38
+2,7:07.0,,Defensive rebound by C. Capela,22,38
+2,6:56.0,,Turnover by G. Green (lost ball; steal by K. Anderson),22,38
+2,6:50.0,K. Anderson misses 2-pt jump shot from 7 ft,,22,38
+2,6:48.0,,Defensive rebound by G. Green,22,38
+2,6:26.0,,J. Harden misses 3-pt jump shot from 26 ft,22,38
+2,6:24.0,Defensive rebound by M. Conley,,22,38
+2,6:19.0,Shooting foul by B. Knight (drawn by O. Casspi),,22,38
+2,6:19.0,,Houston full timeout,22,38
+2,6:19.0,S. Mack enters the game for M. Conley,,22,38
+2,6:19.0,,A. Rivers enters the game for B. Knight,22,38
+2,6:19.0,O. Casspi makes free throw 1 of 2,,23,38
+2,6:19.0,O. Casspi makes free throw 2 of 2,,24,38
+2,6:06.0,,G. Green misses 3-pt jump shot from 26 ft,24,38
+2,6:03.0,Defensive rebound by M. Gasol,,24,38
+2,5:52.0,G. Temple makes 2-pt layup from 3 ft (assist by K. Anderson),,26,38
+2,5:39.0,,J. Harden makes 2-pt layup from 5 ft,26,40
+2,5:17.0,O. Casspi misses 2-pt hook shot from 6 ft,,26,40
+2,5:15.0,,Defensive rebound by C. Capela,26,40
+2,5:05.0,,Personal foul by G. Temple (drawn by J. Harden),26,40
+2,5:05.0,,J. Harden makes free throw 1 of 2,26,41
+2,5:05.0,J. Carter enters the game for O. Casspi,,26,41
+2,5:05.0,J. Green enters the game for G. Temple,,26,41
+2,5:05.0,,D. House enters the game for G. Green,26,41
+2,5:05.0,,J. Harden makes free throw 2 of 2,26,42
+2,4:49.0,Shooting foul by P. Tucker (drawn by M. Gasol),,26,42
+2,4:49.0,M. Gasol makes free throw 1 of 2,,27,42
+2,4:49.0,M. Gasol makes free throw 2 of 2,,28,42
+2,4:31.0,,J. Harden makes 3-pt jump shot from 25 ft (assist by D. House),28,45
+2,4:15.0,S. Mack makes 2-pt layup from 1 ft (assist by J. Carter),,30,45
+2,3:55.0,,Turnover by J. Harden (bad pass; steal by K. Anderson),30,45
+2,3:55.0,Personal foul by P. Tucker (drawn by K. Anderson),,30,45
+2,3:55.0,K. Anderson misses free throw 1 of 2,,30,45
+2,3:55.0,Offensive rebound by Team,,30,45
+2,3:55.0,M. Conley enters the game for S. Mack,,30,45
+2,3:55.0,K. Anderson misses free throw 2 of 2,,30,45
+2,3:53.0,Offensive rebound by Team,,30,45
+2,3:43.0,M. Conley misses 3-pt jump shot from 25 ft,,30,45
+2,3:42.0,Offensive rebound by J. Green,,30,45
+2,3:42.0,J. Green misses 2-pt layup from 3 ft,,30,45
+2,3:41.0,,Defensive rebound by J. Harden,30,45
+2,3:21.0,,D. House makes 3-pt jump shot from 23 ft (assist by J. Harden),30,48
+2,3:10.0,Personal foul by C. Capela (drawn by M. Gasol),,30,48
+2,3:10.0,M. Gasol misses free throw 1 of 2,,30,48
+2,3:10.0,Offensive rebound by Team,,30,48
+2,3:10.0,M. Gasol makes free throw 2 of 2,,31,48
+2,2:47.0,,C. Capela misses 2-pt jump shot from 14 ft (block by M. Gasol),31,48
+2,2:43.0,Defensive rebound by M. Gasol,,31,48
+2,2:38.0,J. Carter misses 3-pt jump shot from 26 ft,,31,48
+2,2:35.0,,Defensive rebound by J. Harden,31,48
+2,2:29.0,,J. Harden misses 2-pt layup from 4 ft (block by J. Green),31,48
+2,2:28.0,,Offensive rebound by Team,31,48
+2,2:28.0,Memphis full timeout,,31,48
+2,2:12.0,,P. Tucker misses 3-pt jump shot from 24 ft,31,48
+2,2:06.0,,Offensive rebound by D. House,31,48
+2,2:06.0,,D. House makes 2-pt layup from 1 ft,31,50
+2,1:50.0,K. Anderson makes 2-pt layup from 6 ft (assist by J. Carter),,33,50
+2,1:37.0,,J. Harden makes 2-pt jump shot from 6 ft,33,52
+2,1:21.0,M. Conley misses 2-pt layup from 5 ft,,33,52
+2,1:18.0,,Defensive rebound by C. Capela,33,52
+2,1:07.0,,Shooting foul by J. Green (drawn by J. Harden),33,52
+2,1:07.0,,J. Harden makes free throw 1 of 3,33,53
+2,1:07.0,,J. Harden makes free throw 2 of 3,33,54
+2,1:07.0,,J. Harden makes free throw 3 of 3,33,55
+2,0:56.0,Turnover by M. Gasol (lost ball; steal by J. Harden),,33,55
+2,0:56.0,,Personal take foul by M. Gasol (drawn by J. Harden),33,55
+2,0:56.0,,J. Harden misses free throw 1 of 2,33,55
+2,0:56.0,,Offensive rebound by Team,33,55
+2,0:56.0,,G. Clark enters the game for P. Tucker,33,55
+2,0:56.0,,J. Harden misses free throw 2 of 2,33,55
+2,0:56.0,Defensive rebound by J. Green,,33,55
+2,0:39.0,K. Anderson misses 3-pt jump shot from 23 ft,,33,55
+2,0:39.0,Offensive rebound by Team,,33,55
+2,0:39.0,Personal foul by J. Harden (drawn by J. Green),,33,55
+2,0:39.0,J. Green makes free throw 1 of 2,,34,55
+2,0:39.0,J. Green makes free throw 2 of 2,,35,55
+2,0:30.0,,J. Harden makes 3-pt jump shot from 31 ft,35,58
+2,0:08.0,J. Green makes 3-pt jump shot from 26 ft (assist by K. Anderson),,38,58
+2,0:00.0,,J. Harden makes 3-pt jump shot from 27 ft,38,61
+3,11:45.0,K. Anderson makes 3-pt jump shot from 23 ft (assist by M. Gasol),,41,61
+3,11:30.0,,P. Tucker misses 3-pt jump shot from 24 ft,41,61
+3,11:28.0,Defensive rebound by M. Gasol,,41,61
+3,11:27.0,Personal foul by A. Rivers (drawn by K. Anderson),,41,61
+3,11:19.0,J. Jackson makes 2-pt hook shot from 7 ft,,43,61
+3,11:03.0,,C. Capela makes 2-pt hook shot from 8 ft (assist by P. Tucker),43,63
+3,10:49.0,M. Gasol misses 3-pt jump shot from 25 ft,,43,63
+3,10:47.0,,Defensive rebound by D. House,43,63
+3,10:29.0,,J. Harden misses 3-pt jump shot from 25 ft,43,63
+3,10:26.0,Defensive rebound by M. Gasol,,43,63
+3,10:22.0,Personal foul by D. House (drawn by J. Jackson),,43,63
+3,10:09.0,K. Anderson makes 2-pt jump shot from 11 ft,,45,63
+3,10:09.0,Shooting foul by P. Tucker (drawn by K. Anderson),,45,63
+3,10:09.0,K. Anderson misses free throw 1 of 1,,45,63
+3,10:09.0,,Defensive rebound by J. Harden,45,63
+3,9:57.0,,Personal foul by K. Anderson (drawn by A. Rivers),45,63
+3,9:49.0,,Turnover by J. Harden (lost ball; steal by G. Temple),45,63
+3,9:44.0,M. Conley misses 3-pt jump shot from 26 ft,,45,63
+3,9:43.0,,Defensive rebound by Team,45,63
+3,9:43.0,Loose ball foul by J. Jackson (drawn by C. Capela),,45,63
+3,9:32.0,,D. House makes 3-pt jump shot from 27 ft (assist by J. Harden),45,66
+3,9:12.0,J. Jackson misses 2-pt jump shot from 10 ft (block by C. Capela),,45,66
+3,9:10.0,,Defensive rebound by P. Tucker,45,66
+3,9:05.0,,Shooting foul by M. Gasol (drawn by C. Capela),45,66
+3,9:05.0,,Technical foul by,45,66
+3,9:05.0,,J. Harden makes technical free throw,45,67
+3,9:05.0,,C. Capela makes free throw 1 of 2,45,68
+3,9:05.0,,C. Capela makes free throw 2 of 2,45,69
+3,8:51.0,J. Jackson misses 3-pt jump shot from 26 ft,,45,69
+3,8:49.0,Offensive rebound by M. Conley,,45,69
+3,8:42.0,G. Temple misses 3-pt jump shot from 24 ft,,45,69
+3,8:39.0,,Defensive rebound by J. Harden,45,69
+3,8:29.0,,Turnover by J. Harden (bad pass; steal by J. Jackson),45,69
+3,8:25.0,M. Conley makes 2-pt layup from 2 ft (assist by K. Anderson),,47,69
+3,8:10.0,,Shooting foul by J. Jackson (drawn by C. Capela),47,69
+3,8:10.0,,C. Capela misses free throw 1 of 2,47,69
+3,8:10.0,,Offensive rebound by Team,47,69
+3,8:10.0,J. Green enters the game for J. Jackson,,47,69
+3,8:10.0,,G. Green enters the game for D. House,47,69
+3,8:10.0,,C. Capela misses free throw 2 of 2,47,69
+3,8:10.0,Defensive rebound by M. Gasol,,47,69
+3,7:58.0,G. Temple makes 2-pt layup from 2 ft (assist by M. Gasol),,49,69
+3,7:45.0,,C. Capela misses 2-pt layup from 1 ft,49,69
+3,7:41.0,,Offensive rebound by C. Capela,49,69
+3,7:41.0,,C. Capela makes 2-pt layup at rim,49,71
+3,7:25.0,M. Gasol makes 2-pt jump shot from 12 ft (assist by M. Conley),,51,71
+3,7:02.0,,Personal foul by K. Anderson (drawn by J. Harden),51,71
+3,7:02.0,,J. Harden makes free throw 1 of 2,51,72
+3,7:02.0,,J. Harden makes free throw 2 of 2,51,73
+3,6:48.0,Personal foul by J. Harden (drawn by M. Gasol),,51,73
+3,6:48.0,,Houston full timeout,51,73
+3,6:40.0,M. Gasol makes 2-pt layup from 3 ft (assist by J. Green),,53,73
+3,6:23.0,,A. Rivers makes 3-pt jump shot from 23 ft (assist by J. Harden),53,76
+3,6:04.0,J. Green makes 2-pt jump shot from 18 ft (assist by M. Conley),,55,76
+3,5:48.0,,Personal foul by M. Gasol (drawn by J. Harden),55,76
+3,5:48.0,,J. Harden makes free throw 1 of 2,55,77
+3,5:48.0,,J. Harden makes free throw 2 of 2,55,78
+3,5:33.0,K. Anderson makes 2-pt jump shot from 6 ft,,57,78
+3,5:12.0,,Turnover by J. Harden (out of bounds lost ball),57,78
+3,5:12.0,O. Casspi enters the game for M. Conley,,57,78
+3,5:12.0,S. Mack enters the game for G. Temple,,57,78
+3,4:55.0,M. Gasol makes 2-pt jump shot from 19 ft (assist by K. Anderson),,59,78
+3,4:40.0,,P. Tucker misses 3-pt jump shot from 23 ft,59,78
+3,4:36.0,Defensive rebound by M. Gasol,,59,78
+3,4:26.0,M. Gasol misses 2-pt jump shot from 18 ft,,59,78
+3,4:23.0,,Defensive rebound by C. Capela,59,78
+3,4:13.0,,Shooting foul by J. Green (drawn by J. Harden),59,78
+3,4:13.0,,J. Harden makes free throw 1 of 2,59,79
+3,4:13.0,,N. Hilário enters the game for C. Capela,59,79
+3,4:13.0,,D. House enters the game for A. Rivers,59,79
+3,4:13.0,,J. Harden makes free throw 2 of 2,59,80
+3,4:01.0,Turnover by J. Green (offensive foul),,59,80
+3,4:01.0,Offensive foul by J. Green (drawn by P. Tucker),,59,80
+3,4:01.0,,G. Clark enters the game for P. Tucker,59,80
+3,3:51.0,,D. House makes 3-pt jump shot from 23 ft (assist by J. Harden),59,83
+3,3:29.0,M. Gasol makes 3-pt jump shot from 26 ft (assist by S. Mack),,62,83
+3,3:13.0,,Turnover by G. Green (lost ball; steal by J. Green),62,83
+3,3:09.0,O. Casspi makes 2-pt dunk from 1 ft (assist by J. Green),,64,83
+3,2:53.0,,J. Harden makes 3-pt jump shot from 30 ft,64,86
+3,2:28.0,Shooting foul by G. Clark (drawn by K. Anderson),,64,86
+3,2:28.0,Memphis full timeout,,64,86
+3,2:28.0,,B. Knight enters the game for G. Green,64,86
+3,2:28.0,,A. Rivers enters the game for J. Harden,64,86
+3,2:28.0,K. Anderson misses free throw 1 of 3,,64,86
+3,2:28.0,Offensive rebound by Team,,64,86
+3,2:28.0,K. Anderson misses free throw 2 of 3,,64,86
+3,2:28.0,Offensive rebound by Team,,64,86
+3,2:28.0,K. Anderson misses free throw 3 of 3,,64,86
+3,2:28.0,,Defensive rebound by G. Clark,64,86
+3,2:12.0,,A. Rivers misses 3-pt jump shot from 27 ft,64,86
+3,2:10.0,Defensive rebound by J. Green,,64,86
+3,1:54.0,J. Green makes 2-pt dunk from 1 ft (assist by K. Anderson),,66,86
+3,1:54.0,Shooting foul by N. Hilário (drawn by J. Green),,66,86
+3,1:54.0,D. Brooks enters the game for K. Anderson,,66,86
+3,1:54.0,J. Green misses free throw 1 of 1,,66,86
+3,1:54.0,,Defensive rebound by N. Hilário,66,86
+3,1:41.0,,B. Knight misses 3-pt jump shot from 28 ft,66,86
+3,1:40.0,Defensive rebound by Team,,66,86
+3,1:28.0,D. Brooks makes 2-pt jump shot from 19 ft,,68,86
+3,1:08.0,,N. Hilário misses 2-pt jump shot from 13 ft,68,86
+3,1:06.0,Defensive rebound by O. Casspi,,68,86
+3,0:55.0,M. Gasol makes 2-pt jump shot from 7 ft (assist by S. Mack),,70,86
+3,0:42.0,,N. Hilário misses 2-pt layup from 7 ft (block by O. Casspi),70,86
+3,0:39.0,Defensive rebound by O. Casspi,,70,86
+3,0:38.0,Shooting foul by A. Rivers (drawn by O. Casspi),,70,86
+3,0:38.0,O. Casspi makes free throw 1 of 2,,71,86
+3,0:38.0,K. Anderson enters the game for J. Green,,71,86
+3,0:38.0,,J. Harden enters the game for G. Clark,71,86
+3,0:38.0,O. Casspi makes free throw 2 of 2,,72,86
+3,0:28.0,,J. Harden misses 2-pt layup from 5 ft,72,86
+3,0:27.0,,Offensive rebound by N. Hilário,72,86
+3,0:26.0,,N. Hilário misses 2-pt layup from 2 ft,72,86
+3,0:24.0,Defensive rebound by M. Gasol,,72,86
+3,0:07.0,Shooting foul by A. Rivers (drawn by D. Brooks),,72,86
+3,0:07.0,D. Brooks makes free throw 1 of 2,,73,86
+3,0:07.0,D. Brooks misses free throw 2 of 2,,73,86
+3,0:07.0,,Defensive rebound by J. Harden,73,86
+3,0:00.0,,J. Harden misses 3-pt jump shot from 26 ft,73,86
+3,0:00.0,,Offensive rebound by Team,73,86
+4,11:43.0,,Personal foul by D. Brooks (drawn by P. Tucker),73,86
+4,11:41.0,,Personal foul by J. Green (drawn by P. Tucker),73,86
+4,11:35.0,,J. Harden misses 3-pt jump shot from 23 ft,73,86
+4,11:33.0,Defensive rebound by J. Green,,73,86
+4,11:25.0,O. Casspi misses 3-pt jump shot from 23 ft,,73,86
+4,11:22.0,Offensive rebound by D. Brooks,,73,86
+4,11:14.0,O. Casspi misses 3-pt jump shot from 24 ft,,73,86
+4,11:11.0,Offensive rebound by D. Brooks,,73,86
+4,11:11.0,D. Brooks misses 2-pt layup from 3 ft,,73,86
+4,11:11.0,,Defensive rebound by Team,73,86
+4,10:57.0,,G. Green makes 3-pt jump shot from 24 ft (assist by P. Tucker),73,89
+4,10:38.0,O. Casspi makes 2-pt layup from 1 ft (assist by J. Noah),,75,89
+4,10:25.0,,J. Harden misses 3-pt jump shot from 29 ft,75,89
+4,10:21.0,Defensive rebound by J. Noah,,75,89
+4,10:17.0,M. Conley misses 2-pt jump shot from 8 ft (block by A. Rivers),,75,89
+4,10:17.0,Offensive rebound by Team,,75,89
+4,10:17.0,K. Anderson enters the game for J. Green,,75,89
+4,10:12.0,D. Brooks misses 2-pt layup from 2 ft (block by G. Green),,75,89
+4,10:09.0,,Defensive rebound by G. Green,75,89
+4,10:02.0,,Turnover by J. Harden (bad pass; steal by D. Brooks),75,89
+4,9:56.0,K. Anderson makes 2-pt jump shot from 9 ft,,77,89
+4,9:48.0,,C. Capela makes 2-pt layup from 2 ft (assist by J. Harden),77,91
+4,9:27.0,K. Anderson misses 3-pt jump shot from 23 ft,,77,91
+4,9:24.0,,Defensive rebound by P. Tucker,77,91
+4,9:15.0,,J. Harden misses 2-pt layup from 3 ft (block by K. Anderson),77,91
+4,9:09.0,,Offensive rebound by C. Capela,77,91
+4,9:09.0,,C. Capela makes 2-pt layup from 1 ft,77,93
+4,8:53.0,D. Brooks misses 3-pt jump shot from 27 ft,,77,93
+4,8:51.0,,Defensive rebound by P. Tucker,77,93
+4,8:42.0,,G. Green misses 3-pt jump shot from 24 ft,77,93
+4,8:39.0,Defensive rebound by M. Conley,,77,93
+4,8:31.0,M. Conley makes 2-pt layup from 1 ft,,79,93
+4,8:05.0,,A. Rivers misses 3-pt jump shot from 26 ft,79,93
+4,8:02.0,Defensive rebound by O. Casspi,,79,93
+4,8:01.0,Turnover by D. Brooks (bad pass),,79,93
+4,8:01.0,G. Temple enters the game for O. Casspi,,79,93
+4,8:01.0,,D. House enters the game for G. Green,79,93
+4,7:51.0,,Personal foul by K. Anderson (drawn by J. Harden),79,93
+4,7:44.0,,Shooting foul by M. Conley (drawn by P. Tucker),79,93
+4,7:44.0,,P. Tucker misses free throw 1 of 2,79,93
+4,7:44.0,,Offensive rebound by Team,79,93
+4,7:44.0,,P. Tucker makes free throw 2 of 2,79,94
+4,7:35.0,K. Anderson makes 2-pt jump shot from 19 ft (assist by M. Conley),,81,94
+4,7:13.0,,Shooting foul by D. Brooks (drawn by J. Harden),81,94
+4,7:13.0,,J. Harden makes free throw 1 of 3,81,95
+4,7:13.0,,J. Harden makes free throw 2 of 3,81,96
+4,7:13.0,,J. Harden makes free throw 3 of 3,81,97
+4,6:59.0,J. Noah makes 2-pt layup from 1 ft (assist by D. Brooks),,83,97
+4,6:50.0,,Shooting foul by J. Noah (drawn by J. Harden),83,97
+4,6:50.0,,J. Harden misses free throw 1 of 2,83,97
+4,6:50.0,,Offensive rebound by Team,83,97
+4,6:50.0,,J. Harden makes free throw 2 of 2,83,98
+4,6:50.0,,Houston full timeout,83,98
+4,6:42.0,,Violation by Team (kicked ball),83,98
+4,6:42.0,M. Gasol enters the game for J. Noah,,83,98
+4,6:36.0,Turnover by M. Conley (bad pass; steal by J. Harden),,83,98
+4,6:30.0,,D. House misses 3-pt jump shot from 23 ft,83,98
+4,6:23.0,Defensive rebound by M. Gasol,,83,98
+4,6:19.0,Personal foul by C. Capela (drawn by M. Conley),,83,98
+4,6:13.0,M. Gasol misses 3-pt jump shot from 26 ft,,83,98
+4,6:10.0,,Defensive rebound by P. Tucker,83,98
+4,5:56.0,,Turnover by J. Harden (bad pass; steal by M. Gasol),83,98
+4,5:53.0,Shooting foul by D. House (drawn by G. Temple),,83,98
+4,5:53.0,G. Temple makes free throw 1 of 2,,84,98
+4,5:53.0,G. Temple makes free throw 2 of 2,,85,98
+4,5:40.0,,Turnover by J. Harden (bad pass; steal by K. Anderson),85,98
+4,5:36.0,K. Anderson makes 2-pt layup from 1 ft,,87,98
+4,5:33.0,,Houston full timeout,87,98
+4,5:33.0,,G. Green enters the game for D. House,87,98
+4,5:12.0,,G. Green makes 3-pt jump shot from 25 ft (assist by A. Rivers),87,101
+4,4:56.0,M. Conley misses 3-pt jump shot from 26 ft,,87,101
+4,4:53.0,,Defensive rebound by G. Green,87,101
+4,4:44.0,,J. Harden misses 2-pt jump shot from 18 ft,87,101
+4,4:41.0,Defensive rebound by M. Conley,,87,101
+4,4:35.0,M. Conley misses 2-pt layup from 1 ft,,87,101
+4,4:32.0,,Defensive rebound by G. Green,87,101
+4,4:20.0,,A. Rivers misses 2-pt jump shot from 7 ft,87,101
+4,4:19.0,,Offensive rebound by C. Capela,87,101
+4,4:19.0,,Shooting foul by D. Brooks (drawn by C. Capela),87,101
+4,4:19.0,,C. Capela makes free throw 1 of 2,87,102
+4,4:19.0,,C. Capela makes free throw 2 of 2,87,103
+4,4:08.0,K. Anderson makes 3-pt jump shot from 22 ft (assist by M. Gasol),,90,103
+4,3:47.0,Violation by Team (kicked ball),,90,103
+4,3:35.0,,Shooting foul by M. Conley (drawn by J. Harden),90,103
+4,3:35.0,,J. Harden makes free throw 1 of 2,90,104
+4,3:35.0,,J. Harden misses free throw 2 of 2,90,104
+4,3:35.0,Defensive rebound by M. Gasol,,90,104
+4,3:30.0,Personal foul by G. Green (drawn by K. Anderson),,90,104
+4,3:22.0,M. Conley makes 2-pt layup from 2 ft,,92,104
+4,3:22.0,Shooting foul by J. Harden (drawn by M. Conley),,92,104
+4,3:22.0,M. Conley makes free throw 1 of 1,,93,104
+4,3:08.0,,A. Rivers makes 2-pt layup from 2 ft,93,106
+4,3:00.0,Personal foul by A. Rivers (drawn by M. Conley),,93,106
+4,3:00.0,M. Conley makes free throw 1 of 2,,94,106
+4,3:00.0,M. Conley misses free throw 2 of 2,,94,106
+4,3:00.0,,Defensive rebound by J. Harden,94,106
+4,2:44.0,,Turnover by J. Harden (bad pass; steal by M. Conley),94,106
+4,2:41.0,D. Brooks misses 2-pt layup from 2 ft,,94,106
+4,2:39.0,,Defensive rebound by G. Green,94,106
+4,2:23.0,,C. Capela makes 2-pt layup from 2 ft (assist by J. Harden),94,108
+4,2:09.0,M. Conley makes 2-pt layup from 2 ft,,96,108
+4,1:58.0,,Personal foul by K. Anderson (drawn by P. Tucker),96,108
+4,1:58.0,,P. Tucker makes free throw 1 of 2,96,109
+4,1:58.0,,P. Tucker makes free throw 2 of 2,96,110
+4,1:49.0,M. Conley makes 2-pt layup from 3 ft (assist by M. Gasol),,98,110
+4,1:49.0,Shooting foul by P. Tucker (drawn by M. Conley),,98,110
+4,1:49.0,M. Conley makes free throw 1 of 1,,99,110
+4,1:27.0,,Turnover by A. Rivers (bad pass; steal by G. Temple),99,110
+4,1:26.0,G. Temple makes 2-pt dunk from 1 ft,,101,110
+4,1:11.0,,G. Green misses 3-pt jump shot from 25 ft,101,110
+4,1:10.0,,Offensive rebound by Team,101,110
+4,1:10.0,Loose ball foul by G. Temple (drawn by P. Tucker),,101,110
+4,1:10.0,,P. Tucker makes free throw 1 of 2,101,111
+4,1:10.0,,P. Tucker misses free throw 2 of 2,101,111
+4,1:10.0,Defensive rebound by K. Anderson,,101,111
+4,1:00.0,D. Brooks misses 3-pt jump shot from 28 ft,,101,111
+4,0:58.0,,Defensive rebound by C. Capela,101,111
+4,0:35.0,,A. Rivers makes 2-pt layup from 4 ft,101,113
+4,0:25.0,M. Conley misses 2-pt layup from 3 ft,,101,113
+4,0:23.0,,Defensive rebound by J. Harden,101,113
+4,0:02.0,,Turnover by Team (shot clock),101,113

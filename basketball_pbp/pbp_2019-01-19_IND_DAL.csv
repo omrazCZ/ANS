@@ -1,0 +1,448 @@
+QUARTER,TIME_REMAINING,DALLAS_ACTION,INDIANA_ACTION,DALLAS_SCORE,INDIANA_SCORE
+1,11:49.0,Personal foul by M. Turner (drawn by D. Jordan),,0,0
+1,11:37.0,Turnover by W. Matthews (bad pass; steal by M. Turner),,0,0
+1,11:30.0,,Shooting foul by D. Jordan (drawn by B. Bogdanović),0,0
+1,11:30.0,,B. Bogdanović makes free throw 1 of 2,0,1
+1,11:30.0,,B. Bogdanović makes free throw 2 of 2,0,2
+1,11:13.0,L. Dončić misses 3-pt jump shot from 31 ft,,0,2
+1,11:09.0,Offensive rebound by D. Jordan,,0,2
+1,11:08.0,D. Jordan makes 2-pt dunk at rim,,2,2
+1,10:51.0,,D. Collison misses 3-pt jump shot from 24 ft,2,2
+1,10:49.0,Defensive rebound by L. Dončić,,2,2
+1,10:41.0,L. Dončić misses 2-pt layup from 3 ft (block by D. Collison),,2,2
+1,10:38.0,,Defensive rebound by D. Collison,2,2
+1,10:37.0,,B. Bogdanović misses 2-pt layup from 2 ft (block by M. Kleber),2,2
+1,10:35.0,Defensive rebound by Team,,2,2
+1,10:22.0,H. Barnes makes 2-pt jump shot from 4 ft (assist by W. Matthews),,4,2
+1,10:05.0,,T. Young makes 2-pt layup at rim (assist by D. Collison),4,4
+1,9:46.0,L. Dončić makes 2-pt jump shot from 5 ft,,6,4
+1,9:30.0,,V. Oladipo misses 2-pt layup from 4 ft (block by M. Kleber),6,4
+1,9:26.0,,Offensive rebound by V. Oladipo,6,4
+1,9:19.0,,M. Turner misses 2-pt jump shot from 14 ft,6,4
+1,9:16.0,Defensive rebound by D. Jordan,,6,4
+1,9:09.0,L. Dončić misses 2-pt jump shot from 8 ft,,6,4
+1,9:07.0,,Defensive rebound by D. Collison,6,4
+1,8:58.0,,Turnover by D. Collison (bad pass; steal by L. Dončić),6,4
+1,8:49.0,D. Jordan makes 2-pt jump shot from 4 ft (assist by L. Dončić),,8,4
+1,8:37.0,,V. Oladipo misses 2-pt jump shot from 18 ft,8,4
+1,8:35.0,Defensive rebound by D. Jordan,,8,4
+1,8:23.0,W. Matthews makes 2-pt jump shot from 3 ft,,10,4
+1,7:59.0,,D. Collison makes 2-pt jump shot from 16 ft,10,6
+1,7:42.0,W. Matthews makes 3-pt jump shot from 27 ft (assist by L. Dončić),,13,6
+1,7:21.0,,M. Turner makes 2-pt jump shot from 8 ft,13,8
+1,7:01.0,Personal foul by V. Oladipo (drawn by L. Dončić),,13,8
+1,6:52.0,Turnover by W. Matthews (bad pass),,13,8
+1,6:52.0,,Indiana full timeout,13,8
+1,6:52.0,J. Brunson enters the game for L. Dončić,,13,8
+1,6:34.0,,M. Turner makes 2-pt dunk from 1 ft (assist by V. Oladipo),13,10
+1,6:15.0,H. Barnes misses 2-pt jump shot from 11 ft,,13,10
+1,6:14.0,Offensive rebound by D. Jordan,,13,10
+1,6:14.0,D. Jordan misses 2-pt layup from 2 ft,,13,10
+1,6:13.0,,Defensive rebound by V. Oladipo,13,10
+1,6:07.0,,V. Oladipo misses 2-pt layup from 1 ft,13,10
+1,6:03.0,,Offensive rebound by T. Young,13,10
+1,6:03.0,,T. Young makes 2-pt layup from 1 ft,13,12
+1,5:41.0,H. Barnes makes 3-pt jump shot from 28 ft (assist by J. Brunson),,16,12
+1,5:23.0,,B. Bogdanović misses 2-pt jump shot from 4 ft,16,12
+1,5:19.0,Defensive rebound by J. Brunson,,16,12
+1,5:05.0,M. Kleber makes 3-pt jump shot from 29 ft (assist by H. Barnes),,19,12
+1,4:49.0,,T. Young misses 2-pt layup from 9 ft,19,12
+1,4:47.0,Defensive rebound by W. Matthews,,19,12
+1,4:41.0,Turnover by W. Matthews (bad pass; steal by D. Collison),,19,12
+1,4:25.0,,M. Turner misses 2-pt hook shot from 8 ft,19,12
+1,4:21.0,,Offensive rebound by V. Oladipo,19,12
+1,4:21.0,,M. Turner makes 2-pt layup from 1 ft (assist by V. Oladipo),19,14
+1,4:21.0,,Shooting foul by M. Kleber (drawn by M. Turner),19,14
+1,4:21.0,Dallas full timeout,,19,14
+1,4:21.0,D. Finney-Smith enters the game for M. Kleber,,19,14
+1,4:21.0,,D. Sabonis enters the game for T. Young,19,14
+1,4:21.0,,M. Turner makes free throw 1 of 1,19,15
+1,4:07.0,J. Brunson misses 2-pt jump shot from 19 ft,,19,15
+1,4:04.0,,Defensive rebound by D. Sabonis,19,15
+1,3:44.0,,D. Sabonis makes 2-pt hook shot from 7 ft,19,17
+1,3:28.0,W. Matthews makes 2-pt jump shot from 13 ft,,21,17
+1,3:11.0,,B. Bogdanović misses 3-pt jump shot from 26 ft,21,17
+1,3:07.0,Defensive rebound by W. Matthews,,21,17
+1,3:01.0,D. Finney-Smith misses 3-pt jump shot from 25 ft,,21,17
+1,2:58.0,,Defensive rebound by B. Bogdanović,21,17
+1,2:46.0,,D. Sabonis misses 2-pt layup from 7 ft,21,17
+1,2:44.0,,Offensive rebound by D. Sabonis,21,17
+1,2:40.0,,M. Turner misses 3-pt jump shot from 26 ft,21,17
+1,2:37.0,Defensive rebound by H. Barnes,,21,17
+1,2:30.0,Turnover by J. Brunson (lost ball; steal by D. Collison),,21,17
+1,2:25.0,,V. Oladipo makes 2-pt dunk from 1 ft (assist by D. Collison),21,19
+1,2:08.0,H. Barnes misses 3-pt jump shot from 25 ft,,21,19
+1,2:04.0,,Defensive rebound by D. Sabonis,21,19
+1,1:57.0,,D. Collison makes 2-pt jump shot from 18 ft,21,21
+1,1:36.0,W. Matthews makes 2-pt layup from 2 ft,,23,21
+1,1:18.0,,Shooting foul by J. Brunson (drawn by D. Collison),23,21
+1,1:18.0,,D. Collison makes free throw 1 of 2,23,22
+1,1:18.0,L. Dončić enters the game for H. Barnes,,23,22
+1,1:18.0,D. Nowitzki enters the game for D. Jordan,,23,22
+1,1:18.0,D. Powell enters the game for W. Matthews,,23,22
+1,1:18.0,,T. Evans enters the game for B. Bogdanović,23,22
+1,1:18.0,,D. McDermott enters the game for V. Oladipo,23,22
+1,1:18.0,,D. Collison misses free throw 2 of 2,23,22
+1,1:17.0,Defensive rebound by D. Powell,,23,22
+1,1:06.0,D. Nowitzki misses 3-pt jump shot from 26 ft,,23,22
+1,1:03.0,,Defensive rebound by D. Sabonis,23,22
+1,0:49.0,,D. McDermott misses 3-pt jump shot from 25 ft,23,22
+1,0:45.0,Defensive rebound by D. Nowitzki,,23,22
+1,0:38.0,Offensive foul by D. Powell (drawn by D. Collison),,23,22
+1,0:38.0,Turnover by D. Powell (offensive foul),,23,22
+1,0:38.0,,C. Joseph enters the game for D. Collison,23,22
+1,0:31.0,,T. Evans makes 2-pt layup from 1 ft,23,24
+1,0:22.0,L. Dončić misses 3-pt jump shot from 28 ft,,23,24
+1,0:20.0,,Defensive rebound by M. Turner,23,24
+1,0:20.0,,Turnover by M. Turner (out of bounds lost ball),23,24
+1,0:00.0,L. Dončić misses 2-pt jump shot from 16 ft,,23,24
+1,0:00.0,Offensive rebound by Team,,23,24
+2,11:45.0,,T. Young makes 2-pt jump shot from 6 ft (assist by T. Evans),23,26
+2,11:24.0,Offensive foul by D. Harris (drawn by C. Joseph),,23,26
+2,11:24.0,Turnover by D. Harris (offensive foul),,23,26
+2,11:12.0,,Turnover by D. Sabonis (lost ball; steal by L. Dončić),23,26
+2,11:08.0,L. Dončić makes 2-pt layup from 1 ft,,25,26
+2,10:50.0,,T. Evans makes 3-pt jump shot from 26 ft (assist by T. Young),25,29
+2,10:30.0,D. Powell makes 2-pt layup from 1 ft (assist by L. Dončić),,27,29
+2,10:30.0,Shooting foul by T. Young (drawn by D. Powell),,27,29
+2,10:30.0,D. Powell makes free throw 1 of 1,,28,29
+2,10:17.0,Violation by Team (kicked ball),,28,29
+2,10:12.0,,C. Joseph makes 2-pt jump shot from 16 ft,28,31
+2,9:49.0,Turnover by L. Dončić (bad pass),,28,31
+2,9:37.0,,Turnover by D. McDermott (bad pass),28,31
+2,9:20.0,D. Powell makes 2-pt layup from 2 ft (assist by D. Harris),,30,31
+2,9:05.0,,C. Joseph misses 2-pt jump shot from 14 ft,30,31
+2,9:03.0,,Offensive rebound by C. Joseph,30,31
+2,8:50.0,,D. Sabonis makes 3-pt jump shot from 24 ft (assist by C. Joseph),30,34
+2,8:24.0,L. Dončić misses 3-pt jump shot from 26 ft,,30,34
+2,8:21.0,,Defensive rebound by D. Sabonis,30,34
+2,8:13.0,,Personal foul by D. Harris (drawn by D. Sabonis),30,34
+2,8:08.0,,C. Joseph misses 3-pt jump shot from 28 ft,30,34
+2,8:05.0,Defensive rebound by D. Finney-Smith,,30,34
+2,7:56.0,L. Dončić misses 2-pt layup from 2 ft,,30,34
+2,7:51.0,Offensive rebound by D. Finney-Smith,,30,34
+2,7:51.0,D. Finney-Smith misses 2-pt dunk at rim,,30,34
+2,7:50.0,,Defensive rebound by D. Sabonis,30,34
+2,7:44.0,,Offensive foul by D. McDermott (drawn by D. Harris),30,34
+2,7:44.0,,Turnover by D. McDermott (offensive foul),30,34
+2,7:30.0,D. Nowitzki misses 3-pt jump shot from 23 ft,,30,34
+2,7:27.0,Offensive rebound by D. Finney-Smith,,30,34
+2,7:26.0,D. Finney-Smith misses 2-pt layup from 1 ft,,30,34
+2,7:23.0,,Defensive rebound by T. Young,30,34
+2,7:19.0,,T. Evans makes 2-pt layup at rim (assist by T. Young),30,36
+2,7:18.0,Dallas full timeout,,30,36
+2,7:18.0,J. Brunson enters the game for L. Dončić,,30,36
+2,7:18.0,,B. Bogdanović enters the game for T. Young,30,36
+2,7:05.0,D. Harris misses 2-pt jump shot from 7 ft,,30,36
+2,7:02.0,Offensive rebound by D. Powell,,30,36
+2,7:01.0,D. Powell misses 2-pt layup from 1 ft,,30,36
+2,6:59.0,,Defensive rebound by B. Bogdanović,30,36
+2,6:48.0,,D. Sabonis makes 2-pt layup from 1 ft (assist by C. Joseph),30,38
+2,6:31.0,D. Powell makes 2-pt dunk from 1 ft (assist by J. Brunson),,32,38
+2,6:31.0,Shooting foul by D. McDermott (drawn by D. Powell),,32,38
+2,6:31.0,H. Barnes enters the game for D. Nowitzki,,32,38
+2,6:31.0,D. Powell makes free throw 1 of 1,,33,38
+2,6:19.0,,T. Evans misses 2-pt layup from 1 ft,33,38
+2,6:16.0,Defensive rebound by D. Powell,,33,38
+2,6:12.0,D. Harris misses 2-pt layup from 5 ft,,33,38
+2,6:11.0,,Defensive rebound by Team,33,38
+2,6:11.0,D. Jordan enters the game for D. Powell,,33,38
+2,5:58.0,,B. Bogdanović makes 2-pt jump shot from 13 ft (assist by C. Joseph),33,40
+2,5:39.0,Shooting foul by D. Sabonis (drawn by D. Jordan),,33,40
+2,5:39.0,D. Jordan misses free throw 1 of 2,,33,40
+2,5:39.0,Offensive rebound by Team,,33,40
+2,5:39.0,,V. Oladipo enters the game for D. McDermott,33,40
+2,5:39.0,D. Jordan makes free throw 2 of 2,,34,40
+2,5:28.0,,C. Joseph makes 2-pt jump shot from 10 ft,34,42
+2,5:07.0,D. Jordan makes 2-pt layup from 1 ft (assist by D. Finney-Smith),,36,42
+2,4:51.0,,D. Sabonis makes 2-pt dunk from 2 ft (assist by C. Joseph),36,44
+2,4:31.0,J. Brunson misses 2-pt jump shot from 10 ft,,36,44
+2,4:29.0,,Defensive rebound by D. Sabonis,36,44
+2,4:21.0,,V. Oladipo makes 2-pt jump shot from 18 ft,36,46
+2,4:21.0,Dallas full timeout,,36,46
+2,4:21.0,L. Dončić enters the game for J. Brunson,,36,46
+2,4:21.0,M. Kleber enters the game for D. Finney-Smith,,36,46
+2,4:21.0,W. Matthews enters the game for D. Harris,,36,46
+2,4:00.0,Personal foul by D. Sabonis (drawn by D. Jordan),,36,46
+2,3:59.0,Turnover by M. Kleber (bad pass; steal by V. Oladipo),,36,46
+2,3:55.0,,V. Oladipo makes 2-pt dunk from 1 ft,36,48
+2,3:40.0,W. Matthews misses 2-pt jump shot from 8 ft,,36,48
+2,3:38.0,,Defensive rebound by D. Sabonis,36,48
+2,3:23.0,,T. Evans misses 2-pt jump shot from 18 ft,36,48
+2,3:20.0,,Offensive rebound by D. Sabonis,36,48
+2,3:20.0,,D. Sabonis makes 2-pt layup from 2 ft,36,50
+2,3:20.0,,Shooting foul by H. Barnes (drawn by D. Sabonis),36,50
+2,3:20.0,,D. Sabonis makes free throw 1 of 1,36,51
+2,3:00.0,D. Jordan misses 2-pt hook shot from 6 ft,,36,51
+2,2:57.0,Offensive rebound by D. Jordan,,36,51
+2,2:56.0,D. Jordan makes 2-pt layup from 3 ft,,38,51
+2,2:38.0,,C. Joseph misses 2-pt jump shot from 9 ft,38,51
+2,2:35.0,Defensive rebound by D. Jordan,,38,51
+2,2:31.0,Turnover by L. Dončić (traveling),,38,51
+2,2:31.0,,Indiana full timeout,38,51
+2,2:31.0,,M. Turner enters the game for T. Evans,38,51
+2,2:31.0,,T. Young enters the game for D. Sabonis,38,51
+2,2:19.0,,Shooting foul by W. Matthews (drawn by V. Oladipo),38,51
+2,2:19.0,,V. Oladipo makes free throw 1 of 2,38,52
+2,2:19.0,,D. Collison enters the game for C. Joseph,38,52
+2,2:19.0,,V. Oladipo makes free throw 2 of 2,38,53
+2,2:07.0,L. Dončić misses 2-pt layup from 2 ft,,38,53
+2,2:04.0,,Defensive rebound by M. Turner,38,53
+2,1:59.0,,M. Turner makes 3-pt jump shot from 27 ft (assist by V. Oladipo),38,56
+2,1:37.0,Shooting foul by B. Bogdanović (drawn by H. Barnes),,38,56
+2,1:37.0,H. Barnes makes free throw 1 of 2,,39,56
+2,1:37.0,H. Barnes makes free throw 2 of 2,,40,56
+2,1:20.0,,Shooting foul by W. Matthews (drawn by M. Turner),40,56
+2,1:20.0,,M. Turner misses free throw 1 of 2,40,56
+2,1:20.0,,Offensive rebound by Team,40,56
+2,1:20.0,,M. Turner misses free throw 2 of 2,40,56
+2,1:18.0,Defensive rebound by D. Jordan,,40,56
+2,1:01.0,W. Matthews misses 3-pt jump shot from 27 ft,,40,56
+2,0:58.0,,Defensive rebound by B. Bogdanović,40,56
+2,0:55.0,,Personal take foul by H. Barnes (drawn by B. Bogdanović),40,56
+2,0:55.0,,B. Bogdanović makes free throw 1 of 2,40,57
+2,0:55.0,,B. Bogdanović makes free throw 2 of 2,40,58
+2,0:31.0,H. Barnes misses 3-pt jump shot from 27 ft,,40,58
+2,0:28.0,Offensive rebound by L. Dončić,,40,58
+2,0:27.0,L. Dončić makes 2-pt layup at rim,,42,58
+2,0:04.0,,V. Oladipo misses 2-pt jump shot from 18 ft,42,58
+2,0:01.0,Defensive rebound by L. Dončić,,42,58
+2,0:00.0,L. Dončić misses 3-pt jump shot from 59 ft,,42,58
+2,0:00.0,Offensive rebound by Team,,42,58
+3,12:00.0,Technical foul by L. Dončić,,42,58
+3,12:00.0,,B. Bogdanović makes technical free throw,42,59
+3,11:45.0,,V. Oladipo misses 3-pt jump shot from 24 ft,42,59
+3,11:42.0,Defensive rebound by D. Jordan,,42,59
+3,11:34.0,Shooting foul by B. Bogdanović (drawn by L. Dončić),,42,59
+3,11:34.0,L. Dončić makes free throw 1 of 2,,43,59
+3,11:34.0,L. Dončić makes free throw 2 of 2,,44,59
+3,11:22.0,,T. Young misses 3-pt jump shot from 26 ft,44,59
+3,11:19.0,Defensive rebound by W. Matthews,,44,59
+3,11:06.0,H. Barnes misses 2-pt layup at rim,,44,59
+3,11:01.0,Offensive rebound by D. Jordan,,44,59
+3,11:01.0,D. Jordan makes 2-pt dunk from 1 ft,,46,59
+3,10:54.0,,D. Collison misses 2-pt layup from 1 ft,46,59
+3,10:51.0,,Offensive rebound by T. Young,46,59
+3,10:43.0,,T. Young makes 2-pt jump shot from 8 ft (assist by V. Oladipo),46,61
+3,10:30.0,M. Kleber misses 3-pt jump shot from 23 ft,,46,61
+3,10:26.0,,Defensive rebound by B. Bogdanović,46,61
+3,10:22.0,,B. Bogdanović misses 3-pt jump shot from 27 ft,46,61
+3,10:20.0,,Offensive rebound by V. Oladipo,46,61
+3,10:20.0,,V. Oladipo misses 2-pt layup at rim,46,61
+3,10:20.0,,Offensive rebound by Team,46,61
+3,10:07.0,,Turnover by D. Collison (bad pass; steal by L. Dončić),46,61
+3,10:02.0,H. Barnes misses 2-pt layup from 3 ft (block by M. Turner),,46,61
+3,10:02.0,Offensive rebound by Team,,46,61
+3,9:59.0,W. Matthews misses 3-pt jump shot from 28 ft,,46,61
+3,9:56.0,Offensive rebound by L. Dončić,,46,61
+3,9:54.0,L. Dončić misses 2-pt layup from 1 ft (block by M. Turner),,46,61
+3,9:51.0,,Defensive rebound by V. Oladipo,46,61
+3,9:49.0,,B. Bogdanović misses 3-pt jump shot from 25 ft,46,61
+3,9:47.0,Defensive rebound by D. Jordan,,46,61
+3,9:40.0,Shooting foul by D. Collison (drawn by W. Matthews),,46,61
+3,9:40.0,W. Matthews makes free throw 1 of 2,,47,61
+3,9:40.0,W. Matthews makes free throw 2 of 2,,48,61
+3,9:29.0,,V. Oladipo misses 3-pt jump shot from 28 ft,48,61
+3,9:27.0,Defensive rebound by D. Jordan,,48,61
+3,9:20.0,Personal foul by D. Collison (drawn by L. Dončić),,48,61
+3,9:13.0,Personal foul by V. Oladipo (drawn by L. Dončić),,48,61
+3,9:02.0,H. Barnes misses 2-pt layup from 4 ft (block by M. Turner),,48,61
+3,8:59.0,,Defensive rebound by D. Collison,48,61
+3,8:57.0,,V. Oladipo misses 3-pt jump shot from 23 ft,48,61
+3,8:54.0,,Offensive rebound by T. Young,48,61
+3,8:52.0,,D. Collison makes 3-pt jump shot from 23 ft (assist by T. Young),48,64
+3,8:38.0,D. Jordan makes 2-pt layup at rim (assist by L. Dončić),,50,64
+3,8:26.0,,M. Turner misses 3-pt jump shot from 27 ft,50,64
+3,8:24.0,Defensive rebound by D. Jordan,,50,64
+3,8:07.0,Shooting foul by B. Bogdanović (drawn by H. Barnes),,50,64
+3,8:07.0,H. Barnes makes free throw 1 of 2,,51,64
+3,8:07.0,H. Barnes makes free throw 2 of 2,,52,64
+3,7:56.0,,D. Collison makes 3-pt jump shot from 28 ft,52,67
+3,7:42.0,D. Jordan makes 2-pt layup from 1 ft (assist by L. Dončić),,54,67
+3,7:42.0,,Indiana full timeout,54,67
+3,7:32.0,,D. Collison makes 2-pt jump shot from 19 ft,54,69
+3,7:06.0,W. Matthews misses 3-pt jump shot from 28 ft,,54,69
+3,7:04.0,,Defensive rebound by T. Young,54,69
+3,6:59.0,,M. Turner makes 2-pt dunk from 1 ft (assist by V. Oladipo),54,71
+3,6:43.0,Turnover by D. Jordan (traveling),,54,71
+3,6:29.0,,Shooting foul by L. Dončić (drawn by D. Collison),54,71
+3,6:29.0,,D. Collison makes free throw 1 of 2,54,72
+3,6:29.0,,D. Collison makes free throw 2 of 2,54,73
+3,6:05.0,L. Dončić misses 3-pt jump shot from 27 ft,,54,73
+3,6:02.0,,Defensive rebound by B. Bogdanović,54,73
+3,5:50.0,,D. Collison misses 2-pt jump shot from 17 ft,54,73
+3,5:48.0,Defensive rebound by H. Barnes,,54,73
+3,5:38.0,H. Barnes makes 2-pt jump shot from 19 ft,,56,73
+3,5:29.0,,V. Oladipo misses 2-pt jump shot from 17 ft,56,73
+3,5:26.0,Defensive rebound by H. Barnes,,56,73
+3,5:19.0,W. Matthews makes 3-pt jump shot from 27 ft (assist by H. Barnes),,59,73
+3,4:57.0,,B. Bogdanović misses 3-pt jump shot from 29 ft,59,73
+3,4:56.0,Defensive rebound by L. Dončić,,59,73
+3,4:52.0,W. Matthews misses 3-pt jump shot from 29 ft,,59,73
+3,4:49.0,,Defensive rebound by T. Young,59,73
+3,4:38.0,,T. Young misses 2-pt layup from 4 ft,59,73
+3,4:35.0,Defensive rebound by D. Jordan,,59,73
+3,4:26.0,H. Barnes makes 3-pt jump shot from 25 ft (assist by L. Dončić),,62,73
+3,4:08.0,,V. Oladipo misses 2-pt jump shot from 18 ft,62,73
+3,4:05.0,Defensive rebound by D. Jordan,,62,73
+3,3:57.0,Shooting foul by T. Young (drawn by L. Dončić),,62,73
+3,3:57.0,,Technical foul by T. Young,62,73
+3,3:57.0,H. Barnes makes technical free throw,,63,73
+3,3:57.0,L. Dončić misses free throw 1 of 2,,63,73
+3,3:57.0,Offensive rebound by Team,,63,73
+3,3:57.0,D. Finney-Smith enters the game for M. Kleber,,63,73
+3,3:57.0,,T. Evans enters the game for B. Bogdanović,63,73
+3,3:57.0,,D. Sabonis enters the game for T. Young,63,73
+3,3:57.0,L. Dončić misses free throw 2 of 2,,63,73
+3,3:56.0,,Defensive rebound by M. Turner,63,73
+3,3:44.0,,V. Oladipo makes 3-pt jump shot from 29 ft (assist by D. Collison),63,76
+3,3:29.0,H. Barnes makes 2-pt layup at rim (assist by W. Matthews),,65,76
+3,3:03.0,,M. Turner misses 2-pt jump shot from 20 ft,65,76
+3,3:00.0,,Offensive rebound by D. Sabonis,65,76
+3,3:00.0,,D. Sabonis makes 2-pt layup at rim,65,78
+3,3:00.0,Dallas full timeout,,65,78
+3,3:00.0,Technical foul by L. Dončić,,65,78
+3,3:00.0,L. Dončić ejected from game,,65,78
+3,3:00.0,J. Brunson enters the game for L. Dončić,,65,78
+3,3:00.0,,D. Collison makes technical free throw,65,79
+3,2:46.0,J. Brunson misses 3-pt jump shot from 27 ft,,65,79
+3,2:44.0,,Defensive rebound by V. Oladipo,65,79
+3,2:25.0,,D. Collison misses 2-pt jump shot from 13 ft,65,79
+3,2:21.0,Defensive rebound by D. Jordan,,65,79
+3,2:09.0,H. Barnes misses 2-pt jump shot from 19 ft,,65,79
+3,2:07.0,,Defensive rebound by V. Oladipo,65,79
+3,1:59.0,,Personal foul by H. Barnes (drawn by V. Oladipo),65,79
+3,1:59.0,D. Harris enters the game for D. Jordan,,65,79
+3,1:59.0,D. Powell enters the game for W. Matthews,,65,79
+3,1:59.0,,C. Joseph enters the game for D. Collison,65,79
+3,1:46.0,,T. Evans misses 2-pt jump shot from 20 ft,65,79
+3,1:43.0,Defensive rebound by J. Brunson,,65,79
+3,1:38.0,Personal foul by T. Evans (drawn by D. Powell),,65,79
+3,1:38.0,,D. McDermott enters the game for V. Oladipo,65,79
+3,1:38.0,,T. Young enters the game for M. Turner,65,79
+3,1:38.0,D. Powell misses free throw 1 of 2,,65,79
+3,1:38.0,Offensive rebound by Team,,65,79
+3,1:38.0,D. Powell makes free throw 2 of 2,,66,79
+3,1:26.0,,C. Joseph makes 2-pt jump shot from 21 ft,66,81
+3,1:11.0,H. Barnes misses 3-pt jump shot from 26 ft,,66,81
+3,1:08.0,,Defensive rebound by C. Joseph,66,81
+3,0:53.0,,Shooting foul by D. Finney-Smith (drawn by T. Evans),66,81
+3,0:53.0,,T. Evans makes free throw 1 of 2,66,82
+3,0:53.0,R. Broekhoff enters the game for H. Barnes,,66,82
+3,0:53.0,,T. Evans misses free throw 2 of 2,66,82
+3,0:53.0,Defensive rebound by D. Powell,,66,82
+3,0:40.0,J. Brunson makes 3-pt jump shot from 28 ft (assist by D. Powell),,69,82
+3,0:32.0,,T. Evans makes 2-pt layup from 1 ft,69,84
+3,0:15.0,D. Finney-Smith misses 2-pt jump shot from 5 ft,,69,84
+3,0:11.0,Offensive rebound by D. Harris,,69,84
+3,0:06.0,J. Brunson misses 3-pt jump shot from 25 ft,,69,84
+3,0:04.0,,Defensive rebound by T. Young,69,84
+3,0:01.0,,C. Joseph misses 3-pt jump shot from 49 ft,69,84
+3,0:00.0,,Offensive rebound by Team,69,84
+4,11:48.0,R. Broekhoff misses 3-pt jump shot from 27 ft,,69,84
+4,11:44.0,,Defensive rebound by C. Joseph,69,84
+4,11:27.0,,Shooting foul by D. Harris (drawn by D. McDermott),69,84
+4,11:27.0,,D. McDermott makes free throw 1 of 2,69,85
+4,11:27.0,,D. McDermott makes free throw 2 of 2,69,86
+4,11:10.0,D. Powell makes 2-pt layup from 1 ft (assist by D. Finney-Smith),,71,86
+4,10:54.0,,D. McDermott makes 2-pt layup from 2 ft (assist by D. Sabonis),71,88
+4,10:45.0,J. Brunson makes 2-pt layup from 1 ft,,73,88
+4,10:31.0,,C. Joseph misses 3-pt jump shot from 25 ft,73,88
+4,10:29.0,Defensive rebound by Team,,73,88
+4,10:15.0,J. Brunson makes 2-pt jump shot from 5 ft (assist by R. Broekhoff),,75,88
+4,9:54.0,,Personal foul by D. Finney-Smith (drawn by T. Young),75,88
+4,9:49.0,,D. McDermott makes 2-pt layup from 1 ft (assist by T. Young),75,90
+4,9:40.0,Personal foul by D. Sabonis (drawn by D. Powell),,75,90
+4,9:35.0,D. Finney-Smith makes 3-pt jump shot from 30 ft (assist by D. Harris),,78,90
+4,9:20.0,,Offensive foul by T. Evans (drawn by D. Harris),78,90
+4,9:20.0,,Turnover by T. Evans (offensive foul),78,90
+4,9:02.0,J. Brunson makes 2-pt jump shot from 11 ft,,80,90
+4,9:02.0,Shooting foul by C. Joseph (drawn by J. Brunson),,80,90
+4,9:02.0,J. Brunson makes free throw 1 of 1,,81,90
+4,8:49.0,,T. Evans makes 2-pt layup from 2 ft,81,92
+4,8:33.0,D. Harris misses 3-pt jump shot from 29 ft,,81,92
+4,8:30.0,Offensive rebound by D. Powell,,81,92
+4,8:28.0,D. Harris makes 2-pt layup from 2 ft (assist by D. Powell),,83,92
+4,8:28.0,,Indiana full timeout,83,92
+4,8:28.0,,B. Bogdanović enters the game for T. Young,83,92
+4,8:08.0,,Shooting foul by D. Harris (drawn by T. Evans),83,92
+4,8:08.0,,T. Evans makes free throw 1 of 2,83,93
+4,8:08.0,,V. Oladipo enters the game for D. McDermott,83,93
+4,8:08.0,,T. Evans makes free throw 2 of 2,83,94
+4,7:58.0,R. Broekhoff misses 3-pt jump shot from 28 ft,,83,94
+4,7:56.0,,Defensive rebound by C. Joseph,83,94
+4,7:46.0,,Offensive foul by D. Sabonis (drawn by D. Finney-Smith),83,94
+4,7:46.0,,Turnover by D. Sabonis (offensive foul),83,94
+4,7:31.0,D. Powell misses 2-pt layup from 1 ft,,83,94
+4,7:28.0,Offensive rebound by D. Finney-Smith,,83,94
+4,7:25.0,D. Harris misses 3-pt jump shot from 26 ft,,83,94
+4,7:22.0,,Defensive rebound by B. Bogdanović,83,94
+4,7:06.0,,T. Evans makes 2-pt jump shot from 6 ft,83,96
+4,7:05.0,Dallas full timeout,,83,96
+4,7:05.0,H. Barnes enters the game for R. Broekhoff,,83,96
+4,7:05.0,D. Jordan enters the game for D. Finney-Smith,,83,96
+4,7:05.0,M. Kleber enters the game for D. Harris,,83,96
+4,7:05.0,W. Matthews enters the game for D. Powell,,83,96
+4,6:46.0,W. Matthews makes 3-pt jump shot from 26 ft (assist by J. Brunson),,86,96
+4,6:27.0,,B. Bogdanović misses 2-pt layup from 1 ft (block by M. Kleber),86,96
+4,6:24.0,Defensive rebound by J. Brunson,,86,96
+4,6:20.0,H. Barnes misses 3-pt jump shot from 27 ft,,86,96
+4,6:18.0,,Defensive rebound by D. Sabonis,86,96
+4,6:10.0,,D. Sabonis makes 2-pt layup from 3 ft (assist by V. Oladipo),86,98
+4,5:57.0,J. Brunson makes 2-pt jump shot from 19 ft,,88,98
+4,5:42.0,,T. Evans makes 3-pt jump shot from 26 ft (assist by D. Sabonis),88,101
+4,5:26.0,Turnover by J. Brunson (bad pass; steal by V. Oladipo),,88,101
+4,5:22.0,,B. Bogdanović makes 2-pt layup from 2 ft (assist by T. Evans),88,103
+4,5:21.0,Dallas full timeout,,88,103
+4,5:10.0,Turnover by H. Barnes (out of bounds lost ball),,88,103
+4,4:53.0,,V. Oladipo misses 2-pt jump shot from 20 ft,88,103
+4,4:50.0,Defensive rebound by D. Jordan,,88,103
+4,4:43.0,Turnover by W. Matthews (lost ball; steal by V. Oladipo),,88,103
+4,4:26.0,,C. Joseph makes 2-pt jump shot from 9 ft,88,105
+4,4:04.0,Personal foul by D. Sabonis (drawn by J. Brunson),,88,105
+4,3:53.0,W. Matthews misses 3-pt jump shot from 26 ft,,88,105
+4,3:49.0,,Defensive rebound by B. Bogdanović,88,105
+4,3:39.0,,Turnover by V. Oladipo (bad pass),88,105
+4,3:39.0,R. Broekhoff enters the game for M. Kleber,,88,105
+4,3:29.0,H. Barnes makes 3-pt jump shot from 23 ft (assist by J. Brunson),,91,105
+4,3:06.0,,T. Evans misses 3-pt jump shot from 28 ft,91,105
+4,3:03.0,,Offensive rebound by V. Oladipo,91,105
+4,2:59.0,,Personal take foul by W. Matthews (drawn by V. Oladipo),91,105
+4,2:59.0,D. Finney-Smith enters the game for H. Barnes,,91,105
+4,2:59.0,D. Macon enters the game for J. Brunson,,91,105
+4,2:59.0,D. Nowitzki enters the game for D. Jordan,,91,105
+4,2:59.0,D. Powell enters the game for W. Matthews,,91,105
+4,2:53.0,,Personal foul by D. Finney-Smith (drawn by V. Oladipo),91,105
+4,2:53.0,,V. Oladipo misses free throw 1 of 2,91,105
+4,2:53.0,,Offensive rebound by Team,91,105
+4,2:53.0,S. Mejri enters the game for D. Powell,,91,105
+4,2:53.0,,V. Oladipo makes free throw 2 of 2,91,106
+4,2:43.0,D. Nowitzki misses 3-pt jump shot from 30 ft,,91,106
+4,2:41.0,Offensive rebound by D. Finney-Smith,,91,106
+4,2:41.0,Personal foul by V. Oladipo (drawn by D. Finney-Smith),,91,106
+4,2:41.0,,D. McDermott enters the game for V. Oladipo,91,106
+4,2:41.0,,K. O'Quinn enters the game for D. Sabonis,91,106
+4,2:32.0,Shooting foul by K. O'Quinn (drawn by S. Mejri),,91,106
+4,2:32.0,S. Mejri makes free throw 1 of 2,,92,106
+4,2:32.0,S. Mejri makes free throw 2 of 2,,93,106
+4,2:21.0,,B. Bogdanović misses 2-pt layup from 4 ft (block by D. Nowitzki),93,106
+4,2:21.0,,Offensive rebound by Team,93,106
+4,2:13.0,,Turnover by B. Bogdanović (lost ball; steal by D. Macon),93,106
+4,2:08.0,D. Macon makes 2-pt layup from 1 ft,,95,106
+4,1:56.0,,D. McDermott makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),95,109
+4,1:34.0,D. Nowitzki misses 3-pt jump shot from 28 ft,,95,109
+4,1:30.0,,Defensive rebound by C. Joseph,95,109
+4,1:30.0,,Indiana full timeout,95,109
+4,1:30.0,,A. Holiday enters the game for B. Bogdanović,95,109
+4,1:30.0,,A. Johnson enters the game for T. Evans,95,109
+4,1:30.0,,T. Leaf enters the game for C. Joseph,95,109
+4,1:18.0,,A. Holiday misses 2-pt jump shot from 7 ft,95,109
+4,1:15.0,Defensive rebound by S. Mejri,,95,109
+4,1:01.0,D. Finney-Smith misses 3-pt jump shot from 28 ft,,95,109
+4,0:59.0,,Defensive rebound by T. Leaf,95,109
+4,0:46.0,,K. O'Quinn makes 2-pt jump shot from 6 ft (assist by T. Leaf),95,111
+4,0:35.0,D. Nowitzki misses 3-pt jump shot from 27 ft,,95,111
+4,0:32.0,Offensive rebound by D. Finney-Smith,,95,111
+4,0:31.0,D. Finney-Smith makes 2-pt layup from 1 ft,,97,111
+4,0:17.0,,Turnover by K. O'Quinn (bad pass; steal by D. Finney-Smith),97,111
+4,0:13.0,D. Finney-Smith makes 2-pt dunk from 1 ft,,99,111

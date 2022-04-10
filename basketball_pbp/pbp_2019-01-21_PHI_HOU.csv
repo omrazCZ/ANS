@@ -1,0 +1,474 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,PHILADELPHIA_ACTION,HOUSTON_SCORE,PHILADELPHIA_SCORE
+1,11:45.0,,J. Embiid misses 2-pt layup from 3 ft,0,0
+1,11:40.0,,Offensive rebound by B. Simmons,0,0
+1,11:40.0,,B. Simmons misses 2-pt dunk at rim,0,0
+1,11:40.0,Defensive rebound by P. Tucker,,0,0
+1,11:37.0,J. Harden misses 3-pt jump shot from 26 ft,,0,0
+1,11:28.0,Offensive rebound by P. Tucker,,0,0
+1,11:28.0,P. Tucker misses 2-pt layup from 1 ft,,0,0
+1,11:28.0,,Defensive rebound by B. Simmons,0,0
+1,11:26.0,,C. Brewer makes 2-pt layup from 3 ft (assist by B. Simmons),0,2
+1,11:05.0,N. Hilário makes 2-pt jump shot from 21 ft (assist by J. Harden),,2,2
+1,10:52.0,,Offensive foul by B. Simmons (drawn by N. Hilário),2,2
+1,10:52.0,,Turnover by B. Simmons (offensive foul),2,2
+1,10:33.0,Shooting foul by W. Chandler (drawn by J. Harden),,2,2
+1,10:33.0,J. Harden makes free throw 1 of 3,,3,2
+1,10:33.0,J. Harden misses free throw 2 of 3,,3,2
+1,10:33.0,Offensive rebound by Team,,3,2
+1,10:33.0,J. Harden makes free throw 3 of 3,,4,2
+1,10:22.0,,J. Embiid misses 2-pt layup from 4 ft,4,2
+1,10:22.0,,Offensive rebound by J. Embiid,4,2
+1,10:22.0,,J. Embiid misses 2-pt layup at rim,4,2
+1,10:22.0,,Offensive rebound by Team,4,2
+1,10:16.0,,C. Brewer misses 3-pt jump shot from 24 ft,4,2
+1,10:15.0,,Offensive rebound by Team,4,2
+1,10:10.0,,J. Embiid makes 2-pt jump shot from 10 ft,4,4
+1,9:58.0,E. Gordon misses 3-pt jump shot from 27 ft,,4,4
+1,9:58.0,,Defensive rebound by Team,4,4
+1,9:46.0,,C. Brewer makes 2-pt layup from 3 ft (assist by W. Chandler),4,6
+1,9:29.0,Turnover by J. Harden (bad pass; steal by J. Redick),,4,6
+1,9:22.0,,C. Brewer misses 2-pt layup from 2 ft,4,6
+1,9:18.0,Defensive rebound by J. Harden,,4,6
+1,9:05.0,J. Harden misses 3-pt jump shot from 26 ft (block by B. Simmons),,4,6
+1,8:56.0,,Defensive rebound by W. Chandler,4,6
+1,8:50.0,,J. Redick misses 3-pt jump shot from 26 ft,4,6
+1,8:49.0,Defensive rebound by A. Rivers,,4,6
+1,8:42.0,A. Rivers misses 3-pt jump shot from 26 ft,,4,6
+1,8:40.0,,Defensive rebound by J. Embiid,4,6
+1,8:29.0,,B. Simmons misses 2-pt jump shot from 7 ft,4,6
+1,8:27.0,Defensive rebound by E. Gordon,,4,6
+1,8:23.0,E. Gordon misses 2-pt layup from 3 ft (block by J. Embiid),,4,6
+1,8:20.0,,Defensive rebound by W. Chandler,4,6
+1,8:19.0,,Shooting foul by J. Harden (drawn by J. Embiid),4,6
+1,8:19.0,,J. Embiid makes free throw 1 of 2,4,7
+1,8:19.0,,J. Embiid makes free throw 2 of 2,4,8
+1,8:06.0,E. Gordon makes 3-pt jump shot from 26 ft (assist by J. Harden),,7,8
+1,7:44.0,,Personal foul by N. Hilário (drawn by J. Embiid),7,8
+1,7:34.0,,B. Simmons misses 2-pt hook shot from 4 ft,7,8
+1,7:32.0,Defensive rebound by N. Hilário,,7,8
+1,7:27.0,J. Harden makes 2-pt layup from 2 ft,,9,8
+1,7:15.0,,J. Redick makes 2-pt jump shot from 18 ft,9,10
+1,6:59.0,A. Rivers misses 3-pt jump shot from 25 ft,,9,10
+1,6:53.0,Offensive rebound by P. Tucker,,9,10
+1,6:49.0,E. Gordon makes 3-pt jump shot from 26 ft (assist by P. Tucker),,12,10
+1,6:44.0,,Personal foul by A. Rivers (drawn by J. Redick),12,10
+1,6:44.0,,Philadelphia full timeout,12,10
+1,6:44.0,K. Faried enters the game for N. Hilário,,12,10
+1,6:44.0,,J. Bolden enters the game for C. Brewer,12,10
+1,6:44.0,,T. McConnell enters the game for J. Embiid,12,10
+1,6:44.0,,L. Shamet enters the game for J. Redick,12,10
+1,6:28.0,,L. Shamet misses 2-pt jump shot from 9 ft,12,10
+1,6:24.0,Defensive rebound by K. Faried,,12,10
+1,6:12.0,K. Faried makes 2-pt dunk from 1 ft (assist by A. Rivers),,14,10
+1,6:12.0,Technical foul by K. Faried,,14,10
+1,6:12.0,,L. Shamet makes technical free throw,14,11
+1,6:12.0,J. Ennis enters the game for E. Gordon,,14,11
+1,6:12.0,G. Green enters the game for A. Rivers,,14,11
+1,6:02.0,,Turnover by L. Shamet (bad pass; steal by P. Tucker),14,11
+1,5:56.0,J. Harden misses 2-pt layup from 3 ft (block by J. Bolden),,14,11
+1,5:50.0,Offensive rebound by J. Harden,,14,11
+1,5:49.0,J. Harden makes 2-pt layup from 2 ft,,16,11
+1,5:42.0,,T. McConnell makes 2-pt layup from 1 ft (assist by B. Simmons),16,13
+1,5:28.0,J. Harden misses 2-pt layup from 3 ft (block by J. Bolden),,16,13
+1,5:24.0,,Defensive rebound by W. Chandler,16,13
+1,5:21.0,,W. Chandler makes 2-pt jump shot from 7 ft,16,15
+1,5:04.0,G. Green misses 3-pt jump shot from 26 ft,,16,15
+1,5:02.0,,Defensive rebound by J. Bolden,16,15
+1,4:57.0,,Turnover by T. McConnell (bad pass; steal by P. Tucker),16,15
+1,4:53.0,P. Tucker makes 2-pt layup from 1 ft,,18,15
+1,4:25.0,,T. McConnell makes 2-pt jump shot from 12 ft (assist by W. Chandler),18,17
+1,4:08.0,Turnover by J. Harden (lost ball; steal by T. McConnell),,18,17
+1,4:08.0,,Personal take foul by P. Tucker (drawn by T. McConnell),18,17
+1,4:06.0,,L. Shamet misses 3-pt jump shot from 23 ft,18,17
+1,4:02.0,Defensive rebound by P. Tucker,,18,17
+1,3:53.0,J. Harden makes 3-pt jump shot from 26 ft,,21,17
+1,3:32.0,,B. Simmons misses 2-pt hook shot from 6 ft,21,17
+1,3:28.0,,Offensive rebound by J. Bolden,21,17
+1,3:25.0,,L. Shamet makes 3-pt jump shot from 25 ft (assist by J. Bolden),21,20
+1,3:17.0,Personal foul by T. McConnell (drawn by J. Harden),,21,20
+1,3:17.0,,J. Embiid enters the game for J. Bolden,21,20
+1,3:17.0,,F. Korkmaz enters the game for W. Chandler,21,20
+1,3:17.0,,M. Muscala enters the game for L. Shamet,21,20
+1,3:17.0,,J. Redick enters the game for B. Simmons,21,20
+1,3:01.0,J. Harden makes 3-pt jump shot from 25 ft,,24,20
+1,2:47.0,,Shooting foul by G. Green (drawn by J. Embiid),24,20
+1,2:47.0,Houston full timeout,,24,20
+1,2:47.0,E. Gordon enters the game for P. Tucker,,24,20
+1,2:47.0,,J. Embiid makes free throw 1 of 2,24,21
+1,2:47.0,,J. Embiid makes free throw 2 of 2,24,22
+1,2:32.0,Turnover by E. Gordon (bad pass),,24,22
+1,2:17.0,,J. Embiid makes 2-pt layup from 2 ft,24,24
+1,2:17.0,,Shooting foul by J. Harden (drawn by J. Embiid),24,24
+1,2:17.0,,J. Embiid misses free throw 1 of 1,24,24
+1,2:14.0,Defensive rebound by G. Green,,24,24
+1,2:05.0,E. Gordon misses 3-pt jump shot from 27 ft (block by T. McConnell),,24,24
+1,1:59.0,,Defensive rebound by J. Embiid,24,24
+1,1:51.0,,T. McConnell misses 2-pt jump shot from 18 ft,24,24
+1,1:49.0,Defensive rebound by E. Gordon,,24,24
+1,1:38.0,Personal foul by T. McConnell (drawn by J. Harden),,24,24
+1,1:38.0,A. Rivers enters the game for J. Harden,,24,24
+1,1:28.0,G. Green misses 3-pt jump shot from 26 ft,,24,24
+1,1:23.0,,Defensive rebound by J. Embiid,24,24
+1,1:14.0,,J. Embiid makes 2-pt layup from 3 ft,24,26
+1,1:06.0,E. Gordon misses 3-pt jump shot from 26 ft,,24,26
+1,1:02.0,,Defensive rebound by J. Embiid,24,26
+1,0:56.0,,J. Embiid makes 2-pt jump shot from 6 ft (assist by T. McConnell),24,28
+1,0:37.0,Shooting foul by F. Korkmaz (drawn by E. Gordon),,24,28
+1,0:37.0,E. Gordon misses free throw 1 of 3,,24,28
+1,0:37.0,Offensive rebound by Team,,24,28
+1,0:37.0,E. Gordon makes free throw 2 of 3,,25,28
+1,0:37.0,N. Hilário enters the game for K. Faried,,25,28
+1,0:37.0,E. Gordon makes free throw 3 of 3,,26,28
+1,0:18.0,,Personal foul by N. Hilário (drawn by J. Embiid),26,28
+1,0:18.0,,J. Embiid makes free throw 1 of 2,26,29
+1,0:18.0,,J. Embiid makes free throw 2 of 2,26,30
+1,0:02.0,Turnover by J. Ennis (lost ball; steal by J. Embiid),,26,30
+2,11:42.0,E. Gordon misses 2-pt jump shot from 3 ft,,26,30
+2,11:39.0,,Defensive rebound by J. Embiid,26,30
+2,11:27.0,,T. McConnell makes 2-pt jump shot from 9 ft (assist by J. Embiid),26,32
+2,11:14.0,A. Rivers misses 3-pt jump shot from 27 ft,,26,32
+2,11:10.0,,Defensive rebound by W. Chandler,26,32
+2,10:57.0,,J. Embiid makes 2-pt layup from 4 ft,26,34
+2,10:44.0,Personal foul by M. Muscala (drawn by N. Hilário),,26,34
+2,10:35.0,G. Green makes 2-pt layup from 2 ft (assist by A. Rivers),,28,34
+2,10:20.0,,L. Shamet makes 2-pt layup from 2 ft (assist by J. Embiid),28,36
+2,10:01.0,N. Hilário makes 2-pt layup at rim (assist by E. Gordon),,30,36
+2,9:40.0,,Personal foul by N. Hilário (drawn by J. Embiid),30,36
+2,9:40.0,K. Faried enters the game for N. Hilário,,30,36
+2,9:27.0,,Turnover by J. Embiid (traveling),30,36
+2,9:13.0,J. Ennis misses 3-pt jump shot from 26 ft,,30,36
+2,9:10.0,,Defensive rebound by W. Chandler,30,36
+2,9:01.0,,T. McConnell misses 2-pt jump shot from 9 ft,30,36
+2,8:58.0,,Offensive rebound by M. Muscala,30,36
+2,8:53.0,,Shooting foul by K. Faried (drawn by J. Embiid),30,36
+2,8:53.0,,J. Embiid misses free throw 1 of 2,30,36
+2,8:53.0,,Offensive rebound by Team,30,36
+2,8:53.0,,B. Simmons enters the game for T. McConnell,30,36
+2,8:53.0,,J. Embiid makes free throw 2 of 2,30,37
+2,8:39.0,K. Faried makes 2-pt layup from 1 ft (assist by A. Rivers),,32,37
+2,8:27.0,,J. Embiid makes 2-pt layup from 3 ft,32,39
+2,8:27.0,,Shooting foul by K. Faried (drawn by J. Embiid),32,39
+2,8:27.0,J. Harden enters the game for J. Ennis,,32,39
+2,8:27.0,P. Tucker enters the game for A. Rivers,,32,39
+2,8:27.0,,C. Brewer enters the game for M. Muscala,32,39
+2,8:27.0,,J. Redick enters the game for L. Shamet,32,39
+2,8:27.0,,J. Embiid makes free throw 1 of 1,32,40
+2,8:09.0,J. Harden misses 3-pt jump shot from 26 ft,,32,40
+2,8:06.0,,Defensive rebound by C. Brewer,32,40
+2,8:02.0,,Turnover by C. Brewer (traveling),32,40
+2,8:02.0,,J. Bolden enters the game for J. Embiid,32,40
+2,7:38.0,K. Faried makes 2-pt dunk at rim (assist by J. Harden),,34,40
+2,7:17.0,,W. Chandler makes 2-pt jump shot from 8 ft,34,42
+2,6:57.0,J. Harden misses 2-pt layup from 5 ft,,34,42
+2,6:55.0,Offensive rebound by J. Harden,,34,42
+2,6:54.0,J. Harden misses 2-pt layup from 3 ft (block by J. Bolden),,34,42
+2,6:51.0,,Defensive rebound by J. Redick,34,42
+2,6:51.0,,B. Simmons makes 2-pt layup from 2 ft,34,44
+2,6:51.0,,Shooting foul by E. Gordon (drawn by B. Simmons),34,44
+2,6:51.0,,Philadelphia full timeout,34,44
+2,6:51.0,A. Rivers enters the game for E. Gordon,,34,44
+2,6:51.0,,B. Simmons makes free throw 1 of 1,34,45
+2,6:30.0,J. Harden makes 3-pt jump shot from 25 ft,,37,45
+2,6:10.0,,W. Chandler makes 3-pt jump shot from 23 ft (assist by J. Redick),37,48
+2,5:52.0,J. Harden makes 2-pt jump shot from 7 ft,,39,48
+2,5:41.0,,B. Simmons misses 2-pt layup from 3 ft,39,48
+2,5:39.0,Defensive rebound by K. Faried,,39,48
+2,5:35.0,J. Harden makes 2-pt layup from 2 ft,,41,48
+2,5:25.0,,J. Bolden misses 3-pt jump shot from 26 ft,41,48
+2,5:21.0,,Offensive rebound by J. Redick,41,48
+2,5:18.0,,Personal foul by G. Green (drawn by J. Redick),41,48
+2,5:18.0,,J. Redick makes free throw 1 of 2,41,49
+2,5:18.0,,J. Redick makes free throw 2 of 2,41,50
+2,5:02.0,Shooting foul by J. Bolden (drawn by K. Faried),,41,50
+2,5:02.0,K. Faried misses free throw 1 of 2,,41,50
+2,5:02.0,Offensive rebound by Team,,41,50
+2,5:02.0,K. Faried makes free throw 2 of 2,,42,50
+2,4:51.0,,Personal foul by A. Rivers (drawn by J. Redick),42,50
+2,4:51.0,,J. Redick makes free throw 1 of 2,42,51
+2,4:51.0,G. Clark enters the game for K. Faried,,42,51
+2,4:51.0,,J. Redick makes free throw 2 of 2,42,52
+2,4:27.0,G. Green misses 3-pt jump shot from 25 ft,,42,52
+2,4:25.0,,Defensive rebound by J. Bolden,42,52
+2,4:12.0,,J. Redick makes 2-pt layup from 3 ft,42,54
+2,3:59.0,G. Clark misses 3-pt jump shot from 26 ft,,42,54
+2,3:57.0,,Defensive rebound by J. Bolden,42,54
+2,3:43.0,,J. Redick makes 2-pt jump shot from 20 ft (assist by B. Simmons),42,56
+2,3:34.0,A. Rivers misses 2-pt layup from 5 ft (block by J. Redick),,42,56
+2,3:34.0,,Defensive rebound by Team,42,56
+2,3:34.0,E. Gordon enters the game for G. Green,,42,56
+2,3:34.0,,J. Embiid enters the game for J. Bolden,42,56
+2,3:34.0,,M. Muscala enters the game for W. Chandler,42,56
+2,3:25.0,,J. Redick makes 3-pt jump shot from 29 ft (assist by B. Simmons),42,59
+2,3:25.0,Houston full timeout,,42,59
+2,3:25.0,J. Ennis enters the game for G. Clark,,42,59
+2,3:10.0,J. Harden makes 3-pt jump shot from 26 ft,,45,59
+2,2:54.0,,Personal foul by J. Ennis (drawn by J. Embiid),45,59
+2,2:54.0,,J. Embiid makes free throw 1 of 2,45,60
+2,2:54.0,,J. Embiid makes free throw 2 of 2,45,61
+2,2:45.0,E. Gordon misses 2-pt layup from 5 ft (block by J. Embiid),,45,61
+2,2:41.0,Offensive rebound by J. Ennis,,45,61
+2,2:40.0,J. Ennis misses 2-pt jump shot from 4 ft,,45,61
+2,2:38.0,,Defensive rebound by J. Embiid,45,61
+2,2:36.0,,Turnover by C. Brewer (out of bounds lost ball),45,61
+2,2:26.0,J. Harden makes 2-pt layup from 1 ft,,47,61
+2,2:26.0,Shooting foul by B. Simmons (drawn by J. Harden),,47,61
+2,2:26.0,J. Harden makes free throw 1 of 1,,48,61
+2,2:12.0,,M. Muscala misses 3-pt jump shot from 23 ft,48,61
+2,2:09.0,Defensive rebound by P. Tucker,,48,61
+2,2:03.0,J. Harden makes 2-pt dunk from 1 ft,,50,61
+2,1:41.0,,J. Embiid misses 2-pt layup from 3 ft (block by P. Tucker),50,61
+2,1:38.0,,Offensive rebound by Team,50,61
+2,1:33.0,,J. Redick misses 3-pt jump shot from 26 ft,50,61
+2,1:28.0,Defensive rebound by J. Harden,,50,61
+2,1:22.0,P. Tucker misses 3-pt jump shot from 24 ft,,50,61
+2,1:19.0,,Defensive rebound by B. Simmons,50,61
+2,1:02.0,,M. Muscala misses 3-pt jump shot from 26 ft,50,61
+2,0:58.0,Defensive rebound by J. Ennis,,50,61
+2,0:53.0,J. Harden misses 2-pt layup from 3 ft (block by M. Muscala),,50,61
+2,0:50.0,,Defensive rebound by B. Simmons,50,61
+2,0:46.0,,Personal foul by P. Tucker (drawn by J. Embiid),50,61
+2,0:46.0,,J. Embiid makes free throw 1 of 2,50,62
+2,0:46.0,,J. Embiid makes free throw 2 of 2,50,63
+2,0:38.0,Personal foul by J. Embiid (drawn by J. Harden),,50,63
+2,0:38.0,,Technical foul by J. Embiid,50,63
+2,0:38.0,Technical foul by J. Harden,,50,63
+2,0:34.0,J. Harden misses 3-pt jump shot from 24 ft,,50,63
+2,0:29.0,,Defensive rebound by B. Simmons,50,63
+2,0:29.0,,C. Brewer makes 2-pt dunk from 1 ft (assist by B. Simmons),50,65
+2,0:29.0,Offensive foul by J. Harden (drawn by C. Brewer),,50,65
+2,0:29.0,Turnover by J. Harden (offensive foul),,50,65
+2,0:11.0,,Turnover by J. Redick (bad pass; steal by J. Ennis),50,65
+2,0:06.0,J. Harden misses 2-pt layup from 4 ft (block by J. Embiid),,50,65
+2,0:03.0,,Defensive rebound by C. Brewer,50,65
+2,0:00.0,,C. Brewer misses 2-pt jump shot from 23 ft,50,65
+2,0:00.0,,Offensive rebound by Team,50,65
+3,12:00.0,,Technical foul by M. D'Antoni,50,65
+3,12:00.0,,J. Redick makes technical free throw,50,66
+3,11:42.0,J. Harden misses 3-pt jump shot from 24 ft,,50,66
+3,11:39.0,,Defensive rebound by W. Chandler,50,66
+3,11:28.0,,J. Embiid makes 2-pt layup from 1 ft,50,68
+3,11:28.0,,Shooting foul by P. Tucker (drawn by J. Embiid),50,68
+3,11:28.0,,J. Embiid misses free throw 1 of 1,50,68
+3,11:26.0,Defensive rebound by J. Harden,,50,68
+3,11:18.0,E. Gordon misses 3-pt jump shot from 26 ft,,50,68
+3,11:15.0,,Defensive rebound by W. Chandler,50,68
+3,11:02.0,,Turnover by W. Chandler (lost ball; steal by J. Harden),50,68
+3,10:51.0,J. Ennis misses 2-pt layup at rim,,50,68
+3,10:46.0,,Defensive rebound by W. Chandler,50,68
+3,10:40.0,,J. Redick misses 3-pt jump shot from 26 ft,50,68
+3,10:37.0,Defensive rebound by E. Gordon,,50,68
+3,10:26.0,E. Gordon misses 2-pt layup from 2 ft,,50,68
+3,10:24.0,,Defensive rebound by B. Simmons,50,68
+3,10:20.0,,B. Simmons makes 2-pt layup from 1 ft,50,70
+3,9:56.0,Shooting foul by J. Embiid (drawn by J. Harden),,50,70
+3,9:56.0,J. Harden makes free throw 1 of 2,,51,70
+3,9:56.0,J. Harden makes free throw 2 of 2,,52,70
+3,9:48.0,,Turnover by B. Simmons (bad pass; steal by P. Tucker),52,70
+3,9:42.0,Turnover by J. Harden (bad pass; steal by B. Simmons),,52,70
+3,9:42.0,,B. Simmons makes 2-pt layup at rim,52,72
+3,9:42.0,,Shooting foul by J. Harden (drawn by B. Simmons),52,72
+3,9:42.0,,B. Simmons makes free throw 1 of 1,52,73
+3,9:30.0,J. Ennis misses 2-pt layup from 1 ft,,52,73
+3,9:28.0,,Defensive rebound by J. Embiid,52,73
+3,9:23.0,,B. Simmons misses 2-pt jump shot from 7 ft,52,73
+3,9:21.0,,Offensive rebound by J. Embiid,52,73
+3,9:19.0,,Turnover by J. Embiid (lost ball; steal by J. Ennis),52,73
+3,9:08.0,J. Harden misses 3-pt jump shot from 27 ft,,52,73
+3,9:04.0,,Defensive rebound by W. Chandler,52,73
+3,8:43.0,,Turnover by C. Brewer (bad pass; steal by P. Tucker),52,73
+3,8:38.0,A. Rivers misses 3-pt jump shot from 26 ft,,52,73
+3,8:34.0,,Defensive rebound by J. Embiid,52,73
+3,8:19.0,,J. Redick makes 2-pt layup from 2 ft,52,75
+3,7:56.0,E. Gordon misses 2-pt layup from 2 ft (block by B. Simmons),,52,75
+3,7:54.0,,Defensive rebound by W. Chandler,52,75
+3,7:52.0,,C. Brewer makes 2-pt layup from 3 ft (assist by W. Chandler),52,77
+3,7:52.0,Houston full timeout,,52,77
+3,7:52.0,K. Faried enters the game for J. Ennis,,52,77
+3,7:52.0,G. Green enters the game for A. Rivers,,52,77
+3,7:31.0,G. Green misses 2-pt jump shot from 16 ft,,52,77
+3,7:28.0,,Defensive rebound by W. Chandler,52,77
+3,7:04.0,,J. Embiid makes 2-pt jump shot from 14 ft,52,79
+3,6:56.0,Shooting foul by C. Brewer (drawn by J. Harden),,52,79
+3,6:56.0,J. Harden makes free throw 1 of 2,,53,79
+3,6:56.0,,J. Bolden enters the game for C. Brewer,53,79
+3,6:56.0,,T. McConnell enters the game for J. Embiid,53,79
+3,6:56.0,,L. Shamet enters the game for J. Redick,53,79
+3,6:56.0,J. Harden makes free throw 2 of 2,,54,79
+3,6:36.0,,B. Simmons misses 2-pt hook shot from 11 ft,54,79
+3,6:34.0,Defensive rebound by J. Harden,,54,79
+3,6:28.0,,Violation by Team (kicked ball),54,79
+3,6:23.0,Turnover by K. Faried (bad pass; steal by J. Bolden),,54,79
+3,6:20.0,,Shooting foul by E. Gordon (drawn by B. Simmons),54,79
+3,6:20.0,,B. Simmons makes free throw 1 of 2,54,80
+3,6:20.0,,B. Simmons misses free throw 2 of 2,54,80
+3,6:20.0,Defensive rebound by K. Faried,,54,80
+3,6:01.0,E. Gordon misses 3-pt jump shot from 27 ft,,54,80
+3,5:59.0,,Defensive rebound by T. McConnell,54,80
+3,5:55.0,,J. Bolden misses 2-pt layup from 2 ft (block by J. Harden),54,80
+3,5:55.0,,Offensive rebound by Team,54,80
+3,5:52.0,,L. Shamet makes 2-pt jump shot from 20 ft,54,82
+3,5:27.0,J. Harden makes 3-pt jump shot from 26 ft,,57,82
+3,5:09.0,,B. Simmons misses 2-pt jump shot from 14 ft,57,82
+3,5:07.0,Defensive rebound by K. Faried,,57,82
+3,5:00.0,E. Gordon misses 2-pt jump shot from 7 ft (block by J. Bolden),,57,82
+3,5:00.0,Offensive rebound by Team,,57,82
+3,4:53.0,Personal foul by J. Bolden (drawn by J. Harden),,57,82
+3,4:39.0,J. Harden makes 3-pt jump shot from 26 ft,,60,82
+3,4:36.0,,Philadelphia full timeout,60,82
+3,4:36.0,A. Rivers enters the game for E. Gordon,,60,82
+3,4:24.0,,L. Shamet makes 3-pt jump shot from 26 ft (assist by T. McConnell),60,85
+3,4:09.0,G. Green misses 3-pt jump shot from 25 ft,,60,85
+3,4:06.0,,Defensive rebound by W. Chandler,60,85
+3,3:53.0,,T. McConnell makes 2-pt layup from 3 ft (assist by B. Simmons),60,87
+3,3:40.0,J. Harden misses 2-pt layup from 2 ft,,60,87
+3,3:39.0,Offensive rebound by Team,,60,87
+3,3:39.0,J. Ennis enters the game for G. Green,,60,87
+3,3:39.0,,J. Embiid enters the game for J. Bolden,60,87
+3,3:39.0,,J. Redick enters the game for L. Shamet,60,87
+3,3:27.0,K. Faried misses 2-pt hook shot from 11 ft,,60,87
+3,3:24.0,,Defensive rebound by W. Chandler,60,87
+3,3:15.0,,B. Simmons misses 2-pt layup from 8 ft (block by J. Harden),60,87
+3,3:08.0,,Offensive rebound by W. Chandler,60,87
+3,3:07.0,,J. Embiid misses 3-pt jump shot from 25 ft,60,87
+3,3:04.0,Defensive rebound by A. Rivers,,60,87
+3,2:50.0,K. Faried makes 2-pt layup from 1 ft (assist by J. Ennis),,62,87
+3,2:24.0,,W. Chandler makes 2-pt jump shot from 13 ft,62,89
+3,1:56.0,Shooting foul by J. Embiid (drawn by K. Faried),,62,89
+3,1:56.0,K. Faried makes free throw 1 of 2,,63,89
+3,1:56.0,,C. Brewer enters the game for W. Chandler,63,89
+3,1:56.0,,M. Muscala enters the game for B. Simmons,63,89
+3,1:56.0,K. Faried misses free throw 2 of 2,,63,89
+3,1:53.0,,Defensive rebound by J. Embiid,63,89
+3,1:42.0,,Personal foul by K. Faried (drawn by J. Embiid),63,89
+3,1:31.0,,J. Redick misses 2-pt jump shot from 22 ft,63,89
+3,1:28.0,Defensive rebound by P. Tucker,,63,89
+3,1:22.0,Turnover by J. Harden (bad pass; steal by J. Embiid),,63,89
+3,1:15.0,,Personal foul by K. Faried (drawn by J. Embiid),63,89
+3,1:15.0,,J. Embiid makes free throw 1 of 2,63,90
+3,1:15.0,,J. Embiid makes free throw 2 of 2,63,91
+3,0:59.0,Turnover by J. Harden (bad pass; steal by J. Redick),,63,91
+3,0:55.0,,Shooting foul by A. Rivers (drawn by C. Brewer),63,91
+3,0:55.0,,C. Brewer misses free throw 1 of 2,63,91
+3,0:55.0,,Offensive rebound by Team,63,91
+3,0:55.0,,C. Brewer makes free throw 2 of 2,63,92
+3,0:42.0,Shooting foul by T. McConnell (drawn by A. Rivers),,63,92
+3,0:42.0,A. Rivers misses free throw 1 of 2,,63,92
+3,0:42.0,Offensive rebound by Team,,63,92
+3,0:42.0,A. Rivers misses free throw 2 of 2,,63,92
+3,0:40.0,,Defensive rebound by J. Embiid,63,92
+3,0:31.0,,T. McConnell makes 2-pt jump shot from 15 ft,63,94
+3,0:13.0,J. Harden misses 3-pt jump shot from 27 ft,,63,94
+3,0:12.0,,Defensive rebound by Team,63,94
+3,0:05.0,,T. McConnell misses 2-pt jump shot from 7 ft,63,94
+3,0:02.0,Defensive rebound by K. Faried,,63,94
+3,0:00.0,K. Faried misses 3-pt jump shot from 44 ft,,63,94
+3,0:00.0,Offensive rebound by Team,,63,94
+4,11:40.0,,J. Redick misses 3-pt jump shot from 26 ft,63,94
+4,11:36.0,Defensive rebound by E. Gordon,,63,94
+4,11:23.0,G. Green misses 3-pt jump shot from 27 ft,,63,94
+4,11:20.0,,Defensive rebound by J. Embiid,63,94
+4,11:01.0,,J. Embiid misses 2-pt layup from 4 ft,63,94
+4,10:54.0,,Offensive rebound by J. Embiid,63,94
+4,10:54.0,,J. Embiid makes 2-pt layup from 1 ft,63,96
+4,10:46.0,G. Green makes 3-pt jump shot from 26 ft (assist by E. Gordon),,66,96
+4,10:30.0,,J. Embiid misses 2-pt layup from 4 ft (block by G. Clark),66,96
+4,10:28.0,Defensive rebound by G. Clark,,66,96
+4,10:16.0,Personal foul by C. Brewer (drawn by V. Edwards),,66,96
+4,10:16.0,,J. Bolden enters the game for J. Embiid,66,96
+4,10:11.0,Turnover by K. Faried (bad pass; steal by C. Brewer),,66,96
+4,9:54.0,,T. McConnell misses 2-pt jump shot from 12 ft,66,96
+4,9:51.0,Defensive rebound by G. Clark,,66,96
+4,9:45.0,Turnover by G. Green (out of bounds lost ball),,66,96
+4,9:45.0,,L. Shamet enters the game for J. Redick,66,96
+4,9:45.0,,Philadelphia full timeout,66,96
+4,9:45.0,J. Ennis enters the game for E. Gordon,,66,96
+4,9:45.0,,A. Johnson enters the game for J. Bolden,66,96
+4,9:37.0,,Turnover by A. Johnson (bad pass; steal by J. Ennis),66,96
+4,9:32.0,J. Ennis makes 2-pt dunk from 1 ft,,68,96
+4,9:13.0,,C. Brewer misses 2-pt layup from 3 ft (block by G. Clark),68,96
+4,9:13.0,,Offensive rebound by Team,68,96
+4,9:07.0,,A. Johnson makes 2-pt hook shot from 2 ft (assist by T. McConnell),68,98
+4,8:52.0,G. Green misses 3-pt jump shot from 26 ft,,68,98
+4,8:52.0,,Defensive rebound by A. Johnson,68,98
+4,8:32.0,,T. McConnell makes 2-pt jump shot from 14 ft,68,100
+4,8:22.0,K. Faried makes 3-pt jump shot from 26 ft (assist by G. Green),,71,100
+4,8:03.0,,T. McConnell misses 2-pt jump shot from 13 ft,71,100
+4,8:01.0,Defensive rebound by K. Faried,,71,100
+4,7:57.0,J. Ennis misses 2-pt layup from 2 ft (block by C. Brewer),,71,100
+4,7:54.0,,Defensive rebound by M. Muscala,71,100
+4,7:48.0,,M. Muscala misses 3-pt jump shot from 22 ft,71,100
+4,7:45.0,Defensive rebound by V. Edwards,,71,100
+4,7:39.0,G. Green makes 2-pt layup from 1 ft,,73,100
+4,7:39.0,Shooting foul by A. Johnson (drawn by G. Green),,73,100
+4,7:39.0,M. Chriss enters the game for K. Faried,,73,100
+4,7:39.0,,F. Korkmaz enters the game for T. McConnell,73,100
+4,7:39.0,G. Green makes free throw 1 of 1,,74,100
+4,7:25.0,,A. Johnson makes 3-pt jump shot from 26 ft (assist by F. Korkmaz),74,103
+4,7:01.0,G. Green makes 2-pt jump shot from 2 ft (assist by M. Chriss),,76,103
+4,6:51.0,,Personal foul by J. Ennis (drawn by L. Shamet),76,103
+4,6:38.0,,Shooting foul by J. Ennis (drawn by M. Muscala),76,103
+4,6:38.0,,M. Muscala makes free throw 1 of 2,76,104
+4,6:38.0,,M. Muscala makes free throw 2 of 2,76,105
+4,6:28.0,Personal foul by A. Johnson (drawn by M. Chriss),,76,105
+4,6:21.0,Shooting foul by L. Shamet (drawn by M. Chriss),,76,105
+4,6:21.0,M. Chriss makes free throw 1 of 2,,77,105
+4,6:21.0,M. Chriss makes free throw 2 of 2,,78,105
+4,6:09.0,,L. Shamet misses 2-pt dunk from 1 ft (block by M. Chriss),78,105
+4,6:06.0,Defensive rebound by J. Ennis,,78,105
+4,6:03.0,G. Green makes 2-pt layup from 1 ft (assist by J. Ennis),,80,105
+4,6:03.0,Shooting foul by C. Brewer (drawn by G. Green),,80,105
+4,6:03.0,G. Green makes free throw 1 of 1,,81,105
+4,5:49.0,,L. Shamet makes 2-pt jump shot from 17 ft,81,107
+4,5:33.0,G. Clark misses 3-pt jump shot from 27 ft,,81,107
+4,5:30.0,,Defensive rebound by M. Muscala,81,107
+4,5:16.0,,L. Shamet misses 3-pt jump shot from 29 ft,81,107
+4,5:12.0,Defensive rebound by G. Green,,81,107
+4,5:07.0,V. Edwards misses 3-pt jump shot from 23 ft,,81,107
+4,5:02.0,Offensive rebound by M. Chriss,,81,107
+4,5:02.0,M. Chriss misses 2-pt layup at rim,,81,107
+4,5:02.0,,Defensive rebound by M. Muscala,81,107
+4,5:00.0,,C. Brewer misses 2-pt jump shot from 4 ft,81,107
+4,5:00.0,Defensive rebound by G. Clark,,81,107
+4,4:49.0,G. Green misses 2-pt hook shot from 8 ft,,81,107
+4,4:49.0,,Defensive rebound by F. Korkmaz,81,107
+4,4:30.0,,F. Korkmaz misses 3-pt jump shot from 26 ft,81,107
+4,4:27.0,Defensive rebound by M. Chriss,,81,107
+4,4:17.0,M. Chriss misses 3-pt jump shot from 25 ft,,81,107
+4,4:14.0,,Defensive rebound by L. Shamet,81,107
+4,4:14.0,,Philadelphia full timeout,81,107
+4,4:05.0,,L. Shamet misses 2-pt layup from 1 ft,81,107
+4,4:04.0,,Offensive rebound by A. Johnson,81,107
+4,4:04.0,,Shooting foul by M. Chriss (drawn by A. Johnson),81,107
+4,4:04.0,,A. Johnson makes free throw 1 of 2,81,108
+4,4:04.0,,A. Johnson misses free throw 2 of 2,81,108
+4,4:01.0,Defensive rebound by M. Chriss,,81,108
+4,3:53.0,M. Chriss makes 2-pt dunk from 1 ft (assist by G. Green),,83,108
+4,3:43.0,,F. Korkmaz makes 3-pt jump shot from 26 ft (assist by A. Johnson),83,111
+4,3:34.0,Shooting foul by A. Johnson (drawn by G. Green),,83,111
+4,3:34.0,G. Green makes free throw 1 of 2,,84,111
+4,3:34.0,G. Green makes free throw 2 of 2,,85,111
+4,3:18.0,,F. Korkmaz misses 3-pt jump shot from 26 ft,85,111
+4,3:18.0,,Offensive rebound by A. Johnson,85,111
+4,3:18.0,,A. Johnson misses 2-pt layup from 1 ft,85,111
+4,3:18.0,Defensive rebound by Team,,85,111
+4,3:07.0,V. Edwards misses 3-pt jump shot from 26 ft,,85,111
+4,3:03.0,,Defensive rebound by C. Brewer,85,111
+4,2:49.0,,F. Korkmaz makes 3-pt jump shot from 27 ft (assist by C. Brewer),85,114
+4,2:35.0,G. Green misses 2-pt layup from 2 ft (block by C. Brewer),,85,114
+4,2:32.0,,Defensive rebound by A. Johnson,85,114
+4,2:15.0,,Turnover by F. Korkmaz (bad pass; steal by J. Ennis),85,114
+4,2:05.0,Turnover by M. Chriss (lost ball; steal by C. Brewer),,85,114
+4,2:00.0,,C. Brewer makes 2-pt dunk from 2 ft (assist by A. Johnson),85,116
+4,1:47.0,G. Green misses 3-pt jump shot from 26 ft,,85,116
+4,1:44.0,,Defensive rebound by M. Muscala,85,116
+4,1:30.0,,L. Shamet makes 3-pt jump shot from 27 ft (assist by M. Muscala),85,119
+4,1:21.0,Personal foul by L. Shamet (drawn by J. Ennis),,85,119
+4,1:21.0,J. Ennis makes free throw 1 of 2,,86,119
+4,1:21.0,J. Ennis makes free throw 2 of 2,,87,119
+4,0:56.0,,L. Shamet misses 3-pt jump shot from 29 ft,87,119
+4,0:53.0,Defensive rebound by J. Ennis,,87,119
+4,0:51.0,J. Ennis makes 2-pt layup from 1 ft,,89,119
+4,0:51.0,Shooting foul by L. Shamet (drawn by J. Ennis),,89,119
+4,0:51.0,J. Ennis makes free throw 1 of 1,,90,119
+4,0:33.0,,L. Shamet makes 2-pt layup at rim,90,121
+4,0:24.0,G. Green makes 3-pt jump shot from 25 ft,,93,121

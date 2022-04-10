@@ -1,0 +1,504 @@
+QUARTER,TIME_REMAINING,DALLAS_ACTION,MEMPHIS_ACTION,DALLAS_SCORE,MEMPHIS_SCORE
+1,11:38.0,,J. Holiday misses 2-pt layup from 1 ft,0,0
+1,11:36.0,,Offensive rebound by J. Holiday,0,0
+1,11:34.0,,B. Caboclo makes 3-pt jump shot from 25 ft (assist by J. Holiday),0,3
+1,11:15.0,J. Jackson makes 3-pt jump shot from 23 ft (assist by J. Brunson),,3,3
+1,10:51.0,,T. Dorsey misses 2-pt jump shot from 10 ft,3,3
+1,10:48.0,Defensive rebound by D. Nowitzki,,3,3
+1,10:41.0,D. Powell makes 2-pt dunk from 1 ft (assist by J. Brunson),,5,3
+1,10:20.0,,Shooting foul by J. Brunson (drawn by J. Holiday),5,3
+1,10:20.0,,J. Holiday makes free throw 1 of 2,5,4
+1,10:20.0,,J. Holiday makes free throw 2 of 2,5,5
+1,10:05.0,C. Lee misses 3-pt jump shot from 26 ft,,5,5
+1,10:01.0,,Defensive rebound by I. Rabb,5,5
+1,9:53.0,,T. Dorsey makes 3-pt jump shot from 26 ft (assist by D. Wright),5,8
+1,9:31.0,D. Powell makes 2-pt layup from 1 ft (assist by D. Nowitzki),,7,8
+1,9:19.0,,J. Holiday misses 2-pt jump shot from 20 ft,7,8
+1,9:17.0,,Offensive rebound by B. Caboclo,7,8
+1,9:17.0,,B. Caboclo misses 2-pt layup at rim,7,8
+1,9:17.0,Defensive rebound by D. Powell,,7,8
+1,9:07.0,J. Brunson makes 2-pt jump shot from 10 ft,,9,8
+1,8:51.0,,T. Dorsey misses 2-pt layup from 5 ft,9,8
+1,8:51.0,Defensive rebound by Team,,9,8
+1,8:38.0,D. Powell makes 2-pt layup from 3 ft (assist by J. Brunson),,11,8
+1,8:38.0,Shooting foul by I. Rabb (drawn by D. Powell),,11,8
+1,8:38.0,D. Powell makes free throw 1 of 1,,12,8
+1,8:23.0,,Turnover by B. Caboclo (bad pass; steal by C. Lee),12,8
+1,8:20.0,J. Jackson makes 2-pt layup from 1 ft (assist by C. Lee),,14,8
+1,8:19.0,,Memphis full timeout,14,8
+1,8:09.0,,Personal foul by C. Lee (drawn by T. Dorsey),14,8
+1,8:02.0,,B. Caboclo misses 3-pt jump shot from 25 ft,14,8
+1,7:58.0,Defensive rebound by D. Nowitzki,,14,8
+1,7:47.0,J. Jackson makes 2-pt layup from 1 ft (assist by D. Powell),,16,8
+1,7:36.0,,D. Wright misses 2-pt layup from 3 ft (block by D. Nowitzki),16,8
+1,7:36.0,,Offensive rebound by Team,16,8
+1,7:36.0,D. Finney-Smith enters the game for D. Nowitzki,,16,8
+1,7:36.0,S. Mejri enters the game for D. Powell,,16,8
+1,7:36.0,,C. Parsons enters the game for B. Caboclo,16,8
+1,7:36.0,,T. Zeller enters the game for I. Rabb,16,8
+1,7:20.0,,D. Wright misses 3-pt jump shot from 26 ft,16,8
+1,7:17.0,,Offensive rebound by T. Zeller,16,8
+1,7:16.0,,T. Zeller misses 2-pt hook shot from 3 ft,16,8
+1,7:12.0,Defensive rebound by J. Brunson,,16,8
+1,7:11.0,Personal foul by D. Wright (drawn by J. Brunson),,16,8
+1,7:04.0,J. Brunson misses 2-pt jump shot from 2 ft,,16,8
+1,7:01.0,,Defensive rebound by C. Parsons,16,8
+1,6:57.0,,T. Dorsey makes 3-pt jump shot from 23 ft (assist by C. Parsons),16,11
+1,6:39.0,Turnover by S. Mejri (traveling),,16,11
+1,6:28.0,,D. Wright makes 2-pt layup from 1 ft,16,13
+1,6:16.0,J. Jackson misses 3-pt jump shot from 26 ft,,16,13
+1,6:13.0,,Defensive rebound by D. Wright,16,13
+1,6:04.0,,T. Dorsey misses 3-pt jump shot from 25 ft,16,13
+1,6:01.0,Defensive rebound by S. Mejri,,16,13
+1,5:50.0,J. Jackson makes 2-pt jump shot from 13 ft (assist by J. Brunson),,18,13
+1,5:29.0,,C. Parsons makes 3-pt jump shot from 26 ft (assist by T. Dorsey),18,16
+1,5:10.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,,18,16
+1,5:08.0,,Defensive rebound by D. Wright,18,16
+1,4:52.0,,T. Zeller makes 2-pt jump shot from 8 ft (assist by C. Parsons),18,18
+1,4:52.0,Dallas full timeout,,18,18
+1,4:52.0,T. Burke enters the game for J. Brunson,,18,18
+1,4:52.0,D. Macon enters the game for C. Lee,,18,18
+1,4:52.0,,J. Washburn enters the game for J. Holiday,18,18
+1,4:37.0,Turnover by D. Macon (bad pass; steal by C. Parsons),,18,18
+1,4:34.0,,C. Parsons misses 2-pt layup from 2 ft,18,18
+1,4:32.0,,Offensive rebound by T. Dorsey,18,18
+1,4:23.0,,C. Parsons misses 2-pt jump shot from 12 ft,18,18
+1,4:19.0,Defensive rebound by S. Mejri,,18,18
+1,4:08.0,T. Burke misses 2-pt jump shot from 18 ft,,18,18
+1,4:05.0,,Defensive rebound by C. Parsons,18,18
+1,3:49.0,,T. Zeller misses 2-pt hook shot from 6 ft,18,18
+1,3:47.0,Defensive rebound by S. Mejri,,18,18
+1,3:32.0,T. Burke makes 3-pt jump shot from 23 ft (assist by D. Finney-Smith),,21,18
+1,3:14.0,,D. Wright misses 3-pt jump shot from 26 ft,21,18
+1,3:09.0,Defensive rebound by D. Macon,,21,18
+1,2:53.0,T. Burke misses 3-pt jump shot from 26 ft,,21,18
+1,2:50.0,,Defensive rebound by D. Wright,21,18
+1,2:47.0,,Shooting foul by D. Finney-Smith (drawn by D. Wright),21,18
+1,2:47.0,,D. Wright makes free throw 1 of 2,21,19
+1,2:47.0,D. Harris enters the game for J. Jackson,,21,19
+1,2:47.0,,J. Holiday enters the game for T. Dorsey,21,19
+1,2:47.0,,D. Wright misses free throw 2 of 2,21,19
+1,2:45.0,Defensive rebound by D. Finney-Smith,,21,19
+1,2:23.0,Turnover by Team (shot clock),,21,19
+1,2:23.0,,J. Carter enters the game for D. Wright,21,19
+1,2:08.0,,T. Zeller misses 2-pt hook shot from 1 ft,21,19
+1,2:07.0,Defensive rebound by S. Mejri,,21,19
+1,2:00.0,Shooting foul by T. Zeller (drawn by D. Macon),,21,19
+1,2:00.0,D. Macon misses free throw 1 of 2,,21,19
+1,2:00.0,Offensive rebound by Team,,21,19
+1,2:00.0,D. Macon makes free throw 2 of 2,,22,19
+1,1:39.0,,J. Carter makes 3-pt jump shot from 27 ft (assist by C. Parsons),22,22
+1,1:24.0,D. Macon misses 2-pt jump shot from 15 ft,,22,22
+1,1:22.0,,Defensive rebound by C. Parsons,22,22
+1,1:13.0,,J. Carter makes 2-pt jump shot from 8 ft (assist by C. Parsons),22,24
+1,0:47.0,D. Macon makes 2-pt jump shot from 10 ft (assist by S. Mejri),,24,24
+1,0:36.0,,J. Carter misses 2-pt jump shot from 3 ft,24,24
+1,0:35.0,,Offensive rebound by Team,24,24
+1,0:35.0,Loose ball foul by T. Burke (drawn by T. Zeller),,24,24
+1,0:31.0,,Personal foul by D. Finney-Smith (drawn by C. Parsons),24,24
+1,0:31.0,,C. Parsons makes free throw 1 of 2,24,25
+1,0:31.0,R. Broekhoff enters the game for D. Finney-Smith,,24,25
+1,0:31.0,,C. Parsons makes free throw 2 of 2,24,26
+1,0:21.0,S. Mejri misses 3-pt jump shot from 26 ft,,24,26
+1,0:17.0,Offensive rebound by R. Broekhoff,,24,26
+1,0:17.0,R. Broekhoff misses 2-pt layup from 1 ft,,24,26
+1,0:17.0,,Defensive rebound by J. Holiday,24,26
+1,0:03.0,,Turnover by C. Parsons (bad pass),24,26
+1,0:00.0,D. Harris misses 3-pt jump shot from 45 ft,,24,26
+1,0:00.0,Offensive rebound by Team,,24,26
+2,11:39.0,D. Nowitzki makes 2-pt jump shot from 15 ft (assist by T. Burke),,26,26
+2,11:25.0,,J. Holiday makes 3-pt jump shot from 26 ft (assist by J. Carter),26,29
+2,10:56.0,D. Powell makes 2-pt layup from 1 ft (assist by T. Burke),,28,29
+2,10:40.0,,T. Dorsey misses 3-pt jump shot from 26 ft,28,29
+2,10:36.0,Defensive rebound by D. Nowitzki,,28,29
+2,10:21.0,D. Nowitzki misses 2-pt jump shot from 11 ft,,28,29
+2,10:18.0,,Defensive rebound by T. Zeller,28,29
+2,10:03.0,,T. Dorsey makes 3-pt jump shot from 25 ft (assist by B. Caboclo),28,32
+2,9:48.0,T. Burke makes 3-pt jump shot from 29 ft,,31,32
+2,9:32.0,,T. Zeller makes 2-pt layup from 1 ft (assist by T. Dorsey),31,34
+2,9:20.0,Shooting foul by J. Holiday (drawn by D. Harris),,31,34
+2,9:20.0,D. Harris misses free throw 1 of 2,,31,34
+2,9:20.0,Offensive rebound by Team,,31,34
+2,9:20.0,D. Harris makes free throw 2 of 2,,32,34
+2,9:12.0,,Shooting foul by T. Burke (drawn by J. Carter),32,34
+2,9:12.0,,J. Carter makes free throw 1 of 2,32,35
+2,9:12.0,,J. Carter makes free throw 2 of 2,32,36
+2,8:58.0,T. Burke misses 3-pt jump shot from 23 ft,,32,36
+2,8:56.0,,Defensive rebound by B. Caboclo,32,36
+2,8:50.0,,J. Holiday misses 3-pt jump shot from 25 ft,32,36
+2,8:46.0,Defensive rebound by D. Macon,,32,36
+2,8:40.0,D. Nowitzki misses 3-pt jump shot from 24 ft,,32,36
+2,8:37.0,,Defensive rebound by J. Holiday,32,36
+2,8:31.0,,Turnover by T. Dorsey (bad pass),32,36
+2,8:31.0,,I. Rabb enters the game for T. Zeller,32,36
+2,8:18.0,T. Burke makes 2-pt layup from 1 ft,,34,36
+2,7:58.0,,J. Holiday makes 2-pt dunk from 1 ft,34,38
+2,7:40.0,D. Nowitzki misses 2-pt jump shot from 10 ft,,34,38
+2,7:37.0,,Defensive rebound by T. Dorsey,34,38
+2,7:32.0,,T. Dorsey misses 3-pt jump shot from 26 ft,34,38
+2,7:28.0,Defensive rebound by D. Nowitzki,,34,38
+2,7:11.0,Shooting foul by J. Carter (drawn by D. Harris),,34,38
+2,7:11.0,D. Harris makes free throw 1 of 2,,35,38
+2,7:11.0,,D. Wright enters the game for T. Dorsey,35,38
+2,7:11.0,D. Harris misses free throw 2 of 2,,35,38
+2,7:09.0,,Defensive rebound by D. Wright,35,38
+2,7:03.0,,J. Holiday makes 2-pt dunk at rim (assist by D. Wright),35,40
+2,7:02.0,Dallas full timeout,,35,40
+2,7:02.0,R. Broekhoff enters the game for D. Harris,,35,40
+2,6:49.0,D. Powell makes 2-pt layup from 1 ft (assist by T. Burke),,37,40
+2,6:49.0,Shooting foul by I. Rabb (drawn by D. Powell),,37,40
+2,6:49.0,D. Powell misses free throw 1 of 1,,37,40
+2,6:47.0,,Defensive rebound by D. Wright,37,40
+2,6:35.0,,I. Rabb makes 2-pt hook shot from 9 ft (assist by D. Wright),37,42
+2,6:14.0,D. Nowitzki misses 3-pt jump shot from 26 ft,,37,42
+2,6:12.0,,Defensive rebound by J. Holiday,37,42
+2,6:04.0,,J. Carter makes 3-pt jump shot from 25 ft (assist by I. Rabb),37,45
+2,5:46.0,Personal foul by J. Carter (drawn by T. Burke),,37,45
+2,5:46.0,,C. Parsons enters the game for J. Holiday,37,45
+2,5:38.0,T. Burke makes 2-pt jump shot from 12 ft,,39,45
+2,5:24.0,,B. Caboclo misses 3-pt jump shot from 25 ft,39,45
+2,5:21.0,Defensive rebound by D. Nowitzki,,39,45
+2,5:09.0,D. Macon misses 3-pt jump shot from 23 ft,,39,45
+2,5:06.0,,Defensive rebound by B. Caboclo,39,45
+2,4:57.0,,I. Rabb misses 2-pt jump shot from 10 ft,39,45
+2,4:54.0,Defensive rebound by D. Powell,,39,45
+2,4:42.0,D. Powell makes 2-pt dunk at rim (assist by D. Macon),,41,45
+2,4:32.0,,Memphis full timeout,41,45
+2,4:32.0,J. Brunson enters the game for T. Burke,,41,45
+2,4:32.0,D. Finney-Smith enters the game for D. Nowitzki,,41,45
+2,4:32.0,S. Mejri enters the game for D. Powell,,41,45
+2,4:32.0,,T. Dorsey enters the game for J. Carter,41,45
+2,4:19.0,,C. Parsons misses 3-pt jump shot from 25 ft,41,45
+2,4:15.0,,Offensive rebound by B. Caboclo,41,45
+2,4:15.0,,Turnover by B. Caboclo (lost ball; steal by J. Brunson),41,45
+2,4:11.0,J. Brunson misses 2-pt layup from 1 ft,,41,45
+2,4:08.0,,Defensive rebound by C. Parsons,41,45
+2,4:00.0,,Personal foul by J. Brunson (drawn by T. Dorsey),41,45
+2,4:00.0,,T. Zeller enters the game for I. Rabb,41,45
+2,3:51.0,,D. Wright makes 2-pt jump shot from 9 ft,41,47
+2,3:39.0,Personal foul by C. Parsons (drawn by J. Brunson),,41,47
+2,3:39.0,J. Brunson makes free throw 1 of 2,,42,47
+2,3:39.0,J. Brunson makes free throw 2 of 2,,43,47
+2,3:27.0,,C. Parsons misses 3-pt jump shot from 25 ft,43,47
+2,3:25.0,Defensive rebound by Team,,43,47
+2,3:25.0,,Loose ball foul by T. Zeller (drawn by S. Mejri),43,47
+2,3:25.0,S. Mejri makes free throw 1 of 2,,44,47
+2,3:25.0,C. Lee enters the game for D. Macon,,44,47
+2,3:25.0,S. Mejri makes free throw 2 of 2,,45,47
+2,3:07.0,,Shooting foul by C. Lee (drawn by T. Zeller),45,47
+2,3:07.0,,T. Zeller misses free throw 1 of 2,45,47
+2,3:07.0,,Offensive rebound by Team,45,47
+2,3:07.0,,J. Holiday enters the game for B. Caboclo,45,47
+2,3:07.0,,T. Zeller makes free throw 2 of 2,45,48
+2,2:52.0,R. Broekhoff makes 3-pt jump shot from 26 ft (assist by J. Brunson),,48,48
+2,2:38.0,,T. Dorsey misses 2-pt layup at rim (block by S. Mejri),48,48
+2,2:33.0,Defensive rebound by C. Lee,,48,48
+2,2:21.0,J. Brunson misses 3-pt jump shot from 23 ft,,48,48
+2,2:18.0,,Defensive rebound by T. Dorsey,48,48
+2,2:17.0,,C. Parsons makes 2-pt layup from 1 ft (assist by T. Dorsey),48,50
+2,2:00.0,Personal foul by C. Parsons (drawn by J. Brunson),,48,50
+2,2:00.0,J. Brunson makes free throw 1 of 2,,49,50
+2,2:00.0,,B. Caboclo enters the game for C. Parsons,49,50
+2,2:00.0,J. Brunson makes free throw 2 of 2,,50,50
+2,1:47.0,,J. Holiday misses 2-pt layup from 1 ft (block by S. Mejri),50,50
+2,1:43.0,Defensive rebound by D. Finney-Smith,,50,50
+2,1:42.0,D. Finney-Smith makes 2-pt layup from 1 ft,,52,50
+2,1:31.0,,D. Wright misses 2-pt jump shot from 9 ft,52,50
+2,1:25.0,,Offensive rebound by T. Zeller,52,50
+2,1:25.0,,T. Zeller makes 2-pt hook shot from 4 ft,52,52
+2,1:12.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,,52,52
+2,1:09.0,,Defensive rebound by T. Zeller,52,52
+2,1:03.0,,T. Dorsey misses 3-pt jump shot from 26 ft,52,52
+2,1:00.0,Defensive rebound by D. Finney-Smith,,52,52
+2,0:59.0,Dallas full timeout,,52,52
+2,0:59.0,D. Macon enters the game for C. Lee,,52,52
+2,0:59.0,,J. Carter enters the game for T. Dorsey,52,52
+2,0:52.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,,52,52
+2,0:48.0,,Defensive rebound by D. Wright,52,52
+2,0:36.0,,Shooting foul by D. Macon (drawn by J. Holiday),52,52
+2,0:36.0,,J. Holiday makes free throw 1 of 2,52,53
+2,0:36.0,,J. Holiday makes free throw 2 of 2,52,54
+2,0:25.0,D. Finney-Smith misses 2-pt layup from 1 ft,,52,54
+2,0:22.0,,Defensive rebound by B. Caboclo,52,54
+2,0:00.0,,D. Wright makes 2-pt layup from 1 ft,52,56
+3,11:48.0,Turnover by D. Finney-Smith (bad pass; steal by J. Holiday),,52,56
+3,11:44.0,,B. Caboclo makes 2-pt layup from 1 ft (assist by J. Holiday),52,58
+3,11:27.0,C. Lee misses 2-pt layup from 1 ft,,52,58
+3,11:24.0,,Defensive rebound by B. Caboclo,52,58
+3,11:17.0,,Turnover by D. Wright (bad pass; steal by D. Powell),52,58
+3,11:14.0,J. Jackson makes 2-pt layup at rim (assist by J. Brunson),,54,58
+3,10:57.0,,B. Caboclo makes 3-pt jump shot from 23 ft (assist by D. Wright),54,61
+3,10:45.0,J. Brunson misses 3-pt jump shot from 26 ft,,54,61
+3,10:43.0,Offensive rebound by D. Powell,,54,61
+3,10:35.0,D. Finney-Smith misses 3-pt jump shot from 25 ft,,54,61
+3,10:32.0,,Defensive rebound by B. Caboclo,54,61
+3,10:21.0,,Personal foul by J. Brunson (drawn by I. Rabb),54,61
+3,10:13.0,,J. Holiday makes 3-pt jump shot from 26 ft (assist by D. Wright),54,64
+3,10:12.0,Dallas full timeout,,54,64
+3,9:59.0,J. Jackson misses 2-pt jump shot from 14 ft,,54,64
+3,9:57.0,,Defensive rebound by B. Caboclo,54,64
+3,9:43.0,,Offensive foul by J. Holiday (drawn by J. Brunson),54,64
+3,9:43.0,,Turnover by J. Holiday (offensive foul),54,64
+3,9:26.0,J. Jackson misses 2-pt jump shot from 10 ft,,54,64
+3,9:22.0,,Defensive rebound by I. Rabb,54,64
+3,9:08.0,,J. Holiday misses 3-pt jump shot from 26 ft,54,64
+3,9:05.0,Defensive rebound by D. Finney-Smith,,54,64
+3,8:58.0,J. Brunson makes 2-pt layup from 1 ft,,56,64
+3,8:43.0,,Personal foul by D. Powell (drawn by I. Rabb),56,64
+3,8:36.0,,I. Rabb makes 2-pt jump shot from 15 ft (assist by D. Wright),56,66
+3,8:21.0,D. Powell misses 2-pt jump shot from 10 ft,,56,66
+3,8:19.0,Offensive rebound by D. Finney-Smith,,56,66
+3,8:19.0,D. Finney-Smith misses 2-pt layup at rim,,56,66
+3,8:17.0,,Defensive rebound by I. Rabb,56,66
+3,8:10.0,,T. Dorsey misses 3-pt jump shot from 25 ft,56,66
+3,8:07.0,Defensive rebound by J. Brunson,,56,66
+3,8:06.0,Shooting foul by J. Holiday (drawn by J. Jackson),,56,66
+3,8:06.0,J. Jackson makes free throw 1 of 2,,57,66
+3,8:06.0,J. Jackson makes free throw 2 of 2,,58,66
+3,7:52.0,,I. Rabb makes 2-pt layup from 1 ft (assist by D. Wright),58,68
+3,7:36.0,D. Finney-Smith makes 2-pt jump shot from 7 ft (assist by J. Brunson),,60,68
+3,7:36.0,Shooting foul by B. Caboclo (drawn by D. Finney-Smith),,60,68
+3,7:36.0,D. Finney-Smith makes free throw 1 of 1,,61,68
+3,7:16.0,,Shooting foul by J. Jackson (drawn by I. Rabb),61,68
+3,7:16.0,,I. Rabb makes free throw 1 of 2,61,69
+3,7:16.0,,C. Parsons enters the game for T. Dorsey,61,69
+3,7:16.0,,I. Rabb makes free throw 2 of 2,61,70
+3,7:03.0,D. Finney-Smith makes 2-pt layup from 1 ft (assist by J. Brunson),,63,70
+3,6:45.0,,C. Parsons makes 3-pt jump shot from 23 ft (assist by B. Caboclo),63,73
+3,6:29.0,C. Lee misses 2-pt jump shot from 22 ft,,63,73
+3,6:27.0,,Defensive rebound by D. Wright,63,73
+3,6:23.0,,C. Parsons misses 3-pt jump shot from 28 ft,63,73
+3,6:19.0,,Offensive rebound by B. Caboclo,63,73
+3,6:17.0,,J. Holiday misses 3-pt jump shot from 23 ft,63,73
+3,6:14.0,,Offensive rebound by B. Caboclo,63,73
+3,6:14.0,,B. Caboclo misses 2-pt jump shot from 4 ft,63,73
+3,6:14.0,Defensive rebound by D. Finney-Smith,,63,73
+3,6:03.0,D. Finney-Smith misses 3-pt jump shot from 25 ft,,63,73
+3,6:00.0,,Defensive rebound by B. Caboclo,63,73
+3,5:45.0,,J. Holiday misses 2-pt layup from 1 ft,63,73
+3,5:42.0,Defensive rebound by C. Lee,,63,73
+3,5:37.0,Turnover by J. Brunson (bad pass),,63,73
+3,5:37.0,,T. Zeller enters the game for I. Rabb,63,73
+3,5:24.0,,Shooting foul by D. Powell (drawn by D. Wright),63,73
+3,5:24.0,,D. Wright makes free throw 1 of 2,63,74
+3,5:24.0,,D. Wright makes free throw 2 of 2,63,75
+3,5:18.0,D. Powell misses 3-pt jump shot from 27 ft,,63,75
+3,5:15.0,,Defensive rebound by B. Caboclo,63,75
+3,5:09.0,,D. Wright makes 3-pt jump shot from 26 ft,63,78
+3,5:08.0,Dallas full timeout,,63,78
+3,4:56.0,J. Jackson makes 3-pt jump shot from 25 ft (assist by J. Brunson),,66,78
+3,4:28.0,,C. Parsons misses 2-pt layup from 1 ft,66,78
+3,4:26.0,Defensive rebound by D. Powell,,66,78
+3,4:21.0,Personal foul by T. Zeller (drawn by D. Powell),,66,78
+3,4:21.0,D. Macon enters the game for C. Lee,,66,78
+3,4:21.0,,J. Washburn enters the game for B. Caboclo,66,78
+3,4:19.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,,66,78
+3,4:15.0,,Defensive rebound by D. Wright,66,78
+3,3:55.0,,T. Zeller makes 2-pt hook shot from 4 ft (assist by C. Parsons),66,80
+3,3:38.0,Personal foul by T. Zeller (drawn by D. Powell),,66,80
+3,3:38.0,,J. Carter enters the game for J. Holiday,66,80
+3,3:38.0,,T. Dorsey enters the game for D. Wright,66,80
+3,3:30.0,J. Brunson makes 2-pt jump shot from 11 ft,,68,80
+3,3:15.0,,C. Parsons misses 2-pt layup from 1 ft,68,80
+3,3:13.0,,Offensive rebound by C. Parsons,68,80
+3,3:12.0,,C. Parsons misses 2-pt layup from 1 ft,68,80
+3,3:11.0,Defensive rebound by D. Finney-Smith,,68,80
+3,3:05.0,D. Powell misses 2-pt dunk from 2 ft,,68,80
+3,3:02.0,Offensive rebound by J. Jackson,,68,80
+3,2:59.0,D. Powell makes 2-pt layup from 2 ft (assist by J. Jackson),,70,80
+3,2:43.0,,Shooting foul by D. Powell (drawn by T. Zeller),70,80
+3,2:43.0,,T. Zeller makes free throw 1 of 2,70,81
+3,2:43.0,S. Mejri enters the game for D. Powell,,70,81
+3,2:43.0,,T. Zeller makes free throw 2 of 2,70,82
+3,2:30.0,D. Finney-Smith misses 3-pt jump shot from 23 ft,,70,82
+3,2:28.0,,Defensive rebound by J. Carter,70,82
+3,2:14.0,,C. Parsons misses 2-pt jump shot from 20 ft,70,82
+3,2:14.0,Defensive rebound by Team,,70,82
+3,2:14.0,,Loose ball foul by T. Zeller (drawn by S. Mejri),70,82
+3,2:14.0,S. Mejri misses free throw 1 of 2,,70,82
+3,2:14.0,Offensive rebound by Team,,70,82
+3,2:14.0,R. Broekhoff enters the game for J. Jackson,,70,82
+3,2:14.0,,I. Rabb enters the game for T. Zeller,70,82
+3,2:14.0,S. Mejri makes free throw 2 of 2,,71,82
+3,2:04.0,,Shooting foul by S. Mejri (drawn by I. Rabb),71,82
+3,2:04.0,,Offensive rebound by Team,71,82
+3,2:04.0,,I. Rabb misses free throw 1 of 2,71,82
+3,2:04.0,,I. Rabb makes free throw 2 of 2,71,83
+3,1:55.0,D. Macon makes 3-pt jump shot from 25 ft (assist by D. Finney-Smith),,74,83
+3,1:42.0,,T. Dorsey makes 3-pt jump shot from 26 ft (assist by I. Rabb),74,86
+3,1:27.0,Personal foul by J. Washburn (drawn by R. Broekhoff),,74,86
+3,1:27.0,R. Broekhoff makes free throw 1 of 2,,75,86
+3,1:27.0,R. Broekhoff makes free throw 2 of 2,,76,86
+3,1:10.0,,Personal foul by S. Mejri (drawn by I. Rabb),76,86
+3,1:10.0,,I. Rabb makes free throw 1 of 2,76,87
+3,1:10.0,,I. Rabb makes free throw 2 of 2,76,88
+3,0:58.0,D. Macon makes 3-pt jump shot from 26 ft (assist by J. Brunson),,79,88
+3,0:41.0,,C. Parsons misses 3-pt jump shot from 27 ft,79,88
+3,0:37.0,Defensive rebound by D. Macon,,79,88
+3,0:26.0,J. Brunson makes 2-pt jump shot from 6 ft (assist by S. Mejri),,81,88
+3,0:05.0,,J. Carter misses 2-pt jump shot from 7 ft (block by S. Mejri),81,88
+3,0:02.0,Defensive rebound by R. Broekhoff,,81,88
+3,0:00.0,D. Finney-Smith makes 2-pt layup from 1 ft (assist by R. Broekhoff),,83,88
+4,11:37.0,,D. Wright misses 2-pt jump shot from 17 ft,83,88
+4,11:33.0,Defensive rebound by D. Macon,,83,88
+4,11:09.0,T. Burke misses 3-pt jump shot from 26 ft,,83,88
+4,11:06.0,,Defensive rebound by B. Caboclo,83,88
+4,10:57.0,,C. Parsons misses 3-pt jump shot from 26 ft,83,88
+4,10:54.0,Defensive rebound by D. Macon,,83,88
+4,10:50.0,R. Broekhoff makes 3-pt jump shot from 26 ft (assist by D. Macon),,86,88
+4,10:26.0,,T. Dorsey misses 2-pt jump shot from 17 ft,86,88
+4,10:24.0,Defensive rebound by D. Macon,,86,88
+4,10:20.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,,86,88
+4,10:16.0,,Defensive rebound by D. Wright,86,88
+4,10:09.0,,D. Wright makes 2-pt dunk at rim,86,90
+4,9:47.0,R. Broekhoff misses 3-pt jump shot from 25 ft,,86,90
+4,9:45.0,,Defensive rebound by B. Caboclo,86,90
+4,9:26.0,,Turnover by T. Dorsey (bad pass; steal by T. Burke),86,90
+4,9:24.0,Shooting foul by D. Wright (drawn by T. Burke),,86,90
+4,9:24.0,T. Burke makes free throw 1 of 2,,87,90
+4,9:24.0,,J. Holiday enters the game for C. Parsons,87,90
+4,9:24.0,,T. Zeller enters the game for I. Rabb,87,90
+4,9:24.0,T. Burke makes free throw 2 of 2,,88,90
+4,9:10.0,,Shooting foul by S. Mejri (drawn by B. Caboclo),88,90
+4,9:10.0,,B. Caboclo makes free throw 1 of 2,88,91
+4,9:10.0,D. Harris enters the game for T. Burke,,88,91
+4,9:10.0,,B. Caboclo makes free throw 2 of 2,88,92
+4,9:00.0,Shooting foul by T. Dorsey (drawn by D. Macon),,88,92
+4,9:00.0,D. Macon misses free throw 1 of 3,,88,92
+4,9:00.0,Offensive rebound by Team,,88,92
+4,9:00.0,D. Macon makes free throw 2 of 3,,89,92
+4,9:00.0,T. Burke enters the game for D. Finney-Smith,,89,92
+4,9:00.0,D. Macon makes free throw 3 of 3,,90,92
+4,8:36.0,,J. Holiday misses 2-pt jump shot from 1 ft,90,92
+4,8:36.0,,Offensive rebound by Team,90,92
+4,8:36.0,,Turnover by Team (shot clock),90,92
+4,8:36.0,D. Finney-Smith enters the game for D. Macon,,90,92
+4,8:23.0,S. Mejri misses 2-pt layup from 5 ft (block by T. Zeller),,90,92
+4,8:20.0,,Defensive rebound by D. Wright,90,92
+4,8:11.0,,T. Zeller makes 2-pt jump shot from 4 ft (assist by D. Wright),90,94
+4,7:56.0,T. Burke makes 2-pt jump shot from 18 ft (assist by D. Harris),,92,94
+4,7:35.0,,B. Caboclo misses 3-pt jump shot from 25 ft,92,94
+4,7:32.0,Defensive rebound by R. Broekhoff,,92,94
+4,7:19.0,S. Mejri makes 3-pt jump shot from 26 ft (assist by R. Broekhoff),,95,94
+4,7:12.0,,Memphis full timeout,95,94
+4,7:12.0,,C. Parsons enters the game for T. Dorsey,95,94
+4,7:02.0,,Personal foul by T. Burke (drawn by D. Wright),95,94
+4,6:57.0,,J. Holiday misses 2-pt dunk from 1 ft,95,94
+4,6:55.0,Defensive rebound by D. Finney-Smith,,95,94
+4,6:50.0,R. Broekhoff misses 3-pt jump shot from 25 ft,,95,94
+4,6:47.0,,Defensive rebound by D. Wright,95,94
+4,6:43.0,,J. Holiday makes 3-pt jump shot from 24 ft (assist by D. Wright),95,97
+4,6:18.0,T. Burke misses 3-pt jump shot from 27 ft,,95,97
+4,6:15.0,,Defensive rebound by B. Caboclo,95,97
+4,6:06.0,,D. Wright misses 3-pt jump shot from 26 ft,95,97
+4,6:04.0,,Offensive rebound by T. Zeller,95,97
+4,5:50.0,,Turnover by Team (shot clock),95,97
+4,5:32.0,S. Mejri makes 2-pt layup from 1 ft (assist by D. Harris),,97,97
+4,5:17.0,Violation by Team (kicked ball),,97,97
+4,5:17.0,D. Macon enters the game for R. Broekhoff,,97,97
+4,5:17.0,,I. Rabb enters the game for T. Zeller,97,97
+4,5:13.0,,Personal foul by D. Finney-Smith (drawn by I. Rabb),97,97
+4,5:09.0,,J. Holiday misses 3-pt jump shot from 25 ft,97,97
+4,5:05.0,Defensive rebound by D. Finney-Smith,,97,97
+4,4:52.0,Shooting foul by B. Caboclo (drawn by D. Finney-Smith),,97,97
+4,4:52.0,D. Finney-Smith makes free throw 1 of 2,,98,97
+4,4:52.0,D. Finney-Smith makes free throw 2 of 2,,99,97
+4,4:35.0,,I. Rabb misses 2-pt layup from 1 ft,99,97
+4,4:31.0,Defensive rebound by D. Harris,,99,97
+4,4:31.0,D. Finney-Smith misses 2-pt layup from 2 ft (block by C. Parsons),,99,97
+4,4:27.0,Offensive rebound by Team,,99,97
+4,4:18.0,D. Harris misses 2-pt jump shot from 9 ft,,99,97
+4,4:16.0,Offensive rebound by D. Finney-Smith,,99,97
+4,4:15.0,D. Finney-Smith makes 2-pt layup from 1 ft,,101,97
+4,4:05.0,,B. Caboclo makes 3-pt jump shot from 26 ft (assist by D. Wright),101,100
+4,3:45.0,Turnover by T. Burke (lost ball; steal by I. Rabb),,101,100
+4,3:42.0,,D. Wright makes 2-pt layup from 1 ft (assist by I. Rabb),101,102
+4,3:19.0,D. Harris misses 3-pt jump shot from 26 ft,,101,102
+4,3:17.0,Offensive rebound by S. Mejri,,101,102
+4,3:17.0,S. Mejri makes 2-pt dunk from 1 ft,,103,102
+4,3:04.0,,Personal foul by D. Macon (drawn by J. Holiday),103,102
+4,2:50.0,,J. Holiday makes 3-pt jump shot from 24 ft (assist by C. Parsons),103,105
+4,2:30.0,S. Mejri misses 3-pt jump shot from 27 ft,,103,105
+4,2:28.0,,Defensive rebound by I. Rabb,103,105
+4,2:19.0,,D. Wright makes 2-pt jump shot from 7 ft,103,107
+4,1:58.0,T. Burke makes 2-pt jump shot from 9 ft,,105,107
+4,1:48.0,,I. Rabb makes 2-pt dunk from 1 ft (assist by D. Wright),105,109
+4,1:48.0,Dallas full timeout,,105,109
+4,1:35.0,Shooting foul by D. Wright (drawn by T. Burke),,105,109
+4,1:35.0,T. Burke makes free throw 1 of 2,,106,109
+4,1:35.0,T. Burke makes free throw 2 of 2,,107,109
+4,1:22.0,,D. Wright makes 2-pt layup from 1 ft,107,111
+4,1:10.0,D. Finney-Smith makes 3-pt jump shot from 25 ft (assist by T. Burke),,110,111
+4,0:54.0,,Personal foul by D. Harris (drawn by I. Rabb),110,111
+4,0:54.0,,I. Rabb makes free throw 1 of 2,110,112
+4,0:54.0,,J. Washburn enters the game for C. Parsons,110,112
+4,0:54.0,,I. Rabb misses free throw 2 of 2,110,112
+4,0:52.0,Defensive rebound by D. Harris,,110,112
+4,0:43.0,T. Burke misses 2-pt jump shot from 8 ft,,110,112
+4,0:37.0,,Defensive rebound by D. Wright,110,112
+4,0:19.0,,J. Holiday misses 3-pt jump shot from 26 ft,110,112
+4,0:15.0,Defensive rebound by D. Harris,,110,112
+4,0:12.0,D. Finney-Smith misses 2-pt dunk at rim (block by B. Caboclo),,110,112
+4,0:08.0,Offensive rebound by T. Burke,,110,112
+4,0:08.0,T. Burke misses 2-pt layup at rim,,110,112
+4,0:07.0,Offensive rebound by D. Finney-Smith,,110,112
+4,0:05.0,D. Macon misses 3-pt jump shot from 26 ft,,110,112
+4,0:03.0,Offensive rebound by D. Finney-Smith,,110,112
+4,0:01.0,D. Finney-Smith misses 2-pt layup from 1 ft,,110,112
+4,0:01.0,Offensive rebound by S. Mejri,,110,112
+4,0:01.0,S. Mejri makes 2-pt layup at rim,,112,112
+4,0:01.0,,Memphis full timeout,112,112
+1OT,4:44.0,S. Mejri makes 2-pt dunk at rim,,114,112
+1OT,4:26.0,,D. Wright misses 2-pt jump shot at rim (block by S. Mejri),114,112
+1OT,4:26.0,,Offensive rebound by Team,114,112
+1OT,4:23.0,,I. Rabb misses 2-pt jump shot from 18 ft,114,112
+1OT,4:19.0,Defensive rebound by D. Macon,,114,112
+1OT,4:11.0,S. Mejri makes 2-pt dunk at rim (assist by D. Finney-Smith),,116,112
+1OT,3:56.0,,C. Parsons misses 3-pt jump shot from 26 ft,116,112
+1OT,3:53.0,Defensive rebound by S. Mejri,,116,112
+1OT,3:39.0,S. Mejri makes 3-pt jump shot from 26 ft (assist by T. Burke),,119,112
+1OT,3:38.0,,Memphis full timeout,119,112
+1OT,3:38.0,,T. Dorsey enters the game for B. Caboclo,119,112
+1OT,3:38.0,,T. Zeller enters the game for I. Rabb,119,112
+1OT,3:34.0,,D. Wright misses 2-pt layup from 3 ft,119,112
+1OT,3:31.0,Defensive rebound by S. Mejri,,119,112
+1OT,3:12.0,Turnover by D. Harris (bad pass; steal by J. Holiday),,119,112
+1OT,3:09.0,,Shooting foul by D. Finney-Smith (drawn by J. Holiday),119,112
+1OT,3:09.0,,J. Holiday makes free throw 1 of 2,119,113
+1OT,3:09.0,,B. Caboclo enters the game for C. Parsons,119,113
+1OT,3:09.0,,J. Holiday makes free throw 2 of 2,119,114
+1OT,2:52.0,T. Burke makes 2-pt jump shot from 19 ft (assist by S. Mejri),,121,114
+1OT,2:36.0,,J. Holiday makes 2-pt dunk at rim (assist by B. Caboclo),121,116
+1OT,2:16.0,S. Mejri misses 3-pt jump shot from 26 ft,,121,116
+1OT,2:13.0,,Defensive rebound by D. Wright,121,116
+1OT,2:05.0,,T. Zeller makes 2-pt jump shot from 14 ft,121,118
+1OT,1:50.0,T. Burke misses 3-pt jump shot from 23 ft,,121,118
+1OT,1:47.0,,Defensive rebound by J. Holiday,121,118
+1OT,1:39.0,,T. Dorsey makes 3-pt jump shot from 26 ft (assist by D. Wright),121,121
+1OT,1:39.0,Dallas full timeout,,121,121
+1OT,1:26.0,D. Harris makes 3-pt jump shot from 27 ft,,124,121
+1OT,1:13.0,,T. Dorsey misses 3-pt jump shot from 27 ft,124,121
+1OT,1:10.0,Defensive rebound by T. Burke,,124,121
+1OT,1:00.0,T. Burke makes 2-pt layup from 1 ft,,126,121
+1OT,0:51.0,,B. Caboclo misses 3-pt jump shot from 23 ft,126,121
+1OT,0:48.0,Defensive rebound by D. Harris,,126,121
+1OT,0:29.0,D. Macon misses 2-pt layup from 5 ft (block by D. Wright),,126,121
+1OT,0:25.0,Offensive rebound by S. Mejri,,126,121
+1OT,0:23.0,S. Mejri misses 2-pt layup at rim,,126,121
+1OT,0:23.0,,Defensive rebound by B. Caboclo,126,121
+1OT,0:20.0,,J. Holiday makes 3-pt jump shot from 26 ft (assist by B. Caboclo),126,124
+1OT,0:16.0,Personal take foul by J. Holiday (drawn by T. Burke),,126,124
+1OT,0:15.0,Personal take foul by D. Wright (drawn by T. Burke),,126,124
+1OT,0:15.0,T. Burke makes free throw 1 of 2,,127,124
+1OT,0:15.0,T. Burke makes free throw 2 of 2,,128,124
+1OT,0:15.0,,Memphis full timeout,128,124
+1OT,0:15.0,,C. Parsons enters the game for T. Dorsey,128,124
+1OT,0:13.0,,J. Holiday makes 3-pt jump shot from 26 ft (assist by C. Parsons),128,127
+1OT,0:10.0,Personal take foul by D. Wright (drawn by D. Macon),,128,127
+1OT,0:10.0,D. Macon makes free throw 1 of 2,,129,127
+1OT,0:10.0,D. Macon misses free throw 2 of 2,,129,127
+1OT,0:09.0,,Defensive rebound by B. Caboclo,129,127
+1OT,0:04.0,,Personal take foul by T. Burke (drawn by D. Wright),129,127
+1OT,0:04.0,,T. Dorsey enters the game for T. Zeller,129,127
+1OT,0:00.0,,D. Wright misses 3-pt jump shot from 25 ft,129,127
+1OT,0:00.0,,Offensive rebound by Team,129,127

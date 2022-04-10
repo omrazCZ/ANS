@@ -1,0 +1,426 @@
+QUARTER,TIME_REMAINING,PHOENIX_ACTION,CHICAGO_ACTION,PHOENIX_SCORE,CHICAGO_SCORE
+1,11:47.0,,J. Holiday misses 3-pt jump shot from 25 ft,0,0
+1,11:46.0,Defensive rebound by Team,,0,0
+1,11:34.0,Turnover by D. Booker (bad pass; steal by J. Parker),,0,0
+1,11:29.0,,W. Carter makes 2-pt layup from 2 ft (assist by J. Parker),0,2
+1,11:06.0,Turnover by I. Canaan (step out of bounds),,0,2
+1,10:54.0,,J. Parker misses 2-pt dunk from 2 ft (block by T. Warren),0,2
+1,10:54.0,Defensive rebound by Team,,0,2
+1,10:44.0,I. Canaan misses 3-pt jump shot from 24 ft,,0,2
+1,10:40.0,,Defensive rebound by J. Parker,0,2
+1,10:26.0,,W. Carter makes 2-pt layup from 1 ft (assist by J. Parker),0,4
+1,10:11.0,Personal foul by R. Arcidiacono (drawn by D. Booker),,0,4
+1,10:07.0,D. Ayton misses 2-pt dunk from 1 ft,,0,4
+1,10:05.0,Offensive rebound by D. Ayton,,0,4
+1,10:01.0,D. Ayton makes 2-pt hook shot from 2 ft,,2,4
+1,9:53.0,,Shooting foul by T. Warren (drawn by J. Parker),2,4
+1,9:53.0,,J. Parker makes free throw 1 of 2,2,5
+1,9:53.0,,J. Parker makes free throw 2 of 2,2,6
+1,9:39.0,D. Booker misses 3-pt jump shot from 25 ft,,2,6
+1,9:36.0,,Defensive rebound by J. Parker,2,6
+1,9:30.0,,Turnover by Z. LaVine (bad pass; steal by D. Ayton),2,6
+1,9:25.0,D. Booker misses 3-pt jump shot from 26 ft,,2,6
+1,9:23.0,,Defensive rebound by Team,2,6
+1,9:10.0,,W. Carter makes 2-pt jump shot from 14 ft,2,8
+1,8:56.0,D. Ayton makes 2-pt layup from 3 ft (assist by I. Canaan),,4,8
+1,8:48.0,,Z. LaVine misses 3-pt jump shot from 25 ft,4,8
+1,8:46.0,Defensive rebound by D. Ayton,,4,8
+1,8:40.0,T. Ariza misses 3-pt jump shot from 26 ft,,4,8
+1,8:37.0,,Defensive rebound by W. Carter,4,8
+1,8:25.0,,Z. LaVine misses 2-pt jump shot from 18 ft,4,8
+1,8:22.0,Defensive rebound by D. Ayton,,4,8
+1,8:12.0,D. Ayton makes 2-pt dunk at rim (assist by T. Ariza),,6,8
+1,8:03.0,,Personal foul by I. Canaan (drawn by R. Arcidiacono),6,8
+1,7:51.0,,J. Parker misses 2-pt jump shot from 17 ft,6,8
+1,7:48.0,Defensive rebound by D. Ayton,,6,8
+1,7:44.0,T. Ariza makes 3-pt jump shot from 23 ft (assist by I. Canaan),,9,8
+1,7:42.0,,Chicago full timeout,9,8
+1,7:24.0,,Turnover by R. Arcidiacono (bad pass; steal by D. Booker),9,8
+1,7:19.0,I. Canaan misses 3-pt jump shot from 23 ft,,9,8
+1,7:18.0,Offensive rebound by Team,,9,8
+1,7:05.0,D. Booker makes 3-pt jump shot from 24 ft (assist by I. Canaan),,12,8
+1,6:53.0,,J. Holiday misses 2-pt jump shot from 20 ft,12,8
+1,6:46.0,,Offensive rebound by J. Parker,12,8
+1,6:46.0,,J. Parker makes 2-pt dunk at rim,12,10
+1,6:33.0,Personal foul by J. Holiday (drawn by D. Ayton),,12,10
+1,6:22.0,Turnover by D. Ayton (3 sec),,12,10
+1,6:09.0,,Z. LaVine misses 2-pt layup from 1 ft,12,10
+1,6:07.0,Defensive rebound by D. Ayton,,12,10
+1,5:59.0,D. Ayton misses 2-pt jump shot from 17 ft,,12,10
+1,5:56.0,,Defensive rebound by J. Parker,12,10
+1,5:39.0,,W. Carter misses 3-pt jump shot from 25 ft,12,10
+1,5:37.0,,Offensive rebound by R. Arcidiacono,12,10
+1,5:35.0,,R. Arcidiacono makes 3-pt jump shot from 26 ft,12,13
+1,5:17.0,I. Canaan makes 3-pt jump shot from 23 ft,,15,13
+1,5:04.0,,J. Holiday misses 3-pt jump shot from 25 ft,15,13
+1,4:58.0,Defensive rebound by D. Ayton,,15,13
+1,4:55.0,Shooting foul by J. Parker (drawn by T. Warren),,15,13
+1,4:55.0,T. Warren makes free throw 1 of 2,,16,13
+1,4:55.0,M. Bridges enters the game for T. Ariza,,16,13
+1,4:55.0,J. Jackson enters the game for I. Canaan,,16,13
+1,4:55.0,,A. Blakeney enters the game for J. Parker,16,13
+1,4:55.0,T. Warren makes free throw 2 of 2,,17,13
+1,4:38.0,,Turnover by J. Holiday (bad pass; steal by D. Booker),17,13
+1,4:26.0,J. Jackson makes 2-pt layup from 2 ft (assist by D. Ayton),,19,13
+1,4:13.0,,Z. LaVine misses 2-pt jump shot from 5 ft,19,13
+1,4:11.0,Defensive rebound by J. Jackson,,19,13
+1,3:54.0,T. Warren misses 3-pt jump shot from 23 ft,,19,13
+1,3:48.0,,Defensive rebound by W. Carter,19,13
+1,3:37.0,,Turnover by Z. LaVine (bad pass; steal by M. Bridges),19,13
+1,3:32.0,T. Warren makes 2-pt layup from 1 ft (assist by J. Jackson),,21,13
+1,3:32.0,,Chicago full timeout,21,13
+1,3:32.0,,R. Lopez enters the game for W. Carter,21,13
+1,3:32.0,,C. Payne enters the game for Z. LaVine,21,13
+1,3:17.0,,Personal foul by D. Booker (drawn by R. Arcidiacono),21,13
+1,3:02.0,,R. Lopez makes 2-pt hook shot from 6 ft,21,15
+1,2:47.0,T. Warren misses 2-pt jump shot from 16 ft,,21,15
+1,2:45.0,,Defensive rebound by C. Payne,21,15
+1,2:30.0,,A. Blakeney misses 2-pt jump shot from 9 ft,21,15
+1,2:27.0,Defensive rebound by D. Ayton,,21,15
+1,2:19.0,D. Booker misses 2-pt layup from 2 ft,,21,15
+1,2:17.0,,Defensive rebound by C. Payne,21,15
+1,2:11.0,,R. Lopez misses 3-pt jump shot from 25 ft,21,15
+1,2:07.0,Defensive rebound by T. Warren,,21,15
+1,2:03.0,D. Ayton makes 2-pt jump shot from 14 ft (assist by D. Booker),,23,15
+1,1:48.0,,J. Holiday makes 2-pt jump shot from 15 ft (assist by C. Payne),23,17
+1,1:29.0,D. Booker misses 3-pt jump shot from 25 ft,,23,17
+1,1:25.0,Offensive rebound by J. Jackson,,23,17
+1,1:14.0,J. Jackson misses 2-pt jump shot from 20 ft,,23,17
+1,1:12.0,Offensive rebound by Team,,23,17
+1,1:12.0,J. Crawford enters the game for M. Bridges,,23,17
+1,1:12.0,,J. Parker enters the game for J. Holiday,23,17
+1,1:03.0,D. Booker misses 2-pt layup from 1 ft (block by R. Lopez),,23,17
+1,1:00.0,,Defensive rebound by J. Parker,23,17
+1,0:58.0,,R. Arcidiacono makes 3-pt jump shot from 24 ft (assist by J. Parker),23,20
+1,0:43.0,J. Jackson makes 2-pt dunk from 1 ft (assist by D. Booker),,25,20
+1,0:22.0,,R. Arcidiacono makes 2-pt jump shot from 12 ft,25,22
+1,0:04.0,T. Warren makes 3-pt jump shot from 25 ft (assist by D. Booker),,28,22
+1,0:00.0,,C. Payne makes 3-pt jump shot from 26 ft,28,25
+2,11:42.0,T. Ariza misses 2-pt jump shot from 6 ft,,28,25
+2,11:34.0,Offensive rebound by R. Holmes,,28,25
+2,11:34.0,R. Holmes misses 2-pt layup from 1 ft,,28,25
+2,11:34.0,,Defensive rebound by R. Lopez,28,25
+2,11:31.0,,A. Blakeney makes 3-pt jump shot from 23 ft (assist by S. Harrison),28,28
+2,11:10.0,J. Crawford makes 3-pt jump shot from 26 ft,,31,28
+2,10:53.0,,J. Parker makes 2-pt dunk from 1 ft (assist by R. Lopez),31,30
+2,10:37.0,R. Holmes makes 2-pt dunk from 1 ft (assist by J. Crawford),,33,30
+2,10:26.0,,R. Lopez makes 2-pt hook shot from 4 ft (assist by S. Harrison),33,32
+2,10:11.0,M. Bridges misses 3-pt jump shot from 25 ft,,33,32
+2,10:08.0,,Defensive rebound by J. Parker,33,32
+2,10:01.0,,Turnover by A. Blakeney (lost ball; steal by J. Jackson),33,32
+2,9:54.0,R. Holmes misses 2-pt jump shot from 8 ft,,33,32
+2,9:52.0,,Defensive rebound by C. Payne,33,32
+2,9:49.0,,A. Blakeney makes 3-pt jump shot from 25 ft (assist by S. Harrison),33,35
+2,9:47.0,Phoenix full timeout,,33,35
+2,9:32.0,R. Holmes makes 2-pt dunk from 1 ft (assist by T. Ariza),,35,35
+2,9:15.0,,Turnover by R. Lopez (bad pass; steal by J. Crawford),35,35
+2,9:10.0,T. Ariza misses 3-pt jump shot from 26 ft,,35,35
+2,9:06.0,,Defensive rebound by S. Harrison,35,35
+2,8:59.0,,S. Harrison makes 2-pt layup from 1 ft,35,37
+2,8:39.0,J. Crawford makes 2-pt jump shot from 13 ft,,37,37
+2,8:28.0,,S. Harrison misses 3-pt jump shot from 26 ft,37,37
+2,8:25.0,Defensive rebound by J. Jackson,,37,37
+2,8:18.0,J. Jackson misses 2-pt layup from 2 ft,,37,37
+2,8:17.0,,Defensive rebound by C. Payne,37,37
+2,8:16.0,,Personal foul by M. Bridges (drawn by C. Payne),37,37
+2,8:16.0,I. Canaan enters the game for J. Jackson,,37,37
+2,8:16.0,,J. Holiday enters the game for J. Parker,37,37
+2,8:10.0,,Shooting foul by I. Canaan (drawn by S. Harrison),37,37
+2,8:10.0,,S. Harrison makes free throw 1 of 2,37,38
+2,8:10.0,,S. Harrison makes free throw 2 of 2,37,39
+2,7:54.0,J. Crawford makes 2-pt layup from 1 ft,,39,39
+2,7:37.0,,R. Lopez misses 2-pt jump shot from 18 ft,39,39
+2,7:34.0,Defensive rebound by M. Bridges,,39,39
+2,7:31.0,Offensive foul by R. Holmes (drawn by S. Harrison),,39,39
+2,7:31.0,Turnover by R. Holmes (offensive foul),,39,39
+2,7:31.0,D. Ayton enters the game for R. Holmes,,39,39
+2,7:31.0,,W. Carter enters the game for R. Lopez,39,39
+2,7:31.0,,Z. LaVine enters the game for C. Payne,39,39
+2,7:10.0,,W. Carter misses 2-pt jump shot from 14 ft,39,39
+2,7:07.0,Defensive rebound by J. Crawford,,39,39
+2,6:56.0,T. Ariza makes 3-pt jump shot from 23 ft (assist by J. Crawford),,42,39
+2,6:43.0,,Shooting foul by D. Ayton (drawn by Z. LaVine),42,39
+2,6:43.0,,Z. LaVine makes free throw 1 of 2,42,40
+2,6:43.0,D. Booker enters the game for M. Bridges,,42,40
+2,6:43.0,,R. Arcidiacono enters the game for A. Blakeney,42,40
+2,6:43.0,,J. Parker enters the game for S. Harrison,42,40
+2,6:43.0,,Z. LaVine makes free throw 2 of 2,42,41
+2,6:38.0,Personal foul by J. Holiday (drawn by J. Crawford),,42,41
+2,6:25.0,D. Ayton makes 2-pt hook shot from 4 ft (assist by J. Crawford),,44,41
+2,6:04.0,,Z. LaVine misses 3-pt jump shot from 25 ft,44,41
+2,6:01.0,Defensive rebound by D. Booker,,44,41
+2,5:55.0,D. Ayton makes 2-pt dunk from 1 ft (assist by D. Booker),,46,41
+2,5:47.0,,Turnover by J. Parker (bad pass),46,41
+2,5:32.0,D. Booker misses 2-pt jump shot from 9 ft,,46,41
+2,5:28.0,,Defensive rebound by J. Holiday,46,41
+2,5:24.0,,J. Parker makes 2-pt layup from 2 ft (assist by J. Holiday),46,43
+2,5:24.0,,Shooting foul by D. Ayton (drawn by J. Parker),46,43
+2,5:24.0,,J. Parker makes free throw 1 of 1,46,44
+2,5:13.0,Shooting foul by W. Carter (drawn by D. Ayton),,46,44
+2,5:13.0,D. Ayton makes free throw 1 of 2,,47,44
+2,5:13.0,D. Ayton makes free throw 2 of 2,,48,44
+2,5:10.0,,Offensive foul by W. Carter (drawn by J. Crawford),48,44
+2,5:10.0,,Turnover by W. Carter (offensive foul),48,44
+2,5:03.0,Personal foul by W. Carter (drawn by D. Ayton),,48,44
+2,5:03.0,,R. Lopez enters the game for W. Carter,48,44
+2,4:55.0,D. Booker makes 2-pt jump shot from 17 ft,,50,44
+2,4:47.0,,J. Holiday makes 3-pt jump shot from 22 ft (assist by Z. LaVine),50,47
+2,4:26.0,D. Booker makes 2-pt jump shot from 7 ft,,52,47
+2,4:16.0,,Z. LaVine makes 2-pt layup from 1 ft,52,49
+2,3:54.0,J. Crawford misses 3-pt jump shot from 28 ft,,52,49
+2,3:52.0,,Defensive rebound by R. Arcidiacono,52,49
+2,3:44.0,,R. Lopez misses 2-pt hook shot from 2 ft,52,49
+2,3:42.0,Defensive rebound by D. Booker,,52,49
+2,3:37.0,D. Booker makes 2-pt layup from 1 ft,,54,49
+2,3:36.0,,Chicago full timeout,54,49
+2,3:36.0,M. Bridges enters the game for I. Canaan,,54,49
+2,3:36.0,T. Warren enters the game for J. Crawford,,54,49
+2,3:23.0,,Z. LaVine makes 2-pt layup from 2 ft (assist by R. Lopez),54,51
+2,3:08.0,D. Booker makes 2-pt jump shot from 10 ft,,56,51
+2,2:52.0,,R. Lopez makes 2-pt hook shot from 9 ft (assist by Z. LaVine),56,53
+2,2:43.0,Personal foul by R. Arcidiacono (drawn by D. Booker),,56,53
+2,2:43.0,R. Holmes enters the game for D. Ayton,,56,53
+2,2:43.0,,A. Blakeney enters the game for R. Arcidiacono,56,53
+2,2:43.0,,S. Harrison enters the game for J. Holiday,56,53
+2,2:31.0,D. Booker makes 2-pt layup from 2 ft (assist by T. Ariza),,58,53
+2,2:31.0,Shooting foul by R. Lopez (drawn by D. Booker),,58,53
+2,2:31.0,D. Booker makes free throw 1 of 1,,59,53
+2,2:22.0,,Personal foul by T. Ariza (drawn by Z. LaVine),59,53
+2,2:22.0,,Z. LaVine makes free throw 1 of 2,59,54
+2,2:22.0,,Z. LaVine makes free throw 2 of 2,59,55
+2,2:09.0,Turnover by D. Booker (lost ball; steal by S. Harrison),,59,55
+2,2:05.0,,A. Blakeney makes 2-pt dunk from 1 ft,59,57
+2,2:03.0,Phoenix full timeout,,59,57
+2,1:47.0,R. Holmes makes 2-pt hook shot from 5 ft (assist by D. Booker),,61,57
+2,1:35.0,,Def 3 sec tech foul by Team,61,57
+2,1:35.0,,Z. LaVine makes technical free throw,61,58
+2,1:35.0,,C. Felício enters the game for R. Lopez,61,58
+2,1:24.0,,A. Blakeney makes 2-pt jump shot from 19 ft,61,60
+2,1:04.0,M. Bridges makes 2-pt layup from 1 ft (assist by R. Holmes),,63,60
+2,1:04.0,Shooting foul by S. Harrison (drawn by M. Bridges),,63,60
+2,1:04.0,M. Bridges makes free throw 1 of 1,,64,60
+2,0:50.0,,Personal foul by T. Warren (drawn by J. Parker),64,60
+2,0:50.0,,J. Parker makes free throw 1 of 2,64,61
+2,0:50.0,,J. Parker makes free throw 2 of 2,64,62
+2,0:42.0,T. Warren makes 2-pt layup from 1 ft,,66,62
+2,0:42.0,Shooting foul by S. Harrison (drawn by T. Warren),,66,62
+2,0:42.0,T. Warren makes free throw 1 of 1,,67,62
+2,0:36.0,,Turnover by J. Parker (traveling),67,62
+2,0:19.0,R. Holmes makes 2-pt jump shot from 6 ft,,69,62
+2,0:00.0,,Z. LaVine makes 2-pt jump shot from 22 ft,69,64
+3,11:41.0,D. Ayton misses 2-pt hook shot from 7 ft,,69,64
+3,11:41.0,Offensive rebound by Team,,69,64
+3,11:34.0,D. Booker makes 2-pt jump shot from 12 ft,,71,64
+3,11:17.0,,W. Carter makes 2-pt layup from 1 ft (assist by Z. LaVine),71,66
+3,11:09.0,I. Canaan makes 3-pt jump shot from 26 ft (assist by D. Ayton),,74,66
+3,10:48.0,,W. Carter misses 2-pt layup at rim,74,66
+3,10:45.0,Defensive rebound by D. Ayton,,74,66
+3,10:31.0,T. Warren misses 3-pt jump shot from 25 ft,,74,66
+3,10:25.0,,Defensive rebound by W. Carter,74,66
+3,10:15.0,,Z. LaVine makes 2-pt jump shot from 21 ft,74,68
+3,9:56.0,I. Canaan misses 3-pt jump shot from 26 ft,,74,68
+3,9:54.0,,Defensive rebound by J. Parker,74,68
+3,9:51.0,,Personal foul by D. Booker (drawn by J. Parker),74,68
+3,9:40.0,,Offensive foul by J. Parker (drawn by T. Ariza),74,68
+3,9:40.0,,Turnover by J. Parker (offensive foul),74,68
+3,9:30.0,T. Ariza makes 3-pt jump shot from 26 ft (assist by T. Warren),,77,68
+3,9:12.0,,Z. LaVine makes 2-pt layup from 1 ft,77,70
+3,9:06.0,T. Warren makes 2-pt jump shot from 20 ft,,79,70
+3,8:52.0,,Z. LaVine makes 2-pt dunk at rim (assist by J. Parker),79,72
+3,8:34.0,D. Ayton misses 2-pt hook shot from 7 ft,,79,72
+3,8:31.0,,Defensive rebound by J. Parker,79,72
+3,8:29.0,,J. Parker makes 2-pt dunk at rim,79,74
+3,8:11.0,D. Booker misses 2-pt jump shot from 11 ft,,79,74
+3,8:08.0,,Defensive rebound by W. Carter,79,74
+3,8:03.0,,W. Carter makes 2-pt dunk at rim (assist by R. Arcidiacono),79,76
+3,8:03.0,Phoenix full timeout,,79,76
+3,7:49.0,Turnover by D. Booker (traveling),,79,76
+3,7:34.0,,R. Arcidiacono makes 3-pt jump shot from 26 ft (assist by J. Parker),79,79
+3,7:08.0,Turnover by I. Canaan (bad pass; steal by R. Arcidiacono),,79,79
+3,6:56.0,,J. Parker makes 2-pt dunk from 1 ft (assist by W. Carter),79,81
+3,6:34.0,T. Warren makes 2-pt jump shot from 7 ft (assist by D. Ayton),,81,81
+3,6:23.0,,Shooting foul by D. Booker (drawn by J. Parker),81,81
+3,6:23.0,,J. Parker makes free throw 1 of 2,81,82
+3,6:23.0,M. Bridges enters the game for T. Ariza,,81,82
+3,6:23.0,,J. Parker makes free throw 2 of 2,81,83
+3,6:03.0,Shooting foul by W. Carter (drawn by D. Booker),,81,83
+3,6:03.0,D. Booker makes free throw 1 of 2,,82,83
+3,6:03.0,,C. Felício enters the game for W. Carter,82,83
+3,6:03.0,D. Booker makes free throw 2 of 2,,83,83
+3,5:49.0,,J. Holiday makes 3-pt jump shot from 26 ft (assist by R. Arcidiacono),83,86
+3,5:30.0,D. Ayton misses 2-pt layup from 2 ft,,83,86
+3,5:27.0,,Defensive rebound by J. Parker,83,86
+3,5:11.0,,R. Arcidiacono makes 3-pt jump shot from 25 ft (assist by C. Felício),83,89
+3,4:58.0,Turnover by D. Booker (lost ball; steal by R. Arcidiacono),,83,89
+3,4:55.0,,Turnover by J. Holiday (bad pass; steal by D. Booker),83,89
+3,4:54.0,D. Ayton makes 2-pt dunk from 1 ft,,85,89
+3,4:50.0,,C. Felício makes 2-pt layup from 1 ft (assist by J. Parker),85,91
+3,4:39.0,Personal foul by C. Felício (drawn by I. Canaan),,85,91
+3,4:39.0,R. Holmes enters the game for D. Ayton,,85,91
+3,4:39.0,J. Jackson enters the game for D. Booker,,85,91
+3,4:39.0,,A. Blakeney enters the game for J. Parker,85,91
+3,4:28.0,J. Jackson misses 2-pt layup from 3 ft,,85,91
+3,4:27.0,Offensive rebound by J. Jackson,,85,91
+3,4:27.0,J. Jackson misses 2-pt layup at rim,,85,91
+3,4:27.0,,Defensive rebound by Team,85,91
+3,4:16.0,,Z. LaVine misses 2-pt jump shot from 16 ft,85,91
+3,4:14.0,Defensive rebound by T. Warren,,85,91
+3,4:06.0,T. Warren misses 2-pt layup from 9 ft,,85,91
+3,4:01.0,R. Holmes makes 2-pt layup at rim,,87,91
+3,4:01.0,Offensive rebound by R. Holmes,,87,91
+3,4:01.0,,Turnover by J. Holiday (bad pass),87,91
+3,3:52.0,M. Bridges makes 2-pt dunk from 1 ft (assist by I. Canaan),,89,91
+3,3:52.0,,Chicago full timeout,89,91
+3,3:40.0,,J. Holiday makes 3-pt jump shot from 26 ft (assist by Z. LaVine),89,94
+3,3:20.0,R. Holmes misses 2-pt hook shot from 3 ft,,89,94
+3,3:18.0,,Defensive rebound by J. Holiday,89,94
+3,3:06.0,,J. Holiday misses 3-pt jump shot from 26 ft,89,94
+3,3:04.0,Defensive rebound by M. Bridges,,89,94
+3,2:47.0,J. Jackson misses 3-pt jump shot from 25 ft,,89,94
+3,2:45.0,,Defensive rebound by J. Holiday,89,94
+3,2:45.0,J. Crawford enters the game for I. Canaan,,89,94
+3,2:45.0,,S. Harrison enters the game for Z. LaVine,89,94
+3,2:27.0,,C. Felício misses 2-pt layup from 1 ft,89,94
+3,2:25.0,Defensive rebound by R. Holmes,,89,94
+3,2:16.0,J. Crawford misses 3-pt jump shot from 26 ft,,89,94
+3,2:12.0,,Defensive rebound by C. Felício,89,94
+3,2:02.0,,Turnover by A. Blakeney (lost ball; steal by M. Bridges),89,94
+3,1:59.0,M. Bridges misses 2-pt layup from 2 ft,,89,94
+3,1:56.0,,Defensive rebound by R. Arcidiacono,89,94
+3,1:49.0,,A. Blakeney misses 2-pt jump shot from 6 ft (block by R. Holmes),89,94
+3,1:49.0,Defensive rebound by M. Bridges,,89,94
+3,1:44.0,T. Warren makes 2-pt layup from 2 ft,,91,94
+3,1:32.0,,Personal foul by R. Holmes (drawn by S. Harrison),91,94
+3,1:32.0,,J. Parker enters the game for R. Arcidiacono,91,94
+3,1:21.0,,S. Harrison misses 2-pt layup from 1 ft,91,94
+3,1:19.0,Defensive rebound by R. Holmes,,91,94
+3,1:14.0,T. Warren misses 2-pt layup from 2 ft,,91,94
+3,1:12.0,,Defensive rebound by C. Felício,91,94
+3,1:09.0,,Turnover by C. Felício (bad pass; steal by M. Bridges),91,94
+3,1:05.0,R. Holmes makes 2-pt dunk from 1 ft (assist by M. Bridges),,93,94
+3,0:44.0,,S. Harrison misses 2-pt jump shot from 7 ft,93,94
+3,0:42.0,Defensive rebound by J. Jackson,,93,94
+3,0:38.0,J. Crawford misses 3-pt jump shot from 25 ft,,93,94
+3,0:35.0,,Defensive rebound by Team,93,94
+3,0:26.0,,Offensive foul by J. Holiday (drawn by J. Jackson),93,94
+3,0:26.0,,Turnover by J. Holiday (offensive foul),93,94
+3,0:26.0,D. Booker enters the game for M. Bridges,,93,94
+3,0:06.0,Personal foul by C. Felício (drawn by J. Crawford),,93,94
+3,0:04.0,T. Warren misses 2-pt hook shot from 4 ft,,93,94
+3,0:02.0,Offensive rebound by R. Holmes,,93,94
+3,0:01.0,R. Holmes misses 2-pt jump shot from 9 ft,,93,94
+3,0:01.0,Offensive rebound by Team,,93,94
+3,0:01.0,,R. Lopez enters the game for A. Blakeney,93,94
+3,0:00.0,D. Booker misses 3-pt jump shot from 23 ft,,93,94
+3,0:00.0,Offensive rebound by Team,,93,94
+4,11:43.0,,J. Parker misses 2-pt layup from 2 ft,93,94
+4,11:41.0,Defensive rebound by R. Holmes,,93,94
+4,11:31.0,R. Holmes makes 2-pt dunk from 1 ft (assist by D. Booker),,95,94
+4,11:18.0,,S. Harrison makes 2-pt layup from 2 ft (assist by Z. LaVine),95,96
+4,11:18.0,,Shooting foul by D. Booker (drawn by S. Harrison),95,96
+4,11:18.0,,S. Harrison makes free throw 1 of 1,95,97
+4,10:54.0,J. Crawford makes 2-pt jump shot from 15 ft,,97,97
+4,10:31.0,,Z. LaVine misses 2-pt jump shot from 21 ft,97,97
+4,10:28.0,Defensive rebound by T. Ariza,,97,97
+4,10:16.0,T. Ariza misses 3-pt jump shot from 25 ft,,97,97
+4,10:13.0,,Defensive rebound by S. Harrison,97,97
+4,9:58.0,,A. Blakeney misses 2-pt jump shot from 19 ft (block by R. Holmes),97,97
+4,9:54.0,,Offensive rebound by S. Harrison,97,97
+4,9:52.0,,Z. LaVine makes 2-pt layup from 2 ft (assist by S. Harrison),97,99
+4,9:29.0,J. Crawford misses 2-pt jump shot from 21 ft,,97,99
+4,9:26.0,,Defensive rebound by S. Harrison,97,99
+4,9:09.0,,S. Harrison makes 2-pt layup from 2 ft (assist by J. Parker),97,101
+4,8:55.0,Turnover by D. Booker (bad pass; steal by S. Harrison),,97,101
+4,8:51.0,,A. Blakeney makes 2-pt layup from 1 ft (assist by J. Parker),97,103
+4,8:51.0,Phoenix full timeout,,97,103
+4,8:51.0,D. Ayton enters the game for R. Holmes,,97,103
+4,8:35.0,D. Booker misses 3-pt jump shot from 26 ft (block by S. Harrison),,97,103
+4,8:35.0,Offensive rebound by Team,,97,103
+4,8:33.0,J. Crawford misses 3-pt jump shot from 26 ft,,97,103
+4,8:28.0,,Defensive rebound by A. Blakeney,97,103
+4,8:19.0,,J. Parker makes 2-pt dunk at rim,97,105
+4,8:19.0,,Shooting foul by D. Booker (drawn by J. Parker),97,105
+4,8:19.0,I. Canaan enters the game for D. Booker,,97,105
+4,8:19.0,,J. Parker misses free throw 1 of 1,97,105
+4,8:19.0,Defensive rebound by T. Ariza,,97,105
+4,8:06.0,I. Canaan misses 3-pt jump shot from 26 ft,,97,105
+4,8:02.0,,Defensive rebound by Z. LaVine,97,105
+4,8:00.0,,Offensive foul by C. Felício (drawn by I. Canaan),97,105
+4,8:00.0,,Turnover by C. Felício (offensive foul),97,105
+4,7:43.0,I. Canaan misses 2-pt layup from 2 ft,,97,105
+4,7:41.0,,Defensive rebound by C. Felício,97,105
+4,7:27.0,,A. Blakeney makes 2-pt jump shot from 19 ft,97,107
+4,7:04.0,D. Ayton makes 2-pt hook shot from 3 ft (assist by J. Crawford),,99,107
+4,6:40.0,,S. Harrison misses 3-pt jump shot from 26 ft,99,107
+4,6:34.0,,Offensive rebound by J. Parker,99,107
+4,6:28.0,,A. Blakeney misses 3-pt jump shot from 25 ft,99,107
+4,6:25.0,Defensive rebound by D. Ayton,,99,107
+4,6:16.0,J. Crawford makes 2-pt jump shot from 8 ft,,101,107
+4,6:05.0,,Z. LaVine makes 2-pt layup from 1 ft,101,109
+4,5:40.0,J. Crawford makes 3-pt jump shot from 24 ft (assist by D. Ayton),,104,109
+4,5:24.0,,C. Felício makes 2-pt hook shot from 2 ft (assist by Z. LaVine),104,111
+4,5:04.0,J. Crawford makes 2-pt jump shot from 13 ft (assist by I. Canaan),,106,111
+4,4:56.0,,Personal foul by M. Bridges (drawn by Z. LaVine),106,111
+4,4:56.0,T. Warren enters the game for M. Bridges,,106,111
+4,4:56.0,,W. Carter enters the game for A. Blakeney,106,111
+4,4:56.0,,J. Holiday enters the game for C. Felício,106,111
+4,4:47.0,,Offensive foul by W. Carter (drawn by T. Ariza),106,111
+4,4:47.0,,Turnover by W. Carter (offensive foul),106,111
+4,4:35.0,T. Warren makes 2-pt jump shot from 7 ft (assist by I. Canaan),,108,111
+4,4:34.0,,Chicago full timeout,108,111
+4,4:34.0,,R. Arcidiacono enters the game for S. Harrison,108,111
+4,4:22.0,,Shooting foul by T. Ariza (drawn by Z. LaVine),108,111
+4,4:22.0,,Offensive rebound by Team,108,111
+4,4:22.0,,Z. LaVine misses free throw 1 of 2,108,111
+4,4:22.0,,Z. LaVine makes free throw 2 of 2,108,112
+4,4:08.0,Turnover by I. Canaan (bad pass),,108,112
+4,4:01.0,,Z. LaVine makes 3-pt jump shot from 25 ft (assist by W. Carter),108,115
+4,3:43.0,Turnover by T. Warren (bad pass; steal by J. Parker),,108,115
+4,3:29.0,,Z. LaVine makes 2-pt jump shot from 13 ft,108,117
+4,3:29.0,Phoenix full timeout,,108,117
+4,3:29.0,D. Booker enters the game for I. Canaan,,108,117
+4,3:29.0,M. Bridges enters the game for J. Crawford,,108,117
+4,3:13.0,T. Warren misses 2-pt jump shot from 11 ft,,108,117
+4,3:09.0,,Defensive rebound by W. Carter,108,117
+4,2:50.0,,Z. LaVine misses 2-pt layup from 5 ft (block by D. Ayton),108,117
+4,2:47.0,Defensive rebound by D. Ayton,,108,117
+4,2:46.0,Turnover by D. Ayton (bad pass; steal by W. Carter),,108,117
+4,2:42.0,,R. Arcidiacono misses 3-pt jump shot from 25 ft,108,117
+4,2:40.0,Defensive rebound by T. Warren,,108,117
+4,2:36.0,D. Booker misses 3-pt jump shot from 26 ft,,108,117
+4,2:32.0,,Defensive rebound by J. Holiday,108,117
+4,2:26.0,,J. Parker misses 3-pt jump shot from 25 ft,108,117
+4,2:22.0,Defensive rebound by T. Warren,,108,117
+4,2:21.0,D. Booker makes 2-pt jump shot from 17 ft,,110,117
+4,2:21.0,Shooting foul by J. Holiday (drawn by D. Booker),,110,117
+4,2:21.0,D. Booker makes free throw 1 of 1,,111,117
+4,2:00.0,,Z. LaVine misses 3-pt jump shot from 27 ft,111,117
+4,1:55.0,Defensive rebound by D. Ayton,,111,117
+4,1:49.0,D. Booker makes 2-pt jump shot from 7 ft,,113,117
+4,1:39.0,,Shooting foul by D. Ayton (drawn by W. Carter),113,117
+4,1:39.0,,W. Carter makes free throw 1 of 2,113,118
+4,1:39.0,,W. Carter makes free throw 2 of 2,113,119
+4,1:27.0,T. Warren makes 3-pt jump shot from 25 ft (assist by D. Ayton),,116,119
+4,1:06.0,,R. Arcidiacono misses 3-pt jump shot from 23 ft,116,119
+4,1:02.0,Defensive rebound by M. Bridges,,116,119
+4,0:57.0,Turnover by D. Booker (bad pass; steal by Z. LaVine),,116,119
+4,0:38.0,,Z. LaVine misses 2-pt layup from 5 ft (block by T. Ariza),116,119
+4,0:38.0,,Offensive rebound by Team,116,119
+4,0:37.0,,W. Carter makes 2-pt layup from 2 ft (assist by R. Arcidiacono),116,121
+4,0:31.0,D. Booker misses 3-pt jump shot from 26 ft,,116,121
+4,0:26.0,,Defensive rebound by J. Parker,116,121
+4,0:23.0,,Chicago full timeout,116,121
+4,0:23.0,I. Canaan enters the game for D. Booker,,116,121
+4,0:17.0,,Personal take foul by M. Bridges (drawn by Z. LaVine),116,121
+4,0:17.0,,Z. LaVine makes free throw 1 of 2,116,122
+4,0:17.0,,Z. LaVine makes free throw 2 of 2,116,123
+4,0:17.0,Phoenix full timeout,,116,123
+4,0:17.0,D. Booker enters the game for I. Canaan,,116,123
+4,0:15.0,T. Ariza misses 3-pt jump shot from 25 ft,,116,123
+4,0:12.0,,Defensive rebound by J. Parker,116,123
+4,0:12.0,,Personal take foul by M. Bridges (drawn by J. Parker),116,123
+4,0:12.0,,J. Parker makes free throw 1 of 2,116,124
+4,0:12.0,,J. Parker misses free throw 2 of 2,116,124
+4,0:12.0,Defensive rebound by D. Ayton,,116,124
+4,0:04.0,M. Bridges misses 3-pt jump shot from 26 ft,,116,124
+4,0:00.0,,Defensive rebound by J. Parker,116,124

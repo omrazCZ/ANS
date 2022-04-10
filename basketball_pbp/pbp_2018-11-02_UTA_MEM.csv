@@ -1,0 +1,462 @@
+QUARTER,TIME_REMAINING,MEMPHIS_ACTION,UTAH_ACTION,MEMPHIS_SCORE,UTAH_SCORE
+1,11:33.0,Turnover by M. Gasol (bad pass; steal by R. Rubio),,0,0
+1,11:29.0,,R. Rubio makes 3-pt jump shot from 25 ft,0,3
+1,11:05.0,G. Temple misses 2-pt jump shot from 9 ft,,0,3
+1,11:03.0,,Defensive rebound by R. Gobert,0,3
+1,10:56.0,,D. Favors makes 3-pt jump shot from 23 ft (assist by R. Rubio),0,6
+1,10:32.0,Turnover by J. Jackson (bad pass; steal by J. Ingles),,0,6
+1,10:26.0,,D. Favors misses 3-pt jump shot from 23 ft,0,6
+1,10:24.0,Defensive rebound by Team,,0,6
+1,10:07.0,M. Conley makes 2-pt layup from 2 ft,,2,6
+1,9:50.0,,Turnover by J. Ingles (bad pass; steal by J. Jackson),2,6
+1,9:43.0,J. Jackson misses 3-pt jump shot from 25 ft,,2,6
+1,9:39.0,,Defensive rebound by R. Gobert,2,6
+1,9:32.0,,R. Rubio makes 2-pt jump shot from 17 ft,2,8
+1,9:25.0,Memphis full timeout,,2,8
+1,9:11.0,M. Gasol misses 2-pt jump shot from 12 ft,,2,8
+1,9:08.0,,Defensive rebound by J. Ingles,2,8
+1,8:57.0,,R. Rubio misses 2-pt jump shot from 7 ft,2,8
+1,8:56.0,Defensive rebound by M. Conley,,2,8
+1,8:52.0,Personal foul by R. Rubio (drawn by J. Jackson),,2,8
+1,8:40.0,G. Temple makes 3-pt jump shot from 24 ft (assist by M. Conley),,5,8
+1,8:27.0,,G. Allen makes 2-pt dunk from 2 ft (assist by R. Rubio),5,10
+1,8:03.0,M. Conley misses 2-pt jump shot from 12 ft,,5,10
+1,8:02.0,,Defensive rebound by R. Gobert,5,10
+1,7:55.0,,R. Rubio makes 2-pt layup from 2 ft,5,12
+1,7:38.0,M. Gasol makes 2-pt jump shot from 8 ft,,7,12
+1,7:38.0,Shooting foul by D. Favors (drawn by M. Gasol),,7,12
+1,7:38.0,M. Gasol makes free throw 1 of 1,,8,12
+1,7:26.0,,J. Ingles misses 3-pt jump shot from 25 ft,8,12
+1,7:25.0,,Offensive rebound by Team,8,12
+1,7:25.0,Loose ball foul by J. Jackson (drawn by D. Favors),,8,12
+1,7:25.0,D. Brooks enters the game for K. Anderson,,8,12
+1,7:14.0,,J. Ingles makes 2-pt layup from 3 ft (assist by R. Rubio),8,14
+1,7:03.0,J. Jackson makes 2-pt jump shot from 4 ft (assist by M. Gasol),,10,14
+1,6:39.0,,Turnover by J. Ingles (lost ball; steal by D. Brooks),10,14
+1,6:31.0,D. Brooks makes 2-pt layup from 3 ft (assist by M. Conley),,12,14
+1,6:12.0,,D. Favors misses 2-pt hook shot from 3 ft,12,14
+1,6:12.0,,Offensive rebound by D. Favors,12,14
+1,6:12.0,,J. Ingles makes 3-pt jump shot from 25 ft (assist by D. Favors),12,17
+1,6:12.0,,Shooting foul by D. Brooks (drawn by J. Ingles),12,17
+1,6:12.0,,J. Crowder enters the game for D. Favors,12,17
+1,6:12.0,,J. Ingles makes free throw 1 of 1,12,18
+1,5:49.0,D. Brooks misses 2-pt jump shot from 13 ft,,12,18
+1,5:45.0,,Defensive rebound by J. Crowder,12,18
+1,5:40.0,,Personal foul by D. Brooks (drawn by R. Rubio),12,18
+1,5:40.0,W. Selden enters the game for J. Jackson,,12,18
+1,5:40.0,,R. O'Neale enters the game for J. Ingles,12,18
+1,5:40.0,,Turnover by R. Rubio (bad pass),12,18
+1,5:21.0,Shooting foul by R. O'Neale (drawn by M. Conley),,12,18
+1,5:21.0,M. Conley makes free throw 1 of 2,,13,18
+1,5:21.0,M. Conley makes free throw 2 of 2,,14,18
+1,4:59.0,,R. O'Neale makes 2-pt layup from 2 ft (assist by G. Allen),14,20
+1,4:49.0,D. Brooks misses 3-pt jump shot from 25 ft,,14,20
+1,4:46.0,,Defensive rebound by R. Gobert,14,20
+1,4:39.0,,R. Rubio makes 2-pt jump shot from 18 ft,14,22
+1,4:20.0,Personal foul by G. Allen (drawn by M. Gasol),,14,22
+1,4:20.0,S. Mack enters the game for M. Conley,,14,22
+1,4:20.0,,D. Exum enters the game for R. Rubio,14,22
+1,4:10.0,D. Brooks makes 2-pt layup from 2 ft (assist by W. Selden),,16,22
+1,3:57.0,,Turnover by R. Gobert (bad pass; steal by G. Temple),16,22
+1,3:55.0,Shooting foul by G. Allen (drawn by W. Selden),,16,22
+1,3:55.0,W. Selden misses free throw 1 of 2,,16,22
+1,3:55.0,Offensive rebound by Team,,16,22
+1,3:55.0,K. Anderson enters the game for G. Temple,,16,22
+1,3:55.0,W. Selden misses free throw 2 of 2,,16,22
+1,3:52.0,,Defensive rebound by R. Gobert,16,22
+1,3:41.0,,G. Allen misses 3-pt jump shot from 27 ft,16,22
+1,3:40.0,,Offensive rebound by R. Gobert,16,22
+1,3:40.0,,G. Allen misses 3-pt jump shot from 24 ft,16,22
+1,3:39.0,Defensive rebound by S. Mack,,16,22
+1,3:31.0,Personal foul by D. Exum (drawn by M. Gasol),,16,22
+1,3:31.0,M. Gasol makes free throw 1 of 2,,17,22
+1,3:31.0,,J. Ingles enters the game for G. Allen,17,22
+1,3:31.0,M. Gasol misses free throw 2 of 2,,17,22
+1,3:28.0,,Defensive rebound by J. Crowder,17,22
+1,3:22.0,Violation by Team (kicked ball),,17,22
+1,3:22.0,,Utah full timeout,17,22
+1,3:22.0,,D. Favors enters the game for R. Gobert,17,22
+1,3:09.0,,J. Ingles makes 3-pt jump shot from 25 ft,17,25
+1,2:50.0,M. Gasol makes 2-pt jump shot from 16 ft (assist by K. Anderson),,19,25
+1,2:29.0,,Turnover by R. O'Neale (traveling),19,25
+1,2:29.0,O. Casspi enters the game for D. Brooks,,19,25
+1,2:29.0,J. Jackson enters the game for M. Gasol,,19,25
+1,2:09.0,J. Jackson makes 2-pt layup from 3 ft (assist by S. Mack),,21,25
+1,1:51.0,,D. Favors misses 2-pt layup from 3 ft,21,25
+1,1:49.0,Defensive rebound by O. Casspi,,21,25
+1,1:44.0,K. Anderson misses 2-pt layup from 4 ft (block by D. Favors),,21,25
+1,1:44.0,Offensive rebound by O. Casspi,,21,25
+1,1:44.0,Shooting foul by D. Favors (drawn by O. Casspi),,21,25
+1,1:44.0,O. Casspi misses free throw 1 of 2,,21,25
+1,1:44.0,Offensive rebound by Team,,21,25
+1,1:44.0,O. Casspi makes free throw 2 of 2,,22,25
+1,1:32.0,,Turnover by J. Ingles (out of bounds lost ball),22,25
+1,1:21.0,S. Mack makes 3-pt jump shot from 26 ft,,25,25
+1,1:12.0,,J. Crowder misses 2-pt layup from 3 ft,25,25
+1,1:08.0,,Offensive rebound by D. Favors,25,25
+1,1:03.0,,D. Favors makes 2-pt dunk from 2 ft,25,27
+1,1:00.0,J. Jackson misses 2-pt layup from 2 ft (block by J. Crowder),,25,27
+1,1:00.0,,Defensive rebound by D. Favors,25,27
+1,0:59.0,,Personal foul by O. Casspi (drawn by D. Exum),25,27
+1,0:47.0,,J. Ingles makes 2-pt jump shot from 23 ft,25,29
+1,0:37.0,W. Selden makes 3-pt jump shot from 25 ft (assist by S. Mack),,28,29
+1,0:26.0,,R. O'Neale misses 2-pt hook shot from 5 ft (block by J. Jackson),28,29
+1,0:23.0,,Offensive rebound by D. Favors,28,29
+1,0:22.0,,D. Favors makes 2-pt layup from 3 ft,28,31
+1,0:05.0,Shooting foul by J. Ingles (drawn by O. Casspi),,28,31
+1,0:05.0,O. Casspi misses free throw 1 of 2,,28,31
+1,0:05.0,Offensive rebound by Team,,28,31
+1,0:05.0,O. Casspi makes free throw 2 of 2,,29,31
+1,0:00.0,,D. Exum misses 2-pt layup from 2 ft,29,31
+1,0:00.0,Defensive rebound by O. Casspi,,29,31
+2,11:43.0,,R. O'Neale misses 3-pt jump shot from 23 ft,29,31
+2,11:39.0,Defensive rebound by S. Mack,,29,31
+2,11:31.0,J. Jackson makes 2-pt layup from 2 ft (assist by O. Casspi),,31,31
+2,11:24.0,,Personal foul by K. Anderson (drawn by J. Ingles),31,31
+2,11:24.0,,G. Niang enters the game for R. O'Neale,31,31
+2,11:06.0,,D. Favors makes 2-pt layup from 2 ft (assist by D. Exum),31,33
+2,10:44.0,S. Mack misses 2-pt jump shot from 9 ft,,31,33
+2,10:40.0,,Defensive rebound by G. Niang,31,33
+2,10:33.0,,Shooting foul by J. Jackson (drawn by D. Exum),31,33
+2,10:33.0,,D. Exum misses free throw 1 of 2,31,33
+2,10:33.0,,Offensive rebound by Team,31,33
+2,10:33.0,M. Conley enters the game for K. Anderson,,31,33
+2,10:33.0,,D. Exum makes free throw 2 of 2,31,34
+2,10:16.0,M. Conley misses 3-pt jump shot from 24 ft,,31,34
+2,10:12.0,,Defensive rebound by J. Ingles,31,34
+2,10:08.0,,Personal foul by J. Jackson (drawn by D. Favors),31,34
+2,10:08.0,M. Gasol enters the game for J. Jackson,,31,34
+2,10:04.0,,Personal foul by W. Selden (drawn by J. Ingles),31,34
+2,9:54.0,,J. Crowder misses 3-pt jump shot from 25 ft,31,34
+2,9:51.0,,Offensive rebound by G. Niang,31,34
+2,9:49.0,,G. Niang misses 2-pt layup from 2 ft (block by M. Gasol),31,34
+2,9:48.0,Defensive rebound by S. Mack,,31,34
+2,9:48.0,Personal foul by D. Exum (drawn by S. Mack),,31,34
+2,9:48.0,,R. O'Neale enters the game for J. Crowder,31,34
+2,9:38.0,O. Casspi makes 2-pt layup from 2 ft (assist by M. Gasol),,33,34
+2,9:27.0,,Personal foul by W. Selden (drawn by J. Ingles),33,34
+2,9:27.0,,J. Ingles makes free throw 1 of 2,33,35
+2,9:27.0,K. Anderson enters the game for W. Selden,,33,35
+2,9:27.0,,J. Ingles misses free throw 2 of 2,33,35
+2,9:24.0,Defensive rebound by K. Anderson,,33,35
+2,9:15.0,Personal foul by D. Favors (drawn by S. Mack),,33,35
+2,9:15.0,,G. Allen enters the game for D. Exum,33,35
+2,9:15.0,,R. Gobert enters the game for D. Favors,33,35
+2,9:15.0,,R. Rubio enters the game for J. Ingles,33,35
+2,9:09.0,M. Gasol makes 3-pt jump shot from 25 ft (assist by M. Conley),,36,35
+2,8:46.0,,Turnover by R. Rubio (bad pass; steal by M. Gasol),36,35
+2,8:29.0,M. Conley makes 2-pt layup from 6 ft,,38,35
+2,8:29.0,Shooting foul by G. Allen (drawn by M. Conley),,38,35
+2,8:29.0,,D. Exum enters the game for G. Allen,38,35
+2,8:29.0,M. Conley makes free throw 1 of 1,,39,35
+2,8:17.0,,D. Exum misses 3-pt jump shot from 23 ft,39,35
+2,8:15.0,Defensive rebound by M. Conley,,39,35
+2,8:07.0,M. Gasol misses 2-pt jump shot from 18 ft,,39,35
+2,8:06.0,,Defensive rebound by Team,39,35
+2,7:57.0,,G. Niang makes 3-pt jump shot from 24 ft (assist by R. Rubio),39,38
+2,7:38.0,Turnover by S. Mack (out of bounds lost ball),,39,38
+2,7:38.0,D. Brooks enters the game for O. Casspi,,39,38
+2,7:23.0,,R. Rubio makes 2-pt jump shot from 14 ft (assist by D. Exum),39,40
+2,7:04.0,Turnover by S. Mack (lost ball; steal by G. Niang),,39,40
+2,6:59.0,,D. Exum makes 2-pt layup from 1 ft,39,42
+2,6:52.0,Memphis full timeout,,39,42
+2,6:52.0,G. Temple enters the game for S. Mack,,39,42
+2,6:46.0,Personal foul by D. Exum (drawn by G. Temple),,39,42
+2,6:46.0,,G. Allen enters the game for D. Exum,39,42
+2,6:46.0,,J. Crowder enters the game for G. Niang,39,42
+2,6:41.0,G. Temple misses 3-pt jump shot from 24 ft,,39,42
+2,6:37.0,Offensive rebound by K. Anderson,,39,42
+2,6:33.0,D. Brooks misses 3-pt jump shot from 23 ft,,39,42
+2,6:30.0,,Defensive rebound by J. Crowder,39,42
+2,6:11.0,,R. Rubio misses 2-pt layup from 3 ft,39,42
+2,6:09.0,,Offensive rebound by R. Gobert,39,42
+2,6:08.0,,R. Gobert makes 2-pt dunk from 1 ft,39,44
+2,5:56.0,M. Conley makes 3-pt jump shot from 25 ft (assist by M. Gasol),,42,44
+2,5:49.0,,Utah full timeout,42,44
+2,5:49.0,,J. Ingles enters the game for G. Allen,42,44
+2,5:36.0,,Personal foul by D. Brooks (drawn by R. O'Neale),42,44
+2,5:36.0,,R. O'Neale makes free throw 1 of 2,42,45
+2,5:36.0,S. Mack enters the game for D. Brooks,,42,45
+2,5:36.0,,R. O'Neale misses free throw 2 of 2,42,45
+2,5:31.0,Defensive rebound by S. Mack,,42,45
+2,5:13.0,Turnover by M. Gasol (bad pass),,42,45
+2,4:52.0,,J. Ingles misses 2-pt jump shot from 13 ft,42,45
+2,4:49.0,Defensive rebound by M. Gasol,,42,45
+2,4:39.0,Personal foul by R. O'Neale (drawn by M. Conley),,42,45
+2,4:39.0,M. Conley makes free throw 1 of 2,,43,45
+2,4:39.0,M. Conley makes free throw 2 of 2,,44,45
+2,4:28.0,,J. Crowder makes 3-pt jump shot from 23 ft (assist by R. Rubio),44,48
+2,4:09.0,K. Anderson misses 2-pt layup from 2 ft (block by R. Gobert),,44,48
+2,4:07.0,Offensive rebound by G. Temple,,44,48
+2,4:07.0,Personal foul by R. Rubio (drawn by G. Temple),,44,48
+2,4:07.0,G. Temple makes free throw 1 of 2,,45,48
+2,4:07.0,G. Temple misses free throw 2 of 2,,45,48
+2,4:05.0,,Defensive rebound by R. Gobert,45,48
+2,3:42.0,,R. O'Neale misses 2-pt jump shot from 15 ft,45,48
+2,3:40.0,Defensive rebound by K. Anderson,,45,48
+2,3:40.0,Offensive foul by K. Anderson (drawn by J. Crowder),,45,48
+2,3:40.0,Turnover by K. Anderson (offensive foul),,45,48
+2,3:36.0,,Shooting foul by M. Gasol (drawn by J. Ingles),45,48
+2,3:36.0,,J. Ingles makes free throw 1 of 2,45,49
+2,3:36.0,,J. Ingles makes free throw 2 of 2,45,50
+2,3:30.0,Offensive foul by M. Gasol (drawn by R. O'Neale),,45,50
+2,3:30.0,Turnover by M. Gasol (offensive foul),,45,50
+2,3:20.0,,J. Ingles misses 3-pt jump shot from 25 ft,45,50
+2,3:19.0,,Offensive rebound by Team,45,50
+2,3:19.0,Loose ball foul by M. Gasol (drawn by R. Gobert),,45,50
+2,3:19.0,,R. Gobert makes free throw 1 of 2,45,51
+2,3:19.0,I. Rabb enters the game for M. Gasol,,45,51
+2,3:19.0,,R. Gobert misses free throw 2 of 2,45,51
+2,3:15.0,Defensive rebound by I. Rabb,,45,51
+2,2:57.0,S. Mack misses 3-pt jump shot from 25 ft,,45,51
+2,2:54.0,,Defensive rebound by R. Gobert,45,51
+2,2:43.0,,R. Rubio makes 3-pt jump shot from 25 ft (assist by J. Ingles),45,54
+2,2:41.0,Memphis full timeout,,45,54
+2,2:29.0,M. Conley misses 2-pt jump shot from 11 ft,,45,54
+2,2:27.0,Offensive rebound by M. Conley,,45,54
+2,2:25.0,M. Conley misses 2-pt jump shot from 5 ft,,45,54
+2,2:25.0,,Defensive rebound by J. Crowder,45,54
+2,2:19.0,,R. Rubio makes 3-pt jump shot from 26 ft,45,57
+2,2:02.0,K. Anderson misses 2-pt jump shot from 9 ft,,45,57
+2,1:59.0,,Defensive rebound by R. O'Neale,45,57
+2,1:55.0,,J. Crowder misses 3-pt jump shot from 26 ft,45,57
+2,1:51.0,Defensive rebound by S. Mack,,45,57
+2,1:43.0,G. Temple makes 2-pt jump shot from 20 ft (assist by K. Anderson),,47,57
+2,1:27.0,,R. Rubio misses 3-pt jump shot from 26 ft,47,57
+2,1:25.0,Defensive rebound by I. Rabb,,47,57
+2,1:14.0,M. Conley misses 2-pt layup from 2 ft,,47,57
+2,1:11.0,,Defensive rebound by R. Rubio,47,57
+2,1:06.0,,R. O'Neale makes 2-pt dunk from 3 ft (assist by R. Rubio),47,59
+2,0:48.0,Shooting foul by R. Rubio (drawn by M. Conley),,47,59
+2,0:48.0,M. Conley makes free throw 1 of 2,,48,59
+2,0:48.0,,G. Niang enters the game for R. Rubio,48,59
+2,0:48.0,M. Conley makes free throw 2 of 2,,49,59
+2,0:34.0,,G. Niang misses 3-pt jump shot from 23 ft,49,59
+2,0:31.0,Defensive rebound by G. Temple,,49,59
+2,0:11.0,M. Conley misses 2-pt jump shot from 10 ft,,49,59
+2,0:10.0,Offensive rebound by Team,,49,59
+2,0:10.0,,Loose ball foul by R. O'Neale (drawn by I. Rabb),49,59
+2,0:10.0,I. Rabb misses free throw 1 of 2,,49,59
+2,0:10.0,Offensive rebound by Team,,49,59
+2,0:10.0,,R. Rubio enters the game for R. O'Neale,49,59
+2,0:10.0,I. Rabb makes free throw 2 of 2,,50,59
+2,0:04.0,,Shooting foul by I. Rabb (drawn by J. Crowder),50,59
+2,0:04.0,,J. Crowder misses free throw 1 of 2,50,59
+2,0:04.0,,Offensive rebound by Team,50,59
+2,0:04.0,,R. O'Neale enters the game for R. Rubio,50,59
+2,0:04.0,,J. Crowder makes free throw 2 of 2,50,60
+2,0:00.0,M. Conley makes 3-pt jump shot from 29 ft,,53,60
+3,11:41.0,,J. Ingles misses 2-pt jump shot from 20 ft,53,60
+3,11:37.0,Defensive rebound by K. Anderson,,53,60
+3,11:20.0,Shooting foul by R. Rubio (drawn by K. Anderson),,53,60
+3,11:20.0,K. Anderson makes free throw 1 of 2,,54,60
+3,11:20.0,,D. Exum enters the game for R. Rubio,54,60
+3,11:20.0,K. Anderson misses free throw 2 of 2,,54,60
+3,11:18.0,,Defensive rebound by R. Gobert,54,60
+3,11:05.0,,R. Gobert makes 2-pt dunk from 2 ft (assist by D. Exum),54,62
+3,10:51.0,M. Conley makes 3-pt jump shot from 25 ft,,57,62
+3,10:38.0,,J. Ingles misses 3-pt jump shot from 24 ft,57,62
+3,10:35.0,Defensive rebound by M. Gasol,,57,62
+3,10:23.0,J. Jackson makes 3-pt jump shot from 24 ft (assist by M. Gasol),,60,62
+3,10:05.0,,D. Exum misses 3-pt jump shot from 24 ft,60,62
+3,10:01.0,Defensive rebound by M. Gasol,,60,62
+3,9:54.0,M. Gasol misses 3-pt jump shot from 25 ft,,60,62
+3,9:51.0,,Defensive rebound by Team,60,62
+3,9:27.0,,R. Gobert misses 2-pt layup from 2 ft,60,62
+3,9:22.0,,Offensive rebound by R. Gobert,60,62
+3,9:22.0,,R. Gobert makes 2-pt dunk at rim,60,64
+3,9:00.0,M. Gasol misses 2-pt hook shot from 6 ft (block by D. Favors),,60,64
+3,8:57.0,Offensive rebound by M. Gasol,,60,64
+3,8:57.0,M. Gasol misses 3-pt jump shot from 23 ft,,60,64
+3,8:57.0,,Defensive rebound by Team,60,64
+3,8:47.0,,Personal foul by G. Temple (drawn by J. Ingles),60,64
+3,8:34.0,,G. Allen makes 3-pt jump shot from 25 ft (assist by J. Ingles),60,67
+3,8:13.0,G. Temple makes 2-pt jump shot from 15 ft,,62,67
+3,7:56.0,,Turnover by J. Ingles (lost ball; steal by M. Conley),62,67
+3,7:45.0,M. Conley makes 2-pt jump shot from 11 ft,,64,67
+3,7:45.0,Shooting foul by G. Allen (drawn by M. Conley),,64,67
+3,7:45.0,,R. O'Neale enters the game for G. Allen,64,67
+3,7:45.0,M. Conley misses free throw 1 of 1,,64,67
+3,7:45.0,,Defensive rebound by R. Gobert,64,67
+3,7:30.0,,Turnover by J. Ingles (bad pass; steal by M. Gasol),64,67
+3,7:23.0,J. Jackson makes 2-pt layup from 3 ft (assist by K. Anderson),,66,67
+3,7:23.0,,Utah full timeout,66,67
+3,7:13.0,,D. Exum misses 2-pt layup from 2 ft,66,67
+3,7:12.0,,Offensive rebound by Team,66,67
+3,7:05.0,,J. Ingles makes 2-pt layup from 1 ft,66,69
+3,6:44.0,M. Conley misses 3-pt jump shot from 23 ft,,66,69
+3,6:41.0,Offensive rebound by K. Anderson,,66,69
+3,6:30.0,G. Temple makes 2-pt layup from 2 ft,,68,69
+3,6:12.0,,Turnover by D. Exum (bad pass; steal by G. Temple),68,69
+3,6:07.0,J. Jackson misses 2-pt layup from 8 ft,,68,69
+3,6:07.0,Offensive rebound by J. Jackson,,68,69
+3,6:07.0,Turnover by J. Jackson (offensive foul),,68,69
+3,6:07.0,Offensive foul by J. Jackson (drawn by D. Exum),,68,69
+3,6:07.0,D. Brooks enters the game for K. Anderson,,68,69
+3,6:07.0,S. Mack enters the game for J. Jackson,,68,69
+3,6:07.0,,J. Crowder enters the game for D. Favors,68,69
+3,5:53.0,,J. Crowder makes 2-pt jump shot from 22 ft (assist by R. Gobert),68,71
+3,5:29.0,M. Gasol makes 2-pt layup from 2 ft (assist by M. Conley),,70,71
+3,5:29.0,Shooting foul by J. Crowder (drawn by M. Gasol),,70,71
+3,5:29.0,,G. Niang enters the game for J. Ingles,70,71
+3,5:29.0,M. Gasol misses free throw 1 of 1,,70,71
+3,5:29.0,,Defensive rebound by R. Gobert,70,71
+3,5:12.0,,J. Crowder misses 3-pt jump shot from 24 ft,70,71
+3,5:09.0,Defensive rebound by M. Conley,,70,71
+3,4:57.0,G. Temple misses 3-pt jump shot from 25 ft,,70,71
+3,4:55.0,,Defensive rebound by Team,70,71
+3,4:44.0,,Personal foul by G. Temple (drawn by D. Exum),70,71
+3,4:44.0,K. Anderson enters the game for M. Conley,,70,71
+3,4:39.0,,D. Exum misses 2-pt layup from 4 ft (block by D. Brooks),70,71
+3,4:39.0,Defensive rebound by Team,,70,71
+3,4:20.0,S. Mack makes 3-pt jump shot from 26 ft (assist by D. Brooks),,73,71
+3,4:04.0,,Personal foul by S. Mack (drawn by R. Gobert),73,71
+3,4:04.0,,R. Rubio enters the game for D. Exum,73,71
+3,3:52.0,,R. Rubio makes 2-pt jump shot from 20 ft,73,73
+3,3:26.0,K. Anderson misses 2-pt hook shot from 11 ft,,73,73
+3,3:24.0,,Defensive rebound by G. Niang,73,73
+3,3:14.0,,Turnover by R. O'Neale (bad pass; steal by M. Gasol),73,73
+3,3:09.0,S. Mack misses 2-pt layup from 3 ft,,73,73
+3,3:09.0,Offensive rebound by G. Temple,,73,73
+3,3:09.0,G. Temple misses 2-pt layup from 2 ft,,73,73
+3,3:08.0,,Defensive rebound by G. Niang,73,73
+3,2:59.0,,R. O'Neale misses 2-pt layup from 3 ft,73,73
+3,2:57.0,Defensive rebound by M. Gasol,,73,73
+3,2:41.0,Turnover by S. Mack (out of bounds lost ball),,73,73
+3,2:41.0,Memphis full timeout,,73,73
+3,2:41.0,W. Selden enters the game for G. Temple,,73,73
+3,2:41.0,,G. Allen enters the game for R. Gobert,73,73
+3,2:41.0,,D. Favors enters the game for R. O'Neale,73,73
+3,2:27.0,,Shooting foul by W. Selden (drawn by D. Favors),73,73
+3,2:27.0,,D. Favors misses free throw 1 of 2,73,73
+3,2:27.0,,Offensive rebound by Team,73,73
+3,2:27.0,,D. Favors makes free throw 2 of 2,73,74
+3,2:02.0,D. Brooks makes 2-pt hook shot from 6 ft,,75,74
+3,1:48.0,,Personal foul by D. Brooks (drawn by G. Allen),75,74
+3,1:48.0,,G. Allen makes free throw 1 of 2,75,75
+3,1:48.0,,G. Allen misses free throw 2 of 2,75,75
+3,1:46.0,Defensive rebound by K. Anderson,,75,75
+3,1:36.0,S. Mack makes 3-pt jump shot from 24 ft,,78,75
+3,1:22.0,,D. Favors makes 2-pt jump shot from 12 ft (assist by R. Rubio),78,77
+3,1:03.0,S. Mack makes 3-pt jump shot from 23 ft (assist by M. Gasol),,81,77
+3,0:47.0,,Shooting foul by D. Brooks (drawn by R. Rubio),81,77
+3,0:47.0,,R. Rubio misses free throw 1 of 2,81,77
+3,0:47.0,,Offensive rebound by Team,81,77
+3,0:47.0,M. Brooks enters the game for K. Anderson,,81,77
+3,0:47.0,G. Temple enters the game for D. Brooks,,81,77
+3,0:47.0,,R. Rubio makes free throw 2 of 2,81,78
+3,0:34.0,W. Selden makes 2-pt dunk from 2 ft (assist by S. Mack),,83,78
+3,0:14.0,,Turnover by R. Rubio (bad pass; steal by M. Gasol),83,78
+3,0:01.0,G. Temple misses 3-pt jump shot from 24 ft,,83,78
+3,0:01.0,,Defensive rebound by G. Niang,83,78
+4,12:00.0,,Violation by Team (delay of game),83,78
+4,11:43.0,M. Gasol misses 2-pt layup from 2 ft,,83,78
+4,11:41.0,,Defensive rebound by R. Rubio,83,78
+4,11:36.0,,J. Ingles makes 3-pt jump shot from 24 ft (assist by R. Rubio),83,81
+4,11:10.0,W. Selden misses 2-pt jump shot from 21 ft,,83,81
+4,11:06.0,,Defensive rebound by D. Favors,83,81
+4,10:57.0,,J. Ingles misses 3-pt jump shot from 25 ft,83,81
+4,10:55.0,Defensive rebound by M. Gasol,,83,81
+4,10:30.0,S. Mack makes 2-pt layup from 2 ft (assist by M. Gasol),,85,81
+4,10:19.0,,R. Rubio misses 2-pt jump shot from 11 ft,85,81
+4,10:16.0,Defensive rebound by M. Gasol,,85,81
+4,10:02.0,M. Brooks makes 3-pt jump shot from 26 ft,,88,81
+4,9:34.0,,R. Rubio misses 2-pt jump shot from 22 ft,88,81
+4,9:29.0,,Offensive rebound by D. Favors,88,81
+4,9:29.0,,D. Favors misses 2-pt layup at rim,88,81
+4,9:28.0,Defensive rebound by M. Gasol,,88,81
+4,9:21.0,M. Gasol makes 3-pt jump shot from 28 ft (assist by M. Brooks),,91,81
+4,9:20.0,,Utah full timeout,91,81
+4,9:20.0,J. Jackson enters the game for M. Gasol,,91,81
+4,9:20.0,,D. Exum enters the game for J. Crowder,91,81
+4,9:20.0,,R. Gobert enters the game for D. Favors,91,81
+4,9:20.0,,G. Niang enters the game for R. Rubio,91,81
+4,9:10.0,,G. Allen misses 3-pt jump shot from 25 ft,91,81
+4,9:06.0,Defensive rebound by G. Temple,,91,81
+4,8:44.0,,Violation by Team (delay of game),91,81
+4,8:44.0,,Violation by Team (delay of game),91,81
+4,8:44.0,S. Mack makes technical free throw,,92,81
+4,8:44.0,Personal foul by D. Exum (drawn by S. Mack),,92,81
+4,8:30.0,G. Temple makes 2-pt layup from 3 ft (assist by J. Jackson),,94,81
+4,8:13.0,,Personal foul by J. Jackson (drawn by R. Gobert),94,81
+4,8:13.0,,J. Crowder enters the game for G. Allen,94,81
+4,8:13.0,,R. Rubio enters the game for G. Niang,94,81
+4,8:07.0,,Personal foul by W. Selden (drawn by R. Gobert),94,81
+4,7:58.0,,J. Crowder makes 3-pt jump shot from 24 ft (assist by R. Rubio),94,84
+4,7:35.0,Turnover by J. Jackson (traveling),,94,84
+4,7:26.0,,Turnover by R. Rubio (out of bounds lost ball),94,84
+4,7:26.0,K. Anderson enters the game for W. Selden,,94,84
+4,7:26.0,M. Conley enters the game for G. Temple,,94,84
+4,7:13.0,S. Mack makes 2-pt jump shot from 10 ft,,96,84
+4,6:57.0,,J. Crowder makes 3-pt jump shot from 25 ft (assist by D. Exum),96,87
+4,6:38.0,J. Jackson makes 2-pt layup from 3 ft,,98,87
+4,6:26.0,,R. Rubio misses 3-pt jump shot from 24 ft,98,87
+4,6:23.0,Defensive rebound by S. Mack,,98,87
+4,6:17.0,Memphis full timeout,,98,87
+4,6:17.0,,G. Allen enters the game for D. Exum,98,87
+4,6:08.0,M. Conley misses 2-pt jump shot from 8 ft (block by J. Ingles),,98,87
+4,6:08.0,,Defensive rebound by Team,98,87
+4,6:08.0,Loose ball foul by M. Conley (drawn by J. Ingles),,98,87
+4,5:55.0,,J. Crowder makes 3-pt jump shot from 25 ft (assist by R. Rubio),98,90
+4,5:29.0,Shooting foul by R. Gobert (drawn by K. Anderson),,98,90
+4,5:29.0,K. Anderson misses free throw 1 of 2,,98,90
+4,5:29.0,Offensive rebound by Team,,98,90
+4,5:29.0,M. Gasol enters the game for J. Jackson,,98,90
+4,5:29.0,K. Anderson makes free throw 2 of 2,,99,90
+4,5:22.0,,Personal foul by K. Anderson (drawn by J. Crowder),99,90
+4,5:22.0,G. Temple enters the game for K. Anderson,,99,90
+4,5:15.0,,J. Ingles misses 3-pt jump shot from 25 ft,99,90
+4,5:12.0,Defensive rebound by M. Gasol,,99,90
+4,4:56.0,S. Mack makes 2-pt jump shot from 20 ft,,101,90
+4,4:41.0,,Shooting foul by G. Temple (drawn by J. Crowder),101,90
+4,4:41.0,,J. Crowder misses free throw 1 of 2,101,90
+4,4:41.0,,Offensive rebound by Team,101,90
+4,4:41.0,,J. Crowder makes free throw 2 of 2,101,91
+4,4:19.0,M. Conley makes 2-pt layup from 2 ft (assist by M. Gasol),,103,91
+4,4:12.0,,Shooting foul by M. Gasol (drawn by R. Gobert),103,91
+4,4:12.0,,R. Gobert misses free throw 1 of 2,103,91
+4,4:12.0,,Offensive rebound by Team,103,91
+4,4:12.0,,R. Gobert makes free throw 2 of 2,103,92
+4,3:50.0,S. Mack misses 3-pt jump shot from 29 ft,,103,92
+4,3:47.0,,Defensive rebound by J. Crowder,103,92
+4,3:38.0,,G. Allen makes 3-pt jump shot from 24 ft (assist by J. Crowder),103,95
+4,3:14.0,M. Conley misses 2-pt jump shot from 15 ft,,103,95
+4,3:12.0,,Defensive rebound by R. Gobert,103,95
+4,3:06.0,,R. Rubio misses 3-pt jump shot from 25 ft,103,95
+4,3:02.0,Defensive rebound by M. Brooks,,103,95
+4,2:43.0,Shooting foul by R. Gobert (drawn by M. Conley),,103,95
+4,2:43.0,M. Conley misses free throw 1 of 3,,103,95
+4,2:43.0,Offensive rebound by Team,,103,95
+4,2:43.0,M. Conley makes free throw 2 of 3,,104,95
+4,2:43.0,D. Brooks enters the game for M. Brooks,,104,95
+4,2:43.0,M. Conley makes free throw 3 of 3,,105,95
+4,2:34.0,,J. Crowder makes 2-pt layup from 1 ft (assist by R. Rubio),105,97
+4,2:08.0,M. Conley misses 2-pt jump shot from 20 ft,,105,97
+4,2:04.0,,Defensive rebound by J. Ingles,105,97
+4,2:00.0,,Shooting foul by M. Conley (drawn by R. Gobert),105,97
+4,2:00.0,,R. Gobert misses free throw 1 of 2,105,97
+4,2:00.0,,Offensive rebound by Team,105,97
+4,2:00.0,,R. Gobert makes free throw 2 of 2,105,98
+4,1:42.0,M. Gasol makes 2-pt jump shot from 18 ft (assist by M. Conley),,107,98
+4,1:30.0,,R. Rubio makes 2-pt jump shot from 13 ft,107,100
+4,1:12.0,Turnover by G. Temple (bad pass),,107,100
+4,1:09.0,,Offensive foul by R. Gobert (drawn by D. Brooks),107,100
+4,1:09.0,,Turnover by R. Gobert (offensive foul),107,100
+4,0:55.0,Memphis full timeout,,107,100
+4,0:53.0,M. Conley misses 3-pt jump shot from 24 ft,,107,100
+4,0:50.0,Offensive rebound by M. Conley,,107,100
+4,0:41.0,Shooting foul by J. Crowder (drawn by M. Conley),,107,100
+4,0:41.0,M. Conley makes free throw 1 of 2,,108,100
+4,0:41.0,M. Conley makes free throw 2 of 2,,109,100
+4,0:36.0,,G. Allen misses 3-pt jump shot from 25 ft,109,100
+4,0:33.0,,Offensive rebound by J. Crowder,109,100
+4,0:30.0,,R. Rubio misses 3-pt jump shot from 23 ft,109,100
+4,0:30.0,Defensive rebound by D. Brooks,,109,100
+4,0:24.0,Personal foul by J. Ingles (drawn by M. Gasol),,109,100
+4,0:24.0,M. Gasol makes free throw 1 of 2,,110,100
+4,0:24.0,M. Gasol misses free throw 2 of 2,,110,100
+4,0:22.0,,Defensive rebound by R. Gobert,110,100
+4,0:16.0,,G. Allen misses 3-pt jump shot from 25 ft,110,100
+4,0:13.0,,Offensive rebound by R. Gobert,110,100
+4,0:10.0,,R. Gobert misses 2-pt jump shot from 11 ft,110,100
+4,0:07.0,Defensive rebound by M. Gasol,,110,100

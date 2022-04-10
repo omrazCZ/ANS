@@ -1,0 +1,473 @@
+QUARTER,TIME_REMAINING,PHOENIX_ACTION,TORONTO_ACTION,PHOENIX_SCORE,TORONTO_SCORE
+1,11:39.0,D. Booker misses 2-pt jump shot from 13 ft,,0,0
+1,11:37.0,,Defensive rebound by P. Siakam,0,0
+1,11:21.0,,S. Ibaka misses 2-pt jump shot from 20 ft,0,0
+1,11:18.0,Defensive rebound by M. Bridges,,0,0
+1,11:02.0,M. Bridges misses 3-pt jump shot from 23 ft (block by P. Siakam),,0,0
+1,10:59.0,,Defensive rebound by F. VanVleet,0,0
+1,10:39.0,,D. Green misses 3-pt jump shot from 23 ft,0,0
+1,10:38.0,,Offensive rebound by S. Ibaka,0,0
+1,10:34.0,,S. Ibaka makes 2-pt hook shot from 8 ft,0,2
+1,10:27.0,Personal foul by D. Green (drawn by D. Booker),,0,2
+1,10:16.0,D. Booker makes 2-pt jump shot from 12 ft,,2,2
+1,10:01.0,,F. VanVleet makes 2-pt layup from 1 ft (assist by K. Lowry),2,4
+1,9:52.0,T. Warren misses 2-pt jump shot from 7 ft,,2,4
+1,9:50.0,Offensive rebound by Team,,2,4
+1,9:43.0,D. Booker makes 3-pt jump shot from 25 ft (assist by D. Melton),,5,4
+1,9:28.0,,S. Ibaka makes 2-pt hook shot from 7 ft (assist by P. Siakam),5,6
+1,9:14.0,D. Booker misses 3-pt jump shot from 25 ft,,5,6
+1,9:11.0,Offensive rebound by D. Ayton,,5,6
+1,9:11.0,D. Ayton makes 2-pt layup at rim,,7,6
+1,8:59.0,,Personal foul by D. Melton (drawn by K. Lowry),7,6
+1,8:46.0,,Turnover by S. Ibaka (traveling),7,6
+1,8:29.0,Turnover by D. Booker (lost ball; steal by D. Green),,7,6
+1,8:20.0,,F. VanVleet makes 2-pt jump shot from 12 ft,7,8
+1,8:09.0,T. Warren misses 2-pt layup from 1 ft,,7,8
+1,8:07.0,,Defensive rebound by K. Lowry,7,8
+1,7:56.0,,P. Siakam misses 3-pt jump shot from 23 ft,7,8
+1,7:54.0,Defensive rebound by D. Booker,,7,8
+1,7:51.0,Turnover by D. Booker (bad pass),,7,8
+1,7:44.0,,F. VanVleet misses 2-pt layup from 2 ft (block by D. Melton),7,8
+1,7:42.0,Defensive rebound by D. Melton,,7,8
+1,7:35.0,T. Warren makes 2-pt jump shot from 12 ft (assist by M. Bridges),,9,8
+1,7:13.0,,P. Siakam makes 2-pt layup from 1 ft (assist by S. Ibaka),9,10
+1,6:51.0,D. Ayton makes 2-pt jump shot from 14 ft (assist by D. Melton),,11,10
+1,6:36.0,,K. Lowry makes 3-pt jump shot from 30 ft (assist by F. VanVleet),11,13
+1,6:19.0,D. Melton misses 3-pt jump shot from 25 ft,,11,13
+1,6:17.0,,Defensive rebound by Team,11,13
+1,6:17.0,,Toronto full timeout,11,13
+1,6:03.0,,K. Lowry misses 3-pt jump shot from 26 ft,11,13
+1,5:59.0,Defensive rebound by T. Warren,,11,13
+1,5:53.0,D. Booker misses 2-pt layup from 1 ft (block by S. Ibaka),,11,13
+1,5:51.0,,Defensive rebound by F. VanVleet,11,13
+1,5:44.0,,Turnover by S. Ibaka (lost ball; steal by D. Melton),11,13
+1,5:43.0,Personal take foul by F. VanVleet (drawn by D. Melton),,11,13
+1,5:25.0,D. Booker misses 3-pt jump shot from 25 ft,,11,13
+1,5:23.0,Offensive rebound by D. Ayton,,11,13
+1,5:21.0,T. Warren misses 3-pt jump shot from 24 ft,,11,13
+1,5:17.0,,Defensive rebound by P. Siakam,11,13
+1,5:09.0,,D. Green makes 3-pt jump shot from 24 ft (assist by P. Siakam),11,16
+1,4:55.0,T. Warren misses 2-pt jump shot from 10 ft,,11,16
+1,4:52.0,,Defensive rebound by P. Siakam,11,16
+1,4:49.0,,F. VanVleet makes 3-pt jump shot from 27 ft (assist by P. Siakam),11,19
+1,4:48.0,Phoenix full timeout,,11,19
+1,4:48.0,J. Jackson enters the game for M. Bridges,,11,19
+1,4:48.0,E. Okobo enters the game for D. Melton,,11,19
+1,4:48.0,,N. Powell enters the game for K. Lowry,11,19
+1,4:29.0,Turnover by D. Ayton (3 sec),,11,19
+1,4:19.0,,P. Siakam makes 2-pt hook shot from 6 ft,11,21
+1,3:57.0,E. Okobo misses 3-pt jump shot from 26 ft,,11,21
+1,3:53.0,,Defensive rebound by N. Powell,11,21
+1,3:51.0,,Turnover by N. Powell (bad pass),11,21
+1,3:51.0,,G. Monroe enters the game for S. Ibaka,11,21
+1,3:39.0,D. Booker makes 2-pt layup at rim,,13,21
+1,3:39.0,Shooting foul by G. Monroe (drawn by D. Booker),,13,21
+1,3:39.0,K. Oubre enters the game for T. Warren,,13,21
+1,3:39.0,,D. Wright enters the game for D. Green,13,21
+1,3:39.0,D. Booker misses free throw 1 of 1,,13,21
+1,3:37.0,,Defensive rebound by P. Siakam,13,21
+1,3:28.0,,D. Wright makes 2-pt layup from 1 ft (assist by P. Siakam),13,23
+1,3:28.0,,Shooting foul by K. Oubre (drawn by D. Wright),13,23
+1,3:28.0,,C. Miles enters the game for P. Siakam,13,23
+1,3:28.0,,D. Wright makes free throw 1 of 1,13,24
+1,3:13.0,D. Ayton makes 2-pt jump shot from 19 ft,,15,24
+1,2:51.0,,C. Miles makes 2-pt jump shot from 12 ft,15,26
+1,2:43.0,D. Booker makes 2-pt layup from 1 ft,,17,26
+1,2:36.0,,Personal foul by E. Okobo (drawn by F. VanVleet),17,26
+1,2:21.0,,F. VanVleet misses 3-pt jump shot from 29 ft,17,26
+1,2:18.0,Defensive rebound by D. Ayton,,17,26
+1,2:18.0,,K. Lowry enters the game for F. VanVleet,17,26
+1,1:57.0,D. Booker misses 2-pt jump shot from 14 ft,,17,26
+1,1:56.0,Offensive rebound by K. Oubre,,17,26
+1,1:56.0,Shooting foul by C. Miles (drawn by K. Oubre),,17,26
+1,1:56.0,R. Holmes enters the game for D. Ayton,,17,26
+1,1:56.0,T. Warren enters the game for D. Booker,,17,26
+1,1:56.0,K. Oubre makes free throw 1 of 2,,18,26
+1,1:56.0,K. Oubre makes free throw 2 of 2,,19,26
+1,1:44.0,,C. Miles makes 3-pt jump shot from 26 ft (assist by D. Wright),19,29
+1,1:23.0,K. Oubre misses 2-pt jump shot from 5 ft,,19,29
+1,1:20.0,,Defensive rebound by G. Monroe,19,29
+1,1:11.0,,C. Miles makes 2-pt jump shot from 5 ft (assist by D. Wright),19,31
+1,0:50.0,R. Holmes misses 2-pt jump shot from 4 ft (block by G. Monroe),,19,31
+1,0:50.0,,Defensive rebound by Team,19,31
+1,0:29.0,,Shooting foul by T. Warren (drawn by G. Monroe),19,31
+1,0:29.0,,G. Monroe misses free throw 1 of 2,19,31
+1,0:29.0,,Offensive rebound by Team,19,31
+1,0:29.0,,G. Monroe makes free throw 2 of 2,19,32
+1,0:13.0,Personal foul by K. Lowry (drawn by E. Okobo),,19,32
+1,0:13.0,E. Okobo misses free throw 1 of 2,,19,32
+1,0:13.0,Offensive rebound by Team,,19,32
+1,0:13.0,E. Okobo makes free throw 2 of 2,,20,32
+1,0:00.0,,K. Lowry misses 3-pt jump shot from 26 ft,20,32
+1,0:00.0,,Offensive rebound by Team,20,32
+2,11:44.0,,G. Monroe misses 2-pt layup from 2 ft (block by R. Holmes),20,32
+2,11:41.0,,Offensive rebound by G. Monroe,20,32
+2,11:40.0,,G. Monroe makes 2-pt layup from 2 ft,20,34
+2,11:18.0,Turnover by R. Holmes (lost ball; steal by N. Powell),,20,34
+2,11:11.0,,Turnover by K. Lowry (bad pass),20,34
+2,10:57.0,E. Okobo makes 2-pt jump shot from 10 ft,,22,34
+2,10:40.0,,D. Wright misses 2-pt jump shot from 11 ft,22,34
+2,10:36.0,,Offensive rebound by G. Monroe,22,34
+2,10:36.0,,G. Monroe makes 2-pt layup from 1 ft,22,36
+2,10:26.0,K. Oubre misses 2-pt jump shot from 5 ft (block by G. Monroe),,22,36
+2,10:26.0,Offensive rebound by Team,,22,36
+2,10:16.0,K. Oubre makes 3-pt jump shot from 23 ft,,25,36
+2,10:06.0,,D. Wright makes 2-pt layup from 1 ft,25,38
+2,9:45.0,R. Holmes misses 2-pt hook shot from 8 ft,,25,38
+2,9:43.0,,Defensive rebound by G. Monroe,25,38
+2,9:33.0,,D. Wright makes 2-pt layup from 1 ft,25,40
+2,9:33.0,,Shooting foul by R. Holmes (drawn by D. Wright),25,40
+2,9:33.0,,P. McCaw enters the game for N. Powell,25,40
+2,9:33.0,,D. Wright makes free throw 1 of 1,25,41
+2,9:17.0,J. Jackson misses 3-pt jump shot from 25 ft,,25,41
+2,9:14.0,Offensive rebound by R. Holmes,,25,41
+2,9:12.0,E. Okobo makes 3-pt jump shot from 26 ft (assist by R. Holmes),,28,41
+2,8:59.0,,G. Monroe makes 2-pt hook shot from 6 ft (assist by C. Miles),28,43
+2,8:59.0,Phoenix full timeout,,28,43
+2,8:59.0,D. Ayton enters the game for R. Holmes,,28,43
+2,8:45.0,K. Oubre misses 2-pt jump shot from 19 ft,,28,43
+2,8:42.0,,Defensive rebound by P. McCaw,28,43
+2,8:34.0,,K. Lowry misses 3-pt jump shot from 26 ft,28,43
+2,8:31.0,Defensive rebound by K. Oubre,,28,43
+2,8:21.0,T. Warren misses 2-pt jump shot from 10 ft,,28,43
+2,8:19.0,Offensive rebound by K. Oubre,,28,43
+2,8:18.0,K. Oubre misses 2-pt layup at rim,,28,43
+2,8:18.0,Offensive rebound by D. Ayton,,28,43
+2,8:18.0,Shooting foul by G. Monroe (drawn by D. Ayton),,28,43
+2,8:18.0,D. Ayton misses free throw 1 of 2,,28,43
+2,8:18.0,Offensive rebound by Team,,28,43
+2,8:18.0,D. Ayton makes free throw 2 of 2,,29,43
+2,8:01.0,,G. Monroe misses 2-pt hook shot from 4 ft,29,43
+2,8:01.0,Defensive rebound by D. Ayton,,29,43
+2,7:44.0,D. Ayton makes 2-pt hook shot from 8 ft,,31,43
+2,7:24.0,,Turnover by K. Lowry (bad pass; steal by D. Ayton),31,43
+2,7:21.0,Shooting foul by C. Miles (drawn by K. Oubre),,31,43
+2,7:21.0,K. Oubre misses free throw 1 of 2,,31,43
+2,7:21.0,Offensive rebound by Team,,31,43
+2,7:21.0,,S. Ibaka enters the game for C. Miles,31,43
+2,7:21.0,,P. Siakam enters the game for G. Monroe,31,43
+2,7:21.0,K. Oubre makes free throw 2 of 2,,32,43
+2,6:59.0,,Shooting foul by D. Ayton (drawn by K. Lowry),32,43
+2,6:59.0,,K. Lowry misses free throw 1 of 2,32,43
+2,6:59.0,,Offensive rebound by Team,32,43
+2,6:59.0,,K. Lowry makes free throw 2 of 2,32,44
+2,6:48.0,Turnover by E. Okobo (bad pass; steal by D. Wright),,32,44
+2,6:44.0,,K. Lowry makes 2-pt layup from 2 ft (assist by D. Wright),32,46
+2,6:26.0,K. Oubre misses 2-pt jump shot from 5 ft,,32,46
+2,6:26.0,Offensive rebound by Team,,32,46
+2,6:26.0,Personal foul by D. Wright (drawn by K. Oubre),,32,46
+2,6:26.0,D. Booker enters the game for E. Okobo,,32,46
+2,6:26.0,,F. VanVleet enters the game for K. Lowry,32,46
+2,6:22.0,D. Booker misses 2-pt jump shot from 15 ft,,32,46
+2,6:18.0,Offensive rebound by D. Ayton,,32,46
+2,6:16.0,D. Ayton misses 2-pt jump shot from 1 ft,,32,46
+2,6:13.0,Offensive rebound by D. Ayton,,32,46
+2,6:13.0,D. Ayton makes 2-pt layup at rim,,34,46
+2,6:02.0,,Turnover by P. McCaw (bad pass; steal by D. Ayton),34,46
+2,5:56.0,K. Oubre makes 2-pt layup at rim (assist by D. Ayton),,36,46
+2,5:39.0,,S. Ibaka misses 3-pt jump shot from 26 ft,36,46
+2,5:39.0,Defensive rebound by Team,,36,46
+2,5:39.0,,D. Green enters the game for D. Wright,36,46
+2,5:20.0,Personal foul by P. McCaw (drawn by D. Booker),,36,46
+2,5:20.0,M. Bridges enters the game for J. Jackson,,36,46
+2,5:09.0,D. Ayton makes 2-pt hook shot from 5 ft,,38,46
+2,4:52.0,,Turnover by S. Ibaka (traveling),38,46
+2,4:47.0,Personal foul by P. McCaw (drawn by D. Booker),,38,46
+2,4:47.0,D. Booker makes free throw 1 of 2,,39,46
+2,4:47.0,,Toronto full timeout,39,46
+2,4:47.0,D. Booker misses free throw 2 of 2,,39,46
+2,4:45.0,,Defensive rebound by P. Siakam,39,46
+2,4:24.0,,P. McCaw misses 3-pt jump shot from 26 ft (block by D. Ayton),39,46
+2,4:20.0,Defensive rebound by K. Oubre,,39,46
+2,4:14.0,T. Warren misses 2-pt jump shot from 6 ft,,39,46
+2,4:13.0,,Defensive rebound by S. Ibaka,39,46
+2,3:51.0,,F. VanVleet makes 2-pt jump shot from 20 ft,39,48
+2,3:43.0,D. Booker makes 2-pt layup from 1 ft,,41,48
+2,3:43.0,Shooting foul by D. Green (drawn by D. Booker),,41,48
+2,3:43.0,,K. Lowry enters the game for P. McCaw,41,48
+2,3:43.0,D. Booker makes free throw 1 of 1,,42,48
+2,3:30.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by F. VanVleet),42,50
+2,3:10.0,D. Booker makes 2-pt jump shot from 13 ft (assist by D. Ayton),,44,50
+2,2:57.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by P. Siakam),44,52
+2,2:32.0,K. Oubre misses 3-pt jump shot from 27 ft,,44,52
+2,2:29.0,,Defensive rebound by P. Siakam,44,52
+2,2:22.0,,Personal foul by D. Booker (drawn by P. Siakam),44,52
+2,2:09.0,,S. Ibaka misses 2-pt jump shot from 11 ft,44,52
+2,2:05.0,Defensive rebound by T. Warren,,44,52
+2,1:54.0,Turnover by D. Booker (lost ball; steal by K. Lowry),,44,52
+2,1:51.0,,F. VanVleet makes 2-pt layup from 1 ft (assist by K. Lowry),44,54
+2,1:51.0,Phoenix full timeout,,44,54
+2,1:35.0,K. Oubre misses 3-pt jump shot from 25 ft,,44,54
+2,1:31.0,,Defensive rebound by P. Siakam,44,54
+2,1:18.0,,Def 3 sec tech foul by Team,44,54
+2,1:18.0,,K. Lowry makes technical free throw,44,55
+2,1:18.0,,N. Powell enters the game for D. Green,44,55
+2,1:06.0,,F. VanVleet misses 2-pt jump shot from 13 ft,44,55
+2,1:04.0,Defensive rebound by M. Bridges,,44,55
+2,0:53.0,K. Oubre misses 2-pt jump shot from 4 ft,,44,55
+2,0:51.0,Offensive rebound by D. Ayton,,44,55
+2,0:49.0,D. Ayton misses 2-pt layup from 1 ft (block by P. Siakam),,44,55
+2,0:46.0,Offensive rebound by M. Bridges,,44,55
+2,0:46.0,T. Warren makes 3-pt jump shot from 26 ft (assist by M. Bridges),,47,55
+2,0:38.0,,S. Ibaka makes 2-pt layup from 1 ft (assist by N. Powell),47,57
+2,0:33.0,D. Booker misses 3-pt jump shot from 27 ft,,47,57
+2,0:29.0,,Defensive rebound by P. Siakam,47,57
+2,0:07.0,,Shooting foul by M. Bridges (drawn by K. Lowry),47,57
+2,0:07.0,,K. Lowry misses free throw 1 of 2,47,57
+2,0:07.0,,Offensive rebound by Team,47,57
+2,0:07.0,,K. Lowry misses free throw 2 of 2,47,57
+2,0:05.0,,Offensive rebound by P. Siakam,47,57
+2,0:03.0,,S. Ibaka misses 2-pt dunk from 2 ft,47,57
+2,0:02.0,Defensive rebound by D. Ayton,,47,57
+2,0:00.0,Shooting foul by F. VanVleet (drawn by K. Oubre),,47,57
+2,0:00.0,K. Oubre makes free throw 1 of 3,,48,57
+2,0:00.0,K. Oubre makes free throw 2 of 3,,49,57
+2,0:00.0,Offensive rebound by K. Oubre,,49,57
+2,0:00.0,K. Oubre misses free throw 3 of 3,,49,57
+3,11:36.0,,D. Green misses 2-pt jump shot from 13 ft,49,57
+3,11:34.0,Defensive rebound by D. Ayton,,49,57
+3,11:30.0,Shooting foul by F. VanVleet (drawn by D. Booker),,49,57
+3,11:30.0,D. Booker makes free throw 1 of 2,,50,57
+3,11:30.0,D. Booker makes free throw 2 of 2,,51,57
+3,11:11.0,,S. Ibaka misses 2-pt jump shot from 16 ft,51,57
+3,11:09.0,Defensive rebound by D. Ayton,,51,57
+3,10:51.0,D. Booker makes 3-pt jump shot from 25 ft,,54,57
+3,10:34.0,,P. Siakam misses 3-pt jump shot from 24 ft,54,57
+3,10:31.0,Defensive rebound by D. Ayton,,54,57
+3,10:27.0,D. Booker misses 3-pt jump shot from 26 ft,,54,57
+3,10:24.0,,Defensive rebound by P. Siakam,54,57
+3,10:16.0,,Shooting foul by D. Melton (drawn by F. VanVleet),54,57
+3,10:16.0,,F. VanVleet makes free throw 1 of 2,54,58
+3,10:16.0,,F. VanVleet makes free throw 2 of 2,54,59
+3,9:55.0,D. Melton misses 3-pt jump shot from 24 ft,,54,59
+3,9:52.0,,Defensive rebound by P. Siakam,54,59
+3,9:42.0,,K. Lowry misses 2-pt jump shot from 10 ft,54,59
+3,9:41.0,,Offensive rebound by S. Ibaka,54,59
+3,9:41.0,,Shooting foul by M. Bridges (drawn by S. Ibaka),54,59
+3,9:41.0,,S. Ibaka misses free throw 1 of 2,54,59
+3,9:41.0,,Offensive rebound by Team,54,59
+3,9:41.0,,S. Ibaka misses free throw 2 of 2,54,59
+3,9:39.0,Defensive rebound by M. Bridges,,54,59
+3,9:26.0,T. Warren makes 2-pt jump shot from 12 ft,,56,59
+3,9:10.0,,F. VanVleet misses 2-pt layup from 1 ft (block by D. Ayton),56,59
+3,9:07.0,Defensive rebound by D. Ayton,,56,59
+3,9:05.0,D. Melton makes 2-pt layup from 1 ft (assist by D. Booker),,58,59
+3,9:05.0,,Toronto full timeout,58,59
+3,8:46.0,,Turnover by P. Siakam (lost ball; steal by T. Warren),58,59
+3,8:41.0,D. Melton misses 2-pt jump shot from 18 ft,,58,59
+3,8:38.0,Offensive rebound by D. Ayton,,58,59
+3,8:38.0,Turnover by D. Ayton (step out of bounds),,58,59
+3,8:28.0,,D. Green makes 2-pt jump shot from 21 ft (assist by K. Lowry),58,61
+3,8:13.0,M. Bridges misses 3-pt jump shot from 25 ft,,58,61
+3,8:09.0,,Defensive rebound by S. Ibaka,58,61
+3,8:01.0,,P. Siakam makes 2-pt jump shot from 4 ft,58,63
+3,7:43.0,T. Warren makes 2-pt layup from 1 ft (assist by D. Booker),,60,63
+3,7:37.0,,Personal foul by D. Melton (drawn by K. Lowry),60,63
+3,7:27.0,,K. Lowry makes 2-pt layup at rim,60,65
+3,7:16.0,Shooting foul by K. Lowry (drawn by D. Ayton),,60,65
+3,7:16.0,D. Ayton makes free throw 1 of 2,,61,65
+3,7:16.0,D. Ayton makes free throw 2 of 2,,62,65
+3,7:08.0,,K. Lowry misses 3-pt jump shot from 27 ft (block by M. Bridges),62,65
+3,7:05.0,Defensive rebound by D. Melton,,62,65
+3,7:03.0,Shooting foul by S. Ibaka (drawn by M. Bridges),,62,65
+3,7:03.0,M. Bridges makes free throw 1 of 2,,63,65
+3,7:03.0,M. Bridges makes free throw 2 of 2,,64,65
+3,6:49.0,,S. Ibaka misses 2-pt jump shot from 19 ft,64,65
+3,6:46.0,Defensive rebound by D. Melton,,64,65
+3,6:44.0,Personal foul by S. Ibaka (drawn by D. Ayton),,64,65
+3,6:36.0,M. Bridges misses 3-pt jump shot from 26 ft,,64,65
+3,6:32.0,,Defensive rebound by D. Green,64,65
+3,6:25.0,,Personal foul by D. Booker (drawn by P. Siakam),64,65
+3,6:10.0,,S. Ibaka makes 2-pt dunk at rim (assist by D. Green),64,67
+3,5:41.0,M. Bridges makes 3-pt jump shot from 24 ft (assist by D. Booker),,67,67
+3,5:32.0,,Personal foul by M. Bridges (drawn by K. Lowry),67,67
+3,5:32.0,,K. Lowry makes free throw 1 of 2,67,68
+3,5:32.0,Q. Acy enters the game for D. Ayton,,67,68
+3,5:32.0,R. Holmes enters the game for T. Warren,,67,68
+3,5:32.0,,K. Lowry makes free throw 2 of 2,67,69
+3,5:18.0,D. Booker misses 2-pt jump shot from 12 ft,,67,69
+3,5:15.0,,Defensive rebound by K. Lowry,67,69
+3,5:11.0,,F. VanVleet misses 3-pt jump shot from 26 ft,67,69
+3,5:11.0,Defensive rebound by M. Bridges,,67,69
+3,4:58.0,Turnover by D. Booker (bad pass),,67,69
+3,4:58.0,,N. Powell enters the game for K. Lowry,67,69
+3,4:37.0,,D. Green makes 2-pt layup from 1 ft (assist by N. Powell),67,71
+3,4:24.0,Turnover by D. Booker (bad pass; steal by P. Siakam),,67,71
+3,4:20.0,,N. Powell misses 3-pt jump shot from 23 ft,67,71
+3,4:17.0,,Offensive rebound by P. Siakam,67,71
+3,4:14.0,,Shooting foul by D. Melton (drawn by N. Powell),67,71
+3,4:14.0,,N. Powell makes free throw 1 of 2,67,72
+3,4:14.0,,N. Powell makes free throw 2 of 2,67,73
+3,3:58.0,R. Holmes makes 2-pt dunk from 2 ft (assist by D. Booker),,69,73
+3,3:41.0,,N. Powell misses 2-pt layup from 2 ft (block by Q. Acy),69,73
+3,3:41.0,Defensive rebound by Team,,69,73
+3,3:19.0,M. Bridges makes 2-pt jump shot from 3 ft,,71,73
+3,3:07.0,,S. Ibaka makes 2-pt jump shot from 16 ft (assist by F. VanVleet),71,75
+3,3:05.0,Phoenix full timeout,,71,75
+3,3:05.0,J. Jackson enters the game for D. Booker,,71,75
+3,3:05.0,E. Okobo enters the game for D. Melton,,71,75
+3,3:05.0,,G. Monroe enters the game for D. Green,71,75
+3,3:05.0,,D. Wright enters the game for S. Ibaka,71,75
+3,2:52.0,J. Jackson makes 2-pt layup from 1 ft (assist by M. Bridges),,73,75
+3,2:31.0,,G. Monroe misses 2-pt hook shot from 3 ft,73,75
+3,2:29.0,Defensive rebound by E. Okobo,,73,75
+3,2:19.0,Q. Acy misses 3-pt jump shot from 23 ft,,73,75
+3,2:16.0,,Defensive rebound by G. Monroe,73,75
+3,2:13.0,,Turnover by D. Wright (lost ball; steal by J. Jackson),73,75
+3,2:10.0,Personal take foul by G. Monroe (drawn by E. Okobo),,73,75
+3,2:10.0,E. Okobo makes free throw 1 of 2,,74,75
+3,2:10.0,K. Oubre enters the game for M. Bridges,,74,75
+3,2:10.0,,K. Lowry enters the game for F. VanVleet,74,75
+3,2:10.0,E. Okobo makes free throw 2 of 2,,75,75
+3,1:53.0,,P. Siakam misses 3-pt jump shot from 23 ft,75,75
+3,1:50.0,Defensive rebound by K. Oubre,,75,75
+3,1:43.0,Shooting foul by G. Monroe (drawn by R. Holmes),,75,75
+3,1:43.0,R. Holmes misses free throw 1 of 2,,75,75
+3,1:43.0,Offensive rebound by Team,,75,75
+3,1:43.0,,C. Miles enters the game for P. Siakam,75,75
+3,1:43.0,R. Holmes makes free throw 2 of 2,,76,75
+3,1:21.0,,Turnover by G. Monroe (lost ball; steal by E. Okobo),76,75
+3,1:03.0,K. Oubre makes 2-pt jump shot from 15 ft,,78,75
+3,0:50.0,,K. Lowry misses 3-pt jump shot from 26 ft,78,75
+3,0:47.0,,Offensive rebound by C. Miles,78,75
+3,0:43.0,,G. Monroe makes 2-pt layup from 1 ft (assist by D. Wright),78,77
+3,0:37.0,Offensive foul by R. Holmes (drawn by K. Lowry),,78,77
+3,0:37.0,Turnover by R. Holmes (offensive foul),,78,77
+3,0:29.0,,K. Lowry misses 2-pt jump shot from 2 ft,78,77
+3,0:27.0,Defensive rebound by J. Jackson,,78,77
+3,0:26.0,Turnover by J. Jackson (dbl dribble),,78,77
+3,0:08.0,,Offensive foul by G. Monroe (drawn by K. Oubre),78,77
+3,0:08.0,,Turnover by G. Monroe (offensive foul),78,77
+3,0:08.0,D. Booker enters the game for Q. Acy,,78,77
+3,0:08.0,T. Warren enters the game for E. Okobo,,78,77
+3,0:08.0,,C. Boucher enters the game for G. Monroe,78,77
+3,0:02.0,D. Booker misses 2-pt layup from 1 ft,,78,77
+3,0:02.0,,Defensive rebound by K. Lowry,78,77
+3,0:00.0,,K. Lowry misses 3-pt jump shot from 43 ft,78,77
+3,0:00.0,,Offensive rebound by Team,78,77
+4,11:45.0,Shooting foul by C. Boucher (drawn by K. Oubre),,78,77
+4,11:45.0,K. Oubre makes free throw 1 of 2,,79,77
+4,11:45.0,K. Oubre makes free throw 2 of 2,,80,77
+4,11:30.0,,N. Powell makes 2-pt layup from 1 ft,80,79
+4,11:13.0,Turnover by R. Holmes (out of bounds lost ball),,80,79
+4,11:11.0,Technical foul by J. Jackson,,80,79
+4,11:11.0,,K. Lowry makes technical free throw,80,80
+4,11:04.0,,Personal foul by J. Jackson (drawn by N. Powell),80,80
+4,10:56.0,,C. Boucher misses 3-pt jump shot from 25 ft,80,80
+4,10:52.0,Defensive rebound by J. Jackson,,80,80
+4,10:50.0,Personal foul by C. Boucher (drawn by R. Holmes),,80,80
+4,10:47.0,,Loose ball foul by K. Lowry (drawn by R. Holmes),80,80
+4,10:37.0,K. Oubre misses 2-pt jump shot from 4 ft (block by C. Boucher),,80,80
+4,10:34.0,Offensive rebound by K. Oubre,,80,80
+4,10:33.0,Turnover by K. Oubre (lost ball; steal by N. Powell),,80,80
+4,10:33.0,,Personal take foul by R. Holmes (drawn by N. Powell),80,80
+4,10:23.0,,Turnover by K. Lowry (bad pass; steal by E. Okobo),80,80
+4,10:19.0,K. Oubre misses 3-pt jump shot from 27 ft,,80,80
+4,10:15.0,,Defensive rebound by K. Lowry,80,80
+4,10:09.0,,C. Miles makes 3-pt jump shot from 26 ft (assist by K. Lowry),80,83
+4,9:53.0,T. Warren makes 2-pt layup from 2 ft,,82,83
+4,9:40.0,,N. Powell misses 2-pt jump shot from 16 ft (block by T. Warren),82,83
+4,9:38.0,Defensive rebound by T. Warren,,82,83
+4,9:38.0,Turnover by K. Oubre (traveling),,82,83
+4,9:38.0,D. Ayton enters the game for R. Holmes,,82,83
+4,9:38.0,D. Booker enters the game for E. Okobo,,82,83
+4,9:28.0,,K. Lowry misses 3-pt jump shot from 23 ft,82,83
+4,9:25.0,Defensive rebound by T. Warren,,82,83
+4,9:18.0,T. Warren misses 2-pt layup from 2 ft,,82,83
+4,9:17.0,Offensive rebound by Team,,82,83
+4,9:03.0,J. Jackson makes 3-pt jump shot from 26 ft (assist by D. Booker),,85,83
+4,8:49.0,,C. Miles makes 3-pt jump shot from 24 ft (assist by D. Wright),85,86
+4,8:40.0,K. Oubre misses 3-pt jump shot from 26 ft,,85,86
+4,8:38.0,,Defensive rebound by K. Lowry,85,86
+4,8:29.0,,C. Miles misses 3-pt jump shot from 23 ft,85,86
+4,8:24.0,,Offensive rebound by K. Lowry,85,86
+4,8:22.0,,Turnover by N. Powell (bad pass; steal by J. Jackson),85,86
+4,8:19.0,J. Jackson makes 2-pt dunk from 2 ft (assist by D. Booker),,87,86
+4,8:06.0,,D. Wright makes 2-pt hook shot from 2 ft,87,88
+4,7:59.0,K. Oubre misses 2-pt layup from 4 ft (block by C. Miles),,87,88
+4,7:57.0,,Defensive rebound by C. Miles,87,88
+4,7:50.0,,C. Boucher makes 2-pt dunk from 1 ft (assist by K. Lowry),87,90
+4,7:50.0,,Flagrant foul type 1 by J. Jackson (drawn by C. Boucher),87,90
+4,7:50.0,Technical foul by J. Jackson,,87,90
+4,7:50.0,J. Jackson ejected from game,,87,90
+4,7:50.0,M. Bridges enters the game for J. Jackson,,87,90
+4,7:50.0,,K. Lowry makes technical free throw,87,91
+4,7:50.0,,C. Boucher makes flagrant free throw 1 of 1,87,92
+4,7:31.0,,K. Lowry makes 3-pt jump shot from 26 ft,87,95
+4,7:14.0,Shooting foul by C. Boucher (drawn by D. Booker),,87,95
+4,7:14.0,D. Booker misses free throw 1 of 2,,87,95
+4,7:14.0,Offensive rebound by Team,,87,95
+4,7:14.0,D. Booker makes free throw 2 of 2,,88,95
+4,6:55.0,,C. Boucher misses 2-pt hook shot from 4 ft,88,95
+4,6:52.0,Defensive rebound by D. Ayton,,88,95
+4,6:50.0,D. Booker makes 2-pt layup from 1 ft,,90,95
+4,6:50.0,Shooting foul by K. Lowry (drawn by D. Booker),,90,95
+4,6:50.0,,Toronto full timeout,90,95
+4,6:50.0,,S. Ibaka enters the game for C. Boucher,90,95
+4,6:50.0,,P. Siakam enters the game for D. Wright,90,95
+4,6:50.0,D. Booker makes free throw 1 of 1,,91,95
+4,6:29.0,,S. Ibaka misses 2-pt layup from 2 ft,91,95
+4,6:29.0,,Offensive rebound by S. Ibaka,91,95
+4,6:25.0,,Turnover by K. Lowry (bad pass; steal by T. Warren),91,95
+4,6:21.0,T. Warren misses 2-pt layup from 2 ft,,91,95
+4,6:20.0,Offensive rebound by K. Oubre,,91,95
+4,6:20.0,Shooting foul by P. Siakam (drawn by K. Oubre),,91,95
+4,6:20.0,K. Oubre makes free throw 1 of 2,,92,95
+4,6:20.0,K. Oubre makes free throw 2 of 2,,93,95
+4,6:10.0,,C. Miles misses 3-pt jump shot from 26 ft,93,95
+4,6:06.0,Defensive rebound by T. Warren,,93,95
+4,5:56.0,T. Warren misses 3-pt jump shot from 29 ft,,93,95
+4,5:52.0,,Defensive rebound by S. Ibaka,93,95
+4,5:44.0,,S. Ibaka makes 2-pt jump shot from 17 ft (assist by K. Lowry),93,97
+4,5:29.0,M. Bridges makes 2-pt jump shot from 13 ft (assist by K. Oubre),,95,97
+4,5:15.0,,S. Ibaka makes 2-pt dunk at rim (assist by K. Lowry),95,99
+4,4:56.0,Turnover by D. Booker (bad pass; steal by C. Miles),,95,99
+4,4:50.0,,Personal foul by M. Bridges (drawn by K. Lowry),95,99
+4,4:50.0,,D. Green enters the game for C. Miles,95,99
+4,4:50.0,,F. VanVleet enters the game for N. Powell,95,99
+4,4:37.0,,K. Lowry misses 3-pt jump shot from 25 ft,95,99
+4,4:35.0,Defensive rebound by D. Booker,,95,99
+4,4:31.0,M. Bridges makes 2-pt layup from 2 ft (assist by D. Booker),,97,99
+4,4:10.0,,S. Ibaka makes 2-pt jump shot from 19 ft (assist by K. Lowry),97,101
+4,3:56.0,D. Booker makes 3-pt jump shot from 26 ft,,100,101
+4,3:36.0,,Shooting foul by D. Booker (drawn by D. Green),100,101
+4,3:36.0,,D. Green makes free throw 1 of 3,100,102
+4,3:36.0,,D. Green misses free throw 2 of 3,100,102
+4,3:36.0,,Offensive rebound by Team,100,102
+4,3:36.0,,D. Green makes free throw 3 of 3,100,103
+4,3:32.0,Phoenix full timeout,,100,103
+4,3:30.0,D. Booker misses 3-pt jump shot from 27 ft,,100,103
+4,3:27.0,,Defensive rebound by K. Lowry,100,103
+4,3:23.0,,D. Green misses 3-pt jump shot from 24 ft,100,103
+4,3:20.0,Defensive rebound by K. Oubre,,100,103
+4,3:07.0,Shooting foul by S. Ibaka (drawn by K. Oubre),,100,103
+4,3:07.0,K. Oubre makes free throw 1 of 2,,101,103
+4,3:07.0,K. Oubre makes free throw 2 of 2,,102,103
+4,2:51.0,,P. Siakam misses 2-pt jump shot from 4 ft (block by T. Warren),102,103
+4,2:48.0,Defensive rebound by D. Ayton,,102,103
+4,2:46.0,M. Bridges makes 2-pt jump shot from 20 ft (assist by D. Booker),,104,103
+4,2:29.0,,F. VanVleet makes 2-pt layup from 1 ft,104,105
+4,2:10.0,T. Warren misses 2-pt jump shot from 2 ft (block by F. VanVleet),,104,105
+4,2:10.0,Offensive rebound by T. Warren,,104,105
+4,2:07.0,D. Booker makes 3-pt jump shot from 26 ft (assist by M. Bridges),,107,105
+4,1:48.0,,S. Ibaka misses 2-pt jump shot from 4 ft,107,105
+4,1:46.0,Defensive rebound by D. Ayton,,107,105
+4,1:35.0,T. Warren misses 3-pt jump shot from 27 ft,,107,105
+4,1:32.0,,Defensive rebound by K. Lowry,107,105
+4,1:16.0,,Shooting foul by K. Oubre (drawn by P. Siakam),107,105
+4,1:16.0,,P. Siakam makes free throw 1 of 2,107,106
+4,1:16.0,,P. Siakam makes free throw 2 of 2,107,107
+4,0:55.0,Turnover by T. Warren (lost ball; steal by K. Lowry),,107,107
+4,0:47.0,,S. Ibaka makes 2-pt hook shot from 4 ft (assist by F. VanVleet),107,109
+4,0:47.0,Phoenix full timeout,,107,109
+4,0:36.0,K. Oubre misses 3-pt jump shot from 23 ft,,107,109
+4,0:33.0,,Defensive rebound by K. Lowry,107,109
+4,0:15.0,,K. Lowry misses 2-pt jump shot from 20 ft,107,109
+4,0:13.0,Defensive rebound by Team,,107,109
+4,0:13.0,,Loose ball foul by S. Ibaka (drawn by M. Bridges),107,109
+4,0:13.0,M. Bridges makes free throw 1 of 2,,108,109
+4,0:13.0,,G. Monroe enters the game for F. VanVleet,108,109
+4,0:13.0,M. Bridges makes free throw 2 of 2,,109,109
+4,0:13.0,,Toronto full timeout,109,109
+4,0:13.0,,F. VanVleet enters the game for G. Monroe,109,109
+4,0:00.0,,P. Siakam makes 2-pt layup from 2 ft,109,111

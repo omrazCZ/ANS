@@ -1,0 +1,486 @@
+QUARTER,TIME_REMAINING,SACRAMENTO_ACTION,DALLAS_ACTION,SACRAMENTO_SCORE,DALLAS_SCORE
+1,11:40.0,,Shooting foul by W. Cauley-Stein (drawn by H. Barnes),0,0
+1,11:40.0,,H. Barnes makes free throw 1 of 2,0,1
+1,11:40.0,,H. Barnes makes free throw 2 of 2,0,2
+1,11:27.0,Shooting foul by H. Barnes (drawn by W. Cauley-Stein),,0,2
+1,11:27.0,W. Cauley-Stein makes free throw 1 of 2,,1,2
+1,11:27.0,W. Cauley-Stein makes free throw 2 of 2,,2,2
+1,11:06.0,,H. Barnes misses 3-pt jump shot from 23 ft,2,2
+1,11:03.0,,Offensive rebound by D. Jordan,2,2
+1,11:00.0,,L. Dončić misses 3-pt jump shot from 26 ft,2,2
+1,10:57.0,Defensive rebound by N. Bjelica,,2,2
+1,10:52.0,B. Hield makes 2-pt jump shot from 6 ft,,4,2
+1,10:37.0,,L. Dončić makes 2-pt jump shot from 5 ft,4,4
+1,10:37.0,,Shooting foul by B. Bogdanović (drawn by L. Dončić),4,4
+1,10:37.0,,L. Dončić misses free throw 1 of 1,4,4
+1,10:35.0,Defensive rebound by N. Bjelica,,4,4
+1,10:21.0,B. Hield makes 2-pt jump shot from 17 ft (assist by W. Cauley-Stein),,6,4
+1,9:56.0,,Turnover by L. Dončić (bad pass),6,4
+1,9:50.0,D. Fox makes 2-pt jump shot from 15 ft,,8,4
+1,9:25.0,,H. Barnes misses 2-pt jump shot from 7 ft,8,4
+1,9:23.0,Defensive rebound by B. Hield,,8,4
+1,9:19.0,B. Hield misses 3-pt jump shot from 25 ft,,8,4
+1,9:15.0,,Defensive rebound by D. Jordan,8,4
+1,8:59.0,,W. Matthews misses 2-pt jump shot from 9 ft,8,4
+1,8:56.0,Defensive rebound by B. Hield,,8,4
+1,8:50.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by N. Bjelica),,11,4
+1,8:31.0,,W. Matthews misses 2-pt hook shot from 7 ft,11,4
+1,8:28.0,Defensive rebound by N. Bjelica,,11,4
+1,8:21.0,B. Bogdanović makes 2-pt layup from 4 ft,,13,4
+1,8:21.0,,Dallas full timeout,13,4
+1,8:05.0,,J. Brunson makes 2-pt jump shot from 15 ft (assist by L. Dončić),13,6
+1,7:51.0,W. Cauley-Stein misses 2-pt hook shot from 10 ft,,13,6
+1,7:49.0,,Defensive rebound by L. Dončić,13,6
+1,7:44.0,,L. Dončić makes 2-pt jump shot from 9 ft,13,8
+1,7:44.0,,Shooting foul by N. Bjelica (drawn by L. Dončić),13,8
+1,7:44.0,,D. Finney-Smith enters the game for J. Brunson,13,8
+1,7:44.0,,L. Dončić misses free throw 1 of 1,13,8
+1,7:42.0,Defensive rebound by N. Bjelica,,13,8
+1,7:35.0,B. Hield misses 3-pt jump shot from 26 ft,,13,8
+1,7:31.0,,Defensive rebound by D. Jordan,13,8
+1,7:24.0,,L. Dončić misses 3-pt jump shot from 25 ft,13,8
+1,7:21.0,Defensive rebound by W. Cauley-Stein,,13,8
+1,7:16.0,D. Fox misses 3-pt jump shot from 25 ft,,13,8
+1,7:13.0,,Defensive rebound by L. Dončić,13,8
+1,6:55.0,,H. Barnes misses 2-pt jump shot from 18 ft,13,8
+1,6:53.0,Defensive rebound by B. Bogdanović,,13,8
+1,6:41.0,N. Bjelica misses 2-pt hook shot from 8 ft,,13,8
+1,6:38.0,,Defensive rebound by D. Jordan,13,8
+1,6:33.0,,H. Barnes makes 2-pt layup from 4 ft,13,10
+1,6:25.0,Turnover by B. Hield (bad pass; steal by W. Matthews),,13,10
+1,6:20.0,,L. Dončić makes 2-pt jump shot from 6 ft,13,12
+1,6:06.0,D. Fox makes 2-pt layup from 3 ft (assist by B. Bogdanović),,15,12
+1,5:55.0,,Personal foul by B. Hield (drawn by L. Dončić),15,12
+1,5:55.0,J. Jackson enters the game for W. Cauley-Stein,,15,12
+1,5:55.0,K. Koufos enters the game for B. Hield,,15,12
+1,5:49.0,,W. Matthews makes 3-pt jump shot from 23 ft (assist by L. Dončić),15,15
+1,5:39.0,D. Fox makes 2-pt jump shot from 11 ft,,17,15
+1,5:23.0,,W. Matthews misses 3-pt jump shot from 26 ft,17,15
+1,5:19.0,Defensive rebound by N. Bjelica,,17,15
+1,5:07.0,D. Fox makes 2-pt jump shot from 14 ft,,19,15
+1,4:51.0,,Personal foul by B. Bogdanović (drawn by L. Dončić),19,15
+1,4:51.0,,L. Dončić makes free throw 1 of 2,19,16
+1,4:51.0,,L. Dončić makes free throw 2 of 2,19,17
+1,4:38.0,D. Fox misses 2-pt jump shot from 14 ft,,19,17
+1,4:35.0,,Defensive rebound by D. Jordan,19,17
+1,4:27.0,,D. Jordan makes 2-pt dunk from 2 ft (assist by L. Dončić),19,19
+1,4:21.0,Personal foul by W. Matthews (drawn by B. Bogdanović),,19,19
+1,4:21.0,T. Williams enters the game for B. Bogdanović,,19,19
+1,4:15.0,Turnover by D. Fox (bad pass; steal by W. Matthews),,19,19
+1,4:12.0,,D. Finney-Smith makes 2-pt layup from 3 ft (assist by W. Matthews),19,21
+1,4:12.0,,Shooting foul by J. Jackson (drawn by D. Finney-Smith),19,21
+1,4:12.0,Sacramento full timeout,,19,21
+1,4:12.0,B. Hield enters the game for N. Bjelica,,19,21
+1,4:12.0,,D. Finney-Smith makes free throw 1 of 1,19,22
+1,4:01.0,Shooting foul by D. Finney-Smith (drawn by D. Fox),,19,22
+1,4:01.0,D. Fox makes free throw 1 of 2,,20,22
+1,4:01.0,D. Fox makes free throw 2 of 2,,21,22
+1,3:48.0,,H. Barnes makes 3-pt jump shot from 23 ft (assist by D. Jordan),21,25
+1,3:33.0,J. Jackson misses 3-pt jump shot from 27 ft,,21,25
+1,3:31.0,,Defensive rebound by D. Jordan,21,25
+1,3:23.0,,D. Finney-Smith misses 3-pt jump shot from 25 ft,21,25
+1,3:19.0,Defensive rebound by J. Jackson,,21,25
+1,3:17.0,Shooting foul by L. Dončić (drawn by J. Jackson),,21,25
+1,3:17.0,J. Jackson makes free throw 1 of 2,,22,25
+1,3:17.0,,D. Harris enters the game for H. Barnes,22,25
+1,3:17.0,,D. Nowitzki enters the game for D. Jordan,22,25
+1,3:17.0,,D. Powell enters the game for W. Matthews,22,25
+1,3:17.0,J. Jackson makes free throw 2 of 2,,23,25
+1,3:00.0,,D. Harris misses 3-pt jump shot from 25 ft,23,25
+1,2:58.0,,Offensive rebound by D. Finney-Smith,23,25
+1,2:53.0,,Personal foul by T. Williams (drawn by D. Harris),23,25
+1,2:53.0,,D. Harris makes free throw 1 of 2,23,26
+1,2:53.0,,J. Brunson enters the game for L. Dončić,23,26
+1,2:53.0,,D. Harris makes free throw 2 of 2,23,27
+1,2:38.0,D. Fox makes 2-pt jump shot from 9 ft,,25,27
+1,2:28.0,,D. Nowitzki misses 3-pt jump shot from 26 ft,25,27
+1,2:24.0,Defensive rebound by K. Koufos,,25,27
+1,2:18.0,K. Koufos makes 2-pt layup from 5 ft (assist by B. Hield),,27,27
+1,1:59.0,,D. Nowitzki misses 2-pt jump shot from 20 ft,27,27
+1,1:56.0,,Offensive rebound by D. Powell,27,27
+1,1:56.0,,Turnover by D. Nowitzki (back court),27,27
+1,1:56.0,Y. Ferrell enters the game for D. Fox,,27,27
+1,1:47.0,B. Hield makes 3-pt jump shot from 23 ft (assist by Y. Ferrell),,30,27
+1,1:28.0,,D. Harris makes 2-pt layup from 1 ft (assist by D. Powell),30,29
+1,1:21.0,B. Hield misses 2-pt layup from 6 ft,,30,29
+1,1:19.0,Offensive rebound by K. Koufos,,30,29
+1,1:19.0,K. Koufos makes 2-pt layup at rim,,32,29
+1,1:02.0,,Turnover by D. Finney-Smith (lost ball; steal by K. Koufos),32,29
+1,0:57.0,J. Jackson makes 2-pt layup from 6 ft,,34,29
+1,0:45.0,,Shooting foul by K. Koufos (drawn by D. Powell),34,29
+1,0:45.0,,D. Powell makes free throw 1 of 2,34,30
+1,0:45.0,,D. Powell makes free throw 2 of 2,34,31
+1,0:33.0,B. Hield misses 2-pt layup from 3 ft,,34,31
+1,0:31.0,,Defensive rebound by D. Nowitzki,34,31
+1,0:12.0,,Turnover by D. Harris (traveling),34,31
+1,0:05.0,Y. Ferrell misses 2-pt jump shot from 10 ft,,34,31
+1,0:01.0,,Defensive rebound by J. Brunson,34,31
+1,0:00.0,,J. Brunson misses 3-pt jump shot from 32 ft,34,31
+1,0:00.0,,Offensive rebound by Team,34,31
+2,11:45.0,Y. Ferrell makes 2-pt jump shot from 17 ft,,36,31
+2,11:32.0,,Personal foul by J. Jackson (drawn by D. Harris),36,31
+2,11:27.0,,J. Brunson misses 2-pt jump shot from 12 ft,36,31
+2,11:24.0,Defensive rebound by W. Cauley-Stein,,36,31
+2,11:20.0,Y. Ferrell misses 3-pt jump shot from 26 ft,,36,31
+2,11:17.0,,Defensive rebound by R. Broekhoff,36,31
+2,11:13.0,,D. Powell makes 2-pt dunk from 1 ft (assist by J. Brunson),36,33
+2,10:58.0,Shooting foul by D. Powell (drawn by W. Cauley-Stein),,36,33
+2,10:58.0,W. Cauley-Stein makes free throw 1 of 2,,37,33
+2,10:58.0,B. Bogdanović enters the game for T. Williams,,37,33
+2,10:58.0,W. Cauley-Stein makes free throw 2 of 2,,38,33
+2,10:48.0,,Turnover by J. Brunson (bad pass),38,33
+2,10:37.0,W. Cauley-Stein misses 2-pt jump shot from 18 ft,,38,33
+2,10:34.0,,Defensive rebound by D. Powell,38,33
+2,10:19.0,,D. Nowitzki misses 2-pt jump shot from 14 ft,38,33
+2,10:16.0,Defensive rebound by B. Bogdanović,,38,33
+2,10:08.0,Turnover by J. Jackson (bad pass; steal by D. Powell),,38,33
+2,10:04.0,,D. Harris misses 2-pt layup from 2 ft,38,33
+2,10:02.0,,Offensive rebound by R. Broekhoff,38,33
+2,9:59.0,,D. Harris makes 3-pt jump shot from 23 ft (assist by J. Brunson),38,36
+2,9:54.0,,Violation by Team (kicked ball),38,36
+2,9:43.0,Y. Ferrell misses 3-pt jump shot from 26 ft,,38,36
+2,9:41.0,,Defensive rebound by D. Nowitzki,38,36
+2,9:25.0,,J. Brunson makes 2-pt jump shot from 10 ft,38,38
+2,9:18.0,B. Hield misses 3-pt jump shot from 27 ft,,38,38
+2,9:15.0,,Defensive rebound by D. Nowitzki,38,38
+2,9:04.0,,R. Broekhoff makes 2-pt jump shot from 18 ft (assist by D. Powell),38,40
+2,8:59.0,Sacramento full timeout,,38,40
+2,8:50.0,Y. Ferrell misses 3-pt jump shot from 26 ft,,38,40
+2,8:48.0,Offensive rebound by W. Cauley-Stein,,38,40
+2,8:46.0,Y. Ferrell misses 3-pt jump shot from 23 ft,,38,40
+2,8:41.0,,Defensive rebound by R. Broekhoff,38,40
+2,8:35.0,,D. Harris misses 2-pt layup from 3 ft,38,40
+2,8:32.0,,Offensive rebound by D. Powell,38,40
+2,8:32.0,,D. Powell makes 2-pt dunk from 1 ft,38,42
+2,8:18.0,W. Cauley-Stein misses 2-pt jump shot from 9 ft,,38,42
+2,8:16.0,,Defensive rebound by D. Nowitzki,38,42
+2,8:07.0,,R. Broekhoff misses 3-pt jump shot from 24 ft,38,42
+2,8:07.0,Defensive rebound by B. Bogdanović,,38,42
+2,7:58.0,Shooting foul by R. Broekhoff (drawn by B. Bogdanović),,38,42
+2,7:58.0,B. Bogdanović makes free throw 1 of 2,,39,42
+2,7:58.0,N. Bjelica enters the game for Y. Ferrell,,39,42
+2,7:58.0,D. Fox enters the game for J. Jackson,,39,42
+2,7:58.0,,L. Dončić enters the game for J. Brunson,39,42
+2,7:58.0,,W. Matthews enters the game for D. Harris,39,42
+2,7:58.0,B. Bogdanović makes free throw 2 of 2,,40,42
+2,7:48.0,,Def 3 sec tech foul by Team,40,42
+2,7:48.0,,D. Nowitzki makes technical free throw,40,43
+2,7:40.0,,D. Nowitzki makes 2-pt jump shot from 18 ft (assist by W. Matthews),40,45
+2,7:26.0,Turnover by W. Cauley-Stein (out of bounds lost ball),,40,45
+2,7:17.0,,L. Dončić makes 2-pt layup from 4 ft,40,47
+2,7:07.0,N. Bjelica makes 3-pt jump shot from 28 ft,,43,47
+2,6:55.0,,D. Powell makes 2-pt layup from 2 ft (assist by L. Dončić),43,49
+2,6:55.0,Sacramento full timeout,,43,49
+2,6:55.0,,H. Barnes enters the game for D. Nowitzki,43,49
+2,6:55.0,,D. Jordan enters the game for D. Powell,43,49
+2,6:41.0,D. Fox misses 2-pt jump shot from 8 ft (block by D. Jordan),,43,49
+2,6:39.0,Offensive rebound by D. Fox,,43,49
+2,6:37.0,D. Fox makes 2-pt dunk at rim,,45,49
+2,6:29.0,,Personal foul by D. Fox (drawn by L. Dončić),45,49
+2,6:24.0,,D. Jordan makes 2-pt dunk from 2 ft (assist by L. Dončić),45,51
+2,6:15.0,B. Hield makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),,48,51
+2,5:51.0,,L. Dončić makes 3-pt jump shot from 23 ft,48,54
+2,5:35.0,B. Hield misses 2-pt jump shot from 16 ft,,48,54
+2,5:32.0,,Defensive rebound by L. Dončić,48,54
+2,5:27.0,,Turnover by L. Dončić (bad pass; steal by D. Fox),48,54
+2,5:25.0,Personal take foul by R. Broekhoff (drawn by D. Fox),,48,54
+2,5:25.0,,D. Finney-Smith enters the game for R. Broekhoff,48,54
+2,5:20.0,B. Hield makes 2-pt layup from 5 ft (assist by W. Cauley-Stein),,50,54
+2,5:20.0,Shooting foul by D. Jordan (drawn by B. Hield),,50,54
+2,5:20.0,B. Hield makes free throw 1 of 1,,51,54
+2,5:10.0,,Personal foul by B. Hield (drawn by W. Matthews),51,54
+2,5:01.0,,W. Matthews misses 2-pt hook shot from 6 ft,51,54
+2,4:59.0,Defensive rebound by W. Cauley-Stein,,51,54
+2,4:52.0,N. Bjelica makes 2-pt hook shot from 8 ft,,53,54
+2,4:52.0,,Dallas full timeout,53,54
+2,4:30.0,,H. Barnes misses 2-pt hook shot from 7 ft,53,54
+2,4:28.0,,Offensive rebound by D. Jordan,53,54
+2,4:26.0,,D. Jordan misses 2-pt dunk from 2 ft (block by N. Bjelica),53,54
+2,4:26.0,Defensive rebound by N. Bjelica,,53,54
+2,4:18.0,W. Cauley-Stein misses 2-pt layup from 2 ft,,53,54
+2,4:15.0,,Defensive rebound by D. Jordan,53,54
+2,4:10.0,,L. Dončić misses 3-pt jump shot from 27 ft,53,54
+2,4:07.0,Defensive rebound by B. Bogdanović,,53,54
+2,3:57.0,N. Bjelica misses 3-pt jump shot from 31 ft,,53,54
+2,3:55.0,,Defensive rebound by D. Jordan,53,54
+2,3:48.0,,H. Barnes misses 2-pt layup from 2 ft (block by N. Bjelica),53,54
+2,3:45.0,Defensive rebound by D. Fox,,53,54
+2,3:36.0,B. Bogdanović makes 2-pt layup from 3 ft (assist by B. Hield),,55,54
+2,3:22.0,,H. Barnes makes 2-pt dunk from 2 ft (assist by W. Matthews),55,56
+2,3:15.0,B. Hield misses 2-pt layup from 9 ft,,55,56
+2,3:13.0,Offensive rebound by N. Bjelica,,55,56
+2,3:08.0,B. Hield misses 3-pt jump shot from 22 ft,,55,56
+2,3:03.0,,Defensive rebound by D. Finney-Smith,55,56
+2,2:47.0,,L. Dončić misses 2-pt dunk from 1 ft (block by D. Fox),55,56
+2,2:44.0,,Offensive rebound by D. Jordan,55,56
+2,2:42.0,,H. Barnes misses 3-pt jump shot from 23 ft,55,56
+2,2:40.0,Defensive rebound by W. Cauley-Stein,,55,56
+2,2:30.0,Turnover by D. Fox (bad pass; steal by H. Barnes),,55,56
+2,2:15.0,,Turnover by H. Barnes (bad pass; steal by W. Cauley-Stein),55,56
+2,2:11.0,B. Bogdanović misses 2-pt layup from 3 ft,,55,56
+2,2:08.0,,Defensive rebound by L. Dončić,55,56
+2,1:52.0,,L. Dončić misses 2-pt jump shot from 12 ft,55,56
+2,1:49.0,,Offensive rebound by D. Jordan,55,56
+2,1:47.0,,W. Matthews misses 3-pt jump shot from 26 ft,55,56
+2,1:44.0,Defensive rebound by B. Bogdanović,,55,56
+2,1:42.0,B. Hield makes 2-pt layup from 3 ft (assist by B. Bogdanović),,57,56
+2,1:18.0,,H. Barnes misses 2-pt jump shot from 5 ft,57,56
+2,1:18.0,Defensive rebound by Team,,57,56
+2,1:18.0,J. Jackson enters the game for B. Bogdanović,,57,56
+2,1:18.0,K. Koufos enters the game for W. Cauley-Stein,,57,56
+2,1:01.0,J. Jackson misses 2-pt jump shot from 7 ft,,57,56
+2,0:58.0,Offensive rebound by J. Jackson,,57,56
+2,0:58.0,J. Jackson makes 2-pt layup from 4 ft,,59,56
+2,0:47.0,,W. Matthews misses 2-pt layup from 3 ft,59,56
+2,0:45.0,,Offensive rebound by D. Jordan,59,56
+2,0:45.0,,D. Jordan makes 2-pt layup from 1 ft,59,58
+2,0:35.0,D. Fox misses 2-pt jump shot from 22 ft,,59,58
+2,0:35.0,,Defensive rebound by D. Jordan,59,58
+2,0:10.0,,L. Dončić misses 3-pt jump shot from 25 ft,59,58
+2,0:07.0,Defensive rebound by K. Koufos,,59,58
+2,0:01.0,B. Hield makes 2-pt jump shot from 15 ft,,61,58
+3,11:44.0,W. Cauley-Stein makes 2-pt dunk from 3 ft (assist by B. Bogdanović),,63,58
+3,11:22.0,,W. Matthews makes 3-pt jump shot from 27 ft (assist by J. Brunson),63,61
+3,11:09.0,Shooting foul by L. Dončić (drawn by B. Bogdanović),,63,61
+3,11:09.0,B. Bogdanović misses free throw 1 of 2,,63,61
+3,11:09.0,Offensive rebound by Team,,63,61
+3,11:09.0,B. Bogdanović makes free throw 2 of 2,,64,61
+3,10:59.0,,Turnover by W. Matthews (lost ball; steal by D. Fox),64,61
+3,10:55.0,B. Hield makes 2-pt dunk from 2 ft (assist by D. Fox),,66,61
+3,10:54.0,,Dallas full timeout,66,61
+3,10:34.0,,W. Matthews makes 2-pt jump shot from 8 ft,66,63
+3,10:17.0,D. Fox misses 3-pt jump shot from 24 ft,,66,63
+3,10:14.0,,Defensive rebound by D. Jordan,66,63
+3,10:08.0,,J. Brunson misses 2-pt jump shot from 11 ft,66,63
+3,10:06.0,Defensive rebound by N. Bjelica,,66,63
+3,10:01.0,Shooting foul by W. Matthews (drawn by D. Fox),,66,63
+3,10:01.0,D. Fox makes free throw 1 of 2,,67,63
+3,10:01.0,D. Fox makes free throw 2 of 2,,68,63
+3,9:40.0,,H. Barnes misses 2-pt dunk from 3 ft (block by N. Bjelica),68,63
+3,9:36.0,Defensive rebound by B. Bogdanović,,68,63
+3,9:34.0,D. Fox misses 3-pt jump shot from 25 ft,,68,63
+3,9:31.0,,Defensive rebound by D. Jordan,68,63
+3,9:21.0,,Shooting foul by W. Cauley-Stein (drawn by L. Dončić),68,63
+3,9:21.0,,L. Dončić makes free throw 1 of 2,68,64
+3,9:21.0,,M. Kleber enters the game for H. Barnes,68,64
+3,9:21.0,,L. Dončić makes free throw 2 of 2,68,65
+3,9:11.0,B. Hield misses 2-pt layup from 4 ft,,68,65
+3,9:09.0,Offensive rebound by W. Cauley-Stein,,68,65
+3,9:09.0,Personal foul by W. Matthews (drawn by W. Cauley-Stein),,68,65
+3,9:04.0,D. Fox makes 2-pt layup from 1 ft,,70,65
+3,8:45.0,,M. Kleber makes 2-pt jump shot from 7 ft (assist by L. Dončić),70,67
+3,8:45.0,,Shooting foul by B. Bogdanović (drawn by M. Kleber),70,67
+3,8:45.0,,M. Kleber misses free throw 1 of 1,70,67
+3,8:43.0,Defensive rebound by N. Bjelica,,70,67
+3,8:33.0,N. Bjelica misses 3-pt jump shot from 26 ft,,70,67
+3,8:31.0,Offensive rebound by W. Cauley-Stein,,70,67
+3,8:29.0,B. Bogdanović misses 3-pt jump shot from 26 ft,,70,67
+3,8:26.0,,Defensive rebound by Team,70,67
+3,8:12.0,,M. Kleber misses 3-pt jump shot from 27 ft,70,67
+3,8:09.0,,Offensive rebound by D. Jordan,70,67
+3,8:06.0,,M. Kleber makes 2-pt layup from 4 ft (assist by D. Jordan),70,69
+3,7:58.0,W. Cauley-Stein makes 2-pt dunk at rim (assist by D. Fox),,72,69
+3,7:44.0,,M. Kleber misses 3-pt jump shot from 24 ft,72,69
+3,7:40.0,Defensive rebound by W. Cauley-Stein,,72,69
+3,7:25.0,D. Fox misses 2-pt jump shot from 14 ft,,72,69
+3,7:25.0,,Defensive rebound by D. Jordan,72,69
+3,7:10.0,,W. Matthews misses 3-pt jump shot from 26 ft,72,69
+3,7:07.0,,Offensive rebound by J. Brunson,72,69
+3,6:54.0,,M. Kleber misses 3-pt jump shot from 24 ft,72,69
+3,6:50.0,Defensive rebound by B. Bogdanović,,72,69
+3,6:47.0,B. Hield makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),,75,69
+3,6:24.0,,M. Kleber makes 3-pt jump shot from 25 ft (assist by W. Matthews),75,72
+3,6:14.0,B. Bogdanović misses 2-pt jump shot from 17 ft,,75,72
+3,6:11.0,,Defensive rebound by D. Jordan,75,72
+3,6:09.0,Violation by Team (kicked ball),,75,72
+3,6:09.0,J. Jackson enters the game for B. Bogdanović,,75,72
+3,6:09.0,K. Koufos enters the game for W. Cauley-Stein,,75,72
+3,6:04.0,,J. Brunson misses 2-pt jump shot from 18 ft,75,72
+3,6:00.0,,Offensive rebound by D. Jordan,75,72
+3,5:58.0,,W. Matthews misses 2-pt jump shot from 10 ft,75,72
+3,5:56.0,,Offensive rebound by D. Jordan,75,72
+3,5:56.0,,D. Jordan misses 2-pt layup from 2 ft,75,72
+3,5:55.0,Defensive rebound by B. Hield,,75,72
+3,5:54.0,Turnover by B. Hield (lost ball; steal by L. Dončić),,75,72
+3,5:53.0,,Shooting foul by B. Hield (drawn by L. Dončić),75,72
+3,5:53.0,,L. Dončić makes free throw 1 of 2,75,73
+3,5:53.0,,H. Barnes enters the game for J. Brunson,75,73
+3,5:53.0,,D. Harris enters the game for M. Kleber,75,73
+3,5:53.0,,L. Dončić makes free throw 2 of 2,75,74
+3,5:36.0,D. Fox makes 2-pt jump shot from 4 ft (assist by K. Koufos),,77,74
+3,5:10.0,,D. Jordan misses 2-pt hook shot from 7 ft,77,74
+3,5:07.0,Defensive rebound by N. Bjelica,,77,74
+3,4:57.0,B. Hield makes 2-pt jump shot from 14 ft,,79,74
+3,4:56.0,,Dallas full timeout,79,74
+3,4:42.0,,L. Dončić makes 2-pt jump shot from 6 ft,79,76
+3,4:30.0,Shooting foul by D. Jordan (drawn by N. Bjelica),,79,76
+3,4:30.0,N. Bjelica makes free throw 1 of 2,,80,76
+3,4:30.0,Y. Ferrell enters the game for D. Fox,,80,76
+3,4:30.0,,D. Finney-Smith enters the game for D. Jordan,80,76
+3,4:30.0,,D. Powell enters the game for W. Matthews,80,76
+3,4:30.0,N. Bjelica misses free throw 2 of 2,,80,76
+3,4:27.0,,Defensive rebound by H. Barnes,80,76
+3,4:19.0,,Personal foul by J. Jackson (drawn by L. Dončić),80,76
+3,4:04.0,,D. Harris misses 3-pt jump shot from 28 ft,80,76
+3,4:02.0,Defensive rebound by Team,,80,76
+3,3:47.0,B. Hield makes 2-pt jump shot from 19 ft,,82,76
+3,3:39.0,,Offensive foul by L. Dončić (drawn by J. Jackson),82,76
+3,3:39.0,,Turnover by L. Dončić (offensive foul),82,76
+3,3:24.0,B. Hield misses 3-pt jump shot from 26 ft,,82,76
+3,3:21.0,,Defensive rebound by L. Dončić,82,76
+3,3:16.0,,H. Barnes makes 3-pt jump shot from 25 ft (assist by D. Harris),82,79
+3,2:59.0,N. Bjelica makes 3-pt jump shot from 28 ft (assist by Y. Ferrell),,85,79
+3,2:42.0,,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by L. Dončić),85,81
+3,2:26.0,J. Jackson misses 2-pt jump shot from 14 ft,,85,81
+3,2:22.0,Offensive rebound by K. Koufos,,85,81
+3,2:16.0,K. Koufos makes 2-pt hook shot from 10 ft,,87,81
+3,2:01.0,,D. Powell misses 2-pt layup from 5 ft,87,81
+3,1:58.0,Defensive rebound by K. Koufos,,87,81
+3,1:55.0,Y. Ferrell makes 2-pt layup from 3 ft,,89,81
+3,1:54.0,,Dallas full timeout,89,81
+3,1:54.0,B. Bogdanović enters the game for B. Hield,,89,81
+3,1:54.0,,J. Brunson enters the game for H. Barnes,89,81
+3,1:54.0,,M. Kleber enters the game for L. Dončić,89,81
+3,1:41.0,,Turnover by D. Harris (bad pass),89,81
+3,1:30.0,N. Bjelica misses 3-pt jump shot from 26 ft,,89,81
+3,1:27.0,,Defensive rebound by D. Finney-Smith,89,81
+3,1:09.0,,D. Powell misses 3-pt jump shot from 26 ft,89,81
+3,1:06.0,Defensive rebound by Y. Ferrell,,89,81
+3,1:01.0,K. Koufos misses 2-pt jump shot from 6 ft,,89,81
+3,1:00.0,Offensive rebound by K. Koufos,,89,81
+3,0:59.0,K. Koufos makes 2-pt layup from 4 ft,,91,81
+3,0:47.0,,Offensive foul by J. Brunson (drawn by Y. Ferrell),91,81
+3,0:47.0,,Turnover by J. Brunson (offensive foul),91,81
+3,0:35.0,Y. Ferrell makes 2-pt jump shot from 13 ft,,93,81
+3,0:23.0,,Turnover by D. Finney-Smith (bad pass; steal by J. Jackson),93,81
+3,0:20.0,Offensive foul by J. Jackson (drawn by D. Harris),,93,81
+3,0:20.0,Turnover by J. Jackson (offensive foul),,93,81
+3,0:02.0,,Shooting foul by K. Koufos (drawn by M. Kleber),93,81
+3,0:02.0,,M. Kleber makes free throw 1 of 2,93,82
+3,0:02.0,,M. Kleber makes free throw 2 of 2,93,83
+3,0:01.0,Turnover by N. Bjelica (bad pass; steal by D. Harris),,93,83
+3,0:00.0,,D. Harris misses 3-pt jump shot from 30 ft,93,83
+3,0:00.0,,Offensive rebound by Team,93,83
+4,11:47.0,,M. Kleber makes 2-pt jump shot from 4 ft,93,85
+4,11:27.0,B. Bogdanović misses 2-pt layup from 4 ft,,93,85
+4,11:25.0,Offensive rebound by K. Koufos,,93,85
+4,11:24.0,K. Koufos misses 2-pt layup from 5 ft,,93,85
+4,11:22.0,,Defensive rebound by D. Finney-Smith,93,85
+4,11:19.0,,Personal foul by Y. Ferrell (drawn by J. Brunson),93,85
+4,11:06.0,,M. Kleber misses 2-pt hook shot from 11 ft,93,85
+4,11:04.0,Defensive rebound by Team,,93,85
+4,10:46.0,T. Williams misses 2-pt jump shot from 9 ft,,93,85
+4,10:43.0,,Defensive rebound by D. Finney-Smith,93,85
+4,10:39.0,,D. Finney-Smith misses 2-pt layup from 5 ft (block by T. Williams),93,85
+4,10:34.0,Defensive rebound by T. Williams,,93,85
+4,10:25.0,Y. Ferrell misses 3-pt jump shot from 25 ft,,93,85
+4,10:23.0,Offensive rebound by K. Koufos,,93,85
+4,10:22.0,B. Bogdanović misses 3-pt jump shot from 26 ft,,93,85
+4,10:19.0,,Defensive rebound by M. Kleber,93,85
+4,10:14.0,,Shooting foul by K. Koufos (drawn by D. Finney-Smith),93,85
+4,10:14.0,,D. Finney-Smith makes free throw 1 of 2,93,86
+4,10:14.0,,D. Finney-Smith misses free throw 2 of 2,93,86
+4,10:11.0,Defensive rebound by T. Williams,,93,86
+4,9:56.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by Y. Ferrell),,96,86
+4,9:38.0,,J. Brunson makes 2-pt layup from 2 ft,96,88
+4,9:33.0,Sacramento full timeout,,96,88
+4,9:33.0,W. Cauley-Stein enters the game for K. Koufos,,96,88
+4,9:12.0,W. Cauley-Stein misses 2-pt hook shot from 4 ft,,96,88
+4,9:11.0,,Defensive rebound by D. Harris,96,88
+4,9:09.0,,Personal foul by T. Williams (drawn by D. Harris),96,88
+4,8:57.0,,D. Harris misses 2-pt jump shot from 7 ft,96,88
+4,8:57.0,Defensive rebound by Team,,96,88
+4,8:44.0,Y. Ferrell makes 2-pt jump shot from 4 ft,,98,88
+4,8:32.0,,J. Brunson misses 3-pt jump shot from 29 ft,98,88
+4,8:29.0,Defensive rebound by J. Jackson,,98,88
+4,8:23.0,T. Williams misses 3-pt jump shot from 24 ft,,98,88
+4,8:21.0,,Defensive rebound by J. Brunson,98,88
+4,8:12.0,,D. Harris misses 3-pt jump shot from 26 ft,98,88
+4,8:08.0,Defensive rebound by T. Williams,,98,88
+4,7:51.0,Y. Ferrell misses 2-pt layup from 5 ft (block by D. Powell),,98,88
+4,7:51.0,Offensive rebound by Team,,98,88
+4,7:51.0,,L. Dončić enters the game for J. Brunson,98,88
+4,7:51.0,,W. Matthews enters the game for D. Finney-Smith,98,88
+4,7:49.0,Personal foul by D. Powell (drawn by W. Cauley-Stein),,98,88
+4,7:49.0,D. Fox enters the game for Y. Ferrell,,98,88
+4,7:42.0,B. Bogdanović misses 3-pt jump shot from 25 ft,,98,88
+4,7:40.0,,Defensive rebound by M. Kleber,98,88
+4,7:21.0,,L. Dončić makes 2-pt jump shot from 18 ft,98,90
+4,7:10.0,J. Jackson misses 2-pt jump shot from 8 ft,,98,90
+4,7:08.0,,Defensive rebound by Team,98,90
+4,7:08.0,Loose ball foul by W. Cauley-Stein (drawn by D. Powell),,98,90
+4,7:03.0,,Personal foul by D. Fox (drawn by L. Dončić),98,90
+4,7:03.0,,L. Dončić misses free throw 1 of 2,98,90
+4,7:03.0,,Offensive rebound by Team,98,90
+4,7:03.0,,L. Dončić makes free throw 2 of 2,98,91
+4,7:03.0,N. Bjelica enters the game for J. Jackson,,98,91
+4,7:03.0,B. Hield enters the game for T. Williams,,98,91
+4,7:03.0,,H. Barnes enters the game for D. Harris,98,91
+4,7:03.0,,J. Brunson enters the game for M. Kleber,98,91
+4,7:03.0,,D. Jordan enters the game for D. Powell,98,91
+4,6:45.0,B. Bogdanović misses 2-pt layup from 3 ft (block by H. Barnes),,98,91
+4,6:42.0,,Defensive rebound by D. Jordan,98,91
+4,6:38.0,,H. Barnes misses 3-pt jump shot from 25 ft,98,91
+4,6:34.0,Defensive rebound by D. Fox,,98,91
+4,6:30.0,D. Fox makes 2-pt layup from 2 ft,,100,91
+4,6:15.0,,Shooting foul by D. Fox (drawn by W. Matthews),100,91
+4,6:15.0,,W. Matthews makes free throw 1 of 2,100,92
+4,6:15.0,,W. Matthews makes free throw 2 of 2,100,93
+4,6:05.0,N. Bjelica makes 3-pt jump shot from 25 ft (assist by D. Fox),,103,93
+4,5:48.0,,W. Matthews misses 2-pt layup from 3 ft,103,93
+4,5:46.0,Defensive rebound by Team,,103,93
+4,5:33.0,D. Fox misses 2-pt jump shot from 12 ft,,103,93
+4,5:31.0,,Defensive rebound by L. Dončić,103,93
+4,5:25.0,,L. Dončić makes 2-pt layup from 1 ft,103,95
+4,5:12.0,N. Bjelica makes 3-pt jump shot from 25 ft (assist by W. Cauley-Stein),,106,95
+4,5:01.0,,J. Brunson makes 2-pt layup from 1 ft,106,97
+4,4:54.0,Shooting foul by W. Matthews (drawn by D. Fox),,106,97
+4,4:54.0,D. Fox makes free throw 1 of 2,,107,97
+4,4:54.0,D. Fox makes free throw 2 of 2,,108,97
+4,4:44.0,,H. Barnes misses 2-pt dunk from 3 ft (block by N. Bjelica),108,97
+4,4:44.0,Defensive rebound by Team,,108,97
+4,4:30.0,Turnover by B. Bogdanović (traveling),,108,97
+4,4:17.0,,Turnover by L. Dončić (bad pass; steal by D. Fox),108,97
+4,4:10.0,B. Hield misses 3-pt jump shot from 23 ft,,108,97
+4,4:09.0,,Defensive rebound by Team,108,97
+4,4:01.0,,J. Brunson misses 2-pt jump shot from 6 ft (block by W. Cauley-Stein),108,97
+4,4:01.0,,Offensive rebound by J. Brunson,108,97
+4,4:01.0,,Shooting foul by W. Cauley-Stein (drawn by J. Brunson),108,97
+4,4:01.0,,J. Brunson makes free throw 1 of 2,108,98
+4,4:01.0,,J. Brunson makes free throw 2 of 2,108,99
+4,3:36.0,B. Hield makes 2-pt layup from 5 ft,,110,99
+4,3:24.0,,D. Jordan makes 2-pt dunk from 1 ft (assist by L. Dončić),110,101
+4,3:07.0,W. Cauley-Stein misses 2-pt layup from 4 ft (block by D. Jordan),,110,101
+4,3:06.0,,Defensive rebound by Team,110,101
+4,2:54.0,,H. Barnes misses 3-pt jump shot from 25 ft,110,101
+4,2:51.0,,Offensive rebound by D. Jordan,110,101
+4,2:49.0,,J. Brunson misses 3-pt jump shot from 22 ft,110,101
+4,2:49.0,Defensive rebound by B. Hield,,110,101
+4,2:36.0,D. Fox makes 2-pt layup from 4 ft,,112,101
+4,2:35.0,,Dallas full timeout,112,101
+4,2:23.0,,L. Dončić makes 2-pt jump shot from 11 ft,112,103
+4,2:23.0,,Shooting foul by W. Cauley-Stein (drawn by L. Dončić),112,103
+4,2:23.0,,L. Dončić makes free throw 1 of 1,112,104
+4,2:08.0,N. Bjelica misses 2-pt hook shot from 6 ft (block by D. Jordan),,112,104
+4,2:05.0,,Defensive rebound by H. Barnes,112,104
+4,1:51.0,,J. Brunson misses 3-pt jump shot from 24 ft,112,104
+4,1:48.0,,Offensive rebound by D. Jordan,112,104
+4,1:46.0,,W. Matthews makes 3-pt jump shot from 25 ft (assist by D. Jordan),112,107
+4,1:21.0,D. Fox makes 2-pt jump shot from 5 ft,,114,107
+4,1:10.0,,Turnover by L. Dončić (out of bounds lost ball),114,107
+4,0:51.0,W. Cauley-Stein makes 2-pt dunk from 2 ft (assist by D. Fox),,116,107
+4,0:45.0,,Shooting foul by D. Fox (drawn by L. Dončić),116,107
+4,0:45.0,,L. Dončić misses free throw 1 of 3,116,107
+4,0:45.0,,Offensive rebound by Team,116,107
+4,0:45.0,,L. Dončić misses free throw 2 of 3,116,107
+4,0:45.0,,Offensive rebound by Team,116,107
+4,0:45.0,,L. Dončić makes free throw 3 of 3,116,108
+4,0:37.0,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by D. Fox),,118,108
+4,0:37.0,,Dallas full timeout,118,108
+4,0:28.0,,H. Barnes makes 3-pt jump shot from 25 ft (assist by L. Dončić),118,111
+4,0:22.0,Personal take foul by J. Brunson (drawn by D. Fox),,118,111
+4,0:22.0,,D. Powell enters the game for D. Jordan,118,111
+4,0:21.0,Personal foul by W. Matthews (drawn by B. Bogdanović),,118,111
+4,0:21.0,B. Bogdanović makes free throw 1 of 2,,119,111
+4,0:21.0,B. Bogdanović makes free throw 2 of 2,,120,111
+4,0:17.0,,J. Brunson makes 2-pt layup from 1 ft,120,113

@@ -1,0 +1,482 @@
+QUARTER,TIME_REMAINING,MEMPHIS_ACTION,CLEVELAND_ACTION,MEMPHIS_SCORE,CLEVELAND_SCORE
+1,11:40.0,J. Valančiūnas misses 2-pt layup from 3 ft,,0,0
+1,11:37.0,,Defensive rebound by K. Love,0,0
+1,11:33.0,,B. Knight misses 3-pt jump shot from 24 ft,0,0
+1,11:29.0,Defensive rebound by A. Bradley,,0,0
+1,11:26.0,M. Conley misses 3-pt jump shot from 24 ft,,0,0
+1,11:21.0,,Defensive rebound by K. Love,0,0
+1,11:15.0,,C. Sexton makes 2-pt layup from 1 ft (assist by B. Knight),0,2
+1,11:04.0,J. Holiday makes 3-pt jump shot from 26 ft (assist by A. Bradley),,3,2
+1,10:45.0,,K. Love misses 3-pt jump shot from 26 ft,3,2
+1,10:43.0,Defensive rebound by M. Conley,,3,2
+1,10:34.0,Offensive foul by J. Valančiūnas (drawn by K. Love),,3,2
+1,10:34.0,Turnover by J. Valančiūnas (offensive foul),,3,2
+1,10:21.0,,C. Osman misses 2-pt jump shot from 15 ft,3,2
+1,10:19.0,Defensive rebound by Team,,3,2
+1,10:01.0,A. Bradley misses 2-pt layup from 2 ft,,3,2
+1,9:59.0,,Defensive rebound by K. Love,3,2
+1,9:57.0,,Turnover by C. Osman (step out of bounds),3,2
+1,9:48.0,I. Rabb makes 2-pt jump shot from 18 ft (assist by M. Conley),,5,2
+1,9:25.0,,A. Žižić misses 2-pt jump shot from 11 ft,5,2
+1,9:23.0,,Offensive rebound by K. Love,5,2
+1,9:21.0,,Turnover by K. Love (bad pass; steal by M. Conley),5,2
+1,9:15.0,I. Rabb makes 2-pt layup from 1 ft (assist by M. Conley),,7,2
+1,9:03.0,,C. Sexton makes 2-pt jump shot from 14 ft,7,4
+1,8:49.0,J. Valančiūnas misses 2-pt hook shot from 7 ft,,7,4
+1,8:47.0,,Defensive rebound by C. Osman,7,4
+1,8:40.0,,Shooting foul by I. Rabb (drawn by K. Love),7,4
+1,8:40.0,,K. Love makes free throw 1 of 2,7,5
+1,8:40.0,,K. Love makes free throw 2 of 2,7,6
+1,8:29.0,A. Bradley misses 2-pt jump shot from 22 ft,,7,6
+1,8:26.0,,Defensive rebound by K. Love,7,6
+1,8:16.0,,B. Knight makes 2-pt jump shot from 9 ft,7,8
+1,8:05.0,I. Rabb makes 2-pt hook shot from 5 ft,,9,8
+1,8:02.0,,Personal foul by A. Bradley (drawn by C. Sexton),9,8
+1,7:53.0,,C. Sexton misses 2-pt jump shot from 12 ft,9,8
+1,7:48.0,,Offensive rebound by A. Žižić,9,8
+1,7:48.0,,A. Žižić makes 2-pt layup from 1 ft,9,10
+1,7:37.0,J. Valančiūnas makes 2-pt jump shot from 14 ft,,11,10
+1,7:28.0,,Shooting foul by A. Bradley (drawn by A. Žižić),11,10
+1,7:28.0,,A. Žižić makes free throw 1 of 2,11,11
+1,7:28.0,,A. Žižić makes free throw 2 of 2,11,12
+1,7:15.0,J. Holiday misses 2-pt jump shot from 23 ft,,11,12
+1,7:12.0,,Defensive rebound by K. Love,11,12
+1,7:04.0,,K. Love makes 3-pt jump shot from 25 ft (assist by C. Osman),11,15
+1,6:50.0,M. Conley misses 2-pt jump shot from 19 ft,,11,15
+1,6:48.0,,Defensive rebound by A. Žižić,11,15
+1,6:44.0,,A. Žižić makes 2-pt layup at rim (assist by B. Knight),11,17
+1,6:44.0,,Shooting foul by J. Holiday (drawn by A. Žižić),11,17
+1,6:44.0,,Cleveland full timeout,11,17
+1,6:44.0,J. Noah enters the game for J. Valančiūnas,,11,17
+1,6:44.0,,A. Žižić makes free throw 1 of 1,11,18
+1,6:31.0,Personal foul by B. Knight (drawn by J. Noah),,11,18
+1,6:24.0,I. Rabb misses 3-pt jump shot from 23 ft,,11,18
+1,6:22.0,,Defensive rebound by C. Osman,11,18
+1,6:19.0,,Personal foul by I. Rabb (drawn by K. Love),11,18
+1,6:19.0,,K. Love makes free throw 1 of 2,11,19
+1,6:19.0,B. Caboclo enters the game for I. Rabb,,11,19
+1,6:19.0,,K. Love makes free throw 2 of 2,11,20
+1,6:03.0,M. Conley misses 2-pt jump shot from 17 ft,,11,20
+1,6:00.0,,Defensive rebound by C. Osman,11,20
+1,5:52.0,,Personal foul by B. Caboclo (drawn by K. Love),11,20
+1,5:52.0,,K. Love makes free throw 1 of 2,11,21
+1,5:52.0,D. Wright enters the game for M. Conley,,11,21
+1,5:52.0,,L. Nance enters the game for A. Žižić,11,21
+1,5:52.0,,K. Love makes free throw 2 of 2,11,22
+1,5:41.0,A. Bradley makes 2-pt jump shot from 10 ft (assist by D. Wright),,13,22
+1,5:41.0,Shooting foul by B. Knight (drawn by A. Bradley),,13,22
+1,5:41.0,,M. Chriss enters the game for B. Knight,13,22
+1,5:41.0,,J. Clarkson enters the game for K. Love,13,22
+1,5:41.0,A. Bradley makes free throw 1 of 1,,14,22
+1,5:29.0,,Offensive foul by C. Sexton (drawn by A. Bradley),14,22
+1,5:29.0,,Turnover by C. Sexton (offensive foul),14,22
+1,5:17.0,Shooting foul by M. Chriss (drawn by A. Bradley),,14,22
+1,5:17.0,A. Bradley makes free throw 1 of 2,,15,22
+1,5:17.0,C. Parsons enters the game for J. Holiday,,15,22
+1,5:17.0,A. Bradley misses free throw 2 of 2,,15,22
+1,5:14.0,,Defensive rebound by C. Osman,15,22
+1,5:06.0,,M. Chriss misses 3-pt jump shot from 27 ft,15,22
+1,5:02.0,Defensive rebound by J. Noah,,15,22
+1,4:59.0,Shooting foul by L. Nance (drawn by J. Noah),,15,22
+1,4:59.0,J. Noah makes free throw 1 of 2,,16,22
+1,4:59.0,J. Noah misses free throw 2 of 2,,16,22
+1,4:57.0,,Defensive rebound by L. Nance,16,22
+1,4:36.0,,C. Sexton makes 3-pt jump shot from 26 ft (assist by J. Clarkson),16,25
+1,4:26.0,A. Bradley misses 3-pt jump shot from 25 ft,,16,25
+1,4:23.0,,Defensive rebound by C. Sexton,16,25
+1,4:18.0,,L. Nance misses 3-pt jump shot from 26 ft,16,25
+1,4:14.0,Defensive rebound by D. Wright,,16,25
+1,4:04.0,J. Noah makes 2-pt hook shot from 7 ft (assist by D. Wright),,18,25
+1,3:56.0,,Turnover by C. Sexton (traveling),18,25
+1,3:56.0,C. Miles enters the game for A. Bradley,,18,25
+1,3:44.0,D. Wright misses 2-pt layup from 2 ft,,18,25
+1,3:41.0,,Defensive rebound by M. Chriss,18,25
+1,3:39.0,,J. Clarkson misses 3-pt jump shot from 29 ft,18,25
+1,3:35.0,,Offensive rebound by M. Chriss,18,25
+1,3:32.0,,C. Sexton makes 3-pt jump shot from 24 ft (assist by M. Chriss),18,28
+1,3:18.0,C. Parsons misses 2-pt jump shot from 4 ft,,18,28
+1,3:15.0,,Defensive rebound by M. Chriss,18,28
+1,3:11.0,,M. Chriss misses 3-pt jump shot from 27 ft,18,28
+1,3:07.0,Defensive rebound by C. Parsons,,18,28
+1,3:02.0,J. Noah makes 2-pt dunk from 1 ft (assist by C. Parsons),,20,28
+1,2:36.0,,L. Nance misses 2-pt layup from 4 ft (block by J. Noah),20,28
+1,2:36.0,,Offensive rebound by Team,20,28
+1,2:36.0,,Turnover by Team (shot clock),20,28
+1,2:36.0,Memphis full timeout,,20,28
+1,2:36.0,,M. Dellavedova enters the game for C. Osman,20,28
+1,2:36.0,,D. Nwaba enters the game for C. Sexton,20,28
+1,2:18.0,Turnover by J. Noah (lost ball; steal by D. Nwaba),,20,28
+1,2:14.0,,D. Nwaba misses 2-pt layup at rim,20,28
+1,2:08.0,,Offensive rebound by L. Nance,20,28
+1,2:08.0,,L. Nance makes 2-pt dunk from 1 ft,20,30
+1,1:54.0,C. Parsons makes 2-pt layup from 2 ft (assist by J. Noah),,22,30
+1,1:32.0,,M. Chriss makes 2-pt hook shot from 7 ft,22,32
+1,1:19.0,D. Wright makes 2-pt layup from 1 ft,,24,32
+1,1:05.0,,J. Clarkson misses 2-pt jump shot from 16 ft,24,32
+1,1:02.0,,Offensive rebound by L. Nance,24,32
+1,0:51.0,,M. Dellavedova makes 2-pt jump shot from 9 ft,24,34
+1,0:37.0,C. Miles misses 2-pt layup from 2 ft (block by J. Clarkson),,24,34
+1,0:33.0,,Defensive rebound by M. Chriss,24,34
+1,0:26.0,,M. Chriss misses 2-pt layup from 6 ft (block by J. Noah),24,34
+1,0:23.0,,Offensive rebound by M. Chriss,24,34
+1,0:14.0,,M. Chriss makes 3-pt jump shot from 24 ft (assist by D. Nwaba),24,37
+2,11:36.0,,D. Nwaba misses 3-pt jump shot from 24 ft,24,37
+2,11:32.0,,Offensive rebound by L. Nance,24,37
+2,11:29.0,,J. Clarkson makes 3-pt jump shot from 22 ft (assist by L. Nance),24,40
+2,11:16.0,J. Valančiūnas misses 2-pt jump shot from 14 ft (block by M. Chriss),,24,40
+2,11:14.0,Offensive rebound by J. Holiday,,24,40
+2,11:11.0,C. Miles misses 3-pt jump shot from 26 ft,,24,40
+2,11:10.0,,Defensive rebound by D. Nwaba,24,40
+2,11:06.0,,J. Clarkson makes 2-pt layup from 1 ft (assist by D. Nwaba),24,42
+2,10:50.0,D. Wright makes 2-pt layup from 2 ft,,26,42
+2,10:50.0,,N. Stauskas enters the game for M. Chriss,26,42
+2,10:31.0,,M. Dellavedova makes 2-pt jump shot from 10 ft,26,44
+2,10:20.0,Personal foul by L. Nance (drawn by J. Valančiūnas),,26,44
+2,10:12.0,J. Holiday misses 3-pt jump shot from 23 ft,,26,44
+2,10:05.0,,Defensive rebound by N. Stauskas,26,44
+2,10:05.0,,A. Žižić enters the game for L. Nance,26,44
+2,9:47.0,,Turnover by M. Dellavedova (lost ball; steal by C. Miles),26,44
+2,9:38.0,D. Wright misses 2-pt layup from 2 ft,,26,44
+2,9:36.0,,Defensive rebound by A. Žižić,26,44
+2,9:30.0,,J. Clarkson misses 2-pt jump shot from 15 ft,26,44
+2,9:26.0,Defensive rebound by D. Wright,,26,44
+2,9:19.0,J. Holiday makes 3-pt jump shot from 28 ft (assist by J. Valančiūnas),,29,44
+2,9:09.0,,Cleveland full timeout,29,44
+2,8:51.0,,A. Žižić makes 2-pt jump shot from 12 ft,29,46
+2,8:38.0,D. Wright makes 3-pt jump shot from 28 ft (assist by J. Holiday),,32,46
+2,8:12.0,,Turnover by J. Clarkson (bad pass),32,46
+2,8:12.0,M. Conley enters the game for C. Miles,,32,46
+2,7:47.0,B. Caboclo misses 3-pt jump shot from 35 ft,,32,46
+2,7:43.0,,Defensive rebound by M. Dellavedova,32,46
+2,7:40.0,,A. Žižić makes 2-pt dunk at rim (assist by M. Dellavedova),32,48
+2,7:31.0,Shooting foul by A. Žižić (drawn by M. Conley),,32,48
+2,7:31.0,M. Conley makes free throw 1 of 2,,33,48
+2,7:31.0,,K. Love enters the game for J. Clarkson,33,48
+2,7:31.0,,C. Sexton enters the game for D. Nwaba,33,48
+2,7:31.0,M. Conley makes free throw 2 of 2,,34,48
+2,7:21.0,,Offensive foul by K. Love (drawn by B. Caboclo),34,48
+2,7:21.0,,Turnover by K. Love (offensive foul),34,48
+2,7:03.0,J. Valančiūnas makes 2-pt jump shot from 14 ft,,36,48
+2,6:46.0,,K. Love misses 3-pt jump shot from 23 ft,36,48
+2,6:43.0,Defensive rebound by J. Valančiūnas,,36,48
+2,6:39.0,Shooting foul by M. Dellavedova (drawn by M. Conley),,36,48
+2,6:39.0,M. Conley makes free throw 1 of 2,,37,48
+2,6:39.0,,B. Knight enters the game for M. Dellavedova,37,48
+2,6:39.0,M. Conley makes free throw 2 of 2,,38,48
+2,6:21.0,,B. Knight misses 3-pt jump shot from 24 ft,38,48
+2,6:19.0,,Offensive rebound by B. Knight,38,48
+2,6:15.0,,N. Stauskas misses 2-pt jump shot from 15 ft,38,48
+2,6:13.0,Defensive rebound by J. Valančiūnas,,38,48
+2,6:08.0,D. Wright misses 2-pt jump shot from 13 ft,,38,48
+2,6:06.0,Offensive rebound by J. Valančiūnas,,38,48
+2,6:06.0,J. Valančiūnas makes 2-pt dunk at rim,,40,48
+2,5:48.0,,N. Stauskas misses 3-pt jump shot from 23 ft,40,48
+2,5:45.0,Defensive rebound by M. Conley,,40,48
+2,5:45.0,A. Bradley enters the game for B. Caboclo,,40,48
+2,5:45.0,J. Noah enters the game for J. Valančiūnas,,40,48
+2,5:45.0,I. Rabb enters the game for D. Wright,,40,48
+2,5:45.0,,C. Osman enters the game for N. Stauskas,40,48
+2,5:28.0,J. Holiday makes 2-pt dunk from 2 ft (assist by J. Noah),,42,48
+2,5:23.0,,Cleveland full timeout,42,48
+2,5:12.0,,K. Love misses 2-pt jump shot from 18 ft,42,48
+2,5:09.0,,Offensive rebound by A. Žižić,42,48
+2,5:07.0,,C. Osman makes 3-pt jump shot from 25 ft (assist by B. Knight),42,51
+2,4:49.0,M. Conley makes 2-pt jump shot from 9 ft,,44,51
+2,4:41.0,,Turnover by B. Knight (bad pass; steal by J. Noah),44,51
+2,4:34.0,M. Conley makes 2-pt jump shot from 15 ft (assist by J. Noah),,46,51
+2,4:08.0,,K. Love makes 2-pt jump shot from 4 ft (assist by C. Sexton),46,53
+2,3:40.0,J. Noah makes 2-pt layup from 1 ft (assist by A. Bradley),,48,53
+2,3:30.0,,C. Sexton makes 2-pt jump shot from 15 ft,48,55
+2,3:16.0,J. Noah misses 2-pt layup from 3 ft,,48,55
+2,3:16.0,Offensive rebound by I. Rabb,,48,55
+2,3:16.0,I. Rabb makes 2-pt layup from 2 ft,,50,55
+2,3:16.0,Technical foul by J. Noah,,50,55
+2,3:16.0,,K. Love makes technical free throw,50,56
+2,3:05.0,,C. Osman makes 3-pt jump shot from 26 ft (assist by A. Žižić),50,59
+2,2:50.0,J. Holiday misses 3-pt jump shot from 26 ft,,50,59
+2,2:48.0,,Defensive rebound by K. Love,50,59
+2,2:32.0,,Turnover by C. Sexton (bad pass; steal by J. Holiday),50,59
+2,2:22.0,J. Noah misses 2-pt hook shot from 9 ft,,50,59
+2,2:19.0,,Defensive rebound by B. Knight,50,59
+2,2:16.0,,Shooting foul by M. Conley (drawn by A. Žižić),50,59
+2,2:16.0,,A. Žižić makes free throw 1 of 2,50,60
+2,2:16.0,C. Parsons enters the game for J. Holiday,,50,60
+2,2:16.0,J. Valančiūnas enters the game for J. Noah,,50,60
+2,2:16.0,,A. Žižić makes free throw 2 of 2,50,61
+2,2:09.0,Offensive foul by A. Bradley (drawn by B. Knight),,50,61
+2,2:09.0,Turnover by A. Bradley (offensive foul),,50,61
+2,2:09.0,D. Wright enters the game for A. Bradley,,50,61
+2,1:56.0,,B. Knight makes 2-pt jump shot from 18 ft,50,63
+2,1:45.0,J. Valančiūnas misses 2-pt jump shot from 11 ft,,50,63
+2,1:44.0,Offensive rebound by J. Valančiūnas,,50,63
+2,1:42.0,J. Valančiūnas makes 2-pt layup from 5 ft,,52,63
+2,1:27.0,,K. Love misses 2-pt layup from 7 ft,52,63
+2,1:25.0,Defensive rebound by D. Wright,,52,63
+2,1:22.0,C. Parsons misses 3-pt jump shot from 23 ft,,52,63
+2,1:18.0,,Defensive rebound by C. Sexton,52,63
+2,1:15.0,,K. Love misses 2-pt layup from 1 ft (block by D. Wright),52,63
+2,1:12.0,Defensive rebound by M. Conley,,52,63
+2,1:08.0,C. Parsons misses 3-pt jump shot from 27 ft,,52,63
+2,1:04.0,Offensive rebound by I. Rabb,,52,63
+2,1:02.0,D. Wright misses 3-pt jump shot from 25 ft,,52,63
+2,0:59.0,Offensive rebound by D. Wright,,52,63
+2,0:58.0,D. Wright makes 2-pt layup from 1 ft,,54,63
+2,0:38.0,,C. Sexton misses 2-pt jump shot from 16 ft,54,63
+2,0:35.0,Defensive rebound by J. Valančiūnas,,54,63
+2,0:22.0,D. Wright makes 2-pt layup from 2 ft (assist by I. Rabb),,56,63
+2,0:00.0,,C. Sexton misses 2-pt layup from 1 ft,56,63
+2,0:00.0,,Offensive rebound by Team,56,63
+3,11:36.0,,C. Sexton misses 2-pt jump shot from 11 ft,56,63
+3,11:33.0,Defensive rebound by M. Conley,,56,63
+3,11:31.0,Turnover by M. Conley (bad pass; steal by C. Sexton),,56,63
+3,11:24.0,,C. Sexton misses 2-pt layup from 5 ft (block by J. Valančiūnas),56,63
+3,11:20.0,,Offensive rebound by C. Sexton,56,63
+3,11:16.0,,A. Žižić makes 2-pt jump shot from 16 ft (assist by C. Sexton),56,65
+3,10:59.0,Turnover by A. Bradley (step out of bounds),,56,65
+3,10:45.0,,Shooting foul by A. Bradley (drawn by A. Žižić),56,65
+3,10:45.0,,Offensive rebound by Team,56,65
+3,10:45.0,,A. Žižić misses free throw 1 of 2,56,65
+3,10:45.0,D. Wright enters the game for A. Bradley,,56,65
+3,10:45.0,,A. Žižić makes free throw 2 of 2,56,66
+3,10:32.0,Personal foul by B. Knight (drawn by M. Conley),,56,66
+3,10:27.0,M. Conley makes 2-pt jump shot from 17 ft,,58,66
+3,10:15.0,,K. Love makes 3-pt jump shot from 25 ft (assist by C. Osman),58,69
+3,10:00.0,M. Conley misses 2-pt jump shot from 20 ft,,58,69
+3,9:56.0,,Defensive rebound by K. Love,58,69
+3,9:46.0,,C. Osman misses 3-pt jump shot from 23 ft,58,69
+3,9:44.0,Defensive rebound by J. Valančiūnas,,58,69
+3,9:34.0,Offensive foul by J. Valančiūnas (drawn by C. Osman),,58,69
+3,9:34.0,Turnover by J. Valančiūnas (offensive foul),,58,69
+3,9:26.0,,K. Love makes 3-pt jump shot from 26 ft (assist by B. Knight),58,72
+3,9:24.0,Memphis full timeout,,58,72
+3,9:24.0,,Technical foul by,58,72
+3,9:24.0,,K. Love makes technical free throw,58,73
+3,9:08.0,J. Valančiūnas misses 2-pt layup from 3 ft (block by K. Love),,58,73
+3,9:08.0,Offensive rebound by J. Valančiūnas,,58,73
+3,9:08.0,Shooting foul by K. Love (drawn by J. Valančiūnas),,58,73
+3,9:08.0,J. Valančiūnas makes free throw 1 of 2,,59,73
+3,9:08.0,J. Valančiūnas makes free throw 2 of 2,,60,73
+3,8:44.0,,B. Knight misses 3-pt jump shot from 24 ft,60,73
+3,8:41.0,Defensive rebound by J. Holiday,,60,73
+3,8:32.0,J. Holiday makes 2-pt layup from 1 ft (assist by I. Rabb),,62,73
+3,8:09.0,,K. Love makes 3-pt jump shot from 27 ft (assist by C. Sexton),62,76
+3,7:52.0,J. Valančiūnas makes 2-pt jump shot from 12 ft,,64,76
+3,7:40.0,,C. Sexton misses 3-pt jump shot from 23 ft,64,76
+3,7:37.0,Defensive rebound by J. Valančiūnas,,64,76
+3,7:28.0,I. Rabb misses 3-pt jump shot from 23 ft,,64,76
+3,7:25.0,,Defensive rebound by K. Love,64,76
+3,7:14.0,,C. Sexton makes 3-pt jump shot from 23 ft (assist by B. Knight),64,79
+3,7:04.0,Turnover by D. Wright (lost ball; steal by B. Knight),,64,79
+3,7:02.0,,Turnover by A. Žižić (bad pass),64,79
+3,6:51.0,Shooting foul by C. Sexton (drawn by M. Conley),,64,79
+3,6:51.0,M. Conley makes free throw 1 of 2,,65,79
+3,6:51.0,M. Conley makes free throw 2 of 2,,66,79
+3,6:37.0,,C. Sexton misses 3-pt jump shot from 26 ft,66,79
+3,6:34.0,Defensive rebound by M. Conley,,66,79
+3,6:31.0,Personal foul by K. Love (drawn by I. Rabb),,66,79
+3,6:31.0,,M. Chriss enters the game for K. Love,66,79
+3,6:31.0,,L. Nance enters the game for A. Žižić,66,79
+3,6:26.0,Turnover by M. Conley (bad pass; steal by C. Sexton),,66,79
+3,6:21.0,,Turnover by C. Sexton (step out of bounds),66,79
+3,6:21.0,J. Noah enters the game for J. Valančiūnas,,66,79
+3,6:21.0,,J. Clarkson enters the game for B. Knight,66,79
+3,6:02.0,D. Wright makes 2-pt layup from 2 ft (assist by I. Rabb),,68,79
+3,5:48.0,,M. Chriss misses 2-pt dunk from 2 ft,68,79
+3,5:48.0,Defensive rebound by Team,,68,79
+3,5:32.0,M. Conley makes 2-pt jump shot from 16 ft,,70,79
+3,5:23.0,,Turnover by J. Clarkson (out of bounds lost ball),70,79
+3,5:16.0,Shooting foul by M. Chriss (drawn by J. Noah),,70,79
+3,5:16.0,J. Noah makes free throw 1 of 2,,71,79
+3,5:16.0,C. Parsons enters the game for J. Holiday,,71,79
+3,5:16.0,J. Noah makes free throw 2 of 2,,72,79
+3,5:04.0,,Personal foul by D. Wright (drawn by L. Nance),72,79
+3,4:57.0,,M. Chriss misses 3-pt jump shot from 27 ft,72,79
+3,4:53.0,Defensive rebound by D. Wright,,72,79
+3,4:48.0,I. Rabb misses 2-pt layup from 1 ft,,72,79
+3,4:47.0,Offensive rebound by J. Noah,,72,79
+3,4:47.0,Shooting foul by M. Chriss (drawn by J. Noah),,72,79
+3,4:47.0,J. Noah misses free throw 1 of 2,,72,79
+3,4:47.0,Offensive rebound by Team,,72,79
+3,4:47.0,B. Caboclo enters the game for I. Rabb,,72,79
+3,4:47.0,J. Noah makes free throw 2 of 2,,73,79
+3,4:28.0,,Shooting foul by J. Noah (drawn by M. Chriss),73,79
+3,4:28.0,,M. Chriss misses free throw 1 of 2,73,79
+3,4:28.0,,Offensive rebound by Team,73,79
+3,4:28.0,C. Miles enters the game for M. Conley,,73,79
+3,4:28.0,,M. Chriss makes free throw 2 of 2,73,80
+3,4:22.0,Personal foul by M. Chriss (drawn by D. Wright),,73,80
+3,4:22.0,D. Wright makes free throw 1 of 2,,74,80
+3,4:22.0,D. Wright makes free throw 2 of 2,,75,80
+3,4:12.0,,J. Clarkson misses 3-pt jump shot from 25 ft,75,80
+3,4:08.0,Defensive rebound by C. Parsons,,75,80
+3,4:02.0,B. Caboclo misses 3-pt jump shot from 25 ft,,75,80
+3,3:58.0,,Defensive rebound by C. Sexton,75,80
+3,3:50.0,,C. Sexton misses 2-pt layup from 2 ft,75,80
+3,3:48.0,Defensive rebound by J. Noah,,75,80
+3,3:33.0,C. Parsons misses 3-pt jump shot from 23 ft,,75,80
+3,3:29.0,Offensive rebound by J. Noah,,75,80
+3,3:28.0,J. Noah makes 2-pt layup from 1 ft,,77,80
+3,3:18.0,,Cleveland full timeout,77,80
+3,3:18.0,,M. Dellavedova enters the game for C. Sexton,77,80
+3,3:07.0,,M. Chriss misses 3-pt jump shot from 22 ft,77,80
+3,3:03.0,Defensive rebound by C. Parsons,,77,80
+3,2:51.0,Shooting foul by M. Dellavedova (drawn by J. Noah),,77,80
+3,2:51.0,J. Noah makes free throw 1 of 2,,78,80
+3,2:51.0,J. Noah misses free throw 2 of 2,,78,80
+3,2:44.0,,Defensive rebound by M. Chriss,78,80
+3,2:36.0,,C. Osman misses 3-pt jump shot from 23 ft,78,80
+3,2:32.0,Defensive rebound by D. Wright,,78,80
+3,2:26.0,C. Miles misses 2-pt layup from 1 ft,,78,80
+3,2:25.0,Offensive rebound by B. Caboclo,,78,80
+3,2:25.0,B. Caboclo makes 2-pt layup from 1 ft,,80,80
+3,2:10.0,,Offensive foul by M. Chriss (drawn by C. Parsons),80,80
+3,2:10.0,,Turnover by M. Chriss (offensive foul),80,80
+3,2:10.0,,D. Nwaba enters the game for M. Chriss,80,80
+3,1:53.0,C. Parsons misses 2-pt jump shot from 15 ft,,80,80
+3,1:52.0,Offensive rebound by B. Caboclo,,80,80
+3,1:51.0,B. Caboclo makes 2-pt layup from 1 ft,,82,80
+3,1:28.0,,J. Clarkson misses 3-pt jump shot from 25 ft,82,80
+3,1:25.0,Defensive rebound by J. Noah,,82,80
+3,1:15.0,Offensive foul by C. Miles (drawn by M. Dellavedova),,82,80
+3,1:15.0,Turnover by C. Miles (offensive foul),,82,80
+3,0:59.0,,L. Nance misses 2-pt dunk from 2 ft (block by B. Caboclo),82,80
+3,0:57.0,,Offensive rebound by J. Clarkson,82,80
+3,0:53.0,,L. Nance misses 2-pt layup from 2 ft,82,80
+3,0:50.0,,Offensive rebound by L. Nance,82,80
+3,0:47.0,,J. Clarkson misses 3-pt jump shot from 22 ft,82,80
+3,0:45.0,Defensive rebound by C. Parsons,,82,80
+3,0:34.0,B. Caboclo misses 3-pt jump shot from 23 ft,,82,80
+3,0:29.0,,Defensive rebound by L. Nance,82,80
+3,0:29.0,,D. Nwaba makes 2-pt layup from 2 ft (assist by L. Nance),82,82
+3,0:08.0,D. Wright misses 2-pt jump shot from 8 ft,,82,82
+3,0:07.0,Offensive rebound by Team,,82,82
+3,0:07.0,,Violation by Team (delay of game),82,82
+3,0:01.0,Shooting foul by D. Nwaba (drawn by C. Parsons),,82,82
+3,0:01.0,C. Parsons makes free throw 1 of 2,,83,82
+3,0:01.0,J. Holiday enters the game for C. Miles,,83,82
+3,0:01.0,C. Parsons makes free throw 2 of 2,,84,82
+3,0:00.0,,M. Dellavedova misses 3-pt jump shot from 48 ft,84,82
+3,0:00.0,,Offensive rebound by Team,84,82
+4,11:44.0,Shooting foul by K. Love (drawn by J. Noah),,84,82
+4,11:44.0,J. Noah makes free throw 1 of 2,,85,82
+4,11:44.0,J. Noah misses free throw 2 of 2,,85,82
+4,11:41.0,,Defensive rebound by K. Love,85,82
+4,11:16.0,,J. Clarkson misses 2-pt jump shot from 21 ft,85,82
+4,11:12.0,,Offensive rebound by D. Nwaba,85,82
+4,11:12.0,,M. Dellavedova misses 3-pt jump shot from 26 ft,85,82
+4,11:12.0,Defensive rebound by Team,,85,82
+4,11:12.0,,Loose ball foul by L. Nance (drawn by C. Parsons),85,82
+4,10:50.0,C. Parsons misses 3-pt jump shot from 23 ft,,85,82
+4,10:50.0,,Defensive rebound by Team,85,82
+4,10:50.0,Loose ball foul by J. Noah (drawn by K. Love),,85,82
+4,10:40.0,,K. Love makes 3-pt jump shot from 27 ft (assist by M. Dellavedova),85,85
+4,10:23.0,C. Miles misses 3-pt jump shot from 26 ft,,85,85
+4,10:21.0,,Defensive rebound by K. Love,85,85
+4,10:17.0,,Turnover by K. Love (bad pass; steal by C. Miles),85,85
+4,10:10.0,Turnover by B. Caboclo (lost ball; steal by M. Dellavedova),,85,85
+4,10:05.0,,M. Dellavedova makes 3-pt jump shot from 26 ft,85,88
+4,10:04.0,Memphis full timeout,,85,88
+4,10:04.0,M. Conley enters the game for B. Caboclo,,85,88
+4,10:04.0,I. Rabb enters the game for J. Noah,,85,88
+4,10:04.0,J. Valančiūnas enters the game for D. Wright,,85,88
+4,9:48.0,J. Valančiūnas misses 2-pt hook shot from 6 ft,,85,88
+4,9:46.0,Offensive rebound by J. Valančiūnas,,85,88
+4,9:45.0,J. Valančiūnas makes 2-pt layup from 1 ft,,87,88
+4,9:28.0,,K. Love misses 3-pt jump shot from 26 ft,87,88
+4,9:26.0,Defensive rebound by C. Parsons,,87,88
+4,9:14.0,Turnover by C. Parsons (bad pass),,87,88
+4,8:54.0,,Turnover by J. Clarkson (bad pass; steal by M. Conley),87,88
+4,8:48.0,Shooting foul by D. Nwaba (drawn by M. Conley),,87,88
+4,8:48.0,M. Conley makes free throw 1 of 2,,88,88
+4,8:48.0,M. Conley makes free throw 2 of 2,,89,88
+4,8:28.0,,K. Love makes 2-pt layup from 2 ft,89,90
+4,8:17.0,Personal foul by D. Nwaba (drawn by C. Parsons),,89,90
+4,8:17.0,,A. Žižić enters the game for L. Nance,89,90
+4,8:03.0,J. Valančiūnas misses 2-pt jump shot from 19 ft,,89,90
+4,8:00.0,,Defensive rebound by K. Love,89,90
+4,7:46.0,,J. Clarkson misses 3-pt jump shot from 24 ft,89,90
+4,7:43.0,Defensive rebound by I. Rabb,,89,90
+4,7:33.0,C. Miles makes 3-pt jump shot from 24 ft (assist by I. Rabb),,92,90
+4,7:15.0,,M. Dellavedova misses 3-pt jump shot from 26 ft,92,90
+4,7:15.0,,Offensive rebound by Team,92,90
+4,7:15.0,Loose ball foul by I. Rabb (drawn by A. Žižić),,92,90
+4,7:15.0,A. Bradley enters the game for C. Parsons,,92,90
+4,7:05.0,,A. Žižić makes 2-pt jump shot from 15 ft (assist by M. Dellavedova),92,92
+4,6:53.0,M. Conley misses 2-pt jump shot from 15 ft,,92,92
+4,6:51.0,,Defensive rebound by A. Žižić,92,92
+4,6:44.0,,Offensive foul by A. Žižić (drawn by M. Conley),92,92
+4,6:44.0,,Turnover by A. Žižić (offensive foul),92,92
+4,6:44.0,,C. Sexton enters the game for J. Clarkson,92,92
+4,6:30.0,J. Valančiūnas makes 2-pt hook shot from 7 ft,,94,92
+4,6:20.0,,K. Love makes 2-pt dunk from 2 ft (assist by M. Dellavedova),94,94
+4,6:06.0,Turnover by M. Conley (lost ball; steal by K. Love),,94,94
+4,6:06.0,,Personal take foul by I. Rabb (drawn by D. Nwaba),94,94
+4,5:48.0,,K. Love makes 3-pt jump shot from 23 ft (assist by C. Sexton),94,97
+4,5:32.0,C. Miles misses 2-pt layup from 1 ft,,94,97
+4,5:27.0,,Defensive rebound by M. Dellavedova,94,97
+4,5:26.0,,C. Sexton makes 2-pt dunk from 2 ft (assist by M. Dellavedova),94,99
+4,5:23.0,Memphis full timeout,,94,99
+4,5:23.0,J. Noah enters the game for C. Miles,,94,99
+4,5:23.0,D. Wright enters the game for I. Rabb,,94,99
+4,5:23.0,,C. Osman enters the game for K. Love,94,99
+4,5:01.0,J. Noah makes 2-pt layup from 1 ft,,96,99
+4,4:52.0,,Offensive foul by A. Žižić (drawn by M. Conley),96,99
+4,4:52.0,,Turnover by A. Žižić (offensive foul),96,99
+4,4:52.0,,L. Nance enters the game for D. Nwaba,96,99
+4,4:33.0,D. Wright misses 2-pt layup from 1 ft,,96,99
+4,4:32.0,Offensive rebound by J. Valančiūnas,,96,99
+4,4:32.0,J. Valančiūnas makes 2-pt layup from 1 ft,,98,99
+4,4:10.0,,Turnover by M. Dellavedova (bad pass; steal by M. Conley),98,99
+4,4:05.0,A. Bradley misses 3-pt jump shot from 27 ft,,98,99
+4,4:01.0,Offensive rebound by J. Noah,,98,99
+4,3:52.0,M. Conley makes 2-pt jump shot from 9 ft,,100,99
+4,3:34.0,,Cleveland full timeout,100,99
+4,3:34.0,J. Holiday enters the game for M. Conley,,100,99
+4,3:27.0,,L. Nance makes 2-pt hook shot from 17 ft,100,101
+4,3:01.0,D. Wright misses 3-pt jump shot from 33 ft,,100,101
+4,2:57.0,,Defensive rebound by M. Dellavedova,100,101
+4,2:43.0,,C. Osman misses 2-pt jump shot from 20 ft,100,101
+4,2:41.0,Defensive rebound by D. Wright,,100,101
+4,2:25.0,J. Valančiūnas makes 3-pt jump shot from 23 ft (assist by J. Noah),,103,101
+4,1:58.0,,C. Osman makes 3-pt jump shot from 27 ft (assist by M. Dellavedova),103,104
+4,1:46.0,D. Wright misses 2-pt layup from 2 ft,,103,104
+4,1:42.0,,Defensive rebound by C. Sexton,103,104
+4,1:41.0,,C. Osman makes 2-pt dunk from 2 ft (assist by C. Sexton),103,106
+4,1:41.0,Memphis full timeout,,103,106
+4,1:41.0,M. Conley enters the game for A. Bradley,,103,106
+4,1:30.0,M. Conley misses 3-pt jump shot from 25 ft,,103,106
+4,1:25.0,,Defensive rebound by A. Žižić,103,106
+4,1:13.0,,C. Osman misses 3-pt jump shot from 26 ft,103,106
+4,1:11.0,,Offensive rebound by L. Nance,103,106
+4,1:00.0,,C. Sexton makes 3-pt jump shot from 25 ft,103,109
+4,0:50.0,J. Valančiūnas makes 2-pt jump shot from 11 ft,,105,109
+4,0:50.0,Shooting foul by A. Žižić (drawn by J. Valančiūnas),,105,109
+4,0:50.0,A. Bradley enters the game for J. Holiday,,105,109
+4,0:50.0,J. Valančiūnas misses free throw 1 of 1,,105,109
+4,0:48.0,,Defensive rebound by A. Žižić,105,109
+4,0:31.0,,M. Dellavedova misses 2-pt layup at rim (block by J. Valančiūnas),105,109
+4,0:31.0,Defensive rebound by Team,,105,109
+4,0:22.0,M. Conley misses 3-pt jump shot from 27 ft,,105,109
+4,0:20.0,,Defensive rebound by C. Sexton,105,109
+4,0:20.0,,Personal take foul by J. Valančiūnas (drawn by C. Sexton),105,109
+4,0:17.0,,Personal foul by D. Wright (drawn by M. Dellavedova),105,109
+4,0:17.0,,M. Dellavedova misses free throw 1 of 2,105,109
+4,0:17.0,,Offensive rebound by Team,105,109
+4,0:17.0,,M. Dellavedova makes free throw 2 of 2,105,110
+4,0:17.0,Memphis full timeout,,105,110
+4,0:17.0,C. Miles enters the game for A. Bradley,,105,110
+4,0:12.0,J. Valančiūnas misses 2-pt layup from 7 ft,,105,110
+4,0:11.0,Offensive rebound by J. Noah,,105,110
+4,0:11.0,J. Noah misses 2-pt layup from 1 ft,,105,110
+4,0:11.0,,Defensive rebound by L. Nance,105,110
+4,0:11.0,,Personal take foul by J. Valančiūnas (drawn by L. Nance),105,110
+4,0:11.0,,L. Nance misses free throw 1 of 2,105,110
+4,0:11.0,,Offensive rebound by Team,105,110
+4,0:11.0,J. Holiday enters the game for J. Noah,,105,110
+4,0:11.0,,D. Nwaba enters the game for A. Žižić,105,110
+4,0:11.0,,L. Nance misses free throw 2 of 2,105,110
+4,0:08.0,Defensive rebound by J. Valančiūnas,,105,110
+4,0:02.0,J. Valančiūnas makes 2-pt dunk at rim (assist by D. Wright),,107,110
+4,0:01.0,,Personal take foul by J. Holiday (drawn by M. Dellavedova),107,110
+4,0:01.0,,M. Dellavedova makes free throw 1 of 2,107,111
+4,0:01.0,,M. Dellavedova makes free throw 2 of 2,107,112

@@ -1,0 +1,509 @@
+QUARTER,TIME_REMAINING,GOLDEN STATE_ACTION,SACRAMENTO_ACTION,GOLDEN STATE_SCORE,SACRAMENTO_SCORE
+1,11:37.0,K. Looney makes 2-pt dunk from 1 ft (assist by D. Green),,2,0
+1,11:22.0,,N. Bjelica misses 2-pt hook shot from 4 ft,2,0
+1,11:20.0,Defensive rebound by D. Green,,2,0
+1,11:12.0,S. Curry makes 2-pt jump shot from 20 ft,,4,0
+1,11:04.0,,D. Fox misses 3-pt jump shot from 25 ft,4,0
+1,11:02.0,Defensive rebound by D. Green,,4,0
+1,10:50.0,Shooting foul by W. Cauley-Stein (drawn by K. Looney),,4,0
+1,10:50.0,K. Looney misses free throw 1 of 2,,4,0
+1,10:50.0,Offensive rebound by Team,,4,0
+1,10:50.0,K. Looney misses free throw 2 of 2,,4,0
+1,10:47.0,,Defensive rebound by I. Shumpert,4,0
+1,10:31.0,,B. Hield misses 3-pt jump shot from 24 ft,4,0
+1,10:28.0,Defensive rebound by K. Durant,,4,0
+1,10:25.0,K. Durant makes 3-pt jump shot from 25 ft (assist by K. Looney),,7,0
+1,10:07.0,,N. Bjelica makes 2-pt jump shot from 8 ft (assist by D. Fox),7,2
+1,10:04.0,Turnover by K. Durant (out of bounds lost ball),,7,2
+1,10:01.0,,W. Cauley-Stein makes 2-pt hook shot from 8 ft (assist by I. Shumpert),7,4
+1,9:49.0,S. Curry misses 3-pt jump shot from 25 ft,,7,4
+1,9:46.0,Offensive rebound by D. Green,,7,4
+1,9:43.0,K. Durant makes 2-pt layup from 2 ft (assist by D. Green),,9,4
+1,9:34.0,,Shooting foul by K. Looney (drawn by W. Cauley-Stein),9,4
+1,9:34.0,,W. Cauley-Stein makes free throw 1 of 2,9,5
+1,9:34.0,,W. Cauley-Stein makes free throw 2 of 2,9,6
+1,9:23.0,K. Thompson makes 2-pt layup from 1 ft (assist by S. Curry),,11,6
+1,9:18.0,,W. Cauley-Stein makes 2-pt layup from 1 ft (assist by D. Fox),11,8
+1,9:03.0,S. Curry makes 2-pt layup from 1 ft (assist by K. Durant),,13,8
+1,8:58.0,,Shooting foul by S. Curry (drawn by D. Fox),13,8
+1,8:58.0,,D. Fox makes free throw 1 of 2,13,9
+1,8:58.0,,D. Fox makes free throw 2 of 2,13,10
+1,8:44.0,K. Durant makes 3-pt jump shot from 26 ft (assist by D. Green),,16,10
+1,8:27.0,,Personal foul by D. Green (drawn by N. Bjelica),16,10
+1,8:20.0,,I. Shumpert makes 3-pt jump shot from 26 ft (assist by D. Fox),16,13
+1,8:03.0,S. Curry makes 3-pt jump shot from 24 ft (assist by D. Green),,19,13
+1,8:03.0,,B. Bogdanović enters the game for B. Hield,19,13
+1,7:54.0,,Shooting foul by S. Curry (drawn by N. Bjelica),19,13
+1,7:54.0,,N. Bjelica makes free throw 1 of 2,19,14
+1,7:54.0,,N. Bjelica makes free throw 2 of 2,19,15
+1,7:43.0,D. Green makes 2-pt layup from 2 ft (assist by S. Curry),,21,15
+1,7:39.0,,Offensive foul by I. Shumpert (drawn by S. Curry),21,15
+1,7:39.0,,Turnover by I. Shumpert (offensive foul),21,15
+1,7:28.0,D. Green misses 2-pt layup from 2 ft,,21,15
+1,7:27.0,Offensive rebound by K. Looney,,21,15
+1,7:27.0,K. Looney makes 2-pt layup from 1 ft,,23,15
+1,7:27.0,,Sacramento full timeout,23,15
+1,7:15.0,,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by B. Bogdanović),23,17
+1,6:55.0,K. Thompson makes 2-pt jump shot from 21 ft,,25,17
+1,6:36.0,,N. Bjelica makes 3-pt jump shot from 24 ft (assist by D. Fox),25,20
+1,6:24.0,S. Curry misses 2-pt layup from 1 ft,,25,20
+1,6:20.0,,Defensive rebound by D. Fox,25,20
+1,6:17.0,,N. Bjelica misses 3-pt jump shot from 25 ft,25,20
+1,6:17.0,Defensive rebound by K. Thompson,,25,20
+1,6:12.0,Turnover by K. Durant (lost ball; steal by D. Fox),,25,20
+1,6:09.0,,D. Fox makes 2-pt layup from 1 ft (assist by I. Shumpert),25,22
+1,5:59.0,K. Thompson misses 2-pt jump shot from 16 ft,,25,22
+1,5:59.0,Offensive rebound by K. Looney,,25,22
+1,5:56.0,K. Durant makes 2-pt layup from 4 ft (assist by K. Looney),,27,22
+1,5:56.0,Shooting foul by W. Cauley-Stein (drawn by K. Durant),,27,22
+1,5:56.0,,K. Koufos enters the game for W. Cauley-Stein,27,22
+1,5:56.0,K. Durant makes free throw 1 of 1,,28,22
+1,5:36.0,,B. Bogdanović makes 2-pt jump shot from 14 ft (assist by K. Koufos),28,24
+1,5:23.0,K. Looney makes 2-pt layup from 2 ft (assist by D. Green),,30,24
+1,5:11.0,,N. Bjelica makes 3-pt jump shot from 25 ft (assist by K. Koufos),30,27
+1,5:02.0,Turnover by D. Green (bad pass),,30,27
+1,5:02.0,J. Jerebko enters the game for K. Looney,,30,27
+1,4:49.0,,Turnover by I. Shumpert (lost ball; steal by S. Curry),30,27
+1,4:41.0,Shooting foul by I. Shumpert (drawn by K. Thompson),,30,27
+1,4:41.0,K. Thompson makes free throw 1 of 2,,31,27
+1,4:41.0,J. Bell enters the game for S. Curry,,31,27
+1,4:41.0,Q. Cook enters the game for D. Green,,31,27
+1,4:41.0,,M. Bagley enters the game for N. Bjelica,31,27
+1,4:41.0,,Y. Ferrell enters the game for I. Shumpert,31,27
+1,4:41.0,K. Thompson makes free throw 2 of 2,,32,27
+1,4:33.0,,D. Fox makes 2-pt jump shot from 6 ft,32,29
+1,4:21.0,K. Durant misses 2-pt jump shot from 9 ft,,32,29
+1,4:18.0,,Defensive rebound by K. Koufos,32,29
+1,4:14.0,,B. Bogdanović misses 3-pt jump shot from 23 ft,32,29
+1,4:09.0,Defensive rebound by K. Thompson,,32,29
+1,4:05.0,K. Thompson makes 3-pt jump shot from 27 ft,,35,29
+1,3:47.0,,Personal foul by K. Thompson (drawn by B. Bogdanović),35,29
+1,3:47.0,,B. Bogdanović misses free throw 1 of 2,35,29
+1,3:47.0,,Offensive rebound by Team,35,29
+1,3:47.0,,J. Jackson enters the game for D. Fox,35,29
+1,3:47.0,,B. Bogdanović makes free throw 2 of 2,35,30
+1,3:31.0,K. Thompson misses 3-pt jump shot from 27 ft,,35,30
+1,3:27.0,,Defensive rebound by Y. Ferrell,35,30
+1,3:24.0,,Shooting foul by J. Jerebko (drawn by J. Jackson),35,30
+1,3:24.0,,J. Jackson misses free throw 1 of 2,35,30
+1,3:24.0,,Offensive rebound by Team,35,30
+1,3:24.0,,J. Jackson makes free throw 2 of 2,35,31
+1,3:11.0,J. Bell makes 2-pt layup from 2 ft (assist by K. Durant),,37,31
+1,2:58.0,,Turnover by B. Bogdanović (traveling),37,31
+1,2:58.0,Golden State full timeout,,37,31
+1,2:43.0,K. Thompson misses 3-pt jump shot from 24 ft,,37,31
+1,2:39.0,,Defensive rebound by J. Jackson,37,31
+1,2:32.0,,M. Bagley makes 2-pt hook shot from 7 ft (assist by Y. Ferrell),37,33
+1,2:15.0,J. Jerebko misses 3-pt jump shot from 24 ft,,37,33
+1,2:12.0,,Defensive rebound by Y. Ferrell,37,33
+1,2:03.0,,B. Bogdanović misses 3-pt jump shot from 28 ft,37,33
+1,2:00.0,Defensive rebound by K. Thompson,,37,33
+1,1:47.0,K. Thompson misses 2-pt jump shot from 11 ft,,37,33
+1,1:45.0,,Defensive rebound by M. Bagley,37,33
+1,1:39.0,,Y. Ferrell misses 2-pt jump shot from 13 ft,37,33
+1,1:36.0,Defensive rebound by Q. Cook,,37,33
+1,1:34.0,Shooting foul by B. Bogdanović (drawn by Q. Cook),,37,33
+1,1:34.0,Q. Cook makes free throw 1 of 2,,38,33
+1,1:34.0,A. McKinnie enters the game for K. Thompson,,38,33
+1,1:34.0,Q. Cook makes free throw 2 of 2,,39,33
+1,1:24.0,,Turnover by Y. Ferrell (bad pass),39,33
+1,1:06.0,Q. Cook makes 3-pt jump shot from 24 ft (assist by K. Durant),,42,33
+1,0:59.0,,Personal foul by A. McKinnie (drawn by B. Bogdanović),42,33
+1,0:59.0,,B. Bogdanović makes free throw 1 of 2,42,34
+1,0:59.0,,B. Bogdanović makes free throw 2 of 2,42,35
+1,0:45.0,Q. Cook misses 2-pt jump shot from 20 ft,,42,35
+1,0:42.0,,Defensive rebound by K. Koufos,42,35
+1,0:38.0,,J. Jackson makes 3-pt jump shot from 26 ft (assist by K. Koufos),42,38
+1,0:30.0,K. Durant misses 3-pt jump shot from 26 ft,,42,38
+1,0:28.0,,Defensive rebound by K. Koufos,42,38
+1,0:09.0,,J. Jackson misses 3-pt jump shot from 23 ft,42,38
+1,0:05.0,Defensive rebound by K. Durant,,42,38
+1,0:01.0,K. Durant misses 3-pt jump shot from 26 ft,,42,38
+1,0:01.0,Offensive rebound by Team,,42,38
+2,11:41.0,,B. Bogdanović misses 3-pt jump shot from 25 ft,42,38
+2,11:36.0,Defensive rebound by D. Lee,,42,38
+2,11:33.0,Turnover by D. Green (bad pass; steal by K. Koufos),,42,38
+2,11:28.0,,M. Bagley makes 2-pt layup from 2 ft (assist by Y. Ferrell),42,40
+2,11:21.0,Personal take foul by Y. Ferrell (drawn by S. Curry),,42,40
+2,11:21.0,,N. Bjelica enters the game for M. Bagley,42,40
+2,11:14.0,J. Jerebko misses 2-pt jump shot from 20 ft,,42,40
+2,11:08.0,,Defensive rebound by N. Bjelica,42,40
+2,11:04.0,,Y. Ferrell misses 3-pt jump shot from 25 ft,42,40
+2,10:59.0,Defensive rebound by D. Green,,42,40
+2,10:47.0,J. Jerebko makes 2-pt jump shot from 11 ft (assist by S. Curry),,44,40
+2,10:47.0,Shooting foul by N. Bjelica (drawn by J. Jerebko),,44,40
+2,10:47.0,,B. Hield enters the game for J. Jackson,44,40
+2,10:47.0,J. Jerebko makes free throw 1 of 1,,45,40
+2,10:32.0,,B. Hield misses 3-pt jump shot from 25 ft,45,40
+2,10:29.0,Defensive rebound by D. Green,,45,40
+2,10:27.0,A. McKinnie misses 2-pt layup from 2 ft,,45,40
+2,10:25.0,,Defensive rebound by K. Koufos,45,40
+2,10:18.0,,Y. Ferrell misses 2-pt layup from 6 ft,45,40
+2,10:15.0,Defensive rebound by A. McKinnie,,45,40
+2,10:12.0,D. Lee makes 3-pt jump shot from 23 ft (assist by S. Curry),,48,40
+2,10:03.0,,Sacramento full timeout,48,40
+2,9:51.0,,B. Hield makes 2-pt jump shot from 13 ft (assist by K. Koufos),48,42
+2,9:31.0,S. Curry makes 3-pt jump shot from 25 ft (assist by D. Green),,51,42
+2,9:03.0,,N. Bjelica misses 2-pt hook shot from 7 ft,51,42
+2,8:59.0,,Offensive rebound by B. Hield,51,42
+2,8:59.0,,B. Hield makes 2-pt layup at rim,51,44
+2,8:50.0,Shooting foul by N. Bjelica (drawn by A. McKinnie),,51,44
+2,8:50.0,A. McKinnie misses free throw 1 of 2,,51,44
+2,8:50.0,Offensive rebound by Team,,51,44
+2,8:50.0,,W. Cauley-Stein enters the game for Y. Ferrell,51,44
+2,8:50.0,,D. Fox enters the game for K. Koufos,51,44
+2,8:50.0,A. McKinnie misses free throw 2 of 2,,51,44
+2,8:46.0,,Defensive rebound by B. Hield,51,44
+2,8:39.0,,W. Cauley-Stein misses 2-pt layup from 3 ft,51,44
+2,8:36.0,Defensive rebound by D. Green,,51,44
+2,8:32.0,J. Jerebko makes 2-pt layup from 2 ft (assist by D. Green),,53,44
+2,8:19.0,,W. Cauley-Stein makes 2-pt jump shot from 7 ft (assist by N. Bjelica),53,46
+2,8:04.0,S. Curry makes 2-pt jump shot from 9 ft,,55,46
+2,7:59.0,,B. Hield misses 3-pt jump shot from 25 ft,55,46
+2,7:55.0,Defensive rebound by S. Curry,,55,46
+2,7:51.0,Turnover by S. Curry (lost ball; steal by N. Bjelica),,55,46
+2,7:44.0,,B. Hield makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),55,49
+2,7:44.0,Golden State full timeout,,55,49
+2,7:44.0,K. Looney enters the game for D. Green,,55,49
+2,7:44.0,K. Thompson enters the game for D. Lee,,55,49
+2,7:28.0,A. McKinnie misses 3-pt jump shot from 23 ft,,55,49
+2,7:24.0,,Defensive rebound by W. Cauley-Stein,55,49
+2,7:20.0,,B. Hield misses 2-pt jump shot from 6 ft,55,49
+2,7:18.0,Defensive rebound by A. McKinnie,,55,49
+2,7:17.0,Personal foul by B. Hield (drawn by A. McKinnie),,55,49
+2,7:05.0,J. Jerebko misses 3-pt jump shot from 25 ft,,55,49
+2,7:00.0,,Defensive rebound by W. Cauley-Stein,55,49
+2,6:40.0,,B. Bogdanović makes 2-pt jump shot from 21 ft (assist by W. Cauley-Stein),55,51
+2,6:30.0,Offensive foul by J. Jerebko (drawn by B. Bogdanović),,55,51
+2,6:30.0,Turnover by J. Jerebko (offensive foul),,55,51
+2,6:30.0,Q. Cook enters the game for S. Curry,,55,51
+2,6:30.0,K. Durant enters the game for A. McKinnie,,55,51
+2,6:20.0,,Turnover by B. Bogdanović (traveling),55,51
+2,6:08.0,K. Thompson makes 2-pt jump shot from 21 ft (assist by Q. Cook),,57,51
+2,5:55.0,,Shooting foul by Q. Cook (drawn by W. Cauley-Stein),57,51
+2,5:55.0,,W. Cauley-Stein misses free throw 1 of 2,57,51
+2,5:55.0,,Offensive rebound by Team,57,51
+2,5:55.0,,I. Shumpert enters the game for B. Bogdanović,57,51
+2,5:55.0,,W. Cauley-Stein makes free throw 2 of 2,57,52
+2,5:35.0,K. Thompson makes 2-pt jump shot from 12 ft (assist by K. Durant),,59,52
+2,5:30.0,,Shooting foul by Q. Cook (drawn by D. Fox),59,52
+2,5:30.0,,D. Fox makes free throw 1 of 2,59,53
+2,5:30.0,,J. Jackson enters the game for N. Bjelica,59,53
+2,5:30.0,,D. Fox makes free throw 2 of 2,59,54
+2,5:21.0,Shooting foul by J. Jackson (drawn by K. Durant),,59,54
+2,5:21.0,K. Durant makes free throw 1 of 2,,60,54
+2,5:21.0,K. Durant makes free throw 2 of 2,,61,54
+2,5:10.0,,D. Fox misses 2-pt layup from 2 ft,61,54
+2,5:07.0,Defensive rebound by J. Jerebko,,61,54
+2,5:01.0,Personal foul by D. Fox (drawn by K. Durant),,61,54
+2,5:01.0,K. Durant makes free throw 1 of 2,,62,54
+2,5:01.0,K. Durant makes free throw 2 of 2,,63,54
+2,4:46.0,,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by D. Fox),63,56
+2,4:36.0,K. Thompson misses 3-pt jump shot from 25 ft,,63,56
+2,4:30.0,,Defensive rebound by W. Cauley-Stein,63,56
+2,4:28.0,,I. Shumpert misses 3-pt jump shot from 26 ft,63,56
+2,4:25.0,,Offensive rebound by D. Fox,63,56
+2,4:21.0,,I. Shumpert makes 2-pt jump shot from 19 ft (assist by D. Fox),63,58
+2,4:00.0,K. Durant makes 3-pt jump shot from 25 ft,,66,58
+2,3:51.0,,D. Fox misses 2-pt layup from 3 ft,66,58
+2,3:50.0,Defensive rebound by K. Thompson,,66,58
+2,3:43.0,K. Thompson misses 3-pt jump shot from 25 ft,,66,58
+2,3:38.0,,Defensive rebound by W. Cauley-Stein,66,58
+2,3:34.0,,J. Jackson misses 3-pt jump shot from 25 ft,66,58
+2,3:33.0,Defensive rebound by Team,,66,58
+2,3:33.0,S. Curry enters the game for Q. Cook,,66,58
+2,3:33.0,D. Green enters the game for J. Jerebko,,66,58
+2,3:24.0,S. Curry misses 3-pt jump shot from 25 ft,,66,58
+2,3:21.0,,Defensive rebound by I. Shumpert,66,58
+2,3:13.0,,B. Hield misses 3-pt jump shot from 24 ft,66,58
+2,3:13.0,Defensive rebound by S. Curry,,66,58
+2,3:03.0,Shooting foul by D. Fox (drawn by S. Curry),,66,58
+2,3:03.0,S. Curry makes free throw 1 of 2,,67,58
+2,3:03.0,S. Curry makes free throw 2 of 2,,68,58
+2,2:48.0,,B. Hield makes 2-pt layup from 2 ft (assist by W. Cauley-Stein),68,60
+2,2:37.0,K. Thompson makes 3-pt jump shot from 22 ft (assist by D. Green),,71,60
+2,2:22.0,,W. Cauley-Stein misses 2-pt jump shot from 12 ft,71,60
+2,2:18.0,Defensive rebound by K. Looney,,71,60
+2,2:10.0,S. Curry misses 3-pt jump shot from 28 ft,,71,60
+2,2:08.0,,Defensive rebound by W. Cauley-Stein,71,60
+2,2:01.0,,D. Fox misses 3-pt jump shot from 25 ft,71,60
+2,1:57.0,Defensive rebound by S. Curry,,71,60
+2,1:52.0,K. Thompson misses 2-pt layup from 2 ft,,71,60
+2,1:50.0,Offensive rebound by K. Looney,,71,60
+2,1:45.0,K. Thompson misses 3-pt jump shot from 24 ft,,71,60
+2,1:39.0,,Defensive rebound by D. Fox,71,60
+2,1:32.0,,B. Hield misses 2-pt jump shot from 16 ft,71,60
+2,1:30.0,Defensive rebound by K. Thompson,,71,60
+2,1:27.0,S. Curry makes 3-pt jump shot from 23 ft (assist by K. Thompson),,74,60
+2,1:25.0,,Sacramento full timeout,74,60
+2,1:25.0,,B. Bogdanović enters the game for B. Hield,74,60
+2,1:09.0,,Personal foul by K. Thompson (drawn by D. Fox),74,60
+2,1:09.0,Violation by Team (delay of game),,74,60
+2,1:03.0,,J. Jackson misses 3-pt jump shot from 25 ft,74,60
+2,0:59.0,Defensive rebound by D. Green,,74,60
+2,0:44.0,K. Looney makes 2-pt layup from 2 ft (assist by K. Durant),,76,60
+2,0:37.0,,D. Fox makes 2-pt jump shot from 2 ft,76,62
+2,0:27.0,S. Curry misses 3-pt jump shot from 26 ft,,76,62
+2,0:23.0,,Defensive rebound by I. Shumpert,76,62
+2,0:01.0,,D. Fox makes 2-pt layup from 1 ft,76,64
+2,0:00.0,S. Curry misses 3-pt jump shot from 61 ft,,76,64
+2,0:00.0,Offensive rebound by Team,,76,64
+3,11:47.0,,Turnover by D. Fox (out of bounds lost ball),76,64
+3,11:33.0,K. Durant misses 2-pt jump shot from 19 ft,,76,64
+3,11:31.0,,Defensive rebound by D. Fox,76,64
+3,11:17.0,,B. Hield makes 3-pt jump shot from 25 ft (assist by W. Cauley-Stein),76,67
+3,11:06.0,Turnover by D. Green (bad pass; steal by I. Shumpert),,76,67
+3,11:01.0,,I. Shumpert misses 2-pt layup from 2 ft,76,67
+3,10:59.0,,Offensive rebound by W. Cauley-Stein,76,67
+3,10:56.0,,I. Shumpert misses 3-pt jump shot from 24 ft,76,67
+3,10:53.0,,Offensive rebound by N. Bjelica,76,67
+3,10:52.0,,N. Bjelica makes 2-pt layup from 2 ft,76,69
+3,10:52.0,Golden State full timeout,,76,69
+3,10:39.0,Shooting foul by N. Bjelica (drawn by K. Thompson),,76,69
+3,10:39.0,K. Thompson misses free throw 1 of 2,,76,69
+3,10:39.0,Offensive rebound by Team,,76,69
+3,10:39.0,K. Thompson makes free throw 2 of 2,,77,69
+3,10:21.0,,D. Fox misses 2-pt jump shot from 12 ft,77,69
+3,10:19.0,Defensive rebound by D. Green,,77,69
+3,10:16.0,K. Thompson makes 2-pt dunk from 1 ft (assist by D. Green),,79,69
+3,10:08.0,,N. Bjelica makes 3-pt jump shot from 28 ft (assist by D. Fox),79,72
+3,9:56.0,Personal foul by D. Fox (drawn by D. Green),,79,72
+3,9:49.0,S. Curry makes 3-pt jump shot from 25 ft (assist by K. Looney),,82,72
+3,9:41.0,,I. Shumpert misses 3-pt jump shot from 25 ft,82,72
+3,9:37.0,Defensive rebound by K. Looney,,82,72
+3,9:20.0,K. Durant misses 2-pt jump shot from 19 ft,,82,72
+3,9:16.0,Offensive rebound by K. Looney,,82,72
+3,9:14.0,K. Thompson misses 3-pt jump shot from 22 ft,,82,72
+3,9:14.0,Offensive rebound by K. Thompson,,82,72
+3,9:09.0,K. Thompson makes 2-pt layup from 1 ft,,84,72
+3,8:58.0,,W. Cauley-Stein misses 2-pt layup from 3 ft,84,72
+3,8:55.0,Defensive rebound by S. Curry,,84,72
+3,8:51.0,K. Thompson misses 2-pt jump shot from 16 ft,,84,72
+3,8:48.0,Offensive rebound by S. Curry,,84,72
+3,8:46.0,K. Thompson misses 2-pt jump shot from 22 ft (block by W. Cauley-Stein),,84,72
+3,8:43.0,,Defensive rebound by W. Cauley-Stein,84,72
+3,8:34.0,,W. Cauley-Stein misses 2-pt jump shot from 12 ft,84,72
+3,8:32.0,,Offensive rebound by N. Bjelica,84,72
+3,8:26.0,,N. Bjelica makes 3-pt jump shot from 22 ft (assist by D. Fox),84,75
+3,8:11.0,Turnover by D. Green (bad pass; steal by I. Shumpert),,84,75
+3,8:06.0,,B. Hield misses 3-pt jump shot from 23 ft,84,75
+3,8:03.0,Defensive rebound by D. Green,,84,75
+3,7:54.0,S. Curry makes 2-pt layup from 2 ft (assist by K. Durant),,86,75
+3,7:54.0,,Sacramento full timeout,86,75
+3,7:32.0,,B. Hield makes 2-pt layup from 2 ft,86,77
+3,7:15.0,K. Thompson makes 3-pt jump shot from 24 ft (assist by K. Durant),,89,77
+3,6:56.0,,B. Hield misses 3-pt jump shot from 25 ft,89,77
+3,6:54.0,Defensive rebound by S. Curry,,89,77
+3,6:51.0,K. Looney makes 2-pt dunk from 1 ft (assist by S. Curry),,91,77
+3,6:43.0,,Shooting foul by K. Looney (drawn by W. Cauley-Stein),91,77
+3,6:43.0,,W. Cauley-Stein makes free throw 1 of 2,91,78
+3,6:43.0,,B. Bogdanović enters the game for B. Hield,91,78
+3,6:43.0,,W. Cauley-Stein misses free throw 2 of 2,91,78
+3,6:43.0,Defensive rebound by D. Green,,91,78
+3,6:32.0,Shooting foul by W. Cauley-Stein (drawn by S. Curry),,91,78
+3,6:32.0,S. Curry makes free throw 1 of 2,,92,78
+3,6:32.0,S. Curry makes free throw 2 of 2,,93,78
+3,6:17.0,,Shooting foul by K. Looney (drawn by D. Fox),93,78
+3,6:17.0,,D. Fox makes free throw 1 of 2,93,79
+3,6:17.0,J. Jerebko enters the game for K. Looney,,93,79
+3,6:17.0,,D. Fox makes free throw 2 of 2,93,80
+3,5:59.0,Offensive foul by D. Green (drawn by I. Shumpert),,93,80
+3,5:59.0,Turnover by D. Green (offensive foul),,93,80
+3,5:50.0,,D. Fox makes 2-pt jump shot from 15 ft,93,82
+3,5:35.0,K. Thompson misses 2-pt dunk from 2 ft,,93,82
+3,5:34.0,Offensive rebound by K. Durant,,93,82
+3,5:29.0,S. Curry makes 3-pt jump shot from 22 ft (assist by D. Green),,96,82
+3,5:21.0,,I. Shumpert misses 3-pt jump shot from 25 ft,96,82
+3,5:19.0,Defensive rebound by D. Green,,96,82
+3,5:12.0,Personal foul by N. Bjelica (drawn by S. Curry),,96,82
+3,5:12.0,J. Bell enters the game for D. Green,,96,82
+3,5:12.0,,J. Jackson enters the game for N. Bjelica,96,82
+3,4:55.0,J. Bell misses 2-pt jump shot from 15 ft,,96,82
+3,4:49.0,,Defensive rebound by W. Cauley-Stein,96,82
+3,4:47.0,,D. Fox makes 2-pt jump shot from 17 ft,96,84
+3,4:32.0,Turnover by K. Durant (lost ball; steal by D. Fox),,96,84
+3,4:26.0,,D. Fox makes 3-pt jump shot from 26 ft (assist by I. Shumpert),96,87
+3,4:26.0,Golden State full timeout,,96,87
+3,4:26.0,D. Lee enters the game for K. Thompson,,96,87
+3,4:14.0,Offensive foul by J. Bell (drawn by I. Shumpert),,96,87
+3,4:14.0,Turnover by J. Bell (offensive foul),,96,87
+3,4:02.0,,B. Bogdanović misses 3-pt jump shot from 25 ft,96,87
+3,3:59.0,Defensive rebound by K. Durant,,96,87
+3,3:54.0,Shooting foul by I. Shumpert (drawn by K. Durant),,96,87
+3,3:54.0,K. Durant makes free throw 1 of 2,,97,87
+3,3:54.0,K. Durant makes free throw 2 of 2,,98,87
+3,3:36.0,,I. Shumpert misses 2-pt hook shot from 9 ft,98,87
+3,3:33.0,Defensive rebound by K. Durant,,98,87
+3,3:30.0,S. Curry misses 2-pt jump shot from 20 ft,,98,87
+3,3:28.0,,Defensive rebound by Team,98,87
+3,3:19.0,,Offensive foul by D. Fox (drawn by J. Bell),98,87
+3,3:19.0,,Turnover by D. Fox (offensive foul),98,87
+3,3:02.0,K. Durant misses 2-pt jump shot from 13 ft (block by I. Shumpert),,98,87
+3,2:59.0,,Defensive rebound by I. Shumpert,98,87
+3,2:59.0,,Turnover by I. Shumpert (out of bounds lost ball),98,87
+3,2:50.0,Offensive foul by J. Bell (drawn by I. Shumpert),,98,87
+3,2:50.0,Turnover by J. Bell (offensive foul),,98,87
+3,2:41.0,,B. Bogdanović misses 2-pt jump shot from 11 ft,98,87
+3,2:39.0,,Offensive rebound by W. Cauley-Stein,98,87
+3,2:33.0,,B. Bogdanović misses 2-pt jump shot from 22 ft,98,87
+3,2:30.0,Defensive rebound by J. Bell,,98,87
+3,2:21.0,S. Curry makes 2-pt jump shot from 18 ft,,100,87
+3,2:10.0,,D. Fox makes 2-pt layup from 2 ft,100,89
+3,1:59.0,K. Durant misses 2-pt layup from 6 ft,,100,89
+3,1:58.0,,Defensive rebound by Team,100,89
+3,1:58.0,A. McKinnie enters the game for K. Durant,,100,89
+3,1:58.0,,B. Hield enters the game for I. Shumpert,100,89
+3,1:42.0,,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by J. Jackson),100,91
+3,1:31.0,S. Curry misses 2-pt jump shot from 19 ft,,100,91
+3,1:27.0,,Defensive rebound by Team,100,91
+3,1:20.0,,D. Fox misses 2-pt layup from 6 ft,100,91
+3,1:18.0,Defensive rebound by A. McKinnie,,100,91
+3,1:15.0,Offensive foul by D. Lee (drawn by D. Fox),,100,91
+3,1:15.0,Turnover by D. Lee (offensive foul),,100,91
+3,1:15.0,,Y. Ferrell enters the game for W. Cauley-Stein,100,91
+3,1:15.0,,K. Koufos enters the game for D. Fox,100,91
+3,1:03.0,,B. Bogdanović misses 3-pt jump shot from 25 ft,100,91
+3,0:59.0,,Offensive rebound by B. Hield,100,91
+3,0:58.0,,B. Hield misses 3-pt jump shot from 22 ft,100,91
+3,0:55.0,Defensive rebound by J. Bell,,100,91
+3,0:45.0,A. McKinnie misses 3-pt jump shot from 25 ft,,100,91
+3,0:40.0,Offensive rebound by D. Lee,,100,91
+3,0:34.0,D. Lee makes 2-pt layup from 1 ft,,102,91
+3,0:32.0,,B. Hield makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),102,94
+3,0:25.0,S. Curry misses 3-pt jump shot from 25 ft,,102,94
+3,0:25.0,Offensive rebound by A. McKinnie,,102,94
+3,0:25.0,Shooting foul by B. Hield (drawn by A. McKinnie),,102,94
+3,0:25.0,A. McKinnie misses free throw 1 of 2,,102,94
+3,0:25.0,Offensive rebound by Team,,102,94
+3,0:25.0,Q. Cook enters the game for S. Curry,,102,94
+3,0:25.0,,D. Fox enters the game for J. Jackson,102,94
+3,0:25.0,A. McKinnie makes free throw 2 of 2,,103,94
+3,0:06.0,,Y. Ferrell makes 3-pt jump shot from 23 ft (assist by B. Bogdanović),103,97
+4,11:48.0,Offensive foul by J. Jerebko (drawn by B. Bogdanović),,103,97
+4,11:48.0,Turnover by J. Jerebko (offensive foul),,103,97
+4,11:34.0,,B. Hield makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),103,100
+4,11:19.0,K. Thompson misses 2-pt jump shot from 19 ft,,103,100
+4,11:17.0,,Defensive rebound by B. Hield,103,100
+4,11:01.0,,Turnover by B. Bogdanović (bad pass),103,100
+4,10:46.0,Q. Cook misses 2-pt jump shot from 15 ft,,103,100
+4,10:42.0,,Defensive rebound by K. Koufos,103,100
+4,10:40.0,,J. Jackson makes 2-pt layup from 1 ft (assist by B. Hield),103,102
+4,10:40.0,Golden State full timeout,,103,102
+4,10:28.0,K. Thompson misses 3-pt jump shot from 25 ft,,103,102
+4,10:22.0,Offensive rebound by A. McKinnie,,103,102
+4,10:20.0,K. Thompson misses 2-pt jump shot from 12 ft,,103,102
+4,10:20.0,Offensive rebound by A. McKinnie,,103,102
+4,10:17.0,A. McKinnie makes 2-pt dunk at rim,,105,102
+4,10:01.0,,B. Bogdanović makes 2-pt layup from 2 ft,105,104
+4,9:48.0,Turnover by Q. Cook (bad pass),,105,104
+4,9:41.0,,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by B. Hield),105,107
+4,9:22.0,K. Thompson misses 2-pt layup from 4 ft (block by J. Jackson),,105,107
+4,9:19.0,,Defensive rebound by J. Jackson,105,107
+4,9:08.0,,B. Hield makes 2-pt layup from 4 ft,105,109
+4,8:51.0,D. Green misses 2-pt jump shot from 23 ft,,105,109
+4,8:49.0,,Defensive rebound by Y. Ferrell,105,109
+4,8:45.0,,J. Jackson makes 3-pt jump shot from 23 ft (assist by Y. Ferrell),105,112
+4,8:24.0,Q. Cook misses 2-pt layup from 4 ft,,105,112
+4,8:22.0,,Defensive rebound by J. Jackson,105,112
+4,8:17.0,,Y. Ferrell misses 2-pt layup from 2 ft,105,112
+4,8:14.0,Defensive rebound by K. Thompson,,105,112
+4,8:03.0,Shooting foul by K. Koufos (drawn by J. Jerebko),,105,112
+4,8:03.0,J. Jerebko misses free throw 1 of 2,,105,112
+4,8:03.0,Offensive rebound by Team,,105,112
+4,8:03.0,S. Curry enters the game for Q. Cook,,105,112
+4,8:03.0,K. Durant enters the game for A. McKinnie,,105,112
+4,8:03.0,J. Jerebko misses free throw 2 of 2,,105,112
+4,8:01.0,,Defensive rebound by K. Koufos,105,112
+4,7:47.0,,Turnover by K. Koufos (lost ball; steal by D. Green),105,112
+4,7:43.0,J. Jerebko makes 2-pt layup from 1 ft (assist by K. Thompson),,107,112
+4,7:43.0,Shooting foul by B. Bogdanović (drawn by J. Jerebko),,107,112
+4,7:43.0,J. Jerebko makes free throw 1 of 1,,108,112
+4,7:43.0,,Sacramento full timeout,108,112
+4,7:43.0,K. Looney enters the game for D. Green,,108,112
+4,7:43.0,A. McKinnie enters the game for J. Jerebko,,108,112
+4,7:43.0,,W. Cauley-Stein enters the game for Y. Ferrell,108,112
+4,7:43.0,,D. Fox enters the game for K. Koufos,108,112
+4,7:23.0,,Turnover by B. Bogdanović (lost ball; steal by K. Thompson),108,112
+4,7:11.0,K. Durant misses 3-pt jump shot from 25 ft,,108,112
+4,7:08.0,Offensive rebound by A. McKinnie,,108,112
+4,7:08.0,Turnover by A. McKinnie (step out of bounds),,108,112
+4,7:01.0,,D. Fox misses 2-pt jump shot from 20 ft,108,112
+4,6:58.0,Defensive rebound by K. Durant,,108,112
+4,6:52.0,S. Curry misses 3-pt jump shot from 28 ft,,108,112
+4,6:50.0,,Defensive rebound by W. Cauley-Stein,108,112
+4,6:42.0,,Shooting foul by K. Durant (drawn by W. Cauley-Stein),108,112
+4,6:42.0,,W. Cauley-Stein makes free throw 1 of 2,108,113
+4,6:42.0,,W. Cauley-Stein misses free throw 2 of 2,108,113
+4,6:38.0,Defensive rebound by A. McKinnie,,108,113
+4,6:29.0,K. Durant makes 3-pt jump shot from 25 ft (assist by A. McKinnie),,111,113
+4,6:18.0,,J. Jackson misses 3-pt jump shot from 26 ft,111,113
+4,6:15.0,Defensive rebound by S. Curry,,111,113
+4,6:05.0,K. Durant makes 2-pt jump shot from 17 ft,,113,113
+4,5:52.0,,W. Cauley-Stein makes 2-pt layup from 2 ft (assist by B. Bogdanović),113,115
+4,5:52.0,,Shooting foul by K. Looney (drawn by W. Cauley-Stein),113,115
+4,5:52.0,,W. Cauley-Stein makes free throw 1 of 1,113,116
+4,5:43.0,Offensive foul by A. McKinnie (drawn by B. Hield),,113,116
+4,5:43.0,Turnover by A. McKinnie (offensive foul),,113,116
+4,5:28.0,,B. Hield makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),113,119
+4,5:17.0,K. Durant misses 2-pt jump shot from 11 ft,,113,119
+4,5:14.0,,Defensive rebound by D. Fox,113,119
+4,5:11.0,,B. Hield makes 2-pt layup from 2 ft (assist by D. Fox),113,121
+4,5:11.0,Golden State full timeout,,113,121
+4,5:11.0,D. Green enters the game for A. McKinnie,,113,121
+4,4:59.0,Turnover by K. Durant (bad pass),,113,121
+4,4:45.0,,B. Bogdanović misses 3-pt jump shot from 23 ft,113,121
+4,4:41.0,Defensive rebound by K. Looney,,113,121
+4,4:33.0,S. Curry misses 3-pt jump shot from 23 ft,,113,121
+4,4:29.0,,Defensive rebound by W. Cauley-Stein,113,121
+4,4:23.0,,Shooting foul by K. Looney (drawn by W. Cauley-Stein),113,121
+4,4:23.0,,W. Cauley-Stein makes free throw 1 of 2,113,122
+4,4:23.0,,W. Cauley-Stein makes free throw 2 of 2,113,123
+4,4:05.0,K. Durant misses 2-pt layup from 1 ft,,113,123
+4,4:03.0,Offensive rebound by K. Looney,,113,123
+4,4:00.0,K. Thompson misses 3-pt jump shot from 23 ft,,113,123
+4,3:57.0,,Defensive rebound by B. Bogdanović,113,123
+4,3:50.0,,D. Fox misses 3-pt jump shot from 25 ft,113,123
+4,3:46.0,Defensive rebound by D. Green,,113,123
+4,3:33.0,K. Durant misses 3-pt jump shot from 27 ft,,113,123
+4,3:30.0,,Defensive rebound by D. Fox,113,123
+4,3:17.0,,Turnover by D. Fox (bad pass; steal by S. Curry),113,123
+4,3:15.0,Personal take foul by D. Fox (drawn by S. Curry),,113,123
+4,3:15.0,,Y. Ferrell enters the game for D. Fox,113,123
+4,3:09.0,Personal foul by J. Jackson (drawn by S. Curry),,113,123
+4,3:03.0,S. Curry misses 3-pt jump shot from 25 ft,,113,123
+4,3:03.0,Offensive rebound by K. Durant,,113,123
+4,3:03.0,Shooting foul by W. Cauley-Stein (drawn by K. Durant),,113,123
+4,3:03.0,K. Durant misses free throw 1 of 2,,113,123
+4,3:03.0,Offensive rebound by Team,,113,123
+4,3:03.0,K. Durant makes free throw 2 of 2,,114,123
+4,2:50.0,,B. Bogdanović misses 3-pt jump shot from 27 ft,114,123
+4,2:46.0,Defensive rebound by K. Thompson,,114,123
+4,2:33.0,K. Durant makes 2-pt jump shot from 14 ft (assist by S. Curry),,116,123
+4,2:11.0,,Y. Ferrell misses 3-pt jump shot from 25 ft,116,123
+4,2:08.0,Defensive rebound by K. Thompson,,116,123
+4,2:03.0,K. Durant makes 2-pt layup from 1 ft,,118,123
+4,2:03.0,Shooting foul by J. Jackson (drawn by K. Durant),,118,123
+4,2:03.0,,D. Fox enters the game for Y. Ferrell,118,123
+4,2:03.0,K. Durant makes free throw 1 of 1,,119,123
+4,1:44.0,,Turnover by D. Fox (bad pass; steal by S. Curry),119,123
+4,1:42.0,S. Curry makes 2-pt layup from 1 ft (assist by K. Thompson),,121,123
+4,1:42.0,,Sacramento full timeout,121,123
+4,1:42.0,,N. Bjelica enters the game for J. Jackson,121,123
+4,1:17.0,,D. Fox misses 2-pt jump shot from 17 ft,121,123
+4,1:15.0,Defensive rebound by D. Green,,121,123
+4,1:03.0,Personal foul by W. Cauley-Stein (drawn by K. Durant),,121,123
+4,1:03.0,K. Durant makes free throw 1 of 2,,122,123
+4,1:03.0,K. Durant makes free throw 2 of 2,,123,123
+4,0:46.0,,D. Fox makes 2-pt jump shot from 17 ft,123,125
+4,0:39.0,K. Thompson makes 3-pt jump shot from 26 ft (assist by K. Durant),,126,125
+4,0:31.0,,Personal foul by D. Green (drawn by D. Fox),126,125
+4,0:26.0,,D. Fox misses 2-pt jump shot from 15 ft,126,125
+4,0:23.0,Defensive rebound by K. Durant,,126,125
+4,0:14.0,Personal take foul by B. Bogdanović (drawn by S. Curry),,126,125
+4,0:14.0,S. Curry makes free throw 1 of 2,,127,125
+4,0:14.0,S. Curry makes free throw 2 of 2,,128,125
+4,0:05.0,,B. Hield misses 3-pt jump shot from 25 ft,128,125
+4,0:02.0,Defensive rebound by D. Green,,128,125
+4,0:02.0,Personal take foul by N. Bjelica (drawn by S. Curry),,128,125
+4,0:02.0,S. Curry makes free throw 1 of 2,,129,125
+4,0:02.0,S. Curry makes free throw 2 of 2,,130,125

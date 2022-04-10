@@ -1,0 +1,487 @@
+QUARTER,TIME_REMAINING,CLEVELAND_ACTION,LA LAKERS_ACTION,CLEVELAND_SCORE,LA LAKERS_SCORE
+1,11:37.0,,J. McGee makes 2-pt jump shot from 18 ft (assist by L. Ball),0,2
+1,11:19.0,A. Burks misses 3-pt jump shot from 27 ft,,0,2
+1,11:14.0,,Defensive rebound by L. Ball,0,2
+1,11:11.0,,Turnover by L. Ball (bad pass; steal by R. Hood),0,2
+1,10:56.0,R. Hood makes 3-pt jump shot from 28 ft (assist by C. Sexton),,3,2
+1,10:40.0,,J. Hart misses 3-pt jump shot from 25 ft,3,2
+1,10:36.0,Defensive rebound by A. Burks,,3,2
+1,10:29.0,C. Osman misses 3-pt jump shot from 26 ft,,3,2
+1,10:29.0,,Defensive rebound by B. Ingram,3,2
+1,10:21.0,,B. Ingram makes 2-pt layup from 2 ft,3,4
+1,10:02.0,Turnover by C. Osman (bad pass; steal by L. Ball),,3,4
+1,9:56.0,,L. Ball misses 3-pt jump shot from 26 ft,3,4
+1,9:53.0,Defensive rebound by A. Burks,,3,4
+1,9:50.0,R. Hood makes 2-pt dunk from 3 ft (assist by A. Burks),,5,4
+1,9:27.0,,Offensive foul by J. Hart (drawn by C. Sexton),5,4
+1,9:27.0,,Turnover by J. Hart (offensive foul),5,4
+1,9:09.0,C. Osman makes 2-pt jump shot from 6 ft,,7,4
+1,8:48.0,,K. Kuzma misses 2-pt jump shot from 18 ft,7,4
+1,8:46.0,Defensive rebound by A. Burks,,7,4
+1,8:35.0,C. Sexton misses 2-pt jump shot from 19 ft,,7,4
+1,8:32.0,,Defensive rebound by K. Kuzma,7,4
+1,8:22.0,,J. Hart makes 3-pt jump shot from 28 ft (assist by K. Kuzma),7,7
+1,7:56.0,C. Osman makes 2-pt layup from 1 ft (assist by R. Hood),,9,7
+1,7:50.0,,Personal foul by C. Osman (drawn by K. Kuzma),9,7
+1,7:30.0,,K. Kuzma misses 3-pt jump shot from 25 ft,9,7
+1,7:27.0,Defensive rebound by A. Burks,,9,7
+1,7:19.0,C. Osman makes 2-pt jump shot from 14 ft (assist by A. Burks),,11,7
+1,7:08.0,,L. Ball misses 2-pt dunk from 2 ft,11,7
+1,7:07.0,Defensive rebound by C. Sexton,,11,7
+1,7:07.0,Personal take foul by J. McGee (drawn by C. Sexton),,11,7
+1,7:01.0,Turnover by R. Hood (bad pass),,11,7
+1,6:48.0,,B. Ingram makes 2-pt jump shot from 14 ft,11,9
+1,6:40.0,C. Osman makes 2-pt layup from 1 ft,,13,9
+1,6:27.0,,Personal foul by C. Sexton (drawn by B. Ingram),13,9
+1,6:27.0,,LA Lakers full timeout,13,9
+1,6:27.0,J. Clarkson enters the game for R. Hood,,13,9
+1,6:18.0,,B. Ingram misses 2-pt layup from 2 ft,13,9
+1,6:17.0,Defensive rebound by A. Burks,,13,9
+1,6:11.0,C. Sexton makes 3-pt jump shot from 26 ft (assist by J. Clarkson),,16,9
+1,5:57.0,,Turnover by J. Hart (bad pass; steal by C. Osman),16,9
+1,5:54.0,C. Osman misses 2-pt layup from 1 ft (block by J. Hart),,16,9
+1,5:49.0,Offensive rebound by J. Clarkson,,16,9
+1,5:37.0,J. Clarkson misses 2-pt jump shot from 22 ft,,16,9
+1,5:37.0,,Defensive rebound by J. Hart,16,9
+1,5:28.0,,Turnover by K. Kuzma (lost ball; steal by A. Burks),16,9
+1,5:17.0,A. Burks makes 2-pt jump shot from 5 ft,,18,9
+1,5:09.0,,L. Ball makes 2-pt layup from 3 ft,18,11
+1,4:46.0,A. Burks makes 3-pt jump shot from 24 ft (assist by C. Osman),,21,11
+1,4:33.0,,L. Ball makes 2-pt layup from 3 ft,21,13
+1,4:20.0,C. Sexton makes 2-pt jump shot from 22 ft,,23,13
+1,3:57.0,,B. Ingram misses 2-pt layup from 3 ft,23,13
+1,3:47.0,Defensive rebound by T. Thompson,,23,13
+1,3:44.0,T. Thompson makes 2-pt hook shot from 4 ft (assist by J. Clarkson),,25,13
+1,3:30.0,,L. Ball misses 2-pt hook shot from 3 ft,25,13
+1,3:26.0,Defensive rebound by C. Osman,,25,13
+1,3:19.0,J. Clarkson makes 3-pt jump shot from 24 ft (assist by C. Sexton),,28,13
+1,3:18.0,,LA Lakers full timeout,28,13
+1,3:18.0,,K. Caldwell-Pope enters the game for K. Kuzma,28,13
+1,3:18.0,,T. Chandler enters the game for J. McGee,28,13
+1,2:53.0,,L. Ball makes 3-pt jump shot from 25 ft (assist by J. Hart),28,16
+1,2:26.0,C. Osman misses 3-pt jump shot from 26 ft,,28,16
+1,2:24.0,,Defensive rebound by T. Chandler,28,16
+1,2:16.0,,J. Hart misses 3-pt jump shot from 23 ft,28,16
+1,2:14.0,Defensive rebound by C. Osman,,28,16
+1,2:04.0,C. Sexton makes 2-pt jump shot from 18 ft,,30,16
+1,1:49.0,,B. Ingram makes 2-pt layup from 2 ft (assist by L. Ball),30,18
+1,1:49.0,,Shooting foul by A. Burks (drawn by B. Ingram),30,18
+1,1:49.0,M. Dellavedova enters the game for C. Sexton,,30,18
+1,1:49.0,A. Žižić enters the game for T. Thompson,,30,18
+1,1:49.0,,B. Ingram makes free throw 1 of 1,30,19
+1,1:37.0,J. Clarkson misses 2-pt jump shot from 12 ft,,30,19
+1,1:35.0,,Defensive rebound by T. Chandler,30,19
+1,1:34.0,,Personal foul by M. Dellavedova (drawn by L. Ball),30,19
+1,1:34.0,,L. Ball misses free throw 1 of 2,30,19
+1,1:34.0,,Offensive rebound by Team,30,19
+1,1:34.0,J. Blossomgame enters the game for C. Osman,,30,19
+1,1:34.0,,L. Ball makes free throw 2 of 2,30,20
+1,1:13.0,Turnover by J. Clarkson (traveling),,30,20
+1,1:13.0,,L. Stephenson enters the game for L. Ball,30,20
+1,0:50.0,,J. Hart misses 2-pt jump shot from 5 ft,30,20
+1,0:48.0,Defensive rebound by A. Burks,,30,20
+1,0:40.0,M. Dellavedova misses 2-pt jump shot from 7 ft,,30,20
+1,0:39.0,Offensive rebound by A. Žižić,,30,20
+1,0:35.0,J. Clarkson misses 2-pt jump shot from 6 ft,,30,20
+1,0:33.0,Offensive rebound by J. Blossomgame,,30,20
+1,0:33.0,J. Blossomgame makes 2-pt layup from 1 ft,,32,20
+1,0:30.0,,Shooting foul by A. Burks (drawn by B. Ingram),32,20
+1,0:30.0,,B. Ingram makes free throw 1 of 2,32,21
+1,0:30.0,C. Payne enters the game for A. Burks,,32,21
+1,0:30.0,,B. Ingram makes free throw 2 of 2,32,22
+1,0:11.0,M. Dellavedova misses 2-pt jump shot from 3 ft,,32,22
+1,0:11.0,Offensive rebound by J. Blossomgame,,32,22
+1,0:11.0,J. Blossomgame misses 2-pt layup from 2 ft,,32,22
+1,0:11.0,,Defensive rebound by J. Hart,32,22
+1,0:01.0,,B. Ingram makes 2-pt jump shot from 11 ft (assist by K. Caldwell-Pope),32,24
+2,11:46.0,M. Dellavedova makes 3-pt jump shot from 26 ft (assist by C. Payne),,35,24
+2,11:26.0,,M. Beasley misses 2-pt jump shot from 7 ft,35,24
+2,11:25.0,Defensive rebound by A. Žižić,,35,24
+2,11:16.0,C. Payne misses 2-pt jump shot from 19 ft,,35,24
+2,11:14.0,,Defensive rebound by L. Stephenson,35,24
+2,11:09.0,,L. Stephenson misses 3-pt jump shot from 23 ft,35,24
+2,11:06.0,Defensive rebound by A. Žižić,,35,24
+2,11:00.0,Personal foul by M. Beasley (drawn by A. Žižić),,35,24
+2,10:50.0,Turnover by M. Dellavedova (traveling),,35,24
+2,10:37.0,,M. Beasley misses 2-pt layup from 3 ft,35,24
+2,10:34.0,Defensive rebound by C. Payne,,35,24
+2,10:23.0,A. Žižić misses 2-pt hook shot from 5 ft,,35,24
+2,10:20.0,,Defensive rebound by K. Caldwell-Pope,35,24
+2,10:10.0,,L. Ball makes 3-pt jump shot from 24 ft (assist by K. Caldwell-Pope),35,27
+2,9:47.0,J. Clarkson makes 2-pt layup from 3 ft,,37,27
+2,9:35.0,,K. Kuzma makes 2-pt layup from 3 ft (assist by L. Stephenson),37,29
+2,9:09.0,Turnover by Team (shot clock),,37,29
+2,8:54.0,,M. Beasley makes 2-pt layup from 3 ft,37,31
+2,8:53.0,Cleveland full timeout,,37,31
+2,8:53.0,C. Osman enters the game for J. Blossomgame,,37,31
+2,8:53.0,T. Thompson enters the game for A. Žižić,,37,31
+2,8:53.0,,J. McGee enters the game for M. Beasley,37,31
+2,8:37.0,J. Clarkson misses 3-pt jump shot from 27 ft,,37,31
+2,8:34.0,,Defensive rebound by J. McGee,37,31
+2,8:23.0,,K. Caldwell-Pope makes 2-pt jump shot from 21 ft (assist by L. Ball),37,33
+2,8:05.0,Turnover by M. Dellavedova (step out of bounds),,37,33
+2,7:46.0,,L. Ball misses 3-pt jump shot from 27 ft,37,33
+2,7:43.0,,Offensive rebound by K. Kuzma,37,33
+2,7:36.0,,Turnover by L. Stephenson (bad pass; steal by C. Osman),37,33
+2,7:32.0,C. Osman misses 2-pt layup from 2 ft,,37,33
+2,7:29.0,,Defensive rebound by L. Stephenson,37,33
+2,7:27.0,,Offensive foul by K. Kuzma (drawn by J. Clarkson),37,33
+2,7:27.0,,Turnover by K. Kuzma (offensive foul),37,33
+2,7:27.0,R. Hood enters the game for J. Clarkson,,37,33
+2,7:27.0,C. Sexton enters the game for M. Dellavedova,,37,33
+2,7:27.0,,B. Ingram enters the game for K. Caldwell-Pope,37,33
+2,7:08.0,R. Hood makes 2-pt jump shot from 13 ft (assist by T. Thompson),,39,33
+2,6:48.0,,K. Kuzma makes 2-pt jump shot from 8 ft (assist by B. Ingram),39,35
+2,6:40.0,Turnover by C. Payne (traveling),,39,35
+2,6:40.0,A. Burks enters the game for C. Payne,,39,35
+2,6:40.0,,Technical foul by L. Stephenson,39,35
+2,6:40.0,R. Hood makes technical free throw,,40,35
+2,6:29.0,,K. Kuzma makes 2-pt layup from 3 ft (assist by L. Ball),40,37
+2,6:15.0,T. Thompson makes 2-pt hook shot from 4 ft (assist by C. Sexton),,42,37
+2,6:15.0,,Violation by Team (def goaltending),42,37
+2,6:03.0,,K. Kuzma makes 2-pt dunk from 4 ft,42,39
+2,5:43.0,R. Hood misses 2-pt jump shot from 7 ft,,42,39
+2,5:41.0,Offensive rebound by R. Hood,,42,39
+2,5:40.0,R. Hood makes 2-pt jump shot from 2 ft,,44,39
+2,5:23.0,,L. Stephenson misses 2-pt jump shot from 3 ft,44,39
+2,5:22.0,,Offensive rebound by L. Stephenson,44,39
+2,5:22.0,,Turnover by L. Stephenson (bad pass),44,39
+2,5:22.0,,J. Hart enters the game for L. Stephenson,44,39
+2,5:11.0,C. Sexton misses 2-pt jump shot from 21 ft,,44,39
+2,5:09.0,,Defensive rebound by J. Hart,44,39
+2,4:55.0,,K. Kuzma misses 2-pt layup from 5 ft,44,39
+2,4:52.0,Defensive rebound by T. Thompson,,44,39
+2,4:46.0,T. Thompson misses 2-pt hook shot from 4 ft,,44,39
+2,4:42.0,Offensive rebound by Team,,44,39
+2,4:42.0,,Loose ball foul by J. McGee (drawn by C. Sexton),44,39
+2,4:28.0,C. Osman misses 2-pt layup from 2 ft,,44,39
+2,4:26.0,,Defensive rebound by J. McGee,44,39
+2,4:23.0,,K. Kuzma misses 3-pt jump shot from 26 ft,44,39
+2,4:21.0,,Offensive rebound by B. Ingram,44,39
+2,4:17.0,,J. Hart misses 3-pt jump shot from 27 ft,44,39
+2,4:14.0,Defensive rebound by R. Hood,,44,39
+2,4:09.0,Shooting foul by K. Kuzma (drawn by R. Hood),,44,39
+2,4:09.0,R. Hood makes free throw 1 of 2,,45,39
+2,4:09.0,R. Hood makes free throw 2 of 2,,46,39
+2,3:53.0,,Shooting foul by A. Burks (drawn by J. Hart),46,39
+2,3:53.0,,J. Hart makes free throw 1 of 2,46,40
+2,3:53.0,J. Clarkson enters the game for A. Burks,,46,40
+2,3:53.0,,I. Zubac enters the game for J. McGee,46,40
+2,3:53.0,,J. Hart makes free throw 2 of 2,46,41
+2,3:44.0,C. Sexton makes 2-pt layup from 2 ft,,48,41
+2,3:39.0,,Turnover by B. Ingram (traveling),48,41
+2,3:28.0,C. Osman misses 3-pt jump shot from 27 ft,,48,41
+2,3:24.0,,Defensive rebound by L. Ball,48,41
+2,3:16.0,,I. Zubac makes 2-pt dunk from 2 ft (assist by K. Kuzma),48,43
+2,3:06.0,Cleveland full timeout,,48,43
+2,2:48.0,R. Hood misses 3-pt jump shot from 27 ft,,48,43
+2,2:45.0,,Defensive rebound by L. Ball,48,43
+2,2:23.0,,K. Kuzma misses 3-pt jump shot from 27 ft,48,43
+2,2:21.0,Defensive rebound by T. Thompson,,48,43
+2,2:02.0,C. Sexton misses 2-pt layup from 3 ft (block by J. Hart),,48,43
+2,2:02.0,Offensive rebound by Team,,48,43
+2,1:58.0,C. Sexton misses 2-pt jump shot from 16 ft (block by I. Zubac),,48,43
+2,1:58.0,Offensive rebound by Team,,48,43
+2,1:58.0,Turnover by Team (shot clock),,48,43
+2,1:43.0,,I. Zubac misses 2-pt hook shot from 6 ft,48,43
+2,1:39.0,Defensive rebound by T. Thompson,,48,43
+2,1:24.0,R. Hood misses 2-pt jump shot from 6 ft (block by I. Zubac),,48,43
+2,1:20.0,,Defensive rebound by L. Ball,48,43
+2,1:17.0,,J. Hart makes 2-pt layup from 1 ft (assist by L. Ball),48,45
+2,1:00.0,Shooting foul by L. Ball (drawn by C. Sexton),,48,45
+2,1:00.0,C. Sexton makes free throw 1 of 2,,49,45
+2,1:00.0,C. Sexton misses free throw 2 of 2,,49,45
+2,0:58.0,,Defensive rebound by I. Zubac,49,45
+2,0:47.0,,Turnover by B. Ingram (bad pass; steal by C. Sexton),49,45
+2,0:43.0,C. Sexton misses 2-pt jump shot from 18 ft,,49,45
+2,0:38.0,,Defensive rebound by B. Ingram,49,45
+2,0:35.0,,Shooting foul by C. Sexton (drawn by K. Kuzma),49,45
+2,0:35.0,,K. Kuzma makes free throw 1 of 2,49,46
+2,0:35.0,M. Dellavedova enters the game for C. Sexton,,49,46
+2,0:35.0,,K. Kuzma misses free throw 2 of 2,49,46
+2,0:35.0,Defensive rebound by C. Osman,,49,46
+2,0:26.0,R. Hood makes 2-pt jump shot from 7 ft,,51,46
+2,0:03.0,,B. Ingram misses 2-pt jump shot from 16 ft,51,46
+2,0:02.0,,Offensive rebound by B. Ingram,51,46
+2,0:02.0,,K. Kuzma misses 3-pt jump shot from 28 ft,51,46
+2,0:02.0,,Offensive rebound by Team,51,46
+3,11:41.0,Turnover by R. Hood (bad pass; steal by J. Hart),,51,46
+3,11:41.0,,Personal take foul by C. Osman (drawn by K. Kuzma),51,46
+3,11:20.0,,J. McGee misses 2-pt hook shot from 5 ft,51,46
+3,11:19.0,,Offensive rebound by L. Ball,51,46
+3,11:17.0,,L. Ball makes 2-pt layup from 1 ft,51,48
+3,10:51.0,A. Burks misses 3-pt jump shot from 27 ft,,51,48
+3,10:49.0,,Defensive rebound by J. McGee,51,48
+3,10:38.0,,K. Kuzma makes 2-pt jump shot from 12 ft,51,50
+3,10:14.0,A. Burks makes 3-pt jump shot from 25 ft (assist by R. Hood),,54,50
+3,9:51.0,,K. Kuzma misses 3-pt jump shot from 26 ft,54,50
+3,9:49.0,Defensive rebound by T. Thompson,,54,50
+3,9:43.0,R. Hood misses 2-pt layup from 4 ft,,54,50
+3,9:41.0,Offensive rebound by T. Thompson,,54,50
+3,9:41.0,T. Thompson makes 2-pt layup from 1 ft,,56,50
+3,9:25.0,,B. Ingram misses 2-pt jump shot from 12 ft,56,50
+3,9:25.0,,Offensive rebound by B. Ingram,56,50
+3,9:20.0,,L. Ball misses 3-pt jump shot from 25 ft,56,50
+3,9:18.0,Defensive rebound by T. Thompson,,56,50
+3,9:14.0,C. Sexton makes 2-pt layup from 4 ft,,58,50
+3,9:01.0,,B. Ingram misses 2-pt jump shot from 16 ft,58,50
+3,8:58.0,Defensive rebound by T. Thompson,,58,50
+3,8:48.0,A. Burks misses 2-pt layup from 3 ft,,58,50
+3,8:45.0,,Defensive rebound by J. McGee,58,50
+3,8:45.0,,Personal foul by C. Sexton (drawn by K. Kuzma),58,50
+3,8:39.0,,K. Kuzma misses 2-pt layup from 2 ft,58,50
+3,8:36.0,Defensive rebound by T. Thompson,,58,50
+3,8:29.0,C. Osman makes 3-pt jump shot from 25 ft (assist by R. Hood),,61,50
+3,8:27.0,,LA Lakers full timeout,61,50
+3,8:27.0,,K. Caldwell-Pope enters the game for K. Kuzma,61,50
+3,8:07.0,,B. Ingram makes 3-pt jump shot from 24 ft (assist by K. Caldwell-Pope),61,53
+3,7:50.0,R. Hood misses 3-pt jump shot from 27 ft,,61,53
+3,7:48.0,,Defensive rebound by J. McGee,61,53
+3,7:34.0,,L. Ball misses 3-pt jump shot from 26 ft,61,53
+3,7:31.0,Defensive rebound by A. Burks,,61,53
+3,7:17.0,C. Osman misses 2-pt layup from 2 ft (block by J. McGee),,61,53
+3,7:09.0,Offensive rebound by T. Thompson,,61,53
+3,7:09.0,T. Thompson misses 2-pt layup at rim,,61,53
+3,7:08.0,,Defensive rebound by B. Ingram,61,53
+3,7:07.0,,J. Hart misses 3-pt jump shot from 25 ft,61,53
+3,7:05.0,Defensive rebound by C. Sexton,,61,53
+3,7:03.0,Turnover by C. Sexton (lost ball; steal by L. Ball),,61,53
+3,6:58.0,,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,61,53
+3,6:56.0,Defensive rebound by C. Osman,,61,53
+3,6:41.0,R. Hood misses 3-pt jump shot from 25 ft,,61,53
+3,6:37.0,,Defensive rebound by L. Ball,61,53
+3,6:29.0,,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,61,53
+3,6:27.0,Defensive rebound by Team,,61,53
+3,6:27.0,,Loose ball foul by J. McGee (drawn by A. Burks),61,53
+3,6:27.0,J. Clarkson enters the game for R. Hood,,61,53
+3,6:27.0,,I. Zubac enters the game for J. McGee,61,53
+3,6:09.0,T. Thompson makes 2-pt hook shot from 7 ft,,63,53
+3,5:53.0,,J. Hart misses 2-pt jump shot from 9 ft,63,53
+3,5:51.0,Defensive rebound by A. Burks,,63,53
+3,5:47.0,A. Burks misses 2-pt layup from 2 ft,,63,53
+3,5:43.0,Offensive rebound by T. Thompson,,63,53
+3,5:43.0,T. Thompson makes 2-pt layup from 2 ft,,65,53
+3,5:29.0,,J. Hart misses 3-pt jump shot from 23 ft,65,53
+3,5:26.0,,Offensive rebound by L. Ball,65,53
+3,5:24.0,,J. Hart makes 2-pt layup from 2 ft (assist by L. Ball),65,55
+3,5:03.0,J. Clarkson misses 2-pt jump shot from 8 ft,,65,55
+3,5:02.0,Offensive rebound by Team,,65,55
+3,5:02.0,,S. Mykhailiuk enters the game for J. Hart,65,55
+3,4:54.0,Shooting foul by B. Ingram (drawn by A. Burks),,65,55
+3,4:54.0,A. Burks makes free throw 1 of 2,,66,55
+3,4:54.0,A. Burks makes free throw 2 of 2,,67,55
+3,4:46.0,,S. Mykhailiuk makes 3-pt jump shot from 24 ft (assist by B. Ingram),67,58
+3,4:28.0,C. Osman makes 2-pt jump shot from 17 ft (assist by A. Burks),,69,58
+3,4:09.0,,B. Ingram misses 3-pt jump shot from 26 ft,69,58
+3,4:06.0,,Offensive rebound by S. Mykhailiuk,69,58
+3,4:04.0,,B. Ingram makes 2-pt dunk from 2 ft (assist by S. Mykhailiuk),69,60
+3,3:48.0,T. Thompson misses 2-pt layup from 1 ft,,69,60
+3,3:41.0,Offensive rebound by T. Thompson,,69,60
+3,3:41.0,T. Thompson makes 2-pt layup at rim,,71,60
+3,3:25.0,,I. Zubac makes 2-pt layup from 3 ft (assist by L. Ball),71,62
+3,3:25.0,,Shooting foul by A. Burks (drawn by I. Zubac),71,62
+3,3:25.0,M. Dellavedova enters the game for A. Burks,,71,62
+3,3:25.0,,I. Zubac makes free throw 1 of 1,71,63
+3,3:15.0,Personal foul by K. Caldwell-Pope (drawn by J. Clarkson),,71,63
+3,3:15.0,,L. Stephenson enters the game for B. Ingram,71,63
+3,3:00.0,T. Thompson misses 2-pt hook shot from 10 ft,,71,63
+3,3:00.0,,Defensive rebound by L. Stephenson,71,63
+3,2:46.0,,L. Stephenson misses 2-pt jump shot from 21 ft,71,63
+3,2:43.0,Defensive rebound by T. Thompson,,71,63
+3,2:27.0,Shooting foul by S. Mykhailiuk (drawn by C. Osman),,71,63
+3,2:27.0,Cleveland full timeout,,71,63
+3,2:27.0,A. Žižić enters the game for T. Thompson,,71,63
+3,2:27.0,C. Osman makes free throw 1 of 2,,72,63
+3,2:27.0,C. Osman makes free throw 2 of 2,,73,63
+3,2:15.0,,S. Mykhailiuk misses 3-pt jump shot from 27 ft,73,63
+3,2:13.0,Defensive rebound by M. Dellavedova,,73,63
+3,2:01.0,C. Sexton misses 3-pt jump shot from 24 ft,,73,63
+3,1:59.0,,Defensive rebound by I. Zubac,73,63
+3,1:54.0,,K. Caldwell-Pope makes 2-pt jump shot from 15 ft,73,65
+3,1:25.0,C. Osman misses 3-pt jump shot from 28 ft,,73,65
+3,1:25.0,Offensive rebound by Team,,73,65
+3,1:25.0,Turnover by Team (shot clock),,73,65
+3,1:25.0,J. Blossomgame enters the game for C. Sexton,,73,65
+3,1:14.0,,L. Ball misses 3-pt jump shot from 25 ft,73,65
+3,1:12.0,Defensive rebound by C. Osman,,73,65
+3,1:05.0,C. Osman misses 2-pt hook shot from 6 ft,,73,65
+3,1:04.0,,Defensive rebound by Team,73,65
+3,0:50.0,,Personal foul by M. Dellavedova (drawn by L. Ball),73,65
+3,0:44.0,,L. Stephenson misses 2-pt layup from 3 ft,73,65
+3,0:42.0,Defensive rebound by A. Žižić,,73,65
+3,0:31.0,J. Clarkson makes 2-pt layup from 4 ft,,75,65
+3,0:19.0,,L. Ball misses 2-pt hook shot from 7 ft,75,65
+3,0:17.0,Defensive rebound by Team,,75,65
+3,0:01.0,J. Clarkson misses 2-pt layup from 3 ft,,75,65
+3,0:01.0,Offensive rebound by Team,,75,65
+4,11:45.0,,K. Caldwell-Pope misses 2-pt jump shot from 14 ft,75,65
+4,11:43.0,,Offensive rebound by K. Caldwell-Pope,75,65
+4,11:37.0,,Shooting foul by A. Žižić (drawn by B. Ingram),75,65
+4,11:37.0,,B. Ingram misses free throw 1 of 2,75,65
+4,11:37.0,,Offensive rebound by Team,75,65
+4,11:37.0,,M. Beasley enters the game for I. Zubac,75,65
+4,11:37.0,,B. Ingram misses free throw 2 of 2,75,65
+4,11:34.0,Defensive rebound by C. Osman,,75,65
+4,11:10.0,Turnover by C. Osman (bad pass; steal by M. Beasley),,75,65
+4,11:03.0,,Shooting foul by A. Žižić (drawn by M. Beasley),75,65
+4,11:03.0,,M. Beasley misses free throw 1 of 2,75,65
+4,11:03.0,,Offensive rebound by Team,75,65
+4,11:03.0,,M. Beasley makes free throw 2 of 2,75,66
+4,10:44.0,C. Osman makes 3-pt jump shot from 27 ft (assist by A. Žižić),,78,66
+4,10:28.0,,M. Beasley misses 2-pt layup from 1 ft,78,66
+4,10:26.0,Defensive rebound by J. Blossomgame,,78,66
+4,10:20.0,J. Blossomgame misses 2-pt layup from 6 ft,,78,66
+4,10:17.0,,Defensive rebound by K. Kuzma,78,66
+4,10:12.0,,K. Kuzma makes 2-pt dunk from 3 ft,78,68
+4,10:01.0,Personal foul by B. Ingram (drawn by M. Dellavedova),,78,68
+4,10:01.0,A. Burks enters the game for C. Osman,,78,68
+4,9:53.0,J. Clarkson misses 2-pt layup from 4 ft,,78,68
+4,9:51.0,,Defensive rebound by K. Kuzma,78,68
+4,9:50.0,,Shooting foul by J. Blossomgame (drawn by K. Kuzma),78,68
+4,9:50.0,,K. Kuzma misses free throw 1 of 2,78,68
+4,9:50.0,,Offensive rebound by Team,78,68
+4,9:50.0,,K. Kuzma makes free throw 2 of 2,78,69
+4,9:40.0,J. Clarkson makes 2-pt layup from 3 ft (assist by M. Dellavedova),,80,69
+4,9:30.0,,Shooting foul by J. Blossomgame (drawn by L. Stephenson),80,69
+4,9:30.0,,L. Stephenson misses free throw 1 of 2,80,69
+4,9:30.0,,Offensive rebound by Team,80,69
+4,9:30.0,,L. Stephenson misses free throw 2 of 2,80,69
+4,9:27.0,Defensive rebound by J. Clarkson,,80,69
+4,9:20.0,Personal foul by L. Stephenson (drawn by J. Clarkson),,80,69
+4,9:06.0,A. Burks misses 3-pt jump shot from 26 ft,,80,69
+4,9:02.0,,Defensive rebound by K. Kuzma,80,69
+4,8:57.0,,M. Beasley makes 2-pt layup from 2 ft (assist by K. Kuzma),80,71
+4,8:57.0,,Shooting foul by J. Clarkson (drawn by M. Beasley),80,71
+4,8:57.0,,M. Beasley makes free throw 1 of 1,80,72
+4,8:57.0,Cleveland full timeout,,80,72
+4,8:57.0,C. Osman enters the game for J. Blossomgame,,80,72
+4,8:57.0,T. Thompson enters the game for A. Žižić,,80,72
+4,8:39.0,T. Thompson misses 2-pt hook shot from 6 ft,,80,72
+4,8:36.0,,Defensive rebound by K. Caldwell-Pope,80,72
+4,8:34.0,,K. Kuzma misses 2-pt layup from 2 ft,80,72
+4,8:28.0,,Offensive rebound by M. Beasley,80,72
+4,8:28.0,,M. Beasley makes 2-pt layup from 1 ft,80,74
+4,8:15.0,Shooting foul by M. Beasley (drawn by A. Burks),,80,74
+4,8:15.0,A. Burks makes free throw 1 of 2,,81,74
+4,8:15.0,A. Burks makes free throw 2 of 2,,82,74
+4,7:58.0,,M. Beasley misses 2-pt jump shot from 5 ft (block by T. Thompson),82,74
+4,7:58.0,,Offensive rebound by Team,82,74
+4,7:53.0,,Offensive foul by K. Kuzma (drawn by M. Dellavedova),82,74
+4,7:53.0,,Turnover by K. Kuzma (offensive foul),82,74
+4,7:53.0,,J. Hart enters the game for L. Stephenson,82,74
+4,7:40.0,T. Thompson makes 2-pt dunk from 2 ft (assist by M. Dellavedova),,84,74
+4,7:39.0,,LA Lakers full timeout,84,74
+4,7:39.0,,J. McGee enters the game for M. Beasley,84,74
+4,7:26.0,,K. Caldwell-Pope misses 3-pt jump shot from 27 ft,84,74
+4,7:26.0,,Offensive rebound by Team,84,74
+4,7:26.0,Loose ball foul by C. Osman (drawn by K. Kuzma),,84,74
+4,7:26.0,,K. Kuzma makes free throw 1 of 2,84,75
+4,7:26.0,,K. Kuzma misses free throw 2 of 2,84,75
+4,7:23.0,Defensive rebound by A. Burks,,84,75
+4,7:04.0,A. Burks misses 2-pt jump shot from 6 ft,,84,75
+4,7:01.0,,Defensive rebound by J. McGee,84,75
+4,6:46.0,,K. Kuzma makes 2-pt jump shot from 20 ft,84,77
+4,6:25.0,T. Thompson misses 2-pt layup from 3 ft,,84,77
+4,6:23.0,,Defensive rebound by J. McGee,84,77
+4,6:14.0,,K. Kuzma makes 2-pt jump shot from 3 ft,84,79
+4,5:59.0,M. Dellavedova misses 2-pt jump shot from 6 ft,,84,79
+4,5:57.0,,Defensive rebound by K. Kuzma,84,79
+4,5:54.0,,Turnover by K. Kuzma (traveling),84,79
+4,5:54.0,R. Hood enters the game for J. Clarkson,,84,79
+4,5:54.0,C. Sexton enters the game for M. Dellavedova,,84,79
+4,5:54.0,,L. Ball enters the game for K. Caldwell-Pope,84,79
+4,5:38.0,T. Thompson misses 2-pt hook shot from 4 ft,,84,79
+4,5:36.0,,Defensive rebound by J. McGee,84,79
+4,5:23.0,,K. Kuzma misses 2-pt jump shot from 15 ft,84,79
+4,5:21.0,Defensive rebound by A. Burks,,84,79
+4,5:10.0,Personal foul by K. Kuzma (drawn by T. Thompson),,84,79
+4,4:57.0,R. Hood misses 2-pt jump shot from 18 ft,,84,79
+4,4:50.0,Offensive rebound by A. Burks,,84,79
+4,4:48.0,A. Burks makes 2-pt dunk from 2 ft,,86,79
+4,4:42.0,,J. Hart misses 3-pt jump shot from 23 ft,86,79
+4,4:39.0,Defensive rebound by C. Osman,,86,79
+4,4:17.0,C. Sexton makes 2-pt layup from 2 ft,,88,79
+4,4:02.0,,J. McGee misses 2-pt jump shot from 4 ft,88,79
+4,4:00.0,Defensive rebound by A. Burks,,88,79
+4,3:43.0,C. Osman makes 2-pt jump shot from 5 ft,,90,79
+4,3:43.0,,LA Lakers full timeout,90,79
+4,3:43.0,,K. Caldwell-Pope enters the game for J. McGee,90,79
+4,3:31.0,,B. Ingram makes 2-pt jump shot from 3 ft (assist by K. Kuzma),90,81
+4,3:31.0,,Shooting foul by R. Hood (drawn by B. Ingram),90,81
+4,3:31.0,,B. Ingram misses free throw 1 of 1,90,81
+4,3:28.0,Defensive rebound by R. Hood,,90,81
+4,3:08.0,C. Sexton misses 2-pt jump shot from 21 ft,,90,81
+4,3:05.0,,Defensive rebound by B. Ingram,90,81
+4,3:01.0,,B. Ingram makes 2-pt layup from 3 ft,90,83
+4,2:45.0,Personal foul by L. Ball (drawn by C. Sexton),,90,83
+4,2:45.0,C. Sexton makes free throw 1 of 2,,91,83
+4,2:45.0,C. Sexton misses free throw 2 of 2,,91,83
+4,2:43.0,,Defensive rebound by J. Hart,91,83
+4,2:33.0,,K. Kuzma misses 2-pt layup from 1 ft (block by T. Thompson),91,83
+4,2:31.0,Defensive rebound by C. Sexton,,91,83
+4,2:24.0,R. Hood makes 2-pt layup from 2 ft (assist by A. Burks),,93,83
+4,2:13.0,,Personal foul by A. Burks (drawn by B. Ingram),93,83
+4,2:13.0,,B. Ingram makes free throw 1 of 2,93,84
+4,2:13.0,,B. Ingram makes free throw 2 of 2,93,85
+4,1:51.0,Offensive foul by T. Thompson (drawn by J. Hart),,93,85
+4,1:51.0,Turnover by T. Thompson (offensive foul),,93,85
+4,1:44.0,,Shooting foul by T. Thompson (drawn by K. Kuzma),93,85
+4,1:44.0,,K. Kuzma makes free throw 1 of 3,93,86
+4,1:44.0,,K. Kuzma misses free throw 2 of 3,93,86
+4,1:44.0,,Offensive rebound by Team,93,86
+4,1:44.0,,K. Kuzma makes free throw 3 of 3,93,87
+4,1:27.0,C. Sexton makes 2-pt layup from 2 ft,,95,87
+4,1:18.0,,K. Kuzma makes 3-pt jump shot from 27 ft (assist by K. Caldwell-Pope),95,90
+4,0:56.0,R. Hood misses 3-pt jump shot from 23 ft,,95,90
+4,0:54.0,,Defensive rebound by K. Caldwell-Pope,95,90
+4,0:48.0,,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,95,90
+4,0:47.0,Defensive rebound by T. Thompson,,95,90
+4,0:47.0,Personal take foul by L. Ball (drawn by T. Thompson),,95,90
+4,0:47.0,T. Thompson makes free throw 1 of 2,,96,90
+4,0:47.0,T. Thompson misses free throw 2 of 2,,96,90
+4,0:44.0,,Defensive rebound by J. Hart,96,90
+4,0:34.0,,J. Hart misses 3-pt jump shot from 26 ft,96,90
+4,0:30.0,,Offensive rebound by K. Kuzma,96,90
+4,0:30.0,,K. Kuzma misses 2-pt layup from 1 ft,96,90
+4,0:30.0,Defensive rebound by C. Osman,,96,90
+4,0:29.0,Personal take foul by J. Hart (drawn by C. Osman),,96,90
+4,0:29.0,C. Osman misses free throw 1 of 2,,96,90
+4,0:29.0,Offensive rebound by Team,,96,90
+4,0:29.0,,J. McGee enters the game for K. Caldwell-Pope,96,90
+4,0:29.0,C. Osman misses free throw 2 of 2,,96,90
+4,0:29.0,,Defensive rebound by L. Ball,96,90
+4,0:29.0,,LA Lakers full timeout,96,90
+4,0:29.0,,K. Caldwell-Pope enters the game for B. Ingram,96,90
+4,0:29.0,,T. Chandler enters the game for J. McGee,96,90
+4,0:25.0,,K. Caldwell-Pope misses 3-pt jump shot from 25 ft,96,90
+4,0:22.0,,Offensive rebound by L. Ball,96,90
+4,0:22.0,,K. Kuzma makes 3-pt jump shot from 27 ft (assist by L. Ball),96,93
+4,0:22.0,Cleveland full timeout,,96,93
+4,0:22.0,J. Clarkson enters the game for T. Thompson,,96,93
+4,0:22.0,,B. Ingram enters the game for T. Chandler,96,93
+4,0:16.0,Personal take foul by K. Caldwell-Pope (drawn by A. Burks),,96,93
+4,0:16.0,A. Burks makes free throw 1 of 2,,97,93
+4,0:16.0,T. Thompson enters the game for J. Clarkson,,97,93
+4,0:16.0,,J. McGee enters the game for K. Caldwell-Pope,97,93
+4,0:16.0,A. Burks makes free throw 2 of 2,,98,93
+4,0:16.0,,LA Lakers full timeout,98,93
+4,0:16.0,M. Dellavedova enters the game for C. Sexton,,98,93
+4,0:16.0,,K. Caldwell-Pope enters the game for B. Ingram,98,93
+4,0:16.0,,T. Chandler enters the game for J. McGee,98,93
+4,0:13.0,,K. Caldwell-Pope misses 3-pt jump shot from 28 ft,98,93
+4,0:10.0,,Offensive rebound by K. Kuzma,98,93
+4,0:10.0,,K. Kuzma makes 2-pt layup from 3 ft,98,95
+4,0:10.0,Cleveland full timeout,,98,95
+4,0:10.0,J. Clarkson enters the game for M. Dellavedova,,98,95
+4,0:10.0,C. Sexton enters the game for T. Thompson,,98,95
+4,0:10.0,,B. Ingram enters the game for T. Chandler,98,95
+4,0:09.0,Personal take foul by L. Ball (drawn by R. Hood),,98,95
+4,0:09.0,R. Hood makes free throw 1 of 2,,99,95
+4,0:09.0,T. Thompson enters the game for J. Clarkson,,99,95
+4,0:09.0,R. Hood makes free throw 2 of 2,,100,95
+4,0:02.0,,L. Ball misses 3-pt jump shot from 26 ft,100,95
+4,0:00.0,Defensive rebound by A. Burks,,100,95
+4,0:00.0,Personal take foul by K. Kuzma (drawn by A. Burks),,100,95
+4,0:00.0,A. Burks misses free throw 1 of 2,,100,95
+4,0:00.0,Offensive rebound by Team,,100,95
+4,0:00.0,A. Burks makes free throw 2 of 2,,101,95

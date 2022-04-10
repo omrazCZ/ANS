@@ -1,0 +1,462 @@
+QUARTER,TIME_REMAINING,DENVER_ACTION,GOLDEN STATE_ACTION,DENVER_SCORE,GOLDEN STATE_SCORE
+1,11:46.0,,S. Curry makes 3-pt jump shot from 27 ft (assist by D. Green),0,3
+1,11:27.0,N. Jokić misses 2-pt jump shot from 10 ft,,0,3
+1,11:26.0,Offensive rebound by G. Harris,,0,3
+1,11:18.0,G. Harris misses 2-pt jump shot from 20 ft,,0,3
+1,11:16.0,Offensive rebound by N. Jokić,,0,3
+1,11:16.0,Shooting foul by K. Durant (drawn by W. Barton),,0,3
+1,11:16.0,Offensive rebound by Team,,0,3
+1,11:16.0,W. Barton misses free throw 1 of 2,,0,3
+1,11:16.0,W. Barton misses free throw 2 of 2,,0,3
+1,11:14.0,Offensive rebound by P. Millsap,,0,3
+1,11:12.0,P. Millsap makes 3-pt jump shot from 25 ft (assist by J. Murray),,3,3
+1,11:12.0,Shooting foul by D. Green (drawn by P. Millsap),,3,3
+1,11:12.0,P. Millsap makes free throw 1 of 1,,4,3
+1,11:02.0,,K. Thompson misses 3-pt jump shot from 26 ft,4,3
+1,11:00.0,Defensive rebound by W. Barton,,4,3
+1,10:53.0,W. Barton makes 2-pt jump shot from 7 ft,,6,3
+1,10:40.0,,S. Curry makes 2-pt jump shot from 20 ft (assist by K. Durant),6,5
+1,10:30.0,G. Harris misses 2-pt jump shot from 11 ft (block by D. Cousins),,6,5
+1,10:28.0,Offensive rebound by G. Harris,,6,5
+1,10:26.0,J. Murray misses 2-pt jump shot from 18 ft (block by K. Durant),,6,5
+1,10:24.0,,Defensive rebound by D. Green,6,5
+1,10:22.0,,Turnover by D. Green (lost ball; steal by J. Murray),6,5
+1,10:15.0,N. Jokić makes 2-pt jump shot from 6 ft (assist by W. Barton),,8,5
+1,10:15.0,Shooting foul by D. Cousins (drawn by N. Jokić),,8,5
+1,10:15.0,N. Jokić makes free throw 1 of 1,,9,5
+1,10:05.0,,D. Cousins misses 3-pt jump shot from 27 ft,9,5
+1,10:00.0,Defensive rebound by P. Millsap,,9,5
+1,9:52.0,P. Millsap makes 3-pt jump shot from 24 ft (assist by N. Jokić),,12,5
+1,9:37.0,,K. Durant makes 2-pt jump shot from 16 ft (assist by D. Green),12,7
+1,9:19.0,P. Millsap misses 3-pt jump shot from 27 ft,,12,7
+1,9:17.0,,Defensive rebound by Team,12,7
+1,9:17.0,Loose ball foul by N. Jokić (drawn by K. Durant),,12,7
+1,9:05.0,,K. Durant misses 2-pt jump shot from 12 ft,12,7
+1,9:04.0,,Offensive rebound by D. Cousins,12,7
+1,8:59.0,,D. Cousins misses 2-pt layup from 1 ft,12,7
+1,8:58.0,Defensive rebound by P. Millsap,,12,7
+1,8:45.0,P. Millsap makes 2-pt hook shot from 7 ft,,14,7
+1,8:32.0,,Turnover by S. Curry (bad pass),14,7
+1,8:24.0,Personal foul by S. Curry (drawn by J. Murray),,14,7
+1,8:20.0,J. Murray misses 3-pt jump shot from 28 ft,,14,7
+1,8:18.0,,Defensive rebound by K. Thompson,14,7
+1,8:11.0,,D. Cousins makes 2-pt layup from 3 ft (assist by K. Durant),14,9
+1,8:01.0,P. Millsap misses 2-pt layup from 2 ft,,14,9
+1,8:00.0,Offensive rebound by P. Millsap,,14,9
+1,8:00.0,P. Millsap misses 2-pt layup from 2 ft,,14,9
+1,7:59.0,Offensive rebound by P. Millsap,,14,9
+1,7:59.0,P. Millsap misses 2-pt layup at rim,,14,9
+1,7:58.0,,Defensive rebound by D. Cousins,14,9
+1,7:48.0,,S. Curry misses 3-pt jump shot from 27 ft,14,9
+1,7:46.0,Defensive rebound by W. Barton,,14,9
+1,7:37.0,Turnover by J. Murray (offensive foul),,14,9
+1,7:37.0,Offensive foul by J. Murray (drawn by S. Curry),,14,9
+1,7:24.0,,K. Durant makes 2-pt jump shot from 11 ft,14,11
+1,7:12.0,P. Millsap makes 2-pt jump shot from 13 ft (assist by N. Jokić),,16,11
+1,7:00.0,,Turnover by D. Cousins (lost ball; steal by G. Harris),16,11
+1,6:54.0,G. Harris misses 2-pt layup from 3 ft (block by K. Durant),,16,11
+1,6:53.0,Offensive rebound by Team,,16,11
+1,6:53.0,,Golden State full timeout,16,11
+1,6:41.0,Turnover by N. Jokić (lost ball; steal by D. Cousins),,16,11
+1,6:37.0,,D. Cousins makes 2-pt layup from 1 ft,16,13
+1,6:20.0,W. Barton makes 2-pt jump shot from 19 ft,,18,13
+1,6:06.0,,K. Durant makes 3-pt jump shot from 27 ft (assist by D. Green),18,16
+1,5:51.0,P. Millsap misses 3-pt jump shot from 26 ft (block by D. Green),,18,16
+1,5:49.0,,Defensive rebound by S. Curry,18,16
+1,5:46.0,,K. Thompson misses 3-pt jump shot from 24 ft,18,16
+1,5:45.0,,Offensive rebound by D. Cousins,18,16
+1,5:45.0,M. Plumlee enters the game for P. Millsap,,18,16
+1,5:38.0,,Turnover by S. Curry (lost ball; steal by J. Murray),18,16
+1,5:35.0,M. Plumlee makes 2-pt dunk from 1 ft (assist by J. Murray),,20,16
+1,5:20.0,,D. Cousins makes 2-pt layup from 2 ft (assist by D. Green),20,18
+1,5:03.0,W. Barton misses 2-pt jump shot from 16 ft,,20,18
+1,5:02.0,,Defensive rebound by K. Thompson,20,18
+1,4:49.0,,K. Thompson makes 2-pt jump shot from 16 ft (assist by K. Durant),20,20
+1,4:33.0,G. Harris misses 2-pt jump shot from 19 ft,,20,20
+1,4:32.0,,Defensive rebound by K. Durant,20,20
+1,4:25.0,,K. Thompson misses 3-pt jump shot from 23 ft,20,20
+1,4:23.0,Defensive rebound by W. Barton,,20,20
+1,4:17.0,W. Barton misses 2-pt layup from 7 ft,,20,20
+1,4:16.0,Offensive rebound by W. Barton,,20,20
+1,4:14.0,W. Barton makes 2-pt layup at rim,,22,20
+1,3:58.0,,S. Curry misses 3-pt jump shot from 26 ft,22,20
+1,3:56.0,,Offensive rebound by D. Cousins,22,20
+1,3:50.0,,D. Cousins makes 2-pt layup from 6 ft,22,22
+1,3:34.0,N. Jokić makes 2-pt hook shot from 9 ft,,24,22
+1,3:15.0,,D. Cousins makes 2-pt layup from 6 ft (assist by K. Durant),24,24
+1,2:48.0,N. Jokić misses 3-pt jump shot from 29 ft,,24,24
+1,2:46.0,,Defensive rebound by D. Green,24,24
+1,2:33.0,,D. Cousins misses 3-pt jump shot from 26 ft,24,24
+1,2:30.0,Defensive rebound by Team,,24,24
+1,2:30.0,Denver full timeout,,24,24
+1,2:30.0,M. Beasley enters the game for G. Harris,,24,24
+1,2:30.0,P. Millsap enters the game for N. Jokić,,24,24
+1,2:30.0,M. Morris enters the game for J. Murray,,24,24
+1,2:30.0,,A. Iguodala enters the game for D. Cousins,24,24
+1,2:30.0,,K. Looney enters the game for K. Durant,24,24
+1,2:30.0,,A. McKinnie enters the game for K. Thompson,24,24
+1,2:16.0,Turnover by W. Barton (bad pass; steal by S. Curry),,24,24
+1,2:01.0,,S. Curry makes 3-pt jump shot from 26 ft (assist by A. Iguodala),24,27
+1,1:36.0,M. Plumlee misses 2-pt layup from 4 ft,,24,27
+1,1:34.0,,Defensive rebound by A. Iguodala,24,27
+1,1:26.0,,Turnover by S. Curry (bad pass; steal by M. Plumlee),24,27
+1,1:21.0,Turnover by M. Plumlee (bad pass; steal by A. Iguodala),,24,27
+1,1:15.0,,S. Curry misses 3-pt jump shot from 29 ft,24,27
+1,1:13.0,Defensive rebound by P. Millsap,,24,27
+1,0:51.0,M. Morris misses 2-pt jump shot from 9 ft (block by A. Iguodala),,24,27
+1,0:50.0,Offensive rebound by Team,,24,27
+1,0:49.0,M. Plumlee misses 2-pt jump shot from 21 ft,,24,27
+1,0:48.0,Offensive rebound by Team,,24,27
+1,0:48.0,Turnover by Team (shot clock),,24,27
+1,0:40.0,,A. McKinnie makes 3-pt jump shot from 23 ft (assist by S. Curry),24,30
+1,0:27.0,W. Barton misses 3-pt jump shot from 26 ft,,24,30
+1,0:25.0,Offensive rebound by W. Barton,,24,30
+1,0:22.0,W. Barton misses 2-pt jump shot from 8 ft,,24,30
+1,0:21.0,,Defensive rebound by D. Green,24,30
+1,0:04.0,,D. Green misses 2-pt jump shot from 9 ft (block by P. Millsap),24,30
+1,0:03.0,Defensive rebound by P. Millsap,,24,30
+1,0:02.0,Turnover by P. Millsap (lost ball; steal by K. Looney),,24,30
+1,0:00.0,,K. Looney misses 2-pt jump shot from 22 ft,24,30
+1,0:00.0,,Offensive rebound by Team,24,30
+2,11:51.0,M. Morris makes 2-pt layup from 3 ft,,26,30
+2,11:51.0,Shooting foul by Q. Cook (drawn by M. Morris),,26,30
+2,11:51.0,M. Morris makes free throw 1 of 1,,27,30
+2,11:32.0,,D. Cousins misses 2-pt hook shot from 7 ft,27,30
+2,11:30.0,,Offensive rebound by D. Cousins,27,30
+2,11:30.0,,Shooting foul by T. Lyles (drawn by D. Cousins),27,30
+2,11:30.0,,D. Cousins misses free throw 1 of 2,27,30
+2,11:30.0,,Offensive rebound by Team,27,30
+2,11:30.0,,D. Cousins misses free throw 2 of 2,27,30
+2,11:27.0,Defensive rebound by M. Plumlee,,27,30
+2,11:17.0,M. Morris makes 2-pt jump shot from 13 ft,,29,30
+2,11:01.0,,D. Cousins misses 2-pt hook shot from 8 ft,29,30
+2,10:57.0,Defensive rebound by T. Lyles,,29,30
+2,10:42.0,M. Beasley misses 2-pt layup from 7 ft (block by S. Livingston),,29,30
+2,10:38.0,,Defensive rebound by S. Livingston,29,30
+2,10:36.0,,K. Thompson makes 2-pt layup from 2 ft (assist by D. Cousins),29,32
+2,10:16.0,M. Morris misses 2-pt jump shot from 20 ft,,29,32
+2,10:12.0,,Defensive rebound by A. Iguodala,29,32
+2,10:01.0,,K. Thompson misses 2-pt layup from 6 ft,29,32
+2,9:56.0,Defensive rebound by M. Plumlee,,29,32
+2,9:46.0,T. Craig misses 2-pt jump shot from 11 ft,,29,32
+2,9:44.0,,Defensive rebound by Team,29,32
+2,9:44.0,Loose ball foul by T. Craig (drawn by D. Cousins),,29,32
+2,9:29.0,,Turnover by D. Cousins (bad pass; steal by M. Beasley),29,32
+2,9:25.0,M. Morris misses 2-pt layup from 5 ft,,29,32
+2,9:24.0,,Defensive rebound by D. Cousins,29,32
+2,9:17.0,,Turnover by K. Thompson (bad pass; steal by T. Lyles),29,32
+2,9:13.0,Turnover by M. Beasley (bad pass; steal by K. Thompson),,29,32
+2,9:09.0,,D. Cousins makes 2-pt layup from 3 ft (assist by K. Thompson),29,34
+2,9:09.0,Denver full timeout,,29,34
+2,8:55.0,T. Lyles misses 3-pt jump shot from 23 ft,,29,34
+2,8:49.0,,Defensive rebound by D. Cousins,29,34
+2,8:37.0,,Q. Cook makes 2-pt jump shot from 19 ft (assist by D. Cousins),29,36
+2,8:16.0,Turnover by T. Lyles (traveling),,29,36
+2,8:16.0,,K. Durant enters the game for A. Iguodala,29,36
+2,8:03.0,,K. Thompson makes 2-pt jump shot from 17 ft (assist by D. Cousins),29,38
+2,7:45.0,T. Craig makes 2-pt layup from 1 ft (assist by M. Plumlee),,31,38
+2,7:24.0,,K. Thompson makes 3-pt jump shot from 23 ft (assist by K. Durant),31,41
+2,7:09.0,T. Lyles misses 3-pt jump shot from 24 ft,,31,41
+2,7:09.0,,Defensive rebound by Team,31,41
+2,7:09.0,Loose ball foul by M. Plumlee (drawn by D. Cousins),,31,41
+2,7:09.0,G. Harris enters the game for M. Beasley,,31,41
+2,7:09.0,N. Jokić enters the game for T. Lyles,,31,41
+2,7:09.0,J. Murray enters the game for M. Morris,,31,41
+2,6:45.0,,K. Durant misses 3-pt jump shot from 28 ft,31,41
+2,6:43.0,Defensive rebound by M. Plumlee,,31,41
+2,6:37.0,J. Murray makes 2-pt layup from 1 ft (assist by M. Plumlee),,33,41
+2,6:28.0,,Q. Cook misses 2-pt jump shot from 13 ft,33,41
+2,6:23.0,Defensive rebound by J. Murray,,33,41
+2,6:19.0,T. Craig misses 3-pt jump shot from 24 ft,,33,41
+2,6:17.0,,Defensive rebound by D. Cousins,33,41
+2,6:08.0,,K. Thompson misses 2-pt jump shot from 20 ft,33,41
+2,6:07.0,,Offensive rebound by Team,33,41
+2,6:07.0,W. Barton enters the game for T. Craig,,33,41
+2,6:07.0,P. Millsap enters the game for M. Plumlee,,33,41
+2,6:07.0,,S. Curry enters the game for Q. Cook,33,41
+2,6:07.0,,D. Green enters the game for K. Thompson,33,41
+2,6:00.0,,Turnover by D. Green (bad pass; steal by N. Jokić),33,41
+2,5:48.0,Shooting foul by D. Green (drawn by N. Jokić),,33,41
+2,5:48.0,N. Jokić makes free throw 1 of 2,,34,41
+2,5:48.0,,Golden State full timeout,34,41
+2,5:48.0,,A. Bogut enters the game for D. Cousins,34,41
+2,5:48.0,N. Jokić misses free throw 2 of 2,,34,41
+2,5:47.0,,Defensive rebound by A. Bogut,34,41
+2,5:34.0,,D. Green misses 3-pt jump shot from 27 ft,34,41
+2,5:32.0,Defensive rebound by N. Jokić,,34,41
+2,5:27.0,J. Murray misses 3-pt jump shot from 27 ft,,34,41
+2,5:18.0,,Defensive rebound by D. Green,34,41
+2,5:08.0,,D. Green makes 2-pt layup from 2 ft (assist by A. Bogut),34,43
+2,4:46.0,N. Jokić makes 2-pt hook shot from 9 ft (assist by P. Millsap),,36,43
+2,4:33.0,,D. Green makes 2-pt jump shot from 15 ft (assist by S. Curry),36,45
+2,4:15.0,J. Murray makes 2-pt jump shot from 16 ft (assist by N. Jokić),,38,45
+2,3:51.0,,K. Durant makes 3-pt jump shot from 26 ft (assist by D. Green),38,48
+2,3:34.0,Personal foul by A. Bogut (drawn by J. Murray),,38,48
+2,3:34.0,,A. Iguodala enters the game for S. Livingston,38,48
+2,3:26.0,G. Harris misses 2-pt layup from 3 ft,,38,48
+2,3:25.0,,Defensive rebound by A. Bogut,38,48
+2,3:09.0,,Personal foul by P. Millsap (drawn by D. Green),38,48
+2,3:03.0,,A. Bogut makes 2-pt jump shot from 11 ft (assist by K. Durant),38,50
+2,2:40.0,J. Murray makes 3-pt jump shot from 28 ft,,41,50
+2,2:22.0,,A. Bogut misses 2-pt layup from 1 ft,41,50
+2,2:21.0,,Offensive rebound by A. Bogut,41,50
+2,2:21.0,,A. Bogut makes 2-pt layup from 1 ft,41,52
+2,2:00.0,J. Murray misses 3-pt jump shot from 25 ft,,41,52
+2,1:58.0,,Defensive rebound by K. Durant,41,52
+2,1:54.0,,K. Durant makes 2-pt dunk from 2 ft,41,54
+2,1:54.0,,Shooting foul by W. Barton (drawn by K. Durant),41,54
+2,1:54.0,,K. Thompson enters the game for A. Bogut,41,54
+2,1:54.0,,K. Durant makes free throw 1 of 1,41,55
+2,1:44.0,N. Jokić misses 3-pt jump shot from 27 ft,,41,55
+2,1:44.0,,Defensive rebound by K. Thompson,41,55
+2,1:36.0,,Turnover by K. Thompson (bad pass; steal by J. Murray),41,55
+2,1:24.0,Personal foul by S. Curry (drawn by W. Barton),,41,55
+2,1:16.0,W. Barton misses 3-pt jump shot from 26 ft (block by D. Green),,41,55
+2,1:15.0,Offensive rebound by Team,,41,55
+2,1:12.0,G. Harris makes 2-pt jump shot from 11 ft (assist by N. Jokić),,43,55
+2,1:02.0,,K. Durant makes 2-pt dunk from 2 ft,43,57
+2,0:50.0,N. Jokić misses 3-pt jump shot from 28 ft,,43,57
+2,0:48.0,,Defensive rebound by S. Curry,43,57
+2,0:43.0,,K. Durant misses 3-pt jump shot from 28 ft,43,57
+2,0:41.0,Defensive rebound by J. Murray,,43,57
+2,0:33.0,N. Jokić misses 2-pt hook shot from 6 ft,,43,57
+2,0:31.0,,Defensive rebound by D. Green,43,57
+2,0:08.0,,S. Curry misses 3-pt jump shot from 27 ft,43,57
+2,0:06.0,,Offensive rebound by D. Green,43,57
+2,0:02.0,,K. Durant makes 2-pt dunk from 2 ft (assist by D. Green),43,59
+2,0:01.0,P. Millsap misses 3-pt jump shot from 45 ft,,43,59
+2,0:00.0,Offensive rebound by Team,,43,59
+3,11:49.0,Turnover by N. Jokić (lost ball; steal by D. Cousins),,43,59
+3,11:31.0,,K. Thompson misses 3-pt jump shot from 26 ft,43,59
+3,11:29.0,Defensive rebound by N. Jokić,,43,59
+3,11:24.0,G. Harris misses 3-pt jump shot from 28 ft,,43,59
+3,11:22.0,,Defensive rebound by D. Green,43,59
+3,11:16.0,,K. Durant makes 2-pt jump shot from 17 ft (assist by D. Green),43,61
+3,10:54.0,G. Harris misses 3-pt jump shot from 23 ft,,43,61
+3,10:52.0,,Defensive rebound by D. Cousins,43,61
+3,10:42.0,,K. Thompson makes 2-pt jump shot from 10 ft (assist by S. Curry),43,63
+3,10:42.0,Denver full timeout,,43,63
+3,10:27.0,W. Barton makes 2-pt layup from 3 ft (assist by J. Murray),,45,63
+3,10:08.0,,K. Durant makes 2-pt jump shot from 14 ft,45,65
+3,9:49.0,W. Barton misses 2-pt jump shot from 10 ft,,45,65
+3,9:46.0,,Defensive rebound by S. Curry,45,65
+3,9:43.0,,D. Green makes 2-pt layup from 2 ft (assist by S. Curry),45,67
+3,9:31.0,Shooting foul by S. Curry (drawn by J. Murray),,45,67
+3,9:31.0,J. Murray makes free throw 1 of 2,,46,67
+3,9:31.0,J. Murray makes free throw 2 of 2,,47,67
+3,9:18.0,,Turnover by D. Cousins (out of bounds lost ball),47,67
+3,9:09.0,J. Murray misses 2-pt jump shot from 14 ft,,47,67
+3,9:08.0,,Defensive rebound by K. Durant,47,67
+3,9:02.0,,S. Curry misses 3-pt jump shot from 26 ft,47,67
+3,9:00.0,,Offensive rebound by D. Cousins,47,67
+3,8:57.0,,D. Cousins makes 2-pt layup from 3 ft,47,69
+3,8:57.0,,Shooting foul by P. Millsap (drawn by D. Cousins),47,69
+3,8:57.0,,D. Cousins makes free throw 1 of 1,47,70
+3,8:43.0,J. Murray misses 2-pt jump shot from 18 ft,,47,70
+3,8:41.0,Offensive rebound by Team,,47,70
+3,8:41.0,Shooting foul by D. Cousins (drawn by G. Harris),,47,70
+3,8:41.0,G. Harris makes free throw 1 of 2,,48,70
+3,8:41.0,G. Harris makes free throw 2 of 2,,49,70
+3,8:27.0,,K. Durant misses 3-pt jump shot from 27 ft,49,70
+3,8:25.0,Defensive rebound by J. Murray,,49,70
+3,8:21.0,,Technical foul by K. Durant,49,70
+3,8:21.0,J. Murray makes technical free throw,,50,70
+3,8:21.0,,Technical foul by K. Durant,50,70
+3,8:21.0,J. Murray makes technical free throw,,51,70
+3,8:21.0,,K. Durant ejected from game,51,70
+3,8:21.0,,Golden State full timeout,51,70
+3,8:21.0,,A. McKinnie enters the game for K. Durant,51,70
+3,8:12.0,Turnover by J. Murray (bad pass; steal by S. Curry),,51,70
+3,8:05.0,,D. Cousins makes 2-pt jump shot from 7 ft (assist by D. Green),51,72
+3,7:52.0,Turnover by N. Jokić (bad pass; steal by A. McKinnie),,51,72
+3,7:48.0,,S. Curry makes 3-pt jump shot from 26 ft (assist by A. McKinnie),51,75
+3,7:46.0,Denver full timeout,,51,75
+3,7:35.0,N. Jokić makes 2-pt jump shot from 9 ft (assist by P. Millsap),,53,75
+3,7:18.0,,K. Thompson misses 3-pt jump shot from 23 ft,53,75
+3,7:15.0,,Offensive rebound by A. McKinnie,53,75
+3,7:06.0,,A. McKinnie misses 3-pt jump shot from 23 ft,53,75
+3,7:00.0,Defensive rebound by W. Barton,,53,75
+3,6:50.0,P. Millsap misses 2-pt hook shot from 8 ft,,53,75
+3,6:49.0,Offensive rebound by P. Millsap,,53,75
+3,6:47.0,P. Millsap misses 2-pt jump shot from 9 ft,,53,75
+3,6:46.0,,Defensive rebound by D. Green,53,75
+3,6:41.0,,Turnover by D. Green (bad pass; steal by J. Murray),53,75
+3,6:40.0,J. Murray misses 3-pt jump shot from 27 ft,,53,75
+3,6:38.0,Offensive rebound by Team,,53,75
+3,6:31.0,Turnover by N. Jokić (lost ball; steal by S. Curry),,53,75
+3,6:30.0,,Personal take foul by G. Harris (drawn by S. Curry),53,75
+3,6:30.0,M. Plumlee enters the game for P. Millsap,,53,75
+3,6:20.0,,Turnover by D. Green (bad pass; steal by M. Plumlee),53,75
+3,6:15.0,Turnover by W. Barton (step out of bounds),,53,75
+3,6:05.0,,Turnover by S. Curry (bad pass; steal by N. Jokić),53,75
+3,6:05.0,Personal foul by D. Cousins (drawn by N. Jokić),,53,75
+3,5:59.0,W. Barton misses 2-pt jump shot from 6 ft (block by D. Cousins),,53,75
+3,5:58.0,,Defensive rebound by D. Cousins,53,75
+3,5:47.0,,Turnover by D. Cousins (lost ball; steal by N. Jokić),53,75
+3,5:43.0,W. Barton makes 2-pt layup from 4 ft,,55,75
+3,5:43.0,,Golden State full timeout,55,75
+3,5:29.0,,A. McKinnie misses 2-pt dunk from 2 ft (block by M. Plumlee),55,75
+3,5:28.0,Defensive rebound by G. Harris,,55,75
+3,5:22.0,G. Harris misses 2-pt jump shot from 17 ft,,55,75
+3,5:21.0,,Defensive rebound by A. McKinnie,55,75
+3,5:12.0,,S. Curry makes 3-pt jump shot from 27 ft,55,78
+3,4:52.0,J. Murray makes 2-pt jump shot from 13 ft,,57,78
+3,4:36.0,,Turnover by D. Cousins (lost ball; steal by N. Jokić),57,78
+3,4:31.0,Shooting foul by S. Curry (drawn by G. Harris),,57,78
+3,4:31.0,G. Harris makes free throw 1 of 2,,58,78
+3,4:31.0,M. Beasley enters the game for W. Barton,,58,78
+3,4:31.0,,A. Iguodala enters the game for D. Cousins,58,78
+3,4:31.0,,K. Looney enters the game for S. Curry,58,78
+3,4:31.0,G. Harris makes free throw 2 of 2,,59,78
+3,4:11.0,,K. Looney misses 2-pt hook shot from 7 ft,59,78
+3,4:10.0,,Offensive rebound by K. Looney,59,78
+3,4:06.0,,Turnover by K. Looney (bad pass; steal by J. Murray),59,78
+3,4:01.0,M. Beasley misses 3-pt jump shot from 28 ft,,59,78
+3,3:59.0,,Defensive rebound by K. Thompson,59,78
+3,3:53.0,,A. McKinnie makes 2-pt layup from 2 ft (assist by D. Green),59,80
+3,3:53.0,,Shooting foul by G. Harris (drawn by A. McKinnie),59,80
+3,3:53.0,,A. McKinnie misses free throw 1 of 1,59,80
+3,3:52.0,Defensive rebound by M. Plumlee,,59,80
+3,3:34.0,Turnover by N. Jokić (lost ball; steal by K. Looney),,59,80
+3,3:24.0,,K. Thompson misses 3-pt jump shot from 26 ft,59,80
+3,3:22.0,Defensive rebound by M. Beasley,,59,80
+3,3:16.0,Shooting foul by K. Looney (drawn by M. Plumlee),,59,80
+3,3:16.0,M. Plumlee makes free throw 1 of 2,,60,80
+3,3:16.0,M. Morris enters the game for G. Harris,,60,80
+3,3:16.0,M. Plumlee misses free throw 2 of 2,,60,80
+3,3:15.0,Offensive rebound by N. Jokić,,60,80
+3,3:15.0,N. Jokić misses 2-pt layup from 5 ft,,60,80
+3,3:14.0,,Defensive rebound by D. Green,60,80
+3,3:01.0,,Turnover by A. McKinnie (step out of bounds),60,80
+3,2:48.0,J. Murray makes 2-pt layup from 7 ft (assist by N. Jokić),,62,80
+3,2:28.0,,K. Looney makes 2-pt dunk from 2 ft (assist by A. Iguodala),62,82
+3,2:03.0,J. Murray makes 2-pt jump shot from 22 ft (assist by N. Jokić),,64,82
+3,1:47.0,,K. Thompson makes 2-pt jump shot from 17 ft (assist by K. Looney),64,84
+3,1:25.0,M. Plumlee misses 2-pt jump shot from 12 ft,,64,84
+3,1:24.0,,Defensive rebound by K. Looney,64,84
+3,1:06.0,,D. Green misses 3-pt jump shot from 27 ft,64,84
+3,1:04.0,Defensive rebound by N. Jokić,,64,84
+3,0:57.0,Turnover by N. Jokić (bad pass),,64,84
+3,0:57.0,T. Lyles enters the game for N. Jokić,,64,84
+3,0:57.0,,Q. Cook enters the game for A. McKinnie,64,84
+3,0:44.0,,K. Thompson misses 2-pt jump shot from 22 ft,64,84
+3,0:42.0,Defensive rebound by J. Murray,,64,84
+3,0:39.0,Turnover by M. Beasley (lost ball; steal by D. Green),,64,84
+3,0:37.0,,Personal foul by M. Plumlee (drawn by D. Green),64,84
+3,0:18.0,,K. Looney makes 2-pt dunk from 1 ft (assist by Q. Cook),64,86
+3,0:03.0,J. Murray misses 2-pt jump shot from 21 ft,,64,86
+3,0:00.0,,Defensive rebound by Q. Cook,64,86
+4,11:41.0,,D. Cousins makes 3-pt jump shot from 26 ft (assist by A. Iguodala),64,89
+4,11:30.0,M. Morris makes 2-pt jump shot from 7 ft,,66,89
+4,11:07.0,,J. Jerebko makes 3-pt jump shot from 23 ft (assist by S. Curry),66,92
+4,10:47.0,M. Beasley makes 3-pt jump shot from 28 ft (assist by M. Morris),,69,92
+4,10:24.0,,D. Cousins makes 2-pt jump shot from 12 ft (assist by S. Livingston),69,94
+4,10:23.0,Denver full timeout,,69,94
+4,10:23.0,I. Thomas enters the game for M. Beasley,,69,94
+4,10:05.0,T. Craig misses 3-pt jump shot from 27 ft,,69,94
+4,10:03.0,,Defensive rebound by D. Cousins,69,94
+4,9:49.0,,Turnover by A. Iguodala (bad pass; steal by M. Morris),69,94
+4,9:45.0,I. Thomas misses 3-pt jump shot from 27 ft,,69,94
+4,9:43.0,,Defensive rebound by A. Iguodala,69,94
+4,9:28.0,,J. Jerebko makes 3-pt jump shot from 25 ft (assist by D. Cousins),69,97
+4,9:11.0,M. Morris misses 3-pt jump shot from 27 ft,,69,97
+4,9:09.0,,Defensive rebound by S. Curry,69,97
+4,9:00.0,,Personal foul by T. Craig (drawn by S. Curry),69,97
+4,8:56.0,,Personal foul by T. Craig (drawn by S. Curry),69,97
+4,8:46.0,,Turnover by A. Iguodala (bad pass; steal by M. Plumlee),69,97
+4,8:38.0,T. Lyles makes 2-pt layup from 2 ft (assist by M. Plumlee),,71,97
+4,8:38.0,Shooting foul by D. Cousins (drawn by T. Lyles),,71,97
+4,8:38.0,T. Lyles makes free throw 1 of 1,,72,97
+4,8:20.0,,S. Livingston makes 2-pt dunk from 1 ft (assist by D. Cousins),72,99
+4,8:03.0,T. Lyles misses 2-pt jump shot from 14 ft (block by A. Iguodala),,72,99
+4,8:02.0,Offensive rebound by M. Plumlee,,72,99
+4,7:55.0,I. Thomas misses 3-pt jump shot from 26 ft,,72,99
+4,7:53.0,,Defensive rebound by A. Iguodala,72,99
+4,7:49.0,,D. Cousins makes 3-pt jump shot from 26 ft (assist by A. Iguodala),72,102
+4,7:35.0,M. Morris makes 3-pt jump shot from 23 ft (assist by I. Thomas),,75,102
+4,7:22.0,,S. Curry makes 3-pt jump shot from 28 ft,75,105
+4,7:22.0,Denver full timeout,,75,105
+4,7:22.0,J. Vanderbilt enters the game for M. Plumlee,,75,105
+4,7:22.0,,Q. Cook enters the game for S. Curry,75,105
+4,7:22.0,,A. McKinnie enters the game for A. Iguodala,75,105
+4,7:13.0,M. Morris misses 2-pt layup from 4 ft,,75,105
+4,7:12.0,,Defensive rebound by D. Cousins,75,105
+4,7:05.0,,J. Jerebko misses 3-pt jump shot from 23 ft,75,105
+4,7:03.0,Defensive rebound by J. Vanderbilt,,75,105
+4,6:58.0,Shooting foul by D. Cousins (drawn by I. Thomas),,75,105
+4,6:58.0,J. Hernangómez enters the game for M. Morris,,75,105
+4,6:58.0,I. Thomas makes free throw 1 of 2,,76,105
+4,6:58.0,I. Thomas makes free throw 2 of 2,,77,105
+4,6:37.0,,J. Jerebko misses 2-pt jump shot from 16 ft,77,105
+4,6:36.0,Defensive rebound by J. Hernangómez,,77,105
+4,6:20.0,I. Thomas misses 2-pt jump shot from 11 ft,,77,105
+4,6:18.0,Offensive rebound by T. Craig,,77,105
+4,6:17.0,J. Vanderbilt makes 2-pt layup from 3 ft (assist by T. Craig),,79,105
+4,5:58.0,,D. Cousins makes 2-pt layup from 3 ft,79,107
+4,5:58.0,,Shooting foul by J. Vanderbilt (drawn by D. Cousins),79,107
+4,5:58.0,,D. Cousins makes free throw 1 of 1,79,108
+4,5:57.0,Personal take foul by S. Livingston (drawn by I. Thomas),,79,108
+4,5:57.0,,J. Bell enters the game for D. Cousins,79,108
+4,5:47.0,Shooting foul by J. Jerebko (drawn by T. Lyles),,79,108
+4,5:47.0,T. Lyles makes free throw 1 of 2,,80,108
+4,5:47.0,T. Lyles makes free throw 2 of 2,,81,108
+4,5:32.0,,J. Bell misses 2-pt jump shot from 18 ft,81,108
+4,5:31.0,Defensive rebound by J. Vanderbilt,,81,108
+4,5:17.0,T. Lyles makes 2-pt layup from 3 ft,,83,108
+4,5:10.0,,Q. Cook misses 3-pt jump shot from 28 ft,83,108
+4,5:08.0,,Offensive rebound by A. McKinnie,83,108
+4,5:06.0,,Turnover by S. Livingston (bad pass; steal by T. Craig),83,108
+4,5:05.0,Personal foul by J. Jerebko (drawn by T. Craig),,83,108
+4,5:05.0,T. Craig makes free throw 1 of 2,,84,108
+4,5:05.0,,K. Looney enters the game for S. Livingston,84,108
+4,5:05.0,T. Craig misses free throw 2 of 2,,84,108
+4,5:04.0,,Defensive rebound by J. Jerebko,84,108
+4,4:47.0,,J. Bell misses 2-pt jump shot from 15 ft,84,108
+4,4:46.0,Defensive rebound by T. Craig,,84,108
+4,4:26.0,J. Vanderbilt makes 2-pt layup from 4 ft (assist by I. Thomas),,86,108
+4,4:26.0,Shooting foul by J. Bell (drawn by J. Vanderbilt),,86,108
+4,4:26.0,J. Vanderbilt makes free throw 1 of 1,,87,108
+4,4:10.0,,A. McKinnie misses 2-pt jump shot from 13 ft (block by T. Craig),87,108
+4,4:09.0,Defensive rebound by Team,,87,108
+4,3:57.0,J. Hernangómez misses 3-pt jump shot from 27 ft (block by K. Looney),,87,108
+4,3:55.0,,Defensive rebound by Q. Cook,87,108
+4,3:43.0,,A. McKinnie misses 2-pt jump shot from 6 ft,87,108
+4,3:41.0,,Offensive rebound by A. McKinnie,87,108
+4,3:40.0,,Turnover by A. McKinnie (bad pass; steal by T. Craig),87,108
+4,3:36.0,I. Thomas makes 3-pt jump shot from 28 ft (assist by T. Lyles),,90,108
+4,3:34.0,,Golden State full timeout,90,108
+4,3:18.0,,Turnover by J. Bell (traveling),90,108
+4,3:03.0,Shooting foul by K. Looney (drawn by I. Thomas),,90,108
+4,3:03.0,I. Thomas makes free throw 1 of 2,,91,108
+4,3:03.0,I. Thomas makes free throw 2 of 2,,92,108
+4,2:46.0,,Shooting foul by J. Vanderbilt (drawn by J. Jerebko),92,108
+4,2:46.0,,J. Jerebko misses free throw 1 of 2,92,108
+4,2:46.0,,Offensive rebound by Team,92,108
+4,2:46.0,,J. Jerebko misses free throw 2 of 2,92,108
+4,2:45.0,,Offensive rebound by K. Looney,92,108
+4,2:45.0,,K. Looney makes 2-pt layup at rim,92,110
+4,2:33.0,J. Vanderbilt makes 2-pt layup from 1 ft (assist by I. Thomas),,94,110
+4,2:16.0,,K. Looney makes 2-pt jump shot from 16 ft (assist by Q. Cook),94,112
+4,2:01.0,Shooting foul by K. Looney (drawn by J. Vanderbilt),,94,112
+4,2:01.0,J. Vanderbilt misses free throw 1 of 2,,94,112
+4,2:01.0,Offensive rebound by Team,,94,112
+4,2:01.0,J. Vanderbilt makes free throw 2 of 2,,95,112
+4,1:43.0,,J. Jerebko misses 2-pt hook shot from 6 ft,95,112
+4,1:42.0,Defensive rebound by J. Vanderbilt,,95,112
+4,1:31.0,I. Thomas misses 2-pt jump shot from 5 ft,,95,112
+4,1:29.0,,Defensive rebound by K. Looney,95,112
+4,1:26.0,,Turnover by K. Looney (bad pass; steal by J. Vanderbilt),95,112
+4,1:25.0,J. Vanderbilt makes 2-pt dunk from 1 ft (assist by T. Lyles),,97,112
+4,1:17.0,,Q. Cook makes 2-pt layup from 2 ft,97,114
+4,1:01.0,T. Craig makes 2-pt jump shot from 19 ft,,99,114
+4,0:47.0,,Q. Cook misses 2-pt jump shot from 11 ft (block by T. Craig),99,114
+4,0:45.0,,Offensive rebound by K. Looney,99,114
+4,0:44.0,,K. Looney makes 2-pt dunk from 1 ft,99,116
+4,0:36.0,I. Thomas misses 2-pt layup from 6 ft,,99,116
+4,0:33.0,,Defensive rebound by A. McKinnie,99,116
+4,0:10.0,,J. Bell misses 2-pt layup from 8 ft,99,116
+4,0:08.0,Defensive rebound by I. Thomas,,99,116
+4,0:04.0,I. Thomas misses 2-pt layup from 5 ft (block by K. Looney),,99,116
+4,0:03.0,,Defensive rebound by Q. Cook,99,116
+4,0:02.0,,Turnover by Q. Cook (bad pass),99,116
+4,0:00.0,I. Thomas makes 3-pt jump shot from 23 ft (assist by T. Craig),,102,116

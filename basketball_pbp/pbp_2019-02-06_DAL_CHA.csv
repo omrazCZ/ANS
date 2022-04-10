@@ -1,0 +1,450 @@
+QUARTER,TIME_REMAINING,CHARLOTTE_ACTION,DALLAS_ACTION,CHARLOTTE_SCORE,DALLAS_SCORE
+1,11:43.0,Turnover by J. Lamb (traveling),,0,0
+1,11:31.0,,H. Barnes misses 3-pt jump shot from 24 ft,0,0
+1,11:28.0,,Offensive rebound by D. Finney-Smith,0,0
+1,11:21.0,,L. Dončić misses 3-pt jump shot from 26 ft,0,0
+1,11:19.0,,Offensive rebound by M. Kleber,0,0
+1,11:05.0,,L. Dončić misses 3-pt jump shot from 25 ft,0,0
+1,11:01.0,Defensive rebound by K. Walker,,0,0
+1,10:54.0,K. Walker makes 2-pt layup at rim,,2,0
+1,10:41.0,,M. Kleber makes 2-pt dunk from 1 ft (assist by D. Finney-Smith),2,2
+1,10:27.0,J. Lamb misses 3-pt jump shot from 25 ft,,2,2
+1,10:24.0,,Defensive rebound by L. Dončić,2,2
+1,10:20.0,,Shooting foul by B. Biyombo (drawn by L. Dončić),2,2
+1,10:20.0,,L. Dončić makes free throw 1 of 2,2,3
+1,10:20.0,,L. Dončić makes free throw 2 of 2,2,4
+1,10:07.0,M. Williams misses 3-pt jump shot from 23 ft,,2,4
+1,10:00.0,,Defensive rebound by J. Brunson,2,4
+1,9:49.0,,J. Brunson makes 2-pt hook shot from 2 ft (assist by L. Dončić),2,6
+1,9:37.0,N. Batum misses 3-pt jump shot from 23 ft,,2,6
+1,9:32.0,,Defensive rebound by H. Barnes,2,6
+1,9:27.0,,H. Barnes misses 3-pt jump shot from 25 ft,2,6
+1,9:23.0,Defensive rebound by J. Lamb,,2,6
+1,9:13.0,Turnover by B. Biyombo (3 sec),,2,6
+1,9:03.0,,Shooting foul by B. Biyombo (drawn by L. Dončić),2,6
+1,9:03.0,,L. Dončić misses free throw 1 of 2,2,6
+1,9:03.0,,Offensive rebound by Team,2,6
+1,9:03.0,,L. Dončić makes free throw 2 of 2,2,7
+1,8:49.0,N. Batum makes 2-pt jump shot from 11 ft,,4,7
+1,8:42.0,Violation by Team (kicked ball),,4,7
+1,8:30.0,,J. Brunson misses 2-pt jump shot from 16 ft,4,7
+1,8:27.0,Defensive rebound by M. Williams,,4,7
+1,8:22.0,Shooting foul by J. Brunson (drawn by K. Walker),,4,7
+1,8:22.0,K. Walker makes 2-pt jump shot from 15 ft,,6,7
+1,8:22.0,K. Walker makes free throw 1 of 1,,7,7
+1,8:11.0,,Turnover by L. Dončić (bad pass; steal by M. Williams),7,7
+1,8:06.0,K. Walker misses 2-pt layup from 7 ft,,7,7
+1,8:04.0,Offensive rebound by K. Walker,,7,7
+1,8:02.0,N. Batum misses 3-pt jump shot from 27 ft,,7,7
+1,8:02.0,,Defensive rebound by J. Brunson,7,7
+1,7:51.0,,D. Finney-Smith misses 3-pt jump shot from 25 ft,7,7
+1,7:49.0,Defensive rebound by K. Walker,,7,7
+1,7:45.0,K. Walker misses 3-pt jump shot from 25 ft,,7,7
+1,7:40.0,,Defensive rebound by J. Brunson,7,7
+1,7:40.0,C. Zeller enters the game for B. Biyombo,,7,7
+1,7:19.0,,M. Kleber makes 2-pt dunk at rim (assist by L. Dončić),7,9
+1,7:19.0,,T. Hardaway enters the game for L. Dončić,7,9
+1,7:02.0,J. Lamb misses 2-pt jump shot from 20 ft,,7,9
+1,6:58.0,,Defensive rebound by T. Hardaway,7,9
+1,6:52.0,,J. Brunson misses 3-pt jump shot from 25 ft,7,9
+1,6:51.0,,Offensive rebound by M. Kleber,7,9
+1,6:48.0,,T. Hardaway misses 3-pt jump shot from 25 ft,7,9
+1,6:43.0,Defensive rebound by K. Walker,,7,9
+1,6:40.0,K. Walker makes 3-pt jump shot from 25 ft,,10,9
+1,6:38.0,,Dallas full timeout,10,9
+1,6:38.0,M. Kidd-Gilchrist enters the game for M. Williams,,10,9
+1,6:22.0,,T. Hardaway misses 2-pt jump shot from 5 ft,10,9
+1,6:20.0,Defensive rebound by M. Kidd-Gilchrist,,10,9
+1,6:06.0,J. Lamb misses 3-pt jump shot from 23 ft,,10,9
+1,6:03.0,,Defensive rebound by J. Brunson,10,9
+1,5:48.0,,D. Finney-Smith makes 2-pt jump shot from 5 ft (assist by J. Brunson),10,11
+1,5:29.0,C. Zeller misses 2-pt jump shot from 4 ft,,10,11
+1,5:28.0,Offensive rebound by C. Zeller,,10,11
+1,5:27.0,C. Zeller makes 2-pt layup from 1 ft,,12,11
+1,5:12.0,,D. Finney-Smith makes 2-pt dunk at rim (assist by H. Barnes),12,13
+1,4:51.0,M. Kidd-Gilchrist misses 2-pt hook shot from 4 ft,,12,13
+1,4:49.0,,Defensive rebound by D. Finney-Smith,12,13
+1,4:42.0,,T. Hardaway misses 3-pt jump shot from 25 ft,12,13
+1,4:40.0,Defensive rebound by Team,,12,13
+1,4:40.0,M. Bridges enters the game for N. Batum,,12,13
+1,4:40.0,M. Monk enters the game for J. Lamb,,12,13
+1,4:40.0,,D. Powell enters the game for M. Kleber,12,13
+1,4:30.0,Turnover by K. Walker (bad pass; steal by J. Brunson),,12,13
+1,4:26.0,,D. Finney-Smith makes 2-pt dunk at rim (assist by J. Brunson),12,15
+1,4:12.0,M. Monk makes 3-pt jump shot from 23 ft (assist by M. Kidd-Gilchrist),,15,15
+1,4:00.0,,H. Barnes misses 3-pt jump shot from 25 ft,15,15
+1,3:57.0,Defensive rebound by M. Monk,,15,15
+1,3:49.0,K. Walker makes 2-pt jump shot from 20 ft,,17,15
+1,3:27.0,,Turnover by J. Brunson (lost ball; steal by M. Bridges),17,15
+1,3:25.0,Personal foul by T. Hardaway (drawn by C. Zeller),,17,15
+1,3:25.0,,L. Dončić enters the game for H. Barnes,17,15
+1,3:25.0,,D. Nowitzki enters the game for J. Brunson,17,15
+1,3:18.0,Turnover by M. Monk (traveling),,17,15
+1,3:03.0,,Personal foul by M. Monk (drawn by T. Hardaway),17,15
+1,3:03.0,,D. Harris enters the game for D. Finney-Smith,17,15
+1,2:53.0,,T. Hardaway misses 2-pt jump shot from 21 ft,17,15
+1,2:51.0,,Offensive rebound by D. Powell,17,15
+1,2:49.0,,D. Nowitzki makes 2-pt jump shot from 17 ft (assist by D. Powell),17,17
+1,2:34.0,K. Walker makes 3-pt jump shot from 25 ft,,20,17
+1,2:20.0,,L. Dončić makes 2-pt layup from 1 ft,20,19
+1,2:06.0,K. Walker misses 3-pt jump shot from 26 ft (block by D. Harris),,20,19
+1,2:04.0,,Defensive rebound by L. Dončić,20,19
+1,2:02.0,,T. Hardaway makes 2-pt dunk from 1 ft (assist by L. Dončić),20,21
+1,2:02.0,Charlotte full timeout,,20,21
+1,2:02.0,D. Graham enters the game for K. Walker,,20,21
+1,1:47.0,M. Bridges misses 3-pt jump shot from 25 ft,,20,21
+1,1:44.0,,Defensive rebound by D. Harris,20,21
+1,1:30.0,,D. Nowitzki misses 3-pt jump shot from 24 ft,20,21
+1,1:25.0,Defensive rebound by C. Zeller,,20,21
+1,1:20.0,M. Kidd-Gilchrist misses 2-pt layup from 7 ft,,20,21
+1,1:18.0,,Defensive rebound by L. Dončić,20,21
+1,1:11.0,,T. Hardaway makes 3-pt jump shot from 25 ft (assist by L. Dončić),20,24
+1,0:53.0,Turnover by M. Kidd-Gilchrist (traveling),,20,24
+1,0:34.0,,L. Dončić makes 3-pt jump shot from 27 ft,20,27
+1,0:19.0,M. Kidd-Gilchrist misses 2-pt jump shot from 19 ft,,20,27
+1,0:16.0,,Defensive rebound by D. Powell,20,27
+1,0:00.0,,L. Dončić misses 2-pt layup from 6 ft (block by M. Monk),20,27
+1,0:00.0,Defensive rebound by M. Kidd-Gilchrist,,20,27
+2,11:45.0,,D. Powell makes 2-pt layup from 2 ft (assist by T. Hardaway),20,29
+2,11:27.0,M. Bridges misses 2-pt jump shot from 2 ft (block by D. Nowitzki),,20,29
+2,11:27.0,Offensive rebound by Team,,20,29
+2,11:19.0,D. Graham makes 3-pt jump shot from 23 ft (assist by M. Monk),,23,29
+2,11:01.0,,T. Hardaway misses 3-pt jump shot from 24 ft,23,29
+2,10:57.0,,Offensive rebound by D. Powell,23,29
+2,10:55.0,,L. Dončić misses 2-pt layup from 2 ft,23,29
+2,10:53.0,Defensive rebound by M. Monk,,23,29
+2,10:45.0,Shooting foul by D. Harris (drawn by B. Biyombo),,23,29
+2,10:45.0,B. Biyombo misses free throw 1 of 2,,23,29
+2,10:45.0,Offensive rebound by Team,,23,29
+2,10:45.0,B. Biyombo makes free throw 2 of 2,,24,29
+2,10:36.0,,D. Powell makes 2-pt layup at rim (assist by L. Dončić),24,31
+2,10:36.0,,Shooting foul by M. Williams (drawn by D. Powell),24,31
+2,10:36.0,,D. Powell makes free throw 1 of 1,24,32
+2,10:22.0,B. Biyombo misses 2-pt jump shot from 6 ft,,24,32
+2,10:20.0,,Defensive rebound by L. Dončić,24,32
+2,10:16.0,,L. Dončić misses 2-pt layup at rim,24,32
+2,10:15.0,,Offensive rebound by D. Powell,24,32
+2,10:15.0,,D. Powell makes 2-pt layup from 1 ft,24,34
+2,10:15.0,Charlotte full timeout,,24,34
+2,10:02.0,Personal foul by T. Hardaway (drawn by M. Monk),,24,34
+2,9:51.0,D. Graham misses 2-pt jump shot from 13 ft,,24,34
+2,9:51.0,Offensive rebound by D. Graham,,24,34
+2,9:48.0,D. Graham makes 2-pt layup from 1 ft,,26,34
+2,9:28.0,,L. Dončić misses 3-pt jump shot from 26 ft,26,34
+2,9:25.0,Defensive rebound by M. Williams,,26,34
+2,9:10.0,M. Monk makes 2-pt jump shot from 11 ft,,28,34
+2,8:44.0,,L. Dončić misses 2-pt jump shot from 8 ft,28,34
+2,8:43.0,,Offensive rebound by L. Dončić,28,34
+2,8:34.0,,T. Hardaway misses 3-pt jump shot from 23 ft,28,34
+2,8:31.0,Defensive rebound by B. Biyombo,,28,34
+2,8:27.0,M. Monk makes 2-pt dunk from 1 ft (assist by D. Graham),,30,34
+2,8:26.0,,Dallas full timeout,30,34
+2,8:26.0,N. Batum enters the game for M. Bridges,,30,34
+2,8:26.0,K. Walker enters the game for D. Graham,,30,34
+2,8:26.0,,H. Barnes enters the game for L. Dončić,30,34
+2,8:26.0,,J. Brunson enters the game for D. Nowitzki,30,34
+2,8:26.0,,M. Kleber enters the game for D. Powell,30,34
+2,8:08.0,,J. Brunson makes 2-pt hook shot from 6 ft,30,36
+2,7:47.0,M. Williams makes 2-pt jump shot from 6 ft (assist by K. Walker),,32,36
+2,7:33.0,,Turnover by D. Harris (traveling),32,36
+2,7:17.0,M. Williams misses 2-pt jump shot from 7 ft,,32,36
+2,7:14.0,,Defensive rebound by D. Harris,32,36
+2,7:10.0,,H. Barnes misses 2-pt layup from 4 ft (block by B. Biyombo),32,36
+2,7:08.0,Defensive rebound by M. Williams,,32,36
+2,7:04.0,M. Williams misses 3-pt jump shot from 25 ft,,32,36
+2,7:01.0,,Defensive rebound by H. Barnes,32,36
+2,6:57.0,,Personal foul by M. Williams (drawn by J. Brunson),32,36
+2,6:57.0,,D. Finney-Smith enters the game for D. Harris,32,36
+2,6:47.0,,D. Finney-Smith misses 2-pt jump shot from 16 ft (block by N. Batum),32,36
+2,6:45.0,,Offensive rebound by D. Finney-Smith,32,36
+2,6:40.0,,D. Finney-Smith makes 2-pt layup from 1 ft,32,38
+2,6:24.0,N. Batum misses 3-pt jump shot from 25 ft,,32,38
+2,6:21.0,,Defensive rebound by T. Hardaway,32,38
+2,6:17.0,,T. Hardaway makes 2-pt layup from 1 ft,32,40
+2,6:17.0,Charlotte full timeout,,32,40
+2,6:17.0,J. Lamb enters the game for M. Monk,,32,40
+2,6:08.0,Turnover by K. Walker (lost ball; steal by M. Kleber),,32,40
+2,6:05.0,,J. Brunson misses 2-pt layup from 1 ft (block by N. Batum),32,40
+2,6:02.0,Defensive rebound by J. Lamb,,32,40
+2,5:50.0,K. Walker makes 2-pt hook shot from 5 ft,,34,40
+2,5:43.0,,Personal foul by N. Batum (drawn by T. Hardaway),34,40
+2,5:33.0,,Shooting foul by K. Walker (drawn by J. Brunson),34,40
+2,5:33.0,,J. Brunson misses free throw 1 of 2,34,40
+2,5:33.0,,Offensive rebound by Team,34,40
+2,5:33.0,,Turnover by M. Kleber (lane violation),34,40
+2,5:21.0,K. Walker misses 2-pt jump shot from 7 ft,,34,40
+2,5:19.0,,Defensive rebound by D. Finney-Smith,34,40
+2,5:13.0,,J. Brunson misses 2-pt layup from 6 ft,34,40
+2,5:11.0,,Offensive rebound by M. Kleber,34,40
+2,5:10.0,,M. Kleber misses 2-pt layup from 1 ft,34,40
+2,5:09.0,Defensive rebound by K. Walker,,34,40
+2,4:50.0,Turnover by K. Walker (bad pass; steal by T. Hardaway),,34,40
+2,4:47.0,,Turnover by M. Kleber (bad pass; steal by N. Batum),34,40
+2,4:45.0,Shooting foul by M. Kleber (drawn by K. Walker),,34,40
+2,4:45.0,K. Walker makes free throw 1 of 2,,35,40
+2,4:45.0,C. Zeller enters the game for B. Biyombo,,35,40
+2,4:45.0,,L. Dončić enters the game for T. Hardaway,35,40
+2,4:45.0,K. Walker makes free throw 2 of 2,,36,40
+2,4:41.0,,Turnover by H. Barnes (out of bounds lost ball),36,40
+2,4:27.0,C. Zeller makes 2-pt jump shot from 7 ft (assist by K. Walker),,38,40
+2,4:03.0,,H. Barnes makes 3-pt jump shot from 25 ft,38,43
+2,3:49.0,C. Zeller makes 2-pt layup from 1 ft,,40,43
+2,3:23.0,,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by L. Dončić),40,45
+2,3:07.0,K. Walker makes 3-pt jump shot from 24 ft (assist by C. Zeller),,43,45
+2,2:55.0,,L. Dončić makes 2-pt layup from 1 ft,43,47
+2,2:46.0,K. Walker misses 2-pt jump shot from 10 ft,,43,47
+2,2:44.0,,Defensive rebound by L. Dončić,43,47
+2,2:44.0,,Personal foul by M. Williams (drawn by L. Dončić),43,47
+2,2:44.0,,L. Dončić misses free throw 1 of 2,43,47
+2,2:44.0,,Offensive rebound by Team,43,47
+2,2:44.0,M. Bridges enters the game for M. Williams,,43,47
+2,2:44.0,,L. Dončić makes free throw 2 of 2,43,48
+2,2:30.0,K. Walker misses 3-pt jump shot from 25 ft,,43,48
+2,2:27.0,Offensive rebound by C. Zeller,,43,48
+2,2:24.0,C. Zeller misses 2-pt hook shot from 2 ft,,43,48
+2,2:22.0,,Defensive rebound by L. Dončić,43,48
+2,2:11.0,,J. Brunson makes 2-pt jump shot from 10 ft (assist by L. Dončić),43,50
+2,1:55.0,Shooting foul by M. Kleber (drawn by J. Lamb),,43,50
+2,1:55.0,J. Lamb makes free throw 1 of 2,,44,50
+2,1:55.0,J. Lamb misses free throw 2 of 2,,44,50
+2,1:52.0,,Defensive rebound by M. Kleber,44,50
+2,1:37.0,,Personal foul by C. Zeller (drawn by L. Dončić),44,50
+2,1:37.0,,L. Dončić makes free throw 1 of 2,44,51
+2,1:37.0,,L. Dončić makes free throw 2 of 2,44,52
+2,1:24.0,N. Batum misses 3-pt jump shot from 25 ft,,44,52
+2,1:21.0,,Defensive rebound by H. Barnes,44,52
+2,1:14.0,,L. Dončić misses 3-pt jump shot from 26 ft,44,52
+2,1:11.0,Defensive rebound by M. Bridges,,44,52
+2,1:05.0,J. Lamb misses 2-pt layup from 3 ft,,44,52
+2,1:02.0,Offensive rebound by Team,,44,52
+2,0:51.0,J. Lamb misses 2-pt jump shot from 6 ft,,44,52
+2,0:48.0,,Defensive rebound by M. Kleber,44,52
+2,0:34.0,,H. Barnes misses 3-pt jump shot from 28 ft,44,52
+2,0:31.0,Defensive rebound by C. Zeller,,44,52
+2,0:08.0,K. Walker misses 3-pt jump shot from 25 ft,,44,52
+2,0:05.0,,Defensive rebound by L. Dončić,44,52
+2,0:03.0,,Turnover by L. Dončić (lost ball; steal by N. Batum),44,52
+2,0:02.0,K. Walker makes 2-pt layup from 2 ft (assist by N. Batum),,46,52
+2,0:00.0,,L. Dončić misses 3-pt jump shot from 54 ft,46,52
+2,0:00.0,,Offensive rebound by Team,46,52
+3,11:49.0,,H. Barnes makes 2-pt layup from 1 ft (assist by J. Brunson),46,54
+3,11:25.0,J. Lamb makes 2-pt layup from 3 ft,,48,54
+3,11:09.0,,Personal foul by M. Williams (drawn by M. Kleber),48,54
+3,10:56.0,,Turnover by D. Finney-Smith (bad pass; steal by K. Walker),48,54
+3,10:41.0,J. Lamb misses 3-pt jump shot from 26 ft,,48,54
+3,10:38.0,,Defensive rebound by J. Brunson,48,54
+3,10:31.0,,D. Finney-Smith misses 2-pt layup from 2 ft (block by J. Lamb),48,54
+3,10:28.0,Defensive rebound by K. Walker,,48,54
+3,10:18.0,J. Lamb makes 2-pt jump shot from 2 ft,,50,54
+3,10:05.0,,Turnover by L. Dončić (bad pass),50,54
+3,9:46.0,M. Williams makes 3-pt jump shot from 23 ft (assist by N. Batum),,53,54
+3,9:31.0,,L. Dončić misses 3-pt jump shot from 25 ft,53,54
+3,9:28.0,Defensive rebound by B. Biyombo,,53,54
+3,9:13.0,N. Batum makes 2-pt dunk at rim (assist by M. Williams),,55,54
+3,9:13.0,,Dallas full timeout,55,54
+3,8:50.0,,H. Barnes misses 2-pt jump shot from 6 ft,55,54
+3,8:48.0,Defensive rebound by K. Walker,,55,54
+3,8:43.0,K. Walker misses 2-pt layup from 5 ft,,55,54
+3,8:41.0,,Defensive rebound by L. Dončić,55,54
+3,8:35.0,,L. Dončić misses 2-pt jump shot from 5 ft (block by B. Biyombo),55,54
+3,8:32.0,Defensive rebound by K. Walker,,55,54
+3,8:29.0,M. Williams misses 3-pt jump shot from 23 ft,,55,54
+3,8:26.0,,Defensive rebound by D. Finney-Smith,55,54
+3,8:21.0,,M. Kleber makes 2-pt layup from 1 ft (assist by J. Brunson),55,56
+3,7:56.0,J. Lamb makes 2-pt jump shot from 7 ft (assist by N. Batum),,57,56
+3,7:37.0,,M. Kleber makes 2-pt dunk from 1 ft (assist by L. Dončić),57,58
+3,7:24.0,J. Lamb makes 2-pt layup from 1 ft (assist by N. Batum),,59,58
+3,7:14.0,,J. Brunson makes 2-pt jump shot from 3 ft,59,60
+3,7:01.0,K. Walker misses 3-pt jump shot from 23 ft,,59,60
+3,7:01.0,,Defensive rebound by L. Dončić,59,60
+3,7:01.0,M. Kidd-Gilchrist enters the game for M. Williams,,59,60
+3,7:01.0,,T. Burke enters the game for J. Brunson,59,60
+3,6:47.0,,H. Barnes misses 2-pt layup from 2 ft (block by M. Kidd-Gilchrist),59,60
+3,6:44.0,Defensive rebound by N. Batum,,59,60
+3,6:43.0,Shooting foul by M. Kleber (drawn by J. Lamb),,59,60
+3,6:43.0,J. Lamb makes free throw 1 of 2,,60,60
+3,6:43.0,,D. Powell enters the game for M. Kleber,60,60
+3,6:43.0,J. Lamb makes free throw 2 of 2,,61,60
+3,6:27.0,,T. Burke misses 2-pt jump shot from 12 ft,61,60
+3,6:25.0,Defensive rebound by K. Walker,,61,60
+3,6:19.0,N. Batum makes 3-pt jump shot from 23 ft (assist by K. Walker),,64,60
+3,5:51.0,,T. Burke misses 2-pt layup from 6 ft,64,60
+3,5:50.0,Defensive rebound by B. Biyombo,,64,60
+3,5:40.0,Turnover by B. Biyombo (bad pass; steal by D. Finney-Smith),,64,60
+3,5:34.0,,L. Dončić misses 3-pt jump shot from 25 ft,64,60
+3,5:32.0,,Offensive rebound by D. Finney-Smith,64,60
+3,5:30.0,,H. Barnes makes 3-pt jump shot from 25 ft (assist by D. Finney-Smith),64,63
+3,5:06.0,J. Lamb makes 2-pt jump shot from 11 ft,,66,63
+3,4:43.0,,H. Barnes makes 2-pt jump shot from 4 ft,66,65
+3,4:28.0,Turnover by N. Batum (bad pass; steal by L. Dončić),,66,65
+3,4:27.0,,Personal foul by J. Lamb (drawn by L. Dončić),66,65
+3,4:27.0,M. Bridges enters the game for N. Batum,,66,65
+3,4:27.0,C. Zeller enters the game for B. Biyombo,,66,65
+3,4:27.0,,T. Hardaway enters the game for L. Dončić,66,65
+3,4:18.0,,H. Barnes misses 2-pt jump shot from 7 ft (block by M. Bridges),66,65
+3,4:18.0,,Offensive rebound by Team,66,65
+3,4:09.0,,T. Hardaway makes 3-pt jump shot from 26 ft (assist by T. Burke),66,68
+3,3:46.0,M. Bridges makes 2-pt layup from 2 ft,,68,68
+3,3:46.0,Shooting foul by D. Powell (drawn by M. Bridges),,68,68
+3,3:46.0,M. Bridges misses free throw 1 of 1,,68,68
+3,3:44.0,,Defensive rebound by D. Finney-Smith,68,68
+3,3:28.0,,H. Barnes misses 2-pt jump shot from 12 ft,68,68
+3,3:25.0,Defensive rebound by C. Zeller,,68,68
+3,3:15.0,J. Lamb misses 2-pt layup from 5 ft (block by D. Powell),,68,68
+3,3:12.0,,Defensive rebound by D. Finney-Smith,68,68
+3,3:11.0,,Turnover by T. Burke (bad pass; steal by K. Walker),68,68
+3,3:11.0,Charlotte full timeout,,68,68
+3,3:11.0,D. Graham enters the game for J. Lamb,,68,68
+3,3:11.0,M. Monk enters the game for K. Walker,,68,68
+3,3:11.0,,D. Nowitzki enters the game for H. Barnes,68,68
+3,2:53.0,D. Graham misses 3-pt jump shot from 27 ft,,68,68
+3,2:50.0,,Defensive rebound by T. Burke,68,68
+3,2:35.0,,Turnover by T. Hardaway (lost ball; steal by M. Bridges),68,68
+3,2:31.0,M. Monk misses 3-pt jump shot from 26 ft,,68,68
+3,2:27.0,Offensive rebound by M. Kidd-Gilchrist,,68,68
+3,2:22.0,M. Monk misses 2-pt jump shot from 5 ft,,68,68
+3,2:21.0,Offensive rebound by C. Zeller,,68,68
+3,2:21.0,Shooting foul by D. Nowitzki (drawn by C. Zeller),,68,68
+3,2:21.0,C. Zeller misses free throw 1 of 2,,68,68
+3,2:21.0,Offensive rebound by Team,,68,68
+3,2:21.0,,L. Dončić enters the game for T. Burke,68,68
+3,2:21.0,,D. Harris enters the game for D. Finney-Smith,68,68
+3,2:21.0,C. Zeller makes free throw 2 of 2,,69,68
+3,2:04.0,,D. Harris makes 3-pt jump shot from 23 ft (assist by D. Powell),69,71
+3,1:51.0,D. Graham makes 2-pt jump shot from 18 ft,,71,71
+3,1:30.0,,D. Nowitzki makes 3-pt jump shot from 25 ft (assist by T. Hardaway),71,74
+3,1:12.0,Turnover by D. Graham (lost ball; steal by D. Powell),,71,74
+3,1:08.0,,Turnover by D. Harris (bad pass; steal by C. Zeller),71,74
+3,0:57.0,Turnover by C. Zeller (3 sec),,71,74
+3,0:35.0,,D. Nowitzki misses 3-pt jump shot from 23 ft,71,74
+3,0:33.0,Defensive rebound by D. Graham,,71,74
+3,0:09.0,M. Kidd-Gilchrist misses 2-pt layup from 4 ft,,71,74
+3,0:08.0,,Defensive rebound by D. Harris,71,74
+3,0:04.0,,D. Harris misses 3-pt jump shot from 27 ft,71,74
+3,0:01.0,Defensive rebound by C. Zeller,,71,74
+4,11:41.0,M. Bridges misses 2-pt dunk from 3 ft (block by T. Hardaway),,71,74
+4,11:37.0,,Defensive rebound by D. Powell,71,74
+4,11:25.0,,Shooting foul by D. Graham (drawn by D. Harris),71,74
+4,11:25.0,,D. Harris makes free throw 1 of 2,71,75
+4,11:25.0,,D. Harris makes free throw 2 of 2,71,76
+4,11:03.0,Turnover by D. Graham (bad pass; steal by D. Powell),,71,76
+4,10:59.0,,Turnover by D. Harris (lost ball; steal by D. Graham),71,76
+4,10:53.0,M. Monk misses 3-pt jump shot from 25 ft,,71,76
+4,10:49.0,Offensive rebound by C. Zeller,,71,76
+4,10:44.0,M. Monk misses 2-pt layup from 7 ft,,71,76
+4,10:43.0,,Defensive rebound by D. Powell,71,76
+4,10:26.0,,T. Hardaway misses 3-pt jump shot from 24 ft,71,76
+4,10:23.0,Defensive rebound by C. Zeller,,71,76
+4,10:10.0,D. Graham misses 3-pt jump shot from 25 ft,,71,76
+4,10:07.0,,Defensive rebound by D. Powell,71,76
+4,9:43.0,,T. Hardaway misses 2-pt jump shot from 13 ft,71,76
+4,9:39.0,,Offensive rebound by T. Hardaway,71,76
+4,9:39.0,,T. Hardaway misses 2-pt layup at rim,71,76
+4,9:38.0,Defensive rebound by C. Zeller,,71,76
+4,9:33.0,C. Zeller makes 2-pt jump shot from 4 ft (assist by D. Graham),,73,76
+4,9:20.0,,Personal foul by C. Zeller (drawn by L. Dončić),73,76
+4,9:20.0,B. Biyombo enters the game for D. Graham,,73,76
+4,9:20.0,K. Walker enters the game for C. Zeller,,73,76
+4,9:11.0,,D. Nowitzki makes 3-pt jump shot from 25 ft (assist by L. Dončić),73,79
+4,8:54.0,K. Walker makes 2-pt layup at rim,,75,79
+4,8:45.0,,D. Powell makes 2-pt layup from 1 ft (assist by L. Dončić),75,81
+4,8:34.0,Shooting foul by D. Harris (drawn by K. Walker),,75,81
+4,8:34.0,K. Walker makes free throw 1 of 3,,76,81
+4,8:34.0,K. Walker makes free throw 2 of 3,,77,81
+4,8:34.0,K. Walker makes free throw 3 of 3,,78,81
+4,8:21.0,,L. Dončić misses 2-pt layup from 2 ft,78,81
+4,8:18.0,Defensive rebound by K. Walker,,78,81
+4,8:14.0,K. Walker misses 3-pt jump shot from 24 ft,,78,81
+4,8:13.0,Offensive rebound by Team,,78,81
+4,8:13.0,,J. Brunson enters the game for L. Dončić,78,81
+4,8:07.0,K. Walker makes 3-pt jump shot from 24 ft (assist by N. Batum),,81,81
+4,8:05.0,,Dallas full timeout,81,81
+4,7:57.0,,T. Hardaway makes 2-pt dunk at rim (assist by D. Harris),81,83
+4,7:37.0,Shooting foul by D. Nowitzki (drawn by B. Biyombo),,81,83
+4,7:37.0,B. Biyombo makes free throw 1 of 2,,82,83
+4,7:37.0,,D. Finney-Smith enters the game for D. Harris,82,83
+4,7:37.0,,M. Kleber enters the game for D. Nowitzki,82,83
+4,7:37.0,B. Biyombo misses free throw 2 of 2,,82,83
+4,7:34.0,,Defensive rebound by D. Powell,82,83
+4,7:16.0,,M. Kleber makes 3-pt jump shot from 23 ft (assist by J. Brunson),82,86
+4,6:56.0,M. Bridges makes 2-pt hook shot from 4 ft,,84,86
+4,6:37.0,,D. Powell misses 2-pt layup from 2 ft,84,86
+4,6:34.0,,D. Finney-Smith makes 2-pt dunk at rim,84,88
+4,6:34.0,,Offensive rebound by D. Finney-Smith,84,88
+4,6:16.0,M. Monk misses 3-pt jump shot from 26 ft,,84,88
+4,6:16.0,,Defensive rebound by Team,84,88
+4,6:16.0,Loose ball foul by B. Biyombo (drawn by D. Powell),,84,88
+4,6:16.0,J. Lamb enters the game for B. Biyombo,,84,88
+4,6:16.0,M. Williams enters the game for M. Bridges,,84,88
+4,6:16.0,C. Zeller enters the game for M. Monk,,84,88
+4,6:07.0,,J. Brunson misses 2-pt jump shot from 15 ft,84,88
+4,6:04.0,,Offensive rebound by D. Finney-Smith,84,88
+4,6:01.0,,T. Hardaway misses 3-pt jump shot from 25 ft,84,88
+4,5:58.0,Defensive rebound by C. Zeller,,84,88
+4,5:52.0,K. Walker misses 2-pt layup from 4 ft (block by D. Powell),,84,88
+4,5:52.0,Offensive rebound by Team,,84,88
+4,5:38.0,N. Batum misses 3-pt jump shot from 25 ft,,84,88
+4,5:34.0,,Defensive rebound by M. Kleber,84,88
+4,5:21.0,,T. Hardaway misses 3-pt jump shot from 24 ft,84,88
+4,5:17.0,Defensive rebound by C. Zeller,,84,88
+4,5:12.0,K. Walker misses 3-pt jump shot from 25 ft,,84,88
+4,5:09.0,,Defensive rebound by D. Powell,84,88
+4,4:56.0,,D. Finney-Smith misses 2-pt jump shot from 19 ft,84,88
+4,4:54.0,Defensive rebound by C. Zeller,,84,88
+4,4:38.0,J. Lamb misses 2-pt layup from 5 ft,,84,88
+4,4:34.0,,Defensive rebound by T. Hardaway,84,88
+4,4:21.0,,J. Brunson misses 3-pt jump shot from 25 ft,84,88
+4,4:20.0,Defensive rebound by N. Batum,,84,88
+4,4:20.0,Charlotte full timeout,,84,88
+4,4:20.0,,L. Dončić enters the game for T. Hardaway,84,88
+4,4:02.0,J. Lamb makes 2-pt jump shot from 19 ft,,86,88
+4,3:43.0,,J. Brunson misses 2-pt jump shot from 7 ft,86,88
+4,3:41.0,Defensive rebound by J. Lamb,,86,88
+4,3:34.0,J. Lamb misses 2-pt jump shot from 7 ft,,86,88
+4,3:32.0,,Defensive rebound by D. Powell,86,88
+4,3:28.0,,L. Dončić makes 2-pt layup at rim,86,90
+4,3:28.0,,Shooting foul by C. Zeller (drawn by L. Dončić),86,90
+4,3:28.0,,L. Dončić makes free throw 1 of 1,86,91
+4,3:16.0,M. Williams misses 3-pt jump shot from 26 ft,,86,91
+4,3:13.0,,Defensive rebound by J. Brunson,86,91
+4,2:57.0,,M. Kleber misses 2-pt jump shot from 12 ft,86,91
+4,2:53.0,Defensive rebound by M. Williams,,86,91
+4,2:48.0,N. Batum makes 2-pt layup from 1 ft (assist by K. Walker),,88,91
+4,2:30.0,,L. Dončić makes 3-pt jump shot from 25 ft,88,94
+4,2:16.0,N. Batum makes 3-pt jump shot from 23 ft (assist by K. Walker),,91,94
+4,1:54.0,,D. Finney-Smith makes 3-pt jump shot from 25 ft (assist by L. Dončić),91,97
+4,1:39.0,N. Batum misses 3-pt jump shot from 25 ft,,91,97
+4,1:36.0,,Defensive rebound by D. Powell,91,97
+4,1:25.0,,L. Dončić misses 3-pt jump shot from 25 ft,91,97
+4,1:22.0,Defensive rebound by M. Williams,,91,97
+4,1:14.0,J. Lamb misses 2-pt layup from 3 ft,,91,97
+4,1:12.0,,Defensive rebound by J. Brunson,91,97
+4,1:10.0,,Shooting foul by K. Walker (drawn by J. Brunson),91,97
+4,1:10.0,,J. Brunson misses free throw 1 of 2,91,97
+4,1:10.0,,Offensive rebound by Team,91,97
+4,1:10.0,B. Biyombo enters the game for C. Zeller,,91,97
+4,1:10.0,,J. Brunson misses free throw 2 of 2,91,97
+4,1:08.0,,Offensive rebound by M. Kleber,91,97
+4,0:56.0,,L. Dončić misses 2-pt layup from 6 ft,91,97
+4,0:53.0,Defensive rebound by J. Lamb,,91,97
+4,0:49.0,Turnover by K. Walker (bad pass),,91,97
+4,0:30.0,,D. Powell misses 2-pt jump shot from 23 ft (block by B. Biyombo),91,97
+4,0:29.0,,Offensive rebound by D. Powell,91,97
+4,0:25.0,,D. Powell misses 2-pt jump shot from 19 ft,91,97
+4,0:25.0,Defensive rebound by J. Lamb,,91,97
+4,0:25.0,Charlotte full timeout,,91,97
+4,0:25.0,M. Monk enters the game for N. Batum,,91,97
+4,0:25.0,C. Zeller enters the game for B. Biyombo,,91,97
+4,0:22.0,Personal take foul by L. Dončić (drawn by C. Zeller),,91,97
+4,0:22.0,N. Batum enters the game for C. Zeller,,91,97
+4,0:13.0,N. Batum makes 2-pt layup from 4 ft (assist by K. Walker),,93,97
+4,0:09.0,,Personal foul by J. Lamb (drawn by D. Powell),93,97
+4,0:09.0,,D. Powell makes free throw 1 of 2,93,98
+4,0:09.0,,D. Powell makes free throw 2 of 2,93,99
+4,0:09.0,Charlotte full timeout,,93,99
+4,0:09.0,C. Zeller enters the game for J. Lamb,,93,99
+4,0:07.0,M. Monk misses 3-pt jump shot from 28 ft,,93,99
+4,0:04.0,Offensive rebound by K. Walker,,93,99
+4,0:03.0,N. Batum misses 3-pt jump shot from 26 ft,,93,99
+4,0:03.0,Offensive rebound by Team,,93,99
+4,0:00.0,Turnover by N. Batum (turnover; steal by J. Brunson),,93,99

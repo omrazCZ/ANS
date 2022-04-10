@@ -1,0 +1,429 @@
+QUARTER,TIME_REMAINING,INDIANA_ACTION,WASHINGTON_ACTION,INDIANA_SCORE,WASHINGTON_SCORE
+1,11:42.0,,T. Bryant misses 2-pt jump shot from 12 ft,0,0
+1,11:40.0,Defensive rebound by D. Collison,,0,0
+1,11:21.0,M. Turner makes 2-pt jump shot from 13 ft,,2,0
+1,11:08.0,,T. Bryant makes 2-pt dunk from 1 ft (assist by T. Ariza),2,2
+1,10:52.0,M. Turner makes 2-pt jump shot from 19 ft (assist by E. Sumner),,4,2
+1,10:32.0,,T. Satoranský makes 2-pt jump shot from 17 ft (assist by B. Beal),4,4
+1,10:04.0,Turnover by T. Young (lost ball; steal by B. Beal),,4,4
+1,9:59.0,,B. Beal misses 2-pt layup from 2 ft,4,4
+1,9:57.0,Defensive rebound by T. Young,,4,4
+1,9:53.0,D. Collison makes 3-pt jump shot from 23 ft (assist by T. Young),,7,4
+1,9:26.0,,Turnover by T. Ariza (bad pass; steal by M. Turner),7,4
+1,9:15.0,B. Bogdanović makes 2-pt layup from 2 ft (assist by T. Young),,9,4
+1,9:01.0,,O. Porter makes 3-pt jump shot from 24 ft (assist by T. Satoranský),9,7
+1,8:45.0,E. Sumner makes 2-pt layup from 5 ft (assist by T. Young),,11,7
+1,8:34.0,,T. Bryant makes 2-pt dunk from 2 ft (assist by O. Porter),11,9
+1,8:16.0,Shooting foul by O. Porter (drawn by M. Turner),,11,9
+1,8:16.0,M. Turner misses free throw 1 of 2,,11,9
+1,8:16.0,Offensive rebound by Team,,11,9
+1,8:16.0,M. Turner makes free throw 2 of 2,,12,9
+1,8:08.0,,Shooting foul by E. Sumner (drawn by T. Ariza),12,9
+1,8:08.0,,T. Ariza makes free throw 1 of 2,12,10
+1,8:08.0,,T. Ariza makes free throw 2 of 2,12,11
+1,7:59.0,Personal foul by T. Ariza (drawn by M. Turner),,12,11
+1,7:52.0,Personal foul by T. Satoranský (drawn by M. Turner),,12,11
+1,7:43.0,B. Bogdanović misses 2-pt jump shot from 11 ft,,12,11
+1,7:39.0,Offensive rebound by T. Young,,12,11
+1,7:32.0,B. Bogdanović makes 2-pt jump shot from 12 ft,,14,11
+1,7:20.0,,B. Beal makes 2-pt jump shot from 21 ft,14,13
+1,7:02.0,T. Young makes 2-pt layup from 2 ft (assist by E. Sumner),,16,13
+1,6:48.0,,B. Beal misses 3-pt jump shot from 26 ft,16,13
+1,6:45.0,,Offensive rebound by Team,16,13
+1,6:45.0,,Washington full timeout,16,13
+1,6:39.0,,Shooting foul by E. Sumner (drawn by T. Satoranský),16,13
+1,6:39.0,,T. Satoranský misses free throw 1 of 2,16,13
+1,6:39.0,,Offensive rebound by Team,16,13
+1,6:39.0,,T. Satoranský makes free throw 2 of 2,16,14
+1,6:28.0,E. Sumner makes 2-pt layup from 3 ft (assist by M. Turner),,18,14
+1,6:10.0,,T. Bryant misses 2-pt layup from 4 ft,18,14
+1,6:07.0,Defensive rebound by E. Sumner,,18,14
+1,5:55.0,T. Young misses 2-pt layup from 3 ft,,18,14
+1,5:53.0,,Defensive rebound by B. Beal,18,14
+1,5:48.0,,Turnover by T. Ariza (bad pass; steal by E. Sumner),18,14
+1,5:43.0,E. Sumner misses 3-pt jump shot from 28 ft,,18,14
+1,5:41.0,Offensive rebound by M. Turner,,18,14
+1,5:40.0,M. Turner misses 2-pt layup from 3 ft,,18,14
+1,5:40.0,Offensive rebound by Team,,18,14
+1,5:40.0,Personal foul by O. Porter (drawn by M. Turner),,18,14
+1,5:40.0,,J. Green enters the game for O. Porter,18,14
+1,5:39.0,Offensive foul by D. Collison (drawn by T. Ariza),,18,14
+1,5:39.0,Turnover by D. Collison (offensive foul),,18,14
+1,5:27.0,,T. Ariza makes 3-pt jump shot from 24 ft (assist by B. Beal),18,17
+1,5:07.0,M. Turner misses 3-pt jump shot from 27 ft,,18,17
+1,5:07.0,,Defensive rebound by J. Green,18,17
+1,4:59.0,,Shooting foul by E. Sumner (drawn by B. Beal),18,17
+1,4:59.0,,B. Beal makes free throw 1 of 3,18,18
+1,4:59.0,,B. Beal makes free throw 2 of 3,18,19
+1,4:59.0,C. Joseph enters the game for E. Sumner,,18,19
+1,4:59.0,D. Sabonis enters the game for T. Young,,18,19
+1,4:59.0,,B. Beal makes free throw 3 of 3,18,20
+1,4:47.0,B. Bogdanović misses 2-pt jump shot from 17 ft,,18,20
+1,4:44.0,,Defensive rebound by T. Ariza,18,20
+1,4:35.0,,J. Green makes 2-pt jump shot from 9 ft,18,22
+1,4:15.0,D. Collison misses 3-pt jump shot from 24 ft,,18,22
+1,4:15.0,,Defensive rebound by T. Bryant,18,22
+1,3:57.0,,T. Ariza makes 2-pt dunk from 2 ft,18,24
+1,3:53.0,Indiana full timeout,,18,24
+1,3:53.0,,C. Randle enters the game for T. Satoranský,18,24
+1,3:38.0,Turnover by B. Bogdanović (off goaltending),,18,24
+1,3:25.0,,T. Ariza misses 3-pt jump shot from 26 ft,18,24
+1,3:22.0,Defensive rebound by D. Sabonis,,18,24
+1,3:13.0,M. Turner makes 2-pt dunk from 2 ft (assist by D. Sabonis),,20,24
+1,2:49.0,,J. Green makes 3-pt jump shot from 29 ft (assist by B. Beal),20,27
+1,2:29.0,Turnover by M. Turner (bad pass; steal by T. Ariza),,20,27
+1,2:25.0,,Shooting foul by D. Sabonis (drawn by J. Green),20,27
+1,2:25.0,,J. Green makes free throw 1 of 2,20,28
+1,2:25.0,A. Holiday enters the game for B. Bogdanović,,20,28
+1,2:25.0,D. McDermott enters the game for D. Collison,,20,28
+1,2:25.0,,S. Dekker enters the game for T. Ariza,20,28
+1,2:25.0,,I. Mahinmi enters the game for T. Bryant,20,28
+1,2:25.0,,J. Green makes free throw 2 of 2,20,29
+1,2:10.0,Personal foul by C. Randle (drawn by C. Joseph),,20,29
+1,2:10.0,C. Joseph makes free throw 1 of 2,,21,29
+1,2:10.0,T. Leaf enters the game for M. Turner,,21,29
+1,2:10.0,C. Joseph misses free throw 2 of 2,,21,29
+1,2:06.0,,Defensive rebound by J. Green,21,29
+1,1:47.0,,B. Beal makes 2-pt jump shot from 9 ft,21,31
+1,1:31.0,T. Leaf makes 2-pt layup from 3 ft,,23,31
+1,1:23.0,,S. Dekker misses 2-pt layup from 3 ft (block by T. Leaf),23,31
+1,1:23.0,,Offensive rebound by Team,23,31
+1,1:21.0,,B. Beal misses 3-pt jump shot from 25 ft,23,31
+1,1:17.0,Defensive rebound by D. Sabonis,,23,31
+1,1:13.0,D. McDermott misses 3-pt jump shot from 25 ft,,23,31
+1,1:12.0,,Defensive rebound by S. Dekker,23,31
+1,1:04.0,,Shooting foul by A. Holiday (drawn by B. Beal),23,31
+1,1:04.0,,B. Beal makes free throw 1 of 2,23,32
+1,1:04.0,,B. Beal makes free throw 2 of 2,23,33
+1,1:03.0,Turnover by D. Sabonis (bad pass),,23,33
+1,0:57.0,,S. Dekker makes 2-pt jump shot from 20 ft (assist by B. Beal),23,35
+1,0:39.0,A. Holiday misses 3-pt jump shot from 25 ft,,23,35
+1,0:35.0,,Defensive rebound by S. Dekker,23,35
+1,0:27.0,,J. Green misses 3-pt jump shot from 29 ft,23,35
+1,0:25.0,Defensive rebound by T. Leaf,,23,35
+1,0:24.0,Personal foul by B. Beal (drawn by T. Leaf),,23,35
+1,0:24.0,T. Leaf makes free throw 1 of 2,,24,35
+1,0:24.0,T. Leaf makes free throw 2 of 2,,25,35
+1,0:24.0,,T. Satoranský enters the game for C. Randle,25,35
+1,0:00.0,,T. Satoranský misses 2-pt layup from 1 ft (block by A. Holiday),25,35
+1,0:00.0,,Offensive rebound by T. Satoranský,25,35
+1,0:00.0,,Turnover by Team (shot clock),25,35
+2,11:46.0,D. McDermott misses 2-pt layup from 3 ft,,25,35
+2,11:44.0,,Defensive rebound by I. Mahinmi,25,35
+2,11:34.0,,S. Dekker makes 2-pt layup from 2 ft (assist by I. Mahinmi),25,37
+2,11:20.0,D. McDermott makes 3-pt jump shot from 24 ft (assist by A. Holiday),,28,37
+2,10:55.0,,J. Green makes 2-pt jump shot from 16 ft,28,39
+2,10:43.0,T. Leaf misses 2-pt hook shot from 9 ft,,28,39
+2,10:43.0,Offensive rebound by Team,,28,39
+2,10:43.0,,Loose ball foul by I. Mahinmi (drawn by D. Sabonis),28,39
+2,10:36.0,T. Leaf makes 2-pt layup from 3 ft (assist by C. Joseph),,30,39
+2,10:30.0,,Personal foul by A. Holiday (drawn by C. Randle),30,39
+2,10:20.0,,J. Green misses 2-pt jump shot from 21 ft,30,39
+2,10:20.0,Defensive rebound by T. Leaf,,30,39
+2,10:06.0,D. McDermott misses 3-pt jump shot from 25 ft,,30,39
+2,10:03.0,Offensive rebound by C. Joseph,,30,39
+2,9:57.0,T. Leaf makes 2-pt dunk from 1 ft (assist by C. Joseph),,32,39
+2,9:57.0,,Washington full timeout,32,39
+2,9:47.0,,Personal foul by T. Leaf (drawn by J. Green),32,39
+2,9:36.0,,C. Randle misses 3-pt jump shot from 26 ft,32,39
+2,9:36.0,,Offensive rebound by S. Dekker,32,39
+2,9:31.0,,S. Dekker makes 2-pt layup from 2 ft,32,41
+2,9:09.0,D. McDermott misses 2-pt jump shot from 19 ft,,32,41
+2,9:05.0,,Defensive rebound by S. Dekker,32,41
+2,8:54.0,,Turnover by J. McRae (lost ball; steal by C. Joseph),32,41
+2,8:48.0,Offensive foul by T. Leaf (drawn by J. Green),,32,41
+2,8:48.0,Turnover by T. Leaf (offensive foul),,32,41
+2,8:48.0,T. Young enters the game for T. Leaf,,32,41
+2,8:31.0,,J. Green misses 2-pt jump shot from 7 ft,32,41
+2,8:29.0,,Offensive rebound by S. Dekker,32,41
+2,8:28.0,,S. Dekker makes 2-pt dunk from 1 ft,32,43
+2,8:03.0,Offensive foul by D. Sabonis (drawn by I. Mahinmi),,32,43
+2,8:03.0,Turnover by D. Sabonis (offensive foul),,32,43
+2,7:55.0,,C. Randle makes 2-pt layup from 1 ft (assist by J. Green),32,45
+2,7:51.0,Indiana full timeout,,32,45
+2,7:51.0,D. Collison enters the game for A. Holiday,,32,45
+2,7:33.0,Turnover by D. Collison (bad pass; steal by C. Randle),,32,45
+2,7:21.0,,J. Green misses 2-pt layup from 7 ft (block by T. Young),32,45
+2,7:17.0,,Offensive rebound by J. Green,32,45
+2,7:15.0,,C. Randle makes 3-pt jump shot from 26 ft (assist by J. Green),32,48
+2,6:59.0,C. Joseph misses 2-pt jump shot from 20 ft,,32,48
+2,6:56.0,Offensive rebound by D. Sabonis,,32,48
+2,6:56.0,D. Sabonis misses 2-pt layup from 6 ft,,32,48
+2,6:54.0,Offensive rebound by D. Sabonis,,32,48
+2,6:51.0,D. McDermott makes 2-pt layup from 2 ft (assist by D. Sabonis),,34,48
+2,6:31.0,,I. Mahinmi makes 2-pt hook shot from 7 ft (assist by S. Dekker),34,50
+2,6:16.0,D. Sabonis misses 2-pt jump shot from 20 ft,,34,50
+2,6:13.0,,Defensive rebound by S. Dekker,34,50
+2,6:04.0,,J. Green makes 3-pt jump shot from 26 ft,34,53
+2,5:48.0,T. Young makes 3-pt jump shot from 26 ft (assist by C. Joseph),,37,53
+2,5:24.0,,J. McRae misses 2-pt jump shot from 19 ft,37,53
+2,5:21.0,Defensive rebound by D. Sabonis,,37,53
+2,5:16.0,D. McDermott makes 3-pt jump shot from 26 ft (assist by D. Collison),,40,53
+2,5:14.0,,Washington full timeout,40,53
+2,5:14.0,B. Bogdanović enters the game for D. McDermott,,40,53
+2,5:14.0,M. Turner enters the game for D. Sabonis,,40,53
+2,5:14.0,,T. Ariza enters the game for S. Dekker,40,53
+2,5:14.0,,B. Beal enters the game for I. Mahinmi,40,53
+2,5:14.0,,O. Porter enters the game for J. McRae,40,53
+2,5:14.0,,T. Satoranský enters the game for C. Randle,40,53
+2,4:55.0,,Offensive foul by B. Beal (drawn by T. Young),40,53
+2,4:55.0,,Turnover by B. Beal (offensive foul),40,53
+2,4:45.0,T. Young makes 2-pt layup from 2 ft (assist by D. Collison),,42,53
+2,4:34.0,,B. Beal misses 2-pt jump shot from 21 ft,42,53
+2,4:31.0,Defensive rebound by B. Bogdanović,,42,53
+2,4:22.0,C. Joseph misses 3-pt jump shot from 24 ft,,42,53
+2,4:17.0,Offensive rebound by T. Young,,42,53
+2,4:11.0,Turnover by T. Young (bad pass; steal by O. Porter),,42,53
+2,4:04.0,,Personal foul by T. Young (drawn by O. Porter),42,53
+2,4:04.0,E. Sumner enters the game for C. Joseph,,42,53
+2,3:52.0,,B. Beal makes 2-pt dunk from 1 ft (assist by J. Green),42,55
+2,3:29.0,Turnover by B. Bogdanović (bad pass; steal by T. Ariza),,42,55
+2,3:13.0,,O. Porter misses 3-pt jump shot from 27 ft,42,55
+2,3:09.0,Defensive rebound by E. Sumner,,42,55
+2,2:56.0,Offensive foul by T. Young (drawn by B. Beal),,42,55
+2,2:56.0,Turnover by T. Young (offensive foul),,42,55
+2,2:41.0,,J. Green misses 3-pt jump shot from 25 ft,42,55
+2,2:37.0,Defensive rebound by D. Collison,,42,55
+2,2:34.0,Shooting foul by B. Beal (drawn by E. Sumner),,42,55
+2,2:34.0,E. Sumner makes free throw 1 of 2,,43,55
+2,2:34.0,,J. McRae enters the game for B. Beal,43,55
+2,2:34.0,E. Sumner misses free throw 2 of 2,,43,55
+2,2:31.0,,Defensive rebound by J. Green,43,55
+2,2:24.0,,Personal foul by D. Collison (drawn by T. Satoranský),43,55
+2,2:17.0,,O. Porter misses 3-pt jump shot from 25 ft,43,55
+2,2:14.0,Defensive rebound by E. Sumner,,43,55
+2,2:05.0,E. Sumner misses 3-pt jump shot from 26 ft,,43,55
+2,2:03.0,,Defensive rebound by O. Porter,43,55
+2,1:54.0,,J. Green makes 2-pt dunk from 2 ft (assist by O. Porter),43,57
+2,1:34.0,D. Collison misses 2-pt layup from 2 ft,,43,57
+2,1:34.0,Offensive rebound by E. Sumner,,43,57
+2,1:34.0,Shooting foul by T. Ariza (drawn by E. Sumner),,43,57
+2,1:34.0,E. Sumner makes free throw 1 of 2,,44,57
+2,1:34.0,E. Sumner makes free throw 2 of 2,,45,57
+2,1:20.0,,T. Ariza misses 2-pt layup from 2 ft,45,57
+2,1:18.0,Defensive rebound by M. Turner,,45,57
+2,1:13.0,T. Young misses 2-pt layup from 5 ft,,45,57
+2,1:12.0,,Defensive rebound by O. Porter,45,57
+2,1:07.0,,Personal foul by E. Sumner (drawn by T. Ariza),45,57
+2,1:07.0,,T. Ariza misses free throw 1 of 2,45,57
+2,1:07.0,,Offensive rebound by Team,45,57
+2,1:07.0,C. Joseph enters the game for E. Sumner,,45,57
+2,1:07.0,,T. Ariza misses free throw 2 of 2,45,57
+2,1:04.0,Defensive rebound by M. Turner,,45,57
+2,0:45.0,Turnover by T. Young (traveling),,45,57
+2,0:26.0,,J. Green makes 2-pt dunk from 1 ft (assist by T. Satoranský),45,59
+2,0:05.0,D. Collison misses 2-pt layup from 7 ft (block by J. Green),,45,59
+2,0:05.0,Offensive rebound by Team,,45,59
+2,0:02.0,D. Collison misses 2-pt jump shot from 16 ft,,45,59
+2,0:02.0,,Defensive rebound by J. McRae,45,59
+3,11:46.0,Personal foul by T. Bryant (drawn by M. Turner),,45,59
+3,11:41.0,Turnover by T. Young (bad pass; steal by O. Porter),,45,59
+3,11:24.0,,O. Porter misses 3-pt jump shot from 26 ft,45,59
+3,11:21.0,,Offensive rebound by T. Bryant,45,59
+3,11:16.0,,T. Ariza makes 3-pt jump shot from 26 ft (assist by B. Beal),45,62
+3,11:00.0,Turnover by M. Turner (bad pass; steal by T. Satoranský),,45,62
+3,10:57.0,,T. Ariza makes 2-pt dunk from 2 ft (assist by T. Satoranský),45,64
+3,10:31.0,T. Young misses 2-pt jump shot from 21 ft,,45,64
+3,10:28.0,,Defensive rebound by O. Porter,45,64
+3,10:24.0,,B. Beal makes 3-pt jump shot from 26 ft (assist by T. Bryant),45,67
+3,10:24.0,Indiana full timeout,,45,67
+3,10:03.0,B. Bogdanović makes 3-pt jump shot from 28 ft (assist by T. Young),,48,67
+3,9:43.0,,T. Ariza misses 3-pt jump shot from 28 ft,48,67
+3,9:41.0,Defensive rebound by E. Sumner,,48,67
+3,9:29.0,D. Collison misses 2-pt jump shot from 19 ft,,48,67
+3,9:25.0,,Defensive rebound by B. Beal,48,67
+3,9:09.0,,O. Porter misses 2-pt jump shot from 19 ft,48,67
+3,9:05.0,Defensive rebound by M. Turner,,48,67
+3,9:02.0,E. Sumner misses 2-pt layup from 1 ft,,48,67
+3,9:00.0,,Defensive rebound by B. Beal,48,67
+3,8:54.0,,B. Beal makes 3-pt jump shot from 29 ft (assist by T. Satoranský),48,70
+3,8:40.0,Personal foul by T. Ariza (drawn by T. Young),,48,70
+3,8:35.0,B. Bogdanović misses 3-pt jump shot from 27 ft,,48,70
+3,8:33.0,,Defensive rebound by B. Beal,48,70
+3,8:29.0,,T. Ariza misses 2-pt jump shot from 10 ft,48,70
+3,8:26.0,,Offensive rebound by O. Porter,48,70
+3,8:25.0,,T. Ariza misses 3-pt jump shot from 25 ft,48,70
+3,8:20.0,Defensive rebound by M. Turner,,48,70
+3,8:01.0,T. Young makes 2-pt layup from 2 ft (assist by B. Bogdanović),,50,70
+3,7:57.0,,Washington full timeout,50,70
+3,7:57.0,,J. Green enters the game for O. Porter,50,70
+3,7:46.0,,B. Beal misses 3-pt jump shot from 26 ft,50,70
+3,7:43.0,Defensive rebound by T. Young,,50,70
+3,7:32.0,M. Turner misses 2-pt jump shot from 18 ft,,50,70
+3,7:30.0,Offensive rebound by Team,,50,70
+3,7:24.0,B. Bogdanović misses 2-pt layup from 13 ft (block by T. Bryant),,50,70
+3,7:20.0,,Defensive rebound by B. Beal,50,70
+3,7:05.0,,T. Bryant makes 2-pt dunk from 2 ft (assist by J. Green),50,72
+3,6:48.0,M. Turner misses 2-pt jump shot from 15 ft,,50,72
+3,6:46.0,,Defensive rebound by T. Satoranský,50,72
+3,6:22.0,,J. Green misses 3-pt jump shot from 29 ft,50,72
+3,6:18.0,Defensive rebound by T. Young,,50,72
+3,6:14.0,D. Collison misses 3-pt jump shot from 25 ft,,50,72
+3,6:14.0,Offensive rebound by Team,,50,72
+3,6:14.0,,Loose ball foul by T. Bryant (drawn by M. Turner),50,72
+3,6:00.0,Turnover by Team (shot clock),,50,72
+3,5:47.0,,J. Green makes 3-pt jump shot from 23 ft (assist by T. Satoranský),50,75
+3,5:31.0,T. Young makes 2-pt dunk from 1 ft (assist by M. Turner),,52,75
+3,5:12.0,,Turnover by J. Green (bad pass; steal by D. Collison),52,75
+3,5:08.0,B. Bogdanović makes 3-pt jump shot from 26 ft (assist by T. Young),,55,75
+3,4:52.0,,Turnover by J. Green (bad pass),55,75
+3,4:52.0,,Loose ball foul by B. Beal (drawn by D. Collison),55,75
+3,4:52.0,C. Joseph enters the game for D. Collison,,55,75
+3,4:52.0,D. McDermott enters the game for E. Sumner,,55,75
+3,4:52.0,,J. McRae enters the game for B. Beal,55,75
+3,4:45.0,B. Bogdanović misses 2-pt jump shot from 9 ft,,55,75
+3,4:41.0,Offensive rebound by M. Turner,,55,75
+3,4:37.0,B. Bogdanović makes 2-pt layup from 1 ft (assist by C. Joseph),,57,75
+3,4:17.0,,J. Green makes 2-pt jump shot from 16 ft,57,77
+3,3:58.0,M. Turner misses 3-pt jump shot from 25 ft,,57,77
+3,3:55.0,,Defensive rebound by T. Ariza,57,77
+3,3:49.0,,Offensive foul by T. Ariza (drawn by T. Young),57,77
+3,3:49.0,,Turnover by T. Ariza (offensive foul),57,77
+3,3:49.0,D. Sabonis enters the game for T. Young,,57,77
+3,3:49.0,,S. Dekker enters the game for T. Ariza,57,77
+3,3:41.0,Personal foul by J. McRae (drawn by D. McDermott),,57,77
+3,3:41.0,D. McDermott makes free throw 1 of 2,,58,77
+3,3:41.0,D. McDermott misses free throw 2 of 2,,58,77
+3,3:40.0,,Defensive rebound by Team,58,77
+3,3:21.0,,J. Green misses 3-pt jump shot from 30 ft,58,77
+3,3:18.0,Defensive rebound by B. Bogdanović,,58,77
+3,3:05.0,B. Bogdanović misses 2-pt layup from 2 ft (block by J. Green),,58,77
+3,3:02.0,,Defensive rebound by T. Bryant,58,77
+3,2:58.0,,J. McRae makes 2-pt dunk from 2 ft (assist by T. Satoranský),58,79
+3,2:46.0,M. Turner makes 2-pt layup from 2 ft (assist by D. Sabonis),,60,79
+3,2:46.0,A. Holiday enters the game for B. Bogdanović,,60,79
+3,2:46.0,,I. Mahinmi enters the game for T. Bryant,60,79
+3,2:46.0,,C. Randle enters the game for T. Satoranský,60,79
+3,2:17.0,,S. Dekker misses 3-pt jump shot from 26 ft,60,79
+3,2:14.0,Defensive rebound by C. Joseph,,60,79
+3,1:54.0,A. Holiday makes 3-pt jump shot from 27 ft (assist by C. Joseph),,63,79
+3,1:46.0,,Offensive foul by C. Randle (drawn by A. Holiday),63,79
+3,1:46.0,,Turnover by C. Randle (offensive foul),63,79
+3,1:41.0,Personal foul by C. Randle (drawn by A. Holiday),,63,79
+3,1:41.0,A. Holiday makes free throw 1 of 2,,64,79
+3,1:41.0,A. Holiday makes free throw 2 of 2,,65,79
+3,1:25.0,,J. Green misses 2-pt jump shot from 14 ft,65,79
+3,1:23.0,Defensive rebound by C. Joseph,,65,79
+3,1:19.0,A. Holiday misses 3-pt jump shot from 26 ft,,65,79
+3,1:17.0,,Defensive rebound by Team,65,79
+3,1:03.0,,Offensive foul by I. Mahinmi (drawn by M. Turner),65,79
+3,1:03.0,,Turnover by I. Mahinmi (offensive foul),65,79
+3,0:50.0,D. Sabonis makes 2-pt layup from 1 ft,,67,79
+3,0:39.0,,Turnover by C. Randle (bad pass; steal by D. Sabonis),67,79
+3,0:31.0,D. Sabonis makes 2-pt layup from 1 ft (assist by M. Turner),,69,79
+3,0:26.0,,Personal foul by A. Holiday (drawn by C. Randle),69,79
+3,0:10.0,,J. McRae makes 3-pt jump shot from 23 ft (assist by C. Randle),69,82
+3,0:00.0,D. McDermott misses 3-pt jump shot from 28 ft,,69,82
+3,0:00.0,Offensive rebound by Team,,69,82
+4,11:44.0,,Shooting foul by D. Sabonis (drawn by C. Randle),69,82
+4,11:44.0,,C. Randle misses free throw 1 of 2,69,82
+4,11:44.0,,Offensive rebound by Team,69,82
+4,11:44.0,,C. Randle makes free throw 2 of 2,69,83
+4,11:34.0,C. Joseph misses 3-pt jump shot from 25 ft,,69,83
+4,11:28.0,,Defensive rebound by C. Randle,69,83
+4,11:26.0,,B. Beal makes 2-pt dunk from 2 ft (assist by C. Randle),69,85
+4,11:15.0,Personal foul by I. Mahinmi (drawn by C. Joseph),,69,85
+4,11:13.0,Personal foul by C. Randle (drawn by D. Sabonis),,69,85
+4,11:05.0,C. Joseph misses 2-pt layup from 4 ft (block by S. Dekker),,69,85
+4,11:05.0,,Defensive rebound by Team,69,85
+4,10:49.0,,B. Beal makes 2-pt jump shot from 19 ft,69,87
+4,10:21.0,A. Holiday misses 3-pt jump shot from 32 ft,,69,87
+4,10:21.0,Offensive rebound by Team,,69,87
+4,10:21.0,Turnover by Team (shot clock),,69,87
+4,10:09.0,,C. Randle makes 3-pt jump shot from 31 ft (assist by B. Beal),69,90
+4,10:07.0,Indiana full timeout,,69,90
+4,9:48.0,D. Sabonis misses 2-pt hook shot from 4 ft,,69,90
+4,9:46.0,Offensive rebound by D. Sabonis,,69,90
+4,9:43.0,D. McDermott makes 3-pt jump shot from 28 ft (assist by A. Holiday),,72,90
+4,9:20.0,,J. McRae makes 2-pt jump shot from 17 ft,72,92
+4,9:08.0,Personal foul by I. Mahinmi (drawn by D. Sabonis),,72,92
+4,9:00.0,C. Joseph misses 2-pt jump shot from 7 ft,,72,92
+4,8:59.0,,Defensive rebound by I. Mahinmi,72,92
+4,8:40.0,,I. Mahinmi misses 2-pt jump shot from 9 ft,72,92
+4,8:40.0,,Offensive rebound by S. Dekker,72,92
+4,8:40.0,Loose ball foul by D. Sabonis (drawn by S. Dekker),,72,92
+4,8:33.0,,J. McRae misses 2-pt jump shot from 13 ft,72,92
+4,8:32.0,Defensive rebound by Team,,72,92
+4,8:24.0,D. McDermott misses 3-pt jump shot from 26 ft,,72,92
+4,8:21.0,,Defensive rebound by I. Mahinmi,72,92
+4,8:01.0,,Personal foul by C. Joseph (drawn by B. Beal),72,92
+4,7:48.0,,J. McRae makes 2-pt layup from 3 ft,72,94
+4,7:38.0,D. Sabonis makes 2-pt dunk from 1 ft (assist by C. Joseph),,74,94
+4,7:22.0,,Shooting foul by D. Sabonis (drawn by C. Randle),74,94
+4,7:22.0,,C. Randle misses free throw 1 of 2,74,94
+4,7:22.0,,Offensive rebound by Team,74,94
+4,7:22.0,B. Bogdanović enters the game for T. Leaf,,74,94
+4,7:22.0,T. Young enters the game for D. McDermott,,74,94
+4,7:22.0,,C. Randle misses free throw 2 of 2,74,94
+4,7:19.0,Defensive rebound by T. Young,,74,94
+4,6:57.0,C. Joseph misses 2-pt jump shot from 16 ft,,74,94
+4,6:54.0,,Defensive rebound by I. Mahinmi,74,94
+4,6:38.0,,B. Beal misses 3-pt jump shot from 27 ft,74,94
+4,6:35.0,Defensive rebound by D. Sabonis,,74,94
+4,6:31.0,Shooting foul by I. Mahinmi (drawn by T. Young),,74,94
+4,6:31.0,T. Young makes free throw 1 of 2,,75,94
+4,6:31.0,,J. Green enters the game for I. Mahinmi,75,94
+4,6:31.0,T. Young makes free throw 2 of 2,,76,94
+4,6:12.0,,B. Beal makes 2-pt layup from 1 ft,76,96
+4,6:00.0,,Violation by Team (kicked ball),76,96
+4,5:49.0,B. Bogdanović misses 2-pt layup from 2 ft,,76,96
+4,5:48.0,,Defensive rebound by Team,76,96
+4,5:37.0,,Turnover by B. Beal (bad pass),76,96
+4,5:28.0,D. Sabonis makes 2-pt dunk from 1 ft (assist by B. Bogdanović),,78,96
+4,5:13.0,,C. Randle makes 2-pt layup from 2 ft (assist by J. Green),78,98
+4,5:00.0,A. Holiday misses 3-pt jump shot from 26 ft,,78,98
+4,4:56.0,,Defensive rebound by B. Beal,78,98
+4,4:53.0,,J. McRae misses 2-pt layup from 4 ft,78,98
+4,4:50.0,,Offensive rebound by S. Dekker,78,98
+4,4:49.0,,J. McRae misses 2-pt jump shot from 17 ft,78,98
+4,4:49.0,Defensive rebound by T. Young,,78,98
+4,4:41.0,C. Joseph misses 3-pt jump shot from 26 ft,,78,98
+4,4:39.0,Offensive rebound by D. Sabonis,,78,98
+4,4:39.0,D. Sabonis makes 2-pt layup from 2 ft,,80,98
+4,4:39.0,,Washington full timeout,80,98
+4,4:39.0,T. Leaf enters the game for B. Bogdanović,,80,98
+4,4:39.0,D. McDermott enters the game for C. Joseph,,80,98
+4,4:39.0,K. O'Quinn enters the game for D. Sabonis,,80,98
+4,4:39.0,E. Sumner enters the game for T. Young,,80,98
+4,4:25.0,,Shooting foul by K. O'Quinn (drawn by J. Green),80,98
+4,4:25.0,,J. Green makes free throw 1 of 2,80,99
+4,4:25.0,,J. Green makes free throw 2 of 2,80,100
+4,4:13.0,K. O'Quinn misses 2-pt jump shot from 20 ft,,80,100
+4,4:10.0,,Defensive rebound by J. McRae,80,100
+4,3:48.0,,B. Beal makes 2-pt jump shot from 23 ft (assist by J. Green),80,102
+4,3:35.0,E. Sumner misses 3-pt jump shot from 25 ft,,80,102
+4,3:32.0,,Defensive rebound by S. Dekker,80,102
+4,3:30.0,,Turnover by S. Dekker (bad pass),80,102
+4,3:22.0,A. Holiday misses 3-pt jump shot from 26 ft,,80,102
+4,3:20.0,,Defensive rebound by J. Green,80,102
+4,2:58.0,,J. McRae makes 3-pt jump shot from 27 ft,80,105
+4,2:53.0,Personal take foul by C. Randle (drawn by A. Holiday),,80,105
+4,2:53.0,A. Holiday makes free throw 1 of 2,,81,105
+4,2:53.0,,T. Brown enters the game for B. Beal,81,105
+4,2:53.0,,G. Payton enters the game for J. Green,81,105
+4,2:53.0,A. Holiday makes free throw 2 of 2,,82,105
+4,2:38.0,,C. Randle makes 2-pt layup from 3 ft (assist by T. Brown),82,107
+4,2:29.0,T. Leaf makes 2-pt layup from 1 ft (assist by A. Holiday),,84,107
+4,2:17.0,,Turnover by T. Brown (bad pass; steal by E. Sumner),84,107
+4,2:17.0,D. Reed enters the game for D. McDermott,,84,107
+4,1:56.0,E. Sumner misses 2-pt layup from 2 ft,,84,107
+4,1:54.0,,Defensive rebound by G. Payton,84,107
+4,1:51.0,,Shooting foul by K. O'Quinn (drawn by S. Dekker),84,107
+4,1:51.0,,S. Dekker misses free throw 1 of 2,84,107
+4,1:51.0,,Offensive rebound by Team,84,107
+4,1:51.0,,S. Dekker misses free throw 2 of 2,84,107
+4,1:48.0,Defensive rebound by T. Leaf,,84,107
+4,1:36.0,T. Leaf makes 2-pt layup from 2 ft,,86,107
+4,1:25.0,,T. Brown misses 2-pt layup from 6 ft,86,107
+4,1:23.0,Defensive rebound by D. Reed,,86,107
+4,1:19.0,Turnover by D. Reed (bad pass; steal by J. McRae),,86,107
+4,1:16.0,,Turnover by G. Payton (off goaltending),86,107
+4,1:06.0,T. Leaf misses 3-pt jump shot from 24 ft,,86,107
+4,1:02.0,,Defensive rebound by J. McRae,86,107
+4,0:53.0,,C. Randle misses 2-pt jump shot from 7 ft,86,107
+4,0:51.0,Defensive rebound by K. O'Quinn,,86,107
+4,0:45.0,A. Holiday misses 3-pt jump shot from 26 ft,,86,107
+4,0:41.0,,Defensive rebound by T. Brown,86,107
+4,0:31.0,,J. McRae misses 2-pt jump shot from 15 ft,86,107
+4,0:28.0,Defensive rebound by K. O'Quinn,,86,107
+4,0:18.0,A. Holiday makes 3-pt jump shot from 23 ft (assist by D. Reed),,89,107

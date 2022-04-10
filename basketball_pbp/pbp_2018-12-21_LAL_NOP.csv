@@ -1,0 +1,482 @@
+QUARTER,TIME_REMAINING,NEW ORLEANS_ACTION,LA LAKERS_ACTION,NEW ORLEANS_SCORE,LA LAKERS_SCORE
+1,11:47.0,T. Frazier misses 3-pt jump shot from 25 ft,,0,0
+1,11:46.0,,Defensive rebound by Team,0,0
+1,11:30.0,,I. Zubac makes 2-pt dunk from 2 ft (assist by L. Ball),0,2
+1,11:20.0,Personal foul by B. Ingram (drawn by J. Randle),,0,2
+1,11:17.0,J. Holiday misses 2-pt layup from 2 ft,,0,2
+1,11:15.0,Offensive rebound by A. Davis,,0,2
+1,11:11.0,Turnover by A. Davis (lost ball; steal by I. Zubac),,0,2
+1,11:09.0,,L. James makes 2-pt layup from 2 ft,0,4
+1,10:56.0,J. Randle misses 2-pt jump shot from 7 ft,,0,4
+1,10:53.0,Offensive rebound by T. Frazier,,0,4
+1,10:53.0,T. Frazier makes 2-pt layup at rim,,2,4
+1,10:50.0,,Turnover by L. James (bad pass; steal by S. Hill),2,4
+1,10:44.0,J. Randle makes 2-pt jump shot from 8 ft,,4,4
+1,10:44.0,Shooting foul by I. Zubac (drawn by J. Randle),,4,4
+1,10:44.0,J. Randle makes free throw 1 of 1,,5,4
+1,10:39.0,Violation by Team (kicked ball),,5,4
+1,10:34.0,,L. James misses 2-pt layup from 1 ft,5,4
+1,10:31.0,Defensive rebound by A. Davis,,5,4
+1,10:28.0,Personal foul by L. Ball (drawn by T. Frazier),,5,4
+1,10:21.0,A. Davis makes 2-pt jump shot from 5 ft,,7,4
+1,10:15.0,,L. Ball makes 2-pt layup from 2 ft (assist by L. James),7,6
+1,9:59.0,A. Davis misses 2-pt jump shot from 22 ft,,7,6
+1,9:57.0,,Defensive rebound by L. James,7,6
+1,9:49.0,,I. Zubac makes 2-pt jump shot from 5 ft (assist by L. James),7,8
+1,9:34.0,A. Davis makes 2-pt layup from 1 ft (assist by J. Holiday),,9,8
+1,9:22.0,,B. Ingram misses 3-pt jump shot from 25 ft,9,8
+1,9:20.0,Defensive rebound by T. Frazier,,9,8
+1,9:13.0,J. Randle misses 2-pt layup from 2 ft,,9,8
+1,9:11.0,,Defensive rebound by K. Kuzma,9,8
+1,9:00.0,,Shooting foul by A. Davis (drawn by B. Ingram),9,8
+1,9:00.0,,B. Ingram makes free throw 1 of 2,9,9
+1,9:00.0,,B. Ingram makes free throw 2 of 2,9,10
+1,8:47.0,S. Hill misses 3-pt jump shot from 24 ft,,9,10
+1,8:44.0,,Defensive rebound by I. Zubac,9,10
+1,8:39.0,,K. Kuzma makes 2-pt dunk from 1 ft (assist by L. James),9,12
+1,8:31.0,Personal foul by K. Kuzma (drawn by A. Davis),,9,12
+1,8:24.0,A. Davis misses 2-pt jump shot from 10 ft,,9,12
+1,8:22.0,,Defensive rebound by L. James,9,12
+1,8:12.0,,I. Zubac makes 2-pt hook shot from 4 ft (assist by L. James),9,14
+1,7:59.0,A. Davis makes 2-pt layup from 2 ft (assist by J. Holiday),,11,14
+1,7:55.0,,Personal foul by J. Holiday (drawn by B. Ingram),11,14
+1,7:49.0,,I. Zubac makes 2-pt dunk from 3 ft (assist by L. James),11,16
+1,7:32.0,J. Randle makes 2-pt jump shot from 10 ft,,13,16
+1,7:19.0,,Personal foul by S. Hill (drawn by L. James),13,16
+1,7:19.0,,LA Lakers full timeout,13,16
+1,7:15.0,,K. Kuzma misses 3-pt jump shot from 27 ft,13,16
+1,7:13.0,Defensive rebound by A. Davis,,13,16
+1,7:00.0,J. Holiday makes 2-pt layup from 2 ft,,15,16
+1,6:47.0,,L. Ball misses 3-pt jump shot from 26 ft,15,16
+1,6:47.0,Defensive rebound by J. Randle,,15,16
+1,6:27.0,Turnover by J. Randle (bad pass; steal by B. Ingram),,15,16
+1,6:25.0,,L. Ball makes 2-pt dunk from 1 ft (assist by L. James),15,18
+1,6:15.0,J. Holiday misses 3-pt jump shot from 26 ft,,15,18
+1,6:10.0,,Defensive rebound by I. Zubac,15,18
+1,6:05.0,,K. Kuzma makes 2-pt layup from 3 ft (assist by L. James),15,20
+1,5:50.0,Shooting foul by K. Kuzma (drawn by A. Davis),,15,20
+1,5:50.0,A. Davis misses free throw 1 of 2,,15,20
+1,5:50.0,Offensive rebound by Team,,15,20
+1,5:50.0,E. Moore enters the game for T. Frazier,,15,20
+1,5:50.0,,J. Hart enters the game for K. Kuzma,15,20
+1,5:50.0,A. Davis makes free throw 2 of 2,,16,20
+1,5:34.0,,L. James misses 2-pt jump shot from 11 ft,16,20
+1,5:31.0,Defensive rebound by A. Davis,,16,20
+1,5:23.0,A. Davis makes 2-pt dunk from 2 ft (assist by J. Randle),,18,20
+1,5:13.0,,Turnover by B. Ingram (bad pass; steal by E. Moore),18,20
+1,5:07.0,E. Moore misses 2-pt layup from 2 ft,,18,20
+1,5:04.0,,Defensive rebound by I. Zubac,18,20
+1,5:03.0,,Turnover by L. James (bad pass; steal by S. Hill),18,20
+1,4:58.0,E. Moore misses 3-pt jump shot from 25 ft,,18,20
+1,4:54.0,,Defensive rebound by B. Ingram,18,20
+1,4:54.0,,Shooting foul by E. Moore (drawn by L. James),18,20
+1,4:54.0,J. Okafor enters the game for A. Davis,,18,20
+1,4:54.0,,L. James misses free throw 1 of 2,18,20
+1,4:54.0,,Offensive rebound by Team,18,20
+1,4:54.0,D. Miller enters the game for S. Hill,,18,20
+1,4:54.0,,T. Chandler enters the game for L. Ball,18,20
+1,4:54.0,,R. Rondo enters the game for I. Zubac,18,20
+1,4:54.0,,L. James makes free throw 2 of 2,18,21
+1,4:43.0,D. Miller makes 2-pt jump shot from 17 ft (assist by J. Okafor),,20,21
+1,4:21.0,,B. Ingram misses 2-pt jump shot from 14 ft,20,21
+1,4:19.0,Defensive rebound by J. Randle,,20,21
+1,4:13.0,D. Miller makes 3-pt jump shot from 28 ft (assist by J. Holiday),,23,21
+1,4:00.0,,R. Rondo makes 2-pt jump shot from 22 ft,23,23
+1,3:44.0,Turnover by J. Randle (bad pass),,23,23
+1,3:34.0,,J. Hart makes 3-pt jump shot from 27 ft (assist by R. Rondo),23,26
+1,3:17.0,J. Okafor makes 2-pt jump shot from 2 ft (assist by D. Miller),,25,26
+1,3:07.0,,R. Rondo makes 2-pt layup from 2 ft,25,28
+1,2:56.0,D. Miller misses 3-pt jump shot from 26 ft,,25,28
+1,2:53.0,,Defensive rebound by Team,25,28
+1,2:53.0,New Orleans full timeout,,25,28
+1,2:53.0,A. Davis enters the game for J. Holiday,,25,28
+1,2:53.0,A. Harrison enters the game for J. Randle,,25,28
+1,2:53.0,,K. Caldwell-Pope enters the game for B. Ingram,25,28
+1,2:45.0,,R. Rondo makes 2-pt layup from 1 ft,25,30
+1,2:45.0,,Shooting foul by A. Harrison (drawn by R. Rondo),25,30
+1,2:45.0,,R. Rondo makes free throw 1 of 1,25,31
+1,2:22.0,E. Moore makes 3-pt jump shot from 23 ft (assist by A. Davis),,28,31
+1,2:04.0,,Turnover by T. Chandler (lost ball; steal by J. Okafor),28,31
+1,1:47.0,A. Davis makes 2-pt jump shot from 16 ft (assist by D. Miller),,30,31
+1,1:29.0,,R. Rondo misses 3-pt jump shot from 26 ft,30,31
+1,1:26.0,Defensive rebound by A. Davis,,30,31
+1,1:06.0,J. Okafor makes 2-pt hook shot from 3 ft (assist by D. Miller),,32,31
+1,0:54.0,,L. James misses 2-pt layup from 1 ft,32,31
+1,0:51.0,Defensive rebound by A. Davis,,32,31
+1,0:36.0,E. Moore makes 2-pt layup from 2 ft (assist by A. Davis),,34,31
+1,0:13.0,,J. Hart makes 3-pt jump shot from 25 ft (assist by R. Rondo),34,34
+1,0:00.0,E. Moore misses 2-pt jump shot from 22 ft,,34,34
+1,0:00.0,Offensive rebound by Team,,34,34
+2,11:39.0,,T. Chandler makes 2-pt dunk from 2 ft (assist by R. Rondo),34,36
+2,11:21.0,D. Miller misses 2-pt jump shot from 10 ft,,34,36
+2,11:16.0,Offensive rebound by J. Okafor,,34,36
+2,11:16.0,J. Okafor misses 2-pt layup at rim,,34,36
+2,11:15.0,,Defensive rebound by T. Chandler,34,36
+2,10:57.0,,K. Kuzma makes 2-pt jump shot from 13 ft (assist by R. Rondo),34,38
+2,10:36.0,A. Davis makes 2-pt jump shot from 10 ft,,36,38
+2,10:08.0,,R. Rondo misses 2-pt layup from 2 ft,36,38
+2,10:05.0,,Offensive rebound by T. Chandler,36,38
+2,10:05.0,,T. Chandler misses 2-pt layup from 1 ft,36,38
+2,10:04.0,Defensive rebound by A. Davis,,36,38
+2,10:01.0,A. Davis makes 2-pt dunk from 3 ft (assist by A. Harrison),,38,38
+2,9:45.0,,K. Caldwell-Pope makes 3-pt jump shot from 27 ft (assist by R. Rondo),38,41
+2,9:31.0,J. Okafor makes 2-pt hook shot from 1 ft,,40,41
+2,9:19.0,,K. Kuzma misses 2-pt hook shot from 4 ft,40,41
+2,9:19.0,Defensive rebound by J. Okafor,,40,41
+2,9:11.0,Turnover by A. Harrison (bad pass; steal by K. Kuzma),,40,41
+2,9:09.0,,Personal take foul by D. Miller (drawn by R. Rondo),40,41
+2,9:09.0,T. Frazier enters the game for A. Davis,,40,41
+2,9:09.0,J. Randle enters the game for A. Harrison,,40,41
+2,9:09.0,,I. Zubac enters the game for T. Chandler,40,41
+2,9:03.0,,Turnover by K. Caldwell-Pope (bad pass; steal by D. Miller),40,41
+2,8:55.0,J. Randle makes 2-pt layup from 4 ft (assist by T. Frazier),,42,41
+2,8:42.0,,K. Caldwell-Pope misses 3-pt jump shot from 28 ft,42,41
+2,8:42.0,Defensive rebound by J. Randle,,42,41
+2,8:32.0,E. Moore misses 3-pt jump shot from 27 ft,,42,41
+2,8:30.0,,Defensive rebound by R. Rondo,42,41
+2,8:27.0,,Personal foul by T. Frazier (drawn by R. Rondo),42,41
+2,8:14.0,,I. Zubac makes 2-pt hook shot from 6 ft (assist by R. Rondo),42,43
+2,7:51.0,J. Randle makes 2-pt jump shot from 4 ft,,44,43
+2,7:41.0,,Shooting foul by J. Okafor (drawn by R. Rondo),44,43
+2,7:41.0,,R. Rondo misses free throw 1 of 2,44,43
+2,7:41.0,,Offensive rebound by Team,44,43
+2,7:41.0,J. Holiday enters the game for D. Miller,,44,43
+2,7:41.0,K. Williams enters the game for E. Moore,,44,43
+2,7:41.0,,R. Rondo makes free throw 2 of 2,44,44
+2,7:41.0,,L. Ball enters the game for R. Rondo,44,44
+2,7:25.0,J. Holiday misses 2-pt jump shot from 17 ft,,44,44
+2,7:23.0,Offensive rebound by T. Frazier,,44,44
+2,7:20.0,J. Holiday makes 2-pt jump shot from 2 ft (assist by T. Frazier),,46,44
+2,7:16.0,,K. Kuzma makes 2-pt layup from 1 ft (assist by L. Ball),46,46
+2,7:16.0,,Shooting foul by J. Okafor (drawn by K. Kuzma),46,46
+2,7:16.0,,B. Ingram enters the game for K. Caldwell-Pope,46,46
+2,7:16.0,,L. James enters the game for J. Hart,46,46
+2,7:16.0,,K. Kuzma makes free throw 1 of 1,46,47
+2,6:59.0,J. Okafor misses 2-pt layup from 2 ft,,46,47
+2,6:54.0,Offensive rebound by J. Okafor,,46,47
+2,6:54.0,Turnover by J. Okafor (lost ball; steal by L. James),,46,47
+2,6:49.0,,L. Ball misses 3-pt jump shot from 25 ft,46,47
+2,6:47.0,,Offensive rebound by L. James,46,47
+2,6:46.0,,L. James makes 2-pt layup from 2 ft,46,49
+2,6:46.0,,Shooting foul by T. Frazier (drawn by L. James),46,49
+2,6:46.0,,LA Lakers full timeout,46,49
+2,6:46.0,A. Davis enters the game for J. Okafor,,46,49
+2,6:46.0,S. Hill enters the game for K. Williams,,46,49
+2,6:46.0,,L. James makes free throw 1 of 1,46,50
+2,6:32.0,J. Randle misses 2-pt jump shot from 10 ft,,46,50
+2,6:30.0,,Defensive rebound by L. James,46,50
+2,6:23.0,,Personal foul by T. Frazier (drawn by B. Ingram),46,50
+2,6:23.0,,B. Ingram makes free throw 1 of 2,46,51
+2,6:23.0,E. Moore enters the game for T. Frazier,,46,51
+2,6:23.0,,B. Ingram makes free throw 2 of 2,46,52
+2,6:15.0,J. Holiday makes 2-pt jump shot from 2 ft,,48,52
+2,6:15.0,Shooting foul by L. James (drawn by J. Holiday),,48,52
+2,6:15.0,J. Holiday misses free throw 1 of 1,,48,52
+2,6:11.0,Offensive rebound by J. Holiday,,48,52
+2,6:08.0,J. Holiday misses 3-pt jump shot from 27 ft,,48,52
+2,6:03.0,,Defensive rebound by K. Kuzma,48,52
+2,5:57.0,,K. Kuzma misses 3-pt jump shot from 26 ft,48,52
+2,5:54.0,Defensive rebound by A. Davis,,48,52
+2,5:49.0,S. Hill misses 3-pt jump shot from 23 ft,,48,52
+2,5:45.0,,Defensive rebound by I. Zubac,48,52
+2,5:32.0,,L. Ball misses 3-pt jump shot from 26 ft,48,52
+2,5:29.0,Defensive rebound by E. Moore,,48,52
+2,5:23.0,A. Davis misses 3-pt jump shot from 26 ft,,48,52
+2,5:20.0,,Defensive rebound by B. Ingram,48,52
+2,5:15.0,,B. Ingram misses 2-pt layup from 2 ft (block by J. Holiday),48,52
+2,5:12.0,,Offensive rebound by B. Ingram,48,52
+2,5:12.0,,B. Ingram makes 2-pt layup from 1 ft,48,54
+2,5:04.0,J. Randle makes 2-pt layup from 2 ft (assist by E. Moore),,50,54
+2,4:54.0,,B. Ingram misses 3-pt jump shot from 26 ft,50,54
+2,4:52.0,Defensive rebound by A. Davis,,50,54
+2,4:48.0,J. Holiday misses 2-pt jump shot from 9 ft,,50,54
+2,4:48.0,,Defensive rebound by L. James,50,54
+2,4:44.0,,L. Ball misses 2-pt layup from 1 ft (block by J. Randle),50,54
+2,4:44.0,Defensive rebound by J. Holiday,,50,54
+2,4:35.0,E. Moore misses 2-pt layup from 2 ft,,50,54
+2,4:32.0,Offensive rebound by A. Davis,,50,54
+2,4:32.0,A. Davis misses 2-pt layup at rim,,50,54
+2,4:30.0,,Defensive rebound by I. Zubac,50,54
+2,4:30.0,,Turnover by I. Zubac (lost ball; steal by E. Moore),50,54
+2,4:29.0,E. Moore misses 2-pt jump shot from 10 ft,,50,54
+2,4:29.0,,Defensive rebound by Team,50,54
+2,4:21.0,,K. Kuzma makes 3-pt jump shot from 25 ft (assist by L. James),50,57
+2,4:13.0,New Orleans full timeout,,50,57
+2,4:13.0,D. Miller enters the game for S. Hill,,50,57
+2,4:13.0,,R. Rondo enters the game for L. Ball,50,57
+2,4:03.0,J. Randle makes 2-pt layup from 2 ft (assist by J. Holiday),,52,57
+2,3:40.0,,L. James makes 2-pt layup from 3 ft,52,59
+2,3:26.0,J. Randle misses 3-pt jump shot from 27 ft,,52,59
+2,3:24.0,,Defensive rebound by R. Rondo,52,59
+2,3:17.0,,L. James makes 2-pt layup from 3 ft (assist by R. Rondo),52,61
+2,3:08.0,Turnover by J. Holiday (bad pass; steal by L. James),,52,61
+2,3:03.0,,B. Ingram makes 2-pt dunk from 2 ft (assist by R. Rondo),52,63
+2,2:49.0,J. Holiday makes 3-pt jump shot from 26 ft (assist by A. Davis),,55,63
+2,2:34.0,,Turnover by R. Rondo (bad pass),55,63
+2,2:22.0,J. Holiday makes 2-pt layup from 3 ft,,57,63
+2,2:12.0,,B. Ingram misses 2-pt hook shot from 3 ft (block by J. Holiday),57,63
+2,2:05.0,Defensive rebound by J. Randle,,57,63
+2,2:03.0,E. Moore makes 3-pt jump shot from 26 ft (assist by J. Holiday),,60,63
+2,1:42.0,,B. Ingram makes 2-pt layup from 2 ft (assist by L. James),60,65
+2,1:26.0,A. Davis misses 2-pt layup from 5 ft,,60,65
+2,1:25.0,,Defensive rebound by L. James,60,65
+2,1:15.0,,I. Zubac misses 2-pt jump shot from 15 ft,60,65
+2,1:09.0,Defensive rebound by A. Davis,,60,65
+2,1:04.0,A. Davis makes 2-pt dunk from 2 ft (assist by J. Holiday),,62,65
+2,0:46.0,,R. Rondo misses 3-pt jump shot from 27 ft,62,65
+2,0:43.0,,Offensive rebound by B. Ingram,62,65
+2,0:41.0,,I. Zubac makes 2-pt dunk from 2 ft (assist by B. Ingram),62,67
+2,0:34.0,Shooting foul by I. Zubac (drawn by J. Randle),,62,67
+2,0:34.0,J. Randle misses free throw 1 of 2,,62,67
+2,0:34.0,Offensive rebound by Team,,62,67
+2,0:34.0,,J. Hart enters the game for K. Kuzma,62,67
+2,0:34.0,J. Randle makes free throw 2 of 2,,63,67
+2,0:33.0,,Personal foul by A. Davis (drawn by L. James),63,67
+2,0:33.0,,L. James makes free throw 1 of 2,63,68
+2,0:33.0,,L. Ball enters the game for R. Rondo,63,68
+2,0:33.0,,L. James makes free throw 2 of 2,63,69
+2,0:16.0,J. Randle makes 2-pt hook shot from 10 ft (assist by A. Davis),,65,69
+2,0:01.0,,L. James misses 3-pt jump shot from 27 ft,65,69
+2,0:00.0,,Offensive rebound by Team,65,69
+3,11:39.0,,L. James misses 3-pt jump shot from 27 ft,65,69
+3,11:36.0,Defensive rebound by Team,,65,69
+3,11:36.0,,Loose ball foul by I. Zubac (drawn by A. Davis),65,69
+3,11:15.0,A. Davis makes 3-pt jump shot from 28 ft (assist by J. Holiday),,68,69
+3,10:55.0,,B. Ingram misses 2-pt jump shot from 17 ft,68,69
+3,10:52.0,Defensive rebound by T. Frazier,,68,69
+3,10:48.0,J. Holiday misses 3-pt jump shot from 27 ft,,68,69
+3,10:46.0,,Defensive rebound by L. James,68,69
+3,10:37.0,,L. Ball makes 3-pt jump shot from 28 ft (assist by K. Kuzma),68,72
+3,10:28.0,A. Davis misses 3-pt jump shot from 26 ft,,68,72
+3,10:25.0,Offensive rebound by S. Hill,,68,72
+3,10:23.0,S. Hill makes 2-pt layup from 1 ft,,70,72
+3,10:14.0,,Shooting foul by S. Hill (drawn by K. Kuzma),70,72
+3,10:14.0,,K. Kuzma makes free throw 1 of 2,70,73
+3,10:14.0,,K. Kuzma makes free throw 2 of 2,70,74
+3,10:01.0,Turnover by J. Holiday (bad pass; steal by I. Zubac),,70,74
+3,10:01.0,,Personal foul by J. Randle (drawn by I. Zubac),70,74
+3,9:53.0,,K. Kuzma makes 2-pt jump shot from 19 ft (assist by L. James),70,76
+3,9:40.0,Turnover by J. Holiday (traveling),,70,76
+3,9:28.0,,B. Ingram makes 2-pt jump shot from 11 ft (assist by L. James),70,78
+3,9:17.0,J. Randle misses 2-pt layup at rim,,70,78
+3,9:15.0,,Defensive rebound by K. Kuzma,70,78
+3,9:10.0,,K. Kuzma misses 2-pt layup from 3 ft (block by S. Hill),70,78
+3,9:10.0,,Offensive rebound by Team,70,78
+3,8:53.0,,B. Ingram makes 2-pt jump shot from 11 ft,70,80
+3,8:46.0,New Orleans full timeout,,70,80
+3,8:46.0,E. Moore enters the game for T. Frazier,,70,80
+3,8:25.0,J. Holiday misses 2-pt jump shot from 14 ft,,70,80
+3,8:25.0,Offensive rebound by Team,,70,80
+3,8:24.0,Turnover by Team (shot clock),,70,80
+3,8:08.0,,I. Zubac makes 2-pt layup from 3 ft (assist by L. James),70,82
+3,7:56.0,E. Moore misses 2-pt jump shot from 3 ft,,70,82
+3,7:54.0,,Defensive rebound by I. Zubac,70,82
+3,7:49.0,,K. Kuzma misses 3-pt jump shot from 27 ft,70,82
+3,7:46.0,Defensive rebound by J. Holiday,,70,82
+3,7:41.0,J. Randle makes 2-pt dunk from 2 ft (assist by J. Holiday),,72,82
+3,7:24.0,,B. Ingram makes 2-pt jump shot from 12 ft,72,84
+3,7:04.0,Shooting foul by I. Zubac (drawn by A. Davis),,72,84
+3,7:04.0,A. Davis makes free throw 1 of 2,,73,84
+3,7:04.0,D. Miller enters the game for S. Hill,,73,84
+3,7:04.0,,T. Chandler enters the game for I. Zubac,73,84
+3,7:04.0,A. Davis makes free throw 2 of 2,,74,84
+3,6:58.0,,Shooting foul by E. Moore (drawn by K. Kuzma),74,84
+3,6:58.0,,K. Kuzma misses free throw 1 of 2,74,84
+3,6:58.0,,Offensive rebound by Team,74,84
+3,6:58.0,K. Williams enters the game for J. Randle,,74,84
+3,6:58.0,,K. Kuzma makes free throw 2 of 2,74,85
+3,6:48.0,E. Moore makes 2-pt layup from 2 ft (assist by A. Davis),,76,85
+3,6:31.0,,Turnover by B. Ingram (bad pass; steal by K. Williams),76,85
+3,6:24.0,D. Miller misses 3-pt jump shot from 27 ft,,76,85
+3,6:20.0,,Defensive rebound by L. Ball,76,85
+3,6:16.0,,L. James misses 2-pt layup from 2 ft,76,85
+3,6:12.0,,Offensive rebound by L. Ball,76,85
+3,6:12.0,,L. Ball makes 2-pt layup at rim,76,87
+3,6:00.0,Turnover by J. Holiday (lost ball; steal by T. Chandler),,76,87
+3,5:58.0,,Personal foul by J. Holiday (drawn by L. James),76,87
+3,5:42.0,,Turnover by L. Ball (traveling),76,87
+3,5:30.0,J. Holiday misses 3-pt jump shot from 24 ft,,76,87
+3,5:28.0,,Defensive rebound by L. James,76,87
+3,5:14.0,,L. James makes 2-pt dunk from 2 ft (assist by B. Ingram),76,89
+3,5:04.0,D. Miller makes 3-pt jump shot from 26 ft (assist by J. Holiday),,79,89
+3,4:49.0,,Personal foul by K. Williams (drawn by B. Ingram),79,89
+3,4:49.0,,B. Ingram misses free throw 1 of 2,79,89
+3,4:49.0,,Offensive rebound by Team,79,89
+3,4:49.0,,J. Hart enters the game for K. Kuzma,79,89
+3,4:49.0,,B. Ingram makes free throw 2 of 2,79,90
+3,4:38.0,E. Moore misses 2-pt layup from 2 ft (block by T. Chandler),,79,90
+3,4:34.0,,Defensive rebound by L. James,79,90
+3,4:23.0,,B. Ingram misses 2-pt jump shot from 8 ft,79,90
+3,4:21.0,Defensive rebound by A. Davis,,79,90
+3,4:14.0,E. Moore misses 3-pt jump shot from 26 ft,,79,90
+3,4:11.0,,Defensive rebound by B. Ingram,79,90
+3,3:57.0,,L. Ball misses 3-pt jump shot from 27 ft,79,90
+3,3:54.0,Defensive rebound by D. Miller,,79,90
+3,3:46.0,A. Davis makes 2-pt layup from 2 ft (assist by J. Holiday),,81,90
+3,3:45.0,,LA Lakers full timeout,81,90
+3,3:45.0,F. Jackson enters the game for J. Holiday,,81,90
+3,3:45.0,,K. Caldwell-Pope enters the game for L. Ball,81,90
+3,3:45.0,,R. Rondo enters the game for B. Ingram,81,90
+3,3:31.0,,R. Rondo misses 2-pt layup from 2 ft,81,90
+3,3:29.0,Defensive rebound by A. Davis,,81,90
+3,3:22.0,K. Williams misses 2-pt jump shot from 14 ft,,81,90
+3,3:17.0,Offensive rebound by A. Davis,,81,90
+3,3:17.0,A. Davis makes 2-pt dunk from 1 ft,,83,90
+3,2:53.0,,J. Hart misses 2-pt jump shot from 15 ft,83,90
+3,2:51.0,Defensive rebound by K. Williams,,83,90
+3,2:36.0,A. Davis misses 2-pt jump shot from 19 ft,,83,90
+3,2:33.0,,Defensive rebound by J. Hart,83,90
+3,2:32.0,,Turnover by J. Hart (bad pass),83,90
+3,2:32.0,Turnover by K. Williams (back court),,83,90
+3,2:22.0,,R. Rondo misses 2-pt layup from 4 ft,83,90
+3,2:22.0,Defensive rebound by A. Davis,,83,90
+3,2:10.0,E. Moore misses 2-pt jump shot from 6 ft,,83,90
+3,2:08.0,,Defensive rebound by R. Rondo,83,90
+3,2:02.0,,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,83,90
+3,2:02.0,Defensive rebound by A. Davis,,83,90
+3,1:54.0,K. Williams makes 2-pt dunk from 2 ft (assist by E. Moore),,85,90
+3,1:39.0,,K. Caldwell-Pope makes 2-pt jump shot from 20 ft (assist by L. James),85,92
+3,1:24.0,F. Jackson misses 2-pt jump shot from 18 ft,,85,92
+3,1:22.0,,Defensive rebound by K. Caldwell-Pope,85,92
+3,1:20.0,,Shooting foul by E. Moore (drawn by L. James),85,92
+3,1:20.0,,L. James makes free throw 1 of 2,85,93
+3,1:20.0,J. Randle enters the game for A. Davis,,85,93
+3,1:20.0,,L. James makes free throw 2 of 2,85,94
+3,1:15.0,F. Jackson misses 2-pt layup at rim (block by T. Chandler),,85,94
+3,1:13.0,,Defensive rebound by T. Chandler,85,94
+3,0:50.0,,R. Rondo misses 3-pt jump shot from 27 ft,85,94
+3,0:47.0,Defensive rebound by K. Williams,,85,94
+3,0:36.0,E. Moore misses 2-pt jump shot from 7 ft,,85,94
+3,0:36.0,Offensive rebound by E. Moore,,85,94
+3,0:36.0,E. Moore misses 2-pt layup from 1 ft,,85,94
+3,0:36.0,Offensive rebound by Team,,85,94
+3,0:36.0,J. Holiday enters the game for E. Moore,,85,94
+3,0:36.0,,K. Kuzma enters the game for L. James,85,94
+3,0:34.0,D. Miller misses 2-pt jump shot from 18 ft,,85,94
+3,0:30.0,,Defensive rebound by K. Caldwell-Pope,85,94
+3,0:19.0,,J. Hart misses 3-pt jump shot from 29 ft,85,94
+3,0:16.0,Defensive rebound by F. Jackson,,85,94
+3,0:03.0,Personal take foul by K. Caldwell-Pope (drawn by J. Holiday),,85,94
+3,0:01.0,J. Holiday makes 3-pt jump shot from 27 ft (assist by D. Miller),,88,94
+4,11:50.0,Personal foul by K. Caldwell-Pope (drawn by J. Holiday),,88,94
+4,11:45.0,Shooting foul by T. Chandler (drawn by J. Randle),,88,94
+4,11:45.0,J. Randle makes free throw 1 of 2,,89,94
+4,11:45.0,J. Randle misses free throw 2 of 2,,89,94
+4,11:42.0,,Defensive rebound by R. Rondo,89,94
+4,11:22.0,,Turnover by R. Rondo (bad pass; steal by F. Jackson),89,94
+4,11:14.0,J. Holiday misses 2-pt layup from 1 ft,,89,94
+4,11:11.0,Offensive rebound by J. Holiday,,89,94
+4,11:05.0,Offensive foul by J. Randle (drawn by K. Kuzma),,89,94
+4,11:05.0,Turnover by J. Randle (offensive foul),,89,94
+4,11:05.0,,I. Zubac enters the game for T. Chandler,89,94
+4,10:45.0,,K. Caldwell-Pope misses 2-pt layup from 2 ft,89,94
+4,10:42.0,,Offensive rebound by I. Zubac,89,94
+4,10:41.0,,I. Zubac makes 2-pt dunk from 2 ft,89,96
+4,10:33.0,Personal foul by R. Rondo (drawn by J. Holiday),,89,96
+4,10:24.0,J. Holiday makes 2-pt jump shot from 13 ft,,91,96
+4,10:06.0,,K. Kuzma makes 3-pt jump shot from 25 ft (assist by R. Rondo),91,99
+4,9:42.0,D. Miller makes 3-pt jump shot from 25 ft (assist by J. Randle),,94,99
+4,9:23.0,,K. Kuzma misses 3-pt jump shot from 27 ft,94,99
+4,9:23.0,Defensive rebound by K. Williams,,94,99
+4,9:08.0,K. Williams misses 2-pt jump shot from 17 ft,,94,99
+4,9:06.0,,Defensive rebound by I. Zubac,94,99
+4,9:05.0,,Personal foul by K. Williams (drawn by K. Kuzma),94,99
+4,9:05.0,,LA Lakers full timeout,94,99
+4,9:05.0,A. Davis enters the game for K. Williams,,94,99
+4,8:59.0,,J. Hart misses 3-pt jump shot from 27 ft,94,99
+4,8:57.0,Defensive rebound by J. Randle,,94,99
+4,8:49.0,Turnover by J. Holiday (bad pass),,94,99
+4,8:36.0,,K. Caldwell-Pope misses 3-pt jump shot from 26 ft,94,99
+4,8:33.0,Defensive rebound by J. Holiday,,94,99
+4,8:26.0,J. Randle makes 2-pt jump shot from 2 ft,,96,99
+4,8:26.0,,B. Ingram enters the game for K. Caldwell-Pope,96,99
+4,8:26.0,,L. James enters the game for J. Hart,96,99
+4,7:58.0,,L. James makes 2-pt jump shot from 17 ft,96,101
+4,7:46.0,J. Holiday makes 2-pt jump shot from 6 ft,,98,101
+4,7:21.0,,R. Rondo misses 3-pt jump shot from 24 ft,98,101
+4,7:19.0,Defensive rebound by J. Randle,,98,101
+4,7:11.0,A. Davis misses 2-pt jump shot from 12 ft,,98,101
+4,7:09.0,,Defensive rebound by I. Zubac,98,101
+4,7:00.0,,Personal foul by D. Miller (drawn by I. Zubac),98,101
+4,7:00.0,E. Moore enters the game for D. Miller,,98,101
+4,7:00.0,,L. Ball enters the game for R. Rondo,98,101
+4,6:47.0,,K. Kuzma makes 3-pt jump shot from 27 ft (assist by L. James),98,104
+4,6:34.0,J. Holiday misses 2-pt layup from 1 ft,,98,104
+4,6:34.0,Offensive rebound by A. Davis,,98,104
+4,6:34.0,Personal foul by L. Ball (drawn by A. Davis),,98,104
+4,6:24.0,A. Davis misses 2-pt jump shot from 4 ft,,98,104
+4,6:21.0,,Defensive rebound by L. James,98,104
+4,6:14.0,,L. Ball makes 3-pt jump shot from 27 ft,98,107
+4,6:13.0,New Orleans full timeout,,98,107
+4,6:13.0,D. Miller enters the game for F. Jackson,,98,107
+4,6:13.0,J. Okafor enters the game for J. Randle,,98,107
+4,5:56.0,D. Miller misses 3-pt jump shot from 24 ft,,98,107
+4,5:52.0,,Defensive rebound by B. Ingram,98,107
+4,5:35.0,,L. James makes 2-pt jump shot from 12 ft,98,109
+4,5:26.0,Personal foul by L. James (drawn by J. Okafor),,98,109
+4,5:26.0,J. Okafor misses free throw 1 of 2,,98,109
+4,5:26.0,Offensive rebound by Team,,98,109
+4,5:26.0,J. Okafor misses free throw 2 of 2,,98,109
+4,5:24.0,,Defensive rebound by L. James,98,109
+4,5:05.0,,L. James misses 2-pt layup from 4 ft,98,109
+4,5:02.0,,Offensive rebound by I. Zubac,98,109
+4,5:02.0,,I. Zubac misses 2-pt layup at rim,98,109
+4,5:01.0,Defensive rebound by D. Miller,,98,109
+4,4:53.0,A. Davis misses 3-pt jump shot from 23 ft,,98,109
+4,4:50.0,Offensive rebound by J. Okafor,,98,109
+4,4:48.0,J. Okafor makes 2-pt dunk from 2 ft,,100,109
+4,4:29.0,,L. James misses 2-pt jump shot from 17 ft,100,109
+4,4:26.0,Defensive rebound by A. Davis,,100,109
+4,4:11.0,J. Okafor misses 2-pt jump shot from 1 ft,,100,109
+4,4:11.0,Offensive rebound by A. Davis,,100,109
+4,4:11.0,A. Davis makes 2-pt layup from 1 ft,,102,109
+4,4:11.0,,LA Lakers full timeout,102,109
+4,4:00.0,,B. Ingram misses 2-pt jump shot from 9 ft (block by A. Davis),102,109
+4,3:56.0,Defensive rebound by J. Okafor,,102,109
+4,3:45.0,A. Davis misses 2-pt dunk from 4 ft (block by I. Zubac),,102,109
+4,3:44.0,,Defensive rebound by L. Ball,102,109
+4,3:44.0,,Turnover by L. Ball (bad pass),102,109
+4,3:29.0,Shooting foul by I. Zubac (drawn by A. Davis),,102,109
+4,3:29.0,A. Davis makes free throw 1 of 2,,103,109
+4,3:29.0,A. Davis makes free throw 2 of 2,,104,109
+4,3:12.0,,Personal foul by J. Okafor (drawn by B. Ingram),104,109
+4,3:12.0,New Orleans full timeout,,104,109
+4,3:12.0,J. Randle enters the game for J. Okafor,,104,109
+4,3:03.0,,L. James misses 3-pt jump shot from 26 ft,104,109
+4,3:01.0,Defensive rebound by J. Randle,,104,109
+4,2:46.0,E. Moore misses 2-pt jump shot from 14 ft,,104,109
+4,2:46.0,,Defensive rebound by Team,104,109
+4,2:26.0,,L. James makes 2-pt layup from 3 ft,104,111
+4,2:03.0,E. Moore misses 2-pt jump shot from 7 ft,,104,111
+4,2:01.0,,Defensive rebound by Team,104,111
+4,1:38.0,,L. James misses 2-pt layup from 2 ft,104,111
+4,1:36.0,Defensive rebound by D. Miller,,104,111
+4,1:36.0,Personal foul by L. James (drawn by A. Davis),,104,111
+4,1:36.0,A. Davis misses free throw 1 of 2,,104,111
+4,1:36.0,Offensive rebound by Team,,104,111
+4,1:36.0,A. Davis misses free throw 2 of 2,,104,111
+4,1:34.0,,Defensive rebound by I. Zubac,104,111
+4,1:19.0,,L. James misses 2-pt layup from 4 ft (block by J. Holiday),104,111
+4,1:19.0,,Offensive rebound by Team,104,111
+4,1:19.0,,LA Lakers full timeout,104,111
+4,1:13.0,,L. James misses 3-pt jump shot from 26 ft,104,111
+4,1:08.0,,Offensive rebound by L. James,104,111
+4,1:08.0,,Shooting foul by J. Randle (drawn by L. James),104,111
+4,1:08.0,,L. James misses free throw 1 of 2,104,111
+4,1:08.0,,Offensive rebound by Team,104,111
+4,1:08.0,,L. James misses free throw 2 of 2,104,111
+4,1:06.0,Defensive rebound by J. Holiday,,104,111
+4,0:57.0,J. Randle misses 2-pt layup from 3 ft (block by I. Zubac),,104,111
+4,0:53.0,,Defensive rebound by L. Ball,104,111
+4,0:38.0,,K. Kuzma misses 3-pt jump shot from 28 ft,104,111
+4,0:36.0,Defensive rebound by A. Davis,,104,111
+4,0:36.0,New Orleans full timeout,,104,111
+4,0:34.0,J. Holiday misses 3-pt jump shot from 24 ft,,104,111
+4,0:31.0,,Defensive rebound by B. Ingram,104,111
+4,0:31.0,,Personal take foul by E. Moore (drawn by B. Ingram),104,111
+4,0:31.0,,B. Ingram makes free throw 1 of 2,104,112
+4,0:31.0,,B. Ingram misses free throw 2 of 2,104,112
+4,0:30.0,Defensive rebound by J. Randle,,104,112
+4,0:25.0,D. Miller misses 3-pt jump shot from 26 ft,,104,112
+4,0:23.0,,Defensive rebound by L. Ball,104,112
+4,0:02.0,,Turnover by Team (shot clock),104,112

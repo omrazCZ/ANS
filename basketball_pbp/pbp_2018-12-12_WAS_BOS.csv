@@ -1,0 +1,511 @@
+QUARTER,TIME_REMAINING,BOSTON_ACTION,WASHINGTON_ACTION,BOSTON_SCORE,WASHINGTON_SCORE
+1,11:43.0,M. Smart makes 3-pt jump shot from 30 ft (assist by A. Baynes),,3,0
+1,11:27.0,,J. Wall misses 3-pt jump shot from 26 ft,3,0
+1,11:23.0,Defensive rebound by M. Smart,,3,0
+1,11:14.0,Turnover by K. Irving (bad pass; steal by J. Wall),,3,0
+1,11:07.0,,T. Bryant makes 2-pt dunk from 1 ft (assist by J. Green),3,2
+1,10:52.0,K. Irving makes 2-pt jump shot from 13 ft,,5,2
+1,10:38.0,,T. Satoranský misses 3-pt jump shot from 24 ft,5,2
+1,10:35.0,Defensive rebound by A. Baynes,,5,2
+1,10:27.0,J. Tatum misses 3-pt jump shot from 26 ft,,5,2
+1,10:24.0,Offensive rebound by A. Baynes,,5,2
+1,10:18.0,M. Smart misses 3-pt jump shot from 24 ft,,5,2
+1,10:15.0,,Defensive rebound by J. Green,5,2
+1,9:57.0,,Turnover by J. Wall (bad pass; steal by M. Smart),5,2
+1,9:53.0,K. Irving misses 2-pt layup from 1 ft (block by J. Green),,5,2
+1,9:49.0,Offensive rebound by M. Morris,,5,2
+1,9:49.0,M. Morris makes 2-pt layup from 2 ft,,7,2
+1,9:27.0,,T. Satoranský makes 2-pt layup from 3 ft,7,4
+1,9:08.0,M. Morris misses 3-pt jump shot from 27 ft,,7,4
+1,9:05.0,,Defensive rebound by J. Wall,7,4
+1,8:58.0,,T. Bryant makes 2-pt jump shot from 4 ft (assist by J. Wall),7,6
+1,8:37.0,M. Morris makes 2-pt dunk from 1 ft (assist by M. Smart),,9,6
+1,8:21.0,,B. Beal makes 2-pt layup from 5 ft (assist by J. Wall),9,8
+1,8:10.0,Personal foul by T. Satoranský (drawn by K. Irving),,9,8
+1,8:02.0,J. Tatum misses 2-pt jump shot from 13 ft,,9,8
+1,7:59.0,,Defensive rebound by J. Wall,9,8
+1,7:55.0,,J. Green misses 3-pt jump shot from 26 ft,9,8
+1,7:52.0,Defensive rebound by A. Baynes,,9,8
+1,7:41.0,M. Morris misses 2-pt jump shot from 11 ft,,9,8
+1,7:36.0,,Defensive rebound by T. Bryant,9,8
+1,7:29.0,,J. Wall makes 3-pt jump shot from 26 ft (assist by B. Beal),9,11
+1,7:09.0,J. Tatum makes 2-pt jump shot from 17 ft,,11,11
+1,6:58.0,,Washington full timeout,11,11
+1,6:58.0,D. Theis enters the game for A. Baynes,,11,11
+1,6:42.0,,J. Wall makes 2-pt jump shot from 19 ft,11,13
+1,6:21.0,D. Theis misses 2-pt jump shot from 12 ft,,11,13
+1,6:19.0,,Defensive rebound by J. Green,11,13
+1,6:10.0,,Turnover by B. Beal (bad pass; steal by M. Smart),11,13
+1,6:02.0,K. Irving misses 3-pt jump shot from 26 ft,,11,13
+1,5:58.0,,Defensive rebound by J. Green,11,13
+1,5:47.0,,J. Wall misses 3-pt jump shot from 27 ft,11,13
+1,5:45.0,Defensive rebound by J. Tatum,,11,13
+1,5:40.0,M. Smart misses 3-pt jump shot from 24 ft,,11,13
+1,5:35.0,,Defensive rebound by J. Green,11,13
+1,5:32.0,,B. Beal makes 2-pt layup from 2 ft (assist by J. Wall),11,15
+1,5:20.0,Personal foul by T. Bryant (drawn by D. Theis),,11,15
+1,5:20.0,T. Rozier enters the game for J. Tatum,,11,15
+1,5:20.0,,M. Morris enters the game for T. Bryant,11,15
+1,5:20.0,,K. Oubre enters the game for T. Satoranský,11,15
+1,5:12.0,M. Morris makes 2-pt layup from 2 ft,,13,15
+1,4:48.0,,J. Green makes 2-pt jump shot from 12 ft (assist by J. Wall),13,17
+1,4:24.0,K. Irving misses 2-pt layup from 2 ft,,13,17
+1,4:22.0,Offensive rebound by D. Theis,,13,17
+1,4:22.0,D. Theis makes 2-pt layup from 1 ft,,15,17
+1,4:10.0,,K. Oubre misses 2-pt dunk from 2 ft,15,17
+1,4:08.0,Defensive rebound by K. Irving,,15,17
+1,4:04.0,K. Irving misses 2-pt layup from 4 ft,,15,17
+1,4:03.0,,Defensive rebound by J. Green,15,17
+1,4:00.0,,Shooting foul by M. Smart (drawn by K. Oubre),15,17
+1,4:00.0,,K. Oubre makes free throw 1 of 2,15,18
+1,4:00.0,,K. Oubre makes free throw 2 of 2,15,19
+1,3:44.0,M. Morris misses 2-pt jump shot from 7 ft,,15,19
+1,3:41.0,,Defensive rebound by M. Morris,15,19
+1,3:39.0,,Turnover by K. Oubre (offensive foul),15,19
+1,3:39.0,,Offensive foul by K. Oubre (drawn by M. Smart),15,19
+1,3:39.0,,A. Rivers enters the game for B. Beal,15,19
+1,3:26.0,Turnover by K. Irving (bad pass; steal by J. Green),,15,19
+1,3:20.0,,J. Green makes 2-pt layup from 3 ft,15,21
+1,3:02.0,K. Irving makes 2-pt layup from 1 ft,,17,21
+1,2:44.0,,J. Green makes 2-pt jump shot from 19 ft (assist by J. Wall),17,23
+1,2:43.0,Boston full timeout,,17,23
+1,2:43.0,S. Ojeleye enters the game for M. Smart,,17,23
+1,2:43.0,,T. Satoranský enters the game for J. Wall,17,23
+1,2:21.0,M. Morris makes 2-pt layup from 1 ft,,19,23
+1,2:01.0,,M. Morris misses 2-pt jump shot from 12 ft,19,23
+1,1:58.0,Defensive rebound by K. Irving,,19,23
+1,1:53.0,K. Irving makes 3-pt jump shot from 28 ft,,22,23
+1,1:27.0,,T. Satoranský misses 2-pt hook shot from 3 ft,22,23
+1,1:25.0,Defensive rebound by D. Theis,,22,23
+1,1:20.0,K. Irving misses 3-pt jump shot from 26 ft,,22,23
+1,1:17.0,Offensive rebound by D. Theis,,22,23
+1,1:11.0,T. Rozier misses 2-pt layup from 2 ft (block by K. Oubre),,22,23
+1,1:11.0,,Defensive rebound by Team,22,23
+1,1:11.0,J. Tatum enters the game for K. Irving,,22,23
+1,1:11.0,B. Wanamaker enters the game for M. Morris,,22,23
+1,0:58.0,,A. Rivers misses 3-pt jump shot from 26 ft,22,23
+1,0:56.0,Defensive rebound by J. Tatum,,22,23
+1,0:43.0,D. Theis makes 2-pt dunk from 1 ft (assist by B. Wanamaker),,24,23
+1,0:29.0,,K. Oubre makes 3-pt jump shot from 26 ft (assist by T. Satoranský),24,26
+1,0:05.0,J. Tatum misses 3-pt jump shot from 26 ft,,24,26
+1,0:04.0,Offensive rebound by Team,,24,26
+1,0:04.0,Turnover by Team (shot clock),,24,26
+1,0:00.0,,T. Satoranský makes 2-pt jump shot from 3 ft,24,28
+2,11:47.0,,K. Oubre misses 2-pt jump shot from 5 ft,24,28
+2,11:45.0,Defensive rebound by J. Tatum,,24,28
+2,11:31.0,S. Ojeleye misses 3-pt jump shot from 27 ft,,24,28
+2,11:27.0,,Defensive rebound by M. Morris,24,28
+2,11:14.0,,M. Morris misses 3-pt jump shot from 26 ft,24,28
+2,11:11.0,Defensive rebound by D. Theis,,24,28
+2,11:01.0,J. Tatum makes 2-pt dunk from 1 ft,,26,28
+2,10:39.0,,Shooting foul by S. Ojeleye (drawn by M. Morris),26,28
+2,10:39.0,,M. Morris makes free throw 1 of 2,26,29
+2,10:39.0,,M. Morris misses free throw 2 of 2,26,29
+2,10:36.0,Defensive rebound by S. Ojeleye,,26,29
+2,10:23.0,T. Rozier makes 2-pt layup from 2 ft,,28,29
+2,10:07.0,,A. Rivers misses 2-pt layup from 3 ft,28,29
+2,10:04.0,Defensive rebound by B. Wanamaker,,28,29
+2,10:02.0,Personal foul by T. Satoranský (drawn by J. Tatum),,28,29
+2,9:46.0,T. Rozier misses 2-pt jump shot from 14 ft (block by A. Rivers),,28,29
+2,9:41.0,,Defensive rebound by M. Morris,28,29
+2,9:36.0,,Shooting foul by D. Theis (drawn by M. Morris),28,29
+2,9:36.0,,M. Morris makes free throw 1 of 2,28,30
+2,9:36.0,R. Williams enters the game for D. Theis,,28,30
+2,9:36.0,,B. Beal enters the game for T. Satoranský,28,30
+2,9:36.0,,M. Morris makes free throw 2 of 2,28,31
+2,9:20.0,Turnover by B. Wanamaker (traveling),,28,31
+2,9:04.0,,S. Dekker misses 2-pt layup from 7 ft (block by R. Williams),28,31
+2,9:00.0,Defensive rebound by R. Williams,,28,31
+2,8:57.0,S. Ojeleye makes 2-pt layup at rim,,30,31
+2,8:48.0,,B. Beal makes 3-pt jump shot from 28 ft (assist by A. Rivers),30,34
+2,8:29.0,B. Wanamaker makes 3-pt jump shot from 26 ft (assist by T. Rozier),,33,34
+2,8:04.0,,B. Beal misses 2-pt jump shot from 16 ft (block by R. Williams),33,34
+2,8:04.0,Defensive rebound by Team,,33,34
+2,8:04.0,,J. Wall enters the game for S. Dekker,33,34
+2,7:53.0,S. Ojeleye misses 3-pt jump shot from 25 ft,,33,34
+2,7:51.0,,Defensive rebound by B. Beal,33,34
+2,7:43.0,,K. Oubre misses 3-pt jump shot from 27 ft,33,34
+2,7:40.0,Defensive rebound by S. Ojeleye,,33,34
+2,7:33.0,S. Ojeleye makes 3-pt jump shot from 25 ft (assist by T. Rozier),,36,34
+2,7:31.0,,Washington full timeout,36,34
+2,7:08.0,,Turnover by K. Oubre (step out of bounds),36,34
+2,6:56.0,J. Tatum misses 2-pt jump shot from 18 ft,,36,34
+2,6:54.0,,Defensive rebound by A. Rivers,36,34
+2,6:45.0,,M. Morris makes 3-pt jump shot from 26 ft (assist by J. Wall),36,37
+2,6:28.0,T. Rozier misses 3-pt jump shot from 27 ft,,36,37
+2,6:26.0,,Defensive rebound by A. Rivers,36,37
+2,6:26.0,K. Irving enters the game for J. Tatum,,36,37
+2,6:26.0,M. Smart enters the game for B. Wanamaker,,36,37
+2,6:03.0,,B. Beal misses 3-pt jump shot from 23 ft,36,37
+2,6:00.0,Defensive rebound by K. Irving,,36,37
+2,5:54.0,R. Williams misses 2-pt layup from 7 ft,,36,37
+2,5:52.0,,Defensive rebound by M. Morris,36,37
+2,5:49.0,,B. Beal makes 2-pt dunk from 2 ft (assist by M. Morris),36,39
+2,5:27.0,M. Smart misses 3-pt jump shot from 26 ft,,36,39
+2,5:27.0,Offensive rebound by R. Williams,,36,39
+2,5:18.0,Personal foul by A. Rivers (drawn by K. Irving),,36,39
+2,5:10.0,K. Irving misses 3-pt jump shot from 23 ft,,36,39
+2,5:06.0,,Defensive rebound by J. Wall,36,39
+2,5:02.0,,J. Wall misses 2-pt layup from 2 ft,36,39
+2,5:02.0,,Offensive rebound by K. Oubre,36,39
+2,5:02.0,,K. Oubre makes 2-pt layup from 2 ft,36,41
+2,5:02.0,Violation by Team (def goaltending),,36,41
+2,4:51.0,K. Irving makes 2-pt jump shot from 14 ft,,38,41
+2,4:36.0,,K. Oubre misses 3-pt jump shot from 26 ft,38,41
+2,4:36.0,Defensive rebound by R. Williams,,38,41
+2,4:27.0,Personal foul by A. Rivers (drawn by S. Ojeleye),,38,41
+2,4:27.0,,T. Bryant enters the game for M. Morris,38,41
+2,4:27.0,,J. Green enters the game for A. Rivers,38,41
+2,4:17.0,S. Ojeleye misses 3-pt jump shot from 24 ft,,38,41
+2,4:15.0,,Defensive rebound by T. Bryant,38,41
+2,4:08.0,,Shooting foul by K. Irving (drawn by J. Wall),38,41
+2,4:08.0,,J. Wall makes free throw 1 of 2,38,42
+2,4:08.0,M. Morris enters the game for S. Ojeleye,,38,42
+2,4:08.0,,J. Wall makes free throw 2 of 2,38,43
+2,3:46.0,Shooting foul by B. Beal (drawn by K. Irving),,38,43
+2,3:46.0,K. Irving makes free throw 1 of 2,,39,43
+2,3:46.0,J. Tatum enters the game for T. Rozier,,39,43
+2,3:46.0,D. Theis enters the game for R. Williams,,39,43
+2,3:46.0,K. Irving makes free throw 2 of 2,,40,43
+2,3:33.0,,K. Oubre misses 2-pt layup from 3 ft,40,43
+2,3:30.0,Defensive rebound by J. Tatum,,40,43
+2,3:19.0,M. Morris misses 2-pt jump shot from 15 ft,,40,43
+2,3:16.0,,Defensive rebound by B. Beal,40,43
+2,3:13.0,,B. Beal makes 3-pt jump shot from 26 ft,40,46
+2,3:12.0,Boston full timeout,,40,46
+2,3:12.0,,T. Satoranský enters the game for K. Oubre,40,46
+2,2:53.0,M. Smart misses 2-pt layup from 7 ft,,40,46
+2,2:52.0,Offensive rebound by Team,,40,46
+2,2:52.0,,Loose ball foul by B. Beal (drawn by D. Theis),40,46
+2,2:52.0,D. Theis makes free throw 1 of 2,,41,46
+2,2:52.0,D. Theis makes free throw 2 of 2,,42,46
+2,2:41.0,,J. Green makes 2-pt dunk from 2 ft (assist by J. Wall),42,48
+2,2:24.0,J. Tatum misses 3-pt jump shot from 24 ft,,42,48
+2,2:21.0,,Defensive rebound by J. Wall,42,48
+2,2:16.0,,J. Wall misses 2-pt jump shot from 19 ft,42,48
+2,2:13.0,Defensive rebound by D. Theis,,42,48
+2,2:05.0,K. Irving makes 2-pt jump shot from 3 ft,,44,48
+2,1:45.0,,Shooting foul by D. Theis (drawn by B. Beal),44,48
+2,1:45.0,Violation by Team (delay of game),,44,48
+2,1:45.0,,B. Beal makes free throw 1 of 2,44,49
+2,1:45.0,,B. Beal makes free throw 2 of 2,44,50
+2,1:35.0,Turnover by D. Theis (traveling),,44,50
+2,1:16.0,,Shooting foul by M. Smart (drawn by J. Green),44,50
+2,1:16.0,,J. Green misses free throw 1 of 3,44,50
+2,1:16.0,,Offensive rebound by Team,44,50
+2,1:16.0,,J. Green makes free throw 2 of 3,44,51
+2,1:16.0,,K. Oubre enters the game for B. Beal,44,51
+2,1:16.0,,J. Green makes free throw 3 of 3,44,52
+2,1:08.0,K. Irving misses 3-pt jump shot from 25 ft,,44,52
+2,1:06.0,,Defensive rebound by Team,44,52
+2,1:06.0,Loose ball foul by D. Theis (drawn by J. Green),,44,52
+2,1:06.0,,J. Green makes free throw 1 of 2,44,53
+2,1:06.0,A. Baynes enters the game for M. Morris,,44,53
+2,1:06.0,S. Ojeleye enters the game for D. Theis,,44,53
+2,1:06.0,,J. Green makes free throw 2 of 2,44,54
+2,0:53.0,J. Tatum makes 2-pt jump shot from 15 ft (assist by K. Irving),,46,54
+2,0:43.0,,J. Wall misses 2-pt jump shot from 15 ft,46,54
+2,0:40.0,Defensive rebound by A. Baynes,,46,54
+2,0:33.0,M. Smart misses 2-pt jump shot from 7 ft,,46,54
+2,0:32.0,Offensive rebound by Team,,46,54
+2,0:27.0,J. Tatum misses 2-pt jump shot from 13 ft,,46,54
+2,0:25.0,Offensive rebound by Team,,46,54
+2,0:19.0,S. Ojeleye misses 3-pt jump shot from 26 ft,,46,54
+2,0:15.0,Offensive rebound by Team,,46,54
+2,0:07.0,Offensive foul by M. Smart (drawn by T. Satoranský),,46,54
+2,0:07.0,Turnover by M. Smart (offensive foul),,46,54
+2,0:07.0,Violation by Team (delay of game),,46,54
+2,0:07.0,Violation by Team (delay of game),,46,54
+2,0:07.0,,J. Wall makes technical free throw,46,55
+2,0:07.0,,B. Beal enters the game for T. Satoranský,46,55
+2,0:02.0,,K. Oubre misses 3-pt jump shot from 26 ft,46,55
+2,0:00.0,,Offensive rebound by Team,46,55
+3,11:43.0,,Turnover by J. Wall (bad pass; steal by M. Smart),46,55
+3,11:41.0,J. Tatum misses 2-pt layup from 3 ft,,46,55
+3,11:38.0,,Defensive rebound by B. Beal,46,55
+3,11:32.0,,B. Beal misses 2-pt layup from 3 ft,46,55
+3,11:31.0,,Offensive rebound by B. Beal,46,55
+3,11:29.0,,Turnover by T. Satoranský (traveling),46,55
+3,11:17.0,K. Irving misses 2-pt jump shot from 20 ft,,46,55
+3,11:14.0,,Defensive rebound by T. Bryant,46,55
+3,11:05.0,,J. Wall makes 2-pt jump shot from 13 ft,46,57
+3,10:58.0,Offensive foul by A. Baynes (drawn by B. Beal),,46,57
+3,10:58.0,Turnover by A. Baynes (offensive foul),,46,57
+3,10:50.0,,J. Wall misses 2-pt jump shot from 19 ft,46,57
+3,10:47.0,,Offensive rebound by J. Green,46,57
+3,10:40.0,,J. Green misses 3-pt jump shot from 26 ft,46,57
+3,10:37.0,Defensive rebound by J. Tatum,,46,57
+3,10:28.0,A. Baynes makes 3-pt jump shot from 26 ft (assist by K. Irving),,49,57
+3,10:03.0,,B. Beal misses 3-pt jump shot from 25 ft,49,57
+3,10:01.0,Defensive rebound by M. Morris,,49,57
+3,9:55.0,M. Smart makes 2-pt jump shot from 20 ft,,51,57
+3,9:40.0,,J. Wall misses 2-pt jump shot from 12 ft,51,57
+3,9:38.0,Defensive rebound by J. Tatum,,51,57
+3,9:30.0,K. Irving misses 3-pt jump shot from 26 ft,,51,57
+3,9:25.0,Offensive rebound by A. Baynes,,51,57
+3,9:20.0,K. Irving makes 2-pt layup from 1 ft (assist by M. Morris),,53,57
+3,9:18.0,,Washington full timeout,53,57
+3,9:18.0,,M. Morris enters the game for T. Bryant,53,57
+3,9:07.0,,Shooting foul by M. Morris (drawn by J. Green),53,57
+3,9:07.0,,J. Green makes free throw 1 of 2,53,58
+3,9:07.0,,J. Green makes free throw 2 of 2,53,59
+3,9:05.0,Personal foul by T. Satoranský (drawn by M. Smart),,53,59
+3,8:54.0,M. Smart makes 2-pt dunk from 2 ft (assist by M. Morris),,55,59
+3,8:39.0,,T. Satoranský makes 3-pt jump shot from 26 ft (assist by J. Green),55,62
+3,8:17.0,Turnover by A. Baynes (bad pass),,55,62
+3,8:08.0,,Turnover by B. Beal (bad pass),55,62
+3,7:58.0,M. Morris misses 3-pt jump shot from 26 ft,,55,62
+3,7:55.0,,Defensive rebound by J. Wall,55,62
+3,7:44.0,,M. Morris misses 3-pt jump shot from 25 ft,55,62
+3,7:40.0,Defensive rebound by M. Morris,,55,62
+3,7:30.0,J. Tatum makes 2-pt jump shot from 16 ft,,57,62
+3,7:14.0,,J. Wall misses 2-pt jump shot from 13 ft,57,62
+3,7:11.0,Defensive rebound by M. Smart,,57,62
+3,7:01.0,J. Tatum makes 2-pt jump shot from 18 ft (assist by M. Smart),,59,62
+3,6:36.0,,Turnover by B. Beal (bad pass; steal by J. Tatum),59,62
+3,6:30.0,M. Morris makes 2-pt layup from 2 ft (assist by K. Irving),,61,62
+3,6:11.0,,T. Satoranský misses 3-pt jump shot from 24 ft,61,62
+3,6:09.0,Defensive rebound by M. Smart,,61,62
+3,6:05.0,Shooting foul by J. Green (drawn by M. Smart),,61,62
+3,6:05.0,M. Smart makes free throw 1 of 2,,62,62
+3,6:05.0,,K. Oubre enters the game for T. Satoranský,62,62
+3,6:05.0,M. Smart makes free throw 2 of 2,,63,62
+3,5:42.0,,Offensive foul by B. Beal (drawn by M. Smart),63,62
+3,5:42.0,,Turnover by B. Beal (offensive foul),63,62
+3,5:25.0,J. Tatum misses 3-pt jump shot from 27 ft,,63,62
+3,5:21.0,,Defensive rebound by B. Beal,63,62
+3,5:18.0,,Turnover by J. Wall (lost ball; steal by K. Irving),63,62
+3,5:15.0,Shooting foul by J. Green (drawn by M. Smart),,63,62
+3,5:15.0,M. Smart makes free throw 1 of 2,,64,62
+3,5:15.0,D. Theis enters the game for A. Baynes,,64,62
+3,5:15.0,M. Smart makes free throw 2 of 2,,65,62
+3,5:07.0,,Shooting foul by D. Theis (drawn by J. Wall),65,62
+3,5:07.0,,J. Wall misses free throw 1 of 2,65,62
+3,5:07.0,,Offensive rebound by Team,65,62
+3,5:07.0,T. Rozier enters the game for J. Tatum,,65,62
+3,5:07.0,,J. Wall misses free throw 2 of 2,65,62
+3,5:04.0,Defensive rebound by M. Morris,,65,62
+3,4:57.0,Personal foul by M. Morris (drawn by D. Theis),,65,62
+3,4:47.0,Offensive foul by D. Theis (drawn by B. Beal),,65,62
+3,4:47.0,Turnover by D. Theis (offensive foul),,65,62
+3,4:28.0,,B. Beal makes 2-pt layup at rim (assist by J. Wall),65,64
+3,4:20.0,K. Irving makes 2-pt jump shot from 7 ft,,67,64
+3,4:03.0,,K. Oubre makes 2-pt jump shot from 9 ft (assist by J. Wall),67,66
+3,3:51.0,M. Morris makes 3-pt jump shot from 27 ft (assist by D. Theis),,70,66
+3,3:43.0,,Turnover by M. Morris (bad pass; steal by T. Rozier),70,66
+3,3:41.0,T. Rozier makes 3-pt jump shot from 25 ft (assist by K. Irving),,73,66
+3,3:41.0,,Washington full timeout,73,66
+3,3:41.0,R. Williams enters the game for D. Theis,,73,66
+3,3:21.0,,J. Green makes 3-pt jump shot from 23 ft (assist by B. Beal),73,69
+3,3:04.0,Personal foul by B. Beal (drawn by K. Irving),,73,69
+3,3:04.0,K. Irving makes free throw 1 of 2,,74,69
+3,3:04.0,,A. Rivers enters the game for B. Beal,74,69
+3,3:04.0,K. Irving makes free throw 2 of 2,,75,69
+3,2:51.0,,J. Wall makes 2-pt layup from 1 ft,75,71
+3,2:51.0,,Shooting foul by R. Williams (drawn by J. Wall),75,71
+3,2:51.0,S. Ojeleye enters the game for M. Smart,,75,71
+3,2:51.0,,J. Wall makes free throw 1 of 1,75,72
+3,2:35.0,R. Williams makes 2-pt dunk from 2 ft (assist by K. Irving),,77,72
+3,2:15.0,,J. Wall makes 2-pt jump shot from 15 ft,77,74
+3,2:01.0,K. Irving misses 2-pt layup from 2 ft,,77,74
+3,1:56.0,Offensive rebound by R. Williams,,77,74
+3,1:56.0,R. Williams misses 2-pt layup at rim,,77,74
+3,1:55.0,Offensive rebound by T. Rozier,,77,74
+3,1:53.0,K. Irving makes 3-pt jump shot from 24 ft (assist by T. Rozier),,80,74
+3,1:35.0,,J. Green makes 3-pt jump shot from 24 ft (assist by J. Wall),80,77
+3,1:20.0,Turnover by K. Irving (lost ball; steal by J. Wall),,80,77
+3,1:16.0,,J. Wall misses 3-pt jump shot from 27 ft,80,77
+3,1:13.0,Defensive rebound by M. Morris,,80,77
+3,1:06.0,Boston full timeout,,80,77
+3,1:06.0,J. Tatum enters the game for K. Irving,,80,77
+3,1:06.0,B. Wanamaker enters the game for M. Morris,,80,77
+3,1:06.0,,T. Satoranský enters the game for J. Wall,80,77
+3,1:01.0,Personal foul by M. Morris (drawn by T. Rozier),,80,77
+3,1:01.0,T. Rozier makes free throw 1 of 2,,81,77
+3,1:01.0,T. Rozier makes free throw 2 of 2,,82,77
+3,0:38.0,,J. Green misses 2-pt jump shot from 13 ft,82,77
+3,0:35.0,Defensive rebound by J. Tatum,,82,77
+3,0:28.0,J. Tatum misses 2-pt jump shot from 17 ft,,82,77
+3,0:26.0,,Defensive rebound by M. Morris,82,77
+3,0:21.0,,K. Oubre misses 3-pt jump shot from 26 ft,82,77
+3,0:18.0,Defensive rebound by Team,,82,77
+3,0:18.0,K. Irving enters the game for S. Ojeleye,,82,77
+3,0:18.0,M. Morris enters the game for B. Wanamaker,,82,77
+3,0:00.0,M. Morris makes 2-pt jump shot from 21 ft (assist by T. Rozier),,84,77
+4,11:47.0,Turnover by B. Wanamaker (lost ball; steal by K. Oubre),,84,77
+4,11:44.0,,K. Oubre makes 2-pt layup from 3 ft,84,79
+4,11:27.0,Personal foul by M. Morris (drawn by J. Tatum),,84,79
+4,11:15.0,S. Ojeleye misses 3-pt jump shot from 28 ft,,84,79
+4,11:11.0,,Defensive rebound by J. Green,84,79
+4,11:01.0,,Personal foul by T. Rozier (drawn by A. Rivers),84,79
+4,10:56.0,,Shooting foul by R. Williams (drawn by A. Rivers),84,79
+4,10:56.0,,A. Rivers misses free throw 1 of 2,84,79
+4,10:56.0,,Offensive rebound by Team,84,79
+4,10:56.0,A. Baynes enters the game for R. Williams,,84,79
+4,10:56.0,,A. Rivers makes free throw 2 of 2,84,80
+4,10:38.0,Turnover by S. Ojeleye (bad pass; steal by T. Satoranský),,84,80
+4,10:32.0,,A. Rivers misses 3-pt jump shot from 26 ft,84,80
+4,10:30.0,Defensive rebound by J. Tatum,,84,80
+4,10:17.0,Turnover by T. Rozier (lost ball; steal by A. Rivers),,84,80
+4,10:14.0,,K. Oubre makes 2-pt dunk from 1 ft (assist by A. Rivers),84,82
+4,9:52.0,S. Ojeleye misses 3-pt jump shot from 26 ft,,84,82
+4,9:50.0,,Defensive rebound by A. Rivers,84,82
+4,9:39.0,,M. Morris makes 3-pt jump shot from 26 ft (assist by T. Satoranský),84,85
+4,9:37.0,Boston full timeout,,84,85
+4,9:37.0,M. Morris enters the game for S. Ojeleye,,84,85
+4,9:37.0,M. Smart enters the game for B. Wanamaker,,84,85
+4,9:25.0,M. Morris makes 2-pt layup from 3 ft (assist by A. Baynes),,86,85
+4,9:10.0,,M. Morris misses 2-pt jump shot from 12 ft,86,85
+4,9:07.0,Defensive rebound by J. Tatum,,86,85
+4,8:50.0,M. Morris makes 2-pt jump shot from 10 ft,,88,85
+4,8:30.0,,K. Oubre makes 3-pt jump shot from 26 ft (assist by T. Satoranský),88,88
+4,8:05.0,Shooting foul by M. Morris (drawn by M. Smart),,88,88
+4,8:05.0,M. Smart makes free throw 1 of 2,,89,88
+4,8:05.0,D. Theis enters the game for A. Baynes,,89,88
+4,8:05.0,,T. Bryant enters the game for M. Morris,89,88
+4,8:05.0,,J. Wall enters the game for T. Satoranský,89,88
+4,8:05.0,M. Smart makes free throw 2 of 2,,90,88
+4,7:53.0,,A. Rivers misses 2-pt jump shot from 6 ft,90,88
+4,7:52.0,,Offensive rebound by T. Bryant,90,88
+4,7:51.0,,T. Bryant makes 2-pt layup from 4 ft,90,90
+4,7:27.0,T. Rozier misses 2-pt layup from 6 ft,,90,90
+4,7:26.0,Offensive rebound by D. Theis,,90,90
+4,7:26.0,D. Theis makes 2-pt layup from 3 ft,,92,90
+4,7:18.0,,Shooting foul by D. Theis (drawn by K. Oubre),92,90
+4,7:18.0,R. Williams enters the game for D. Theis,,92,90
+4,7:18.0,,B. Beal enters the game for A. Rivers,92,90
+4,7:18.0,,K. Oubre makes free throw 1 of 2,92,91
+4,7:18.0,,K. Oubre misses free throw 2 of 2,92,91
+4,7:16.0,Defensive rebound by R. Williams,,92,91
+4,7:16.0,K. Irving enters the game for J. Tatum,,92,91
+4,6:58.0,T. Rozier misses 3-pt jump shot from 27 ft,,92,91
+4,6:55.0,,Defensive rebound by T. Bryant,92,91
+4,6:45.0,,T. Bryant makes 2-pt dunk from 1 ft (assist by J. Wall),92,93
+4,6:29.0,K. Irving misses 2-pt jump shot from 16 ft,,92,93
+4,6:25.0,,Defensive rebound by Team,92,93
+4,6:21.0,,Turnover by J. Wall (bad pass),92,93
+4,6:14.0,Personal foul by K. Oubre (drawn by K. Irving),,92,93
+4,6:05.0,M. Morris misses 2-pt jump shot from 21 ft,,92,93
+4,6:01.0,,Defensive rebound by T. Bryant,92,93
+4,5:46.0,,J. Wall makes 2-pt layup from 1 ft,92,95
+4,5:37.0,T. Rozier misses 3-pt jump shot from 24 ft,,92,95
+4,5:33.0,Offensive rebound by R. Williams,,92,95
+4,5:32.0,R. Williams makes 2-pt layup from 1 ft,,94,95
+4,5:14.0,,J. Wall makes 2-pt layup from 1 ft,94,97
+4,5:02.0,R. Williams makes 2-pt dunk from 3 ft (assist by K. Irving),,96,97
+4,4:49.0,,Personal foul by T. Rozier (drawn by B. Beal),96,97
+4,4:40.0,,Turnover by B. Beal (bad pass),96,97
+4,4:25.0,Turnover by K. Irving (lost ball; steal by T. Bryant),,96,97
+4,4:23.0,,Turnover by B. Beal (out of bounds lost ball),96,97
+4,4:23.0,Boston full timeout,,96,97
+4,4:23.0,J. Tatum enters the game for R. Williams,,96,97
+4,4:11.0,K. Irving misses 3-pt jump shot from 27 ft,,96,97
+4,4:08.0,,Defensive rebound by J. Green,96,97
+4,3:54.0,,J. Green makes 2-pt layup from 2 ft (assist by J. Wall),96,99
+4,3:45.0,M. Smart makes 2-pt layup from 2 ft,,98,99
+4,3:45.0,Shooting foul by J. Green (drawn by M. Smart),,98,99
+4,3:45.0,,M. Morris enters the game for T. Bryant,98,99
+4,3:45.0,M. Smart makes free throw 1 of 1,,99,99
+4,3:25.0,,J. Wall misses 2-pt jump shot from 14 ft,99,99
+4,3:22.0,Defensive rebound by M. Morris,,99,99
+4,3:16.0,M. Smart misses 3-pt jump shot from 25 ft,,99,99
+4,3:13.0,,Defensive rebound by J. Green,99,99
+4,3:08.0,,J. Wall makes 2-pt layup from 1 ft,99,101
+4,2:47.0,Shooting foul by K. Oubre (drawn by M. Morris),,99,101
+4,2:47.0,M. Morris makes free throw 1 of 2,,100,101
+4,2:47.0,M. Morris makes free throw 2 of 2,,101,101
+4,2:35.0,,B. Beal misses 2-pt jump shot from 16 ft,101,101
+4,2:31.0,,Offensive rebound by K. Oubre,101,101
+4,2:30.0,,K. Oubre misses 3-pt jump shot from 23 ft,101,101
+4,2:25.0,Defensive rebound by J. Tatum,,101,101
+4,2:08.0,K. Irving makes 2-pt layup from 1 ft,,103,101
+4,2:08.0,,Washington full timeout,103,101
+4,1:57.0,,B. Beal makes 3-pt jump shot from 23 ft (assist by J. Wall),103,104
+4,1:37.0,M. Morris misses 2-pt dunk from 3 ft (block by J. Wall),,103,104
+4,1:33.0,Offensive rebound by M. Morris,,103,104
+4,1:32.0,M. Morris makes 2-pt layup from 3 ft,,105,104
+4,1:30.0,,Offensive foul by J. Wall (drawn by K. Irving),105,104
+4,1:30.0,,Turnover by J. Wall (offensive foul),105,104
+4,1:15.0,Personal foul by M. Morris (drawn by M. Morris),,105,104
+4,1:15.0,M. Morris makes free throw 1 of 2,,106,104
+4,1:15.0,M. Morris makes free throw 2 of 2,,107,104
+4,1:05.0,,J. Wall makes 2-pt dunk from 3 ft (assist by B. Beal),107,106
+4,0:56.0,K. Irving misses 3-pt jump shot from 28 ft,,107,106
+4,0:53.0,Offensive rebound by M. Morris,,107,106
+4,0:53.0,M. Morris makes 2-pt layup from 2 ft,,109,106
+4,0:48.0,,J. Wall makes 2-pt layup from 1 ft,109,108
+4,0:29.0,Personal foul by B. Beal (drawn by K. Irving),,109,108
+4,0:29.0,K. Irving makes free throw 1 of 2,,110,108
+4,0:29.0,A. Baynes enters the game for T. Rozier,,110,108
+4,0:29.0,K. Irving makes free throw 2 of 2,,111,108
+4,0:23.0,,J. Wall makes 2-pt layup from 2 ft,111,110
+4,0:13.0,J. Tatum makes 2-pt dunk from 3 ft (assist by K. Irving),,113,110
+4,0:13.0,,Washington full timeout,113,110
+4,0:13.0,S. Ojeleye enters the game for A. Baynes,,113,110
+4,0:13.0,T. Rozier enters the game for K. Irving,,113,110
+4,0:13.0,,Personal foul by M. Smart (drawn by B. Beal),113,110
+4,0:13.0,,B. Beal makes free throw 1 of 2,113,111
+4,0:13.0,A. Baynes enters the game for S. Ojeleye,,113,111
+4,0:13.0,,B. Beal misses free throw 2 of 2,113,111
+4,0:11.0,,Offensive rebound by B. Beal,113,111
+4,0:11.0,,B. Beal makes 2-pt layup from 1 ft,113,113
+4,0:11.0,Boston full timeout,,113,113
+4,0:11.0,K. Irving enters the game for A. Baynes,,113,113
+4,0:00.0,K. Irving misses 2-pt layup from 6 ft,,113,113
+4,0:00.0,Offensive rebound by Team,,113,113
+1OT,4:41.0,,J. Wall misses 2-pt jump shot from 16 ft,113,113
+1OT,4:38.0,Defensive rebound by M. Morris,,113,113
+1OT,4:24.0,M. Smart misses 2-pt jump shot from 13 ft,,113,113
+1OT,4:23.0,Offensive rebound by Team,,113,113
+1OT,4:23.0,,Loose ball foul by J. Green (drawn by R. Williams),113,113
+1OT,4:23.0,,Violation by Team (delay of game),113,113
+1OT,4:23.0,T. Rozier enters the game for R. Williams,,113,113
+1OT,4:19.0,K. Irving misses 2-pt jump shot from 7 ft,,113,113
+1OT,4:16.0,,Defensive rebound by J. Wall,113,113
+1OT,4:13.0,,Shooting foul by M. Morris (drawn by J. Wall),113,113
+1OT,4:13.0,,J. Wall misses free throw 1 of 2,113,113
+1OT,4:13.0,,Offensive rebound by Team,113,113
+1OT,4:13.0,,J. Wall makes free throw 2 of 2,113,114
+1OT,3:59.0,J. Tatum misses 2-pt layup from 7 ft,,113,114
+1OT,3:56.0,Offensive rebound by M. Smart,,113,114
+1OT,3:56.0,T. Rozier makes 3-pt jump shot from 25 ft (assist by M. Smart),,116,114
+1OT,3:40.0,,B. Beal misses 2-pt jump shot from 16 ft,116,114
+1OT,3:37.0,Defensive rebound by J. Tatum,,116,114
+1OT,3:28.0,M. Morris misses 3-pt jump shot from 26 ft,,116,114
+1OT,3:26.0,Offensive rebound by M. Smart,,116,114
+1OT,3:25.0,M. Smart makes 2-pt layup from 1 ft,,118,114
+1OT,3:24.0,,Washington full timeout,118,114
+1OT,3:12.0,,M. Morris misses 2-pt hook shot from 8 ft,118,114
+1OT,3:11.0,Defensive rebound by J. Tatum,,118,114
+1OT,2:58.0,K. Irving makes 2-pt jump shot from 3 ft,,120,114
+1OT,2:41.0,,J. Wall makes 2-pt layup from 1 ft,120,116
+1OT,2:22.0,K. Irving misses 2-pt jump shot from 18 ft,,120,116
+1OT,2:20.0,,Defensive rebound by B. Beal,120,116
+1OT,2:10.0,,J. Wall makes 2-pt layup from 2 ft,120,118
+1OT,2:02.0,Personal take foul by K. Oubre (drawn by K. Irving),,120,118
+1OT,2:02.0,,Washington full timeout,120,118
+1OT,2:02.0,,T. Satoranský enters the game for J. Wall,120,118
+1OT,1:47.0,M. Morris misses 2-pt jump shot from 21 ft,,120,118
+1OT,1:45.0,,Defensive rebound by M. Morris,120,118
+1OT,1:33.0,,K. Oubre makes 3-pt jump shot from 27 ft (assist by B. Beal),120,121
+1OT,1:17.0,Shooting foul by T. Satoranský (drawn by K. Irving),,120,121
+1OT,1:17.0,K. Irving makes free throw 1 of 2,,121,121
+1OT,1:17.0,,J. Wall enters the game for T. Satoranský,121,121
+1OT,1:17.0,K. Irving makes free throw 2 of 2,,122,121
+1OT,1:00.0,,B. Beal misses 2-pt jump shot from 8 ft,122,121
+1OT,0:59.0,,Offensive rebound by M. Morris,122,121
+1OT,0:58.0,,M. Morris makes 2-pt layup from 3 ft,122,123
+1OT,0:38.0,K. Irving makes 3-pt jump shot from 26 ft,,125,123
+1OT,0:30.0,,J. Wall makes 2-pt layup from 2 ft,125,125
+1OT,0:17.0,K. Irving makes 3-pt jump shot from 31 ft,,128,125
+1OT,0:11.0,,B. Beal misses 3-pt jump shot from 30 ft,128,125
+1OT,0:07.0,,Offensive rebound by J. Green,128,125
+1OT,0:05.0,,J. Wall misses 3-pt jump shot from 25 ft,128,125
+1OT,0:03.0,Defensive rebound by Team,,128,125
+1OT,0:03.0,Boston full timeout,,128,125
+1OT,0:02.0,Personal take foul by M. Morris (drawn by K. Irving),,128,125
+1OT,0:02.0,,T. Bryant enters the game for M. Morris,128,125
+1OT,0:02.0,K. Irving makes free throw 1 of 2,,129,125
+1OT,0:02.0,K. Irving makes free throw 2 of 2,,130,125
+1OT,0:00.0,,J. Green misses 3-pt jump shot from 61 ft,130,125
+1OT,0:00.0,,Offensive rebound by Team,130,125

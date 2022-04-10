@@ -1,0 +1,490 @@
+QUARTER,TIME_REMAINING,UTAH_ACTION,MINNESOTA_ACTION,UTAH_SCORE,MINNESOTA_SCORE
+1,11:43.0,D. Mitchell misses 2-pt jump shot from 8 ft,,0,0
+1,11:40.0,,Defensive rebound by A. Wiggins,0,0
+1,11:34.0,,J. Okogie misses 3-pt jump shot from 23 ft,0,0
+1,11:32.0,Defensive rebound by R. Gobert,,0,0
+1,11:29.0,J. Ingles misses 3-pt jump shot from 23 ft,,0,0
+1,11:27.0,Offensive rebound by D. Favors,,0,0
+1,11:20.0,D. Mitchell makes 3-pt jump shot from 25 ft,,3,0
+1,11:01.0,,D. Rose misses 2-pt jump shot from 4 ft,3,0
+1,10:59.0,Defensive rebound by J. Ingles,,3,0
+1,10:41.0,D. Mitchell misses 3-pt jump shot from 27 ft,,3,0
+1,10:38.0,,Defensive rebound by K. Towns,3,0
+1,10:17.0,,D. Rose makes 3-pt jump shot from 25 ft (assist by K. Towns),3,3
+1,10:00.0,J. Ingles makes 2-pt layup from 4 ft,,5,3
+1,9:50.0,,D. Rose makes 2-pt layup from 1 ft (assist by T. Gibson),5,5
+1,9:34.0,R. Gobert makes 2-pt dunk from 1 ft (assist by R. Rubio),,7,5
+1,9:23.0,,Turnover by J. Okogie (bad pass; steal by D. Mitchell),7,5
+1,9:18.0,R. Gobert makes 2-pt layup from 6 ft (assist by J. Ingles),,9,5
+1,9:18.0,Shooting foul by T. Gibson (drawn by R. Gobert),,9,5
+1,9:18.0,R. Gobert misses free throw 1 of 1,,9,5
+1,9:18.0,,Defensive rebound by K. Towns,9,5
+1,9:06.0,,A. Wiggins misses 2-pt jump shot from 15 ft,9,5
+1,9:03.0,Defensive rebound by J. Ingles,,9,5
+1,8:58.0,,Violation by Team (kicked ball),9,5
+1,8:52.0,D. Mitchell misses 2-pt layup from 3 ft (block by J. Okogie),,9,5
+1,8:49.0,,Defensive rebound by K. Towns,9,5
+1,8:45.0,,Turnover by D. Rose (bad pass; steal by R. Rubio),9,5
+1,8:40.0,D. Favors makes 2-pt dunk from 2 ft (assist by R. Rubio),,11,5
+1,8:40.0,,Minnesota full timeout,11,5
+1,8:26.0,,T. Gibson makes 2-pt jump shot from 19 ft (assist by D. Rose),11,7
+1,8:05.0,D. Mitchell misses 2-pt jump shot from 18 ft,,11,7
+1,8:02.0,,Defensive rebound by T. Gibson,11,7
+1,7:58.0,,D. Rose makes 2-pt jump shot from 6 ft,11,9
+1,7:58.0,,Shooting foul by R. Gobert (drawn by D. Rose),11,9
+1,7:58.0,,D. Rose makes free throw 1 of 1,11,10
+1,7:48.0,R. Rubio makes 2-pt jump shot from 8 ft,,13,10
+1,7:45.0,,Personal foul by R. Rubio (drawn by D. Rose),13,10
+1,7:42.0,,Turnover by A. Wiggins (bad pass; steal by R. Rubio),13,10
+1,7:38.0,Turnover by R. Rubio (bad pass; steal by K. Towns),,13,10
+1,7:33.0,,Turnover by J. Okogie (step out of bounds),13,10
+1,7:18.0,D. Favors misses 3-pt jump shot from 22 ft,,13,10
+1,7:15.0,,Defensive rebound by A. Wiggins,13,10
+1,7:09.0,,A. Wiggins misses 2-pt jump shot from 12 ft,13,10
+1,7:08.0,Defensive rebound by Team,,13,10
+1,6:56.0,Turnover by D. Mitchell (bad pass; steal by D. Rose),,13,10
+1,6:54.0,,Personal foul by J. Ingles (drawn by D. Rose),13,10
+1,6:54.0,J. Crowder enters the game for D. Favors,,13,10
+1,6:54.0,R. O'Neale enters the game for J. Ingles,,13,10
+1,6:40.0,,T. Gibson misses 2-pt layup from 2 ft,13,10
+1,6:37.0,Defensive rebound by R. O'Neale,,13,10
+1,6:33.0,Turnover by R. Rubio (step out of bounds),,13,10
+1,6:23.0,,Shooting foul by J. Crowder (drawn by D. Rose),13,10
+1,6:23.0,,D. Rose misses free throw 1 of 2,13,10
+1,6:23.0,,Offensive rebound by Team,13,10
+1,6:23.0,,D. Rose misses free throw 2 of 2,13,10
+1,6:20.0,Defensive rebound by R. Gobert,,13,10
+1,6:13.0,Personal foul by J. Okogie (drawn by R. Rubio),,13,10
+1,6:01.0,R. O'Neale makes 2-pt layup from 6 ft,,15,10
+1,5:52.0,,Shooting foul by R. Gobert (drawn by D. Rose),15,10
+1,5:52.0,,D. Rose makes free throw 1 of 2,15,11
+1,5:52.0,D. Favors enters the game for R. Gobert,,15,11
+1,5:52.0,,D. Rose makes free throw 2 of 2,15,12
+1,5:42.0,D. Mitchell misses 2-pt jump shot from 7 ft,,15,12
+1,5:40.0,,Defensive rebound by K. Towns,15,12
+1,5:37.0,,T. Gibson makes 2-pt dunk at rim (assist by K. Towns),15,14
+1,5:25.0,Turnover by R. Rubio (bad pass),,15,14
+1,5:25.0,,J. Nunnally enters the game for A. Wiggins,15,14
+1,5:04.0,,D. Rose misses 2-pt layup from 6 ft,15,14
+1,5:02.0,Defensive rebound by D. Favors,,15,14
+1,4:55.0,Turnover by J. Crowder (bad pass; steal by T. Gibson),,15,14
+1,4:39.0,,K. Towns misses 2-pt jump shot from 20 ft,15,14
+1,4:38.0,Defensive rebound by R. O'Neale,,15,14
+1,4:31.0,J. Crowder makes 3-pt jump shot from 25 ft (assist by D. Mitchell),,18,14
+1,4:12.0,,K. Towns makes 2-pt dunk from 1 ft (assist by J. Nunnally),18,16
+1,4:12.0,Utah full timeout,,18,16
+1,4:02.0,D. Mitchell makes 2-pt jump shot from 17 ft,,20,16
+1,3:37.0,,K. Towns makes 3-pt jump shot from 24 ft (assist by J. Nunnally),20,19
+1,3:37.0,D. Exum enters the game for R. O'Neale,,20,19
+1,3:37.0,J. Ingles enters the game for R. Rubio,,20,19
+1,3:19.0,J. Crowder misses 2-pt jump shot from 20 ft,,20,19
+1,3:18.0,,Defensive rebound by D. Rose,20,19
+1,3:13.0,,D. Rose makes 3-pt jump shot from 26 ft,20,22
+1,2:57.0,D. Mitchell misses 3-pt jump shot from 26 ft,,20,22
+1,2:56.0,,Defensive rebound by K. Towns,20,22
+1,2:46.0,,K. Towns makes 2-pt layup from 1 ft (assist by D. Rose),20,24
+1,2:34.0,Turnover by J. Ingles (bad pass; steal by J. Okogie),,20,24
+1,2:31.0,,J. Okogie makes 2-pt dunk from 1 ft,20,26
+1,2:29.0,Utah full timeout,,20,26
+1,2:29.0,G. Allen enters the game for D. Mitchell,,20,26
+1,2:15.0,J. Crowder misses 3-pt jump shot from 25 ft,,20,26
+1,2:13.0,,Defensive rebound by J. Nunnally,20,26
+1,2:11.0,,Offensive foul by T. Gibson (drawn by D. Favors),20,26
+1,2:11.0,,Turnover by T. Gibson (offensive foul),20,26
+1,2:03.0,Personal foul by J. Nunnally (drawn by J. Crowder),,20,26
+1,2:03.0,E. Udoh enters the game for D. Favors,,20,26
+1,2:03.0,,G. Dieng enters the game for T. Gibson,20,26
+1,2:03.0,,A. Tolliver enters the game for K. Towns,20,26
+1,1:53.0,Shooting foul by G. Dieng (drawn by E. Udoh),,20,26
+1,1:53.0,E. Udoh makes free throw 1 of 2,,21,26
+1,1:53.0,E. Udoh misses free throw 2 of 2,,21,26
+1,1:51.0,,Defensive rebound by G. Dieng,21,26
+1,1:28.0,,D. Rose misses 2-pt jump shot from 15 ft,21,26
+1,1:27.0,,Offensive rebound by J. Okogie,21,26
+1,1:27.0,,J. Okogie makes 2-pt layup from 1 ft,21,28
+1,1:09.0,J. Ingles misses 3-pt jump shot from 25 ft,,21,28
+1,1:09.0,Offensive rebound by J. Crowder,,21,28
+1,1:06.0,J. Crowder misses 2-pt layup from 3 ft,,21,28
+1,1:04.0,,Defensive rebound by D. Rose,21,28
+1,0:57.0,,D. Rose misses 2-pt layup from 3 ft,21,28
+1,0:55.0,Defensive rebound by E. Udoh,,21,28
+1,0:43.0,J. Crowder misses 3-pt jump shot from 25 ft,,21,28
+1,0:40.0,,Defensive rebound by J. Okogie,21,28
+1,0:38.0,,G. Dieng makes 2-pt layup from 1 ft (assist by D. Rose),21,30
+1,0:32.0,Shooting foul by A. Tolliver (drawn by D. Exum),,21,30
+1,0:32.0,D. Exum makes free throw 1 of 2,,22,30
+1,0:32.0,D. Exum misses free throw 2 of 2,,22,30
+1,0:31.0,,Defensive rebound by J. Nunnally,22,30
+1,0:10.0,,J. Nunnally makes 2-pt layup from 2 ft (assist by D. Rose),22,32
+1,0:00.0,J. Crowder makes 3-pt jump shot from 25 ft (assist by D. Exum),,25,32
+2,11:48.0,,A. Wiggins makes 2-pt layup from 2 ft,25,34
+2,11:48.0,,Shooting foul by E. Udoh (drawn by A. Wiggins),25,34
+2,11:48.0,,A. Wiggins misses free throw 1 of 1,25,34
+2,11:48.0,Defensive rebound by J. Crowder,,25,34
+2,11:40.0,Personal foul by A. Wiggins (drawn by D. Exum),,25,34
+2,11:40.0,R. Gobert enters the game for J. Crowder,,25,34
+2,11:40.0,G. Niang enters the game for E. Udoh,,25,34
+2,11:26.0,G. Niang misses 3-pt jump shot from 25 ft,,25,34
+2,11:23.0,,Defensive rebound by A. Wiggins,25,34
+2,11:14.0,,G. Dieng misses 2-pt jump shot from 10 ft,25,34
+2,11:12.0,Defensive rebound by R. Gobert,,25,34
+2,10:57.0,R. Gobert makes 2-pt dunk from 1 ft (assist by G. Niang),,27,34
+2,10:46.0,,A. Wiggins makes 3-pt jump shot from 27 ft (assist by G. Dieng),27,37
+2,10:25.0,R. Gobert makes 2-pt dunk from 1 ft (assist by D. Exum),,29,37
+2,10:11.0,,J. Nunnally misses 2-pt jump shot from 5 ft,29,37
+2,10:10.0,,Offensive rebound by G. Dieng,29,37
+2,10:10.0,,G. Dieng makes 2-pt layup from 1 ft,29,39
+2,9:55.0,G. Niang makes 3-pt jump shot from 22 ft (assist by J. Ingles),,32,39
+2,9:36.0,,G. Dieng misses 2-pt jump shot from 20 ft,32,39
+2,9:33.0,Defensive rebound by R. Gobert,,32,39
+2,9:21.0,D. Exum misses 3-pt jump shot from 25 ft,,32,39
+2,9:16.0,Offensive rebound by R. Gobert,,32,39
+2,9:12.0,G. Niang makes 3-pt jump shot from 25 ft (assist by G. Allen),,35,39
+2,9:04.0,,Minnesota full timeout,35,39
+2,9:04.0,,K. Towns enters the game for G. Dieng,35,39
+2,8:58.0,,A. Wiggins makes 2-pt jump shot from 13 ft,35,41
+2,8:45.0,D. Exum makes 2-pt layup from 2 ft,,37,41
+2,8:30.0,,K. Towns makes 3-pt jump shot from 24 ft (assist by A. Wiggins),37,44
+2,8:14.0,G. Allen misses 2-pt jump shot from 20 ft,,37,44
+2,8:11.0,,Defensive rebound by K. Towns,37,44
+2,8:04.0,,C. Williams makes 2-pt jump shot from 14 ft,37,46
+2,7:48.0,R. Gobert makes 2-pt layup from 2 ft (assist by G. Allen),,39,46
+2,7:37.0,,K. Towns makes 3-pt jump shot from 24 ft,39,49
+2,7:15.0,J. Ingles makes 2-pt layup from 3 ft,,41,49
+2,6:51.0,,A. Tolliver misses 3-pt jump shot from 24 ft,41,49
+2,6:49.0,Defensive rebound by D. Exum,,41,49
+2,6:45.0,J. Ingles misses 3-pt jump shot from 25 ft,,41,49
+2,6:41.0,Offensive rebound by R. Gobert,,41,49
+2,6:40.0,R. Gobert misses 2-pt layup from 3 ft,,41,49
+2,6:37.0,,Defensive rebound by K. Towns,41,49
+2,6:29.0,,Turnover by K. Towns (bad pass; steal by J. Ingles),41,49
+2,6:27.0,J. Ingles makes 2-pt layup from 2 ft,,43,49
+2,6:27.0,,Violation by Team (def goaltending),43,49
+2,6:24.0,,Personal foul by D. Exum (drawn by K. Towns),43,49
+2,6:24.0,D. Mitchell enters the game for G. Allen,,43,49
+2,6:24.0,R. O'Neale enters the game for D. Exum,,43,49
+2,6:24.0,R. Rubio enters the game for J. Ingles,,43,49
+2,6:24.0,,D. Rose enters the game for C. Williams,43,49
+2,6:11.0,,A. Wiggins misses 3-pt jump shot from 25 ft,43,49
+2,6:08.0,Defensive rebound by G. Niang,,43,49
+2,6:03.0,R. O'Neale misses 2-pt layup from 8 ft (block by K. Towns),,43,49
+2,6:00.0,,Defensive rebound by A. Tolliver,43,49
+2,5:59.0,,A. Wiggins misses 2-pt layup from 1 ft (block by D. Mitchell),43,49
+2,5:57.0,,Offensive rebound by Team,43,49
+2,5:57.0,J. Crowder enters the game for G. Niang,,43,49
+2,5:57.0,,T. Gibson enters the game for A. Tolliver,43,49
+2,5:47.0,,Turnover by D. Rose (bad pass; steal by R. Gobert),43,49
+2,5:43.0,R. O'Neale makes 2-pt layup from 3 ft (assist by R. Rubio),,45,49
+2,5:35.0,,Shooting foul by D. Mitchell (drawn by D. Rose),45,49
+2,5:35.0,,D. Rose misses free throw 1 of 2,45,49
+2,5:35.0,,Offensive rebound by Team,45,49
+2,5:35.0,,J. Okogie enters the game for J. Nunnally,45,49
+2,5:35.0,,D. Rose makes free throw 2 of 2,45,50
+2,5:19.0,Turnover by R. Rubio (bad pass; steal by A. Wiggins),,45,50
+2,5:12.0,,J. Okogie makes 2-pt layup from 1 ft,45,52
+2,4:54.0,R. Gobert makes 2-pt dunk from 1 ft (assist by R. Rubio),,47,52
+2,4:34.0,,A. Wiggins makes 3-pt jump shot from 26 ft (assist by K. Towns),47,55
+2,4:16.0,R. Gobert makes 2-pt layup from 1 ft (assist by D. Mitchell),,49,55
+2,3:58.0,,K. Towns makes 2-pt hook shot from 8 ft,49,57
+2,3:40.0,Shooting foul by T. Gibson (drawn by R. Gobert),,49,57
+2,3:40.0,R. Gobert misses free throw 1 of 2,,49,57
+2,3:40.0,Offensive rebound by Team,,49,57
+2,3:40.0,J. Ingles enters the game for R. O'Neale,,49,57
+2,3:40.0,,A. Tolliver enters the game for T. Gibson,49,57
+2,3:40.0,R. Gobert makes free throw 2 of 2,,50,57
+2,3:30.0,,D. Rose misses 3-pt jump shot from 24 ft,50,57
+2,3:26.0,Defensive rebound by R. Gobert,,50,57
+2,3:19.0,J. Crowder misses 2-pt layup from 2 ft (block by A. Wiggins),,50,57
+2,3:17.0,,Defensive rebound by K. Towns,50,57
+2,3:17.0,Technical foul by J. Crowder,,50,57
+2,3:17.0,,A. Tolliver misses technical free throw,50,57
+2,3:17.0,,Offensive rebound by Team,50,57
+2,3:17.0,D. Favors enters the game for R. Gobert,,50,57
+2,3:11.0,,D. Rose misses 2-pt layup from 4 ft (block by R. Rubio),50,57
+2,3:10.0,,Offensive rebound by Team,50,57
+2,3:10.0,,Personal foul by D. Favors (drawn by K. Towns),50,57
+2,3:03.0,,Turnover by A. Wiggins (bad pass),50,57
+2,3:03.0,Utah full timeout,,50,57
+2,2:57.0,Personal foul by J. Okogie (drawn by D. Mitchell),,50,57
+2,2:48.0,D. Mitchell misses 2-pt jump shot from 8 ft,,50,57
+2,2:45.0,,Defensive rebound by K. Towns,50,57
+2,2:36.0,,D. Rose makes 2-pt jump shot from 8 ft,50,59
+2,2:30.0,D. Favors misses 2-pt layup from 2 ft (block by A. Tolliver),,50,59
+2,2:30.0,,Defensive rebound by D. Rose,50,59
+2,2:24.0,,A. Tolliver makes 3-pt jump shot from 24 ft (assist by D. Rose),50,62
+2,2:03.0,R. Rubio misses 2-pt layup from 1 ft,,50,62
+2,2:02.0,Offensive rebound by D. Favors,,50,62
+2,2:02.0,D. Favors misses 2-pt layup at rim,,50,62
+2,2:00.0,Offensive rebound by D. Favors,,50,62
+2,2:00.0,D. Favors makes 2-pt layup from 2 ft,,52,62
+2,1:38.0,,K. Towns misses 3-pt jump shot from 31 ft,52,62
+2,1:35.0,Defensive rebound by D. Favors,,52,62
+2,1:25.0,D. Mitchell misses 2-pt layup from 2 ft,,52,62
+2,1:25.0,,Defensive rebound by A. Tolliver,52,62
+2,1:12.0,,D. Rose misses 2-pt jump shot from 13 ft,52,62
+2,1:12.0,,Offensive rebound by K. Towns,52,62
+2,1:12.0,,Personal foul by R. Rubio (drawn by K. Towns),52,62
+2,1:12.0,,K. Towns misses free throw 1 of 2,52,62
+2,1:12.0,,Offensive rebound by Team,52,62
+2,1:12.0,,K. Towns makes free throw 2 of 2,52,63
+2,1:00.0,J. Ingles misses 3-pt jump shot from 24 ft,,52,63
+2,0:58.0,,Defensive rebound by K. Towns,52,63
+2,0:54.0,,A. Wiggins makes 2-pt jump shot from 16 ft,52,65
+2,0:42.0,R. Rubio misses 2-pt jump shot from 9 ft,,52,65
+2,0:40.0,,Defensive rebound by K. Towns,52,65
+2,0:34.0,,D. Rose misses 3-pt jump shot from 26 ft,52,65
+2,0:32.0,Defensive rebound by J. Ingles,,52,65
+2,0:25.0,J. Ingles makes 2-pt jump shot from 13 ft,,54,65
+2,0:05.0,,Offensive foul by K. Towns (drawn by R. Rubio),54,65
+2,0:05.0,,Turnover by K. Towns (offensive foul),54,65
+2,0:01.0,D. Mitchell misses 2-pt jump shot from 10 ft,,54,65
+2,0:00.0,Offensive rebound by D. Favors,,54,65
+2,0:00.0,D. Favors makes 2-pt layup at rim,,56,65
+3,11:47.0,,D. Rose makes 2-pt jump shot from 16 ft,56,67
+3,11:29.0,R. Gobert makes 2-pt dunk at rim (assist by J. Ingles),,58,67
+3,11:16.0,,D. Rose makes 2-pt layup from 1 ft,58,69
+3,11:03.0,D. Favors makes 3-pt jump shot from 23 ft (assist by R. Rubio),,61,69
+3,10:49.0,,K. Towns misses 3-pt jump shot from 26 ft,61,69
+3,10:46.0,Defensive rebound by R. Gobert,,61,69
+3,10:28.0,D. Favors misses 2-pt jump shot from 10 ft,,61,69
+3,10:26.0,Offensive rebound by R. Rubio,,61,69
+3,10:25.0,R. Rubio makes 2-pt layup from 1 ft,,63,69
+3,10:09.0,,A. Wiggins misses 3-pt jump shot from 28 ft,63,69
+3,10:07.0,Defensive rebound by J. Ingles,,63,69
+3,9:57.0,Shooting foul by A. Wiggins (drawn by R. Rubio),,63,69
+3,9:57.0,R. Rubio misses free throw 1 of 2,,63,69
+3,9:57.0,Offensive rebound by Team,,63,69
+3,9:57.0,R. Rubio makes free throw 2 of 2,,64,69
+3,9:37.0,,D. Rose makes 3-pt jump shot from 25 ft (assist by T. Gibson),64,72
+3,9:17.0,Personal foul by D. Rose (drawn by R. Rubio),,64,72
+3,9:12.0,D. Mitchell misses 2-pt layup from 3 ft (block by K. Towns),,64,72
+3,9:12.0,Offensive rebound by Team,,64,72
+3,9:08.0,D. Favors misses 3-pt jump shot from 23 ft,,64,72
+3,9:06.0,,Defensive rebound by J. Okogie,64,72
+3,8:54.0,,T. Gibson makes 2-pt layup from 2 ft,64,74
+3,8:33.0,D. Mitchell makes 3-pt jump shot from 25 ft (assist by J. Ingles),,67,74
+3,8:18.0,,A. Wiggins makes 2-pt jump shot from 14 ft,67,76
+3,8:04.0,R. Rubio misses 2-pt jump shot from 11 ft,,67,76
+3,8:02.0,Offensive rebound by R. Gobert,,67,76
+3,8:00.0,J. Ingles makes 3-pt jump shot from 24 ft (assist by R. Gobert),,70,76
+3,7:43.0,,Personal foul by D. Favors (drawn by K. Towns),70,76
+3,7:35.0,,D. Rose makes 2-pt jump shot from 14 ft,70,78
+3,7:17.0,D. Mitchell makes 2-pt layup at rim,,72,78
+3,7:00.0,,D. Rose makes 2-pt jump shot from 21 ft,72,80
+3,6:45.0,J. Ingles makes 2-pt jump shot from 3 ft,,74,80
+3,6:31.0,,D. Rose misses 2-pt jump shot from 14 ft,74,80
+3,6:29.0,Defensive rebound by J. Ingles,,74,80
+3,6:22.0,Turnover by J. Ingles (lost ball; steal by T. Gibson),,74,80
+3,6:22.0,,Personal foul by J. Ingles (drawn by T. Gibson),74,80
+3,6:22.0,,Minnesota full timeout,74,80
+3,6:22.0,J. Crowder enters the game for D. Favors,,74,80
+3,6:22.0,D. Exum enters the game for R. Rubio,,74,80
+3,6:07.0,,A. Wiggins misses 2-pt jump shot from 17 ft,74,80
+3,6:06.0,Defensive rebound by R. Gobert,,74,80
+3,5:58.0,D. Mitchell makes 3-pt jump shot from 26 ft,,77,80
+3,5:41.0,,Offensive foul by K. Towns (drawn by D. Exum),77,80
+3,5:41.0,,Turnover by K. Towns (offensive foul),77,80
+3,5:41.0,R. O'Neale enters the game for J. Ingles,,77,80
+3,5:32.0,D. Mitchell makes 2-pt layup at rim,,79,80
+3,5:32.0,,Violation by Team (def goaltending),79,80
+3,5:16.0,,D. Rose makes 2-pt jump shot from 15 ft,79,82
+3,5:03.0,D. Mitchell makes 2-pt jump shot from 13 ft (assist by R. Gobert),,81,82
+3,4:54.0,,Minnesota full timeout,81,82
+3,4:54.0,,J. Nunnally enters the game for A. Wiggins,81,82
+3,4:40.0,,D. Rose makes 2-pt jump shot from 21 ft,81,84
+3,4:23.0,R. Gobert makes 2-pt dunk at rim (assist by D. Mitchell),,83,84
+3,4:07.0,,J. Okogie makes 2-pt jump shot from 14 ft,83,86
+3,3:47.0,Personal foul by J. Nunnally (drawn by R. Gobert),,83,86
+3,3:47.0,,A. Tolliver enters the game for T. Gibson,83,86
+3,3:41.0,D. Mitchell makes 2-pt jump shot from 11 ft,,85,86
+3,3:22.0,,K. Towns misses 2-pt jump shot from 15 ft,85,86
+3,3:20.0,Defensive rebound by R. Gobert,,85,86
+3,3:15.0,J. Crowder makes 2-pt layup from 2 ft,,87,86
+3,3:15.0,,Violation by Team (def goaltending),87,86
+3,3:06.0,,D. Rose makes 2-pt jump shot from 9 ft,87,88
+3,2:49.0,J. Crowder misses 3-pt jump shot from 26 ft,,87,88
+3,2:46.0,,Defensive rebound by J. Nunnally,87,88
+3,2:38.0,,Shooting foul by R. Gobert (drawn by K. Towns),87,88
+3,2:38.0,,K. Towns makes free throw 1 of 2,87,89
+3,2:38.0,D. Favors enters the game for R. Gobert,,87,89
+3,2:38.0,,K. Towns makes free throw 2 of 2,87,90
+3,2:32.0,J. Crowder makes 3-pt jump shot from 26 ft (assist by D. Mitchell),,90,90
+3,2:07.0,,K. Towns makes 2-pt jump shot from 7 ft (assist by J. Nunnally),90,92
+3,2:00.0,Turnover by D. Favors (traveling),,90,92
+3,1:50.0,,K. Towns makes 3-pt jump shot from 26 ft (assist by D. Rose),90,95
+3,1:32.0,D. Mitchell misses 2-pt layup from 2 ft,,90,95
+3,1:32.0,Offensive rebound by D. Favors,,90,95
+3,1:32.0,Shooting foul by J. Okogie (drawn by D. Favors),,90,95
+3,1:32.0,D. Favors misses free throw 1 of 2,,90,95
+3,1:32.0,Offensive rebound by Team,,90,95
+3,1:32.0,D. Favors makes free throw 2 of 2,,91,95
+3,1:23.0,,K. Towns makes 2-pt layup from 1 ft (assist by J. Okogie),91,97
+3,1:02.0,D. Mitchell misses 2-pt jump shot from 8 ft,,91,97
+3,0:59.0,,Defensive rebound by J. Okogie,91,97
+3,0:59.0,,Personal foul by D. Mitchell (drawn by J. Okogie),91,97
+3,0:59.0,J. Ingles enters the game for R. O'Neale,,91,97
+3,0:53.0,,D. Rose makes 2-pt layup from 1 ft,91,99
+3,0:46.0,D. Exum misses 2-pt dunk from 2 ft (block by A. Tolliver),,91,99
+3,0:43.0,Offensive rebound by D. Mitchell,,91,99
+3,0:42.0,D. Mitchell makes 2-pt layup from 1 ft,,93,99
+3,0:30.0,,Personal foul by D. Favors (drawn by K. Towns),93,99
+3,0:30.0,,K. Towns makes free throw 1 of 2,93,100
+3,0:30.0,,K. Towns makes free throw 2 of 2,93,101
+3,0:13.0,J. Crowder makes 3-pt jump shot from 25 ft (assist by D. Mitchell),,96,101
+3,0:00.0,,D. Rose misses 3-pt jump shot from 25 ft,96,101
+3,0:00.0,Defensive rebound by J. Crowder,,96,101
+4,11:50.0,D. Exum misses 2-pt jump shot from 6 ft,,96,101
+4,11:49.0,Offensive rebound by Team,,96,101
+4,11:39.0,R. O'Neale misses 2-pt jump shot from 12 ft,,96,101
+4,11:35.0,,Defensive rebound by G. Dieng,96,101
+4,11:22.0,,A. Wiggins misses 2-pt jump shot from 15 ft,96,101
+4,11:20.0,Defensive rebound by R. Gobert,,96,101
+4,11:16.0,Personal foul by C. Williams (drawn by J. Ingles),,96,101
+4,11:06.0,D. Exum makes 3-pt jump shot from 24 ft (assist by R. O'Neale),,99,101
+4,10:50.0,,A. Wiggins misses 2-pt layup from 2 ft (block by R. Gobert),99,101
+4,10:47.0,Defensive rebound by R. O'Neale,,99,101
+4,10:33.0,J. Crowder makes 3-pt jump shot from 22 ft (assist by R. Gobert),,102,101
+4,10:27.0,,Minnesota full timeout,102,101
+4,10:27.0,,D. Rose enters the game for C. Williams,102,101
+4,10:17.0,,Personal foul by D. Exum (drawn by G. Dieng),102,101
+4,10:16.0,,Offensive foul by A. Tolliver (drawn by J. Crowder),102,101
+4,10:16.0,,Turnover by A. Tolliver (offensive foul),102,101
+4,10:04.0,D. Exum makes 2-pt layup from 1 ft,,104,101
+4,9:52.0,,Turnover by D. Rose (lost ball; steal by R. O'Neale),104,101
+4,9:52.0,,Violation by Team (kicked ball),104,101
+4,9:37.0,J. Ingles misses 2-pt jump shot from 8 ft,,104,101
+4,9:34.0,Offensive rebound by R. Gobert,,104,101
+4,9:34.0,R. Gobert misses 2-pt dunk from 5 ft,,104,101
+4,9:32.0,Offensive rebound by R. O'Neale,,104,101
+4,9:31.0,R. O'Neale misses 2-pt layup from 1 ft,,104,101
+4,9:29.0,,Defensive rebound by A. Tolliver,104,101
+4,9:25.0,,A. Wiggins makes 3-pt jump shot from 26 ft (assist by G. Dieng),104,104
+4,9:07.0,Shooting foul by A. Wiggins (drawn by J. Ingles),,104,104
+4,9:07.0,J. Ingles misses free throw 1 of 2,,104,104
+4,9:07.0,Offensive rebound by Team,,104,104
+4,9:07.0,D. Favors enters the game for J. Crowder,,104,104
+4,9:07.0,G. Niang enters the game for R. Gobert,,104,104
+4,9:07.0,,K. Towns enters the game for G. Dieng,104,104
+4,9:07.0,J. Ingles misses free throw 2 of 2,,104,104
+4,9:03.0,,Defensive rebound by D. Rose,104,104
+4,8:59.0,,Turnover by D. Rose (bad pass; steal by G. Niang),104,104
+4,8:49.0,Personal foul by A. Tolliver (drawn by D. Exum),,104,104
+4,8:39.0,Shooting foul by K. Towns (drawn by D. Favors),,104,104
+4,8:39.0,D. Favors makes free throw 1 of 2,,105,104
+4,8:39.0,D. Favors makes free throw 2 of 2,,106,104
+4,8:24.0,,Turnover by D. Rose (bad pass; steal by D. Exum),106,104
+4,8:20.0,D. Exum misses 2-pt layup at rim,,106,104
+4,8:19.0,Offensive rebound by D. Favors,,106,104
+4,8:18.0,D. Favors misses 2-pt layup from 3 ft,,106,104
+4,8:18.0,Offensive rebound by D. Favors,,106,104
+4,8:18.0,D. Favors makes 2-pt dunk at rim,,108,104
+4,8:05.0,,K. Towns misses 3-pt jump shot from 26 ft,108,104
+4,8:03.0,Defensive rebound by D. Exum,,108,104
+4,7:54.0,R. O'Neale makes 2-pt dunk from 1 ft (assist by D. Exum),,110,104
+4,7:36.0,,Personal foul by D. Favors (drawn by K. Towns),110,104
+4,7:22.0,,D. Rose makes 2-pt jump shot from 3 ft,110,106
+4,7:20.0,Turnover by G. Niang (bad pass; steal by A. Tolliver),,110,106
+4,7:19.0,,Shooting foul by D. Exum (drawn by D. Rose),110,106
+4,7:19.0,,D. Rose makes free throw 1 of 2,110,107
+4,7:19.0,J. Crowder enters the game for D. Exum,,110,107
+4,7:19.0,D. Mitchell enters the game for J. Ingles,,110,107
+4,7:19.0,R. Rubio enters the game for G. Niang,,110,107
+4,7:19.0,,J. Okogie enters the game for J. Nunnally,110,107
+4,7:19.0,,D. Rose makes free throw 2 of 2,110,108
+4,7:01.0,Turnover by R. Rubio (bad pass; steal by A. Wiggins),,110,108
+4,6:44.0,,D. Rose makes 2-pt layup from 2 ft,110,110
+4,6:44.0,Utah full timeout,,110,110
+4,6:44.0,R. Gobert enters the game for D. Favors,,110,110
+4,6:34.0,D. Mitchell misses 2-pt layup from 4 ft (block by J. Okogie),,110,110
+4,6:31.0,,Defensive rebound by A. Wiggins,110,110
+4,6:12.0,,D. Rose misses 2-pt jump shot from 21 ft (block by R. Gobert),110,110
+4,6:11.0,,Offensive rebound by A. Wiggins,110,110
+4,6:10.0,,Turnover by Team (shot clock),110,110
+4,5:53.0,Personal foul by D. Rose (drawn by D. Mitchell),,110,110
+4,5:53.0,D. Mitchell makes free throw 1 of 2,,111,110
+4,5:53.0,D. Mitchell makes free throw 2 of 2,,112,110
+4,5:45.0,,A. Wiggins makes 2-pt layup from 5 ft,112,112
+4,5:28.0,Turnover by R. Rubio (lost ball; steal by J. Okogie),,112,112
+4,5:16.0,,Shooting foul by J. Crowder (drawn by J. Okogie),112,112
+4,5:16.0,Utah full timeout,,112,112
+4,5:16.0,D. Exum enters the game for R. O'Neale,,112,112
+4,5:16.0,J. Ingles enters the game for R. Rubio,,112,112
+4,5:16.0,,J. Okogie makes free throw 1 of 3,112,113
+4,5:16.0,,J. Okogie makes free throw 2 of 3,112,114
+4,5:16.0,,J. Okogie misses free throw 3 of 3,112,114
+4,5:14.0,Defensive rebound by J. Crowder,,112,114
+4,5:01.0,D. Mitchell makes 2-pt layup from 3 ft (assist by J. Ingles),,114,114
+4,5:01.0,Shooting foul by J. Okogie (drawn by D. Mitchell),,114,114
+4,5:01.0,,T. Gibson enters the game for A. Tolliver,114,114
+4,5:01.0,D. Mitchell makes free throw 1 of 1,,115,114
+4,4:38.0,,T. Gibson misses 3-pt jump shot from 22 ft,115,114
+4,4:36.0,,Offensive rebound by K. Towns,115,114
+4,4:34.0,,T. Gibson makes 2-pt layup from 5 ft (assist by K. Towns),115,116
+4,4:23.0,D. Mitchell misses 2-pt jump shot from 18 ft,,115,116
+4,4:22.0,Offensive rebound by D. Exum,,115,116
+4,4:22.0,Personal foul by D. Rose (drawn by D. Exum),,115,116
+4,4:22.0,D. Exum makes free throw 1 of 2,,116,116
+4,4:22.0,R. Rubio enters the game for D. Mitchell,,116,116
+4,4:22.0,D. Exum makes free throw 2 of 2,,117,116
+4,4:10.0,,Turnover by D. Rose (bad pass; steal by J. Crowder),117,116
+4,4:03.0,Personal foul by T. Gibson (drawn by D. Exum),,117,116
+4,4:03.0,D. Exum makes free throw 1 of 2,,118,116
+4,4:03.0,D. Exum makes free throw 2 of 2,,119,116
+4,3:43.0,,D. Rose misses 2-pt jump shot from 13 ft,119,116
+4,3:42.0,,Offensive rebound by K. Towns,119,116
+4,3:41.0,,K. Towns misses 2-pt layup from 3 ft (block by R. Gobert),119,116
+4,3:40.0,,Offensive rebound by Team,119,116
+4,3:33.0,,D. Rose makes 3-pt jump shot from 23 ft,119,119
+4,3:12.0,Offensive foul by J. Ingles (drawn by D. Rose),,119,119
+4,3:12.0,Turnover by J. Ingles (offensive foul),,119,119
+4,2:55.0,,A. Wiggins misses 2-pt layup from 2 ft,119,119
+4,2:54.0,,Offensive rebound by T. Gibson,119,119
+4,2:54.0,,T. Gibson makes 2-pt layup at rim,119,121
+4,2:34.0,Personal foul by D. Rose (drawn by R. Gobert),,119,121
+4,2:34.0,R. Gobert makes free throw 1 of 2,,120,121
+4,2:34.0,R. Gobert misses free throw 2 of 2,,120,121
+4,2:30.0,Offensive rebound by D. Exum,,120,121
+4,2:22.0,Turnover by R. Gobert (bad pass; steal by K. Towns),,120,121
+4,2:08.0,,K. Towns misses 3-pt jump shot from 26 ft,120,121
+4,2:04.0,Defensive rebound by J. Ingles,,120,121
+4,1:45.0,R. Rubio misses 3-pt jump shot from 26 ft,,120,121
+4,1:44.0,Offensive rebound by J. Crowder,,120,121
+4,1:44.0,Personal foul by J. Okogie (drawn by J. Crowder),,120,121
+4,1:44.0,J. Crowder misses free throw 1 of 2,,120,121
+4,1:44.0,Offensive rebound by Team,,120,121
+4,1:44.0,J. Crowder makes free throw 2 of 2,,121,121
+4,1:44.0,,Minnesota full timeout,121,121
+4,1:44.0,,A. Tolliver enters the game for T. Gibson,121,121
+4,1:44.0,Violation by Team (kicked ball),,121,121
+4,1:26.0,,K. Towns misses 3-pt jump shot from 26 ft,121,121
+4,1:26.0,Defensive rebound by J. Crowder,,121,121
+4,1:13.0,Shooting foul by K. Towns (drawn by R. Gobert),,121,121
+4,1:13.0,R. Gobert makes free throw 1 of 2,,122,121
+4,1:13.0,R. Gobert misses free throw 2 of 2,,122,121
+4,1:10.0,,Defensive rebound by A. Wiggins,122,121
+4,0:54.0,,D. Rose makes 2-pt layup from 1 ft,122,123
+4,0:36.0,Shooting foul by A. Tolliver (drawn by R. Gobert),,122,123
+4,0:36.0,R. Gobert misses free throw 1 of 2,,122,123
+4,0:36.0,Offensive rebound by Team,,122,123
+4,0:36.0,R. Gobert makes free throw 2 of 2,,123,123
+4,0:36.0,,Minnesota full timeout,123,123
+4,0:30.0,,D. Rose makes 2-pt jump shot from 6 ft,123,125
+4,0:30.0,Utah full timeout,,123,125
+4,0:30.0,,T. Gibson enters the game for A. Tolliver,123,125
+4,0:22.0,R. Gobert misses 2-pt hook shot from 6 ft,,123,125
+4,0:20.0,,Defensive rebound by K. Towns,123,125
+4,0:20.0,,Personal take foul by R. Rubio (drawn by K. Towns),123,125
+4,0:20.0,,K. Towns misses free throw 1 of 2,123,125
+4,0:20.0,,Offensive rebound by Team,123,125
+4,0:20.0,,K. Towns makes free throw 2 of 2,123,126
+4,0:16.0,D. Exum makes 2-pt dunk at rim,,125,126
+4,0:13.0,,Personal foul by J. Ingles (drawn by D. Rose),125,126
+4,0:13.0,,D. Rose makes free throw 1 of 2,125,127
+4,0:13.0,,D. Rose makes free throw 2 of 2,125,128
+4,0:13.0,Utah full timeout,,125,128
+4,0:13.0,J. Crowder misses 3-pt jump shot from 27 ft,,125,128
+4,0:09.0,Offensive rebound by R. Rubio,,125,128
+4,0:07.0,J. Ingles misses 3-pt jump shot from 23 ft,,125,128
+4,0:04.0,Offensive rebound by J. Crowder,,125,128
+4,0:02.0,D. Exum misses 3-pt jump shot from 23 ft (block by D. Rose),,125,128
+4,0:00.0,,Defensive rebound by K. Towns,125,128

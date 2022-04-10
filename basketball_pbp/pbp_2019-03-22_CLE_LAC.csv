@@ -1,0 +1,435 @@
+QUARTER,TIME_REMAINING,LA CLIPPERS_ACTION,CLEVELAND_ACTION,LA CLIPPERS_SCORE,CLEVELAND_SCORE
+1,11:47.0,D. Gallinari misses 3-pt jump shot from 25 ft,,0,0
+1,11:46.0,,Defensive rebound by A. Žižić,0,0
+1,11:26.0,,K. Love makes 2-pt jump shot from 18 ft,0,2
+1,10:59.0,Turnover by Team (shot clock),,0,2
+1,10:37.0,,B. Knight makes 2-pt jump shot from 18 ft (assist by C. Sexton),0,4
+1,10:22.0,P. Beverley misses 2-pt layup from 1 ft,,0,4
+1,10:20.0,,Defensive rebound by K. Love,0,4
+1,10:10.0,,C. Sexton makes 2-pt jump shot from 15 ft,0,6
+1,9:58.0,S. Gilgeous-Alexander misses 2-pt jump shot from 16 ft,,0,6
+1,9:56.0,,Defensive rebound by A. Žižić,0,6
+1,9:43.0,,Turnover by K. Love (lost ball; steal by S. Gilgeous-Alexander),0,6
+1,9:39.0,L. Shamet makes 2-pt layup from 1 ft,,2,6
+1,9:15.0,,A. Žižić misses 2-pt jump shot from 18 ft,2,6
+1,9:13.0,Defensive rebound by L. Shamet,,2,6
+1,9:08.0,P. Beverley misses 3-pt jump shot from 26 ft,,2,6
+1,9:05.0,,Defensive rebound by C. Sexton,2,6
+1,9:00.0,,C. Sexton misses 2-pt layup at rim,2,6
+1,8:56.0,Defensive rebound by I. Zubac,,2,6
+1,8:53.0,D. Gallinari makes 2-pt layup from 2 ft,,4,6
+1,8:31.0,,C. Sexton makes 3-pt jump shot from 25 ft,4,9
+1,8:13.0,D. Gallinari makes 2-pt layup from 2 ft (assist by P. Beverley),,6,9
+1,8:02.0,,K. Love misses 3-pt jump shot from 26 ft,6,9
+1,7:59.0,Defensive rebound by I. Zubac,,6,9
+1,7:53.0,D. Gallinari misses 2-pt jump shot from 20 ft,,6,9
+1,7:51.0,,Defensive rebound by K. Love,6,9
+1,7:44.0,,C. Sexton makes 2-pt jump shot from 11 ft,6,11
+1,7:32.0,S. Gilgeous-Alexander makes 3-pt jump shot from 26 ft (assist by I. Zubac),,9,11
+1,7:15.0,,K. Love makes 3-pt jump shot from 23 ft,9,14
+1,7:01.0,Shooting foul by A. Žižić (drawn by D. Gallinari),,9,14
+1,7:01.0,D. Gallinari makes free throw 1 of 2,,10,14
+1,7:01.0,D. Gallinari makes free throw 2 of 2,,11,14
+1,6:49.0,,K. Love makes 2-pt layup from 1 ft,11,16
+1,6:49.0,,Shooting foul by D. Gallinari (drawn by K. Love),11,16
+1,6:49.0,,Cleveland full timeout,11,16
+1,6:49.0,,J. Clarkson enters the game for B. Knight,11,16
+1,6:49.0,,K. Love misses free throw 1 of 1,11,16
+1,6:47.0,Defensive rebound by L. Shamet,,11,16
+1,6:33.0,L. Shamet misses 3-pt jump shot from 26 ft,,11,16
+1,6:31.0,,Defensive rebound by K. Love,11,16
+1,6:30.0,,Shooting foul by L. Shamet (drawn by C. Osman),11,16
+1,6:30.0,,C. Osman makes free throw 1 of 2,11,17
+1,6:30.0,,C. Osman makes free throw 2 of 2,11,18
+1,6:16.0,P. Beverley misses 3-pt jump shot from 25 ft,,11,18
+1,6:13.0,,Defensive rebound by A. Žižić,11,18
+1,6:02.0,,C. Sexton misses 3-pt jump shot from 25 ft,11,18
+1,5:59.0,Defensive rebound by I. Zubac,,11,18
+1,5:48.0,S. Gilgeous-Alexander misses 2-pt layup from 1 ft,,11,18
+1,5:46.0,,Defensive rebound by K. Love,11,18
+1,5:37.0,,C. Osman makes 3-pt jump shot from 24 ft (assist by K. Love),11,21
+1,5:26.0,D. Gallinari makes 3-pt jump shot from 26 ft (assist by S. Gilgeous-Alexander),,14,21
+1,5:04.0,,A. Žižić misses 2-pt hook shot from 9 ft,14,21
+1,5:01.0,Defensive rebound by I. Zubac,,14,21
+1,4:52.0,D. Gallinari makes 2-pt layup from 2 ft,,16,21
+1,4:39.0,,J. Clarkson makes 2-pt layup from 1 ft,16,23
+1,4:30.0,S. Gilgeous-Alexander makes 2-pt layup from 2 ft,,18,23
+1,4:18.0,,Personal foul by P. Beverley (drawn by C. Osman),18,23
+1,4:18.0,M. Harrell enters the game for P. Beverley,,18,23
+1,4:18.0,G. Temple enters the game for L. Shamet,,18,23
+1,4:18.0,L. Williams enters the game for I. Zubac,,18,23
+1,4:18.0,,L. Nance enters the game for K. Love,18,23
+1,4:18.0,,T. Thompson enters the game for A. Žižić,18,23
+1,4:06.0,,T. Thompson misses 2-pt hook shot at rim,18,23
+1,4:05.0,,Offensive rebound by L. Nance,18,23
+1,4:05.0,,L. Nance makes 2-pt dunk from 1 ft,18,25
+1,3:56.0,M. Harrell makes 2-pt layup from 2 ft (assist by L. Williams),,20,25
+1,3:56.0,Shooting foul by L. Nance (drawn by M. Harrell),,20,25
+1,3:56.0,J. Green enters the game for D. Gallinari,,20,25
+1,3:56.0,M. Harrell makes free throw 1 of 1,,21,25
+1,3:45.0,,C. Sexton makes 2-pt layup at rim,21,27
+1,3:34.0,Personal foul by T. Thompson (drawn by L. Williams),,21,27
+1,3:23.0,G. Temple misses 2-pt jump shot from 21 ft,,21,27
+1,3:20.0,,Defensive rebound by T. Thompson,21,27
+1,3:07.0,,Personal foul by L. Williams (drawn by C. Osman),21,27
+1,2:57.0,,C. Osman misses 2-pt jump shot from 10 ft,21,27
+1,2:55.0,Defensive rebound by J. Green,,21,27
+1,2:53.0,M. Harrell makes 2-pt dunk from 1 ft (assist by L. Williams),,23,27
+1,2:35.0,,C. Osman misses 2-pt layup from 1 ft (block by M. Harrell),23,27
+1,2:32.0,Defensive rebound by L. Williams,,23,27
+1,2:29.0,Turnover by J. Green (lost ball; steal by L. Nance),,23,27
+1,2:23.0,,Personal foul by M. Harrell (drawn by C. Osman),23,27
+1,2:23.0,LA Clippers full timeout,,23,27
+1,2:23.0,W. Chandler enters the game for S. Gilgeous-Alexander,,23,27
+1,2:23.0,,B. Knight enters the game for C. Sexton,23,27
+1,2:23.0,,C. Osman makes free throw 1 of 2,23,28
+1,2:23.0,,C. Osman makes free throw 2 of 2,23,29
+1,2:05.0,J. Green misses 3-pt jump shot from 24 ft,,23,29
+1,2:02.0,,Defensive rebound by L. Nance,23,29
+1,1:56.0,,B. Knight misses 3-pt jump shot from 28 ft,23,29
+1,1:53.0,Defensive rebound by J. Green,,23,29
+1,1:44.0,G. Temple misses 2-pt jump shot from 10 ft,,23,29
+1,1:42.0,,Defensive rebound by L. Nance,23,29
+1,1:27.0,,T. Thompson makes 2-pt layup from 1 ft,23,31
+1,1:16.0,L. Williams makes 2-pt layup from 2 ft,,25,31
+1,0:53.0,,B. Knight makes 3-pt jump shot from 27 ft (assist by J. Clarkson),25,34
+1,0:46.0,Offensive foul by W. Chandler (drawn by C. Osman),,25,34
+1,0:46.0,Turnover by W. Chandler (offensive foul),,25,34
+1,0:46.0,,D. Nwaba enters the game for C. Osman,25,34
+1,0:35.0,,J. Clarkson makes 3-pt jump shot from 26 ft,25,37
+1,0:14.0,L. Williams misses 2-pt jump shot from 8 ft,,25,37
+1,0:13.0,,Defensive rebound by Team,25,37
+1,0:13.0,S. Thornwell enters the game for L. Williams,,25,37
+1,0:01.0,,J. Clarkson makes 3-pt jump shot from 25 ft,25,40
+2,11:44.0,,B. Knight misses 3-pt jump shot from 26 ft,25,40
+2,11:40.0,Defensive rebound by G. Temple,,25,40
+2,11:33.0,L. Williams makes 2-pt layup from 1 ft,,27,40
+2,11:14.0,,T. Thompson misses 2-pt jump shot from 12 ft,27,40
+2,11:11.0,Defensive rebound by M. Harrell,,27,40
+2,11:03.0,J. Green misses 2-pt layup from 3 ft,,27,40
+2,11:00.0,Offensive rebound by J. Green,,27,40
+2,11:00.0,J. Green makes 2-pt layup at rim,,29,40
+2,10:50.0,,Turnover by J. Clarkson (lost ball; steal by G. Temple),29,40
+2,10:40.0,G. Temple makes 2-pt jump shot from 10 ft,,31,40
+2,10:39.0,,Cleveland full timeout,31,40
+2,10:39.0,,M. Chriss enters the game for T. Thompson,31,40
+2,10:20.0,,D. Nwaba makes 2-pt jump shot from 8 ft,31,42
+2,10:09.0,Turnover by J. Green (lost ball; steal by D. Nwaba),,31,42
+2,9:54.0,,L. Nance makes 3-pt jump shot from 26 ft (assist by B. Knight),31,45
+2,9:33.0,J. Green makes 2-pt hook shot from 12 ft (assist by M. Harrell),,33,45
+2,9:14.0,,L. Nance misses 3-pt jump shot from 26 ft,33,45
+2,9:11.0,Defensive rebound by J. Green,,33,45
+2,9:02.0,L. Williams makes 2-pt layup from 2 ft,,35,45
+2,8:51.0,,B. Knight misses 3-pt jump shot from 26 ft,35,45
+2,8:49.0,Defensive rebound by W. Chandler,,35,45
+2,8:43.0,W. Chandler misses 3-pt jump shot from 26 ft,,35,45
+2,8:40.0,,Defensive rebound by M. Chriss,35,45
+2,8:31.0,,J. Clarkson misses 3-pt jump shot from 23 ft,35,45
+2,8:29.0,Defensive rebound by J. Green,,35,45
+2,8:15.0,L. Williams misses 3-pt jump shot from 30 ft,,35,45
+2,8:11.0,,Defensive rebound by B. Knight,35,45
+2,8:03.0,,J. Clarkson makes 2-pt layup at rim,35,47
+2,7:50.0,Offensive foul by M. Harrell (drawn by L. Nance),,35,47
+2,7:50.0,Turnover by M. Harrell (offensive foul),,35,47
+2,7:50.0,P. Beverley enters the game for W. Chandler,,35,47
+2,7:50.0,D. Gallinari enters the game for M. Harrell,,35,47
+2,7:50.0,S. Gilgeous-Alexander enters the game for G. Temple,,35,47
+2,7:50.0,,K. Love enters the game for J. Clarkson,35,47
+2,7:50.0,,C. Sexton enters the game for L. Nance,35,47
+2,7:30.0,,M. Chriss makes 2-pt hook shot from 7 ft,35,49
+2,7:24.0,LA Clippers full timeout,,35,49
+2,7:16.0,D. Gallinari makes 2-pt jump shot from 23 ft (assist by L. Williams),,37,49
+2,7:05.0,,Personal foul by J. Green (drawn by M. Chriss),37,49
+2,6:56.0,,M. Chriss misses 2-pt layup from 2 ft,37,49
+2,6:53.0,Defensive rebound by J. Green,,37,49
+2,6:39.0,Turnover by S. Gilgeous-Alexander (bad pass; steal by B. Knight),,37,49
+2,6:31.0,,B. Knight misses 3-pt jump shot from 29 ft,37,49
+2,6:26.0,Defensive rebound by D. Gallinari,,37,49
+2,6:22.0,J. Green makes 2-pt dunk from 2 ft (assist by D. Gallinari),,39,49
+2,6:11.0,,C. Sexton misses 2-pt layup at rim,39,49
+2,6:09.0,Defensive rebound by J. Green,,39,49
+2,6:04.0,L. Williams makes 2-pt layup from 1 ft (assist by S. Gilgeous-Alexander),,41,49
+2,5:56.0,,Cleveland full timeout,41,49
+2,5:56.0,M. Harrell enters the game for J. Green,,41,49
+2,5:56.0,,C. Osman enters the game for B. Knight,41,49
+2,5:51.0,,Turnover by C. Osman (bad pass; steal by S. Gilgeous-Alexander),41,49
+2,5:48.0,S. Gilgeous-Alexander makes 2-pt dunk from 3 ft,,43,49
+2,5:25.0,,K. Love misses 2-pt jump shot from 13 ft,43,49
+2,5:25.0,Defensive rebound by M. Harrell,,43,49
+2,5:19.0,,Violation by Team (kicked ball),43,49
+2,5:09.0,D. Gallinari makes 2-pt jump shot from 14 ft (assist by S. Gilgeous-Alexander),,45,49
+2,4:54.0,,Turnover by C. Sexton (bad pass),45,49
+2,4:54.0,L. Shamet enters the game for L. Williams,,45,49
+2,4:54.0,,T. Thompson enters the game for M. Chriss,45,49
+2,4:36.0,Turnover by D. Gallinari (out of bounds lost ball),,45,49
+2,4:36.0,,J. Clarkson enters the game for D. Nwaba,45,49
+2,4:19.0,,Personal foul by S. Gilgeous-Alexander (drawn by T. Thompson),45,49
+2,4:08.0,,C. Sexton makes 2-pt jump shot from 14 ft,45,51
+2,4:00.0,Personal foul by C. Sexton (drawn by D. Gallinari),,45,51
+2,3:45.0,M. Harrell misses 2-pt layup from 3 ft,,45,51
+2,3:42.0,,Defensive rebound by C. Osman,45,51
+2,3:38.0,,Shooting foul by L. Shamet (drawn by K. Love),45,51
+2,3:38.0,,K. Love makes free throw 1 of 2,45,52
+2,3:38.0,,K. Love makes free throw 2 of 2,45,53
+2,3:34.0,Shooting foul by C. Sexton (drawn by S. Gilgeous-Alexander),,45,53
+2,3:34.0,S. Gilgeous-Alexander makes free throw 1 of 2,,46,53
+2,3:34.0,S. Gilgeous-Alexander makes free throw 2 of 2,,47,53
+2,3:14.0,,T. Thompson misses 2-pt jump shot from 8 ft,47,53
+2,3:12.0,Defensive rebound by D. Gallinari,,47,53
+2,3:08.0,L. Shamet makes 3-pt jump shot from 27 ft,,50,53
+2,2:56.0,,C. Sexton makes 2-pt jump shot from 13 ft,50,55
+2,2:45.0,M. Harrell makes 2-pt layup from 1 ft (assist by S. Gilgeous-Alexander),,52,55
+2,2:45.0,Shooting foul by K. Love (drawn by M. Harrell),,52,55
+2,2:45.0,M. Harrell misses free throw 1 of 1,,52,55
+2,2:43.0,,Defensive rebound by K. Love,52,55
+2,2:30.0,,K. Love misses 2-pt jump shot from 17 ft,52,55
+2,2:28.0,Defensive rebound by P. Beverley,,52,55
+2,2:13.0,P. Beverley misses 3-pt jump shot from 25 ft,,52,55
+2,2:11.0,,Defensive rebound by J. Clarkson,52,55
+2,2:07.0,,Shooting foul by P. Beverley (drawn by J. Clarkson),52,55
+2,2:04.0,,Personal foul by P. Beverley (drawn by C. Osman),52,55
+2,2:04.0,,C. Osman misses free throw 1 of 2,52,55
+2,2:04.0,,Offensive rebound by Team,52,55
+2,2:04.0,L. Williams enters the game for P. Beverley,,52,55
+2,2:04.0,,C. Osman makes free throw 2 of 2,52,56
+2,1:41.0,M. Harrell misses 2-pt hook shot from 10 ft,,52,56
+2,1:36.0,,Defensive rebound by C. Sexton,52,56
+2,1:32.0,,C. Sexton makes 2-pt layup from 2 ft,52,58
+2,1:19.0,M. Harrell makes 2-pt dunk from 2 ft (assist by L. Williams),,54,58
+2,1:03.0,,C. Sexton makes 2-pt jump shot from 16 ft,54,60
+2,0:40.0,L. Williams makes 2-pt jump shot from 14 ft,,56,60
+2,0:27.0,,C. Osman misses 2-pt jump shot from 11 ft,56,60
+2,0:25.0,Defensive rebound by L. Shamet,,56,60
+2,0:09.0,D. Gallinari makes 2-pt layup from 3 ft,,58,60
+2,0:00.0,,Turnover by J. Clarkson (lost ball; steal by D. Gallinari),58,60
+3,11:47.0,,C. Sexton misses 3-pt jump shot from 28 ft,58,60
+3,11:43.0,Defensive rebound by I. Zubac,,58,60
+3,11:35.0,P. Beverley makes 3-pt jump shot from 27 ft (assist by S. Gilgeous-Alexander),,61,60
+3,11:11.0,,B. Knight makes 2-pt jump shot from 6 ft (assist by A. Žižić),61,62
+3,10:58.0,D. Gallinari misses 3-pt jump shot from 26 ft,,61,62
+3,10:56.0,Offensive rebound by I. Zubac,,61,62
+3,10:54.0,I. Zubac makes 2-pt dunk from 1 ft,,63,62
+3,10:43.0,,B. Knight misses 2-pt layup from 1 ft (block by I. Zubac),63,62
+3,10:39.0,Defensive rebound by L. Shamet,,63,62
+3,10:25.0,D. Gallinari makes 2-pt jump shot from 17 ft (assist by P. Beverley),,65,62
+3,10:04.0,,K. Love makes 3-pt jump shot from 23 ft (assist by B. Knight),65,65
+3,9:49.0,S. Gilgeous-Alexander makes 2-pt jump shot from 17 ft,,67,65
+3,9:40.0,,Turnover by B. Knight (out of bounds lost ball),67,65
+3,9:32.0,Personal foul by C. Osman (drawn by D. Gallinari),,67,65
+3,9:23.0,D. Gallinari makes 2-pt jump shot from 13 ft (assist by P. Beverley),,69,65
+3,9:12.0,,Offensive foul by K. Love (drawn by L. Shamet),69,65
+3,9:12.0,,Turnover by K. Love (offensive foul),69,65
+3,8:57.0,L. Shamet misses 3-pt jump shot from 26 ft,,69,65
+3,8:54.0,,Defensive rebound by C. Sexton,69,65
+3,8:46.0,,K. Love makes 2-pt jump shot from 4 ft (assist by C. Osman),69,67
+3,8:19.0,I. Zubac makes 2-pt hook shot from 14 ft (assist by L. Shamet),,71,67
+3,8:10.0,Violation by Team (kicked ball),,71,67
+3,8:02.0,,K. Love makes 3-pt jump shot from 28 ft (assist by A. Žižić),71,70
+3,7:38.0,S. Gilgeous-Alexander misses 2-pt layup from 1 ft,,71,70
+3,7:36.0,,Defensive rebound by K. Love,71,70
+3,7:32.0,,C. Sexton makes 3-pt jump shot from 27 ft (assist by B. Knight),71,73
+3,7:16.0,L. Shamet makes 2-pt jump shot from 11 ft (assist by I. Zubac),,73,73
+3,6:55.0,,Offensive foul by A. Žižić (drawn by P. Beverley),73,73
+3,6:55.0,,Turnover by A. Žižić (offensive foul),73,73
+3,6:55.0,,Cleveland full timeout,73,73
+3,6:43.0,L. Shamet misses 3-pt jump shot from 28 ft,,73,73
+3,6:41.0,,Defensive rebound by C. Sexton,73,73
+3,6:23.0,,B. Knight misses 2-pt jump shot from 17 ft,73,73
+3,6:20.0,Defensive rebound by I. Zubac,,73,73
+3,6:13.0,S. Gilgeous-Alexander misses 2-pt jump shot from 11 ft (block by A. Žižić),,73,73
+3,6:08.0,Offensive rebound by S. Gilgeous-Alexander,,73,73
+3,6:07.0,D. Gallinari misses 3-pt jump shot from 28 ft,,73,73
+3,6:06.0,Offensive rebound by P. Beverley,,73,73
+3,6:06.0,P. Beverley makes 2-pt layup from 1 ft,,75,73
+3,5:47.0,,Turnover by A. Žižić (3 sec),75,73
+3,5:47.0,,J. Clarkson enters the game for B. Knight,75,73
+3,5:47.0,,T. Thompson enters the game for A. Žižić,75,73
+3,5:38.0,Shooting foul by C. Sexton (drawn by S. Gilgeous-Alexander),,75,73
+3,5:38.0,S. Gilgeous-Alexander makes free throw 1 of 2,,76,73
+3,5:38.0,S. Gilgeous-Alexander makes free throw 2 of 2,,77,73
+3,5:24.0,,J. Clarkson makes 2-pt jump shot from 15 ft (assist by T. Thompson),77,75
+3,5:10.0,D. Gallinari makes 2-pt jump shot from 8 ft,,79,75
+3,4:57.0,,K. Love makes 3-pt jump shot from 30 ft,79,78
+3,4:42.0,D. Gallinari makes 2-pt dunk at rim (assist by P. Beverley),,81,78
+3,4:25.0,,C. Sexton misses 2-pt layup from 1 ft (block by I. Zubac),81,78
+3,4:21.0,Defensive rebound by L. Shamet,,81,78
+3,4:17.0,L. Shamet makes 3-pt jump shot from 28 ft (assist by D. Gallinari),,84,78
+3,4:03.0,,C. Osman misses 3-pt jump shot from 26 ft,84,78
+3,4:00.0,Defensive rebound by I. Zubac,,84,78
+3,3:53.0,Personal foul by T. Thompson (drawn by L. Shamet),,84,78
+3,3:53.0,M. Harrell enters the game for L. Shamet,,84,78
+3,3:53.0,L. Williams enters the game for I. Zubac,,84,78
+3,3:53.0,,L. Nance enters the game for K. Love,84,78
+3,3:39.0,S. Gilgeous-Alexander makes 2-pt layup from 1 ft (assist by L. Williams),,86,78
+3,3:39.0,Shooting foul by C. Sexton (drawn by S. Gilgeous-Alexander),,86,78
+3,3:39.0,S. Gilgeous-Alexander makes free throw 1 of 1,,87,78
+3,3:23.0,,Turnover by C. Sexton (bad pass; steal by M. Harrell),87,78
+3,3:18.0,L. Williams misses 3-pt jump shot from 28 ft,,87,78
+3,3:13.0,,Defensive rebound by L. Nance,87,78
+3,2:58.0,,J. Clarkson misses 3-pt jump shot from 28 ft,87,78
+3,2:56.0,,Offensive rebound by Team,87,78
+3,2:56.0,LA Clippers full timeout,,87,78
+3,2:56.0,J. Green enters the game for D. Gallinari,,87,78
+3,2:42.0,,T. Thompson makes 2-pt layup from 1 ft (assist by L. Nance),87,80
+3,2:26.0,L. Williams makes 2-pt jump shot from 22 ft (assist by J. Green),,89,80
+3,2:26.0,Shooting foul by C. Sexton (drawn by L. Williams),,89,80
+3,2:26.0,,N. Stauskas enters the game for C. Sexton,89,80
+3,2:26.0,L. Williams makes free throw 1 of 1,,90,80
+3,2:13.0,,Shooting foul by S. Gilgeous-Alexander (drawn by L. Nance),90,80
+3,2:13.0,,L. Nance makes free throw 1 of 2,90,81
+3,2:13.0,G. Temple enters the game for P. Beverley,,90,81
+3,2:13.0,,D. Nwaba enters the game for C. Osman,90,81
+3,2:13.0,,L. Nance misses free throw 2 of 2,90,81
+3,2:11.0,Defensive rebound by S. Gilgeous-Alexander,,90,81
+3,2:03.0,J. Green misses 3-pt jump shot from 27 ft,,90,81
+3,2:00.0,,Defensive rebound by J. Clarkson,90,81
+3,1:49.0,,J. Clarkson makes 2-pt jump shot from 11 ft,90,83
+3,1:38.0,Turnover by J. Green (bad pass; steal by L. Nance),,90,83
+3,1:30.0,,J. Clarkson misses 3-pt jump shot from 25 ft,90,83
+3,1:27.0,Defensive rebound by G. Temple,,90,83
+3,1:15.0,S. Gilgeous-Alexander misses 2-pt layup from 1 ft,,90,83
+3,1:10.0,,Defensive rebound by T. Thompson,90,83
+3,1:01.0,,L. Nance misses 2-pt layup from 1 ft (block by M. Harrell),90,83
+3,1:01.0,,Offensive rebound by Team,90,83
+3,1:01.0,W. Chandler enters the game for S. Gilgeous-Alexander,,90,83
+3,0:53.0,,Turnover by T. Thompson (out of bounds lost ball),90,83
+3,0:34.0,G. Temple misses 3-pt jump shot from 25 ft,,90,83
+3,0:31.0,,Defensive rebound by T. Thompson,90,83
+3,0:08.0,,Turnover by J. Clarkson (bad pass; steal by M. Harrell),90,83
+3,0:07.0,Personal foul by N. Stauskas (drawn by M. Harrell),,90,83
+3,0:07.0,M. Harrell makes free throw 1 of 2,,91,83
+3,0:07.0,S. Thornwell enters the game for L. Williams,,91,83
+3,0:07.0,M. Harrell makes free throw 2 of 2,,92,83
+3,0:01.0,,Personal foul by G. Temple (drawn by T. Thompson),92,83
+3,0:00.0,,J. Clarkson misses 3-pt jump shot from 31 ft,92,83
+3,0:00.0,,Offensive rebound by Team,92,83
+4,11:47.0,J. Green makes 2-pt jump shot from 11 ft (assist by L. Williams),,94,83
+4,11:23.0,,T. Thompson misses 2-pt hook shot from 9 ft,94,83
+4,11:21.0,,Offensive rebound by L. Nance,94,83
+4,11:14.0,,T. Thompson misses 2-pt hook shot from 12 ft,94,83
+4,11:12.0,Defensive rebound by M. Harrell,,94,83
+4,11:06.0,Turnover by M. Harrell (bad pass; steal by D. Nwaba),,94,83
+4,11:02.0,,D. Nwaba makes 2-pt layup from 1 ft,94,85
+4,10:39.0,W. Chandler misses 2-pt jump shot from 8 ft,,94,85
+4,10:39.0,,Defensive rebound by T. Thompson,94,85
+4,10:25.0,,J. Clarkson makes 2-pt jump shot from 13 ft,94,87
+4,10:09.0,W. Chandler misses 3-pt jump shot from 24 ft,,94,87
+4,10:07.0,,Defensive rebound by D. Nwaba,94,87
+4,10:01.0,,J. Clarkson misses 3-pt jump shot from 25 ft,94,87
+4,9:58.0,,Offensive rebound by T. Thompson,94,87
+4,9:56.0,,Shooting foul by M. Harrell (drawn by D. Nwaba),94,87
+4,9:56.0,,D. Nwaba makes free throw 1 of 2,94,88
+4,9:56.0,L. Shamet enters the game for W. Chandler,,94,88
+4,9:56.0,,D. Nwaba makes free throw 2 of 2,94,89
+4,9:43.0,L. Williams misses 2-pt jump shot from 11 ft,,94,89
+4,9:42.0,Offensive rebound by M. Harrell,,94,89
+4,9:32.0,M. Harrell misses 2-pt hook shot from 8 ft,,94,89
+4,9:31.0,,Defensive rebound by T. Thompson,94,89
+4,9:22.0,,T. Thompson misses 2-pt hook shot from 11 ft,94,89
+4,9:20.0,Defensive rebound by J. Green,,94,89
+4,9:09.0,Shooting foul by D. Nwaba (drawn by L. Shamet),,94,89
+4,9:09.0,L. Shamet makes free throw 1 of 2,,95,89
+4,9:09.0,P. Beverley enters the game for G. Temple,,95,89
+4,9:09.0,,K. Love enters the game for T. Thompson,95,89
+4,9:09.0,L. Shamet makes free throw 2 of 2,,96,89
+4,8:55.0,,N. Stauskas misses 2-pt jump shot from 15 ft,96,89
+4,8:54.0,Defensive rebound by J. Green,,96,89
+4,8:40.0,L. Williams misses 3-pt jump shot from 29 ft,,96,89
+4,8:37.0,,Defensive rebound by J. Clarkson,96,89
+4,8:29.0,,L. Nance misses 2-pt dunk from 2 ft,96,89
+4,8:27.0,Defensive rebound by L. Shamet,,96,89
+4,8:16.0,L. Williams makes 2-pt jump shot from 14 ft,,98,89
+4,7:51.0,,K. Love misses 3-pt jump shot from 27 ft,98,89
+4,7:48.0,Defensive rebound by P. Beverley,,98,89
+4,7:41.0,Turnover by L. Williams (bad pass; steal by L. Nance),,98,89
+4,7:41.0,,Personal take foul by P. Beverley (drawn by D. Nwaba),98,89
+4,7:41.0,D. Gallinari enters the game for J. Green,,98,89
+4,7:41.0,,C. Osman enters the game for N. Stauskas,98,89
+4,7:32.0,,D. Nwaba makes 2-pt layup from 2 ft,98,91
+4,7:19.0,L. Williams misses 2-pt jump shot from 10 ft (block by D. Nwaba),,98,91
+4,7:15.0,Offensive rebound by L. Williams,,98,91
+4,7:14.0,LA Clippers full timeout,,98,91
+4,7:07.0,L. Williams misses 3-pt jump shot from 26 ft,,98,91
+4,7:05.0,,Defensive rebound by K. Love,98,91
+4,6:41.0,,J. Clarkson misses 3-pt jump shot from 26 ft,98,91
+4,6:39.0,Defensive rebound by D. Gallinari,,98,91
+4,6:30.0,M. Harrell makes 2-pt layup from 1 ft (assist by P. Beverley),,100,91
+4,6:30.0,Shooting foul by L. Nance (drawn by M. Harrell),,100,91
+4,6:30.0,S. Gilgeous-Alexander enters the game for L. Shamet,,100,91
+4,6:30.0,M. Harrell makes free throw 1 of 1,,101,91
+4,6:06.0,,J. Clarkson misses 2-pt jump shot from 6 ft,101,91
+4,6:04.0,,Offensive rebound by J. Clarkson,101,91
+4,6:03.0,,J. Clarkson misses 2-pt layup from 2 ft,101,91
+4,6:03.0,,Offensive rebound by L. Nance,101,91
+4,5:58.0,,L. Nance makes 2-pt layup at rim,101,93
+4,5:47.0,Personal foul by D. Nwaba (drawn by M. Harrell),,101,93
+4,5:39.0,Turnover by L. Williams (bad pass; steal by J. Clarkson),,101,93
+4,5:29.0,,K. Love misses 2-pt layup from 1 ft,101,93
+4,5:27.0,,Offensive rebound by L. Nance,101,93
+4,5:27.0,,L. Nance makes 2-pt dunk at rim,101,95
+4,5:27.0,LA Clippers full timeout,,101,95
+4,5:07.0,S. Gilgeous-Alexander misses 2-pt jump shot from 9 ft,,101,95
+4,5:04.0,,Defensive rebound by C. Osman,101,95
+4,4:53.0,,C. Osman misses 2-pt layup from 2 ft (block by M. Harrell),101,95
+4,4:51.0,,Offensive rebound by Team,101,95
+4,4:46.0,,L. Nance makes 2-pt dunk from 2 ft (assist by C. Osman),101,97
+4,4:32.0,,Violation by Team (kicked ball),101,97
+4,4:28.0,P. Beverley misses 3-pt jump shot from 23 ft,,101,97
+4,4:25.0,,Defensive rebound by D. Nwaba,101,97
+4,4:06.0,,K. Love misses 3-pt jump shot from 23 ft,101,97
+4,4:02.0,,Offensive rebound by L. Nance,101,97
+4,3:54.0,,D. Nwaba misses 2-pt jump shot from 3 ft,101,97
+4,3:49.0,Defensive rebound by M. Harrell,,101,97
+4,3:34.0,P. Beverley makes 3-pt jump shot from 24 ft (assist by D. Gallinari),,104,97
+4,3:32.0,,Cleveland full timeout,104,97
+4,3:32.0,I. Zubac enters the game for M. Harrell,,104,97
+4,3:32.0,,C. Sexton enters the game for D. Nwaba,104,97
+4,3:17.0,,J. Clarkson makes 2-pt jump shot from 10 ft,104,99
+4,2:55.0,L. Williams misses 2-pt jump shot from 20 ft,,104,99
+4,2:54.0,,Defensive rebound by Team,104,99
+4,2:35.0,,C. Sexton misses 2-pt jump shot from 11 ft (block by I. Zubac),104,99
+4,2:31.0,,Offensive rebound by J. Clarkson,104,99
+4,2:28.0,,J. Clarkson misses 3-pt jump shot from 27 ft,104,99
+4,2:26.0,Defensive rebound by P. Beverley,,104,99
+4,2:26.0,Shooting foul by C. Osman (drawn by I. Zubac),,104,99
+4,2:26.0,I. Zubac makes free throw 1 of 2,,105,99
+4,2:26.0,I. Zubac makes free throw 2 of 2,,106,99
+4,2:06.0,,C. Osman makes 3-pt jump shot from 26 ft,106,102
+4,1:54.0,Personal foul by K. Love (drawn by D. Gallinari),,106,102
+4,1:54.0,M. Harrell enters the game for I. Zubac,,106,102
+4,1:54.0,D. Gallinari makes free throw 1 of 2,,107,102
+4,1:54.0,D. Gallinari makes free throw 2 of 2,,108,102
+4,1:36.0,,Offensive foul by C. Osman (drawn by D. Gallinari),108,102
+4,1:36.0,,Turnover by C. Osman (offensive foul),108,102
+4,1:26.0,Turnover by P. Beverley (traveling),,108,102
+4,1:05.0,,J. Clarkson makes 2-pt jump shot from 11 ft,108,104
+4,0:47.0,L. Williams misses 2-pt jump shot from 9 ft,,108,104
+4,0:43.0,,Defensive rebound by K. Love,108,104
+4,0:37.0,,L. Nance makes 2-pt dunk at rim (assist by J. Clarkson),108,106
+4,0:37.0,LA Clippers full timeout,,108,106
+4,0:37.0,L. Shamet enters the game for S. Gilgeous-Alexander,,108,106
+4,0:15.0,P. Beverley misses 3-pt jump shot from 24 ft,,108,106
+4,0:13.0,Offensive rebound by L. Shamet,,108,106
+4,0:13.0,Personal foul by C. Osman (drawn by L. Shamet),,108,106
+4,0:13.0,L. Shamet misses free throw 1 of 2,,108,106
+4,0:13.0,Offensive rebound by Team,,108,106
+4,0:13.0,S. Thornwell enters the game for L. Williams,,108,106
+4,0:13.0,L. Shamet makes free throw 2 of 2,,109,106
+4,0:13.0,,Cleveland full timeout,109,106
+4,0:13.0,S. Gilgeous-Alexander enters the game for L. Shamet,,109,106
+4,0:10.0,,K. Love makes 2-pt hook shot from 9 ft (assist by C. Osman),109,108
+4,0:10.0,LA Clippers full timeout,,109,108
+4,0:10.0,L. Shamet enters the game for M. Harrell,,109,108
+4,0:10.0,L. Williams enters the game for S. Thornwell,,109,108
+4,0:10.0,,D. Nwaba enters the game for K. Love,109,108
+4,0:06.0,Personal take foul by C. Osman (drawn by P. Beverley),,109,108
+4,0:06.0,P. Beverley makes free throw 1 of 2,,110,108
+4,0:06.0,M. Harrell enters the game for L. Shamet,,110,108
+4,0:06.0,S. Thornwell enters the game for L. Williams,,110,108
+4,0:06.0,,K. Love enters the game for D. Nwaba,110,108
+4,0:06.0,P. Beverley misses free throw 2 of 2,,110,108
+4,0:06.0,,Defensive rebound by L. Nance,110,108
+4,0:06.0,,Cleveland full timeout,110,108
+4,0:06.0,,N. Stauskas enters the game for L. Nance,110,108
+4,0:00.0,,J. Clarkson misses 3-pt jump shot from 27 ft,110,108
+4,0:00.0,,Offensive rebound by Team,110,108

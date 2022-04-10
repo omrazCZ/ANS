@@ -1,0 +1,425 @@
+QUARTER,TIME_REMAINING,WASHINGTON_ACTION,DETROIT_ACTION,WASHINGTON_SCORE,DETROIT_SCORE
+1,11:43.0,,Turnover by R. Jackson (bad pass; steal by T. Ariza),0,0
+1,11:38.0,T. Ariza misses 3-pt jump shot from 25 ft,,0,0
+1,11:34.0,,Defensive rebound by L. Galloway,0,0
+1,11:29.0,,R. Jackson misses 2-pt jump shot from 5 ft,0,0
+1,11:29.0,Defensive rebound by T. Bryant,,0,0
+1,11:22.0,J. Green makes 3-pt jump shot from 25 ft (assist by B. Beal),,3,0
+1,10:56.0,,B. Brown makes 2-pt layup from 1 ft (assist by B. Griffin),3,2
+1,10:34.0,T. Bryant misses 3-pt jump shot from 22 ft,,3,2
+1,10:31.0,,Defensive rebound by B. Griffin,3,2
+1,10:26.0,,L. Galloway misses 3-pt jump shot from 26 ft (block by T. Ariza),3,2
+1,10:23.0,Defensive rebound by T. Bryant,,3,2
+1,10:10.0,T. Ariza makes 2-pt layup from 3 ft (assist by J. Green),,5,2
+1,9:53.0,,B. Brown makes 2-pt layup from 1 ft,5,4
+1,9:45.0,Offensive foul by C. Randle (drawn by B. Brown),,5,4
+1,9:45.0,Turnover by C. Randle (offensive foul),,5,4
+1,9:26.0,,B. Griffin misses 2-pt layup from 4 ft,5,4
+1,9:22.0,,Offensive rebound by B. Griffin,5,4
+1,9:22.0,,B. Griffin makes 2-pt layup from 1 ft,5,6
+1,9:11.0,B. Beal makes 3-pt jump shot from 22 ft (assist by T. Ariza),,8,6
+1,8:54.0,,B. Griffin makes 2-pt layup from 1 ft,8,8
+1,8:38.0,C. Randle misses 3-pt jump shot from 24 ft,,8,8
+1,8:35.0,,Defensive rebound by L. Galloway,8,8
+1,8:25.0,,A. Drummond makes 2-pt layup from 3 ft (assist by B. Griffin),8,10
+1,8:15.0,B. Beal makes 2-pt layup from 2 ft (assist by C. Randle),,10,10
+1,7:55.0,,A. Drummond misses 2-pt layup from 4 ft,10,10
+1,7:53.0,Defensive rebound by T. Bryant,,10,10
+1,7:50.0,,Violation by Team (kicked ball),10,10
+1,7:44.0,Turnover by J. Green (bad pass; steal by A. Drummond),,10,10
+1,7:31.0,,A. Drummond misses 2-pt layup from 2 ft,10,10
+1,7:30.0,,Offensive rebound by A. Drummond,10,10
+1,7:27.0,,A. Drummond misses 2-pt layup from 2 ft (block by J. Green),10,10
+1,7:27.0,,Offensive rebound by A. Drummond,10,10
+1,7:27.0,,Shooting foul by T. Bryant (drawn by A. Drummond),10,10
+1,7:27.0,,A. Drummond makes free throw 1 of 2,10,11
+1,7:27.0,,A. Drummond makes free throw 2 of 2,10,12
+1,7:12.0,J. Green misses 3-pt jump shot from 25 ft,,10,12
+1,7:09.0,,Defensive rebound by L. Galloway,10,12
+1,6:59.0,,B. Brown makes 3-pt jump shot from 23 ft (assist by B. Griffin),10,15
+1,6:52.0,Shooting foul by R. Jackson (drawn by B. Beal),,10,15
+1,6:52.0,,Detroit full timeout,10,15
+1,6:52.0,B. Beal makes free throw 1 of 2,,11,15
+1,6:52.0,B. Beal makes free throw 2 of 2,,12,15
+1,6:32.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by B. Griffin),12,17
+1,6:11.0,T. Ariza makes 2-pt layup from 5 ft (assist by B. Beal),,14,17
+1,5:58.0,,A. Drummond makes 2-pt layup from 1 ft (assist by R. Jackson),14,19
+1,5:45.0,J. Green misses 3-pt jump shot from 22 ft,,14,19
+1,5:45.0,,Defensive rebound by A. Drummond,14,19
+1,5:35.0,,R. Jackson makes 2-pt jump shot from 11 ft,14,21
+1,5:29.0,,Violation by Team (delay of game),14,21
+1,5:20.0,C. Randle misses 2-pt layup from 2 ft,,14,21
+1,5:18.0,,Defensive rebound by L. Galloway,14,21
+1,5:12.0,,B. Griffin makes 2-pt layup from 4 ft,14,23
+1,5:11.0,Washington full timeout,,14,23
+1,5:11.0,B. Portis enters the game for T. Bryant,,14,23
+1,5:11.0,,L. Kennard enters the game for L. Galloway,14,23
+1,4:56.0,Shooting foul by B. Brown (drawn by J. Green),,14,23
+1,4:56.0,J. Green misses free throw 1 of 2,,14,23
+1,4:56.0,Offensive rebound by Team,,14,23
+1,4:56.0,J. Green makes free throw 2 of 2,,15,23
+1,4:37.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by L. Kennard),15,25
+1,4:21.0,T. Ariza makes 2-pt dunk from 1 ft (assist by J. Green),,17,25
+1,4:03.0,,B. Griffin makes 2-pt layup from 4 ft,17,27
+1,3:50.0,C. Randle makes 3-pt jump shot from 27 ft (assist by B. Beal),,20,27
+1,3:36.0,,B. Griffin misses 3-pt jump shot from 27 ft,20,27
+1,3:32.0,Defensive rebound by T. Ariza,,20,27
+1,3:26.0,Shooting foul by A. Drummond (drawn by B. Beal),,20,27
+1,3:26.0,B. Beal makes free throw 1 of 2,,21,27
+1,3:26.0,W. Johnson enters the game for T. Ariza,,21,27
+1,3:26.0,,W. Ellington enters the game for B. Brown,21,27
+1,3:26.0,,I. Smith enters the game for R. Jackson,21,27
+1,3:26.0,B. Beal makes free throw 2 of 2,,22,27
+1,3:07.0,,A. Drummond misses 2-pt hook shot from 11 ft,22,27
+1,3:05.0,Defensive rebound by B. Beal,,22,27
+1,3:00.0,Personal foul by W. Ellington (drawn by B. Beal),,22,27
+1,3:00.0,J. McRae enters the game for C. Randle,,22,27
+1,2:52.0,B. Portis misses 3-pt jump shot from 24 ft,,22,27
+1,2:49.0,,Defensive rebound by B. Griffin,22,27
+1,2:45.0,,L. Kennard makes 3-pt jump shot from 26 ft (assist by I. Smith),22,30
+1,2:26.0,B. Beal misses 2-pt jump shot from 16 ft,,22,30
+1,2:23.0,,Defensive rebound by W. Ellington,22,30
+1,2:17.0,,Personal foul by B. Beal (drawn by B. Griffin),22,30
+1,2:17.0,J. Parker enters the game for J. Green,,22,30
+1,2:14.0,,Personal foul by J. McRae (drawn by B. Griffin),22,30
+1,2:06.0,,W. Ellington misses 3-pt jump shot from 23 ft,22,30
+1,2:02.0,Defensive rebound by B. Beal,,22,30
+1,1:49.0,B. Beal makes 2-pt jump shot from 11 ft,,24,30
+1,1:38.0,,B. Griffin misses 3-pt jump shot from 26 ft,24,30
+1,1:34.0,Defensive rebound by B. Beal,,24,30
+1,1:30.0,J. Parker misses 3-pt jump shot from 27 ft,,24,30
+1,1:26.0,,Defensive rebound by L. Kennard,24,30
+1,1:16.0,,A. Drummond misses 2-pt layup from 5 ft,24,30
+1,1:15.0,,Offensive rebound by A. Drummond,24,30
+1,1:15.0,,Shooting foul by J. Parker (drawn by A. Drummond),24,30
+1,1:15.0,,A. Drummond makes free throw 1 of 2,24,31
+1,1:15.0,,T. Maker enters the game for B. Griffin,24,31
+1,1:15.0,,A. Drummond misses free throw 2 of 2,24,31
+1,1:13.0,Defensive rebound by B. Portis,,24,31
+1,0:54.0,J. McRae misses 2-pt jump shot from 18 ft,,24,31
+1,0:52.0,,Defensive rebound by A. Drummond,24,31
+1,0:39.0,,I. Smith makes 3-pt jump shot from 23 ft (assist by W. Ellington),24,34
+1,0:33.0,B. Portis makes 3-pt jump shot from 25 ft (assist by B. Beal),,27,34
+1,0:30.0,,Offensive foul by T. Maker (drawn by J. McRae),27,34
+1,0:30.0,,Turnover by T. Maker (offensive foul),27,34
+1,0:07.0,B. Portis misses 2-pt dunk from 2 ft (block by T. Maker),,27,34
+1,0:04.0,Offensive rebound by J. Parker,,27,34
+1,0:02.0,J. McRae misses 2-pt layup from 2 ft,,27,34
+1,0:01.0,,Defensive rebound by W. Ellington,27,34
+1,0:00.0,,Shooting foul by W. Johnson (drawn by I. Smith),27,34
+1,0:00.0,,B. Brown enters the game for T. Maker,27,34
+1,0:00.0,,I. Smith makes free throw 1 of 2,27,35
+1,0:00.0,,I. Smith makes free throw 2 of 2,27,36
+2,11:50.0,Personal foul by I. Smith (drawn by J. McRae),,27,36
+2,11:36.0,J. McRae makes 2-pt jump shot from 17 ft (assist by T. Ariza),,29,36
+2,11:15.0,,W. Ellington misses 3-pt jump shot from 28 ft,29,36
+2,11:11.0,Defensive rebound by J. Parker,,29,36
+2,10:59.0,J. McRae makes 2-pt jump shot from 17 ft (assist by W. Johnson),,31,36
+2,10:45.0,,L. Kennard misses 3-pt jump shot from 27 ft,31,36
+2,10:42.0,Defensive rebound by T. Ariza,,31,36
+2,10:31.0,T. Ariza makes 2-pt jump shot from 16 ft,,33,36
+2,10:20.0,,Z. Pachulia makes 2-pt jump shot from 11 ft (assist by W. Ellington),33,38
+2,10:14.0,T. Ariza makes 3-pt jump shot from 24 ft (assist by J. McRae),,36,38
+2,9:53.0,,L. Kennard makes 3-pt jump shot from 26 ft (assist by Z. Pachulia),36,41
+2,9:34.0,W. Johnson makes 2-pt layup from 2 ft (assist by J. McRae),,38,41
+2,9:21.0,,W. Ellington misses 3-pt jump shot from 26 ft,38,41
+2,9:17.0,Defensive rebound by B. Portis,,38,41
+2,9:14.0,Turnover by B. Portis (traveling),,38,41
+2,8:50.0,,B. Griffin misses 3-pt jump shot from 26 ft,38,41
+2,8:48.0,,Offensive rebound by Z. Pachulia,38,41
+2,8:47.0,,Z. Pachulia makes 2-pt layup from 1 ft,38,43
+2,8:38.0,J. Parker misses 3-pt jump shot from 24 ft,,38,43
+2,8:35.0,,Defensive rebound by W. Ellington,38,43
+2,8:27.0,,I. Smith misses 2-pt jump shot from 16 ft,38,43
+2,8:25.0,Defensive rebound by W. Johnson,,38,43
+2,8:16.0,J. McRae makes 2-pt layup from 3 ft,,40,43
+2,8:09.0,,Detroit full timeout,40,43
+2,7:55.0,,B. Griffin makes 2-pt hook shot from 5 ft,40,45
+2,7:37.0,W. Johnson makes 3-pt jump shot from 25 ft (assist by J. McRae),,43,45
+2,7:37.0,Shooting foul by W. Ellington (drawn by W. Johnson),,43,45
+2,7:37.0,W. Johnson makes free throw 1 of 1,,44,45
+2,7:23.0,,Shooting foul by J. Parker (drawn by B. Griffin),44,45
+2,7:23.0,,B. Griffin misses free throw 1 of 2,44,45
+2,7:23.0,,Offensive rebound by Team,44,45
+2,7:23.0,,B. Griffin makes free throw 2 of 2,44,46
+2,7:03.0,J. McRae makes 2-pt jump shot from 17 ft,,46,46
+2,6:42.0,,L. Kennard misses 2-pt hook shot from 8 ft,46,46
+2,6:40.0,Defensive rebound by J. Parker,,46,46
+2,6:38.0,J. McRae makes 2-pt layup from 1 ft (assist by J. Parker),,48,46
+2,6:22.0,,W. Ellington misses 3-pt jump shot from 26 ft,48,46
+2,6:19.0,Defensive rebound by J. McRae,,48,46
+2,6:06.0,B. Portis misses 3-pt jump shot from 24 ft,,48,46
+2,6:02.0,,Defensive rebound by B. Griffin,48,46
+2,5:58.0,,W. Ellington misses 3-pt jump shot from 26 ft,48,46
+2,5:54.0,Defensive rebound by T. Ariza,,48,46
+2,5:42.0,W. Johnson misses 3-pt jump shot from 24 ft,,48,46
+2,5:40.0,,Defensive rebound by I. Smith,48,46
+2,5:19.0,,I. Smith misses 2-pt jump shot from 21 ft,48,46
+2,5:16.0,Defensive rebound by T. Ariza,,48,46
+2,5:11.0,Personal foul by B. Griffin (drawn by B. Portis),,48,46
+2,5:11.0,B. Beal enters the game for W. Johnson,,48,46
+2,5:11.0,,A. Drummond enters the game for W. Ellington,48,46
+2,5:11.0,,L. Galloway enters the game for Z. Pachulia,48,46
+2,5:11.0,,R. Jackson enters the game for I. Smith,48,46
+2,4:57.0,T. Ariza misses 2-pt hook shot from 8 ft,,48,46
+2,4:54.0,Offensive rebound by B. Portis,,48,46
+2,4:54.0,B. Portis makes 2-pt layup at rim,,50,46
+2,4:30.0,,B. Griffin misses 2-pt jump shot from 16 ft,50,46
+2,4:27.0,Defensive rebound by B. Portis,,50,46
+2,4:18.0,B. Portis misses 2-pt jump shot from 9 ft,,50,46
+2,4:16.0,,Defensive rebound by A. Drummond,50,46
+2,4:11.0,,L. Galloway misses 2-pt layup from 8 ft (block by B. Beal),50,46
+2,4:11.0,,Offensive rebound by Team,50,46
+2,4:11.0,J. Green enters the game for J. Parker,,50,46
+2,3:59.0,,Shooting foul by B. Portis (drawn by A. Drummond),50,46
+2,3:59.0,,A. Drummond makes free throw 1 of 2,50,47
+2,3:59.0,,B. Brown enters the game for L. Kennard,50,47
+2,3:59.0,,A. Drummond makes free throw 2 of 2,50,48
+2,3:41.0,B. Portis misses 2-pt jump shot from 10 ft,,50,48
+2,3:38.0,,Defensive rebound by A. Drummond,50,48
+2,3:36.0,,Personal foul by T. Ariza (drawn by B. Griffin),50,48
+2,3:30.0,,B. Griffin makes 3-pt jump shot from 26 ft (assist by R. Jackson),50,51
+2,3:18.0,Washington full timeout,,50,51
+2,3:18.0,T. Bryant enters the game for J. McRae,,50,51
+2,3:18.0,C. Randle enters the game for B. Portis,,50,51
+2,3:07.0,T. Bryant misses 2-pt jump shot from 13 ft,,50,51
+2,3:05.0,Offensive rebound by T. Bryant,,50,51
+2,3:03.0,T. Bryant makes 2-pt jump shot from 13 ft,,52,51
+2,2:52.0,,B. Griffin makes 3-pt jump shot from 25 ft,52,54
+2,2:40.0,B. Beal makes 3-pt jump shot from 24 ft (assist by J. Green),,55,54
+2,2:31.0,,B. Griffin makes 3-pt jump shot from 26 ft,55,57
+2,2:17.0,C. Randle misses 2-pt layup from 6 ft (block by A. Drummond),,55,57
+2,2:14.0,,Defensive rebound by B. Griffin,55,57
+2,2:09.0,,A. Drummond makes 2-pt layup from 1 ft (assist by B. Griffin),55,59
+2,1:53.0,J. Green misses 2-pt jump shot from 13 ft,,55,59
+2,1:53.0,,Defensive rebound by A. Drummond,55,59
+2,1:43.0,,Personal foul by C. Randle (drawn by R. Jackson),55,59
+2,1:36.0,,L. Galloway misses 3-pt jump shot from 25 ft,55,59
+2,1:30.0,Defensive rebound by C. Randle,,55,59
+2,1:25.0,Shooting foul by A. Drummond (drawn by B. Beal),,55,59
+2,1:25.0,B. Beal makes free throw 1 of 2,,56,59
+2,1:25.0,B. Beal makes free throw 2 of 2,,57,59
+2,1:16.0,,B. Griffin misses 3-pt jump shot from 26 ft,57,59
+2,1:12.0,Defensive rebound by T. Ariza,,57,59
+2,1:05.0,T. Ariza misses 3-pt jump shot from 26 ft,,57,59
+2,1:01.0,,Defensive rebound by A. Drummond,57,59
+2,0:46.0,,B. Griffin misses 3-pt jump shot from 25 ft,57,59
+2,0:44.0,Defensive rebound by T. Ariza,,57,59
+2,0:44.0,Turnover by T. Ariza (bad pass; steal by A. Drummond),,57,59
+2,0:42.0,,A. Drummond makes 2-pt layup from 2 ft,57,61
+2,0:35.0,T. Bryant misses 3-pt jump shot from 25 ft,,57,61
+2,0:33.0,,Defensive rebound by A. Drummond,57,61
+2,0:14.0,,B. Griffin misses 2-pt layup from 3 ft,57,61
+2,0:10.0,Defensive rebound by B. Beal,,57,61
+2,0:06.0,T. Bryant makes 2-pt layup at rim (assist by B. Beal),,59,61
+2,0:00.0,,L. Galloway misses 3-pt jump shot from 23 ft,59,61
+2,0:00.0,,Offensive rebound by Team,59,61
+3,11:45.0,J. Green misses 3-pt jump shot from 27 ft,,59,61
+3,11:42.0,Offensive rebound by T. Bryant,,59,61
+3,11:41.0,T. Bryant makes 2-pt layup from 2 ft,,61,61
+3,11:25.0,,R. Jackson makes 3-pt jump shot from 28 ft,61,64
+3,11:08.0,Turnover by J. Green (bad pass; steal by L. Galloway),,61,64
+3,10:59.0,,Turnover by A. Drummond (lost ball),61,64
+3,10:51.0,Turnover by C. Randle (lost ball; steal by R. Jackson),,61,64
+3,10:46.0,,B. Brown makes 2-pt dunk from 1 ft (assist by R. Jackson),61,66
+3,10:29.0,B. Beal makes 2-pt jump shot from 14 ft,,63,66
+3,10:17.0,,Personal foul by J. Green (drawn by B. Griffin),63,66
+3,10:10.0,,Turnover by R. Jackson (bad pass; steal by T. Ariza),63,66
+3,10:06.0,C. Randle makes 2-pt layup from 1 ft (assist by T. Ariza),,65,66
+3,9:50.0,,Personal foul by J. Green (drawn by B. Griffin),65,66
+3,9:33.0,,B. Griffin misses 3-pt jump shot from 25 ft,65,66
+3,9:31.0,Defensive rebound by T. Bryant,,65,66
+3,9:25.0,B. Beal misses 3-pt jump shot from 26 ft,,65,66
+3,9:21.0,Offensive rebound by T. Bryant,,65,66
+3,9:09.0,T. Ariza misses 3-pt jump shot from 22 ft,,65,66
+3,9:06.0,,Defensive rebound by B. Griffin,65,66
+3,8:45.0,,B. Griffin makes 2-pt layup from 3 ft,65,68
+3,8:27.0,T. Bryant makes 2-pt dunk from 1 ft (assist by T. Ariza),,67,68
+3,8:13.0,,R. Jackson misses 2-pt layup from 4 ft (block by T. Bryant),67,68
+3,8:11.0,Defensive rebound by T. Bryant,,67,68
+3,8:09.0,T. Ariza makes 2-pt dunk from 1 ft (assist by B. Beal),,69,68
+3,7:49.0,,Personal foul by B. Beal (drawn by B. Griffin),69,68
+3,7:36.0,,Offensive foul by R. Jackson (drawn by T. Bryant),69,68
+3,7:36.0,,Turnover by R. Jackson (offensive foul),69,68
+3,7:19.0,B. Beal misses 2-pt jump shot from 21 ft,,69,68
+3,7:14.0,,Defensive rebound by A. Drummond,69,68
+3,7:03.0,,R. Jackson makes 3-pt jump shot from 25 ft (assist by B. Griffin),69,71
+3,6:50.0,Turnover by T. Ariza (out of bounds lost ball),,69,71
+3,6:50.0,,Detroit full timeout,69,71
+3,6:50.0,,T. Maker enters the game for B. Griffin,69,71
+3,6:35.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by R. Jackson),69,73
+3,6:10.0,B. Beal misses 3-pt jump shot from 26 ft,,69,73
+3,6:05.0,,Defensive rebound by T. Maker,69,73
+3,5:50.0,,R. Jackson makes 3-pt jump shot from 24 ft,69,76
+3,5:37.0,T. Ariza makes 2-pt layup from 4 ft (assist by T. Bryant),,71,76
+3,5:37.0,Shooting foul by T. Maker (drawn by T. Ariza),,71,76
+3,5:37.0,B. Portis enters the game for T. Bryant,,71,76
+3,5:37.0,T. Ariza misses free throw 1 of 1,,71,76
+3,5:35.0,,Defensive rebound by T. Maker,71,76
+3,5:22.0,,Turnover by R. Jackson (bad pass),71,76
+3,5:22.0,J. McRae enters the game for C. Randle,,71,76
+3,4:59.0,Turnover by J. Green (step out of bounds),,71,76
+3,4:45.0,,A. Drummond makes 2-pt layup from 3 ft (assist by R. Jackson),71,78
+3,4:33.0,B. Beal misses 3-pt jump shot from 23 ft,,71,78
+3,4:29.0,,Defensive rebound by L. Galloway,71,78
+3,4:17.0,,T. Maker makes 3-pt jump shot from 23 ft (assist by L. Galloway),71,81
+3,4:16.0,Washington full timeout,,71,81
+3,4:16.0,J. Parker enters the game for J. Green,,71,81
+3,4:16.0,,L. Kennard enters the game for L. Galloway,71,81
+3,3:57.0,T. Ariza makes 2-pt jump shot from 21 ft (assist by B. Portis),,73,81
+3,3:39.0,,L. Kennard makes 3-pt jump shot from 25 ft (assist by R. Jackson),73,84
+3,3:21.0,B. Beal misses 2-pt jump shot from 13 ft,,73,84
+3,3:19.0,,Defensive rebound by A. Drummond,73,84
+3,3:09.0,,R. Jackson misses 2-pt layup from 1 ft,73,84
+3,3:07.0,Defensive rebound by J. Parker,,73,84
+3,2:54.0,B. Portis makes 3-pt jump shot from 26 ft (assist by J. McRae),,76,84
+3,2:36.0,,Turnover by B. Brown (lost ball; steal by B. Beal),76,84
+3,2:36.0,Personal take foul by B. Brown (drawn by J. McRae),,76,84
+3,2:36.0,W. Johnson enters the game for T. Ariza,,76,84
+3,2:36.0,,I. Smith enters the game for R. Jackson,76,84
+3,2:20.0,J. McRae misses 2-pt layup from 4 ft,,76,84
+3,2:18.0,,Defensive rebound by A. Drummond,76,84
+3,2:12.0,,A. Drummond makes 2-pt layup from 2 ft (assist by L. Kennard),76,86
+3,2:12.0,,Shooting foul by J. Parker (drawn by A. Drummond),76,86
+3,2:12.0,,A. Drummond misses free throw 1 of 1,76,86
+3,2:10.0,Defensive rebound by B. Portis,,76,86
+3,1:55.0,J. Parker misses 3-pt jump shot from 26 ft,,76,86
+3,1:53.0,,Defensive rebound by A. Drummond,76,86
+3,1:43.0,,Turnover by T. Maker (traveling),76,86
+3,1:27.0,Shooting foul by I. Smith (drawn by B. Beal),,76,86
+3,1:27.0,B. Beal makes free throw 1 of 2,,77,86
+3,1:27.0,,W. Ellington enters the game for B. Brown,77,86
+3,1:27.0,,Technical foul by R. Jackson,77,86
+3,1:27.0,B. Beal makes technical free throw,,78,86
+3,1:27.0,B. Beal makes free throw 2 of 2,,79,86
+3,1:07.0,,A. Drummond misses 2-pt hook shot from 9 ft,79,86
+3,1:05.0,Defensive rebound by J. Parker,,79,86
+3,1:02.0,B. Beal misses 3-pt jump shot from 27 ft,,79,86
+3,0:58.0,,Defensive rebound by L. Kennard,79,86
+3,0:44.0,,Shooting foul by J. McRae (drawn by A. Drummond),79,86
+3,0:44.0,,A. Drummond makes free throw 1 of 2,79,87
+3,0:44.0,,A. Drummond makes free throw 2 of 2,79,88
+3,0:30.0,Turnover by J. McRae (out of bounds lost ball),,79,88
+3,0:26.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by I. Smith),79,90
+3,0:02.0,Turnover by J. Parker (lost ball; steal by A. Drummond),,79,90
+3,0:01.0,,A. Drummond misses 3-pt jump shot from 70 ft,79,90
+3,0:01.0,,Offensive rebound by Team,79,90
+4,11:43.0,,W. Ellington misses 3-pt jump shot from 25 ft,79,90
+4,11:37.0,Defensive rebound by W. Johnson,,79,90
+4,11:27.0,Turnover by B. Beal (bad pass),,79,90
+4,11:09.0,,Turnover by W. Ellington (lost ball; steal by W. Johnson),79,90
+4,11:07.0,B. Beal makes 2-pt dunk at rim (assist by J. Parker),,81,90
+4,10:51.0,,I. Smith misses 3-pt jump shot from 23 ft,81,90
+4,10:45.0,,Offensive rebound by I. Smith,81,90
+4,10:45.0,,T. Maker misses 2-pt layup from 2 ft (block by W. Johnson),81,90
+4,10:43.0,,Offensive rebound by T. Maker,81,90
+4,10:43.0,,Personal foul by W. Johnson (drawn by T. Maker),81,90
+4,10:32.0,,I. Smith misses 3-pt jump shot from 26 ft,81,90
+4,10:28.0,Defensive rebound by B. Beal,,81,90
+4,10:25.0,B. Beal misses 3-pt jump shot from 26 ft,,81,90
+4,10:23.0,,Defensive rebound by B. Griffin,81,90
+4,10:09.0,,B. Griffin misses 2-pt jump shot from 11 ft,81,90
+4,10:08.0,,Offensive rebound by I. Smith,81,90
+4,10:04.0,,T. Maker makes 2-pt layup from 2 ft (assist by I. Smith),81,92
+4,10:04.0,W. Johnson misses 2-pt jump shot from 19 ft,,81,92
+4,9:48.0,,Defensive rebound by I. Smith,81,92
+4,9:42.0,,I. Smith makes 2-pt layup from 2 ft,81,94
+4,9:42.0,Washington full timeout,,81,94
+4,9:42.0,T. Ariza enters the game for J. McRae,,81,94
+4,9:25.0,B. Portis makes 3-pt jump shot from 27 ft (assist by B. Beal),,84,94
+4,9:12.0,,I. Smith misses 2-pt layup from 6 ft,84,94
+4,9:10.0,,Offensive rebound by B. Griffin,84,94
+4,9:07.0,,W. Ellington makes 2-pt layup from 1 ft (assist by B. Griffin),84,96
+4,8:53.0,B. Portis makes 2-pt jump shot from 11 ft (assist by B. Beal),,86,96
+4,8:33.0,,W. Ellington misses 3-pt jump shot from 23 ft,86,96
+4,8:30.0,Defensive rebound by T. Ariza,,86,96
+4,8:25.0,B. Portis misses 3-pt jump shot from 26 ft,,86,96
+4,8:22.0,,Defensive rebound by L. Kennard,86,96
+4,8:09.0,,Turnover by I. Smith (bad pass; steal by B. Portis),86,96
+4,8:07.0,Shooting foul by B. Griffin (drawn by J. Parker),,86,96
+4,8:07.0,J. Parker misses free throw 1 of 2,,86,96
+4,8:07.0,Offensive rebound by Team,,86,96
+4,8:07.0,J. Parker misses free throw 2 of 2,,86,96
+4,8:04.0,,Defensive rebound by T. Maker,86,96
+4,7:58.0,,B. Griffin makes 3-pt jump shot from 25 ft (assist by I. Smith),86,99
+4,7:47.0,B. Portis makes 2-pt layup from 3 ft (assist by B. Beal),,88,99
+4,7:47.0,Shooting foul by T. Maker (drawn by B. Portis),,88,99
+4,7:47.0,B. Portis misses free throw 1 of 1,,88,99
+4,7:45.0,,Defensive rebound by W. Ellington,88,99
+4,7:25.0,,Shooting foul by T. Ariza (drawn by L. Kennard),88,99
+4,7:25.0,,L. Kennard makes free throw 1 of 3,88,100
+4,7:25.0,,L. Kennard makes free throw 2 of 3,88,101
+4,7:25.0,,L. Kennard makes free throw 3 of 3,88,102
+4,7:14.0,Personal foul by L. Kennard (drawn by T. Ariza),,88,102
+4,7:05.0,B. Beal makes 2-pt jump shot from 20 ft,,90,102
+4,6:38.0,,L. Kennard makes 3-pt jump shot from 26 ft (assist by B. Griffin),90,105
+4,6:26.0,Turnover by J. Parker (bad pass),,90,105
+4,6:26.0,,Detroit full timeout,90,105
+4,6:26.0,J. Green enters the game for J. Parker,,90,105
+4,6:26.0,,A. Drummond enters the game for T. Maker,90,105
+4,6:18.0,,Turnover by W. Ellington (bad pass; steal by B. Beal),90,105
+4,6:16.0,B. Beal makes 2-pt dunk from 1 ft,,92,105
+4,5:50.0,,B. Griffin makes 2-pt jump shot from 4 ft,92,107
+4,5:37.0,Personal foul by A. Drummond (drawn by B. Portis),,92,107
+4,5:37.0,,R. Jackson enters the game for I. Smith,92,107
+4,5:35.0,Personal foul by W. Ellington (drawn by B. Beal),,92,107
+4,5:35.0,B. Beal makes free throw 1 of 2,,93,107
+4,5:35.0,B. Beal makes free throw 2 of 2,,94,107
+4,5:12.0,,L. Kennard misses 3-pt jump shot from 26 ft,94,107
+4,5:08.0,Defensive rebound by B. Beal,,94,107
+4,5:00.0,B. Beal misses 3-pt jump shot from 26 ft,,94,107
+4,4:56.0,Offensive rebound by W. Johnson,,94,107
+4,4:43.0,T. Ariza makes 3-pt jump shot from 29 ft (assist by B. Beal),,97,107
+4,4:22.0,,A. Drummond makes 2-pt dunk from 2 ft (assist by B. Griffin),97,109
+4,4:22.0,,Shooting foul by W. Johnson (drawn by A. Drummond),97,109
+4,4:22.0,,B. Brown enters the game for W. Ellington,97,109
+4,4:22.0,,A. Drummond makes free throw 1 of 1,97,110
+4,4:12.0,Turnover by B. Portis (lost ball; steal by A. Drummond),,97,110
+4,4:08.0,,Turnover by R. Jackson (bad pass),97,110
+4,3:57.0,T. Ariza makes 3-pt jump shot from 23 ft (assist by W. Johnson),,100,110
+4,3:31.0,,B. Griffin makes 2-pt layup from 3 ft,100,112
+4,3:15.0,B. Portis makes 3-pt jump shot from 27 ft (assist by J. Green),,103,112
+4,3:13.0,,Detroit full timeout,103,112
+4,2:53.0,,B. Griffin misses 2-pt jump shot from 9 ft,103,112
+4,2:45.0,,A. Drummond makes 2-pt layup at rim,103,114
+4,2:45.0,,Offensive rebound by A. Drummond,103,114
+4,2:38.0,W. Johnson misses 3-pt jump shot from 23 ft,,103,114
+4,2:36.0,,Defensive rebound by A. Drummond,103,114
+4,2:25.0,,Offensive foul by B. Griffin (drawn by J. Green),103,114
+4,2:25.0,,Turnover by B. Griffin (offensive foul),103,114
+4,2:17.0,Turnover by J. Green (traveling),,103,114
+4,1:57.0,,Offensive foul by B. Griffin (drawn by J. Green),103,114
+4,1:57.0,,Turnover by B. Griffin (offensive foul),103,114
+4,1:49.0,B. Portis makes 3-pt jump shot from 23 ft (assist by J. Green),,106,114
+4,1:35.0,,R. Jackson makes 3-pt jump shot from 25 ft,106,117
+4,1:15.0,B. Portis makes 3-pt jump shot from 24 ft (assist by T. Ariza),,109,117
+4,1:09.0,,Personal take foul by T. Ariza (drawn by B. Brown),109,117
+4,0:58.0,,Personal foul by B. Beal (drawn by B. Griffin),109,117
+4,0:58.0,,B. Griffin makes free throw 1 of 2,109,118
+4,0:58.0,,L. Galloway enters the game for L. Kennard,109,118
+4,0:58.0,,B. Griffin makes free throw 2 of 2,109,119
+4,0:52.0,B. Beal misses 2-pt jump shot from 16 ft,,109,119
+4,0:46.0,,Defensive rebound by A. Drummond,109,119
+4,0:41.0,,Turnover by R. Jackson (lost ball; steal by B. Portis),109,119
+4,0:39.0,B. Portis misses 2-pt jump shot from 24 ft,,109,119
+4,0:35.0,,Defensive rebound by L. Galloway,109,119
+4,0:34.0,,Turnover by R. Jackson (discontinued dribble),109,119
+4,0:26.0,B. Beal makes 2-pt layup from 2 ft,,111,119
+4,0:26.0,,Detroit full timeout,111,119
+4,0:26.0,,Detroit full timeout,111,119
+4,0:26.0,,J. Calderón enters the game for B. Brown,111,119
+4,0:26.0,,W. Ellington enters the game for A. Drummond,111,119
+4,0:26.0,,L. Kennard enters the game for L. Galloway,111,119
+4,0:24.0,,Personal take foul by J. Green (drawn by R. Jackson),111,119
+4,0:24.0,,R. Jackson makes free throw 1 of 2,111,120
+4,0:24.0,,B. Brown enters the game for J. Calderón,111,120
+4,0:24.0,,A. Drummond enters the game for W. Ellington,111,120
+4,0:24.0,,L. Galloway enters the game for L. Kennard,111,120
+4,0:24.0,,R. Jackson makes free throw 2 of 2,111,121
+4,0:24.0,Washington full timeout,,111,121
+4,0:24.0,Away from play foul by B. Griffin (drawn by J. Green),,111,121
+4,0:24.0,B. Beal makes free throw 1 of 1,,112,121
+4,0:23.0,J. Green misses 3-pt jump shot from 27 ft,,112,121
+4,0:18.0,Offensive rebound by J. Green,,112,121
+4,0:16.0,B. Portis misses 3-pt jump shot from 26 ft,,112,121
+4,0:12.0,,Defensive rebound by B. Griffin,112,121

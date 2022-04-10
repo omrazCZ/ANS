@@ -1,0 +1,445 @@
+QUARTER,TIME_REMAINING,CLEVELAND_ACTION,DETROIT_ACTION,CLEVELAND_SCORE,DETROIT_SCORE
+1,11:40.0,,R. Bullock misses 3-pt jump shot from 28 ft,0,0
+1,11:37.0,Defensive rebound by G. Hill,,0,0
+1,11:29.0,Personal foul by R. Jackson (drawn by T. Thompson),,0,0
+1,11:21.0,C. Frye misses 3-pt jump shot from 25 ft,,0,0
+1,11:19.0,,Defensive rebound by R. Jackson,0,0
+1,11:17.0,,Personal foul by C. Frye (drawn by B. Griffin),0,0
+1,11:04.0,,B. Griffin misses 2-pt layup from 4 ft,0,0
+1,11:03.0,,Offensive rebound by B. Griffin,0,0
+1,10:59.0,,Personal foul by R. Hood (drawn by B. Griffin),0,0
+1,10:50.0,,B. Griffin misses 2-pt jump shot from 16 ft,0,0
+1,10:48.0,,Offensive rebound by A. Drummond,0,0
+1,10:47.0,,A. Drummond misses 2-pt layup from 1 ft,0,0
+1,10:44.0,Defensive rebound by T. Thompson,,0,0
+1,10:36.0,Turnover by T. Thompson (bad pass; steal by S. Johnson),,0,0
+1,10:30.0,,B. Griffin makes 2-pt layup from 1 ft,0,2
+1,10:30.0,,Shooting foul by C. Osman (drawn by B. Griffin),0,2
+1,10:30.0,,B. Griffin makes free throw 1 of 1,0,3
+1,10:15.0,R. Hood misses 2-pt jump shot from 13 ft,,0,3
+1,10:11.0,,Defensive rebound by R. Jackson,0,3
+1,10:06.0,,S. Johnson makes 3-pt jump shot from 22 ft (assist by R. Jackson),0,6
+1,9:54.0,Personal foul by S. Johnson (drawn by C. Osman),,0,6
+1,9:38.0,C. Frye makes 2-pt jump shot from 18 ft,,2,6
+1,9:16.0,,R. Bullock misses 3-pt jump shot from 23 ft,2,6
+1,9:12.0,,Offensive rebound by A. Drummond,2,6
+1,9:12.0,,R. Bullock misses 2-pt layup from 2 ft,2,6
+1,9:11.0,,Offensive rebound by Team,2,6
+1,9:11.0,,Turnover by R. Bullock (traveling),2,6
+1,8:54.0,C. Osman makes 3-pt jump shot from 23 ft,,5,6
+1,8:35.0,,A. Drummond misses 2-pt dunk from 2 ft (block by T. Thompson),5,6
+1,8:34.0,Defensive rebound by C. Osman,,5,6
+1,8:30.0,C. Osman misses 2-pt layup from 2 ft,,5,6
+1,8:28.0,Offensive rebound by T. Thompson,,5,6
+1,8:26.0,T. Thompson makes 2-pt hook shot from 4 ft,,7,6
+1,8:00.0,,Turnover by B. Griffin (lost ball; steal by G. Hill),7,6
+1,7:53.0,G. Hill makes 2-pt layup from 1 ft,,9,6
+1,7:43.0,,R. Jackson misses 3-pt jump shot from 26 ft,9,6
+1,7:41.0,Defensive rebound by G. Hill,,9,6
+1,7:41.0,Personal foul by R. Jackson (drawn by R. Hood),,9,6
+1,7:41.0,,I. Smith enters the game for R. Jackson,9,6
+1,7:28.0,G. Hill makes 2-pt layup from 2 ft,,11,6
+1,7:10.0,,R. Bullock misses 2-pt jump shot from 17 ft,11,6
+1,7:08.0,,Offensive rebound by B. Griffin,11,6
+1,7:00.0,,R. Bullock misses 2-pt jump shot from 18 ft,11,6
+1,6:58.0,,Offensive rebound by A. Drummond,11,6
+1,6:57.0,,A. Drummond misses 2-pt layup from 1 ft,11,6
+1,6:57.0,Defensive rebound by C. Osman,,11,6
+1,6:47.0,T. Thompson misses 2-pt hook shot from 7 ft,,11,6
+1,6:43.0,,Defensive rebound by A. Drummond,11,6
+1,6:36.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by B. Griffin),11,8
+1,6:35.0,Cleveland full timeout,,11,8
+1,6:24.0,G. Hill makes 2-pt layup from 3 ft,,13,8
+1,6:12.0,,R. Bullock misses 3-pt jump shot from 26 ft,13,8
+1,6:11.0,,Offensive rebound by Team,13,8
+1,6:01.0,,B. Griffin makes 3-pt jump shot from 26 ft,13,11
+1,5:44.0,Turnover by G. Hill (bad pass; steal by S. Johnson),,13,11
+1,5:41.0,,S. Johnson makes 2-pt layup from 1 ft (assist by I. Smith),13,13
+1,5:19.0,T. Thompson misses 2-pt jump shot from 16 ft,,13,13
+1,5:17.0,,Defensive rebound by B. Griffin,13,13
+1,5:12.0,,I. Smith misses 3-pt jump shot from 25 ft,13,13
+1,5:07.0,,Offensive rebound by S. Johnson,13,13
+1,5:06.0,,S. Johnson misses 3-pt jump shot from 28 ft,13,13
+1,5:06.0,Defensive rebound by R. Hood,,13,13
+1,4:57.0,R. Hood makes 2-pt layup from 5 ft,,15,13
+1,4:42.0,,B. Griffin makes 2-pt dunk at rim (assist by I. Smith),15,15
+1,4:26.0,R. Hood misses 2-pt layup from 1 ft (block by R. Bullock),,15,15
+1,4:26.0,Offensive rebound by Team,,15,15
+1,4:26.0,K. Korver enters the game for C. Osman,,15,15
+1,4:26.0,L. Nance enters the game for T. Thompson,,15,15
+1,4:26.0,,L. Galloway enters the game for R. Bullock,15,15
+1,4:21.0,Turnover by G. Hill (bad pass; steal by B. Griffin),,15,15
+1,3:59.0,,S. Johnson misses 3-pt jump shot from 30 ft,15,15
+1,3:55.0,Defensive rebound by K. Korver,,15,15
+1,3:40.0,Shooting foul by A. Drummond (drawn by R. Hood),,15,15
+1,3:40.0,R. Hood makes free throw 1 of 2,,16,15
+1,3:40.0,C. Sexton enters the game for C. Frye,,16,15
+1,3:40.0,J. Smith enters the game for G. Hill,,16,15
+1,3:40.0,R. Hood makes free throw 2 of 2,,17,15
+1,3:23.0,,Turnover by S. Johnson (step out of bounds),17,15
+1,3:12.0,J. Smith misses 3-pt jump shot from 26 ft,,17,15
+1,3:09.0,,Defensive rebound by A. Drummond,17,15
+1,2:53.0,,I. Smith makes 3-pt jump shot from 27 ft,17,18
+1,2:35.0,Personal foul by L. Galloway (drawn by K. Korver),,17,18
+1,2:35.0,,Detroit full timeout,17,18
+1,2:35.0,J. Clarkson enters the game for R. Hood,,17,18
+1,2:35.0,,L. Kennard enters the game for A. Drummond,17,18
+1,2:35.0,,Z. Pachulia enters the game for B. Griffin,17,18
+1,2:35.0,K. Korver makes free throw 1 of 2,,18,18
+1,2:35.0,K. Korver makes free throw 2 of 2,,19,18
+1,2:17.0,,L. Galloway makes 2-pt jump shot from 9 ft (assist by Z. Pachulia),19,20
+1,1:57.0,J. Clarkson makes 3-pt jump shot from 22 ft (assist by L. Nance),,22,20
+1,1:46.0,,L. Kennard makes 2-pt layup from 1 ft (assist by Z. Pachulia),22,22
+1,1:46.0,Violation by Team (def goaltending),,22,22
+1,1:46.0,,R. Bullock enters the game for S. Johnson,22,22
+1,1:30.0,Turnover by J. Smith (back court),,22,22
+1,1:21.0,,Personal foul by K. Korver (drawn by L. Kennard),22,22
+1,1:08.0,,L. Galloway makes 3-pt jump shot from 23 ft (assist by I. Smith),22,25
+1,1:00.0,Personal foul by Z. Pachulia (drawn by C. Sexton),,22,25
+1,1:00.0,C. Sexton makes free throw 1 of 2,,23,25
+1,1:00.0,C. Sexton makes free throw 2 of 2,,24,25
+1,0:44.0,,Personal foul by L. Nance (drawn by Z. Pachulia),24,25
+1,0:44.0,,Z. Pachulia makes free throw 1 of 2,24,26
+1,0:44.0,,Z. Pachulia makes free throw 2 of 2,24,27
+1,0:33.0,J. Clarkson makes 3-pt jump shot from 26 ft,,27,27
+1,0:23.0,,I. Smith makes 3-pt jump shot from 26 ft (assist by R. Bullock),27,30
+1,0:01.0,K. Korver misses 3-pt jump shot from 24 ft,,27,30
+1,0:01.0,Offensive rebound by Team,,27,30
+2,11:44.0,J. Clarkson makes 2-pt layup from 3 ft,,29,30
+2,11:21.0,,L. Kennard makes 2-pt jump shot from 17 ft,29,32
+2,11:01.0,K. Korver makes 3-pt jump shot from 23 ft (assist by L. Nance),,32,32
+2,10:42.0,,R. Jackson misses 3-pt jump shot from 26 ft,32,32
+2,10:39.0,Defensive rebound by L. Nance,,32,32
+2,10:33.0,C. Sexton misses 2-pt jump shot from 12 ft,,32,32
+2,10:26.0,Offensive rebound by L. Nance,,32,32
+2,10:26.0,L. Nance makes 2-pt layup at rim,,34,32
+2,10:11.0,,Z. Pachulia misses 2-pt layup from 3 ft,34,32
+2,10:11.0,,Offensive rebound by Z. Pachulia,34,32
+2,10:11.0,,Personal foul by K. Korver (drawn by Z. Pachulia),34,32
+2,10:11.0,,A. Drummond enters the game for Z. Pachulia,34,32
+2,10:03.0,,Offensive foul by R. Jackson (drawn by C. Sexton),34,32
+2,10:03.0,,Turnover by R. Jackson (offensive foul),34,32
+2,10:03.0,,I. Smith enters the game for R. Jackson,34,32
+2,9:50.0,L. Nance makes 2-pt dunk from 1 ft (assist by C. Sexton),,36,32
+2,9:31.0,,Personal foul by K. Korver (drawn by L. Kennard),36,32
+2,9:31.0,C. Osman enters the game for K. Korver,,36,32
+2,9:23.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by L. Kennard),36,34
+2,9:12.0,C. Sexton misses 3-pt jump shot from 26 ft,,36,34
+2,9:10.0,,Defensive rebound by A. Drummond,36,34
+2,9:01.0,,A. Drummond makes 2-pt dunk at rim (assist by R. Bullock),36,36
+2,9:00.0,Cleveland full timeout,,36,36
+2,8:48.0,L. Nance makes 2-pt dunk from 1 ft (assist by C. Osman),,38,36
+2,8:28.0,,A. Drummond makes 2-pt dunk from 2 ft (assist by R. Bullock),38,38
+2,8:08.0,L. Nance misses 2-pt jump shot from 19 ft,,38,38
+2,8:05.0,,Defensive rebound by A. Drummond,38,38
+2,8:00.0,,Turnover by A. Drummond (lost ball; steal by L. Nance),38,38
+2,7:57.0,Turnover by C. Sexton (out of bounds lost ball),,38,38
+2,7:42.0,,L. Kennard makes 2-pt layup from 6 ft,38,40
+2,7:22.0,C. Sexton makes 2-pt jump shot from 10 ft,,40,40
+2,7:11.0,,Turnover by A. Drummond (bad pass; steal by L. Nance),40,40
+2,7:07.0,J. Clarkson makes 2-pt layup from 2 ft (assist by L. Nance),,42,40
+2,6:41.0,,L. Kennard makes 2-pt jump shot from 20 ft,42,42
+2,6:32.0,Personal foul by I. Smith (drawn by C. Sexton),,42,42
+2,6:32.0,C. Frye enters the game for J. Clarkson,,42,42
+2,6:32.0,G. Hill enters the game for L. Nance,,42,42
+2,6:32.0,R. Hood enters the game for C. Sexton,,42,42
+2,6:32.0,T. Thompson enters the game for J. Smith,,42,42
+2,6:32.0,,B. Griffin enters the game for R. Bullock,42,42
+2,6:32.0,,S. Johnson enters the game for L. Galloway,42,42
+2,6:22.0,C. Osman misses 2-pt layup from 8 ft,,42,42
+2,6:22.0,,Defensive rebound by Team,42,42
+2,6:09.0,,B. Griffin misses 3-pt jump shot from 23 ft,42,42
+2,6:05.0,Defensive rebound by C. Osman,,42,42
+2,6:00.0,Turnover by C. Osman (bad pass; steal by L. Kennard),,42,42
+2,5:54.0,,A. Drummond misses 2-pt hook shot from 6 ft,42,42
+2,5:50.0,Defensive rebound by C. Frye,,42,42
+2,5:39.0,G. Hill makes 2-pt layup from 5 ft (assist by C. Frye),,44,42
+2,5:34.0,,I. Smith makes 2-pt layup from 1 ft,44,44
+2,5:17.0,G. Hill misses 2-pt hook shot from 10 ft,,44,44
+2,5:15.0,,Defensive rebound by A. Drummond,44,44
+2,5:06.0,,B. Griffin makes 2-pt dunk at rim,44,46
+2,4:51.0,R. Hood misses 2-pt jump shot from 18 ft,,44,46
+2,4:49.0,,Defensive rebound by I. Smith,44,46
+2,4:41.0,,A. Drummond misses 2-pt hook shot from 5 ft,44,46
+2,4:39.0,Defensive rebound by R. Hood,,44,46
+2,4:32.0,G. Hill misses 2-pt jump shot from 19 ft,,44,46
+2,4:30.0,,Defensive rebound by S. Johnson,44,46
+2,4:25.0,,I. Smith misses 3-pt jump shot from 23 ft,44,46
+2,4:22.0,Defensive rebound by T. Thompson,,44,46
+2,4:03.0,G. Hill makes 2-pt layup from 4 ft (assist by T. Thompson),,46,46
+2,3:54.0,,Detroit full timeout,46,46
+2,3:38.0,,A. Drummond misses 2-pt layup from 5 ft,46,46
+2,3:36.0,Defensive rebound by C. Frye,,46,46
+2,3:33.0,Shooting foul by B. Griffin (drawn by G. Hill),,46,46
+2,3:33.0,G. Hill makes free throw 1 of 2,,47,46
+2,3:33.0,G. Hill makes free throw 2 of 2,,48,46
+2,3:13.0,,S. Johnson makes 2-pt layup from 2 ft,48,48
+2,3:03.0,C. Osman misses 2-pt jump shot from 8 ft (block by I. Smith),,48,48
+2,3:00.0,,Defensive rebound by A. Drummond,48,48
+2,2:53.0,,Personal foul by G. Hill (drawn by B. Griffin),48,48
+2,2:44.0,,B. Griffin makes 3-pt jump shot from 26 ft,48,51
+2,2:17.0,T. Thompson misses 2-pt jump shot from 10 ft,,48,51
+2,2:15.0,,Defensive rebound by A. Drummond,48,51
+2,1:55.0,,Shooting foul by C. Frye (drawn by B. Griffin),48,51
+2,1:55.0,,B. Griffin misses free throw 1 of 2,48,51
+2,1:55.0,,Offensive rebound by Team,48,51
+2,1:55.0,J. Clarkson enters the game for C. Osman,,48,51
+2,1:55.0,,B. Brown enters the game for L. Kennard,48,51
+2,1:55.0,,B. Griffin makes free throw 2 of 2,48,52
+2,1:39.0,R. Hood misses 2-pt hook shot from 7 ft,,48,52
+2,1:36.0,,Defensive rebound by A. Drummond,48,52
+2,1:31.0,,B. Griffin makes 2-pt layup from 2 ft,48,54
+2,1:07.0,C. Frye misses 2-pt jump shot from 12 ft,,48,54
+2,1:02.0,,Defensive rebound by A. Drummond,48,54
+2,0:54.0,,A. Drummond makes 2-pt layup from 1 ft,48,56
+2,0:34.0,G. Hill misses 2-pt jump shot from 10 ft (block by A. Drummond),,48,56
+2,0:33.0,,Defensive rebound by I. Smith,48,56
+2,0:30.0,,Flagrant foul type 1 by J. Clarkson (drawn by B. Brown),48,56
+2,0:30.0,,B. Brown misses flagrant free throw 1 of 2,48,56
+2,0:30.0,,Offensive rebound by Team,48,56
+2,0:30.0,,B. Brown misses flagrant free throw 2 of 2,48,56
+2,0:30.0,,Offensive rebound by Team,48,56
+2,0:30.0,L. Nance enters the game for C. Frye,,48,56
+2,0:20.0,,A. Drummond makes 2-pt layup from 1 ft (assist by I. Smith),48,58
+2,0:07.0,Personal foul by B. Brown (drawn by G. Hill),,48,58
+2,0:07.0,C. Frye enters the game for L. Nance,,48,58
+2,0:07.0,J. Smith enters the game for T. Thompson,,48,58
+2,0:07.0,,R. Bullock enters the game for A. Drummond,48,58
+2,0:01.0,J. Clarkson makes 2-pt jump shot from 17 ft,,50,58
+3,11:46.0,R. Hood makes 2-pt jump shot from 16 ft,,52,58
+3,11:19.0,,B. Griffin makes 3-pt jump shot from 25 ft (assist by R. Jackson),52,61
+3,11:07.0,Def 3 sec tech foul by Team,,52,61
+3,11:07.0,G. Hill makes technical free throw,,53,61
+3,10:59.0,T. Thompson makes 2-pt layup from 2 ft (assist by R. Hood),,55,61
+3,10:41.0,,Offensive foul by A. Drummond (drawn by C. Frye),55,61
+3,10:41.0,,Turnover by A. Drummond (offensive foul),55,61
+3,10:18.0,R. Hood misses 2-pt jump shot from 21 ft,,55,61
+3,10:16.0,,Defensive rebound by B. Griffin,55,61
+3,10:08.0,,R. Jackson misses 3-pt jump shot from 25 ft,55,61
+3,10:06.0,Defensive rebound by C. Frye,,55,61
+3,9:59.0,C. Osman misses 3-pt jump shot from 23 ft,,55,61
+3,9:56.0,,Defensive rebound by B. Griffin,55,61
+3,9:50.0,,Def 3 sec tech foul by Team,55,61
+3,9:50.0,,R. Jackson makes technical free throw,55,62
+3,9:35.0,,R. Bullock misses 3-pt jump shot from 25 ft,55,62
+3,9:31.0,,Offensive rebound by A. Drummond,55,62
+3,9:29.0,,A. Drummond makes 2-pt layup from 3 ft,55,64
+3,9:10.0,C. Frye makes 3-pt jump shot from 27 ft (assist by C. Osman),,58,64
+3,9:02.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by R. Jackson),58,66
+3,8:47.0,T. Thompson misses 2-pt hook shot from 6 ft,,58,66
+3,8:45.0,,Defensive rebound by A. Drummond,58,66
+3,8:28.0,,R. Jackson makes 3-pt jump shot from 23 ft,58,69
+3,8:25.0,Cleveland full timeout,,58,69
+3,8:14.0,G. Hill misses 2-pt layup from 3 ft,,58,69
+3,8:13.0,,Defensive rebound by B. Griffin,58,69
+3,8:11.0,,Personal foul by C. Osman (drawn by B. Griffin),58,69
+3,8:06.0,,Personal foul by T. Thompson (drawn by B. Griffin),58,69
+3,7:54.0,,Turnover by R. Bullock (lost ball; steal by C. Osman),58,69
+3,7:48.0,G. Hill misses 3-pt jump shot from 23 ft,,58,69
+3,7:46.0,,Defensive rebound by Team,58,69
+3,7:36.0,,Turnover by B. Griffin (bad pass),58,69
+3,7:36.0,Personal foul by A. Drummond (drawn by G. Hill),,58,69
+3,7:28.0,C. Osman misses 2-pt jump shot from 12 ft,,58,69
+3,7:24.0,,Defensive rebound by A. Drummond,58,69
+3,7:16.0,,R. Jackson makes 2-pt jump shot from 10 ft,58,71
+3,6:59.0,T. Thompson makes 2-pt hook shot from 5 ft (assist by C. Osman),,60,71
+3,6:58.0,,Shooting foul by C. Frye (drawn by A. Drummond),60,71
+3,6:58.0,,A. Drummond makes free throw 1 of 2,60,72
+3,6:58.0,,A. Drummond makes free throw 2 of 2,60,73
+3,6:33.0,R. Hood misses 3-pt jump shot from 25 ft,,60,73
+3,6:29.0,,Defensive rebound by R. Bullock,60,73
+3,6:20.0,,Turnover by A. Drummond (out of bounds lost ball),60,73
+3,6:01.0,R. Hood misses 2-pt jump shot from 13 ft,,60,73
+3,5:59.0,Offensive rebound by R. Hood,,60,73
+3,5:48.0,T. Thompson misses 2-pt layup from 6 ft,,60,73
+3,5:45.0,,Defensive rebound by A. Drummond,60,73
+3,5:36.0,,R. Jackson misses 3-pt jump shot from 25 ft,60,73
+3,5:32.0,Defensive rebound by C. Frye,,60,73
+3,5:24.0,C. Osman misses 2-pt jump shot from 18 ft,,60,73
+3,5:18.0,,Defensive rebound by R. Bullock,60,73
+3,5:17.0,,Shooting foul by C. Frye (drawn by R. Jackson),60,73
+3,5:17.0,,R. Jackson makes free throw 1 of 2,60,74
+3,5:17.0,L. Nance enters the game for C. Frye,,60,74
+3,5:17.0,J. Smith enters the game for T. Thompson,,60,74
+3,5:17.0,,L. Galloway enters the game for S. Johnson,60,74
+3,5:17.0,,R. Jackson misses free throw 2 of 2,60,74
+3,5:15.0,Defensive rebound by C. Osman,,60,74
+3,5:01.0,J. Smith misses 2-pt jump shot from 18 ft,,60,74
+3,4:57.0,,Defensive rebound by B. Griffin,60,74
+3,4:45.0,,Turnover by B. Griffin (bad pass; steal by R. Hood),60,74
+3,4:40.0,R. Hood makes 2-pt jump shot from 6 ft,,62,74
+3,4:26.0,,A. Drummond makes 2-pt hook shot from 5 ft (assist by R. Bullock),62,76
+3,4:14.0,J. Smith misses 3-pt jump shot from 26 ft,,62,76
+3,4:12.0,,Defensive rebound by B. Griffin,62,76
+3,4:03.0,,L. Galloway misses 3-pt jump shot from 23 ft,62,76
+3,3:59.0,Defensive rebound by G. Hill,,62,76
+3,3:54.0,G. Hill makes 2-pt layup from 2 ft,,64,76
+3,3:54.0,,Detroit full timeout,64,76
+3,3:54.0,J. Clarkson enters the game for G. Hill,,64,76
+3,3:54.0,K. Korver enters the game for R. Hood,,64,76
+3,3:54.0,C. Sexton enters the game for C. Osman,,64,76
+3,3:54.0,,G. Robinson enters the game for B. Griffin,64,76
+3,3:54.0,,I. Smith enters the game for R. Jackson,64,76
+3,3:39.0,,R. Bullock misses 2-pt layup from 3 ft,64,76
+3,3:39.0,Defensive rebound by L. Nance,,64,76
+3,3:25.0,J. Smith misses 2-pt jump shot from 8 ft,,64,76
+3,3:23.0,,Defensive rebound by A. Drummond,64,76
+3,3:14.0,,G. Robinson makes 2-pt jump shot from 16 ft (assist by R. Bullock),64,78
+3,2:59.0,L. Nance misses 2-pt jump shot from 15 ft,,64,78
+3,2:56.0,,Defensive rebound by G. Robinson,64,78
+3,2:49.0,,Turnover by I. Smith (bad pass; steal by J. Smith),64,78
+3,2:35.0,J. Clarkson misses 3-pt jump shot from 26 ft,,64,78
+3,2:32.0,,Defensive rebound by A. Drummond,64,78
+3,2:17.0,,I. Smith misses 2-pt layup from 9 ft,64,78
+3,2:15.0,,Offensive rebound by A. Drummond,64,78
+3,2:14.0,,Turnover by A. Drummond (lost ball; steal by L. Nance),64,78
+3,2:12.0,Turnover by J. Smith (bad pass),,64,78
+3,1:52.0,,R. Bullock makes 2-pt jump shot from 11 ft,64,80
+3,1:28.0,K. Korver misses 3-pt jump shot from 27 ft,,64,80
+3,1:23.0,,Defensive rebound by A. Drummond,64,80
+3,1:16.0,,Turnover by L. Galloway (bad pass; steal by J. Clarkson),64,80
+3,1:11.0,J. Clarkson makes 2-pt layup from 6 ft,,66,80
+3,0:54.0,,Turnover by I. Smith (bad pass),66,80
+3,0:54.0,,S. Johnson enters the game for R. Bullock,66,80
+3,0:54.0,,Z. Pachulia enters the game for A. Drummond,66,80
+3,0:40.0,J. Clarkson makes 2-pt jump shot from 15 ft,,68,80
+3,0:32.0,,L. Galloway misses 2-pt jump shot from 18 ft,68,80
+3,0:29.0,Defensive rebound by J. Clarkson,,68,80
+3,0:14.0,Personal foul by L. Galloway (drawn by L. Nance),,68,80
+3,0:05.0,J. Clarkson misses 3-pt jump shot from 27 ft,,68,80
+3,0:03.0,,Defensive rebound by Team,68,80
+3,0:00.0,,G. Robinson misses 3-pt jump shot from 31 ft,68,80
+3,0:00.0,,Offensive rebound by Team,68,80
+4,11:48.0,,L. Galloway makes 2-pt jump shot from 19 ft (assist by Z. Pachulia),68,82
+4,11:37.0,C. Sexton makes 2-pt layup from 4 ft,,70,82
+4,11:37.0,Shooting foul by I. Smith (drawn by C. Sexton),,70,82
+4,11:37.0,C. Sexton misses free throw 1 of 1,,70,82
+4,11:35.0,,Defensive rebound by B. Griffin,70,82
+4,11:20.0,,Personal foul by L. Nance (drawn by Z. Pachulia),70,82
+4,11:15.0,,Offensive foul by B. Griffin (drawn by J. Smith),70,82
+4,11:15.0,,Turnover by B. Griffin (offensive foul),70,82
+4,11:09.0,Personal foul by G. Robinson (drawn by J. Smith),,70,82
+4,11:02.0,J. Smith misses 3-pt jump shot from 24 ft,,70,82
+4,10:58.0,,Defensive rebound by L. Galloway,70,82
+4,10:42.0,,B. Griffin misses 2-pt layup from 3 ft,70,82
+4,10:38.0,,Offensive rebound by B. Griffin,70,82
+4,10:38.0,,B. Griffin makes 2-pt layup at rim,70,84
+4,10:30.0,C. Sexton makes 2-pt jump shot from 21 ft,,72,84
+4,10:28.0,,Turnover by B. Griffin (bad pass; steal by C. Sexton),72,84
+4,10:13.0,C. Sexton makes 2-pt jump shot from 17 ft,,74,84
+4,9:59.0,,B. Griffin makes 3-pt jump shot from 26 ft,74,87
+4,9:46.0,J. Clarkson misses 2-pt layup from 4 ft,,74,87
+4,9:46.0,Offensive rebound by L. Nance,,74,87
+4,9:46.0,Personal foul by L. Galloway (drawn by L. Nance),,74,87
+4,9:42.0,L. Nance misses 2-pt layup from 3 ft (block by Z. Pachulia),,74,87
+4,9:39.0,Offensive rebound by L. Nance,,74,87
+4,9:37.0,L. Nance makes 2-pt layup from 1 ft,,76,87
+4,9:31.0,,Offensive foul by B. Griffin (drawn by J. Clarkson),76,87
+4,9:31.0,,Turnover by B. Griffin (offensive foul),76,87
+4,9:19.0,J. Smith misses 3-pt jump shot from 27 ft,,76,87
+4,9:14.0,,Defensive rebound by Z. Pachulia,76,87
+4,9:06.0,,I. Smith makes 2-pt layup from 5 ft,76,89
+4,8:43.0,J. Clarkson makes 2-pt layup from 1 ft,,78,89
+4,8:32.0,,Turnover by I. Smith (lost ball; steal by J. Smith),78,89
+4,8:26.0,J. Clarkson misses 2-pt layup from 4 ft (block by B. Griffin),,78,89
+4,8:23.0,,Defensive rebound by L. Galloway,78,89
+4,8:18.0,,Detroit full timeout,78,89
+4,8:18.0,,R. Jackson enters the game for I. Smith,78,89
+4,8:04.0,,R. Jackson misses 2-pt jump shot from 6 ft,78,89
+4,7:56.0,,Offensive rebound by R. Jackson,78,89
+4,7:46.0,,Z. Pachulia misses 2-pt jump shot from 10 ft,78,89
+4,7:43.0,Defensive rebound by K. Korver,,78,89
+4,7:37.0,J. Smith misses 2-pt jump shot from 17 ft,,78,89
+4,7:33.0,,Defensive rebound by L. Galloway,78,89
+4,7:21.0,,R. Jackson misses 2-pt jump shot from 17 ft,78,89
+4,7:18.0,Defensive rebound by J. Smith,,78,89
+4,7:04.0,K. Korver misses 3-pt jump shot from 27 ft,,78,89
+4,7:00.0,,Defensive rebound by Team,78,89
+4,7:00.0,C. Osman enters the game for J. Smith,,78,89
+4,6:52.0,,Shooting foul by L. Nance (drawn by B. Griffin),78,89
+4,6:52.0,,B. Griffin makes free throw 1 of 2,78,90
+4,6:52.0,,A. Drummond enters the game for Z. Pachulia,78,90
+4,6:52.0,,B. Griffin makes free throw 2 of 2,78,91
+4,6:40.0,K. Korver makes 3-pt jump shot from 26 ft (assist by C. Sexton),,81,91
+4,6:16.0,,Shooting foul by C. Osman (drawn by A. Drummond),81,91
+4,6:16.0,,A. Drummond misses free throw 1 of 2,81,91
+4,6:16.0,,Offensive rebound by Team,81,91
+4,6:16.0,,R. Bullock enters the game for G. Robinson,81,91
+4,6:16.0,,A. Drummond makes free throw 2 of 2,81,92
+4,6:07.0,C. Sexton misses 2-pt jump shot from 21 ft,,81,92
+4,6:04.0,Offensive rebound by C. Osman,,81,92
+4,6:01.0,K. Korver makes 2-pt layup from 3 ft (assist by L. Nance),,83,92
+4,5:48.0,,Personal foul by L. Nance (drawn by A. Drummond),83,92
+4,5:48.0,R. Hood enters the game for J. Clarkson,,83,92
+4,5:36.0,,R. Jackson makes 3-pt jump shot from 27 ft (assist by R. Bullock),83,95
+4,5:26.0,K. Korver makes 3-pt jump shot from 27 ft (assist by C. Sexton),,86,95
+4,5:09.0,,Turnover by R. Bullock (lost ball; steal by C. Sexton),86,95
+4,5:04.0,Turnover by K. Korver (bad pass),,86,95
+4,4:48.0,,R. Jackson misses 3-pt jump shot from 24 ft,86,95
+4,4:47.0,Defensive rebound by Team,,86,95
+4,4:34.0,Shooting foul by A. Drummond (drawn by L. Nance),,86,95
+4,4:34.0,L. Nance misses free throw 1 of 2,,86,95
+4,4:34.0,Offensive rebound by Team,,86,95
+4,4:34.0,L. Nance makes free throw 2 of 2,,87,95
+4,4:13.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by R. Jackson),87,97
+4,3:54.0,C. Osman misses 3-pt jump shot from 27 ft,,87,97
+4,3:49.0,Offensive rebound by L. Nance,,87,97
+4,3:48.0,K. Korver makes 2-pt layup from 4 ft (assist by L. Nance),,89,97
+4,3:32.0,,R. Jackson misses 2-pt jump shot from 8 ft,89,97
+4,3:31.0,,Offensive rebound by A. Drummond,89,97
+4,3:31.0,,A. Drummond makes 2-pt layup from 2 ft,89,99
+4,3:12.0,R. Hood makes 2-pt jump shot from 15 ft (assist by K. Korver),,91,99
+4,3:11.0,,Detroit full timeout,91,99
+4,3:11.0,Cleveland full timeout,,91,99
+4,3:00.0,,Shooting foul by C. Osman (drawn by A. Drummond),91,99
+4,3:00.0,,A. Drummond misses free throw 1 of 2,91,99
+4,3:00.0,,Offensive rebound by Team,91,99
+4,3:00.0,,A. Drummond makes free throw 2 of 2,91,100
+4,2:52.0,Offensive foul by K. Korver (drawn by B. Griffin),,91,100
+4,2:52.0,Turnover by K. Korver (offensive foul),,91,100
+4,2:36.0,,L. Galloway misses 3-pt jump shot from 26 ft,91,100
+4,2:32.0,Defensive rebound by C. Osman,,91,100
+4,2:24.0,K. Korver makes 2-pt layup from 7 ft (assist by C. Sexton),,93,100
+4,2:04.0,,R. Jackson makes 3-pt jump shot from 26 ft (assist by B. Griffin),93,103
+4,1:47.0,Personal foul by R. Jackson (drawn by C. Sexton),,93,103
+4,1:47.0,C. Sexton makes free throw 1 of 2,,94,103
+4,1:47.0,C. Sexton makes free throw 2 of 2,,95,103
+4,1:33.0,,R. Bullock makes 2-pt jump shot from 16 ft (assist by B. Griffin),95,105
+4,1:19.0,R. Hood misses 3-pt jump shot from 23 ft,,95,105
+4,1:15.0,,Defensive rebound by A. Drummond,95,105
+4,1:03.0,,Shooting foul by C. Osman (drawn by R. Jackson),95,105
+4,1:03.0,,R. Jackson misses free throw 1 of 2,95,105
+4,1:03.0,,Offensive rebound by Team,95,105
+4,1:03.0,,I. Smith enters the game for L. Galloway,95,105
+4,1:03.0,,R. Jackson makes free throw 2 of 2,95,106
+4,1:03.0,Cleveland full timeout,,95,106
+4,0:58.0,L. Nance makes 2-pt dunk from 1 ft (assist by K. Korver),,97,106
+4,0:57.0,,Personal take foul by K. Korver (drawn by R. Bullock),97,106
+4,0:57.0,,R. Bullock misses free throw 1 of 2,97,106
+4,0:57.0,,Offensive rebound by Team,97,106
+4,0:57.0,,R. Bullock makes free throw 2 of 2,97,107
+4,0:49.0,K. Korver makes 3-pt jump shot from 27 ft (assist by C. Sexton),,100,107
+4,0:49.0,Shooting foul by R. Bullock (drawn by K. Korver),,100,107
+4,0:49.0,K. Korver makes free throw 1 of 1,,101,107
+4,0:49.0,,Detroit full timeout,101,107
+4,0:49.0,,L. Galloway enters the game for A. Drummond,101,107
+4,0:36.0,,Shooting foul by K. Korver (drawn by R. Jackson),101,107
+4,0:36.0,J. Clarkson enters the game for K. Korver,,101,107
+4,0:36.0,,R. Jackson makes free throw 1 of 2,101,108
+4,0:36.0,,R. Jackson misses free throw 2 of 2,101,108
+4,0:32.0,,Offensive rebound by R. Bullock,101,108
+4,0:32.0,,Personal foul by C. Osman (drawn by R. Jackson),101,108
+4,0:32.0,J. Smith enters the game for C. Osman,,101,108
+4,0:32.0,,R. Jackson misses free throw 1 of 2,101,108
+4,0:32.0,,Offensive rebound by Team,101,108
+4,0:32.0,,R. Jackson misses free throw 2 of 2,101,108
+4,0:31.0,Defensive rebound by J. Smith,,101,108
+4,0:25.0,C. Sexton misses 2-pt layup from 7 ft,,101,108
+4,0:21.0,,Defensive rebound by Team,101,108
+4,0:20.0,,Technical foul by T. Lue,101,108
+4,0:20.0,,R. Jackson makes technical free throw,101,109
+4,0:17.0,,Personal foul by C. Sexton (drawn by L. Galloway),101,109
+4,0:17.0,,L. Galloway misses free throw 1 of 2,101,109
+4,0:17.0,,Offensive rebound by Team,101,109
+4,0:17.0,,L. Galloway makes free throw 2 of 2,101,110
+4,0:12.0,C. Sexton makes 2-pt jump shot from 21 ft,,103,110

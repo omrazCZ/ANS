@@ -1,0 +1,425 @@
+QUARTER,TIME_REMAINING,CHARLOTTE_ACTION,ATLANTA_ACTION,CHARLOTTE_SCORE,ATLANTA_SCORE
+1,11:49.0,,Turnover by T. Prince (bad pass; steal by M. Williams),0,0
+1,11:42.0,J. Lamb makes 3-pt jump shot from 25 ft (assist by K. Walker),,3,0
+1,11:26.0,,K. Huerter misses 2-pt layup from 2 ft (block by J. Lamb),3,0
+1,11:26.0,,Offensive rebound by Team,3,0
+1,11:16.0,,T. Prince misses 3-pt jump shot from 23 ft,3,0
+1,11:10.0,Defensive rebound by C. Zeller,,3,0
+1,11:05.0,M. Williams makes 3-pt jump shot from 25 ft (assist by K. Walker),,6,0
+1,10:40.0,,D. Dedmon misses 3-pt jump shot from 25 ft,6,0
+1,10:38.0,,Offensive rebound by Team,6,0
+1,10:35.0,,T. Young misses 3-pt jump shot from 24 ft,6,0
+1,10:33.0,Defensive rebound by M. Williams,,6,0
+1,10:28.0,C. Zeller makes 2-pt dunk from 1 ft (assist by N. Batum),,8,0
+1,10:13.0,,K. Huerter misses 2-pt layup from 1 ft,8,0
+1,10:11.0,,Offensive rebound by J. Collins,8,0
+1,10:11.0,,J. Collins makes 2-pt dunk from 1 ft,8,2
+1,10:00.0,N. Batum makes 3-pt jump shot from 25 ft (assist by C. Zeller),,11,2
+1,9:47.0,,J. Collins makes 2-pt layup at rim (assist by T. Young),11,4
+1,9:33.0,K. Walker makes 2-pt jump shot from 17 ft,,13,4
+1,9:20.0,,T. Young makes 3-pt jump shot from 26 ft,13,7
+1,9:02.0,K. Walker makes 3-pt jump shot from 26 ft (assist by J. Lamb),,16,7
+1,9:00.0,,Atlanta full timeout,16,7
+1,8:46.0,,T. Prince misses 3-pt jump shot from 22 ft,16,7
+1,8:44.0,Defensive rebound by C. Zeller,,16,7
+1,8:39.0,Shooting foul by K. Huerter (drawn by K. Walker),,16,7
+1,8:39.0,K. Walker makes free throw 1 of 2,,17,7
+1,8:39.0,K. Walker makes free throw 2 of 2,,18,7
+1,8:24.0,,D. Dedmon makes 3-pt jump shot from 24 ft (assist by T. Young),18,10
+1,8:03.0,J. Lamb makes 2-pt jump shot from 16 ft,,20,10
+1,7:47.0,,D. Dedmon makes 3-pt jump shot from 23 ft (assist by T. Prince),20,13
+1,7:32.0,M. Williams makes 3-pt jump shot from 24 ft (assist by N. Batum),,23,13
+1,7:25.0,,J. Collins makes 2-pt dunk from 1 ft (assist by T. Young),23,15
+1,7:10.0,N. Batum misses 2-pt jump shot from 15 ft,,23,15
+1,7:07.0,Offensive rebound by C. Zeller,,23,15
+1,7:04.0,Turnover by C. Zeller (bad pass; steal by J. Collins),,23,15
+1,7:02.0,,K. Huerter makes 2-pt dunk from 1 ft,23,17
+1,6:47.0,C. Zeller misses 3-pt jump shot from 25 ft,,23,17
+1,6:44.0,,Defensive rebound by T. Prince,23,17
+1,6:38.0,,K. Huerter makes 2-pt dunk from 2 ft (assist by T. Young),23,19
+1,6:38.0,Charlotte full timeout,,23,19
+1,6:38.0,M. Bridges enters the game for N. Batum,,23,19
+1,6:38.0,M. Kidd-Gilchrist enters the game for C. Zeller,,23,19
+1,6:25.0,J. Lamb makes 3-pt jump shot from 23 ft (assist by K. Walker),,26,19
+1,6:04.0,,Turnover by T. Prince (bad pass; steal by J. Lamb),26,19
+1,6:00.0,J. Lamb makes 2-pt dunk from 1 ft,,28,19
+1,5:43.0,,K. Huerter makes 2-pt jump shot from 13 ft,28,21
+1,5:23.0,M. Williams makes 2-pt jump shot from 7 ft,,30,21
+1,5:07.0,,J. Collins makes 2-pt jump shot from 10 ft,30,23
+1,4:55.0,K. Walker makes 3-pt jump shot from 25 ft,,33,23
+1,4:44.0,,Offensive foul by J. Collins (drawn by K. Walker),33,23
+1,4:44.0,,Turnover by J. Collins (offensive foul),33,23
+1,4:44.0,,D. Bembry enters the game for D. Dedmon,33,23
+1,4:44.0,,J. Lin enters the game for T. Prince,33,23
+1,4:44.0,,O. Spellman enters the game for T. Young,33,23
+1,4:38.0,Personal foul by J. Lin (drawn by K. Walker),,33,23
+1,4:30.0,K. Walker misses 2-pt jump shot from 20 ft,,33,23
+1,4:28.0,Offensive rebound by M. Kidd-Gilchrist,,33,23
+1,4:23.0,M. Kidd-Gilchrist makes 2-pt layup at rim,,35,23
+1,4:11.0,,J. Lin misses 3-pt jump shot from 25 ft,35,23
+1,4:07.0,Defensive rebound by M. Williams,,35,23
+1,3:55.0,M. Williams makes 2-pt layup from 1 ft (assist by K. Walker),,37,23
+1,3:55.0,,K. Bazemore enters the game for K. Huerter,37,23
+1,3:36.0,,J. Collins misses 3-pt jump shot from 25 ft,37,23
+1,3:33.0,Defensive rebound by J. Lamb,,37,23
+1,3:16.0,K. Walker makes 2-pt jump shot from 19 ft,,39,23
+1,3:00.0,,Shooting foul by M. Kidd-Gilchrist (drawn by O. Spellman),39,23
+1,3:00.0,,O. Spellman makes free throw 1 of 2,39,24
+1,3:00.0,D. Graham enters the game for K. Walker,,39,24
+1,3:00.0,C. Zeller enters the game for M. Williams,,39,24
+1,3:00.0,,V. Carter enters the game for J. Collins,39,24
+1,3:00.0,,O. Spellman makes free throw 2 of 2,39,25
+1,2:49.0,M. Bridges misses 3-pt jump shot from 23 ft,,39,25
+1,2:48.0,,Defensive rebound by Team,39,25
+1,2:48.0,N. Batum enters the game for J. Lamb,,39,25
+1,2:35.0,,D. Bembry misses 2-pt dunk from 2 ft (block by M. Bridges),39,25
+1,2:32.0,Defensive rebound by M. Bridges,,39,25
+1,2:21.0,C. Zeller makes 2-pt layup from 1 ft (assist by N. Batum),,41,25
+1,2:01.0,,Shooting foul by C. Zeller (drawn by J. Lin),41,25
+1,2:01.0,,J. Lin makes free throw 1 of 2,41,26
+1,2:01.0,,J. Lin makes free throw 2 of 2,41,27
+1,1:50.0,M. Bridges misses 2-pt layup from 2 ft,,41,27
+1,1:48.0,,Defensive rebound by J. Lin,41,27
+1,1:39.0,,Turnover by K. Bazemore (lost ball; steal by M. Bridges),41,27
+1,1:36.0,Turnover by N. Batum (bad pass; steal by V. Carter),,41,27
+1,1:31.0,,K. Bazemore misses 3-pt jump shot from 23 ft,41,27
+1,1:28.0,Defensive rebound by Team,,41,27
+1,1:10.0,M. Kidd-Gilchrist makes 2-pt layup from 1 ft (assist by N. Batum),,43,27
+1,0:56.0,,K. Bazemore makes 2-pt jump shot from 9 ft (assist by J. Lin),43,29
+1,0:41.0,N. Batum makes 3-pt jump shot from 25 ft,,46,29
+1,0:34.0,,K. Bazemore misses 3-pt jump shot from 25 ft,46,29
+1,0:30.0,Defensive rebound by D. Graham,,46,29
+1,0:18.0,Personal take foul by V. Carter (drawn by D. Graham),,46,29
+1,0:18.0,M. Williams enters the game for M. Kidd-Gilchrist,,46,29
+1,0:18.0,,J. Anderson enters the game for O. Spellman,46,29
+1,0:07.0,D. Graham misses 3-pt jump shot from 25 ft,,46,29
+1,0:04.0,,Defensive rebound by D. Bembry,46,29
+1,0:00.0,,J. Lin makes 2-pt jump shot from 21 ft (assist by D. Bembry),46,31
+2,11:46.0,M. Monk misses 3-pt jump shot from 23 ft,,46,31
+2,11:41.0,,Defensive rebound by V. Carter,46,31
+2,11:31.0,,K. Bazemore makes 2-pt layup from 1 ft (assist by J. Lin),46,33
+2,11:20.0,Shooting foul by D. Bembry (drawn by M. Monk),,46,33
+2,11:20.0,M. Monk makes free throw 1 of 2,,47,33
+2,11:20.0,M. Monk makes free throw 2 of 2,,48,33
+2,11:05.0,,A. Len misses 2-pt layup from 1 ft,48,33
+2,11:05.0,,Offensive rebound by A. Len,48,33
+2,11:05.0,,Shooting foul by M. Williams (drawn by A. Len),48,33
+2,11:05.0,,A. Len makes free throw 1 of 2,48,34
+2,11:05.0,,A. Len misses free throw 2 of 2,48,34
+2,11:03.0,Defensive rebound by B. Biyombo,,48,34
+2,10:53.0,D. Graham misses 3-pt jump shot from 26 ft,,48,34
+2,10:50.0,,Defensive rebound by D. Bembry,48,34
+2,10:42.0,,K. Bazemore misses 3-pt jump shot from 26 ft,48,34
+2,10:41.0,,Offensive rebound by A. Len,48,34
+2,10:36.0,,A. Len makes 2-pt layup from 1 ft,48,36
+2,10:21.0,N. Batum misses 2-pt layup from 3 ft (block by K. Bazemore),,48,36
+2,10:19.0,Offensive rebound by N. Batum,,48,36
+2,10:19.0,N. Batum misses 2-pt layup from 2 ft (block by A. Len),,48,36
+2,10:17.0,,Defensive rebound by D. Bembry,48,36
+2,10:12.0,,J. Lin misses 2-pt layup from 1 ft (block by M. Williams),48,36
+2,10:12.0,,Offensive rebound by Team,48,36
+2,10:10.0,,V. Carter makes 2-pt layup from 1 ft (assist by K. Bazemore),48,38
+2,9:57.0,M. Williams makes 3-pt jump shot from 24 ft (assist by N. Batum),,51,38
+2,9:41.0,,D. Bembry misses 3-pt jump shot from 24 ft,51,38
+2,9:37.0,Defensive rebound by D. Graham,,51,38
+2,9:27.0,Turnover by N. Batum (bad pass; steal by J. Lin),,51,38
+2,9:24.0,,J. Lin makes 2-pt layup from 1 ft,51,40
+2,9:24.0,Charlotte full timeout,,51,40
+2,9:24.0,J. Lamb enters the game for N. Batum,,51,40
+2,9:24.0,K. Walker enters the game for D. Graham,,51,40
+2,9:24.0,,K. Huerter enters the game for D. Bembry,51,40
+2,9:09.0,Turnover by M. Monk (lost ball; steal by J. Lin),,51,40
+2,9:05.0,,K. Bazemore misses 2-pt jump shot from 19 ft,51,40
+2,9:01.0,Defensive rebound by J. Lamb,,51,40
+2,8:55.0,B. Biyombo misses 2-pt layup from 2 ft,,51,40
+2,8:52.0,,Defensive rebound by K. Huerter,51,40
+2,8:50.0,,J. Lin misses 3-pt jump shot from 25 ft,51,40
+2,8:46.0,Defensive rebound by B. Biyombo,,51,40
+2,8:36.0,J. Lamb makes 3-pt jump shot from 25 ft,,54,40
+2,8:20.0,,Shooting foul by B. Biyombo (drawn by K. Bazemore),54,40
+2,8:20.0,,K. Bazemore makes free throw 1 of 2,54,41
+2,8:20.0,,K. Bazemore makes free throw 2 of 2,54,42
+2,8:04.0,M. Williams makes 2-pt dunk from 1 ft (assist by M. Monk),,56,42
+2,7:44.0,,V. Carter misses 2-pt jump shot from 12 ft (block by B. Biyombo),56,42
+2,7:40.0,Defensive rebound by M. Monk,,56,42
+2,7:37.0,Personal foul by V. Carter (drawn by M. Monk),,56,42
+2,7:37.0,M. Kidd-Gilchrist enters the game for B. Biyombo,,56,42
+2,7:37.0,C. Zeller enters the game for M. Williams,,56,42
+2,7:37.0,,J. Collins enters the game for K. Bazemore,56,42
+2,7:37.0,,T. Prince enters the game for V. Carter,56,42
+2,7:37.0,,T. Young enters the game for J. Lin,56,42
+2,7:33.0,K. Walker makes 3-pt jump shot from 25 ft,,59,42
+2,7:15.0,,Turnover by T. Young (bad pass; steal by M. Monk),59,42
+2,7:10.0,M. Monk misses 2-pt layup from 2 ft,,59,42
+2,7:10.0,,Defensive rebound by Team,59,42
+2,6:52.0,,K. Huerter makes 2-pt layup from 1 ft (assist by A. Len),59,44
+2,6:39.0,K. Walker misses 2-pt jump shot from 12 ft,,59,44
+2,6:36.0,,Defensive rebound by A. Len,59,44
+2,6:32.0,,T. Young makes 2-pt layup from 1 ft,59,46
+2,6:18.0,K. Walker makes 2-pt jump shot from 21 ft,,61,46
+2,6:06.0,,T. Young misses 3-pt jump shot from 29 ft,61,46
+2,6:02.0,Defensive rebound by M. Monk,,61,46
+2,5:57.0,M. Monk makes 2-pt jump shot from 16 ft,,63,46
+2,5:56.0,,Atlanta full timeout,63,46
+2,5:56.0,,D. Dedmon enters the game for A. Len,63,46
+2,5:48.0,,D. Dedmon makes 3-pt jump shot from 26 ft (assist by T. Young),63,49
+2,5:23.0,M. Kidd-Gilchrist makes 2-pt dunk from 1 ft (assist by C. Zeller),,65,49
+2,5:05.0,,J. Collins makes 2-pt layup from 1 ft (assist by D. Dedmon),65,51
+2,4:51.0,Shooting foul by J. Collins (drawn by C. Zeller),,65,51
+2,4:51.0,C. Zeller makes free throw 1 of 2,,66,51
+2,4:51.0,N. Batum enters the game for M. Monk,,66,51
+2,4:51.0,C. Zeller misses free throw 2 of 2,,66,51
+2,4:44.0,,Defensive rebound by D. Dedmon,66,51
+2,4:40.0,,K. Huerter makes 3-pt jump shot from 25 ft (assist by T. Young),66,54
+2,4:26.0,K. Walker misses 3-pt jump shot from 25 ft,,66,54
+2,4:23.0,,Defensive rebound by D. Dedmon,66,54
+2,4:17.0,,D. Dedmon misses 3-pt jump shot from 26 ft,66,54
+2,4:13.0,Defensive rebound by M. Kidd-Gilchrist,,66,54
+2,4:03.0,Turnover by C. Zeller (bad pass; steal by D. Dedmon),,66,54
+2,3:57.0,,J. Collins makes 2-pt dunk from 1 ft (assist by D. Dedmon),66,56
+2,3:44.0,Turnover by K. Walker (lost ball; steal by T. Young),,66,56
+2,3:35.0,,Turnover by J. Collins (bad pass; steal by J. Lamb),66,56
+2,3:31.0,J. Lamb makes 2-pt dunk from 1 ft,,68,56
+2,3:15.0,,T. Young makes 2-pt layup from 2 ft,68,58
+2,2:56.0,Shooting foul by D. Dedmon (drawn by C. Zeller),,68,58
+2,2:56.0,C. Zeller misses free throw 1 of 2,,68,58
+2,2:56.0,Offensive rebound by Team,,68,58
+2,2:56.0,C. Zeller makes free throw 2 of 2,,69,58
+2,2:44.0,,Turnover by T. Young (lost ball; steal by J. Lamb),69,58
+2,2:44.0,Personal foul by T. Young (drawn by J. Lamb),,69,58
+2,2:44.0,J. Lamb makes free throw 1 of 2,,70,58
+2,2:44.0,M. Williams enters the game for C. Zeller,,70,58
+2,2:44.0,J. Lamb makes free throw 2 of 2,,71,58
+2,2:30.0,,T. Prince makes 2-pt layup from 1 ft (assist by T. Young),71,60
+2,2:12.0,K. Walker misses 2-pt jump shot from 20 ft,,71,60
+2,2:09.0,,Defensive rebound by K. Huerter,71,60
+2,2:03.0,,T. Prince misses 2-pt layup from 4 ft (block by M. Kidd-Gilchrist),71,60
+2,2:00.0,,Offensive rebound by T. Prince,71,60
+2,1:58.0,,T. Prince makes 2-pt layup from 2 ft,71,62
+2,1:36.0,K. Walker misses 3-pt jump shot from 25 ft,,71,62
+2,1:31.0,,Defensive rebound by D. Dedmon,71,62
+2,1:26.0,,T. Young makes 3-pt jump shot from 25 ft (assist by D. Dedmon),71,65
+2,1:01.0,Shooting foul by K. Huerter (drawn by J. Lamb),,71,65
+2,1:01.0,J. Lamb makes free throw 1 of 2,,72,65
+2,1:01.0,M. Bridges enters the game for M. Kidd-Gilchrist,,72,65
+2,1:01.0,J. Lamb makes free throw 2 of 2,,73,65
+2,0:42.0,,T. Young misses 2-pt layup from 9 ft (block by J. Lamb),73,65
+2,0:39.0,Defensive rebound by M. Bridges,,73,65
+2,0:32.0,Turnover by J. Lamb (bad pass; steal by K. Huerter),,73,65
+2,0:14.0,,T. Prince makes 3-pt jump shot from 28 ft (assist by T. Young),73,68
+2,0:00.0,Turnover by K. Walker (lost ball; steal by T. Young),,73,68
+3,11:48.0,J. Lamb misses 2-pt layup from 3 ft,,73,68
+3,11:45.0,Offensive rebound by C. Zeller,,73,68
+3,11:43.0,C. Zeller makes 2-pt layup at rim,,75,68
+3,11:36.0,,T. Young makes 3-pt jump shot from 29 ft,75,71
+3,11:20.0,M. Williams misses 3-pt jump shot from 23 ft,,75,71
+3,11:16.0,,Defensive rebound by T. Prince,75,71
+3,11:05.0,,J. Collins misses 2-pt layup from 2 ft,75,71
+3,11:04.0,,Offensive rebound by Team,75,71
+3,10:58.0,,D. Dedmon makes 2-pt dunk from 1 ft (assist by T. Young),75,73
+3,10:32.0,M. Williams makes 2-pt jump shot from 14 ft (assist by K. Walker),,77,73
+3,10:13.0,,T. Prince misses 3-pt jump shot from 25 ft,77,73
+3,10:12.0,Defensive rebound by Team,,77,73
+3,10:12.0,,Loose ball foul by J. Collins (drawn by M. Williams),77,73
+3,10:00.0,K. Walker misses 3-pt jump shot from 25 ft,,77,73
+3,9:56.0,,Defensive rebound by D. Dedmon,77,73
+3,9:49.0,,Personal foul by K. Walker (drawn by D. Dedmon),77,73
+3,9:38.0,,Turnover by T. Young (lost ball; steal by N. Batum),77,73
+3,9:32.0,J. Lamb makes 2-pt layup from 1 ft (assist by K. Walker),,79,73
+3,9:20.0,,T. Young makes 2-pt jump shot from 10 ft,79,75
+3,9:02.0,J. Lamb makes 3-pt jump shot from 23 ft (assist by N. Batum),,82,75
+3,9:00.0,,Atlanta full timeout,82,75
+3,8:54.0,,Personal foul by N. Batum (drawn by T. Young),82,75
+3,8:39.0,,T. Young misses 2-pt layup from 7 ft,82,75
+3,8:36.0,Defensive rebound by C. Zeller,,82,75
+3,8:33.0,M. Williams misses 3-pt jump shot from 22 ft,,82,75
+3,8:29.0,Offensive rebound by C. Zeller,,82,75
+3,8:29.0,Personal foul by T. Prince (drawn by C. Zeller),,82,75
+3,8:22.0,M. Williams misses 3-pt jump shot from 25 ft,,82,75
+3,8:14.0,,Defensive rebound by T. Young,82,75
+3,8:04.0,,Personal foul by K. Walker (drawn by T. Young),82,75
+3,7:55.0,,Turnover by T. Prince (bad pass; steal by C. Zeller),82,75
+3,7:45.0,M. Williams makes 2-pt jump shot from 23 ft (assist by J. Lamb),,84,75
+3,7:30.0,,D. Dedmon makes 3-pt jump shot from 25 ft (assist by T. Young),84,78
+3,7:30.0,M. Kidd-Gilchrist enters the game for C. Zeller,,84,78
+3,7:05.0,M. Kidd-Gilchrist makes 2-pt dunk from 1 ft (assist by J. Lamb),,86,78
+3,6:47.0,,Turnover by K. Huerter (out of bounds lost ball),86,78
+3,6:30.0,K. Walker makes 3-pt jump shot from 25 ft (assist by N. Batum),,89,78
+3,6:06.0,,J. Collins makes 2-pt jump shot from 17 ft (assist by T. Prince),89,80
+3,5:55.0,Personal foul by K. Huerter (drawn by K. Walker),,89,80
+3,5:55.0,M. Bridges enters the game for N. Batum,,89,80
+3,5:47.0,K. Walker makes 3-pt jump shot from 25 ft,,92,80
+3,5:22.0,,Turnover by T. Prince (traveling),92,80
+3,5:08.0,K. Walker misses 3-pt jump shot from 25 ft,,92,80
+3,5:04.0,Offensive rebound by K. Walker,,92,80
+3,5:03.0,K. Walker makes 3-pt jump shot from 26 ft,,95,80
+3,5:03.0,,Atlanta full timeout,95,80
+3,5:03.0,,D. Bembry enters the game for D. Dedmon,95,80
+3,5:03.0,,J. Lin enters the game for K. Huerter,95,80
+3,5:03.0,,O. Spellman enters the game for T. Young,95,80
+3,4:38.0,,D. Bembry misses 2-pt layup from 2 ft,95,80
+3,4:35.0,Defensive rebound by J. Lamb,,95,80
+3,4:32.0,Turnover by K. Walker (lost ball; steal by D. Bembry),,95,80
+3,4:25.0,,D. Bembry misses 2-pt layup from 2 ft,95,80
+3,4:24.0,,Offensive rebound by J. Collins,95,80
+3,4:19.0,,Atlanta full timeout,95,80
+3,4:16.0,,D. Bembry makes 2-pt dunk from 1 ft (assist by J. Lin),95,82
+3,4:00.0,K. Walker misses 2-pt layup from 1 ft,,95,82
+3,3:57.0,,Defensive rebound by J. Lin,95,82
+3,3:55.0,,Turnover by J. Lin (lost ball; steal by K. Walker),95,82
+3,3:52.0,M. Williams makes 2-pt layup from 1 ft (assist by K. Walker),,97,82
+3,3:33.0,,Turnover by J. Collins (lost ball; steal by M. Bridges),97,82
+3,3:29.0,M. Williams makes 2-pt layup from 1 ft (assist by J. Lamb),,99,82
+3,3:12.0,,O. Spellman misses 3-pt jump shot from 24 ft,99,82
+3,3:09.0,Defensive rebound by J. Lamb,,99,82
+3,3:04.0,Turnover by M. Kidd-Gilchrist (offensive foul),,99,82
+3,3:04.0,Offensive foul by M. Kidd-Gilchrist (drawn by D. Bembry),,99,82
+3,3:04.0,N. Batum enters the game for J. Lamb,,99,82
+3,3:04.0,D. Graham enters the game for K. Walker,,99,82
+3,3:04.0,C. Zeller enters the game for M. Williams,,99,82
+3,3:04.0,,K. Bazemore enters the game for J. Collins,99,82
+3,3:04.0,,V. Carter enters the game for T. Prince,99,82
+3,2:47.0,,J. Lin makes 2-pt layup at rim,99,84
+3,2:35.0,D. Graham misses 3-pt jump shot from 25 ft,,99,84
+3,2:32.0,Offensive rebound by M. Bridges,,99,84
+3,2:23.0,M. Bridges misses 3-pt jump shot from 25 ft,,99,84
+3,2:21.0,Offensive rebound by Team,,99,84
+3,2:21.0,Charlotte full timeout,,99,84
+3,2:15.0,M. Bridges makes 2-pt dunk from 1 ft (assist by D. Graham),,101,84
+3,2:04.0,,V. Carter makes 2-pt jump shot from 16 ft,101,86
+3,1:43.0,M. Bridges makes 2-pt layup from 1 ft (assist by C. Zeller),,103,86
+3,1:29.0,,J. Lin misses 2-pt jump shot from 9 ft (block by C. Zeller),103,86
+3,1:26.0,Defensive rebound by C. Zeller,,103,86
+3,1:19.0,C. Zeller misses 2-pt layup from 4 ft,,103,86
+3,1:15.0,,Defensive rebound by O. Spellman,103,86
+3,1:02.0,,Offensive foul by K. Bazemore (drawn by M. Kidd-Gilchrist),103,86
+3,1:02.0,,Turnover by K. Bazemore (offensive foul),103,86
+3,0:43.0,M. Bridges makes 2-pt jump shot from 16 ft (assist by C. Zeller),,105,86
+3,0:21.0,,O. Spellman misses 3-pt jump shot from 23 ft,105,86
+3,0:18.0,Defensive rebound by D. Graham,,105,86
+3,0:00.0,Shooting foul by J. Lin (drawn by D. Graham),,105,86
+3,0:00.0,D. Graham misses free throw 1 of 2,,105,86
+3,0:00.0,Offensive rebound by Team,,105,86
+3,0:00.0,D. Graham makes free throw 2 of 2,,106,86
+4,11:48.0,,Personal foul by M. Williams (drawn by A. Len),106,86
+4,11:42.0,,J. Lin makes 2-pt layup from 1 ft,106,88
+4,11:24.0,M. Bridges misses 2-pt layup from 1 ft,,106,88
+4,11:21.0,,Defensive rebound by A. Len,106,88
+4,11:19.0,,Personal foul by D. Graham (drawn by K. Bazemore),106,88
+4,11:15.0,,Personal foul by D. Graham (drawn by J. Lin),106,88
+4,11:15.0,C. Zeller enters the game for M. Bridges,,106,88
+4,11:08.0,,K. Bazemore makes 3-pt jump shot from 23 ft (assist by J. Lin),106,91
+4,10:47.0,D. Graham makes 3-pt jump shot from 26 ft (assist by M. Monk),,109,91
+4,10:24.0,,K. Bazemore misses 2-pt jump shot from 15 ft,109,91
+4,10:21.0,Defensive rebound by C. Zeller,,109,91
+4,10:11.0,M. Monk misses 3-pt jump shot from 26 ft,,109,91
+4,10:09.0,,Defensive rebound by D. Bembry,109,91
+4,10:04.0,,O. Spellman misses 3-pt jump shot from 25 ft,109,91
+4,10:01.0,,Offensive rebound by A. Len,109,91
+4,10:01.0,,Shooting foul by C. Zeller (drawn by A. Len),109,91
+4,10:01.0,,A. Len makes free throw 1 of 2,109,92
+4,10:01.0,,A. Len makes free throw 2 of 2,109,93
+4,9:48.0,Turnover by M. Monk (step out of bounds),,109,93
+4,9:38.0,,K. Bazemore makes 2-pt layup from 1 ft (assist by A. Len),109,95
+4,9:37.0,Charlotte full timeout,,109,95
+4,9:37.0,K. Walker enters the game for D. Graham,,109,95
+4,9:37.0,,J. Collins enters the game for D. Bembry,109,95
+4,9:37.0,,K. Huerter enters the game for O. Spellman,109,95
+4,9:26.0,Turnover by M. Monk (bad pass),,109,95
+4,9:15.0,,K. Bazemore makes 2-pt jump shot from 16 ft (assist by A. Len),109,97
+4,8:52.0,Shooting foul by A. Len (drawn by C. Zeller),,109,97
+4,8:52.0,C. Zeller makes free throw 1 of 2,,110,97
+4,8:52.0,M. Kidd-Gilchrist enters the game for M. Monk,,110,97
+4,8:52.0,J. Lamb enters the game for M. Williams,,110,97
+4,8:52.0,C. Zeller makes free throw 2 of 2,,111,97
+4,8:41.0,,K. Bazemore misses 2-pt layup from 2 ft,111,97
+4,8:37.0,,Offensive rebound by A. Len,111,97
+4,8:37.0,,A. Len makes 2-pt layup at rim,111,99
+4,8:24.0,Shooting foul by J. Collins (drawn by M. Kidd-Gilchrist),,111,99
+4,8:24.0,M. Kidd-Gilchrist makes free throw 1 of 2,,112,99
+4,8:24.0,M. Kidd-Gilchrist misses free throw 2 of 2,,112,99
+4,8:21.0,,Defensive rebound by K. Huerter,112,99
+4,8:10.0,,J. Lin makes 3-pt jump shot from 23 ft (assist by K. Huerter),112,102
+4,7:54.0,K. Walker makes 3-pt jump shot from 25 ft,,115,102
+4,7:40.0,,J. Collins misses 3-pt jump shot from 25 ft,115,102
+4,7:38.0,,Offensive rebound by A. Len,115,102
+4,7:30.0,,A. Len misses 3-pt jump shot from 25 ft,115,102
+4,7:29.0,,Offensive rebound by Team,115,102
+4,7:29.0,Loose ball foul by N. Batum (drawn by J. Collins),,115,102
+4,7:29.0,,J. Collins makes free throw 1 of 2,115,103
+4,7:29.0,M. Bridges enters the game for N. Batum,,115,103
+4,7:29.0,,D. Dedmon enters the game for A. Len,115,103
+4,7:29.0,,J. Collins makes free throw 2 of 2,115,104
+4,7:09.0,K. Walker misses 2-pt layup from 2 ft (block by J. Collins),,115,104
+4,7:09.0,Offensive rebound by Team,,115,104
+4,7:06.0,J. Lamb misses 3-pt jump shot from 29 ft,,115,104
+4,7:02.0,Offensive rebound by M. Bridges,,115,104
+4,6:51.0,K. Walker misses 3-pt jump shot from 25 ft,,115,104
+4,6:50.0,Offensive rebound by Team,,115,104
+4,6:50.0,Turnover by Team (shot clock),,115,104
+4,6:43.0,,Offensive foul by J. Collins (drawn by M. Bridges),115,104
+4,6:43.0,,Turnover by J. Collins (offensive foul),115,104
+4,6:30.0,J. Lamb misses 3-pt jump shot from 25 ft,,115,104
+4,6:26.0,,Defensive rebound by K. Bazemore,115,104
+4,6:22.0,,Personal foul by M. Kidd-Gilchrist (drawn by J. Collins),115,104
+4,6:22.0,,J. Collins makes free throw 1 of 2,115,105
+4,6:22.0,M. Williams enters the game for C. Zeller,,115,105
+4,6:22.0,,T. Young enters the game for J. Lin,115,105
+4,6:22.0,,J. Collins misses free throw 2 of 2,115,105
+4,6:20.0,Defensive rebound by M. Bridges,,115,105
+4,6:09.0,K. Walker misses 2-pt layup from 3 ft,,115,105
+4,6:09.0,,Defensive rebound by Team,115,105
+4,5:59.0,,Turnover by K. Bazemore (traveling),115,105
+4,5:35.0,Turnover by M. Kidd-Gilchrist (lost ball; steal by K. Bazemore),,115,105
+4,5:31.0,,Turnover by K. Huerter (bad pass; steal by M. Kidd-Gilchrist),115,105
+4,5:26.0,K. Walker misses 3-pt jump shot from 24 ft,,115,105
+4,5:24.0,,Defensive rebound by D. Dedmon,115,105
+4,5:20.0,,Shooting foul by M. Bridges (drawn by J. Collins),115,105
+4,5:20.0,,J. Collins makes free throw 1 of 2,115,106
+4,5:20.0,N. Batum enters the game for M. Bridges,,115,106
+4,5:20.0,,J. Collins makes free throw 2 of 2,115,107
+4,4:55.0,M. Williams misses 3-pt jump shot from 23 ft,,115,107
+4,4:52.0,,Defensive rebound by J. Collins,115,107
+4,4:46.0,,T. Young misses 2-pt layup from 2 ft,115,107
+4,4:41.0,,Offensive rebound by J. Collins,115,107
+4,4:41.0,,J. Collins misses 2-pt dunk at rim,115,107
+4,4:40.0,Defensive rebound by N. Batum,,115,107
+4,4:38.0,K. Walker misses 3-pt jump shot from 26 ft,,115,107
+4,4:33.0,Offensive rebound by J. Lamb,,115,107
+4,4:31.0,J. Lamb misses 2-pt layup from 1 ft,,115,107
+4,4:27.0,,Defensive rebound by K. Huerter,115,107
+4,4:12.0,,T. Young misses 2-pt layup from 1 ft,115,107
+4,4:11.0,Defensive rebound by M. Kidd-Gilchrist,,115,107
+4,4:07.0,M. Williams makes 2-pt layup from 1 ft (assist by M. Kidd-Gilchrist),,117,107
+4,4:07.0,,Atlanta full timeout,117,107
+4,3:49.0,,K. Bazemore misses 2-pt jump shot from 4 ft,117,107
+4,3:46.0,Defensive rebound by M. Williams,,117,107
+4,3:31.0,K. Walker makes 3-pt jump shot from 25 ft,,120,107
+4,3:11.0,,Shooting foul by M. Williams (drawn by D. Dedmon),120,107
+4,3:11.0,,D. Dedmon misses free throw 1 of 2,120,107
+4,3:11.0,,Offensive rebound by Team,120,107
+4,3:11.0,Charlotte full timeout,,120,107
+4,3:11.0,,T. Prince enters the game for K. Bazemore,120,107
+4,3:11.0,,D. Dedmon misses free throw 2 of 2,120,107
+4,3:09.0,Defensive rebound by N. Batum,,120,107
+4,2:47.0,K. Walker makes 3-pt jump shot from 25 ft (assist by J. Lamb),,123,107
+4,2:30.0,,T. Young misses 2-pt jump shot from 23 ft,123,107
+4,2:29.0,,Offensive rebound by J. Collins,123,107
+4,2:29.0,,J. Collins makes 2-pt layup at rim,123,109
+4,2:29.0,,Shooting foul by J. Lamb (drawn by J. Collins),123,109
+4,2:29.0,,J. Collins misses free throw 1 of 1,123,109
+4,2:27.0,Defensive rebound by N. Batum,,123,109
+4,2:07.0,K. Walker makes 2-pt layup from 1 ft (assist by J. Lamb),,125,109
+4,1:54.0,,T. Young makes 2-pt layup from 2 ft,125,111
+4,1:37.0,J. Lamb misses 3-pt jump shot from 25 ft,,125,111
+4,1:33.0,,Defensive rebound by D. Dedmon,125,111
+4,1:26.0,,K. Huerter makes 3-pt jump shot from 26 ft,125,114
+4,1:17.0,M. Williams makes 2-pt dunk from 2 ft (assist by N. Batum),,127,114
+4,1:08.0,,T. Young makes 3-pt jump shot from 26 ft,127,117
+4,0:47.0,J. Lamb misses 2-pt jump shot from 9 ft,,127,117
+4,0:44.0,Offensive rebound by J. Lamb,,127,117
+4,0:41.0,M. Kidd-Gilchrist makes 2-pt jump shot from 13 ft (assist by J. Lamb),,129,117
+4,0:35.0,,Turnover by T. Young (bad pass; steal by N. Batum),129,117
+4,0:18.0,K. Walker misses 3-pt jump shot from 26 ft,,129,117
+4,0:16.0,,Defensive rebound by D. Dedmon,129,117
+4,0:13.0,,K. Huerter makes 3-pt jump shot from 25 ft (assist by T. Young),129,120

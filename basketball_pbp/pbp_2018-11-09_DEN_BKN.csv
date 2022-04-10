@@ -1,0 +1,511 @@
+QUARTER,TIME_REMAINING,BROOKLYN_ACTION,DENVER_ACTION,BROOKLYN_SCORE,DENVER_SCORE
+1,11:47.0,D. Russell makes 3-pt jump shot from 25 ft (assist by J. Allen),,3,0
+1,11:31.0,,Turnover by P. Millsap (out of bounds lost ball),3,0
+1,11:20.0,D. Russell misses 3-pt jump shot from 24 ft,,3,0
+1,11:17.0,,Defensive rebound by P. Millsap,3,0
+1,11:05.0,,P. Millsap misses 2-pt jump shot from 11 ft,3,0
+1,11:00.0,Defensive rebound by J. Dudley,,3,0
+1,10:54.0,C. LeVert makes 3-pt jump shot from 22 ft (assist by D. Russell),,6,0
+1,10:42.0,,Turnover by N. Jokić (bad pass; steal by D. Russell),6,0
+1,10:34.0,C. LeVert misses 3-pt jump shot from 23 ft,,6,0
+1,10:31.0,,Defensive rebound by N. Jokić,6,0
+1,10:15.0,,N. Jokić makes 2-pt jump shot from 16 ft (assist by T. Craig),6,2
+1,9:51.0,J. Dudley makes 3-pt jump shot from 25 ft (assist by J. Allen),,9,2
+1,9:37.0,,T. Craig misses 3-pt jump shot from 22 ft,9,2
+1,9:32.0,Defensive rebound by C. LeVert,,9,2
+1,9:22.0,J. Dudley misses 3-pt jump shot from 25 ft,,9,2
+1,9:19.0,,Defensive rebound by P. Millsap,9,2
+1,9:13.0,,G. Harris misses 3-pt jump shot from 24 ft,9,2
+1,9:11.0,,Offensive rebound by N. Jokić,9,2
+1,9:07.0,,G. Harris misses 3-pt jump shot from 25 ft,9,2
+1,9:03.0,Defensive rebound by J. Allen,,9,2
+1,8:57.0,J. Harris makes 3-pt jump shot from 25 ft (assist by D. Russell),,12,2
+1,8:56.0,,Denver full timeout,12,2
+1,8:41.0,,Turnover by N. Jokić (bad pass; steal by J. Harris),12,2
+1,8:37.0,Turnover by J. Harris (traveling),,12,2
+1,8:29.0,,Personal foul by J. Dudley (drawn by P. Millsap),12,2
+1,8:21.0,,T. Craig makes 3-pt jump shot from 22 ft (assist by J. Murray),12,5
+1,8:08.0,C. LeVert misses 2-pt jump shot from 9 ft,,12,5
+1,8:04.0,,Defensive rebound by N. Jokić,12,5
+1,7:58.0,,N. Jokić makes 3-pt jump shot from 25 ft (assist by J. Murray),12,8
+1,7:39.0,D. Russell makes 3-pt jump shot from 25 ft (assist by C. LeVert),,15,8
+1,7:25.0,,Turnover by P. Millsap (bad pass),15,8
+1,7:02.0,J. Harris makes 3-pt jump shot from 25 ft (assist by J. Dudley),,18,8
+1,6:46.0,,Turnover by N. Jokić (lost ball; steal by D. Russell),18,8
+1,6:46.0,Clear path foul by N. Jokić,,18,8
+1,6:46.0,,J. Hernangómez enters the game for T. Craig,18,8
+1,6:46.0,D. Russell misses clear path free throw 1 of 2,,18,8
+1,6:46.0,Offensive rebound by Team,,18,8
+1,6:46.0,D. Russell makes clear path free throw 2 of 2,,19,8
+1,6:33.0,Turnover by J. Dudley (bad pass; steal by N. Jokić),,19,8
+1,6:23.0,,N. Jokić makes 2-pt layup from 1 ft,19,10
+1,6:14.0,D. Russell makes 2-pt jump shot from 5 ft,,21,10
+1,5:59.0,,G. Harris misses 2-pt jump shot from 8 ft,21,10
+1,5:56.0,,Offensive rebound by P. Millsap,21,10
+1,5:49.0,,J. Murray makes 2-pt jump shot from 19 ft,21,12
+1,5:32.0,J. Allen makes 2-pt dunk from 1 ft (assist by C. LeVert),,23,12
+1,5:14.0,,Personal foul by J. Allen (drawn by N. Jokić),23,12
+1,5:14.0,A. Crabbe enters the game for J. Dudley,,23,12
+1,5:14.0,S. Dinwiddie enters the game for J. Harris,,23,12
+1,5:14.0,R. Hollis-Jefferson enters the game for D. Russell,,23,12
+1,5:14.0,,T. Lyles enters the game for P. Millsap,23,12
+1,5:14.0,,M. Morris enters the game for J. Murray,23,12
+1,5:10.0,,T. Lyles misses 2-pt layup from 2 ft,23,12
+1,5:05.0,,Offensive rebound by J. Hernangómez,23,12
+1,5:05.0,,J. Hernangómez makes 2-pt dunk at rim,23,14
+1,4:44.0,S. Dinwiddie misses 3-pt jump shot from 27 ft,,23,14
+1,4:40.0,Offensive rebound by J. Allen,,23,14
+1,4:36.0,R. Hollis-Jefferson misses 3-pt jump shot from 25 ft,,23,14
+1,4:36.0,,Defensive rebound by M. Morris,23,14
+1,4:28.0,,Turnover by N. Jokić (bad pass; steal by R. Hollis-Jefferson),23,14
+1,4:21.0,R. Hollis-Jefferson misses 2-pt jump shot from 4 ft,,23,14
+1,4:19.0,,Defensive rebound by N. Jokić,23,14
+1,4:12.0,,N. Jokić makes 2-pt layup from 1 ft (assist by T. Lyles),23,16
+1,4:12.0,Brooklyn full timeout,,23,16
+1,4:12.0,E. Davis enters the game for J. Allen,,23,16
+1,3:57.0,A. Crabbe makes 2-pt jump shot from 10 ft (assist by C. LeVert),,25,16
+1,3:43.0,,M. Morris makes 2-pt layup from 4 ft,25,18
+1,3:34.0,C. LeVert makes 2-pt layup from 3 ft,,27,18
+1,3:23.0,,Personal foul by C. LeVert (drawn by N. Jokić),27,18
+1,3:23.0,D. Carroll enters the game for C. LeVert,,27,18
+1,3:14.0,,Turnover by N. Jokić (traveling),27,18
+1,2:52.0,D. Carroll misses 2-pt jump shot from 16 ft,,27,18
+1,2:50.0,,Defensive rebound by N. Jokić,27,18
+1,2:34.0,,N. Jokić makes 2-pt layup from 1 ft,27,20
+1,2:15.0,A. Crabbe misses 2-pt jump shot from 24 ft,,27,20
+1,2:11.0,,Defensive rebound by N. Jokić,27,20
+1,2:04.0,,Personal foul by E. Davis (drawn by N. Jokić),27,20
+1,2:04.0,,M. Plumlee enters the game for N. Jokić,27,20
+1,1:49.0,,Turnover by Team (shot clock),27,20
+1,1:49.0,,J. Murray enters the game for G. Harris,27,20
+1,1:38.0,A. Crabbe makes 3-pt jump shot from 25 ft (assist by R. Hollis-Jefferson),,30,20
+1,1:24.0,,T. Lyles makes 2-pt jump shot from 12 ft (assist by J. Murray),30,22
+1,0:57.0,D. Carroll misses 3-pt jump shot from 25 ft,,30,22
+1,0:54.0,,Defensive rebound by M. Plumlee,30,22
+1,0:46.0,,M. Morris makes 2-pt hook shot from 6 ft,30,24
+1,0:35.0,E. Davis makes 2-pt jump shot from 5 ft (assist by S. Dinwiddie),,32,24
+1,0:33.0,,T. Lyles misses 2-pt jump shot from 24 ft,32,24
+1,0:28.0,Defensive rebound by A. Crabbe,,32,24
+1,0:15.0,D. Carroll makes 2-pt jump shot from 6 ft (assist by R. Hollis-Jefferson),,34,24
+1,0:01.0,,J. Murray misses 2-pt jump shot from 13 ft,34,24
+1,0:01.0,,Offensive rebound by Team,34,24
+2,11:47.0,,J. Murray makes 2-pt layup from 3 ft (assist by T. Lyles),34,26
+2,11:28.0,R. Hollis-Jefferson makes 3-pt jump shot from 23 ft (assist by S. Dinwiddie),,37,26
+2,11:10.0,,Turnover by J. Murray (bad pass),37,26
+2,10:56.0,E. Davis misses 2-pt layup from 2 ft,,37,26
+2,10:54.0,,Defensive rebound by T. Lyles,37,26
+2,10:49.0,,Turnover by J. Murray (bad pass; steal by E. Davis),37,26
+2,10:40.0,R. Hollis-Jefferson misses 2-pt layup from 5 ft,,37,26
+2,10:39.0,Offensive rebound by E. Davis,,37,26
+2,10:36.0,A. Crabbe misses 3-pt jump shot from 28 ft,,37,26
+2,10:35.0,,Defensive rebound by M. Plumlee,37,26
+2,10:35.0,,Denver full timeout,37,26
+2,10:35.0,J. Harris enters the game for R. Hollis-Jefferson,,37,26
+2,10:26.0,,M. Morris misses 2-pt jump shot from 9 ft,37,26
+2,10:22.0,Defensive rebound by A. Crabbe,,37,26
+2,10:04.0,S. Dinwiddie makes 2-pt layup from 3 ft,,39,26
+2,9:44.0,,M. Morris makes 2-pt hook shot from 5 ft,39,28
+2,9:34.0,A. Crabbe makes 3-pt jump shot from 26 ft (assist by S. Dinwiddie),,42,28
+2,9:22.0,,Personal foul by J. Harris (drawn by J. Hernangómez),42,28
+2,9:08.0,,T. Lyles misses 2-pt jump shot from 5 ft,42,28
+2,9:05.0,Defensive rebound by S. Dinwiddie,,42,28
+2,8:55.0,D. Carroll misses 3-pt jump shot from 25 ft,,42,28
+2,8:54.0,Offensive rebound by S. Dinwiddie,,42,28
+2,8:51.0,S. Dinwiddie misses 3-pt jump shot from 23 ft,,42,28
+2,8:48.0,,Defensive rebound by M. Plumlee,42,28
+2,8:34.0,,M. Morris makes 3-pt jump shot from 22 ft (assist by M. Plumlee),42,31
+2,8:22.0,Personal foul by M. Plumlee (drawn by J. Harris),,42,31
+2,8:22.0,J. Dudley enters the game for D. Carroll,,42,31
+2,8:17.0,A. Crabbe misses 3-pt jump shot from 25 ft,,42,31
+2,8:14.0,,Defensive rebound by T. Lyles,42,31
+2,8:05.0,,M. Morris misses 2-pt layup from 2 ft,42,31
+2,8:05.0,Defensive rebound by Team,,42,31
+2,8:05.0,,Loose ball foul by M. Plumlee (drawn by E. Davis),42,31
+2,7:47.0,Turnover by J. Dudley (bad pass; steal by M. Morris),,42,31
+2,7:41.0,,J. Murray misses 2-pt jump shot from 20 ft,42,31
+2,7:35.0,Defensive rebound by E. Davis,,42,31
+2,7:31.0,S. Dinwiddie misses 3-pt jump shot from 28 ft,,42,31
+2,7:28.0,,Defensive rebound by M. Morris,42,31
+2,7:14.0,,M. Morris misses 3-pt jump shot from 25 ft,42,31
+2,7:11.0,Defensive rebound by E. Davis,,42,31
+2,6:54.0,S. Dinwiddie misses 3-pt jump shot from 25 ft,,42,31
+2,6:51.0,,Defensive rebound by M. Morris,42,31
+2,6:41.0,,T. Lyles makes 2-pt hook shot from 6 ft,42,33
+2,6:23.0,Shooting foul by M. Plumlee (drawn by J. Dudley),,42,33
+2,6:23.0,J. Dudley misses free throw 1 of 2,,42,33
+2,6:23.0,Offensive rebound by Team,,42,33
+2,6:23.0,J. Allen enters the game for A. Crabbe,,42,33
+2,6:23.0,C. LeVert enters the game for E. Davis,,42,33
+2,6:23.0,D. Russell enters the game for S. Dinwiddie,,42,33
+2,6:23.0,,G. Harris enters the game for T. Lyles,42,33
+2,6:23.0,,N. Jokić enters the game for J. Murray,42,33
+2,6:23.0,,P. Millsap enters the game for M. Plumlee,42,33
+2,6:23.0,J. Dudley makes free throw 2 of 2,,43,33
+2,6:04.0,,G. Harris misses 2-pt jump shot from 13 ft,43,33
+2,6:01.0,Defensive rebound by D. Russell,,43,33
+2,5:51.0,J. Allen makes 2-pt layup from 1 ft (assist by D. Russell),,45,33
+2,5:41.0,,G. Harris misses 3-pt jump shot from 24 ft,45,33
+2,5:40.0,,Offensive rebound by P. Millsap,45,33
+2,5:37.0,,Turnover by P. Millsap (lost ball; steal by J. Allen),45,33
+2,5:29.0,J. Dudley misses 3-pt jump shot from 24 ft,,45,33
+2,5:27.0,,Defensive rebound by J. Hernangómez,45,33
+2,5:16.0,,J. Hernangómez misses 3-pt jump shot from 24 ft,45,33
+2,5:14.0,,Offensive rebound by P. Millsap,45,33
+2,5:12.0,,M. Morris misses 2-pt jump shot from 8 ft,45,33
+2,5:08.0,,Offensive rebound by N. Jokić,45,33
+2,5:08.0,,N. Jokić makes 2-pt layup at rim,45,35
+2,4:58.0,Personal foul by J. Hernangómez (drawn by J. Dudley),,45,35
+2,4:58.0,,M. Beasley enters the game for J. Hernangómez,45,35
+2,4:52.0,J. Allen misses 2-pt dunk from 3 ft,,45,35
+2,4:50.0,,Defensive rebound by M. Beasley,45,35
+2,4:39.0,,P. Millsap makes 2-pt jump shot from 9 ft,45,37
+2,4:26.0,C. LeVert makes 2-pt layup from 2 ft (assist by D. Russell),,47,37
+2,4:26.0,Shooting foul by N. Jokić (drawn by C. LeVert),,47,37
+2,4:26.0,,J. Murray enters the game for M. Morris,47,37
+2,4:26.0,C. LeVert misses free throw 1 of 1,,47,37
+2,4:26.0,,Defensive rebound by N. Jokić,47,37
+2,4:12.0,,N. Jokić misses 2-pt hook shot from 4 ft,47,37
+2,4:10.0,Defensive rebound by J. Allen,,47,37
+2,4:09.0,Personal foul by G. Harris (drawn by C. LeVert),,47,37
+2,4:09.0,,Technical foul by N. Jokić,47,37
+2,4:09.0,D. Russell makes technical free throw,,48,37
+2,4:09.0,C. LeVert misses free throw 1 of 2,,48,37
+2,4:09.0,Offensive rebound by Team,,48,37
+2,4:09.0,R. Hollis-Jefferson enters the game for J. Dudley,,48,37
+2,4:09.0,C. LeVert makes free throw 2 of 2,,49,37
+2,3:55.0,,Shooting foul by J. Allen (drawn by N. Jokić),49,37
+2,3:55.0,,N. Jokić makes free throw 1 of 2,49,38
+2,3:55.0,,N. Jokić misses free throw 2 of 2,49,38
+2,3:53.0,Defensive rebound by J. Harris,,49,38
+2,3:45.0,Turnover by D. Russell (traveling),,49,38
+2,3:35.0,,G. Harris misses 2-pt jump shot from 2 ft,49,38
+2,3:35.0,,Offensive rebound by N. Jokić,49,38
+2,3:35.0,,N. Jokić makes 2-pt layup from 2 ft,49,40
+2,3:35.0,Brooklyn full timeout,,49,40
+2,3:25.0,D. Russell misses 2-pt layup from 4 ft,,49,40
+2,3:23.0,,Defensive rebound by N. Jokić,49,40
+2,3:19.0,,P. Millsap misses 2-pt layup from 3 ft (block by J. Allen),49,40
+2,3:18.0,Defensive rebound by Team,,49,40
+2,3:18.0,S. Dinwiddie enters the game for J. Harris,,49,40
+2,2:59.0,J. Allen makes 2-pt dunk at rim (assist by D. Russell),,51,40
+2,2:38.0,,N. Jokić misses 2-pt layup from 1 ft (block by J. Allen),51,40
+2,2:33.0,,Offensive rebound by N. Jokić,51,40
+2,2:33.0,,N. Jokić makes 2-pt layup from 1 ft,51,42
+2,2:23.0,D. Russell misses 2-pt layup from 2 ft,,51,42
+2,2:22.0,,Defensive rebound by P. Millsap,51,42
+2,2:13.0,,G. Harris misses 2-pt layup from 4 ft (block by R. Hollis-Jefferson),51,42
+2,2:10.0,Defensive rebound by S. Dinwiddie,,51,42
+2,2:03.0,C. LeVert misses 3-pt jump shot from 23 ft,,51,42
+2,2:00.0,,Defensive rebound by N. Jokić,51,42
+2,1:49.0,,J. Murray misses 2-pt layup from 3 ft (block by S. Dinwiddie),51,42
+2,1:46.0,,Offensive rebound by J. Murray,51,42
+2,1:39.0,,N. Jokić makes 2-pt hook shot from 2 ft,51,44
+2,1:16.0,R. Hollis-Jefferson misses 2-pt layup from 4 ft (block by P. Millsap),,51,44
+2,1:13.0,,Defensive rebound by M. Beasley,51,44
+2,1:09.0,,G. Harris misses 2-pt layup from 4 ft (block by C. LeVert),51,44
+2,1:06.0,,Offensive rebound by G. Harris,51,44
+2,1:03.0,,M. Beasley makes 3-pt jump shot from 24 ft (assist by G. Harris),51,47
+2,0:44.0,J. Allen makes 2-pt layup from 2 ft (assist by C. LeVert),,53,47
+2,0:27.0,,J. Murray misses 2-pt layup from 2 ft (block by J. Allen),53,47
+2,0:24.0,Defensive rebound by D. Russell,,53,47
+2,0:23.0,Shooting foul by P. Millsap (drawn by D. Russell),,53,47
+2,0:23.0,D. Russell makes free throw 1 of 2,,54,47
+2,0:23.0,D. Russell makes free throw 2 of 2,,55,47
+2,0:02.0,,N. Jokić misses 2-pt layup from 4 ft (block by J. Allen),55,47
+2,0:02.0,,Offensive rebound by G. Harris,55,47
+2,0:00.0,,G. Harris misses 3-pt jump shot from 25 ft,55,47
+2,0:00.0,,Offensive rebound by Team,55,47
+3,11:41.0,,T. Craig misses 3-pt jump shot from 23 ft,55,47
+3,11:38.0,Defensive rebound by C. LeVert,,55,47
+3,11:32.0,D. Russell makes 2-pt layup from 4 ft,,57,47
+3,11:16.0,,Shooting foul by J. Dudley (drawn by P. Millsap),57,47
+3,11:16.0,,P. Millsap misses free throw 1 of 2,57,47
+3,11:16.0,,Offensive rebound by Team,57,47
+3,11:16.0,,P. Millsap misses free throw 2 of 2,57,47
+3,11:13.0,Defensive rebound by J. Dudley,,57,47
+3,11:00.0,C. LeVert misses 2-pt layup from 6 ft (block by N. Jokić),,57,47
+3,10:57.0,,Defensive rebound by T. Craig,57,47
+3,10:53.0,,P. Millsap misses 2-pt layup from 3 ft (block by J. Dudley),57,47
+3,10:49.0,Defensive rebound by J. Harris,,57,47
+3,10:48.0,D. Russell misses 3-pt jump shot from 24 ft,,57,47
+3,10:45.0,,Defensive rebound by Team,57,47
+3,10:22.0,,T. Craig misses 3-pt jump shot from 23 ft,57,47
+3,10:15.0,Defensive rebound by D. Russell,,57,47
+3,10:15.0,J. Harris misses 2-pt layup from 2 ft (block by G. Harris),,57,47
+3,10:15.0,Offensive rebound by Team,,57,47
+3,10:06.0,Personal foul by T. Craig (drawn by C. LeVert),,57,47
+3,10:01.0,Turnover by J. Harris (out of bounds lost ball),,57,47
+3,9:52.0,,N. Jokić misses 2-pt layup from 3 ft (block by J. Allen),57,47
+3,9:49.0,,Offensive rebound by P. Millsap,57,47
+3,9:40.0,,N. Jokić makes 2-pt jump shot from 22 ft (assist by G. Harris),57,49
+3,9:28.0,Shooting foul by T. Craig (drawn by C. LeVert),,57,49
+3,9:28.0,C. LeVert makes free throw 1 of 2,,58,49
+3,9:28.0,C. LeVert makes free throw 2 of 2,,59,49
+3,9:11.0,,T. Craig misses 2-pt layup from 3 ft,59,49
+3,9:10.0,,Offensive rebound by N. Jokić,59,49
+3,9:08.0,,P. Millsap misses 3-pt jump shot from 25 ft,59,49
+3,9:03.0,Defensive rebound by J. Allen,,59,49
+3,8:56.0,D. Russell misses 2-pt jump shot from 11 ft,,59,49
+3,8:53.0,Offensive rebound by J. Allen,,59,49
+3,8:51.0,D. Russell misses 2-pt layup from 2 ft,,59,49
+3,8:49.0,,Defensive rebound by N. Jokić,59,49
+3,8:37.0,,P. Millsap makes 2-pt jump shot from 12 ft,59,51
+3,8:13.0,J. Allen misses 2-pt jump shot from 13 ft,,59,51
+3,8:11.0,Offensive rebound by J. Dudley,,59,51
+3,8:11.0,J. Dudley misses 2-pt layup from 4 ft,,59,51
+3,8:10.0,,Defensive rebound by N. Jokić,59,51
+3,8:03.0,,G. Harris misses 3-pt jump shot from 24 ft,59,51
+3,8:02.0,Defensive rebound by D. Russell,,59,51
+3,8:02.0,,M. Beasley enters the game for T. Craig,59,51
+3,8:02.0,,Technical foul by K. Atkinson,59,51
+3,8:02.0,,J. Murray makes technical free throw,59,52
+3,7:46.0,J. Allen misses 2-pt dunk from 2 ft,,59,52
+3,7:44.0,,Defensive rebound by P. Millsap,59,52
+3,7:39.0,,N. Jokić makes 2-pt layup from 2 ft (assist by M. Beasley),59,54
+3,7:33.0,Brooklyn full timeout,,59,54
+3,7:27.0,C. LeVert misses 2-pt layup from 2 ft,,59,54
+3,7:27.0,,Defensive rebound by N. Jokić,59,54
+3,7:27.0,Technical foul by C. LeVert,,59,54
+3,7:27.0,,J. Murray makes technical free throw,59,55
+3,7:07.0,,J. Murray makes 2-pt jump shot from 11 ft (assist by N. Jokić),59,57
+3,6:52.0,J. Dudley misses 3-pt jump shot from 24 ft,,59,57
+3,6:51.0,Offensive rebound by Team,,59,57
+3,6:51.0,,Loose ball foul by N. Jokić (drawn by J. Allen),59,57
+3,6:51.0,A. Crabbe enters the game for J. Harris,,59,57
+3,6:45.0,Shooting foul by P. Millsap (drawn by C. LeVert),,59,57
+3,6:45.0,C. LeVert misses free throw 1 of 2,,59,57
+3,6:45.0,Offensive rebound by Team,,59,57
+3,6:45.0,C. LeVert makes free throw 2 of 2,,60,57
+3,6:24.0,,G. Harris makes 2-pt layup from 3 ft (assist by N. Jokić),60,59
+3,6:10.0,Shooting foul by J. Murray (drawn by D. Russell),,60,59
+3,6:10.0,D. Russell makes free throw 1 of 2,,61,59
+3,6:10.0,D. Russell makes free throw 2 of 2,,62,59
+3,6:00.0,,N. Jokić makes 2-pt jump shot from 11 ft (assist by J. Murray),62,61
+3,5:53.0,Personal foul by G. Harris (drawn by J. Allen),,62,61
+3,5:53.0,J. Allen makes free throw 1 of 2,,63,61
+3,5:53.0,J. Allen makes free throw 2 of 2,,64,61
+3,5:37.0,,J. Murray makes 2-pt jump shot from 20 ft,64,63
+3,5:27.0,Personal foul by G. Harris (drawn by J. Allen),,64,63
+3,5:27.0,J. Allen makes free throw 1 of 2,,65,63
+3,5:27.0,S. Dinwiddie enters the game for J. Dudley,,65,63
+3,5:27.0,R. Hollis-Jefferson enters the game for D. Russell,,65,63
+3,5:27.0,J. Allen misses free throw 2 of 2,,65,63
+3,5:25.0,,Defensive rebound by N. Jokić,65,63
+3,5:15.0,,Shooting foul by S. Dinwiddie (drawn by J. Murray),65,63
+3,5:15.0,,J. Murray makes free throw 1 of 2,65,64
+3,5:15.0,E. Davis enters the game for J. Allen,,65,64
+3,5:15.0,,J. Murray makes free throw 2 of 2,65,65
+3,5:06.0,C. LeVert misses 3-pt jump shot from 25 ft,,65,65
+3,5:03.0,,Defensive rebound by P. Millsap,65,65
+3,4:56.0,,J. Murray misses 3-pt jump shot from 25 ft,65,65
+3,4:53.0,Defensive rebound by E. Davis,,65,65
+3,4:33.0,R. Hollis-Jefferson misses 3-pt jump shot from 24 ft,,65,65
+3,4:30.0,Offensive rebound by R. Hollis-Jefferson,,65,65
+3,4:28.0,R. Hollis-Jefferson makes 2-pt layup from 1 ft,,67,65
+3,4:12.0,,Shooting foul by R. Hollis-Jefferson (drawn by P. Millsap),67,65
+3,4:12.0,,P. Millsap misses free throw 1 of 2,67,65
+3,4:12.0,,Offensive rebound by Team,67,65
+3,4:12.0,,M. Morris enters the game for G. Harris,67,65
+3,4:12.0,,P. Millsap makes free throw 2 of 2,67,66
+3,3:56.0,S. Dinwiddie misses 2-pt jump shot from 15 ft,,67,66
+3,3:54.0,Loose ball foul by E. Davis (drawn by N. Jokić),,67,66
+3,3:54.0,,Defensive rebound by Team,67,66
+3,3:54.0,,T. Lyles enters the game for P. Millsap,67,66
+3,3:37.0,,N. Jokić misses 2-pt hook shot from 4 ft,67,66
+3,3:34.0,,Offensive rebound by N. Jokić,67,66
+3,3:34.0,,N. Jokić makes 2-pt layup from 1 ft,67,68
+3,3:26.0,A. Crabbe misses 2-pt jump shot from 21 ft,,67,68
+3,3:22.0,Offensive rebound by Team,,67,68
+3,3:22.0,D. Carroll enters the game for C. LeVert,,67,68
+3,3:14.0,Shooting foul by J. Murray (drawn by D. Carroll),,67,68
+3,3:14.0,D. Carroll makes free throw 1 of 2,,68,68
+3,3:14.0,D. Carroll makes free throw 2 of 2,,69,68
+3,2:58.0,,Personal foul by E. Davis (drawn by N. Jokić),69,68
+3,2:58.0,,Denver full timeout,69,68
+3,2:58.0,,N. Jokić makes free throw 1 of 2,69,69
+3,2:58.0,,N. Jokić makes free throw 2 of 2,69,70
+3,2:44.0,R. Hollis-Jefferson misses 2-pt layup from 4 ft,,69,70
+3,2:41.0,Offensive rebound by E. Davis,,69,70
+3,2:39.0,D. Carroll misses 3-pt jump shot from 23 ft,,69,70
+3,2:35.0,,Defensive rebound by M. Morris,69,70
+3,2:27.0,,N. Jokić makes 2-pt dunk at rim (assist by M. Morris),69,72
+3,2:08.0,S. Dinwiddie makes 2-pt layup from 2 ft,,71,72
+3,1:46.0,,Personal foul by E. Davis (drawn by N. Jokić),71,72
+3,1:46.0,,N. Jokić makes free throw 1 of 2,71,73
+3,1:46.0,,N. Jokić makes free throw 2 of 2,71,74
+3,1:38.0,Shooting foul by N. Jokić (drawn by S. Dinwiddie),,71,74
+3,1:38.0,S. Dinwiddie misses free throw 1 of 2,,71,74
+3,1:38.0,Offensive rebound by Team,,71,74
+3,1:38.0,,M. Plumlee enters the game for N. Jokić,71,74
+3,1:38.0,S. Dinwiddie makes free throw 2 of 2,,72,74
+3,1:13.0,,M. Beasley misses 2-pt layup from 2 ft,72,74
+3,1:09.0,Defensive rebound by D. Carroll,,72,74
+3,1:06.0,S. Dinwiddie misses 2-pt jump shot from 12 ft,,72,74
+3,1:02.0,Offensive rebound by R. Hollis-Jefferson,,72,74
+3,1:00.0,Shooting foul by M. Plumlee (drawn by R. Hollis-Jefferson),,72,74
+3,1:00.0,R. Hollis-Jefferson makes free throw 1 of 2,,73,74
+3,1:00.0,R. Hollis-Jefferson makes free throw 2 of 2,,74,74
+3,0:49.0,,J. Murray misses 2-pt jump shot from 10 ft,74,74
+3,0:46.0,Defensive rebound by S. Dinwiddie,,74,74
+3,0:42.0,D. Carroll makes 3-pt jump shot from 22 ft (assist by S. Dinwiddie),,77,74
+3,0:30.0,,T. Lyles misses 2-pt layup from 4 ft,77,74
+3,0:28.0,Defensive rebound by E. Davis,,77,74
+3,0:10.0,Shooting foul by M. Beasley (drawn by D. Carroll),,77,74
+3,0:10.0,D. Carroll makes free throw 1 of 2,,78,74
+3,0:10.0,J. Allen enters the game for E. Davis,,78,74
+3,0:10.0,D. Carroll makes free throw 2 of 2,,79,74
+3,0:04.0,,M. Morris makes 2-pt jump shot from 20 ft,79,76
+3,0:00.0,S. Dinwiddie makes 3-pt jump shot from 48 ft,,82,76
+4,11:45.0,A. Crabbe misses 3-pt jump shot from 24 ft,,82,76
+4,11:41.0,,Defensive rebound by M. Morris,82,76
+4,11:26.0,,M. Morris makes 2-pt jump shot from 18 ft,82,78
+4,11:02.0,J. Harris misses 2-pt jump shot from 8 ft,,82,78
+4,11:02.0,,Defensive rebound by Team,82,78
+4,11:02.0,Loose ball foul by E. Davis (drawn by M. Plumlee),,82,78
+4,10:49.0,,Shooting foul by E. Davis (drawn by M. Plumlee),82,78
+4,10:49.0,J. Allen enters the game for E. Davis,,82,78
+4,10:49.0,,M. Plumlee makes free throw 1 of 2,82,79
+4,10:49.0,,M. Plumlee misses free throw 2 of 2,82,79
+4,10:47.0,Defensive rebound by D. Carroll,,82,79
+4,10:31.0,J. Allen makes 2-pt dunk from 1 ft (assist by S. Dinwiddie),,84,79
+4,10:16.0,,M. Plumlee misses 2-pt hook shot from 5 ft,84,79
+4,10:14.0,Defensive rebound by J. Allen,,84,79
+4,10:07.0,Personal foul by J. Murray (drawn by J. Allen),,84,79
+4,9:57.0,Turnover by D. Carroll (bad pass; steal by J. Murray),,84,79
+4,9:52.0,,Shooting foul by J. Harris (drawn by T. Lyles),84,79
+4,9:52.0,,T. Lyles makes free throw 1 of 2,84,80
+4,9:52.0,,T. Lyles makes free throw 2 of 2,84,81
+4,9:42.0,Turnover by J. Harris (out of bounds lost ball),,84,81
+4,9:28.0,,M. Morris makes 2-pt jump shot from 8 ft (assist by M. Plumlee),84,83
+4,9:14.0,J. Allen misses 2-pt layup from 3 ft (block by T. Lyles),,84,83
+4,9:10.0,Offensive rebound by S. Dinwiddie,,84,83
+4,9:10.0,S. Dinwiddie misses 2-pt layup from 2 ft,,84,83
+4,9:10.0,,Defensive rebound by T. Lyles,84,83
+4,9:05.0,,Shooting foul by S. Dinwiddie (drawn by M. Plumlee),84,83
+4,9:05.0,,M. Plumlee misses free throw 1 of 2,84,83
+4,9:05.0,,Offensive rebound by Team,84,83
+4,9:05.0,,M. Beasley enters the game for J. Murray,84,83
+4,9:05.0,,M. Plumlee makes free throw 2 of 2,84,84
+4,8:51.0,Shooting foul by M. Morris (drawn by S. Dinwiddie),,84,84
+4,8:51.0,S. Dinwiddie makes free throw 1 of 2,,85,84
+4,8:51.0,S. Dinwiddie makes free throw 2 of 2,,86,84
+4,8:37.0,,T. Lyles makes 2-pt layup from 1 ft (assist by M. Morris),86,86
+4,8:25.0,J. Harris makes 2-pt jump shot from 11 ft (assist by S. Dinwiddie),,88,86
+4,8:15.0,,Personal foul by J. Harris (drawn by T. Lyles),88,86
+4,8:15.0,,T. Lyles makes free throw 1 of 2,88,87
+4,8:15.0,R. Hollis-Jefferson enters the game for D. Carroll,,88,87
+4,8:15.0,,T. Lyles misses free throw 2 of 2,88,87
+4,8:12.0,Defensive rebound by R. Hollis-Jefferson,,88,87
+4,8:01.0,Shooting foul by G. Harris (drawn by R. Hollis-Jefferson),,88,87
+4,8:01.0,R. Hollis-Jefferson misses free throw 1 of 2,,88,87
+4,8:01.0,Offensive rebound by Team,,88,87
+4,8:01.0,R. Hollis-Jefferson makes free throw 2 of 2,,89,87
+4,7:48.0,,M. Plumlee makes 2-pt dunk from 1 ft (assist by G. Harris),89,89
+4,7:48.0,Brooklyn full timeout,,89,89
+4,7:48.0,C. LeVert enters the game for J. Allen,,89,89
+4,7:25.0,S. Dinwiddie misses 2-pt dunk from 2 ft,,89,89
+4,7:24.0,,Defensive rebound by M. Morris,89,89
+4,7:18.0,,M. Beasley makes 3-pt jump shot from 23 ft (assist by G. Harris),89,92
+4,6:55.0,R. Hollis-Jefferson misses 3-pt jump shot from 22 ft,,89,92
+4,6:53.0,Offensive rebound by J. Harris,,89,92
+4,6:53.0,J. Harris makes 2-pt layup from 2 ft,,91,92
+4,6:53.0,Shooting foul by M. Morris (drawn by J. Harris),,91,92
+4,6:53.0,J. Allen enters the game for A. Crabbe,,91,92
+4,6:53.0,D. Russell enters the game for S. Dinwiddie,,91,92
+4,6:53.0,,N. Jokić enters the game for M. Morris,91,92
+4,6:53.0,,J. Murray enters the game for M. Plumlee,91,92
+4,6:53.0,J. Harris makes free throw 1 of 1,,92,92
+4,6:41.0,,Shooting foul by R. Hollis-Jefferson (drawn by T. Lyles),92,92
+4,6:41.0,,T. Lyles makes free throw 1 of 2,92,93
+4,6:41.0,J. Dudley enters the game for R. Hollis-Jefferson,,92,93
+4,6:41.0,,T. Lyles misses free throw 2 of 2,92,93
+4,6:39.0,Defensive rebound by J. Allen,,92,93
+4,6:30.0,C. LeVert makes 2-pt jump shot from 10 ft,,94,93
+4,6:13.0,,Personal foul by D. Russell (drawn by N. Jokić),94,93
+4,6:13.0,,N. Jokić misses free throw 1 of 2,94,93
+4,6:13.0,,Offensive rebound by Team,94,93
+4,6:13.0,,N. Jokić makes free throw 2 of 2,94,94
+4,5:59.0,Personal foul by G. Harris (drawn by J. Allen),,94,94
+4,5:59.0,J. Allen misses free throw 1 of 2,,94,94
+4,5:59.0,Offensive rebound by Team,,94,94
+4,5:59.0,J. Allen makes free throw 2 of 2,,95,94
+4,5:49.0,,N. Jokić misses 2-pt jump shot from 6 ft,95,94
+4,5:46.0,Defensive rebound by J. Harris,,95,94
+4,5:37.0,D. Russell makes 2-pt layup from 1 ft,,97,94
+4,5:37.0,Shooting foul by J. Murray (drawn by D. Russell),,97,94
+4,5:37.0,,Denver full timeout,97,94
+4,5:37.0,,P. Millsap enters the game for T. Lyles,97,94
+4,5:37.0,D. Russell misses free throw 1 of 1,,97,94
+4,5:37.0,,Defensive rebound by P. Millsap,97,94
+4,5:27.0,,Personal foul by J. Allen (drawn by N. Jokić),97,94
+4,5:27.0,,N. Jokić makes free throw 1 of 2,97,95
+4,5:27.0,,N. Jokić makes free throw 2 of 2,97,96
+4,5:13.0,Offensive foul by D. Russell (drawn by J. Murray),,97,96
+4,5:13.0,Turnover by D. Russell (offensive foul),,97,96
+4,5:05.0,,Personal foul by J. Harris (drawn by G. Harris),97,96
+4,5:05.0,,G. Harris makes free throw 1 of 2,97,97
+4,5:05.0,S. Dinwiddie enters the game for J. Harris,,97,97
+4,5:05.0,,G. Harris makes free throw 2 of 2,97,98
+4,4:51.0,D. Russell makes 2-pt jump shot from 10 ft,,99,98
+4,4:28.0,,N. Jokić misses 2-pt layup from 1 ft,99,98
+4,4:27.0,,Offensive rebound by N. Jokić,99,98
+4,4:18.0,,P. Millsap makes 2-pt layup from 2 ft,99,100
+4,4:03.0,Personal foul by M. Beasley (drawn by J. Allen),,99,100
+4,4:03.0,J. Allen misses free throw 1 of 2,,99,100
+4,4:03.0,Offensive rebound by Team,,99,100
+4,4:03.0,J. Allen misses free throw 2 of 2,,99,100
+4,4:01.0,,Defensive rebound by J. Murray,99,100
+4,3:46.0,,N. Jokić misses 2-pt jump shot from 15 ft,99,100
+4,3:45.0,,Offensive rebound by Team,99,100
+4,3:45.0,Loose ball foul by J. Dudley (drawn by P. Millsap),,99,100
+4,3:45.0,,P. Millsap makes free throw 1 of 2,99,101
+4,3:45.0,,P. Millsap makes free throw 2 of 2,99,102
+4,3:35.0,D. Russell makes 3-pt jump shot from 25 ft,,102,102
+4,3:19.0,,J. Murray misses 2-pt jump shot from 12 ft,102,102
+4,3:19.0,Defensive rebound by Team,,102,102
+4,3:19.0,,Loose ball foul by N. Jokić (drawn by C. LeVert),102,102
+4,3:19.0,C. LeVert misses free throw 1 of 2,,102,102
+4,3:19.0,Offensive rebound by Team,,102,102
+4,3:19.0,C. LeVert misses free throw 2 of 2,,102,102
+4,3:17.0,Offensive rebound by J. Allen,,102,102
+4,3:16.0,J. Allen makes 2-pt dunk from 1 ft,,104,102
+4,3:16.0,,Denver full timeout,104,102
+4,3:00.0,,Turnover by G. Harris (lost ball; steal by C. LeVert),104,102
+4,2:54.0,C. LeVert misses 2-pt layup from 2 ft,,104,102
+4,2:51.0,,Defensive rebound by M. Beasley,104,102
+4,2:47.0,,Personal foul by C. LeVert (drawn by J. Murray),104,102
+4,2:47.0,,J. Murray makes free throw 1 of 2,104,103
+4,2:47.0,,J. Murray makes free throw 2 of 2,104,104
+4,2:34.0,D. Russell misses 2-pt jump shot from 5 ft,,104,104
+4,2:32.0,Offensive rebound by J. Allen,,104,104
+4,2:30.0,J. Allen misses 2-pt hook shot from 2 ft,,104,104
+4,2:28.0,,Defensive rebound by N. Jokić,104,104
+4,2:19.0,,J. Murray misses 2-pt jump shot from 14 ft,104,104
+4,2:16.0,Defensive rebound by S. Dinwiddie,,104,104
+4,1:55.0,C. LeVert makes 2-pt jump shot from 8 ft,,106,104
+4,1:44.0,,J. Murray makes 2-pt jump shot from 18 ft,106,106
+4,1:28.0,J. Allen misses 2-pt layup from 1 ft (block by N. Jokić),,106,106
+4,1:25.0,,Defensive rebound by N. Jokić,106,106
+4,1:23.0,,M. Beasley makes 2-pt jump shot from 3 ft (assist by N. Jokić),106,108
+4,1:23.0,Brooklyn full timeout,,106,108
+4,1:13.0,J. Allen misses 2-pt hook shot from 3 ft,,106,108
+4,1:11.0,,Defensive rebound by P. Millsap,106,108
+4,1:03.0,,P. Millsap makes 2-pt dunk from 1 ft (assist by J. Murray),106,110
+4,0:56.0,Shooting foul by J. Murray (drawn by S. Dinwiddie),,106,110
+4,0:56.0,S. Dinwiddie makes free throw 1 of 2,,107,110
+4,0:56.0,S. Dinwiddie makes free throw 2 of 2,,108,110
+4,0:44.0,,J. Murray misses 2-pt jump shot from 16 ft,108,110
+4,0:39.0,Defensive rebound by J. Dudley,,108,110
+4,0:29.0,J. Allen makes 2-pt dunk from 2 ft (assist by C. LeVert),,110,110
+4,0:29.0,,Denver full timeout,110,110
+4,0:29.0,J. Harris enters the game for D. Russell,,110,110
+4,0:22.0,,Turnover by N. Jokić (traveling),110,110
+4,0:22.0,,M. Plumlee enters the game for N. Jokić,110,110
+4,0:22.0,Brooklyn full timeout,,110,110
+4,0:22.0,A. Crabbe enters the game for J. Allen,,110,110
+4,0:01.0,C. LeVert makes 2-pt jump shot from 12 ft,,112,110
+4,0:00.0,,Denver full timeout,112,110
+4,0:00.0,J. Allen enters the game for A. Crabbe,,112,110
+4,0:00.0,,N. Jokić enters the game for M. Plumlee,112,110
+4,0:00.0,,M. Beasley misses 3-pt jump shot from 28 ft,112,110
+4,0:00.0,,Offensive rebound by Team,112,110

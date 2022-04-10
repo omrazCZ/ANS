@@ -1,0 +1,503 @@
+QUARTER,TIME_REMAINING,UTAH_ACTION,SACRAMENTO_ACTION,UTAH_SCORE,SACRAMENTO_SCORE
+1,11:35.0,R. O'Neale misses 3-pt jump shot from 25 ft,,0,0
+1,11:32.0,,Defensive rebound by N. Bjelica,0,0
+1,11:25.0,,N. Bjelica makes 3-pt jump shot from 25 ft (assist by D. Fox),0,3
+1,11:16.0,Personal foul by B. Bogdanović (drawn by R. O'Neale),,0,3
+1,11:09.0,J. Crowder misses 3-pt jump shot from 24 ft,,0,3
+1,11:06.0,,Defensive rebound by B. Bogdanović,0,3
+1,11:01.0,,B. Bogdanović makes 2-pt jump shot from 14 ft,0,5
+1,10:48.0,Turnover by R. O'Neale (back court),,0,5
+1,10:36.0,,B. Bogdanović makes 2-pt jump shot from 18 ft,0,7
+1,10:08.0,Turnover by Team (shot clock),,0,7
+1,10:03.0,,Turnover by D. Fox (bad pass),0,7
+1,9:52.0,Turnover by R. Rubio (out of bounds lost ball),,0,7
+1,9:43.0,,D. Fox misses 2-pt jump shot from 8 ft,0,7
+1,9:40.0,,Offensive rebound by B. Hield,0,7
+1,9:40.0,,B. Hield misses 2-pt layup from 1 ft,0,7
+1,9:39.0,Defensive rebound by R. Rubio,,0,7
+1,9:35.0,J. Crowder makes 2-pt layup from 3 ft (assist by J. Ingles),,2,7
+1,9:23.0,,B. Bogdanović misses 2-pt jump shot from 11 ft,2,7
+1,9:19.0,Defensive rebound by R. Gobert,,2,7
+1,9:14.0,R. Rubio makes 2-pt jump shot from 17 ft (assist by J. Crowder),,4,7
+1,8:52.0,,N. Bjelica makes 2-pt hook shot from 8 ft,4,9
+1,8:29.0,R. Rubio makes 2-pt layup from 2 ft,,6,9
+1,8:13.0,,B. Hield makes 2-pt dunk from 1 ft (assist by B. Bogdanović),6,11
+1,7:48.0,R. Rubio makes 3-pt jump shot from 26 ft (assist by R. Gobert),,9,11
+1,7:32.0,,W. Cauley-Stein misses 2-pt jump shot from 10 ft,9,11
+1,7:29.0,Defensive rebound by R. Gobert,,9,11
+1,7:21.0,R. Rubio makes 2-pt layup from 2 ft,,11,11
+1,7:20.0,,Turnover by N. Bjelica (bad pass),11,11
+1,7:20.0,A. Burks enters the game for R. O'Neale,,11,11
+1,7:03.0,R. Rubio misses 3-pt jump shot from 22 ft,,11,11
+1,7:01.0,,Defensive rebound by W. Cauley-Stein,11,11
+1,6:56.0,,Personal foul by A. Burks (drawn by W. Cauley-Stein),11,11
+1,6:56.0,,Sacramento full timeout,11,11
+1,6:56.0,D. Exum enters the game for J. Crowder,,11,11
+1,6:56.0,D. Favors enters the game for J. Ingles,,11,11
+1,6:56.0,,M. Bagley enters the game for N. Bjelica,11,11
+1,6:56.0,,F. Mason enters the game for D. Fox,11,11
+1,6:43.0,,B. Hield makes 2-pt jump shot from 15 ft,11,13
+1,6:33.0,Personal foul by B. Hield (drawn by A. Burks),,11,13
+1,6:23.0,D. Exum makes 2-pt dunk from 1 ft (assist by R. Gobert),,13,13
+1,6:05.0,,Shooting foul by R. Gobert (drawn by B. Bogdanović),13,13
+1,6:05.0,,B. Bogdanović makes free throw 1 of 2,13,14
+1,6:05.0,,B. Bogdanović makes free throw 2 of 2,13,15
+1,5:49.0,A. Burks misses 3-pt jump shot from 25 ft,,13,15
+1,5:47.0,Offensive rebound by R. Gobert,,13,15
+1,5:46.0,R. Gobert misses 2-pt layup from 2 ft,,13,15
+1,5:46.0,Offensive rebound by D. Favors,,13,15
+1,5:46.0,D. Favors misses 2-pt layup at rim,,13,15
+1,5:46.0,Offensive rebound by R. Gobert,,13,15
+1,5:46.0,Shooting foul by W. Cauley-Stein (drawn by R. Gobert),,13,15
+1,5:46.0,R. Gobert makes free throw 1 of 2,,14,15
+1,5:46.0,R. Gobert misses free throw 2 of 2,,14,15
+1,5:41.0,,Defensive rebound by W. Cauley-Stein,14,15
+1,5:29.0,,W. Cauley-Stein makes 2-pt hook shot from 5 ft (assist by F. Mason),14,17
+1,5:17.0,R. Rubio makes 3-pt jump shot from 25 ft (assist by R. Gobert),,17,17
+1,5:04.0,,B. Bogdanović makes 2-pt layup from 3 ft,17,19
+1,4:46.0,R. Gobert makes 2-pt dunk from 1 ft (assist by D. Favors),,19,19
+1,4:27.0,,Turnover by W. Cauley-Stein (traveling),19,19
+1,4:27.0,J. Crowder enters the game for R. Gobert,,19,19
+1,4:27.0,,H. Giles enters the game for W. Cauley-Stein,19,19
+1,4:15.0,R. Rubio makes 2-pt layup from 2 ft,,21,19
+1,4:15.0,,Sacramento full timeout,21,19
+1,4:01.0,,B. Hield makes 3-pt jump shot from 25 ft (assist by F. Mason),21,22
+1,3:45.0,R. Rubio makes 2-pt jump shot from 14 ft,,23,22
+1,3:32.0,,Turnover by B. Hield (lost ball; steal by D. Favors),23,22
+1,3:27.0,Turnover by A. Burks (bad pass; steal by H. Giles),,23,22
+1,3:23.0,,B. Hield makes 3-pt jump shot from 24 ft (assist by B. Bogdanović),23,25
+1,3:21.0,Utah full timeout,,23,25
+1,3:21.0,J. Ingles enters the game for A. Burks,,23,25
+1,3:21.0,R. Neto enters the game for R. Rubio,,23,25
+1,3:21.0,,D. Fox enters the game for B. Bogdanović,23,25
+1,3:21.0,,J. Jackson enters the game for F. Mason,23,25
+1,2:58.0,J. Crowder misses 3-pt jump shot from 25 ft,,23,25
+1,2:56.0,,Defensive rebound by J. Jackson,23,25
+1,2:45.0,,H. Giles misses 2-pt hook shot from 8 ft,23,25
+1,2:43.0,Defensive rebound by J. Crowder,,23,25
+1,2:33.0,Turnover by D. Favors (bad pass; steal by D. Fox),,23,25
+1,2:30.0,,Turnover by H. Giles (bad pass; steal by J. Ingles),23,25
+1,2:26.0,J. Crowder makes 2-pt layup from 2 ft (assist by J. Ingles),,25,25
+1,2:26.0,Shooting foul by H. Giles (drawn by J. Crowder),,25,25
+1,2:26.0,J. Crowder makes free throw 1 of 1,,26,25
+1,2:10.0,,Personal foul by D. Favors (drawn by M. Bagley),26,25
+1,2:04.0,,H. Giles misses 2-pt dunk from 2 ft (block by D. Favors),26,25
+1,2:01.0,Defensive rebound by R. Neto,,26,25
+1,1:55.0,D. Exum makes 2-pt layup from 3 ft (assist by J. Crowder),,28,25
+1,1:41.0,,M. Bagley misses 3-pt jump shot from 25 ft,28,25
+1,1:36.0,,Offensive rebound by H. Giles,28,25
+1,1:36.0,,H. Giles misses 2-pt layup from 1 ft,28,25
+1,1:36.0,Defensive rebound by R. Neto,,28,25
+1,1:18.0,Turnover by R. Neto (bad pass; steal by H. Giles),,28,25
+1,1:01.0,,Personal foul by R. Neto (drawn by B. Hield),28,25
+1,1:01.0,R. O'Neale enters the game for D. Exum,,28,25
+1,1:01.0,,W. Cauley-Stein enters the game for H. Giles,28,25
+1,0:55.0,,W. Cauley-Stein misses 2-pt layup from 6 ft (block by D. Favors),28,25
+1,0:55.0,Defensive rebound by Team,,28,25
+1,0:55.0,D. Exum enters the game for R. Neto,,28,25
+1,0:39.0,J. Crowder makes 2-pt hook shot from 7 ft (assist by J. Ingles),,30,25
+1,0:31.0,,Shooting foul by R. O'Neale (drawn by M. Bagley),30,25
+1,0:31.0,,M. Bagley misses free throw 1 of 2,30,25
+1,0:31.0,,Offensive rebound by Team,30,25
+1,0:31.0,,M. Bagley makes free throw 2 of 2,30,26
+1,0:18.0,R. O'Neale misses 2-pt layup from 4 ft,,30,26
+1,0:15.0,Offensive rebound by R. O'Neale,,30,26
+1,0:11.0,D. Exum misses 2-pt layup from 2 ft,,30,26
+1,0:08.0,,Defensive rebound by W. Cauley-Stein,30,26
+1,0:03.0,,Turnover by D. Fox (lost ball; steal by D. Favors),30,26
+1,0:01.0,Turnover by J. Ingles (out of bounds lost ball),,30,26
+2,11:46.0,,D. Fox makes 2-pt layup from 2 ft,30,28
+2,11:37.0,D. Exum misses 2-pt layup from 4 ft,,30,28
+2,11:35.0,,Defensive rebound by M. Bagley,30,28
+2,11:32.0,,Personal foul by D. Exum (drawn by D. Fox),30,28
+2,11:26.0,,Turnover by B. Bogdanović (bad pass; steal by D. Exum),30,28
+2,11:17.0,J. Crowder makes 2-pt jump shot from 21 ft (assist by D. Exum),,32,28
+2,11:01.0,,B. Bogdanović misses 2-pt layup from 5 ft,32,28
+2,11:00.0,,Offensive rebound by B. Bogdanović,32,28
+2,11:00.0,,Shooting foul by J. Ingles (drawn by M. Bagley),32,28
+2,11:00.0,,M. Bagley misses free throw 1 of 2,32,28
+2,11:00.0,,Offensive rebound by Team,32,28
+2,11:00.0,,M. Bagley makes free throw 2 of 2,32,29
+2,10:43.0,Turnover by D. Favors (lost ball; steal by B. Bogdanović),,32,29
+2,10:41.0,,Personal foul by D. Exum (drawn by D. Fox),32,29
+2,10:41.0,A. Burks enters the game for J. Crowder,,32,29
+2,10:41.0,T. Sefolosha enters the game for D. Exum,,32,29
+2,10:41.0,,N. Bjelica enters the game for M. Bagley,32,29
+2,10:27.0,,D. Fox misses 2-pt jump shot from 11 ft,32,29
+2,10:24.0,Defensive rebound by D. Favors,,32,29
+2,10:13.0,Turnover by A. Burks (traveling),,32,29
+2,10:02.0,,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by D. Fox),32,32
+2,9:54.0,R. Neto misses 2-pt layup from 2 ft (block by D. Fox),,32,32
+2,9:50.0,Offensive rebound by D. Favors,,32,32
+2,9:48.0,A. Burks makes 2-pt layup from 2 ft (assist by D. Favors),,34,32
+2,9:36.0,,B. Bogdanović misses 3-pt jump shot from 27 ft,34,32
+2,9:34.0,Defensive rebound by D. Favors,,34,32
+2,9:26.0,J. Ingles makes 2-pt layup from 2 ft,,36,32
+2,9:16.0,,Turnover by N. Bjelica (traveling),36,32
+2,8:57.0,J. Ingles makes 2-pt layup from 2 ft,,38,32
+2,8:57.0,,Sacramento full timeout,38,32
+2,8:57.0,R. O'Neale enters the game for J. Ingles,,38,32
+2,8:57.0,R. Rubio enters the game for R. Neto,,38,32
+2,8:47.0,,N. Bjelica makes 2-pt layup from 3 ft (assist by W. Cauley-Stein),38,34
+2,8:26.0,R. O'Neale misses 3-pt jump shot from 22 ft,,38,34
+2,8:22.0,,Defensive rebound by J. Jackson,38,34
+2,8:07.0,,D. Fox makes 3-pt jump shot from 26 ft,38,37
+2,7:44.0,D. Favors misses 2-pt hook shot from 4 ft,,38,37
+2,7:42.0,Offensive rebound by D. Favors,,38,37
+2,7:39.0,A. Burks misses 3-pt jump shot from 23 ft,,38,37
+2,7:37.0,,Defensive rebound by N. Bjelica,38,37
+2,7:29.0,,N. Bjelica makes 2-pt layup from 2 ft,38,39
+2,7:29.0,,Shooting foul by T. Sefolosha (drawn by N. Bjelica),38,39
+2,7:29.0,R. Gobert enters the game for D. Favors,,38,39
+2,7:29.0,,Technical foul by N. Bjelica,38,39
+2,7:29.0,R. Rubio makes technical free throw,,39,39
+2,7:29.0,,N. Bjelica makes free throw 1 of 1,39,40
+2,7:12.0,R. O'Neale makes 2-pt dunk from 1 ft (assist by A. Burks),,41,40
+2,7:12.0,G. Allen enters the game for A. Burks,,41,40
+2,6:50.0,,D. Fox misses 3-pt jump shot from 23 ft,41,40
+2,6:44.0,Defensive rebound by R. Gobert,,41,40
+2,6:44.0,,B. Hield enters the game for J. Jackson,41,40
+2,6:25.0,R. Rubio makes 2-pt jump shot from 21 ft (assist by R. Gobert),,43,40
+2,6:15.0,,Personal foul by R. Rubio (drawn by B. Bogdanović),43,40
+2,6:15.0,,B. Bogdanović makes free throw 1 of 2,43,41
+2,6:15.0,,M. Bagley enters the game for N. Bjelica,43,41
+2,6:15.0,,B. Bogdanović makes free throw 2 of 2,43,42
+2,6:08.0,R. Rubio makes 2-pt layup from 2 ft,,45,42
+2,6:00.0,,Offensive foul by M. Bagley (drawn by T. Sefolosha),45,42
+2,6:00.0,,Turnover by M. Bagley (offensive foul),45,42
+2,6:00.0,J. Crowder enters the game for T. Sefolosha,,45,42
+2,6:00.0,,F. Mason enters the game for D. Fox,45,42
+2,5:49.0,R. Rubio misses 2-pt jump shot from 19 ft,,45,42
+2,5:46.0,,Defensive rebound by M. Bagley,45,42
+2,5:42.0,,B. Hield misses 3-pt jump shot from 26 ft,45,42
+2,5:37.0,Defensive rebound by R. Gobert,,45,42
+2,5:31.0,G. Allen misses 3-pt jump shot from 26 ft,,45,42
+2,5:31.0,,Defensive rebound by B. Bogdanović,45,42
+2,5:16.0,,W. Cauley-Stein misses 2-pt layup from 4 ft,45,42
+2,5:16.0,,Offensive rebound by Team,45,42
+2,5:16.0,Loose ball foul by J. Crowder (drawn by M. Bagley),,45,42
+2,5:16.0,,M. Bagley makes free throw 1 of 2,45,43
+2,5:16.0,,M. Bagley makes free throw 2 of 2,45,44
+2,5:03.0,J. Crowder makes 3-pt jump shot from 25 ft (assist by R. Rubio),,48,44
+2,4:45.0,,W. Cauley-Stein misses 2-pt hook shot from 9 ft,48,44
+2,4:42.0,Defensive rebound by R. Gobert,,48,44
+2,4:34.0,G. Allen makes 3-pt jump shot from 22 ft (assist by R. Rubio),,51,44
+2,4:23.0,,Turnover by B. Hield (bad pass; steal by R. Gobert),51,44
+2,4:19.0,R. O'Neale misses 2-pt layup from 2 ft,,51,44
+2,4:18.0,Offensive rebound by R. Gobert,,51,44
+2,4:18.0,R. Gobert makes 2-pt dunk from 2 ft,,53,44
+2,4:18.0,,Sacramento full timeout,53,44
+2,4:06.0,,B. Bogdanović makes 2-pt layup from 2 ft (assist by W. Cauley-Stein),53,46
+2,3:54.0,Personal foul by W. Cauley-Stein (drawn by R. Gobert),,53,46
+2,3:46.0,Shooting foul by B. Hield (drawn by G. Allen),,53,46
+2,3:46.0,G. Allen misses free throw 1 of 2,,53,46
+2,3:46.0,Offensive rebound by Team,,53,46
+2,3:46.0,J. Ingles enters the game for R. O'Neale,,53,46
+2,3:46.0,,N. Bjelica enters the game for W. Cauley-Stein,53,46
+2,3:46.0,G. Allen misses free throw 2 of 2,,53,46
+2,3:42.0,,Defensive rebound by M. Bagley,53,46
+2,3:26.0,,B. Bogdanović misses 3-pt jump shot from 23 ft,53,46
+2,3:23.0,Defensive rebound by J. Crowder,,53,46
+2,3:07.0,J. Crowder misses 3-pt jump shot from 26 ft,,53,46
+2,3:07.0,Offensive rebound by Team,,53,46
+2,3:07.0,,Loose ball foul by N. Bjelica (drawn by R. Gobert),53,46
+2,3:07.0,D. Exum enters the game for G. Allen,,53,46
+2,3:00.0,Turnover by R. Rubio (traveling),,53,46
+2,2:43.0,,B. Bogdanović misses 2-pt jump shot from 17 ft,53,46
+2,2:38.0,Defensive rebound by J. Crowder,,53,46
+2,2:24.0,D. Exum misses 2-pt layup from 2 ft,,53,46
+2,2:21.0,,Defensive rebound by N. Bjelica,53,46
+2,2:14.0,,Turnover by N. Bjelica (lost ball; steal by J. Ingles),53,46
+2,2:05.0,Offensive foul by R. Gobert (drawn by M. Bagley),,53,46
+2,2:05.0,Turnover by R. Gobert (offensive foul),,53,46
+2,1:49.0,,M. Bagley makes 2-pt layup from 7 ft,53,48
+2,1:37.0,R. Gobert makes 2-pt dunk from 5 ft (assist by R. Rubio),,55,48
+2,1:21.0,,F. Mason makes 2-pt jump shot from 6 ft,55,50
+2,1:15.0,R. Rubio makes 2-pt layup from 1 ft,,57,50
+2,1:00.0,,Turnover by B. Hield (out of bounds lost ball),57,50
+2,0:44.0,J. Crowder misses 2-pt jump shot from 10 ft (block by M. Bagley),,57,50
+2,0:42.0,,Defensive rebound by N. Bjelica,57,50
+2,0:39.0,,F. Mason misses 3-pt jump shot from 26 ft,57,50
+2,0:36.0,Defensive rebound by R. Rubio,,57,50
+2,0:36.0,Personal foul by B. Hield (drawn by R. Rubio),,57,50
+2,0:33.0,Personal foul by B. Bogdanović (drawn by J. Ingles),,57,50
+2,0:33.0,J. Ingles makes free throw 1 of 2,,58,50
+2,0:33.0,D. Favors enters the game for R. Gobert,,58,50
+2,0:33.0,J. Ingles makes free throw 2 of 2,,59,50
+2,0:27.0,,B. Hield misses 3-pt jump shot from 26 ft,59,50
+2,0:25.0,Defensive rebound by J. Crowder,,59,50
+2,0:02.0,J. Ingles misses 3-pt jump shot from 26 ft,,59,50
+2,0:02.0,,Defensive rebound by B. Hield,59,50
+3,11:44.0,,B. Bogdanović misses 2-pt jump shot from 22 ft,59,50
+3,11:41.0,Defensive rebound by R. Gobert,,59,50
+3,11:29.0,J. Crowder misses 3-pt jump shot from 25 ft,,59,50
+3,11:25.0,,Defensive rebound by W. Cauley-Stein,59,50
+3,11:22.0,,D. Fox misses 2-pt jump shot from 22 ft,59,50
+3,11:19.0,Defensive rebound by R. Rubio,,59,50
+3,11:15.0,J. Crowder misses 2-pt layup from 2 ft,,59,50
+3,11:15.0,Offensive rebound by R. Gobert,,59,50
+3,11:13.0,R. Gobert misses 2-pt layup from 1 ft,,59,50
+3,11:13.0,Offensive rebound by R. Gobert,,59,50
+3,11:13.0,Shooting foul by N. Bjelica (drawn by R. Gobert),,59,50
+3,11:13.0,R. Gobert misses free throw 1 of 2,,59,50
+3,11:13.0,Offensive rebound by Team,,59,50
+3,11:13.0,R. Gobert makes free throw 2 of 2,,60,50
+3,11:00.0,,B. Bogdanović misses 3-pt jump shot from 23 ft,60,50
+3,10:54.0,Defensive rebound by J. Ingles,,60,50
+3,10:49.0,R. Rubio misses 2-pt jump shot from 12 ft (block by W. Cauley-Stein),,60,50
+3,10:47.0,,Defensive rebound by D. Fox,60,50
+3,10:39.0,,Shooting foul by R. Rubio (drawn by D. Fox),60,50
+3,10:39.0,,D. Fox misses free throw 1 of 2,60,50
+3,10:39.0,,Offensive rebound by Team,60,50
+3,10:39.0,,D. Fox makes free throw 2 of 2,60,51
+3,10:22.0,J. Crowder makes 2-pt layup from 2 ft (assist by J. Ingles),,62,51
+3,10:13.0,,Shooting foul by J. Ingles (drawn by N. Bjelica),62,51
+3,10:13.0,,N. Bjelica makes free throw 1 of 2,62,52
+3,10:13.0,,N. Bjelica makes free throw 2 of 2,62,53
+3,9:58.0,Shooting foul by W. Cauley-Stein (drawn by R. Gobert),,62,53
+3,9:58.0,R. Gobert makes free throw 1 of 2,,63,53
+3,9:58.0,R. Gobert makes free throw 2 of 2,,64,53
+3,9:50.0,,Shooting foul by R. Gobert (drawn by W. Cauley-Stein),64,53
+3,9:50.0,,W. Cauley-Stein makes free throw 1 of 2,64,54
+3,9:50.0,,W. Cauley-Stein makes free throw 2 of 2,64,55
+3,9:43.0,Turnover by R. Rubio (bad pass; steal by N. Bjelica),,64,55
+3,9:38.0,,D. Fox makes 2-pt layup from 1 ft,64,57
+3,9:37.0,Utah full timeout,,64,57
+3,9:16.0,J. Crowder misses 3-pt jump shot from 25 ft,,64,57
+3,9:12.0,,Defensive rebound by D. Fox,64,57
+3,8:59.0,,D. Fox misses 2-pt jump shot from 10 ft,64,57
+3,8:56.0,Defensive rebound by R. Gobert,,64,57
+3,8:46.0,R. Gobert makes 2-pt dunk from 1 ft (assist by R. Rubio),,66,57
+3,8:37.0,,Personal foul by J. Ingles (drawn by D. Fox),66,57
+3,8:37.0,D. Exum enters the game for R. O'Neale,,66,57
+3,8:24.0,,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by B. Bogdanović),66,59
+3,8:09.0,Personal foul by B. Bogdanović (drawn by J. Ingles),,66,59
+3,8:01.0,R. Rubio misses 2-pt jump shot from 18 ft,,66,59
+3,8:01.0,,Defensive rebound by N. Bjelica,66,59
+3,7:55.0,,Personal foul by R. Rubio (drawn by D. Fox),66,59
+3,7:55.0,,D. Fox misses free throw 1 of 2,66,59
+3,7:55.0,,Offensive rebound by Team,66,59
+3,7:55.0,,D. Fox makes free throw 2 of 2,66,60
+3,7:55.0,D. Favors enters the game for J. Crowder,,66,60
+3,7:55.0,,M. Bagley enters the game for N. Bjelica,66,60
+3,7:55.0,,J. Jackson enters the game for B. Hield,66,60
+3,7:31.0,R. Gobert makes 2-pt dunk from 1 ft (assist by R. Rubio),,68,60
+3,7:21.0,,B. Bogdanović misses 2-pt layup from 5 ft (block by D. Exum),68,60
+3,7:17.0,Defensive rebound by R. Gobert,,68,60
+3,7:16.0,Turnover by R. Gobert (bad pass; steal by D. Fox),,68,60
+3,7:13.0,,Personal foul by R. Rubio (drawn by B. Bogdanović),68,60
+3,7:13.0,,B. Bogdanović makes free throw 1 of 2,68,61
+3,7:13.0,A. Burks enters the game for R. Rubio,,68,61
+3,7:13.0,,B. Bogdanović makes free throw 2 of 2,68,62
+3,7:02.0,J. Ingles misses 3-pt jump shot from 26 ft,,68,62
+3,6:58.0,Offensive rebound by R. Gobert,,68,62
+3,6:57.0,R. Gobert misses 2-pt layup from 2 ft,,68,62
+3,6:57.0,Offensive rebound by R. Gobert,,68,62
+3,6:53.0,R. Gobert makes 2-pt layup from 1 ft,,70,62
+3,6:40.0,,Turnover by B. Bogdanović (lost ball; steal by D. Exum),70,62
+3,6:35.0,R. Gobert makes 2-pt dunk from 1 ft (assist by J. Ingles),,72,62
+3,6:21.0,,D. Fox misses 2-pt jump shot from 15 ft,72,62
+3,6:18.0,Defensive rebound by A. Burks,,72,62
+3,5:56.0,A. Burks misses 3-pt jump shot from 26 ft,,72,62
+3,5:54.0,,Defensive rebound by M. Bagley,72,62
+3,5:47.0,,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by D. Fox),72,65
+3,5:43.0,Utah full timeout,,72,65
+3,5:43.0,R. Neto enters the game for J. Ingles,,72,65
+3,5:43.0,,H. Giles enters the game for W. Cauley-Stein,72,65
+3,5:30.0,D. Favors makes 2-pt jump shot from 16 ft (assist by R. Neto),,74,65
+3,5:10.0,,H. Giles misses 2-pt jump shot from 10 ft,74,65
+3,5:05.0,,Offensive rebound by H. Giles,74,65
+3,5:05.0,,H. Giles makes 2-pt layup at rim,74,67
+3,4:55.0,A. Burks makes 2-pt layup from 2 ft,,76,67
+3,4:46.0,,D. Fox makes 2-pt layup from 1 ft,76,69
+3,4:46.0,,Shooting foul by D. Favors (drawn by D. Fox),76,69
+3,4:46.0,,D. Fox misses free throw 1 of 1,76,69
+3,4:46.0,Defensive rebound by A. Burks,,76,69
+3,4:37.0,A. Burks makes 2-pt layup from 2 ft,,78,69
+3,4:37.0,Shooting foul by H. Giles (drawn by A. Burks),,78,69
+3,4:37.0,A. Burks makes free throw 1 of 1,,79,69
+3,4:26.0,,D. Fox makes 2-pt jump shot from 13 ft,79,71
+3,4:07.0,A. Burks makes 2-pt layup from 3 ft,,81,71
+3,3:56.0,,M. Bagley makes 2-pt layup from 3 ft (assist by H. Giles),81,73
+3,3:43.0,Turnover by R. Neto (bad pass; steal by H. Giles),,81,73
+3,3:40.0,,Shooting foul by D. Favors (drawn by M. Bagley),81,73
+3,3:40.0,,M. Bagley makes free throw 1 of 2,81,74
+3,3:40.0,R. O'Neale enters the game for D. Exum,,81,74
+3,3:40.0,,M. Bagley makes free throw 2 of 2,81,75
+3,3:25.0,Turnover by R. O'Neale (bad pass; steal by D. Fox),,81,75
+3,3:19.0,,H. Giles makes 2-pt layup from 2 ft,81,77
+3,3:03.0,A. Burks misses 2-pt jump shot from 10 ft,,81,77
+3,2:59.0,,Defensive rebound by M. Bagley,81,77
+3,2:51.0,,H. Giles misses 3-pt jump shot from 24 ft,81,77
+3,2:47.0,Defensive rebound by A. Burks,,81,77
+3,2:31.0,Shooting foul by J. Jackson (drawn by R. Neto),,81,77
+3,2:31.0,R. Neto makes free throw 1 of 2,,82,77
+3,2:31.0,G. Allen enters the game for A. Burks,,82,77
+3,2:31.0,J. Ingles enters the game for R. Gobert,,82,77
+3,2:31.0,T. Sefolosha enters the game for R. O'Neale,,82,77
+3,2:31.0,R. Neto makes free throw 2 of 2,,83,77
+3,2:23.0,,Turnover by D. Fox (bad pass; steal by D. Favors),83,77
+3,2:17.0,J. Ingles makes 3-pt jump shot from 25 ft (assist by R. Neto),,86,77
+3,1:57.0,,M. Bagley misses 2-pt layup from 4 ft,86,77
+3,1:54.0,Defensive rebound by T. Sefolosha,,86,77
+3,1:52.0,Turnover by G. Allen (traveling),,86,77
+3,1:52.0,,B. Hield enters the game for B. Bogdanović,86,77
+3,1:36.0,,H. Giles misses 2-pt hook shot from 9 ft,86,77
+3,1:34.0,,Offensive rebound by H. Giles,86,77
+3,1:31.0,,Turnover by H. Giles (lost ball; steal by T. Sefolosha),86,77
+3,1:26.0,G. Allen makes 3-pt jump shot from 23 ft (assist by R. Neto),,89,77
+3,1:14.0,,M. Bagley makes 2-pt layup from 2 ft (assist by H. Giles),89,79
+3,1:01.0,R. Neto misses 2-pt layup from 3 ft (block by H. Giles),,89,79
+3,1:01.0,Offensive rebound by Team,,89,79
+3,0:57.0,D. Favors makes 2-pt jump shot from 19 ft (assist by J. Ingles),,91,79
+3,0:46.0,,J. Jackson misses 3-pt jump shot from 23 ft,91,79
+3,0:43.0,Defensive rebound by T. Sefolosha,,91,79
+3,0:35.0,Turnover by D. Favors (traveling),,91,79
+3,0:35.0,,F. Mason enters the game for D. Fox,91,79
+3,0:31.0,,Personal foul by T. Sefolosha (drawn by F. Mason),91,79
+3,0:31.0,,F. Mason misses free throw 1 of 2,91,79
+3,0:31.0,,Offensive rebound by Team,91,79
+3,0:31.0,,F. Mason makes free throw 2 of 2,91,80
+3,0:11.0,D. Favors misses 2-pt layup from 5 ft (block by M. Bagley),,91,80
+3,0:11.0,,Defensive rebound by H. Giles,91,80
+3,0:04.0,,M. Bagley misses 2-pt layup from 3 ft (block by D. Favors),91,80
+3,0:03.0,Defensive rebound by Team,,91,80
+3,0:00.0,R. Neto misses 2-pt jump shot from 20 ft,,91,80
+3,0:00.0,Offensive rebound by Team,,91,80
+4,11:48.0,D. Favors makes 2-pt dunk from 1 ft (assist by R. Neto),,93,80
+4,11:48.0,Shooting foul by H. Giles (drawn by D. Favors),,93,80
+4,11:48.0,D. Favors makes free throw 1 of 1,,94,80
+4,11:42.0,,Turnover by B. Hield (bad pass; steal by R. Neto),94,80
+4,11:39.0,J. Ingles makes 3-pt jump shot from 25 ft (assist by R. Neto),,97,80
+4,11:26.0,,B. Hield makes 2-pt layup from 1 ft (assist by H. Giles),97,82
+4,11:11.0,G. Allen misses 3-pt jump shot from 23 ft,,97,82
+4,11:07.0,,Defensive rebound by J. Jackson,97,82
+4,11:07.0,,Personal foul by J. Ingles (drawn by F. Mason),97,82
+4,10:53.0,,B. Hield misses 3-pt jump shot from 23 ft,97,82
+4,10:48.0,Defensive rebound by D. Favors,,97,82
+4,10:42.0,G. Allen misses 3-pt jump shot from 23 ft,,97,82
+4,10:38.0,,Defensive rebound by H. Giles,97,82
+4,10:35.0,,Shooting foul by R. Neto (drawn by J. Jackson),97,82
+4,10:35.0,,J. Jackson misses free throw 1 of 2,97,82
+4,10:35.0,,Offensive rebound by Team,97,82
+4,10:35.0,,J. Jackson makes free throw 2 of 2,97,83
+4,10:19.0,D. Favors makes 2-pt hook shot from 7 ft (assist by G. Allen),,99,83
+4,10:13.0,,Personal foul by T. Sefolosha (drawn by H. Giles),99,83
+4,10:10.0,,Turnover by B. Hield (bad pass; steal by T. Sefolosha),99,83
+4,10:06.0,Shooting foul by M. Bagley (drawn by D. Favors),,99,83
+4,10:06.0,D. Favors makes free throw 1 of 2,,100,83
+4,10:06.0,D. Favors misses free throw 2 of 2,,100,83
+4,10:04.0,,Defensive rebound by H. Giles,100,83
+4,9:54.0,,M. Bagley misses 2-pt layup from 4 ft,100,83
+4,9:48.0,,Offensive rebound by H. Giles,100,83
+4,9:48.0,,H. Giles makes 2-pt dunk at rim,100,85
+4,9:37.0,J. Ingles makes 2-pt jump shot from 6 ft,,102,85
+4,9:22.0,,J. Jackson makes 2-pt layup from 2 ft (assist by H. Giles),102,87
+4,9:03.0,T. Sefolosha misses 3-pt jump shot from 26 ft,,102,87
+4,9:03.0,Offensive rebound by D. Favors,,102,87
+4,9:01.0,Shooting foul by M. Bagley (drawn by D. Favors),,102,87
+4,9:01.0,D. Favors misses free throw 1 of 2,,102,87
+4,9:01.0,Offensive rebound by Team,,102,87
+4,9:01.0,A. Burks enters the game for G. Allen,,102,87
+4,9:01.0,D. Exum enters the game for J. Ingles,,102,87
+4,9:01.0,R. Rubio enters the game for R. Neto,,102,87
+4,9:01.0,D. Favors makes free throw 2 of 2,,103,87
+4,8:50.0,,M. Bagley misses 3-pt jump shot from 23 ft,103,87
+4,8:44.0,Defensive rebound by T. Sefolosha,,103,87
+4,8:33.0,R. Rubio misses 2-pt jump shot from 19 ft,,103,87
+4,8:29.0,,Defensive rebound by H. Giles,103,87
+4,8:23.0,,M. Bagley makes 2-pt jump shot from 6 ft,103,89
+4,8:03.0,A. Burks makes 2-pt layup from 2 ft,,105,89
+4,7:50.0,,M. Bagley misses 3-pt jump shot from 26 ft,105,89
+4,7:47.0,Defensive rebound by D. Exum,,105,89
+4,7:44.0,Shooting foul by H. Giles (drawn by T. Sefolosha),,105,89
+4,7:44.0,T. Sefolosha makes free throw 1 of 2,,106,89
+4,7:44.0,R. Gobert enters the game for D. Favors,,106,89
+4,7:44.0,,B. Bogdanović enters the game for J. Jackson,106,89
+4,7:44.0,T. Sefolosha makes free throw 2 of 2,,107,89
+4,7:35.0,,F. Mason misses 2-pt layup from 2 ft,107,89
+4,7:31.0,Defensive rebound by R. Rubio,,107,89
+4,7:28.0,T. Sefolosha misses 3-pt jump shot from 25 ft,,107,89
+4,7:22.0,,Defensive rebound by B. Hield,107,89
+4,7:20.0,,H. Giles makes 2-pt dunk from 1 ft (assist by B. Hield),107,91
+4,7:19.0,Utah full timeout,,107,91
+4,7:19.0,J. Crowder enters the game for T. Sefolosha,,107,91
+4,7:00.0,R. Gobert misses 2-pt layup from 5 ft (block by H. Giles),,107,91
+4,7:00.0,Offensive rebound by Team,,107,91
+4,7:00.0,Away from play foul by B. Hield (drawn by R. Rubio),,107,91
+4,7:00.0,R. Rubio misses free throw 1 of 1,,107,91
+4,7:00.0,Offensive rebound by Team,,107,91
+4,6:55.0,A. Burks makes 3-pt jump shot from 25 ft,,110,91
+4,6:43.0,,Personal foul by D. Exum (drawn by B. Bogdanović),110,91
+4,6:34.0,,H. Giles misses 2-pt jump shot from 9 ft,110,91
+4,6:30.0,Defensive rebound by R. Rubio,,110,91
+4,6:21.0,Turnover by A. Burks (bad pass; steal by H. Giles),,110,91
+4,6:02.0,,M. Bagley makes 2-pt dunk from 2 ft (assist by H. Giles),110,93
+4,5:47.0,R. Rubio makes 2-pt layup from 4 ft,,112,93
+4,5:35.0,,H. Giles misses 2-pt jump shot from 8 ft,112,93
+4,5:32.0,Defensive rebound by R. Rubio,,112,93
+4,5:22.0,A. Burks misses 3-pt jump shot from 27 ft,,112,93
+4,5:19.0,,Defensive rebound by B. Hield,112,93
+4,5:14.0,,B. Hield misses 2-pt jump shot from 16 ft,112,93
+4,5:11.0,Defensive rebound by R. Rubio,,112,93
+4,5:11.0,Personal foul by B. Hield (drawn by R. Rubio),,112,93
+4,5:11.0,R. Rubio makes free throw 1 of 2,,113,93
+4,5:11.0,J. Ingles enters the game for D. Exum,,113,93
+4,5:11.0,,S. Labissière enters the game for H. Giles,113,93
+4,5:11.0,,B. McLemore enters the game for B. Hield,113,93
+4,5:11.0,R. Rubio makes free throw 2 of 2,,114,93
+4,4:54.0,,F. Mason misses 2-pt jump shot from 11 ft,114,93
+4,4:51.0,Defensive rebound by J. Crowder,,114,93
+4,4:40.0,Personal foul by S. Labissière (drawn by J. Ingles),,114,93
+4,4:40.0,J. Ingles makes free throw 1 of 2,,115,93
+4,4:40.0,R. Neto enters the game for R. Rubio,,115,93
+4,4:40.0,,Y. Ferrell enters the game for B. Bogdanović,115,93
+4,4:40.0,,T. Williams enters the game for F. Mason,115,93
+4,4:40.0,J. Ingles makes free throw 2 of 2,,116,93
+4,4:22.0,,T. Williams misses 2-pt layup from 1 ft,116,93
+4,4:18.0,,Offensive rebound by M. Bagley,116,93
+4,4:18.0,,M. Bagley makes 2-pt layup at rim,116,95
+4,4:05.0,J. Ingles makes 2-pt layup from 1 ft (assist by R. Gobert),,118,95
+4,3:55.0,,Def 3 sec tech foul by Team,118,95
+4,3:55.0,,S. Labissière misses technical free throw,118,95
+4,3:55.0,,Offensive rebound by Team,118,95
+4,3:55.0,G. Allen enters the game for J. Ingles,,118,95
+4,3:55.0,,H. Giles enters the game for M. Bagley,118,95
+4,3:47.0,,S. Labissière makes 2-pt jump shot from 14 ft (assist by Y. Ferrell),118,97
+4,3:32.0,Turnover by J. Crowder (lost ball; steal by T. Williams),,118,97
+4,3:27.0,,T. Williams makes 2-pt layup from 2 ft,118,99
+4,3:14.0,R. Neto makes 2-pt layup from 2 ft,,120,99
+4,3:14.0,,Violation by Team (def goaltending),120,99
+4,3:06.0,,H. Giles misses 2-pt layup from 2 ft (block by R. Gobert),120,99
+4,3:03.0,Defensive rebound by R. Neto,,120,99
+4,2:57.0,Personal foul by S. Labissière (drawn by R. Neto),,120,99
+4,2:57.0,,Sacramento full timeout,120,99
+4,2:57.0,G. Niang enters the game for J. Crowder,,120,99
+4,2:57.0,E. Udoh enters the game for R. Gobert,,120,99
+4,2:57.0,R. Neto makes free throw 1 of 2,,121,99
+4,2:57.0,R. Neto makes free throw 2 of 2,,122,99
+4,2:47.0,,B. McLemore misses 2-pt jump shot from 22 ft,122,99
+4,2:43.0,Defensive rebound by A. Burks,,122,99
+4,2:33.0,R. Neto makes 3-pt jump shot from 24 ft (assist by A. Burks),,125,99
+4,2:20.0,,H. Giles makes 2-pt layup from 2 ft (assist by Y. Ferrell),125,101
+4,2:06.0,Shooting foul by S. Labissière (drawn by G. Allen),,125,101
+4,2:06.0,G. Allen makes free throw 1 of 2,,126,101
+4,2:06.0,G. Allen makes free throw 2 of 2,,127,101
+4,1:56.0,,B. McLemore misses 3-pt jump shot from 28 ft,127,101
+4,1:51.0,Defensive rebound by G. Niang,,127,101
+4,1:43.0,G. Niang makes 2-pt layup from 2 ft,,129,101
+4,1:32.0,,T. Williams makes 3-pt jump shot from 24 ft (assist by B. McLemore),129,104
+4,1:17.0,R. Neto misses 2-pt layup from 5 ft (block by T. Williams),,129,104
+4,1:13.0,,Defensive rebound by S. Labissière,129,104
+4,1:13.0,,Shooting foul by G. Allen (drawn by Y. Ferrell),129,104
+4,1:13.0,,Y. Ferrell makes free throw 1 of 2,129,105
+4,1:13.0,,Y. Ferrell makes free throw 2 of 2,129,106
+4,1:02.0,Personal foul by B. McLemore (drawn by G. Allen),,129,106
+4,1:02.0,G. Allen misses free throw 1 of 2,,129,106
+4,1:02.0,Offensive rebound by Team,,129,106
+4,1:02.0,G. Allen makes free throw 2 of 2,,130,106
+4,0:48.0,,T. Williams makes 3-pt jump shot from 25 ft (assist by H. Giles),130,109
+4,0:35.0,A. Burks misses 3-pt jump shot from 26 ft,,130,109
+4,0:29.0,Offensive rebound by G. Allen,,130,109
+4,0:27.0,G. Niang makes 3-pt jump shot from 23 ft (assist by A. Burks),,133,109
+4,0:16.0,,Y. Ferrell makes 3-pt jump shot from 26 ft,133,112

@@ -1,0 +1,469 @@
+QUARTER,TIME_REMAINING,MEMPHIS_ACTION,WASHINGTON_ACTION,MEMPHIS_SCORE,WASHINGTON_SCORE
+1,11:46.0,,T. Ariza makes 2-pt layup from 2 ft,0,2
+1,11:28.0,A. Bradley makes 2-pt jump shot from 21 ft (assist by M. Conley),,2,2
+1,11:13.0,,B. Portis makes 3-pt jump shot from 26 ft (assist by B. Beal),2,5
+1,11:00.0,J. Valančiūnas makes 2-pt dunk at rim (assist by A. Bradley),,4,5
+1,10:46.0,,Turnover by J. Green (lost ball; steal by J. Holiday),4,5
+1,10:39.0,J. Holiday makes 2-pt layup from 1 ft,,6,5
+1,10:26.0,,Shooting foul by B. Caboclo (drawn by B. Portis),6,5
+1,10:26.0,,B. Portis misses free throw 1 of 2,6,5
+1,10:26.0,,Offensive rebound by Team,6,5
+1,10:26.0,,B. Portis makes free throw 2 of 2,6,6
+1,10:07.0,B. Caboclo makes 3-pt jump shot from 26 ft (assist by A. Bradley),,9,6
+1,9:55.0,,B. Beal makes 3-pt jump shot from 27 ft (assist by T. Satoranský),9,9
+1,9:45.0,M. Conley misses 2-pt jump shot from 13 ft,,9,9
+1,9:41.0,,Defensive rebound by B. Portis,9,9
+1,9:39.0,,Turnover by B. Portis (lost ball; steal by B. Caboclo),9,9
+1,9:32.0,J. Holiday makes 3-pt jump shot from 27 ft (assist by A. Bradley),,12,9
+1,9:21.0,,B. Portis misses 2-pt layup from 18 ft,12,9
+1,9:21.0,Defensive rebound by B. Caboclo,,12,9
+1,9:13.0,Turnover by B. Caboclo (bad pass; steal by B. Beal),,12,9
+1,9:11.0,,B. Beal makes 3-pt jump shot from 26 ft,12,12
+1,9:11.0,Memphis full timeout,,12,12
+1,8:49.0,J. Valančiūnas misses 2-pt jump shot from 14 ft (block by B. Portis),,12,12
+1,8:46.0,,Defensive rebound by T. Satoranský,12,12
+1,8:44.0,,B. Portis misses 2-pt layup from 2 ft,12,12
+1,8:37.0,Defensive rebound by B. Caboclo,,12,12
+1,8:35.0,Turnover by A. Bradley (lost ball; steal by B. Portis),,12,12
+1,8:31.0,,Shooting foul by B. Caboclo (drawn by T. Ariza),12,12
+1,8:31.0,,T. Ariza makes free throw 1 of 2,12,13
+1,8:31.0,C. Miles enters the game for B. Caboclo,,12,13
+1,8:31.0,,T. Ariza misses free throw 2 of 2,12,13
+1,8:27.0,Defensive rebound by A. Bradley,,12,13
+1,8:09.0,J. Valančiūnas makes 2-pt dunk from 1 ft (assist by J. Holiday),,14,13
+1,8:02.0,,Turnover by T. Satoranský (lost ball; steal by C. Miles),14,13
+1,7:48.0,A. Bradley makes 2-pt jump shot from 17 ft (assist by J. Valančiūnas),,16,13
+1,7:30.0,,Turnover by B. Portis (traveling),16,13
+1,7:30.0,,Violation by Team (delay of game),16,13
+1,7:09.0,J. Valančiūnas makes 2-pt hook shot from 1 ft,,18,13
+1,6:54.0,,T. Satoranský misses 2-pt layup from 2 ft,18,13
+1,6:50.0,Defensive rebound by C. Miles,,18,13
+1,6:47.0,M. Conley makes 3-pt jump shot from 26 ft,,21,13
+1,6:45.0,,Washington full timeout,21,13
+1,6:30.0,,Shooting foul by A. Bradley (drawn by B. Beal),21,13
+1,6:30.0,,B. Beal makes free throw 1 of 2,21,14
+1,6:30.0,,B. Beal makes free throw 2 of 2,21,15
+1,6:14.0,J. Holiday misses 2-pt layup from 4 ft (block by T. Ariza),,21,15
+1,6:09.0,Offensive rebound by J. Holiday,,21,15
+1,6:06.0,A. Bradley misses 3-pt jump shot from 24 ft,,21,15
+1,6:06.0,,Defensive rebound by B. Beal,21,15
+1,5:59.0,,T. Ariza misses 3-pt jump shot from 24 ft,21,15
+1,5:59.0,,Offensive rebound by Team,21,15
+1,5:59.0,,Personal foul by M. Conley (drawn by J. Green),21,15
+1,5:53.0,,T. Satoranský misses 2-pt jump shot from 12 ft,21,15
+1,5:49.0,Defensive rebound by J. Valančiūnas,,21,15
+1,5:42.0,Personal foul by J. Green (drawn by J. Valančiūnas),,21,15
+1,5:27.0,J. Valančiūnas misses 2-pt jump shot from 14 ft,,21,15
+1,5:27.0,Offensive rebound by Team,,21,15
+1,5:27.0,Turnover by Team (shot clock),,21,15
+1,5:17.0,,B. Portis makes 2-pt jump shot from 20 ft (assist by T. Ariza),21,17
+1,5:05.0,M. Conley makes 2-pt layup from 7 ft,,23,17
+1,5:05.0,Shooting foul by B. Portis (drawn by M. Conley),,23,17
+1,5:05.0,J. Noah enters the game for J. Valančiūnas,,23,17
+1,5:05.0,,T. Brown enters the game for T. Satoranský,23,17
+1,5:05.0,M. Conley makes free throw 1 of 1,,24,17
+1,4:53.0,,J. Green makes 3-pt jump shot from 26 ft (assist by B. Beal),24,20
+1,4:44.0,Shooting foul by T. Brown (drawn by M. Conley),,24,20
+1,4:44.0,M. Conley misses free throw 1 of 2,,24,20
+1,4:44.0,Offensive rebound by Team,,24,20
+1,4:44.0,C. Parsons enters the game for J. Holiday,,24,20
+1,4:44.0,,J. Parker enters the game for B. Portis,24,20
+1,4:44.0,M. Conley misses free throw 2 of 2,,24,20
+1,4:41.0,,Defensive rebound by T. Ariza,24,20
+1,4:33.0,,B. Beal misses 2-pt jump shot from 19 ft,24,20
+1,4:30.0,Defensive rebound by J. Noah,,24,20
+1,4:15.0,C. Miles misses 3-pt jump shot from 28 ft,,24,20
+1,4:07.0,,Defensive rebound by T. Ariza,24,20
+1,4:04.0,,T. Brown misses 2-pt jump shot from 9 ft,24,20
+1,4:04.0,Defensive rebound by J. Noah,,24,20
+1,3:58.0,M. Conley makes 3-pt jump shot from 23 ft (assist by C. Parsons),,27,20
+1,3:39.0,,Def 3 sec tech foul by Team,27,20
+1,3:39.0,,B. Beal misses technical free throw,27,20
+1,3:39.0,,Offensive rebound by Team,27,20
+1,3:39.0,D. Wright enters the game for M. Conley,,27,20
+1,3:32.0,,B. Beal makes 2-pt layup from 1 ft (assist by J. Parker),27,22
+1,3:22.0,C. Miles misses 3-pt jump shot from 27 ft,,27,22
+1,3:17.0,,Defensive rebound by J. Parker,27,22
+1,3:07.0,,J. Green misses 3-pt jump shot from 24 ft,27,22
+1,3:03.0,Defensive rebound by J. Noah,,27,22
+1,2:53.0,C. Parsons makes 3-pt jump shot from 27 ft (assist by A. Bradley),,30,22
+1,2:38.0,,B. Beal makes 3-pt jump shot from 24 ft,30,25
+1,2:14.0,A. Bradley makes 3-pt jump shot from 24 ft,,33,25
+1,2:03.0,,B. Beal makes 3-pt jump shot from 25 ft,33,28
+1,1:43.0,A. Bradley makes 2-pt jump shot from 18 ft,,35,28
+1,1:34.0,,T. Ariza misses 3-pt jump shot from 26 ft,35,28
+1,1:31.0,Defensive rebound by C. Parsons,,35,28
+1,1:26.0,C. Parsons misses 3-pt jump shot from 26 ft,,35,28
+1,1:22.0,,Defensive rebound by B. Beal,35,28
+1,1:22.0,,Shooting foul by C. Parsons (drawn by J. Parker),35,28
+1,1:22.0,,J. Parker makes free throw 1 of 2,35,29
+1,1:22.0,,C. Randle enters the game for T. Ariza,35,29
+1,1:22.0,,J. Parker makes free throw 2 of 2,35,30
+1,1:11.0,A. Bradley misses 3-pt jump shot from 26 ft,,35,30
+1,1:05.0,,Defensive rebound by J. Parker,35,30
+1,1:02.0,,Turnover by J. Parker (bad pass; steal by C. Parsons),35,30
+1,0:50.0,C. Miles misses 2-pt layup from 8 ft,,35,30
+1,0:46.0,,Defensive rebound by T. Brown,35,30
+1,0:42.0,,J. Parker makes 2-pt dunk from 1 ft (assist by T. Brown),35,32
+1,0:32.0,J. Noah makes 2-pt dunk at rim (assist by A. Bradley),,37,32
+1,0:23.0,,J. Parker makes 3-pt jump shot from 26 ft (assist by B. Beal),37,35
+1,0:03.0,A. Bradley misses 3-pt jump shot from 23 ft,,37,35
+1,0:03.0,,Defensive rebound by J. Parker,37,35
+2,11:49.0,D. Wright makes 2-pt layup at rim,,39,35
+2,11:44.0,,Turnover by J. Parker (bad pass; steal by D. Wright),39,35
+2,11:40.0,D. Wright makes 2-pt dunk from 1 ft,,41,35
+2,11:31.0,,Personal foul by C. Parsons (drawn by T. Brown),41,35
+2,11:25.0,,Shooting foul by D. Wright (drawn by C. Randle),41,35
+2,11:25.0,,C. Randle makes free throw 1 of 2,41,36
+2,11:25.0,,C. Randle makes free throw 2 of 2,41,37
+2,11:06.0,C. Miles misses 2-pt jump shot from 18 ft,,41,37
+2,11:02.0,Offensive rebound by C. Parsons,,41,37
+2,10:59.0,T. Dorsey makes 3-pt jump shot from 24 ft (assist by D. Wright),,44,37
+2,10:47.0,,J. Parker misses 2-pt jump shot from 18 ft,44,37
+2,10:43.0,Defensive rebound by D. Wright,,44,37
+2,10:34.0,J. Noah misses 2-pt jump shot from 18 ft,,44,37
+2,10:29.0,,Defensive rebound by T. Bryant,44,37
+2,10:23.0,,J. Parker makes 2-pt layup from 1 ft (assist by T. Satoranský),44,39
+2,10:23.0,,Shooting foul by J. Noah (drawn by J. Parker),44,39
+2,10:23.0,I. Rabb enters the game for C. Miles,,44,39
+2,10:23.0,,J. Parker misses free throw 1 of 1,44,39
+2,10:20.0,Defensive rebound by I. Rabb,,44,39
+2,10:00.0,C. Parsons makes 3-pt jump shot from 26 ft (assist by D. Wright),,47,39
+2,9:44.0,,C. Randle misses 3-pt jump shot from 24 ft,47,39
+2,9:39.0,Defensive rebound by C. Parsons,,47,39
+2,9:31.0,C. Parsons makes 2-pt layup from 6 ft (assist by J. Noah),,49,39
+2,9:31.0,Shooting foul by C. Randle (drawn by C. Parsons),,49,39
+2,9:31.0,C. Parsons makes free throw 1 of 1,,50,39
+2,9:11.0,,T. Brown makes 2-pt jump shot from 21 ft,50,41
+2,8:54.0,Personal foul by C. Randle (drawn by C. Parsons),,50,41
+2,8:41.0,Turnover by Team (shot clock),,50,41
+2,8:34.0,,C. Randle makes 2-pt layup from 1 ft (assist by T. Satoranský),50,43
+2,8:25.0,D. Wright misses 2-pt layup from 5 ft,,50,43
+2,8:25.0,,Defensive rebound by T. Bryant,50,43
+2,8:18.0,,J. Parker makes 2-pt dunk at rim,50,45
+2,7:55.0,C. Parsons makes 2-pt jump shot from 12 ft (assist by D. Wright),,52,45
+2,7:44.0,,T. Bryant misses 3-pt jump shot from 26 ft,52,45
+2,7:40.0,Defensive rebound by C. Parsons,,52,45
+2,7:28.0,T. Dorsey misses 2-pt jump shot from 19 ft,,52,45
+2,7:24.0,,Defensive rebound by T. Bryant,52,45
+2,7:10.0,,T. Brown misses 2-pt jump shot from 18 ft,52,45
+2,7:05.0,Defensive rebound by T. Dorsey,,52,45
+2,6:59.0,I. Rabb makes 2-pt layup from 1 ft (assist by C. Parsons),,54,45
+2,6:59.0,,Washington full timeout,54,45
+2,6:59.0,J. Valančiūnas enters the game for J. Noah,,54,45
+2,6:59.0,,B. Beal enters the game for T. Brown,54,45
+2,6:59.0,,J. Green enters the game for T. Bryant,54,45
+2,6:59.0,,B. Portis enters the game for C. Randle,54,45
+2,6:40.0,,J. Green makes 2-pt jump shot from 19 ft,54,47
+2,6:26.0,C. Parsons misses 3-pt jump shot from 27 ft,,54,47
+2,6:17.0,,Defensive rebound by J. Parker,54,47
+2,6:16.0,,T. Satoranský makes 2-pt layup from 1 ft (assist by B. Beal),54,49
+2,6:16.0,,Shooting foul by T. Dorsey (drawn by T. Satoranský),54,49
+2,6:16.0,A. Bradley enters the game for T. Dorsey,,54,49
+2,6:16.0,M. Conley enters the game for C. Parsons,,54,49
+2,6:16.0,J. Holiday enters the game for D. Wright,,54,49
+2,6:16.0,,T. Satoranský makes free throw 1 of 1,54,50
+2,5:53.0,J. Valančiūnas misses 2-pt jump shot from 12 ft,,54,50
+2,5:49.0,,Defensive rebound by B. Beal,54,50
+2,5:45.0,,B. Beal makes 3-pt jump shot from 26 ft (assist by J. Green),54,53
+2,5:30.0,M. Conley makes 2-pt layup from 3 ft,,56,53
+2,5:30.0,Shooting foul by B. Beal (drawn by M. Conley),,56,53
+2,5:30.0,M. Conley makes free throw 1 of 1,,57,53
+2,5:18.0,,T. Satoranský misses 2-pt layup from 8 ft,57,53
+2,5:13.0,,Offensive rebound by T. Satoranský,57,53
+2,5:12.0,,T. Satoranský makes 2-pt layup from 2 ft,57,55
+2,5:08.0,M. Conley misses 3-pt jump shot from 25 ft,,57,55
+2,5:02.0,,Defensive rebound by J. Parker,57,55
+2,5:00.0,,Turnover by J. Parker (bad pass),57,55
+2,4:42.0,J. Valančiūnas makes 2-pt dunk from 1 ft (assist by M. Conley),,59,55
+2,4:24.0,,J. Green makes 3-pt jump shot from 24 ft (assist by T. Satoranský),59,58
+2,4:11.0,A. Bradley misses 3-pt jump shot from 26 ft,,59,58
+2,4:08.0,,Defensive rebound by J. Parker,59,58
+2,4:08.0,J. Noah enters the game for I. Rabb,,59,58
+2,4:08.0,,T. Ariza enters the game for J. Parker,59,58
+2,3:52.0,,J. Green misses 3-pt jump shot from 26 ft,59,58
+2,3:49.0,,Offensive rebound by B. Portis,59,58
+2,3:39.0,,T. Ariza misses 2-pt layup from 2 ft,59,58
+2,3:36.0,Defensive rebound by J. Noah,,59,58
+2,3:28.0,Turnover by A. Bradley (bad pass; steal by T. Satoranský),,59,58
+2,3:22.0,,B. Beal misses 3-pt jump shot from 25 ft,59,58
+2,3:17.0,Defensive rebound by J. Holiday,,59,58
+2,3:13.0,Memphis full timeout,,59,58
+2,3:06.0,Turnover by M. Conley (bad pass),,59,58
+2,2:48.0,,J. Green misses 3-pt jump shot from 24 ft,59,58
+2,2:44.0,Defensive rebound by J. Valančiūnas,,59,58
+2,2:30.0,J. Valančiūnas misses 2-pt layup from 2 ft,,59,58
+2,2:28.0,,Defensive rebound by B. Portis,59,58
+2,2:24.0,,J. Green makes 2-pt layup from 4 ft (assist by B. Portis),59,60
+2,2:03.0,M. Conley makes 2-pt layup from 2 ft (assist by J. Valančiūnas),,61,60
+2,1:48.0,,Personal foul by M. Conley (drawn by T. Satoranský),61,60
+2,1:48.0,,T. Satoranský makes free throw 1 of 2,61,61
+2,1:48.0,,T. Satoranský makes free throw 2 of 2,61,62
+2,1:41.0,M. Conley makes 2-pt layup from 1 ft,,63,62
+2,1:41.0,Shooting foul by T. Satoranský (drawn by M. Conley),,63,62
+2,1:41.0,M. Conley makes free throw 1 of 1,,64,62
+2,1:28.0,,T. Ariza makes 3-pt jump shot from 26 ft (assist by B. Portis),64,65
+2,1:05.0,J. Holiday makes 2-pt layup from 1 ft (assist by J. Valančiūnas),,66,65
+2,0:58.0,,Personal foul by J. Valančiūnas (drawn by T. Satoranský),66,65
+2,0:58.0,,T. Satoranský makes free throw 1 of 2,66,66
+2,0:58.0,,T. Satoranský makes free throw 2 of 2,66,67
+2,0:41.0,J. Noah makes 2-pt layup from 1 ft (assist by M. Conley),,68,67
+2,0:36.0,,B. Portis misses 3-pt jump shot from 25 ft,68,67
+2,0:33.0,Defensive rebound by J. Noah,,68,67
+2,0:26.0,Shooting foul by B. Portis (drawn by J. Noah),,68,67
+2,0:26.0,J. Noah makes free throw 1 of 2,,69,67
+2,0:26.0,D. Wright enters the game for J. Valančiūnas,,69,67
+2,0:26.0,J. Noah misses free throw 2 of 2,,69,67
+2,0:22.0,,Defensive rebound by B. Portis,69,67
+2,0:07.0,,T. Ariza misses 3-pt jump shot from 23 ft,69,67
+2,0:04.0,,Offensive rebound by B. Portis,69,67
+2,0:04.0,,B. Portis makes 2-pt layup from 7 ft,69,69
+2,0:00.0,M. Conley makes 2-pt jump shot from 9 ft,,71,69
+3,11:48.0,J. Valančiūnas makes 2-pt hook shot from 9 ft (assist by B. Caboclo),,73,69
+3,11:32.0,,B. Beal makes 3-pt jump shot from 25 ft (assist by T. Satoranský),73,72
+3,11:19.0,B. Caboclo misses 3-pt jump shot from 26 ft,,73,72
+3,11:16.0,Offensive rebound by J. Holiday,,73,72
+3,11:15.0,J. Holiday misses 2-pt jump shot from 12 ft,,73,72
+3,11:12.0,,Defensive rebound by B. Portis,73,72
+3,11:03.0,,B. Portis makes 3-pt jump shot from 26 ft (assist by T. Satoranský),73,75
+3,10:51.0,J. Valančiūnas makes 2-pt layup from 1 ft (assist by M. Conley),,75,75
+3,10:36.0,,B. Portis makes 2-pt jump shot from 21 ft (assist by T. Satoranský),75,77
+3,10:22.0,Personal foul by B. Portis (drawn by J. Valančiūnas),,75,77
+3,10:08.0,A. Bradley makes 2-pt jump shot from 18 ft (assist by M. Conley),,77,77
+3,9:48.0,,Shooting foul by J. Valančiūnas (drawn by B. Beal),77,77
+3,9:48.0,,B. Beal makes free throw 1 of 2,77,78
+3,9:48.0,,B. Beal misses free throw 2 of 2,77,78
+3,9:45.0,Defensive rebound by B. Caboclo,,77,78
+3,9:28.0,Turnover by J. Valančiūnas (bad pass; steal by T. Ariza),,77,78
+3,9:25.0,,B. Portis makes 2-pt layup from 1 ft (assist by J. Green),77,80
+3,9:13.0,J. Holiday misses 3-pt jump shot from 24 ft (block by T. Ariza),,77,80
+3,9:13.0,,Defensive rebound by T. Ariza,77,80
+3,8:59.0,,B. Beal makes 3-pt jump shot from 27 ft,77,83
+3,8:57.0,Memphis full timeout,,77,83
+3,8:57.0,J. Noah enters the game for B. Caboclo,,77,83
+3,8:57.0,C. Parsons enters the game for J. Holiday,,77,83
+3,8:57.0,D. Wright enters the game for J. Valančiūnas,,77,83
+3,8:41.0,A. Bradley makes 2-pt layup from 1 ft (assist by C. Parsons),,79,83
+3,8:18.0,,T. Satoranský misses 2-pt jump shot from 14 ft,79,83
+3,8:15.0,Defensive rebound by C. Parsons,,79,83
+3,8:09.0,A. Bradley makes 2-pt layup at rim (assist by M. Conley),,81,83
+3,7:46.0,,T. Ariza makes 2-pt jump shot from 11 ft,81,85
+3,7:35.0,C. Parsons misses 3-pt jump shot from 26 ft,,81,85
+3,7:30.0,,Defensive rebound by B. Beal,81,85
+3,7:28.0,,Shooting foul by M. Conley (drawn by B. Beal),81,85
+3,7:28.0,,B. Beal makes free throw 1 of 2,81,86
+3,7:28.0,,B. Beal makes free throw 2 of 2,81,87
+3,7:06.0,A. Bradley makes 3-pt jump shot from 27 ft (assist by M. Conley),,84,87
+3,6:48.0,,B. Portis misses 3-pt jump shot from 26 ft,84,87
+3,6:43.0,Defensive rebound by M. Conley,,84,87
+3,6:42.0,Shooting foul by B. Beal (drawn by C. Parsons),,84,87
+3,6:42.0,C. Parsons misses free throw 1 of 2,,84,87
+3,6:42.0,Offensive rebound by Team,,84,87
+3,6:42.0,C. Parsons makes free throw 2 of 2,,85,87
+3,6:29.0,,T. Ariza misses 3-pt jump shot from 27 ft,85,87
+3,6:25.0,Defensive rebound by C. Parsons,,85,87
+3,6:15.0,Shooting foul by J. Green (drawn by J. Noah),,85,87
+3,6:15.0,J. Noah makes free throw 1 of 2,,86,87
+3,6:15.0,J. Noah makes free throw 2 of 2,,87,87
+3,5:54.0,,T. Satoranský misses 2-pt layup from 5 ft (block by J. Noah),87,87
+3,5:50.0,Defensive rebound by M. Conley,,87,87
+3,5:47.0,M. Conley misses 2-pt jump shot from 16 ft,,87,87
+3,5:44.0,,Defensive rebound by J. Green,87,87
+3,5:44.0,,Offensive foul by T. Ariza (drawn by C. Parsons),87,87
+3,5:44.0,,Turnover by T. Ariza (offensive foul),87,87
+3,5:44.0,J. Holiday enters the game for A. Bradley,,87,87
+3,5:34.0,J. Noah makes 2-pt layup from 4 ft (assist by M. Conley),,89,87
+3,5:23.0,,Personal foul by J. Noah (drawn by T. Satoranský),89,87
+3,5:15.0,,J. Green makes 2-pt jump shot from 7 ft (assist by B. Beal),89,89
+3,5:05.0,Shooting foul by J. Green (drawn by J. Holiday),,89,89
+3,5:05.0,J. Holiday makes free throw 1 of 2,,90,89
+3,5:05.0,,T. Brown enters the game for J. Green,90,89
+3,5:05.0,,J. Parker enters the game for T. Satoranský,90,89
+3,5:05.0,J. Holiday makes free throw 2 of 2,,91,89
+3,4:46.0,,Personal foul by J. Noah (drawn by J. Parker),91,89
+3,4:39.0,,J. Parker makes 2-pt layup from 1 ft,91,91
+3,4:26.0,J. Noah makes 2-pt layup from 2 ft,,93,91
+3,4:14.0,,Turnover by J. Parker (bad pass),93,91
+3,4:06.0,M. Conley misses 3-pt jump shot from 27 ft,,93,91
+3,4:06.0,,Defensive rebound by T. Brown,93,91
+3,3:58.0,,T. Brown makes 2-pt layup from 1 ft,93,93
+3,3:44.0,C. Parsons makes 2-pt jump shot from 21 ft (assist by J. Holiday),,95,93
+3,3:28.0,,B. Portis makes 3-pt jump shot from 27 ft (assist by B. Beal),95,96
+3,3:18.0,C. Parsons makes 2-pt jump shot from 1 ft (assist by M. Conley),,97,96
+3,3:00.0,,B. Beal makes 3-pt jump shot from 27 ft (assist by J. Parker),97,99
+3,2:57.0,Memphis full timeout,,97,99
+3,2:57.0,T. Dorsey enters the game for M. Conley,,97,99
+3,2:57.0,I. Rabb enters the game for C. Parsons,,97,99
+3,2:57.0,,T. Bryant enters the game for B. Portis,97,99
+3,2:43.0,Turnover by J. Noah (bad pass; steal by B. Beal),,97,99
+3,2:30.0,,J. Parker misses 2-pt hook shot from 5 ft,97,99
+3,2:27.0,Defensive rebound by T. Dorsey,,97,99
+3,2:22.0,Shooting foul by T. Brown (drawn by T. Dorsey),,97,99
+3,2:22.0,T. Dorsey makes free throw 1 of 2,,98,99
+3,2:22.0,J. Valančiūnas enters the game for J. Noah,,98,99
+3,2:22.0,T. Dorsey misses free throw 2 of 2,,98,99
+3,2:19.0,,Defensive rebound by T. Bryant,98,99
+3,1:57.0,,J. Parker misses 3-pt jump shot from 27 ft (block by I. Rabb),98,99
+3,1:57.0,,Offensive rebound by Team,98,99
+3,1:57.0,,Turnover by Team (shot clock),98,99
+3,1:40.0,J. Valančiūnas makes 2-pt jump shot from 4 ft,,100,99
+3,1:24.0,,T. Brown misses 2-pt jump shot from 16 ft,100,99
+3,1:21.0,Defensive rebound by J. Valančiūnas,,100,99
+3,1:17.0,D. Wright misses 3-pt jump shot from 26 ft,,100,99
+3,1:10.0,,Defensive rebound by T. Ariza,100,99
+3,1:06.0,,Personal foul by J. Holiday (drawn by B. Beal),100,99
+3,1:06.0,,B. Beal makes free throw 1 of 2,100,100
+3,1:06.0,,C. Randle enters the game for T. Ariza,100,100
+3,1:06.0,,B. Beal makes free throw 2 of 2,100,101
+3,0:52.0,J. Valančiūnas makes 2-pt dunk from 1 ft (assist by J. Holiday),,102,101
+3,0:41.0,,Shooting foul by I. Rabb (drawn by T. Bryant),102,101
+3,0:41.0,,T. Bryant makes free throw 1 of 2,102,102
+3,0:41.0,,T. Bryant makes free throw 2 of 2,102,103
+3,0:18.0,Shooting foul by C. Randle (drawn by D. Wright),,102,103
+3,0:18.0,D. Wright misses free throw 1 of 2,,102,103
+3,0:18.0,Offensive rebound by Team,,102,103
+3,0:18.0,A. Bradley enters the game for I. Rabb,,102,103
+3,0:18.0,J. Noah enters the game for J. Valančiūnas,,102,103
+3,0:18.0,D. Wright makes free throw 2 of 2,,103,103
+3,0:04.0,,B. Beal misses 3-pt jump shot from 26 ft,103,103
+3,0:00.0,,Offensive rebound by J. Parker,103,103
+3,0:00.0,,T. Bryant makes 2-pt dunk from 1 ft,103,105
+4,11:35.0,,Turnover by Team (shot clock),103,105
+4,11:25.0,Shooting foul by T. Brown (drawn by J. Valančiūnas),,103,105
+4,11:25.0,J. Valančiūnas makes free throw 1 of 2,,104,105
+4,11:25.0,J. Valančiūnas makes free throw 2 of 2,,105,105
+4,11:15.0,,Shooting foul by J. Valančiūnas (drawn by T. Brown),105,105
+4,11:15.0,,T. Brown makes free throw 1 of 2,105,106
+4,11:15.0,,T. Brown misses free throw 2 of 2,105,106
+4,11:13.0,Defensive rebound by J. Valančiūnas,,105,106
+4,10:57.0,M. Conley misses 3-pt jump shot from 25 ft,,105,106
+4,10:52.0,,Defensive rebound by J. Parker,105,106
+4,10:52.0,,Shooting foul by T. Dorsey (drawn by J. Parker),105,106
+4,10:52.0,,J. Parker makes free throw 1 of 2,105,107
+4,10:52.0,,J. Parker makes free throw 2 of 2,105,108
+4,10:39.0,T. Dorsey makes 3-pt jump shot from 25 ft (assist by J. Holiday),,108,108
+4,10:21.0,,J. Parker makes 2-pt layup from 1 ft (assist by T. Brown),108,110
+4,10:08.0,M. Conley misses 2-pt layup from 2 ft (block by T. Satoranský),,108,110
+4,10:08.0,Offensive rebound by Team,,108,110
+4,10:08.0,J. Noah enters the game for I. Rabb,,108,110
+4,10:02.0,Personal foul by J. Parker (drawn by J. Noah),,108,110
+4,9:54.0,Turnover by J. Valančiūnas (bad pass; steal by J. Parker),,108,110
+4,9:48.0,,C. Randle misses 3-pt jump shot from 23 ft,108,110
+4,9:44.0,Defensive rebound by J. Noah,,108,110
+4,9:34.0,T. Dorsey misses 3-pt jump shot from 28 ft,,108,110
+4,9:29.0,,Defensive rebound by T. Brown,108,110
+4,9:24.0,,T. Bryant misses 3-pt jump shot from 26 ft,108,110
+4,9:19.0,Defensive rebound by T. Dorsey,,108,110
+4,9:14.0,J. Noah makes 2-pt layup from 1 ft (assist by T. Dorsey),,110,110
+4,8:52.0,,Shooting foul by J. Noah (drawn by T. Bryant),110,110
+4,8:52.0,,T. Bryant makes free throw 1 of 2,110,111
+4,8:52.0,A. Bradley enters the game for T. Dorsey,,110,111
+4,8:52.0,C. Parsons enters the game for J. Holiday,,110,111
+4,8:52.0,,T. Bryant makes free throw 2 of 2,110,112
+4,8:28.0,J. Valančiūnas misses 2-pt layup from 6 ft,,110,112
+4,8:25.0,Offensive rebound by J. Valančiūnas,,110,112
+4,8:24.0,J. Valančiūnas misses 2-pt layup from 4 ft,,110,112
+4,8:21.0,Offensive rebound by J. Valančiūnas,,110,112
+4,8:19.0,J. Valančiūnas misses 2-pt layup from 1 ft (block by J. Parker),,110,112
+4,8:19.0,,Defensive rebound by T. Brown,110,112
+4,8:15.0,,Shooting foul by A. Bradley (drawn by T. Bryant),110,112
+4,8:15.0,,T. Bryant makes free throw 1 of 2,110,113
+4,8:15.0,,T. Bryant makes free throw 2 of 2,110,114
+4,7:58.0,J. Noah misses 2-pt jump shot from 7 ft (block by T. Bryant),,110,114
+4,7:53.0,Offensive rebound by A. Bradley,,110,114
+4,7:53.0,A. Bradley misses 2-pt jump shot from 9 ft,,110,114
+4,7:51.0,,Defensive rebound by T. Satoranský,110,114
+4,7:49.0,,Turnover by J. Parker (out of bounds lost ball),110,114
+4,7:41.0,J. Noah makes 2-pt layup from 2 ft (assist by M. Conley),,112,114
+4,7:41.0,,Washington full timeout,112,114
+4,7:41.0,,B. Beal enters the game for C. Randle,112,114
+4,7:21.0,,T. Satoranský misses 2-pt jump shot from 17 ft,112,114
+4,7:16.0,Defensive rebound by J. Noah,,112,114
+4,7:02.0,C. Parsons misses 3-pt jump shot from 26 ft,,112,114
+4,6:57.0,,Defensive rebound by T. Brown,112,114
+4,6:54.0,,J. Parker misses 2-pt layup from 4 ft (block by J. Valančiūnas),112,114
+4,6:50.0,Defensive rebound by J. Noah,,112,114
+4,6:43.0,Shooting foul by T. Satoranský (drawn by M. Conley),,112,114
+4,6:43.0,M. Conley makes free throw 1 of 2,,113,114
+4,6:43.0,I. Rabb enters the game for J. Valančiūnas,,113,114
+4,6:43.0,M. Conley makes free throw 2 of 2,,114,114
+4,6:29.0,,Shooting foul by C. Parsons (drawn by T. Bryant),114,114
+4,6:29.0,,T. Bryant makes free throw 1 of 2,114,115
+4,6:29.0,D. Wright enters the game for M. Conley,,114,115
+4,6:29.0,,J. Green enters the game for T. Brown,114,115
+4,6:29.0,,T. Bryant makes free throw 2 of 2,114,116
+4,6:13.0,A. Bradley misses 2-pt layup from 9 ft (block by T. Bryant),,114,116
+4,6:09.0,,Defensive rebound by J. Parker,114,116
+4,6:04.0,,B. Beal makes 3-pt jump shot from 25 ft (assist by J. Green),114,119
+4,5:40.0,Turnover by J. Noah (traveling),,114,119
+4,5:40.0,J. Holiday enters the game for C. Parsons,,114,119
+4,5:25.0,,J. Parker misses 3-pt jump shot from 24 ft,114,119
+4,5:21.0,,Offensive rebound by T. Bryant,114,119
+4,5:09.0,,B. Beal makes 2-pt layup from 2 ft,114,121
+4,5:09.0,Memphis full timeout,,114,121
+4,5:09.0,M. Conley enters the game for J. Noah,,114,121
+4,5:09.0,J. Valančiūnas enters the game for I. Rabb,,114,121
+4,4:59.0,,Personal foul by J. Valančiūnas (drawn by T. Bryant),114,121
+4,4:59.0,Personal foul by T. Bryant (drawn by J. Valančiūnas),,114,121
+4,4:55.0,Personal foul by T. Bryant (drawn by M. Conley),,114,121
+4,4:55.0,M. Conley makes free throw 1 of 2,,115,121
+4,4:55.0,M. Conley makes free throw 2 of 2,,116,121
+4,4:35.0,,J. Parker misses 2-pt layup from 3 ft,116,121
+4,4:32.0,,Offensive rebound by T. Bryant,116,121
+4,4:31.0,,T. Bryant misses 2-pt layup from 2 ft,116,121
+4,4:30.0,,Offensive rebound by J. Parker,116,121
+4,4:26.0,,T. Satoranský misses 2-pt jump shot from 13 ft,116,121
+4,4:22.0,Defensive rebound by J. Valančiūnas,,116,121
+4,4:16.0,A. Bradley misses 3-pt jump shot from 27 ft,,116,121
+4,4:09.0,,Defensive rebound by J. Parker,116,121
+4,3:54.0,,T. Satoranský makes 2-pt layup from 2 ft (assist by B. Beal),116,123
+4,3:43.0,J. Holiday misses 2-pt jump shot from 8 ft,,116,123
+4,3:43.0,,Defensive rebound by T. Satoranský,116,123
+4,3:37.0,,B. Beal misses 3-pt jump shot from 26 ft,116,123
+4,3:37.0,Defensive rebound by M. Conley,,116,123
+4,3:29.0,A. Bradley makes 3-pt jump shot from 26 ft (assist by M. Conley),,119,123
+4,3:28.0,,Washington full timeout,119,123
+4,3:28.0,C. Parsons enters the game for J. Holiday,,119,123
+4,3:13.0,,B. Beal misses 2-pt layup from 3 ft,119,123
+4,3:09.0,,Offensive rebound by T. Bryant,119,123
+4,3:09.0,,T. Bryant misses 2-pt layup from 2 ft,119,123
+4,3:07.0,,Offensive rebound by B. Beal,119,123
+4,2:59.0,,Shooting foul by A. Bradley (drawn by T. Satoranský),119,123
+4,2:59.0,,T. Satoranský makes free throw 1 of 2,119,124
+4,2:59.0,,T. Satoranský makes free throw 2 of 2,119,125
+4,2:41.0,A. Bradley misses 3-pt jump shot from 25 ft,,119,125
+4,2:38.0,,Defensive rebound by T. Satoranský,119,125
+4,2:22.0,,J. Parker misses 2-pt layup from 4 ft,119,125
+4,2:20.0,Defensive rebound by J. Valančiūnas,,119,125
+4,2:16.0,D. Wright misses 3-pt jump shot from 23 ft,,119,125
+4,2:11.0,,Defensive rebound by T. Satoranský,119,125
+4,1:50.0,,Shooting foul by C. Parsons (drawn by J. Parker),119,125
+4,1:50.0,,J. Parker misses free throw 1 of 2,119,125
+4,1:50.0,,Offensive rebound by Team,119,125
+4,1:50.0,,J. Parker makes free throw 2 of 2,119,126
+4,1:41.0,J. Valančiūnas makes 2-pt dunk from 1 ft (assist by C. Parsons),,121,126
+4,1:23.0,,Turnover by B. Beal (bad pass),121,126
+4,1:10.0,Shooting foul by T. Bryant (drawn by M. Conley),,121,126
+4,1:10.0,M. Conley makes free throw 1 of 2,,122,126
+4,1:10.0,J. Holiday enters the game for C. Parsons,,122,126
+4,1:10.0,J. Noah enters the game for J. Valančiūnas,,122,126
+4,1:10.0,I. Rabb enters the game for D. Wright,,122,126
+4,1:10.0,M. Conley makes free throw 2 of 2,,123,126
+4,0:50.0,,J. Green makes 3-pt jump shot from 26 ft (assist by T. Bryant),123,129
+4,0:50.0,Memphis full timeout,,123,129
+4,0:50.0,C. Parsons enters the game for J. Noah,,123,129
+4,0:50.0,J. Valančiūnas enters the game for I. Rabb,,123,129
+4,0:47.0,M. Conley makes 3-pt jump shot from 26 ft (assist by C. Parsons),,126,129
+4,0:22.0,,B. Beal makes 2-pt layup from 1 ft (assist by T. Bryant),126,131
+4,0:17.0,M. Conley misses 3-pt jump shot from 26 ft,,126,131
+4,0:17.0,Offensive rebound by J. Holiday,,126,131
+4,0:07.0,J. Valančiūnas makes 2-pt dunk from 1 ft (assist by M. Conley),,128,131
+4,0:06.0,,Clear path foul by C. Parsons,128,131
+4,0:06.0,,J. Parker makes clear path free throw 1 of 2,128,132
+4,0:06.0,,J. Parker makes clear path free throw 2 of 2,128,133
+4,0:06.0,J. Noah enters the game for C. Parsons,,128,133
+4,0:06.0,D. Wright enters the game for J. Valančiūnas,,128,133
+4,0:05.0,,Personal take foul by D. Wright (drawn by T. Satoranský),128,133
+4,0:05.0,,T. Satoranský makes free throw 1 of 2,128,134
+4,0:05.0,,C. Randle enters the game for B. Beal,128,134
+4,0:05.0,,T. Satoranský makes free throw 2 of 2,128,135

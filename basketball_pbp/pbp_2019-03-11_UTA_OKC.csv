@@ -1,0 +1,462 @@
+QUARTER,TIME_REMAINING,OKLAHOMA CITY_ACTION,UTAH_ACTION,OKLAHOMA CITY_SCORE,UTAH_SCORE
+1,11:43.0,,R. Gobert misses 2-pt layup from 1 ft,0,0
+1,11:41.0,Defensive rebound by S. Adams,,0,0
+1,11:37.0,P. George misses 3-pt jump shot from 26 ft,,0,0
+1,11:34.0,,Defensive rebound by R. O'Neale,0,0
+1,11:27.0,,D. Mitchell makes 2-pt layup from 2 ft,0,2
+1,11:13.0,Turnover by P. George (bad pass; steal by D. Favors),,0,2
+1,11:03.0,,R. O'Neale misses 2-pt dunk from 2 ft,0,2
+1,11:03.0,Defensive rebound by Team,,0,2
+1,11:00.0,Personal foul by R. O'Neale (drawn by R. Westbrook),,0,2
+1,10:48.0,J. Grant makes 2-pt jump shot from 21 ft (assist by R. Westbrook),,2,2
+1,10:22.0,,J. Ingles misses 3-pt jump shot from 26 ft,2,2
+1,10:18.0,Defensive rebound by R. Westbrook,,2,2
+1,10:05.0,J. Grant misses 2-pt hook shot from 8 ft,,2,2
+1,10:00.0,Offensive rebound by Team,,2,2
+1,9:55.0,R. Westbrook makes 2-pt jump shot from 19 ft,,4,2
+1,9:40.0,,Turnover by D. Mitchell (traveling),4,2
+1,9:29.0,T. Ferguson misses 3-pt jump shot from 23 ft,,4,2
+1,9:26.0,,Defensive rebound by J. Ingles,4,2
+1,9:11.0,,Turnover by J. Ingles (bad pass; steal by S. Adams),4,2
+1,9:08.0,Turnover by S. Adams (bad pass),,4,2
+1,8:49.0,,D. Favors misses 3-pt jump shot from 24 ft,4,2
+1,8:46.0,Defensive rebound by R. Westbrook,,4,2
+1,8:41.0,R. Westbrook misses 2-pt jump shot from 18 ft,,4,2
+1,8:38.0,,Defensive rebound by R. O'Neale,4,2
+1,8:29.0,,R. Gobert makes 2-pt dunk from 15 ft (assist by D. Mitchell),4,4
+1,8:21.0,Personal foul by R. Gobert (drawn by S. Adams),,4,4
+1,8:14.0,Def 3 sec tech foul by Team,,4,4
+1,8:14.0,P. George makes technical free throw,,5,4
+1,8:09.0,P. George misses 2-pt layup from 2 ft,,5,4
+1,8:08.0,,Defensive rebound by D. Favors,5,4
+1,7:59.0,,R. Gobert makes 2-pt dunk from 2 ft (assist by J. Ingles),5,6
+1,7:36.0,S. Adams makes 2-pt hook shot from 3 ft,,7,6
+1,7:13.0,,D. Mitchell misses 2-pt jump shot from 9 ft,7,6
+1,7:12.0,Defensive rebound by J. Grant,,7,6
+1,7:05.0,R. Westbrook misses 2-pt jump shot from 10 ft,,7,6
+1,7:03.0,,Defensive rebound by D. Mitchell,7,6
+1,6:54.0,,Personal foul by T. Ferguson (drawn by D. Mitchell),7,6
+1,6:54.0,,Utah full timeout,7,6
+1,6:54.0,,J. Crowder enters the game for D. Favors,7,6
+1,6:54.0,,K. Korver enters the game for R. O'Neale,7,6
+1,6:42.0,,J. Crowder misses 3-pt jump shot from 25 ft,7,6
+1,6:39.0,Defensive rebound by J. Grant,,7,6
+1,6:28.0,T. Ferguson misses 3-pt jump shot from 24 ft,,7,6
+1,6:25.0,,Defensive rebound by R. Gobert,7,6
+1,6:18.0,,D. Mitchell makes 2-pt layup from 2 ft,7,8
+1,6:08.0,Shooting foul by J. Ingles (drawn by P. George),,7,8
+1,6:08.0,P. George makes free throw 1 of 2,,8,8
+1,6:08.0,P. George makes free throw 2 of 2,,9,8
+1,6:01.0,,K. Korver misses 3-pt jump shot from 26 ft,9,8
+1,5:58.0,Defensive rebound by J. Grant,,9,8
+1,5:54.0,S. Adams makes 2-pt dunk from 2 ft (assist by R. Westbrook),,11,8
+1,5:39.0,,R. Gobert makes 2-pt dunk from 1 ft (assist by J. Ingles),11,10
+1,5:39.0,,Shooting foul by J. Grant (drawn by R. Gobert),11,10
+1,5:39.0,D. Schröder enters the game for P. George,,11,10
+1,5:39.0,,R. O'Neale enters the game for J. Ingles,11,10
+1,5:39.0,,R. Gobert makes free throw 1 of 1,11,11
+1,5:29.0,,Defensive rebound by D. Mitchell,11,11
+1,5:29.0,J. Grant misses 2-pt jump shot from 12 ft (block by D. Mitchell),,11,11
+1,5:19.0,,K. Korver misses 2-pt jump shot from 21 ft,11,11
+1,5:14.0,Defensive rebound by S. Adams,,11,11
+1,5:09.0,S. Adams makes 2-pt hook shot from 2 ft (assist by R. Westbrook),,13,11
+1,4:52.0,,D. Mitchell misses 2-pt jump shot from 14 ft,13,11
+1,4:49.0,Defensive rebound by T. Ferguson,,13,11
+1,4:27.0,D. Schröder misses 2-pt jump shot from 13 ft (block by R. Gobert),,13,11
+1,4:24.0,Offensive rebound by J. Grant,,13,11
+1,4:24.0,J. Grant makes 3-pt jump shot from 25 ft,,16,11
+1,4:14.0,,K. Korver misses 3-pt jump shot from 25 ft,16,11
+1,4:11.0,Defensive rebound by T. Ferguson,,16,11
+1,4:11.0,Turnover by T. Ferguson (step out of bounds),,16,11
+1,4:06.0,,J. Crowder misses 3-pt jump shot from 25 ft,16,11
+1,4:02.0,Defensive rebound by D. Schröder,,16,11
+1,3:56.0,D. Schröder makes 2-pt jump shot from 16 ft,,18,11
+1,3:40.0,,D. Mitchell misses 3-pt jump shot from 25 ft,18,11
+1,3:37.0,Defensive rebound by D. Schröder,,18,11
+1,3:28.0,T. Ferguson makes 2-pt dunk from 2 ft (assist by D. Schröder),,20,11
+1,3:08.0,,Personal foul by D. Schröder (drawn by D. Mitchell),20,11
+1,3:08.0,N. Noel enters the game for S. Adams,,20,11
+1,3:08.0,,D. Favors enters the game for R. Gobert,20,11
+1,3:08.0,,J. Ingles enters the game for D. Mitchell,20,11
+1,2:54.0,,R. O'Neale makes 3-pt jump shot from 25 ft (assist by J. Ingles),20,14
+1,2:43.0,R. Westbrook makes 2-pt jump shot from 10 ft,,22,14
+1,2:21.0,,J. Ingles misses 3-pt jump shot from 24 ft,22,14
+1,2:18.0,,Offensive rebound by D. Favors,22,14
+1,2:07.0,,J. Crowder makes 3-pt jump shot from 25 ft,22,17
+1,1:53.0,Oklahoma City full timeout,,22,17
+1,1:53.0,P. George enters the game for T. Ferguson,,22,17
+1,1:53.0,M. Morris enters the game for J. Grant,,22,17
+1,1:53.0,A. Nader enters the game for R. Westbrook,,22,17
+1,1:53.0,,D. Exum enters the game for R. O'Neale,22,17
+1,1:48.0,Turnover by N. Noel (bad pass; steal by K. Korver),,22,17
+1,1:39.0,,D. Favors misses 2-pt layup from 4 ft (block by P. George),22,17
+1,1:35.0,Defensive rebound by N. Noel,,22,17
+1,1:33.0,Personal foul by D. Exum (drawn by D. Schröder),,22,17
+1,1:26.0,N. Noel misses 2-pt jump shot from 10 ft,,22,17
+1,1:25.0,Offensive rebound by Team,,22,17
+1,1:22.0,P. George misses 3-pt jump shot from 25 ft,,22,17
+1,1:20.0,,Defensive rebound by J. Ingles,22,17
+1,1:00.0,,D. Favors makes 2-pt layup from 1 ft (assist by J. Ingles),22,19
+1,0:52.0,M. Morris misses 3-pt jump shot from 25 ft,,22,19
+1,0:48.0,,Defensive rebound by K. Korver,22,19
+1,0:39.0,,Personal foul by P. George (drawn by J. Ingles),22,19
+1,0:28.0,,Turnover by D. Exum (step out of bounds),22,19
+1,0:09.0,D. Schröder misses 3-pt jump shot from 25 ft,,22,19
+1,0:06.0,,Defensive rebound by J. Crowder,22,19
+1,0:02.0,,J. Crowder makes 2-pt dunk from 2 ft (assist by J. Ingles),22,21
+2,11:45.0,P. George makes 2-pt jump shot from 19 ft (assist by D. Schröder),,24,21
+2,11:29.0,,D. Exum misses 3-pt jump shot from 23 ft,24,21
+2,11:26.0,,Offensive rebound by D. Favors,24,21
+2,11:21.0,,Turnover by D. Exum (step out of bounds),24,21
+2,11:04.0,Personal foul by J. Ingles (drawn by P. George),,24,21
+2,10:57.0,D. Schröder makes 2-pt jump shot from 10 ft,,26,21
+2,10:29.0,,R. O'Neale misses 3-pt jump shot from 38 ft,26,21
+2,10:28.0,,Turnover by Team (shot clock),26,21
+2,10:28.0,,Offensive rebound by Team,26,21
+2,10:15.0,Turnover by D. Schröder (bad pass; steal by R. O'Neale),,26,21
+2,10:13.0,,Personal foul by P. George (drawn by R. O'Neale),26,21
+2,10:04.0,,Personal foul by M. Morris (drawn by J. Crowder),26,21
+2,10:00.0,,Offensive foul by D. Favors (drawn by P. George),26,21
+2,10:00.0,,Turnover by D. Favors (offensive foul),26,21
+2,10:00.0,,T. Sefolosha enters the game for J. Crowder,26,21
+2,10:00.0,Oklahoma City full timeout,,26,21
+2,10:00.0,,K. Korver enters the game for D. Exum,26,21
+2,9:51.0,P. George misses 2-pt jump shot from 2 ft,,26,21
+2,9:49.0,,Defensive rebound by R. O'Neale,26,21
+2,9:34.0,,R. O'Neale misses 2-pt jump shot from 9 ft,26,21
+2,9:33.0,Defensive rebound by D. Schröder,,26,21
+2,9:28.0,Personal foul by R. O'Neale (drawn by D. Schröder),,26,21
+2,9:16.0,M. Morris misses 2-pt layup from 4 ft,,26,21
+2,9:13.0,Offensive rebound by N. Noel,,26,21
+2,9:13.0,N. Noel makes 2-pt layup at rim,,28,21
+2,9:00.0,,Offensive foul by D. Favors (drawn by A. Nader),28,21
+2,9:00.0,,Turnover by D. Favors (offensive foul),28,21
+2,9:00.0,,D. Mitchell enters the game for J. Ingles,28,21
+2,8:49.0,M. Morris misses 2-pt jump shot from 15 ft,,28,21
+2,8:47.0,,Defensive rebound by R. O'Neale,28,21
+2,8:40.0,,D. Mitchell misses 2-pt layup from 3 ft,28,21
+2,8:38.0,,Offensive rebound by D. Favors,28,21
+2,8:38.0,,D. Favors misses 2-pt layup from 1 ft,28,21
+2,8:38.0,Defensive rebound by M. Morris,,28,21
+2,8:34.0,Personal foul by T. Sefolosha (drawn by P. George),,28,21
+2,8:34.0,S. Adams enters the game for P. George,,28,21
+2,8:34.0,R. Westbrook enters the game for N. Noel,,28,21
+2,8:34.0,,R. Gobert enters the game for D. Favors,28,21
+2,8:28.0,S. Adams misses 2-pt jump shot from 10 ft,,28,21
+2,8:25.0,Offensive rebound by Team,,28,21
+2,8:23.0,D. Schröder makes 2-pt jump shot from 17 ft (assist by R. Westbrook),,30,21
+2,8:15.0,,R. O'Neale makes 3-pt jump shot from 24 ft (assist by D. Mitchell),30,24
+2,8:03.0,Turnover by R. Westbrook (bad pass; steal by D. Mitchell),,30,24
+2,7:42.0,,D. Mitchell makes 2-pt jump shot from 13 ft,30,26
+2,7:31.0,D. Schröder misses 2-pt jump shot from 11 ft,,30,26
+2,7:28.0,,Defensive rebound by R. Gobert,30,26
+2,7:18.0,,T. Sefolosha misses 3-pt jump shot from 25 ft,30,26
+2,7:14.0,Defensive rebound by R. Westbrook,,30,26
+2,7:09.0,R. Westbrook misses 2-pt jump shot from 21 ft,,30,26
+2,7:06.0,,Defensive rebound by D. Mitchell,30,26
+2,6:57.0,,T. Sefolosha makes 3-pt jump shot from 23 ft (assist by R. O'Neale),30,29
+2,6:29.0,M. Morris misses 2-pt jump shot from 4 ft (block by R. Gobert),,30,29
+2,6:25.0,,Defensive rebound by T. Sefolosha,30,29
+2,6:21.0,,R. O'Neale misses 3-pt jump shot from 25 ft,30,29
+2,6:18.0,Defensive rebound by D. Schröder,,30,29
+2,5:59.0,S. Adams makes 2-pt hook shot from 8 ft,,32,29
+2,5:59.0,,Utah full timeout,32,29
+2,5:59.0,T. Ferguson enters the game for M. Morris,,32,29
+2,5:59.0,J. Grant enters the game for D. Schröder,,32,29
+2,5:49.0,,Personal foul by A. Nader (drawn by R. Gobert),32,29
+2,5:49.0,P. George enters the game for A. Nader,,32,29
+2,5:38.0,,T. Sefolosha misses 3-pt jump shot from 24 ft,32,29
+2,5:36.0,Defensive rebound by P. George,,32,29
+2,5:29.0,T. Ferguson makes 3-pt jump shot from 25 ft (assist by J. Grant),,35,29
+2,5:01.0,,D. Mitchell misses 3-pt jump shot from 26 ft,35,29
+2,4:59.0,Defensive rebound by R. Westbrook,,35,29
+2,4:47.0,Def 3 sec tech foul by Team,,35,29
+2,4:47.0,P. George makes technical free throw,,36,29
+2,4:47.0,,J. Crowder enters the game for K. Korver,36,29
+2,4:47.0,,J. Ingles enters the game for T. Sefolosha,36,29
+2,4:35.0,S. Adams makes 2-pt hook shot from 11 ft (assist by R. Westbrook),,38,29
+2,4:21.0,,Personal foul by S. Adams (drawn by R. Gobert),38,29
+2,4:08.0,,J. Crowder misses 3-pt jump shot from 30 ft,38,29
+2,4:05.0,Defensive rebound by R. Westbrook,,38,29
+2,3:59.0,R. Westbrook misses 2-pt jump shot from 7 ft,,38,29
+2,3:57.0,,Defensive rebound by R. O'Neale,38,29
+2,3:48.0,,R. O'Neale misses 3-pt jump shot from 23 ft,38,29
+2,3:45.0,Defensive rebound by R. Westbrook,,38,29
+2,3:42.0,Shooting foul by J. Crowder (drawn by R. Westbrook),,38,29
+2,3:42.0,R. Westbrook makes free throw 1 of 2,,39,29
+2,3:42.0,R. Westbrook makes free throw 2 of 2,,40,29
+2,3:22.0,,R. O'Neale makes 3-pt jump shot from 23 ft (assist by J. Crowder),40,32
+2,3:10.0,T. Ferguson misses 3-pt jump shot from 23 ft,,40,32
+2,3:06.0,,Defensive rebound by R. Gobert,40,32
+2,2:59.0,,J. Crowder misses 3-pt jump shot from 25 ft,40,32
+2,2:56.0,Defensive rebound by P. George,,40,32
+2,2:49.0,Turnover by P. George (bad pass; steal by J. Crowder),,40,32
+2,2:40.0,,Shooting foul by J. Grant (drawn by D. Mitchell),40,32
+2,2:40.0,,D. Mitchell makes free throw 1 of 2,40,33
+2,2:40.0,,D. Mitchell makes free throw 2 of 2,40,34
+2,2:34.0,R. Westbrook makes 2-pt layup from 4 ft,,42,34
+2,2:23.0,,Turnover by J. Ingles (lost ball; steal by P. George),42,34
+2,2:16.0,J. Grant misses 3-pt jump shot from 23 ft,,42,34
+2,2:13.0,,Defensive rebound by R. O'Neale,42,34
+2,2:08.0,,J. Ingles misses 3-pt jump shot from 26 ft,42,34
+2,2:04.0,,Offensive rebound by J. Crowder,42,34
+2,2:02.0,,Turnover by J. Crowder (bad pass; steal by P. George),42,34
+2,1:58.0,Personal foul by J. Ingles (drawn by P. George),,42,34
+2,1:58.0,P. George makes free throw 1 of 2,,43,34
+2,1:58.0,,D. Exum enters the game for J. Ingles,43,34
+2,1:58.0,P. George makes free throw 2 of 2,,44,34
+2,1:46.0,,Turnover by D. Mitchell (bad pass; steal by P. George),44,34
+2,1:42.0,J. Grant makes 2-pt dunk from 2 ft (assist by P. George),,46,34
+2,1:13.0,,J. Crowder misses 3-pt jump shot from 25 ft,46,34
+2,1:10.0,Defensive rebound by P. George,,46,34
+2,1:04.0,J. Grant misses 3-pt jump shot from 24 ft,,46,34
+2,1:02.0,,Defensive rebound by J. Crowder,46,34
+2,0:57.0,,Personal foul by P. George (drawn by D. Mitchell),46,34
+2,0:57.0,,D. Mitchell misses free throw 1 of 2,46,34
+2,0:57.0,,Offensive rebound by Team,46,34
+2,0:57.0,,D. Mitchell makes free throw 2 of 2,46,35
+2,0:44.0,J. Grant makes 2-pt jump shot from 6 ft (assist by R. Westbrook),,48,35
+2,0:23.0,,R. O'Neale makes 2-pt layup from 2 ft,48,37
+2,0:06.0,,Violation by Team (kicked ball),48,37
+2,0:01.0,R. Westbrook makes 2-pt layup from 2 ft (assist by P. George),,50,37
+3,11:47.0,R. Westbrook makes 3-pt jump shot from 24 ft (assist by J. Grant),,53,37
+3,11:21.0,,D. Mitchell misses 2-pt jump shot from 21 ft,53,37
+3,11:17.0,Defensive rebound by R. Westbrook,,53,37
+3,11:08.0,Turnover by P. George (bad pass; steal by D. Mitchell),,53,37
+3,11:00.0,,Shooting foul by J. Grant (drawn by R. Gobert),53,37
+3,11:00.0,,R. Gobert makes free throw 1 of 2,53,38
+3,11:00.0,,R. Gobert makes free throw 2 of 2,53,39
+3,10:47.0,J. Grant misses 2-pt layup from 3 ft (block by D. Favors),,53,39
+3,10:45.0,,Defensive rebound by R. Gobert,53,39
+3,10:34.0,,J. Ingles misses 3-pt jump shot from 23 ft,53,39
+3,10:33.0,,Offensive rebound by Team,53,39
+3,10:33.0,Loose ball foul by S. Adams (drawn by R. Gobert),,53,39
+3,10:22.0,,D. Mitchell makes 3-pt jump shot from 27 ft (assist by R. O'Neale),53,42
+3,10:09.0,P. George misses 2-pt jump shot from 14 ft,,53,42
+3,10:06.0,,Defensive rebound by D. Favors,53,42
+3,10:02.0,,R. O'Neale misses 3-pt jump shot from 26 ft,53,42
+3,9:59.0,,Offensive rebound by R. Gobert,53,42
+3,9:59.0,,Shooting foul by S. Adams (drawn by R. Gobert),53,42
+3,9:59.0,,R. Gobert makes free throw 1 of 2,53,43
+3,9:59.0,Oklahoma City full timeout,,53,43
+3,9:59.0,,R. Gobert makes free throw 2 of 2,53,44
+3,9:49.0,R. Westbrook misses 2-pt layup from 2 ft,,53,44
+3,9:48.0,,Defensive rebound by J. Ingles,53,44
+3,9:30.0,,J. Ingles misses 3-pt jump shot from 25 ft,53,44
+3,9:27.0,Defensive rebound by P. George,,53,44
+3,9:17.0,Shooting foul by D. Favors (drawn by J. Grant),,53,44
+3,9:17.0,J. Grant makes free throw 1 of 2,,54,44
+3,9:17.0,J. Grant misses free throw 2 of 2,,54,44
+3,9:15.0,,Defensive rebound by R. Gobert,54,44
+3,9:01.0,,D. Mitchell misses 3-pt jump shot from 25 ft,54,44
+3,8:58.0,Defensive rebound by P. George,,54,44
+3,8:54.0,,Violation by Team (kicked ball),54,44
+3,8:37.0,Turnover by T. Ferguson (bad pass; steal by J. Ingles),,54,44
+3,8:33.0,,Turnover by J. Ingles (bad pass; steal by R. Westbrook),54,44
+3,8:31.0,Turnover by R. Westbrook (bad pass; steal by D. Mitchell),,54,44
+3,8:23.0,,Personal foul by P. George (drawn by D. Mitchell),54,44
+3,8:12.0,,D. Mitchell makes 3-pt jump shot from 25 ft (assist by J. Ingles),54,47
+3,7:47.0,J. Grant misses 2-pt jump shot from 6 ft (block by R. Gobert),,54,47
+3,7:44.0,Offensive rebound by S. Adams,,54,47
+3,7:43.0,S. Adams misses 2-pt layup from 2 ft,,54,47
+3,7:40.0,Offensive rebound by S. Adams,,54,47
+3,7:40.0,S. Adams misses 2-pt layup from 2 ft,,54,47
+3,7:40.0,,Defensive rebound by D. Mitchell,54,47
+3,7:30.0,,R. Gobert makes 2-pt dunk from 1 ft (assist by D. Mitchell),54,49
+3,7:14.0,R. Westbrook misses 2-pt jump shot from 17 ft,,54,49
+3,7:11.0,,Defensive rebound by D. Favors,54,49
+3,7:05.0,,D. Mitchell misses 3-pt jump shot from 27 ft,54,49
+3,7:02.0,Defensive rebound by S. Adams,,54,49
+3,6:54.0,S. Adams makes 2-pt hook shot from 8 ft (assist by R. Westbrook),,56,49
+3,6:30.0,,J. Ingles misses 2-pt layup from 2 ft (block by S. Adams),56,49
+3,6:30.0,Defensive rebound by Team,,56,49
+3,6:30.0,D. Schröder enters the game for P. George,,56,49
+3,6:30.0,,J. Crowder enters the game for D. Favors,56,49
+3,6:30.0,,K. Korver enters the game for J. Ingles,56,49
+3,6:23.0,R. Westbrook misses 3-pt jump shot from 26 ft,,56,49
+3,6:20.0,,Defensive rebound by R. Gobert,56,49
+3,6:08.0,,J. Crowder misses 2-pt layup from 3 ft,56,49
+3,6:07.0,,Offensive rebound by R. Gobert,56,49
+3,6:07.0,,R. Gobert misses 2-pt layup from 2 ft,56,49
+3,6:07.0,,Offensive rebound by R. Gobert,56,49
+3,6:06.0,,R. Gobert makes 2-pt layup from 2 ft,56,51
+3,5:51.0,D. Schröder makes 2-pt jump shot from 19 ft,,58,51
+3,5:49.0,,Utah full timeout,58,51
+3,5:33.0,,K. Korver makes 2-pt layup from 2 ft (assist by R. Gobert),58,53
+3,5:09.0,D. Schröder misses 2-pt layup from 6 ft (block by R. Gobert),,58,53
+3,5:07.0,Offensive rebound by S. Adams,,58,53
+3,5:07.0,Personal foul by J. Crowder (drawn by S. Adams),,58,53
+3,5:00.0,R. Westbrook misses 2-pt jump shot from 15 ft,,58,53
+3,4:58.0,,Defensive rebound by K. Korver,58,53
+3,4:42.0,,Turnover by R. Gobert (lost ball; steal by S. Adams),58,53
+3,4:37.0,R. Westbrook makes 2-pt layup from 3 ft,,60,53
+3,4:23.0,,D. Mitchell makes 2-pt layup from 2 ft,60,55
+3,4:04.0,D. Schröder misses 2-pt jump shot from 18 ft,,60,55
+3,4:01.0,,Defensive rebound by R. O'Neale,60,55
+3,3:48.0,,J. Crowder misses 2-pt layup from 1 ft,60,55
+3,3:46.0,Defensive rebound by S. Adams,,60,55
+3,3:40.0,D. Schröder makes 2-pt layup from 2 ft,,62,55
+3,3:19.0,,Turnover by D. Mitchell (bad pass; steal by J. Grant),62,55
+3,3:17.0,Shooting foul by R. O'Neale (drawn by R. Westbrook),,62,55
+3,3:17.0,A. Nader enters the game for S. Adams,,62,55
+3,3:17.0,N. Noel enters the game for T. Ferguson,,62,55
+3,3:17.0,,D. Favors enters the game for R. Gobert,62,55
+3,3:17.0,,J. Ingles enters the game for D. Mitchell,62,55
+3,3:17.0,R. Westbrook makes free throw 1 of 2,,63,55
+3,3:17.0,R. Westbrook misses free throw 2 of 2,,63,55
+3,3:16.0,Offensive rebound by Team,,63,55
+3,3:16.0,,Loose ball foul by K. Korver (drawn by N. Noel),63,55
+3,3:09.0,R. Westbrook misses 2-pt jump shot from 10 ft,,63,55
+3,3:06.0,,Defensive rebound by J. Crowder,63,55
+3,2:59.0,,Shooting foul by R. Westbrook (drawn by D. Favors),63,55
+3,2:59.0,,D. Favors misses free throw 1 of 2,63,55
+3,2:59.0,,Offensive rebound by Team,63,55
+3,2:59.0,,D. Favors makes free throw 2 of 2,63,56
+3,2:45.0,D. Schröder makes 2-pt layup from 3 ft,,65,56
+3,2:31.0,,Turnover by K. Korver (bad pass; steal by J. Grant),65,56
+3,2:29.0,Shooting foul by J. Crowder (drawn by N. Noel),,65,56
+3,2:29.0,N. Noel makes free throw 1 of 2,,66,56
+3,2:29.0,P. George enters the game for R. Westbrook,,66,56
+3,2:29.0,N. Noel misses free throw 2 of 2,,66,56
+3,2:28.0,,Defensive rebound by J. Crowder,66,56
+3,2:16.0,,J. Crowder misses 2-pt layup from 4 ft,66,56
+3,2:13.0,Defensive rebound by D. Schröder,,66,56
+3,2:06.0,Shooting foul by D. Favors (drawn by D. Schröder),,66,56
+3,2:06.0,D. Schröder makes free throw 1 of 2,,67,56
+3,2:06.0,D. Schröder makes free throw 2 of 2,,68,56
+3,1:54.0,,J. Ingles makes 2-pt layup from 2 ft (assist by D. Favors),68,58
+3,1:39.0,N. Noel makes 2-pt dunk from 2 ft (assist by D. Schröder),,70,58
+3,1:29.0,,J. Ingles misses 3-pt jump shot from 24 ft,70,58
+3,1:26.0,Defensive rebound by P. George,,70,58
+3,1:16.0,D. Schröder makes 2-pt jump shot from 14 ft,,72,58
+3,1:02.0,,J. Crowder makes 2-pt layup from 2 ft (assist by D. Favors),72,60
+3,0:50.0,D. Schröder makes 3-pt jump shot from 25 ft (assist by N. Noel),,75,60
+3,0:36.0,,K. Korver misses 3-pt jump shot from 23 ft,75,60
+3,0:33.0,Defensive rebound by P. George,,75,60
+3,0:30.0,Personal foul by K. Korver (drawn by P. George),,75,60
+3,0:30.0,P. George makes free throw 1 of 2,,76,60
+3,0:30.0,P. George makes free throw 2 of 2,,77,60
+3,0:18.0,,J. Crowder makes 3-pt jump shot from 25 ft (assist by J. Ingles),77,63
+3,0:02.0,D. Schröder misses 3-pt jump shot from 25 ft,,77,63
+3,0:02.0,Offensive rebound by N. Noel,,77,63
+4,11:50.0,,D. Exum misses 2-pt layup from 4 ft,77,63
+4,11:48.0,Defensive rebound by P. George,,77,63
+4,11:39.0,Turnover by P. George (bad pass; steal by D. Mitchell),,77,63
+4,11:33.0,,D. Mitchell misses 2-pt layup from 3 ft,77,63
+4,11:31.0,Defensive rebound by P. George,,77,63
+4,11:26.0,A. Nader makes 3-pt jump shot from 26 ft (assist by P. George),,80,63
+4,11:11.0,,D. Favors makes 2-pt layup from 2 ft (assist by D. Exum),80,65
+4,10:51.0,D. Schröder misses 2-pt jump shot from 11 ft,,80,65
+4,10:50.0,,Defensive rebound by Team,80,65
+4,10:50.0,,K. Korver enters the game for R. O'Neale,80,65
+4,10:43.0,,Shooting foul by A. Nader (drawn by D. Mitchell),80,65
+4,10:43.0,,D. Mitchell makes free throw 1 of 2,80,66
+4,10:43.0,,D. Mitchell makes free throw 2 of 2,80,67
+4,10:34.0,Shooting foul by D. Favors (drawn by P. George),,80,67
+4,10:34.0,P. George misses free throw 1 of 2,,80,67
+4,10:34.0,Offensive rebound by Team,,80,67
+4,10:34.0,,R. Gobert enters the game for D. Favors,80,67
+4,10:34.0,P. George misses free throw 2 of 2,,80,67
+4,10:32.0,,Defensive rebound by R. Gobert,80,67
+4,10:13.0,,D. Exum misses 2-pt jump shot from 5 ft (block by N. Noel),80,67
+4,10:10.0,Defensive rebound by A. Nader,,80,67
+4,10:09.0,Turnover by A. Nader (lost ball; steal by K. Korver),,80,67
+4,9:52.0,,D. Mitchell makes 3-pt jump shot from 25 ft,80,70
+4,9:50.0,Oklahoma City full timeout,,80,70
+4,9:50.0,R. Westbrook enters the game for A. Nader,,80,70
+4,9:39.0,Personal foul by D. Exum (drawn by P. George),,80,70
+4,9:28.0,Turnover by P. George (bad pass),,80,70
+4,9:13.0,,D. Mitchell makes 2-pt dunk from 1 ft,80,72
+4,8:58.0,Personal foul by R. Gobert (drawn by P. Patterson),,80,72
+4,8:54.0,R. Westbrook misses 3-pt jump shot from 26 ft,,80,72
+4,8:49.0,,Defensive rebound by J. Crowder,80,72
+4,8:38.0,,J. Crowder makes 2-pt jump shot from 23 ft (assist by D. Mitchell),80,74
+4,8:13.0,P. George makes 2-pt jump shot from 18 ft,,82,74
+4,8:01.0,,Personal foul by P. Patterson (drawn by R. Gobert),82,74
+4,8:01.0,S. Adams enters the game for P. George,,82,74
+4,8:01.0,T. Ferguson enters the game for N. Noel,,82,74
+4,8:01.0,J. Grant enters the game for P. Patterson,,82,74
+4,7:44.0,,R. Gobert misses 2-pt hook shot from 6 ft (block by R. Westbrook),82,74
+4,7:42.0,Defensive rebound by D. Schröder,,82,74
+4,7:40.0,D. Schröder makes 2-pt layup from 3 ft,,84,74
+4,7:40.0,Shooting foul by K. Korver (drawn by D. Schröder),,84,74
+4,7:40.0,,J. Ingles enters the game for K. Korver,84,74
+4,7:40.0,D. Schröder misses free throw 1 of 1,,84,74
+4,7:39.0,,Defensive rebound by J. Crowder,84,74
+4,7:27.0,,D. Mitchell misses 2-pt layup from 6 ft (block by S. Adams),84,74
+4,7:24.0,Defensive rebound by Team,,84,74
+4,7:21.0,Personal foul by J. Crowder (drawn by R. Westbrook),,84,74
+4,7:21.0,R. Westbrook misses free throw 1 of 2,,84,74
+4,7:21.0,Offensive rebound by Team,,84,74
+4,7:21.0,R. Westbrook misses free throw 2 of 2,,84,74
+4,7:19.0,Offensive rebound by Team,,84,74
+4,6:57.0,Turnover by S. Adams (lost ball; steal by D. Mitchell),,84,74
+4,6:52.0,,J. Ingles makes 3-pt jump shot from 25 ft (assist by D. Mitchell),84,77
+4,6:33.0,D. Schröder makes 3-pt jump shot from 27 ft (assist by R. Westbrook),,87,77
+4,6:13.0,,Shooting foul by R. Westbrook (drawn by R. Gobert),87,77
+4,6:13.0,,Offensive rebound by Team,87,77
+4,6:13.0,,R. Gobert misses free throw 1 of 2,87,77
+4,6:13.0,P. George enters the game for T. Ferguson,,87,77
+4,6:13.0,,R. O'Neale enters the game for J. Crowder,87,77
+4,6:13.0,,R. Gobert misses free throw 2 of 2,87,77
+4,6:12.0,Defensive rebound by R. Westbrook,,87,77
+4,6:02.0,R. Westbrook makes 2-pt jump shot from 13 ft,,89,77
+4,5:44.0,,R. O'Neale makes 3-pt jump shot from 22 ft (assist by D. Exum),89,80
+4,5:21.0,J. Grant misses 3-pt jump shot from 24 ft,,89,80
+4,5:17.0,,Defensive rebound by R. O'Neale,89,80
+4,5:09.0,,D. Mitchell misses 2-pt layup from 3 ft,89,80
+4,5:07.0,Defensive rebound by P. George,,89,80
+4,5:00.0,S. Adams misses 2-pt jump shot from 13 ft,,89,80
+4,4:56.0,,Defensive rebound by R. Gobert,89,80
+4,4:45.0,,Personal foul by J. Grant (drawn by R. Gobert),89,80
+4,4:45.0,,J. Crowder enters the game for D. Exum,89,80
+4,4:45.0,,Utah full timeout,89,80
+4,4:37.0,,D. Mitchell misses 3-pt jump shot from 25 ft,89,80
+4,4:34.0,Defensive rebound by P. George,,89,80
+4,4:24.0,Turnover by R. Westbrook (bad pass; steal by R. Gobert),,89,80
+4,4:15.0,,R. O'Neale makes 3-pt jump shot from 25 ft (assist by J. Ingles),89,83
+4,3:53.0,D. Schröder misses 3-pt jump shot from 26 ft,,89,83
+4,3:50.0,,Defensive rebound by R. Gobert,89,83
+4,3:35.0,,D. Mitchell misses 2-pt layup from 3 ft,89,83
+4,3:33.0,Defensive rebound by D. Schröder,,89,83
+4,3:30.0,Personal foul by D. Mitchell (drawn by J. Grant),,89,83
+4,3:30.0,J. Grant makes free throw 1 of 2,,90,83
+4,3:30.0,,Utah full timeout,90,83
+4,3:30.0,J. Grant makes free throw 2 of 2,,91,83
+4,3:07.0,,D. Mitchell misses 2-pt jump shot from 8 ft,91,83
+4,3:06.0,Defensive rebound by R. Westbrook,,91,83
+4,2:51.0,R. Westbrook makes 3-pt jump shot from 33 ft (assist by P. George),,94,83
+4,2:38.0,,Personal foul by D. Schröder (drawn by D. Mitchell),94,83
+4,2:38.0,,D. Mitchell makes free throw 1 of 2,94,84
+4,2:38.0,,D. Mitchell misses free throw 2 of 2,94,84
+4,2:37.0,Defensive rebound by R. Westbrook,,94,84
+4,2:26.0,R. Westbrook makes 2-pt layup from 2 ft,,96,84
+4,2:00.0,,J. Crowder misses 3-pt jump shot from 22 ft,96,84
+4,1:58.0,,Offensive rebound by J. Crowder,96,84
+4,1:56.0,,J. Crowder misses 2-pt jump shot from 9 ft,96,84
+4,1:52.0,,Offensive rebound by J. Ingles,96,84
+4,1:46.0,,R. O'Neale misses 3-pt jump shot from 23 ft,96,84
+4,1:42.0,Defensive rebound by J. Grant,,96,84
+4,1:32.0,Personal foul by J. Crowder (drawn by P. George),,96,84
+4,1:32.0,P. George makes free throw 1 of 2,,97,84
+4,1:32.0,,G. Allen enters the game for J. Crowder,97,84
+4,1:32.0,,D. Exum enters the game for R. Gobert,97,84
+4,1:32.0,,G. Niang enters the game for J. Ingles,97,84
+4,1:32.0,,E. Udoh enters the game for D. Mitchell,97,84
+4,1:32.0,P. George makes free throw 2 of 2,,98,84
+4,1:23.0,,D. Exum misses 2-pt layup from 2 ft,98,84
+4,1:22.0,,Offensive rebound by E. Udoh,98,84
+4,1:22.0,,E. Udoh makes 2-pt layup at rim,98,86
+4,1:06.0,P. George misses 3-pt jump shot from 31 ft,,98,86
+4,1:01.0,,Defensive rebound by G. Niang,98,86
+4,0:56.0,,G. Niang misses 2-pt layup from 3 ft,98,86
+4,0:54.0,Defensive rebound by R. Westbrook,,98,86
+4,0:42.0,Turnover by S. Adams (offensive foul),,98,86
+4,0:42.0,Offensive foul by S. Adams (drawn by G. Allen),,98,86
+4,0:42.0,D. Burton enters the game for S. Adams,,98,86
+4,0:42.0,D. Grantham enters the game for P. George,,98,86
+4,0:42.0,A. Nader enters the game for J. Grant,,98,86
+4,0:42.0,N. Noel enters the game for R. Westbrook,,98,86
+4,0:21.0,,D. Exum misses 3-pt jump shot from 24 ft,98,86
+4,0:19.0,,Offensive rebound by D. Exum,98,86
+4,0:16.0,,G. Allen makes 3-pt jump shot from 24 ft (assist by D. Exum),98,89

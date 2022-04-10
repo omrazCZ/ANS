@@ -1,0 +1,547 @@
+QUARTER,TIME_REMAINING,LA LAKERS_ACTION,LA CLIPPERS_ACTION,LA LAKERS_SCORE,LA CLIPPERS_SCORE
+1,11:44.0,Turnover by L. James (out of bounds lost ball),,0,0
+1,11:31.0,,P. Beverley makes 3-pt jump shot from 25 ft (assist by M. Gortat),0,3
+1,11:14.0,B. Ingram makes 2-pt layup from 1 ft (assist by K. Kuzma),,2,3
+1,10:57.0,,Turnover by M. Gortat (bad pass; steal by R. Rondo),2,3
+1,10:55.0,R. Rondo makes 2-pt layup from 1 ft,,4,3
+1,10:40.0,,S. Gilgeous-Alexander misses 3-pt jump shot from 27 ft,4,3
+1,10:39.0,Defensive rebound by I. Zubac,,4,3
+1,10:39.0,Personal foul by T. Harris (drawn by L. James),,4,3
+1,10:24.0,L. James misses 2-pt jump shot from 17 ft,,4,3
+1,10:22.0,,Defensive rebound by A. Bradley,4,3
+1,10:18.0,,A. Bradley misses 2-pt jump shot from 20 ft,4,3
+1,10:16.0,Defensive rebound by I. Zubac,,4,3
+1,10:00.0,Turnover by K. Kuzma (lost ball; steal by S. Gilgeous-Alexander),,4,3
+1,9:53.0,,A. Bradley makes 3-pt jump shot from 24 ft (assist by S. Gilgeous-Alexander),4,6
+1,9:34.0,Shooting foul by P. Beverley (drawn by B. Ingram),,4,6
+1,9:34.0,B. Ingram makes free throw 1 of 2,,5,6
+1,9:34.0,B. Ingram makes free throw 2 of 2,,6,6
+1,9:25.0,,S. Gilgeous-Alexander misses 3-pt jump shot from 25 ft,6,6
+1,9:20.0,Defensive rebound by R. Rondo,,6,6
+1,9:13.0,Turnover by L. James (bad pass; steal by P. Beverley),,6,6
+1,9:07.0,,P. Beverley makes 3-pt jump shot from 26 ft (assist by A. Bradley),6,9
+1,8:54.0,I. Zubac misses 2-pt jump shot from 19 ft,,6,9
+1,8:52.0,,Defensive rebound by A. Bradley,6,9
+1,8:45.0,,T. Harris misses 2-pt jump shot from 16 ft,6,9
+1,8:41.0,,Offensive rebound by M. Gortat,6,9
+1,8:41.0,,M. Gortat makes 2-pt layup from 1 ft,6,11
+1,8:24.0,L. James misses 3-pt jump shot from 27 ft,,6,11
+1,8:21.0,,Defensive rebound by S. Gilgeous-Alexander,6,11
+1,8:13.0,,Turnover by P. Beverley (bad pass; steal by K. Kuzma),6,11
+1,8:08.0,L. James makes 2-pt layup from 1 ft (assist by K. Kuzma),,8,11
+1,7:54.0,,T. Harris misses 2-pt jump shot from 11 ft,8,11
+1,7:54.0,Defensive rebound by Team,,8,11
+1,7:54.0,,Loose ball foul by M. Gortat (drawn by K. Kuzma),8,11
+1,7:37.0,Shooting foul by M. Gortat (drawn by I. Zubac),,8,11
+1,7:37.0,I. Zubac makes free throw 1 of 2,,9,11
+1,7:37.0,I. Zubac makes free throw 2 of 2,,10,11
+1,7:25.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 18 ft,10,11
+1,7:21.0,,Offensive rebound by P. Beverley,10,11
+1,7:18.0,,A. Bradley makes 3-pt jump shot from 27 ft (assist by T. Harris),10,14
+1,6:59.0,B. Ingram makes 2-pt jump shot from 19 ft (assist by I. Zubac),,12,14
+1,6:44.0,,A. Bradley misses 3-pt jump shot from 27 ft,12,14
+1,6:41.0,Defensive rebound by L. James,,12,14
+1,6:38.0,K. Kuzma makes 2-pt jump shot from 11 ft (assist by L. James),,14,14
+1,6:37.0,,LA Clippers full timeout,14,14
+1,6:37.0,,M. Harrell enters the game for S. Gilgeous-Alexander,14,14
+1,6:37.0,,M. Scott enters the game for M. Gortat,14,14
+1,6:25.0,,P. Beverley misses 2-pt jump shot from 22 ft,14,14
+1,6:22.0,Defensive rebound by R. Rondo,,14,14
+1,6:09.0,I. Zubac misses 2-pt layup from 3 ft (block by M. Harrell),,14,14
+1,6:06.0,,Defensive rebound by P. Beverley,14,14
+1,6:01.0,,M. Harrell makes 2-pt hook shot from 5 ft (assist by P. Beverley),14,16
+1,5:59.0,K. Kuzma makes 3-pt jump shot from 28 ft (assist by R. Rondo),,17,16
+1,5:40.0,,Personal foul by R. Rondo (drawn by P. Beverley),17,16
+1,5:40.0,,L. Williams enters the game for P. Beverley,17,16
+1,5:28.0,,M. Scott makes 3-pt jump shot from 24 ft (assist by T. Harris),17,19
+1,5:11.0,I. Zubac misses 2-pt hook shot from 2 ft,,17,19
+1,5:09.0,,Defensive rebound by L. Williams,17,19
+1,5:02.0,,A. Bradley misses 3-pt jump shot from 25 ft,17,19
+1,4:57.0,Defensive rebound by L. James,,17,19
+1,4:53.0,Turnover by L. James (bad pass; steal by A. Bradley),,17,19
+1,4:49.0,,L. Williams misses 3-pt jump shot from 26 ft,17,19
+1,4:44.0,Defensive rebound by B. Ingram,,17,19
+1,4:38.0,Personal foul by M. Harrell (drawn by I. Zubac),,17,19
+1,4:38.0,I. Zubac makes free throw 1 of 2,,18,19
+1,4:38.0,M. Beasley enters the game for K. Kuzma,,18,19
+1,4:38.0,I. Zubac misses free throw 2 of 2,,18,19
+1,4:36.0,,Defensive rebound by M. Scott,18,19
+1,4:25.0,,Personal foul by R. Rondo (drawn by L. Williams),18,19
+1,4:25.0,J. Hart enters the game for L. James,,18,19
+1,4:25.0,J. McGee enters the game for R. Rondo,,18,19
+1,4:25.0,L. Stephenson enters the game for I. Zubac,,18,19
+1,4:11.0,,M. Scott misses 3-pt jump shot from 25 ft,18,19
+1,4:08.0,Defensive rebound by M. Beasley,,18,19
+1,4:00.0,Turnover by J. McGee (lost ball; steal by M. Harrell),,18,19
+1,3:54.0,,L. Williams misses 3-pt jump shot from 23 ft,18,19
+1,3:52.0,Defensive rebound by M. Beasley,,18,19
+1,3:47.0,J. Hart makes 2-pt layup from 2 ft (assist by B. Ingram),,20,19
+1,3:21.0,,T. Harris makes 2-pt layup from 3 ft,20,21
+1,3:21.0,LA Lakers full timeout,,20,21
+1,3:21.0,,S. Gilgeous-Alexander enters the game for A. Bradley,20,21
+1,3:02.0,M. Beasley misses 2-pt hook shot from 4 ft,,20,21
+1,3:00.0,,Defensive rebound by T. Harris,20,21
+1,2:53.0,,T. Harris makes 2-pt layup from 2 ft,20,23
+1,2:43.0,L. Stephenson makes 3-pt jump shot from 26 ft (assist by J. McGee),,23,23
+1,2:25.0,,T. Harris misses 3-pt jump shot from 27 ft,23,23
+1,2:23.0,Defensive rebound by J. McGee,,23,23
+1,2:13.0,B. Ingram misses 2-pt jump shot from 17 ft,,23,23
+1,2:10.0,,Defensive rebound by M. Scott,23,23
+1,2:04.0,,Personal foul by L. Stephenson (drawn by S. Gilgeous-Alexander),23,23
+1,1:55.0,,M. Harrell misses 2-pt layup from 1 ft,23,23
+1,1:53.0,,Offensive rebound by M. Harrell,23,23
+1,1:52.0,,M. Harrell misses 2-pt dunk from 2 ft (block by J. McGee),23,23
+1,1:52.0,Defensive rebound by M. Beasley,,23,23
+1,1:36.0,J. McGee makes 2-pt jump shot from 12 ft (assist by B. Ingram),,25,23
+1,1:27.0,,Shooting foul by L. Stephenson (drawn by S. Gilgeous-Alexander),25,23
+1,1:27.0,,S. Gilgeous-Alexander misses free throw 1 of 2,25,23
+1,1:27.0,,Offensive rebound by Team,25,23
+1,1:27.0,,S. Gilgeous-Alexander makes free throw 2 of 2,25,24
+1,1:13.0,J. McGee makes 2-pt layup from 1 ft (assist by L. Stephenson),,27,24
+1,1:00.0,,T. Harris misses 2-pt jump shot from 15 ft,27,24
+1,0:59.0,,Offensive rebound by Team,27,24
+1,0:59.0,Loose ball foul by J. McGee (drawn by M. Harrell),,27,24
+1,0:59.0,,M. Harrell misses free throw 1 of 2,27,24
+1,0:59.0,,Offensive rebound by Team,27,24
+1,0:59.0,,M. Harrell misses free throw 2 of 2,27,24
+1,0:56.0,Defensive rebound by B. Ingram,,27,24
+1,0:40.0,B. Ingram makes 2-pt jump shot from 11 ft,,29,24
+1,0:40.0,Shooting foul by T. Harris (drawn by B. Ingram),,29,24
+1,0:40.0,,J. Robinson enters the game for T. Harris,29,24
+1,0:40.0,B. Ingram makes free throw 1 of 1,,30,24
+1,0:28.0,,L. Williams misses 2-pt jump shot from 5 ft,30,24
+1,0:26.0,Defensive rebound by J. McGee,,30,24
+1,0:08.0,M. Beasley makes 2-pt jump shot from 5 ft,,32,24
+1,0:01.0,,L. Williams misses 2-pt jump shot from 4 ft,32,24
+1,0:00.0,,Offensive rebound by M. Harrell,32,24
+1,0:00.0,,M. Harrell makes 2-pt layup from 1 ft,32,26
+1,0:00.0,Violation by Team (def goaltending),,32,26
+2,11:45.0,,Personal foul by T. Chandler (drawn by L. Williams),32,26
+2,11:39.0,,S. Gilgeous-Alexander makes 3-pt jump shot from 24 ft (assist by M. Scott),32,29
+2,11:24.0,Shooting foul by J. Robinson (drawn by M. Beasley),,32,29
+2,11:24.0,M. Beasley makes free throw 1 of 2,,33,29
+2,11:24.0,M. Beasley makes free throw 2 of 2,,34,29
+2,11:13.0,,J. Robinson misses 3-pt jump shot from 23 ft,34,29
+2,11:10.0,Defensive rebound by L. Stephenson,,34,29
+2,10:56.0,L. Stephenson misses 3-pt jump shot from 26 ft,,34,29
+2,10:53.0,,Defensive rebound by L. Williams,34,29
+2,10:44.0,,M. Scott makes 3-pt jump shot from 24 ft (assist by L. Williams),34,32
+2,10:22.0,J. Hart misses 2-pt layup from 2 ft (block by M. Harrell),,34,32
+2,10:21.0,Offensive rebound by Team,,34,32
+2,10:21.0,K. Caldwell-Pope enters the game for M. Beasley,,34,32
+2,10:17.0,K. Caldwell-Pope misses 2-pt jump shot from 17 ft,,34,32
+2,10:14.0,,Defensive rebound by M. Harrell,34,32
+2,10:04.0,,S. Gilgeous-Alexander makes 2-pt jump shot from 15 ft,34,34
+2,9:53.0,Shooting foul by M. Scott (drawn by L. James),,34,34
+2,9:53.0,L. James makes free throw 1 of 2,,35,34
+2,9:53.0,L. James misses free throw 2 of 2,,35,34
+2,9:51.0,,Defensive rebound by M. Scott,35,34
+2,9:38.0,,L. Williams makes 2-pt jump shot from 21 ft,35,36
+2,9:25.0,K. Caldwell-Pope misses 2-pt jump shot from 20 ft,,35,36
+2,9:22.0,,Defensive rebound by M. Harrell,35,36
+2,9:15.0,,Turnover by M. Harrell (lost ball; steal by L. James),35,36
+2,8:58.0,L. Stephenson makes 3-pt jump shot from 26 ft (assist by L. James),,38,36
+2,8:33.0,,J. Robinson misses 3-pt jump shot from 28 ft,38,36
+2,8:31.0,Defensive rebound by L. James,,38,36
+2,8:27.0,K. Caldwell-Pope makes 3-pt jump shot from 23 ft (assist by J. Hart),,41,36
+2,8:13.0,,M. Harrell makes 2-pt dunk from 3 ft (assist by S. Gilgeous-Alexander),41,38
+2,7:59.0,K. Caldwell-Pope makes 3-pt jump shot from 27 ft (assist by L. James),,44,38
+2,7:44.0,,Shooting foul by K. Caldwell-Pope (drawn by M. Harrell),44,38
+2,7:44.0,,M. Harrell misses free throw 1 of 2,44,38
+2,7:44.0,,Offensive rebound by Team,44,38
+2,7:44.0,K. Kuzma enters the game for J. Hart,,44,38
+2,7:44.0,R. Rondo enters the game for L. Stephenson,,44,38
+2,7:44.0,,P. Beverley enters the game for S. Gilgeous-Alexander,44,38
+2,7:44.0,,A. Bradley enters the game for J. Robinson,44,38
+2,7:44.0,,M. Harrell misses free throw 2 of 2,44,38
+2,7:44.0,,Offensive rebound by P. Beverley,44,38
+2,7:38.0,,M. Scott misses 3-pt jump shot from 25 ft,44,38
+2,7:36.0,Defensive rebound by L. James,,44,38
+2,7:18.0,L. James misses 2-pt jump shot from 8 ft,,44,38
+2,7:17.0,,Defensive rebound by M. Harrell,44,38
+2,7:12.0,,LA Clippers full timeout,44,38
+2,7:12.0,B. Ingram enters the game for T. Chandler,,44,38
+2,7:12.0,I. Zubac enters the game for L. James,,44,38
+2,7:12.0,,M. Gortat enters the game for M. Harrell,44,38
+2,7:12.0,,T. Harris enters the game for M. Scott,44,38
+2,7:03.0,,L. Williams makes 3-pt jump shot from 25 ft (assist by P. Beverley),44,41
+2,6:41.0,B. Ingram makes 2-pt layup from 2 ft (assist by R. Rondo),,46,41
+2,6:26.0,,P. Beverley makes 3-pt jump shot from 22 ft (assist by T. Harris),46,44
+2,6:08.0,K. Kuzma misses 2-pt jump shot from 13 ft,,46,44
+2,6:05.0,,Defensive rebound by L. Williams,46,44
+2,6:01.0,,Turnover by M. Gortat (lost ball; steal by K. Kuzma),46,44
+2,5:45.0,K. Kuzma misses 2-pt jump shot from 10 ft (block by M. Gortat),,46,44
+2,5:41.0,,Defensive rebound by M. Gortat,46,44
+2,5:39.0,,A. Bradley makes 2-pt layup from 1 ft (assist by L. Williams),46,46
+2,5:39.0,LA Lakers full timeout,,46,46
+2,5:25.0,R. Rondo makes 2-pt jump shot from 17 ft,,48,46
+2,5:01.0,,Shooting foul by B. Ingram (drawn by A. Bradley),48,46
+2,5:01.0,,A. Bradley makes free throw 1 of 2,48,47
+2,5:01.0,,A. Bradley misses free throw 2 of 2,48,47
+2,4:58.0,Defensive rebound by R. Rondo,,48,47
+2,4:34.0,R. Rondo misses 2-pt layup at rim (block by M. Gortat),,48,47
+2,4:32.0,,Defensive rebound by M. Gortat,48,47
+2,4:29.0,,Personal foul by K. Kuzma (drawn by M. Gortat),48,47
+2,4:29.0,L. James enters the game for K. Caldwell-Pope,,48,47
+2,4:29.0,,S. Gilgeous-Alexander enters the game for L. Williams,48,47
+2,4:14.0,,Turnover by Team (shot clock),48,47
+2,3:59.0,I. Zubac misses 2-pt dunk from 3 ft (block by P. Beverley),,48,47
+2,3:56.0,,Defensive rebound by P. Beverley,48,47
+2,3:52.0,,S. Gilgeous-Alexander makes 2-pt jump shot from 5 ft (assist by P. Beverley),48,49
+2,3:35.0,R. Rondo misses 3-pt jump shot from 24 ft,,48,49
+2,3:35.0,,Defensive rebound by S. Gilgeous-Alexander,48,49
+2,3:21.0,,T. Harris misses 3-pt jump shot from 24 ft,48,49
+2,3:19.0,Defensive rebound by R. Rondo,,48,49
+2,3:15.0,Turnover by I. Zubac (traveling),,48,49
+2,3:15.0,J. McGee enters the game for I. Zubac,,48,49
+2,3:02.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 17 ft,48,49
+2,3:00.0,Defensive rebound by B. Ingram,,48,49
+2,2:55.0,Turnover by B. Ingram (lost ball; steal by S. Gilgeous-Alexander),,48,49
+2,2:50.0,,S. Gilgeous-Alexander misses 2-pt layup from 1 ft,48,49
+2,2:47.0,,Offensive rebound by T. Harris,48,49
+2,2:47.0,,T. Harris makes 2-pt layup from 1 ft,48,51
+2,2:43.0,Turnover by K. Kuzma (bad pass; steal by P. Beverley),,48,51
+2,2:42.0,,Turnover by P. Beverley (step out of bounds),48,51
+2,2:28.0,L. James misses 3-pt jump shot from 27 ft,,48,51
+2,2:25.0,,Defensive rebound by A. Bradley,48,51
+2,2:18.0,,M. Gortat misses 2-pt hook shot from 6 ft,48,51
+2,2:16.0,Defensive rebound by R. Rondo,,48,51
+2,2:09.0,R. Rondo makes 2-pt layup from 2 ft,,50,51
+2,2:03.0,,A. Bradley misses 2-pt layup from 1 ft,50,51
+2,2:00.0,,Offensive rebound by A. Bradley,50,51
+2,1:57.0,,A. Bradley misses 3-pt jump shot from 25 ft,50,51
+2,1:57.0,Defensive rebound by R. Rondo,,50,51
+2,1:49.0,L. James makes 2-pt layup from 1 ft (assist by R. Rondo),,52,51
+2,1:32.0,,P. Beverley misses 2-pt layup from 2 ft,52,51
+2,1:31.0,Defensive rebound by J. McGee,,52,51
+2,1:29.0,Personal foul by P. Beverley (drawn by R. Rondo),,52,51
+2,1:29.0,J. Hart enters the game for K. Kuzma,,52,51
+2,1:29.0,,M. Scott enters the game for S. Gilgeous-Alexander,52,51
+2,1:29.0,,L. Williams enters the game for T. Harris,52,51
+2,1:19.0,R. Rondo misses 2-pt jump shot from 1 ft,,52,51
+2,1:17.0,,Defensive rebound by M. Gortat,52,51
+2,1:01.0,,M. Scott misses 2-pt jump shot from 11 ft,52,51
+2,1:00.0,Defensive rebound by J. McGee,,52,51
+2,0:55.0,B. Ingram misses 2-pt layup from 4 ft (block by A. Bradley),,52,51
+2,0:55.0,Offensive rebound by Team,,52,51
+2,0:55.0,K. Caldwell-Pope enters the game for R. Rondo,,52,51
+2,0:55.0,,B. Marjanović enters the game for M. Gortat,52,51
+2,0:53.0,K. Caldwell-Pope makes 2-pt layup from 1 ft (assist by L. James),,54,51
+2,0:39.0,,M. Scott misses 3-pt jump shot from 24 ft,54,51
+2,0:37.0,Defensive rebound by L. James,,54,51
+2,0:29.0,L. James misses 2-pt hook shot from 9 ft,,54,51
+2,0:25.0,Offensive rebound by J. McGee,,54,51
+2,0:25.0,J. McGee misses 2-pt layup at rim,,54,51
+2,0:24.0,,Defensive rebound by M. Scott,54,51
+2,0:03.0,,L. Williams makes 2-pt layup from 2 ft,54,53
+2,0:00.0,K. Caldwell-Pope misses 3-pt jump shot from 33 ft,,54,53
+2,0:00.0,Offensive rebound by Team,,54,53
+3,11:41.0,,A. Bradley makes 2-pt layup from 1 ft (assist by T. Harris),54,55
+3,11:23.0,I. Zubac makes 2-pt hook shot from 4 ft (assist by L. James),,56,55
+3,11:09.0,,S. Gilgeous-Alexander misses 3-pt jump shot from 23 ft,56,55
+3,11:06.0,Defensive rebound by I. Zubac,,56,55
+3,10:59.0,K. Kuzma makes 3-pt jump shot from 26 ft (assist by R. Rondo),,59,55
+3,10:44.0,,A. Bradley misses 2-pt jump shot from 18 ft,59,55
+3,10:41.0,Defensive rebound by L. James,,59,55
+3,10:33.0,Shooting foul by S. Gilgeous-Alexander (drawn by L. James),,59,55
+3,10:33.0,L. James makes free throw 1 of 2,,60,55
+3,10:33.0,L. James misses free throw 2 of 2,,60,55
+3,10:30.0,,Defensive rebound by P. Beverley,60,55
+3,10:12.0,,S. Gilgeous-Alexander makes 2-pt layup from 3 ft (assist by P. Beverley),60,57
+3,10:00.0,Shooting foul by S. Gilgeous-Alexander (drawn by I. Zubac),,60,57
+3,10:00.0,I. Zubac makes free throw 1 of 2,,61,57
+3,10:00.0,I. Zubac makes free throw 2 of 2,,62,57
+3,9:50.0,,T. Harris makes 2-pt layup from 2 ft (assist by M. Gortat),62,59
+3,9:29.0,I. Zubac misses 2-pt layup from 1 ft,,62,59
+3,9:27.0,,Defensive rebound by T. Harris,62,59
+3,9:09.0,,M. Gortat misses 2-pt hook shot from 2 ft,62,59
+3,9:06.0,Defensive rebound by B. Ingram,,62,59
+3,8:58.0,L. James makes 3-pt jump shot from 27 ft (assist by R. Rondo),,65,59
+3,8:47.0,,Personal foul by B. Ingram (drawn by A. Bradley),65,59
+3,8:36.0,,A. Bradley makes 2-pt jump shot from 12 ft (assist by S. Gilgeous-Alexander),65,61
+3,8:15.0,Turnover by K. Kuzma (step out of bounds),,65,61
+3,7:52.0,,Turnover by Team (shot clock),65,61
+3,7:31.0,B. Ingram misses 3-pt jump shot from 22 ft,,65,61
+3,7:29.0,,Defensive rebound by T. Harris,65,61
+3,7:19.0,,S. Gilgeous-Alexander misses 2-pt hook shot from 3 ft,65,61
+3,7:14.0,Defensive rebound by R. Rondo,,65,61
+3,7:12.0,R. Rondo makes 2-pt layup from 2 ft (assist by L. James),,67,61
+3,7:11.0,,LA Clippers full timeout,67,61
+3,7:11.0,,M. Harrell enters the game for M. Gortat,67,61
+3,7:00.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 13 ft,67,61
+3,6:57.0,Defensive rebound by R. Rondo,,67,61
+3,6:48.0,Personal foul by S. Gilgeous-Alexander (drawn by B. Ingram),,67,61
+3,6:48.0,,L. Williams enters the game for S. Gilgeous-Alexander,67,61
+3,6:42.0,K. Kuzma makes 2-pt layup from 3 ft (assist by L. James),,69,61
+3,6:25.0,,Personal foul by I. Zubac (drawn by T. Harris),69,61
+3,6:13.0,,M. Harrell makes 2-pt hook shot from 5 ft,69,63
+3,6:02.0,R. Rondo makes 3-pt jump shot from 26 ft,,72,63
+3,5:48.0,,Shooting foul by K. Kuzma (drawn by T. Harris),72,63
+3,5:48.0,,T. Harris makes free throw 1 of 2,72,64
+3,5:48.0,T. Chandler enters the game for I. Zubac,,72,64
+3,5:48.0,,T. Harris makes free throw 2 of 2,72,65
+3,5:31.0,Shooting foul by M. Harrell (drawn by T. Chandler),,72,65
+3,5:31.0,T. Chandler misses free throw 1 of 2,,72,65
+3,5:31.0,Offensive rebound by Team,,72,65
+3,5:31.0,J. Hart enters the game for K. Kuzma,,72,65
+3,5:31.0,,M. Scott enters the game for A. Bradley,72,65
+3,5:31.0,T. Chandler makes free throw 2 of 2,,73,65
+3,5:10.0,,M. Harrell misses 2-pt jump shot from 17 ft,73,65
+3,5:08.0,Defensive rebound by L. James,,73,65
+3,5:04.0,Offensive foul by J. Hart (drawn by M. Harrell),,73,65
+3,5:04.0,Turnover by J. Hart (offensive foul),,73,65
+3,4:43.0,,M. Harrell misses 2-pt jump shot from 4 ft,73,65
+3,4:40.0,Defensive rebound by T. Chandler,,73,65
+3,4:33.0,B. Ingram makes 2-pt dunk from 1 ft (assist by R. Rondo),,75,65
+3,4:32.0,,LA Clippers full timeout,75,65
+3,4:32.0,L. Stephenson enters the game for R. Rondo,,75,65
+3,4:20.0,,P. Beverley makes 3-pt jump shot from 27 ft (assist by T. Harris),75,68
+3,4:06.0,T. Chandler makes 2-pt dunk from 3 ft (assist by B. Ingram),,77,68
+3,3:47.0,,P. Beverley misses 3-pt jump shot from 27 ft,77,68
+3,3:45.0,Defensive rebound by J. Hart,,77,68
+3,3:37.0,Shooting foul by P. Beverley (drawn by L. James),,77,68
+3,3:37.0,L. James makes free throw 1 of 2,,78,68
+3,3:37.0,L. James makes free throw 2 of 2,,79,68
+3,3:15.0,,T. Harris misses 3-pt jump shot from 26 ft,79,68
+3,3:11.0,Defensive rebound by J. Hart,,79,68
+3,3:05.0,L. James misses 3-pt jump shot from 27 ft,,79,68
+3,3:02.0,,Defensive rebound by P. Beverley,79,68
+3,3:01.0,,Shooting foul by B. Ingram (drawn by L. Williams),79,68
+3,3:01.0,,L. Williams makes free throw 1 of 2,79,69
+3,3:01.0,,J. Robinson enters the game for P. Beverley,79,69
+3,3:01.0,LA Lakers full timeout,,79,69
+3,3:01.0,K. Caldwell-Pope enters the game for L. James,,79,69
+3,3:01.0,,L. Williams makes free throw 2 of 2,79,70
+3,2:44.0,Shooting foul by M. Scott (drawn by B. Ingram),,79,70
+3,2:44.0,B. Ingram makes free throw 1 of 2,,80,70
+3,2:44.0,B. Ingram makes free throw 2 of 2,,81,70
+3,2:34.0,,M. Scott misses 2-pt jump shot from 4 ft,81,70
+3,2:32.0,Defensive rebound by J. Hart,,81,70
+3,2:29.0,Personal foul by T. Harris (drawn by T. Chandler),,81,70
+3,2:29.0,T. Chandler makes free throw 1 of 2,,82,70
+3,2:29.0,,P. Beverley enters the game for J. Robinson,82,70
+3,2:29.0,,S. Thornwell enters the game for M. Scott,82,70
+3,2:29.0,T. Chandler misses free throw 2 of 2,,82,70
+3,2:23.0,,Defensive rebound by T. Harris,82,70
+3,2:14.0,,L. Williams misses 2-pt jump shot from 20 ft (block by T. Chandler),82,70
+3,2:10.0,Defensive rebound by K. Caldwell-Pope,,82,70
+3,2:09.0,Turnover by K. Caldwell-Pope (bad pass; steal by L. Williams),,82,70
+3,2:03.0,,S. Thornwell misses 3-pt jump shot from 24 ft,82,70
+3,1:59.0,Defensive rebound by T. Chandler,,82,70
+3,1:55.0,J. Hart misses 2-pt layup from 3 ft,,82,70
+3,1:55.0,,Defensive rebound by T. Harris,82,70
+3,1:51.0,,L. Williams makes 3-pt jump shot from 25 ft (assist by T. Harris),82,73
+3,1:48.0,LA Lakers full timeout,,82,73
+3,1:48.0,,J. Robinson enters the game for T. Harris,82,73
+3,1:30.0,B. Ingram makes 2-pt jump shot from 14 ft (assist by J. Hart),,84,73
+3,1:11.0,,Turnover by S. Thornwell (lost ball; steal by T. Chandler),84,73
+3,0:53.0,L. Stephenson misses 2-pt jump shot from 7 ft,,84,73
+3,0:51.0,Offensive rebound by T. Chandler,,84,73
+3,0:44.0,L. Stephenson makes 3-pt jump shot from 26 ft (assist by B. Ingram),,87,73
+3,0:36.0,,L. Williams misses 2-pt jump shot from 15 ft,87,73
+3,0:33.0,Defensive rebound by K. Caldwell-Pope,,87,73
+3,0:25.0,J. Hart misses 3-pt jump shot from 22 ft,,87,73
+3,0:24.0,,Defensive rebound by M. Harrell,87,73
+3,0:05.0,,S. Thornwell misses 2-pt jump shot from 6 ft,87,73
+3,0:05.0,,Offensive rebound by M. Harrell,87,73
+3,0:05.0,,M. Harrell makes 2-pt layup at rim,87,75
+3,0:03.0,Turnover by B. Ingram (lost ball; steal by S. Thornwell),,87,75
+3,0:01.0,,J. Robinson misses 3-pt jump shot from 44 ft,87,75
+3,0:01.0,,Offensive rebound by Team,87,75
+4,11:48.0,Personal foul by M. Harrell (drawn by J. McGee),,87,75
+4,11:39.0,R. Rondo misses 2-pt jump shot from 5 ft,,87,75
+4,11:36.0,,Defensive rebound by P. Beverley,87,75
+4,11:31.0,,P. Beverley misses 3-pt jump shot from 27 ft,87,75
+4,11:24.0,Defensive rebound by K. Caldwell-Pope,,87,75
+4,11:19.0,K. Caldwell-Pope misses 2-pt jump shot from 21 ft,,87,75
+4,11:18.0,Offensive rebound by Team,,87,75
+4,11:18.0,,Loose ball foul by J. Robinson (drawn by J. McGee),87,75
+4,11:15.0,Personal foul by S. Thornwell (drawn by K. Caldwell-Pope),,87,75
+4,11:08.0,Personal foul by J. Robinson (drawn by R. Rondo),,87,75
+4,11:08.0,Violation by Team (delay of game),,87,75
+4,10:57.0,J. McGee makes 2-pt hook shot from 5 ft,,89,75
+4,10:50.0,,M. Harrell makes 2-pt layup from 3 ft (assist by L. Williams),89,77
+4,10:50.0,,Shooting foul by J. McGee (drawn by M. Harrell),89,77
+4,10:50.0,L. James enters the game for K. Caldwell-Pope,,89,77
+4,10:50.0,,T. Harris enters the game for S. Thornwell,89,77
+4,10:50.0,,M. Harrell makes free throw 1 of 1,89,78
+4,10:30.0,L. James makes 2-pt jump shot from 21 ft,,91,78
+4,10:06.0,,J. Robinson makes 2-pt layup from 3 ft,91,80
+4,9:47.0,L. James misses 2-pt jump shot from 19 ft,,91,80
+4,9:45.0,,Defensive rebound by T. Harris,91,80
+4,9:42.0,,P. Beverley makes 3-pt jump shot from 23 ft (assist by T. Harris),91,83
+4,9:18.0,R. Rondo misses 2-pt layup from 3 ft (block by J. Robinson),,91,83
+4,9:18.0,Offensive rebound by Team,,91,83
+4,9:13.0,L. James misses 2-pt jump shot from 19 ft,,91,83
+4,9:08.0,,Defensive rebound by M. Harrell,91,83
+4,9:04.0,,M. Harrell makes 2-pt dunk from 1 ft (assist by L. Williams),91,85
+4,9:03.0,,Technical foul by M. Harrell,91,85
+4,9:03.0,L. James makes technical free throw,,92,85
+4,8:53.0,L. James makes 2-pt jump shot from 15 ft,,94,85
+4,8:43.0,Violation by Team (kicked ball),,94,85
+4,8:37.0,,L. Williams makes 2-pt jump shot from 19 ft,94,87
+4,8:36.0,,Loose ball foul by M. Harrell (drawn by J. McGee),94,87
+4,8:36.0,J. McGee makes free throw 1 of 2,,95,87
+4,8:36.0,J. McGee makes free throw 2 of 2,,96,87
+4,8:24.0,,J. Robinson makes 3-pt jump shot from 26 ft (assist by T. Harris),96,90
+4,7:55.0,L. James misses 3-pt jump shot from 29 ft,,96,90
+4,7:53.0,Offensive rebound by L. Stephenson,,96,90
+4,7:49.0,R. Rondo misses 2-pt jump shot from 14 ft,,96,90
+4,7:46.0,,Defensive rebound by T. Harris,96,90
+4,7:40.0,,P. Beverley misses 3-pt jump shot from 23 ft,96,90
+4,7:37.0,Defensive rebound by R. Rondo,,96,90
+4,7:32.0,Personal foul by M. Harrell (drawn by R. Rondo),,96,90
+4,7:32.0,R. Rondo misses free throw 1 of 2,,96,90
+4,7:32.0,Offensive rebound by Team,,96,90
+4,7:32.0,B. Ingram enters the game for J. Hart,,96,90
+4,7:32.0,K. Kuzma enters the game for L. James,,96,90
+4,7:32.0,,A. Bradley enters the game for P. Beverley,96,90
+4,7:32.0,,B. Marjanović enters the game for M. Harrell,96,90
+4,7:32.0,R. Rondo makes free throw 2 of 2,,97,90
+4,7:25.0,,L. Williams makes 2-pt layup from 1 ft,97,92
+4,7:25.0,,Shooting foul by J. McGee (drawn by L. Williams),97,92
+4,7:25.0,,L. Williams misses free throw 1 of 1,97,92
+4,7:25.0,,Offensive rebound by B. Marjanović,97,92
+4,7:25.0,,B. Marjanović makes 2-pt layup from 1 ft,97,94
+4,7:25.0,Violation by Team (def goaltending),,97,94
+4,7:25.0,,Shooting foul by B. Ingram (drawn by B. Marjanović),97,94
+4,7:25.0,T. Chandler enters the game for J. McGee,,97,94
+4,7:25.0,,B. Marjanović makes free throw 1 of 1,97,95
+4,7:05.0,K. Kuzma misses 2-pt jump shot from 7 ft,,97,95
+4,7:03.0,Offensive rebound by T. Chandler,,97,95
+4,7:02.0,L. Stephenson makes 3-pt jump shot from 27 ft (assist by T. Chandler),,100,95
+4,6:48.0,,Shooting foul by T. Chandler (drawn by T. Harris),100,95
+4,6:48.0,,LA Clippers full timeout,100,95
+4,6:48.0,,T. Harris makes free throw 2 of 2,100,96
+4,6:48.0,,T. Harris makes free throw 1 of 2,100,97
+4,6:24.0,L. Stephenson makes 3-pt jump shot from 30 ft (assist by R. Rondo),,103,97
+4,6:17.0,,Shooting foul by L. Stephenson (drawn by B. Marjanović),103,97
+4,6:17.0,,B. Marjanović makes free throw 1 of 2,103,98
+4,6:17.0,L. James enters the game for R. Rondo,,103,98
+4,6:17.0,,B. Marjanović makes free throw 2 of 2,103,99
+4,5:55.0,Turnover by T. Chandler (3 sec),,103,99
+4,5:46.0,,J. Robinson misses 3-pt jump shot from 27 ft,103,99
+4,5:44.0,,Offensive rebound by J. Robinson,103,99
+4,5:43.0,,J. Robinson makes 2-pt layup from 2 ft,103,101
+4,5:43.0,,Shooting foul by T. Chandler (drawn by J. Robinson),103,101
+4,5:43.0,,J. Robinson misses free throw 1 of 1,103,101
+4,5:41.0,Defensive rebound by L. James,,103,101
+4,5:24.0,K. Kuzma misses 3-pt jump shot from 27 ft,,103,101
+4,5:21.0,Offensive rebound by Team,,103,101
+4,5:07.0,L. James makes 2-pt jump shot from 17 ft,,105,101
+4,4:57.0,,B. Marjanović makes 2-pt dunk from 3 ft (assist by L. Williams),105,103
+4,4:55.0,LA Lakers full timeout,,105,103
+4,4:54.0,Personal foul by A. Bradley (drawn by L. Stephenson),,105,103
+4,4:54.0,L. Stephenson makes free throw 1 of 2,,106,103
+4,4:54.0,L. Stephenson makes free throw 2 of 2,,107,103
+4,4:39.0,,Turnover by L. Williams (lost ball; steal by L. Stephenson),107,103
+4,4:22.0,L. James misses 2-pt jump shot from 13 ft,,107,103
+4,4:21.0,Offensive rebound by Team,,107,103
+4,4:21.0,R. Rondo enters the game for K. Kuzma,,107,103
+4,4:11.0,L. James misses 2-pt layup from 2 ft,,107,103
+4,4:05.0,Offensive rebound by T. Chandler,,107,103
+4,4:05.0,T. Chandler misses 2-pt layup from 1 ft,,107,103
+4,4:05.0,,Defensive rebound by B. Marjanović,107,103
+4,4:05.0,,Personal foul by R. Rondo (drawn by T. Harris),107,103
+4,4:05.0,,T. Harris misses free throw 1 of 2,107,103
+4,4:05.0,,Offensive rebound by Team,107,103
+4,4:05.0,J. McGee enters the game for T. Chandler,,107,103
+4,4:05.0,,T. Harris misses free throw 2 of 2,107,103
+4,4:03.0,Defensive rebound by L. James,,107,103
+4,3:47.0,B. Ingram makes 2-pt jump shot from 6 ft,,109,103
+4,3:29.0,,J. Robinson misses 3-pt jump shot from 27 ft,109,103
+4,3:24.0,Defensive rebound by R. Rondo,,109,103
+4,3:20.0,B. Ingram misses 3-pt jump shot from 26 ft,,109,103
+4,3:17.0,Offensive rebound by L. James,,109,103
+4,3:17.0,L. James makes 2-pt layup from 1 ft,,111,103
+4,3:17.0,,LA Clippers full timeout,111,103
+4,3:01.0,,L. Williams makes 2-pt layup from 2 ft,111,105
+4,2:32.0,R. Rondo misses 2-pt layup from 3 ft,,111,105
+4,2:30.0,,Defensive rebound by B. Marjanović,111,105
+4,2:20.0,,A. Bradley misses 3-pt jump shot from 25 ft,111,105
+4,2:17.0,Defensive rebound by L. James,,111,105
+4,1:57.0,Shooting foul by T. Harris (drawn by J. McGee),,111,105
+4,1:57.0,J. McGee misses free throw 1 of 2,,111,105
+4,1:57.0,Offensive rebound by Team,,111,105
+4,1:57.0,,P. Beverley enters the game for J. Robinson,111,105
+4,1:57.0,J. McGee makes free throw 2 of 2,,112,105
+4,1:49.0,,L. Williams makes 2-pt jump shot from 5 ft,112,107
+4,1:49.0,,Shooting foul by R. Rondo (drawn by L. Williams),112,107
+4,1:49.0,T. Chandler enters the game for J. McGee,,112,107
+4,1:49.0,,L. Williams misses free throw 1 of 1,112,107
+4,1:48.0,,Offensive rebound by B. Marjanović,112,107
+4,1:47.0,,B. Marjanović makes 2-pt layup from 3 ft,112,109
+4,1:25.0,L. James misses 3-pt jump shot from 26 ft,,112,109
+4,1:25.0,,Defensive rebound by A. Bradley,112,109
+4,1:01.0,,T. Harris misses 2-pt jump shot from 17 ft,112,109
+4,0:58.0,Defensive rebound by R. Rondo,,112,109
+4,0:46.0,R. Rondo misses 3-pt jump shot from 25 ft,,112,109
+4,0:42.0,,Defensive rebound by P. Beverley,112,109
+4,0:35.0,,T. Harris makes 3-pt jump shot from 25 ft (assist by L. Williams),112,112
+4,0:35.0,LA Lakers full timeout,,112,112
+4,0:35.0,,S. Thornwell enters the game for L. Williams,112,112
+4,0:32.0,L. Stephenson misses 3-pt jump shot from 26 ft,,112,112
+4,0:30.0,,Defensive rebound by A. Bradley,112,112
+4,0:30.0,,LA Clippers full timeout,112,112
+4,0:30.0,J. Hart enters the game for R. Rondo,,112,112
+4,0:30.0,,L. Williams enters the game for S. Thornwell,112,112
+4,0:10.0,,A. Bradley misses 3-pt jump shot from 26 ft,112,112
+4,0:10.0,Defensive rebound by L. James,,112,112
+4,0:10.0,LA Lakers full timeout,,112,112
+4,0:10.0,K. Caldwell-Pope enters the game for T. Chandler,,112,112
+4,0:10.0,,J. Robinson enters the game for B. Marjanović,112,112
+4,0:10.0,,S. Thornwell enters the game for L. Williams,112,112
+4,0:03.0,L. James misses 2-pt layup from 4 ft (block by T. Harris),,112,112
+4,0:03.0,,Defensive rebound by Team,112,112
+4,0:03.0,R. Rondo enters the game for K. Caldwell-Pope,,112,112
+4,0:03.0,,L. Williams enters the game for S. Thornwell,112,112
+4,0:00.0,,L. Williams misses 3-pt jump shot from 27 ft,112,112
+4,0:00.0,,Offensive rebound by Team,112,112
+1OT,4:40.0,B. Ingram misses 2-pt jump shot from 15 ft,,112,112
+1OT,4:37.0,Offensive rebound by R. Rondo,,112,112
+1OT,4:33.0,L. Stephenson misses 3-pt jump shot from 23 ft,,112,112
+1OT,4:31.0,,Defensive rebound by B. Marjanović,112,112
+1OT,4:17.0,,B. Marjanović misses 2-pt jump shot from 6 ft (block by T. Chandler),112,112
+1OT,4:13.0,Defensive rebound by L. Stephenson,,112,112
+1OT,4:01.0,L. James makes 2-pt layup from 2 ft,,114,112
+1OT,3:49.0,,A. Bradley misses 3-pt jump shot from 24 ft,114,112
+1OT,3:46.0,Defensive rebound by R. Rondo,,114,112
+1OT,3:30.0,Personal foul by T. Harris (drawn by T. Chandler),,114,112
+1OT,3:16.0,R. Rondo makes 2-pt jump shot from 9 ft (assist by L. James),,116,112
+1OT,2:52.0,,Shooting foul by L. Stephenson (drawn by B. Marjanović),116,112
+1OT,2:52.0,,B. Marjanović makes free throw 1 of 2,116,113
+1OT,2:52.0,J. McGee enters the game for T. Chandler,,116,113
+1OT,2:52.0,,B. Marjanović makes free throw 2 of 2,116,114
+1OT,2:37.0,Shooting foul by B. Marjanović (drawn by J. McGee),,116,114
+1OT,2:37.0,J. McGee makes free throw 1 of 2,,117,114
+1OT,2:37.0,J. McGee makes free throw 2 of 2,,118,114
+1OT,2:26.0,,T. Harris misses 2-pt layup from 3 ft (block by J. McGee),118,114
+1OT,2:24.0,Defensive rebound by L. James,,118,114
+1OT,2:05.0,Turnover by L. James (bad pass; steal by L. Williams),,118,114
+1OT,2:00.0,,L. Williams makes 2-pt layup from 4 ft,118,116
+1OT,2:00.0,LA Lakers full timeout,,118,116
+1OT,1:45.0,J. McGee misses 2-pt dunk from 2 ft,,118,116
+1OT,1:43.0,,Defensive rebound by A. Bradley,118,116
+1OT,1:36.0,,L. Williams makes 2-pt jump shot from 18 ft,118,118
+1OT,1:15.0,L. James makes 2-pt jump shot from 12 ft,,120,118
+1OT,0:51.0,,Turnover by A. Bradley (bad pass; steal by J. McGee),120,118
+1OT,0:45.0,L. Stephenson makes 2-pt layup from 3 ft (assist by L. James),,122,118
+1OT,0:45.0,Shooting foul by B. Marjanović (drawn by L. Stephenson),,122,118
+1OT,0:45.0,L. Stephenson makes free throw 1 of 1,,123,118
+1OT,0:45.0,,LA Clippers full timeout,123,118
+1OT,0:45.0,T. Chandler enters the game for J. McGee,,123,118
+1OT,0:37.0,,A. Bradley misses 3-pt jump shot from 24 ft,123,118
+1OT,0:34.0,,Offensive rebound by A. Bradley,123,118
+1OT,0:32.0,,L. Williams misses 3-pt jump shot from 24 ft,123,118
+1OT,0:29.0,Defensive rebound by L. James,,123,118
+1OT,0:24.0,Technical foul by L. Stephenson,,123,118
+1OT,0:24.0,,L. Williams misses technical free throw,123,118
+1OT,0:24.0,Defensive rebound by Team,,123,118
+1OT,0:22.0,Turnover by L. Stephenson (lost ball; steal by A. Bradley),,123,118
+1OT,0:17.0,,LA Clippers full timeout,123,118
+1OT,0:17.0,J. Hart enters the game for T. Chandler,,123,118
+1OT,0:06.0,,Personal take foul by R. Rondo (drawn by L. Williams),123,118
+1OT,0:02.0,,P. Beverley makes 2-pt jump shot from 6 ft (assist by B. Marjanović),123,120
+1OT,0:02.0,LA Lakers full timeout,,123,120
+1OT,0:02.0,K. Caldwell-Pope enters the game for L. Stephenson,,123,120
+1OT,0:00.0,Turnover by R. Rondo (bad pass; steal by L. Williams),,123,120

@@ -1,0 +1,446 @@
+QUARTER,TIME_REMAINING,INDIANA_ACTION,TORONTO_ACTION,INDIANA_SCORE,TORONTO_SCORE
+1,11:45.0,B. Bogdanović misses 2-pt layup from 2 ft,,0,0
+1,11:43.0,Offensive rebound by B. Bogdanović,,0,0
+1,11:43.0,B. Bogdanović misses 2-pt layup from 2 ft,,0,0
+1,11:43.0,Offensive rebound by B. Bogdanović,,0,0
+1,11:43.0,B. Bogdanović makes 2-pt layup at rim,,2,0
+1,11:43.0,Shooting foul by D. Green (drawn by B. Bogdanović),,2,0
+1,11:43.0,B. Bogdanović misses free throw 1 of 1,,2,0
+1,11:36.0,,Defensive rebound by S. Ibaka,2,0
+1,11:30.0,,Turnover by S. Ibaka (out of bounds lost ball),2,0
+1,11:18.0,V. Oladipo makes 2-pt jump shot from 20 ft,,4,0
+1,11:01.0,,S. Ibaka makes 2-pt jump shot from 20 ft (assist by F. VanVleet),4,2
+1,10:43.0,T. Young makes 2-pt jump shot from 18 ft,,6,2
+1,10:24.0,,S. Ibaka makes 2-pt hook shot from 3 ft (assist by D. Green),6,4
+1,10:12.0,D. Collison misses 2-pt layup from 2 ft,,6,4
+1,10:12.0,,Defensive rebound by P. Siakam,6,4
+1,10:06.0,,D. Green misses 3-pt jump shot from 26 ft,6,4
+1,10:04.0,,Offensive rebound by P. Siakam,6,4
+1,10:02.0,,K. Lowry makes 3-pt jump shot from 25 ft (assist by P. Siakam),6,7
+1,9:41.0,D. Collison makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),,9,7
+1,9:25.0,,D. Green makes 3-pt jump shot from 22 ft (assist by F. VanVleet),9,10
+1,9:11.0,Offensive foul by T. Young (drawn by K. Lowry),,9,10
+1,9:11.0,Turnover by T. Young (offensive foul),,9,10
+1,9:01.0,,K. Lowry makes 2-pt jump shot from 3 ft (assist by P. Siakam),9,12
+1,9:01.0,,Shooting foul by V. Oladipo (drawn by K. Lowry),9,12
+1,9:01.0,,K. Lowry makes free throw 1 of 1,9,13
+1,8:48.0,D. Sabonis misses 2-pt layup from 3 ft,,9,13
+1,8:46.0,,Defensive rebound by K. Lowry,9,13
+1,8:41.0,,F. VanVleet misses 3-pt jump shot from 25 ft,9,13
+1,8:38.0,,Offensive rebound by P. Siakam,9,13
+1,8:36.0,,Offensive foul by P. Siakam (drawn by T. Young),9,13
+1,8:36.0,,Turnover by P. Siakam (offensive foul),9,13
+1,8:23.0,Turnover by D. Sabonis (lost ball; steal by K. Lowry),,9,13
+1,8:18.0,,Turnover by K. Lowry (step out of bounds),9,13
+1,8:12.0,B. Bogdanović makes 2-pt layup from 2 ft,,11,13
+1,8:00.0,,Offensive foul by S. Ibaka (drawn by V. Oladipo),11,13
+1,8:00.0,,Turnover by S. Ibaka (offensive foul),11,13
+1,7:46.0,V. Oladipo makes 2-pt jump shot from 17 ft,,13,13
+1,7:36.0,,F. VanVleet makes 2-pt jump shot from 16 ft (assist by K. Lowry),13,15
+1,7:21.0,Shooting foul by F. VanVleet (drawn by D. Sabonis),,13,15
+1,7:21.0,D. Sabonis makes free throw 1 of 2,,14,15
+1,7:21.0,D. Sabonis makes free throw 2 of 2,,15,15
+1,7:00.0,,P. Siakam makes 2-pt jump shot from 18 ft,15,17
+1,6:45.0,B. Bogdanović makes 2-pt jump shot from 20 ft (assist by D. Sabonis),,17,17
+1,6:27.0,,D. Green makes 3-pt jump shot from 25 ft (assist by F. VanVleet),17,20
+1,6:11.0,Personal foul by K. Lowry (drawn by D. Sabonis),,17,20
+1,6:11.0,,Toronto full timeout,17,20
+1,5:59.0,T. Young makes 2-pt layup from 1 ft (assist by D. Sabonis),,19,20
+1,5:38.0,,D. Green misses 2-pt jump shot from 16 ft,19,20
+1,5:36.0,Defensive rebound by V. Oladipo,,19,20
+1,5:26.0,T. Young misses 3-pt jump shot from 23 ft,,19,20
+1,5:24.0,Offensive rebound by Team,,19,20
+1,5:15.0,B. Bogdanović makes 2-pt jump shot from 14 ft (assist by V. Oladipo),,21,20
+1,5:10.0,,Turnover by K. Lowry (bad pass),21,20
+1,5:02.0,Shooting foul by D. Green (drawn by D. Sabonis),,21,20
+1,5:02.0,D. Sabonis makes free throw 1 of 2,,22,20
+1,5:02.0,,N. Powell enters the game for D. Green,22,20
+1,5:02.0,,D. Wright enters the game for K. Lowry,22,20
+1,5:02.0,D. Sabonis makes free throw 2 of 2,,23,20
+1,4:40.0,,S. Ibaka makes 2-pt jump shot from 16 ft (assist by D. Wright),23,22
+1,4:32.0,Turnover by V. Oladipo (palming),,23,22
+1,4:22.0,,P. Siakam makes 2-pt hook shot from 4 ft,23,24
+1,4:09.0,D. Sabonis misses 2-pt jump shot from 14 ft,,23,24
+1,4:07.0,,Defensive rebound by P. Siakam,23,24
+1,4:01.0,,P. Siakam misses 2-pt hook shot from 4 ft,23,24
+1,3:57.0,,Offensive rebound by D. Wright,23,24
+1,3:57.0,,D. Wright misses 2-pt layup from 1 ft,23,24
+1,3:57.0,Defensive rebound by D. Sabonis,,23,24
+1,3:50.0,B. Bogdanović makes 3-pt jump shot from 25 ft (assist by D. Collison),,26,24
+1,3:35.0,,S. Ibaka makes 2-pt jump shot from 14 ft,26,26
+1,3:30.0,Indiana full timeout,,26,26
+1,3:30.0,C. Joseph enters the game for B. Bogdanović,,26,26
+1,3:30.0,,O. Anunoby enters the game for S. Ibaka,26,26
+1,3:18.0,D. Collison misses 2-pt jump shot from 8 ft,,26,26
+1,3:14.0,,Defensive rebound by P. Siakam,26,26
+1,2:51.0,,F. VanVleet makes 2-pt jump shot from 11 ft,26,28
+1,2:48.0,Turnover by D. Sabonis (bad pass; steal by D. Wright),,26,28
+1,2:42.0,,D. Wright makes 3-pt jump shot from 23 ft,26,31
+1,2:24.0,D. Sabonis makes 2-pt dunk from 1 ft (assist by D. Collison),,28,31
+1,2:10.0,,F. VanVleet makes 3-pt jump shot from 23 ft,28,34
+1,1:55.0,D. Sabonis makes 2-pt dunk from 2 ft (assist by D. Collison),,30,34
+1,1:44.0,,F. VanVleet misses 3-pt jump shot from 29 ft,30,34
+1,1:40.0,Defensive rebound by D. Sabonis,,30,34
+1,1:34.0,C. Joseph makes 2-pt jump shot from 18 ft,,32,34
+1,1:18.0,,O. Anunoby makes 3-pt jump shot from 26 ft (assist by N. Powell),32,37
+1,1:08.0,Personal foul by N. Powell (drawn by C. Joseph),,32,37
+1,1:08.0,C. Joseph makes free throw 1 of 2,,33,37
+1,1:08.0,B. Bogdanović enters the game for D. Collison,,33,37
+1,1:08.0,T. Evans enters the game for V. Oladipo,,33,37
+1,1:08.0,D. McDermott enters the game for D. Sabonis,,33,37
+1,1:08.0,K. O'Quinn enters the game for T. Young,,33,37
+1,1:08.0,,K. Lowry enters the game for P. Siakam,33,37
+1,1:08.0,,G. Monroe enters the game for F. VanVleet,33,37
+1,1:08.0,C. Joseph makes free throw 2 of 2,,34,37
+1,0:45.0,,G. Monroe misses 2-pt hook shot from 9 ft,34,37
+1,0:42.0,,Offensive rebound by O. Anunoby,34,37
+1,0:40.0,,Turnover by O. Anunoby (bad pass; steal by C. Joseph),34,37
+1,0:34.0,Shooting foul by K. Lowry (drawn by B. Bogdanović),,34,37
+1,0:34.0,B. Bogdanović misses free throw 1 of 2,,34,37
+1,0:34.0,Offensive rebound by Team,,34,37
+1,0:34.0,B. Bogdanović makes free throw 2 of 2,,35,37
+1,0:22.0,,G. Monroe misses 2-pt hook shot from 6 ft,35,37
+1,0:20.0,Defensive rebound by B. Bogdanović,,35,37
+1,0:00.0,T. Evans misses 3-pt jump shot from 29 ft,,35,37
+1,0:00.0,Offensive rebound by Team,,35,37
+2,11:44.0,,O. Anunoby misses 2-pt dunk from 6 ft (block by K. O'Quinn),35,37
+2,11:39.0,Defensive rebound by C. Joseph,,35,37
+2,11:29.0,B. Bogdanović makes 2-pt jump shot from 11 ft,,37,37
+2,11:15.0,,N. Powell makes 2-pt layup from 2 ft (assist by D. Wright),37,39
+2,10:56.0,K. O'Quinn makes 2-pt layup from 2 ft (assist by D. McDermott),,39,39
+2,10:38.0,,N. Powell misses 2-pt jump shot from 23 ft,39,39
+2,10:36.0,Defensive rebound by B. Bogdanović,,39,39
+2,10:20.0,K. O'Quinn makes 2-pt jump shot from 20 ft (assist by D. McDermott),,41,39
+2,10:07.0,,G. Monroe makes 2-pt hook shot from 3 ft,41,41
+2,9:42.0,B. Bogdanović misses 2-pt jump shot from 21 ft,,41,41
+2,9:39.0,,Defensive rebound by D. Wright,41,41
+2,9:36.0,,D. Wright makes 2-pt jump shot from 4 ft,41,43
+2,9:19.0,Offensive foul by T. Evans (drawn by K. Lowry),,41,43
+2,9:19.0,Turnover by T. Evans (offensive foul),,41,43
+2,9:06.0,,K. Lowry misses 3-pt jump shot from 26 ft,41,43
+2,9:03.0,Defensive rebound by K. O'Quinn,,41,43
+2,8:53.0,Personal foul by D. Wright (drawn by C. Joseph),,41,43
+2,8:50.0,Turnover by K. O'Quinn (bad pass; steal by N. Powell),,41,43
+2,8:46.0,,N. Powell makes 2-pt dunk from 2 ft,41,45
+2,8:30.0,T. Evans misses 2-pt layup from 3 ft,,41,45
+2,8:29.0,,Defensive rebound by G. Monroe,41,45
+2,8:12.0,,D. Wright misses 2-pt layup from 3 ft (block by K. O'Quinn),41,45
+2,8:09.0,,Offensive rebound by D. Wright,41,45
+2,8:07.0,,N. Powell makes 3-pt jump shot from 23 ft (assist by D. Wright),41,48
+2,8:00.0,Indiana full timeout,,41,48
+2,8:00.0,V. Oladipo enters the game for B. Bogdanović,,41,48
+2,7:52.0,K. O'Quinn misses 2-pt jump shot from 15 ft,,41,48
+2,7:49.0,,Defensive rebound by K. Lowry,41,48
+2,7:46.0,,K. Lowry makes 2-pt jump shot from 8 ft,41,50
+2,7:46.0,,Shooting foul by C. Joseph (drawn by K. Lowry),41,50
+2,7:46.0,,K. Lowry makes free throw 1 of 1,41,51
+2,7:34.0,K. O'Quinn makes 2-pt jump shot from 16 ft (assist by V. Oladipo),,43,51
+2,7:12.0,,O. Anunoby misses 3-pt jump shot from 23 ft,43,51
+2,7:09.0,Defensive rebound by C. Joseph,,43,51
+2,7:05.0,Shooting foul by G. Monroe (drawn by V. Oladipo),,43,51
+2,7:05.0,V. Oladipo makes free throw 1 of 2,,44,51
+2,7:05.0,V. Oladipo makes free throw 2 of 2,,45,51
+2,6:45.0,,G. Monroe makes 2-pt layup from 3 ft (assist by K. Lowry),45,53
+2,6:45.0,,Shooting foul by K. O'Quinn (drawn by G. Monroe),45,53
+2,6:45.0,,F. VanVleet enters the game for K. Lowry,45,53
+2,6:45.0,,G. Monroe makes free throw 1 of 1,45,54
+2,6:28.0,K. O'Quinn misses 3-pt jump shot from 25 ft,,45,54
+2,6:25.0,,Defensive rebound by G. Monroe,45,54
+2,6:19.0,,Shooting foul by C. Joseph (drawn by G. Monroe),45,54
+2,6:19.0,,G. Monroe makes free throw 1 of 2,45,55
+2,6:19.0,D. Sabonis enters the game for D. McDermott,,45,55
+2,6:19.0,T. Young enters the game for K. O'Quinn,,45,55
+2,6:19.0,,G. Monroe makes free throw 2 of 2,45,56
+2,6:04.0,Shooting foul by D. Wright (drawn by T. Evans),,45,56
+2,6:04.0,T. Evans makes free throw 1 of 2,,46,56
+2,6:04.0,T. Evans misses free throw 2 of 2,,46,56
+2,6:02.0,,Defensive rebound by N. Powell,46,56
+2,5:45.0,,O. Anunoby misses 3-pt jump shot from 26 ft,46,56
+2,5:44.0,,Offensive rebound by Team,46,56
+2,5:44.0,Loose ball foul by D. Sabonis (drawn by G. Monroe),,46,56
+2,5:44.0,,S. Ibaka enters the game for O. Anunoby,46,56
+2,5:44.0,,P. Siakam enters the game for G. Monroe,46,56
+2,5:36.0,,D. Wright misses 2-pt layup from 3 ft,46,56
+2,5:35.0,Defensive rebound by Team,,46,56
+2,5:35.0,Personal foul by S. Ibaka (drawn by D. Sabonis),,46,56
+2,5:23.0,V. Oladipo makes 2-pt jump shot from 19 ft (assist by D. Sabonis),,48,56
+2,4:58.0,,P. Siakam misses 2-pt jump shot from 4 ft,48,56
+2,4:56.0,Defensive rebound by D. Sabonis,,48,56
+2,4:52.0,T. Evans misses 2-pt layup from 2 ft,,48,56
+2,4:52.0,Offensive rebound by V. Oladipo,,48,56
+2,4:48.0,V. Oladipo makes 2-pt layup at rim,,50,56
+2,4:43.0,,Toronto full timeout,50,56
+2,4:43.0,B. Bogdanović enters the game for T. Evans,,50,56
+2,4:43.0,D. Collison enters the game for C. Joseph,,50,56
+2,4:43.0,,D. Green enters the game for D. Wright,50,56
+2,4:31.0,,Shooting foul by D. Sabonis (drawn by P. Siakam),50,56
+2,4:31.0,,P. Siakam makes free throw 1 of 2,50,57
+2,4:31.0,,P. Siakam makes free throw 2 of 2,50,58
+2,4:16.0,D. Collison misses 2-pt jump shot from 19 ft,,50,58
+2,4:13.0,,Defensive rebound by N. Powell,50,58
+2,4:01.0,,D. Green makes 3-pt jump shot from 22 ft (assist by F. VanVleet),50,61
+2,3:38.0,D. Collison makes 2-pt layup from 3 ft (assist by D. Sabonis),,52,61
+2,3:35.0,,Turnover by S. Ibaka (bad pass; steal by T. Young),52,61
+2,3:34.0,D. Collison makes 2-pt layup from 2 ft (assist by T. Young),,54,61
+2,3:34.0,,Violation by Team (def goaltending),54,61
+2,3:23.0,,N. Powell makes 3-pt jump shot from 27 ft (assist by P. Siakam),54,64
+2,3:10.0,B. Bogdanović makes 2-pt layup from 1 ft,,56,64
+2,2:59.0,,Personal foul by T. Young (drawn by F. VanVleet),56,64
+2,2:59.0,,F. VanVleet makes free throw 1 of 2,56,65
+2,2:59.0,,K. Lowry enters the game for N. Powell,56,65
+2,2:59.0,,F. VanVleet makes free throw 2 of 2,56,66
+2,2:47.0,V. Oladipo makes 2-pt layup from 2 ft,,58,66
+2,2:47.0,Shooting foul by S. Ibaka (drawn by V. Oladipo),,58,66
+2,2:47.0,,G. Monroe enters the game for S. Ibaka,58,66
+2,2:47.0,V. Oladipo makes free throw 1 of 1,,59,66
+2,2:22.0,,K. Lowry misses 2-pt jump shot from 18 ft,59,66
+2,2:20.0,Defensive rebound by D. Sabonis,,59,66
+2,2:08.0,D. Sabonis misses 2-pt hook shot from 3 ft,,59,66
+2,2:03.0,Offensive rebound by D. Sabonis,,59,66
+2,2:02.0,D. Sabonis misses 2-pt layup at rim,,59,66
+2,2:01.0,,Defensive rebound by K. Lowry,59,66
+2,1:53.0,,D. Green misses 3-pt jump shot from 26 ft,59,66
+2,1:51.0,Defensive rebound by T. Young,,59,66
+2,1:45.0,V. Oladipo misses 3-pt jump shot from 24 ft,,59,66
+2,1:42.0,,Defensive rebound by G. Monroe,59,66
+2,1:39.0,,D. Green makes 3-pt jump shot from 25 ft (assist by K. Lowry),59,69
+2,1:12.0,V. Oladipo misses 3-pt jump shot from 24 ft,,59,69
+2,1:09.0,,Defensive rebound by P. Siakam,59,69
+2,1:04.0,,Personal foul by V. Oladipo (drawn by F. VanVleet),59,69
+2,1:04.0,,F. VanVleet makes free throw 1 of 2,59,70
+2,1:04.0,T. Evans enters the game for V. Oladipo,,59,70
+2,1:04.0,D. McDermott enters the game for D. Sabonis,,59,70
+2,1:04.0,K. O'Quinn enters the game for T. Young,,59,70
+2,1:04.0,,N. Powell enters the game for D. Green,59,70
+2,1:04.0,,F. VanVleet misses free throw 2 of 2,59,70
+2,1:02.0,Defensive rebound by K. O'Quinn,,59,70
+2,0:47.0,Shooting foul by G. Monroe (drawn by K. O'Quinn),,59,70
+2,0:47.0,K. O'Quinn makes free throw 1 of 2,,60,70
+2,0:47.0,K. O'Quinn makes free throw 2 of 2,,61,70
+2,0:32.0,,K. Lowry misses 3-pt jump shot from 26 ft,61,70
+2,0:29.0,Defensive rebound by K. O'Quinn,,61,70
+2,0:08.0,B. Bogdanović misses 3-pt jump shot from 24 ft,,61,70
+2,0:05.0,Offensive rebound by K. O'Quinn,,61,70
+2,0:00.0,D. Collison makes 2-pt layup from 1 ft (assist by B. Bogdanović),,63,70
+3,11:43.0,,Turnover by K. Lowry (bad pass; steal by T. Young),63,70
+3,11:37.0,B. Bogdanović makes 3-pt jump shot from 24 ft (assist by D. Collison),,66,70
+3,11:13.0,,F. VanVleet misses 3-pt jump shot from 25 ft,66,70
+3,11:10.0,Defensive rebound by B. Bogdanović,,66,70
+3,11:03.0,D. Sabonis makes 2-pt layup from 3 ft (assist by D. Collison),,68,70
+3,10:50.0,,Toronto full timeout,68,70
+3,10:44.0,,Shooting foul by B. Bogdanović (drawn by S. Ibaka),68,70
+3,10:44.0,,S. Ibaka makes free throw 1 of 2,68,71
+3,10:44.0,,S. Ibaka makes free throw 2 of 2,68,72
+3,10:33.0,D. Sabonis misses 2-pt jump shot from 21 ft,,68,72
+3,10:31.0,,Defensive rebound by F. VanVleet,68,72
+3,10:13.0,,S. Ibaka misses 2-pt layup from 3 ft,68,72
+3,10:11.0,,Offensive rebound by S. Ibaka,68,72
+3,10:08.0,,Turnover by S. Ibaka (lost ball; steal by B. Bogdanović),68,72
+3,10:02.0,T. Young makes 2-pt hook shot from 4 ft (assist by V. Oladipo),,70,72
+3,9:53.0,,Turnover by S. Ibaka (traveling),70,72
+3,9:42.0,D. Sabonis makes 2-pt dunk from 2 ft (assist by B. Bogdanović),,72,72
+3,9:25.0,,D. Green makes 3-pt jump shot from 23 ft (assist by P. Siakam),72,75
+3,9:11.0,V. Oladipo misses 2-pt jump shot from 19 ft,,72,75
+3,9:08.0,,Defensive rebound by S. Ibaka,72,75
+3,8:55.0,,P. Siakam misses 2-pt jump shot from 8 ft,72,75
+3,8:53.0,Defensive rebound by B. Bogdanović,,72,75
+3,8:41.0,D. Collison makes 2-pt jump shot from 18 ft,,74,75
+3,8:33.0,,P. Siakam makes 2-pt layup from 2 ft (assist by K. Lowry),74,77
+3,8:12.0,Turnover by T. Young (lost ball; steal by K. Lowry),,74,77
+3,8:08.0,,P. Siakam makes 2-pt dunk from 2 ft (assist by K. Lowry),74,79
+3,7:53.0,V. Oladipo misses 2-pt jump shot from 17 ft,,74,79
+3,7:50.0,,Defensive rebound by Team,74,79
+3,7:36.0,,P. Siakam misses 3-pt jump shot from 25 ft,74,79
+3,7:34.0,Defensive rebound by T. Young,,74,79
+3,7:33.0,Turnover by T. Young (lost ball; steal by K. Lowry),,74,79
+3,7:30.0,,S. Ibaka makes 3-pt jump shot from 25 ft (assist by K. Lowry),74,82
+3,7:30.0,Indiana full timeout,,74,82
+3,7:07.0,D. Sabonis misses 2-pt hook shot from 7 ft,,74,82
+3,7:02.0,Offensive rebound by T. Young,,74,82
+3,7:02.0,T. Young makes 2-pt layup from 1 ft,,76,82
+3,6:49.0,,K. Lowry makes 3-pt jump shot from 25 ft,76,85
+3,6:25.0,T. Young misses 3-pt jump shot from 23 ft,,76,85
+3,6:25.0,Offensive rebound by T. Young,,76,85
+3,6:24.0,T. Young misses 2-pt layup from 1 ft,,76,85
+3,6:23.0,,Defensive rebound by F. VanVleet,76,85
+3,6:19.0,,Personal foul by B. Bogdanović (drawn by S. Ibaka),76,85
+3,6:13.0,,S. Ibaka makes 3-pt jump shot from 23 ft (assist by K. Lowry),76,88
+3,5:57.0,B. Bogdanović misses 3-pt jump shot from 26 ft,,76,88
+3,5:55.0,,Defensive rebound by P. Siakam,76,88
+3,5:50.0,,Turnover by P. Siakam (lost ball; steal by B. Bogdanović),76,88
+3,5:46.0,V. Oladipo misses 3-pt jump shot from 25 ft,,76,88
+3,5:42.0,,Defensive rebound by P. Siakam,76,88
+3,5:31.0,,K. Lowry misses 3-pt jump shot from 25 ft,76,88
+3,5:28.0,Defensive rebound by D. Sabonis,,76,88
+3,5:22.0,B. Bogdanović misses 2-pt layup from 2 ft,,76,88
+3,5:20.0,,Defensive rebound by S. Ibaka,76,88
+3,5:12.0,,Turnover by K. Lowry (bad pass; steal by D. Collison),76,88
+3,5:05.0,T. Young makes 2-pt hook shot from 3 ft (assist by D. Sabonis),,78,88
+3,4:50.0,,Personal foul by T. Young (drawn by F. VanVleet),78,88
+3,4:50.0,C. Joseph enters the game for B. Bogdanović,,78,88
+3,4:50.0,,O. Anunoby enters the game for K. Lowry,78,88
+3,4:50.0,,N. Powell enters the game for P. Siakam,78,88
+3,4:42.0,,Turnover by F. VanVleet (lost ball; steal by C. Joseph),78,88
+3,4:33.0,D. Sabonis misses 2-pt layup from 2 ft (block by S. Ibaka),,78,88
+3,4:33.0,Offensive rebound by Team,,78,88
+3,4:28.0,Turnover by D. Collison (bad pass; steal by D. Green),,78,88
+3,4:23.0,,Turnover by D. Green (bad pass; steal by T. Young),78,88
+3,4:20.0,Shooting foul by D. Green (drawn by V. Oladipo),,78,88
+3,4:20.0,V. Oladipo makes free throw 1 of 2,,79,88
+3,4:20.0,V. Oladipo misses free throw 2 of 2,,79,88
+3,4:18.0,,Defensive rebound by O. Anunoby,79,88
+3,4:02.0,,F. VanVleet misses 2-pt jump shot from 16 ft,79,88
+3,3:59.0,Defensive rebound by D. Sabonis,,79,88
+3,3:53.0,V. Oladipo misses 2-pt layup from 1 ft,,79,88
+3,3:51.0,,Defensive rebound by S. Ibaka,79,88
+3,3:46.0,,D. Green misses 3-pt jump shot from 24 ft,79,88
+3,3:43.0,Defensive rebound by D. Sabonis,,79,88
+3,3:36.0,D. Sabonis misses 2-pt jump shot from 9 ft,,79,88
+3,3:33.0,,Defensive rebound by S. Ibaka,79,88
+3,3:21.0,,S. Ibaka makes 2-pt jump shot from 17 ft (assist by F. VanVleet),79,90
+3,3:14.0,Indiana full timeout,,79,90
+3,3:14.0,D. McDermott enters the game for D. Collison,,79,90
+3,3:14.0,K. O'Quinn enters the game for D. Sabonis,,79,90
+3,3:14.0,,G. Monroe enters the game for D. Green,79,90
+3,3:14.0,,D. Wright enters the game for S. Ibaka,79,90
+3,2:58.0,Shooting foul by N. Powell (drawn by K. O'Quinn),,79,90
+3,2:58.0,K. O'Quinn misses free throw 1 of 2,,79,90
+3,2:58.0,Offensive rebound by Team,,79,90
+3,2:58.0,K. O'Quinn makes free throw 2 of 2,,80,90
+3,2:37.0,,G. Monroe makes 2-pt layup from 2 ft (assist by O. Anunoby),80,92
+3,2:22.0,K. O'Quinn misses 2-pt layup from 3 ft,,80,92
+3,2:20.0,Offensive rebound by K. O'Quinn,,80,92
+3,2:20.0,Personal foul by F. VanVleet (drawn by K. O'Quinn),,80,92
+3,2:20.0,B. Bogdanović enters the game for V. Oladipo,,80,92
+3,2:20.0,T. Evans enters the game for T. Young,,80,92
+3,2:20.0,,K. Lowry enters the game for F. VanVleet,80,92
+3,2:07.0,C. Joseph misses 3-pt jump shot from 27 ft,,80,92
+3,2:01.0,,Defensive rebound by G. Monroe,80,92
+3,1:57.0,,N. Powell makes 2-pt layup from 2 ft,80,94
+3,1:45.0,T. Evans makes 2-pt layup from 2 ft (assist by K. O'Quinn),,82,94
+3,1:20.0,,G. Monroe misses 2-pt hook shot from 6 ft,82,94
+3,1:18.0,Defensive rebound by B. Bogdanović,,82,94
+3,1:05.0,C. Joseph makes 2-pt layup from 3 ft,,84,94
+3,0:50.0,,G. Monroe misses 2-pt layup from 1 ft (block by K. O'Quinn),84,94
+3,0:47.0,Defensive rebound by B. Bogdanović,,84,94
+3,0:44.0,C. Joseph misses 2-pt layup from 4 ft (block by K. Lowry),,84,94
+3,0:44.0,Offensive rebound by Team,,84,94
+3,0:32.0,C. Joseph misses 2-pt jump shot from 17 ft,,84,94
+3,0:30.0,,Defensive rebound by G. Monroe,84,94
+3,0:22.0,,G. Monroe makes 2-pt layup from 2 ft (assist by K. Lowry),84,96
+3,0:10.0,Personal foul by K. Lowry (drawn by T. Evans),,84,96
+3,0:04.0,T. Evans misses 3-pt jump shot from 26 ft,,84,96
+3,0:03.0,Offensive rebound by Team,,84,96
+3,0:00.0,Turnover by D. McDermott (bad pass; steal by G. Monroe),,84,96
+4,11:47.0,D. McDermott makes 2-pt layup from 2 ft (assist by K. O'Quinn),,86,96
+4,11:31.0,,N. Powell misses 2-pt jump shot from 8 ft,86,96
+4,11:27.0,Defensive rebound by K. O'Quinn,,86,96
+4,11:21.0,T. Evans makes 2-pt jump shot from 2 ft,,88,96
+4,10:57.0,,N. Powell makes 3-pt jump shot from 25 ft (assist by D. Wright),88,99
+4,10:42.0,B. Bogdanović makes 2-pt layup from 2 ft,,90,99
+4,10:24.0,,O. Anunoby misses 3-pt jump shot from 22 ft,90,99
+4,10:21.0,Defensive rebound by T. Evans,,90,99
+4,10:19.0,Turnover by T. Evans (bad pass),,90,99
+4,10:11.0,,Personal foul by D. McDermott (drawn by K. Lowry),90,99
+4,10:08.0,,K. Lowry misses 3-pt jump shot from 25 ft,90,99
+4,10:05.0,Defensive rebound by K. O'Quinn,,90,99
+4,9:54.0,T. Evans misses 3-pt jump shot from 26 ft,,90,99
+4,9:51.0,,Defensive rebound by D. Wright,90,99
+4,9:45.0,,K. Lowry misses 2-pt jump shot from 11 ft,90,99
+4,9:43.0,Defensive rebound by C. Joseph,,90,99
+4,9:29.0,T. Evans misses 2-pt layup from 3 ft,,90,99
+4,9:29.0,,Defensive rebound by Team,90,99
+4,9:29.0,Loose ball foul by K. O'Quinn (drawn by G. Monroe),,90,99
+4,9:13.0,,N. Powell makes 2-pt jump shot from 5 ft (assist by D. Wright),90,101
+4,9:01.0,Turnover by C. Joseph (lost ball; steal by O. Anunoby),,90,101
+4,8:59.0,,Personal foul by D. McDermott (drawn by D. Wright),90,101
+4,8:40.0,,D. Wright misses 2-pt jump shot from 13 ft (block by K. O'Quinn),90,101
+4,8:38.0,,Offensive rebound by G. Monroe,90,101
+4,8:36.0,,G. Monroe misses 2-pt jump shot from 2 ft,90,101
+4,8:34.0,,Offensive rebound by O. Anunoby,90,101
+4,8:34.0,,O. Anunoby makes 2-pt layup at rim,90,103
+4,8:34.0,Indiana full timeout,,90,103
+4,8:34.0,V. Oladipo enters the game for B. Bogdanović,,90,103
+4,8:34.0,T. Young enters the game for T. Evans,,90,103
+4,8:34.0,,F. VanVleet enters the game for K. Lowry,90,103
+4,8:23.0,Turnover by V. Oladipo (bad pass; steal by D. Wright),,90,103
+4,8:18.0,,N. Powell makes 2-pt jump shot from 6 ft (assist by D. Wright),90,105
+4,7:58.0,K. O'Quinn misses 2-pt jump shot from 4 ft,,90,105
+4,7:55.0,,Defensive rebound by G. Monroe,90,105
+4,7:51.0,,F. VanVleet misses 2-pt layup from 2 ft,90,105
+4,7:48.0,Defensive rebound by T. Young,,90,105
+4,7:41.0,C. Joseph misses 2-pt jump shot from 15 ft,,90,105
+4,7:37.0,Offensive rebound by T. Young,,90,105
+4,7:37.0,T. Young makes 2-pt layup from 1 ft,,92,105
+4,7:29.0,,Personal foul by D. McDermott (drawn by N. Powell),92,105
+4,7:29.0,B. Bogdanović enters the game for D. McDermott,,92,105
+4,7:29.0,D. Sabonis enters the game for K. O'Quinn,,92,105
+4,7:14.0,,G. Monroe misses 2-pt jump shot from 12 ft,92,105
+4,7:10.0,Defensive rebound by T. Young,,92,105
+4,7:03.0,V. Oladipo misses 2-pt jump shot from 15 ft,,92,105
+4,7:01.0,,Defensive rebound by O. Anunoby,92,105
+4,6:45.0,,D. Wright makes 2-pt layup from 3 ft,92,107
+4,6:26.0,B. Bogdanović misses 2-pt jump shot from 4 ft (block by O. Anunoby),,92,107
+4,6:25.0,Offensive rebound by Team,,92,107
+4,6:22.0,B. Bogdanović misses 2-pt jump shot from 11 ft,,92,107
+4,6:18.0,,Defensive rebound by G. Monroe,92,107
+4,6:13.0,,N. Powell makes 2-pt layup from 2 ft (assist by F. VanVleet),92,109
+4,6:00.0,C. Joseph misses 2-pt jump shot from 14 ft,,92,109
+4,5:57.0,Offensive rebound by D. Sabonis,,92,109
+4,5:56.0,D. Sabonis makes 2-pt layup from 4 ft,,94,109
+4,5:44.0,,Toronto full timeout,94,109
+4,5:36.0,,F. VanVleet misses 3-pt jump shot from 25 ft,94,109
+4,5:32.0,Defensive rebound by B. Bogdanović,,94,109
+4,5:22.0,D. Sabonis makes 2-pt hook shot from 8 ft,,96,109
+4,5:01.0,,D. Wright makes 3-pt jump shot from 25 ft (assist by F. VanVleet),96,112
+4,4:37.0,V. Oladipo misses 3-pt jump shot from 26 ft,,96,112
+4,4:36.0,,Defensive rebound by G. Monroe,96,112
+4,4:26.0,,G. Monroe misses 2-pt layup from 2 ft,96,112
+4,4:24.0,Defensive rebound by D. Sabonis,,96,112
+4,4:15.0,C. Joseph misses 2-pt jump shot from 6 ft,,96,112
+4,4:10.0,Offensive rebound by T. Young,,96,112
+4,4:10.0,T. Young makes 2-pt layup from 1 ft,,98,112
+4,4:03.0,,Toronto full timeout,98,112
+4,4:03.0,,S. Ibaka enters the game for O. Anunoby,98,112
+4,4:03.0,,K. Lowry enters the game for G. Monroe,98,112
+4,4:03.0,,P. Siakam enters the game for D. Wright,98,112
+4,3:50.0,,Shooting foul by T. Young (drawn by P. Siakam),98,112
+4,3:50.0,,P. Siakam makes free throw 1 of 2,98,113
+4,3:50.0,,P. Siakam makes free throw 2 of 2,98,114
+4,3:37.0,V. Oladipo misses 2-pt jump shot from 15 ft,,98,114
+4,3:34.0,,Defensive rebound by P. Siakam,98,114
+4,3:20.0,,S. Ibaka misses 2-pt jump shot from 17 ft,98,114
+4,3:19.0,Defensive rebound by C. Joseph,,98,114
+4,3:12.0,Personal foul by S. Ibaka (drawn by D. Sabonis),,98,114
+4,3:06.0,B. Bogdanović misses 2-pt layup from 4 ft (block by S. Ibaka),,98,114
+4,3:02.0,,Defensive rebound by P. Siakam,98,114
+4,3:00.0,,Turnover by P. Siakam (bad pass),98,114
+4,2:51.0,V. Oladipo makes 2-pt jump shot from 16 ft (assist by D. Sabonis),,100,114
+4,2:32.0,,F. VanVleet misses 3-pt jump shot from 23 ft,100,114
+4,2:30.0,Defensive rebound by D. Sabonis,,100,114
+4,2:25.0,Personal foul by N. Powell (drawn by B. Bogdanović),,100,114
+4,2:15.0,C. Joseph misses 2-pt jump shot from 11 ft,,100,114
+4,2:12.0,Offensive rebound by T. Young,,100,114
+4,2:04.0,C. Joseph misses 2-pt jump shot from 10 ft,,100,114
+4,2:02.0,,Defensive rebound by Team,100,114
+4,1:44.0,,Personal foul by V. Oladipo (drawn by F. VanVleet),100,114
+4,1:44.0,,F. VanVleet makes free throw 1 of 2,100,115
+4,1:44.0,A. Holiday enters the game for B. Bogdanović,,100,115
+4,1:44.0,T. Leaf enters the game for V. Oladipo,,100,115
+4,1:44.0,D. McDermott enters the game for D. Sabonis,,100,115
+4,1:44.0,K. O'Quinn enters the game for T. Young,,100,115
+4,1:44.0,,O. Anunoby enters the game for S. Ibaka,100,115
+4,1:44.0,,C. Boucher enters the game for K. Lowry,100,115
+4,1:44.0,,D. Wright enters the game for P. Siakam,100,115
+4,1:44.0,,F. VanVleet makes free throw 2 of 2,100,116
+4,1:34.0,C. Joseph makes 3-pt jump shot from 25 ft (assist by D. McDermott),,103,116
+4,1:22.0,,C. Boucher makes 3-pt jump shot from 24 ft (assist by F. VanVleet),103,119
+4,1:21.0,Personal take foul by D. Wright (drawn by A. Holiday),,103,119
+4,1:21.0,,L. Brown enters the game for F. VanVleet,103,119
+4,1:04.0,T. Leaf makes 2-pt hook shot from 4 ft (assist by K. O'Quinn),,105,119
+4,0:45.0,,O. Anunoby misses 2-pt layup from 3 ft,105,119
+4,0:43.0,Defensive rebound by T. Leaf,,105,119
+4,0:37.0,K. O'Quinn misses 2-pt layup from 1 ft,,105,119
+4,0:34.0,,Defensive rebound by O. Anunoby,105,119
+4,0:15.0,,N. Powell makes 2-pt jump shot from 1 ft (assist by L. Brown),105,121
+4,0:04.0,Turnover by D. McDermott (out of bounds lost ball),,105,121

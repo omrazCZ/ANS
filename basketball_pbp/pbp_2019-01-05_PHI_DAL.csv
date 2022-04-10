@@ -1,0 +1,475 @@
+QUARTER,TIME_REMAINING,DALLAS_ACTION,PHILADELPHIA_ACTION,DALLAS_SCORE,PHILADELPHIA_SCORE
+1,11:43.0,,B. Simmons makes 2-pt jump shot from 5 ft,0,2
+1,11:24.0,W. Matthews makes 2-pt jump shot from 14 ft,,2,2
+1,11:12.0,,J. Bolden misses 3-pt jump shot from 26 ft,2,2
+1,11:09.0,Defensive rebound by D. Jordan,,2,2
+1,10:57.0,W. Matthews makes 2-pt jump shot from 10 ft,,4,2
+1,10:56.0,,Philadelphia full timeout,4,2
+1,10:44.0,,J. Embiid misses 2-pt jump shot from 14 ft,4,2
+1,10:41.0,,Offensive rebound by B. Simmons,4,2
+1,10:40.0,,B. Simmons makes 2-pt dunk from 1 ft,4,4
+1,10:14.0,L. Dončić misses 3-pt jump shot from 29 ft,,4,4
+1,10:11.0,,Defensive rebound by F. Korkmaz,4,4
+1,10:04.0,,J. Redick makes 2-pt jump shot from 19 ft (assist by J. Embiid),4,6
+1,9:50.0,D. Smith misses 2-pt jump shot from 18 ft,,4,6
+1,9:48.0,,Defensive rebound by J. Embiid,4,6
+1,9:43.0,,J. Bolden makes 2-pt dunk from 1 ft (assist by B. Simmons),4,8
+1,9:22.0,D. Jordan makes 2-pt dunk from 1 ft (assist by D. Smith),,6,8
+1,9:05.0,,F. Korkmaz misses 3-pt jump shot from 26 ft,6,8
+1,9:02.0,Defensive rebound by H. Barnes,,6,8
+1,8:55.0,H. Barnes misses 3-pt jump shot from 26 ft,,6,8
+1,8:51.0,,Defensive rebound by J. Redick,6,8
+1,8:45.0,,Shooting foul by D. Smith (drawn by J. Redick),6,8
+1,8:45.0,,J. Redick makes free throw 1 of 2,6,9
+1,8:45.0,,J. Redick makes free throw 2 of 2,6,10
+1,8:37.0,Turnover by H. Barnes (bad pass; steal by J. Redick),,6,10
+1,8:31.0,,J. Redick makes 2-pt layup from 2 ft,6,12
+1,8:17.0,D. Smith misses 2-pt layup from 2 ft (block by J. Embiid),,6,12
+1,8:15.0,,Defensive rebound by J. Redick,6,12
+1,8:11.0,,J. Bolden makes 2-pt layup from 1 ft (assist by B. Simmons),6,14
+1,8:11.0,Dallas full timeout,,6,14
+1,8:01.0,Shooting foul by J. Embiid (drawn by L. Dončić),,6,14
+1,8:01.0,L. Dončić makes free throw 1 of 2,,7,14
+1,8:01.0,L. Dončić misses free throw 2 of 2,,7,14
+1,7:59.0,,Defensive rebound by J. Bolden,7,14
+1,7:48.0,,J. Redick makes 2-pt jump shot from 13 ft (assist by B. Simmons),7,16
+1,7:48.0,,Shooting foul by L. Dončić (drawn by J. Redick),7,16
+1,7:48.0,,J. Redick misses free throw 1 of 1,7,16
+1,7:43.0,Defensive rebound by L. Dončić,,7,16
+1,7:34.0,L. Dončić misses 2-pt jump shot from 10 ft,,7,16
+1,7:32.0,Offensive rebound by W. Matthews,,7,16
+1,7:30.0,Turnover by D. Jordan (out of bounds lost ball),,7,16
+1,7:18.0,,J. Redick makes 2-pt layup from 2 ft (assist by B. Simmons),7,18
+1,7:04.0,L. Dončić makes 2-pt dunk from 1 ft (assist by D. Jordan),,9,18
+1,6:48.0,,J. Embiid makes 2-pt dunk from 2 ft (assist by B. Simmons),9,20
+1,6:38.0,W. Matthews misses 3-pt jump shot from 26 ft,,9,20
+1,6:34.0,,Defensive rebound by J. Embiid,9,20
+1,6:28.0,,Turnover by B. Simmons (bad pass; steal by L. Dončić),9,20
+1,6:19.0,W. Matthews makes 3-pt jump shot from 25 ft (assist by D. Smith),,12,20
+1,5:57.0,,B. Simmons misses 2-pt hook shot from 11 ft,12,20
+1,5:55.0,Defensive rebound by L. Dončić,,12,20
+1,5:43.0,W. Matthews misses 3-pt jump shot from 25 ft,,12,20
+1,5:40.0,,Defensive rebound by J. Embiid,12,20
+1,5:37.0,,F. Korkmaz makes 2-pt dunk from 1 ft (assist by J. Embiid),12,22
+1,5:27.0,H. Barnes misses 2-pt jump shot from 17 ft,,12,22
+1,5:25.0,,Defensive rebound by B. Simmons,12,22
+1,5:20.0,,J. Embiid misses 3-pt jump shot from 25 ft,12,22
+1,5:17.0,Defensive rebound by L. Dončić,,12,22
+1,5:17.0,Dallas full timeout,,12,22
+1,5:17.0,D. Powell enters the game for D. Jordan,,12,22
+1,5:17.0,,T. McConnell enters the game for J. Bolden,12,22
+1,5:17.0,,S. Milton enters the game for J. Embiid,12,22
+1,5:17.0,,M. Muscala enters the game for F. Korkmaz,12,22
+1,5:17.0,,L. Shamet enters the game for J. Redick,12,22
+1,5:01.0,Shooting foul by T. McConnell (drawn by H. Barnes),,12,22
+1,5:01.0,H. Barnes misses free throw 1 of 2,,12,22
+1,5:01.0,Offensive rebound by Team,,12,22
+1,5:01.0,J. Brunson enters the game for W. Matthews,,12,22
+1,5:01.0,D. Finney-Smith enters the game for D. Smith,,12,22
+1,5:01.0,H. Barnes makes free throw 2 of 2,,13,22
+1,4:49.0,,B. Simmons misses 2-pt hook shot from 8 ft,13,22
+1,4:46.0,Defensive rebound by H. Barnes,,13,22
+1,4:38.0,D. Powell makes 2-pt layup from 1 ft (assist by J. Brunson),,15,22
+1,4:29.0,,S. Milton makes 3-pt jump shot from 26 ft (assist by M. Muscala),15,25
+1,4:13.0,Shooting foul by L. Shamet (drawn by L. Dončić),,15,25
+1,4:13.0,L. Dončić misses free throw 1 of 3,,15,25
+1,4:13.0,Offensive rebound by Team,,15,25
+1,4:13.0,L. Dončić makes free throw 2 of 3,,16,25
+1,4:13.0,L. Dončić makes free throw 3 of 3,,17,25
+1,4:03.0,,B. Simmons makes 2-pt layup from 2 ft (assist by L. Shamet),17,27
+1,3:51.0,D. Powell makes 2-pt layup from 3 ft (assist by L. Dončić),,19,27
+1,3:51.0,Shooting foul by M. Muscala (drawn by D. Powell),,19,27
+1,3:51.0,D. Powell misses free throw 1 of 1,,19,27
+1,3:49.0,,Defensive rebound by B. Simmons,19,27
+1,3:37.0,,B. Simmons misses 2-pt layup from 1 ft,19,27
+1,3:34.0,Defensive rebound by J. Brunson,,19,27
+1,3:30.0,J. Brunson misses 2-pt layup from 5 ft,,19,27
+1,3:28.0,Offensive rebound by D. Powell,,19,27
+1,3:27.0,J. Brunson misses 3-pt jump shot from 25 ft,,19,27
+1,3:22.0,,Defensive rebound by M. Muscala,19,27
+1,3:15.0,,M. Muscala misses 3-pt jump shot from 25 ft,19,27
+1,3:12.0,Defensive rebound by L. Dončić,,19,27
+1,3:05.0,L. Dončić misses 2-pt layup from 2 ft,,19,27
+1,3:00.0,Offensive rebound by D. Powell,,19,27
+1,2:56.0,D. Finney-Smith misses 3-pt jump shot from 26 ft,,19,27
+1,2:54.0,,Defensive rebound by L. Shamet,19,27
+1,2:45.0,,Shooting foul by D. Finney-Smith (drawn by T. McConnell),19,27
+1,2:45.0,,T. McConnell makes free throw 1 of 2,19,28
+1,2:45.0,R. Broekhoff enters the game for H. Barnes,,19,28
+1,2:45.0,D. Jordan enters the game for L. Dončić,,19,28
+1,2:45.0,M. Kleber enters the game for D. Powell,,19,28
+1,2:45.0,,J. Embiid enters the game for B. Simmons,19,28
+1,2:45.0,,T. McConnell makes free throw 2 of 2,19,29
+1,2:23.0,J. Brunson misses 2-pt jump shot from 8 ft,,19,29
+1,2:21.0,Offensive rebound by M. Kleber,,19,29
+1,2:16.0,D. Finney-Smith misses 2-pt jump shot from 17 ft,,19,29
+1,2:13.0,,Defensive rebound by S. Milton,19,29
+1,2:05.0,,T. McConnell makes 2-pt jump shot from 17 ft,19,31
+1,1:42.0,R. Broekhoff makes 3-pt jump shot from 28 ft (assist by J. Brunson),,22,31
+1,1:15.0,,S. Milton misses 3-pt jump shot from 26 ft,22,31
+1,1:12.0,,Offensive rebound by M. Muscala,22,31
+1,0:58.0,,T. McConnell misses 2-pt jump shot from 17 ft,22,31
+1,0:57.0,Defensive rebound by D. Jordan,,22,31
+1,0:50.0,J. Brunson makes 2-pt jump shot from 14 ft,,24,31
+1,0:35.0,,Offensive foul by J. Embiid (drawn by R. Broekhoff),24,31
+1,0:35.0,,Turnover by J. Embiid (offensive foul),24,31
+1,0:35.0,,J. Redick enters the game for S. Milton,24,31
+1,0:19.0,J. Brunson misses 2-pt jump shot from 21 ft,,24,31
+1,0:14.0,Offensive rebound by M. Kleber,,24,31
+1,0:01.0,D. Finney-Smith makes 2-pt layup from 6 ft (assist by J. Brunson),,26,31
+2,11:38.0,Turnover by D. Finney-Smith (out of bounds lost ball),,26,31
+2,11:26.0,,J. Embiid makes 2-pt jump shot from 7 ft (assist by J. Bolden),26,33
+2,11:26.0,,Shooting foul by D. Finney-Smith (drawn by J. Embiid),26,33
+2,11:26.0,,J. Embiid makes free throw 1 of 1,26,34
+2,11:13.0,D. Jordan makes 2-pt dunk from 1 ft (assist by R. Broekhoff),,28,34
+2,10:57.0,,J. Embiid misses 2-pt hook shot from 3 ft,28,34
+2,10:56.0,Defensive rebound by M. Kleber,,28,34
+2,10:45.0,Turnover by D. Jordan (offensive foul),,28,34
+2,10:45.0,Offensive foul by D. Jordan (drawn by F. Korkmaz),,28,34
+2,10:34.0,,J. Bolden misses 2-pt layup from 2 ft,28,34
+2,10:33.0,Defensive rebound by J. Brunson,,28,34
+2,10:07.0,Turnover by J. Brunson (bad pass; steal by J. Embiid),,28,34
+2,10:01.0,,Turnover by J. Bolden (offensive foul),28,34
+2,10:01.0,,Offensive foul by J. Bolden (drawn by D. Finney-Smith),28,34
+2,9:44.0,R. Broekhoff makes 2-pt layup from 2 ft (assist by D. Jordan),,30,34
+2,9:27.0,,J. Embiid makes 2-pt dunk from 1 ft (assist by J. Redick),30,36
+2,9:02.0,J. Brunson makes 2-pt jump shot from 20 ft (assist by D. Jordan),,32,36
+2,8:34.0,,J. Embiid makes 2-pt layup from 2 ft,32,38
+2,8:24.0,J. Brunson misses 2-pt jump shot from 21 ft,,32,38
+2,8:21.0,,Defensive rebound by F. Korkmaz,32,38
+2,8:13.0,,J. Redick misses 2-pt jump shot from 19 ft,32,38
+2,8:10.0,Defensive rebound by D. Jordan,,32,38
+2,8:02.0,M. Kleber makes 2-pt dunk from 2 ft (assist by D. Jordan),,34,38
+2,7:48.0,,J. Redick misses 3-pt jump shot from 26 ft,34,38
+2,7:45.0,,Offensive rebound by J. Bolden,34,38
+2,7:40.0,,J. Embiid misses 2-pt jump shot from 10 ft,34,38
+2,7:38.0,Defensive rebound by J. Brunson,,34,38
+2,7:33.0,R. Broekhoff makes 3-pt jump shot from 28 ft (assist by J. Brunson),,37,38
+2,7:33.0,D. Powell enters the game for D. Jordan,,37,38
+2,7:33.0,,S. Milton enters the game for J. Embiid,37,38
+2,7:33.0,,M. Muscala enters the game for T. McConnell,37,38
+2,7:33.0,,B. Simmons enters the game for J. Redick,37,38
+2,7:18.0,,B. Simmons misses 2-pt jump shot from 19 ft,37,38
+2,7:15.0,Defensive rebound by J. Brunson,,37,38
+2,7:04.0,R. Broekhoff makes 3-pt jump shot from 27 ft (assist by J. Brunson),,40,38
+2,6:53.0,,B. Simmons makes 2-pt hook shot from 3 ft,40,40
+2,6:32.0,D. Finney-Smith misses 2-pt layup from 3 ft (block by S. Milton),,40,40
+2,6:32.0,Offensive rebound by Team,,40,40
+2,6:29.0,R. Broekhoff misses 3-pt jump shot from 27 ft,,40,40
+2,6:25.0,,Defensive rebound by S. Milton,40,40
+2,6:23.0,,Turnover by B. Simmons (bad pass; steal by D. Powell),40,40
+2,6:19.0,D. Finney-Smith makes 2-pt dunk from 1 ft (assist by D. Powell),,42,40
+2,6:09.0,,F. Korkmaz misses 3-pt jump shot from 27 ft,42,40
+2,6:04.0,,Offensive rebound by J. Bolden,42,40
+2,6:04.0,,J. Bolden makes 2-pt layup from 1 ft,42,42
+2,5:51.0,D. Powell makes 2-pt layup from 3 ft (assist by R. Broekhoff),,44,42
+2,5:29.0,,B. Simmons misses 2-pt jump shot from 9 ft,44,42
+2,5:26.0,,Offensive rebound by J. Bolden,44,42
+2,5:22.0,,B. Simmons misses 2-pt layup from 2 ft,44,42
+2,5:20.0,Defensive rebound by J. Brunson,,44,42
+2,5:10.0,J. Brunson misses 2-pt layup from 4 ft (block by S. Milton),,44,42
+2,5:10.0,Offensive rebound by J. Brunson,,44,42
+2,5:10.0,,L. Shamet enters the game for F. Korkmaz,44,42
+2,5:10.0,Shooting foul by M. Muscala (drawn by J. Brunson),,44,42
+2,5:10.0,J. Brunson makes free throw 1 of 2,,45,42
+2,5:10.0,J. Brunson makes free throw 2 of 2,,46,42
+2,5:02.0,,M. Muscala misses 3-pt jump shot from 27 ft,46,42
+2,4:57.0,Defensive rebound by D. Finney-Smith,,46,42
+2,4:36.0,D. Finney-Smith misses 3-pt jump shot from 27 ft,,46,42
+2,4:32.0,,Defensive rebound by J. Bolden,46,42
+2,4:32.0,,Turnover by M. Muscala (lost ball; steal by J. Brunson),46,42
+2,4:27.0,J. Brunson misses 3-pt jump shot from 25 ft,,46,42
+2,4:24.0,,Defensive rebound by J. Bolden,46,42
+2,4:17.0,,M. Muscala makes 2-pt layup from 3 ft (assist by B. Simmons),46,44
+2,4:16.0,Dallas full timeout,,46,44
+2,4:16.0,H. Barnes enters the game for R. Broekhoff,,46,44
+2,4:16.0,L. Dončić enters the game for J. Brunson,,46,44
+2,4:16.0,D. Jordan enters the game for D. Finney-Smith,,46,44
+2,4:16.0,W. Matthews enters the game for M. Kleber,,46,44
+2,4:16.0,D. Smith enters the game for D. Powell,,46,44
+2,4:16.0,,J. Embiid enters the game for J. Bolden,46,44
+2,4:16.0,,T. McConnell enters the game for S. Milton,46,44
+2,4:16.0,,J. Redick enters the game for M. Muscala,46,44
+2,4:02.0,H. Barnes misses 2-pt jump shot from 8 ft,,46,44
+2,3:59.0,,Defensive rebound by J. Embiid,46,44
+2,3:47.0,,Turnover by B. Simmons (out of bounds lost ball),46,44
+2,3:39.0,L. Dončić misses 2-pt jump shot from 15 ft,,46,44
+2,3:37.0,,Defensive rebound by B. Simmons,46,44
+2,3:33.0,,J. Redick makes 3-pt jump shot from 22 ft (assist by B. Simmons),46,47
+2,3:11.0,H. Barnes makes 2-pt hook shot from 10 ft,,48,47
+2,2:56.0,,J. Redick misses 3-pt jump shot from 25 ft,48,47
+2,2:53.0,Defensive rebound by W. Matthews,,48,47
+2,2:32.0,Shooting foul by L. Shamet (drawn by L. Dončić),,48,47
+2,2:32.0,L. Dončić makes free throw 1 of 2,,49,47
+2,2:32.0,L. Dončić misses free throw 2 of 2,,49,47
+2,2:30.0,,Defensive rebound by B. Simmons,49,47
+2,2:20.0,,Shooting foul by D. Jordan (drawn by J. Embiid),49,47
+2,2:20.0,,J. Embiid makes free throw 1 of 2,49,48
+2,2:20.0,,J. Embiid makes free throw 2 of 2,49,49
+2,1:56.0,L. Dončić misses 3-pt jump shot from 28 ft,,49,49
+2,1:51.0,,Defensive rebound by B. Simmons,49,49
+2,1:40.0,,L. Shamet makes 3-pt jump shot from 24 ft (assist by J. Redick),49,52
+2,1:25.0,D. Smith misses 2-pt layup from 2 ft,,49,52
+2,1:23.0,,Defensive rebound by T. McConnell,49,52
+2,1:18.0,,B. Simmons makes 2-pt dunk from 1 ft (assist by T. McConnell),49,54
+2,1:18.0,Dallas full timeout,,49,54
+2,1:18.0,,M. Muscala enters the game for J. Embiid,49,54
+2,1:00.0,Turnover by H. Barnes (lost ball; steal by T. McConnell),,49,54
+2,0:56.0,,Shooting foul by D. Smith (drawn by T. McConnell),49,54
+2,0:56.0,,T. McConnell misses free throw 1 of 2,49,54
+2,0:56.0,,Offensive rebound by Team,49,54
+2,0:56.0,D. Powell enters the game for D. Jordan,,49,54
+2,0:56.0,,T. McConnell misses free throw 2 of 2,49,54
+2,0:55.0,Defensive rebound by L. Dončić,,49,54
+2,0:37.0,Shooting foul by M. Muscala (drawn by H. Barnes),,49,54
+2,0:37.0,H. Barnes makes free throw 1 of 2,,50,54
+2,0:37.0,,J. Bolden enters the game for M. Muscala,50,54
+2,0:37.0,H. Barnes makes free throw 2 of 2,,51,54
+2,0:31.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by J. Bolden),51,57
+2,0:20.0,H. Barnes misses 3-pt jump shot from 28 ft,,51,57
+2,0:17.0,,Defensive rebound by B. Simmons,51,57
+2,0:01.0,,B. Simmons makes 2-pt hook shot from 10 ft,51,59
+2,0:00.0,L. Dončić misses 3-pt jump shot from 75 ft,,51,59
+2,0:00.0,Offensive rebound by Team,,51,59
+3,11:45.0,H. Barnes makes 2-pt layup from 1 ft (assist by D. Smith),,53,59
+3,11:25.0,,J. Bolden misses 2-pt jump shot from 9 ft,53,59
+3,11:22.0,Defensive rebound by D. Jordan,,53,59
+3,11:14.0,D. Smith misses 3-pt jump shot from 25 ft,,53,59
+3,11:11.0,,Defensive rebound by J. Bolden,53,59
+3,11:04.0,,J. Bolden misses 3-pt jump shot from 28 ft,53,59
+3,11:02.0,,Offensive rebound by B. Simmons,53,59
+3,10:59.0,,F. Korkmaz misses 3-pt jump shot from 25 ft,53,59
+3,10:55.0,Defensive rebound by H. Barnes,,53,59
+3,10:49.0,H. Barnes misses 2-pt layup from 2 ft (block by J. Bolden),,53,59
+3,10:45.0,Offensive rebound by H. Barnes,,53,59
+3,10:41.0,W. Matthews makes 3-pt jump shot from 27 ft (assist by H. Barnes),,56,59
+3,10:26.0,,J. Embiid misses 3-pt jump shot from 27 ft,56,59
+3,10:21.0,Defensive rebound by L. Dončić,,56,59
+3,10:15.0,W. Matthews misses 3-pt jump shot from 26 ft,,56,59
+3,10:12.0,,Defensive rebound by J. Embiid,56,59
+3,10:05.0,,Personal foul by W. Matthews (drawn by B. Simmons),56,59
+3,10:00.0,,J. Redick makes 2-pt layup from 3 ft (assist by F. Korkmaz),56,61
+3,9:45.0,L. Dončić misses 3-pt jump shot from 27 ft,,56,61
+3,9:43.0,,Defensive rebound by J. Embiid,56,61
+3,9:33.0,,Turnover by J. Redick (bad pass; steal by L. Dončić),56,61
+3,9:19.0,L. Dončić misses 3-pt jump shot from 28 ft,,56,61
+3,9:14.0,,Defensive rebound by F. Korkmaz,56,61
+3,9:12.0,,Personal take foul by D. Smith (drawn by F. Korkmaz),56,61
+3,9:12.0,Dallas full timeout,,56,61
+3,8:57.0,,J. Embiid makes 2-pt dunk from 1 ft (assist by F. Korkmaz),56,63
+3,8:28.0,W. Matthews misses 2-pt jump shot from 20 ft,,56,63
+3,8:27.0,Offensive rebound by D. Jordan,,56,63
+3,8:20.0,Personal foul by F. Korkmaz (drawn by D. Jordan),,56,63
+3,8:09.0,H. Barnes misses 2-pt layup from 3 ft,,56,63
+3,8:07.0,,Defensive rebound by J. Bolden,56,63
+3,8:04.0,,Shooting foul by H. Barnes (drawn by J. Bolden),56,63
+3,8:04.0,,J. Bolden misses free throw 1 of 2,56,63
+3,8:04.0,,Offensive rebound by Team,56,63
+3,8:04.0,,J. Bolden makes free throw 2 of 2,56,64
+3,7:43.0,D. Jordan misses 2-pt dunk from 1 ft,,56,64
+3,7:42.0,,Defensive rebound by F. Korkmaz,56,64
+3,7:31.0,,B. Simmons makes 2-pt layup from 1 ft (assist by J. Embiid),56,66
+3,7:14.0,L. Dončić misses 2-pt layup from 1 ft,,56,66
+3,7:09.0,D. Jordan makes 2-pt layup from 1 ft,,58,66
+3,7:09.0,Offensive rebound by D. Jordan,,58,66
+3,7:02.0,,J. Embiid makes 3-pt jump shot from 28 ft (assist by B. Simmons),58,69
+3,6:43.0,L. Dončić misses 3-pt jump shot from 27 ft,,58,69
+3,6:40.0,,Defensive rebound by J. Embiid,58,69
+3,6:35.0,,Shooting foul by D. Smith (drawn by J. Bolden),58,69
+3,6:35.0,,J. Bolden misses free throw 1 of 2,58,69
+3,6:35.0,,Offensive rebound by Team,58,69
+3,6:35.0,J. Brunson enters the game for D. Jordan,,58,69
+3,6:35.0,D. Powell enters the game for D. Smith,,58,69
+3,6:35.0,,T. McConnell enters the game for J. Embiid,58,69
+3,6:35.0,,M. Muscala enters the game for J. Redick,58,69
+3,6:35.0,,J. Bolden makes free throw 2 of 2,58,70
+3,6:15.0,Shooting foul by B. Simmons (drawn by L. Dončić),,58,70
+3,6:15.0,L. Dončić misses free throw 1 of 2,,58,70
+3,6:15.0,Offensive rebound by Team,,58,70
+3,6:15.0,,S. Milton enters the game for J. Bolden,58,70
+3,6:15.0,L. Dončić makes free throw 2 of 2,,59,70
+3,5:54.0,,S. Milton makes 2-pt layup from 2 ft (assist by B. Simmons),59,72
+3,5:54.0,,Shooting foul by D. Powell (drawn by S. Milton),59,72
+3,5:54.0,,S. Milton makes free throw 1 of 1,59,73
+3,5:43.0,W. Matthews makes 2-pt layup at rim,,61,73
+3,5:28.0,,Personal foul by H. Barnes (drawn by B. Simmons),61,73
+3,5:28.0,,Offensive rebound by Team,61,73
+3,5:28.0,,B. Simmons misses free throw 1 of 2,61,73
+3,5:28.0,,L. Shamet enters the game for F. Korkmaz,61,73
+3,5:28.0,,B. Simmons misses free throw 2 of 2,61,73
+3,5:26.0,Defensive rebound by H. Barnes,,61,73
+3,5:12.0,L. Dončić makes 2-pt jump shot from 6 ft,,63,73
+3,4:58.0,,L. Shamet makes 2-pt layup from 1 ft (assist by B. Simmons),63,75
+3,4:53.0,Turnover by J. Brunson (lost ball; steal by T. McConnell),,63,75
+3,4:48.0,,B. Simmons makes 2-pt layup at rim (assist by T. McConnell),63,77
+3,4:48.0,Dallas full timeout,,63,77
+3,4:48.0,R. Broekhoff enters the game for H. Barnes,,63,77
+3,4:48.0,D. Finney-Smith enters the game for L. Dončić,,63,77
+3,4:48.0,M. Kleber enters the game for W. Matthews,,63,77
+3,4:33.0,Turnover by D. Powell (bad pass; steal by L. Shamet),,63,77
+3,4:21.0,,L. Shamet makes 2-pt dunk from 1 ft (assist by B. Simmons),63,79
+3,4:05.0,Turnover by R. Broekhoff (bad pass; steal by T. McConnell),,63,79
+3,4:01.0,,B. Simmons misses 2-pt layup from 3 ft (block by R. Broekhoff),63,79
+3,3:51.0,Defensive rebound by M. Kleber,,63,79
+3,3:48.0,J. Brunson makes 2-pt jump shot from 11 ft,,65,79
+3,3:30.0,,S. Milton misses 2-pt jump shot from 8 ft,65,79
+3,3:30.0,,Offensive rebound by B. Simmons,65,79
+3,3:30.0,,Shooting foul by M. Kleber (drawn by B. Simmons),65,79
+3,3:30.0,,Offensive rebound by Team,65,79
+3,3:30.0,,B. Simmons misses free throw 1 of 2,65,79
+3,3:30.0,D. Jordan enters the game for D. Powell,,65,79
+3,3:30.0,,J. Embiid enters the game for S. Milton,65,79
+3,3:30.0,,J. Redick enters the game for M. Muscala,65,79
+3,3:30.0,,B. Simmons makes free throw 2 of 2,65,80
+3,3:11.0,Turnover by D. Jordan (bad pass),,65,80
+3,3:11.0,,J. Bolden enters the game for B. Simmons,65,80
+3,2:56.0,,L. Shamet misses 3-pt jump shot from 27 ft,65,80
+3,2:52.0,Defensive rebound by J. Brunson,,65,80
+3,2:46.0,J. Brunson makes 3-pt jump shot from 27 ft,,68,80
+3,2:46.0,,Philadelphia full timeout,68,80
+3,2:32.0,,Shooting foul by D. Jordan (drawn by J. Embiid),68,80
+3,2:32.0,,J. Embiid makes free throw 1 of 2,68,81
+3,2:32.0,,J. Embiid makes free throw 2 of 2,68,82
+3,2:09.0,M. Kleber misses 2-pt jump shot from 20 ft (block by J. Bolden),,68,82
+3,2:06.0,,Defensive rebound by J. Bolden,68,82
+3,1:58.0,,T. McConnell makes 2-pt layup from 2 ft (assist by J. Embiid),68,84
+3,1:44.0,J. Brunson misses 2-pt jump shot from 17 ft,,68,84
+3,1:38.0,,Defensive rebound by J. Embiid,68,84
+3,1:29.0,,J. Bolden makes 2-pt layup from 1 ft (assist by T. McConnell),68,86
+3,1:18.0,Personal foul by T. McConnell (drawn by R. Broekhoff),,68,86
+3,1:11.0,M. Kleber misses 3-pt jump shot from 26 ft,,68,86
+3,1:08.0,,Defensive rebound by J. Embiid,68,86
+3,1:00.0,Violation by Team (kicked ball),,68,86
+3,0:51.0,,J. Redick misses 3-pt jump shot from 29 ft,68,86
+3,0:50.0,Defensive rebound by Team,,68,86
+3,0:50.0,,Loose ball foul by J. Bolden (drawn by J. Brunson),68,86
+3,0:50.0,J. Brunson makes free throw 1 of 2,,69,86
+3,0:50.0,J. Brunson makes free throw 2 of 2,,70,86
+3,0:35.0,,L. Shamet misses 3-pt jump shot from 26 ft,70,86
+3,0:32.0,Defensive rebound by D. Jordan,,70,86
+3,0:16.0,J. Brunson misses 2-pt jump shot from 9 ft,,70,86
+3,0:16.0,,Defensive rebound by Team,70,86
+3,0:16.0,Loose ball foul by M. Kleber (drawn by J. Bolden),,70,86
+3,0:16.0,,J. Bolden misses free throw 1 of 2,70,86
+3,0:16.0,,Offensive rebound by Team,70,86
+3,0:16.0,,J. Bolden makes free throw 2 of 2,70,87
+3,0:02.0,R. Broekhoff misses 3-pt jump shot from 28 ft,,70,87
+3,0:02.0,,Defensive rebound by J. Embiid,70,87
+4,11:49.0,,J. Embiid misses 2-pt jump shot from 18 ft,70,87
+4,11:46.0,Defensive rebound by M. Kleber,,70,87
+4,11:32.0,Personal foul by J. Bolden (drawn by D. Jordan),,70,87
+4,11:19.0,Turnover by D. Finney-Smith (bad pass),,70,87
+4,11:09.0,,J. Redick makes 2-pt layup from 1 ft (assist by J. Embiid),70,89
+4,11:00.0,Personal foul by J. Bolden (drawn by D. Finney-Smith),,70,89
+4,10:55.0,Turnover by R. Broekhoff (bad pass; steal by J. Redick),,70,89
+4,10:50.0,,J. Redick misses 3-pt jump shot from 27 ft,70,89
+4,10:47.0,Defensive rebound by D. Finney-Smith,,70,89
+4,10:45.0,Turnover by D. Finney-Smith (out of bounds lost ball),,70,89
+4,10:33.0,,J. Embiid misses 2-pt layup from 2 ft,70,89
+4,10:30.0,Defensive rebound by D. Jordan,,70,89
+4,10:26.0,M. Kleber makes 2-pt dunk from 1 ft (assist by J. Brunson),,72,89
+4,10:12.0,,Shooting foul by D. Jordan (drawn by J. Embiid),72,89
+4,10:12.0,,J. Embiid makes free throw 1 of 2,72,90
+4,10:12.0,,B. Simmons enters the game for J. Bolden,72,90
+4,10:12.0,,J. Embiid misses free throw 2 of 2,72,90
+4,10:10.0,Defensive rebound by M. Kleber,,72,90
+4,9:56.0,D. Jordan makes 2-pt dunk from 1 ft (assist by J. Brunson),,74,90
+4,9:47.0,,Turnover by B. Simmons (traveling),74,90
+4,9:40.0,Turnover by R. Broekhoff (out of bounds lost ball),,74,90
+4,9:20.0,,T. McConnell misses 2-pt jump shot from 14 ft,74,90
+4,9:18.0,Defensive rebound by J. Brunson,,74,90
+4,9:14.0,M. Kleber makes 2-pt dunk at rim (assist by R. Broekhoff),,76,90
+4,8:55.0,,T. McConnell misses 2-pt jump shot from 20 ft,76,90
+4,8:54.0,Defensive rebound by J. Brunson,,76,90
+4,8:54.0,Personal foul by B. Simmons (drawn by J. Brunson),,76,90
+4,8:39.0,R. Broekhoff makes 2-pt dunk from 1 ft (assist by D. Jordan),,78,90
+4,8:23.0,,J. Redick misses 2-pt jump shot from 19 ft,78,90
+4,8:20.0,Defensive rebound by R. Broekhoff,,78,90
+4,8:13.0,J. Brunson misses 2-pt jump shot from 11 ft,,78,90
+4,8:11.0,,Defensive rebound by J. Embiid,78,90
+4,7:58.0,,J. Embiid misses 2-pt jump shot from 20 ft,78,90
+4,7:55.0,Defensive rebound by J. Brunson,,78,90
+4,7:55.0,,F. Korkmaz enters the game for J. Redick,78,90
+4,7:36.0,D. Finney-Smith misses 2-pt jump shot from 13 ft,,78,90
+4,7:34.0,,Defensive rebound by B. Simmons,78,90
+4,7:26.0,,Personal foul by M. Kleber (drawn by B. Simmons),78,90
+4,7:26.0,D. Powell enters the game for D. Jordan,,78,90
+4,7:26.0,,M. Muscala enters the game for J. Embiid,78,90
+4,7:10.0,,B. Simmons makes 2-pt jump shot from 9 ft (assist by F. Korkmaz),78,92
+4,6:56.0,R. Broekhoff makes 2-pt layup from 2 ft (assist by J. Brunson),,80,92
+4,6:47.0,,F. Korkmaz misses 3-pt jump shot from 27 ft,80,92
+4,6:43.0,Defensive rebound by M. Kleber,,80,92
+4,6:24.0,M. Kleber misses 2-pt jump shot from 11 ft,,80,92
+4,6:22.0,,Defensive rebound by Team,80,92
+4,6:09.0,,M. Muscala misses 3-pt jump shot from 28 ft,80,92
+4,6:05.0,Defensive rebound by J. Brunson,,80,92
+4,5:58.0,D. Finney-Smith misses 3-pt jump shot from 27 ft,,80,92
+4,5:55.0,,Defensive rebound by B. Simmons,80,92
+4,5:46.0,,L. Shamet misses 3-pt jump shot from 25 ft,80,92
+4,5:44.0,,Offensive rebound by M. Muscala,80,92
+4,5:36.0,,M. Muscala makes 2-pt jump shot from 11 ft (assist by T. McConnell),80,94
+4,5:35.0,Dallas full timeout,,80,94
+4,5:35.0,H. Barnes enters the game for R. Broekhoff,,80,94
+4,5:35.0,L. Dončić enters the game for J. Brunson,,80,94
+4,5:35.0,W. Matthews enters the game for D. Finney-Smith,,80,94
+4,5:35.0,D. Smith enters the game for M. Kleber,,80,94
+4,5:21.0,L. Dončić makes 2-pt layup from 2 ft,,82,94
+4,5:21.0,Shooting foul by L. Shamet (drawn by L. Dončić),,82,94
+4,5:21.0,L. Dončić misses free throw 1 of 1,,82,94
+4,5:19.0,,Defensive rebound by B. Simmons,82,94
+4,5:12.0,,Turnover by T. McConnell (bad pass),82,94
+4,4:58.0,L. Dončić misses 2-pt jump shot from 18 ft,,82,94
+4,4:57.0,Offensive rebound by Team,,82,94
+4,4:57.0,,Loose ball foul by M. Muscala (drawn by D. Powell),82,94
+4,4:57.0,D. Powell makes free throw 1 of 2,,83,94
+4,4:57.0,D. Powell makes free throw 2 of 2,,84,94
+4,4:40.0,,F. Korkmaz misses 3-pt jump shot from 28 ft,84,94
+4,4:37.0,Defensive rebound by D. Smith,,84,94
+4,4:19.0,D. Powell makes 2-pt dunk from 1 ft (assist by D. Smith),,86,94
+4,4:19.0,,Philadelphia full timeout,86,94
+4,4:19.0,,J. Bolden enters the game for T. McConnell,86,94
+4,4:19.0,,J. Embiid enters the game for M. Muscala,86,94
+4,4:19.0,,J. Redick enters the game for L. Shamet,86,94
+4,4:09.0,,J. Embiid misses 2-pt layup from 3 ft (block by D. Powell),86,94
+4,4:06.0,Defensive rebound by L. Dončić,,86,94
+4,4:02.0,,Violation by Team (kicked ball),86,94
+4,3:52.0,H. Barnes misses 3-pt jump shot from 27 ft,,86,94
+4,3:49.0,,Defensive rebound by B. Simmons,86,94
+4,3:33.0,,Shooting foul by H. Barnes (drawn by J. Embiid),86,94
+4,3:33.0,,J. Embiid makes free throw 1 of 2,86,95
+4,3:33.0,,J. Embiid makes free throw 2 of 2,86,96
+4,3:17.0,D. Powell misses 2-pt jump shot from 19 ft,,86,96
+4,3:14.0,,Defensive rebound by J. Embiid,86,96
+4,2:58.0,,F. Korkmaz misses 2-pt layup from 2 ft,86,96
+4,2:55.0,Defensive rebound by L. Dončić,,86,96
+4,2:51.0,Turnover by D. Smith (out of bounds lost ball),,86,96
+4,2:39.0,,Personal foul by W. Matthews (drawn by B. Simmons),86,96
+4,2:30.0,,J. Embiid makes 2-pt layup from 3 ft (assist by F. Korkmaz),86,98
+4,2:20.0,W. Matthews makes 3-pt jump shot from 25 ft (assist by L. Dončić),,89,98
+4,1:56.0,,J. Embiid misses 2-pt hook shot from 7 ft (block by D. Powell),89,98
+4,1:54.0,Defensive rebound by L. Dončić,,89,98
+4,1:48.0,D. Smith makes 2-pt layup from 2 ft (assist by H. Barnes),,91,98
+4,1:48.0,,Philadelphia full timeout,91,98
+4,1:34.0,,F. Korkmaz makes 3-pt jump shot from 26 ft (assist by J. Bolden),91,101
+4,1:24.0,W. Matthews makes 3-pt jump shot from 28 ft (assist by L. Dončić),,94,101
+4,1:16.0,,Turnover by J. Embiid (offensive foul),94,101
+4,1:16.0,,Offensive foul by J. Embiid (drawn by D. Powell),94,101
+4,1:08.0,L. Dončić makes 3-pt jump shot from 28 ft,,97,101
+4,1:03.0,,Personal take foul by W. Matthews (drawn by B. Simmons),97,101
+4,1:03.0,,B. Simmons makes free throw 1 of 2,97,102
+4,1:03.0,,T. McConnell enters the game for J. Bolden,97,102
+4,1:03.0,,B. Simmons misses free throw 2 of 2,97,102
+4,1:00.0,Defensive rebound by D. Powell,,97,102
+4,0:50.0,Shooting foul by J. Embiid (drawn by D. Powell),,97,102
+4,0:50.0,D. Powell makes free throw 1 of 2,,98,102
+4,0:50.0,D. Powell misses free throw 2 of 2,,98,102
+4,0:48.0,,Defensive rebound by F. Korkmaz,98,102
+4,0:28.0,Loose ball foul by W. Matthews (drawn by J. Embiid),,98,102
+4,0:28.0,,J. Embiid makes free throw 1 of 2,98,103
+4,0:28.0,,J. Embiid makes free throw 2 of 2,98,104
+4,0:22.0,L. Dončić misses 3-pt jump shot from 28 ft,,98,104
+4,0:18.0,,Defensive rebound by F. Korkmaz,98,104
+4,0:14.0,,Personal foul by W. Matthews (drawn by F. Korkmaz),98,104
+4,0:14.0,,F. Korkmaz makes free throw 1 of 2,98,105
+4,0:14.0,,F. Korkmaz makes free throw 2 of 2,98,106
+4,0:06.0,D. Powell makes 2-pt layup from 2 ft (assist by L. Dončić),,100,106

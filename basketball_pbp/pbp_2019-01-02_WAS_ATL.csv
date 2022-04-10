@@ -1,0 +1,462 @@
+QUARTER,TIME_REMAINING,ATLANTA_ACTION,WASHINGTON_ACTION,ATLANTA_SCORE,WASHINGTON_SCORE
+1,11:50.0,,B. Beal misses 2-pt jump shot from 20 ft,0,0
+1,11:45.0,Defensive rebound by J. Collins,,0,0
+1,11:32.0,D. Hamilton misses 3-pt jump shot from 26 ft,,0,0
+1,11:30.0,,Defensive rebound by T. Bryant,0,0
+1,11:24.0,,T. Satoranský makes 2-pt layup from 1 ft,0,2
+1,11:04.0,K. Huerter makes 2-pt jump shot from 3 ft,,2,2
+1,10:50.0,,T. Ariza makes 2-pt layup from 3 ft (assist by J. Green),2,4
+1,10:50.0,,Shooting foul by J. Collins (drawn by T. Ariza),2,4
+1,10:50.0,,T. Ariza misses free throw 1 of 1,2,4
+1,10:48.0,Defensive rebound by D. Hamilton,,2,4
+1,10:28.0,D. Dedmon makes 2-pt dunk from 2 ft (assist by K. Huerter),,4,4
+1,10:14.0,,Shooting foul by K. Huerter (drawn by T. Bryant),4,4
+1,10:14.0,,T. Bryant makes free throw 1 of 2,4,5
+1,10:14.0,,T. Bryant makes free throw 2 of 2,4,6
+1,9:56.0,Turnover by K. Huerter (bad pass; steal by T. Ariza),,4,6
+1,9:51.0,,T. Ariza misses 2-pt layup from 5 ft,4,6
+1,9:46.0,,Offensive rebound by T. Satoranský,4,6
+1,9:45.0,,T. Ariza makes 3-pt jump shot from 23 ft (assist by T. Satoranský),4,9
+1,9:39.0,T. Young makes 3-pt jump shot from 26 ft,,7,9
+1,9:21.0,,T. Ariza makes 2-pt dunk from 1 ft (assist by J. Green),7,11
+1,9:07.0,Personal foul by B. Beal (drawn by D. Hamilton),,7,11
+1,8:58.0,J. Collins makes 3-pt jump shot from 24 ft (assist by T. Young),,10,11
+1,8:41.0,,J. Green makes 3-pt jump shot from 24 ft (assist by B. Beal),10,14
+1,8:17.0,D. Hamilton makes 2-pt layup from 2 ft,,12,14
+1,8:03.0,,Shooting foul by D. Dedmon (drawn by T. Bryant),12,14
+1,8:03.0,,T. Bryant makes free throw 1 of 2,12,15
+1,8:03.0,,T. Bryant makes free throw 2 of 2,12,16
+1,7:46.0,Personal foul by T. Satoranský (drawn by D. Dedmon),,12,16
+1,7:38.0,J. Collins makes 2-pt dunk from 2 ft (assist by T. Young),,14,16
+1,7:18.0,,Personal foul by D. Dedmon (drawn by T. Bryant),14,16
+1,7:18.0,A. Len enters the game for D. Dedmon,,14,16
+1,7:09.0,,J. Green misses 3-pt jump shot from 26 ft,14,16
+1,7:06.0,Defensive rebound by A. Len,,14,16
+1,6:56.0,J. Collins makes 3-pt jump shot from 25 ft (assist by D. Hamilton),,17,16
+1,6:41.0,,B. Beal makes 2-pt jump shot from 4 ft,17,18
+1,6:24.0,A. Len misses 2-pt layup from 2 ft,,17,18
+1,6:23.0,Offensive rebound by Team,,17,18
+1,6:23.0,,Washington full timeout,17,18
+1,6:23.0,D. Bembry enters the game for D. Hamilton,,17,18
+1,6:18.0,T. Young misses 2-pt jump shot from 22 ft,,17,18
+1,6:15.0,,Defensive rebound by T. Bryant,17,18
+1,5:54.0,,B. Beal misses 2-pt layup from 2 ft,17,18
+1,5:53.0,,Offensive rebound by T. Bryant,17,18
+1,5:52.0,,T. Bryant makes 2-pt layup from 2 ft,17,20
+1,5:41.0,J. Collins makes 2-pt dunk from 1 ft (assist by T. Young),,19,20
+1,5:18.0,,T. Bryant makes 2-pt dunk from 1 ft (assist by T. Satoranský),19,22
+1,4:55.0,A. Len makes 2-pt dunk from 1 ft (assist by T. Young),,21,22
+1,4:35.0,,T. Ariza misses 2-pt layup from 2 ft,21,22
+1,4:33.0,Defensive rebound by J. Collins,,21,22
+1,4:29.0,T. Young misses 3-pt jump shot from 27 ft,,21,22
+1,4:25.0,,Defensive rebound by T. Satoranský,21,22
+1,4:25.0,J. Anderson enters the game for J. Collins,,21,22
+1,4:25.0,V. Carter enters the game for K. Huerter,,21,22
+1,4:25.0,,O. Porter enters the game for J. Green,21,22
+1,4:15.0,,Shooting foul by A. Len (drawn by T. Satoranský),21,22
+1,4:15.0,,T. Satoranský misses free throw 1 of 2,21,22
+1,4:15.0,,Offensive rebound by Team,21,22
+1,4:15.0,J. Lin enters the game for T. Young,,21,22
+1,4:15.0,,T. Satoranský makes free throw 2 of 2,21,23
+1,4:00.0,A. Len makes 2-pt layup from 3 ft (assist by V. Carter),,23,23
+1,3:46.0,,T. Satoranský makes 3-pt jump shot from 25 ft (assist by B. Beal),23,26
+1,3:25.0,V. Carter misses 3-pt jump shot from 27 ft,,23,26
+1,3:23.0,Offensive rebound by D. Bembry,,23,26
+1,3:15.0,J. Lin misses 3-pt jump shot from 26 ft,,23,26
+1,3:15.0,,Defensive rebound by T. Ariza,23,26
+1,3:15.0,,Personal foul by J. Anderson (drawn by T. Ariza),23,26
+1,3:15.0,,T. Ariza misses free throw 1 of 2,23,26
+1,3:15.0,,Offensive rebound by Team,23,26
+1,3:15.0,,C. Randle enters the game for T. Satoranský,23,26
+1,3:15.0,,Violation by T. Bryant (double lane),23,26
+1,3:15.0,Violation by A. Len (double lane),,23,26
+1,3:15.0,,S. Dekker enters the game for T. Ariza,23,26
+1,3:02.0,,Shooting foul by D. Bembry (drawn by B. Beal),23,26
+1,3:02.0,,B. Beal makes free throw 1 of 2,23,27
+1,3:02.0,,B. Beal makes free throw 2 of 2,23,28
+1,2:52.0,Shooting foul by S. Dekker (drawn by A. Len),,23,28
+1,2:52.0,Atlanta full timeout,,23,28
+1,2:52.0,K. Huerter enters the game for D. Bembry,,23,28
+1,2:52.0,A. Len makes free throw 1 of 2,,24,28
+1,2:52.0,A. Len misses free throw 2 of 2,,24,28
+1,2:48.0,,Defensive rebound by T. Bryant,24,28
+1,2:36.0,,T. Bryant makes 2-pt layup from 3 ft (assist by B. Beal),24,30
+1,2:25.0,K. Huerter misses 3-pt jump shot from 28 ft,,24,30
+1,2:23.0,Offensive rebound by A. Len,,24,30
+1,2:10.0,A. Len misses 2-pt jump shot from 3 ft,,24,30
+1,2:08.0,,Defensive rebound by T. Bryant,24,30
+1,1:58.0,,Turnover by O. Porter (lost ball; steal by J. Lin),24,30
+1,1:53.0,A. Len makes 2-pt dunk from 3 ft (assist by J. Lin),,26,30
+1,1:39.0,,O. Porter misses 3-pt jump shot from 26 ft,26,30
+1,1:37.0,Defensive rebound by A. Len,,26,30
+1,1:33.0,J. Lin misses 3-pt jump shot from 26 ft,,26,30
+1,1:31.0,,Defensive rebound by O. Porter,26,30
+1,1:28.0,,B. Beal makes 3-pt jump shot from 26 ft (assist by O. Porter),26,33
+1,1:14.0,J. Anderson misses 3-pt jump shot from 26 ft,,26,33
+1,1:10.0,,Defensive rebound by B. Beal,26,33
+1,1:03.0,,C. Randle misses 3-pt jump shot from 26 ft,26,33
+1,0:59.0,Defensive rebound by V. Carter,,26,33
+1,0:58.0,Turnover by J. Anderson (lost ball; steal by B. Beal),,26,33
+1,0:54.0,,B. Beal misses 3-pt jump shot from 26 ft,26,33
+1,0:51.0,Defensive rebound by A. Len,,26,33
+1,0:34.0,A. Len misses 2-pt jump shot from 14 ft,,26,33
+1,0:31.0,,Defensive rebound by C. Randle,26,33
+1,0:23.0,,O. Porter misses 2-pt layup from 2 ft,26,33
+1,0:23.0,,Offensive rebound by S. Dekker,26,33
+1,0:23.0,,S. Dekker makes 2-pt layup at rim,26,35
+1,0:05.0,Personal foul by C. Randle (drawn by J. Lin),,26,35
+1,0:02.0,A. Len makes 3-pt jump shot from 26 ft (assist by V. Carter),,29,35
+2,11:51.0,Turnover by T. Young (bad pass),,29,35
+2,11:32.0,,S. Dekker makes 2-pt layup from 1 ft (assist by C. Randle),29,37
+2,11:18.0,D. Dedmon makes 2-pt layup from 2 ft (assist by K. Huerter),,31,37
+2,11:01.0,,T. Brown misses 2-pt layup at rim,31,37
+2,10:56.0,,Offensive rebound by S. Dekker,31,37
+2,10:56.0,,S. Dekker misses 2-pt layup from 1 ft,31,37
+2,10:55.0,Defensive rebound by D. Dedmon,,31,37
+2,10:54.0,Turnover by T. Young (bad pass; steal by C. Randle),,31,37
+2,10:47.0,,C. Randle makes 3-pt jump shot from 23 ft (assist by S. Dekker),31,40
+2,10:47.0,,Shooting foul by J. Collins (drawn by C. Randle),31,40
+2,10:47.0,,T. Ariza enters the game for O. Porter,31,40
+2,10:47.0,,C. Randle misses free throw 1 of 1,31,40
+2,10:44.0,Defensive rebound by D. Bembry,,31,40
+2,10:29.0,K. Huerter misses 2-pt jump shot from 7 ft,,31,40
+2,10:25.0,,Defensive rebound by J. Green,31,40
+2,10:18.0,,C. Randle makes 2-pt layup from 2 ft (assist by J. Green),31,42
+2,10:17.0,Atlanta full timeout,,31,42
+2,10:17.0,J. Lin enters the game for T. Young,,31,42
+2,9:59.0,Personal foul by C. Randle (drawn by J. Lin),,31,42
+2,9:49.0,J. Collins makes 3-pt jump shot from 23 ft (assist by K. Huerter),,34,42
+2,9:31.0,,T. Ariza misses 2-pt jump shot from 8 ft (block by D. Dedmon),34,42
+2,9:31.0,,Offensive rebound by Team,34,42
+2,9:25.0,,Turnover by J. Green (bad pass; steal by J. Lin),34,42
+2,9:20.0,D. Bembry makes 2-pt dunk from 4 ft (assist by J. Collins),,36,42
+2,9:05.0,,T. Brown makes 2-pt jump shot from 17 ft (assist by J. Green),36,44
+2,8:52.0,J. Collins makes 3-pt jump shot from 27 ft (assist by J. Lin),,39,44
+2,8:36.0,,S. Dekker misses 2-pt jump shot from 9 ft (block by K. Huerter),39,44
+2,8:34.0,Defensive rebound by J. Lin,,39,44
+2,8:22.0,Turnover by K. Huerter (bad pass; steal by C. Randle),,39,44
+2,8:18.0,,S. Dekker makes 2-pt layup from 3 ft (assist by T. Brown),39,46
+2,7:58.0,K. Huerter misses 2-pt layup from 3 ft,,39,46
+2,7:55.0,Offensive rebound by D. Dedmon,,39,46
+2,7:53.0,J. Lin makes 3-pt jump shot from 25 ft (assist by D. Dedmon),,42,46
+2,7:28.0,,S. Dekker misses 2-pt jump shot from 23 ft,42,46
+2,7:25.0,Defensive rebound by D. Dedmon,,42,46
+2,7:11.0,J. Lin misses 3-pt jump shot from 26 ft,,42,46
+2,7:09.0,,Defensive rebound by T. Brown,42,46
+2,6:53.0,,T. Brown misses 3-pt jump shot from 26 ft,42,46
+2,6:51.0,Defensive rebound by D. Bembry,,42,46
+2,6:47.0,Turnover by J. Collins (bad pass),,42,46
+2,6:47.0,,Washington full timeout,42,46
+2,6:47.0,V. Carter enters the game for D. Bembry,,42,46
+2,6:47.0,T. Young enters the game for J. Collins,,42,46
+2,6:47.0,,B. Beal enters the game for T. Brown,42,46
+2,6:47.0,,T. Bryant enters the game for S. Dekker,42,46
+2,6:47.0,,T. Satoranský enters the game for C. Randle,42,46
+2,6:30.0,,B. Beal misses 3-pt jump shot from 25 ft,42,46
+2,6:28.0,Defensive rebound by T. Young,,42,46
+2,6:25.0,T. Young misses 2-pt layup from 3 ft,,42,46
+2,6:24.0,,Defensive rebound by T. Bryant,42,46
+2,6:24.0,D. Hamilton enters the game for J. Lin,,42,46
+2,6:02.0,,T. Ariza makes 2-pt jump shot from 1 ft,42,48
+2,5:37.0,K. Huerter misses 3-pt jump shot from 26 ft,,42,48
+2,5:35.0,Offensive rebound by D. Dedmon,,42,48
+2,5:32.0,D. Dedmon misses 2-pt layup from 2 ft,,42,48
+2,5:29.0,,Defensive rebound by J. Green,42,48
+2,5:28.0,,Shooting foul by T. Young (drawn by T. Satoranský),42,48
+2,5:28.0,,T. Satoranský misses free throw 1 of 2,42,48
+2,5:28.0,,Offensive rebound by Team,42,48
+2,5:28.0,A. Len enters the game for D. Dedmon,,42,48
+2,5:28.0,,T. Satoranský makes free throw 2 of 2,42,49
+2,5:19.0,K. Huerter makes 2-pt layup from 3 ft (assist by T. Young),,44,49
+2,5:11.0,,J. Green makes 2-pt layup from 2 ft,44,51
+2,4:57.0,A. Len misses 3-pt jump shot from 26 ft,,44,51
+2,4:55.0,,Defensive rebound by T. Bryant,44,51
+2,4:48.0,,J. Green misses 3-pt jump shot from 25 ft,44,51
+2,4:43.0,Defensive rebound by D. Hamilton,,44,51
+2,4:37.0,D. Hamilton makes 2-pt layup from 2 ft,,46,51
+2,4:18.0,,T. Bryant makes 2-pt hook shot from 6 ft,46,53
+2,4:00.0,Personal foul by J. Green (drawn by T. Young),,46,53
+2,3:58.0,Personal foul by T. Bryant (drawn by T. Young),,46,53
+2,3:49.0,V. Carter misses 2-pt jump shot from 4 ft,,46,53
+2,3:47.0,,Defensive rebound by T. Bryant,46,53
+2,3:43.0,,T. Bryant makes 2-pt dunk from 3 ft (assist by B. Beal),46,55
+2,3:28.0,V. Carter makes 3-pt jump shot from 26 ft (assist by T. Young),,49,55
+2,3:08.0,,B. Beal misses 2-pt dunk from 1 ft,49,55
+2,3:07.0,Defensive rebound by T. Young,,49,55
+2,3:02.0,K. Huerter misses 2-pt layup from 2 ft,,49,55
+2,3:01.0,Offensive rebound by Team,,49,55
+2,2:57.0,Turnover by T. Young (lost ball; steal by T. Bryant),,49,55
+2,2:54.0,,T. Satoranský makes 2-pt dunk from 1 ft (assist by T. Bryant),49,57
+2,2:52.0,Atlanta full timeout,,49,57
+2,2:38.0,V. Carter misses 2-pt jump shot from 23 ft,,49,57
+2,2:36.0,,Defensive rebound by T. Satoranský,49,57
+2,2:32.0,,B. Beal misses 2-pt layup from 2 ft,49,57
+2,2:30.0,Defensive rebound by V. Carter,,49,57
+2,2:25.0,A. Len makes 2-pt dunk from 3 ft (assist by T. Young),,51,57
+2,2:13.0,,T. Ariza misses 3-pt jump shot from 27 ft,51,57
+2,2:10.0,Defensive rebound by D. Hamilton,,51,57
+2,2:05.0,D. Hamilton misses 2-pt layup from 6 ft (block by T. Bryant),,51,57
+2,2:03.0,,Defensive rebound by J. Green,51,57
+2,1:56.0,,Shooting foul by A. Len (drawn by T. Bryant),51,57
+2,1:56.0,,T. Bryant makes free throw 1 of 2,51,58
+2,1:56.0,D. Bembry enters the game for V. Carter,,51,58
+2,1:56.0,J. Collins enters the game for D. Hamilton,,51,58
+2,1:56.0,,T. Bryant makes free throw 2 of 2,51,59
+2,1:43.0,J. Collins misses 2-pt jump shot from 8 ft,,51,59
+2,1:40.0,,Defensive rebound by T. Bryant,51,59
+2,1:35.0,,J. Green misses 2-pt layup from 3 ft,51,59
+2,1:34.0,Defensive rebound by A. Len,,51,59
+2,1:28.0,J. Collins misses 3-pt jump shot from 25 ft,,51,59
+2,1:26.0,,Defensive rebound by T. Ariza,51,59
+2,1:14.0,,B. Beal misses 3-pt jump shot from 23 ft,51,59
+2,1:10.0,Defensive rebound by T. Young,,51,59
+2,1:05.0,K. Huerter misses 3-pt jump shot from 23 ft,,51,59
+2,1:03.0,,Defensive rebound by B. Beal,51,59
+2,0:46.0,,T. Ariza misses 2-pt layup from 2 ft,51,59
+2,0:45.0,,T. Ariza makes 2-pt layup at rim,51,61
+2,0:45.0,,Offensive rebound by T. Ariza,51,61
+2,0:45.0,,Shooting foul by A. Len (drawn by T. Ariza),51,61
+2,0:45.0,V. Carter enters the game for A. Len,,51,61
+2,0:45.0,,T. Ariza makes free throw 1 of 1,51,62
+2,0:35.0,V. Carter misses 3-pt jump shot from 26 ft,,51,62
+2,0:31.0,,Defensive rebound by T. Ariza,51,62
+2,0:26.0,,J. Green makes 2-pt layup from 1 ft (assist by T. Ariza),51,64
+2,0:11.0,Personal foul by B. Beal (drawn by T. Young),,51,64
+2,0:11.0,,C. Randle enters the game for B. Beal,51,64
+2,0:07.0,T. Young makes 2-pt jump shot from 12 ft,,53,64
+2,0:00.0,,Turnover by T. Ariza (traveling),53,64
+2,0:00.0,K. Huerter misses 3-pt jump shot from 62 ft,,53,64
+2,0:00.0,Offensive rebound by Team,,53,64
+3,11:49.0,Personal foul by T. Ariza (drawn by T. Young),,53,64
+3,11:36.0,D. Hamilton misses 2-pt jump shot from 7 ft,,53,64
+3,11:33.0,Offensive rebound by D. Hamilton,,53,64
+3,11:29.0,D. Hamilton makes 3-pt jump shot from 26 ft (assist by J. Collins),,56,64
+3,11:15.0,,B. Beal misses 2-pt jump shot from 22 ft,56,64
+3,11:11.0,,Offensive rebound by T. Satoranský,56,64
+3,11:00.0,,Shooting foul by K. Huerter (drawn by J. Green),56,64
+3,11:00.0,,J. Green makes free throw 1 of 2,56,65
+3,11:00.0,,J. Green makes free throw 2 of 2,56,66
+3,10:48.0,Shooting foul by J. Green (drawn by D. Hamilton),,56,66
+3,10:48.0,D. Hamilton misses free throw 1 of 2,,56,66
+3,10:48.0,Offensive rebound by Team,,56,66
+3,10:48.0,D. Hamilton makes free throw 2 of 2,,57,66
+3,10:36.0,,J. Green makes 3-pt jump shot from 25 ft (assist by B. Beal),57,69
+3,10:19.0,J. Collins makes 2-pt layup from 2 ft (assist by T. Young),,59,69
+3,9:56.0,,J. Green misses 3-pt jump shot from 26 ft,59,69
+3,9:53.0,Defensive rebound by K. Huerter,,59,69
+3,9:51.0,,Technical foul by L. Pierce,59,69
+3,9:51.0,,B. Beal makes technical free throw,59,70
+3,9:35.0,D. Dedmon misses 3-pt jump shot from 26 ft,,59,70
+3,9:31.0,,Defensive rebound by T. Bryant,59,70
+3,9:25.0,,T. Bryant misses 2-pt layup from 4 ft (block by T. Young),59,70
+3,9:23.0,Defensive rebound by D. Dedmon,,59,70
+3,9:22.0,Offensive foul by J. Collins (drawn by B. Beal),,59,70
+3,9:22.0,Turnover by J. Collins (offensive foul),,59,70
+3,9:11.0,,B. Beal makes 3-pt jump shot from 26 ft (assist by T. Satoranský),59,73
+3,9:09.0,Atlanta full timeout,,59,73
+3,8:52.0,J. Collins misses 2-pt jump shot from 14 ft,,59,73
+3,8:48.0,,Defensive rebound by T. Bryant,59,73
+3,8:39.0,,Turnover by T. Satoranský (bad pass),59,73
+3,8:21.0,K. Huerter makes 2-pt layup from 1 ft,,61,73
+3,8:06.0,,T. Bryant misses 3-pt jump shot from 26 ft,61,73
+3,8:03.0,Defensive rebound by D. Hamilton,,61,73
+3,7:58.0,T. Young misses 2-pt layup from 2 ft,,61,73
+3,7:56.0,Offensive rebound by J. Collins,,61,73
+3,7:53.0,J. Collins makes 2-pt jump shot from 6 ft (assist by K. Huerter),,63,73
+3,7:37.0,,Shooting foul by J. Collins (drawn by J. Green),63,73
+3,7:37.0,,J. Green makes free throw 1 of 2,63,74
+3,7:37.0,D. Bembry enters the game for J. Collins,,63,74
+3,7:37.0,A. Len enters the game for D. Hamilton,,63,74
+3,7:37.0,J. Lin enters the game for T. Young,,63,74
+3,7:37.0,,J. Green makes free throw 2 of 2,63,75
+3,7:27.0,K. Huerter makes 3-pt jump shot from 23 ft (assist by J. Lin),,66,75
+3,7:14.0,,J. Green makes 2-pt layup from 4 ft (assist by T. Ariza),66,77
+3,6:52.0,D. Bembry misses 2-pt jump shot from 4 ft,,66,77
+3,6:50.0,,Defensive rebound by B. Beal,66,77
+3,6:42.0,,Turnover by B. Beal (bad pass),66,77
+3,6:33.0,Shooting foul by J. Green (drawn by J. Lin),,66,77
+3,6:33.0,J. Lin misses free throw 1 of 2,,66,77
+3,6:33.0,Offensive rebound by Team,,66,77
+3,6:33.0,,O. Porter enters the game for J. Green,66,77
+3,6:33.0,J. Lin makes free throw 2 of 2,,67,77
+3,6:21.0,,T. Ariza misses 2-pt jump shot from 4 ft,67,77
+3,6:19.0,Defensive rebound by A. Len,,67,77
+3,6:15.0,K. Huerter misses 3-pt jump shot from 25 ft,,67,77
+3,6:12.0,,Defensive rebound by T. Satoranský,67,77
+3,6:05.0,,T. Satoranský misses 2-pt layup from 2 ft,67,77
+3,6:03.0,Defensive rebound by D. Dedmon,,67,77
+3,5:54.0,D. Dedmon misses 2-pt layup from 4 ft,,67,77
+3,5:50.0,Offensive rebound by A. Len,,67,77
+3,5:50.0,A. Len makes 2-pt dunk at rim,,69,77
+3,5:36.0,,O. Porter misses 3-pt jump shot from 25 ft,69,77
+3,5:33.0,Defensive rebound by D. Bembry,,69,77
+3,5:32.0,Turnover by D. Bembry (bad pass; steal by T. Bryant),,69,77
+3,5:21.0,,B. Beal misses 2-pt jump shot from 20 ft,69,77
+3,5:20.0,Defensive rebound by J. Lin,,69,77
+3,5:20.0,Personal foul by B. Beal (drawn by J. Lin),,69,77
+3,5:09.0,D. Dedmon misses 2-pt jump shot from 16 ft,,69,77
+3,5:06.0,,Defensive rebound by T. Satoranský,69,77
+3,4:59.0,,Turnover by B. Beal (lost ball; steal by D. Dedmon),69,77
+3,4:55.0,D. Bembry makes 2-pt dunk from 2 ft (assist by J. Lin),,71,77
+3,4:55.0,,Washington full timeout,71,77
+3,4:55.0,,C. Randle enters the game for T. Satoranský,71,77
+3,4:41.0,,O. Porter makes 2-pt jump shot from 20 ft,71,79
+3,4:27.0,A. Len makes 2-pt dunk from 1 ft (assist by J. Lin),,73,79
+3,4:04.0,,O. Porter makes 2-pt layup from 2 ft (assist by T. Ariza),73,81
+3,3:52.0,Offensive foul by D. Dedmon (drawn by C. Randle),,73,81
+3,3:52.0,Turnover by D. Dedmon (offensive foul),,73,81
+3,3:52.0,V. Carter enters the game for D. Dedmon,,73,81
+3,3:42.0,,B. Beal makes 2-pt dunk from 2 ft (assist by O. Porter),73,83
+3,3:29.0,Personal foul by C. Randle (drawn by J. Lin),,73,83
+3,3:29.0,J. Lin makes free throw 1 of 2,,74,83
+3,3:29.0,J. Lin makes free throw 2 of 2,,75,83
+3,3:16.0,,O. Porter misses 2-pt jump shot from 20 ft,75,83
+3,3:13.0,Defensive rebound by D. Bembry,,75,83
+3,3:05.0,J. Lin makes 2-pt layup from 1 ft,,77,83
+3,2:58.0,,T. Ariza misses 3-pt jump shot from 25 ft,77,83
+3,2:56.0,,Offensive rebound by Team,77,83
+3,2:56.0,,S. Dekker enters the game for T. Ariza,77,83
+3,2:49.0,,Offensive foul by B. Beal (drawn by J. Lin),77,83
+3,2:49.0,,Turnover by B. Beal (offensive foul),77,83
+3,2:49.0,,T. Satoranský enters the game for B. Beal,77,83
+3,2:28.0,A. Len makes 2-pt layup from 2 ft (assist by K. Huerter),,79,83
+3,2:13.0,,Turnover by C. Randle (lost ball; steal by J. Lin),79,83
+3,2:02.0,D. Bembry makes 2-pt layup from 5 ft,,81,83
+3,2:02.0,,Washington full timeout,81,83
+3,2:02.0,D. Hamilton enters the game for K. Huerter,,81,83
+3,1:44.0,,T. Satoranský misses 3-pt jump shot from 26 ft,81,83
+3,1:39.0,,Offensive rebound by C. Randle,81,83
+3,1:35.0,,S. Dekker misses 2-pt jump shot from 5 ft,81,83
+3,1:35.0,Defensive rebound by Team,,81,83
+3,1:35.0,,Loose ball foul by T. Bryant (drawn by D. Bembry),81,83
+3,1:35.0,D. Bembry misses free throw 1 of 2,,81,83
+3,1:35.0,Offensive rebound by Team,,81,83
+3,1:35.0,D. Bembry makes free throw 2 of 2,,82,83
+3,1:17.0,,T. Satoranský makes 2-pt jump shot from 9 ft,82,85
+3,1:05.0,J. Lin misses 2-pt jump shot from 10 ft,,82,85
+3,1:05.0,,Defensive rebound by T. Satoranský,82,85
+3,0:59.0,,Personal foul by D. Bembry (drawn by C. Randle),82,85
+3,0:53.0,,O. Porter makes 3-pt jump shot from 26 ft (assist by T. Satoranský),82,88
+3,0:31.0,V. Carter misses 3-pt jump shot from 27 ft,,82,88
+3,0:27.0,Offensive rebound by A. Len,,82,88
+3,0:27.0,A. Len misses 2-pt layup from 1 ft,,82,88
+3,0:27.0,Offensive rebound by A. Len,,82,88
+3,0:26.0,A. Len misses 2-pt layup from 2 ft,,82,88
+3,0:26.0,Offensive rebound by A. Len,,82,88
+3,0:26.0,A. Len makes 2-pt layup from 2 ft,,84,88
+3,0:05.0,,Turnover by C. Randle (bad pass; steal by D. Bembry),84,88
+3,0:00.0,D. Hamilton misses 3-pt jump shot from 31 ft,,84,88
+3,0:00.0,Offensive rebound by Team,,84,88
+4,11:40.0,,S. Dekker misses 2-pt layup from 3 ft,84,88
+4,11:37.0,Defensive rebound by D. Hamilton,,84,88
+4,11:30.0,A. Len makes 2-pt layup from 1 ft,,86,88
+4,11:17.0,,O. Porter makes 2-pt jump shot from 19 ft (assist by J. Green),86,90
+4,10:58.0,Turnover by T. Young (lost ball; steal by C. Randle),,86,90
+4,10:54.0,,S. Dekker makes 2-pt dunk from 4 ft,86,92
+4,10:33.0,Shooting foul by O. Porter (drawn by J. Collins),,86,92
+4,10:33.0,J. Collins makes free throw 1 of 2,,87,92
+4,10:33.0,,T. Ariza enters the game for O. Porter,87,92
+4,10:33.0,J. Collins misses free throw 2 of 2,,87,92
+4,10:30.0,,Defensive rebound by T. Ariza,87,92
+4,10:09.0,,S. Dekker misses 2-pt layup from 4 ft (block by A. Len),87,92
+4,10:06.0,Defensive rebound by J. Collins,,87,92
+4,9:53.0,J. Collins misses 2-pt jump shot from 7 ft,,87,92
+4,9:51.0,,Defensive rebound by T. Satoranský,87,92
+4,9:47.0,,T. Ariza misses 3-pt jump shot from 26 ft,87,92
+4,9:46.0,,Offensive rebound by Team,87,92
+4,9:46.0,Loose ball foul by D. Hamilton (drawn by S. Dekker),,87,92
+4,9:40.0,,C. Randle misses 2-pt layup from 2 ft (block by A. Len),87,92
+4,9:38.0,Defensive rebound by J. Collins,,87,92
+4,9:36.0,K. Huerter makes 2-pt dunk from 1 ft (assist by T. Young),,89,92
+4,9:36.0,Shooting foul by J. Green (drawn by K. Huerter),,89,92
+4,9:36.0,K. Huerter makes free throw 1 of 1,,90,92
+4,9:18.0,,J. Green misses 2-pt jump shot from 16 ft,90,92
+4,9:14.0,Defensive rebound by J. Collins,,90,92
+4,9:07.0,A. Len misses 2-pt jump shot from 7 ft,,90,92
+4,9:07.0,Offensive rebound by Team,,90,92
+4,9:07.0,,Loose ball foul by S. Dekker (drawn by J. Collins),90,92
+4,9:07.0,,B. Beal enters the game for C. Randle,90,92
+4,8:53.0,J. Collins misses 2-pt jump shot from 12 ft,,90,92
+4,8:48.0,Offensive rebound by D. Hamilton,,90,92
+4,8:48.0,D. Hamilton misses 2-pt layup at rim,,90,92
+4,8:47.0,,Defensive rebound by J. Green,90,92
+4,8:42.0,,B. Beal misses 2-pt jump shot from 17 ft,90,92
+4,8:39.0,Defensive rebound by J. Collins,,90,92
+4,8:28.0,J. Collins misses 2-pt layup from 1 ft,,90,92
+4,8:26.0,,Defensive rebound by T. Satoranský,90,92
+4,8:26.0,,Personal foul by T. Young (drawn by T. Satoranský),90,92
+4,8:26.0,D. Bembry enters the game for J. Collins,,90,92
+4,8:26.0,D. Dedmon enters the game for D. Hamilton,,90,92
+4,8:26.0,,T. Bryant enters the game for S. Dekker,90,92
+4,8:08.0,,T. Ariza misses 2-pt jump shot from 7 ft,90,92
+4,8:05.0,Defensive rebound by D. Dedmon,,90,92
+4,7:58.0,A. Len misses 3-pt jump shot from 24 ft,,90,92
+4,7:54.0,,Defensive rebound by J. Green,90,92
+4,7:49.0,,B. Beal makes 2-pt layup from 2 ft (assist by T. Ariza),90,94
+4,7:29.0,D. Bembry makes 2-pt layup from 1 ft,,92,94
+4,7:07.0,,T. Satoranský misses 2-pt layup from 2 ft,92,94
+4,7:04.0,,Offensive rebound by T. Satoranský,92,94
+4,7:03.0,,T. Satoranský misses 2-pt layup from 2 ft,92,94
+4,7:02.0,,Offensive rebound by T. Satoranský,92,94
+4,7:01.0,,T. Satoranský misses 2-pt layup from 4 ft (block by A. Len),92,94
+4,6:59.0,Defensive rebound by D. Bembry,,92,94
+4,6:59.0,Atlanta full timeout,,92,94
+4,6:47.0,T. Young misses 2-pt layup from 4 ft,,92,94
+4,6:44.0,Offensive rebound by A. Len,,92,94
+4,6:44.0,A. Len makes 2-pt jump shot from 3 ft,,94,94
+4,6:16.0,,B. Beal makes 2-pt layup from 3 ft,94,96
+4,5:59.0,T. Young misses 2-pt layup at rim,,94,96
+4,5:59.0,,Defensive rebound by T. Bryant,94,96
+4,5:52.0,,B. Beal misses 3-pt jump shot from 29 ft,94,96
+4,5:49.0,Defensive rebound by D. Dedmon,,94,96
+4,5:33.0,Turnover by A. Len (bad pass; steal by T. Satoranský),,94,96
+4,5:27.0,,B. Beal makes 3-pt jump shot from 26 ft (assist by T. Satoranský),94,99
+4,5:09.0,D. Dedmon misses 2-pt layup from 1 ft,,94,99
+4,5:08.0,,Defensive rebound by T. Bryant,94,99
+4,5:03.0,,J. Green makes 3-pt jump shot from 27 ft (assist by B. Beal),94,102
+4,5:00.0,Atlanta full timeout,,94,102
+4,5:00.0,J. Collins enters the game for A. Len,,94,102
+4,5:00.0,J. Lin enters the game for T. Young,,94,102
+4,4:40.0,D. Bembry misses 3-pt jump shot from 23 ft,,94,102
+4,4:36.0,,Defensive rebound by B. Beal,94,102
+4,4:14.0,,J. Green misses 3-pt jump shot from 25 ft,94,102
+4,4:11.0,Defensive rebound by D. Bembry,,94,102
+4,4:05.0,Personal foul by B. Beal (drawn by D. Bembry),,94,102
+4,3:59.0,D. Bembry makes 2-pt layup from 11 ft (assist by J. Collins),,96,102
+4,3:43.0,,Offensive foul by T. Bryant (drawn by J. Lin),96,102
+4,3:43.0,,Turnover by T. Bryant (offensive foul),96,102
+4,3:27.0,D. Bembry misses 2-pt layup from 4 ft (block by T. Bryant),,96,102
+4,3:24.0,,Defensive rebound by T. Bryant,96,102
+4,3:20.0,,Washington full timeout,96,102
+4,3:09.0,,J. Green makes 3-pt jump shot from 23 ft (assist by T. Satoranský),96,105
+4,2:51.0,,Violation by Team (kicked ball),96,105
+4,2:43.0,J. Lin misses 2-pt jump shot from 13 ft,,96,105
+4,2:42.0,,Defensive rebound by J. Green,96,105
+4,2:26.0,,T. Satoranský makes 2-pt jump shot from 11 ft (assist by J. Green),96,107
+4,2:11.0,D. Bembry misses 2-pt jump shot from 13 ft,,96,107
+4,2:08.0,,Defensive rebound by T. Bryant,96,107
+4,1:48.0,,B. Beal makes 2-pt jump shot from 20 ft,96,109
+4,1:37.0,Turnover by J. Lin (lost ball; steal by B. Beal),,96,109
+4,1:35.0,,B. Beal makes 2-pt dunk from 1 ft (assist by T. Satoranský),96,111
+4,1:23.0,K. Huerter misses 3-pt jump shot from 29 ft,,96,111
+4,1:20.0,Offensive rebound by D. Dedmon,,96,111
+4,1:20.0,D. Dedmon makes 2-pt layup from 2 ft,,98,111
+4,0:57.0,,T. Ariza misses 3-pt jump shot from 22 ft,98,111
+4,0:53.0,Defensive rebound by J. Collins,,98,111
+4,0:50.0,Turnover by J. Lin (bad pass; steal by T. Satoranský),,98,111
+4,0:48.0,Clear path foul by T. Satoranský,,98,111
+4,0:48.0,,T. Satoranský misses clear path free throw 1 of 2,98,111
+4,0:48.0,,Offensive rebound by Team,98,111
+4,0:48.0,,T. Satoranský makes clear path free throw 2 of 2,98,112
+4,0:48.0,J. Anderson enters the game for D. Bembry,,98,112
+4,0:48.0,T. Dorsey enters the game for J. Collins,,98,112
+4,0:48.0,D. Hamilton enters the game for D. Dedmon,,98,112
+4,0:48.0,A. Len enters the game for J. Lin,,98,112
+4,0:48.0,,T. Brown enters the game for B. Beal,98,112
+4,0:48.0,,S. Dekker enters the game for J. Green,98,112
+4,0:48.0,,C. Randle enters the game for T. Satoranský,98,112
+4,0:33.0,,C. Randle misses 2-pt layup from 3 ft,98,112
+4,0:32.0,,Offensive rebound by C. Randle,98,112
+4,0:32.0,,C. Randle makes 2-pt layup from 5 ft,98,114
+4,0:23.0,J. Anderson misses 2-pt jump shot from 18 ft,,98,114
+4,0:21.0,,Defensive rebound by Team,98,114

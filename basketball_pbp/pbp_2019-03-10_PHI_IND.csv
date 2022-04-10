@@ -1,0 +1,529 @@
+QUARTER,TIME_REMAINING,INDIANA_ACTION,PHILADELPHIA_ACTION,INDIANA_SCORE,PHILADELPHIA_SCORE
+1,11:45.0,,T. Harris makes 2-pt layup from 3 ft,0,2
+1,11:45.0,Violation by Team (def goaltending),,0,2
+1,11:25.0,T. Young misses 2-pt jump shot from 3 ft,,0,2
+1,11:21.0,Offensive rebound by T. Young,,0,2
+1,11:21.0,T. Young misses 2-pt layup from 1 ft,,0,2
+1,11:19.0,,Defensive rebound by J. Butler,0,2
+1,11:11.0,,B. Simmons misses 2-pt layup from 3 ft,0,2
+1,11:09.0,Defensive rebound by T. Young,,0,2
+1,11:03.0,D. Collison misses 2-pt hook shot from 5 ft,,0,2
+1,11:01.0,,Defensive rebound by J. Embiid,0,2
+1,10:58.0,,Turnover by B. Simmons (lost ball; steal by D. Collison),0,2
+1,10:53.0,B. Bogdanović misses 3-pt jump shot from 27 ft,,0,2
+1,10:51.0,,Defensive rebound by Team,0,2
+1,10:51.0,Loose ball foul by T. Young (drawn by T. Harris),,0,2
+1,10:42.0,,J. Embiid misses 3-pt jump shot from 26 ft,0,2
+1,10:39.0,Defensive rebound by D. Collison,,0,2
+1,10:33.0,B. Bogdanović makes 2-pt layup from 1 ft,,2,2
+1,10:20.0,,J. Embiid makes 2-pt layup from 3 ft (assist by J. Redick),2,4
+1,9:55.0,Turnover by D. Collison (bad pass; steal by T. Harris),,2,4
+1,9:49.0,,T. Harris makes 2-pt dunk from 1 ft (assist by B. Simmons),2,6
+1,9:30.0,B. Bogdanović makes 2-pt layup from 1 ft (assist by T. Young),,4,6
+1,9:19.0,,Personal foul by B. Bogdanović (drawn by B. Simmons),4,6
+1,9:14.0,,J. Embiid misses 2-pt layup from 3 ft (block by M. Turner),4,6
+1,9:13.0,,Offensive rebound by J. Embiid,4,6
+1,9:12.0,,J. Embiid misses 2-pt layup from 2 ft,4,6
+1,9:11.0,,Offensive rebound by J. Embiid,4,6
+1,9:10.0,,J. Embiid makes 2-pt layup at rim,4,8
+1,8:50.0,B. Bogdanović misses 2-pt layup from 2 ft,,4,8
+1,8:47.0,,Defensive rebound by T. Harris,4,8
+1,8:41.0,,J. Embiid misses 3-pt jump shot from 26 ft,4,8
+1,8:37.0,Defensive rebound by D. Collison,,4,8
+1,8:28.0,T. Young makes 2-pt dunk from 1 ft (assist by M. Turner),,6,8
+1,8:18.0,,Personal foul by D. Collison (drawn by J. Redick),6,8
+1,8:10.0,,Personal foul by M. Turner (drawn by J. Embiid),6,8
+1,8:02.0,,Turnover by J. Embiid (dbl dribble),6,8
+1,7:51.0,Personal foul by T. Harris (drawn by W. Matthews),,6,8
+1,7:51.0,,A. Johnson enters the game for J. Embiid,6,8
+1,7:45.0,B. Bogdanović makes 2-pt layup from 4 ft (assist by T. Young),,8,8
+1,7:24.0,,Turnover by A. Johnson (3 sec),8,8
+1,7:14.0,Shooting foul by A. Johnson (drawn by B. Bogdanović),,8,8
+1,7:14.0,B. Bogdanović misses free throw 1 of 2,,8,8
+1,7:14.0,Offensive rebound by Team,,8,8
+1,7:14.0,B. Bogdanović makes free throw 2 of 2,,9,8
+1,7:01.0,,J. Redick misses 2-pt jump shot from 20 ft,9,8
+1,6:59.0,,Offensive rebound by A. Johnson,9,8
+1,6:55.0,,T. Harris misses 2-pt jump shot from 6 ft,9,8
+1,6:55.0,,Offensive rebound by A. Johnson,9,8
+1,6:51.0,,A. Johnson misses 2-pt layup from 6 ft,9,8
+1,6:51.0,,Offensive rebound by T. Harris,9,8
+1,6:47.0,,T. Harris misses 2-pt layup at rim,9,8
+1,6:46.0,Defensive rebound by T. Young,,9,8
+1,6:39.0,D. Collison makes 2-pt layup from 1 ft (assist by T. Young),,11,8
+1,6:26.0,,Shooting foul by M. Turner (drawn by J. Butler),11,8
+1,6:26.0,,Philadelphia full timeout,11,8
+1,6:26.0,D. Sabonis enters the game for M. Turner,,11,8
+1,6:26.0,,J. Ennis enters the game for J. Redick,11,8
+1,6:26.0,,J. Butler makes free throw 1 of 2,11,9
+1,6:26.0,,J. Butler makes free throw 2 of 2,11,10
+1,6:10.0,D. Collison makes 2-pt jump shot from 10 ft,,13,10
+1,6:10.0,Shooting foul by T. Harris (drawn by D. Collison),,13,10
+1,6:10.0,,M. Scott enters the game for J. Butler,13,10
+1,6:10.0,D. Collison misses free throw 1 of 1,,13,10
+1,6:07.0,,Defensive rebound by J. Ennis,13,10
+1,5:50.0,,B. Simmons makes 2-pt dunk at rim (assist by T. Harris),13,12
+1,5:44.0,Shooting foul by J. Ennis (drawn by D. Collison),,13,12
+1,5:44.0,D. Collison misses free throw 1 of 2,,13,12
+1,5:44.0,Offensive rebound by Team,,13,12
+1,5:44.0,D. Collison misses free throw 2 of 2,,13,12
+1,5:42.0,,Defensive rebound by M. Scott,13,12
+1,5:33.0,,T. Harris makes 3-pt jump shot from 26 ft (assist by B. Simmons),13,15
+1,5:15.0,D. Sabonis makes 2-pt jump shot from 1 ft (assist by D. Collison),,15,15
+1,4:56.0,,M. Scott misses 2-pt jump shot from 8 ft,15,15
+1,4:53.0,Defensive rebound by D. Sabonis,,15,15
+1,4:41.0,W. Matthews makes 2-pt jump shot from 16 ft (assist by D. Sabonis),,17,15
+1,4:30.0,,M. Scott misses 3-pt jump shot from 26 ft,17,15
+1,4:28.0,Defensive rebound by B. Bogdanović,,17,15
+1,4:25.0,Offensive foul by B. Bogdanović (drawn by J. Ennis),,17,15
+1,4:25.0,Turnover by B. Bogdanović (offensive foul),,17,15
+1,4:25.0,C. Joseph enters the game for B. Bogdanović,,17,15
+1,4:05.0,,J. Ennis makes 2-pt jump shot from 6 ft (assist by T. Harris),17,17
+1,3:43.0,D. Sabonis misses 2-pt hook shot from 4 ft,,17,17
+1,3:39.0,,Defensive rebound by A. Johnson,17,17
+1,3:37.0,,M. Scott misses 3-pt jump shot from 25 ft,17,17
+1,3:35.0,,Offensive rebound by Team,17,17
+1,3:30.0,,T. Harris makes 2-pt jump shot from 16 ft (assist by A. Johnson),17,19
+1,3:23.0,Indiana full timeout,,17,19
+1,3:23.0,D. McDermott enters the game for D. Collison,,17,19
+1,3:23.0,,J. Butler enters the game for J. Ennis,17,19
+1,3:23.0,,J. Embiid enters the game for T. Harris,17,19
+1,3:23.0,,T. McConnell enters the game for A. Johnson,17,19
+1,3:23.0,,J. Redick enters the game for B. Simmons,17,19
+1,3:12.0,W. Matthews makes 2-pt jump shot from 21 ft (assist by D. Sabonis),,19,19
+1,2:54.0,,J. Embiid misses 2-pt jump shot from 16 ft,19,19
+1,2:51.0,Defensive rebound by C. Joseph,,19,19
+1,2:41.0,D. Sabonis misses 2-pt hook shot from 4 ft,,19,19
+1,2:40.0,Offensive rebound by Team,,19,19
+1,2:40.0,,Loose ball foul by J. Embiid (drawn by D. Sabonis),19,19
+1,2:40.0,D. Sabonis makes free throw 1 of 2,,20,19
+1,2:40.0,A. Holiday enters the game for W. Matthews,,20,19
+1,2:40.0,T. Leaf enters the game for T. Young,,20,19
+1,2:40.0,D. Sabonis misses free throw 2 of 2,,20,19
+1,2:35.0,,Defensive rebound by M. Scott,20,19
+1,2:23.0,,J. Embiid makes 2-pt layup from 4 ft (assist by J. Redick),20,21
+1,2:08.0,T. Leaf misses 2-pt hook shot from 5 ft,,20,21
+1,2:06.0,,Defensive rebound by T. McConnell,20,21
+1,1:58.0,,J. Embiid misses 2-pt layup from 5 ft,20,21
+1,1:58.0,Defensive rebound by Team,,20,21
+1,1:44.0,D. Sabonis misses 2-pt layup from 3 ft,,20,21
+1,1:42.0,,Defensive rebound by J. Embiid,20,21
+1,1:30.0,,Shooting foul by A. Holiday (drawn by J. Butler),20,21
+1,1:30.0,,J. Butler makes free throw 1 of 2,20,22
+1,1:30.0,,J. Butler makes free throw 2 of 2,20,23
+1,1:19.0,Shooting foul by J. Embiid (drawn by D. Sabonis),,20,23
+1,1:19.0,,Technical foul by J. Embiid,20,23
+1,1:19.0,D. McDermott makes technical free throw,,21,23
+1,1:19.0,D. Sabonis makes free throw 1 of 2,,22,23
+1,1:19.0,D. Sabonis makes free throw 2 of 2,,23,23
+1,1:06.0,,T. McConnell misses 2-pt jump shot from 10 ft,23,23
+1,1:04.0,,Offensive rebound by T. McConnell,23,23
+1,1:03.0,,T. McConnell makes 2-pt jump shot from 10 ft,23,25
+1,0:55.0,D. McDermott makes 2-pt jump shot from 17 ft (assist by D. Sabonis),,25,25
+1,0:43.0,,Personal foul by D. Sabonis (drawn by J. Embiid),25,25
+1,0:43.0,,J. Embiid makes free throw 1 of 2,25,26
+1,0:43.0,,J. Embiid misses free throw 2 of 2,25,26
+1,0:42.0,Defensive rebound by T. Leaf,,25,26
+1,0:33.0,Offensive foul by D. Sabonis (drawn by J. Embiid),,25,26
+1,0:33.0,Turnover by D. Sabonis (offensive foul),,25,26
+1,0:33.0,K. O'Quinn enters the game for D. Sabonis,,25,26
+1,0:18.0,,Turnover by J. Embiid (bad pass; steal by K. O'Quinn),25,26
+1,0:04.0,C. Joseph misses 2-pt jump shot from 13 ft,,25,26
+1,0:01.0,,Defensive rebound by T. McConnell,25,26
+1,0:00.0,,T. McConnell misses 3-pt jump shot from 30 ft,25,26
+1,0:00.0,,Offensive rebound by Team,25,26
+2,11:48.0,Shooting foul by J. Butler (drawn by D. Sabonis),,25,26
+2,11:48.0,D. Sabonis makes free throw 1 of 2,,26,26
+2,11:48.0,W. Matthews enters the game for T. Leaf,,26,26
+2,11:48.0,D. Sabonis misses free throw 2 of 2,,26,26
+2,11:43.0,,Defensive rebound by J. Embiid,26,26
+2,11:22.0,,T. Harris makes 3-pt jump shot from 26 ft (assist by J. Butler),26,29
+2,11:11.0,A. Holiday makes 3-pt jump shot from 26 ft (assist by D. Sabonis),,29,29
+2,11:00.0,,Turnover by T. McConnell (bad pass; steal by A. Holiday),29,29
+2,10:56.0,D. McDermott makes 3-pt jump shot from 25 ft (assist by C. Joseph),,32,29
+2,10:33.0,,J. Redick misses 3-pt jump shot from 22 ft,32,29
+2,10:29.0,Defensive rebound by D. Sabonis,,32,29
+2,10:25.0,A. Holiday makes 2-pt layup at rim,,34,29
+2,10:25.0,Shooting foul by J. Embiid (drawn by A. Holiday),,34,29
+2,10:25.0,,A. Johnson enters the game for J. Embiid,34,29
+2,10:25.0,A. Holiday makes free throw 1 of 1,,35,29
+2,10:07.0,,J. Butler makes 2-pt jump shot from 14 ft,35,31
+2,9:53.0,D. McDermott makes 2-pt layup from 1 ft (assist by D. Sabonis),,37,31
+2,9:39.0,,J. Redick misses 2-pt jump shot from 16 ft,37,31
+2,9:36.0,Defensive rebound by C. Joseph,,37,31
+2,9:28.0,C. Joseph makes 2-pt jump shot from 8 ft,,39,31
+2,9:27.0,,Philadelphia full timeout,39,31
+2,9:27.0,B. Bogdanović enters the game for A. Holiday,,39,31
+2,9:27.0,,B. Simmons enters the game for T. McConnell,39,31
+2,9:14.0,,Offensive foul by A. Johnson (drawn by C. Joseph),39,31
+2,9:14.0,,Turnover by A. Johnson (offensive foul),39,31
+2,9:04.0,D. McDermott misses 2-pt jump shot from 13 ft,,39,31
+2,9:03.0,,Defensive rebound by Team,39,31
+2,9:03.0,Loose ball foul by D. Sabonis (drawn by A. Johnson),,39,31
+2,9:03.0,M. Turner enters the game for D. Sabonis,,39,31
+2,8:52.0,,B. Simmons makes 2-pt layup from 3 ft (assist by J. Redick),39,33
+2,8:31.0,M. Turner misses 2-pt hook shot from 2 ft,,39,33
+2,8:29.0,Offensive rebound by M. Turner,,39,33
+2,8:27.0,M. Turner makes 2-pt layup from 3 ft,,41,33
+2,8:17.0,,T. Harris misses 3-pt jump shot from 25 ft,41,33
+2,8:15.0,Defensive rebound by Team,,41,33
+2,8:15.0,,Violation by Team (delay of game),41,33
+2,8:07.0,Personal foul by B. Simmons (drawn by D. McDermott),,41,33
+2,8:07.0,,J. Ennis enters the game for J. Butler,41,33
+2,8:07.0,,M. Scott enters the game for J. Redick,41,33
+2,7:58.0,C. Joseph makes 2-pt jump shot from 6 ft,,43,33
+2,7:41.0,,B. Simmons misses 2-pt hook shot from 4 ft,43,33
+2,7:36.0,Defensive rebound by C. Joseph,,43,33
+2,7:34.0,Shooting foul by J. Ennis (drawn by B. Bogdanović),,43,33
+2,7:34.0,B. Bogdanović misses free throw 1 of 2,,43,33
+2,7:34.0,Offensive rebound by Team,,43,33
+2,7:34.0,T. Young enters the game for D. McDermott,,43,33
+2,7:34.0,B. Bogdanović makes free throw 2 of 2,,44,33
+2,7:12.0,,A. Johnson misses 3-pt jump shot from 23 ft,44,33
+2,7:07.0,Defensive rebound by M. Turner,,44,33
+2,7:05.0,B. Bogdanović misses 2-pt jump shot from 10 ft,,44,33
+2,7:04.0,Offensive rebound by M. Turner,,44,33
+2,7:04.0,M. Turner misses 2-pt dunk from 1 ft,,44,33
+2,7:02.0,Offensive rebound by T. Young,,44,33
+2,7:01.0,Turnover by T. Young (lost ball; steal by M. Scott),,44,33
+2,6:56.0,,B. Simmons makes 2-pt dunk from 3 ft (assist by M. Scott),44,35
+2,6:49.0,Indiana full timeout,,44,35
+2,6:33.0,T. Young misses 2-pt layup from 3 ft,,44,35
+2,6:32.0,,Defensive rebound by M. Scott,44,35
+2,6:18.0,,J. Ennis misses 3-pt jump shot from 26 ft,44,35
+2,6:17.0,Defensive rebound by M. Turner,,44,35
+2,5:58.0,M. Turner misses 2-pt hook shot from 9 ft,,44,35
+2,5:55.0,,Defensive rebound by T. Harris,44,35
+2,5:47.0,,Turnover by M. Scott (bad pass; steal by B. Bogdanović),44,35
+2,5:35.0,Shooting foul by B. Simmons (drawn by M. Turner),,44,35
+2,5:35.0,M. Turner misses free throw 1 of 2,,44,35
+2,5:35.0,Offensive rebound by Team,,44,35
+2,5:35.0,,J. Embiid enters the game for A. Johnson,44,35
+2,5:35.0,M. Turner makes free throw 2 of 2,,45,35
+2,5:28.0,,Personal foul by M. Turner (drawn by J. Embiid),45,35
+2,5:28.0,K. O'Quinn enters the game for M. Turner,,45,35
+2,5:23.0,,Personal foul by K. O'Quinn (drawn by J. Embiid),45,35
+2,5:18.0,,B. Simmons misses 2-pt jump shot from 8 ft,45,35
+2,5:15.0,Defensive rebound by W. Matthews,,45,35
+2,5:01.0,K. O'Quinn makes 2-pt jump shot from 19 ft (assist by C. Joseph),,47,35
+2,4:45.0,,Turnover by T. Harris (bad pass; steal by C. Joseph),47,35
+2,4:34.0,K. O'Quinn makes 2-pt jump shot from 15 ft (assist by W. Matthews),,49,35
+2,4:33.0,,Philadelphia full timeout,49,35
+2,4:33.0,D. Collison enters the game for C. Joseph,,49,35
+2,4:33.0,,J. Butler enters the game for J. Ennis,49,35
+2,4:33.0,,J. Redick enters the game for T. Harris,49,35
+2,4:17.0,,J. Redick makes 3-pt jump shot from 26 ft (assist by J. Butler),49,38
+2,3:52.0,B. Bogdanović misses 3-pt jump shot from 25 ft,,49,38
+2,3:52.0,,Defensive rebound by Team,49,38
+2,3:41.0,,M. Scott makes 2-pt layup from 2 ft (assist by B. Simmons),49,40
+2,3:32.0,B. Bogdanović makes 2-pt layup from 1 ft (assist by D. Collison),,51,40
+2,3:27.0,,Shooting foul by K. O'Quinn (drawn by B. Simmons),51,40
+2,3:27.0,,B. Simmons makes free throw 1 of 2,51,41
+2,3:27.0,,B. Simmons makes free throw 2 of 2,51,42
+2,3:12.0,Turnover by T. Young (traveling),,51,42
+2,3:00.0,,Turnover by J. Redick (out of bounds lost ball),51,42
+2,2:41.0,T. Young misses 3-pt jump shot from 26 ft,,51,42
+2,2:38.0,,Defensive rebound by B. Simmons,51,42
+2,2:29.0,,J. Embiid makes 2-pt layup from 2 ft,51,44
+2,2:08.0,B. Bogdanović misses 2-pt jump shot from 15 ft,,51,44
+2,2:05.0,,Defensive rebound by J. Butler,51,44
+2,1:54.0,,M. Scott makes 2-pt layup from 1 ft (assist by J. Butler),51,46
+2,1:33.0,D. Collison makes 3-pt jump shot from 25 ft,,54,46
+2,1:21.0,,J. Redick makes 3-pt jump shot from 25 ft (assist by B. Simmons),54,49
+2,1:05.0,D. Collison misses 2-pt layup from 4 ft,,54,49
+2,1:03.0,,Defensive rebound by J. Embiid,54,49
+2,1:00.0,,B. Simmons makes 2-pt dunk from 1 ft,54,51
+2,0:50.0,Personal foul by B. Simmons (drawn by B. Bogdanović),,54,51
+2,0:50.0,B. Bogdanović makes free throw 1 of 2,,55,51
+2,0:50.0,C. Joseph enters the game for D. Collison,,55,51
+2,0:50.0,,T. Harris enters the game for J. Embiid,55,51
+2,0:50.0,,T. McConnell enters the game for B. Simmons,55,51
+2,0:50.0,B. Bogdanović makes free throw 2 of 2,,56,51
+2,0:39.0,,J. Redick misses 3-pt jump shot from 26 ft,56,51
+2,0:35.0,Defensive rebound by K. O'Quinn,,56,51
+2,0:32.0,B. Bogdanović makes 3-pt jump shot from 27 ft,,59,51
+2,0:19.0,,M. Scott misses 3-pt jump shot from 26 ft,59,51
+2,0:16.0,Defensive rebound by B. Bogdanović,,59,51
+2,0:04.0,W. Matthews misses 3-pt jump shot from 26 ft,,59,51
+2,0:02.0,Offensive rebound by K. O'Quinn,,59,51
+2,0:00.0,K. O'Quinn misses 2-pt jump shot from 5 ft (block by T. Harris),,59,51
+2,0:00.0,Offensive rebound by Team,,59,51
+2,0:00.0,,J. Ennis enters the game for J. Redick,59,51
+2,0:00.0,B. Bogdanović misses 2-pt layup from 2 ft,,59,51
+2,0:00.0,Offensive rebound by Team,,59,51
+3,11:38.0,W. Matthews misses 2-pt jump shot from 18 ft,,59,51
+3,11:34.0,,Defensive rebound by J. Embiid,59,51
+3,11:16.0,,J. Embiid misses 2-pt layup from 2 ft,59,51
+3,11:14.0,Defensive rebound by Team,,59,51
+3,10:59.0,M. Turner makes 3-pt jump shot from 26 ft (assist by B. Bogdanović),,62,51
+3,10:46.0,,Shooting foul by M. Turner (drawn by J. Embiid),62,51
+3,10:46.0,,J. Embiid makes free throw 1 of 2,62,52
+3,10:46.0,D. Sabonis enters the game for M. Turner,,62,52
+3,10:46.0,,J. Embiid misses free throw 2 of 2,62,52
+3,10:44.0,Defensive rebound by B. Bogdanović,,62,52
+3,10:36.0,B. Bogdanović misses 2-pt jump shot from 17 ft,,62,52
+3,10:33.0,,Defensive rebound by B. Simmons,62,52
+3,10:27.0,,J. Butler misses 2-pt jump shot from 21 ft,62,52
+3,10:25.0,Defensive rebound by T. Young,,62,52
+3,10:14.0,D. Sabonis misses 2-pt jump shot from 9 ft,,62,52
+3,10:12.0,,Defensive rebound by J. Embiid,62,52
+3,10:06.0,,B. Simmons makes 2-pt layup from 3 ft,62,54
+3,10:06.0,,Shooting foul by B. Bogdanović (drawn by B. Simmons),62,54
+3,10:06.0,,B. Simmons makes free throw 1 of 1,62,55
+3,9:53.0,Shooting foul by J. Redick (drawn by B. Bogdanović),,62,55
+3,9:53.0,B. Bogdanović makes free throw 1 of 2,,63,55
+3,9:53.0,B. Bogdanović misses free throw 2 of 2,,63,55
+3,9:51.0,,Defensive rebound by T. Harris,63,55
+3,9:35.0,,Shooting foul by D. Sabonis (drawn by J. Embiid),63,55
+3,9:35.0,,J. Embiid makes free throw 1 of 2,63,56
+3,9:35.0,,J. Embiid makes free throw 2 of 2,63,57
+3,9:14.0,Turnover by W. Matthews (bad pass; steal by J. Embiid),,63,57
+3,9:10.0,,J. Redick makes 3-pt jump shot from 27 ft (assist by B. Simmons),63,60
+3,9:07.0,Indiana full timeout,,63,60
+3,9:07.0,K. O'Quinn enters the game for D. Sabonis,,63,60
+3,8:55.0,D. Collison misses 3-pt jump shot from 26 ft,,63,60
+3,8:52.0,,Defensive rebound by T. Harris,63,60
+3,8:47.0,,T. Harris misses 3-pt jump shot from 26 ft,63,60
+3,8:44.0,Defensive rebound by D. Collison,,63,60
+3,8:29.0,K. O'Quinn misses 2-pt jump shot from 21 ft,,63,60
+3,8:25.0,Offensive rebound by K. O'Quinn,,63,60
+3,8:23.0,K. O'Quinn makes 2-pt layup from 1 ft,,65,60
+3,8:06.0,,Personal foul by K. O'Quinn (drawn by J. Embiid),65,60
+3,7:59.0,,J. Embiid makes 2-pt layup from 1 ft (assist by T. Harris),65,62
+3,7:34.0,Shooting foul by J. Embiid (drawn by T. Young),,65,62
+3,7:34.0,T. Young makes free throw 1 of 2,,66,62
+3,7:34.0,M. Turner enters the game for K. O'Quinn,,66,62
+3,7:34.0,,A. Johnson enters the game for J. Embiid,66,62
+3,7:34.0,T. Young makes free throw 2 of 2,,67,62
+3,7:15.0,,A. Johnson misses 2-pt dunk from 2 ft (block by M. Turner),67,62
+3,7:11.0,,Offensive rebound by J. Butler,67,62
+3,7:10.0,,J. Butler makes 2-pt jump shot from 6 ft,67,64
+3,6:55.0,B. Bogdanović makes 2-pt layup from 2 ft,,69,64
+3,6:43.0,,J. Butler misses 2-pt layup from 2 ft,69,64
+3,6:40.0,Defensive rebound by W. Matthews,,69,64
+3,6:24.0,M. Turner misses 2-pt jump shot from 7 ft,,69,64
+3,6:22.0,,Defensive rebound by B. Simmons,69,64
+3,6:18.0,,J. Butler misses 2-pt jump shot from 4 ft,69,64
+3,6:16.0,,Offensive rebound by A. Johnson,69,64
+3,6:11.0,,B. Simmons makes 2-pt layup from 4 ft,69,66
+3,5:48.0,T. Young misses 2-pt hook shot from 8 ft,,69,66
+3,5:43.0,,Defensive rebound by J. Butler,69,66
+3,5:39.0,,Personal foul by W. Matthews (drawn by B. Simmons),69,66
+3,5:39.0,,B. Simmons misses free throw 1 of 2,69,66
+3,5:39.0,,Offensive rebound by Team,69,66
+3,5:39.0,,J. Ennis enters the game for J. Butler,69,66
+3,5:39.0,,M. Scott enters the game for J. Redick,69,66
+3,5:39.0,,B. Simmons misses free throw 2 of 2,69,66
+3,5:32.0,,Offensive rebound by A. Johnson,69,66
+3,5:32.0,,A. Johnson misses 2-pt layup from 1 ft,69,66
+3,5:31.0,Defensive rebound by T. Young,,69,66
+3,5:21.0,D. Collison misses 2-pt jump shot from 22 ft,,69,66
+3,5:18.0,,Defensive rebound by T. Harris,69,66
+3,5:12.0,,T. Harris misses 2-pt layup from 3 ft,69,66
+3,5:09.0,Defensive rebound by M. Turner,,69,66
+3,5:05.0,W. Matthews misses 3-pt jump shot from 26 ft,,69,66
+3,5:02.0,,Defensive rebound by T. Harris,69,66
+3,4:55.0,,B. Simmons misses 2-pt jump shot from 8 ft,69,66
+3,4:52.0,Defensive rebound by D. Collison,,69,66
+3,4:39.0,M. Turner misses 3-pt jump shot from 26 ft,,69,66
+3,4:37.0,,Defensive rebound by T. Harris,69,66
+3,4:26.0,,T. Harris misses 2-pt layup from 3 ft (block by M. Turner),69,66
+3,4:24.0,Defensive rebound by T. Young,,69,66
+3,4:24.0,Personal take foul by M. Scott (drawn by B. Bogdanović),,69,66
+3,4:07.0,T. Young misses 2-pt hook shot from 6 ft,,69,66
+3,4:04.0,,Defensive rebound by A. Johnson,69,66
+3,3:59.0,,T. Harris misses 3-pt jump shot from 25 ft,69,66
+3,3:58.0,Defensive rebound by Team,,69,66
+3,3:58.0,,Loose ball foul by J. Ennis (drawn by D. Collison),69,66
+3,3:44.0,Turnover by B. Bogdanović (bad pass; steal by J. Ennis),,69,66
+3,3:41.0,,Shooting foul by W. Matthews (drawn by J. Ennis),69,66
+3,3:41.0,,J. Ennis makes free throw 1 of 2,69,67
+3,3:41.0,C. Joseph enters the game for B. Bogdanović,,69,67
+3,3:41.0,D. Sabonis enters the game for M. Turner,,69,67
+3,3:41.0,,J. Ennis misses free throw 2 of 2,69,67
+3,3:38.0,Defensive rebound by W. Matthews,,69,67
+3,3:26.0,Shooting foul by A. Johnson (drawn by D. Collison),,69,67
+3,3:26.0,D. Collison misses free throw 1 of 2,,69,67
+3,3:26.0,Offensive rebound by Team,,69,67
+3,3:26.0,D. Collison makes free throw 2 of 2,,70,67
+3,3:16.0,,T. Harris makes 2-pt dunk at rim (assist by B. Simmons),70,69
+3,2:55.0,D. Collison misses 2-pt layup from 3 ft,,70,69
+3,2:53.0,,Defensive rebound by M. Scott,70,69
+3,2:52.0,,Philadelphia full timeout,70,69
+3,2:52.0,,J. Butler enters the game for J. Ennis,70,69
+3,2:52.0,,J. Embiid enters the game for T. Harris,70,69
+3,2:52.0,,J. Redick enters the game for A. Johnson,70,69
+3,2:42.0,,J. Butler misses 2-pt jump shot from 6 ft,70,69
+3,2:39.0,Defensive rebound by W. Matthews,,70,69
+3,2:25.0,D. Sabonis misses 2-pt jump shot from 19 ft,,70,69
+3,2:22.0,,Defensive rebound by J. Redick,70,69
+3,2:05.0,,J. Embiid misses 2-pt jump shot from 9 ft,70,69
+3,2:03.0,Defensive rebound by D. Sabonis,,70,69
+3,1:41.0,Shooting foul by B. Simmons (drawn by D. Sabonis),,70,69
+3,1:41.0,D. Sabonis misses free throw 1 of 2,,70,69
+3,1:41.0,Offensive rebound by Team,,70,69
+3,1:41.0,D. McDermott enters the game for D. Collison,,70,69
+3,1:41.0,,T. McConnell enters the game for B. Simmons,70,69
+3,1:41.0,D. Sabonis misses free throw 2 of 2,,70,69
+3,1:38.0,,Defensive rebound by J. Embiid,70,69
+3,1:23.0,,J. Embiid misses 2-pt layup from 3 ft,70,69
+3,1:21.0,,Offensive rebound by Team,70,69
+3,1:21.0,T. Leaf enters the game for T. Young,,70,69
+3,1:09.0,,J. Embiid misses 2-pt jump shot from 5 ft (block by T. Leaf),70,69
+3,1:06.0,Defensive rebound by C. Joseph,,70,69
+3,0:58.0,T. Leaf misses 2-pt jump shot from 15 ft,,70,69
+3,0:56.0,,Defensive rebound by J. Embiid,70,69
+3,0:37.0,,Turnover by T. McConnell (step out of bounds),70,69
+3,0:37.0,A. Holiday enters the game for W. Matthews,,70,69
+3,0:31.0,C. Joseph misses 2-pt jump shot from 10 ft,,70,69
+3,0:28.0,Offensive rebound by T. Leaf,,70,69
+3,0:17.0,C. Joseph misses 2-pt jump shot from 7 ft,,70,69
+3,0:16.0,,Defensive rebound by Team,70,69
+3,0:16.0,Loose ball foul by C. Joseph (drawn by J. Embiid),,70,69
+3,0:16.0,,J. Embiid makes free throw 1 of 2,70,70
+3,0:16.0,B. Bogdanović enters the game for T. Leaf,,70,70
+3,0:16.0,,J. Ennis enters the game for J. Redick,70,70
+3,0:16.0,,J. Embiid misses free throw 2 of 2,70,70
+3,0:16.0,,Offensive rebound by Team,70,70
+3,0:16.0,Loose ball foul by C. Joseph (drawn by J. Ennis),,70,70
+3,0:16.0,,J. Ennis makes free throw 1 of 2,70,71
+3,0:16.0,,A. Johnson enters the game for J. Embiid,70,71
+3,0:16.0,,J. Ennis makes free throw 2 of 2,70,72
+3,0:03.0,B. Bogdanović misses 2-pt layup from 3 ft,,70,72
+3,0:01.0,,Defensive rebound by J. Ennis,70,72
+3,0:00.0,,T. McConnell misses 3-pt jump shot from 25 ft,70,72
+3,0:00.0,,Offensive rebound by Team,70,72
+4,11:40.0,,J. Embiid makes 2-pt dunk from 1 ft (assist by J. Butler),70,74
+4,11:23.0,D. McDermott misses 2-pt jump shot from 19 ft,,70,74
+4,11:23.0,Offensive rebound by Team,,70,74
+4,11:23.0,,Loose ball foul by M. Scott (drawn by D. Sabonis),70,74
+4,11:21.0,Turnover by D. McDermott (bad pass; steal by T. McConnell),,70,74
+4,11:13.0,,Shooting foul by C. Joseph (drawn by J. Embiid),70,74
+4,11:13.0,,J. Embiid makes free throw 1 of 2,70,75
+4,11:13.0,,J. Embiid makes free throw 2 of 2,70,76
+4,10:55.0,A. Holiday misses 2-pt layup from 3 ft,,70,76
+4,10:50.0,Offensive rebound by D. Sabonis,,70,76
+4,10:50.0,D. Sabonis misses 2-pt layup at rim (block by J. Butler),,70,76
+4,10:48.0,,Defensive rebound by T. McConnell,70,76
+4,10:47.0,,J. Butler makes 2-pt jump shot from 8 ft (assist by T. McConnell),70,78
+4,10:47.0,Indiana full timeout,,70,78
+4,10:47.0,D. Collison enters the game for B. Bogdanović,,70,78
+4,10:47.0,T. Young enters the game for A. Holiday,,70,78
+4,10:36.0,Personal foul by T. McConnell (drawn by C. Joseph),,70,78
+4,10:26.0,C. Joseph misses 2-pt jump shot from 20 ft,,70,78
+4,10:20.0,,Defensive rebound by M. Scott,70,78
+4,10:08.0,,Shooting foul by T. Young (drawn by J. Butler),70,78
+4,10:08.0,,J. Butler makes free throw 1 of 2,70,79
+4,10:08.0,,T. Harris enters the game for M. Scott,70,79
+4,10:08.0,,J. Butler makes free throw 2 of 2,70,80
+4,9:55.0,D. McDermott makes 2-pt layup from 2 ft (assist by D. Sabonis),,72,80
+4,9:34.0,,Turnover by T. McConnell (bad pass; steal by D. Sabonis),72,80
+4,9:09.0,T. Young misses 2-pt jump shot from 13 ft,,72,80
+4,9:06.0,Offensive rebound by D. Sabonis,,72,80
+4,8:57.0,D. Collison makes 2-pt jump shot from 13 ft,,74,80
+4,8:35.0,,J. Embiid makes 2-pt layup from 5 ft (assist by T. McConnell),74,82
+4,8:35.0,,Shooting foul by T. Young (drawn by J. Embiid),74,82
+4,8:35.0,,J. Ennis enters the game for J. Butler,74,82
+4,8:35.0,,B. Simmons enters the game for T. McConnell,74,82
+4,8:35.0,,J. Embiid makes free throw 1 of 1,74,83
+4,8:22.0,Turnover by D. Sabonis (lost ball; steal by J. Embiid),,74,83
+4,8:16.0,,J. Redick misses 3-pt jump shot from 26 ft,74,83
+4,8:15.0,,Offensive rebound by J. Ennis,74,83
+4,8:15.0,,A. Johnson enters the game for J. Embiid,74,83
+4,8:15.0,,M. Scott enters the game for J. Redick,74,83
+4,8:10.0,,T. Harris makes 2-pt jump shot from 9 ft (assist by A. Johnson),74,85
+4,7:53.0,Shooting foul by A. Johnson (drawn by D. Sabonis),,74,85
+4,7:53.0,D. Sabonis makes free throw 1 of 2,,75,85
+4,7:53.0,B. Bogdanović enters the game for D. Collison,,75,85
+4,7:53.0,W. Matthews enters the game for D. McDermott,,75,85
+4,7:53.0,D. Sabonis makes free throw 2 of 2,,76,85
+4,7:33.0,,M. Scott makes 2-pt jump shot from 8 ft,76,87
+4,7:23.0,Turnover by D. Sabonis (bad pass; steal by M. Scott),,76,87
+4,7:17.0,,J. Ennis misses 3-pt jump shot from 24 ft,76,87
+4,7:13.0,Defensive rebound by D. Sabonis,,76,87
+4,7:05.0,Shooting foul by A. Johnson (drawn by D. Sabonis),,76,87
+4,7:05.0,D. Sabonis makes free throw 1 of 2,,77,87
+4,7:05.0,D. Sabonis misses free throw 2 of 2,,77,87
+4,7:03.0,,Defensive rebound by A. Johnson,77,87
+4,6:53.0,,Personal foul by W. Matthews (drawn by B. Simmons),77,87
+4,6:43.0,,T. Harris misses 2-pt jump shot from 16 ft,77,87
+4,6:37.0,,Offensive rebound by J. Ennis,77,87
+4,6:37.0,,J. Ennis misses 2-pt dunk from 1 ft,77,87
+4,6:37.0,Defensive rebound by B. Bogdanović,,77,87
+4,6:15.0,Turnover by D. Sabonis (lost ball; steal by B. Simmons),,77,87
+4,6:12.0,,Turnover by T. Harris (lost ball; steal by W. Matthews),77,87
+4,6:07.0,Turnover by D. Sabonis (bad pass; steal by A. Johnson),,77,87
+4,6:00.0,,J. Ennis makes 3-pt jump shot from 23 ft (assist by M. Scott),77,90
+4,5:59.0,Indiana full timeout,,77,90
+4,5:59.0,D. Collison enters the game for C. Joseph,,77,90
+4,5:59.0,M. Turner enters the game for D. Sabonis,,77,90
+4,5:46.0,B. Bogdanović misses 3-pt jump shot from 26 ft,,77,90
+4,5:42.0,,Defensive rebound by M. Scott,77,90
+4,5:32.0,,Turnover by A. Johnson (bad pass; steal by B. Bogdanović),77,90
+4,5:27.0,W. Matthews misses 3-pt jump shot from 26 ft,,77,90
+4,5:25.0,Offensive rebound by T. Young,,77,90
+4,5:25.0,Shooting foul by M. Scott (drawn by T. Young),,77,90
+4,5:25.0,T. Young makes free throw 1 of 2,,78,90
+4,5:25.0,T. Young misses free throw 2 of 2,,78,90
+4,5:23.0,,Defensive rebound by B. Simmons,78,90
+4,5:23.0,,J. Butler enters the game for J. Ennis,78,90
+4,5:23.0,,J. Embiid enters the game for A. Johnson,78,90
+4,5:23.0,,J. Redick enters the game for M. Scott,78,90
+4,5:00.0,,T. Harris misses 2-pt jump shot from 8 ft,78,90
+4,4:55.0,,Offensive rebound by J. Embiid,78,90
+4,4:55.0,,J. Embiid makes 2-pt layup from 1 ft,78,92
+4,4:34.0,Turnover by M. Turner (lost ball; steal by J. Butler),,78,92
+4,4:20.0,,J. Butler misses 2-pt jump shot from 16 ft,78,92
+4,4:17.0,Defensive rebound by B. Bogdanović,,78,92
+4,4:12.0,D. Collison misses 2-pt layup from 4 ft (block by J. Redick),,78,92
+4,4:12.0,Offensive rebound by Team,,78,92
+4,4:04.0,D. Collison makes 2-pt jump shot from 19 ft,,80,92
+4,4:04.0,,Philadelphia full timeout,80,92
+4,4:04.0,,J. Ennis enters the game for J. Butler,80,92
+4,3:50.0,,J. Embiid makes 2-pt dunk from 1 ft (assist by T. Harris),80,94
+4,3:36.0,Personal foul by J. Embiid (drawn by D. Collison),,80,94
+4,3:36.0,D. Collison makes free throw 1 of 2,,81,94
+4,3:36.0,D. Collison makes free throw 2 of 2,,82,94
+4,3:23.0,,Personal foul by W. Matthews (drawn by J. Embiid),82,94
+4,3:23.0,,J. Embiid makes free throw 1 of 2,82,95
+4,3:23.0,,J. Embiid makes free throw 2 of 2,82,96
+4,3:14.0,Shooting foul by B. Simmons (drawn by W. Matthews),,82,96
+4,3:14.0,W. Matthews misses free throw 1 of 2,,82,96
+4,3:14.0,Offensive rebound by Team,,82,96
+4,3:14.0,W. Matthews makes free throw 2 of 2,,83,96
+4,3:00.0,,Personal foul by M. Turner (drawn by J. Embiid),83,96
+4,3:00.0,,J. Embiid misses free throw 1 of 2,83,96
+4,3:00.0,,Offensive rebound by Team,83,96
+4,3:00.0,,J. Embiid makes free throw 2 of 2,83,97
+4,2:45.0,B. Bogdanović misses 2-pt jump shot from 13 ft,,83,97
+4,2:42.0,,Defensive rebound by J. Embiid,83,97
+4,2:25.0,,J. Embiid makes 2-pt layup from 1 ft,83,99
+4,2:12.0,T. Young makes 2-pt jump shot from 3 ft (assist by B. Bogdanović),,85,99
+4,1:53.0,,J. Embiid makes 2-pt jump shot from 12 ft,85,101
+4,1:47.0,Turnover by T. Young (out of bounds lost ball),,85,101
+4,1:47.0,,Philadelphia full timeout,85,101
+4,1:47.0,,M. Scott enters the game for J. Embiid,85,101
+4,1:26.0,,M. Scott makes 2-pt jump shot from 10 ft,85,103
+4,1:10.0,W. Matthews misses 3-pt jump shot from 25 ft,,85,103
+4,1:09.0,Offensive rebound by T. Young,,85,103
+4,1:09.0,T. Young makes 2-pt layup at rim,,87,103
+4,1:09.0,,Philadelphia full timeout,87,103
+4,1:09.0,A. Holiday enters the game for B. Bogdanović,,87,103
+4,1:09.0,T. Leaf enters the game for D. Collison,,87,103
+4,1:09.0,D. McDermott enters the game for W. Matthews,,87,103
+4,1:09.0,D. Reed enters the game for M. Turner,,87,103
+4,1:09.0,E. Sumner enters the game for T. Young,,87,103
+4,1:09.0,,J. Bolden enters the game for T. Harris,87,103
+4,1:09.0,,T. McConnell enters the game for J. Redick,87,103
+4,1:09.0,,J. Patton enters the game for M. Scott,87,103
+4,1:09.0,,J. Simmons enters the game for B. Simmons,87,103
+4,0:55.0,,T. McConnell misses 2-pt layup from 4 ft,87,103
+4,0:51.0,,J. Patton misses 2-pt layup from 1 ft,87,103
+4,0:51.0,,Offensive rebound by J. Patton,87,103
+4,0:50.0,Defensive rebound by D. McDermott,,87,103
+4,0:46.0,T. Leaf makes 2-pt jump shot from 10 ft (assist by A. Holiday),,89,103
+4,0:24.0,,J. Simmons makes 3-pt jump shot from 26 ft (assist by T. McConnell),89,106
+4,0:04.0,A. Holiday misses 3-pt jump shot from 27 ft,,89,106
+4,0:04.0,Offensive rebound by T. Leaf,,89,106
+4,0:01.0,T. Leaf misses 2-pt layup at rim,,89,106
+4,0:01.0,,Defensive rebound by J. Ennis,89,106

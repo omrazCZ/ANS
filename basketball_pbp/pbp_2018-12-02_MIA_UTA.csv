@@ -1,0 +1,461 @@
+QUARTER,TIME_REMAINING,UTAH_ACTION,MIAMI_ACTION,UTAH_SCORE,MIAMI_SCORE
+1,11:44.0,,W. Ellington misses 3-pt jump shot from 27 ft,0,0
+1,11:43.0,,Offensive rebound by H. Whiteside,0,0
+1,11:39.0,,H. Whiteside misses 2-pt hook shot from 2 ft (block by R. Gobert),0,0
+1,11:39.0,,Offensive rebound by Team,0,0
+1,11:39.0,,Turnover by J. Richardson (bad pass),0,0
+1,11:27.0,J. Ingles misses 2-pt jump shot from 11 ft (block by H. Whiteside),,0,0
+1,11:27.0,Offensive rebound by Team,,0,0
+1,11:20.0,J. Ingles makes 3-pt jump shot from 26 ft (assist by R. Rubio),,3,0
+1,11:10.0,,J. Johnson misses 2-pt jump shot from 8 ft,3,0
+1,11:10.0,,Offensive rebound by Team,3,0
+1,11:03.0,,H. Whiteside makes 2-pt dunk from 2 ft (assist by J. Richardson),3,2
+1,10:43.0,J. Crowder misses 2-pt jump shot from 12 ft,,3,2
+1,10:40.0,Offensive rebound by J. Crowder,,3,2
+1,10:37.0,J. Crowder misses 3-pt jump shot from 24 ft (block by H. Whiteside),,3,2
+1,10:31.0,,Defensive rebound by W. Ellington,3,2
+1,10:22.0,,Turnover by J. Johnson (bad pass; steal by R. Gobert),3,2
+1,10:15.0,Personal foul by H. Whiteside (drawn by R. Rubio),,3,2
+1,10:02.0,R. Rubio makes 2-pt jump shot from 12 ft (assist by D. Mitchell),,5,2
+1,9:48.0,,Turnover by J. Johnson (lost ball; steal by J. Ingles),5,2
+1,9:46.0,R. Gobert misses 2-pt layup from 1 ft (block by J. Johnson),,5,2
+1,9:44.0,Offensive rebound by R. Gobert,,5,2
+1,9:41.0,J. Crowder makes 3-pt jump shot from 24 ft (assist by R. Gobert),,8,2
+1,9:23.0,,J. Richardson misses 2-pt hook shot from 11 ft,8,2
+1,9:20.0,Defensive rebound by R. Rubio,,8,2
+1,9:16.0,J. Ingles makes 2-pt layup from 2 ft,,10,2
+1,9:16.0,,Miami full timeout,10,2
+1,9:01.0,,R. McGruder misses 2-pt jump shot from 10 ft,10,2
+1,8:57.0,,Offensive rebound by H. Whiteside,10,2
+1,8:57.0,,H. Whiteside misses 2-pt layup at rim,10,2
+1,8:57.0,,Offensive rebound by H. Whiteside,10,2
+1,8:57.0,,Shooting foul by J. Crowder (drawn by H. Whiteside),10,2
+1,8:57.0,,H. Whiteside misses free throw 1 of 2,10,2
+1,8:57.0,,Offensive rebound by Team,10,2
+1,8:57.0,,H. Whiteside misses free throw 2 of 2,10,2
+1,8:53.0,Defensive rebound by D. Mitchell,,10,2
+1,8:41.0,D. Mitchell makes 2-pt dunk from 1 ft (assist by J. Ingles),,12,2
+1,8:26.0,,W. Ellington makes 3-pt jump shot from 24 ft (assist by J. Richardson),12,5
+1,8:09.0,R. Rubio makes 2-pt layup from 2 ft,,14,5
+1,7:58.0,,J. Johnson misses 2-pt jump shot from 10 ft (block by R. Gobert),14,5
+1,7:54.0,Defensive rebound by D. Mitchell,,14,5
+1,7:49.0,R. Gobert makes 2-pt dunk from 1 ft (assist by J. Crowder),,16,5
+1,7:25.0,,Turnover by J. Richardson (lost ball; steal by J. Crowder),16,5
+1,7:23.0,Shooting foul by W. Ellington (drawn by J. Crowder),,16,5
+1,7:23.0,J. Crowder makes free throw 1 of 2,,17,5
+1,7:23.0,,B. Adebayo enters the game for W. Ellington,17,5
+1,7:23.0,,K. Olynyk enters the game for J. Johnson,17,5
+1,7:23.0,,D. Wade enters the game for J. Richardson,17,5
+1,7:23.0,,J. Winslow enters the game for H. Whiteside,17,5
+1,7:23.0,J. Crowder makes free throw 2 of 2,,18,5
+1,7:05.0,,D. Wade misses 2-pt jump shot from 11 ft,18,5
+1,7:02.0,Defensive rebound by R. Gobert,,18,5
+1,6:53.0,R. Gobert makes 2-pt dunk from 1 ft (assist by J. Ingles),,20,5
+1,6:53.0,Technical foul by R. Gobert,,20,5
+1,6:53.0,,K. Olynyk makes technical free throw,20,6
+1,6:53.0,,J. Richardson enters the game for R. McGruder,20,6
+1,6:40.0,,Personal foul by J. Crowder (drawn by K. Olynyk),20,6
+1,6:40.0,D. Favors enters the game for J. Crowder,,20,6
+1,6:25.0,,K. Olynyk makes 3-pt jump shot from 25 ft (assist by D. Wade),20,9
+1,6:13.0,D. Mitchell makes 2-pt jump shot from 10 ft,,22,9
+1,6:04.0,,Turnover by J. Winslow (lost ball; steal by J. Ingles),22,9
+1,5:46.0,D. Mitchell misses 3-pt jump shot from 25 ft,,22,9
+1,5:44.0,,Defensive rebound by J. Winslow,22,9
+1,5:36.0,Violation by Team (kicked ball),,22,9
+1,5:36.0,R. O'Neale enters the game for D. Mitchell,,22,9
+1,5:31.0,,Shooting foul by R. Rubio (drawn by J. Richardson),22,9
+1,5:31.0,,J. Richardson makes free throw 1 of 3,22,10
+1,5:31.0,,J. Richardson makes free throw 2 of 3,22,11
+1,5:31.0,,J. Richardson makes free throw 3 of 3,22,12
+1,5:09.0,D. Favors misses 3-pt jump shot from 25 ft,,22,12
+1,5:07.0,,Defensive rebound by J. Winslow,22,12
+1,5:01.0,,J. Richardson makes 2-pt layup from 1 ft,22,14
+1,4:47.0,R. Rubio makes 2-pt jump shot from 18 ft,,24,14
+1,4:37.0,,J. Winslow makes 2-pt jump shot from 12 ft,24,16
+1,4:22.0,J. Ingles misses 3-pt jump shot from 23 ft,,24,16
+1,4:20.0,,Defensive rebound by K. Olynyk,24,16
+1,4:12.0,,D. Wade misses 2-pt jump shot from 9 ft,24,16
+1,4:10.0,Defensive rebound by J. Ingles,,24,16
+1,4:06.0,R. Rubio misses 2-pt jump shot from 12 ft,,24,16
+1,4:04.0,Offensive rebound by R. Gobert,,24,16
+1,4:03.0,R. Gobert makes 2-pt dunk from 1 ft,,26,16
+1,3:40.0,,B. Adebayo misses 2-pt jump shot from 8 ft,26,16
+1,3:38.0,Defensive rebound by D. Favors,,26,16
+1,3:30.0,J. Ingles makes 2-pt layup from 1 ft,,28,16
+1,3:15.0,,K. Olynyk misses 3-pt jump shot from 26 ft,28,16
+1,3:13.0,Defensive rebound by R. Gobert,,28,16
+1,3:07.0,Utah full timeout,,28,16
+1,3:07.0,K. Korver enters the game for J. Ingles,,28,16
+1,3:07.0,R. Neto enters the game for R. Rubio,,28,16
+1,2:53.0,R. O'Neale makes 3-pt jump shot from 26 ft (assist by R. Neto),,31,16
+1,2:37.0,,D. Wade misses 2-pt layup from 1 ft (block by D. Favors),31,16
+1,2:37.0,,Offensive rebound by Team,31,16
+1,2:37.0,D. Mitchell enters the game for R. O'Neale,,31,16
+1,2:37.0,,W. Ellington enters the game for J. Richardson,31,16
+1,2:28.0,,Turnover by D. Wade (bad pass; steal by D. Favors),31,16
+1,2:21.0,D. Mitchell makes 2-pt layup from 2 ft,,33,16
+1,2:04.0,,K. Olynyk misses 2-pt jump shot from 8 ft,33,16
+1,2:01.0,Defensive rebound by K. Korver,,33,16
+1,2:01.0,J. Crowder enters the game for R. Gobert,,33,16
+1,1:46.0,R. Neto makes 2-pt layup from 1 ft,,35,16
+1,1:27.0,,D. Wade makes 2-pt jump shot from 18 ft,35,18
+1,1:16.0,Turnover by D. Mitchell (bad pass),,35,18
+1,1:00.0,,W. Ellington makes 3-pt jump shot from 26 ft (assist by B. Adebayo),35,21
+1,0:48.0,D. Mitchell misses 2-pt layup from 2 ft (block by J. Winslow),,35,21
+1,0:44.0,,Defensive rebound by D. Wade,35,21
+1,0:40.0,,K. Olynyk makes 3-pt jump shot from 26 ft (assist by D. Wade),35,24
+1,0:29.0,D. Mitchell misses 3-pt jump shot from 25 ft,,35,24
+1,0:28.0,,Defensive rebound by K. Olynyk,35,24
+1,0:07.0,,J. Winslow makes 3-pt jump shot from 24 ft (assist by K. Olynyk),35,27
+2,11:31.0,J. Crowder misses 2-pt jump shot from 21 ft,,35,27
+2,11:27.0,,Defensive rebound by D. Wade,35,27
+2,11:18.0,,W. Ellington misses 3-pt jump shot from 25 ft,35,27
+2,11:18.0,Defensive rebound by Team,,35,27
+2,11:18.0,,H. Whiteside enters the game for B. Adebayo,35,27
+2,11:06.0,D. Mitchell misses 2-pt layup from 1 ft (block by H. Whiteside),,35,27
+2,11:03.0,,Defensive rebound by H. Whiteside,35,27
+2,10:48.0,,H. Whiteside makes 2-pt hook shot from 9 ft,35,29
+2,10:30.0,Turnover by J. Crowder (back court),,35,29
+2,10:30.0,T. Sefolosha enters the game for J. Crowder,,35,29
+2,10:14.0,,J. Winslow makes 2-pt dunk from 1 ft (assist by D. Wade),35,31
+2,9:47.0,D. Mitchell misses 2-pt jump shot from 21 ft,,35,31
+2,9:47.0,Offensive rebound by Team,,35,31
+2,9:47.0,Turnover by Team (shot clock),,35,31
+2,9:35.0,,D. Wade misses 3-pt jump shot from 26 ft,35,31
+2,9:33.0,Defensive rebound by R. O'Neale,,35,31
+2,9:29.0,Turnover by R. O'Neale (lost ball; steal by J. Winslow),,35,31
+2,9:18.0,,H. Whiteside makes 2-pt layup from 1 ft (assist by D. Wade),35,33
+2,9:18.0,,Shooting foul by D. Favors (drawn by H. Whiteside),35,33
+2,9:18.0,J. Ingles enters the game for R. O'Neale,,35,33
+2,9:18.0,,H. Whiteside makes free throw 1 of 1,35,34
+2,9:03.0,K. Korver misses 3-pt jump shot from 26 ft,,35,34
+2,9:00.0,Offensive rebound by D. Favors,,35,34
+2,8:52.0,D. Mitchell misses 2-pt jump shot from 20 ft,,35,34
+2,8:48.0,,Defensive rebound by W. Ellington,35,34
+2,8:42.0,,Shooting foul by J. Ingles (drawn by K. Olynyk),35,34
+2,8:42.0,,K. Olynyk makes free throw 1 of 2,35,35
+2,8:42.0,R. Gobert enters the game for D. Favors,,35,35
+2,8:42.0,R. Rubio enters the game for D. Mitchell,,35,35
+2,8:42.0,,J. Richardson enters the game for D. Wade,35,35
+2,8:42.0,,K. Olynyk misses free throw 2 of 2,35,35
+2,8:36.0,,Offensive rebound by H. Whiteside,35,35
+2,8:34.0,,K. Olynyk misses 3-pt jump shot from 23 ft,35,35
+2,8:32.0,Defensive rebound by R. Gobert,,35,35
+2,8:14.0,K. Korver misses 3-pt jump shot from 24 ft,,35,35
+2,8:12.0,,Defensive rebound by J. Richardson,35,35
+2,7:55.0,,J. Winslow misses 2-pt jump shot from 10 ft,35,35
+2,7:55.0,,Offensive rebound by Team,35,35
+2,7:55.0,,Miami full timeout,35,35
+2,7:52.0,,J. Richardson misses 2-pt jump shot from 15 ft,35,35
+2,7:48.0,Defensive rebound by R. Rubio,,35,35
+2,7:36.0,K. Korver misses 3-pt jump shot from 23 ft (block by K. Olynyk),,35,35
+2,7:34.0,,Defensive rebound by H. Whiteside,35,35
+2,7:27.0,,Def 3 sec tech foul by Team,35,35
+2,7:27.0,,J. Richardson makes technical free throw,35,36
+2,7:19.0,,J. Richardson misses 2-pt jump shot from 14 ft,35,36
+2,7:17.0,Defensive rebound by T. Sefolosha,,35,36
+2,7:08.0,J. Ingles misses 2-pt layup from 1 ft,,35,36
+2,7:03.0,Offensive rebound by R. Gobert,,35,36
+2,7:03.0,R. Gobert misses 2-pt layup at rim,,35,36
+2,7:03.0,,Defensive rebound by K. Olynyk,35,36
+2,6:53.0,,Turnover by K. Olynyk (bad pass),35,36
+2,6:53.0,R. O'Neale enters the game for K. Korver,,35,36
+2,6:38.0,J. Ingles misses 2-pt jump shot from 12 ft,,35,36
+2,6:36.0,,Defensive rebound by H. Whiteside,35,36
+2,6:29.0,,Turnover by J. Winslow (out of bounds lost ball),35,36
+2,6:29.0,,J. Johnson enters the game for K. Olynyk,35,36
+2,6:15.0,R. Gobert misses 2-pt dunk from 1 ft,,35,36
+2,6:13.0,,Defensive rebound by W. Ellington,35,36
+2,6:06.0,,J. Richardson misses 3-pt jump shot from 25 ft,35,36
+2,6:06.0,Defensive rebound by Team,,35,36
+2,6:06.0,,Loose ball foul by H. Whiteside (drawn by R. Gobert),35,36
+2,5:46.0,J. Ingles misses 2-pt jump shot from 18 ft,,35,36
+2,5:46.0,Offensive rebound by Team,,35,36
+2,5:46.0,J. Crowder enters the game for T. Sefolosha,,35,36
+2,5:39.0,J. Ingles makes 2-pt jump shot from 13 ft (assist by R. Gobert),,37,36
+2,5:26.0,,W. Ellington misses 2-pt layup from 2 ft,37,36
+2,5:26.0,Defensive rebound by R. Rubio,,37,36
+2,5:19.0,J. Crowder makes 3-pt jump shot from 27 ft (assist by J. Ingles),,40,36
+2,4:57.0,,H. Whiteside makes 2-pt layup from 3 ft,40,38
+2,4:57.0,,Shooting foul by J. Ingles (drawn by H. Whiteside),40,38
+2,4:57.0,D. Mitchell enters the game for R. O'Neale,,40,38
+2,4:57.0,,D. Wade enters the game for J. Winslow,40,38
+2,4:57.0,,H. Whiteside misses free throw 1 of 1,40,38
+2,4:57.0,Defensive rebound by R. Gobert,,40,38
+2,4:40.0,Turnover by R. Gobert (lost ball; steal by J. Johnson),,40,38
+2,4:33.0,,H. Whiteside makes 2-pt dunk from 1 ft (assist by J. Johnson),40,40
+2,4:18.0,J. Ingles misses 3-pt jump shot from 28 ft,,40,40
+2,4:15.0,,Defensive rebound by H. Whiteside,40,40
+2,4:06.0,,D. Wade misses 2-pt jump shot from 11 ft,40,40
+2,4:03.0,Defensive rebound by J. Crowder,,40,40
+2,3:48.0,J. Crowder misses 2-pt jump shot from 4 ft (block by D. Wade),,40,40
+2,3:45.0,,Defensive rebound by H. Whiteside,40,40
+2,3:42.0,,Shooting foul by J. Ingles (drawn by J. Richardson),40,40
+2,3:42.0,,J. Richardson makes free throw 1 of 2,40,41
+2,3:42.0,R. O'Neale enters the game for J. Ingles,,40,41
+2,3:42.0,,J. Richardson makes free throw 2 of 2,40,42
+2,3:31.0,R. Rubio makes 2-pt jump shot from 17 ft,,42,42
+2,3:17.0,,J. Richardson misses 3-pt jump shot from 25 ft,42,42
+2,3:15.0,Defensive rebound by R. Gobert,,42,42
+2,3:12.0,R. Rubio misses 3-pt jump shot from 22 ft,,42,42
+2,3:04.0,,Defensive rebound by J. Johnson,42,42
+2,2:56.0,,J. Johnson misses 2-pt jump shot from 9 ft,42,42
+2,2:55.0,,Offensive rebound by H. Whiteside,42,42
+2,2:55.0,,H. Whiteside makes 2-pt dunk from 1 ft,42,44
+2,2:55.0,Utah full timeout,,42,44
+2,2:42.0,J. Crowder makes 3-pt jump shot from 26 ft (assist by R. Rubio),,45,44
+2,2:17.0,,W. Ellington misses 2-pt layup from 2 ft (block by R. O'Neale),45,44
+2,2:13.0,,Offensive rebound by W. Ellington,45,44
+2,2:12.0,,W. Ellington misses 2-pt jump shot from 18 ft,45,44
+2,2:10.0,,Offensive rebound by H. Whiteside,45,44
+2,2:09.0,,H. Whiteside makes 2-pt dunk from 2 ft,45,46
+2,2:00.0,Shooting foul by J. Johnson (drawn by R. Gobert),,45,46
+2,2:00.0,R. Gobert misses free throw 1 of 2,,45,46
+2,2:00.0,Offensive rebound by Team,,45,46
+2,2:00.0,R. Gobert makes free throw 2 of 2,,46,46
+2,1:44.0,,J. Johnson misses 2-pt dunk from 2 ft,46,46
+2,1:42.0,Defensive rebound by R. Gobert,,46,46
+2,1:33.0,R. Rubio makes 2-pt jump shot from 13 ft,,48,46
+2,1:19.0,,J. Johnson makes 2-pt jump shot from 11 ft,48,48
+2,0:57.0,R. O'Neale makes 3-pt jump shot from 25 ft (assist by R. Rubio),,51,48
+2,0:49.0,,D. Wade makes 3-pt jump shot from 23 ft,51,51
+2,0:40.0,R. Rubio makes 2-pt layup from 1 ft,,53,51
+2,0:31.0,,J. Richardson makes 2-pt dunk from 1 ft,53,53
+2,0:11.0,D. Mitchell makes 2-pt jump shot from 15 ft,,55,53
+2,0:02.0,,J. Richardson misses 2-pt layup from 1 ft,55,53
+2,0:01.0,Defensive rebound by R. Gobert,,55,53
+3,11:50.0,Turnover by R. Gobert (traveling),,55,53
+3,11:28.0,,H. Whiteside makes 2-pt layup from 2 ft (assist by J. Johnson),55,55
+3,11:28.0,,Shooting foul by R. Rubio (drawn by H. Whiteside),55,55
+3,11:28.0,,H. Whiteside misses free throw 1 of 1,55,55
+3,11:28.0,Defensive rebound by J. Crowder,,55,55
+3,11:13.0,J. Crowder misses 2-pt jump shot from 11 ft,,55,55
+3,11:09.0,,Defensive rebound by J. Richardson,55,55
+3,10:59.0,,H. Whiteside makes 2-pt jump shot from 9 ft (assist by J. Winslow),55,57
+3,10:37.0,D. Mitchell makes 2-pt jump shot from 8 ft (assist by R. Rubio),,57,57
+3,10:23.0,,J. Winslow misses 2-pt layup from 1 ft,57,57
+3,10:21.0,Defensive rebound by R. Rubio,,57,57
+3,10:06.0,R. Rubio misses 2-pt jump shot from 17 ft,,57,57
+3,10:04.0,,Defensive rebound by H. Whiteside,57,57
+3,9:51.0,,J. Johnson makes 3-pt jump shot from 26 ft (assist by H. Whiteside),57,60
+3,9:26.0,R. Gobert makes 2-pt dunk from 3 ft (assist by D. Mitchell),,59,60
+3,9:19.0,,Personal foul by J. Ingles (drawn by W. Ellington),59,60
+3,9:19.0,R. O'Neale enters the game for J. Ingles,,59,60
+3,9:19.0,,Miami full timeout,59,60
+3,9:09.0,,J. Johnson makes 2-pt jump shot from 17 ft,59,62
+3,8:51.0,D. Mitchell makes 2-pt layup from 2 ft,,61,62
+3,8:40.0,,Turnover by J. Winslow (lost ball; steal by D. Mitchell),61,62
+3,8:34.0,D. Mitchell misses 2-pt hook shot from 7 ft,,61,62
+3,8:30.0,,Defensive rebound by W. Ellington,61,62
+3,8:25.0,,J. Johnson misses 2-pt jump shot from 8 ft,61,62
+3,8:16.0,,Offensive rebound by J. Johnson,61,62
+3,8:13.0,,J. Richardson misses 3-pt jump shot from 27 ft,61,62
+3,8:06.0,Defensive rebound by R. Gobert,,61,62
+3,8:02.0,J. Crowder misses 2-pt jump shot from 18 ft,,61,62
+3,8:02.0,Offensive rebound by Team,,61,62
+3,8:02.0,Personal foul by J. Johnson (drawn by R. Gobert),,61,62
+3,7:50.0,Turnover by J. Crowder (out of bounds lost ball),,61,62
+3,7:39.0,,J. Johnson misses 3-pt jump shot from 25 ft,61,62
+3,7:35.0,Defensive rebound by R. Gobert,,61,62
+3,7:24.0,Turnover by R. Rubio (lost ball; steal by J. Winslow),,61,62
+3,7:24.0,,Personal foul by J. Crowder (drawn by J. Winslow),61,62
+3,7:12.0,,J. Richardson misses 2-pt jump shot from 6 ft,61,62
+3,7:08.0,Defensive rebound by R. Gobert,,61,62
+3,7:04.0,D. Mitchell misses 3-pt jump shot from 23 ft,,61,62
+3,7:02.0,,Defensive rebound by H. Whiteside,61,62
+3,6:51.0,,J. Winslow misses 2-pt jump shot from 12 ft,61,62
+3,6:49.0,Defensive rebound by R. Gobert,,61,62
+3,6:39.0,R. Rubio makes 3-pt jump shot from 23 ft (assist by D. Mitchell),,64,62
+3,6:20.0,,J. Johnson makes 2-pt dunk from 1 ft (assist by J. Richardson),64,64
+3,6:05.0,J. Crowder misses 3-pt jump shot from 26 ft,,64,64
+3,5:57.0,,Defensive rebound by H. Whiteside,64,64
+3,5:44.0,,H. Whiteside misses 2-pt hook shot from 6 ft,64,64
+3,5:41.0,Defensive rebound by R. Gobert,,64,64
+3,5:35.0,Turnover by J. Crowder (bad pass; steal by W. Ellington),,64,64
+3,5:23.0,,H. Whiteside misses 2-pt jump shot from 15 ft,64,64
+3,5:21.0,Defensive rebound by R. Gobert,,64,64
+3,5:08.0,D. Mitchell misses 2-pt jump shot from 20 ft,,64,64
+3,5:06.0,Offensive rebound by R. Gobert,,64,64
+3,5:04.0,J. Crowder makes 2-pt layup from 1 ft (assist by R. Gobert),,66,64
+3,4:45.0,,H. Whiteside makes 2-pt jump shot from 12 ft (assist by W. Ellington),66,66
+3,4:30.0,R. Rubio misses 3-pt jump shot from 26 ft,,66,66
+3,4:28.0,Offensive rebound by J. Crowder,,66,66
+3,4:26.0,J. Crowder makes 2-pt layup from 1 ft,,68,66
+3,4:20.0,,Miami full timeout,68,66
+3,4:20.0,D. Favors enters the game for J. Crowder,,68,66
+3,4:20.0,K. Korver enters the game for D. Mitchell,,68,66
+3,4:20.0,,B. Adebayo enters the game for J. Johnson,68,66
+3,4:20.0,,K. Olynyk enters the game for J. Richardson,68,66
+3,4:20.0,,D. Wade enters the game for H. Whiteside,68,66
+3,4:08.0,,J. Winslow makes 2-pt jump shot from 7 ft,68,68
+3,3:48.0,R. Gobert misses 2-pt layup from 2 ft,,68,68
+3,3:46.0,,Defensive rebound by J. Winslow,68,68
+3,3:41.0,,K. Olynyk misses 3-pt jump shot from 26 ft,68,68
+3,3:38.0,Defensive rebound by Team,,68,68
+3,3:32.0,Personal foul by W. Ellington (drawn by K. Korver),,68,68
+3,3:22.0,Turnover by K. Korver (bad pass; steal by D. Wade),,68,68
+3,3:19.0,,Personal foul by R. O'Neale (drawn by D. Wade),68,68
+3,3:05.0,,Shooting foul by R. Rubio (drawn by D. Wade),68,68
+3,3:05.0,,D. Wade makes free throw 1 of 3,68,69
+3,3:05.0,,D. Wade makes free throw 2 of 3,68,70
+3,3:05.0,,D. Wade makes free throw 3 of 3,68,71
+3,2:52.0,K. Korver makes 3-pt jump shot from 25 ft (assist by R. Rubio),,71,71
+3,2:34.0,,W. Ellington misses 3-pt jump shot from 25 ft,71,71
+3,2:32.0,Defensive rebound by R. O'Neale,,71,71
+3,2:20.0,D. Favors makes 3-pt jump shot from 23 ft (assist by R. O'Neale),,74,71
+3,1:56.0,,J. Winslow misses 2-pt layup from 2 ft (block by D. Favors),74,71
+3,1:55.0,,Offensive rebound by K. Olynyk,74,71
+3,1:55.0,,K. Olynyk makes 2-pt jump shot from 9 ft,74,73
+3,1:55.0,Utah full timeout,,74,73
+3,1:55.0,J. Crowder enters the game for R. Gobert,,74,73
+3,1:55.0,D. Exum enters the game for R. O'Neale,,74,73
+3,1:55.0,D. Mitchell enters the game for R. Rubio,,74,73
+3,1:55.0,,J. Richardson enters the game for W. Ellington,74,73
+3,1:38.0,Shooting foul by B. Adebayo (drawn by D. Exum),,74,73
+3,1:38.0,D. Exum misses free throw 1 of 2,,74,73
+3,1:38.0,Offensive rebound by Team,,74,73
+3,1:38.0,D. Exum makes free throw 2 of 2,,75,73
+3,1:26.0,,Personal foul by D. Exum (drawn by K. Olynyk),75,73
+3,1:26.0,,K. Olynyk makes free throw 1 of 2,75,74
+3,1:26.0,,K. Olynyk makes free throw 2 of 2,75,75
+3,1:10.0,D. Mitchell misses 3-pt jump shot from 25 ft,,75,75
+3,1:08.0,,Defensive rebound by K. Olynyk,75,75
+3,1:05.0,,D. Wade misses 3-pt jump shot from 25 ft,75,75
+3,1:01.0,Defensive rebound by J. Crowder,,75,75
+3,0:52.0,D. Favors misses 2-pt hook shot from 5 ft,,75,75
+3,0:47.0,Offensive rebound by K. Korver,,75,75
+3,0:47.0,K. Korver misses 2-pt layup from 1 ft,,75,75
+3,0:47.0,,Defensive rebound by B. Adebayo,75,75
+3,0:41.0,,J. Richardson misses 2-pt hook shot from 7 ft,75,75
+3,0:40.0,,Offensive rebound by B. Adebayo,75,75
+3,0:39.0,,B. Adebayo makes 2-pt layup from 1 ft,75,77
+3,0:33.0,D. Mitchell misses 2-pt layup from 2 ft (block by B. Adebayo),,75,77
+3,0:30.0,,Defensive rebound by D. Wade,75,77
+3,0:28.0,,J. Richardson makes 3-pt jump shot from 23 ft (assist by D. Wade),75,80
+3,0:02.0,D. Exum misses 3-pt jump shot from 23 ft,,75,80
+3,0:00.0,Offensive rebound by D. Favors,,75,80
+3,0:00.0,D. Favors makes 2-pt layup from 2 ft,,77,80
+4,11:39.0,,J. Richardson misses 2-pt jump shot from 17 ft,77,80
+4,11:36.0,Defensive rebound by J. Ingles,,77,80
+4,11:28.0,J. Ingles misses 2-pt layup from 2 ft,,77,80
+4,11:24.0,,Defensive rebound by K. Olynyk,77,80
+4,11:12.0,,D. Wade misses 2-pt jump shot from 12 ft,77,80
+4,11:08.0,Defensive rebound by D. Favors,,77,80
+4,11:06.0,Turnover by J. Crowder (bad pass; steal by B. Adebayo),,77,80
+4,10:48.0,,K. Olynyk makes 3-pt jump shot from 26 ft (assist by D. Wade),77,83
+4,10:27.0,D. Mitchell makes 2-pt jump shot from 11 ft,,79,83
+4,10:27.0,Shooting foul by J. Richardson (drawn by D. Mitchell),,79,83
+4,10:27.0,,H. Whiteside enters the game for B. Adebayo,79,83
+4,10:27.0,D. Mitchell makes free throw 1 of 1,,80,83
+4,10:11.0,,H. Whiteside makes 2-pt layup from 2 ft (assist by D. Wade),80,85
+4,10:11.0,,Shooting foul by D. Favors (drawn by H. Whiteside),80,85
+4,10:11.0,,H. Whiteside misses free throw 1 of 1,80,85
+4,10:07.0,Defensive rebound by D. Favors,,80,85
+4,9:56.0,D. Mitchell misses 2-pt jump shot from 15 ft,,80,85
+4,9:54.0,,Defensive rebound by H. Whiteside,80,85
+4,9:46.0,,D. Wade misses 2-pt jump shot from 13 ft,80,85
+4,9:43.0,Defensive rebound by D. Mitchell,,80,85
+4,9:32.0,J. Crowder misses 3-pt jump shot from 24 ft,,80,85
+4,9:30.0,Offensive rebound by D. Favors,,80,85
+4,9:30.0,Shooting foul by J. Winslow (drawn by J. Crowder),,80,85
+4,9:30.0,J. Crowder makes free throw 1 of 2,,81,85
+4,9:30.0,J. Crowder makes free throw 2 of 2,,82,85
+4,9:17.0,,Turnover by J. Richardson (bad pass; steal by D. Favors),82,85
+4,9:04.0,K. Korver misses 3-pt jump shot from 24 ft,,82,85
+4,9:01.0,,Defensive rebound by H. Whiteside,82,85
+4,8:42.0,,J. Richardson misses 3-pt jump shot from 26 ft,82,85
+4,8:40.0,Defensive rebound by D. Favors,,82,85
+4,8:32.0,J. Ingles misses 3-pt jump shot from 23 ft,,82,85
+4,8:30.0,,Defensive rebound by H. Whiteside,82,85
+4,8:25.0,,Personal foul by D. Mitchell (drawn by K. Olynyk),82,85
+4,8:25.0,R. Gobert enters the game for J. Crowder,,82,85
+4,8:25.0,R. Rubio enters the game for D. Favors,,82,85
+4,8:25.0,T. Sefolosha enters the game for D. Mitchell,,82,85
+4,8:25.0,,W. Ellington enters the game for J. Winslow,82,85
+4,8:11.0,,W. Ellington makes 3-pt jump shot from 22 ft (assist by D. Wade),82,88
+4,8:03.0,Personal foul by J. Richardson (drawn by R. Gobert),,82,88
+4,7:56.0,R. Gobert makes 2-pt layup from 2 ft (assist by J. Ingles),,84,88
+4,7:56.0,Shooting foul by H. Whiteside (drawn by R. Gobert),,84,88
+4,7:56.0,R. Gobert makes free throw 1 of 1,,85,88
+4,7:37.0,,J. Richardson misses 2-pt jump shot from 13 ft,85,88
+4,7:34.0,,Offensive rebound by H. Whiteside,85,88
+4,7:33.0,,H. Whiteside misses 2-pt layup from 5 ft (block by R. Gobert),85,88
+4,7:33.0,Defensive rebound by R. Rubio,,85,88
+4,7:21.0,T. Sefolosha misses 3-pt jump shot from 24 ft,,85,88
+4,7:17.0,,Defensive rebound by W. Ellington,85,88
+4,7:17.0,D. Mitchell enters the game for K. Korver,,85,88
+4,7:06.0,,H. Whiteside misses 2-pt dunk from 1 ft,85,88
+4,7:05.0,Defensive rebound by R. Gobert,,85,88
+4,6:44.0,J. Ingles makes 2-pt layup from 1 ft,,87,88
+4,6:30.0,,Miami full timeout,87,88
+4,6:30.0,J. Crowder enters the game for T. Sefolosha,,87,88
+4,6:30.0,,J. Winslow enters the game for D. Wade,87,88
+4,6:23.0,,W. Ellington misses 3-pt jump shot from 26 ft,87,88
+4,6:21.0,,Offensive rebound by K. Olynyk,87,88
+4,6:16.0,,J. Winslow misses 3-pt jump shot from 23 ft,87,88
+4,6:12.0,Defensive rebound by D. Mitchell,,87,88
+4,6:00.0,D. Mitchell misses 2-pt hook shot from 6 ft,,87,88
+4,6:00.0,Offensive rebound by Team,,87,88
+4,6:00.0,,Loose ball foul by J. Winslow (drawn by R. Gobert),87,88
+4,6:00.0,R. Gobert misses free throw 1 of 2,,87,88
+4,6:00.0,Offensive rebound by Team,,87,88
+4,6:00.0,R. Gobert misses free throw 2 of 2,,87,88
+4,5:57.0,,Defensive rebound by H. Whiteside,87,88
+4,5:45.0,,Turnover by J. Richardson (lost ball; steal by R. Rubio),87,88
+4,5:37.0,J. Crowder makes 2-pt jump shot from 21 ft (assist by R. Rubio),,89,88
+4,5:25.0,,Offensive foul by J. Winslow (drawn by J. Crowder),89,88
+4,5:25.0,,Turnover by J. Winslow (offensive foul),89,88
+4,5:13.0,Personal foul by W. Ellington (drawn by R. Rubio),,89,88
+4,5:13.0,R. Rubio makes free throw 1 of 2,,90,88
+4,5:13.0,R. Rubio makes free throw 2 of 2,,91,88
+4,4:59.0,,W. Ellington misses 2-pt jump shot from 20 ft,91,88
+4,4:58.0,,Offensive rebound by W. Ellington,91,88
+4,4:58.0,,D. Wade enters the game for J. Winslow,91,88
+4,4:49.0,,J. Richardson makes 3-pt jump shot from 23 ft,91,91
+4,4:32.0,Turnover by R. Rubio (bad pass; steal by H. Whiteside),,91,91
+4,4:23.0,,Shooting foul by R. Gobert (drawn by K. Olynyk),91,91
+4,4:23.0,Utah full timeout,,91,91
+4,4:23.0,,K. Olynyk makes free throw 1 of 2,91,92
+4,4:23.0,,K. Olynyk misses free throw 2 of 2,91,92
+4,4:19.0,Defensive rebound by J. Crowder,,91,92
+4,4:01.0,D. Mitchell makes 3-pt jump shot from 24 ft,,94,92
+4,3:41.0,,D. Wade makes 3-pt jump shot from 24 ft (assist by H. Whiteside),94,95
+4,3:28.0,R. Rubio makes 2-pt jump shot from 5 ft (assist by R. Gobert),,96,95
+4,3:28.0,Shooting foul by W. Ellington (drawn by R. Rubio),,96,95
+4,3:28.0,R. Rubio makes free throw 1 of 1,,97,95
+4,3:10.0,,D. Wade misses 2-pt hook shot from 7 ft,97,95
+4,3:07.0,Defensive rebound by J. Ingles,,97,95
+4,3:04.0,Utah full timeout,,97,95
+4,2:52.0,Turnover by R. Rubio (bad pass; steal by K. Olynyk),,97,95
+4,2:30.0,,D. Wade misses 3-pt jump shot from 25 ft,97,95
+4,2:27.0,Defensive rebound by J. Ingles,,97,95
+4,2:24.0,Offensive foul by D. Mitchell (drawn by K. Olynyk),,97,95
+4,2:24.0,Turnover by D. Mitchell (offensive foul),,97,95
+4,2:03.0,,W. Ellington makes 3-pt jump shot from 25 ft (assist by J. Richardson),97,98
+4,1:45.0,D. Mitchell misses 3-pt jump shot from 26 ft,,97,98
+4,1:43.0,,Defensive rebound by K. Olynyk,97,98
+4,1:32.0,,D. Wade makes 2-pt layup from 2 ft,97,100
+4,1:19.0,R. Rubio makes 3-pt jump shot from 26 ft (assist by J. Crowder),,100,100
+4,1:08.0,,Turnover by H. Whiteside (offensive foul),100,100
+4,1:08.0,,Offensive foul by H. Whiteside (drawn by J. Ingles),100,100
+4,0:53.0,J. Crowder misses 3-pt jump shot from 26 ft,,100,100
+4,0:52.0,,Defensive rebound by H. Whiteside,100,100
+4,0:46.0,,W. Ellington misses 3-pt jump shot from 23 ft,100,100
+4,0:43.0,,Offensive rebound by J. Richardson,100,100
+4,0:42.0,,Miami full timeout,100,100
+4,0:33.0,,D. Wade misses 3-pt jump shot from 25 ft,100,100
+4,0:32.0,Defensive rebound by D. Mitchell,,100,100
+4,0:32.0,Utah full timeout,,100,100
+4,0:32.0,,J. Winslow enters the game for W. Ellington,100,100
+4,0:20.0,D. Mitchell misses 2-pt layup from 1 ft,,100,100
+4,0:18.0,,Defensive rebound by J. Winslow,100,100
+4,0:03.0,,Shooting foul by R. Gobert (drawn by D. Wade),100,100
+4,0:03.0,,D. Wade makes free throw 1 of 2,100,101
+4,0:03.0,D. Favors enters the game for R. Rubio,,100,101
+4,0:03.0,,D. Wade makes free throw 2 of 2,100,102
+4,0:03.0,Utah full timeout,,100,102
+4,0:03.0,K. Korver enters the game for J. Crowder,,100,102
+4,0:03.0,R. Rubio enters the game for D. Favors,,100,102
+4,0:03.0,,B. Adebayo enters the game for K. Olynyk,100,102
+4,0:01.0,D. Mitchell misses 3-pt jump shot from 24 ft,,100,102
+4,0:00.0,,Defensive rebound by J. Winslow,100,102

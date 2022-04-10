@@ -1,0 +1,421 @@
+QUARTER,TIME_REMAINING,MIAMI_ACTION,MILWAUKEE_ACTION,MIAMI_SCORE,MILWAUKEE_SCORE
+1,11:46.0,,K. Middleton misses 2-pt jump shot from 7 ft,0,0
+1,11:45.0,,Offensive rebound by K. Middleton,0,0
+1,11:43.0,,K. Middleton misses 2-pt layup at rim (block by J. Winslow),0,0
+1,11:43.0,Defensive rebound by J. Richardson,,0,0
+1,11:33.0,H. Whiteside makes 2-pt jump shot from 14 ft (assist by J. Richardson),,2,0
+1,11:20.0,,M. Brogdon makes 2-pt jump shot from 19 ft (assist by G. Antetokounmpo),2,2
+1,11:06.0,R. McGruder misses 3-pt jump shot from 24 ft,,2,2
+1,11:06.0,,Defensive rebound by E. Bledsoe,2,2
+1,10:54.0,,G. Antetokounmpo misses 2-pt layup from 3 ft (block by R. McGruder),2,2
+1,10:51.0,Defensive rebound by R. McGruder,,2,2
+1,10:48.0,Turnover by J. Winslow (dbl dribble),,2,2
+1,10:35.0,,G. Antetokounmpo misses 2-pt layup from 4 ft (block by H. Whiteside),2,2
+1,10:31.0,Defensive rebound by J. Johnson,,2,2
+1,10:21.0,Turnover by J. Johnson (bad pass; steal by E. Bledsoe),,2,2
+1,10:17.0,,E. Bledsoe misses 3-pt jump shot from 27 ft,2,2
+1,10:12.0,Defensive rebound by J. Johnson,,2,2
+1,10:01.0,H. Whiteside makes 2-pt jump shot from 19 ft (assist by J. Winslow),,4,2
+1,9:48.0,,E. Bledsoe misses 3-pt jump shot from 25 ft,4,2
+1,9:45.0,Defensive rebound by H. Whiteside,,4,2
+1,9:38.0,J. Winslow makes 2-pt jump shot from 14 ft,,6,2
+1,9:22.0,,M. Brogdon misses 2-pt layup from 5 ft,6,2
+1,9:20.0,Defensive rebound by J. Winslow,,6,2
+1,9:07.0,J. Richardson misses 2-pt jump shot from 16 ft,,6,2
+1,9:04.0,,Defensive rebound by G. Antetokounmpo,6,2
+1,8:57.0,,G. Antetokounmpo misses 2-pt jump shot from 18 ft,6,2
+1,8:55.0,Defensive rebound by J. Richardson,,6,2
+1,8:45.0,Turnover by R. McGruder (bad pass; steal by M. Brogdon),,6,2
+1,8:42.0,,Shooting foul by J. Winslow (drawn by G. Antetokounmpo),6,2
+1,8:42.0,,G. Antetokounmpo misses free throw 1 of 2,6,2
+1,8:42.0,,Offensive rebound by Team,6,2
+1,8:42.0,,G. Antetokounmpo makes free throw 2 of 2,6,3
+1,8:29.0,J. Winslow misses 3-pt jump shot from 27 ft,,6,3
+1,8:26.0,,Defensive rebound by G. Antetokounmpo,6,3
+1,8:17.0,,E. Bledsoe makes 2-pt jump shot from 13 ft (assist by G. Antetokounmpo),6,5
+1,8:01.0,R. McGruder makes 2-pt jump shot from 13 ft (assist by H. Whiteside),,8,5
+1,7:52.0,,M. Brogdon misses 2-pt layup from 1 ft,8,5
+1,7:49.0,Defensive rebound by J. Winslow,,8,5
+1,7:46.0,J. Winslow misses 2-pt layup from 6 ft,,8,5
+1,7:43.0,,Defensive rebound by K. Middleton,8,5
+1,7:40.0,,K. Middleton misses 2-pt jump shot from 12 ft (block by J. Johnson),8,5
+1,7:34.0,,Offensive rebound by G. Antetokounmpo,8,5
+1,7:33.0,,G. Antetokounmpo makes 2-pt layup from 2 ft,8,7
+1,7:23.0,Turnover by J. Richardson (step out of bounds),,8,7
+1,7:23.0,,S. Brown enters the game for M. Brogdon,8,7
+1,7:07.0,,E. Bledsoe misses 2-pt jump shot from 14 ft,8,7
+1,7:04.0,Defensive rebound by H. Whiteside,,8,7
+1,6:54.0,Shooting foul by B. Lopez (drawn by H. Whiteside),,8,7
+1,6:54.0,,Milwaukee full timeout,8,7
+1,6:54.0,H. Whiteside makes free throw 1 of 2,,9,7
+1,6:54.0,H. Whiteside makes free throw 2 of 2,,10,7
+1,6:38.0,,B. Lopez makes 3-pt jump shot from 29 ft (assist by G. Antetokounmpo),10,10
+1,6:19.0,J. Winslow makes 2-pt jump shot from 10 ft (assist by J. Richardson),,12,10
+1,6:04.0,,E. Bledsoe misses 3-pt jump shot from 23 ft,12,10
+1,6:02.0,Defensive rebound by J. Johnson,,12,10
+1,5:51.0,H. Whiteside makes 2-pt dunk from 1 ft (assist by J. Winslow),,14,10
+1,5:36.0,,B. Lopez makes 2-pt layup from 1 ft,14,12
+1,5:17.0,J. Richardson misses 2-pt jump shot from 16 ft (block by E. Bledsoe),,14,12
+1,5:14.0,,Defensive rebound by E. Bledsoe,14,12
+1,5:12.0,,E. Bledsoe makes 2-pt layup from 2 ft,14,14
+1,4:54.0,J. Richardson misses 2-pt jump shot from 13 ft (block by B. Lopez),,14,14
+1,4:51.0,,Defensive rebound by K. Middleton,14,14
+1,4:46.0,,E. Bledsoe makes 3-pt jump shot from 26 ft (assist by S. Brown),14,17
+1,4:46.0,Miami full timeout,,14,17
+1,4:46.0,D. Wade enters the game for R. McGruder,,14,17
+1,4:46.0,,G. Hill enters the game for G. Antetokounmpo,14,17
+1,4:46.0,,D. Wilson enters the game for K. Middleton,14,17
+1,4:31.0,J. Richardson misses 2-pt jump shot from 17 ft,,14,17
+1,4:28.0,,Defensive rebound by G. Hill,14,17
+1,4:17.0,,G. Hill misses 2-pt jump shot from 14 ft,14,17
+1,4:14.0,Defensive rebound by D. Wade,,14,17
+1,4:04.0,D. Wade makes 2-pt jump shot from 13 ft,,16,17
+1,3:37.0,,D. Wilson misses 3-pt jump shot from 24 ft,16,17
+1,3:33.0,Defensive rebound by J. Winslow,,16,17
+1,3:20.0,J. Winslow makes 3-pt jump shot from 27 ft (assist by D. Wade),,19,17
+1,3:07.0,,E. Bledsoe misses 3-pt jump shot from 28 ft,19,17
+1,3:07.0,Defensive rebound by H. Whiteside,,19,17
+1,2:53.0,H. Whiteside makes 2-pt dunk from 2 ft (assist by J. Winslow),,21,17
+1,2:43.0,,S. Brown makes 2-pt dunk from 4 ft (assist by E. Bledsoe),21,19
+1,2:20.0,J. Winslow misses 2-pt jump shot from 15 ft,,21,19
+1,2:18.0,,Defensive rebound by E. Bledsoe,21,19
+1,2:13.0,,E. Bledsoe misses 2-pt layup from 4 ft (block by J. Johnson),21,19
+1,2:09.0,,Offensive rebound by E. Bledsoe,21,19
+1,2:05.0,,G. Hill makes 3-pt jump shot from 25 ft (assist by S. Brown),21,22
+1,1:52.0,H. Whiteside misses 2-pt jump shot from 18 ft,,21,22
+1,1:49.0,,Defensive rebound by D. Wilson,21,22
+1,1:44.0,,Shooting foul by J. Johnson (drawn by E. Bledsoe),21,22
+1,1:44.0,,E. Bledsoe misses free throw 1 of 2,21,22
+1,1:44.0,,Offensive rebound by Team,21,22
+1,1:44.0,B. Adebayo enters the game for J. Johnson,,21,22
+1,1:44.0,T. Johnson enters the game for J. Richardson,,21,22
+1,1:44.0,D. Jones enters the game for H. Whiteside,,21,22
+1,1:44.0,K. Olynyk enters the game for J. Winslow,,21,22
+1,1:44.0,,E. İlyasova enters the game for S. Brown,21,22
+1,1:44.0,,T. Snell enters the game for B. Lopez,21,22
+1,1:44.0,,E. Bledsoe makes free throw 2 of 2,21,23
+1,1:33.0,Turnover by B. Adebayo (step out of bounds),,21,23
+1,1:33.0,,M. Brogdon enters the game for E. Bledsoe,21,23
+1,1:20.0,,D. Wilson misses 2-pt jump shot from 13 ft,21,23
+1,1:20.0,,Offensive rebound by Team,21,23
+1,1:12.0,,Personal foul by T. Johnson (drawn by G. Hill),21,23
+1,1:12.0,,G. Hill makes free throw 1 of 2,21,24
+1,1:12.0,,G. Hill makes free throw 2 of 2,21,25
+1,1:00.0,T. Johnson makes 2-pt jump shot from 12 ft (assist by B. Adebayo),,23,25
+1,0:40.0,,T. Snell makes 3-pt jump shot from 26 ft (assist by D. Wilson),23,28
+1,0:26.0,D. Wade misses 2-pt layup from 2 ft,,23,28
+1,0:23.0,,Defensive rebound by M. Brogdon,23,28
+1,0:14.0,,E. İlyasova makes 2-pt layup from 3 ft (assist by G. Hill),23,30
+1,0:03.0,K. Olynyk misses 3-pt jump shot from 26 ft (block by D. Wilson),,23,30
+1,0:01.0,,Defensive rebound by T. Snell,23,30
+2,11:45.0,T. Johnson makes 2-pt jump shot from 12 ft (assist by B. Adebayo),,25,30
+2,11:32.0,,G. Antetokounmpo misses 2-pt jump shot from 20 ft,25,30
+2,11:29.0,Defensive rebound by K. Olynyk,,25,30
+2,11:23.0,B. Adebayo misses 2-pt jump shot from 13 ft,,25,30
+2,11:20.0,,Defensive rebound by G. Antetokounmpo,25,30
+2,11:15.0,,M. Brogdon makes 2-pt layup from 1 ft,25,32
+2,10:57.0,T. Johnson makes 3-pt jump shot from 26 ft (assist by D. Wade),,28,32
+2,10:41.0,,T. Snell misses 3-pt jump shot from 26 ft,28,32
+2,10:38.0,Defensive rebound by B. Adebayo,,28,32
+2,10:27.0,D. Waiters misses 3-pt jump shot from 26 ft,,28,32
+2,10:24.0,,Defensive rebound by G. Hill,28,32
+2,10:20.0,,G. Hill makes 2-pt layup from 1 ft,28,34
+2,10:05.0,B. Adebayo misses 2-pt jump shot from 12 ft,,28,34
+2,10:02.0,,Defensive rebound by G. Antetokounmpo,28,34
+2,10:00.0,,Shooting foul by K. Olynyk (drawn by G. Antetokounmpo),28,34
+2,10:00.0,,G. Antetokounmpo misses free throw 1 of 2,28,34
+2,10:00.0,,Offensive rebound by Team,28,34
+2,10:00.0,,K. Middleton enters the game for G. Hill,28,34
+2,10:00.0,,G. Antetokounmpo misses free throw 2 of 2,28,34
+2,9:57.0,Defensive rebound by K. Olynyk,,28,34
+2,9:48.0,Personal foul by E. İlyasova (drawn by D. Waiters),,28,34
+2,9:43.0,T. Johnson misses 3-pt jump shot from 27 ft,,28,34
+2,9:40.0,,Defensive rebound by K. Middleton,28,34
+2,9:31.0,,T. Snell makes 2-pt layup from 2 ft (assist by K. Middleton),28,36
+2,9:07.0,K. Olynyk misses 3-pt jump shot from 26 ft,,28,36
+2,9:07.0,,Defensive rebound by T. Snell,28,36
+2,9:03.0,,Offensive foul by G. Antetokounmpo (drawn by K. Olynyk),28,36
+2,9:03.0,,Turnover by G. Antetokounmpo (offensive foul),28,36
+2,8:44.0,K. Olynyk makes 2-pt layup from 2 ft (assist by D. Wade),,30,36
+2,8:31.0,,M. Brogdon makes 2-pt jump shot from 15 ft (assist by G. Antetokounmpo),30,38
+2,8:22.0,Turnover by D. Waiters (out of bounds lost ball),,30,38
+2,8:08.0,,M. Brogdon misses 2-pt jump shot from 13 ft,30,38
+2,8:05.0,Defensive rebound by T. Johnson,,30,38
+2,7:54.0,Turnover by B. Adebayo (bad pass; steal by G. Antetokounmpo),,30,38
+2,7:47.0,,T. Snell makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),30,41
+2,7:46.0,Miami full timeout,,30,41
+2,7:46.0,J. Richardson enters the game for D. Waiters,,30,41
+2,7:46.0,,B. Lopez enters the game for E. İlyasova,30,41
+2,7:33.0,K. Olynyk misses 3-pt jump shot from 25 ft,,30,41
+2,7:29.0,,Defensive rebound by B. Lopez,30,41
+2,7:22.0,,B. Lopez makes 3-pt jump shot from 28 ft (assist by K. Middleton),30,44
+2,7:01.0,T. Johnson misses 2-pt jump shot from 7 ft,,30,44
+2,6:57.0,Offensive rebound by B. Adebayo,,30,44
+2,6:57.0,B. Adebayo misses 2-pt layup from 1 ft,,30,44
+2,6:56.0,,Defensive rebound by G. Antetokounmpo,30,44
+2,6:53.0,,K. Middleton misses 3-pt jump shot from 25 ft,30,44
+2,6:50.0,Defensive rebound by K. Olynyk,,30,44
+2,6:42.0,D. Wade misses 3-pt jump shot from 27 ft,,30,44
+2,6:39.0,,Defensive rebound by M. Brogdon,30,44
+2,6:33.0,,M. Brogdon misses 2-pt layup from 4 ft,30,44
+2,6:33.0,Defensive rebound by Team,,30,44
+2,6:33.0,,Loose ball foul by G. Antetokounmpo (drawn by B. Adebayo),30,44
+2,6:33.0,D. Jones enters the game for K. Olynyk,,30,44
+2,6:33.0,J. Winslow enters the game for D. Wade,,30,44
+2,6:16.0,T. Johnson misses 2-pt jump shot from 9 ft,,30,44
+2,6:12.0,,Defensive rebound by G. Antetokounmpo,30,44
+2,6:10.0,,M. Brogdon makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),30,46
+2,5:41.0,J. Richardson misses 3-pt jump shot from 23 ft,,30,46
+2,5:38.0,,Defensive rebound by G. Antetokounmpo,30,46
+2,5:33.0,,Shooting foul by B. Adebayo (drawn by G. Antetokounmpo),30,46
+2,5:33.0,,G. Antetokounmpo makes free throw 1 of 2,30,47
+2,5:33.0,H. Whiteside enters the game for B. Adebayo,,30,47
+2,5:33.0,,G. Hill enters the game for T. Snell,30,47
+2,5:33.0,,G. Antetokounmpo makes free throw 2 of 2,30,48
+2,5:07.0,D. Jones misses 3-pt jump shot from 23 ft,,30,48
+2,5:07.0,Offensive rebound by Team,,30,48
+2,5:07.0,Turnover by Team (shot clock),,30,48
+2,5:07.0,,E. Bledsoe enters the game for G. Antetokounmpo,30,48
+2,5:07.0,,D. Wilson enters the game for M. Brogdon,30,48
+2,4:55.0,,G. Hill misses 3-pt jump shot from 22 ft,30,48
+2,4:52.0,Defensive rebound by H. Whiteside,,30,48
+2,4:43.0,J. Winslow makes 2-pt jump shot from 18 ft (assist by D. Jones),,32,48
+2,4:26.0,,B. Lopez makes 3-pt jump shot from 23 ft (assist by G. Hill),32,51
+2,4:18.0,J. Richardson makes 2-pt layup from 1 ft (assist by J. Winslow),,34,51
+2,4:12.0,,K. Middleton makes 2-pt layup from 2 ft (assist by E. Bledsoe),34,53
+2,4:12.0,Miami full timeout,,34,53
+2,4:12.0,R. McGruder enters the game for T. Johnson,,34,53
+2,3:57.0,D. Jones makes 2-pt layup from 1 ft (assist by J. Richardson),,36,53
+2,3:47.0,,Personal foul by J. Richardson (drawn by B. Lopez),36,53
+2,3:44.0,Violation by Team (kicked ball),,36,53
+2,3:34.0,,D. Wilson makes 2-pt layup from 3 ft (assist by G. Hill),36,55
+2,3:17.0,H. Whiteside makes 2-pt jump shot from 15 ft (assist by J. Richardson),,38,55
+2,3:05.0,,E. Bledsoe makes 3-pt jump shot from 27 ft (assist by K. Middleton),38,58
+2,2:46.0,J. Richardson misses 2-pt jump shot from 19 ft,,38,58
+2,2:43.0,,Defensive rebound by K. Middleton,38,58
+2,2:38.0,,K. Middleton makes 3-pt jump shot from 26 ft,38,61
+2,2:20.0,J. Winslow misses 3-pt jump shot from 27 ft,,38,61
+2,2:17.0,,Defensive rebound by D. Wilson,38,61
+2,2:17.0,J. Johnson enters the game for D. Jones,,38,61
+2,2:03.0,,D. Wilson makes 2-pt hook shot from 9 ft (assist by K. Middleton),38,63
+2,1:49.0,Personal foul by B. Lopez (drawn by H. Whiteside),,38,63
+2,1:49.0,,E. İlyasova enters the game for G. Hill,38,63
+2,1:49.0,,T. Snell enters the game for B. Lopez,38,63
+2,1:42.0,J. Winslow makes 2-pt jump shot from 5 ft,,40,63
+2,1:34.0,,Shooting foul by J. Richardson (drawn by K. Middleton),40,63
+2,1:34.0,,K. Middleton misses free throw 1 of 2,40,63
+2,1:34.0,,Offensive rebound by Team,40,63
+2,1:34.0,D. Wade enters the game for J. Richardson,,40,63
+2,1:34.0,,K. Middleton makes free throw 2 of 2,40,64
+2,1:20.0,Offensive foul by H. Whiteside (drawn by E. İlyasova),,40,64
+2,1:20.0,Turnover by H. Whiteside (offensive foul),,40,64
+2,1:05.0,,K. Middleton misses 2-pt jump shot from 7 ft,40,64
+2,1:01.0,,Offensive rebound by D. Wilson,40,64
+2,1:00.0,,D. Wilson makes 2-pt layup from 5 ft,40,66
+2,0:52.0,Turnover by J. Winslow (bad pass; steal by E. Bledsoe),,40,66
+2,0:45.0,,D. Wilson misses 3-pt jump shot from 23 ft,40,66
+2,0:42.0,Defensive rebound by R. McGruder,,40,66
+2,0:37.0,D. Wade makes 2-pt jump shot from 1 ft,,42,66
+2,0:26.0,,K. Middleton makes 3-pt jump shot from 26 ft (assist by E. Bledsoe),42,69
+2,0:03.0,J. Winslow makes 3-pt jump shot from 27 ft (assist by R. McGruder),,45,69
+3,11:44.0,R. McGruder misses 2-pt jump shot from 15 ft,,45,69
+3,11:41.0,,Defensive rebound by G. Antetokounmpo,45,69
+3,11:34.0,,G. Antetokounmpo makes 2-pt layup from 1 ft,45,71
+3,11:22.0,J. Richardson makes 2-pt jump shot from 11 ft,,47,71
+3,11:04.0,,Personal foul by J. Winslow (drawn by K. Middleton),47,71
+3,10:56.0,,K. Middleton makes 2-pt layup from 1 ft,47,73
+3,10:40.0,J. Richardson makes 2-pt layup from 2 ft,,49,73
+3,10:31.0,,G. Antetokounmpo misses 2-pt jump shot from 20 ft,49,73
+3,10:29.0,Defensive rebound by H. Whiteside,,49,73
+3,10:14.0,R. McGruder misses 3-pt jump shot from 24 ft,,49,73
+3,10:12.0,Offensive rebound by R. McGruder,,49,73
+3,10:10.0,R. McGruder makes 2-pt layup from 1 ft,,51,73
+3,9:54.0,,B. Lopez misses 3-pt jump shot from 28 ft,51,73
+3,9:52.0,Defensive rebound by J. Johnson,,51,73
+3,9:48.0,J. Winslow makes 3-pt jump shot from 27 ft (assist by R. McGruder),,54,73
+3,9:22.0,,E. Bledsoe misses 3-pt jump shot from 25 ft,54,73
+3,9:19.0,Defensive rebound by H. Whiteside,,54,73
+3,8:59.0,H. Whiteside misses 2-pt jump shot from 14 ft,,54,73
+3,8:54.0,,Defensive rebound by B. Lopez,54,73
+3,8:50.0,,M. Brogdon misses 2-pt jump shot from 23 ft,54,73
+3,8:47.0,Defensive rebound by J. Winslow,,54,73
+3,8:42.0,R. McGruder misses 2-pt layup from 3 ft (block by B. Lopez),,54,73
+3,8:42.0,,Defensive rebound by K. Middleton,54,73
+3,8:33.0,,E. Bledsoe misses 3-pt jump shot from 23 ft,54,73
+3,8:30.0,Defensive rebound by R. McGruder,,54,73
+3,8:14.0,Turnover by J. Winslow (bad pass; steal by G. Antetokounmpo),,54,73
+3,8:02.0,,M. Brogdon misses 2-pt layup from 1 ft,54,73
+3,7:59.0,Defensive rebound by J. Richardson,,54,73
+3,7:48.0,J. Winslow misses 3-pt jump shot from 25 ft,,54,73
+3,7:45.0,,Defensive rebound by E. Bledsoe,54,73
+3,7:36.0,,B. Lopez misses 3-pt jump shot from 26 ft,54,73
+3,7:33.0,Defensive rebound by J. Johnson,,54,73
+3,7:26.0,R. McGruder misses 3-pt jump shot from 28 ft,,54,73
+3,7:23.0,,Defensive rebound by G. Antetokounmpo,54,73
+3,7:18.0,,Milwaukee full timeout,54,73
+3,7:18.0,,S. Brown enters the game for M. Brogdon,54,73
+3,7:11.0,,B. Lopez misses 3-pt jump shot from 27 ft,54,73
+3,7:09.0,Defensive rebound by Team,,54,73
+3,7:09.0,,Loose ball foul by S. Brown (drawn by J. Winslow),54,73
+3,6:56.0,Turnover by R. McGruder (lost ball; steal by S. Brown),,54,73
+3,6:53.0,,E. Bledsoe makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),54,75
+3,6:37.0,J. Winslow misses 2-pt jump shot from 15 ft (block by B. Lopez),,54,75
+3,6:35.0,Offensive rebound by J. Winslow,,54,75
+3,6:35.0,Personal foul by S. Brown (drawn by J. Winslow),,54,75
+3,6:20.0,R. McGruder misses 3-pt jump shot from 24 ft,,54,75
+3,6:17.0,,Defensive rebound by B. Lopez,54,75
+3,6:11.0,,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by E. Bledsoe),54,77
+3,6:11.0,,Shooting foul by R. McGruder (drawn by G. Antetokounmpo),54,77
+3,6:11.0,,G. Antetokounmpo misses free throw 1 of 1,54,77
+3,6:11.0,Defensive rebound by H. Whiteside,,54,77
+3,6:03.0,H. Whiteside makes 2-pt dunk from 2 ft (assist by J. Richardson),,56,77
+3,6:03.0,Shooting foul by B. Lopez (drawn by H. Whiteside),,56,77
+3,6:03.0,D. Wade enters the game for R. McGruder,,56,77
+3,6:03.0,H. Whiteside makes free throw 1 of 1,,57,77
+3,5:50.0,,E. Bledsoe makes 2-pt layup from 1 ft,57,79
+3,5:35.0,Turnover by H. Whiteside (3 sec),,57,79
+3,5:24.0,,K. Middleton misses 2-pt layup from 1 ft,57,79
+3,5:23.0,,Offensive rebound by Team,57,79
+3,5:23.0,Loose ball foul by J. Richardson (drawn by G. Antetokounmpo),,57,79
+3,5:07.0,,E. Bledsoe makes 2-pt layup from 1 ft (assist by S. Brown),57,81
+3,5:07.0,Miami full timeout,,57,81
+3,5:07.0,,G. Hill enters the game for G. Antetokounmpo,57,81
+3,5:07.0,,D. Wilson enters the game for E. Bledsoe,57,81
+3,4:50.0,H. Whiteside makes 2-pt hook shot from 7 ft (assist by D. Wade),,59,81
+3,4:40.0,,S. Brown misses 3-pt jump shot from 28 ft,59,81
+3,4:40.0,,Offensive rebound by D. Wilson,59,81
+3,4:36.0,,D. Wilson misses 2-pt dunk from 1 ft,59,81
+3,4:36.0,Defensive rebound by D. Wade,,59,81
+3,4:26.0,J. Richardson misses 3-pt jump shot from 25 ft,,59,81
+3,4:23.0,,Defensive rebound by K. Middleton,59,81
+3,4:20.0,,Turnover by K. Middleton (traveling),59,81
+3,4:08.0,J. Winslow misses 2-pt jump shot from 8 ft,,59,81
+3,4:05.0,,Defensive rebound by S. Brown,59,81
+3,3:51.0,,K. Middleton misses 2-pt jump shot from 22 ft,59,81
+3,3:47.0,Defensive rebound by J. Johnson,,59,81
+3,3:27.0,J. Richardson misses 2-pt hook shot from 2 ft,,59,81
+3,3:25.0,,Defensive rebound by K. Middleton,59,81
+3,3:13.0,,S. Brown misses 2-pt layup from 3 ft,59,81
+3,3:09.0,Defensive rebound by H. Whiteside,,59,81
+3,3:09.0,Shooting foul by D. Wilson (drawn by H. Whiteside),,59,81
+3,3:09.0,H. Whiteside misses free throw 1 of 2,,59,81
+3,3:09.0,Offensive rebound by Team,,59,81
+3,3:09.0,B. Adebayo enters the game for J. Johnson,,59,81
+3,3:09.0,T. Johnson enters the game for J. Richardson,,59,81
+3,3:09.0,,M. Brogdon enters the game for B. Lopez,59,81
+3,3:09.0,,E. İlyasova enters the game for K. Middleton,59,81
+3,3:09.0,H. Whiteside misses free throw 2 of 2,,59,81
+3,3:07.0,,Defensive rebound by E. İlyasova,59,81
+3,2:51.0,,Turnover by G. Hill (step out of bounds),59,81
+3,2:37.0,T. Johnson misses 2-pt jump shot from 16 ft,,59,81
+3,2:35.0,,Defensive rebound by G. Hill,59,81
+3,2:27.0,,S. Brown misses 2-pt layup from 2 ft (block by J. Winslow),59,81
+3,2:23.0,Defensive rebound by B. Adebayo,,59,81
+3,2:14.0,B. Adebayo misses 3-pt jump shot from 23 ft,,59,81
+3,2:11.0,,Defensive rebound by D. Wilson,59,81
+3,2:06.0,,M. Brogdon makes 2-pt layup from 1 ft,59,83
+3,1:53.0,H. Whiteside makes 2-pt jump shot from 15 ft (assist by J. Winslow),,61,83
+3,1:53.0,K. Olynyk enters the game for H. Whiteside,,61,83
+3,1:53.0,,G. Antetokounmpo enters the game for D. Wilson,61,83
+3,1:28.0,,E. İlyasova makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),61,86
+3,1:17.0,Turnover by D. Wade (bad pass),,61,86
+3,0:59.0,,S. Brown makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),61,89
+3,0:46.0,Turnover by K. Olynyk (out of bounds lost ball),,61,89
+3,0:46.0,,T. Snell enters the game for S. Brown,61,89
+3,0:33.0,,G. Antetokounmpo makes 2-pt jump shot from 11 ft,61,91
+3,0:33.0,,Shooting foul by B. Adebayo (drawn by G. Antetokounmpo),61,91
+3,0:33.0,,G. Antetokounmpo makes free throw 1 of 1,61,92
+3,0:18.0,Turnover by D. Wade (bad pass; steal by G. Antetokounmpo),,61,92
+3,0:13.0,,Turnover by G. Antetokounmpo (bad pass),61,92
+3,0:08.0,J. Winslow makes 2-pt layup from 2 ft,,63,92
+3,0:01.0,,Personal foul by D. Wade (drawn by M. Brogdon),63,92
+3,0:01.0,,M. Brogdon misses free throw 1 of 2,63,92
+3,0:01.0,,Offensive rebound by Team,63,92
+3,0:01.0,,M. Brogdon makes free throw 2 of 2,63,93
+4,11:42.0,,E. İlyasova misses 3-pt jump shot from 27 ft,63,93
+4,11:39.0,,Offensive rebound by T. Snell,63,93
+4,11:36.0,,G. Hill misses 3-pt jump shot from 27 ft,63,93
+4,11:32.0,Defensive rebound by D. Wade,,63,93
+4,11:30.0,D. Wade makes 2-pt layup from 1 ft (assist by T. Johnson),,65,93
+4,11:14.0,,Shooting foul by K. Olynyk (drawn by T. Snell),65,93
+4,11:14.0,,T. Snell makes free throw 1 of 2,65,94
+4,11:14.0,,T. Snell makes free throw 2 of 2,65,95
+4,11:00.0,K. Olynyk misses 3-pt jump shot from 25 ft,,65,95
+4,10:58.0,Offensive rebound by B. Adebayo,,65,95
+4,10:54.0,K. Olynyk misses 2-pt layup from 2 ft (block by E. İlyasova),,65,95
+4,10:54.0,,Defensive rebound by G. Hill,65,95
+4,10:48.0,,M. Brogdon makes 2-pt dunk from 1 ft (assist by G. Hill),65,97
+4,10:37.0,D. Jones makes 2-pt jump shot from 11 ft (assist by T. Johnson),,67,97
+4,10:37.0,Shooting foul by T. Snell (drawn by D. Jones),,67,97
+4,10:37.0,,P. Connaughton enters the game for G. Hill,67,97
+4,10:37.0,D. Jones makes free throw 1 of 1,,68,97
+4,10:24.0,,M. Brogdon makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),68,100
+4,9:57.0,D. Wade misses 3-pt jump shot from 22 ft,,68,100
+4,9:54.0,,Defensive rebound by E. İlyasova,68,100
+4,9:54.0,,S. Brown enters the game for M. Brogdon,68,100
+4,9:54.0,,D. Wilson enters the game for E. İlyasova,68,100
+4,9:46.0,,Milwaukee full timeout,68,100
+4,9:46.0,,T. Maker enters the game for G. Antetokounmpo,68,100
+4,9:31.0,,S. Brown misses 3-pt jump shot from 28 ft,68,100
+4,9:28.0,Defensive rebound by K. Olynyk,,68,100
+4,9:25.0,T. Johnson misses 3-pt jump shot from 26 ft,,68,100
+4,9:21.0,,Defensive rebound by P. Connaughton,68,100
+4,9:10.0,,P. Connaughton misses 3-pt jump shot from 27 ft,68,100
+4,9:06.0,,Offensive rebound by D. Wilson,68,100
+4,9:01.0,,S. Brown makes 3-pt jump shot from 22 ft (assist by T. Snell),68,103
+4,8:36.0,K. Olynyk misses 3-pt jump shot from 25 ft,,68,103
+4,8:33.0,,Defensive rebound by D. Wilson,68,103
+4,8:28.0,,S. Brown misses 3-pt jump shot from 27 ft,68,103
+4,8:24.0,Defensive rebound by K. Olynyk,,68,103
+4,8:14.0,D. Wade makes 3-pt jump shot from 26 ft (assist by D. Jones),,71,103
+4,7:57.0,,D. Wilson makes 2-pt jump shot from 6 ft (assist by S. Brown),71,105
+4,7:42.0,Shooting foul by T. Maker (drawn by B. Adebayo),,71,105
+4,7:42.0,B. Adebayo makes free throw 1 of 2,,72,105
+4,7:42.0,W. Ellington enters the game for K. Olynyk,,72,105
+4,7:42.0,D. Waiters enters the game for D. Wade,,72,105
+4,7:42.0,,J. Smith enters the game for T. Snell,72,105
+4,7:42.0,B. Adebayo makes free throw 2 of 2,,73,105
+4,7:27.0,,Turnover by P. Connaughton (lost ball; steal by W. Ellington),73,105
+4,7:22.0,W. Ellington misses 3-pt jump shot from 28 ft,,73,105
+4,7:19.0,,Defensive rebound by P. Connaughton,73,105
+4,7:12.0,,P. Connaughton makes 3-pt jump shot from 27 ft (assist by S. Brown),73,108
+4,7:10.0,Miami full timeout,,73,108
+4,6:51.0,W. Ellington makes 3-pt jump shot from 26 ft (assist by D. Jones),,76,108
+4,6:30.0,,P. Connaughton misses 3-pt jump shot from 28 ft,76,108
+4,6:26.0,Defensive rebound by D. Waiters,,76,108
+4,6:20.0,D. Waiters makes 2-pt jump shot from 19 ft,,78,108
+4,6:06.0,,Turnover by P. Connaughton (bad pass),78,108
+4,6:06.0,,T. Snell enters the game for D. Wilson,78,108
+4,5:51.0,,Violation by Team (kicked ball),78,108
+4,5:43.0,Turnover by D. Waiters (out of bounds lost ball),,78,108
+4,5:29.0,,T. Maker misses 2-pt layup from 1 ft,78,108
+4,5:26.0,Defensive rebound by B. Adebayo,,78,108
+4,5:18.0,B. Adebayo misses 2-pt jump shot from 13 ft,,78,108
+4,5:13.0,,Defensive rebound by J. Smith,78,108
+4,5:03.0,,T. Maker misses 2-pt dunk from 2 ft,78,108
+4,5:01.0,Defensive rebound by D. Jones,,78,108
+4,4:44.0,W. Ellington misses 3-pt jump shot from 28 ft,,78,108
+4,4:41.0,,Defensive rebound by T. Maker,78,108
+4,4:28.0,,S. Brown makes 2-pt jump shot from 14 ft (assist by T. Maker),78,110
+4,4:14.0,D. Jones makes 2-pt layup from 2 ft (assist by T. Johnson),,80,110
+4,4:04.0,,J. Smith makes 3-pt jump shot from 25 ft (assist by P. Connaughton),80,113
+4,3:40.0,D. Waiters misses 2-pt jump shot from 20 ft,,80,113
+4,3:37.0,,Defensive rebound by T. Maker,80,113
+4,3:31.0,,Turnover by S. Brown (bad pass; steal by D. Jones),80,113
+4,3:23.0,D. Jones misses 3-pt jump shot from 23 ft,,80,113
+4,3:20.0,,Defensive rebound by P. Connaughton,80,113
+4,3:05.0,,P. Connaughton misses 3-pt jump shot from 28 ft,80,113
+4,3:02.0,Defensive rebound by D. Waiters,,80,113
+4,2:59.0,W. Ellington makes 3-pt jump shot from 26 ft (assist by D. Waiters),,83,113
+4,2:37.0,,T. Maker makes 2-pt jump shot from 7 ft (assist by T. Snell),83,115
+4,2:20.0,Turnover by D. Waiters (bad pass; steal by T. Maker),,83,115
+4,2:15.0,,P. Connaughton makes 2-pt layup from 1 ft (assist by T. Maker),83,117
+4,1:54.0,D. Waiters misses 3-pt jump shot from 28 ft,,83,117
+4,1:51.0,,Defensive rebound by T. Maker,83,117
+4,1:31.0,,S. Brown makes 3-pt jump shot from 27 ft,83,120
+4,1:19.0,Personal foul by P. Connaughton (drawn by T. Johnson),,83,120
+4,1:09.0,W. Ellington makes 3-pt jump shot from 27 ft (assist by T. Johnson),,86,120
+4,0:57.0,,P. Connaughton makes 2-pt jump shot from 19 ft (assist by J. Smith),86,122
+4,0:37.0,B. Adebayo misses 3-pt jump shot from 26 ft,,86,122
+4,0:34.0,,Defensive rebound by J. Smith,86,122
+4,0:15.0,,P. Connaughton makes 2-pt dunk from 1 ft (assist by S. Brown),86,124

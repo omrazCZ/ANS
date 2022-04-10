@@ -1,0 +1,489 @@
+QUARTER,TIME_REMAINING,WASHINGTON_ACTION,SACRAMENTO_ACTION,WASHINGTON_SCORE,SACRAMENTO_SCORE
+1,11:45.0,,B. Hield misses 2-pt jump shot from 18 ft,0,0
+1,11:43.0,Defensive rebound by J. Wall,,0,0
+1,11:31.0,Shooting foul by I. Shumpert (drawn by I. Mahinmi),,0,0
+1,11:31.0,I. Mahinmi misses free throw 1 of 2,,0,0
+1,11:31.0,Offensive rebound by Team,,0,0
+1,11:31.0,I. Mahinmi misses free throw 2 of 2,,0,0
+1,11:30.0,Offensive rebound by Team,,0,0
+1,11:30.0,,Loose ball foul by W. Cauley-Stein (drawn by M. Morris),0,0
+1,11:22.0,B. Beal misses 3-pt jump shot from 24 ft,,0,0
+1,11:20.0,,Defensive rebound by N. Bjelica,0,0
+1,11:18.0,,Personal foul by O. Porter (drawn by N. Bjelica),0,0
+1,11:12.0,,D. Fox misses 2-pt jump shot from 8 ft (block by J. Wall),0,0
+1,11:08.0,Defensive rebound by I. Mahinmi,,0,0
+1,11:01.0,O. Porter misses 2-pt jump shot from 11 ft,,0,0
+1,10:59.0,,Defensive rebound by W. Cauley-Stein,0,0
+1,10:51.0,,B. Hield makes 2-pt layup from 3 ft,0,2
+1,10:41.0,Personal foul by D. Fox (drawn by I. Mahinmi),,0,2
+1,10:29.0,Turnover by J. Wall (traveling),,0,2
+1,10:18.0,,Personal foul by J. Wall (drawn by I. Shumpert),0,2
+1,10:10.0,,I. Shumpert misses 2-pt jump shot from 20 ft,0,2
+1,10:06.0,Defensive rebound by M. Morris,,0,2
+1,10:00.0,J. Wall misses 3-pt jump shot from 25 ft,,0,2
+1,9:57.0,,Defensive rebound by W. Cauley-Stein,0,2
+1,9:52.0,,Turnover by W. Cauley-Stein (traveling),0,2
+1,9:45.0,J. Wall misses 2-pt layup from 3 ft (block by I. Shumpert),,0,2
+1,9:45.0,Offensive rebound by Team,,0,2
+1,9:36.0,,Violation by Team (kicked ball),0,2
+1,9:30.0,Personal foul by N. Bjelica (drawn by M. Morris),,0,2
+1,9:19.0,B. Beal misses 2-pt jump shot from 14 ft,,0,2
+1,9:16.0,,Defensive rebound by D. Fox,0,2
+1,9:08.0,,W. Cauley-Stein misses 2-pt layup from 7 ft,0,2
+1,9:05.0,Defensive rebound by I. Mahinmi,,0,2
+1,9:01.0,J. Wall misses 2-pt layup from 3 ft,,0,2
+1,8:56.0,Offensive rebound by O. Porter,,0,2
+1,8:56.0,I. Mahinmi makes 2-pt layup from 3 ft,,2,2
+1,8:52.0,,B. Hield misses 3-pt jump shot from 26 ft,2,2
+1,8:52.0,Defensive rebound by I. Mahinmi,,2,2
+1,8:35.0,J. Wall makes 2-pt jump shot from 18 ft,,4,2
+1,8:24.0,,W. Cauley-Stein makes 2-pt layup from 2 ft (assist by D. Fox),4,4
+1,8:16.0,Personal foul by I. Shumpert (drawn by I. Mahinmi),,4,4
+1,8:16.0,I. Mahinmi makes free throw 1 of 2,,5,4
+1,8:16.0,I. Mahinmi makes free throw 2 of 2,,6,4
+1,8:07.0,,D. Fox makes 3-pt jump shot from 25 ft,6,7
+1,7:52.0,I. Mahinmi misses 3-pt jump shot from 23 ft,,6,7
+1,7:47.0,,Defensive rebound by B. Hield,6,7
+1,7:42.0,,N. Bjelica misses 3-pt jump shot from 25 ft,6,7
+1,7:39.0,Defensive rebound by B. Beal,,6,7
+1,7:31.0,M. Morris misses 3-pt jump shot from 24 ft,,6,7
+1,7:31.0,,Defensive rebound by B. Hield,6,7
+1,7:21.0,,D. Fox makes 2-pt jump shot from 19 ft,6,9
+1,7:03.0,B. Beal misses 3-pt jump shot from 25 ft,,6,9
+1,7:01.0,,Defensive rebound by W. Cauley-Stein,6,9
+1,6:57.0,,B. Hield makes 3-pt jump shot from 25 ft (assist by D. Fox),6,12
+1,6:56.0,Washington full timeout,,6,12
+1,6:56.0,,J. Jackson enters the game for I. Shumpert,6,12
+1,6:42.0,Turnover by O. Porter (bad pass; steal by W. Cauley-Stein),,6,12
+1,6:24.0,,B. Hield makes 2-pt jump shot from 20 ft (assist by W. Cauley-Stein),6,14
+1,6:03.0,J. Wall makes 2-pt layup from 2 ft,,8,14
+1,5:56.0,,N. Bjelica misses 3-pt jump shot from 25 ft,8,14
+1,5:50.0,Defensive rebound by M. Morris,,8,14
+1,5:49.0,Shooting foul by D. Fox (drawn by J. Wall),,8,14
+1,5:49.0,J. Wall makes free throw 1 of 2,,9,14
+1,5:49.0,,M. Bagley enters the game for N. Bjelica,9,14
+1,5:49.0,,F. Mason enters the game for D. Fox,9,14
+1,5:49.0,J. Wall misses free throw 2 of 2,,9,14
+1,5:44.0,,Defensive rebound by F. Mason,9,14
+1,5:34.0,,J. Jackson makes 2-pt jump shot from 11 ft,9,16
+1,5:21.0,B. Beal makes 3-pt jump shot from 23 ft (assist by J. Wall),,12,16
+1,5:02.0,,M. Bagley misses 2-pt layup from 2 ft,12,16
+1,5:02.0,Defensive rebound by M. Morris,,12,16
+1,4:56.0,J. Wall misses 3-pt jump shot from 25 ft,,12,16
+1,4:53.0,,Defensive rebound by B. Hield,12,16
+1,4:43.0,,W. Cauley-Stein makes 2-pt hook shot from 7 ft,12,18
+1,4:14.0,J. Wall makes 2-pt jump shot from 15 ft,,14,18
+1,3:57.0,,J. Jackson misses 3-pt jump shot from 25 ft,14,18
+1,3:55.0,Defensive rebound by M. Morris,,14,18
+1,3:53.0,Personal foul by F. Mason (drawn by J. Wall),,14,18
+1,3:53.0,J. Wall makes free throw 1 of 2,,15,18
+1,3:53.0,K. Oubre enters the game for B. Beal,,15,18
+1,3:53.0,A. Rivers enters the game for O. Porter,,15,18
+1,3:53.0,J. Wall makes free throw 2 of 2,,16,18
+1,3:41.0,,Turnover by J. Jackson (bad pass; steal by I. Mahinmi),16,18
+1,3:40.0,Turnover by I. Mahinmi (bad pass),,16,18
+1,3:26.0,,Turnover by W. Cauley-Stein (out of bounds lost ball),16,18
+1,3:26.0,J. Green enters the game for I. Mahinmi,,16,18
+1,3:06.0,A. Rivers makes 3-pt jump shot from 25 ft (assist by J. Green),,19,18
+1,2:50.0,,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by B. Hield),19,20
+1,2:35.0,J. Wall makes 2-pt layup from 1 ft,,21,20
+1,2:30.0,,F. Mason makes 2-pt layup from 2 ft,21,22
+1,2:30.0,,Shooting foul by M. Morris (drawn by F. Mason),21,22
+1,2:30.0,,Sacramento full timeout,21,22
+1,2:30.0,,F. Mason makes free throw 1 of 1,21,23
+1,2:13.0,M. Morris makes 2-pt layup from 3 ft,,23,23
+1,1:57.0,,Personal foul by J. Wall (drawn by M. Bagley),23,23
+1,1:57.0,T. Satoranský enters the game for J. Wall,,23,23
+1,1:57.0,,H. Giles enters the game for W. Cauley-Stein,23,23
+1,1:49.0,,B. Hield makes 2-pt jump shot from 20 ft (assist by F. Mason),23,25
+1,1:35.0,T. Satoranský makes 2-pt jump shot from 7 ft,,25,25
+1,1:25.0,,M. Bagley misses 2-pt jump shot from 17 ft,25,25
+1,1:24.0,Defensive rebound by J. Green,,25,25
+1,1:23.0,Turnover by J. Green (lost ball; steal by M. Bagley),,25,25
+1,1:21.0,,Offensive foul by M. Bagley (drawn by M. Morris),25,25
+1,1:21.0,,Turnover by M. Bagley (offensive foul),25,25
+1,1:12.0,K. Oubre misses 2-pt layup from 6 ft (block by M. Bagley),,25,25
+1,1:07.0,,Defensive rebound by M. Bagley,25,25
+1,1:03.0,,B. Hield misses 2-pt layup from 2 ft (block by M. Morris),25,25
+1,1:01.0,,Offensive rebound by B. Hield,25,25
+1,0:48.0,,F. Mason misses 2-pt jump shot from 16 ft,25,25
+1,0:46.0,,Offensive rebound by H. Giles,25,25
+1,0:46.0,,H. Giles makes 2-pt layup from 2 ft,25,27
+1,0:46.0,,Shooting foul by T. Satoranský (drawn by H. Giles),25,27
+1,0:46.0,,H. Giles makes free throw 1 of 1,25,28
+1,0:31.0,K. Oubre misses 3-pt jump shot from 26 ft,,25,28
+1,0:28.0,,Defensive rebound by M. Bagley,25,28
+1,0:11.0,,F. Mason misses 3-pt jump shot from 26 ft,25,28
+1,0:07.0,Defensive rebound by K. Oubre,,25,28
+1,0:04.0,M. Morris makes 2-pt layup from 2 ft (assist by K. Oubre),,27,28
+1,0:00.0,,B. Hield misses 3-pt jump shot from 27 ft,27,28
+1,0:00.0,,Offensive rebound by Team,27,28
+2,11:46.0,K. Oubre makes 3-pt jump shot from 24 ft (assist by A. Rivers),,30,28
+2,11:29.0,,Personal foul by K. Oubre (drawn by M. Bagley),30,28
+2,11:15.0,,F. Mason misses 3-pt jump shot from 26 ft,30,28
+2,11:12.0,Defensive rebound by B. Beal,,30,28
+2,11:06.0,A. Rivers misses 2-pt layup from 2 ft,,30,28
+2,11:03.0,,Defensive rebound by H. Giles,30,28
+2,10:59.0,,J. Jackson misses 3-pt jump shot from 25 ft,30,28
+2,10:55.0,Defensive rebound by K. Oubre,,30,28
+2,10:51.0,B. Beal makes 2-pt jump shot from 10 ft (assist by T. Satoranský),,32,28
+2,10:40.0,,Sacramento full timeout,32,28
+2,10:40.0,,Turnover by (5 sec),32,28
+2,10:26.0,J. Green makes 2-pt jump shot from 20 ft (assist by T. Satoranský),,34,28
+2,10:15.0,,Offensive foul by H. Giles (drawn by T. Satoranský),34,28
+2,10:15.0,,Turnover by H. Giles (offensive foul),34,28
+2,10:09.0,Offensive foul by J. Green (drawn by Y. Ferrell),,34,28
+2,10:09.0,Turnover by J. Green (offensive foul),,34,28
+2,10:09.0,,N. Bjelica enters the game for H. Giles,34,28
+2,10:09.0,,D. Fox enters the game for F. Mason,34,28
+2,9:58.0,,J. Jackson misses 3-pt jump shot from 25 ft,34,28
+2,9:52.0,Defensive rebound by K. Oubre,,34,28
+2,9:47.0,K. Oubre makes 2-pt layup from 2 ft,,36,28
+2,9:34.0,,M. Bagley makes 2-pt hook shot from 6 ft,36,30
+2,9:26.0,B. Beal misses 3-pt jump shot from 26 ft,,36,30
+2,9:21.0,Offensive rebound by J. Green,,36,30
+2,9:21.0,J. Green makes 2-pt layup from 1 ft,,38,30
+2,9:07.0,,J. Jackson misses 3-pt jump shot from 25 ft,38,30
+2,9:03.0,Defensive rebound by B. Beal,,38,30
+2,8:56.0,Turnover by J. Green (bad pass),,38,30
+2,8:42.0,,N. Bjelica makes 2-pt layup from 3 ft (assist by D. Fox),38,32
+2,8:32.0,B. Beal misses 3-pt jump shot from 25 ft,,38,32
+2,8:30.0,,Defensive rebound by J. Jackson,38,32
+2,8:25.0,,N. Bjelica makes 3-pt jump shot from 27 ft (assist by J. Jackson),38,35
+2,8:01.0,B. Beal misses 2-pt jump shot from 14 ft,,38,35
+2,7:58.0,,Defensive rebound by Y. Ferrell,38,35
+2,7:52.0,,N. Bjelica misses 2-pt jump shot from 16 ft,38,35
+2,7:49.0,Defensive rebound by J. Green,,38,35
+2,7:45.0,K. Oubre makes 3-pt jump shot from 25 ft (assist by J. Green),,41,35
+2,7:26.0,,N. Bjelica makes 2-pt layup from 2 ft,41,37
+2,7:15.0,Offensive foul by B. Beal (drawn by Y. Ferrell),,41,37
+2,7:15.0,Turnover by B. Beal (offensive foul),,41,37
+2,7:15.0,J. Wall enters the game for T. Satoranský,,41,37
+2,7:15.0,,I. Shumpert enters the game for J. Jackson,41,37
+2,7:02.0,,D. Fox makes 2-pt dunk from 1 ft,41,39
+2,6:41.0,K. Oubre makes 3-pt jump shot from 25 ft (assist by A. Rivers),,44,39
+2,6:28.0,,M. Bagley misses 2-pt layup from 2 ft,44,39
+2,6:24.0,,Offensive rebound by M. Bagley,44,39
+2,6:24.0,,M. Bagley makes 2-pt layup at rim,44,41
+2,6:17.0,A. Rivers misses 3-pt jump shot from 25 ft,,44,41
+2,6:15.0,,Defensive rebound by I. Shumpert,44,41
+2,6:05.0,,M. Bagley misses 2-pt jump shot from 17 ft,44,41
+2,6:02.0,,Offensive rebound by N. Bjelica,44,41
+2,5:59.0,,N. Bjelica misses 3-pt jump shot from 22 ft,44,41
+2,5:59.0,Defensive rebound by J. Green,,44,41
+2,5:52.0,Shooting foul by I. Shumpert (drawn by B. Beal),,44,41
+2,5:52.0,B. Beal makes free throw 1 of 2,,45,41
+2,5:52.0,M. Morris enters the game for J. Green,,45,41
+2,5:52.0,,W. Cauley-Stein enters the game for M. Bagley,45,41
+2,5:52.0,B. Beal makes free throw 2 of 2,,46,41
+2,5:42.0,,Turnover by I. Shumpert (lost ball; steal by J. Wall),46,41
+2,5:40.0,Shooting foul by D. Fox (drawn by J. Wall),,46,41
+2,5:40.0,,Technical foul by D. Fox,46,41
+2,5:40.0,B. Beal makes technical free throw,,47,41
+2,5:40.0,,T. Williams enters the game for I. Shumpert,47,41
+2,5:40.0,J. Wall makes free throw 1 of 2,,48,41
+2,5:40.0,J. Wall makes free throw 2 of 2,,49,41
+2,5:25.0,,Personal foul by K. Oubre (drawn by Y. Ferrell),49,41
+2,5:25.0,,B. Hield enters the game for D. Fox,49,41
+2,5:15.0,,B. Hield misses 3-pt jump shot from 26 ft,49,41
+2,5:13.0,Defensive rebound by A. Rivers,,49,41
+2,5:12.0,Turnover by A. Rivers (lost ball; steal by T. Williams),,49,41
+2,5:04.0,,Y. Ferrell makes 3-pt jump shot from 25 ft (assist by N. Bjelica),49,44
+2,4:51.0,A. Rivers makes 3-pt jump shot from 24 ft,,52,44
+2,4:37.0,,N. Bjelica makes 2-pt layup from 1 ft (assist by W. Cauley-Stein),52,46
+2,4:37.0,,Shooting foul by A. Rivers (drawn by N. Bjelica),52,46
+2,4:37.0,,N. Bjelica misses free throw 1 of 1,52,46
+2,4:34.0,Defensive rebound by K. Oubre,,52,46
+2,4:21.0,K. Oubre misses 3-pt jump shot from 25 ft,,52,46
+2,4:17.0,,Defensive rebound by T. Williams,52,46
+2,4:14.0,,N. Bjelica misses 2-pt layup from 3 ft,52,46
+2,4:08.0,,Offensive rebound by N. Bjelica,52,46
+2,4:08.0,,N. Bjelica misses 2-pt layup at rim,52,46
+2,4:07.0,Defensive rebound by B. Beal,,52,46
+2,4:07.0,Turnover by A. Rivers (traveling),,52,46
+2,3:53.0,,Y. Ferrell makes 2-pt jump shot from 15 ft,52,48
+2,3:53.0,,Shooting foul by A. Rivers (drawn by Y. Ferrell),52,48
+2,3:53.0,O. Porter enters the game for A. Rivers,,52,48
+2,3:53.0,,Y. Ferrell makes free throw 1 of 1,52,49
+2,3:38.0,B. Beal misses 2-pt layup from 3 ft,,52,49
+2,3:36.0,,Defensive rebound by N. Bjelica,52,49
+2,3:31.0,,W. Cauley-Stein makes 2-pt layup from 2 ft (assist by Y. Ferrell),52,51
+2,3:30.0,Washington full timeout,,52,51
+2,3:30.0,I. Mahinmi enters the game for K. Oubre,,52,51
+2,3:21.0,Offensive foul by B. Beal (drawn by B. Hield),,52,51
+2,3:21.0,Turnover by B. Beal (offensive foul),,52,51
+2,3:00.0,,W. Cauley-Stein misses 2-pt layup from 2 ft,52,51
+2,2:54.0,Defensive rebound by I. Mahinmi,,52,51
+2,2:48.0,O. Porter makes 3-pt jump shot from 23 ft (assist by J. Wall),,55,51
+2,2:36.0,,T. Williams makes 3-pt jump shot from 26 ft (assist by W. Cauley-Stein),55,54
+2,2:13.0,M. Morris makes 2-pt jump shot from 19 ft,,57,54
+2,2:02.0,,Turnover by W. Cauley-Stein (back court),57,54
+2,2:01.0,,Violation by Team (delay of game),57,54
+2,1:52.0,B. Beal misses 3-pt jump shot from 23 ft,,57,54
+2,1:47.0,,Defensive rebound by W. Cauley-Stein,57,54
+2,1:41.0,,Turnover by B. Hield (bad pass; steal by B. Beal),57,54
+2,1:32.0,Shooting foul by N. Bjelica (drawn by J. Wall),,57,54
+2,1:32.0,J. Wall makes free throw 1 of 2,,58,54
+2,1:32.0,,M. Bagley enters the game for N. Bjelica,58,54
+2,1:32.0,J. Wall makes free throw 2 of 2,,59,54
+2,1:14.0,,Turnover by Y. Ferrell (lost ball; steal by I. Mahinmi),59,54
+2,1:08.0,O. Porter misses 3-pt jump shot from 23 ft,,59,54
+2,1:03.0,,Defensive rebound by B. Hield,59,54
+2,0:52.0,,Turnover by B. Hield (lost ball; steal by B. Beal),59,54
+2,0:47.0,B. Beal misses 3-pt jump shot from 25 ft,,59,54
+2,0:44.0,,Defensive rebound by W. Cauley-Stein,59,54
+2,0:32.0,,Y. Ferrell misses 3-pt jump shot from 25 ft,59,54
+2,0:29.0,,Offensive rebound by M. Bagley,59,54
+2,0:27.0,,B. Hield misses 3-pt jump shot from 24 ft,59,54
+2,0:24.0,Defensive rebound by O. Porter,,59,54
+2,0:23.0,M. Morris makes 2-pt dunk from 2 ft (assist by J. Wall),,61,54
+2,0:23.0,Technical foul by M. Morris,,61,54
+2,0:23.0,,B. Hield makes technical free throw,61,55
+2,0:23.0,K. Oubre enters the game for B. Beal,,61,55
+2,0:23.0,T. Satoranský enters the game for J. Wall,,61,55
+2,0:23.0,,J. Jackson enters the game for M. Bagley,61,55
+2,0:23.0,,F. Mason enters the game for Y. Ferrell,61,55
+2,0:04.0,,Shooting foul by I. Mahinmi (drawn by W. Cauley-Stein),61,55
+2,0:04.0,,W. Cauley-Stein misses free throw 1 of 2,61,55
+2,0:04.0,,Offensive rebound by Team,61,55
+2,0:04.0,B. Beal enters the game for K. Oubre,,61,55
+2,0:04.0,J. Wall enters the game for T. Satoranský,,61,55
+2,0:04.0,,W. Cauley-Stein misses free throw 2 of 2,61,55
+2,0:02.0,Defensive rebound by M. Morris,,61,55
+2,0:00.0,B. Beal misses 3-pt jump shot from 24 ft,,61,55
+2,0:00.0,Offensive rebound by Team,,61,55
+3,11:39.0,M. Morris misses 3-pt jump shot from 25 ft,,61,55
+3,11:34.0,,Defensive rebound by I. Shumpert,61,55
+3,11:27.0,,Personal foul by I. Mahinmi (drawn by N. Bjelica),61,55
+3,11:17.0,,W. Cauley-Stein misses 2-pt jump shot from 20 ft,61,55
+3,11:13.0,Defensive rebound by I. Mahinmi,,61,55
+3,11:07.0,Turnover by M. Morris (bad pass; steal by W. Cauley-Stein),,61,55
+3,10:59.0,,Turnover by N. Bjelica (bad pass; steal by J. Wall),61,55
+3,10:47.0,M. Morris makes 2-pt jump shot from 13 ft (assist by O. Porter),,63,55
+3,10:29.0,,Turnover by D. Fox (bad pass; steal by J. Wall),63,55
+3,10:24.0,O. Porter misses 3-pt jump shot from 23 ft,,63,55
+3,10:20.0,,Defensive rebound by N. Bjelica,63,55
+3,10:14.0,,Personal foul by B. Beal (drawn by I. Shumpert),63,55
+3,10:00.0,,B. Hield makes 3-pt jump shot from 25 ft (assist by W. Cauley-Stein),63,58
+3,9:42.0,J. Wall misses 2-pt jump shot from 20 ft,,63,58
+3,9:39.0,,Defensive rebound by W. Cauley-Stein,63,58
+3,9:32.0,,N. Bjelica makes 3-pt jump shot from 26 ft (assist by D. Fox),63,61
+3,9:17.0,,Loose ball foul by D. Fox (drawn by O. Porter),63,61
+3,9:10.0,O. Porter misses 3-pt jump shot from 26 ft,,63,61
+3,9:07.0,,Defensive rebound by I. Shumpert,63,61
+3,8:54.0,,N. Bjelica makes 3-pt jump shot from 25 ft (assist by B. Hield),63,64
+3,8:31.0,M. Morris misses 3-pt jump shot from 25 ft,,63,64
+3,8:26.0,,Defensive rebound by N. Bjelica,63,64
+3,8:21.0,,W. Cauley-Stein makes 2-pt layup from 2 ft (assist by N. Bjelica),63,66
+3,8:20.0,Washington full timeout,,63,66
+3,8:02.0,J. Wall misses 3-pt jump shot from 25 ft,,63,66
+3,7:59.0,,Defensive rebound by W. Cauley-Stein,63,66
+3,7:45.0,,I. Shumpert misses 3-pt jump shot from 23 ft,63,66
+3,7:41.0,Defensive rebound by M. Morris,,63,66
+3,7:20.0,O. Porter makes 2-pt layup from 1 ft (assist by I. Mahinmi),,65,66
+3,7:12.0,,Personal foul by I. Mahinmi (drawn by W. Cauley-Stein),65,66
+3,7:04.0,,Turnover by B. Hield (traveling),65,66
+3,6:50.0,M. Morris misses 3-pt jump shot from 25 ft,,65,66
+3,6:48.0,,Defensive rebound by I. Shumpert,65,66
+3,6:41.0,,I. Shumpert misses 2-pt jump shot from 21 ft,65,66
+3,6:41.0,Defensive rebound by B. Beal,,65,66
+3,6:29.0,J. Wall misses 3-pt jump shot from 25 ft,,65,66
+3,6:25.0,,Defensive rebound by N. Bjelica,65,66
+3,6:13.0,,I. Shumpert misses 3-pt jump shot from 23 ft,65,66
+3,6:09.0,Defensive rebound by M. Morris,,65,66
+3,6:05.0,J. Wall makes 2-pt layup from 3 ft,,67,66
+3,5:47.0,,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by D. Fox),67,68
+3,5:23.0,B. Beal misses 2-pt jump shot from 17 ft,,67,68
+3,5:20.0,,Defensive rebound by I. Shumpert,67,68
+3,5:15.0,,Sacramento full timeout,67,68
+3,5:15.0,J. Green enters the game for I. Mahinmi,,67,68
+3,5:15.0,,M. Bagley enters the game for N. Bjelica,67,68
+3,5:15.0,,J. Jackson enters the game for D. Fox,67,68
+3,5:04.0,,B. Hield makes 2-pt jump shot from 22 ft (assist by W. Cauley-Stein),67,70
+3,4:44.0,J. Green misses 3-pt jump shot from 23 ft,,67,70
+3,4:39.0,,Defensive rebound by J. Jackson,67,70
+3,4:30.0,,W. Cauley-Stein misses 2-pt layup from 3 ft (block by M. Morris),67,70
+3,4:27.0,Defensive rebound by J. Green,,67,70
+3,4:25.0,J. Green makes 2-pt layup from 2 ft,,69,70
+3,4:25.0,K. Oubre enters the game for O. Porter,,69,70
+3,4:04.0,,B. Hield misses 3-pt jump shot from 24 ft,69,70
+3,4:02.0,Defensive rebound by K. Oubre,,69,70
+3,3:54.0,J. Wall misses 2-pt layup from 3 ft,,69,70
+3,3:52.0,Offensive rebound by J. Wall,,69,70
+3,3:51.0,J. Wall makes 2-pt layup from 2 ft,,71,70
+3,3:35.0,,M. Bagley makes 3-pt jump shot from 23 ft (assist by W. Cauley-Stein),71,73
+3,3:17.0,M. Morris makes 3-pt jump shot from 25 ft (assist by J. Wall),,74,73
+3,3:03.0,,B. Hield misses 2-pt layup from 2 ft,74,73
+3,3:00.0,,Offensive rebound by W. Cauley-Stein,74,73
+3,2:59.0,,W. Cauley-Stein misses 2-pt hook shot from 2 ft,74,73
+3,2:54.0,,Offensive rebound by M. Bagley,74,73
+3,2:54.0,,M. Bagley makes 2-pt layup from 1 ft,74,75
+3,2:36.0,Turnover by M. Morris (offensive foul),,74,75
+3,2:36.0,Offensive foul by M. Morris (drawn by J. Jackson),,74,75
+3,2:36.0,A. Rivers enters the game for B. Beal,,74,75
+3,2:36.0,,N. Bjelica enters the game for W. Cauley-Stein,74,75
+3,2:16.0,,M. Bagley misses 2-pt jump shot from 16 ft,74,75
+3,2:10.0,,Offensive rebound by I. Shumpert,74,75
+3,2:09.0,,Turnover by M. Bagley (traveling),74,75
+3,1:55.0,K. Oubre makes 2-pt layup from 2 ft (assist by J. Wall),,76,75
+3,1:35.0,,Shooting foul by J. Wall (drawn by M. Bagley),76,75
+3,1:35.0,,M. Bagley misses free throw 1 of 2,76,75
+3,1:35.0,,Offensive rebound by Team,76,75
+3,1:35.0,T. Satoranský enters the game for J. Wall,,76,75
+3,1:35.0,,T. Williams enters the game for I. Shumpert,76,75
+3,1:35.0,,M. Bagley misses free throw 2 of 2,76,75
+3,1:32.0,Defensive rebound by K. Oubre,,76,75
+3,1:23.0,Turnover by A. Rivers (offensive foul),,76,75
+3,1:23.0,Offensive foul by A. Rivers (drawn by M. Bagley),,76,75
+3,1:23.0,Violation by Team (delay of game),,76,75
+3,1:10.0,,Turnover by M. Bagley (traveling),76,75
+3,1:02.0,K. Oubre makes 2-pt layup from 3 ft,,78,75
+3,1:02.0,Shooting foul by J. Jackson (drawn by K. Oubre),,78,75
+3,1:02.0,,D. Fox enters the game for B. Hield,78,75
+3,1:02.0,K. Oubre makes free throw 1 of 1,,79,75
+3,0:49.0,,J. Jackson misses 3-pt jump shot from 24 ft,79,75
+3,0:46.0,,Offensive rebound by N. Bjelica,79,75
+3,0:39.0,,D. Fox makes 2-pt layup from 2 ft,79,77
+3,0:23.0,J. Green makes 3-pt jump shot from 25 ft (assist by T. Satoranský),,82,77
+3,0:02.0,,D. Fox makes 2-pt jump shot from 18 ft,82,79
+3,0:00.0,K. Oubre makes 3-pt jump shot from 40 ft (assist by M. Morris),,85,79
+4,11:52.0,,Personal foul by T. Satoranský (drawn by D. Fox),85,79
+4,11:38.0,,Turnover by M. Bagley (bad pass; steal by K. Oubre),85,79
+4,11:21.0,A. Rivers misses 3-pt jump shot from 25 ft,,85,79
+4,11:18.0,,Defensive rebound by N. Bjelica,85,79
+4,11:14.0,,M. Bagley misses 2-pt layup from 3 ft,85,79
+4,11:11.0,,Offensive rebound by M. Bagley,85,79
+4,11:10.0,,M. Bagley makes 2-pt layup from 3 ft,85,81
+4,10:46.0,J. Green misses 2-pt jump shot from 17 ft,,85,81
+4,10:46.0,,Defensive rebound by M. Bagley,85,81
+4,10:38.0,,D. Fox makes 3-pt jump shot from 26 ft,85,84
+4,10:16.0,Shooting foul by M. Bagley (drawn by M. Morris),,85,84
+4,10:16.0,M. Morris misses free throw 1 of 2,,85,84
+4,10:16.0,Offensive rebound by Team,,85,84
+4,10:16.0,M. Morris misses free throw 2 of 2,,85,84
+4,10:14.0,,Defensive rebound by N. Bjelica,85,84
+4,9:59.0,,D. Fox misses 3-pt jump shot from 24 ft,85,84
+4,9:55.0,Defensive rebound by A. Rivers,,85,84
+4,9:55.0,B. Beal enters the game for M. Morris,,85,84
+4,9:45.0,T. Satoranský misses 2-pt jump shot from 20 ft,,85,84
+4,9:42.0,,Defensive rebound by M. Bagley,85,84
+4,9:38.0,,J. Jackson makes 2-pt layup from 2 ft (assist by D. Fox),85,86
+4,9:27.0,B. Beal makes 2-pt jump shot from 20 ft,,87,86
+4,9:13.0,,Turnover by D. Fox (bad pass),87,86
+4,9:13.0,J. Wall enters the game for T. Satoranský,,87,86
+4,9:00.0,A. Rivers misses 3-pt jump shot from 25 ft,,87,86
+4,8:57.0,,Defensive rebound by N. Bjelica,87,86
+4,8:51.0,,N. Bjelica misses 3-pt jump shot from 26 ft,87,86
+4,8:51.0,Defensive rebound by Team,,87,86
+4,8:43.0,J. Wall makes 2-pt layup from 1 ft,,89,86
+4,8:32.0,,J. Jackson makes 3-pt jump shot from 24 ft (assist by D. Fox),89,89
+4,8:19.0,J. Wall misses 2-pt layup from 6 ft (block by N. Bjelica),,89,89
+4,8:16.0,,Defensive rebound by N. Bjelica,89,89
+4,8:09.0,,Shooting foul by A. Rivers (drawn by D. Fox),89,89
+4,8:09.0,,D. Fox misses free throw 1 of 2,89,89
+4,8:09.0,,Offensive rebound by Team,89,89
+4,8:09.0,,D. Fox makes free throw 2 of 2,89,90
+4,7:49.0,Shooting foul by T. Williams (drawn by B. Beal),,89,90
+4,7:49.0,B. Beal makes free throw 1 of 3,,90,90
+4,7:49.0,B. Beal makes free throw 2 of 3,,91,90
+4,7:49.0,B. Beal makes free throw 3 of 3,,92,90
+4,7:35.0,,Turnover by M. Bagley (traveling),92,90
+4,7:25.0,B. Beal makes 3-pt jump shot from 25 ft (assist by J. Wall),,95,90
+4,7:25.0,,Sacramento full timeout,95,90
+4,7:25.0,,W. Cauley-Stein enters the game for M. Bagley,95,90
+4,7:25.0,,B. Hield enters the game for T. Williams,95,90
+4,7:11.0,,N. Bjelica makes 3-pt jump shot from 26 ft (assist by D. Fox),95,93
+4,6:53.0,B. Beal makes 2-pt dunk from 1 ft (assist by J. Wall),,97,93
+4,6:46.0,,N. Bjelica makes 3-pt jump shot from 25 ft (assist by D. Fox),97,96
+4,6:28.0,Turnover by B. Beal (lost ball; steal by N. Bjelica),,97,96
+4,6:22.0,,W. Cauley-Stein misses 2-pt layup from 3 ft (block by J. Wall),97,96
+4,6:22.0,,Offensive rebound by Team,97,96
+4,6:18.0,,B. Hield makes 2-pt jump shot from 19 ft (assist by J. Jackson),97,98
+4,6:17.0,Washington full timeout,,97,98
+4,6:17.0,O. Porter enters the game for A. Rivers,,97,98
+4,5:57.0,B. Beal misses 2-pt layup from 5 ft,,97,98
+4,5:55.0,,Defensive rebound by J. Jackson,97,98
+4,5:52.0,Violation by Team (kicked ball),,97,98
+4,5:40.0,,W. Cauley-Stein makes 2-pt hook shot from 9 ft,97,100
+4,5:19.0,Turnover by K. Oubre (bad pass; steal by J. Jackson),,97,100
+4,5:13.0,,D. Fox misses 3-pt jump shot from 25 ft,97,100
+4,5:11.0,,Offensive rebound by J. Jackson,97,100
+4,5:06.0,,D. Fox misses 2-pt jump shot from 17 ft,97,100
+4,5:03.0,Defensive rebound by J. Green,,97,100
+4,4:55.0,Turnover by J. Wall (lost ball; steal by D. Fox),,97,100
+4,4:39.0,,B. Hield misses 2-pt layup from 4 ft (block by J. Wall),97,100
+4,4:39.0,Defensive rebound by O. Porter,,97,100
+4,4:39.0,Turnover by O. Porter (traveling),,97,100
+4,4:39.0,M. Morris enters the game for O. Porter,,97,100
+4,4:22.0,,D. Fox makes 2-pt layup from 3 ft,97,102
+4,4:04.0,Shooting foul by B. Hield (drawn by J. Green),,97,102
+4,4:04.0,J. Green makes free throw 1 of 2,,98,102
+4,4:04.0,J. Green makes free throw 2 of 2,,99,102
+4,3:56.0,,W. Cauley-Stein misses 2-pt dunk from 4 ft (block by J. Green),99,102
+4,3:53.0,Defensive rebound by J. Green,,99,102
+4,3:47.0,J. Green misses 2-pt layup from 3 ft,,99,102
+4,3:43.0,Offensive rebound by K. Oubre,,99,102
+4,3:41.0,K. Oubre misses 2-pt layup from 3 ft,,99,102
+4,3:41.0,,Defensive rebound by J. Jackson,99,102
+4,3:37.0,,Shooting foul by J. Wall (drawn by W. Cauley-Stein),99,102
+4,3:37.0,,W. Cauley-Stein misses free throw 1 of 2,99,102
+4,3:37.0,,Offensive rebound by Team,99,102
+4,3:37.0,,W. Cauley-Stein makes free throw 2 of 2,99,103
+4,3:37.0,Washington full timeout,,99,103
+4,3:37.0,,I. Shumpert enters the game for D. Fox,99,103
+4,3:30.0,J. Green makes 2-pt dunk from 1 ft (assist by J. Wall),,101,103
+4,3:22.0,,Sacramento full timeout,101,103
+4,3:22.0,,D. Fox enters the game for I. Shumpert,101,103
+4,3:12.0,,N. Bjelica makes 3-pt jump shot from 26 ft (assist by W. Cauley-Stein),101,106
+4,2:51.0,Turnover by B. Beal (lost ball; steal by J. Jackson),,101,106
+4,2:45.0,,B. Hield makes 2-pt layup from 1 ft (assist by N. Bjelica),101,108
+4,2:33.0,J. Wall misses 3-pt jump shot from 25 ft,,101,108
+4,2:30.0,Offensive rebound by J. Green,,101,108
+4,2:30.0,K. Oubre makes 3-pt jump shot from 26 ft (assist by J. Green),,104,108
+4,2:12.0,,D. Fox misses 3-pt jump shot from 25 ft,104,108
+4,2:09.0,,Offensive rebound by W. Cauley-Stein,104,108
+4,2:08.0,,W. Cauley-Stein misses 2-pt jump shot from 2 ft (block by K. Oubre),104,108
+4,2:08.0,,Offensive rebound by W. Cauley-Stein,104,108
+4,2:08.0,,Shooting foul by B. Beal (drawn by W. Cauley-Stein),104,108
+4,2:08.0,,W. Cauley-Stein makes free throw 1 of 2,104,109
+4,2:08.0,,W. Cauley-Stein makes free throw 2 of 2,104,110
+4,2:02.0,J. Wall misses 2-pt layup from 3 ft (block by B. Hield),,104,110
+4,2:02.0,Offensive rebound by Team,,104,110
+4,1:55.0,B. Beal misses 3-pt jump shot from 25 ft,,104,110
+4,1:52.0,,Defensive rebound by W. Cauley-Stein,104,110
+4,1:36.0,,D. Fox misses 2-pt jump shot from 21 ft,104,110
+4,1:33.0,Defensive rebound by K. Oubre,,104,110
+4,1:30.0,J. Wall makes 2-pt layup from 2 ft,,106,110
+4,1:12.0,,J. Jackson misses 3-pt jump shot from 25 ft,106,110
+4,1:09.0,Defensive rebound by J. Green,,106,110
+4,1:04.0,B. Beal makes 3-pt jump shot from 25 ft (assist by K. Oubre),,109,110
+4,1:04.0,,Sacramento full timeout,109,110
+4,0:40.0,,D. Fox misses 2-pt jump shot from 16 ft,109,110
+4,0:37.0,Defensive rebound by K. Oubre,,109,110
+4,0:31.0,Personal foul by J. Jackson (drawn by M. Morris),,109,110
+4,0:23.0,Turnover by B. Beal (out of bounds lost ball),,109,110
+4,0:19.0,,Personal foul by B. Beal (drawn by B. Hield),109,110
+4,0:19.0,,B. Hield misses free throw 1 of 2,109,110
+4,0:19.0,,Offensive rebound by Team,109,110
+4,0:19.0,,B. Hield makes free throw 2 of 2,109,111
+4,0:19.0,Washington full timeout,,109,111
+4,0:09.0,Turnover by M. Morris (traveling),,109,111
+4,0:09.0,,F. Mason enters the game for D. Fox,109,111
+4,0:06.0,,Personal foul by J. Wall (drawn by B. Hield),109,111
+4,0:06.0,,B. Hield makes free throw 1 of 2,109,112
+4,0:06.0,,D. Fox enters the game for F. Mason,109,112
+4,0:06.0,,B. Hield makes free throw 2 of 2,109,113
+4,0:06.0,Washington full timeout,,109,113
+4,0:06.0,O. Porter enters the game for J. Green,,109,113
+4,0:03.0,J. Wall makes 3-pt jump shot from 25 ft (assist by O. Porter),,112,113
+4,0:02.0,,Personal foul by J. Wall (drawn by D. Fox),112,113
+4,0:02.0,J. Green enters the game for J. Wall,,112,113
+4,0:02.0,,D. Fox misses free throw 1 of 2,112,113
+4,0:02.0,,Offensive rebound by Team,112,113
+4,0:02.0,,D. Fox makes free throw 2 of 2,112,114
+4,0:02.0,Turnover by J. Green (bad pass),,112,114
+4,0:01.0,,Personal foul by M. Morris (drawn by N. Bjelica),112,114
+4,0:01.0,,N. Bjelica makes free throw 1 of 2,112,115
+4,0:01.0,,N. Bjelica makes free throw 2 of 2,112,116
+4,0:00.0,K. Oubre misses 3-pt jump shot from 37 ft,,112,116
+4,0:00.0,Offensive rebound by Team,,112,116

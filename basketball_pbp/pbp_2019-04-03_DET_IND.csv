@@ -1,0 +1,456 @@
+QUARTER,TIME_REMAINING,INDIANA_ACTION,DETROIT_ACTION,INDIANA_SCORE,DETROIT_SCORE
+1,11:45.0,,W. Ellington makes 2-pt jump shot from 8 ft (assist by R. Jackson),0,2
+1,11:30.0,M. Turner misses 3-pt jump shot from 26 ft,,0,2
+1,11:27.0,,Defensive rebound by R. Jackson,0,2
+1,11:25.0,,Turnover by R. Jackson (bad pass),0,2
+1,11:11.0,T. Young misses 3-pt jump shot from 26 ft,,0,2
+1,11:09.0,,Defensive rebound by R. Jackson,0,2
+1,11:01.0,,R. Jackson misses 3-pt jump shot from 23 ft,0,2
+1,10:59.0,Defensive rebound by T. Young,,0,2
+1,10:45.0,Turnover by B. Bogdanović (bad pass),,0,2
+1,10:28.0,,Shooting foul by M. Turner (drawn by A. Drummond),0,2
+1,10:28.0,,A. Drummond misses free throw 1 of 2,0,2
+1,10:28.0,,Offensive rebound by Team,0,2
+1,10:28.0,,A. Drummond makes free throw 2 of 2,0,3
+1,10:06.0,M. Turner makes 2-pt jump shot from 19 ft (assist by C. Joseph),,2,3
+1,9:48.0,,W. Ellington misses 3-pt jump shot from 26 ft,2,3
+1,9:45.0,Defensive rebound by T. Evans,,2,3
+1,9:41.0,Personal foul by R. Jackson (drawn by T. Evans),,2,3
+1,9:28.0,C. Joseph misses 2-pt jump shot from 9 ft,,2,3
+1,9:25.0,,Defensive rebound by A. Drummond,2,3
+1,9:17.0,,R. Jackson misses 3-pt jump shot from 26 ft,2,3
+1,9:14.0,Defensive rebound by T. Young,,2,3
+1,9:07.0,B. Bogdanović misses 2-pt layup from 2 ft,,2,3
+1,9:05.0,,Defensive rebound by A. Drummond,2,3
+1,8:59.0,,B. Brown misses 3-pt jump shot from 23 ft,2,3
+1,8:56.0,Defensive rebound by M. Turner,,2,3
+1,8:44.0,T. Evans misses 3-pt jump shot from 26 ft,,2,3
+1,8:43.0,Offensive rebound by Team,,2,3
+1,8:35.0,T. Evans makes 2-pt layup from 1 ft,,4,3
+1,8:10.0,,W. Ellington misses 3-pt jump shot from 23 ft,4,3
+1,8:07.0,Defensive rebound by M. Turner,,4,3
+1,8:00.0,T. Evans misses 2-pt layup from 2 ft (block by T. Maker),,4,3
+1,7:57.0,,Defensive rebound by B. Brown,4,3
+1,7:55.0,,Turnover by B. Brown (turnover),4,3
+1,7:46.0,T. Young makes 2-pt layup from 2 ft (assist by C. Joseph),,6,3
+1,7:46.0,,Violation by Team (def goaltending),6,3
+1,7:46.0,Shooting foul by T. Maker (drawn by T. Young),,6,3
+1,7:46.0,T. Young makes free throw 1 of 1,,7,3
+1,7:31.0,,W. Ellington makes 2-pt layup from 2 ft (assist by T. Maker),7,5
+1,7:17.0,C. Joseph misses 2-pt jump shot from 18 ft,,7,5
+1,7:15.0,,Defensive rebound by A. Drummond,7,5
+1,7:12.0,,Personal foul by C. Joseph (drawn by R. Jackson),7,5
+1,7:05.0,,A. Drummond misses 2-pt layup from 3 ft,7,5
+1,7:02.0,Defensive rebound by M. Turner,,7,5
+1,6:57.0,T. Evans misses 3-pt jump shot from 25 ft,,7,5
+1,6:52.0,,Defensive rebound by T. Maker,7,5
+1,6:33.0,,Turnover by B. Brown (bad pass; steal by B. Bogdanović),7,5
+1,6:30.0,Personal foul by R. Jackson (drawn by T. Evans),,7,5
+1,6:30.0,,Detroit full timeout,7,5
+1,6:14.0,Turnover by C. Joseph (bad pass; steal by A. Drummond),,7,5
+1,6:12.0,,A. Drummond makes 2-pt layup from 2 ft (assist by B. Brown),7,7
+1,6:12.0,,Shooting foul by B. Bogdanović (drawn by A. Drummond),7,7
+1,6:12.0,,A. Drummond misses free throw 1 of 1,7,7
+1,6:09.0,Defensive rebound by T. Young,,7,7
+1,5:48.0,C. Joseph misses 2-pt jump shot from 10 ft (block by A. Drummond),,7,7
+1,5:44.0,,Defensive rebound by R. Jackson,7,7
+1,5:42.0,,Turnover by R. Jackson (bad pass),7,7
+1,5:31.0,B. Bogdanović misses 3-pt jump shot from 25 ft,,7,7
+1,5:31.0,,Defensive rebound by Team,7,7
+1,5:07.0,,Turnover by Team (shot clock),7,7
+1,5:07.0,,L. Galloway enters the game for B. Brown,7,7
+1,4:46.0,M. Turner misses 2-pt jump shot from 20 ft,,7,7
+1,4:42.0,,Defensive rebound by W. Ellington,7,7
+1,4:41.0,,Offensive foul by R. Jackson (drawn by T. Evans),7,7
+1,4:41.0,,Turnover by R. Jackson (offensive foul),7,7
+1,4:41.0,D. Sabonis enters the game for T. Young,,7,7
+1,4:41.0,,I. Smith enters the game for R. Jackson,7,7
+1,4:19.0,B. Bogdanović misses 2-pt hook shot from 6 ft,,7,7
+1,4:17.0,,Defensive rebound by A. Drummond,7,7
+1,4:16.0,,Turnover by A. Drummond (lost ball; steal by D. Sabonis),7,7
+1,4:10.0,B. Bogdanović makes 2-pt layup from 2 ft (assist by C. Joseph),,9,7
+1,4:04.0,,Detroit full timeout,9,7
+1,4:04.0,A. Holiday enters the game for B. Bogdanović,,9,7
+1,4:04.0,D. McDermott enters the game for T. Evans,,9,7
+1,4:04.0,,L. Kennard enters the game for W. Ellington,9,7
+1,3:51.0,,L. Galloway misses 2-pt layup from 3 ft (block by D. McDermott),9,7
+1,3:49.0,Defensive rebound by Team,,9,7
+1,3:38.0,Turnover by A. Holiday (bad pass; steal by A. Drummond),,9,7
+1,3:33.0,,A. Drummond misses 2-pt layup from 2 ft,9,7
+1,3:30.0,Defensive rebound by A. Holiday,,9,7
+1,3:23.0,M. Turner makes 2-pt layup from 3 ft (assist by C. Joseph),,11,7
+1,3:07.0,,A. Drummond misses 2-pt layup from 3 ft,11,7
+1,3:04.0,Defensive rebound by D. Sabonis,,11,7
+1,2:54.0,D. Sabonis makes 2-pt layup from 3 ft (assist by C. Joseph),,13,7
+1,2:40.0,,L. Kennard misses 2-pt jump shot from 19 ft,13,7
+1,2:38.0,Defensive rebound by C. Joseph,,13,7
+1,2:25.0,C. Joseph misses 2-pt jump shot from 7 ft,,13,7
+1,2:22.0,Offensive rebound by D. Sabonis,,13,7
+1,2:21.0,D. Sabonis makes 2-pt layup from 1 ft,,15,7
+1,2:05.0,,L. Galloway makes 3-pt jump shot from 26 ft (assist by A. Drummond),15,10
+1,1:49.0,Turnover by D. Sabonis (3 sec),,15,10
+1,1:49.0,T. Leaf enters the game for M. Turner,,15,10
+1,1:49.0,,J. Leuer enters the game for T. Maker,15,10
+1,1:35.0,,I. Smith makes 2-pt jump shot from 10 ft,15,12
+1,1:23.0,D. Sabonis makes 2-pt layup from 1 ft (assist by D. McDermott),,17,12
+1,1:23.0,Shooting foul by A. Drummond (drawn by D. Sabonis),,17,12
+1,1:23.0,D. Sabonis makes free throw 1 of 1,,18,12
+1,1:09.0,,L. Galloway misses 3-pt jump shot from 24 ft,18,12
+1,1:06.0,Defensive rebound by A. Holiday,,18,12
+1,1:01.0,A. Holiday misses 2-pt jump shot from 15 ft,,18,12
+1,0:59.0,,Defensive rebound by A. Drummond,18,12
+1,0:53.0,,L. Galloway misses 3-pt jump shot from 24 ft,18,12
+1,0:51.0,Defensive rebound by A. Holiday,,18,12
+1,0:50.0,Turnover by D. McDermott (discontinued dribble),,18,12
+1,0:32.0,,L. Kennard makes 2-pt jump shot from 22 ft (assist by I. Smith),18,14
+1,0:16.0,A. Holiday misses 2-pt layup from 5 ft (block by I. Smith),,18,14
+1,0:16.0,Offensive rebound by Team,,18,14
+1,0:07.0,C. Joseph misses 2-pt jump shot from 12 ft,,18,14
+1,0:05.0,,Defensive rebound by L. Galloway,18,14
+1,0:04.0,,Shooting foul by D. McDermott (drawn by L. Galloway),18,14
+1,0:04.0,,L. Galloway misses free throw 1 of 2,18,14
+1,0:04.0,,Offensive rebound by Team,18,14
+1,0:04.0,B. Bogdanović enters the game for C. Joseph,,18,14
+1,0:04.0,,L. Galloway makes free throw 2 of 2,18,15
+1,0:01.0,A. Holiday misses 3-pt jump shot from 34 ft,,18,15
+1,0:01.0,Offensive rebound by Team,,18,15
+2,11:37.0,D. McDermott makes 3-pt jump shot from 25 ft (assist by B. Bogdanović),,21,15
+2,11:20.0,,I. Smith misses 3-pt jump shot from 27 ft,21,15
+2,11:18.0,Defensive rebound by D. Sabonis,,21,15
+2,11:05.0,A. Holiday misses 2-pt jump shot from 8 ft,,21,15
+2,11:01.0,,Defensive rebound by L. Kennard,21,15
+2,10:59.0,,Shooting foul by B. Bogdanović (drawn by T. Maker),21,15
+2,10:59.0,,T. Maker makes free throw 1 of 2,21,16
+2,10:59.0,,T. Maker makes free throw 2 of 2,21,17
+2,10:41.0,Turnover by T. Leaf (lost ball; steal by T. Maker),,21,17
+2,10:31.0,,L. Kennard misses 2-pt jump shot from 12 ft,21,17
+2,10:29.0,Defensive rebound by T. Leaf,,21,17
+2,10:23.0,D. McDermott misses 3-pt jump shot from 25 ft,,21,17
+2,10:20.0,,Defensive rebound by L. Galloway,21,17
+2,10:15.0,,L. Galloway misses 2-pt layup from 3 ft,21,17
+2,10:12.0,Defensive rebound by D. Sabonis,,21,17
+2,10:10.0,T. Leaf makes 3-pt jump shot from 24 ft (assist by A. Holiday),,24,17
+2,9:54.0,,L. Galloway misses 3-pt jump shot from 26 ft,24,17
+2,9:52.0,Defensive rebound by D. Sabonis,,24,17
+2,9:45.0,D. Sabonis misses 2-pt jump shot from 19 ft,,24,17
+2,9:43.0,Offensive rebound by Team,,24,17
+2,9:28.0,T. Leaf makes 2-pt layup from 4 ft (assist by A. Holiday),,26,17
+2,9:20.0,,Personal foul by A. Holiday (drawn by Z. Pachulia),26,17
+2,9:11.0,,Z. Pachulia misses 2-pt layup from 2 ft,26,17
+2,9:10.0,,Offensive rebound by L. Galloway,26,17
+2,8:58.0,,I. Smith misses 2-pt jump shot from 16 ft,26,17
+2,8:55.0,Defensive rebound by B. Bogdanović,,26,17
+2,8:42.0,B. Bogdanović makes 2-pt jump shot from 8 ft,,28,17
+2,8:38.0,,Detroit full timeout,28,17
+2,8:34.0,,Offensive foul by Z. Pachulia (drawn by D. Sabonis),28,17
+2,8:34.0,,Turnover by Z. Pachulia (offensive foul),28,17
+2,8:10.0,B. Bogdanović misses 2-pt jump shot from 7 ft,,28,17
+2,8:08.0,,Defensive rebound by Z. Pachulia,28,17
+2,8:02.0,,Turnover by I. Smith (bad pass; steal by T. Leaf),28,17
+2,7:59.0,D. McDermott makes 2-pt layup from 2 ft (assist by A. Holiday),,30,17
+2,7:59.0,Shooting foul by Z. Pachulia (drawn by D. McDermott),,30,17
+2,7:59.0,T. Young enters the game for T. Leaf,,30,17
+2,7:59.0,D. McDermott misses free throw 1 of 1,,30,17
+2,7:56.0,,Defensive rebound by I. Smith,30,17
+2,7:44.0,,L. Kennard makes 3-pt jump shot from 27 ft,30,20
+2,7:22.0,Offensive foul by D. Sabonis (drawn by Z. Pachulia),,30,20
+2,7:22.0,Turnover by D. Sabonis (offensive foul),,30,20
+2,7:22.0,T. Evans enters the game for B. Bogdanović,,30,20
+2,7:22.0,,A. Drummond enters the game for L. Galloway,30,20
+2,7:22.0,,W. Ellington enters the game for Z. Pachulia,30,20
+2,7:08.0,,Shooting foul by D. McDermott (drawn by L. Kennard),30,20
+2,7:08.0,,L. Kennard makes free throw 1 of 2,30,21
+2,7:08.0,,L. Kennard makes free throw 2 of 2,30,22
+2,6:45.0,T. Young misses 3-pt jump shot from 23 ft,,30,22
+2,6:43.0,,Defensive rebound by A. Drummond,30,22
+2,6:36.0,,L. Kennard makes 3-pt jump shot from 27 ft (assist by W. Ellington),30,25
+2,6:06.0,D. Sabonis makes 2-pt layup from 2 ft,,32,25
+2,5:43.0,,I. Smith misses 3-pt jump shot from 23 ft,32,25
+2,5:41.0,Defensive rebound by D. Sabonis,,32,25
+2,5:34.0,T. Young makes 2-pt layup from 2 ft (assist by A. Holiday),,34,25
+2,5:12.0,,W. Ellington misses 3-pt jump shot from 27 ft,34,25
+2,5:08.0,,Offensive rebound by A. Drummond,34,25
+2,5:07.0,,A. Drummond makes 2-pt layup from 2 ft,34,27
+2,4:43.0,A. Holiday makes 3-pt jump shot from 25 ft (assist by D. Sabonis),,37,27
+2,4:23.0,,W. Ellington misses 3-pt jump shot from 24 ft,37,27
+2,4:19.0,Defensive rebound by T. Young,,37,27
+2,4:16.0,Indiana full timeout,,37,27
+2,4:16.0,B. Bogdanović enters the game for D. McDermott,,37,27
+2,4:16.0,M. Turner enters the game for D. Sabonis,,37,27
+2,4:08.0,T. Evans misses 2-pt layup from 2 ft (block by A. Drummond),,37,27
+2,4:07.0,Offensive rebound by M. Turner,,37,27
+2,4:06.0,M. Turner makes 2-pt dunk at rim,,39,27
+2,3:48.0,,Shooting foul by A. Holiday (drawn by I. Smith),39,27
+2,3:48.0,,I. Smith makes free throw 1 of 2,39,28
+2,3:48.0,,L. Galloway enters the game for L. Kennard,39,28
+2,3:48.0,,I. Smith misses free throw 2 of 2,39,28
+2,3:45.0,Defensive rebound by T. Young,,39,28
+2,3:27.0,T. Young makes 2-pt layup from 2 ft,,41,28
+2,3:00.0,,Turnover by A. Drummond (lost ball; steal by T. Evans),41,28
+2,2:52.0,B. Bogdanović misses 3-pt jump shot from 23 ft,,41,28
+2,2:48.0,,Defensive rebound by W. Ellington,41,28
+2,2:38.0,,L. Galloway misses 3-pt jump shot from 24 ft,41,28
+2,2:38.0,,Offensive rebound by Team,41,28
+2,2:38.0,Loose ball foul by T. Young (drawn by L. Galloway),,41,28
+2,2:38.0,,L. Galloway makes free throw 1 of 2,41,29
+2,2:38.0,,L. Galloway makes free throw 2 of 2,41,30
+2,2:24.0,T. Evans misses 2-pt jump shot from 17 ft,,41,30
+2,2:20.0,,Defensive rebound by W. Ellington,41,30
+2,2:09.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by I. Smith),41,32
+2,1:44.0,T. Young misses 3-pt jump shot from 25 ft,,41,32
+2,1:41.0,,Defensive rebound by L. Galloway,41,32
+2,1:30.0,,A. Drummond makes 2-pt layup from 2 ft (assist by I. Smith),41,34
+2,1:30.0,,Technical foul by A. Drummond,41,34
+2,1:30.0,B. Bogdanović makes technical free throw,,42,34
+2,1:30.0,C. Joseph enters the game for A. Holiday,,42,34
+2,1:13.0,T. Evans misses 2-pt layup from 3 ft,,42,34
+2,1:11.0,,Defensive rebound by A. Drummond,42,34
+2,1:06.0,Violation by Team (kicked ball),,42,34
+2,1:01.0,,Shooting foul by M. Turner (drawn by A. Drummond),42,34
+2,1:01.0,,A. Drummond misses free throw 1 of 2,42,34
+2,1:01.0,,Offensive rebound by Team,42,34
+2,1:01.0,,A. Drummond misses free throw 2 of 2,42,34
+2,0:58.0,Defensive rebound by B. Bogdanović,,42,34
+2,0:47.0,Turnover by C. Joseph (bad pass; steal by W. Ellington),,42,34
+2,0:42.0,,I. Smith misses 2-pt layup from 2 ft,42,34
+2,0:41.0,Defensive rebound by Team,,42,34
+2,0:41.0,,Loose ball foul by A. Drummond (drawn by B. Bogdanović),42,34
+2,0:41.0,D. Sabonis enters the game for M. Turner,,42,34
+2,0:28.0,Shooting foul by L. Galloway (drawn by T. Evans),,42,34
+2,0:28.0,T. Evans makes free throw 1 of 2,,43,34
+2,0:28.0,A. Holiday enters the game for B. Bogdanović,,43,34
+2,0:28.0,T. Evans makes free throw 2 of 2,,44,34
+2,0:05.0,,T. Maker misses 3-pt jump shot from 27 ft,44,34
+2,0:05.0,,Offensive rebound by Team,44,34
+2,0:05.0,Loose ball foul by T. Evans (drawn by A. Drummond),,44,34
+2,0:05.0,,A. Drummond makes free throw 1 of 2,44,35
+2,0:05.0,B. Bogdanović enters the game for C. Joseph,,44,35
+2,0:05.0,,B. Brown enters the game for I. Smith,44,35
+2,0:05.0,,A. Drummond makes free throw 2 of 2,44,36
+2,0:01.0,A. Holiday misses 3-pt jump shot from 23 ft (block by A. Drummond),,44,36
+2,0:01.0,Offensive rebound by Team,,44,36
+3,11:45.0,B. Bogdanović misses 2-pt layup from 1 ft,,44,36
+3,11:42.0,,Defensive rebound by T. Maker,44,36
+3,11:37.0,,B. Brown misses 2-pt layup from 2 ft (block by M. Turner),44,36
+3,11:37.0,,Offensive rebound by T. Maker,44,36
+3,11:37.0,,Offensive foul by T. Maker (drawn by T. Young),44,36
+3,11:37.0,,Turnover by T. Maker (offensive foul),44,36
+3,11:22.0,C. Joseph makes 2-pt jump shot from 5 ft,,46,36
+3,11:04.0,,R. Jackson misses 2-pt layup from 4 ft,46,36
+3,11:03.0,Defensive rebound by T. Evans,,46,36
+3,11:00.0,M. Turner makes 2-pt dunk from 2 ft (assist by T. Evans),,48,36
+3,11:00.0,Shooting foul by W. Ellington (drawn by M. Turner),,48,36
+3,11:00.0,M. Turner makes free throw 1 of 1,,49,36
+3,10:50.0,,Personal foul by T. Young (drawn by T. Maker),49,36
+3,10:41.0,,R. Jackson makes 3-pt jump shot from 25 ft (assist by A. Drummond),49,39
+3,10:31.0,T. Young makes 2-pt layup from 3 ft (assist by C. Joseph),,51,39
+3,10:12.0,,Personal foul by T. Evans (drawn by R. Jackson),51,39
+3,10:05.0,,W. Ellington makes 3-pt jump shot from 25 ft (assist by R. Jackson),51,42
+3,9:53.0,Shooting foul by B. Brown (drawn by B. Bogdanović),,51,42
+3,9:53.0,B. Bogdanović misses free throw 1 of 2,,51,42
+3,9:53.0,Offensive rebound by Team,,51,42
+3,9:53.0,B. Bogdanović makes free throw 2 of 2,,52,42
+3,9:41.0,,R. Jackson makes 2-pt layup from 1 ft,52,44
+3,9:25.0,C. Joseph misses 2-pt jump shot from 11 ft,,52,44
+3,9:23.0,Offensive rebound by C. Joseph,,52,44
+3,9:18.0,T. Young makes 2-pt jump shot from 20 ft (assist by M. Turner),,54,44
+3,8:57.0,,T. Maker misses 3-pt jump shot from 24 ft,54,44
+3,8:55.0,Defensive rebound by C. Joseph,,54,44
+3,8:52.0,T. Young makes 2-pt dunk from 3 ft (assist by C. Joseph),,56,44
+3,8:33.0,,A. Drummond makes 2-pt layup from 1 ft (assist by W. Ellington),56,46
+3,8:18.0,M. Turner makes 2-pt layup from 2 ft (assist by B. Bogdanović),,58,46
+3,8:18.0,Shooting foul by T. Maker (drawn by M. Turner),,58,46
+3,8:18.0,M. Turner makes free throw 1 of 1,,59,46
+3,8:05.0,,R. Jackson makes 2-pt jump shot from 5 ft,59,48
+3,7:50.0,T. Evans misses 2-pt hook shot from 5 ft,,59,48
+3,7:50.0,,Defensive rebound by A. Drummond,59,48
+3,7:44.0,,Turnover by R. Jackson (bad pass; steal by T. Young),59,48
+3,7:31.0,Turnover by C. Joseph (bad pass; steal by B. Brown),,59,48
+3,7:22.0,,Turnover by T. Maker (lost ball; steal by C. Joseph),59,48
+3,7:16.0,B. Bogdanović makes 2-pt layup from 1 ft (assist by C. Joseph),,61,48
+3,7:16.0,,Detroit full timeout,61,48
+3,7:16.0,,J. Leuer enters the game for T. Maker,61,48
+3,7:02.0,,A. Drummond makes 2-pt layup from 2 ft (assist by R. Jackson),61,50
+3,6:46.0,Shooting foul by B. Brown (drawn by T. Evans),,61,50
+3,6:46.0,T. Evans makes free throw 1 of 2,,62,50
+3,6:46.0,T. Evans makes free throw 2 of 2,,63,50
+3,6:23.0,,R. Jackson makes 2-pt jump shot from 17 ft,63,52
+3,6:05.0,B. Bogdanović misses 2-pt jump shot from 10 ft,,63,52
+3,6:03.0,,Defensive rebound by A. Drummond,63,52
+3,5:44.0,,B. Brown misses 2-pt layup from 6 ft,63,52
+3,5:40.0,,Offensive rebound by Team,63,52
+3,5:36.0,,W. Ellington makes 3-pt jump shot from 23 ft (assist by R. Jackson),63,55
+3,5:24.0,Shooting foul by J. Leuer (drawn by M. Turner),,63,55
+3,5:24.0,M. Turner misses free throw 1 of 2,,63,55
+3,5:24.0,Offensive rebound by Team,,63,55
+3,5:24.0,M. Turner makes free throw 2 of 2,,64,55
+3,5:15.0,,Offensive foul by W. Ellington (drawn by T. Evans),64,55
+3,5:15.0,,Turnover by W. Ellington (offensive foul),64,55
+3,5:08.0,Personal foul by B. Brown (drawn by T. Evans),,64,55
+3,5:08.0,T. Evans misses free throw 1 of 2,,64,55
+3,5:08.0,Offensive rebound by Team,,64,55
+3,5:08.0,,L. Galloway enters the game for B. Brown,64,55
+3,5:08.0,T. Evans misses free throw 2 of 2,,64,55
+3,5:06.0,,Defensive rebound by A. Drummond,64,55
+3,4:52.0,,A. Drummond misses 2-pt layup from 2 ft,64,55
+3,4:52.0,,Offensive rebound by A. Drummond,64,55
+3,4:52.0,,Shooting foul by M. Turner (drawn by A. Drummond),64,55
+3,4:52.0,,A. Drummond makes free throw 1 of 2,64,56
+3,4:52.0,,A. Drummond misses free throw 2 of 2,64,56
+3,4:52.0,Defensive rebound by Team,,64,56
+3,4:39.0,Shooting foul by J. Leuer (drawn by M. Turner),,64,56
+3,4:39.0,M. Turner makes free throw 1 of 2,,65,56
+3,4:39.0,M. Turner misses free throw 2 of 2,,65,56
+3,4:35.0,,Defensive rebound by R. Jackson,65,56
+3,4:26.0,,W. Ellington misses 3-pt jump shot from 26 ft,65,56
+3,4:24.0,,Offensive rebound by L. Galloway,65,56
+3,4:15.0,,R. Jackson makes 3-pt jump shot from 25 ft,65,59
+3,4:15.0,Indiana full timeout,,65,59
+3,4:15.0,D. Sabonis enters the game for T. Young,,65,59
+3,4:15.0,,L. Kennard enters the game for W. Ellington,65,59
+3,3:55.0,Shooting foul by L. Galloway (drawn by C. Joseph),,65,59
+3,3:55.0,C. Joseph makes free throw 1 of 2,,66,59
+3,3:55.0,C. Joseph makes free throw 2 of 2,,67,59
+3,3:29.0,,L. Galloway misses 3-pt jump shot from 26 ft,67,59
+3,3:29.0,,Offensive rebound by Team,67,59
+3,3:29.0,,Turnover by Team (shot clock),67,59
+3,3:29.0,D. McDermott enters the game for B. Bogdanović,,67,59
+3,3:22.0,T. Evans misses 2-pt layup from 1 ft,,67,59
+3,3:17.0,Offensive rebound by T. Evans,,67,59
+3,3:11.0,T. Evans misses 3-pt jump shot from 27 ft,,67,59
+3,3:08.0,,Defensive rebound by A. Drummond,67,59
+3,3:04.0,,Shooting foul by C. Joseph (drawn by R. Jackson),67,59
+3,3:04.0,,R. Jackson misses free throw 1 of 2,67,59
+3,3:04.0,,Offensive rebound by Team,67,59
+3,3:04.0,,R. Jackson makes free throw 2 of 2,67,60
+3,2:43.0,C. Joseph makes 2-pt jump shot from 10 ft,,69,60
+3,2:31.0,,R. Jackson misses 2-pt jump shot from 10 ft,69,60
+3,2:29.0,,Offensive rebound by A. Drummond,69,60
+3,2:29.0,,Personal foul by M. Turner (drawn by A. Drummond),69,60
+3,2:29.0,,A. Drummond makes free throw 1 of 2,69,61
+3,2:29.0,T. Young enters the game for M. Turner,,69,61
+3,2:29.0,,A. Drummond makes free throw 2 of 2,69,62
+3,2:29.0,Indiana full timeout,,69,62
+3,2:29.0,,I. Smith enters the game for R. Jackson,69,62
+3,2:06.0,T. Evans misses 3-pt jump shot from 26 ft,,69,62
+3,1:59.0,Offensive rebound by T. Young,,69,62
+3,1:58.0,T. Young misses 2-pt layup from 2 ft,,69,62
+3,1:58.0,,Defensive rebound by A. Drummond,69,62
+3,1:57.0,,L. Galloway misses 3-pt jump shot from 23 ft,69,62
+3,1:54.0,,Offensive rebound by J. Leuer,69,62
+3,1:54.0,A. Holiday enters the game for T. Evans,,69,62
+3,1:45.0,,Turnover by L. Kennard (bad pass; steal by T. Young),69,62
+3,1:30.0,D. McDermott makes 2-pt layup from 5 ft (assist by T. Young),,71,62
+3,1:10.0,,L. Galloway misses 3-pt jump shot from 23 ft,71,62
+3,1:07.0,Defensive rebound by C. Joseph,,71,62
+3,1:00.0,T. Young makes 2-pt layup from 2 ft (assist by D. Sabonis),,73,62
+3,0:45.0,,L. Kennard misses 3-pt jump shot from 25 ft,73,62
+3,0:42.0,Defensive rebound by D. Sabonis,,73,62
+3,0:32.0,D. Sabonis makes 2-pt jump shot from 19 ft (assist by A. Holiday),,75,62
+3,0:11.0,,L. Kennard misses 3-pt jump shot from 26 ft,75,62
+3,0:09.0,Defensive rebound by D. Sabonis,,75,62
+3,0:02.0,D. McDermott makes 3-pt jump shot from 27 ft (assist by C. Joseph),,78,62
+3,0:01.0,,I. Smith misses 3-pt jump shot from 50 ft,78,62
+3,0:01.0,,Offensive rebound by Team,78,62
+4,11:42.0,,T. Maker misses 3-pt jump shot from 24 ft,78,62
+4,11:39.0,,Offensive rebound by I. Smith,78,62
+4,11:38.0,,A. Drummond makes 2-pt dunk from 2 ft (assist by I. Smith),78,64
+4,11:09.0,B. Bogdanović makes 2-pt jump shot from 13 ft,,80,64
+4,10:54.0,,W. Ellington misses 3-pt jump shot from 23 ft (block by B. Bogdanović),80,64
+4,10:51.0,Defensive rebound by T. Young,,80,64
+4,10:37.0,D. Sabonis makes 2-pt layup from 2 ft (assist by D. McDermott),,82,64
+4,10:20.0,,W. Ellington makes 2-pt layup from 2 ft (assist by I. Smith),82,66
+4,10:07.0,Personal foul by A. Drummond (drawn by B. Bogdanović),,82,66
+4,9:59.0,D. McDermott makes 2-pt layup from 3 ft (assist by T. Young),,84,66
+4,9:44.0,,Def 3 sec tech foul by Team,84,66
+4,9:44.0,,W. Ellington makes technical free throw,84,67
+4,9:35.0,,W. Ellington makes 3-pt jump shot from 26 ft (assist by I. Smith),84,70
+4,9:17.0,T. Young misses 2-pt hook shot from 2 ft,,84,70
+4,9:13.0,,Defensive rebound by W. Ellington,84,70
+4,9:05.0,,A. Drummond makes 2-pt dunk from 1 ft (assist by L. Kennard),84,72
+4,8:59.0,Indiana full timeout,,84,72
+4,8:59.0,C. Joseph enters the game for B. Bogdanović,,84,72
+4,8:47.0,Turnover by D. McDermott (bad pass; steal by A. Drummond),,84,72
+4,8:38.0,,W. Ellington makes 2-pt layup from 2 ft (assist by A. Drummond),84,74
+4,8:22.0,A. Holiday makes 2-pt layup from 2 ft,,86,74
+4,7:56.0,,T. Maker misses 2-pt jump shot from 17 ft,86,74
+4,7:54.0,Defensive rebound by D. Sabonis,,86,74
+4,7:45.0,D. Sabonis misses 2-pt jump shot from 7 ft,,86,74
+4,7:43.0,,Defensive rebound by T. Maker,86,74
+4,7:39.0,,W. Ellington makes 3-pt jump shot from 25 ft (assist by L. Kennard),86,77
+4,7:14.0,D. McDermott makes 2-pt jump shot from 23 ft (assist by A. Holiday),,88,77
+4,6:56.0,,W. Ellington makes 3-pt jump shot from 26 ft (assist by I. Smith),88,80
+4,6:30.0,D. Sabonis misses 3-pt jump shot from 23 ft,,88,80
+4,6:27.0,,Defensive rebound by L. Kennard,88,80
+4,6:09.0,,Turnover by A. Drummond (lost ball; steal by A. Holiday),88,80
+4,6:01.0,A. Holiday misses 2-pt jump shot from 18 ft,,88,80
+4,6:01.0,Offensive rebound by Team,,88,80
+4,6:01.0,,Loose ball foul by T. Maker (drawn by T. Young),88,80
+4,6:01.0,B. Bogdanović enters the game for D. McDermott,,88,80
+4,6:01.0,,R. Jackson enters the game for T. Maker,88,80
+4,5:54.0,B. Bogdanović makes 2-pt layup from 2 ft (assist by T. Young),,90,80
+4,5:41.0,,I. Smith misses 3-pt jump shot from 24 ft,90,80
+4,5:38.0,Defensive rebound by B. Bogdanović,,90,80
+4,5:31.0,B. Bogdanović misses 3-pt jump shot from 27 ft,,90,80
+4,5:28.0,Offensive rebound by T. Young,,90,80
+4,5:21.0,Turnover by B. Bogdanović (bad pass),,90,80
+4,5:09.0,,L. Kennard misses 3-pt jump shot from 26 ft,90,80
+4,5:07.0,Defensive rebound by C. Joseph,,90,80
+4,4:54.0,T. Young misses 2-pt layup from 2 ft,,90,80
+4,4:52.0,,Defensive rebound by L. Kennard,90,80
+4,4:44.0,,W. Ellington misses 3-pt jump shot from 25 ft,90,80
+4,4:43.0,Defensive rebound by D. Sabonis,,90,80
+4,4:43.0,Indiana full timeout,,90,80
+4,4:43.0,T. Evans enters the game for T. Young,,90,80
+4,4:30.0,Personal foul by A. Drummond (drawn by D. Sabonis),,90,80
+4,4:20.0,A. Holiday misses 2-pt layup from 2 ft,,90,80
+4,4:17.0,D. Sabonis misses 2-pt layup from 1 ft,,90,80
+4,4:17.0,Offensive rebound by D. Sabonis,,90,80
+4,4:16.0,Offensive rebound by D. Sabonis,,90,80
+4,4:08.0,D. Sabonis makes 2-pt hook shot from 4 ft (assist by C. Joseph),,92,80
+4,3:49.0,,R. Jackson misses 2-pt jump shot from 14 ft,92,80
+4,3:47.0,Defensive rebound by C. Joseph,,92,80
+4,3:33.0,B. Bogdanović makes 2-pt jump shot from 17 ft (assist by C. Joseph),,94,80
+4,3:33.0,Shooting foul by I. Smith (drawn by B. Bogdanović),,94,80
+4,3:33.0,,L. Galloway enters the game for I. Smith,94,80
+4,3:33.0,B. Bogdanović makes free throw 1 of 1,,95,80
+4,3:16.0,,R. Jackson misses 3-pt jump shot from 24 ft,95,80
+4,3:14.0,Defensive rebound by T. Evans,,95,80
+4,3:00.0,T. Evans misses 2-pt layup from 5 ft,,95,80
+4,3:00.0,,Defensive rebound by R. Jackson,95,80
+4,3:00.0,,Personal take foul by T. Evans (drawn by R. Jackson),95,80
+4,2:52.0,,Turnover by A. Drummond (off goaltending),95,80
+4,2:35.0,A. Holiday misses 2-pt layup from 2 ft,,95,80
+4,2:35.0,Offensive rebound by D. Sabonis,,95,80
+4,2:30.0,D. Sabonis misses 2-pt layup from 1 ft,,95,80
+4,2:29.0,,Defensive rebound by A. Drummond,95,80
+4,2:26.0,,R. Jackson makes 3-pt jump shot from 27 ft (assist by L. Galloway),95,83
+4,2:08.0,T. Evans misses 2-pt jump shot from 21 ft,,95,83
+4,2:04.0,,Defensive rebound by L. Galloway,95,83
+4,2:04.0,,L. Galloway misses 2-pt layup from 2 ft (block by T. Evans),95,83
+4,2:03.0,,Offensive rebound by A. Drummond,95,83
+4,2:02.0,,A. Drummond makes 2-pt dunk at rim,95,85
+4,2:02.0,Indiana full timeout,,95,85
+4,2:02.0,M. Turner enters the game for T. Evans,,95,85
+4,2:02.0,T. Young enters the game for D. Sabonis,,95,85
+4,1:45.0,B. Bogdanović makes 2-pt jump shot from 11 ft (assist by T. Young),,97,85
+4,1:33.0,,A. Drummond misses 2-pt layup from 2 ft,97,85
+4,1:30.0,Defensive rebound by B. Bogdanović,,97,85
+4,1:11.0,M. Turner misses 2-pt layup from 2 ft,,97,85
+4,1:10.0,Offensive rebound by M. Turner,,97,85
+4,1:10.0,M. Turner makes 2-pt layup from 3 ft,,99,85
+4,1:10.0,Shooting foul by A. Drummond (drawn by M. Turner),,99,85
+4,1:10.0,M. Turner makes free throw 1 of 1,,100,85
+4,1:10.0,,Detroit full timeout,100,85
+4,1:04.0,,R. Jackson misses 3-pt jump shot from 25 ft,100,85
+4,1:04.0,,Offensive rebound by A. Drummond,100,85
+4,1:04.0,,A. Drummond makes 2-pt layup at rim,100,87
+4,0:45.0,T. Young makes 3-pt jump shot from 24 ft (assist by C. Joseph),,103,87
+4,0:43.0,,Turnover by L. Galloway (bad pass; steal by A. Holiday),103,87
+4,0:43.0,A. Holiday makes 2-pt layup from 2 ft,,105,87
+4,0:43.0,,Turnover by R. Jackson (offensive foul),105,87
+4,0:43.0,,Offensive foul by R. Jackson (drawn by A. Holiday),105,87
+4,0:30.0,T. Young makes 3-pt jump shot from 24 ft (assist by B. Bogdanović),,108,87
+4,0:23.0,,L. Kennard misses 3-pt jump shot from 24 ft,108,87
+4,0:23.0,,Offensive rebound by A. Drummond,108,87
+4,0:23.0,,A. Drummond makes 2-pt dunk at rim,108,89

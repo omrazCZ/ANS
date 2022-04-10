@@ -1,0 +1,438 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,CLEVELAND_ACTION,HOUSTON_SCORE,CLEVELAND_SCORE
+1,11:47.0,Turnover by J. Harden (bad pass; steal by D. Nwaba),,0,0
+1,11:34.0,,C. Sexton misses 2-pt jump shot from 10 ft,0,0
+1,11:33.0,,Offensive rebound by T. Thompson,0,0
+1,11:33.0,,T. Thompson misses 2-pt layup at rim,0,0
+1,11:33.0,,Offensive rebound by T. Thompson,0,0
+1,11:27.0,,C. Sexton makes 2-pt jump shot from 11 ft (assist by T. Thompson),0,2
+1,11:17.0,Turnover by J. Ennis (bad pass; steal by D. Nwaba),,0,2
+1,11:07.0,,D. Nwaba makes 2-pt dunk from 1 ft,0,4
+1,11:00.0,Turnover by J. Harden (out of bounds lost ball),,0,4
+1,10:38.0,,R. Hood misses 2-pt jump shot from 6 ft,0,4
+1,10:36.0,Defensive rebound by C. Capela,,0,4
+1,10:33.0,Personal foul by R. Hood (drawn by C. Capela),,0,4
+1,10:28.0,Turnover by J. Harden (lost ball; steal by C. Osman),,0,4
+1,10:24.0,,Turnover by D. Nwaba (traveling),0,4
+1,10:13.0,J. Harden misses 2-pt jump shot from 10 ft (block by D. Nwaba),,0,4
+1,10:06.0,,Defensive rebound by T. Thompson,0,4
+1,10:02.0,,Turnover by C. Osman (bad pass; steal by J. Harden),0,4
+1,9:58.0,J. Ennis makes 2-pt layup at rim (assist by C. Capela),,2,4
+1,9:37.0,,C. Sexton makes 2-pt jump shot from 17 ft,2,6
+1,9:18.0,Turnover by E. Gordon (step out of bounds),,2,6
+1,8:59.0,,Shooting foul by J. Ennis (drawn by C. Osman),2,6
+1,8:59.0,,C. Osman makes free throw 1 of 2,2,7
+1,8:59.0,,C. Osman makes free throw 2 of 2,2,8
+1,8:49.0,Personal foul by D. Nwaba (drawn by J. Harden),,2,8
+1,8:38.0,J. Harden misses 2-pt jump shot from 11 ft,,2,8
+1,8:35.0,Offensive rebound by Team,,2,8
+1,8:28.0,Shooting foul by C. Osman (drawn by J. Harden),,2,8
+1,8:28.0,J. Harden makes free throw 1 of 2,,3,8
+1,8:28.0,J. Harden makes free throw 2 of 2,,4,8
+1,8:10.0,,D. Nwaba misses 2-pt jump shot from 8 ft,4,8
+1,8:07.0,Defensive rebound by C. Capela,,4,8
+1,8:05.0,Turnover by J. Harden (bad pass; steal by T. Thompson),,4,8
+1,7:59.0,,C. Sexton makes 2-pt layup at rim (assist by C. Osman),4,10
+1,7:46.0,Shooting foul by C. Osman (drawn by E. Gordon),,4,10
+1,7:46.0,E. Gordon makes free throw 1 of 2,,5,10
+1,7:46.0,E. Gordon makes free throw 2 of 2,,6,10
+1,7:34.0,,D. Nwaba misses 3-pt jump shot from 25 ft,6,10
+1,7:29.0,Defensive rebound by J. Ennis,,6,10
+1,7:22.0,J. Harden misses 2-pt layup from 2 ft,,6,10
+1,7:19.0,,Defensive rebound by T. Thompson,6,10
+1,7:04.0,,T. Thompson makes 2-pt hook shot from 7 ft,6,12
+1,6:51.0,Shooting foul by R. Hood (drawn by E. Gordon),,6,12
+1,6:51.0,,Cleveland full timeout,6,12
+1,6:51.0,G. Clark enters the game for J. Ennis,,6,12
+1,6:51.0,,J. Clarkson enters the game for R. Hood,6,12
+1,6:51.0,E. Gordon makes free throw 1 of 2,,7,12
+1,6:51.0,E. Gordon makes free throw 2 of 2,,8,12
+1,6:34.0,,Turnover by C. Sexton (lost ball; steal by E. Gordon),8,12
+1,6:29.0,E. Gordon makes 2-pt layup from 1 ft,,10,12
+1,6:17.0,,C. Sexton misses 3-pt jump shot from 25 ft,10,12
+1,6:17.0,,Offensive rebound by Team,10,12
+1,6:17.0,,K. Korver enters the game for D. Nwaba,10,12
+1,6:17.0,,L. Nance enters the game for C. Osman,10,12
+1,6:16.0,,Turnover by K. Korver (bad pass),10,12
+1,6:09.0,Personal foul by C. Sexton (drawn by J. Harden),,10,12
+1,6:09.0,J. Harden misses free throw 1 of 2,,10,12
+1,6:09.0,Offensive rebound by Team,,10,12
+1,6:09.0,J. Harden misses free throw 2 of 2,,10,12
+1,6:05.0,,Defensive rebound by K. Korver,10,12
+1,5:54.0,,J. Clarkson misses 2-pt jump shot from 16 ft,10,12
+1,5:51.0,Defensive rebound by C. Capela,,10,12
+1,5:46.0,J. Harden misses 3-pt jump shot from 28 ft,,10,12
+1,5:41.0,Offensive rebound by C. Capela,,10,12
+1,5:30.0,J. Harden makes 3-pt jump shot from 26 ft,,13,12
+1,5:21.0,,Personal foul by J. Harden (drawn by L. Nance),13,12
+1,5:21.0,G. Green enters the game for E. Gordon,,13,12
+1,5:09.0,,K. Korver misses 2-pt jump shot from 22 ft,13,12
+1,5:05.0,,Offensive rebound by J. Clarkson,13,12
+1,5:03.0,,J. Clarkson makes 2-pt layup from 1 ft,13,14
+1,4:51.0,Shooting foul by C. Sexton (drawn by J. Harden),,13,14
+1,4:51.0,J. Harden makes free throw 1 of 2,,14,14
+1,4:51.0,J. Harden misses free throw 2 of 2,,14,14
+1,4:48.0,,Defensive rebound by T. Thompson,14,14
+1,4:29.0,,J. Clarkson misses 2-pt jump shot from 2 ft,14,14
+1,4:29.0,,Offensive rebound by T. Thompson,14,14
+1,4:28.0,,T. Thompson misses 2-pt layup at rim,14,14
+1,4:28.0,Defensive rebound by P. Tucker,,14,14
+1,4:16.0,J. Harden makes 2-pt layup from 6 ft,,16,14
+1,4:07.0,,Offensive foul by L. Nance (drawn by G. Clark),16,14
+1,4:07.0,,Turnover by L. Nance (offensive foul),16,14
+1,4:07.0,,Violation by Team (delay of game),16,14
+1,4:07.0,I. Hartenstein enters the game for C. Capela,,16,14
+1,4:07.0,,A. Harrison enters the game for C. Sexton,16,14
+1,3:57.0,G. Clark makes 3-pt jump shot from 27 ft (assist by J. Harden),,19,14
+1,3:35.0,,Shooting foul by P. Tucker (drawn by K. Korver),19,14
+1,3:35.0,,K. Korver makes free throw 1 of 3,19,15
+1,3:35.0,,K. Korver makes free throw 2 of 3,19,16
+1,3:35.0,,K. Korver makes free throw 3 of 3,19,17
+1,3:18.0,Personal foul by A. Harrison (drawn by G. Green),,19,17
+1,3:18.0,G. Green makes free throw 1 of 2,,20,17
+1,3:18.0,G. Green misses free throw 2 of 2,,20,17
+1,3:16.0,,Defensive rebound by T. Thompson,20,17
+1,2:58.0,,J. Clarkson makes 2-pt jump shot from 16 ft,20,19
+1,2:40.0,J. Harden misses 3-pt jump shot from 26 ft,,20,19
+1,2:37.0,,Defensive rebound by L. Nance,20,19
+1,2:33.0,,T. Thompson makes 2-pt layup from 1 ft (assist by L. Nance),20,21
+1,2:13.0,J. Harden makes 2-pt layup from 1 ft,,22,21
+1,2:02.0,,K. Korver makes 3-pt jump shot from 23 ft (assist by J. Clarkson),22,24
+1,1:44.0,G. Green makes 3-pt jump shot from 24 ft (assist by J. Harden),,25,24
+1,1:16.0,,Shooting foul by I. Hartenstein (drawn by T. Thompson),25,24
+1,1:16.0,Houston full timeout,,25,24
+1,1:16.0,J. Ennis enters the game for I. Hartenstein,,25,24
+1,1:16.0,,T. Thompson makes free throw 1 of 2,25,25
+1,1:16.0,,T. Thompson misses free throw 2 of 2,25,25
+1,1:14.0,Defensive rebound by G. Green,,25,25
+1,1:00.0,J. Harden makes 2-pt layup from 1 ft,,27,25
+1,0:44.0,,J. Clarkson makes 2-pt jump shot from 4 ft,27,27
+1,0:29.0,J. Harden makes 3-pt jump shot from 26 ft,,30,27
+1,0:08.0,,K. Korver misses 2-pt jump shot from 21 ft,30,27
+1,0:08.0,,Offensive rebound by Team,30,27
+1,0:08.0,Loose ball foul by P. Tucker (drawn by T. Thompson),,30,27
+1,0:08.0,,T. Thompson makes free throw 1 of 2,30,28
+1,0:08.0,,T. Thompson makes free throw 2 of 2,30,29
+1,0:01.0,G. Clark misses 3-pt jump shot from 24 ft,,30,29
+1,0:01.0,Offensive rebound by P. Tucker,,30,29
+2,11:50.0,,Offensive foul by J. Clarkson (drawn by M. Carter-Williams),30,29
+2,11:50.0,,Turnover by J. Clarkson (offensive foul),30,29
+2,11:38.0,E. Gordon makes 2-pt jump shot from 8 ft,,32,29
+2,11:21.0,,J. Clarkson misses 3-pt jump shot from 25 ft,32,29
+2,11:18.0,,Offensive rebound by J. Clarkson,32,29
+2,11:17.0,,Personal foul by M. Carter-Williams (drawn by J. Clarkson),32,29
+2,11:03.0,,Turnover by J. Clarkson (lost ball; steal by E. Gordon),32,29
+2,11:00.0,Turnover by J. Ennis (bad pass),,32,29
+2,10:38.0,,Shooting foul by M. Carter-Williams (drawn by L. Nance),32,29
+2,10:38.0,,L. Nance makes free throw 1 of 2,32,30
+2,10:38.0,,L. Nance makes free throw 2 of 2,32,31
+2,10:26.0,E. Gordon misses 3-pt jump shot from 28 ft,,32,31
+2,10:21.0,,Defensive rebound by L. Nance,32,31
+2,10:09.0,,D. Nwaba misses 2-pt layup from 1 ft,32,31
+2,10:08.0,,Offensive rebound by D. Nwaba,32,31
+2,10:08.0,,Shooting foul by J. Ennis (drawn by D. Nwaba),32,31
+2,10:08.0,,D. Nwaba makes free throw 1 of 2,32,32
+2,10:08.0,,D. Nwaba misses free throw 2 of 2,32,32
+2,10:05.0,Defensive rebound by G. Clark,,32,32
+2,9:56.0,Turnover by C. Capela (lost ball; steal by K. Korver),,32,32
+2,9:51.0,,A. Harrison makes 2-pt layup from 1 ft,32,34
+2,9:39.0,M. Carter-Williams makes 3-pt jump shot from 26 ft,,35,34
+2,9:20.0,,D. Nwaba makes 2-pt dunk at rim (assist by J. Clarkson),35,36
+2,9:11.0,M. Carter-Williams makes 2-pt layup from 2 ft,,37,36
+2,9:11.0,Shooting foul by A. Harrison (drawn by M. Carter-Williams),,37,36
+2,9:11.0,M. Carter-Williams misses free throw 1 of 1,,37,36
+2,9:11.0,,Defensive rebound by K. Korver,37,36
+2,8:56.0,,K. Korver makes 3-pt jump shot from 23 ft (assist by J. Clarkson),37,39
+2,8:47.0,J. Ennis misses 3-pt jump shot from 25 ft,,37,39
+2,8:45.0,,Defensive rebound by L. Nance,37,39
+2,8:37.0,,K. Korver makes 3-pt jump shot from 26 ft (assist by A. Harrison),37,42
+2,8:36.0,Houston full timeout,,37,42
+2,8:36.0,G. Green enters the game for J. Ennis,,37,42
+2,8:19.0,G. Clark misses 3-pt jump shot from 25 ft,,37,42
+2,8:14.0,Offensive rebound by C. Capela,,37,42
+2,8:13.0,G. Green misses 3-pt jump shot from 27 ft,,37,42
+2,8:13.0,,Defensive rebound by Team,37,42
+2,7:51.0,,L. Nance makes 2-pt dunk from 1 ft (assist by J. Clarkson),37,44
+2,7:38.0,Shooting foul by K. Korver (drawn by E. Gordon),,37,44
+2,7:38.0,E. Gordon makes free throw 1 of 2,,38,44
+2,7:38.0,J. Harden enters the game for M. Carter-Williams,,38,44
+2,7:38.0,P. Tucker enters the game for G. Clark,,38,44
+2,7:38.0,E. Gordon misses free throw 2 of 2,,38,44
+2,7:35.0,,Defensive rebound by K. Korver,38,44
+2,7:35.0,,Turnover by K. Korver (bad pass),38,44
+2,7:30.0,G. Green makes 2-pt layup from 2 ft (assist by C. Capela),,40,44
+2,7:09.0,,D. Nwaba misses 2-pt layup from 3 ft (block by C. Capela),40,44
+2,7:06.0,Defensive rebound by G. Green,,40,44
+2,7:02.0,J. Harden makes 3-pt jump shot from 26 ft,,43,44
+2,6:53.0,,Cleveland full timeout,43,44
+2,6:53.0,,R. Hood enters the game for J. Clarkson,43,44
+2,6:53.0,,C. Osman enters the game for K. Korver,43,44
+2,6:43.0,,Def 3 sec tech foul by Team,43,44
+2,6:43.0,,R. Hood makes technical free throw,43,45
+2,6:29.0,,A. Harrison misses 3-pt jump shot from 25 ft,43,45
+2,6:27.0,,Offensive rebound by L. Nance,43,45
+2,6:17.0,,R. Hood misses 3-pt jump shot from 26 ft,43,45
+2,6:13.0,,Offensive rebound by L. Nance,43,45
+2,6:11.0,,C. Osman misses 3-pt jump shot from 25 ft,43,45
+2,6:07.0,Defensive rebound by C. Capela,,43,45
+2,5:59.0,E. Gordon misses 2-pt layup from 2 ft,,43,45
+2,5:55.0,,Defensive rebound by L. Nance,43,45
+2,5:51.0,,L. Nance misses 2-pt layup from 2 ft,43,45
+2,5:48.0,Defensive rebound by C. Capela,,43,45
+2,5:43.0,G. Green misses 3-pt jump shot from 25 ft,,43,45
+2,5:39.0,,Defensive rebound by L. Nance,43,45
+2,5:28.0,,L. Nance makes 3-pt jump shot from 25 ft (assist by A. Harrison),43,48
+2,5:17.0,E. Gordon misses 3-pt jump shot from 26 ft,,43,48
+2,5:15.0,,Defensive rebound by C. Osman,43,48
+2,5:09.0,,R. Hood misses 2-pt layup from 3 ft (block by C. Capela),43,48
+2,5:02.0,Defensive rebound by G. Green,,43,48
+2,4:55.0,J. Harden misses 2-pt layup from 2 ft (block by L. Nance),,43,48
+2,4:54.0,Offensive rebound by C. Capela,,43,48
+2,4:54.0,Shooting foul by L. Nance (drawn by C. Capela),,43,48
+2,4:54.0,C. Capela makes free throw 1 of 2,,44,48
+2,4:54.0,J. Ennis enters the game for G. Green,,44,48
+2,4:54.0,,C. Sexton enters the game for A. Harrison,44,48
+2,4:54.0,,T. Thompson enters the game for L. Nance,44,48
+2,4:54.0,C. Capela makes free throw 2 of 2,,45,48
+2,4:31.0,,C. Sexton makes 2-pt jump shot from 1 ft,45,50
+2,4:13.0,C. Capela makes 2-pt dunk from 2 ft (assist by J. Harden),,47,50
+2,3:46.0,,T. Thompson misses 2-pt hook shot from 6 ft,47,50
+2,3:44.0,,Offensive rebound by D. Nwaba,47,50
+2,3:44.0,,D. Nwaba misses 2-pt layup from 1 ft,47,50
+2,3:44.0,,Offensive rebound by T. Thompson,47,50
+2,3:44.0,,Shooting foul by C. Capela (drawn by T. Thompson),47,50
+2,3:44.0,,T. Thompson misses free throw 1 of 2,47,50
+2,3:44.0,,Offensive rebound by Team,47,50
+2,3:44.0,,L. Nance enters the game for D. Nwaba,47,50
+2,3:44.0,,T. Thompson makes free throw 2 of 2,47,51
+2,3:24.0,J. Ennis misses 3-pt jump shot from 26 ft,,47,51
+2,3:21.0,,Defensive rebound by T. Thompson,47,51
+2,3:13.0,,C. Osman misses 3-pt jump shot from 23 ft,47,51
+2,3:09.0,Defensive rebound by J. Harden,,47,51
+2,3:07.0,Turnover by J. Harden (bad pass; steal by T. Thompson),,47,51
+2,3:03.0,,C. Sexton makes 2-pt dunk from 1 ft (assist by C. Osman),47,53
+2,2:44.0,P. Tucker misses 3-pt jump shot from 25 ft,,47,53
+2,2:41.0,,Defensive rebound by C. Osman,47,53
+2,2:35.0,,R. Hood makes 3-pt jump shot from 28 ft (assist by C. Osman),47,56
+2,2:12.0,J. Harden makes 2-pt layup from 1 ft,,49,56
+2,2:12.0,Shooting foul by L. Nance (drawn by J. Harden),,49,56
+2,2:12.0,,D. Nwaba enters the game for L. Nance,49,56
+2,2:12.0,J. Harden makes free throw 1 of 1,,50,56
+2,2:05.0,,C. Sexton makes 3-pt jump shot from 25 ft,50,59
+2,1:42.0,J. Harden makes 3-pt jump shot from 25 ft,,53,59
+2,1:21.0,,R. Hood makes 2-pt layup from 3 ft,53,61
+2,0:54.0,J. Ennis makes 3-pt jump shot from 24 ft (assist by J. Harden),,56,61
+2,0:36.0,,C. Sexton makes 2-pt jump shot from 20 ft,56,63
+2,0:27.0,J. Harden misses 3-pt jump shot from 26 ft,,56,63
+2,0:23.0,,Defensive rebound by T. Thompson,56,63
+2,0:20.0,,Turnover by T. Thompson (bad pass; steal by J. Ennis),56,63
+2,0:16.0,C. Capela makes 2-pt layup from 2 ft (assist by J. Ennis),,58,63
+2,0:01.0,,Turnover by C. Sexton (lost ball; steal by E. Gordon),58,63
+3,11:39.0,,T. Thompson makes 2-pt hook shot from 7 ft,58,65
+3,11:22.0,P. Tucker misses 3-pt jump shot from 23 ft,,58,65
+3,11:19.0,Offensive rebound by C. Capela,,58,65
+3,11:17.0,E. Gordon makes 2-pt layup from 1 ft (assist by C. Capela),,60,65
+3,11:17.0,Shooting foul by C. Sexton (drawn by E. Gordon),,60,65
+3,11:17.0,E. Gordon makes free throw 1 of 1,,61,65
+3,10:58.0,,D. Nwaba makes 2-pt jump shot from 7 ft,61,67
+3,10:51.0,E. Gordon makes 3-pt jump shot from 25 ft (assist by J. Harden),,64,67
+3,10:31.0,,T. Thompson makes 2-pt dunk from 1 ft,64,69
+3,10:13.0,Turnover by J. Harden (lost ball; steal by C. Osman),,64,69
+3,10:05.0,,T. Thompson makes 2-pt hook shot from 4 ft (assist by C. Sexton),64,71
+3,9:55.0,E. Gordon misses 3-pt jump shot from 25 ft,,64,71
+3,9:52.0,,Defensive rebound by C. Sexton,64,71
+3,9:47.0,,C. Sexton misses 3-pt jump shot from 26 ft,64,71
+3,9:43.0,Defensive rebound by J. Harden,,64,71
+3,9:25.0,J. Ennis misses 2-pt layup from 5 ft,,64,71
+3,9:22.0,,Defensive rebound by T. Thompson,64,71
+3,9:20.0,,Turnover by R. Hood (out of bounds lost ball),64,71
+3,8:56.0,P. Tucker misses 3-pt jump shot from 23 ft,,64,71
+3,8:52.0,,Defensive rebound by C. Osman,64,71
+3,8:31.0,,D. Nwaba misses 3-pt jump shot from 25 ft,64,71
+3,8:29.0,,Offensive rebound by T. Thompson,64,71
+3,8:24.0,,D. Nwaba makes 2-pt dunk from 1 ft (assist by R. Hood),64,73
+3,7:59.0,Offensive foul by J. Harden (drawn by D. Nwaba),,64,73
+3,7:59.0,Turnover by J. Harden (offensive foul),,64,73
+3,7:35.0,,Turnover by Team (shot clock),64,73
+3,7:23.0,Shooting foul by C. Osman (drawn by E. Gordon),,64,73
+3,7:23.0,E. Gordon misses free throw 1 of 2,,64,73
+3,7:23.0,Offensive rebound by Team,,64,73
+3,7:23.0,E. Gordon makes free throw 2 of 2,,65,73
+3,7:06.0,,C. Osman misses 2-pt hook shot from 7 ft,65,73
+3,7:04.0,Defensive rebound by P. Tucker,,65,73
+3,6:58.0,E. Gordon makes 3-pt jump shot from 26 ft,,68,73
+3,6:32.0,,C. Osman makes 2-pt layup from 2 ft (assist by C. Sexton),68,75
+3,6:24.0,E. Gordon makes 3-pt jump shot from 27 ft (assist by J. Harden),,71,75
+3,6:03.0,,C. Sexton makes 2-pt jump shot from 22 ft,71,77
+3,5:50.0,J. Harden misses 2-pt layup at rim,,71,77
+3,5:48.0,Offensive rebound by P. Tucker,,71,77
+3,5:45.0,J. Ennis misses 3-pt jump shot from 25 ft,,71,77
+3,5:45.0,,Defensive rebound by Team,71,77
+3,5:45.0,Loose ball foul by P. Tucker (drawn by C. Sexton),,71,77
+3,5:45.0,,Cleveland full timeout,71,77
+3,5:45.0,G. Clark enters the game for P. Tucker,,71,77
+3,5:25.0,,R. Hood misses 3-pt jump shot from 27 ft,71,77
+3,5:23.0,Defensive rebound by Team,,71,77
+3,5:07.0,Shooting foul by T. Thompson (drawn by J. Harden),,71,77
+3,5:07.0,J. Harden misses free throw 1 of 1,,71,77
+3,5:07.0,Offensive rebound by Team,,71,77
+3,5:07.0,J. Harden misses free throw 1 of 1,,71,77
+3,5:07.0,,Defensive rebound by Team,71,77
+3,4:47.0,,C. Osman misses 2-pt layup from 3 ft,71,77
+3,4:40.0,,Offensive rebound by T. Thompson,71,77
+3,4:40.0,,T. Thompson makes 2-pt layup at rim,71,79
+3,4:30.0,J. Harden misses 2-pt layup from 5 ft,,71,79
+3,4:28.0,Offensive rebound by J. Harden,,71,79
+3,4:26.0,J. Harden misses 2-pt layup from 1 ft,,71,79
+3,4:24.0,,Defensive rebound by T. Thompson,71,79
+3,4:10.0,,C. Sexton makes 2-pt layup from 2 ft,71,81
+3,4:10.0,Violation by Team (def goaltending),,71,81
+3,3:56.0,Personal foul by T. Thompson (drawn by E. Gordon),,71,81
+3,3:56.0,G. Green enters the game for C. Capela,,71,81
+3,3:56.0,P. Tucker enters the game for E. Gordon,,71,81
+3,3:56.0,,J. Clarkson enters the game for R. Hood,71,81
+3,3:43.0,J. Harden misses 3-pt jump shot from 26 ft,,71,81
+3,3:41.0,,Defensive rebound by C. Sexton,71,81
+3,3:34.0,,C. Sexton makes 2-pt jump shot from 23 ft,71,83
+3,3:25.0,Turnover by J. Harden (bad pass; steal by T. Thompson),,71,83
+3,3:21.0,,C. Sexton misses 2-pt jump shot from 19 ft,71,83
+3,3:21.0,,Offensive rebound by Team,71,83
+3,3:12.0,,C. Sexton makes 2-pt layup from 2 ft,71,85
+3,2:58.0,P. Tucker makes 3-pt jump shot from 26 ft (assist by G. Clark),,74,85
+3,2:44.0,,C. Sexton makes 2-pt jump shot from 20 ft,74,87
+3,2:43.0,Houston full timeout,,74,87
+3,2:24.0,P. Tucker makes 2-pt layup at rim (assist by J. Harden),,76,87
+3,2:00.0,,C. Osman misses 3-pt jump shot from 27 ft,76,87
+3,1:57.0,,Offensive rebound by J. Clarkson,76,87
+3,1:57.0,,L. Nance enters the game for D. Nwaba,76,87
+3,1:45.0,,Shooting foul by P. Tucker (drawn by C. Osman),76,87
+3,1:45.0,,C. Osman makes free throw 1 of 3,76,88
+3,1:45.0,,C. Osman makes free throw 2 of 3,76,89
+3,1:45.0,,C. Osman makes free throw 3 of 3,76,90
+3,1:29.0,J. Harden makes 2-pt dunk from 1 ft,,78,90
+3,1:12.0,,Personal foul by J. Ennis (drawn by L. Nance),78,90
+3,1:12.0,,L. Nance makes free throw 1 of 2,78,91
+3,1:12.0,,K. Korver enters the game for C. Osman,78,91
+3,1:12.0,,L. Nance misses free throw 2 of 2,78,91
+3,1:09.0,Defensive rebound by P. Tucker,,78,91
+3,1:04.0,J. Harden makes 2-pt layup from 6 ft,,80,91
+3,1:04.0,Shooting foul by L. Nance (drawn by J. Harden),,80,91
+3,1:04.0,J. Harden makes free throw 1 of 1,,81,91
+3,0:56.0,,C. Sexton misses 2-pt layup from 3 ft,81,91
+3,0:55.0,,Offensive rebound by T. Thompson,81,91
+3,0:55.0,,T. Thompson misses 2-pt layup from 2 ft,81,91
+3,0:54.0,,Offensive rebound by Team,81,91
+3,0:54.0,,Shooting foul by J. Ennis (drawn by T. Thompson),81,91
+3,0:54.0,,T. Thompson misses free throw 1 of 2,81,91
+3,0:54.0,,Offensive rebound by Team,81,91
+3,0:54.0,,T. Thompson misses free throw 2 of 2,81,91
+3,0:51.0,Defensive rebound by G. Clark,,81,91
+3,0:44.0,G. Clark makes 2-pt layup from 1 ft (assist by J. Harden),,83,91
+3,0:30.0,,Turnover by C. Sexton (traveling),83,91
+3,0:25.0,Turnover by J. Harden (lost ball; steal by L. Nance),,83,91
+3,0:20.0,,J. Clarkson misses 2-pt layup from 3 ft,83,91
+3,0:13.0,,Offensive rebound by T. Thompson,83,91
+3,0:13.0,,T. Thompson misses 2-pt layup at rim,83,91
+3,0:12.0,,Offensive rebound by L. Nance,83,91
+3,0:04.0,,Shooting foul by G. Green (drawn by J. Clarkson),83,91
+3,0:04.0,,J. Clarkson makes free throw 1 of 2,83,92
+3,0:04.0,,D. Nwaba enters the game for L. Nance,83,92
+3,0:04.0,,J. Clarkson makes free throw 2 of 2,83,93
+3,0:00.0,J. Harden misses 2-pt layup from 1 ft,,83,93
+3,0:00.0,Offensive rebound by Team,,83,93
+4,11:54.0,Personal foul by C. Sexton (drawn by E. Gordon),,83,93
+4,11:46.0,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),,85,93
+4,11:34.0,,C. Sexton makes 2-pt jump shot from 21 ft,85,95
+4,11:16.0,E. Gordon makes 3-pt jump shot from 23 ft (assist by J. Harden),,88,95
+4,10:52.0,,D. Nwaba misses 3-pt jump shot from 24 ft,88,95
+4,10:49.0,Defensive rebound by J. Harden,,88,95
+4,10:39.0,P. Tucker misses 2-pt jump shot from 5 ft,,88,95
+4,10:33.0,,Defensive rebound by K. Korver,88,95
+4,10:15.0,,J. Clarkson misses 2-pt layup from 1 ft (block by C. Capela),88,95
+4,10:15.0,,Offensive rebound by Team,88,95
+4,10:15.0,,T. Thompson enters the game for L. Nance,88,95
+4,10:13.0,,J. Clarkson misses 2-pt layup from 5 ft,88,95
+4,10:11.0,,Offensive rebound by J. Clarkson,88,95
+4,10:09.0,,J. Clarkson makes 2-pt layup from 2 ft,88,97
+4,9:55.0,J. Harden makes 3-pt jump shot from 26 ft,,91,97
+4,9:55.0,Shooting foul by D. Nwaba (drawn by J. Harden),,91,97
+4,9:55.0,J. Harden makes free throw 1 of 1,,92,97
+4,9:48.0,,Personal foul by G. Green (drawn by K. Korver),92,97
+4,9:35.0,,J. Clarkson makes 2-pt jump shot from 16 ft,92,99
+4,9:27.0,E. Gordon misses 3-pt jump shot from 31 ft,,92,99
+4,9:24.0,,Defensive rebound by K. Korver,92,99
+4,9:11.0,,J. Clarkson makes 2-pt jump shot from 7 ft,92,101
+4,8:52.0,G. Green misses 3-pt jump shot from 26 ft,,92,101
+4,8:48.0,,Defensive rebound by T. Thompson,92,101
+4,8:45.0,,Shooting foul by G. Green (drawn by D. Nwaba),92,101
+4,8:45.0,,D. Nwaba makes free throw 1 of 2,92,102
+4,8:45.0,,A. Harrison enters the game for C. Sexton,92,102
+4,8:45.0,,D. Nwaba misses free throw 2 of 2,92,102
+4,8:41.0,Defensive rebound by P. Tucker,,92,102
+4,8:35.0,J. Harden makes 2-pt layup from 1 ft,,94,102
+4,8:12.0,,D. Nwaba misses 3-pt jump shot from 24 ft,94,102
+4,8:10.0,,Offensive rebound by Team,94,102
+4,8:10.0,G. Clark enters the game for G. Green,,94,102
+4,8:00.0,,J. Clarkson misses 3-pt jump shot from 26 ft,94,102
+4,7:54.0,Defensive rebound by E. Gordon,,94,102
+4,7:50.0,Turnover by C. Capela (lost ball; steal by J. Clarkson),,94,102
+4,7:32.0,,A. Harrison makes 2-pt layup from 2 ft,94,104
+4,7:15.0,E. Gordon misses 2-pt layup from 1 ft,,94,104
+4,7:12.0,,Defensive rebound by D. Nwaba,94,104
+4,7:06.0,,D. Nwaba misses 2-pt layup from 7 ft,94,104
+4,7:02.0,,Offensive rebound by T. Thompson,94,104
+4,7:02.0,,T. Thompson misses 2-pt layup at rim,94,104
+4,7:00.0,,Offensive rebound by J. Clarkson,94,104
+4,7:00.0,,J. Clarkson misses 2-pt layup at rim,94,104
+4,7:00.0,,Offensive rebound by D. Nwaba,94,104
+4,6:58.0,,D. Nwaba makes 2-pt dunk at rim,94,106
+4,6:55.0,Personal foul by D. Nwaba (drawn by J. Harden),,94,106
+4,6:55.0,,Cleveland full timeout,94,106
+4,6:42.0,J. Harden misses 2-pt jump shot from 20 ft,,94,106
+4,6:39.0,Offensive rebound by C. Capela,,94,106
+4,6:26.0,P. Tucker makes 2-pt layup from 2 ft (assist by J. Harden),,96,106
+4,5:59.0,,A. Harrison misses 2-pt jump shot from 22 ft,96,106
+4,5:57.0,Defensive rebound by P. Tucker,,96,106
+4,5:44.0,Turnover by P. Tucker (bad pass; steal by T. Thompson),,96,106
+4,5:43.0,,Turnover by A. Harrison (traveling),96,106
+4,5:38.0,E. Gordon makes 3-pt jump shot from 30 ft (assist by J. Harden),,99,106
+4,5:37.0,,Cleveland full timeout,99,106
+4,5:37.0,,R. Hood enters the game for A. Harrison,99,106
+4,5:37.0,,C. Sexton enters the game for K. Korver,99,106
+4,5:16.0,,D. Nwaba misses 2-pt layup from 2 ft,99,106
+4,5:16.0,Defensive rebound by Team,,99,106
+4,5:16.0,,Loose ball foul by T. Thompson (drawn by P. Tucker),99,106
+4,4:52.0,J. Harden misses 3-pt jump shot from 25 ft,,99,106
+4,4:52.0,Offensive rebound by Team,,99,106
+4,4:52.0,,Loose ball foul by D. Nwaba (drawn by C. Capela),99,106
+4,4:52.0,Technical foul by J. Posey,,99,106
+4,4:52.0,J. Harden makes technical free throw,,100,106
+4,4:52.0,C. Capela makes free throw 1 of 2,,101,106
+4,4:52.0,C. Capela makes free throw 2 of 2,,102,106
+4,4:37.0,,J. Clarkson makes 2-pt jump shot from 17 ft,102,108
+4,4:18.0,J. Harden misses 3-pt jump shot from 25 ft,,102,108
+4,4:15.0,,Defensive rebound by C. Sexton,102,108
+4,4:08.0,,C. Sexton makes 2-pt jump shot from 20 ft,102,110
+4,3:50.0,C. Capela makes 2-pt dunk at rim (assist by J. Harden),,104,110
+4,3:23.0,,J. Clarkson makes 2-pt jump shot from 12 ft,104,112
+4,3:21.0,Houston full timeout,,104,112
+4,3:21.0,J. Ennis enters the game for G. Clark,,104,112
+4,3:10.0,E. Gordon misses 3-pt jump shot from 28 ft,,104,112
+4,3:07.0,,Defensive rebound by T. Thompson,104,112
+4,2:47.0,,R. Hood makes 3-pt jump shot from 25 ft (assist by T. Thompson),104,115
+4,2:23.0,J. Harden makes 2-pt jump shot from 10 ft,,106,115
+4,2:00.0,,D. Nwaba misses 3-pt jump shot from 25 ft,106,115
+4,1:57.0,Defensive rebound by E. Gordon,,106,115
+4,1:46.0,Offensive foul by P. Tucker (drawn by D. Nwaba),,106,115
+4,1:46.0,Turnover by P. Tucker (offensive foul),,106,115
+4,1:23.0,,C. Sexton misses 2-pt layup from 3 ft (block by C. Capela),106,115
+4,1:20.0,Defensive rebound by P. Tucker,,106,115
+4,1:18.0,E. Gordon misses 3-pt jump shot from 27 ft,,106,115
+4,1:16.0,,Defensive rebound by T. Thompson,106,115
+4,0:58.0,,Shooting foul by J. Harden (drawn by J. Clarkson),106,115
+4,0:58.0,,J. Clarkson makes free throw 1 of 2,106,116
+4,0:58.0,,J. Clarkson makes free throw 2 of 2,106,117
+4,0:50.0,J. Harden makes 2-pt layup from 1 ft,,108,117
+4,0:26.0,,C. Sexton misses 2-pt jump shot from 21 ft,108,117
+4,0:24.0,Defensive rebound by P. Tucker,,108,117
+4,0:19.0,J. Harden misses 3-pt jump shot from 27 ft,,108,117
+4,0:19.0,,Defensive rebound by C. Sexton,108,117

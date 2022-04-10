@@ -1,0 +1,459 @@
+QUARTER,TIME_REMAINING,WASHINGTON_ACTION,OKLAHOMA CITY_ACTION,WASHINGTON_SCORE,OKLAHOMA CITY_SCORE
+1,11:43.0,,S. Adams makes 2-pt dunk from 1 ft (assist by R. Westbrook),0,2
+1,11:28.0,T. Ariza misses 3-pt jump shot from 25 ft,,0,2
+1,11:25.0,,Defensive rebound by T. Ferguson,0,2
+1,11:18.0,,S. Adams makes 2-pt dunk from 2 ft (assist by R. Westbrook),0,4
+1,10:58.0,Turnover by T. Ariza (bad pass; steal by S. Adams),,0,4
+1,10:51.0,,P. George makes 2-pt dunk from 1 ft,0,6
+1,10:36.0,J. Green misses 2-pt jump shot from 9 ft,,0,6
+1,10:36.0,Offensive rebound by J. Green,,0,6
+1,10:36.0,Shooting foul by J. Grant (drawn by J. Green),,0,6
+1,10:36.0,J. Green makes free throw 1 of 2,,1,6
+1,10:36.0,J. Green makes free throw 2 of 2,,2,6
+1,10:27.0,,Turnover by R. Westbrook (bad pass; steal by T. Bryant),2,6
+1,10:22.0,B. Beal misses 3-pt jump shot from 26 ft,,2,6
+1,10:20.0,,Defensive rebound by R. Westbrook,2,6
+1,10:14.0,,R. Westbrook misses 2-pt jump shot from 9 ft,2,6
+1,10:11.0,Defensive rebound by J. Green,,2,6
+1,9:54.0,T. Satoranský makes 2-pt jump shot from 10 ft (assist by B. Beal),,4,6
+1,9:42.0,,T. Ferguson misses 3-pt jump shot from 25 ft,4,6
+1,9:39.0,Defensive rebound by J. Green,,4,6
+1,9:30.0,,Violation by Team (kicked ball),4,6
+1,9:25.0,J. Green misses 2-pt jump shot from 16 ft,,4,6
+1,9:21.0,,Defensive rebound by S. Adams,4,6
+1,9:07.0,,P. George makes 2-pt layup from 1 ft (assist by R. Westbrook),4,8
+1,9:07.0,,Shooting foul by J. Green (drawn by P. George),4,8
+1,9:07.0,,P. George makes free throw 1 of 1,4,9
+1,8:53.0,B. Beal misses 2-pt jump shot from 15 ft,,4,9
+1,8:50.0,,Defensive rebound by R. Westbrook,4,9
+1,8:39.0,,Shooting foul by B. Beal (drawn by S. Adams),4,9
+1,8:39.0,,S. Adams makes free throw 1 of 2,4,10
+1,8:39.0,,S. Adams makes free throw 2 of 2,4,11
+1,8:25.0,T. Bryant makes 2-pt jump shot from 10 ft (assist by T. Ariza),,6,11
+1,8:16.0,,R. Westbrook misses 2-pt jump shot from 12 ft,6,11
+1,8:13.0,Defensive rebound by T. Bryant,,6,11
+1,8:06.0,T. Ariza misses 2-pt jump shot from 15 ft,,6,11
+1,8:02.0,,Defensive rebound by R. Westbrook,6,11
+1,7:59.0,,Turnover by R. Westbrook (bad pass; steal by B. Beal),6,11
+1,7:47.0,B. Beal misses 2-pt layup from 1 ft,,6,11
+1,7:45.0,Offensive rebound by Team,,6,11
+1,7:30.0,B. Beal misses 2-pt jump shot from 22 ft,,6,11
+1,7:29.0,,Defensive rebound by R. Westbrook,6,11
+1,7:26.0,,Turnover by R. Westbrook (bad pass; steal by B. Beal),6,11
+1,7:19.0,Washington full timeout,,6,11
+1,7:12.0,Shooting foul by R. Westbrook (drawn by T. Satoranský),,6,11
+1,7:12.0,T. Satoranský makes free throw 1 of 2,,7,11
+1,7:12.0,T. Satoranský misses free throw 2 of 2,,7,11
+1,7:08.0,,Defensive rebound by R. Westbrook,7,11
+1,6:56.0,,S. Adams makes 2-pt layup from 1 ft,7,13
+1,6:39.0,Turnover by T. Bryant (bad pass; steal by S. Adams),,7,13
+1,6:36.0,,Turnover by J. Grant (step out of bounds),7,13
+1,6:22.0,Turnover by J. Green (lost ball; steal by T. Ferguson),,7,13
+1,6:10.0,,R. Westbrook makes 3-pt jump shot from 22 ft (assist by P. George),7,16
+1,5:51.0,T. Satoranský misses 3-pt jump shot from 26 ft,,7,16
+1,5:49.0,,Defensive rebound by P. George,7,16
+1,5:41.0,,S. Adams makes 2-pt layup from 1 ft (assist by P. George),7,18
+1,5:25.0,T. Ariza misses 3-pt jump shot from 25 ft,,7,18
+1,5:22.0,Offensive rebound by T. Satoranský,,7,18
+1,5:16.0,B. Beal makes 3-pt jump shot from 23 ft (assist by T. Ariza),,10,18
+1,5:08.0,,P. George misses 3-pt jump shot from 24 ft,10,18
+1,5:06.0,Defensive rebound by T. Ariza,,10,18
+1,4:55.0,B. Beal makes 2-pt jump shot from 21 ft,,12,18
+1,4:38.0,,J. Grant makes 2-pt layup from 1 ft,12,20
+1,4:26.0,B. Beal misses 2-pt jump shot from 7 ft,,12,20
+1,4:23.0,Offensive rebound by B. Beal,,12,20
+1,4:23.0,B. Beal misses 2-pt layup from 1 ft,,12,20
+1,4:23.0,Offensive rebound by T. Bryant,,12,20
+1,4:16.0,T. Bryant makes 2-pt jump shot from 12 ft (assist by T. Satoranský),,14,20
+1,4:06.0,,R. Westbrook misses 2-pt jump shot from 16 ft,14,20
+1,4:03.0,Defensive rebound by T. Bryant,,14,20
+1,3:53.0,T. Ariza misses 2-pt layup from 2 ft,,14,20
+1,3:51.0,,Defensive rebound by P. George,14,20
+1,3:42.0,,P. George misses 2-pt jump shot from 13 ft,14,20
+1,3:39.0,Defensive rebound by T. Bryant,,14,20
+1,3:28.0,T. Ariza misses 3-pt jump shot from 24 ft,,14,20
+1,3:25.0,,Defensive rebound by R. Westbrook,14,20
+1,3:24.0,,Personal take foul by T. Satoranský (drawn by R. Westbrook),14,20
+1,3:24.0,,Oklahoma City full timeout,14,20
+1,3:24.0,I. Mahinmi enters the game for T. Ariza,,14,20
+1,3:24.0,O. Porter enters the game for T. Bryant,,14,20
+1,3:24.0,,N. Noel enters the game for S. Adams,14,20
+1,3:24.0,,D. Schröder enters the game for T. Ferguson,14,20
+1,3:15.0,,Turnover by R. Westbrook (bad pass; steal by I. Mahinmi),14,20
+1,3:11.0,O. Porter misses 3-pt jump shot from 23 ft,,14,20
+1,3:07.0,,Defensive rebound by D. Schröder,14,20
+1,2:56.0,,P. George misses 2-pt jump shot from 18 ft,14,20
+1,2:53.0,,Offensive rebound by P. George,14,20
+1,2:52.0,,P. George misses 2-pt layup from 1 ft,14,20
+1,2:50.0,Defensive rebound by O. Porter,,14,20
+1,2:39.0,J. Green makes 3-pt jump shot from 25 ft (assist by T. Satoranský),,17,20
+1,2:26.0,,Shooting foul by T. Satoranský (drawn by R. Westbrook),17,20
+1,2:26.0,,R. Westbrook misses free throw 1 of 2,17,20
+1,2:26.0,,Offensive rebound by Team,17,20
+1,2:26.0,C. Randle enters the game for T. Satoranský,,17,20
+1,2:26.0,,A. Nader enters the game for P. George,17,20
+1,2:26.0,,R. Westbrook misses free throw 2 of 2,17,20
+1,2:24.0,Defensive rebound by O. Porter,,17,20
+1,2:08.0,I. Mahinmi makes 2-pt hook shot from 2 ft (assist by O. Porter),,19,20
+1,1:53.0,,R. Westbrook misses 2-pt layup from 1 ft,19,20
+1,1:52.0,Defensive rebound by I. Mahinmi,,19,20
+1,1:47.0,O. Porter makes 2-pt layup from 1 ft (assist by B. Beal),,21,20
+1,1:33.0,,R. Westbrook misses 2-pt jump shot from 16 ft,21,20
+1,1:30.0,Defensive rebound by J. Green,,21,20
+1,1:20.0,B. Beal misses 2-pt jump shot from 5 ft (block by R. Westbrook),,21,20
+1,1:17.0,Offensive rebound by C. Randle,,21,20
+1,1:16.0,J. Green misses 3-pt jump shot from 26 ft,,21,20
+1,1:12.0,Offensive rebound by B. Beal,,21,20
+1,1:10.0,B. Beal makes 2-pt layup from 1 ft,,23,20
+1,0:54.0,,D. Schröder misses 3-pt jump shot from 25 ft,23,20
+1,0:52.0,Defensive rebound by O. Porter,,23,20
+1,0:45.0,B. Beal makes 2-pt jump shot from 5 ft,,25,20
+1,0:45.0,Shooting foul by D. Schröder (drawn by B. Beal),,25,20
+1,0:45.0,,H. Diallo enters the game for R. Westbrook,25,20
+1,0:45.0,B. Beal misses free throw 1 of 1,,25,20
+1,0:43.0,,Defensive rebound by N. Noel,25,20
+1,0:32.0,,A. Nader misses 2-pt layup from 1 ft,25,20
+1,0:32.0,,Offensive rebound by N. Noel,25,20
+1,0:32.0,,N. Noel makes 2-pt layup at rim,25,22
+1,0:27.0,B. Beal makes 2-pt layup from 2 ft,,27,22
+1,0:27.0,Shooting foul by H. Diallo (drawn by B. Beal),,27,22
+1,0:27.0,B. Beal makes free throw 1 of 1,,28,22
+1,0:05.0,,J. Grant makes 3-pt jump shot from 23 ft (assist by H. Diallo),28,25
+1,0:00.0,B. Beal misses 3-pt jump shot from 26 ft,,28,25
+1,0:00.0,Offensive rebound by Team,,28,25
+2,11:48.0,Shooting foul by H. Diallo (drawn by O. Porter),,28,25
+2,11:48.0,O. Porter makes free throw 1 of 2,,29,25
+2,11:48.0,O. Porter makes free throw 2 of 2,,30,25
+2,11:29.0,,P. Patterson misses 3-pt jump shot from 23 ft,30,25
+2,11:26.0,Defensive rebound by O. Porter,,30,25
+2,11:05.0,S. Dekker makes 2-pt layup from 2 ft (assist by I. Mahinmi),,32,25
+2,11:05.0,,P. George enters the game for H. Diallo,32,25
+2,10:42.0,,A. Nader misses 2-pt jump shot from 7 ft (block by O. Porter),32,25
+2,10:38.0,Defensive rebound by S. Dekker,,32,25
+2,10:33.0,O. Porter makes 2-pt layup from 1 ft,,34,25
+2,10:20.0,,Turnover by D. Schröder (bad pass),34,25
+2,10:08.0,O. Porter misses 2-pt jump shot from 20 ft,,34,25
+2,10:05.0,,Defensive rebound by P. Patterson,34,25
+2,9:57.0,,Shooting foul by C. Randle (drawn by D. Schröder),34,25
+2,9:57.0,,D. Schröder makes free throw 1 of 2,34,26
+2,9:57.0,,D. Schröder makes free throw 2 of 2,34,27
+2,9:39.0,Turnover by O. Porter (bad pass; steal by P. George),,34,27
+2,9:32.0,,P. George misses 2-pt layup from 1 ft,34,27
+2,9:30.0,Defensive rebound by S. Dekker,,34,27
+2,9:28.0,Shooting foul by D. Schröder (drawn by T. Ariza),,34,27
+2,9:28.0,T. Ariza makes free throw 1 of 2,,35,27
+2,9:28.0,,Oklahoma City full timeout,35,27
+2,9:28.0,T. Ariza makes free throw 2 of 2,,36,27
+2,9:28.0,,T. Ferguson enters the game for A. Nader,36,27
+2,9:14.0,,D. Schröder misses 2-pt jump shot from 17 ft,36,27
+2,9:12.0,Defensive rebound by S. Dekker,,36,27
+2,9:00.0,I. Mahinmi makes 2-pt hook shot from 7 ft (assist by C. Randle),,38,27
+2,8:52.0,,T. Ferguson misses 3-pt jump shot from 23 ft,38,27
+2,8:49.0,Defensive rebound by I. Mahinmi,,38,27
+2,8:36.0,I. Mahinmi misses 3-pt jump shot from 23 ft,,38,27
+2,8:33.0,,Defensive rebound by T. Ferguson,38,27
+2,8:26.0,,D. Schröder misses 2-pt layup from 1 ft,38,27
+2,8:24.0,,Offensive rebound by N. Noel,38,27
+2,8:24.0,,N. Noel misses 2-pt layup at rim,38,27
+2,8:23.0,Defensive rebound by Team,,38,27
+2,8:23.0,B. Beal enters the game for C. Randle,,38,27
+2,8:23.0,,R. Westbrook enters the game for D. Schröder,38,27
+2,8:11.0,O. Porter misses 2-pt layup from 2 ft,,38,27
+2,8:09.0,,Defensive rebound by P. Patterson,38,27
+2,7:57.0,,P. Patterson makes 2-pt hook shot from 5 ft (assist by R. Westbrook),38,29
+2,7:34.0,T. Ariza misses 3-pt jump shot from 23 ft,,38,29
+2,7:31.0,,Defensive rebound by P. Patterson,38,29
+2,7:24.0,,P. George makes 2-pt jump shot from 3 ft (assist by R. Westbrook),38,31
+2,7:24.0,,Shooting foul by B. Beal (drawn by P. George),38,31
+2,7:24.0,J. Green enters the game for O. Porter,,38,31
+2,7:24.0,,S. Adams enters the game for N. Noel,38,31
+2,7:24.0,,P. George misses free throw 1 of 1,38,31
+2,7:21.0,Defensive rebound by T. Ariza,,38,31
+2,7:13.0,B. Beal misses 2-pt jump shot from 4 ft,,38,31
+2,7:05.0,,Defensive rebound by Team,38,31
+2,6:57.0,,Shooting foul by I. Mahinmi (drawn by P. George),38,31
+2,6:57.0,,P. George makes free throw 1 of 2,38,32
+2,6:57.0,,P. George makes free throw 2 of 2,38,33
+2,6:45.0,Shooting foul by S. Adams (drawn by I. Mahinmi),,38,33
+2,6:45.0,I. Mahinmi misses free throw 1 of 2,,38,33
+2,6:45.0,Offensive rebound by Team,,38,33
+2,6:45.0,I. Mahinmi makes free throw 2 of 2,,39,33
+2,6:33.0,,S. Adams makes 2-pt dunk from 2 ft (assist by P. George),39,35
+2,6:27.0,Washington full timeout,,39,35
+2,6:27.0,T. Satoranský enters the game for S. Dekker,,39,35
+2,6:13.0,B. Beal makes 2-pt jump shot from 16 ft,,41,35
+2,6:00.0,,P. Patterson misses 3-pt jump shot from 23 ft,41,35
+2,5:57.0,Defensive rebound by T. Ariza,,41,35
+2,5:42.0,I. Mahinmi misses 2-pt hook shot from 9 ft,,41,35
+2,5:40.0,,Defensive rebound by R. Westbrook,41,35
+2,5:36.0,,P. George makes 3-pt jump shot from 25 ft (assist by R. Westbrook),41,38
+2,5:13.0,J. Green makes 2-pt jump shot from 10 ft,,43,38
+2,5:03.0,,P. George misses 3-pt jump shot from 25 ft (block by T. Ariza),43,38
+2,5:01.0,Defensive rebound by I. Mahinmi,,43,38
+2,4:58.0,Turnover by I. Mahinmi (bad pass; steal by P. George),,43,38
+2,4:54.0,,P. George misses 3-pt jump shot from 24 ft,43,38
+2,4:53.0,Defensive rebound by I. Mahinmi,,43,38
+2,4:38.0,T. Satoranský makes 2-pt jump shot from 9 ft (assist by T. Ariza),,45,38
+2,4:21.0,,R. Westbrook misses 3-pt jump shot from 25 ft,45,38
+2,4:16.0,Defensive rebound by B. Beal,,45,38
+2,4:13.0,Turnover by T. Satoranský (bad pass; steal by T. Ferguson),,45,38
+2,4:09.0,,R. Westbrook misses 2-pt layup from 1 ft (block by I. Mahinmi),45,38
+2,4:09.0,,Offensive rebound by Team,45,38
+2,4:09.0,O. Porter enters the game for I. Mahinmi,,45,38
+2,4:09.0,,J. Grant enters the game for P. Patterson,45,38
+2,4:09.0,,Violation by Team (delay of game),45,38
+2,4:07.0,,P. George makes 3-pt jump shot from 22 ft (assist by R. Westbrook),45,41
+2,3:47.0,B. Beal makes 2-pt jump shot from 5 ft,,47,41
+2,3:32.0,,R. Westbrook makes 2-pt layup from 1 ft (assist by S. Adams),47,43
+2,3:22.0,Personal foul by T. Ferguson (drawn by B. Beal),,47,43
+2,3:12.0,O. Porter misses 2-pt jump shot from 16 ft,,47,43
+2,3:09.0,,Defensive rebound by T. Ferguson,47,43
+2,3:01.0,,J. Grant makes 2-pt layup from 2 ft (assist by T. Ferguson),47,45
+2,3:01.0,,Shooting foul by O. Porter (drawn by J. Grant),47,45
+2,3:01.0,,J. Grant makes free throw 1 of 1,47,46
+2,2:49.0,B. Beal makes 2-pt jump shot from 14 ft (assist by O. Porter),,49,46
+2,2:33.0,,R. Westbrook misses 3-pt jump shot from 23 ft,49,46
+2,2:30.0,Defensive rebound by T. Ariza,,49,46
+2,2:23.0,J. Green misses 3-pt jump shot from 26 ft,,49,46
+2,2:20.0,,Defensive rebound by R. Westbrook,49,46
+2,2:18.0,,Personal foul by J. Green (drawn by S. Adams),49,46
+2,2:18.0,,S. Adams misses free throw 1 of 2,49,46
+2,2:18.0,,Offensive rebound by Team,49,46
+2,2:18.0,T. Bryant enters the game for J. Green,,49,46
+2,2:18.0,,S. Adams misses free throw 2 of 2,49,46
+2,2:16.0,Defensive rebound by T. Bryant,,49,46
+2,2:03.0,T. Ariza makes 2-pt dunk from 1 ft (assist by T. Bryant),,51,46
+2,1:36.0,,J. Grant misses 2-pt jump shot from 11 ft,51,46
+2,1:35.0,Defensive rebound by T. Ariza,,51,46
+2,1:24.0,T. Satoranský misses 2-pt jump shot from 6 ft,,51,46
+2,1:22.0,,Defensive rebound by S. Adams,51,46
+2,1:13.0,,R. Westbrook makes 2-pt jump shot from 18 ft,51,48
+2,0:47.0,T. Bryant misses 2-pt jump shot from 13 ft,,51,48
+2,0:44.0,Offensive rebound by B. Beal,,51,48
+2,0:41.0,B. Beal misses 3-pt jump shot from 23 ft,,51,48
+2,0:39.0,,Defensive rebound by S. Adams,51,48
+2,0:35.0,,P. George misses 2-pt layup from 3 ft (block by T. Bryant),51,48
+2,0:33.0,Defensive rebound by T. Ariza,,51,48
+2,0:26.0,O. Porter makes 3-pt jump shot from 23 ft (assist by B. Beal),,54,48
+2,0:04.0,,J. Grant makes 2-pt jump shot from 2 ft (assist by R. Westbrook),54,50
+3,11:49.0,Personal foul by P. George (drawn by T. Ariza),,54,50
+3,11:34.0,T. Ariza misses 3-pt jump shot from 23 ft,,54,50
+3,11:31.0,,Defensive rebound by S. Adams,54,50
+3,11:20.0,,P. George makes 3-pt jump shot from 22 ft (assist by R. Westbrook),54,53
+3,10:59.0,T. Bryant misses 2-pt layup from 2 ft,,54,53
+3,10:58.0,,Defensive rebound by P. George,54,53
+3,10:57.0,,Turnover by P. George (bad pass; steal by T. Ariza),54,53
+3,10:45.0,B. Beal misses 3-pt jump shot from 25 ft,,54,53
+3,10:42.0,,Defensive rebound by Team,54,53
+3,10:31.0,,J. Grant makes 2-pt layup from 4 ft (assist by R. Westbrook),54,55
+3,10:18.0,Turnover by T. Ariza (bad pass; steal by J. Grant),,54,55
+3,10:14.0,,R. Westbrook makes 2-pt layup from 1 ft,54,57
+3,10:14.0,,Shooting foul by B. Beal (drawn by R. Westbrook),54,57
+3,10:14.0,,R. Westbrook makes free throw 1 of 1,54,58
+3,10:00.0,Shooting foul by T. Ferguson (drawn by B. Beal),,54,58
+3,10:00.0,B. Beal makes free throw 1 of 2,,55,58
+3,10:00.0,B. Beal makes free throw 2 of 2,,56,58
+3,9:52.0,,Turnover by R. Westbrook (bad pass),56,58
+3,9:44.0,Shooting foul by R. Westbrook (drawn by T. Satoranský),,56,58
+3,9:44.0,T. Satoranský makes free throw 1 of 2,,57,58
+3,9:44.0,T. Satoranský makes free throw 2 of 2,,58,58
+3,9:33.0,,Turnover by R. Westbrook (bad pass; steal by J. Green),58,58
+3,9:28.0,T. Satoranský misses 3-pt jump shot from 23 ft,,58,58
+3,9:23.0,Offensive rebound by T. Bryant,,58,58
+3,9:22.0,T. Bryant makes 2-pt dunk from 1 ft,,60,58
+3,9:18.0,,Turnover by P. George (bad pass),60,58
+3,9:02.0,T. Ariza misses 3-pt jump shot from 26 ft,,60,58
+3,8:59.0,,Defensive rebound by S. Adams,60,58
+3,8:53.0,,R. Westbrook misses 2-pt layup from 1 ft,60,58
+3,8:49.0,,Offensive rebound by J. Grant,60,58
+3,8:49.0,,J. Grant makes 2-pt dunk from 1 ft,60,60
+3,8:35.0,T. Satoranský makes 3-pt jump shot from 23 ft (assist by J. Green),,63,60
+3,8:12.0,,R. Westbrook makes 3-pt jump shot from 25 ft (assist by P. George),63,63
+3,7:50.0,B. Beal misses 3-pt jump shot from 23 ft,,63,63
+3,7:48.0,,Defensive rebound by S. Adams,63,63
+3,7:41.0,,P. George makes 2-pt jump shot from 19 ft,63,65
+3,7:40.0,Washington full timeout,,63,65
+3,7:22.0,J. Green makes 2-pt layup from 1 ft,,65,65
+3,7:08.0,,R. Westbrook makes 2-pt layup at rim,65,67
+3,6:44.0,B. Beal misses 2-pt jump shot from 13 ft,,65,67
+3,6:42.0,,Defensive rebound by Team,65,67
+3,6:33.0,,J. Grant misses 2-pt layup from 4 ft,65,67
+3,6:30.0,,Offensive rebound by J. Grant,65,67
+3,6:24.0,,S. Adams misses 2-pt jump shot from 6 ft,65,67
+3,6:21.0,Defensive rebound by T. Bryant,,65,67
+3,6:01.0,T. Bryant makes 2-pt layup from 1 ft (assist by B. Beal),,67,67
+3,5:51.0,,P. George misses 2-pt jump shot from 18 ft,67,67
+3,5:50.0,Defensive rebound by Team,,67,67
+3,5:50.0,,Loose ball foul by S. Adams (drawn by T. Bryant),67,67
+3,5:50.0,,D. Schröder enters the game for T. Ferguson,67,67
+3,5:34.0,J. Green misses 3-pt jump shot from 25 ft,,67,67
+3,5:30.0,,Defensive rebound by R. Westbrook,67,67
+3,5:22.0,,Turnover by R. Westbrook (bad pass),67,67
+3,5:17.0,B. Beal makes 2-pt layup from 2 ft,,69,67
+3,5:09.0,,R. Westbrook misses 2-pt jump shot from 21 ft,69,67
+3,5:04.0,Defensive rebound by T. Satoranský,,69,67
+3,4:58.0,T. Bryant makes 2-pt layup from 1 ft (assist by J. Green),,71,67
+3,4:58.0,Shooting foul by P. George (drawn by T. Bryant),,71,67
+3,4:58.0,,Oklahoma City full timeout,71,67
+3,4:58.0,O. Porter enters the game for J. Green,,71,67
+3,4:58.0,T. Bryant makes free throw 1 of 1,,72,67
+3,4:45.0,,Personal foul by T. Bryant (drawn by S. Adams),72,67
+3,4:39.0,,D. Schröder misses 3-pt jump shot from 25 ft,72,67
+3,4:36.0,Defensive rebound by T. Ariza,,72,67
+3,4:23.0,B. Beal misses 2-pt jump shot from 19 ft,,72,67
+3,4:21.0,,Defensive rebound by R. Westbrook,72,67
+3,4:11.0,,R. Westbrook misses 2-pt layup from 1 ft (block by O. Porter),72,67
+3,4:09.0,,Offensive rebound by R. Westbrook,72,67
+3,4:09.0,,R. Westbrook makes 2-pt layup from 1 ft,72,69
+3,3:57.0,O. Porter misses 3-pt jump shot from 25 ft,,72,69
+3,3:55.0,,Defensive rebound by R. Westbrook,72,69
+3,3:49.0,,Turnover by S. Adams (out of bounds lost ball),72,69
+3,3:49.0,I. Mahinmi enters the game for T. Bryant,,72,69
+3,3:49.0,C. Randle enters the game for T. Satoranský,,72,69
+3,3:36.0,C. Randle makes 2-pt layup from 1 ft (assist by B. Beal),,74,69
+3,3:18.0,,D. Schröder misses 2-pt layup from 2 ft (block by B. Beal),74,69
+3,3:18.0,Defensive rebound by Team,,74,69
+3,3:10.0,Shooting foul by J. Grant (drawn by C. Randle),,74,69
+3,3:10.0,C. Randle makes free throw 1 of 3,,75,69
+3,3:10.0,S. Dekker enters the game for T. Ariza,,75,69
+3,3:10.0,,A. Nader enters the game for P. George,75,69
+3,3:10.0,C. Randle makes free throw 2 of 3,,76,69
+3,3:10.0,C. Randle makes free throw 3 of 3,,77,69
+3,2:59.0,,J. Grant misses 2-pt layup from 3 ft (block by O. Porter),77,69
+3,2:57.0,Defensive rebound by C. Randle,,77,69
+3,2:51.0,O. Porter makes 3-pt jump shot from 23 ft (assist by B. Beal),,80,69
+3,2:49.0,,Oklahoma City full timeout,80,69
+3,2:43.0,,R. Westbrook misses 2-pt layup from 2 ft,80,69
+3,2:42.0,,Offensive rebound by Team,80,69
+3,2:34.0,,D. Schröder makes 2-pt jump shot from 18 ft,80,71
+3,2:19.0,C. Randle misses 3-pt jump shot from 26 ft,,80,71
+3,2:14.0,,Defensive rebound by R. Westbrook,80,71
+3,2:10.0,,R. Westbrook makes 2-pt layup from 1 ft,80,73
+3,2:01.0,O. Porter makes 3-pt jump shot from 25 ft (assist by C. Randle),,83,73
+3,1:50.0,,R. Westbrook misses 3-pt jump shot from 26 ft,83,73
+3,1:48.0,Defensive rebound by S. Dekker,,83,73
+3,1:31.0,O. Porter misses 2-pt jump shot from 6 ft,,83,73
+3,1:26.0,Offensive rebound by S. Dekker,,83,73
+3,1:26.0,S. Dekker makes 2-pt dunk at rim,,85,73
+3,1:16.0,,A. Nader makes 3-pt jump shot from 23 ft (assist by J. Grant),85,76
+3,0:59.0,O. Porter makes 2-pt jump shot from 5 ft,,87,76
+3,0:49.0,,R. Westbrook misses 2-pt jump shot from 12 ft,87,76
+3,0:47.0,Defensive rebound by I. Mahinmi,,87,76
+3,0:36.0,B. Beal makes 3-pt jump shot from 26 ft,,90,76
+3,0:17.0,,D. Schröder makes 3-pt jump shot from 25 ft (assist by R. Westbrook),90,79
+3,0:00.0,B. Beal misses 3-pt jump shot from 25 ft,,90,79
+3,0:00.0,Offensive rebound by Team,,90,79
+4,11:38.0,,Turnover by D. Schröder (bad pass; steal by I. Mahinmi),90,79
+4,11:20.0,J. Green makes 2-pt jump shot from 7 ft (assist by O. Porter),,92,79
+4,11:02.0,,D. Schröder makes 2-pt layup from 1 ft,92,81
+4,10:44.0,O. Porter misses 2-pt jump shot from 13 ft,,92,81
+4,10:40.0,Offensive rebound by I. Mahinmi,,92,81
+4,10:40.0,I. Mahinmi makes 2-pt layup at rim,,94,81
+4,10:29.0,,P. Patterson misses 3-pt jump shot from 23 ft,94,81
+4,10:27.0,Defensive rebound by C. Randle,,94,81
+4,10:21.0,Personal foul by T. Ferguson (drawn by S. Dekker),,94,81
+4,10:08.0,O. Porter misses 2-pt jump shot from 16 ft,,94,81
+4,10:05.0,,Defensive rebound by Team,94,81
+4,9:58.0,,D. Schröder misses 2-pt jump shot from 19 ft,94,81
+4,9:54.0,Defensive rebound by O. Porter,,94,81
+4,9:47.0,S. Dekker makes 2-pt dunk at rim (assist by O. Porter),,96,81
+4,9:32.0,,A. Nader misses 2-pt jump shot from 19 ft,96,81
+4,9:30.0,Defensive rebound by O. Porter,,96,81
+4,9:15.0,I. Mahinmi misses 2-pt hook shot from 3 ft (block by N. Noel),,96,81
+4,9:14.0,Offensive rebound by Team,,96,81
+4,9:14.0,,Oklahoma City full timeout,96,81
+4,9:14.0,,P. George enters the game for A. Nader,96,81
+4,9:05.0,O. Porter misses 2-pt jump shot from 20 ft,,96,81
+4,9:02.0,,Defensive rebound by P. Patterson,96,81
+4,8:57.0,,D. Schröder misses 2-pt jump shot from 15 ft,96,81
+4,8:55.0,Defensive rebound by C. Randle,,96,81
+4,8:39.0,O. Porter misses 2-pt jump shot from 10 ft,,96,81
+4,8:36.0,Offensive rebound by S. Dekker,,96,81
+4,8:29.0,S. Dekker misses 2-pt layup from 4 ft (block by P. Patterson),,96,81
+4,8:29.0,Offensive rebound by Team,,96,81
+4,8:29.0,,R. Westbrook enters the game for D. Schröder,96,81
+4,8:26.0,J. Green makes 2-pt jump shot from 10 ft (assist by O. Porter),,98,81
+4,8:09.0,,P. George misses 2-pt layup from 3 ft (block by I. Mahinmi),98,81
+4,8:07.0,,Offensive rebound by R. Westbrook,98,81
+4,8:02.0,,T. Ferguson misses 3-pt jump shot from 26 ft,98,81
+4,7:59.0,Defensive rebound by I. Mahinmi,,98,81
+4,7:48.0,I. Mahinmi misses 3-pt jump shot from 23 ft,,98,81
+4,7:45.0,Offensive rebound by J. Green,,98,81
+4,7:33.0,J. Green misses 3-pt jump shot from 25 ft,,98,81
+4,7:29.0,Offensive rebound by S. Dekker,,98,81
+4,7:19.0,J. Green makes 3-pt jump shot from 25 ft,,101,81
+4,7:03.0,,Turnover by R. Westbrook (bad pass; steal by S. Dekker),101,81
+4,6:48.0,C. Randle misses 3-pt jump shot from 26 ft,,101,81
+4,6:47.0,,Defensive rebound by Team,101,81
+4,6:47.0,Loose ball foul by I. Mahinmi (drawn by P. George),,101,81
+4,6:47.0,B. Beal enters the game for S. Dekker,,101,81
+4,6:47.0,,J. Grant enters the game for P. Patterson,101,81
+4,6:34.0,,N. Noel misses 2-pt jump shot from 17 ft,101,81
+4,6:30.0,Defensive rebound by B. Beal,,101,81
+4,6:18.0,O. Porter makes 3-pt jump shot from 25 ft (assist by C. Randle),,104,81
+4,6:17.0,,Oklahoma City full timeout,104,81
+4,6:17.0,,S. Adams enters the game for N. Noel,104,81
+4,6:08.0,,P. George misses 3-pt jump shot from 25 ft,104,81
+4,6:06.0,,Offensive rebound by Team,104,81
+4,6:06.0,Loose ball foul by J. Green (drawn by J. Grant),,104,81
+4,6:04.0,,R. Westbrook makes 2-pt layup at rim (assist by P. George),104,83
+4,6:04.0,,Shooting foul by C. Randle (drawn by R. Westbrook),104,83
+4,6:04.0,T. Satoranský enters the game for C. Randle,,104,83
+4,6:04.0,,R. Westbrook makes free throw 1 of 1,104,84
+4,5:46.0,J. Green misses 2-pt jump shot from 8 ft,,104,84
+4,5:43.0,,Defensive rebound by S. Adams,104,84
+4,5:37.0,,J. Grant makes 3-pt jump shot from 26 ft (assist by R. Westbrook),104,87
+4,5:35.0,Washington full timeout,,104,87
+4,5:35.0,T. Ariza enters the game for O. Porter,,104,87
+4,5:14.0,T. Satoranský misses 2-pt jump shot from 11 ft,,104,87
+4,5:11.0,Offensive rebound by I. Mahinmi,,104,87
+4,5:02.0,T. Satoranský misses 3-pt jump shot from 25 ft,,104,87
+4,4:58.0,Offensive rebound by J. Green,,104,87
+4,4:57.0,B. Beal misses 3-pt jump shot from 26 ft,,104,87
+4,4:54.0,,Defensive rebound by R. Westbrook,104,87
+4,4:52.0,,Shooting foul by B. Beal (drawn by T. Ferguson),104,87
+4,4:52.0,,T. Ferguson makes free throw 1 of 2,104,88
+4,4:52.0,,T. Ferguson makes free throw 2 of 2,104,89
+4,4:31.0,T. Satoranský makes 3-pt jump shot from 23 ft (assist by T. Ariza),,107,89
+4,4:08.0,,J. Grant misses 2-pt dunk from 1 ft,107,89
+4,4:05.0,Defensive rebound by Team,,107,89
+4,3:40.0,J. Green misses 2-pt jump shot from 13 ft,,107,89
+4,3:37.0,,Defensive rebound by S. Adams,107,89
+4,3:28.0,,T. Ferguson makes 3-pt jump shot from 23 ft (assist by R. Westbrook),107,92
+4,3:07.0,T. Satoranský makes 2-pt layup from 1 ft,,109,92
+4,2:57.0,,Personal foul by T. Ariza (drawn by R. Westbrook),109,92
+4,2:57.0,,R. Westbrook misses free throw 1 of 2,109,92
+4,2:57.0,,Offensive rebound by Team,109,92
+4,2:57.0,,R. Westbrook misses free throw 2 of 2,109,92
+4,2:57.0,Defensive rebound by Team,,109,92
+4,2:57.0,,Loose ball foul by S. Adams (drawn by I. Mahinmi),109,92
+4,2:57.0,,H. Diallo enters the game for S. Adams,109,92
+4,2:57.0,,A. Nader enters the game for P. George,109,92
+4,2:57.0,,N. Noel enters the game for R. Westbrook,109,92
+4,2:41.0,B. Beal misses 3-pt jump shot from 25 ft,,109,92
+4,2:36.0,Offensive rebound by I. Mahinmi,,109,92
+4,2:36.0,I. Mahinmi makes 2-pt layup at rim,,111,92
+4,2:18.0,,N. Noel misses 2-pt jump shot from 14 ft,111,92
+4,2:15.0,Defensive rebound by I. Mahinmi,,111,92
+4,2:11.0,Washington full timeout,,111,92
+4,2:11.0,R. Baker enters the game for T. Ariza,,111,92
+4,2:11.0,T. Brown enters the game for B. Beal,,111,92
+4,2:11.0,T. Bryant enters the game for J. Green,,111,92
+4,2:11.0,S. Dekker enters the game for I. Mahinmi,,111,92
+4,2:11.0,C. Randle enters the game for T. Satoranský,,111,92
+4,2:11.0,,T. Luwawu-Cabarrot enters the game for T. Ferguson,111,92
+4,2:11.0,,P. Patterson enters the game for J. Grant,111,92
+4,2:04.0,Shooting foul by H. Diallo (drawn by T. Bryant),,111,92
+4,2:04.0,T. Bryant makes free throw 1 of 2,,112,92
+4,2:04.0,T. Bryant misses free throw 2 of 2,,112,92
+4,2:02.0,,Defensive rebound by N. Noel,112,92
+4,1:50.0,,H. Diallo misses 2-pt layup from 1 ft,112,92
+4,1:49.0,Defensive rebound by S. Dekker,,112,92
+4,1:40.0,Turnover by S. Dekker (lost ball; steal by A. Nader),,112,92
+4,1:37.0,,A. Nader makes 2-pt layup from 1 ft,112,94
+4,1:21.0,T. Bryant makes 2-pt layup from 2 ft (assist by C. Randle),,114,94
+4,1:11.0,,A. Nader makes 2-pt layup from 1 ft,114,96
+4,0:52.0,C. Randle makes 2-pt layup from 1 ft,,116,96
+4,0:40.0,,A. Nader makes 2-pt jump shot from 6 ft,116,98
+4,0:29.0,Turnover by C. Randle (traveling),,116,98
+4,0:05.0,,Turnover by Team (shot clock),116,98

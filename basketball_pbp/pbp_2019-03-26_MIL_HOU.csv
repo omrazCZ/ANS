@@ -1,0 +1,459 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,MILWAUKEE_ACTION,HOUSTON_SCORE,MILWAUKEE_SCORE
+1,11:43.0,,Turnover by G. Antetokounmpo (bad pass),0,0
+1,11:19.0,E. Gordon misses 3-pt jump shot from 26 ft,,0,0
+1,11:16.0,,Defensive rebound by S. Brown,0,0
+1,11:11.0,,E. Bledsoe misses 2-pt jump shot from 21 ft,0,0
+1,11:08.0,Defensive rebound by C. Capela,,0,0
+1,11:03.0,J. Harden misses 3-pt jump shot from 27 ft,,0,0
+1,10:58.0,,Defensive rebound by S. Brown,0,0
+1,10:50.0,,B. Lopez misses 3-pt jump shot from 29 ft,0,0
+1,10:47.0,,Offensive rebound by E. Bledsoe,0,0
+1,10:42.0,,E. Bledsoe misses 2-pt jump shot from 15 ft,0,0
+1,10:39.0,Defensive rebound by C. Capela,,0,0
+1,10:32.0,J. Harden makes 2-pt hook shot from 11 ft,,2,0
+1,10:13.0,,Personal foul by J. Harden (drawn by G. Antetokounmpo),2,0
+1,9:57.0,,K. Middleton misses 3-pt jump shot from 27 ft,2,0
+1,9:53.0,Defensive rebound by P. Tucker,,2,0
+1,9:48.0,C. Paul makes 3-pt jump shot from 27 ft,,5,0
+1,9:48.0,Shooting foul by S. Brown (drawn by C. Paul),,5,0
+1,9:48.0,C. Paul makes free throw 1 of 1,,6,0
+1,9:33.0,,S. Brown makes 2-pt layup from 2 ft (assist by E. Bledsoe),6,2
+1,9:18.0,P. Tucker misses 3-pt jump shot from 25 ft,,6,2
+1,9:15.0,,Defensive rebound by S. Brown,6,2
+1,9:11.0,,Turnover by K. Middleton (bad pass; steal by P. Tucker),6,2
+1,9:05.0,J. Harden misses 2-pt layup from 2 ft (block by S. Brown),,6,2
+1,9:02.0,,Defensive rebound by B. Lopez,6,2
+1,8:56.0,,S. Brown misses 3-pt jump shot from 22 ft,6,2
+1,8:52.0,Defensive rebound by C. Paul,,6,2
+1,8:43.0,E. Gordon misses 3-pt jump shot from 28 ft,,6,2
+1,8:40.0,,Defensive rebound by G. Antetokounmpo,6,2
+1,8:38.0,,Offensive foul by G. Antetokounmpo (drawn by P. Tucker),6,2
+1,8:38.0,,Turnover by G. Antetokounmpo (offensive foul),6,2
+1,8:28.0,C. Paul misses 3-pt jump shot from 27 ft,,6,2
+1,8:24.0,,Defensive rebound by G. Antetokounmpo,6,2
+1,8:18.0,,Shooting foul by P. Tucker (drawn by G. Antetokounmpo),6,2
+1,8:18.0,,G. Antetokounmpo misses free throw 1 of 2,6,2
+1,8:18.0,,Offensive rebound by Team,6,2
+1,8:18.0,,G. Antetokounmpo makes free throw 2 of 2,6,3
+1,8:07.0,J. Harden misses 2-pt jump shot from 8 ft,,6,3
+1,8:02.0,,Defensive rebound by G. Antetokounmpo,6,3
+1,7:47.0,,K. Middleton misses 2-pt jump shot from 16 ft,6,3
+1,7:44.0,,Offensive rebound by G. Antetokounmpo,6,3
+1,7:43.0,,G. Antetokounmpo makes 2-pt layup from 1 ft,6,5
+1,7:18.0,C. Paul makes 2-pt jump shot from 19 ft,,8,5
+1,7:05.0,,K. Middleton misses 2-pt jump shot from 17 ft,8,5
+1,7:02.0,Defensive rebound by J. Harden,,8,5
+1,6:49.0,C. Capela makes 2-pt layup from 1 ft (assist by P. Tucker),,10,5
+1,6:49.0,,Milwaukee full timeout,10,5
+1,6:49.0,D. House enters the game for C. Paul,,10,5
+1,6:49.0,,P. Connaughton enters the game for S. Brown,10,5
+1,6:40.0,,Offensive foul by B. Lopez (drawn by P. Tucker),10,5
+1,6:40.0,,Turnover by B. Lopez (offensive foul),10,5
+1,6:23.0,C. Capela makes 2-pt layup from 1 ft (assist by J. Harden),,12,5
+1,6:15.0,,E. Bledsoe makes 2-pt layup from 1 ft,12,7
+1,5:56.0,C. Capela makes 2-pt hook shot from 5 ft (assist by J. Harden),,14,7
+1,5:46.0,,E. Bledsoe misses 3-pt jump shot from 27 ft,14,7
+1,5:43.0,Defensive rebound by C. Capela,,14,7
+1,5:38.0,Personal foul by G. Antetokounmpo (drawn by C. Capela),,14,7
+1,5:38.0,I. Shumpert enters the game for E. Gordon,,14,7
+1,5:38.0,,G. Hill enters the game for G. Antetokounmpo,14,7
+1,5:38.0,,D. Wilson enters the game for E. Bledsoe,14,7
+1,5:28.0,J. Harden misses 2-pt jump shot from 7 ft,,14,7
+1,5:26.0,,Defensive rebound by K. Middleton,14,7
+1,5:20.0,,B. Lopez makes 3-pt jump shot from 26 ft (assist by P. Connaughton),14,10
+1,5:05.0,J. Harden makes 2-pt layup from 3 ft,,16,10
+1,4:49.0,,K. Middleton misses 3-pt jump shot from 25 ft,16,10
+1,4:45.0,Defensive rebound by C. Capela,,16,10
+1,4:40.0,J. Harden misses 3-pt jump shot from 27 ft,,16,10
+1,4:37.0,,Defensive rebound by B. Lopez,16,10
+1,4:35.0,,Turnover by G. Hill (out of bounds lost ball),16,10
+1,4:35.0,A. Rivers enters the game for P. Tucker,,16,10
+1,4:35.0,,E. İlyasova enters the game for B. Lopez,16,10
+1,4:11.0,A. Rivers misses 2-pt layup from 3 ft,,16,10
+1,4:07.0,,Defensive rebound by E. İlyasova,16,10
+1,4:04.0,,G. Hill misses 3-pt jump shot from 23 ft,16,10
+1,4:04.0,,Offensive rebound by Team,16,10
+1,4:04.0,Loose ball foul by A. Rivers (drawn by K. Middleton),,16,10
+1,3:53.0,,K. Middleton misses 2-pt layup from 3 ft (block by I. Shumpert),16,10
+1,3:49.0,Defensive rebound by J. Harden,,16,10
+1,3:43.0,D. House makes 3-pt jump shot from 27 ft (assist by C. Capela),,19,10
+1,3:15.0,,D. Wilson makes 2-pt jump shot from 11 ft (assist by P. Connaughton),19,12
+1,2:55.0,D. House makes 3-pt jump shot from 27 ft (assist by J. Harden),,22,12
+1,2:39.0,,P. Connaughton misses 3-pt jump shot from 27 ft,22,12
+1,2:37.0,,Offensive rebound by D. Wilson,22,12
+1,2:33.0,,K. Middleton misses 3-pt jump shot from 25 ft,22,12
+1,2:30.0,Defensive rebound by I. Shumpert,,22,12
+1,2:20.0,Turnover by J. Harden (bad pass; steal by K. Middleton),,22,12
+1,2:14.0,,P. Connaughton makes 3-pt jump shot from 24 ft (assist by G. Hill),22,15
+1,2:14.0,Houston full timeout,,22,15
+1,2:14.0,C. Paul enters the game for C. Capela,,22,15
+1,2:14.0,P. Tucker enters the game for J. Harden,,22,15
+1,2:14.0,,G. Antetokounmpo enters the game for K. Middleton,22,15
+1,1:58.0,D. House makes 3-pt jump shot from 27 ft (assist by C. Paul),,25,15
+1,1:48.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by G. Hill),25,17
+1,1:32.0,I. Shumpert misses 2-pt jump shot from 22 ft,,25,17
+1,1:28.0,,Defensive rebound by D. Wilson,25,17
+1,1:20.0,,G. Antetokounmpo misses 2-pt jump shot from 11 ft,25,17
+1,1:15.0,,Offensive rebound by G. Hill,25,17
+1,1:15.0,,G. Hill misses 2-pt layup at rim,25,17
+1,1:14.0,Defensive rebound by D. House,,25,17
+1,1:05.0,C. Paul misses 2-pt jump shot from 17 ft,,25,17
+1,1:03.0,,Defensive rebound by G. Antetokounmpo,25,17
+1,0:51.0,,D. Wilson misses 3-pt jump shot from 26 ft,25,17
+1,0:49.0,Defensive rebound by P. Tucker,,25,17
+1,0:41.0,P. Tucker misses 3-pt jump shot from 27 ft,,25,17
+1,0:37.0,,Defensive rebound by G. Antetokounmpo,25,17
+1,0:32.0,,E. İlyasova makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),25,20
+1,0:23.0,P. Tucker misses 3-pt jump shot from 27 ft,,25,20
+1,0:20.0,,Defensive rebound by G. Antetokounmpo,25,20
+1,0:04.0,,Personal foul by A. Rivers (drawn by G. Antetokounmpo),25,20
+1,0:00.0,,G. Hill misses 2-pt jump shot from 22 ft,25,20
+1,0:00.0,,Offensive rebound by Team,25,20
+2,11:43.0,C. Paul makes 3-pt jump shot from 27 ft,,28,20
+2,11:30.0,,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by E. Bledsoe),28,22
+2,11:30.0,,Shooting foul by D. House (drawn by G. Antetokounmpo),28,22
+2,11:30.0,,G. Antetokounmpo misses free throw 1 of 1,28,22
+2,11:25.0,Defensive rebound by I. Shumpert,,28,22
+2,11:07.0,I. Shumpert makes 3-pt jump shot from 28 ft,,31,22
+2,10:57.0,,Shooting foul by A. Rivers (drawn by E. Bledsoe),31,22
+2,10:57.0,,E. Bledsoe misses free throw 1 of 2,31,22
+2,10:57.0,,Offensive rebound by Team,31,22
+2,10:57.0,E. Gordon enters the game for A. Rivers,,31,22
+2,10:57.0,,E. Bledsoe makes free throw 2 of 2,31,23
+2,10:52.0,Offensive foul by P. Tucker (drawn by E. Bledsoe),,31,23
+2,10:52.0,Turnover by P. Tucker (offensive foul),,31,23
+2,10:43.0,,Turnover by E. Bledsoe (bad pass; steal by P. Tucker),31,23
+2,10:30.0,E. Gordon misses 3-pt jump shot from 29 ft,,31,23
+2,10:26.0,Offensive rebound by C. Paul,,31,23
+2,10:26.0,Houston full timeout,,31,23
+2,10:26.0,,D. Wilson enters the game for G. Antetokounmpo,31,23
+2,10:15.0,D. House makes 3-pt jump shot from 28 ft,,34,23
+2,9:59.0,,E. Bledsoe makes 2-pt layup from 2 ft,34,25
+2,9:44.0,P. Tucker misses 3-pt jump shot from 24 ft,,34,25
+2,9:41.0,,Defensive rebound by S. Brown,34,25
+2,9:30.0,,S. Brown makes 2-pt layup from 2 ft (assist by E. İlyasova),34,27
+2,9:05.0,D. House misses 3-pt jump shot from 26 ft,,34,27
+2,9:02.0,,Defensive rebound by E. İlyasova,34,27
+2,8:56.0,,P. Connaughton makes 3-pt jump shot from 27 ft (assist by E. Bledsoe),34,30
+2,8:42.0,Turnover by E. Gordon (lost ball; steal by P. Connaughton),,34,30
+2,8:40.0,,Turnover by P. Connaughton (out of bounds lost ball),34,30
+2,8:40.0,C. Capela enters the game for D. House,,34,30
+2,8:40.0,J. Harden enters the game for I. Shumpert,,34,30
+2,8:40.0,,G. Antetokounmpo enters the game for P. Connaughton,34,30
+2,8:23.0,C. Capela misses 2-pt hook shot from 4 ft,,34,30
+2,8:21.0,,Defensive rebound by S. Brown,34,30
+2,8:15.0,,S. Brown misses 3-pt jump shot from 26 ft,34,30
+2,8:12.0,Defensive rebound by C. Paul,,34,30
+2,7:59.0,C. Paul makes 3-pt jump shot from 26 ft,,37,30
+2,7:35.0,,E. İlyasova makes 2-pt layup from 2 ft (assist by E. Bledsoe),37,32
+2,7:31.0,Turnover by J. Harden (bad pass; steal by E. Bledsoe),,37,32
+2,7:31.0,,E. Bledsoe makes 2-pt layup from 3 ft,37,34
+2,7:31.0,,Violation by Team (delay of game),37,34
+2,7:20.0,C. Paul misses 2-pt jump shot from 15 ft (block by G. Antetokounmpo),,37,34
+2,7:14.0,,Defensive rebound by S. Brown,37,34
+2,7:12.0,,E. İlyasova misses 3-pt jump shot from 25 ft,37,34
+2,7:11.0,,Offensive rebound by E. Bledsoe,37,34
+2,7:11.0,,Milwaukee full timeout,37,34
+2,7:11.0,D. House enters the game for C. Paul,,37,34
+2,7:11.0,,B. Lopez enters the game for E. İlyasova,37,34
+2,7:11.0,,K. Middleton enters the game for D. Wilson,37,34
+2,7:03.0,,K. Middleton makes 2-pt jump shot from 16 ft,37,36
+2,6:47.0,P. Tucker makes 3-pt jump shot from 24 ft (assist by J. Harden),,40,36
+2,6:26.0,,G. Antetokounmpo misses 2-pt layup from 5 ft,40,36
+2,6:23.0,,Offensive rebound by G. Antetokounmpo,40,36
+2,6:23.0,,G. Antetokounmpo misses 2-pt layup at rim,40,36
+2,6:23.0,Defensive rebound by C. Capela,,40,36
+2,6:23.0,Turnover by C. Capela (traveling),,40,36
+2,6:23.0,,D. Wilson enters the game for G. Antetokounmpo,40,36
+2,6:10.0,,D. Wilson makes 3-pt jump shot from 22 ft (assist by E. Bledsoe),40,39
+2,5:57.0,J. Harden makes 2-pt layup from 3 ft,,42,39
+2,5:49.0,,B. Lopez makes 3-pt jump shot from 28 ft (assist by E. Bledsoe),42,42
+2,5:38.0,J. Harden misses 2-pt layup from 3 ft,,42,42
+2,5:35.0,,Defensive rebound by D. Wilson,42,42
+2,5:31.0,,K. Middleton makes 2-pt layup from 2 ft,42,44
+2,5:20.0,E. Gordon misses 3-pt jump shot from 28 ft,,42,44
+2,5:17.0,,Defensive rebound by D. Wilson,42,44
+2,5:12.0,,K. Middleton makes 3-pt jump shot from 26 ft,42,47
+2,5:12.0,Houston full timeout,,42,47
+2,5:12.0,I. Shumpert enters the game for P. Tucker,,42,47
+2,5:00.0,Turnover by J. Harden (bad pass; steal by K. Middleton),,42,47
+2,4:38.0,,Turnover by D. Wilson (lost ball; steal by I. Shumpert),42,47
+2,4:33.0,I. Shumpert misses 3-pt jump shot from 26 ft,,42,47
+2,4:30.0,,Defensive rebound by D. Wilson,42,47
+2,4:20.0,,K. Middleton misses 3-pt jump shot from 27 ft,42,47
+2,4:16.0,Defensive rebound by C. Capela,,42,47
+2,4:09.0,I. Shumpert makes 3-pt jump shot from 28 ft (assist by J. Harden),,45,47
+2,3:49.0,,E. Bledsoe misses 3-pt jump shot from 27 ft,45,47
+2,3:44.0,,Offensive rebound by Team,45,47
+2,3:44.0,Loose ball foul by J. Harden (drawn by D. Wilson),,45,47
+2,3:44.0,P. Tucker enters the game for D. House,,45,47
+2,3:44.0,,G. Antetokounmpo enters the game for E. Bledsoe,45,47
+2,3:44.0,,P. Connaughton enters the game for S. Brown,45,47
+2,3:44.0,,G. Hill enters the game for D. Wilson,45,47
+2,3:37.0,,K. Middleton misses 2-pt layup from 5 ft (block by J. Harden),45,47
+2,3:36.0,Defensive rebound by I. Shumpert,,45,47
+2,3:35.0,Turnover by I. Shumpert (bad pass; steal by G. Antetokounmpo),,45,47
+2,3:34.0,,G. Antetokounmpo makes 2-pt dunk from 2 ft,45,49
+2,3:13.0,J. Harden misses 3-pt jump shot from 26 ft,,45,49
+2,3:12.0,Offensive rebound by P. Tucker,,45,49
+2,3:12.0,P. Tucker misses 2-pt hook shot from 3 ft,,45,49
+2,3:10.0,Offensive rebound by P. Tucker,,45,49
+2,3:05.0,C. Capela makes 2-pt hook shot from 3 ft (assist by P. Tucker),,47,49
+2,2:56.0,,Turnover by P. Connaughton (out of bounds lost ball),47,49
+2,2:43.0,J. Harden makes 2-pt layup from 6 ft,,49,49
+2,2:23.0,,G. Antetokounmpo misses 2-pt layup from 2 ft (block by C. Capela),49,49
+2,2:20.0,Defensive rebound by C. Capela,,49,49
+2,2:19.0,,Violation by Team (kicked ball),49,49
+2,2:19.0,C. Paul enters the game for I. Shumpert,,49,49
+2,2:12.0,Turnover by J. Harden (bad pass; steal by P. Connaughton),,49,49
+2,2:08.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by P. Connaughton),49,51
+2,1:54.0,C. Paul misses 2-pt jump shot from 15 ft,,49,51
+2,1:52.0,,Defensive rebound by B. Lopez,49,51
+2,1:42.0,,G. Antetokounmpo misses 2-pt layup from 6 ft (block by J. Harden),49,51
+2,1:41.0,,Offensive rebound by Team,49,51
+2,1:36.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft,49,53
+2,1:13.0,J. Harden makes 2-pt layup from 3 ft,,51,53
+2,0:45.0,,B. Lopez misses 2-pt dunk from 2 ft,51,53
+2,0:42.0,Defensive rebound by E. Gordon,,51,53
+2,0:41.0,Turnover by E. Gordon (bad pass; steal by G. Hill),,51,53
+2,0:38.0,,B. Lopez makes 2-pt jump shot from 21 ft (assist by G. Hill),51,55
+2,0:30.0,C. Paul makes 2-pt jump shot from 7 ft,,53,55
+2,0:11.0,,P. Connaughton makes 3-pt jump shot from 25 ft (assist by G. Antetokounmpo),53,58
+2,0:08.0,Personal take foul by G. Hill (drawn by J. Harden),,53,58
+2,0:08.0,,S. Brown enters the game for G. Antetokounmpo,53,58
+2,0:06.0,Turnover by E. Gordon (bad pass; steal by G. Hill),,53,58
+2,0:00.0,,K. Middleton misses 2-pt jump shot from 16 ft,53,58
+2,0:00.0,,Offensive rebound by Team,53,58
+3,11:44.0,J. Harden makes 3-pt jump shot from 23 ft (assist by C. Capela),,56,58
+3,11:27.0,,G. Antetokounmpo misses 3-pt jump shot from 28 ft,56,58
+3,11:24.0,Defensive rebound by J. Harden,,56,58
+3,11:20.0,C. Capela makes 2-pt dunk from 2 ft (assist by J. Harden),,58,58
+3,11:05.0,,B. Lopez makes 3-pt jump shot from 26 ft (assist by S. Brown),58,61
+3,10:47.0,J. Harden misses 2-pt jump shot from 11 ft,,58,61
+3,10:44.0,,Defensive rebound by G. Antetokounmpo,58,61
+3,10:43.0,,Personal foul by C. Capela (drawn by G. Antetokounmpo),58,61
+3,10:38.0,,S. Brown makes 2-pt layup from 1 ft (assist by B. Lopez),58,63
+3,10:19.0,Turnover by C. Paul (lost ball; steal by S. Brown),,58,63
+3,10:16.0,,E. Bledsoe makes 2-pt dunk from 1 ft,58,65
+3,10:03.0,E. Gordon misses 3-pt jump shot from 30 ft,,58,65
+3,10:00.0,,Defensive rebound by B. Lopez,58,65
+3,9:54.0,,Turnover by G. Antetokounmpo (lost ball; steal by C. Capela),58,65
+3,9:46.0,C. Paul misses 2-pt jump shot from 9 ft,,58,65
+3,9:43.0,,Defensive rebound by B. Lopez,58,65
+3,9:34.0,,E. Bledsoe misses 2-pt layup from 1 ft,58,65
+3,9:31.0,Defensive rebound by J. Harden,,58,65
+3,9:25.0,C. Capela makes 2-pt layup from 2 ft (assist by J. Harden),,60,65
+3,9:25.0,Shooting foul by B. Lopez (drawn by C. Capela),,60,65
+3,9:25.0,C. Capela makes free throw 1 of 1,,61,65
+3,9:10.0,,K. Middleton misses 2-pt jump shot from 16 ft,61,65
+3,9:07.0,Defensive rebound by J. Harden,,61,65
+3,9:04.0,E. Gordon misses 2-pt layup from 2 ft,,61,65
+3,9:02.0,,Defensive rebound by G. Antetokounmpo,61,65
+3,8:53.0,,G. Antetokounmpo misses 3-pt jump shot from 25 ft,61,65
+3,8:49.0,Defensive rebound by C. Paul,,61,65
+3,8:46.0,C. Capela makes 2-pt dunk from 1 ft (assist by E. Gordon),,63,65
+3,8:46.0,,Milwaukee full timeout,63,65
+3,8:46.0,,P. Connaughton enters the game for K. Middleton,63,65
+3,8:21.0,,B. Lopez misses 3-pt jump shot from 26 ft,63,65
+3,8:18.0,Defensive rebound by C. Capela,,63,65
+3,8:12.0,J. Harden misses 2-pt layup from 3 ft (block by E. Bledsoe),,63,65
+3,8:12.0,Offensive rebound by Team,,63,65
+3,8:01.0,C. Paul misses 3-pt jump shot from 28 ft,,63,65
+3,7:58.0,,Defensive rebound by E. Bledsoe,63,65
+3,7:55.0,,E. Bledsoe makes 3-pt jump shot from 27 ft,63,68
+3,7:27.0,P. Tucker misses 3-pt jump shot from 24 ft,,63,68
+3,7:23.0,,Defensive rebound by S. Brown,63,68
+3,7:19.0,,E. Bledsoe misses 2-pt layup from 5 ft,63,68
+3,7:16.0,Defensive rebound by J. Harden,,63,68
+3,7:12.0,J. Harden misses 2-pt layup from 11 ft,,63,68
+3,7:09.0,,Defensive rebound by B. Lopez,63,68
+3,6:58.0,,S. Brown misses 2-pt layup from 3 ft,63,68
+3,6:57.0,,Offensive rebound by P. Connaughton,63,68
+3,6:55.0,,E. Bledsoe makes 3-pt jump shot from 23 ft (assist by P. Connaughton),63,71
+3,6:55.0,Houston full timeout,,63,71
+3,6:55.0,D. House enters the game for C. Paul,,63,71
+3,6:55.0,,K. Middleton enters the game for S. Brown,63,71
+3,6:32.0,E. Gordon misses 2-pt layup from 6 ft (block by P. Connaughton),,63,71
+3,6:32.0,Offensive rebound by Team,,63,71
+3,6:29.0,C. Capela misses 2-pt hook shot from 15 ft,,63,71
+3,6:26.0,,Defensive rebound by P. Connaughton,63,71
+3,6:10.0,,E. Bledsoe misses 3-pt jump shot from 23 ft,63,71
+3,6:07.0,Defensive rebound by C. Capela,,63,71
+3,6:07.0,Personal foul by G. Antetokounmpo (drawn by J. Harden),,63,71
+3,6:07.0,I. Shumpert enters the game for E. Gordon,,63,71
+3,5:57.0,I. Shumpert misses 3-pt jump shot from 25 ft,,63,71
+3,5:55.0,,Defensive rebound by Team,63,71
+3,5:41.0,,E. Bledsoe makes 3-pt jump shot from 27 ft,63,74
+3,5:29.0,P. Tucker misses 3-pt jump shot from 24 ft,,63,74
+3,5:26.0,,Defensive rebound by P. Connaughton,63,74
+3,5:22.0,,E. Bledsoe makes 2-pt layup from 2 ft,63,76
+3,5:08.0,Personal foul by E. Bledsoe (drawn by P. Tucker),,63,76
+3,5:08.0,,D. Wilson enters the game for G. Antetokounmpo,63,76
+3,4:57.0,I. Shumpert misses 3-pt jump shot from 29 ft,,63,76
+3,4:53.0,Offensive rebound by C. Capela,,63,76
+3,4:44.0,J. Harden makes 2-pt layup from 2 ft,,65,76
+3,4:24.0,,E. Bledsoe makes 3-pt jump shot from 26 ft,65,79
+3,4:09.0,C. Capela misses 2-pt hook shot from 6 ft,,65,79
+3,4:09.0,Offensive rebound by Team,,65,79
+3,4:09.0,A. Rivers enters the game for P. Tucker,,65,79
+3,4:09.0,,G. Hill enters the game for E. Bledsoe,65,79
+3,4:06.0,Shooting foul by G. Hill (drawn by J. Harden),,65,79
+3,4:06.0,J. Harden makes free throw 1 of 3,,66,79
+3,4:06.0,J. Harden makes free throw 2 of 3,,67,79
+3,4:06.0,,E. İlyasova enters the game for B. Lopez,67,79
+3,4:06.0,J. Harden misses free throw 3 of 3,,67,79
+3,4:03.0,,Defensive rebound by D. Wilson,67,79
+3,3:46.0,,K. Middleton makes 2-pt jump shot from 16 ft,67,81
+3,3:33.0,J. Harden misses 2-pt layup from 2 ft,,67,81
+3,3:33.0,,Defensive rebound by Team,67,81
+3,3:14.0,,G. Hill misses 2-pt jump shot from 19 ft,67,81
+3,3:12.0,Defensive rebound by A. Rivers,,67,81
+3,3:08.0,Shooting foul by G. Hill (drawn by J. Harden),,67,81
+3,3:08.0,J. Harden makes free throw 1 of 2,,68,81
+3,3:08.0,J. Harden makes free throw 2 of 2,,69,81
+3,2:52.0,,K. Middleton misses 2-pt jump shot from 15 ft,69,81
+3,2:49.0,Defensive rebound by J. Harden,,69,81
+3,2:35.0,Turnover by I. Shumpert (bad pass),,69,81
+3,2:21.0,,K. Middleton misses 2-pt jump shot from 19 ft,69,81
+3,2:19.0,Defensive rebound by J. Harden,,69,81
+3,2:09.0,D. House misses 3-pt jump shot from 26 ft,,69,81
+3,2:05.0,,Defensive rebound by E. İlyasova,69,81
+3,2:05.0,C. Paul enters the game for D. House,,69,81
+3,2:05.0,P. Tucker enters the game for I. Shumpert,,69,81
+3,2:05.0,,G. Antetokounmpo enters the game for D. Wilson,69,81
+3,1:55.0,,Turnover by G. Antetokounmpo (step out of bounds),69,81
+3,1:42.0,P. Tucker misses 3-pt jump shot from 24 ft,,69,81
+3,1:38.0,,Defensive rebound by K. Middleton,69,81
+3,1:34.0,,K. Middleton makes 2-pt layup from 1 ft,69,83
+3,1:18.0,A. Rivers misses 3-pt jump shot from 25 ft,,69,83
+3,1:14.0,,Defensive rebound by G. Antetokounmpo,69,83
+3,1:05.0,,P. Connaughton makes 3-pt jump shot from 27 ft (assist by G. Antetokounmpo),69,86
+3,0:53.0,J. Harden misses 3-pt jump shot from 28 ft,,69,86
+3,0:50.0,Offensive rebound by A. Rivers,,69,86
+3,0:48.0,J. Harden misses 3-pt jump shot from 29 ft,,69,86
+3,0:44.0,,Defensive rebound by P. Connaughton,69,86
+3,0:29.0,,Shooting foul by C. Paul (drawn by P. Connaughton),69,86
+3,0:29.0,,P. Connaughton makes free throw 1 of 2,69,87
+3,0:29.0,D. House enters the game for C. Capela,,69,87
+3,0:29.0,,S. Brown enters the game for G. Antetokounmpo,69,87
+3,0:29.0,,B. Lopez enters the game for K. Middleton,69,87
+3,0:29.0,,P. Connaughton makes free throw 2 of 2,69,88
+3,0:15.0,C. Paul makes 2-pt jump shot from 12 ft,,71,88
+3,0:10.0,,S. Brown makes 2-pt layup from 2 ft (assist by G. Hill),71,90
+3,0:02.0,C. Paul misses 3-pt jump shot from 30 ft,,71,90
+3,0:02.0,,Defensive rebound by B. Lopez,71,90
+4,11:34.0,,G. Hill misses 2-pt jump shot from 13 ft,71,90
+4,11:27.0,,Offensive rebound by E. İlyasova,71,90
+4,11:27.0,,E. İlyasova makes 2-pt layup from 1 ft,71,92
+4,11:15.0,D. House misses 3-pt jump shot from 24 ft,,71,92
+4,11:11.0,,Defensive rebound by G. Hill,71,92
+4,11:06.0,,Turnover by S. Brown (bad pass; steal by G. Clark),71,92
+4,10:57.0,A. Rivers makes 2-pt layup from 1 ft,,73,92
+4,10:50.0,,E. Bledsoe misses 2-pt layup from 2 ft,73,92
+4,10:47.0,Defensive rebound by C. Paul,,73,92
+4,10:38.0,D. House misses 2-pt layup from 2 ft,,73,92
+4,10:35.0,,Defensive rebound by G. Antetokounmpo,73,92
+4,10:34.0,,Personal foul by A. Rivers (drawn by G. Antetokounmpo),73,92
+4,10:27.0,,Turnover by E. Bledsoe (bad pass; steal by A. Rivers),73,92
+4,10:17.0,A. Rivers makes 3-pt jump shot from 27 ft (assist by C. Paul),,76,92
+4,9:59.0,,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by E. Bledsoe),76,94
+4,9:55.0,Turnover by C. Paul (lost ball; steal by G. Hill),,76,94
+4,9:32.0,,E. İlyasova misses 2-pt layup from 5 ft,76,94
+4,9:29.0,Defensive rebound by D. House,,76,94
+4,9:24.0,D. House misses 3-pt jump shot from 27 ft,,76,94
+4,9:21.0,,Defensive rebound by G. Antetokounmpo,76,94
+4,9:15.0,,Shooting foul by D. House (drawn by G. Antetokounmpo),76,94
+4,9:15.0,,G. Antetokounmpo makes free throw 1 of 2,76,95
+4,9:15.0,,P. Connaughton enters the game for G. Hill,76,95
+4,9:15.0,,G. Antetokounmpo makes free throw 2 of 2,76,96
+4,9:03.0,G. Clark makes 3-pt jump shot from 28 ft (assist by C. Paul),,79,96
+4,9:03.0,J. Harden enters the game for P. Tucker,,79,96
+4,9:03.0,,B. Lopez enters the game for G. Antetokounmpo,79,96
+4,9:03.0,,K. Middleton enters the game for E. İlyasova,79,96
+4,8:41.0,,B. Lopez makes 2-pt layup from 1 ft (assist by S. Brown),79,98
+4,8:31.0,J. Harden misses 2-pt layup from 7 ft (block by E. Bledsoe),,79,98
+4,8:31.0,,Defensive rebound by S. Brown,79,98
+4,8:27.0,,S. Brown misses 2-pt layup from 1 ft,79,98
+4,8:22.0,,Offensive rebound by K. Middleton,79,98
+4,8:22.0,,K. Middleton misses 2-pt layup from 1 ft,79,98
+4,8:21.0,Defensive rebound by C. Paul,,79,98
+4,8:15.0,G. Clark makes 3-pt jump shot from 27 ft (assist by C. Paul),,82,98
+4,7:55.0,,E. Bledsoe misses 2-pt jump shot from 11 ft,82,98
+4,7:53.0,Defensive rebound by J. Harden,,82,98
+4,7:48.0,J. Harden misses 3-pt jump shot from 29 ft,,82,98
+4,7:44.0,,Defensive rebound by P. Connaughton,82,98
+4,7:25.0,,K. Middleton misses 2-pt jump shot from 18 ft,82,98
+4,7:22.0,Defensive rebound by D. House,,82,98
+4,7:11.0,C. Paul misses 3-pt jump shot from 28 ft,,82,98
+4,7:08.0,,Defensive rebound by S. Brown,82,98
+4,6:50.0,,Milwaukee full timeout,82,98
+4,6:50.0,C. Capela enters the game for D. House,,82,98
+4,6:46.0,,Personal foul by C. Capela (drawn by B. Lopez),82,98
+4,6:36.0,,E. Bledsoe misses 2-pt layup from 2 ft (block by C. Capela),82,98
+4,6:30.0,Defensive rebound by J. Harden,,82,98
+4,6:27.0,C. Paul misses 3-pt jump shot from 27 ft,,82,98
+4,6:22.0,,Defensive rebound by S. Brown,82,98
+4,6:17.0,,Turnover by E. Bledsoe (bad pass; steal by G. Clark),82,98
+4,6:12.0,G. Clark misses 3-pt jump shot from 29 ft,,82,98
+4,6:10.0,Offensive rebound by Team,,82,98
+4,6:10.0,,G. Antetokounmpo enters the game for E. Bledsoe,82,98
+4,6:10.0,,G. Hill enters the game for S. Brown,82,98
+4,6:04.0,J. Harden misses 3-pt jump shot from 24 ft,,82,98
+4,6:04.0,,Defensive rebound by K. Middleton,82,98
+4,5:49.0,,G. Antetokounmpo misses 2-pt jump shot from 16 ft,82,98
+4,5:47.0,Defensive rebound by G. Clark,,82,98
+4,5:40.0,A. Rivers misses 2-pt jump shot from 15 ft,,82,98
+4,5:36.0,,Defensive rebound by G. Antetokounmpo,82,98
+4,5:23.0,,K. Middleton misses 3-pt jump shot from 27 ft,82,98
+4,5:20.0,Defensive rebound by C. Paul,,82,98
+4,5:10.0,G. Clark misses 3-pt jump shot from 26 ft (block by P. Connaughton),,82,98
+4,5:05.0,Offensive rebound by C. Paul,,82,98
+4,5:02.0,G. Clark misses 3-pt jump shot from 24 ft,,82,98
+4,4:57.0,,Defensive rebound by K. Middleton,82,98
+4,4:40.0,,G. Hill makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),82,100
+4,4:28.0,C. Paul misses 2-pt jump shot from 16 ft,,82,100
+4,4:25.0,Offensive rebound by C. Paul,,82,100
+4,4:23.0,C. Paul makes 3-pt jump shot from 22 ft,,85,100
+4,3:59.0,,K. Middleton makes 2-pt jump shot from 15 ft,85,102
+4,3:47.0,J. Harden makes 2-pt jump shot from 12 ft,,87,102
+4,3:28.0,,Turnover by G. Antetokounmpo (traveling),87,102
+4,3:28.0,D. House enters the game for G. Clark,,87,102
+4,3:28.0,P. Tucker enters the game for C. Paul,,87,102
+4,3:20.0,A. Rivers misses 2-pt jump shot from 6 ft,,87,102
+4,3:17.0,,Defensive rebound by P. Connaughton,87,102
+4,3:14.0,,Milwaukee full timeout,87,102
+4,3:14.0,C. Paul enters the game for A. Rivers,,87,102
+4,3:01.0,,K. Middleton misses 3-pt jump shot from 27 ft,87,102
+4,2:58.0,Defensive rebound by P. Tucker,,87,102
+4,2:50.0,J. Harden makes 2-pt layup from 1 ft,,89,102
+4,2:25.0,,Shooting foul by J. Harden (drawn by G. Hill),89,102
+4,2:25.0,,G. Hill makes free throw 1 of 2,89,103
+4,2:25.0,,E. Bledsoe enters the game for P. Connaughton,89,103
+4,2:25.0,,G. Hill makes free throw 2 of 2,89,104
+4,1:58.0,J. Harden misses 3-pt jump shot from 33 ft,,89,104
+4,1:54.0,,Defensive rebound by B. Lopez,89,104
+4,1:50.0,,K. Middleton misses 3-pt jump shot from 27 ft,89,104
+4,1:47.0,Defensive rebound by D. House,,89,104
+4,1:39.0,C. Paul misses 2-pt jump shot from 14 ft,,89,104
+4,1:37.0,Offensive rebound by C. Capela,,89,104
+4,1:37.0,C. Capela makes 2-pt hook shot from 7 ft,,91,104
+4,1:15.0,,Personal foul by J. Harden (drawn by G. Antetokounmpo),91,104
+4,1:15.0,,G. Antetokounmpo makes free throw 1 of 2,91,105
+4,1:15.0,C. Chiozza enters the game for J. Harden,,91,105
+4,1:15.0,G. Clark enters the game for C. Paul,,91,105
+4,1:15.0,A. Rivers enters the game for P. Tucker,,91,105
+4,1:15.0,,S. Brown enters the game for E. Bledsoe,91,105
+4,1:15.0,,P. Connaughton enters the game for G. Hill,91,105
+4,1:15.0,,T. Frazier enters the game for B. Lopez,91,105
+4,1:15.0,,D. Wilson enters the game for K. Middleton,91,105
+4,1:15.0,,G. Antetokounmpo makes free throw 2 of 2,91,106
+4,1:10.0,Personal take foul by T. Frazier (drawn by C. Chiozza),,91,106
+4,1:10.0,I. Hartenstein enters the game for C. Capela,,91,106
+4,1:10.0,,B. Colson enters the game for G. Antetokounmpo,91,106
+4,1:02.0,C. Chiozza misses 2-pt jump shot from 18 ft,,91,106
+4,0:58.0,,Defensive rebound by S. Brown,91,106
+4,0:44.0,,D. Wilson makes 2-pt jump shot from 21 ft (assist by S. Brown),91,108
+4,0:35.0,D. House makes 3-pt jump shot from 28 ft (assist by I. Hartenstein),,94,108
+4,0:15.0,,D. Wilson misses 2-pt jump shot from 19 ft,94,108
+4,0:12.0,,Offensive rebound by P. Connaughton,94,108
+4,0:00.0,,Turnover by Team (shot clock),94,108

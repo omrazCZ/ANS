@@ -1,0 +1,448 @@
+QUARTER,TIME_REMAINING,DETROIT_ACTION,SACRAMENTO_ACTION,DETROIT_SCORE,SACRAMENTO_SCORE
+1,11:38.0,B. Brown misses 2-pt layup from 6 ft (block by N. Bjelica),,0,0
+1,11:38.0,,Defensive rebound by Team,0,0
+1,11:26.0,,Turnover by N. Bjelica (3 sec),0,0
+1,11:11.0,R. Bullock misses 3-pt jump shot from 25 ft,,0,0
+1,11:09.0,,Defensive rebound by W. Cauley-Stein,0,0
+1,11:00.0,,B. Hield makes 2-pt layup from 2 ft (assist by W. Cauley-Stein),0,2
+1,10:43.0,B. Brown misses 3-pt jump shot from 23 ft,,0,2
+1,10:39.0,,Defensive rebound by I. Shumpert,0,2
+1,10:31.0,,I. Shumpert misses 2-pt jump shot from 21 ft,0,2
+1,10:28.0,Defensive rebound by A. Drummond,,0,2
+1,10:17.0,Turnover by L. Kennard (back court),,0,2
+1,10:07.0,,D. Fox makes 3-pt jump shot from 25 ft,0,5
+1,9:45.0,B. Brown makes 2-pt jump shot from 7 ft (assist by R. Bullock),,2,5
+1,9:25.0,,Turnover by B. Hield (lost ball; steal by B. Brown),2,5
+1,9:23.0,R. Bullock misses 2-pt layup from 3 ft (block by D. Fox),,2,5
+1,9:20.0,,Defensive rebound by W. Cauley-Stein,2,5
+1,9:18.0,,B. Hield makes 3-pt jump shot from 24 ft (assist by N. Bjelica),2,8
+1,9:16.0,Detroit full timeout,,2,8
+1,8:50.0,A. Drummond misses 2-pt layup from 3 ft (block by W. Cauley-Stein),,2,8
+1,8:47.0,,Defensive rebound by N. Bjelica,2,8
+1,8:43.0,,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by N. Bjelica),2,10
+1,8:28.0,L. Kennard misses 3-pt jump shot from 25 ft,,2,10
+1,8:26.0,,Defensive rebound by N. Bjelica,2,10
+1,8:19.0,,I. Shumpert makes 3-pt jump shot from 23 ft (assist by D. Fox),2,13
+1,7:57.0,L. Kennard makes 3-pt jump shot from 27 ft (assist by R. Bullock),,5,13
+1,7:43.0,,Turnover by N. Bjelica (bad pass),5,13
+1,7:20.0,R. Bullock makes 3-pt jump shot from 23 ft (assist by L. Kennard),,8,13
+1,7:14.0,,Shooting foul by B. Brown (drawn by D. Fox),8,13
+1,7:14.0,,D. Fox misses free throw 1 of 2,8,13
+1,7:14.0,,Offensive rebound by Team,8,13
+1,7:14.0,,D. Fox makes free throw 2 of 2,8,14
+1,6:56.0,B. Brown misses 3-pt jump shot from 25 ft,,8,14
+1,6:52.0,,Defensive rebound by D. Fox,8,14
+1,6:51.0,,N. Bjelica makes 2-pt layup from 2 ft (assist by D. Fox),8,16
+1,6:39.0,Turnover by A. Drummond (out of bounds lost ball),,8,16
+1,6:35.0,,Turnover by D. Fox (bad pass; steal by L. Kennard),8,16
+1,6:21.0,R. Jackson makes 2-pt layup from 2 ft (assist by A. Drummond),,10,16
+1,6:05.0,,N. Bjelica misses 2-pt hook shot from 11 ft (block by B. Brown),10,16
+1,6:02.0,,Offensive rebound by W. Cauley-Stein,10,16
+1,5:58.0,,B. Hield misses 3-pt jump shot from 25 ft,10,16
+1,5:56.0,Defensive rebound by A. Drummond,,10,16
+1,5:41.0,Turnover by A. Drummond (bad pass),,10,16
+1,5:41.0,L. Galloway enters the game for B. Brown,,10,16
+1,5:41.0,,B. Bogdanović enters the game for I. Shumpert,10,16
+1,5:25.0,,W. Cauley-Stein misses 2-pt hook shot from 8 ft,10,16
+1,5:22.0,Defensive rebound by R. Jackson,,10,16
+1,5:17.0,R. Bullock misses 3-pt jump shot from 25 ft,,10,16
+1,5:13.0,,Defensive rebound by D. Fox,10,16
+1,5:09.0,,D. Fox makes 2-pt layup from 2 ft,10,18
+1,4:58.0,L. Kennard misses 3-pt jump shot from 25 ft,,10,18
+1,4:55.0,,Defensive rebound by W. Cauley-Stein,10,18
+1,4:50.0,,W. Cauley-Stein misses 2-pt hook shot from 4 ft (block by A. Drummond),10,18
+1,4:47.0,Defensive rebound by A. Drummond,,10,18
+1,4:31.0,Personal foul by D. Fox (drawn by A. Drummond),,10,18
+1,4:31.0,S. Johnson enters the game for L. Kennard,,10,18
+1,4:31.0,,M. Bagley enters the game for N. Bjelica,10,18
+1,4:31.0,,H. Giles enters the game for W. Cauley-Stein,10,18
+1,4:22.0,R. Jackson misses 3-pt jump shot from 27 ft,,10,18
+1,4:18.0,,Defensive rebound by M. Bagley,10,18
+1,4:10.0,,B. Hield makes 2-pt jump shot from 15 ft,10,20
+1,3:49.0,R. Jackson makes 2-pt dunk from 1 ft (assist by R. Bullock),,12,20
+1,3:40.0,,D. Fox makes 2-pt jump shot from 13 ft,12,22
+1,3:19.0,Personal take foul by D. Fox (drawn by L. Galloway),,12,22
+1,3:19.0,,Y. Ferrell enters the game for D. Fox,12,22
+1,3:08.0,Turnover by A. Drummond (bad pass),,12,22
+1,2:58.0,,B. Bogdanović misses 2-pt jump shot from 16 ft,12,22
+1,2:49.0,,Offensive rebound by H. Giles,12,22
+1,2:49.0,,H. Giles makes 2-pt layup at rim,12,24
+1,2:36.0,A. Drummond makes 2-pt layup from 2 ft,,14,24
+1,2:36.0,Shooting foul by B. Hield (drawn by A. Drummond),,14,24
+1,2:36.0,,Sacramento full timeout,14,24
+1,2:36.0,J. Calderón enters the game for R. Jackson,,14,24
+1,2:36.0,,J. Jackson enters the game for B. Hield,14,24
+1,2:36.0,A. Drummond misses free throw 1 of 1,,14,24
+1,2:33.0,Offensive rebound by R. Bullock,,14,24
+1,2:21.0,L. Galloway misses 3-pt jump shot from 26 ft,,14,24
+1,2:18.0,,Defensive rebound by J. Jackson,14,24
+1,2:02.0,,J. Jackson makes 2-pt jump shot from 16 ft (assist by B. Bogdanović),14,26
+1,1:47.0,A. Drummond makes 2-pt dunk from 2 ft (assist by R. Bullock),,16,26
+1,1:36.0,,B. Bogdanović misses 2-pt hook shot from 7 ft,16,26
+1,1:34.0,,Offensive rebound by M. Bagley,16,26
+1,1:33.0,,M. Bagley makes 2-pt layup from 3 ft,16,28
+1,1:24.0,A. Drummond misses 2-pt layup from 3 ft (block by H. Giles),,16,28
+1,1:21.0,,Defensive rebound by B. Bogdanović,16,28
+1,1:19.0,,Shooting foul by S. Johnson (drawn by H. Giles),16,28
+1,1:19.0,,H. Giles makes free throw 1 of 2,16,29
+1,1:19.0,G. Robinson enters the game for R. Bullock,,16,29
+1,1:19.0,,H. Giles makes free throw 2 of 2,16,30
+1,1:01.0,L. Galloway makes 3-pt jump shot from 23 ft (assist by J. Calderón),,19,30
+1,0:52.0,,H. Giles makes 2-pt jump shot from 9 ft (assist by Y. Ferrell),19,32
+1,0:43.0,J. Calderón misses 2-pt layup from 4 ft (block by H. Giles),,19,32
+1,0:39.0,Offensive rebound by L. Galloway,,19,32
+1,0:36.0,G. Robinson misses 3-pt jump shot from 25 ft,,19,32
+1,0:34.0,,Defensive rebound by M. Bagley,19,32
+1,0:28.0,,M. Bagley makes 2-pt jump shot from 5 ft,19,34
+1,0:10.0,Away from play foul by M. Bagley (drawn by A. Drummond),,19,34
+1,0:10.0,,I. Shumpert enters the game for M. Bagley,19,34
+1,0:02.0,G. Robinson makes 2-pt layup from 3 ft (assist by J. Calderón),,21,34
+1,0:02.0,Shooting foul by J. Jackson (drawn by G. Robinson),,21,34
+1,0:02.0,G. Robinson misses free throw 1 of 1,,21,34
+1,0:00.0,,Defensive rebound by B. Bogdanović,21,34
+2,11:40.0,,J. Jackson misses 3-pt jump shot from 25 ft,21,34
+2,11:38.0,,Offensive rebound by Team,21,34
+2,11:38.0,Loose ball foul by J. Leuer (drawn by H. Giles),,21,34
+2,11:26.0,,J. Jackson makes 2-pt jump shot from 11 ft (assist by B. Bogdanović),21,36
+2,11:05.0,S. Johnson makes 3-pt jump shot from 26 ft (assist by L. Galloway),,24,36
+2,10:53.0,,H. Giles misses 2-pt jump shot from 13 ft,24,36
+2,10:50.0,,Offensive rebound by M. Bagley,24,36
+2,10:49.0,,Turnover by M. Bagley (bad pass; steal by J. Calderón),24,36
+2,10:45.0,G. Robinson misses 3-pt jump shot from 23 ft,,24,36
+2,10:44.0,Offensive rebound by Team,,24,36
+2,10:44.0,,Loose ball foul by H. Giles (drawn by J. Leuer),24,36
+2,10:35.0,Offensive foul by J. Leuer (drawn by B. Bogdanović),,24,36
+2,10:35.0,Turnover by J. Leuer (offensive foul),,24,36
+2,10:23.0,,Y. Ferrell makes 3-pt jump shot from 25 ft (assist by M. Bagley),24,39
+2,10:09.0,Shooting foul by Y. Ferrell (drawn by L. Galloway),,24,39
+2,10:09.0,L. Galloway makes free throw 1 of 2,,25,39
+2,10:09.0,,W. Cauley-Stein enters the game for H. Giles,25,39
+2,10:09.0,L. Galloway makes free throw 2 of 2,,26,39
+2,9:55.0,,Offensive foul by W. Cauley-Stein (drawn by L. Galloway),26,39
+2,9:55.0,,Turnover by W. Cauley-Stein (offensive foul),26,39
+2,9:39.0,J. Leuer makes 2-pt jump shot from 15 ft (assist by J. Calderón),,28,39
+2,9:30.0,,Turnover by Y. Ferrell (bad pass; steal by J. Leuer),28,39
+2,9:22.0,Shooting foul by W. Cauley-Stein (drawn by G. Robinson),,28,39
+2,9:22.0,G. Robinson makes free throw 1 of 2,,29,39
+2,9:22.0,,Sacramento full timeout,29,39
+2,9:22.0,G. Robinson makes free throw 2 of 2,,30,39
+2,9:03.0,,B. Bogdanović makes 2-pt layup from 1 ft (assist by W. Cauley-Stein),30,41
+2,8:43.0,S. Johnson misses 3-pt jump shot from 26 ft,,30,41
+2,8:39.0,,Defensive rebound by B. Bogdanović,30,41
+2,8:30.0,,M. Bagley misses 2-pt hook shot from 9 ft,30,41
+2,8:26.0,Defensive rebound by S. Johnson,,30,41
+2,8:25.0,J. Leuer makes 2-pt layup from 2 ft (assist by S. Johnson),,32,41
+2,8:07.0,,Turnover by W. Cauley-Stein (bad pass),32,41
+2,8:07.0,,N. Bjelica enters the game for M. Bagley,32,41
+2,8:07.0,,D. Fox enters the game for Y. Ferrell,32,41
+2,7:50.0,Turnover by S. Johnson (lost ball; steal by B. Bogdanović),,32,41
+2,7:41.0,,J. Jackson makes 2-pt jump shot from 7 ft (assist by D. Fox),32,43
+2,7:41.0,,Shooting foul by G. Robinson (drawn by J. Jackson),32,43
+2,7:41.0,,J. Jackson makes free throw 1 of 1,32,44
+2,7:21.0,J. Calderón misses 2-pt layup from 2 ft,,32,44
+2,7:19.0,,Defensive rebound by W. Cauley-Stein,32,44
+2,7:16.0,,Turnover by W. Cauley-Stein (bad pass; steal by S. Johnson),32,44
+2,7:14.0,S. Johnson makes 2-pt layup from 2 ft,,34,44
+2,7:14.0,,Sacramento full timeout,34,44
+2,7:14.0,R. Bullock enters the game for J. Calderón,,34,44
+2,7:14.0,R. Jackson enters the game for G. Robinson,,34,44
+2,7:14.0,,B. Hield enters the game for B. Bogdanović,34,44
+2,6:57.0,,J. Jackson misses 3-pt jump shot from 26 ft,34,44
+2,6:52.0,Defensive rebound by J. Leuer,,34,44
+2,6:37.0,Turnover by R. Jackson (bad pass),,34,44
+2,6:19.0,,W. Cauley-Stein makes 2-pt layup from 2 ft (assist by N. Bjelica),34,46
+2,6:19.0,,Shooting foul by R. Jackson (drawn by W. Cauley-Stein),34,46
+2,6:19.0,,W. Cauley-Stein misses free throw 1 of 1,34,46
+2,6:17.0,,Offensive rebound by N. Bjelica,34,46
+2,6:17.0,,Shooting foul by J. Leuer (drawn by N. Bjelica),34,46
+2,6:17.0,,N. Bjelica makes free throw 1 of 2,34,47
+2,6:17.0,A. Drummond enters the game for J. Leuer,,34,47
+2,6:17.0,,N. Bjelica makes free throw 2 of 2,34,48
+2,6:03.0,Shooting foul by D. Fox (drawn by S. Johnson),,34,48
+2,6:03.0,S. Johnson makes free throw 1 of 2,,35,48
+2,6:03.0,,Y. Ferrell enters the game for D. Fox,35,48
+2,6:03.0,S. Johnson makes free throw 2 of 2,,36,48
+2,5:43.0,,J. Jackson misses 2-pt hook shot from 11 ft,36,48
+2,5:41.0,Defensive rebound by A. Drummond,,36,48
+2,5:31.0,L. Galloway misses 3-pt jump shot from 23 ft,,36,48
+2,5:25.0,,Defensive rebound by Y. Ferrell,36,48
+2,5:23.0,,B. Hield misses 3-pt jump shot from 25 ft,36,48
+2,5:21.0,,Offensive rebound by Team,36,48
+2,5:21.0,Loose ball foul by A. Drummond (drawn by W. Cauley-Stein),,36,48
+2,5:21.0,,W. Cauley-Stein misses free throw 1 of 2,36,48
+2,5:21.0,,Offensive rebound by Team,36,48
+2,5:21.0,,I. Shumpert enters the game for J. Jackson,36,48
+2,5:21.0,,W. Cauley-Stein makes free throw 2 of 2,36,49
+2,4:59.0,R. Jackson misses 3-pt jump shot from 26 ft,,36,49
+2,4:57.0,,Defensive rebound by Y. Ferrell,36,49
+2,4:54.0,,Y. Ferrell makes 3-pt jump shot from 25 ft,36,52
+2,4:52.0,Detroit full timeout,,36,52
+2,4:52.0,L. Kennard enters the game for L. Galloway,,36,52
+2,4:46.0,Offensive foul by A. Drummond (drawn by W. Cauley-Stein),,36,52
+2,4:46.0,Turnover by A. Drummond (offensive foul),,36,52
+2,4:33.0,,Personal foul by R. Bullock (drawn by W. Cauley-Stein),36,52
+2,4:33.0,,W. Cauley-Stein makes free throw 1 of 2,36,53
+2,4:33.0,,W. Cauley-Stein makes free throw 2 of 2,36,54
+2,4:17.0,S. Johnson makes 2-pt jump shot from 7 ft (assist by A. Drummond),,38,54
+2,4:05.0,,B. Hield makes 2-pt jump shot from 18 ft,38,56
+2,3:48.0,A. Drummond misses 2-pt hook shot from 7 ft,,38,56
+2,3:45.0,,Defensive rebound by W. Cauley-Stein,38,56
+2,3:37.0,,N. Bjelica misses 2-pt layup from 1 ft,38,56
+2,3:34.0,Defensive rebound by A. Drummond,,38,56
+2,3:31.0,Turnover by S. Johnson (bad pass),,38,56
+2,3:31.0,B. Brown enters the game for L. Kennard,,38,56
+2,3:16.0,,I. Shumpert makes 2-pt jump shot from 18 ft,38,58
+2,2:51.0,R. Jackson misses 3-pt jump shot from 25 ft,,38,58
+2,2:48.0,,Defensive rebound by W. Cauley-Stein,38,58
+2,2:39.0,,B. Hield misses 2-pt jump shot from 3 ft,38,58
+2,2:37.0,Defensive rebound by A. Drummond,,38,58
+2,2:20.0,S. Johnson misses 3-pt jump shot from 25 ft,,38,58
+2,2:18.0,,Defensive rebound by Y. Ferrell,38,58
+2,2:12.0,,Y. Ferrell misses 3-pt jump shot from 25 ft,38,58
+2,2:12.0,,Offensive rebound by W. Cauley-Stein,38,58
+2,2:12.0,,W. Cauley-Stein makes 2-pt layup from 1 ft,38,60
+2,2:12.0,Detroit full timeout,,38,60
+2,2:12.0,Violation by Team (delay of game),,38,60
+2,2:12.0,L. Galloway enters the game for S. Johnson,,38,60
+2,1:53.0,R. Bullock makes 3-pt jump shot from 25 ft (assist by B. Brown),,41,60
+2,1:35.0,,I. Shumpert misses 2-pt layup from 3 ft,41,60
+2,1:32.0,Defensive rebound by L. Galloway,,41,60
+2,1:26.0,R. Jackson misses 2-pt jump shot from 12 ft,,41,60
+2,1:21.0,,Defensive rebound by W. Cauley-Stein,41,60
+2,1:15.0,,B. Hield misses 3-pt jump shot from 23 ft,41,60
+2,1:13.0,,Offensive rebound by W. Cauley-Stein,41,60
+2,1:10.0,,I. Shumpert makes 3-pt jump shot from 24 ft (assist by W. Cauley-Stein),41,63
+2,0:51.0,Shooting foul by N. Bjelica (drawn by A. Drummond),,41,63
+2,0:51.0,A. Drummond makes free throw 1 of 2,,42,63
+2,0:51.0,A. Drummond makes free throw 2 of 2,,43,63
+2,0:42.0,,Y. Ferrell makes 2-pt layup from 2 ft,43,65
+2,0:32.0,R. Jackson makes 2-pt jump shot from 7 ft,,45,65
+2,0:08.0,,Turnover by Team (shot clock),45,65
+2,0:00.0,L. Galloway makes 3-pt jump shot from 25 ft (assist by R. Jackson),,48,65
+3,11:44.0,,W. Cauley-Stein misses 2-pt layup from 3 ft,48,65
+3,11:42.0,,Offensive rebound by W. Cauley-Stein,48,65
+3,11:37.0,,I. Shumpert makes 3-pt jump shot from 23 ft (assist by W. Cauley-Stein),48,68
+3,11:24.0,B. Brown makes 2-pt layup from 2 ft,,50,68
+3,11:24.0,Shooting foul by N. Bjelica (drawn by B. Brown),,50,68
+3,11:24.0,B. Brown makes free throw 1 of 1,,51,68
+3,11:14.0,,B. Hield makes 2-pt layup from 3 ft (assist by D. Fox),51,70
+3,10:54.0,B. Brown misses 2-pt layup from 3 ft (block by W. Cauley-Stein),,51,70
+3,10:51.0,Offensive rebound by R. Jackson,,51,70
+3,10:50.0,Offensive foul by A. Drummond (drawn by D. Fox),,51,70
+3,10:50.0,Turnover by A. Drummond (offensive foul),,51,70
+3,10:39.0,,D. Fox makes 2-pt layup from 2 ft (assist by N. Bjelica),51,72
+3,10:39.0,Detroit full timeout,,51,72
+3,10:21.0,A. Drummond makes 2-pt hook shot from 5 ft (assist by L. Kennard),,53,72
+3,10:03.0,,B. Hield makes 2-pt jump shot from 16 ft (assist by W. Cauley-Stein),53,74
+3,9:39.0,B. Brown makes 3-pt jump shot from 25 ft (assist by R. Bullock),,56,74
+3,9:35.0,,Personal foul by R. Bullock (drawn by N. Bjelica),56,74
+3,9:25.0,,B. Hield makes 3-pt jump shot from 26 ft (assist by I. Shumpert),56,77
+3,8:58.0,B. Brown makes 2-pt layup from 2 ft,,58,77
+3,8:40.0,,N. Bjelica makes 3-pt jump shot from 26 ft (assist by I. Shumpert),58,80
+3,8:26.0,R. Bullock makes 2-pt jump shot from 9 ft (assist by B. Brown),,60,80
+3,8:26.0,Shooting foul by W. Cauley-Stein (drawn by R. Bullock),,60,80
+3,8:26.0,R. Bullock makes free throw 1 of 1,,61,80
+3,8:17.0,,D. Fox misses 2-pt layup from 3 ft,61,80
+3,8:15.0,Defensive rebound by A. Drummond,,61,80
+3,8:12.0,Turnover by B. Brown (traveling),,61,80
+3,8:01.0,,W. Cauley-Stein makes 2-pt dunk from 1 ft (assist by D. Fox),61,82
+3,8:01.0,,Shooting foul by B. Brown (drawn by W. Cauley-Stein),61,82
+3,8:01.0,,W. Cauley-Stein makes free throw 1 of 1,61,83
+3,7:51.0,R. Bullock makes 3-pt jump shot from 25 ft (assist by R. Jackson),,64,83
+3,7:43.0,,Personal foul by A. Drummond (drawn by D. Fox),64,83
+3,7:43.0,J. Leuer enters the game for A. Drummond,,64,83
+3,7:34.0,,W. Cauley-Stein misses 2-pt dunk from 4 ft,64,83
+3,7:32.0,,Offensive rebound by W. Cauley-Stein,64,83
+3,7:31.0,,W. Cauley-Stein misses 2-pt layup from 3 ft,64,83
+3,7:28.0,Defensive rebound by R. Jackson,,64,83
+3,7:24.0,R. Bullock misses 3-pt jump shot from 26 ft,,64,83
+3,7:21.0,,Defensive rebound by B. Hield,64,83
+3,7:13.0,,B. Hield misses 2-pt jump shot from 7 ft,64,83
+3,7:11.0,Defensive rebound by J. Leuer,,64,83
+3,6:58.0,R. Jackson misses 3-pt jump shot from 26 ft,,64,83
+3,6:57.0,,Defensive rebound by Team,64,83
+3,6:57.0,Loose ball foul by J. Leuer (drawn by W. Cauley-Stein),,64,83
+3,6:42.0,,W. Cauley-Stein makes 2-pt layup from 2 ft (assist by D. Fox),64,85
+3,6:29.0,L. Kennard misses 2-pt jump shot from 22 ft,,64,85
+3,6:26.0,,Defensive rebound by W. Cauley-Stein,64,85
+3,6:22.0,,Turnover by D. Fox (bad pass; steal by B. Brown),64,85
+3,6:06.0,B. Brown makes 2-pt jump shot from 7 ft,,66,85
+3,6:06.0,Shooting foul by W. Cauley-Stein (drawn by B. Brown),,66,85
+3,6:06.0,L. Galloway enters the game for L. Kennard,,66,85
+3,6:06.0,,H. Giles enters the game for W. Cauley-Stein,66,85
+3,6:06.0,B. Brown makes free throw 1 of 1,,67,85
+3,5:55.0,,I. Shumpert makes 2-pt jump shot from 20 ft (assist by N. Bjelica),67,87
+3,5:35.0,B. Brown misses 2-pt jump shot from 6 ft,,67,87
+3,5:31.0,Offensive rebound by R. Jackson,,67,87
+3,5:28.0,R. Jackson misses 2-pt jump shot from 17 ft,,67,87
+3,5:26.0,,Defensive rebound by N. Bjelica,67,87
+3,5:22.0,,H. Giles misses 2-pt jump shot from 22 ft,67,87
+3,5:22.0,,Offensive rebound by B. Hield,67,87
+3,5:11.0,,I. Shumpert misses 3-pt jump shot from 23 ft,67,87
+3,5:09.0,Defensive rebound by J. Leuer,,67,87
+3,4:55.0,R. Jackson misses 2-pt layup from 4 ft,,67,87
+3,4:52.0,,Defensive rebound by N. Bjelica,67,87
+3,4:42.0,,Turnover by I. Shumpert (lost ball; steal by R. Bullock),67,87
+3,4:35.0,R. Jackson misses 3-pt jump shot from 26 ft,,67,87
+3,4:34.0,,Defensive rebound by H. Giles,67,87
+3,4:34.0,,Sacramento full timeout,67,87
+3,4:34.0,J. Calderón enters the game for B. Brown,,67,87
+3,4:34.0,S. Johnson enters the game for R. Bullock,,67,87
+3,4:34.0,K. Thomas enters the game for R. Jackson,,67,87
+3,4:21.0,,I. Shumpert misses 2-pt jump shot from 8 ft,67,87
+3,4:20.0,Defensive rebound by Team,,67,87
+3,4:03.0,K. Thomas misses 2-pt layup from 5 ft,,67,87
+3,4:01.0,,Defensive rebound by D. Fox,67,87
+3,3:59.0,,H. Giles misses 2-pt layup from 2 ft,67,87
+3,3:57.0,Defensive rebound by J. Leuer,,67,87
+3,3:52.0,Turnover by J. Calderón (lost ball; steal by H. Giles),,67,87
+3,3:48.0,,B. Hield makes 2-pt dunk from 2 ft (assist by H. Giles),67,89
+3,3:25.0,S. Johnson makes 2-pt jump shot from 8 ft,,69,89
+3,3:18.0,,D. Fox misses 3-pt jump shot from 26 ft,69,89
+3,3:16.0,Defensive rebound by J. Calderón,,69,89
+3,3:04.0,Turnover by J. Leuer (lost ball; steal by H. Giles),,69,89
+3,3:03.0,,Turnover by H. Giles (lost ball; steal by J. Leuer),69,89
+3,2:58.0,K. Thomas misses 3-pt jump shot from 25 ft,,69,89
+3,2:55.0,,Defensive rebound by D. Fox,69,89
+3,2:48.0,,N. Bjelica misses 3-pt jump shot from 23 ft,69,89
+3,2:44.0,Defensive rebound by J. Leuer,,69,89
+3,2:37.0,J. Leuer misses 2-pt jump shot from 14 ft,,69,89
+3,2:34.0,,Defensive rebound by I. Shumpert,69,89
+3,2:29.0,,I. Shumpert misses 2-pt jump shot from 15 ft,69,89
+3,2:24.0,Defensive rebound by J. Leuer,,69,89
+3,2:10.0,S. Johnson misses 3-pt jump shot from 24 ft (block by N. Bjelica),,69,89
+3,2:10.0,Offensive rebound by S. Johnson,,69,89
+3,2:07.0,Shooting foul by N. Bjelica (drawn by S. Johnson),,69,89
+3,2:07.0,S. Johnson makes free throw 1 of 2,,70,89
+3,2:07.0,,B. Bogdanović enters the game for N. Bjelica,70,89
+3,2:07.0,,J. Jackson enters the game for I. Shumpert,70,89
+3,2:07.0,S. Johnson makes free throw 2 of 2,,71,89
+3,1:47.0,,H. Giles makes 2-pt layup from 2 ft,71,91
+3,1:28.0,S. Johnson misses 2-pt layup from 3 ft,,71,91
+3,1:25.0,,Defensive rebound by D. Fox,71,91
+3,1:10.0,,J. Jackson misses 2-pt hook shot from 8 ft,71,91
+3,1:06.0,,Offensive rebound by J. Jackson,71,91
+3,0:54.0,,J. Jackson misses 2-pt layup from 2 ft,71,91
+3,0:52.0,Defensive rebound by J. Leuer,,71,91
+3,0:48.0,L. Galloway misses 3-pt jump shot from 23 ft,,71,91
+3,0:45.0,,Defensive rebound by H. Giles,71,91
+3,0:35.0,,B. Bogdanović misses 3-pt jump shot from 26 ft,71,91
+3,0:32.0,Defensive rebound by J. Leuer,,71,91
+3,0:20.0,K. Thomas makes 3-pt jump shot from 24 ft (assist by J. Calderón),,74,91
+3,0:01.0,,D. Fox misses 2-pt layup from 6 ft,74,91
+3,0:01.0,Defensive rebound by L. Galloway,,74,91
+4,11:38.0,S. Johnson makes 3-pt jump shot from 31 ft (assist by J. Calderón),,77,91
+4,11:25.0,,Personal foul by S. Johnson (drawn by M. Bagley),77,91
+4,11:08.0,,Turnover by H. Giles (lost ball; steal by J. Calderón),77,91
+4,11:03.0,Turnover by A. Drummond (off goaltending),,77,91
+4,11:03.0,,Sacramento full timeout,77,91
+4,10:46.0,,H. Giles makes 2-pt layup from 4 ft (assist by B. Bogdanović),77,93
+4,10:29.0,L. Galloway misses 3-pt jump shot from 23 ft,,77,93
+4,10:29.0,,Defensive rebound by Team,77,93
+4,10:17.0,,B. Bogdanović misses 2-pt jump shot from 22 ft,77,93
+4,10:14.0,Defensive rebound by A. Drummond,,77,93
+4,10:05.0,L. Galloway misses 3-pt jump shot from 27 ft,,77,93
+4,10:02.0,,Defensive rebound by M. Bagley,77,93
+4,9:56.0,,M. Bagley makes 2-pt layup from 2 ft,77,95
+4,9:37.0,K. Thomas misses 2-pt layup from 2 ft (block by H. Giles),,77,95
+4,9:32.0,Offensive rebound by A. Drummond,,77,95
+4,9:32.0,Turnover by A. Drummond (bad pass; steal by M. Bagley),,77,95
+4,9:32.0,,Personal foul by J. Calderón (drawn by M. Bagley),77,95
+4,9:25.0,,B. Bogdanović makes 2-pt jump shot from 16 ft,77,97
+4,8:59.0,S. Johnson misses 3-pt jump shot from 23 ft,,77,97
+4,8:58.0,Offensive rebound by Team,,77,97
+4,8:58.0,Turnover by Team (shot clock),,77,97
+4,8:45.0,,M. Bagley makes 2-pt hook shot from 7 ft (assist by H. Giles),77,99
+4,8:26.0,J. Calderón makes 2-pt jump shot from 18 ft,,79,99
+4,8:10.0,,Y. Ferrell makes 2-pt layup from 3 ft (assist by H. Giles),79,101
+4,8:10.0,,Shooting foul by L. Galloway (drawn by Y. Ferrell),79,101
+4,8:10.0,,Y. Ferrell makes free throw 1 of 1,79,102
+4,8:10.0,Detroit full timeout,,79,102
+4,8:10.0,R. Bullock enters the game for L. Galloway,,79,102
+4,8:10.0,L. Kennard enters the game for S. Johnson,,79,102
+4,7:54.0,K. Thomas makes 3-pt jump shot from 23 ft (assist by R. Bullock),,82,102
+4,7:34.0,,B. Bogdanović misses 3-pt jump shot from 25 ft,82,102
+4,7:32.0,Defensive rebound by J. Calderón,,82,102
+4,7:18.0,R. Bullock misses 2-pt layup from 3 ft,,82,102
+4,7:12.0,,Defensive rebound by M. Bagley,82,102
+4,7:10.0,,Y. Ferrell misses 2-pt jump shot from 15 ft,82,102
+4,7:07.0,Defensive rebound by A. Drummond,,82,102
+4,7:02.0,Personal foul by B. Bogdanović (drawn by J. Calderón),,82,102
+4,6:55.0,Personal foul by H. Giles (drawn by A. Drummond),,82,102
+4,6:39.0,L. Kennard misses 3-pt jump shot from 25 ft,,82,102
+4,6:36.0,,Defensive rebound by M. Bagley,82,102
+4,6:23.0,,Shooting foul by A. Drummond (drawn by M. Bagley),82,102
+4,6:23.0,,M. Bagley makes free throw 1 of 2,82,103
+4,6:23.0,,M. Bagley makes free throw 2 of 2,82,104
+4,6:04.0,Shooting foul by H. Giles (drawn by R. Bullock),,82,104
+4,6:04.0,R. Bullock makes free throw 1 of 3,,83,104
+4,6:04.0,R. Bullock makes free throw 2 of 3,,84,104
+4,6:04.0,R. Bullock makes free throw 3 of 3,,85,104
+4,5:53.0,,J. Jackson misses 3-pt jump shot from 25 ft,85,104
+4,5:49.0,Defensive rebound by L. Kennard,,85,104
+4,5:40.0,A. Drummond makes 2-pt hook shot from 8 ft (assist by J. Calderón),,87,104
+4,5:17.0,,Turnover by Y. Ferrell (bad pass; steal by K. Thomas),87,104
+4,5:07.0,A. Drummond makes 2-pt layup from 4 ft,,89,104
+4,5:07.0,,Sacramento full timeout,89,104
+4,5:07.0,,W. Cauley-Stein enters the game for Y. Ferrell,89,104
+4,5:07.0,,D. Fox enters the game for H. Giles,89,104
+4,4:55.0,,B. Bogdanović misses 2-pt layup from 3 ft (block by L. Kennard),89,104
+4,4:55.0,,Offensive rebound by Team,89,104
+4,4:50.0,,B. Bogdanović makes 2-pt jump shot from 15 ft (assist by J. Jackson),89,106
+4,4:28.0,A. Drummond misses 2-pt hook shot from 12 ft,,89,106
+4,4:26.0,,Defensive rebound by W. Cauley-Stein,89,106
+4,4:20.0,,J. Jackson misses 2-pt jump shot from 9 ft,89,106
+4,4:20.0,,Offensive rebound by Team,89,106
+4,4:19.0,,Turnover by J. Jackson (turnover),89,106
+4,4:19.0,,Loose ball foul by J. Jackson (drawn by J. Calderón),89,106
+4,4:05.0,L. Kennard misses 2-pt jump shot from 19 ft,,89,106
+4,4:02.0,Offensive rebound by J. Calderón,,89,106
+4,3:51.0,Turnover by J. Calderón (bad pass; steal by B. Bogdanović),,89,106
+4,3:47.0,,D. Fox makes 2-pt layup from 3 ft (assist by B. Bogdanović),89,108
+4,3:38.0,Turnover by J. Calderón (bad pass; steal by D. Fox),,89,108
+4,3:37.0,,Personal take foul by R. Bullock (drawn by D. Fox),89,108
+4,3:37.0,,D. Fox misses free throw 1 of 2,89,108
+4,3:37.0,,Offensive rebound by Team,89,108
+4,3:37.0,,D. Fox misses free throw 2 of 2,89,108
+4,3:36.0,Defensive rebound by A. Drummond,,89,108
+4,3:36.0,Detroit full timeout,,89,108
+4,3:36.0,B. Brown enters the game for J. Calderón,,89,108
+4,3:36.0,,Y. Ferrell enters the game for B. Bogdanović,89,108
+4,3:36.0,,H. Giles enters the game for W. Cauley-Stein,89,108
+4,3:36.0,,F. Mason enters the game for D. Fox,89,108
+4,3:36.0,,B. McLemore enters the game for J. Jackson,89,108
+4,3:22.0,K. Thomas makes 2-pt layup from 2 ft,,91,108
+4,3:05.0,,Turnover by H. Giles (bad pass),91,108
+4,3:05.0,Personal foul by B. McLemore (drawn by L. Kennard),,91,108
+4,3:05.0,L. Kennard makes free throw 1 of 2,,92,108
+4,3:05.0,J. Leuer enters the game for R. Bullock,,92,108
+4,3:05.0,G. Robinson enters the game for A. Drummond,,92,108
+4,3:05.0,L. Kennard makes free throw 2 of 2,,93,108
+4,2:43.0,,Personal foul by B. Brown (drawn by H. Giles),93,108
+4,2:43.0,,H. Giles makes free throw 1 of 2,93,109
+4,2:43.0,,H. Giles makes free throw 2 of 2,93,110
+4,2:27.0,Shooting foul by H. Giles (drawn by G. Robinson),,93,110
+4,2:27.0,G. Robinson makes free throw 1 of 2,,94,110
+4,2:27.0,G. Robinson makes free throw 2 of 2,,95,110
+4,2:11.0,,Turnover by H. Giles (bad pass; steal by K. Thomas),95,110
+4,2:05.0,Turnover by J. Leuer (bad pass),,95,110
+4,1:50.0,,H. Giles misses 2-pt jump shot from 10 ft,95,110
+4,1:48.0,Defensive rebound by B. Brown,,95,110
+4,1:45.0,Turnover by B. Brown (bad pass; steal by M. Bagley),,95,110
+4,1:38.0,,Turnover by M. Bagley (bad pass; steal by J. Leuer),95,110
+4,1:33.0,L. Kennard misses 3-pt jump shot from 24 ft,,95,110
+4,1:30.0,Offensive rebound by J. Leuer,,95,110
+4,1:30.0,J. Leuer makes 2-pt layup from 1 ft,,97,110
+4,1:30.0,,Sacramento full timeout,97,110
+4,1:18.0,,H. Giles makes 2-pt dunk from 1 ft (assist by F. Mason),97,112
+4,1:00.0,Shooting foul by F. Mason (drawn by J. Leuer),,97,112
+4,1:00.0,J. Leuer makes free throw 1 of 2,,98,112
+4,1:00.0,J. Leuer misses free throw 2 of 2,,98,112
+4,0:57.0,,Defensive rebound by H. Giles,98,112
+4,0:41.0,,Turnover by H. Giles (bad pass; steal by B. Brown),98,112
+4,0:39.0,B. Brown makes 2-pt dunk from 1 ft,,100,112
+4,0:21.0,,F. Mason misses 3-pt jump shot from 24 ft,100,112
+4,0:19.0,Defensive rebound by J. Leuer,,100,112
+4,0:12.0,L. Kennard misses 3-pt jump shot from 24 ft,,100,112
+4,0:10.0,Offensive rebound by J. Leuer,,100,112
+4,0:10.0,J. Leuer makes 2-pt layup at rim,,102,112

@@ -1,0 +1,483 @@
+QUARTER,TIME_REMAINING,CHARLOTTE_ACTION,MILWAUKEE_ACTION,CHARLOTTE_SCORE,MILWAUKEE_SCORE
+1,11:41.0,,G. Antetokounmpo misses 3-pt jump shot from 25 ft,0,0
+1,11:41.0,Defensive rebound by Team,,0,0
+1,11:19.0,B. Biyombo makes 2-pt layup from 1 ft (assist by K. Walker),,2,0
+1,11:10.0,,B. Lopez misses 3-pt jump shot from 28 ft,2,0
+1,11:07.0,Defensive rebound by M. Williams,,2,0
+1,10:58.0,J. Lamb makes 2-pt jump shot from 15 ft,,4,0
+1,10:47.0,,M. Brogdon misses 3-pt jump shot from 26 ft,4,0
+1,10:44.0,Defensive rebound by N. Batum,,4,0
+1,10:38.0,N. Batum makes 3-pt jump shot from 26 ft (assist by B. Biyombo),,7,0
+1,10:15.0,,K. Middleton makes 2-pt jump shot from 9 ft,7,2
+1,9:57.0,J. Lamb misses 3-pt jump shot from 26 ft,,7,2
+1,9:54.0,,Defensive rebound by G. Antetokounmpo,7,2
+1,9:42.0,,G. Antetokounmpo makes 2-pt dunk from 2 ft,7,4
+1,9:31.0,K. Walker misses 2-pt jump shot from 11 ft,,7,4
+1,9:27.0,,Defensive rebound by B. Lopez,7,4
+1,9:20.0,,B. Lopez misses 3-pt jump shot from 30 ft,7,4
+1,9:16.0,Defensive rebound by K. Walker,,7,4
+1,9:04.0,Turnover by M. Williams (out of bounds lost ball),,7,4
+1,8:50.0,,Shooting foul by J. Lamb (drawn by M. Brogdon),7,4
+1,8:50.0,,M. Brogdon makes free throw 1 of 2,7,5
+1,8:50.0,,M. Brogdon makes free throw 2 of 2,7,6
+1,8:38.0,M. Williams misses 3-pt jump shot from 24 ft,,7,6
+1,8:36.0,,Defensive rebound by G. Antetokounmpo,7,6
+1,8:34.0,,Shooting foul by K. Walker (drawn by E. Bledsoe),7,6
+1,8:34.0,,E. Bledsoe makes free throw 1 of 2,7,7
+1,8:34.0,,E. Bledsoe misses free throw 2 of 2,7,7
+1,8:30.0,Defensive rebound by B. Biyombo,,7,7
+1,8:22.0,Turnover by M. Williams (lost ball; steal by G. Antetokounmpo),,7,7
+1,8:18.0,,G. Antetokounmpo misses 2-pt dunk from 2 ft,7,7
+1,8:15.0,Defensive rebound by M. Williams,,7,7
+1,8:04.0,K. Walker makes 2-pt layup from 1 ft,,9,7
+1,7:53.0,,E. Bledsoe makes 2-pt layup from 2 ft,9,9
+1,7:38.0,N. Batum makes 3-pt jump shot from 26 ft (assist by M. Williams),,12,9
+1,7:31.0,,Offensive foul by E. Bledsoe (drawn by K. Walker),12,9
+1,7:31.0,,Turnover by E. Bledsoe (offensive foul),12,9
+1,7:31.0,,S. Brown enters the game for M. Brogdon,12,9
+1,7:17.0,J. Lamb misses 3-pt jump shot from 26 ft,,12,9
+1,7:14.0,,Defensive rebound by E. Bledsoe,12,9
+1,7:05.0,,K. Middleton misses 3-pt jump shot from 26 ft,12,9
+1,7:02.0,Defensive rebound by B. Biyombo,,12,9
+1,6:53.0,J. Lamb makes 2-pt jump shot from 8 ft,,14,9
+1,6:42.0,,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by S. Brown),14,11
+1,6:42.0,,Shooting foul by J. Lamb (drawn by G. Antetokounmpo),14,11
+1,6:42.0,,Milwaukee full timeout,14,11
+1,6:42.0,D. Graham enters the game for B. Biyombo,,14,11
+1,6:42.0,M. Kidd-Gilchrist enters the game for J. Lamb,,14,11
+1,6:42.0,,G. Antetokounmpo makes free throw 1 of 1,14,12
+1,6:31.0,Personal foul by G. Antetokounmpo (drawn by M. Williams),,14,12
+1,6:22.0,N. Batum misses 3-pt jump shot from 23 ft,,14,12
+1,6:19.0,,Defensive rebound by E. Bledsoe,14,12
+1,6:12.0,,E. Bledsoe misses 3-pt jump shot from 26 ft,14,12
+1,6:08.0,Defensive rebound by N. Batum,,14,12
+1,6:04.0,Turnover by D. Graham (bad pass),,14,12
+1,5:47.0,,G. Antetokounmpo misses 2-pt layup from 3 ft,14,12
+1,5:46.0,Defensive rebound by M. Williams,,14,12
+1,5:31.0,M. Kidd-Gilchrist misses 3-pt jump shot from 26 ft,,14,12
+1,5:27.0,,Defensive rebound by S. Brown,14,12
+1,5:27.0,,G. Hill enters the game for G. Antetokounmpo,14,12
+1,5:27.0,,D. Wilson enters the game for E. Bledsoe,14,12
+1,5:25.0,,Away from play foul by M. Williams (drawn by B. Lopez),14,12
+1,5:25.0,,K. Middleton makes free throw 1 of 1,14,13
+1,5:10.0,,K. Middleton makes 2-pt jump shot from 10 ft,14,15
+1,4:56.0,M. Williams makes 3-pt jump shot from 24 ft (assist by M. Kidd-Gilchrist),,17,15
+1,4:34.0,,K. Middleton misses 2-pt jump shot from 6 ft,17,15
+1,4:31.0,,Offensive rebound by S. Brown,17,15
+1,4:30.0,,S. Brown makes 2-pt layup from 1 ft,17,17
+1,4:07.0,M. Kidd-Gilchrist makes 2-pt jump shot from 19 ft (assist by N. Batum),,19,17
+1,3:42.0,,K. Middleton makes 3-pt jump shot from 27 ft (assist by D. Wilson),19,20
+1,3:28.0,N. Batum misses 3-pt jump shot from 27 ft,,19,20
+1,3:28.0,,Defensive rebound by Team,19,20
+1,3:28.0,,M. Brogdon enters the game for B. Lopez,19,20
+1,3:28.0,,E. İlyasova enters the game for K. Middleton,19,20
+1,3:09.0,,G. Hill misses 2-pt layup from 4 ft,19,20
+1,3:07.0,Defensive rebound by M. Kidd-Gilchrist,,19,20
+1,3:04.0,Turnover by M. Kidd-Gilchrist (lost ball; steal by G. Hill),,19,20
+1,2:57.0,,E. İlyasova misses 3-pt jump shot from 24 ft,19,20
+1,2:57.0,Defensive rebound by Team,,19,20
+1,2:57.0,Charlotte full timeout,,19,20
+1,2:57.0,M. Bridges enters the game for K. Walker,,19,20
+1,2:57.0,M. Monk enters the game for M. Williams,,19,20
+1,2:49.0,Def 3 sec tech foul by Team,,19,20
+1,2:49.0,N. Batum makes technical free throw,,20,20
+1,2:40.0,M. Monk misses 2-pt jump shot from 6 ft,,20,20
+1,2:37.0,,Defensive rebound by E. İlyasova,20,20
+1,2:27.0,,M. Brogdon misses 2-pt layup from 1 ft,20,20
+1,2:24.0,Defensive rebound by N. Batum,,20,20
+1,2:14.0,Shooting foul by D. Wilson (drawn by M. Kidd-Gilchrist),,20,20
+1,2:14.0,M. Kidd-Gilchrist makes free throw 1 of 2,,21,20
+1,2:14.0,,G. Antetokounmpo enters the game for S. Brown,21,20
+1,2:14.0,,T. Snell enters the game for D. Wilson,21,20
+1,2:14.0,M. Kidd-Gilchrist makes free throw 2 of 2,,22,20
+1,2:03.0,,Turnover by E. İlyasova (bad pass),22,20
+1,1:47.0,D. Graham makes 3-pt jump shot from 26 ft (assist by M. Kidd-Gilchrist),,25,20
+1,1:29.0,,T. Snell misses 2-pt jump shot from 10 ft,25,20
+1,1:23.0,,Offensive rebound by T. Snell,25,20
+1,1:23.0,,T. Snell misses 2-pt layup at rim,25,20
+1,1:23.0,Defensive rebound by M. Bridges,,25,20
+1,1:23.0,Personal foul by M. Brogdon (drawn by M. Kidd-Gilchrist),,25,20
+1,1:07.0,N. Batum misses 3-pt jump shot from 26 ft,,25,20
+1,1:00.0,Offensive rebound by M. Bridges,,25,20
+1,1:00.0,M. Bridges misses 2-pt layup from 1 ft,,25,20
+1,0:59.0,,Defensive rebound by G. Antetokounmpo,25,20
+1,0:49.0,,E. İlyasova misses 2-pt jump shot from 9 ft,25,20
+1,0:46.0,,Offensive rebound by M. Brogdon,25,20
+1,0:46.0,,M. Brogdon misses 2-pt layup from 2 ft,25,20
+1,0:43.0,Defensive rebound by M. Kidd-Gilchrist,,25,20
+1,0:32.0,Offensive foul by M. Monk (drawn by E. İlyasova),,25,20
+1,0:32.0,Turnover by M. Monk (offensive foul),,25,20
+1,0:23.0,,G. Antetokounmpo makes 2-pt layup from 2 ft,25,22
+1,0:01.0,M. Kidd-Gilchrist misses 2-pt layup from 2 ft (block by E. İlyasova),,25,22
+1,0:01.0,Offensive rebound by M. Kidd-Gilchrist,,25,22
+1,0:00.0,M. Kidd-Gilchrist makes 2-pt layup from 1 ft,,27,22
+2,11:35.0,M. Kidd-Gilchrist misses 3-pt jump shot from 26 ft,,27,22
+2,11:33.0,Offensive rebound by D. Graham,,27,22
+2,11:27.0,W. Hernangómez misses 2-pt layup from 2 ft,,27,22
+2,11:24.0,,Defensive rebound by G. Antetokounmpo,27,22
+2,11:20.0,,T. Snell makes 3-pt jump shot from 23 ft (assist by G. Antetokounmpo),27,25
+2,11:08.0,M. Monk misses 2-pt jump shot from 12 ft,,27,25
+2,11:04.0,,Defensive rebound by G. Hill,27,25
+2,10:58.0,,E. İlyasova misses 3-pt jump shot from 26 ft,27,25
+2,10:55.0,Defensive rebound by M. Bridges,,27,25
+2,10:50.0,D. Graham makes 2-pt jump shot from 15 ft,,29,25
+2,10:36.0,,T. Snell misses 3-pt jump shot from 28 ft,29,25
+2,10:32.0,Defensive rebound by M. Monk,,29,25
+2,10:27.0,Shooting foul by G. Hill (drawn by W. Hernangómez),,29,25
+2,10:27.0,W. Hernangómez makes free throw 1 of 2,,30,25
+2,10:27.0,K. Walker enters the game for M. Kidd-Gilchrist,,30,25
+2,10:27.0,,E. Bledsoe enters the game for G. Hill,30,25
+2,10:27.0,W. Hernangómez makes free throw 2 of 2,,31,25
+2,10:09.0,,G. Antetokounmpo makes 2-pt layup from 1 ft,31,27
+2,9:56.0,Turnover by K. Walker (bad pass; steal by M. Brogdon),,31,27
+2,9:52.0,,M. Brogdon makes 2-pt layup from 1 ft,31,29
+2,9:52.0,Violation by Team (def goaltending),,31,29
+2,9:38.0,Shooting foul by E. İlyasova (drawn by W. Hernangómez),,31,29
+2,9:38.0,W. Hernangómez misses free throw 1 of 2,,31,29
+2,9:38.0,Offensive rebound by Team,,31,29
+2,9:38.0,,S. Brown enters the game for M. Brogdon,31,29
+2,9:38.0,,D. Wilson enters the game for E. İlyasova,31,29
+2,9:38.0,W. Hernangómez makes free throw 2 of 2,,32,29
+2,9:24.0,,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by E. Bledsoe),32,31
+2,9:24.0,,Shooting foul by W. Hernangómez (drawn by G. Antetokounmpo),32,31
+2,9:24.0,,G. Antetokounmpo misses free throw 1 of 1,32,31
+2,9:19.0,Defensive rebound by M. Monk,,32,31
+2,9:10.0,W. Hernangómez makes 2-pt hook shot from 4 ft (assist by M. Bridges),,34,31
+2,8:58.0,,E. Bledsoe misses 2-pt jump shot from 16 ft,34,31
+2,8:54.0,Defensive rebound by W. Hernangómez,,34,31
+2,8:51.0,M. Bridges makes 2-pt layup at rim (assist by D. Graham),,36,31
+2,8:33.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by E. Bledsoe),36,33
+2,8:16.0,M. Bridges misses 3-pt jump shot from 27 ft,,36,33
+2,8:13.0,,Defensive rebound by D. Wilson,36,33
+2,8:07.0,,E. Bledsoe misses 3-pt jump shot from 26 ft,36,33
+2,8:04.0,Defensive rebound by M. Monk,,36,33
+2,8:02.0,M. Monk misses 2-pt layup from 3 ft,,36,33
+2,7:59.0,Offensive rebound by W. Hernangómez,,36,33
+2,7:58.0,W. Hernangómez makes 2-pt layup from 1 ft,,38,33
+2,7:41.0,,E. Bledsoe misses 3-pt jump shot from 25 ft,38,33
+2,7:37.0,Defensive rebound by K. Walker,,38,33
+2,7:22.0,D. Graham makes 2-pt layup from 2 ft,,40,33
+2,7:17.0,,Milwaukee full timeout,40,33
+2,7:17.0,M. Williams enters the game for D. Graham,,40,33
+2,7:17.0,,B. Lopez enters the game for G. Antetokounmpo,40,33
+2,7:17.0,,K. Middleton enters the game for T. Snell,40,33
+2,7:06.0,,B. Lopez makes 3-pt jump shot from 28 ft (assist by K. Middleton),40,36
+2,6:49.0,K. Walker misses 3-pt jump shot from 26 ft,,40,36
+2,6:41.0,Offensive rebound by M. Bridges,,40,36
+2,6:41.0,M. Bridges makes 2-pt dunk from 1 ft,,42,36
+2,6:28.0,,S. Brown misses 2-pt layup from 2 ft,42,36
+2,6:25.0,Defensive rebound by M. Bridges,,42,36
+2,6:19.0,M. Monk misses 2-pt jump shot from 11 ft,,42,36
+2,6:16.0,,Defensive rebound by S. Brown,42,36
+2,6:08.0,,K. Middleton makes 2-pt jump shot from 12 ft,42,38
+2,5:47.0,M. Williams makes 3-pt jump shot from 23 ft (assist by M. Monk),,45,38
+2,5:40.0,,Shooting foul by K. Walker (drawn by E. Bledsoe),45,38
+2,5:40.0,,E. Bledsoe makes free throw 1 of 2,45,39
+2,5:40.0,J. Lamb enters the game for M. Monk,,45,39
+2,5:40.0,,E. Bledsoe makes free throw 2 of 2,45,40
+2,5:31.0,Shooting foul by S. Brown (drawn by K. Walker),,45,40
+2,5:31.0,K. Walker makes free throw 1 of 2,,46,40
+2,5:31.0,K. Walker makes free throw 2 of 2,,47,40
+2,5:22.0,,E. Bledsoe makes 2-pt layup from 1 ft,47,42
+2,5:22.0,,Shooting foul by W. Hernangómez (drawn by E. Bledsoe),47,42
+2,5:22.0,,E. Bledsoe makes free throw 1 of 1,47,43
+2,5:11.0,Turnover by K. Walker (out of bounds lost ball),,47,43
+2,5:04.0,,E. Bledsoe makes 2-pt layup from 1 ft,47,45
+2,5:03.0,Charlotte full timeout,,47,45
+2,5:03.0,N. Batum enters the game for M. Bridges,,47,45
+2,5:03.0,M. Kidd-Gilchrist enters the game for W. Hernangómez,,47,45
+2,4:49.0,N. Batum misses 2-pt layup from 5 ft,,47,45
+2,4:46.0,,Defensive rebound by K. Middleton,47,45
+2,4:43.0,,K. Middleton misses 3-pt jump shot from 27 ft,47,45
+2,4:40.0,Defensive rebound by N. Batum,,47,45
+2,4:33.0,M. Williams misses 3-pt jump shot from 26 ft,,47,45
+2,4:29.0,,Defensive rebound by B. Lopez,47,45
+2,4:18.0,,B. Lopez misses 2-pt jump shot from 22 ft,47,45
+2,4:15.0,Defensive rebound by N. Batum,,47,45
+2,4:03.0,J. Lamb misses 2-pt jump shot from 16 ft,,47,45
+2,4:00.0,,Defensive rebound by K. Middleton,47,45
+2,3:50.0,,S. Brown misses 3-pt jump shot from 25 ft,47,45
+2,3:47.0,Defensive rebound by M. Williams,,47,45
+2,3:29.0,Personal foul by D. Wilson (drawn by K. Walker),,47,45
+2,3:29.0,,G. Antetokounmpo enters the game for S. Brown,47,45
+2,3:29.0,,M. Brogdon enters the game for D. Wilson,47,45
+2,3:20.0,Shooting foul by M. Brogdon (drawn by J. Lamb),,47,45
+2,3:20.0,J. Lamb makes free throw 1 of 3,,48,45
+2,3:20.0,J. Lamb makes free throw 2 of 3,,49,45
+2,3:20.0,,G. Hill enters the game for E. Bledsoe,49,45
+2,3:20.0,J. Lamb makes free throw 3 of 3,,50,45
+2,2:55.0,,M. Brogdon makes 2-pt layup from 1 ft,50,47
+2,2:39.0,M. Kidd-Gilchrist misses 2-pt layup from 1 ft (block by B. Lopez),,50,47
+2,2:39.0,,Defensive rebound by B. Lopez,50,47
+2,2:32.0,,K. Middleton misses 2-pt layup from 2 ft,50,47
+2,2:29.0,Defensive rebound by J. Lamb,,50,47
+2,2:22.0,Personal foul by G. Antetokounmpo (drawn by J. Lamb),,50,47
+2,2:22.0,J. Lamb makes free throw 1 of 2,,51,47
+2,2:22.0,J. Lamb makes free throw 2 of 2,,52,47
+2,2:03.0,,Offensive foul by M. Brogdon (drawn by M. Kidd-Gilchrist),52,47
+2,2:03.0,,Turnover by M. Brogdon (offensive foul),52,47
+2,1:48.0,M. Williams makes 2-pt jump shot from 9 ft (assist by K. Walker),,54,47
+2,1:30.0,,M. Brogdon makes 2-pt layup from 2 ft (assist by B. Lopez),54,49
+2,1:19.0,Turnover by N. Batum (lost ball; steal by K. Middleton),,54,49
+2,1:15.0,,K. Middleton makes 2-pt dunk from 1 ft,54,51
+2,0:57.0,K. Walker misses 3-pt jump shot from 26 ft,,54,51
+2,0:55.0,,Defensive rebound by K. Middleton,54,51
+2,0:49.0,,G. Hill misses 2-pt layup from 2 ft (block by K. Walker),54,51
+2,0:49.0,,Offensive rebound by G. Hill,54,51
+2,0:48.0,,Turnover by G. Hill (lost ball; steal by M. Kidd-Gilchrist),54,51
+2,0:42.0,Turnover by M. Kidd-Gilchrist (out of bounds lost ball),,54,51
+2,0:42.0,,T. Snell enters the game for M. Brogdon,54,51
+2,0:35.0,,Shooting foul by M. Kidd-Gilchrist (drawn by G. Antetokounmpo),54,51
+2,0:35.0,,G. Antetokounmpo makes free throw 1 of 2,54,52
+2,0:35.0,M. Monk enters the game for M. Kidd-Gilchrist,,54,52
+2,0:35.0,,S. Brown enters the game for B. Lopez,54,52
+2,0:35.0,,G. Antetokounmpo misses free throw 2 of 2,54,52
+2,0:27.0,Defensive rebound by N. Batum,,54,52
+2,0:11.0,M. Monk misses 3-pt jump shot from 23 ft,,54,52
+2,0:08.0,,Defensive rebound by G. Antetokounmpo,54,52
+2,0:03.0,,T. Snell misses 3-pt jump shot from 28 ft,54,52
+2,0:02.0,,Offensive rebound by Team,54,52
+2,0:02.0,B. Biyombo enters the game for J. Lamb,,54,52
+2,0:02.0,M. Bridges enters the game for M. Monk,,54,52
+2,0:02.0,M. Kidd-Gilchrist enters the game for K. Walker,,54,52
+2,0:02.0,,B. Lopez enters the game for S. Brown,54,52
+2,0:02.0,,Turnover by B. Lopez (off goaltending),54,52
+3,11:47.0,Offensive foul by B. Biyombo (drawn by G. Antetokounmpo),,54,52
+3,11:47.0,Turnover by B. Biyombo (offensive foul),,54,52
+3,11:31.0,,G. Antetokounmpo misses 2-pt layup from 1 ft (block by K. Walker),54,52
+3,11:28.0,Defensive rebound by K. Walker,,54,52
+3,11:24.0,N. Batum makes 3-pt jump shot from 24 ft (assist by K. Walker),,57,52
+3,11:13.0,,B. Lopez makes 3-pt jump shot from 26 ft (assist by E. Bledsoe),57,55
+3,10:56.0,J. Lamb misses 2-pt jump shot from 14 ft,,57,55
+3,10:52.0,,Defensive rebound by G. Antetokounmpo,57,55
+3,10:50.0,,Shooting foul by B. Biyombo (drawn by G. Antetokounmpo),57,55
+3,10:50.0,,G. Antetokounmpo makes free throw 1 of 2,57,56
+3,10:50.0,,G. Antetokounmpo makes free throw 2 of 2,57,57
+3,10:38.0,J. Lamb makes 2-pt layup from 1 ft (assist by N. Batum),,59,57
+3,10:21.0,,E. Bledsoe misses 3-pt jump shot from 26 ft,59,57
+3,10:17.0,Defensive rebound by B. Biyombo,,59,57
+3,10:09.0,J. Lamb makes 2-pt jump shot from 12 ft,,61,57
+3,9:58.0,,M. Brogdon makes 2-pt layup from 2 ft,61,59
+3,9:46.0,N. Batum makes 3-pt jump shot from 28 ft,,64,59
+3,9:27.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by B. Lopez),64,61
+3,9:08.0,J. Lamb misses 3-pt jump shot from 26 ft,,64,61
+3,9:08.0,,Defensive rebound by G. Antetokounmpo,64,61
+3,9:01.0,,E. Bledsoe misses 3-pt jump shot from 24 ft,64,61
+3,9:01.0,Defensive rebound by B. Biyombo,,64,61
+3,8:51.0,N. Batum misses 3-pt jump shot from 27 ft,,64,61
+3,8:48.0,,Defensive rebound by G. Antetokounmpo,64,61
+3,8:38.0,,G. Antetokounmpo misses 3-pt jump shot from 26 ft,64,61
+3,8:35.0,Defensive rebound by B. Biyombo,,64,61
+3,8:26.0,Away from play foul by M. Brogdon (drawn by J. Lamb),,64,61
+3,8:26.0,K. Walker makes free throw 1 of 1,,65,61
+3,8:26.0,,S. Brown enters the game for M. Brogdon,65,61
+3,8:19.0,B. Biyombo makes 2-pt jump shot from 17 ft (assist by J. Lamb),,67,61
+3,8:01.0,,Turnover by K. Middleton (lost ball; steal by M. Williams),67,61
+3,7:53.0,J. Lamb misses 2-pt jump shot from 7 ft,,67,61
+3,7:53.0,,Defensive rebound by B. Lopez,67,61
+3,7:41.0,,G. Antetokounmpo makes 2-pt layup from 1 ft,67,63
+3,7:33.0,Personal foul by K. Middleton (drawn by N. Batum),,67,63
+3,7:24.0,M. Williams misses 3-pt jump shot from 31 ft,,67,63
+3,7:24.0,Offensive rebound by B. Biyombo,,67,63
+3,7:18.0,B. Biyombo makes 2-pt layup from 2 ft,,69,63
+3,6:59.0,,E. Bledsoe misses 3-pt jump shot from 23 ft,69,63
+3,6:55.0,Defensive rebound by J. Lamb,,69,63
+3,6:37.0,N. Batum makes 2-pt layup from 1 ft,,71,63
+3,6:20.0,,E. Bledsoe makes 2-pt layup from 1 ft (assist by G. Antetokounmpo),71,65
+3,6:03.0,K. Walker makes 3-pt jump shot from 27 ft (assist by M. Williams),,74,65
+3,6:01.0,,Milwaukee full timeout,74,65
+3,5:49.0,,K. Middleton misses 3-pt jump shot from 26 ft,74,65
+3,5:45.0,Defensive rebound by K. Walker,,74,65
+3,5:42.0,Turnover by K. Walker (lost ball; steal by E. Bledsoe),,74,65
+3,5:37.0,,E. Bledsoe makes 2-pt layup from 2 ft,74,67
+3,5:17.0,J. Lamb makes 3-pt jump shot from 23 ft (assist by K. Walker),,77,67
+3,5:07.0,,K. Middleton misses 2-pt layup from 1 ft,77,67
+3,5:03.0,Defensive rebound by B. Biyombo,,77,67
+3,5:00.0,N. Batum makes 2-pt layup from 1 ft,,79,67
+3,4:41.0,,B. Lopez makes 2-pt dunk at rim (assist by G. Antetokounmpo),79,69
+3,4:30.0,Offensive foul by B. Biyombo (drawn by K. Middleton),,79,69
+3,4:30.0,Turnover by B. Biyombo (offensive foul),,79,69
+3,4:30.0,M. Bridges enters the game for B. Biyombo,,79,69
+3,4:30.0,M. Kidd-Gilchrist enters the game for J. Lamb,,79,69
+3,4:30.0,,G. Hill enters the game for G. Antetokounmpo,79,69
+3,4:30.0,,D. Wilson enters the game for E. Bledsoe,79,69
+3,4:11.0,,S. Brown misses 3-pt jump shot from 27 ft,79,69
+3,4:06.0,Defensive rebound by K. Walker,,79,69
+3,4:01.0,M. Kidd-Gilchrist makes 2-pt layup from 3 ft (assist by N. Batum),,81,69
+3,4:01.0,Shooting foul by D. Wilson (drawn by M. Kidd-Gilchrist),,81,69
+3,4:01.0,,T. Snell enters the game for K. Middleton,81,69
+3,4:01.0,M. Kidd-Gilchrist misses free throw 1 of 1,,81,69
+3,3:56.0,,Defensive rebound by T. Snell,81,69
+3,3:42.0,,G. Hill misses 2-pt jump shot from 16 ft,81,69
+3,3:39.0,Defensive rebound by M. Williams,,81,69
+3,3:31.0,Turnover by K. Walker (bad pass; steal by T. Snell),,81,69
+3,3:27.0,,T. Snell makes 2-pt dunk from 1 ft,81,71
+3,3:19.0,Charlotte full timeout,,81,71
+3,3:19.0,M. Monk enters the game for N. Batum,,81,71
+3,3:19.0,,E. İlyasova enters the game for B. Lopez,81,71
+3,3:10.0,M. Williams makes 3-pt jump shot from 23 ft (assist by M. Monk),,84,71
+3,2:48.0,,G. Hill misses 3-pt jump shot from 26 ft,84,71
+3,2:45.0,Defensive rebound by M. Monk,,84,71
+3,2:31.0,Shooting foul by S. Brown (drawn by M. Kidd-Gilchrist),,84,71
+3,2:31.0,M. Kidd-Gilchrist misses free throw 1 of 2,,84,71
+3,2:31.0,Offensive rebound by Team,,84,71
+3,2:31.0,D. Graham enters the game for K. Walker,,84,71
+3,2:31.0,M. Kidd-Gilchrist makes free throw 2 of 2,,85,71
+3,2:19.0,,D. Wilson misses 3-pt jump shot from 24 ft,85,71
+3,2:15.0,Defensive rebound by M. Bridges,,85,71
+3,2:05.0,M. Bridges misses 2-pt jump shot from 12 ft,,85,71
+3,2:04.0,Offensive rebound by Team,,85,71
+3,1:52.0,D. Graham misses 3-pt jump shot from 28 ft,,85,71
+3,1:49.0,,Defensive rebound by E. İlyasova,85,71
+3,1:35.0,,S. Brown makes 2-pt layup from 8 ft,85,73
+3,1:35.0,,Shooting foul by M. Kidd-Gilchrist (drawn by S. Brown),85,73
+3,1:35.0,N. Batum enters the game for M. Williams,,85,73
+3,1:35.0,,G. Antetokounmpo enters the game for D. Wilson,85,73
+3,1:35.0,,S. Brown makes free throw 1 of 1,85,74
+3,1:15.0,Turnover by D. Graham (lost ball; steal by G. Antetokounmpo),,85,74
+3,1:11.0,,Turnover by G. Antetokounmpo (bad pass; steal by M. Bridges),85,74
+3,1:09.0,Offensive foul by M. Monk (drawn by E. İlyasova),,85,74
+3,1:09.0,Turnover by M. Monk (offensive foul),,85,74
+3,0:56.0,,Turnover by G. Antetokounmpo (back court),85,74
+3,0:56.0,J. Lamb enters the game for M. Monk,,85,74
+3,0:38.0,M. Kidd-Gilchrist makes 2-pt hook shot from 9 ft,,87,74
+3,0:30.0,,Shooting foul by M. Kidd-Gilchrist (drawn by S. Brown),87,74
+3,0:30.0,,S. Brown makes free throw 1 of 2,87,75
+3,0:30.0,M. Williams enters the game for M. Kidd-Gilchrist,,87,75
+3,0:30.0,,P. Connaughton enters the game for G. Hill,87,75
+3,0:30.0,,S. Brown makes free throw 2 of 2,87,76
+3,0:13.0,Turnover by M. Bridges (bad pass; steal by T. Snell),,87,76
+3,0:10.0,,Turnover by T. Snell (bad pass),87,76
+3,0:10.0,K. Walker enters the game for M. Bridges,,87,76
+3,0:01.0,J. Lamb misses 3-pt jump shot from 31 ft,,87,76
+3,0:00.0,,Defensive rebound by Team,87,76
+4,12:00.0,Violation by Team (delay of game),,87,76
+4,11:36.0,,G. Antetokounmpo misses 2-pt layup from 1 ft,87,76
+4,11:33.0,Defensive rebound by W. Hernangómez,,87,76
+4,11:19.0,M. Bridges misses 3-pt jump shot from 25 ft,,87,76
+4,11:14.0,Offensive rebound by M. Kidd-Gilchrist,,87,76
+4,11:13.0,M. Kidd-Gilchrist makes 2-pt layup from 1 ft,,89,76
+4,11:02.0,,Shooting foul by D. Graham (drawn by S. Brown),89,76
+4,11:02.0,,S. Brown makes free throw 1 of 2,89,77
+4,11:02.0,,S. Brown makes free throw 2 of 2,89,78
+4,10:52.0,Turnover by W. Hernangómez (lost ball; steal by G. Antetokounmpo),,89,78
+4,10:48.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by S. Brown),89,80
+4,10:48.0,Charlotte full timeout,,89,80
+4,10:48.0,N. Batum enters the game for W. Hernangómez,,89,80
+4,10:39.0,J. Lamb misses 2-pt layup from 4 ft (block by G. Antetokounmpo),,89,80
+4,10:38.0,Offensive rebound by M. Kidd-Gilchrist,,89,80
+4,10:28.0,J. Lamb misses 3-pt jump shot from 27 ft,,89,80
+4,10:26.0,,Defensive rebound by Team,89,80
+4,10:14.0,,M. Brogdon misses 2-pt layup from 1 ft,89,80
+4,10:11.0,Defensive rebound by M. Kidd-Gilchrist,,89,80
+4,10:04.0,M. Kidd-Gilchrist makes 2-pt layup from 1 ft (assist by M. Bridges),,91,80
+4,9:54.0,,Turnover by S. Brown (lost ball; steal by M. Kidd-Gilchrist),91,80
+4,9:46.0,M. Bridges misses 2-pt layup from 3 ft,,91,80
+4,9:45.0,Offensive rebound by M. Kidd-Gilchrist,,91,80
+4,9:45.0,Shooting foul by G. Antetokounmpo (drawn by M. Kidd-Gilchrist),,91,80
+4,9:45.0,M. Kidd-Gilchrist makes free throw 1 of 2,,92,80
+4,9:45.0,,E. Bledsoe enters the game for S. Brown,92,80
+4,9:45.0,M. Kidd-Gilchrist misses free throw 2 of 2,,92,80
+4,9:44.0,Offensive rebound by J. Lamb,,92,80
+4,9:44.0,Shooting foul by G. Antetokounmpo (drawn by J. Lamb),,92,80
+4,9:44.0,J. Lamb misses free throw 1 of 2,,92,80
+4,9:44.0,Offensive rebound by Team,,92,80
+4,9:44.0,J. Lamb misses free throw 2 of 2,,92,80
+4,9:41.0,,Defensive rebound by T. Snell,92,80
+4,9:36.0,,Milwaukee full timeout,92,80
+4,9:36.0,,K. Middleton enters the game for T. Snell,92,80
+4,9:28.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by K. Middleton),92,82
+4,9:08.0,D. Graham misses 2-pt jump shot from 10 ft (block by G. Antetokounmpo),,92,82
+4,9:05.0,,Defensive rebound by E. Bledsoe,92,82
+4,9:00.0,,P. Connaughton misses 3-pt jump shot from 27 ft,92,82
+4,8:57.0,,Offensive rebound by M. Brogdon,92,82
+4,8:56.0,,M. Brogdon misses 2-pt layup from 1 ft,92,82
+4,8:53.0,Defensive rebound by J. Lamb,,92,82
+4,8:33.0,M. Bridges misses 3-pt jump shot from 25 ft,,92,82
+4,8:30.0,,Defensive rebound by G. Antetokounmpo,92,82
+4,8:26.0,,Shooting foul by M. Kidd-Gilchrist (drawn by G. Antetokounmpo),92,82
+4,8:26.0,,G. Antetokounmpo makes free throw 1 of 2,92,83
+4,8:26.0,K. Walker enters the game for J. Lamb,,92,83
+4,8:26.0,,G. Antetokounmpo makes free throw 2 of 2,92,84
+4,8:13.0,K. Walker misses 3-pt jump shot from 27 ft,,92,84
+4,8:10.0,,Defensive rebound by G. Antetokounmpo,92,84
+4,8:02.0,,M. Brogdon makes 3-pt jump shot from 23 ft (assist by K. Middleton),92,87
+4,8:02.0,M. Williams enters the game for M. Bridges,,92,87
+4,7:36.0,N. Batum misses 3-pt jump shot from 26 ft,,92,87
+4,7:36.0,,Defensive rebound by Team,92,87
+4,7:26.0,,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by M. Brogdon),92,89
+4,7:01.0,K. Walker misses 2-pt jump shot from 12 ft,,92,89
+4,6:58.0,,Defensive rebound by M. Brogdon,92,89
+4,6:49.0,,M. Brogdon makes 2-pt layup from 2 ft,92,91
+4,6:49.0,Charlotte full timeout,,92,91
+4,6:49.0,B. Biyombo enters the game for D. Graham,,92,91
+4,6:49.0,J. Lamb enters the game for M. Kidd-Gilchrist,,92,91
+4,6:32.0,M. Williams makes 2-pt jump shot from 11 ft (assist by K. Walker),,94,91
+4,6:16.0,,E. Bledsoe misses 3-pt jump shot from 26 ft,94,91
+4,6:12.0,,Offensive rebound by G. Antetokounmpo,94,91
+4,6:08.0,,G. Antetokounmpo makes 2-pt layup from 2 ft,94,93
+4,5:40.0,J. Lamb misses 2-pt jump shot from 10 ft,,94,93
+4,5:37.0,,Defensive rebound by M. Brogdon,94,93
+4,5:34.0,,M. Brogdon makes 2-pt layup from 1 ft,94,95
+4,5:15.0,K. Walker misses 2-pt layup from 4 ft,,94,95
+4,5:09.0,Offensive rebound by K. Walker,,94,95
+4,5:09.0,K. Walker makes 2-pt layup at rim,,96,95
+4,4:58.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft,96,97
+4,4:30.0,J. Lamb misses 2-pt jump shot from 15 ft,,96,97
+4,4:27.0,,Defensive rebound by P. Connaughton,96,97
+4,4:24.0,,E. Bledsoe makes 2-pt layup from 1 ft,96,99
+4,3:59.0,K. Walker misses 2-pt layup from 5 ft,,96,99
+4,3:57.0,,Defensive rebound by G. Antetokounmpo,96,99
+4,3:53.0,,M. Brogdon misses 2-pt layup from 2 ft,96,99
+4,3:53.0,Defensive rebound by M. Williams,,96,99
+4,3:43.0,J. Lamb misses 2-pt layup from 2 ft,,96,99
+4,3:40.0,,Defensive rebound by P. Connaughton,96,99
+4,3:37.0,,Milwaukee full timeout,96,99
+4,3:37.0,M. Kidd-Gilchrist enters the game for B. Biyombo,,96,99
+4,3:21.0,,G. Antetokounmpo misses 2-pt layup from 1 ft,96,99
+4,3:20.0,,Offensive rebound by Team,96,99
+4,3:20.0,,Turnover by Team (shot clock),96,99
+4,3:10.0,K. Walker misses 3-pt jump shot from 26 ft,,96,99
+4,3:05.0,,Defensive rebound by G. Antetokounmpo,96,99
+4,2:50.0,,P. Connaughton misses 3-pt jump shot from 26 ft,96,99
+4,2:46.0,Defensive rebound by K. Walker,,96,99
+4,2:43.0,K. Walker misses 2-pt layup from 4 ft (block by E. Bledsoe),,96,99
+4,2:43.0,Offensive rebound by Team,,96,99
+4,2:39.0,N. Batum misses 3-pt jump shot from 24 ft,,96,99
+4,2:36.0,,Defensive rebound by K. Middleton,96,99
+4,2:25.0,,K. Middleton makes 3-pt jump shot from 27 ft,96,102
+4,2:10.0,M. Kidd-Gilchrist misses 2-pt layup from 3 ft (block by G. Antetokounmpo),,96,102
+4,2:06.0,,Defensive rebound by E. Bledsoe,96,102
+4,2:06.0,,Turnover by E. Bledsoe (out of bounds lost ball),96,102
+4,2:06.0,,Milwaukee full timeout,96,102
+4,2:06.0,D. Graham enters the game for K. Walker,,96,102
+4,1:59.0,N. Batum makes 2-pt jump shot from 12 ft (assist by D. Graham),,98,102
+4,1:50.0,,E. Bledsoe misses 2-pt jump shot from 11 ft,98,102
+4,1:47.0,Defensive rebound by M. Williams,,98,102
+4,1:31.0,M. Williams misses 3-pt jump shot from 22 ft,,98,102
+4,1:28.0,,Defensive rebound by K. Middleton,98,102
+4,1:16.0,,Personal foul by M. Kidd-Gilchrist (drawn by G. Antetokounmpo),98,102
+4,1:02.0,,E. Bledsoe makes 2-pt layup from 1 ft (assist by P. Connaughton),98,104
+4,0:46.0,N. Batum misses 3-pt jump shot from 27 ft,,98,104
+4,0:43.0,,Defensive rebound by M. Brogdon,98,104
+4,0:33.0,,G. Antetokounmpo makes 2-pt layup from 1 ft (assist by K. Middleton),98,106
+4,0:33.0,Charlotte full timeout,,98,106
+4,0:31.0,J. Lamb misses 3-pt jump shot from 28 ft,,98,106
+4,0:28.0,Offensive rebound by M. Williams,,98,106
+4,0:25.0,Shooting foul by G. Antetokounmpo (drawn by D. Graham),,98,106
+4,0:25.0,D. Graham misses free throw 1 of 3,,98,106
+4,0:25.0,Offensive rebound by Team,,98,106
+4,0:25.0,D. Graham makes free throw 2 of 3,,99,106
+4,0:25.0,M. Bridges enters the game for J. Lamb,,99,106
+4,0:25.0,,B. Lopez enters the game for P. Connaughton,99,106
+4,0:25.0,D. Graham misses free throw 3 of 3,,99,106
+4,0:23.0,,Defensive rebound by G. Antetokounmpo,99,106
+4,0:12.0,,Personal foul by D. Graham (drawn by M. Brogdon),99,106
+4,0:12.0,,M. Brogdon makes free throw 1 of 2,99,107
+4,0:12.0,J. Lamb enters the game for M. Bridges,,99,107
+4,0:12.0,,S. Brown enters the game for G. Antetokounmpo,99,107
+4,0:12.0,,T. Snell enters the game for E. Bledsoe,99,107
+4,0:12.0,,D. Wilson enters the game for K. Middleton,99,107
+4,0:12.0,,M. Brogdon makes free throw 2 of 2,99,108
+4,0:07.0,D. Graham misses 3-pt jump shot from 30 ft,,99,108
+4,0:02.0,,Defensive rebound by D. Wilson,99,108

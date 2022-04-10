@@ -1,0 +1,476 @@
+QUARTER,TIME_REMAINING,NEW ORLEANS_ACTION,OKLAHOMA CITY_ACTION,NEW ORLEANS_SCORE,OKLAHOMA CITY_SCORE
+1,11:43.0,W. Johnson misses 3-pt jump shot from 23 ft,,0,0
+1,11:35.0,,Defensive rebound by J. Grant,0,0
+1,11:28.0,,S. Adams makes 2-pt hook shot from 2 ft (assist by R. Westbrook),0,2
+1,11:17.0,N. Mirotić makes 3-pt jump shot from 26 ft (assist by A. Davis),,3,2
+1,10:53.0,,S. Adams makes 2-pt layup at rim (assist by R. Westbrook),3,4
+1,10:42.0,A. Davis misses 2-pt jump shot from 14 ft,,3,4
+1,10:41.0,,Defensive rebound by R. Westbrook,3,4
+1,10:36.0,,R. Westbrook makes 2-pt layup from 2 ft,3,6
+1,10:24.0,Personal foul by R. Westbrook (drawn by J. Holiday),,3,6
+1,10:16.0,J. Holiday misses 3-pt jump shot from 23 ft,,3,6
+1,10:14.0,Offensive rebound by Team,,3,6
+1,10:09.0,N. Mirotić misses 3-pt jump shot from 25 ft,,3,6
+1,10:04.0,Offensive rebound by N. Mirotić,,3,6
+1,10:03.0,Shooting foul by T. Ferguson (drawn by W. Johnson),,3,6
+1,10:03.0,W. Johnson makes free throw 1 of 2,,4,6
+1,10:03.0,W. Johnson makes free throw 2 of 2,,5,6
+1,9:51.0,,Personal foul by W. Johnson (drawn by P. George),5,6
+1,9:43.0,,S. Adams makes 2-pt dunk from 1 ft (assist by R. Westbrook),5,8
+1,9:33.0,A. Davis makes 2-pt layup from 1 ft (assist by J. Holiday),,7,8
+1,9:26.0,,Turnover by R. Westbrook (bad pass; steal by N. Mirotić),7,8
+1,9:14.0,N. Mirotić misses 2-pt layup from 1 ft,,7,8
+1,9:12.0,,Defensive rebound by P. George,7,8
+1,8:58.0,,J. Grant misses 2-pt jump shot from 2 ft,7,8
+1,8:56.0,Defensive rebound by N. Mirotić,,7,8
+1,8:51.0,Turnover by J. Holiday (bad pass; steal by P. George),,7,8
+1,8:47.0,,J. Grant makes 2-pt dunk from 1 ft (assist by P. George),7,10
+1,8:27.0,E. Moore makes 2-pt jump shot from 13 ft (assist by J. Holiday),,9,10
+1,8:14.0,,P. George makes 2-pt layup from 1 ft (assist by R. Westbrook),9,12
+1,8:02.0,A. Davis misses 2-pt jump shot from 22 ft,,9,12
+1,7:59.0,Offensive rebound by W. Johnson,,9,12
+1,7:55.0,N. Mirotić makes 2-pt jump shot from 12 ft,,11,12
+1,7:54.0,,Oklahoma City full timeout,11,12
+1,7:54.0,,Á. Abrines enters the game for T. Ferguson,11,12
+1,7:42.0,,J. Grant makes 2-pt hook shot from 4 ft (assist by R. Westbrook),11,14
+1,7:25.0,Turnover by N. Mirotić (bad pass; steal by P. George),,11,14
+1,7:21.0,,R. Westbrook makes 2-pt layup from 1 ft,11,16
+1,7:07.0,E. Moore makes 2-pt jump shot from 8 ft (assist by J. Holiday),,13,16
+1,6:52.0,,J. Grant makes 2-pt jump shot from 15 ft (assist by R. Westbrook),13,18
+1,6:45.0,W. Johnson misses 2-pt layup from 2 ft,,13,18
+1,6:22.0,Offensive rebound by N. Mirotić,,13,18
+1,6:20.0,Turnover by Team (shot clock),,13,18
+1,6:08.0,,P. George misses 3-pt jump shot from 25 ft,13,18
+1,6:05.0,Defensive rebound by J. Holiday,,13,18
+1,5:55.0,Shooting foul by J. Grant (drawn by J. Holiday),,13,18
+1,5:55.0,J. Holiday makes free throw 1 of 2,,14,18
+1,5:55.0,J. Randle enters the game for N. Mirotić,,14,18
+1,5:55.0,J. Holiday misses free throw 2 of 2,,14,18
+1,5:54.0,,Defensive rebound by R. Westbrook,14,18
+1,5:40.0,,R. Westbrook misses 2-pt layup from 1 ft,14,18
+1,5:38.0,Defensive rebound by J. Randle,,14,18
+1,5:29.0,A. Davis makes 2-pt layup from 1 ft (assist by J. Holiday),,16,18
+1,5:29.0,Shooting foul by Á. Abrines (drawn by A. Davis),,16,18
+1,5:29.0,A. Davis makes free throw 1 of 1,,17,18
+1,5:13.0,,J. Grant misses 3-pt jump shot from 23 ft,17,18
+1,5:09.0,,Offensive rebound by S. Adams,17,18
+1,5:06.0,,P. George makes 3-pt jump shot from 25 ft (assist by J. Grant),17,21
+1,4:53.0,A. Davis misses 2-pt jump shot from 4 ft,,17,21
+1,4:51.0,Offensive rebound by A. Davis,,17,21
+1,4:51.0,A. Davis misses 2-pt layup from 1 ft,,17,21
+1,4:51.0,,Defensive rebound by R. Westbrook,17,21
+1,4:47.0,,R. Westbrook makes 2-pt layup from 2 ft,17,23
+1,4:32.0,W. Johnson makes 3-pt jump shot from 23 ft (assist by E. Moore),,20,23
+1,4:07.0,,Shooting foul by A. Davis (drawn by J. Grant),20,23
+1,4:07.0,,J. Grant makes free throw 1 of 2,20,24
+1,4:07.0,,J. Grant makes free throw 2 of 2,20,25
+1,3:56.0,J. Holiday misses 3-pt jump shot from 26 ft,,20,25
+1,3:53.0,,Defensive rebound by S. Adams,20,25
+1,3:45.0,,R. Westbrook misses 2-pt jump shot from 8 ft,20,25
+1,3:40.0,Defensive rebound by J. Holiday,,20,25
+1,3:37.0,W. Johnson misses 3-pt jump shot from 23 ft,,20,25
+1,3:37.0,,Defensive rebound by Á. Abrines,20,25
+1,3:27.0,,P. George makes 3-pt jump shot from 24 ft,20,28
+1,3:10.0,Turnover by J. Holiday (lost ball; steal by S. Adams),,20,28
+1,3:06.0,,Shooting foul by W. Johnson (drawn by R. Westbrook),20,28
+1,3:06.0,,R. Westbrook misses free throw 1 of 2,20,28
+1,3:06.0,,Offensive rebound by Team,20,28
+1,3:06.0,,P. Patterson enters the game for J. Grant,20,28
+1,3:06.0,,R. Westbrook makes free throw 2 of 2,20,29
+1,3:04.0,New Orleans full timeout,,20,29
+1,3:04.0,I. Clark enters the game for E. Moore,,20,29
+1,3:04.0,,D. Schröder enters the game for R. Westbrook,20,29
+1,2:47.0,I. Clark misses 3-pt jump shot from 25 ft,,20,29
+1,2:44.0,Offensive rebound by A. Davis,,20,29
+1,2:43.0,A. Davis misses 2-pt layup from 2 ft,,20,29
+1,2:41.0,,Defensive rebound by S. Adams,20,29
+1,2:38.0,,Turnover by Á. Abrines (out of bounds lost ball),20,29
+1,2:23.0,J. Randle makes 2-pt dunk from 2 ft (assist by W. Johnson),,22,29
+1,2:08.0,,S. Adams makes 2-pt layup from 2 ft (assist by P. George),22,31
+1,1:49.0,I. Clark misses 2-pt jump shot from 9 ft,,22,31
+1,1:48.0,Offensive rebound by I. Clark,,22,31
+1,1:47.0,I. Clark misses 2-pt layup from 7 ft,,22,31
+1,1:47.0,Offensive rebound by J. Randle,,22,31
+1,1:32.0,A. Davis makes 2-pt layup from 2 ft (assist by J. Randle),,24,31
+1,1:18.0,,Á. Abrines makes 3-pt jump shot from 25 ft (assist by P. George),24,34
+1,1:02.0,J. Randle makes 2-pt layup from 2 ft (assist by J. Holiday),,26,34
+1,0:48.0,,D. Schröder makes 2-pt layup from 1 ft,26,36
+1,0:35.0,W. Johnson misses 3-pt jump shot from 23 ft,,26,36
+1,0:32.0,,Defensive rebound by P. Patterson,26,36
+1,0:32.0,C. Diallo enters the game for A. Davis,,26,36
+1,0:32.0,,N. Noel enters the game for S. Adams,26,36
+1,0:14.0,,P. George misses 2-pt jump shot from 15 ft,26,36
+1,0:11.0,Defensive rebound by C. Diallo,,26,36
+1,0:00.0,I. Clark makes 2-pt layup from 1 ft (assist by J. Holiday),,28,36
+2,11:51.0,,D. Schröder misses 2-pt layup from 1 ft,28,36
+2,11:49.0,Defensive rebound by J. Randle,,28,36
+2,11:44.0,I. Clark makes 3-pt jump shot from 23 ft (assist by D. Miller),,31,36
+2,11:25.0,,Personal foul by T. Frazier (drawn by N. Noel),31,36
+2,11:20.0,,D. Schröder misses 3-pt jump shot from 25 ft,31,36
+2,11:17.0,Defensive rebound by C. Diallo,,31,36
+2,11:12.0,Personal foul by P. Patterson (drawn by J. Randle),,31,36
+2,11:07.0,J. Randle makes 2-pt layup from 1 ft (assist by I. Clark),,33,36
+2,10:50.0,,P. Patterson makes 3-pt jump shot from 25 ft (assist by Á. Abrines),33,39
+2,10:30.0,I. Clark makes 2-pt jump shot from 7 ft,,35,39
+2,10:18.0,,D. Schröder makes 2-pt jump shot from 6 ft,35,41
+2,9:59.0,J. Randle makes 3-pt jump shot from 26 ft (assist by T. Frazier),,38,41
+2,9:40.0,,H. Diallo misses 2-pt layup from 2 ft,38,41
+2,9:39.0,,Offensive rebound by N. Noel,38,41
+2,9:37.0,,P. Patterson misses 2-pt jump shot from 13 ft,38,41
+2,9:33.0,Defensive rebound by J. Randle,,38,41
+2,9:21.0,D. Miller misses 3-pt jump shot from 25 ft,,38,41
+2,9:19.0,,Defensive rebound by N. Noel,38,41
+2,9:11.0,,P. Patterson makes 3-pt jump shot from 25 ft (assist by D. Schröder),38,44
+2,8:51.0,T. Frazier misses 2-pt layup from 4 ft,,38,44
+2,8:50.0,Offensive rebound by C. Diallo,,38,44
+2,8:50.0,Shooting foul by P. Patterson (drawn by C. Diallo),,38,44
+2,8:50.0,C. Diallo makes free throw 1 of 2,,39,44
+2,8:50.0,C. Diallo makes free throw 2 of 2,,40,44
+2,8:40.0,,Shooting foul by C. Diallo (drawn by N. Noel),40,44
+2,8:40.0,,N. Noel misses free throw 1 of 2,40,44
+2,8:40.0,,Offensive rebound by Team,40,44
+2,8:40.0,,R. Westbrook enters the game for Á. Abrines,40,44
+2,8:40.0,,N. Noel makes free throw 2 of 2,40,45
+2,8:31.0,D. Miller makes 3-pt jump shot from 25 ft (assist by T. Frazier),,43,45
+2,8:17.0,,Turnover by D. Schröder (bad pass; steal by C. Diallo),43,45
+2,8:01.0,Personal foul by D. Schröder (drawn by I. Clark),,43,45
+2,7:58.0,T. Frazier misses 3-pt jump shot from 26 ft,,43,45
+2,7:56.0,,Defensive rebound by P. Patterson,43,45
+2,7:49.0,,Shooting foul by T. Frazier (drawn by R. Westbrook),43,45
+2,7:49.0,,R. Westbrook makes free throw 1 of 2,43,46
+2,7:49.0,,R. Westbrook makes free throw 2 of 2,43,47
+2,7:35.0,Personal foul by H. Diallo (drawn by J. Randle),,43,47
+2,7:22.0,J. Randle makes 2-pt hook shot from 6 ft,,45,47
+2,7:04.0,,Personal foul by I. Clark (drawn by R. Westbrook),45,47
+2,7:00.0,,R. Westbrook misses 2-pt layup from 2 ft (block by C. Diallo),45,47
+2,6:57.0,Defensive rebound by J. Randle,,45,47
+2,6:48.0,I. Clark misses 2-pt layup at rim (block by N. Noel),,45,47
+2,6:46.0,Offensive rebound by D. Miller,,45,47
+2,6:42.0,Offensive foul by J. Randle (drawn by R. Westbrook),,45,47
+2,6:42.0,Turnover by J. Randle (offensive foul),,45,47
+2,6:42.0,,Oklahoma City full timeout,45,47
+2,6:42.0,A. Davis enters the game for C. Diallo,,45,47
+2,6:42.0,J. Holiday enters the game for T. Frazier,,45,47
+2,6:42.0,N. Mirotić enters the game for J. Randle,,45,47
+2,6:42.0,,S. Adams enters the game for H. Diallo,45,47
+2,6:42.0,,P. George enters the game for N. Noel,45,47
+2,6:42.0,,J. Grant enters the game for P. Patterson,45,47
+2,6:22.0,,D. Schröder makes 2-pt layup at rim (assist by P. George),45,49
+2,6:07.0,A. Davis makes 2-pt layup from 2 ft (assist by J. Holiday),,47,49
+2,5:53.0,,J. Grant misses 2-pt layup from 2 ft,47,49
+2,5:53.0,,Offensive rebound by Team,47,49
+2,5:50.0,,P. George misses 3-pt jump shot from 25 ft,47,49
+2,5:46.0,Defensive rebound by N. Mirotić,,47,49
+2,5:27.0,N. Mirotić misses 2-pt jump shot from 19 ft,,47,49
+2,5:21.0,Offensive rebound by A. Davis,,47,49
+2,5:15.0,I. Clark misses 2-pt jump shot from 12 ft,,47,49
+2,5:12.0,,Defensive rebound by S. Adams,47,49
+2,5:11.0,,Personal foul by D. Miller (drawn by R. Westbrook),47,49
+2,5:11.0,,R. Westbrook misses free throw 1 of 2,47,49
+2,5:11.0,,Offensive rebound by Team,47,49
+2,5:11.0,,R. Westbrook makes free throw 2 of 2,47,50
+2,4:58.0,I. Clark misses 2-pt jump shot from 6 ft,,47,50
+2,4:57.0,Offensive rebound by Team,,47,50
+2,4:57.0,E. Moore enters the game for I. Clark,,47,50
+2,4:57.0,,Á. Abrines enters the game for D. Schröder,47,50
+2,4:50.0,D. Miller makes 3-pt jump shot from 25 ft (assist by J. Holiday),,50,50
+2,4:34.0,,P. George misses 3-pt jump shot from 26 ft,50,50
+2,4:32.0,Defensive rebound by N. Mirotić,,50,50
+2,4:25.0,Turnover by A. Davis (lost ball; steal by J. Grant),,50,50
+2,4:13.0,,R. Westbrook misses 2-pt jump shot from 15 ft,50,50
+2,4:10.0,Defensive rebound by E. Moore,,50,50
+2,4:02.0,J. Holiday makes 2-pt layup from 1 ft,,52,50
+2,3:50.0,,R. Westbrook misses 2-pt layup from 2 ft,52,50
+2,3:49.0,,Offensive rebound by S. Adams,52,50
+2,3:48.0,,S. Adams makes 2-pt layup at rim,52,52
+2,3:40.0,Turnover by E. Moore (bad pass; steal by P. George),,52,52
+2,3:37.0,,R. Westbrook makes 2-pt dunk at rim (assist by P. George),52,54
+2,3:21.0,New Orleans full timeout,,52,54
+2,3:21.0,I. Clark enters the game for E. Moore,,52,54
+2,3:11.0,D. Miller makes 3-pt jump shot from 26 ft (assist by J. Holiday),,55,54
+2,3:01.0,,R. Westbrook misses 2-pt jump shot from 15 ft,55,54
+2,2:59.0,Defensive rebound by A. Davis,,55,54
+2,2:53.0,J. Holiday makes 2-pt layup at rim,,57,54
+2,2:32.0,,R. Westbrook misses 3-pt jump shot from 24 ft,57,54
+2,2:31.0,Defensive rebound by N. Mirotić,,57,54
+2,2:11.0,A. Davis misses 2-pt jump shot from 4 ft,,57,54
+2,2:07.0,,Defensive rebound by S. Adams,57,54
+2,2:02.0,,R. Westbrook misses 2-pt layup from 2 ft,57,54
+2,2:00.0,Defensive rebound by N. Mirotić,,57,54
+2,1:47.0,N. Mirotić makes 2-pt jump shot from 17 ft (assist by I. Clark),,59,54
+2,1:36.0,,Personal foul by J. Holiday (drawn by P. George),59,54
+2,1:36.0,,P. George makes free throw 1 of 2,59,55
+2,1:36.0,,P. George makes free throw 2 of 2,59,56
+2,1:26.0,I. Clark misses 3-pt jump shot from 23 ft,,59,56
+2,1:24.0,Offensive rebound by A. Davis,,59,56
+2,1:24.0,A. Davis misses 2-pt dunk from 1 ft,,59,56
+2,1:23.0,,Defensive rebound by R. Westbrook,59,56
+2,1:18.0,,R. Westbrook makes 2-pt layup from 1 ft,59,58
+2,1:12.0,Personal foul by J. Grant (drawn by A. Davis),,59,58
+2,1:12.0,A. Davis makes free throw 1 of 2,,60,58
+2,1:12.0,A. Davis makes free throw 2 of 2,,61,58
+2,1:03.0,,J. Grant misses 3-pt jump shot from 24 ft,61,58
+2,1:00.0,,Offensive rebound by S. Adams,61,58
+2,0:58.0,,Oklahoma City full timeout,61,58
+2,0:56.0,,R. Westbrook makes 2-pt dunk from 1 ft (assist by S. Adams),61,60
+2,0:41.0,Turnover by A. Davis (lost ball; steal by R. Westbrook),,61,60
+2,0:38.0,,Turnover by R. Westbrook (bad pass; steal by I. Clark),61,60
+2,0:35.0,N. Mirotić misses 3-pt jump shot from 24 ft,,61,60
+2,0:33.0,,Defensive rebound by Á. Abrines,61,60
+2,0:29.0,,Turnover by R. Westbrook (out of bounds lost ball),61,60
+2,0:09.0,J. Holiday makes 2-pt jump shot from 13 ft,,63,60
+2,0:01.0,,Personal foul by A. Davis (drawn by P. George),63,60
+2,0:01.0,,P. George makes free throw 1 of 2,63,61
+2,0:01.0,C. Diallo enters the game for A. Davis,,63,61
+2,0:01.0,,P. George makes free throw 2 of 2,63,62
+3,11:50.0,,Turnover by R. Westbrook (bad pass; steal by N. Mirotić),63,62
+3,11:28.0,E. Moore misses 3-pt jump shot from 25 ft,,63,62
+3,11:23.0,,Defensive rebound by S. Adams,63,62
+3,11:21.0,,P. George misses 3-pt jump shot from 22 ft,63,62
+3,11:18.0,Defensive rebound by N. Mirotić,,63,62
+3,11:10.0,Turnover by W. Johnson (out of bounds lost ball),,63,62
+3,10:57.0,,J. Grant makes 2-pt layup from 1 ft (assist by P. George),63,64
+3,10:41.0,J. Holiday makes 2-pt layup at rim (assist by E. Moore),,65,64
+3,10:18.0,,S. Adams makes 2-pt jump shot from 2 ft,65,66
+3,10:04.0,A. Davis misses 2-pt jump shot from 20 ft,,65,66
+3,10:01.0,,Defensive rebound by R. Westbrook,65,66
+3,9:55.0,,S. Adams makes 2-pt layup from 1 ft (assist by R. Westbrook),65,68
+3,9:40.0,N. Mirotić makes 2-pt jump shot from 15 ft (assist by E. Moore),,67,68
+3,9:36.0,,Turnover by R. Westbrook (bad pass),67,68
+3,9:24.0,J. Holiday makes 2-pt layup from 1 ft,,69,68
+3,9:15.0,,S. Adams misses 2-pt jump shot from 6 ft,69,68
+3,9:13.0,Defensive rebound by N. Mirotić,,69,68
+3,9:02.0,Shooting foul by R. Westbrook (drawn by N. Mirotić),,69,68
+3,9:02.0,N. Mirotić makes free throw 1 of 2,,70,68
+3,9:02.0,,Oklahoma City full timeout,70,68
+3,9:02.0,N. Mirotić makes free throw 2 of 2,,71,68
+3,8:53.0,,P. George misses 3-pt jump shot from 26 ft,71,68
+3,8:49.0,,Offensive rebound by J. Grant,71,68
+3,8:48.0,,J. Grant makes 2-pt layup from 1 ft,71,70
+3,8:34.0,Turnover by E. Moore (lost ball; steal by T. Ferguson),,71,70
+3,8:30.0,,Turnover by R. Westbrook (bad pass; steal by W. Johnson),71,70
+3,8:22.0,A. Davis makes 2-pt jump shot from 8 ft (assist by E. Moore),,73,70
+3,8:03.0,,Shooting foul by E. Moore (drawn by R. Westbrook),73,70
+3,8:03.0,,R. Westbrook misses free throw 1 of 2,73,70
+3,8:03.0,,Offensive rebound by Team,73,70
+3,8:03.0,,R. Westbrook makes free throw 2 of 2,73,71
+3,7:52.0,N. Mirotić misses 3-pt jump shot from 25 ft,,73,71
+3,7:49.0,,Defensive rebound by R. Westbrook,73,71
+3,7:45.0,,T. Ferguson misses 3-pt jump shot from 25 ft,73,71
+3,7:42.0,Defensive rebound by Team,,73,71
+3,7:42.0,,Loose ball foul by S. Adams (drawn by A. Davis),73,71
+3,7:18.0,A. Davis misses 3-pt jump shot from 23 ft,,73,71
+3,7:15.0,,Defensive rebound by R. Westbrook,73,71
+3,7:10.0,,R. Westbrook misses 2-pt layup from 3 ft,73,71
+3,7:09.0,,Offensive rebound by P. George,73,71
+3,7:06.0,,T. Ferguson makes 3-pt jump shot from 24 ft (assist by P. George),73,74
+3,6:55.0,Personal foul by R. Westbrook (drawn by A. Davis),,73,74
+3,6:47.0,Turnover by E. Moore (bad pass; steal by P. George),,73,74
+3,6:43.0,,T. Ferguson makes 2-pt dunk from 1 ft (assist by R. Westbrook),73,76
+3,6:31.0,J. Holiday makes 2-pt jump shot from 17 ft,,75,76
+3,6:16.0,,R. Westbrook misses 3-pt jump shot from 26 ft,75,76
+3,6:16.0,Defensive rebound by A. Davis,,75,76
+3,6:08.0,Turnover by J. Holiday (traveling),,75,76
+3,6:08.0,I. Clark enters the game for E. Moore,,75,76
+3,5:56.0,,P. George makes 3-pt jump shot from 26 ft (assist by R. Westbrook),75,79
+3,5:54.0,New Orleans full timeout,,75,79
+3,5:38.0,W. Johnson misses 3-pt jump shot from 23 ft,,75,79
+3,5:35.0,,Defensive rebound by J. Grant,75,79
+3,5:22.0,,S. Adams makes 2-pt jump shot from 7 ft,75,81
+3,5:08.0,Turnover by J. Holiday (bad pass; steal by J. Grant),,75,81
+3,5:01.0,,Personal foul by W. Johnson (drawn by S. Adams),75,81
+3,5:01.0,D. Miller enters the game for W. Johnson,,75,81
+3,5:01.0,J. Randle enters the game for N. Mirotić,,75,81
+3,4:55.0,,P. George misses 2-pt jump shot from 16 ft,75,81
+3,4:52.0,Defensive rebound by J. Randle,,75,81
+3,4:44.0,Turnover by D. Miller (bad pass; steal by T. Ferguson),,75,81
+3,4:38.0,,P. George makes 2-pt jump shot from 2 ft,75,83
+3,4:38.0,,Shooting foul by D. Miller (drawn by P. George),75,83
+3,4:38.0,,P. George makes free throw 1 of 1,75,84
+3,4:31.0,A. Davis makes 2-pt jump shot from 7 ft (assist by I. Clark),,77,84
+3,4:25.0,,Oklahoma City full timeout,77,84
+3,4:25.0,,D. Schröder enters the game for R. Westbrook,77,84
+3,4:12.0,,S. Adams misses 2-pt layup from 5 ft (block by J. Randle),77,84
+3,4:10.0,,Offensive rebound by Team,77,84
+3,4:05.0,,P. George misses 3-pt jump shot from 26 ft,77,84
+3,4:03.0,Defensive rebound by J. Randle,,77,84
+3,3:42.0,A. Davis makes 2-pt dunk at rim (assist by J. Holiday),,79,84
+3,3:29.0,,Personal foul by J. Holiday (drawn by P. George),79,84
+3,3:20.0,,J. Grant misses 3-pt jump shot from 22 ft,79,84
+3,3:17.0,Defensive rebound by J. Holiday,,79,84
+3,3:12.0,J. Holiday makes 3-pt jump shot from 25 ft,,82,84
+3,2:59.0,,D. Schröder misses 2-pt layup from 2 ft,82,84
+3,2:58.0,,Offensive rebound by P. George,82,84
+3,2:55.0,,Turnover by P. George (lost ball; steal by I. Clark),82,84
+3,2:45.0,Personal foul by T. Ferguson (drawn by J. Randle),,82,84
+3,2:45.0,T. Frazier enters the game for J. Holiday,,82,84
+3,2:45.0,,Á. Abrines enters the game for T. Ferguson,82,84
+3,2:45.0,,H. Diallo enters the game for P. George,82,84
+3,2:45.0,,P. Patterson enters the game for J. Grant,82,84
+3,2:39.0,A. Davis misses 2-pt jump shot from 19 ft,,82,84
+3,2:37.0,,Defensive rebound by D. Schröder,82,84
+3,2:30.0,,P. Patterson makes 3-pt jump shot from 26 ft (assist by Á. Abrines),82,87
+3,2:09.0,J. Randle makes 2-pt hook shot from 6 ft,,84,87
+3,1:51.0,,Á. Abrines makes 2-pt jump shot from 3 ft (assist by P. Patterson),84,89
+3,1:42.0,Offensive foul by D. Miller (drawn by H. Diallo),,84,89
+3,1:42.0,Turnover by D. Miller (offensive foul),,84,89
+3,1:25.0,,D. Schröder makes 2-pt jump shot from 12 ft,84,91
+3,1:12.0,Turnover by I. Clark (lost ball; steal by H. Diallo),,84,91
+3,1:09.0,,H. Diallo makes 2-pt dunk from 1 ft,84,93
+3,1:07.0,,Violation by Team (delay of game),84,93
+3,0:56.0,Turnover by A. Davis (lost ball; steal by H. Diallo),,84,93
+3,0:54.0,,H. Diallo makes 2-pt dunk from 1 ft,84,95
+3,0:54.0,,Shooting foul by I. Clark (drawn by H. Diallo),84,95
+3,0:54.0,,H. Diallo misses free throw 1 of 1,84,95
+3,0:54.0,,Offensive rebound by Team,84,95
+3,0:54.0,,Personal foul by D. Miller (drawn by S. Adams),84,95
+3,0:54.0,,S. Adams misses free throw 1 of 2,84,95
+3,0:54.0,,Offensive rebound by Team,84,95
+3,0:54.0,,S. Adams misses free throw 2 of 2,84,95
+3,0:53.0,Defensive rebound by A. Davis,,84,95
+3,0:42.0,Turnover by A. Davis (traveling),,84,95
+3,0:35.0,,D. Schröder makes 2-pt layup from 1 ft,84,97
+3,0:35.0,,Shooting foul by T. Frazier (drawn by D. Schröder),84,97
+3,0:35.0,,D. Schröder makes free throw 1 of 1,84,98
+3,0:25.0,Personal foul by H. Diallo (drawn by J. Randle),,84,98
+3,0:25.0,J. Randle makes free throw 1 of 2,,85,98
+3,0:25.0,J. Randle makes free throw 2 of 2,,86,98
+3,0:06.0,,S. Adams makes 2-pt layup from 1 ft (assist by D. Schröder),86,100
+3,0:00.0,T. Frazier misses 2-pt jump shot from 13 ft (block by S. Adams),,86,100
+3,0:00.0,Offensive rebound by Team,,86,100
+4,11:41.0,J. Holiday misses 3-pt jump shot from 25 ft,,86,100
+4,11:38.0,,Defensive rebound by D. Schröder,86,100
+4,11:22.0,,Turnover by D. Schröder (bad pass; steal by C. Diallo),86,100
+4,11:14.0,J. Holiday makes 2-pt layup from 1 ft,,88,100
+4,11:06.0,,D. Schröder misses 2-pt jump shot from 12 ft,88,100
+4,11:05.0,,Offensive rebound by N. Noel,88,100
+4,11:05.0,,N. Noel misses 2-pt layup from 2 ft,88,100
+4,11:05.0,Defensive rebound by Team,,88,100
+4,10:39.0,N. Mirotić makes 2-pt hook shot from 6 ft,,90,100
+4,10:17.0,,H. Diallo misses 3-pt jump shot from 26 ft,90,100
+4,10:14.0,,Offensive rebound by N. Noel,90,100
+4,10:13.0,,Á. Abrines misses 3-pt jump shot from 28 ft,90,100
+4,10:10.0,Defensive rebound by J. Randle,,90,100
+4,9:49.0,Turnover by J. Holiday (bad pass; steal by N. Noel),,90,100
+4,9:47.0,,Personal foul by J. Holiday (drawn by H. Diallo),90,100
+4,9:39.0,,D. Schröder misses 3-pt jump shot from 26 ft,90,100
+4,9:35.0,Defensive rebound by N. Mirotić,,90,100
+4,9:29.0,J. Randle makes 2-pt jump shot from 6 ft,,92,100
+4,9:15.0,,Shooting foul by N. Mirotić (drawn by Á. Abrines),92,100
+4,9:15.0,,Á. Abrines makes free throw 1 of 2,92,101
+4,9:15.0,,P. George enters the game for H. Diallo,92,101
+4,9:15.0,,Á. Abrines makes free throw 2 of 2,92,102
+4,9:09.0,Shooting foul by P. Patterson (drawn by J. Randle),,92,102
+4,9:09.0,J. Randle makes free throw 1 of 2,,93,102
+4,9:09.0,,R. Felton enters the game for D. Schröder,93,102
+4,9:09.0,J. Randle makes free throw 2 of 2,,94,102
+4,8:56.0,,P. George makes 3-pt jump shot from 25 ft (assist by N. Noel),94,105
+4,8:32.0,I. Clark makes 2-pt jump shot from 7 ft (assist by J. Holiday),,96,105
+4,8:17.0,,R. Felton makes 2-pt jump shot from 21 ft,96,107
+4,8:05.0,C. Diallo makes 2-pt layup from 2 ft (assist by J. Holiday),,98,107
+4,7:51.0,,N. Noel misses 2-pt jump shot from 3 ft (block by J. Randle),98,107
+4,7:48.0,Defensive rebound by C. Diallo,,98,107
+4,7:42.0,I. Clark misses 3-pt jump shot from 23 ft,,98,107
+4,7:36.0,,Defensive rebound by N. Noel,98,107
+4,7:30.0,,Shooting foul by J. Holiday (drawn by P. Patterson),98,107
+4,7:30.0,,P. Patterson misses free throw 1 of 2,98,107
+4,7:30.0,,Offensive rebound by Team,98,107
+4,7:30.0,A. Davis enters the game for C. Diallo,,98,107
+4,7:30.0,,P. Patterson makes free throw 2 of 2,98,108
+4,7:19.0,J. Randle makes 2-pt dunk from 1 ft (assist by J. Holiday),,100,108
+4,7:02.0,,R. Felton misses 3-pt jump shot from 26 ft,100,108
+4,6:59.0,Defensive rebound by N. Mirotić,,100,108
+4,6:49.0,Turnover by J. Holiday (lost ball; steal by R. Felton),,100,108
+4,6:33.0,,R. Felton misses 2-pt jump shot from 17 ft,100,108
+4,6:30.0,Defensive rebound by N. Mirotić,,100,108
+4,6:26.0,Shooting foul by R. Felton (drawn by N. Mirotić),,100,108
+4,6:26.0,,Oklahoma City full timeout,100,108
+4,6:26.0,,S. Adams enters the game for N. Noel,100,108
+4,6:26.0,,J. Grant enters the game for P. Patterson,100,108
+4,6:26.0,N. Mirotić makes free throw 1 of 2,,101,108
+4,6:26.0,N. Mirotić makes free throw 2 of 2,,102,108
+4,6:11.0,,P. George misses 2-pt layup from 1 ft,102,108
+4,6:11.0,,Offensive rebound by Team,102,108
+4,6:11.0,Loose ball foul by J. Randle (drawn by S. Adams),,102,108
+4,6:11.0,,D. Schröder enters the game for R. Felton,102,108
+4,6:03.0,,J. Grant misses 2-pt jump shot from 6 ft,102,108
+4,6:00.0,Defensive rebound by A. Davis,,102,108
+4,5:53.0,Personal foul by J. Grant (drawn by J. Randle),,102,108
+4,5:40.0,N. Mirotić misses 2-pt layup from 5 ft (block by J. Grant),,102,108
+4,5:37.0,,Defensive rebound by Á. Abrines,102,108
+4,5:31.0,,D. Schröder makes 2-pt layup from 2 ft (assist by Á. Abrines),102,110
+4,5:31.0,Violation by Team (def goaltending),,102,110
+4,5:20.0,N. Mirotić misses 3-pt jump shot from 26 ft,,102,110
+4,5:18.0,,Defensive rebound by J. Grant,102,110
+4,5:12.0,,D. Schröder makes 2-pt jump shot from 2 ft,102,112
+4,5:11.0,New Orleans full timeout,,102,112
+4,5:04.0,Shooting foul by J. Grant (drawn by A. Davis),,102,112
+4,5:04.0,A. Davis makes free throw 1 of 2,,103,112
+4,5:04.0,A. Davis makes free throw 2 of 2,,104,112
+4,4:52.0,,D. Schröder misses 2-pt jump shot from 15 ft,104,112
+4,4:48.0,Defensive rebound by I. Clark,,104,112
+4,4:34.0,A. Davis misses 2-pt jump shot from 12 ft,,104,112
+4,4:31.0,,Defensive rebound by D. Schröder,104,112
+4,4:21.0,,D. Schröder makes 3-pt jump shot from 26 ft (assist by P. George),104,115
+4,4:03.0,A. Davis misses 2-pt jump shot from 21 ft,,104,115
+4,4:01.0,,Defensive rebound by P. George,104,115
+4,3:49.0,,J. Grant misses 2-pt jump shot from 14 ft,104,115
+4,3:47.0,Defensive rebound by N. Mirotić,,104,115
+4,3:43.0,New Orleans full timeout,,104,115
+4,3:38.0,Personal foul by P. George (drawn by J. Holiday),,104,115
+4,3:38.0,J. Holiday makes free throw 1 of 2,,105,115
+4,3:38.0,J. Holiday misses free throw 2 of 2,,105,115
+4,3:36.0,,Defensive rebound by P. George,105,115
+4,3:24.0,,P. George misses 2-pt jump shot from 15 ft (block by J. Holiday),105,115
+4,3:24.0,,Offensive rebound by Team,105,115
+4,3:24.0,,Loose ball foul by S. Adams (drawn by A. Davis),105,115
+4,3:24.0,,Turnover by S. Adams (turnover),105,115
+4,3:24.0,A. Davis makes free throw 1 of 2,,106,115
+4,3:24.0,A. Davis misses free throw 2 of 2,,106,115
+4,3:22.0,,Defensive rebound by J. Grant,106,115
+4,3:06.0,,S. Adams misses 2-pt hook shot from 6 ft,106,115
+4,3:04.0,Defensive rebound by N. Mirotić,,106,115
+4,2:56.0,Personal foul by D. Schröder (drawn by N. Mirotić),,106,115
+4,2:56.0,N. Mirotić misses free throw 1 of 2,,106,115
+4,2:56.0,Offensive rebound by Team,,106,115
+4,2:56.0,N. Mirotić makes free throw 2 of 2,,107,115
+4,2:44.0,,D. Schröder makes 2-pt jump shot from 9 ft,107,117
+4,2:30.0,A. Davis misses 2-pt jump shot from 8 ft,,107,117
+4,2:27.0,,Defensive rebound by J. Grant,107,117
+4,2:12.0,,D. Schröder misses 2-pt jump shot from 16 ft,107,117
+4,2:09.0,Defensive rebound by N. Mirotić,,107,117
+4,1:58.0,J. Holiday misses 3-pt jump shot from 25 ft,,107,117
+4,1:56.0,,Defensive rebound by Á. Abrines,107,117
+4,1:36.0,,Á. Abrines misses 2-pt jump shot from 7 ft (block by A. Davis),107,117
+4,1:34.0,Defensive rebound by J. Holiday,,107,117
+4,1:32.0,Personal foul by D. Schröder (drawn by I. Clark),,107,117
+4,1:32.0,I. Clark misses free throw 1 of 2,,107,117
+4,1:32.0,Offensive rebound by Team,,107,117
+4,1:32.0,I. Clark makes free throw 2 of 2,,108,117
+4,1:10.0,,Turnover by S. Adams (lost ball; steal by J. Randle),108,117
+4,1:04.0,J. Randle makes 2-pt layup at rim,,110,117
+4,0:45.0,,P. George misses 2-pt jump shot from 21 ft,110,117
+4,0:43.0,Defensive rebound by N. Mirotić,,110,117
+4,0:43.0,New Orleans full timeout,,110,117
+4,0:43.0,,T. Ferguson enters the game for Á. Abrines,110,117
+4,0:35.0,Shooting foul by D. Schröder (drawn by J. Holiday),,110,117
+4,0:35.0,J. Holiday makes free throw 1 of 3,,111,117
+4,0:35.0,J. Holiday makes free throw 2 of 3,,112,117
+4,0:35.0,,Á. Abrines enters the game for T. Ferguson,112,117
+4,0:35.0,J. Holiday makes free throw 3 of 3,,113,117
+4,0:32.0,,Personal foul by N. Mirotić (drawn by J. Grant),113,117
+4,0:32.0,,J. Grant misses free throw 1 of 2,113,117
+4,0:32.0,,Offensive rebound by Team,113,117
+4,0:32.0,,T. Ferguson enters the game for Á. Abrines,113,117
+4,0:32.0,,J. Grant makes free throw 2 of 2,113,118
+4,0:23.0,J. Randle makes 3-pt jump shot from 23 ft (assist by J. Holiday),,116,118
+4,0:20.0,,Personal foul by J. Randle (drawn by D. Schröder),116,118
+4,0:20.0,,D. Schröder makes free throw 1 of 2,116,119
+4,0:20.0,,D. Schröder makes free throw 2 of 2,116,120
+4,0:14.0,J. Holiday misses 3-pt jump shot from 25 ft,,116,120
+4,0:11.0,,Defensive rebound by P. George,116,120
+4,0:11.0,,Personal take foul by N. Mirotić (drawn by P. George),116,120
+4,0:11.0,,P. George makes free throw 1 of 2,116,121
+4,0:11.0,,P. George makes free throw 2 of 2,116,122
+4,0:11.0,New Orleans full timeout,,116,122
+4,0:10.0,Turnover by A. Davis (bad pass; steal by D. Schröder),,116,122

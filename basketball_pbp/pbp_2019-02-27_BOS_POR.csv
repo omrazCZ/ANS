@@ -1,0 +1,430 @@
+QUARTER,TIME_REMAINING,PORTLAND_ACTION,BOSTON_ACTION,PORTLAND_SCORE,BOSTON_SCORE
+1,11:38.0,D. Lillard misses 2-pt jump shot from 15 ft,,0,0
+1,11:36.0,,Defensive rebound by M. Smart,0,0
+1,11:29.0,,K. Irving makes 2-pt jump shot from 12 ft,0,2
+1,11:17.0,D. Lillard makes 3-pt jump shot from 27 ft,,3,2
+1,10:55.0,,K. Irving makes 2-pt jump shot from 4 ft,3,4
+1,10:40.0,C. McCollum misses 2-pt jump shot from 18 ft,,3,4
+1,10:38.0,Offensive rebound by A. Aminu,,3,4
+1,10:36.0,C. McCollum misses 3-pt jump shot from 26 ft,,3,4
+1,10:34.0,,Defensive rebound by M. Morris,3,4
+1,10:22.0,,Turnover by M. Morris (lost ball; steal by A. Aminu),3,4
+1,10:10.0,C. McCollum makes 2-pt jump shot from 18 ft,,5,4
+1,9:51.0,,J. Tatum misses 2-pt jump shot from 17 ft,5,4
+1,9:49.0,Defensive rebound by J. Nurkić,,5,4
+1,9:35.0,J. Nurkić misses 2-pt hook shot from 7 ft,,5,4
+1,9:33.0,,Defensive rebound by A. Horford,5,4
+1,9:27.0,,Turnover by A. Horford (lost ball; steal by M. Harkless),5,4
+1,9:23.0,M. Harkless makes 2-pt dunk from 1 ft,,7,4
+1,9:02.0,,K. Irving misses 2-pt jump shot from 9 ft,7,4
+1,9:00.0,Defensive rebound by J. Nurkić,,7,4
+1,8:53.0,Personal foul by M. Smart (drawn by A. Aminu),,7,4
+1,8:43.0,J. Nurkić misses 2-pt layup from 2 ft (block by K. Irving),,7,4
+1,8:40.0,,Defensive rebound by J. Tatum,7,4
+1,8:28.0,,J. Tatum makes 2-pt layup from 1 ft (assist by M. Smart),7,6
+1,8:11.0,A. Aminu misses 2-pt jump shot from 8 ft,,7,6
+1,8:09.0,,Defensive rebound by K. Irving,7,6
+1,8:04.0,,M. Morris misses 3-pt jump shot from 26 ft,7,6
+1,8:02.0,Defensive rebound by A. Aminu,,7,6
+1,7:53.0,D. Lillard makes 2-pt layup from 2 ft,,9,6
+1,7:34.0,,Turnover by J. Tatum (lost ball; steal by M. Harkless),9,6
+1,7:30.0,Shooting foul by M. Smart (drawn by A. Aminu),,9,6
+1,7:30.0,A. Aminu misses free throw 1 of 2,,9,6
+1,7:30.0,Offensive rebound by Team,,9,6
+1,7:30.0,A. Aminu makes free throw 2 of 2,,10,6
+1,7:10.0,,A. Horford misses 2-pt hook shot from 6 ft,10,6
+1,7:09.0,,Offensive rebound by M. Morris,10,6
+1,7:09.0,,M. Morris misses 2-pt layup at rim,10,6
+1,7:07.0,Defensive rebound by A. Aminu,,10,6
+1,7:01.0,Turnover by C. McCollum (bad pass),,10,6
+1,7:01.0,,Boston full timeout,10,6
+1,6:40.0,,K. Irving misses 2-pt jump shot from 7 ft,10,6
+1,6:38.0,Defensive rebound by D. Lillard,,10,6
+1,6:27.0,M. Harkless misses 3-pt jump shot from 23 ft,,10,6
+1,6:25.0,,Defensive rebound by Team,10,6
+1,6:25.0,Loose ball foul by J. Nurkić (drawn by A. Horford),,10,6
+1,6:16.0,,A. Horford misses 3-pt jump shot from 26 ft,10,6
+1,6:14.0,Defensive rebound by J. Nurkić,,10,6
+1,6:00.0,Shooting foul by A. Horford (drawn by J. Nurkić),,10,6
+1,6:00.0,J. Nurkić makes free throw 1 of 2,,11,6
+1,6:00.0,,J. Brown enters the game for M. Smart,11,6
+1,6:00.0,,G. Hayward enters the game for J. Tatum,11,6
+1,6:00.0,J. Nurkić makes free throw 2 of 2,,12,6
+1,5:50.0,,K. Irving misses 2-pt jump shot from 18 ft,12,6
+1,5:48.0,Defensive rebound by J. Nurkić,,12,6
+1,5:35.0,C. McCollum makes 3-pt jump shot from 25 ft,,15,6
+1,5:19.0,,K. Irving makes 2-pt layup from 4 ft,15,8
+1,4:59.0,M. Harkless misses 2-pt layup from 2 ft,,15,8
+1,4:56.0,Offensive rebound by D. Lillard,,15,8
+1,4:46.0,D. Lillard misses 2-pt layup from 1 ft,,15,8
+1,4:44.0,,Defensive rebound by G. Hayward,15,8
+1,4:37.0,,M. Morris misses 3-pt jump shot from 25 ft,15,8
+1,4:35.0,Defensive rebound by A. Aminu,,15,8
+1,4:25.0,C. McCollum makes 2-pt layup from 1 ft (assist by J. Nurkić),,17,8
+1,4:12.0,,G. Hayward makes 2-pt jump shot from 19 ft (assist by K. Irving),17,10
+1,3:49.0,C. McCollum misses 3-pt jump shot from 28 ft,,17,10
+1,3:47.0,,Defensive rebound by M. Morris,17,10
+1,3:33.0,,A. Horford makes 2-pt hook shot from 8 ft (assist by G. Hayward),17,12
+1,3:33.0,Portland full timeout,,17,12
+1,3:33.0,R. Hood enters the game for A. Aminu,,17,12
+1,3:33.0,E. Freedom enters the game for M. Harkless,,17,12
+1,3:33.0,J. Layman enters the game for J. Nurkić,,17,12
+1,3:14.0,Shooting foul by M. Morris (drawn by E. Freedom),,17,12
+1,3:14.0,Offensive rebound by Team,,17,12
+1,3:14.0,E. Freedom misses free throw 1 of 2,,17,12
+1,3:14.0,E. Freedom makes free throw 2 of 2,,18,12
+1,2:55.0,,K. Irving misses 2-pt layup from 3 ft,18,12
+1,2:53.0,Defensive rebound by E. Freedom,,18,12
+1,2:44.0,Shooting foul by M. Morris (drawn by C. McCollum),,18,12
+1,2:44.0,C. McCollum makes free throw 1 of 2,,19,12
+1,2:44.0,,J. Tatum enters the game for M. Morris,19,12
+1,2:44.0,C. McCollum misses free throw 2 of 2,,19,12
+1,2:42.0,Offensive rebound by D. Lillard,,19,12
+1,2:32.0,Turnover by E. Freedom (3 sec),,19,12
+1,2:32.0,S. Curry enters the game for C. McCollum,,19,12
+1,2:17.0,,A. Horford makes 2-pt jump shot from 18 ft (assist by K. Irving),19,14
+1,2:03.0,D. Lillard makes 2-pt jump shot from 17 ft,,21,14
+1,1:51.0,,K. Irving makes 2-pt jump shot from 20 ft,21,16
+1,1:44.0,Turnover by D. Lillard (bad pass; steal by J. Tatum),,21,16
+1,1:41.0,,J. Tatum makes 2-pt layup from 2 ft,21,18
+1,1:25.0,D. Lillard makes 3-pt jump shot from 26 ft,,24,18
+1,1:08.0,,Turnover by K. Irving (lost ball; steal by E. Freedom),24,18
+1,1:02.0,J. Layman misses 3-pt jump shot from 25 ft,,24,18
+1,0:59.0,,Defensive rebound by A. Horford,24,18
+1,0:53.0,,A. Horford makes 3-pt jump shot from 26 ft (assist by J. Brown),24,21
+1,0:32.0,D. Lillard misses 3-pt jump shot from 25 ft,,24,21
+1,0:30.0,,Defensive rebound by J. Brown,24,21
+1,0:30.0,,D. Theis enters the game for A. Horford,24,21
+1,0:14.0,,K. Irving makes 3-pt jump shot from 25 ft (assist by G. Hayward),24,24
+1,0:00.0,Personal foul by J. Tatum (drawn by E. Freedom),,24,24
+1,0:00.0,,M. Morris enters the game for J. Tatum,24,24
+1,0:00.0,E. Freedom misses free throw 1 of 2,,24,24
+1,0:00.0,Offensive rebound by Team,,24,24
+1,0:00.0,E. Freedom makes free throw 2 of 2,,25,24
+2,11:49.0,,J. Brown makes 2-pt layup from 2 ft (assist by D. Theis),25,26
+2,11:49.0,,Shooting foul by J. Layman (drawn by J. Brown),25,26
+2,11:49.0,,J. Brown misses free throw 1 of 1,25,26
+2,11:49.0,Defensive rebound by E. Freedom,,25,26
+2,11:29.0,J. Layman makes 3-pt jump shot from 25 ft (assist by E. Freedom),,28,26
+2,11:08.0,,G. Hayward misses 2-pt jump shot from 6 ft,28,26
+2,11:07.0,Defensive rebound by E. Freedom,,28,26
+2,11:00.0,R. Hood misses 3-pt jump shot from 22 ft,,28,26
+2,10:58.0,,Defensive rebound by J. Brown,28,26
+2,10:52.0,,J. Brown makes 2-pt dunk from 1 ft,28,28
+2,10:40.0,Personal foul by D. Theis (drawn by E. Freedom),,28,28
+2,10:33.0,E. Freedom misses 3-pt jump shot from 25 ft,,28,28
+2,10:31.0,,Defensive rebound by J. Brown,28,28
+2,10:11.0,,M. Smart makes 2-pt jump shot from 7 ft,28,30
+2,9:44.0,C. McCollum misses 2-pt layup from 3 ft (block by D. Theis),,28,30
+2,9:42.0,,Defensive rebound by M. Smart,28,30
+2,9:39.0,,D. Theis misses 3-pt jump shot from 27 ft,28,30
+2,9:37.0,,Offensive rebound by G. Hayward,28,30
+2,9:32.0,,J. Tatum misses 3-pt jump shot from 24 ft,28,30
+2,9:30.0,,Offensive rebound by J. Brown,28,30
+2,9:25.0,,D. Theis misses 2-pt jump shot from 9 ft,28,30
+2,9:23.0,Defensive rebound by J. Layman,,28,30
+2,9:13.0,E. Freedom makes 2-pt dunk from 1 ft (assist by J. Layman),,30,30
+2,8:49.0,,J. Brown misses 3-pt jump shot from 26 ft,30,30
+2,8:47.0,Defensive rebound by J. Layman,,30,30
+2,8:41.0,Personal foul by J. Brown (drawn by C. McCollum),,30,30
+2,8:36.0,S. Curry misses 3-pt jump shot from 26 ft,,30,30
+2,8:34.0,,Defensive rebound by J. Tatum,30,30
+2,8:25.0,,J. Tatum makes 2-pt layup from 3 ft,30,32
+2,8:14.0,C. McCollum makes 2-pt jump shot from 18 ft,,32,32
+2,7:51.0,,J. Tatum misses 3-pt jump shot from 24 ft,32,32
+2,7:49.0,Defensive rebound by C. McCollum,,32,32
+2,7:40.0,R. Hood misses 3-pt jump shot from 27 ft,,32,32
+2,7:38.0,,Defensive rebound by G. Hayward,32,32
+2,7:24.0,,J. Tatum misses 2-pt jump shot from 7 ft,32,32
+2,7:22.0,Defensive rebound by R. Hood,,32,32
+2,7:17.0,Turnover by S. Curry (bad pass; steal by J. Brown),,32,32
+2,7:08.0,,D. Theis misses 3-pt jump shot from 25 ft,32,32
+2,7:07.0,Defensive rebound by Team,,32,32
+2,7:07.0,M. Harkless enters the game for J. Layman,,32,32
+2,6:50.0,E. Freedom makes 2-pt layup from 1 ft,,34,32
+2,6:36.0,,J. Brown misses 2-pt jump shot from 13 ft,34,32
+2,6:33.0,,Offensive rebound by Team,34,32
+2,6:32.0,,Boston full timeout,34,32
+2,6:32.0,,K. Irving enters the game for J. Brown,34,32
+2,6:32.0,,M. Morris enters the game for G. Hayward,34,32
+2,6:23.0,,D. Theis misses 2-pt jump shot from 12 ft,34,32
+2,6:21.0,Defensive rebound by M. Harkless,,34,32
+2,5:59.0,R. Hood misses 2-pt hook shot from 3 ft,,34,32
+2,5:57.0,Offensive rebound by C. McCollum,,34,32
+2,5:52.0,Shooting foul by D. Theis (drawn by M. Harkless),,34,32
+2,5:52.0,M. Harkless misses free throw 1 of 2,,34,32
+2,5:52.0,Offensive rebound by Team,,34,32
+2,5:52.0,A. Aminu enters the game for R. Hood,,34,32
+2,5:52.0,D. Lillard enters the game for E. Freedom,,34,32
+2,5:52.0,J. Nurkić enters the game for C. McCollum,,34,32
+2,5:52.0,,A. Horford enters the game for D. Theis,34,32
+2,5:52.0,M. Harkless makes free throw 2 of 2,,35,32
+2,5:37.0,,A. Horford misses 2-pt jump shot from 20 ft,35,32
+2,5:35.0,Defensive rebound by D. Lillard,,35,32
+2,5:28.0,J. Nurkić makes 2-pt layup from 1 ft (assist by D. Lillard),,37,32
+2,5:18.0,,Personal foul by D. Lillard (drawn by J. Tatum),37,32
+2,5:08.0,,K. Irving misses 2-pt jump shot from 9 ft,37,32
+2,5:06.0,Defensive rebound by A. Aminu,,37,32
+2,4:59.0,D. Lillard misses 3-pt jump shot from 26 ft,,37,32
+2,4:57.0,,Defensive rebound by A. Horford,37,32
+2,4:51.0,,Turnover by K. Irving (bad pass; steal by D. Lillard),37,32
+2,4:48.0,Personal foul by K. Irving (drawn by S. Curry),,37,32
+2,4:38.0,Turnover by S. Curry (traveling),,37,32
+2,4:27.0,,Turnover by J. Tatum (bad pass; steal by S. Curry),37,32
+2,4:23.0,S. Curry misses 3-pt jump shot from 25 ft,,37,32
+2,4:21.0,Offensive rebound by Team,,37,32
+2,4:12.0,D. Lillard misses 2-pt layup from 2 ft,,37,32
+2,4:09.0,Offensive rebound by J. Nurkić,,37,32
+2,4:07.0,J. Nurkić makes 2-pt hook shot from 3 ft,,39,32
+2,3:54.0,,A. Horford misses 3-pt jump shot from 27 ft,39,32
+2,3:52.0,Defensive rebound by M. Harkless,,39,32
+2,3:43.0,M. Harkless misses 3-pt jump shot from 25 ft,,39,32
+2,3:41.0,Offensive rebound by A. Aminu,,39,32
+2,3:37.0,Turnover by A. Aminu (bad pass; steal by M. Smart),,39,32
+2,3:33.0,,J. Tatum makes 2-pt dunk from 2 ft (assist by M. Smart),39,34
+2,3:06.0,D. Lillard misses 3-pt jump shot from 26 ft,,39,34
+2,3:04.0,,Defensive rebound by K. Irving,39,34
+2,2:55.0,Portland full timeout,,39,34
+2,2:55.0,C. McCollum enters the game for S. Curry,,39,34
+2,2:55.0,,G. Hayward enters the game for J. Tatum,39,34
+2,2:47.0,,M. Morris makes 2-pt dunk from 2 ft (assist by K. Irving),39,36
+2,2:27.0,M. Harkless misses 2-pt hook shot from 2 ft,,39,36
+2,2:26.0,Offensive rebound by M. Harkless,,39,36
+2,2:24.0,M. Harkless makes 2-pt dunk from 1 ft,,41,36
+2,2:09.0,,M. Morris makes 2-pt jump shot from 12 ft (assist by M. Smart),41,38
+2,1:56.0,J. Nurkić misses 2-pt hook shot from 2 ft (block by A. Horford),,41,38
+2,1:54.0,Offensive rebound by Team,,41,38
+2,1:45.0,C. McCollum misses 3-pt jump shot from 26 ft,,41,38
+2,1:43.0,Offensive rebound by D. Lillard,,41,38
+2,1:37.0,D. Lillard makes 2-pt jump shot from 18 ft,,43,38
+2,1:12.0,,M. Morris misses 3-pt jump shot from 28 ft,43,38
+2,1:12.0,,Offensive rebound by Team,43,38
+2,1:12.0,,Turnover by Team (shot clock),43,38
+2,1:05.0,D. Lillard misses 3-pt jump shot from 29 ft,,43,38
+2,1:03.0,,Defensive rebound by M. Morris,43,38
+2,0:54.0,,K. Irving makes 2-pt layup from 2 ft,43,40
+2,0:31.0,C. McCollum misses 2-pt jump shot from 16 ft,,43,40
+2,0:29.0,,Defensive rebound by K. Irving,43,40
+2,0:21.0,,Shooting foul by A. Aminu (drawn by M. Morris),43,40
+2,0:21.0,,M. Morris makes free throw 1 of 2,43,41
+2,0:21.0,S. Curry enters the game for A. Aminu,,43,41
+2,0:21.0,,J. Tatum enters the game for K. Irving,43,41
+2,0:21.0,,M. Morris makes free throw 2 of 2,43,42
+2,0:08.0,D. Lillard misses 2-pt jump shot from 7 ft,,43,42
+2,0:05.0,,Defensive rebound by M. Morris,43,42
+2,0:00.0,,M. Morris misses 3-pt jump shot from 27 ft,43,42
+2,0:00.0,,Offensive rebound by Team,43,42
+3,11:49.0,,Turnover by M. Smart (bad pass; steal by A. Aminu),43,42
+3,11:29.0,D. Lillard misses 2-pt jump shot from 20 ft,,43,42
+3,11:26.0,,Defensive rebound by M. Smart,43,42
+3,11:14.0,,Personal foul by C. McCollum (drawn by M. Morris),43,42
+3,11:09.0,,K. Irving makes 2-pt jump shot from 13 ft,43,44
+3,10:51.0,M. Harkless makes 2-pt layup from 1 ft (assist by D. Lillard),,45,44
+3,10:47.0,,Turnover by K. Irving (bad pass),45,44
+3,10:38.0,Shooting foul by M. Morris (drawn by D. Lillard),,45,44
+3,10:38.0,D. Lillard makes free throw 1 of 2,,46,44
+3,10:38.0,D. Lillard makes free throw 2 of 2,,47,44
+3,10:21.0,,Turnover by A. Horford (bad pass; steal by J. Nurkić),47,44
+3,10:14.0,C. McCollum misses 3-pt jump shot from 23 ft,,47,44
+3,10:13.0,Offensive rebound by M. Harkless,,47,44
+3,10:11.0,M. Harkless makes 2-pt dunk from 1 ft,,49,44
+3,9:59.0,,M. Morris makes 2-pt layup at rim (assist by A. Horford),49,46
+3,9:48.0,D. Lillard misses 3-pt jump shot from 27 ft,,49,46
+3,9:46.0,,Defensive rebound by J. Tatum,49,46
+3,9:32.0,,A. Horford misses 2-pt jump shot from 16 ft,49,46
+3,9:30.0,Defensive rebound by A. Aminu,,49,46
+3,9:22.0,C. McCollum makes 2-pt jump shot from 22 ft (assist by D. Lillard),,51,46
+3,9:12.0,,K. Irving misses 3-pt jump shot from 25 ft,51,46
+3,9:10.0,Defensive rebound by M. Harkless,,51,46
+3,8:54.0,C. McCollum makes 2-pt jump shot from 19 ft,,53,46
+3,8:37.0,,A. Horford misses 3-pt jump shot from 25 ft,53,46
+3,8:35.0,Defensive rebound by C. McCollum,,53,46
+3,8:20.0,J. Nurkić makes 2-pt layup from 2 ft (assist by C. McCollum),,55,46
+3,7:57.0,,K. Irving misses 2-pt jump shot from 9 ft,55,46
+3,7:55.0,Defensive rebound by M. Harkless,,55,46
+3,7:43.0,J. Nurkić misses 2-pt jump shot from 18 ft,,55,46
+3,7:42.0,,Defensive rebound by J. Tatum,55,46
+3,7:24.0,,J. Tatum makes 2-pt layup from 3 ft (assist by A. Horford),55,48
+3,7:01.0,Personal foul by A. Horford (drawn by J. Nurkić),,55,48
+3,7:01.0,,D. Theis enters the game for A. Horford,55,48
+3,6:54.0,D. Lillard makes 2-pt layup from 3 ft (assist by C. McCollum),,57,48
+3,6:46.0,,Boston full timeout,57,48
+3,6:46.0,,J. Brown enters the game for M. Morris,57,48
+3,6:46.0,,G. Hayward enters the game for M. Smart,57,48
+3,6:41.0,,K. Irving makes 2-pt layup from 1 ft (assist by D. Theis),57,50
+3,6:22.0,C. McCollum misses 2-pt jump shot from 12 ft,,57,50
+3,6:21.0,,Defensive rebound by K. Irving,57,50
+3,6:17.0,,Turnover by J. Tatum (step out of bounds),57,50
+3,6:10.0,Personal foul by D. Theis (drawn by J. Nurkić),,57,50
+3,6:06.0,Personal foul by K. Irving (drawn by D. Lillard),,57,50
+3,6:02.0,D. Lillard makes 3-pt jump shot from 25 ft (assist by J. Nurkić),,60,50
+3,5:40.0,,D. Theis misses 2-pt jump shot from 14 ft,60,50
+3,5:38.0,Defensive rebound by M. Harkless,,60,50
+3,5:25.0,M. Harkless makes 2-pt layup from 2 ft (assist by A. Aminu),,62,50
+3,5:11.0,,J. Tatum makes 2-pt layup from 1 ft,62,52
+3,4:56.0,M. Harkless misses 3-pt jump shot from 25 ft,,62,52
+3,4:54.0,,Defensive rebound by J. Brown,62,52
+3,4:48.0,,K. Irving makes 3-pt jump shot from 25 ft,62,55
+3,4:29.0,C. McCollum misses 2-pt jump shot from 15 ft,,62,55
+3,4:27.0,,Defensive rebound by J. Brown,62,55
+3,4:25.0,,Turnover by J. Brown (out of bounds lost ball),62,55
+3,4:17.0,D. Lillard misses 2-pt layup from 4 ft,,62,55
+3,4:14.0,Offensive rebound by M. Harkless,,62,55
+3,4:13.0,M. Harkless makes 2-pt layup from 4 ft,,64,55
+3,3:55.0,,J. Tatum misses 2-pt jump shot from 15 ft,64,55
+3,3:55.0,,Offensive rebound by Team,64,55
+3,3:55.0,Loose ball foul by M. Harkless (drawn by D. Theis),,64,55
+3,3:55.0,R. Hood enters the game for A. Aminu,,64,55
+3,3:55.0,E. Freedom enters the game for J. Nurkić,,64,55
+3,3:50.0,,Turnover by G. Hayward (bad pass; steal by M. Harkless),64,55
+3,3:40.0,D. Lillard makes 2-pt layup from 2 ft,,66,55
+3,3:29.0,,Shooting foul by E. Freedom (drawn by J. Tatum),66,55
+3,3:29.0,,J. Tatum makes free throw 1 of 2,66,56
+3,3:29.0,S. Curry enters the game for C. McCollum,,66,56
+3,3:29.0,,A. Horford enters the game for D. Theis,66,56
+3,3:29.0,,J. Tatum makes free throw 2 of 2,66,57
+3,3:19.0,D. Lillard misses 2-pt layup from 1 ft,,66,57
+3,3:19.0,Offensive rebound by E. Freedom,,66,57
+3,3:17.0,E. Freedom makes 2-pt layup at rim,,68,57
+3,3:06.0,,K. Irving makes 2-pt layup from 2 ft,68,59
+3,2:49.0,Portland full timeout,,68,59
+3,2:40.0,D. Lillard makes 2-pt layup from 2 ft,,70,59
+3,2:31.0,,Shooting foul by S. Curry (drawn by G. Hayward),70,59
+3,2:31.0,,G. Hayward misses free throw 1 of 2,70,59
+3,2:31.0,,Offensive rebound by Team,70,59
+3,2:31.0,,M. Morris enters the game for K. Irving,70,59
+3,2:31.0,,M. Smart enters the game for J. Tatum,70,59
+3,2:31.0,,G. Hayward makes free throw 2 of 2,70,60
+3,2:16.0,S. Curry misses 3-pt jump shot from 26 ft,,70,60
+3,2:13.0,,Defensive rebound by J. Brown,70,60
+3,2:05.0,,Offensive foul by A. Horford (drawn by S. Curry),70,60
+3,2:05.0,,Turnover by A. Horford (offensive foul),70,60
+3,1:53.0,D. Lillard makes 2-pt jump shot from 17 ft,,72,60
+3,1:40.0,,A. Horford misses 3-pt jump shot from 25 ft,72,60
+3,1:38.0,Defensive rebound by E. Freedom,,72,60
+3,1:28.0,D. Lillard misses 3-pt jump shot from 26 ft,,72,60
+3,1:26.0,,Defensive rebound by J. Brown,72,60
+3,1:22.0,,J. Brown misses 3-pt jump shot from 26 ft,72,60
+3,1:20.0,Defensive rebound by E. Freedom,,72,60
+3,1:03.0,S. Curry misses 3-pt jump shot from 25 ft,,72,60
+3,1:01.0,,Defensive rebound by J. Brown,72,60
+3,0:47.0,,A. Horford makes 2-pt layup from 3 ft (assist by M. Smart),72,62
+3,0:31.0,R. Hood misses 3-pt jump shot from 28 ft,,72,62
+3,0:29.0,,Defensive rebound by A. Horford,72,62
+3,0:07.0,,A. Horford makes 2-pt jump shot from 15 ft (assist by M. Smart),72,64
+3,0:00.0,D. Lillard makes 2-pt layup from 2 ft,,74,64
+4,11:44.0,Turnover by R. Hood (bad pass; steal by M. Smart),,74,64
+4,11:40.0,,M. Smart makes 2-pt layup from 2 ft,74,66
+4,11:22.0,Offensive foul by E. Freedom (drawn by G. Hayward),,74,66
+4,11:22.0,Turnover by E. Freedom (offensive foul),,74,66
+4,11:09.0,,Turnover by G. Hayward (lost ball; steal by E. Freedom),74,66
+4,11:05.0,E. Freedom misses 2-pt layup from 2 ft,,74,66
+4,11:04.0,Offensive rebound by J. Layman,,74,66
+4,11:03.0,J. Layman makes 2-pt dunk at rim,,76,66
+4,10:47.0,,J. Brown makes 2-pt layup from 1 ft (assist by M. Morris),76,68
+4,10:35.0,Turnover by (8 sec),,76,68
+4,10:26.0,,J. Brown makes 2-pt jump shot from 9 ft (assist by G. Hayward),76,70
+4,10:17.0,C. McCollum misses 3-pt jump shot from 26 ft,,76,70
+4,10:15.0,,Defensive rebound by J. Brown,76,70
+4,9:53.0,,M. Smart misses 2-pt jump shot from 22 ft,76,70
+4,9:51.0,Defensive rebound by C. McCollum,,76,70
+4,9:46.0,R. Hood misses 3-pt jump shot from 23 ft,,76,70
+4,9:44.0,,Defensive rebound by Team,76,70
+4,9:38.0,,M. Smart makes 2-pt layup from 2 ft,76,72
+4,9:38.0,Portland full timeout,,76,72
+4,9:38.0,M. Harkless enters the game for J. Layman,,76,72
+4,9:20.0,E. Freedom misses 2-pt layup from 3 ft (block by A. Horford),,76,72
+4,9:18.0,,Defensive rebound by M. Morris,76,72
+4,9:13.0,,M. Morris misses 3-pt jump shot from 26 ft,76,72
+4,9:10.0,,Offensive rebound by G. Hayward,76,72
+4,9:00.0,,A. Horford misses 3-pt jump shot from 26 ft,76,72
+4,8:57.0,,Offensive rebound by M. Smart,76,72
+4,8:49.0,,J. Brown makes 2-pt jump shot from 13 ft (assist by A. Horford),76,74
+4,8:35.0,C. McCollum misses 2-pt layup from 2 ft,,76,74
+4,8:33.0,,Defensive rebound by M. Morris,76,74
+4,8:23.0,,M. Smart misses 3-pt jump shot from 27 ft,76,74
+4,8:21.0,Defensive rebound by E. Freedom,,76,74
+4,8:11.0,M. Harkless makes 2-pt layup from 2 ft,,78,74
+4,7:51.0,,A. Horford misses 2-pt jump shot from 13 ft,78,74
+4,7:49.0,Defensive rebound by C. McCollum,,78,74
+4,7:32.0,C. McCollum misses 3-pt jump shot from 26 ft,,78,74
+4,7:30.0,,Defensive rebound by M. Smart,78,74
+4,7:25.0,,Boston full timeout,78,74
+4,7:25.0,J. Layman enters the game for S. Curry,,78,74
+4,7:25.0,D. Lillard enters the game for E. Freedom,,78,74
+4,7:25.0,J. Nurkić enters the game for C. McCollum,,78,74
+4,7:25.0,,K. Irving enters the game for A. Horford,78,74
+4,7:25.0,,J. Tatum enters the game for M. Smart,78,74
+4,7:18.0,,M. Morris misses 3-pt jump shot from 25 ft,78,74
+4,7:16.0,Defensive rebound by D. Lillard,,78,74
+4,7:07.0,J. Nurkić makes 2-pt hook shot from 3 ft,,80,74
+4,6:47.0,,K. Irving makes 2-pt hook shot from 2 ft,80,76
+4,6:30.0,Personal foul by J. Brown (drawn by J. Nurkić),,80,76
+4,6:25.0,J. Nurkić misses 2-pt hook shot from 6 ft,,80,76
+4,6:24.0,,Defensive rebound by Team,80,76
+4,6:11.0,,G. Hayward misses 2-pt layup from 2 ft,80,76
+4,6:09.0,Defensive rebound by J. Nurkić,,80,76
+4,6:09.0,A. Aminu enters the game for R. Hood,,80,76
+4,6:09.0,C. McCollum enters the game for J. Layman,,80,76
+4,6:09.0,,M. Smart enters the game for G. Hayward,80,76
+4,6:09.0,,R. Williams enters the game for M. Morris,80,76
+4,5:47.0,J. Nurkić makes 2-pt dunk from 1 ft (assist by A. Aminu),,82,76
+4,5:32.0,,Turnover by J. Tatum (out of bounds lost ball),82,76
+4,5:22.0,Turnover by C. McCollum (traveling),,82,76
+4,5:22.0,,A. Horford enters the game for R. Williams,82,76
+4,5:09.0,,Turnover by K. Irving (lost ball; steal by D. Lillard),82,76
+4,5:02.0,Shooting foul by J. Tatum (drawn by J. Nurkić),,82,76
+4,5:02.0,J. Nurkić makes free throw 1 of 2,,83,76
+4,5:02.0,J. Nurkić makes free throw 2 of 2,,84,76
+4,4:46.0,,M. Smart makes 2-pt layup at rim,84,78
+4,4:46.0,,Shooting foul by D. Lillard (drawn by M. Smart),84,78
+4,4:46.0,,M. Smart makes free throw 1 of 1,84,79
+4,4:28.0,A. Aminu makes 3-pt jump shot from 24 ft (assist by D. Lillard),,87,79
+4,4:06.0,,Personal foul by J. Nurkić (drawn by M. Smart),87,79
+4,4:05.0,,Personal foul by J. Nurkić (drawn by M. Smart),87,79
+4,4:00.0,,Boston full timeout,87,79
+4,3:54.0,,K. Irving makes 2-pt layup from 3 ft,87,81
+4,3:38.0,M. Harkless makes 2-pt dunk from 2 ft (assist by J. Nurkić),,89,81
+4,3:29.0,,K. Irving misses 2-pt jump shot from 5 ft (block by J. Nurkić),89,81
+4,3:28.0,Defensive rebound by A. Aminu,,89,81
+4,3:28.0,Personal foul by K. Irving (drawn by A. Aminu),,89,81
+4,3:28.0,Portland full timeout,,89,81
+4,3:14.0,D. Lillard makes 2-pt layup from 2 ft,,91,81
+4,3:02.0,,Personal foul by C. McCollum (drawn by K. Irving),91,81
+4,2:55.0,,K. Irving misses 2-pt layup from 2 ft (block by J. Nurkić),91,81
+4,2:53.0,Defensive rebound by D. Lillard,,91,81
+4,2:46.0,Shooting foul by A. Horford (drawn by J. Nurkić),,91,81
+4,2:46.0,J. Nurkić makes free throw 1 of 2,,92,81
+4,2:46.0,J. Nurkić makes free throw 2 of 2,,93,81
+4,2:33.0,,M. Smart makes 3-pt jump shot from 25 ft (assist by A. Horford),93,84
+4,2:15.0,Offensive foul by J. Nurkić (drawn by K. Irving),,93,84
+4,2:15.0,Turnover by J. Nurkić (offensive foul),,93,84
+4,2:07.0,,J. Brown misses 3-pt jump shot from 23 ft,93,84
+4,2:06.0,,Offensive rebound by K. Irving,93,84
+4,2:05.0,,K. Irving makes 2-pt layup from 1 ft,93,86
+4,1:40.0,D. Lillard misses 3-pt jump shot from 27 ft,,93,86
+4,1:38.0,Offensive rebound by M. Harkless,,93,86
+4,1:35.0,Turnover by M. Harkless (bad pass; steal by A. Horford),,93,86
+4,1:26.0,,A. Horford makes 2-pt hook shot from 5 ft,93,88
+4,1:05.0,D. Lillard misses 2-pt layup from 3 ft,,93,88
+4,1:04.0,Offensive rebound by Team,,93,88
+4,0:53.0,C. McCollum misses 3-pt jump shot from 27 ft,,93,88
+4,0:52.0,,Defensive rebound by Team,93,88
+4,0:44.0,,M. Smart misses 3-pt jump shot from 25 ft,93,88
+4,0:42.0,Defensive rebound by A. Aminu,,93,88
+4,0:36.0,D. Lillard makes 2-pt layup from 2 ft (assist by C. McCollum),,95,88
+4,0:36.0,,Boston full timeout,95,88
+4,0:31.0,,A. Horford misses 3-pt jump shot from 25 ft,95,88
+4,0:30.0,,Offensive rebound by M. Smart,95,88
+4,0:28.0,,Shooting foul by C. McCollum (drawn by M. Smart),95,88
+4,0:28.0,,M. Smart makes free throw 1 of 2,95,89
+4,0:28.0,,M. Smart misses free throw 2 of 2,95,89
+4,0:28.0,,Offensive rebound by A. Horford,95,89
+4,0:25.0,,K. Irving makes 3-pt jump shot from 25 ft (assist by A. Horford),95,92
+4,0:11.0,Personal take foul by M. Smart (drawn by D. Lillard),,95,92
+4,0:11.0,D. Lillard makes free throw 1 of 2,,96,92
+4,0:11.0,D. Lillard makes free throw 2 of 2,,97,92
+4,0:11.0,,Boston full timeout,97,92
+4,0:11.0,R. Hood enters the game for J. Nurkić,,97,92
+4,0:08.0,,K. Irving misses 3-pt jump shot from 29 ft,97,92
+4,0:06.0,Defensive rebound by M. Harkless,,97,92

@@ -1,0 +1,429 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,TORONTO_ACTION,HOUSTON_SCORE,TORONTO_SCORE
+1,11:35.0,E. Gordon misses 3-pt jump shot from 23 ft,,0,0
+1,11:32.0,,Defensive rebound by D. Green,0,0
+1,11:31.0,,Turnover by K. Lowry (traveling),0,0
+1,11:11.0,J. Harden makes 2-pt layup from 1 ft,,2,0
+1,10:43.0,,K. Lowry misses 2-pt jump shot from 10 ft,2,0
+1,10:40.0,Defensive rebound by E. Gordon,,2,0
+1,10:33.0,C. Capela makes 2-pt layup from 1 ft,,4,0
+1,10:24.0,,D. Green misses 3-pt jump shot from 25 ft,4,0
+1,10:21.0,Defensive rebound by C. Paul,,4,0
+1,10:14.0,C. Paul misses 2-pt jump shot from 8 ft,,4,0
+1,10:12.0,,Defensive rebound by K. Leonard,4,0
+1,10:03.0,,K. Leonard misses 2-pt layup from 2 ft,4,0
+1,10:01.0,,Offensive rebound by S. Ibaka,4,0
+1,9:50.0,,K. Leonard makes 2-pt layup from 1 ft (assist by S. Ibaka),4,2
+1,9:30.0,C. Capela makes 2-pt layup from 2 ft (assist by J. Harden),,6,2
+1,9:12.0,,Shooting foul by J. Harden (drawn by P. Siakam),6,2
+1,9:12.0,,P. Siakam misses free throw 1 of 2,6,2
+1,9:12.0,,Offensive rebound by Team,6,2
+1,9:12.0,,P. Siakam misses free throw 2 of 2,6,2
+1,9:10.0,Defensive rebound by C. Capela,,6,2
+1,9:01.0,J. Harden misses 2-pt layup from 2 ft,,6,2
+1,8:57.0,Offensive rebound by C. Capela,,6,2
+1,8:57.0,Turnover by C. Capela (lost ball),,6,2
+1,8:57.0,Loose ball foul by C. Capela (drawn by D. Green),,6,2
+1,8:50.0,,P. Siakam misses 2-pt layup from 2 ft,6,2
+1,8:48.0,Defensive rebound by J. Harden,,6,2
+1,8:45.0,E. Gordon misses 3-pt jump shot from 26 ft,,6,2
+1,8:42.0,,Defensive rebound by D. Green,6,2
+1,8:35.0,,K. Leonard makes 2-pt jump shot from 16 ft,6,4
+1,8:10.0,P. Tucker misses 3-pt jump shot from 23 ft,,6,4
+1,8:08.0,,Defensive rebound by K. Leonard,6,4
+1,7:57.0,,Turnover by S. Ibaka (lost ball; steal by J. Harden),6,4
+1,7:52.0,P. Tucker makes 2-pt layup from 2 ft (assist by J. Harden),,8,4
+1,7:38.0,,Personal foul by P. Tucker (drawn by K. Leonard),8,4
+1,7:28.0,,K. Leonard makes 2-pt layup from 3 ft,8,6
+1,7:11.0,J. Harden misses 2-pt layup from 3 ft (block by S. Ibaka),,8,6
+1,7:09.0,,Defensive rebound by K. Lowry,8,6
+1,7:07.0,,D. Green makes 3-pt jump shot from 25 ft (assist by K. Lowry),8,9
+1,6:49.0,C. Paul misses 2-pt jump shot from 15 ft,,8,9
+1,6:46.0,,Defensive rebound by D. Green,8,9
+1,6:34.0,,K. Leonard makes 2-pt jump shot from 17 ft,8,11
+1,6:21.0,Turnover by E. Gordon (out of bounds lost ball),,8,11
+1,6:21.0,,Toronto full timeout,8,11
+1,6:21.0,A. Rivers enters the game for C. Paul,,8,11
+1,6:02.0,,P. Siakam misses 3-pt jump shot from 23 ft,8,11
+1,5:59.0,,Offensive rebound by S. Ibaka,8,11
+1,5:58.0,,S. Ibaka misses 2-pt hook shot from 12 ft,8,11
+1,5:56.0,Defensive rebound by P. Tucker,,8,11
+1,5:47.0,E. Gordon makes 2-pt hook shot from 2 ft,,10,11
+1,5:24.0,,K. Leonard misses 2-pt jump shot from 10 ft,10,11
+1,5:20.0,Defensive rebound by C. Capela,,10,11
+1,5:12.0,E. Gordon makes 3-pt jump shot from 25 ft (assist by P. Tucker),,13,11
+1,4:59.0,,K. Lowry makes 2-pt layup from 2 ft,13,13
+1,4:43.0,J. Harden misses 2-pt layup from 1 ft,,13,13
+1,4:43.0,Offensive rebound by C. Capela,,13,13
+1,4:33.0,J. Harden makes 2-pt jump shot from 3 ft,,15,13
+1,4:17.0,,Turnover by P. Siakam (bad pass; steal by C. Capela),15,13
+1,4:10.0,A. Rivers makes 3-pt jump shot from 25 ft,,18,13
+1,3:56.0,,K. Lowry misses 2-pt jump shot from 23 ft,18,13
+1,3:53.0,Defensive rebound by A. Rivers,,18,13
+1,3:46.0,J. Harden misses 2-pt layup from 2 ft,,18,13
+1,3:44.0,,Defensive rebound by S. Ibaka,18,13
+1,3:41.0,,D. Green misses 3-pt jump shot from 26 ft,18,13
+1,3:38.0,Defensive rebound by P. Tucker,,18,13
+1,3:28.0,A. Rivers misses 2-pt hook shot from 10 ft,,18,13
+1,3:26.0,,Defensive rebound by S. Ibaka,18,13
+1,3:22.0,,Personal foul by A. Rivers (drawn by K. Lowry),18,13
+1,3:22.0,G. Green enters the game for C. Capela,,18,13
+1,3:22.0,N. Hilário enters the game for E. Gordon,,18,13
+1,3:22.0,,M. Gasol enters the game for S. Ibaka,18,13
+1,3:08.0,,D. Green misses 3-pt jump shot from 23 ft,18,13
+1,3:05.0,Defensive rebound by N. Hilário,,18,13
+1,2:59.0,Turnover by J. Harden (out of bounds lost ball),,18,13
+1,2:59.0,Houston full timeout,,18,13
+1,2:59.0,G. Clark enters the game for P. Tucker,,18,13
+1,2:59.0,,J. Lin enters the game for K. Leonard,18,13
+1,2:59.0,,N. Powell enters the game for K. Lowry,18,13
+1,2:38.0,,N. Powell misses 2-pt jump shot from 19 ft,18,13
+1,2:35.0,Defensive rebound by A. Rivers,,18,13
+1,2:20.0,J. Harden misses 2-pt layup from 1 ft,,18,13
+1,2:18.0,,Defensive rebound by P. Siakam,18,13
+1,2:04.0,,M. Gasol makes 2-pt jump shot from 13 ft,18,15
+1,1:51.0,Personal foul by N. Powell (drawn by G. Green),,18,15
+1,1:51.0,,O. Anunoby enters the game for D. Green,18,15
+1,1:43.0,J. Harden misses 3-pt jump shot from 22 ft,,18,15
+1,1:38.0,,Defensive rebound by O. Anunoby,18,15
+1,1:33.0,,J. Lin misses 2-pt layup from 4 ft (block by G. Clark),18,15
+1,1:30.0,,Offensive rebound by J. Lin,18,15
+1,1:25.0,,Shooting foul by N. Hilário (drawn by M. Gasol),18,15
+1,1:25.0,,M. Gasol makes free throw 1 of 2,18,16
+1,1:25.0,,M. Gasol makes free throw 2 of 2,18,17
+1,1:07.0,A. Rivers misses 2-pt layup from 2 ft,,18,17
+1,1:05.0,,Defensive rebound by M. Gasol,18,17
+1,0:57.0,,Turnover by P. Siakam (bad pass; steal by G. Clark),18,17
+1,0:47.0,J. Harden misses 2-pt jump shot from 7 ft,,18,17
+1,0:44.0,Offensive rebound by G. Green,,18,17
+1,0:42.0,G. Green misses 3-pt jump shot from 22 ft,,18,17
+1,0:42.0,Offensive rebound by G. Clark,,18,17
+1,0:29.0,J. Harden makes 3-pt jump shot from 24 ft,,21,17
+1,0:15.0,,J. Lin makes 2-pt hook shot from 2 ft,21,19
+1,0:03.0,Personal foul by J. Lin (drawn by J. Harden),,21,19
+1,0:03.0,J. Harden makes free throw 1 of 2,,22,19
+1,0:03.0,J. Harden makes free throw 2 of 2,,23,19
+1,0:00.0,,Turnover by J. Lin (bad pass; steal by J. Harden),23,19
+2,11:47.0,,M. Gasol misses 3-pt jump shot from 26 ft,23,19
+2,11:43.0,Defensive rebound by C. Paul,,23,19
+2,11:31.0,G. Green makes 2-pt jump shot from 7 ft (assist by A. Rivers),,25,19
+2,11:24.0,,K. Lowry makes 2-pt layup from 3 ft (assist by J. Lin),25,21
+2,11:10.0,Shooting foul by N. Powell (drawn by G. Green),,25,21
+2,11:10.0,G. Green makes free throw 1 of 2,,26,21
+2,11:10.0,G. Green makes free throw 2 of 2,,27,21
+2,10:58.0,,O. Anunoby misses 3-pt jump shot from 25 ft,27,21
+2,10:55.0,Defensive rebound by C. Paul,,27,21
+2,10:41.0,N. Hilário misses 2-pt jump shot from 20 ft,,27,21
+2,10:38.0,,Defensive rebound by K. Lowry,27,21
+2,10:33.0,,K. Lowry misses 2-pt layup from 3 ft (block by G. Clark),27,21
+2,10:32.0,,Offensive rebound by Team,27,21
+2,10:26.0,,N. Powell misses 2-pt layup from 3 ft,27,21
+2,10:24.0,,Offensive rebound by K. Lowry,27,21
+2,10:16.0,,Turnover by J. Lin (bad pass; steal by G. Clark),27,21
+2,10:12.0,G. Green makes 3-pt jump shot from 25 ft (assist by C. Paul),,30,21
+2,10:07.0,,Toronto full timeout,30,21
+2,10:00.0,,Turnover by K. Lowry (bad pass; steal by A. Rivers),30,21
+2,9:57.0,A. Rivers makes 2-pt layup from 1 ft,,32,21
+2,9:41.0,,N. Powell misses 2-pt layup from 2 ft (block by G. Green),32,21
+2,9:38.0,Defensive rebound by N. Hilário,,32,21
+2,9:35.0,A. Rivers makes 3-pt jump shot from 23 ft (assist by N. Hilário),,35,21
+2,9:20.0,Violation by Team (kicked ball),,35,21
+2,9:08.0,,N. Powell misses 3-pt jump shot from 26 ft,35,21
+2,9:05.0,Defensive rebound by G. Clark,,35,21
+2,8:51.0,Turnover by N. Hilário (dbl dribble),,35,21
+2,8:39.0,,Offensive foul by K. Lowry (drawn by A. Rivers),35,21
+2,8:39.0,,Turnover by K. Lowry (offensive foul),35,21
+2,8:39.0,C. Capela enters the game for N. Hilário,,35,21
+2,8:39.0,E. Gordon enters the game for A. Rivers,,35,21
+2,8:26.0,E. Gordon makes 2-pt layup from 2 ft (assist by C. Paul),,37,21
+2,8:08.0,,N. Powell makes 2-pt layup from 3 ft (assist by J. Lin),37,23
+2,7:50.0,E. Gordon makes 3-pt jump shot from 23 ft (assist by C. Paul),,40,23
+2,7:39.0,,K. Lowry misses 3-pt jump shot from 26 ft,40,23
+2,7:36.0,Defensive rebound by G. Green,,40,23
+2,7:29.0,C. Paul makes 2-pt jump shot from 10 ft,,42,23
+2,7:28.0,,Toronto full timeout,42,23
+2,7:28.0,P. Tucker enters the game for G. Clark,,42,23
+2,7:28.0,,K. Leonard enters the game for J. Lin,42,23
+2,7:28.0,,P. McCaw enters the game for N. Powell,42,23
+2,7:09.0,,M. Gasol makes 2-pt hook shot from 8 ft,42,25
+2,6:50.0,Turnover by P. Tucker (lost ball; steal by K. Leonard),,42,25
+2,6:41.0,,Shooting foul by P. Tucker (drawn by K. Leonard),42,25
+2,6:41.0,,K. Leonard makes free throw 1 of 2,42,26
+2,6:41.0,J. Harden enters the game for G. Green,,42,26
+2,6:41.0,,K. Leonard makes free throw 2 of 2,42,27
+2,6:32.0,P. Tucker makes 3-pt jump shot from 22 ft (assist by C. Paul),,45,27
+2,6:12.0,,K. Lowry misses 2-pt layup from 3 ft,45,27
+2,6:10.0,Defensive rebound by E. Gordon,,45,27
+2,6:00.0,C. Capela makes 2-pt hook shot from 3 ft (assist by C. Paul),,47,27
+2,6:00.0,Shooting foul by M. Gasol (drawn by C. Capela),,47,27
+2,6:00.0,A. Rivers enters the game for C. Paul,,47,27
+2,6:00.0,,S. Ibaka enters the game for O. Anunoby,47,27
+2,6:00.0,,P. Siakam enters the game for M. Gasol,47,27
+2,6:00.0,C. Capela misses free throw 1 of 1,,47,27
+2,5:58.0,,Defensive rebound by S. Ibaka,47,27
+2,5:46.0,,K. Leonard misses 2-pt jump shot from 6 ft,47,27
+2,5:43.0,Defensive rebound by C. Capela,,47,27
+2,5:33.0,Offensive foul by C. Capela (drawn by K. Lowry),,47,27
+2,5:33.0,Turnover by C. Capela (offensive foul),,47,27
+2,5:19.0,,Personal foul by C. Capela (drawn by K. Leonard),47,27
+2,5:07.0,,K. Leonard misses 2-pt jump shot from 20 ft,47,27
+2,5:05.0,Defensive rebound by A. Rivers,,47,27
+2,5:00.0,C. Capela makes 2-pt layup from 3 ft (assist by J. Harden),,49,27
+2,4:46.0,,P. McCaw makes 3-pt jump shot from 23 ft (assist by S. Ibaka),49,30
+2,4:35.0,Turnover by E. Gordon (step out of bounds),,49,30
+2,4:35.0,,D. Green enters the game for P. McCaw,49,30
+2,4:29.0,,Turnover by K. Lowry (bad pass; steal by P. Tucker),49,30
+2,4:23.0,J. Harden misses 2-pt layup from 4 ft,,49,30
+2,4:23.0,,Defensive rebound by Team,49,30
+2,4:23.0,Loose ball foul by J. Harden (drawn by S. Ibaka),,49,30
+2,4:07.0,,K. Leonard misses 2-pt jump shot from 10 ft,49,30
+2,4:04.0,,Offensive rebound by S. Ibaka,49,30
+2,4:01.0,,K. Lowry misses 3-pt jump shot from 26 ft,49,30
+2,4:01.0,,Offensive rebound by P. Siakam,49,30
+2,3:51.0,,P. Siakam misses 2-pt jump shot from 6 ft,49,30
+2,3:47.0,,Offensive rebound by P. Siakam,49,30
+2,3:47.0,,P. Siakam makes 2-pt layup from 1 ft,49,32
+2,3:27.0,J. Harden misses 3-pt jump shot from 26 ft,,49,32
+2,3:23.0,,Defensive rebound by P. Siakam,49,32
+2,3:14.0,,D. Green makes 3-pt jump shot from 23 ft (assist by P. Siakam),49,35
+2,3:14.0,Houston full timeout,,49,35
+2,3:14.0,C. Paul enters the game for E. Gordon,,49,35
+2,2:55.0,J. Harden misses 3-pt jump shot from 26 ft,,49,35
+2,2:53.0,,Defensive rebound by S. Ibaka,49,35
+2,2:42.0,,Turnover by K. Lowry (bad pass; steal by J. Harden),49,35
+2,2:29.0,J. Harden makes 2-pt jump shot from 4 ft,,51,35
+2,2:29.0,,Violation by Team (def goaltending),51,35
+2,2:06.0,,S. Ibaka misses 2-pt jump shot from 10 ft,51,35
+2,2:03.0,Defensive rebound by C. Capela,,51,35
+2,1:54.0,A. Rivers makes 2-pt jump shot from 7 ft (assist by P. Tucker),,53,35
+2,1:38.0,,K. Leonard misses 2-pt hook shot from 5 ft (block by C. Capela),53,35
+2,1:35.0,Defensive rebound by C. Capela,,53,35
+2,1:17.0,P. Tucker misses 3-pt jump shot from 23 ft,,53,35
+2,1:15.0,Offensive rebound by C. Capela,,53,35
+2,1:03.0,J. Harden misses 3-pt jump shot from 25 ft,,53,35
+2,1:02.0,,Defensive rebound by Team,53,35
+2,1:02.0,N. Hilário enters the game for C. Capela,,53,35
+2,0:47.0,,D. Green misses 3-pt jump shot from 23 ft,53,35
+2,0:44.0,,Offensive rebound by K. Lowry,53,35
+2,0:40.0,,S. Ibaka makes 2-pt hook shot from 2 ft (assist by K. Lowry),53,37
+2,0:31.0,C. Paul misses 2-pt layup from 8 ft,,53,37
+2,0:27.0,,Defensive rebound by S. Ibaka,53,37
+2,0:26.0,,Turnover by S. Ibaka (lost ball; steal by C. Paul),53,37
+2,0:08.0,J. Harden makes 2-pt layup from 1 ft,,55,37
+2,0:03.0,,Personal foul by A. Rivers (drawn by P. Siakam),55,37
+2,0:00.0,,K. Lowry misses 2-pt layup from 2 ft,55,37
+2,0:00.0,,Offensive rebound by Team,55,37
+3,11:46.0,,P. Siakam makes 3-pt jump shot from 25 ft (assist by K. Leonard),55,40
+3,11:19.0,E. Gordon misses 2-pt layup from 5 ft (block by S. Ibaka),,55,40
+3,11:19.0,,Defensive rebound by D. Green,55,40
+3,11:06.0,,K. Leonard makes 2-pt jump shot from 13 ft,55,42
+3,10:39.0,J. Harden misses 2-pt layup from 4 ft (block by S. Ibaka),,55,42
+3,10:39.0,,Defensive rebound by S. Ibaka,55,42
+3,10:39.0,,Personal foul by J. Harden (drawn by S. Ibaka),55,42
+3,10:24.0,,K. Leonard misses 2-pt jump shot from 6 ft,55,42
+3,10:20.0,Defensive rebound by C. Capela,,55,42
+3,10:09.0,C. Paul misses 2-pt jump shot from 9 ft,,55,42
+3,10:06.0,,Defensive rebound by S. Ibaka,55,42
+3,9:53.0,,Personal foul by C. Paul (drawn by K. Leonard),55,42
+3,9:44.0,,K. Leonard misses 3-pt jump shot from 25 ft,55,42
+3,9:42.0,,Offensive rebound by S. Ibaka,55,42
+3,9:34.0,,P. Siakam makes 3-pt jump shot from 22 ft (assist by K. Lowry),55,45
+3,9:16.0,Shooting foul by S. Ibaka (drawn by C. Capela),,55,45
+3,9:16.0,C. Capela misses free throw 1 of 2,,55,45
+3,9:16.0,Offensive rebound by Team,,55,45
+3,9:16.0,C. Capela makes free throw 2 of 2,,56,45
+3,9:04.0,,S. Ibaka makes 2-pt hook shot from 3 ft (assist by K. Lowry),56,47
+3,9:04.0,,Shooting foul by J. Harden (drawn by S. Ibaka),56,47
+3,9:04.0,,S. Ibaka misses free throw 1 of 1,56,47
+3,9:02.0,Defensive rebound by P. Tucker,,56,47
+3,8:48.0,J. Harden misses 2-pt jump shot from 4 ft,,56,47
+3,8:45.0,,Defensive rebound by K. Lowry,56,47
+3,8:36.0,,P. Siakam misses 3-pt jump shot from 23 ft,56,47
+3,8:36.0,Defensive rebound by Team,,56,47
+3,8:36.0,,Loose ball foul by K. Lowry (drawn by E. Gordon),56,47
+3,8:36.0,,Technical foul by K. Lowry,56,47
+3,8:36.0,J. Harden makes technical free throw,,57,47
+3,8:13.0,P. Tucker misses 3-pt jump shot from 23 ft,,57,47
+3,8:12.0,,Defensive rebound by Team,57,47
+3,7:57.0,,S. Ibaka makes 2-pt jump shot from 17 ft (assist by K. Lowry),57,49
+3,7:47.0,C. Paul misses 3-pt jump shot from 26 ft,,57,49
+3,7:46.0,,Defensive rebound by P. Siakam,57,49
+3,7:36.0,,D. Green makes 3-pt jump shot from 23 ft (assist by P. Siakam),57,52
+3,7:36.0,Houston full timeout,,57,52
+3,7:23.0,Offensive foul by C. Paul (drawn by K. Lowry),,57,52
+3,7:23.0,Turnover by C. Paul (offensive foul),,57,52
+3,7:09.0,,S. Ibaka misses 2-pt layup from 3 ft,57,52
+3,7:07.0,Defensive rebound by C. Paul,,57,52
+3,7:00.0,J. Harden makes 2-pt jump shot from 8 ft (assist by C. Paul),,59,52
+3,6:55.0,,Shooting foul by C. Paul (drawn by D. Green),59,52
+3,6:55.0,,D. Green makes free throw 1 of 2,59,53
+3,6:55.0,A. Rivers enters the game for C. Paul,,59,53
+3,6:55.0,,D. Green makes free throw 2 of 2,59,54
+3,6:44.0,C. Capela misses 2-pt layup from 3 ft,,59,54
+3,6:42.0,,Defensive rebound by K. Leonard,59,54
+3,6:39.0,,K. Leonard misses 2-pt layup from 2 ft,59,54
+3,6:35.0,Defensive rebound by C. Capela,,59,54
+3,6:13.0,C. Capela misses 2-pt jump shot from 7 ft (block by S. Ibaka),,59,54
+3,6:13.0,Offensive rebound by Team,,59,54
+3,6:13.0,Turnover by Team (shot clock),,59,54
+3,5:53.0,,S. Ibaka makes 2-pt hook shot from 3 ft (assist by D. Green),59,56
+3,5:28.0,J. Harden misses 3-pt jump shot from 25 ft,,59,56
+3,5:25.0,Offensive rebound by P. Tucker,,59,56
+3,5:23.0,P. Tucker misses 2-pt layup from 3 ft,,59,56
+3,5:21.0,,Defensive rebound by K. Leonard,59,56
+3,5:19.0,,Shooting foul by A. Rivers (drawn by K. Leonard),59,56
+3,5:19.0,,K. Leonard makes free throw 1 of 2,59,57
+3,5:19.0,G. Green enters the game for E. Gordon,,59,57
+3,5:19.0,,K. Leonard makes free throw 2 of 2,59,58
+3,4:59.0,J. Harden misses 2-pt jump shot from 5 ft,,59,58
+3,4:57.0,,Defensive rebound by S. Ibaka,59,58
+3,4:46.0,,P. Siakam makes 2-pt hook shot from 10 ft,59,60
+3,4:28.0,Personal foul by S. Ibaka (drawn by C. Capela),,59,60
+3,4:24.0,A. Rivers makes 3-pt jump shot from 26 ft (assist by C. Capela),,62,60
+3,4:03.0,,P. Siakam makes 2-pt layup from 2 ft,62,62
+3,3:46.0,C. Capela misses 2-pt layup from 3 ft (block by S. Ibaka),,62,62
+3,3:43.0,Offensive rebound by C. Capela,,62,62
+3,3:42.0,P. Tucker misses 3-pt jump shot from 23 ft,,62,62
+3,3:40.0,Offensive rebound by Team,,62,62
+3,3:40.0,,Toronto full timeout,62,62
+3,3:40.0,N. Hilário enters the game for C. Capela,,62,62
+3,3:30.0,A. Rivers misses 3-pt jump shot from 26 ft,,62,62
+3,3:26.0,,Defensive rebound by S. Ibaka,62,62
+3,3:21.0,,K. Lowry misses 3-pt jump shot from 25 ft,62,62
+3,3:18.0,Defensive rebound by A. Rivers,,62,62
+3,3:11.0,N. Hilário makes 2-pt layup from 2 ft,,64,62
+3,2:47.0,,P. Siakam makes 2-pt hook shot from 5 ft,64,64
+3,2:23.0,J. Harden misses 3-pt jump shot from 26 ft,,64,64
+3,2:21.0,Offensive rebound by P. Tucker,,64,64
+3,2:17.0,J. Harden misses 2-pt layup from 3 ft,,64,64
+3,2:15.0,,Defensive rebound by K. Lowry,64,64
+3,2:10.0,,D. Green misses 3-pt jump shot from 22 ft,64,64
+3,2:10.0,,Offensive rebound by P. Siakam,64,64
+3,1:59.0,,Personal foul by A. Rivers (drawn by P. Siakam),64,64
+3,1:59.0,,P. Siakam makes free throw 1 of 2,64,65
+3,1:59.0,G. Clark enters the game for J. Harden,,64,65
+3,1:59.0,C. Paul enters the game for P. Tucker,,64,65
+3,1:59.0,,M. Gasol enters the game for S. Ibaka,64,65
+3,1:59.0,,N. Powell enters the game for K. Leonard,64,65
+3,1:59.0,,P. Siakam misses free throw 2 of 2,64,65
+3,1:58.0,Defensive rebound by G. Green,,64,65
+3,1:43.0,N. Hilário makes 2-pt jump shot from 18 ft (assist by A. Rivers),,66,65
+3,1:31.0,,K. Lowry makes 2-pt layup from 2 ft,66,67
+3,1:15.0,G. Green misses 3-pt jump shot from 25 ft,,66,67
+3,1:12.0,,Defensive rebound by P. Siakam,66,67
+3,0:58.0,,K. Lowry misses 2-pt jump shot from 20 ft,66,67
+3,0:55.0,Defensive rebound by N. Hilário,,66,67
+3,0:49.0,Personal foul by N. Powell (drawn by G. Green),,66,67
+3,0:49.0,,J. Lin enters the game for D. Green,66,67
+3,0:49.0,,P. McCaw enters the game for K. Lowry,66,67
+3,0:43.0,Shooting foul by N. Powell (drawn by C. Paul),,66,67
+3,0:43.0,C. Paul makes free throw 1 of 3,,67,67
+3,0:43.0,C. Paul makes free throw 2 of 3,,68,67
+3,0:43.0,C. Paul makes free throw 3 of 3,,69,67
+3,0:33.0,,P. Siakam makes 2-pt layup from 2 ft,69,69
+3,0:29.0,C. Paul misses 3-pt jump shot from 26 ft,,69,69
+3,0:27.0,,Defensive rebound by P. Siakam,69,69
+3,0:14.0,,J. Lin misses 3-pt jump shot from 25 ft,69,69
+3,0:11.0,,Offensive rebound by N. Powell,69,69
+3,0:05.0,,N. Powell makes 2-pt layup from 2 ft,69,71
+3,0:00.0,C. Paul misses 3-pt jump shot from 26 ft,,69,71
+3,0:00.0,Offensive rebound by Team,,69,71
+4,11:47.0,G. Green makes 3-pt jump shot from 23 ft (assist by C. Paul),,72,71
+4,11:34.0,,Personal foul by G. Green (drawn by M. Gasol),72,71
+4,11:34.0,,O. Anunoby enters the game for N. Powell,72,71
+4,11:22.0,,M. Gasol makes 2-pt jump shot from 10 ft (assist by P. Siakam),72,73
+4,11:08.0,G. Green makes 3-pt jump shot from 25 ft (assist by G. Clark),,75,73
+4,10:50.0,,J. Lin misses 2-pt jump shot from 9 ft,75,73
+4,10:48.0,Defensive rebound by N. Hilário,,75,73
+4,10:33.0,Turnover by C. Paul (bad pass),,75,73
+4,10:33.0,E. Gordon enters the game for G. Clark,,75,73
+4,10:08.0,,J. Lin misses 2-pt layup from 3 ft (block by N. Hilário),75,73
+4,10:04.0,Defensive rebound by N. Hilário,,75,73
+4,9:57.0,G. Green misses 3-pt jump shot from 25 ft,,75,73
+4,9:54.0,,Defensive rebound by J. Lin,75,73
+4,9:49.0,,Turnover by J. Lin (lost ball; steal by N. Hilário),75,73
+4,9:44.0,N. Hilário makes 2-pt dunk from 2 ft (assist by C. Paul),,77,73
+4,9:27.0,,M. Gasol misses 2-pt jump shot from 7 ft,77,73
+4,9:26.0,Defensive rebound by C. Paul,,77,73
+4,9:21.0,G. Green makes 3-pt jump shot from 23 ft (assist by C. Paul),,80,73
+4,9:20.0,,Toronto full timeout,80,73
+4,9:20.0,C. Capela enters the game for N. Hilário,,80,73
+4,9:20.0,P. Tucker enters the game for A. Rivers,,80,73
+4,9:20.0,,K. Leonard enters the game for J. Lin,80,73
+4,9:20.0,,K. Lowry enters the game for P. Siakam,80,73
+4,9:07.0,,Turnover by K. Leonard (bad pass; steal by C. Paul),80,73
+4,9:03.0,E. Gordon makes 3-pt jump shot from 25 ft (assist by C. Paul),,83,73
+4,8:45.0,,K. Leonard misses 3-pt jump shot from 25 ft,83,73
+4,8:42.0,Defensive rebound by C. Paul,,83,73
+4,8:35.0,C. Paul misses 2-pt jump shot from 12 ft,,83,73
+4,8:33.0,,Defensive rebound by Team,83,73
+4,8:23.0,,K. Lowry makes 2-pt layup from 3 ft,83,75
+4,8:06.0,Shooting foul by M. Gasol (drawn by G. Green),,83,75
+4,8:06.0,G. Green makes free throw 1 of 2,,84,75
+4,8:06.0,J. Harden enters the game for C. Paul,,84,75
+4,8:06.0,G. Green makes free throw 2 of 2,,85,75
+4,7:53.0,,Personal foul by E. Gordon (drawn by K. Leonard),85,75
+4,7:40.0,,K. Lowry misses 2-pt jump shot from 13 ft,85,75
+4,7:37.0,,Offensive rebound by K. Leonard,85,75
+4,7:30.0,,O. Anunoby makes 3-pt jump shot from 23 ft (assist by P. McCaw),85,78
+4,7:08.0,J. Harden makes 3-pt jump shot from 27 ft,,88,78
+4,6:58.0,,Personal foul by P. Tucker (drawn by K. Lowry),88,78
+4,6:48.0,,K. Leonard makes 2-pt jump shot from 11 ft,88,80
+4,6:28.0,E. Gordon misses 2-pt jump shot from 5 ft,,88,80
+4,6:23.0,Offensive rebound by C. Capela,,88,80
+4,6:20.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by E. Gordon),,91,80
+4,6:04.0,,K. Lowry misses 3-pt jump shot from 25 ft,91,80
+4,6:02.0,Defensive rebound by C. Capela,,91,80
+4,5:48.0,J. Harden makes 3-pt jump shot from 26 ft,,94,80
+4,5:44.0,,Toronto full timeout,94,80
+4,5:44.0,,D. Green enters the game for O. Anunoby,94,80
+4,5:44.0,,S. Ibaka enters the game for M. Gasol,94,80
+4,5:44.0,,P. Siakam enters the game for P. McCaw,94,80
+4,5:36.0,,Personal foul by P. Tucker (drawn by K. Lowry),94,80
+4,5:26.0,,K. Leonard makes 2-pt jump shot from 12 ft,94,82
+4,5:12.0,Shooting foul by S. Ibaka (drawn by J. Harden),,94,82
+4,5:12.0,J. Harden makes free throw 1 of 2,,95,82
+4,5:12.0,C. Paul enters the game for G. Green,,95,82
+4,5:12.0,J. Harden makes free throw 2 of 2,,96,82
+4,4:49.0,,K. Leonard makes 3-pt jump shot from 25 ft,96,85
+4,4:25.0,J. Harden misses 2-pt jump shot from 17 ft,,96,85
+4,4:25.0,,Defensive rebound by Team,96,85
+4,4:25.0,Loose ball foul by C. Capela (drawn by S. Ibaka),,96,85
+4,4:25.0,,S. Ibaka makes free throw 1 of 2,96,86
+4,4:25.0,,S. Ibaka makes free throw 2 of 2,96,87
+4,4:02.0,C. Paul misses 2-pt jump shot from 8 ft,,96,87
+4,4:00.0,,Defensive rebound by S. Ibaka,96,87
+4,3:40.0,,P. Siakam misses 2-pt jump shot from 8 ft,96,87
+4,3:37.0,Defensive rebound by C. Capela,,96,87
+4,3:31.0,Shooting foul by P. Siakam (drawn by J. Harden),,96,87
+4,3:31.0,Houston full timeout,,96,87
+4,3:31.0,J. Harden makes free throw 1 of 2,,97,87
+4,3:31.0,J. Harden makes free throw 2 of 2,,98,87
+4,3:17.0,,K. Lowry misses 3-pt jump shot from 25 ft,98,87
+4,3:14.0,Defensive rebound by C. Capela,,98,87
+4,2:54.0,J. Harden makes 2-pt jump shot from 6 ft,,100,87
+4,2:38.0,,K. Leonard makes 2-pt layup from 2 ft,100,89
+4,2:38.0,,Shooting foul by P. Tucker (drawn by K. Leonard),100,89
+4,2:38.0,,K. Leonard makes free throw 1 of 1,100,90
+4,2:18.0,J. Harden makes 2-pt jump shot from 8 ft,,102,90
+4,2:03.0,,K. Leonard misses 2-pt jump shot from 13 ft,102,90
+4,2:00.0,,Offensive rebound by S. Ibaka,102,90
+4,1:58.0,,D. Green misses 3-pt jump shot from 25 ft,102,90
+4,1:54.0,,Offensive rebound by K. Leonard,102,90
+4,1:52.0,,D. Green misses 3-pt jump shot from 24 ft,102,90
+4,1:52.0,Defensive rebound by Team,,102,90
+4,1:52.0,,Loose ball foul by S. Ibaka (drawn by P. Tucker),102,90
+4,1:28.0,P. Tucker misses 2-pt layup from 2 ft,,102,90
+4,1:26.0,,Defensive rebound by P. Siakam,102,90
+4,1:21.0,,D. Green misses 3-pt jump shot from 23 ft,102,90
+4,1:20.0,Defensive rebound by Team,,102,90
+4,0:59.0,J. Harden makes 2-pt jump shot from 10 ft (assist by P. Tucker),,104,90
+4,0:59.0,Shooting foul by K. Lowry (drawn by J. Harden),,104,90
+4,0:59.0,J. Harden makes free throw 1 of 1,,105,90
+4,0:53.0,,K. Leonard misses 3-pt jump shot from 25 ft,105,90
+4,0:50.0,,Offensive rebound by P. Siakam,105,90
+4,0:37.0,,K. Leonard makes 2-pt layup from 2 ft (assist by K. Lowry),105,92
+4,0:37.0,Violation by Team (def goaltending),,105,92
+4,0:18.0,J. Harden makes 2-pt jump shot from 9 ft,,107,92
+4,0:06.0,,D. Green misses 3-pt jump shot from 23 ft (block by C. Paul),107,92
+4,0:05.0,,Offensive rebound by D. Green,107,92
+4,0:05.0,,D. Green makes 3-pt jump shot from 24 ft,107,95

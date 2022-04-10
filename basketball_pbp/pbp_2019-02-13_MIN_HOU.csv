@@ -1,0 +1,436 @@
+QUARTER,TIME_REMAINING,HOUSTON_ACTION,MINNESOTA_ACTION,HOUSTON_SCORE,MINNESOTA_SCORE
+1,11:47.0,,Turnover by K. Towns (bad pass; steal by P. Tucker),0,0
+1,11:45.0,P. Tucker makes 2-pt layup from 1 ft,,2,0
+1,11:23.0,,D. Šarić makes 2-pt layup from 3 ft (assist by K. Towns),2,2
+1,11:23.0,,Shooting foul by P. Tucker (drawn by D. Šarić),2,2
+1,11:23.0,,D. Šarić makes free throw 1 of 1,2,3
+1,11:08.0,E. Gordon makes 2-pt layup from 2 ft,,4,3
+1,10:49.0,,J. Okogie misses 3-pt jump shot from 24 ft (block by E. Gordon),4,3
+1,10:45.0,Defensive rebound by P. Tucker,,4,3
+1,10:40.0,J. Harden makes 3-pt jump shot from 25 ft (assist by E. Gordon),,7,3
+1,10:21.0,,L. Deng misses 3-pt jump shot from 25 ft,7,3
+1,10:17.0,Defensive rebound by C. Paul,,7,3
+1,10:03.0,C. Paul misses 2-pt jump shot from 14 ft,,7,3
+1,10:00.0,,Defensive rebound by J. Teague,7,3
+1,9:51.0,,L. Deng makes 2-pt layup from 2 ft (assist by K. Towns),7,5
+1,9:35.0,Turnover by J. Harden (lost ball; steal by J. Okogie),,7,5
+1,9:32.0,,J. Okogie misses 2-pt layup from 1 ft,7,5
+1,9:29.0,,Offensive rebound by J. Okogie,7,5
+1,9:26.0,,D. Šarić makes 3-pt jump shot from 25 ft (assist by J. Okogie),7,8
+1,9:12.0,E. Gordon misses 2-pt layup from 2 ft,,7,8
+1,9:08.0,,Defensive rebound by D. Šarić,7,8
+1,9:00.0,,D. Šarić makes 2-pt layup from 2 ft (assist by J. Teague),7,10
+1,8:48.0,C. Paul makes 2-pt layup from 1 ft,,9,10
+1,8:37.0,,J. Teague misses 2-pt layup from 2 ft,9,10
+1,8:34.0,Defensive rebound by K. Faried,,9,10
+1,8:32.0,Shooting foul by L. Deng (drawn by J. Harden),,9,10
+1,8:32.0,J. Harden makes free throw 1 of 2,,10,10
+1,8:32.0,J. Harden makes free throw 2 of 2,,11,10
+1,8:26.0,,Personal foul by K. Faried (drawn by K. Towns),11,10
+1,8:18.0,,K. Towns misses 2-pt jump shot from 15 ft,11,10
+1,8:15.0,,Offensive rebound by L. Deng,11,10
+1,8:14.0,,D. Šarić makes 2-pt layup from 1 ft (assist by L. Deng),11,12
+1,8:04.0,P. Tucker misses 3-pt jump shot from 25 ft,,11,12
+1,8:02.0,Offensive rebound by K. Faried,,11,12
+1,7:58.0,E. Gordon misses 3-pt jump shot from 25 ft,,11,12
+1,7:54.0,,Defensive rebound by K. Towns,11,12
+1,7:38.0,,Turnover by J. Okogie (bad pass),11,12
+1,7:31.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by C. Paul),,14,12
+1,7:15.0,,L. Deng misses 3-pt jump shot from 23 ft,14,12
+1,7:12.0,Defensive rebound by K. Faried,,14,12
+1,7:04.0,Turnover by J. Harden (step out of bounds),,14,12
+1,6:55.0,,J. Teague makes 2-pt layup from 2 ft,14,14
+1,6:40.0,E. Gordon misses 3-pt jump shot from 25 ft,,14,14
+1,6:37.0,,Defensive rebound by L. Deng,14,14
+1,6:29.0,,K. Towns makes 2-pt layup from 1 ft (assist by J. Teague),14,16
+1,6:18.0,C. Paul misses 3-pt jump shot from 25 ft,,14,16
+1,6:17.0,,Defensive rebound by K. Towns,14,16
+1,6:07.0,,J. Teague makes 2-pt jump shot from 10 ft,14,18
+1,6:05.0,Houston full timeout,,14,18
+1,6:05.0,G. Green enters the game for K. Faried,,14,18
+1,6:05.0,N. Hilário enters the game for E. Gordon,,14,18
+1,6:05.0,I. Shumpert enters the game for C. Paul,,14,18
+1,5:44.0,J. Harden misses 3-pt jump shot from 25 ft,,14,18
+1,5:41.0,,Defensive rebound by D. Šarić,14,18
+1,5:23.0,,Turnover by L. Deng (bad pass),14,18
+1,5:06.0,J. Harden misses 3-pt jump shot from 24 ft,,14,18
+1,5:01.0,Offensive rebound by P. Tucker,,14,18
+1,5:01.0,,T. Gibson enters the game for D. Šarić,14,18
+1,4:48.0,J. Harden misses 3-pt jump shot from 25 ft,,14,18
+1,4:47.0,Offensive rebound by Team,,14,18
+1,4:47.0,Turnover by Team (shot clock),,14,18
+1,4:47.0,,D. Rose enters the game for J. Okogie,14,18
+1,4:35.0,,T. Gibson makes 2-pt jump shot from 16 ft (assist by L. Deng),14,20
+1,4:20.0,P. Tucker misses 2-pt jump shot from 7 ft,,14,20
+1,4:17.0,,Defensive rebound by K. Towns,14,20
+1,4:06.0,,D. Rose misses 3-pt jump shot from 22 ft,14,20
+1,4:02.0,Defensive rebound by I. Shumpert,,14,20
+1,3:49.0,Personal foul by J. Teague (drawn by J. Harden),,14,20
+1,3:49.0,E. Gordon enters the game for P. Tucker,,14,20
+1,3:49.0,,J. Bayless enters the game for J. Teague,14,20
+1,3:41.0,N. Hilário makes 2-pt layup from 1 ft (assist by E. Gordon),,16,20
+1,3:25.0,,Shooting foul by G. Green (drawn by L. Deng),16,20
+1,3:25.0,,L. Deng makes free throw 1 of 2,16,21
+1,3:25.0,,L. Deng makes free throw 2 of 2,16,22
+1,3:07.0,G. Green makes 2-pt layup from 1 ft (assist by J. Harden),,18,22
+1,2:53.0,,D. Rose makes 2-pt jump shot from 16 ft,18,24
+1,2:35.0,G. Green misses 2-pt layup at rim (block by K. Towns),,18,24
+1,2:33.0,,Defensive rebound by T. Gibson,18,24
+1,2:30.0,,D. Rose makes 2-pt layup from 2 ft,18,26
+1,2:23.0,I. Shumpert makes 3-pt jump shot from 25 ft (assist by J. Harden),,21,26
+1,2:16.0,,Minnesota full timeout,21,26
+1,2:16.0,C. Paul enters the game for J. Harden,,21,26
+1,2:16.0,,G. Dieng enters the game for L. Deng,21,26
+1,2:16.0,,J. Okogie enters the game for K. Towns,21,26
+1,2:08.0,,Turnover by D. Rose (bad pass; steal by N. Hilário),21,26
+1,1:57.0,G. Green misses 3-pt jump shot from 26 ft,,21,26
+1,1:54.0,,Defensive rebound by G. Dieng,21,26
+1,1:43.0,,T. Gibson misses 2-pt layup from 3 ft,21,26
+1,1:40.0,Defensive rebound by G. Green,,21,26
+1,1:35.0,G. Green makes 3-pt jump shot from 25 ft (assist by E. Gordon),,24,26
+1,1:21.0,,Personal foul by I. Shumpert (drawn by T. Gibson),24,26
+1,1:07.0,,T. Gibson misses 2-pt jump shot from 7 ft,24,26
+1,1:04.0,Defensive rebound by N. Hilário,,24,26
+1,0:51.0,G. Green makes 3-pt jump shot from 26 ft (assist by E. Gordon),,27,26
+1,0:41.0,,J. Okogie makes 2-pt layup from 2 ft,27,28
+1,0:34.0,E. Gordon misses 2-pt layup from 6 ft,,27,28
+1,0:31.0,,Defensive rebound by T. Gibson,27,28
+1,0:26.0,,Turnover by G. Dieng (traveling),27,28
+1,0:26.0,,L. Deng enters the game for G. Dieng,27,28
+1,0:04.0,N. Hilário makes 2-pt jump shot from 19 ft (assist by C. Paul),,29,28
+2,11:37.0,C. Paul misses 3-pt jump shot from 25 ft,,29,28
+2,11:33.0,,Defensive rebound by D. Rose,29,28
+2,11:25.0,,D. Rose misses 2-pt layup from 2 ft,29,28
+2,11:23.0,Defensive rebound by K. Faried,,29,28
+2,11:18.0,G. Green misses 3-pt jump shot from 25 ft,,29,28
+2,11:15.0,,Defensive rebound by T. Gibson,29,28
+2,11:08.0,,J. Okogie misses 2-pt layup from 1 ft,29,28
+2,11:04.0,,Offensive rebound by T. Gibson,29,28
+2,10:53.0,,T. Gibson makes 2-pt layup from 1 ft (assist by D. Rose),29,30
+2,10:31.0,K. Faried makes 2-pt jump shot from 14 ft (assist by E. Gordon),,31,30
+2,10:21.0,,D. Rose makes 2-pt layup at rim,31,32
+2,10:10.0,K. Faried makes 2-pt layup from 1 ft (assist by C. Paul),,33,32
+2,9:56.0,,L. Deng makes 2-pt layup at rim (assist by J. Okogie),33,34
+2,9:39.0,C. Paul misses 2-pt jump shot from 14 ft,,33,34
+2,9:37.0,,Defensive rebound by L. Deng,33,34
+2,9:30.0,,T. Gibson makes 2-pt dunk from 1 ft (assist by D. Rose),33,36
+2,9:10.0,I. Shumpert misses 3-pt jump shot from 25 ft,,33,36
+2,9:07.0,,Defensive rebound by T. Gibson,33,36
+2,9:01.0,,D. Rose misses 2-pt jump shot from 22 ft,33,36
+2,8:59.0,Defensive rebound by C. Paul,,33,36
+2,8:46.0,G. Green misses 2-pt jump shot from 17 ft,,33,36
+2,8:41.0,Offensive rebound by K. Faried,,33,36
+2,8:41.0,K. Faried makes 2-pt layup from 1 ft,,35,36
+2,8:29.0,,L. Deng makes 2-pt layup from 1 ft (assist by J. Bayless),35,38
+2,8:27.0,Houston full timeout,,35,38
+2,8:27.0,J. Harden enters the game for G. Green,,35,38
+2,8:27.0,P. Tucker enters the game for I. Shumpert,,35,38
+2,8:27.0,,J. Teague enters the game for L. Deng,35,38
+2,8:27.0,,A. Tolliver enters the game for D. Rose,35,38
+2,8:12.0,C. Paul misses 3-pt jump shot from 26 ft,,35,38
+2,8:09.0,,Defensive rebound by J. Okogie,35,38
+2,7:51.0,,J. Okogie misses 3-pt jump shot from 25 ft,35,38
+2,7:50.0,Defensive rebound by Team,,35,38
+2,7:43.0,J. Harden makes 2-pt layup from 3 ft (assist by C. Paul),,37,38
+2,7:43.0,Shooting foul by T. Gibson (drawn by J. Harden),,37,38
+2,7:43.0,J. Harden makes free throw 1 of 1,,38,38
+2,7:28.0,,Shooting foul by K. Faried (drawn by J. Teague),38,38
+2,7:28.0,,J. Teague makes free throw 1 of 2,38,39
+2,7:28.0,,J. Teague makes free throw 2 of 2,38,40
+2,7:09.0,J. Harden makes 2-pt layup from 1 ft,,40,40
+2,6:53.0,,J. Teague misses 2-pt jump shot from 7 ft,40,40
+2,6:51.0,Defensive rebound by C. Paul,,40,40
+2,6:34.0,C. Paul makes 3-pt jump shot from 24 ft (assist by P. Tucker),,43,40
+2,6:16.0,,Shooting foul by P. Tucker (drawn by T. Gibson),43,40
+2,6:16.0,,T. Gibson makes free throw 1 of 2,43,41
+2,6:16.0,G. Green enters the game for E. Gordon,,43,41
+2,6:16.0,I. Shumpert enters the game for C. Paul,,43,41
+2,6:16.0,,T. Gibson makes free throw 2 of 2,43,42
+2,6:03.0,I. Shumpert misses 3-pt jump shot from 23 ft,,43,42
+2,6:01.0,Offensive rebound by Team,,43,42
+2,6:01.0,,D. Šarić enters the game for T. Gibson,43,42
+2,6:01.0,,K. Towns enters the game for A. Tolliver,43,42
+2,5:49.0,J. Harden makes 3-pt jump shot from 25 ft,,46,42
+2,5:37.0,,K. Towns makes 2-pt dunk from 3 ft (assist by J. Okogie),46,44
+2,5:31.0,Personal foul by J. Okogie (drawn by G. Green),,46,44
+2,5:31.0,N. Hilário enters the game for K. Faried,,46,44
+2,5:22.0,J. Harden misses 2-pt jump shot from 11 ft,,46,44
+2,5:20.0,Offensive rebound by J. Harden,,46,44
+2,5:14.0,J. Harden makes 2-pt layup from 1 ft,,48,44
+2,4:51.0,,Turnover by K. Towns (traveling),48,44
+2,4:36.0,P. Tucker makes 3-pt jump shot from 23 ft (assist by I. Shumpert),,51,44
+2,4:35.0,,Minnesota full timeout,51,44
+2,4:35.0,,L. Deng enters the game for J. Bayless,51,44
+2,4:35.0,,D. Rose enters the game for J. Okogie,51,44
+2,4:15.0,,D. Rose misses 2-pt jump shot from 12 ft,51,44
+2,4:11.0,,Offensive rebound by D. Rose,51,44
+2,4:11.0,,D. Rose makes 2-pt layup from 7 ft,51,46
+2,3:56.0,J. Harden misses 2-pt layup at rim (block by L. Deng),,51,46
+2,3:56.0,Offensive rebound by Team,,51,46
+2,3:47.0,J. Harden misses 2-pt layup at rim,,51,46
+2,3:44.0,Offensive rebound by J. Harden,,51,46
+2,3:43.0,P. Tucker misses 3-pt jump shot from 23 ft,,51,46
+2,3:41.0,,Defensive rebound by K. Towns,51,46
+2,3:31.0,,K. Towns makes 2-pt hook shot from 6 ft (assist by D. Šarić),51,48
+2,3:20.0,G. Green misses 3-pt jump shot from 25 ft,,51,48
+2,3:18.0,,Defensive rebound by D. Šarić,51,48
+2,3:11.0,,Shooting foul by J. Harden (drawn by J. Teague),51,48
+2,3:11.0,E. Gordon enters the game for G. Green,,51,48
+2,3:11.0,C. Paul enters the game for I. Shumpert,,51,48
+2,3:11.0,,J. Teague makes free throw 1 of 2,51,49
+2,3:11.0,,J. Teague makes free throw 2 of 2,51,50
+2,3:00.0,J. Harden misses 3-pt jump shot from 25 ft,,51,50
+2,2:57.0,,Defensive rebound by J. Teague,51,50
+2,2:52.0,,Personal foul by N. Hilário (drawn by K. Towns),51,50
+2,2:41.0,,K. Towns misses 2-pt hook shot from 3 ft,51,50
+2,2:39.0,,Offensive rebound by K. Towns,51,50
+2,2:38.0,,K. Towns misses 2-pt layup from 2 ft,51,50
+2,2:36.0,Defensive rebound by P. Tucker,,51,50
+2,2:33.0,N. Hilário misses 2-pt layup from 3 ft,,51,50
+2,2:33.0,Offensive rebound by N. Hilário,,51,50
+2,2:24.0,J. Harden makes 3-pt jump shot from 25 ft,,54,50
+2,2:06.0,,Turnover by D. Šarić (lost ball; steal by P. Tucker),54,50
+2,2:00.0,J. Harden makes 2-pt layup from 1 ft,,56,50
+2,2:00.0,,Violation by Team (def goaltending),56,50
+2,1:49.0,,D. Rose misses 2-pt jump shot from 7 ft,56,50
+2,1:46.0,Defensive rebound by J. Harden,,56,50
+2,1:25.0,J. Harden misses 3-pt jump shot from 25 ft,,56,50
+2,1:20.0,,Defensive rebound by D. Rose,56,50
+2,1:07.0,,Turnover by D. Rose (bad pass; steal by E. Gordon),56,50
+2,0:58.0,C. Paul misses 2-pt jump shot from 11 ft,,56,50
+2,0:56.0,,Defensive rebound by L. Deng,56,50
+2,0:54.0,,Personal foul by C. Paul (drawn by L. Deng),56,50
+2,0:54.0,,L. Deng misses free throw 1 of 2,56,50
+2,0:54.0,,Offensive rebound by Team,56,50
+2,0:54.0,,L. Deng misses free throw 2 of 2,56,50
+2,0:51.0,,Offensive rebound by D. Šarić,56,50
+2,0:50.0,,D. Šarić misses 2-pt layup from 1 ft,56,50
+2,0:48.0,,Offensive rebound by L. Deng,56,50
+2,0:47.0,,L. Deng misses 2-pt layup from 1 ft,56,50
+2,0:47.0,,Offensive rebound by D. Šarić,56,50
+2,0:36.0,,Turnover by J. Teague (lost ball; steal by C. Paul),56,50
+2,0:32.0,C. Paul makes 2-pt layup from 2 ft (assist by E. Gordon),,58,50
+2,0:24.0,,J. Teague makes 2-pt jump shot from 15 ft,58,52
+2,0:06.0,Personal foul by L. Deng (drawn by J. Harden),,58,52
+2,0:01.0,J. Harden misses 3-pt jump shot from 28 ft,,58,52
+2,0:00.0,,Defensive rebound by Team,58,52
+3,11:46.0,E. Gordon misses 3-pt jump shot from 26 ft,,58,52
+3,11:43.0,Offensive rebound by K. Faried,,58,52
+3,11:42.0,K. Faried misses 2-pt layup at rim,,58,52
+3,11:40.0,Offensive rebound by K. Faried,,58,52
+3,11:38.0,K. Faried misses 2-pt layup from 1 ft,,58,52
+3,11:35.0,,Defensive rebound by K. Towns,58,52
+3,11:33.0,,J. Teague makes 2-pt layup from 1 ft,58,54
+3,11:21.0,J. Harden makes 3-pt jump shot from 25 ft,,61,54
+3,11:06.0,,K. Towns misses 2-pt layup from 4 ft,61,54
+3,11:02.0,Defensive rebound by P. Tucker,,61,54
+3,10:56.0,J. Harden makes 2-pt layup from 2 ft,,63,54
+3,10:39.0,,J. Okogie makes 2-pt dunk from 2 ft (assist by K. Towns),63,56
+3,10:18.0,Shooting foul by D. Šarić (drawn by K. Faried),,63,56
+3,10:18.0,K. Faried makes free throw 1 of 2,,64,56
+3,10:18.0,K. Faried makes free throw 2 of 2,,65,56
+3,10:10.0,,J. Teague makes 2-pt jump shot from 3 ft,65,58
+3,9:57.0,Turnover by E. Gordon (step out of bounds),,65,58
+3,9:49.0,,K. Towns makes 3-pt jump shot from 24 ft (assist by J. Teague),65,61
+3,9:39.0,,Violation by Team (kicked ball),65,61
+3,9:24.0,J. Harden misses 3-pt jump shot from 26 ft,,65,61
+3,9:23.0,Offensive rebound by K. Faried,,65,61
+3,9:22.0,K. Faried misses 2-pt layup from 2 ft,,65,61
+3,9:21.0,Offensive rebound by K. Faried,,65,61
+3,9:20.0,K. Faried misses 2-pt layup from 1 ft,,65,61
+3,9:18.0,Offensive rebound by K. Faried,,65,61
+3,9:17.0,K. Faried misses 2-pt layup from 1 ft,,65,61
+3,9:16.0,Offensive rebound by K. Faried,,65,61
+3,9:16.0,K. Faried misses 2-pt layup from 2 ft,,65,61
+3,9:15.0,,Defensive rebound by D. Šarić,65,61
+3,9:05.0,,J. Okogie makes 2-pt layup from 1 ft (assist by L. Deng),65,63
+3,8:57.0,C. Paul misses 3-pt jump shot from 26 ft,,65,63
+3,8:57.0,,Defensive rebound by K. Towns,65,63
+3,8:47.0,,K. Towns makes 2-pt layup at rim (assist by J. Teague),65,65
+3,8:47.0,Houston full timeout,,65,65
+3,8:47.0,N. Hilário enters the game for K. Faried,,65,65
+3,8:30.0,E. Gordon makes 3-pt jump shot from 24 ft,,68,65
+3,8:17.0,,J. Teague misses 2-pt layup from 4 ft,68,65
+3,8:14.0,Defensive rebound by P. Tucker,,68,65
+3,8:07.0,J. Harden makes 2-pt jump shot from 7 ft,,70,65
+3,7:58.0,,Personal foul by N. Hilário (drawn by J. Teague),70,65
+3,7:51.0,,J. Okogie misses 2-pt layup from 2 ft,70,65
+3,7:49.0,,Offensive rebound by J. Okogie,70,65
+3,7:48.0,,J. Okogie misses 2-pt layup at rim,70,65
+3,7:44.0,,Offensive rebound by D. Šarić,70,65
+3,7:35.0,,D. Šarić misses 2-pt layup from 1 ft,70,65
+3,7:32.0,,Offensive rebound by D. Šarić,70,65
+3,7:32.0,,D. Šarić makes 2-pt layup from 1 ft,70,67
+3,7:19.0,J. Harden makes 3-pt jump shot from 26 ft,,73,67
+3,7:19.0,Shooting foul by J. Okogie (drawn by J. Harden),,73,67
+3,7:19.0,J. Harden makes free throw 1 of 1,,74,67
+3,7:05.0,,K. Towns misses 2-pt layup from 3 ft (block by N. Hilário),74,67
+3,7:03.0,Defensive rebound by Team,,74,67
+3,6:50.0,P. Tucker misses 3-pt jump shot from 24 ft,,74,67
+3,6:47.0,,Defensive rebound by L. Deng,74,67
+3,6:37.0,,K. Towns makes 2-pt layup from 1 ft (assist by L. Deng),74,69
+3,6:26.0,Turnover by J. Harden (step out of bounds),,74,69
+3,6:26.0,G. Green enters the game for E. Gordon,,74,69
+3,6:26.0,I. Shumpert enters the game for C. Paul,,74,69
+3,6:16.0,,Personal foul by P. Tucker (drawn by D. Šarić),74,69
+3,6:16.0,,A. Tolliver enters the game for L. Deng,74,69
+3,6:12.0,,K. Towns makes 3-pt jump shot from 23 ft (assist by J. Okogie),74,72
+3,6:00.0,Personal foul by K. Towns (drawn by N. Hilário),,74,72
+3,5:54.0,G. Green misses 2-pt layup from 5 ft (block by K. Towns),,74,72
+3,5:54.0,,Defensive rebound by Team,74,72
+3,5:34.0,,K. Towns misses 2-pt layup from 1 ft,74,72
+3,5:31.0,Defensive rebound by N. Hilário,,74,72
+3,5:26.0,Turnover by J. Harden (lost ball; steal by J. Okogie),,74,72
+3,5:24.0,,Shooting foul by N. Hilário (drawn by J. Okogie),74,72
+3,5:24.0,,J. Okogie misses free throw 1 of 2,74,72
+3,5:24.0,,Offensive rebound by Team,74,72
+3,5:24.0,,T. Gibson enters the game for D. Šarić,74,72
+3,5:24.0,,J. Okogie misses free throw 2 of 2,74,72
+3,5:22.0,Defensive rebound by J. Harden,,74,72
+3,5:12.0,N. Hilário misses 2-pt layup from 3 ft,,74,72
+3,5:10.0,,Defensive rebound by K. Towns,74,72
+3,5:06.0,,K. Towns misses 3-pt jump shot from 26 ft,74,72
+3,5:02.0,Defensive rebound by P. Tucker,,74,72
+3,4:42.0,J. Harden misses 3-pt jump shot from 26 ft,,74,72
+3,4:39.0,,Defensive rebound by K. Towns,74,72
+3,4:36.0,,J. Okogie makes 2-pt dunk from 1 ft (assist by K. Towns),74,74
+3,4:19.0,Turnover by G. Green (bad pass; steal by J. Teague),,74,74
+3,4:10.0,,J. Okogie makes 3-pt jump shot from 26 ft (assist by J. Teague),74,77
+3,3:40.0,J. Harden misses 3-pt jump shot from 27 ft (block by J. Okogie),,74,77
+3,3:40.0,Offensive rebound by Team,,74,77
+3,3:40.0,Turnover by Team (shot clock),,74,77
+3,3:40.0,K. Faried enters the game for N. Hilário,,74,77
+3,3:40.0,,D. Rose enters the game for J. Teague,74,77
+3,3:33.0,,D. Rose misses 2-pt jump shot from 17 ft,74,77
+3,3:30.0,Defensive rebound by J. Harden,,74,77
+3,3:26.0,Personal foul by J. Okogie (drawn by J. Harden),,74,77
+3,3:26.0,,Minnesota full timeout,74,77
+3,3:26.0,,L. Deng enters the game for J. Okogie,74,77
+3,3:10.0,J. Harden misses 2-pt jump shot from 11 ft,,74,77
+3,3:07.0,,Defensive rebound by T. Gibson,74,77
+3,2:51.0,,K. Towns makes 2-pt jump shot from 8 ft (assist by D. Rose),74,79
+3,2:30.0,K. Faried misses 2-pt layup from 3 ft (block by A. Tolliver),,74,79
+3,2:30.0,Offensive rebound by Team,,74,79
+3,2:30.0,E. Gordon enters the game for J. Harden,,74,79
+3,2:30.0,C. Paul enters the game for P. Tucker,,74,79
+3,2:30.0,,J. Okogie enters the game for K. Towns,74,79
+3,2:28.0,G. Green makes 2-pt jump shot from 17 ft (assist by C. Paul),,76,79
+3,2:13.0,,T. Gibson makes 2-pt layup from 2 ft (assist by D. Rose),76,81
+3,2:10.0,Technical foul by G. Green,,76,81
+3,2:10.0,,D. Rose makes technical free throw,76,82
+3,1:59.0,E. Gordon misses 2-pt layup from 3 ft,,76,82
+3,1:59.0,,Defensive rebound by Team,76,82
+3,1:59.0,Loose ball foul by K. Faried (drawn by L. Deng),,76,82
+3,1:43.0,,D. Rose makes 2-pt layup from 2 ft,76,84
+3,1:43.0,,Shooting foul by K. Faried (drawn by D. Rose),76,84
+3,1:43.0,,D. Rose makes free throw 1 of 1,76,85
+3,1:36.0,Personal foul by D. Rose (drawn by C. Paul),,76,85
+3,1:36.0,C. Paul makes free throw 1 of 2,,77,85
+3,1:36.0,C. Paul makes free throw 2 of 2,,78,85
+3,1:20.0,,J. Okogie misses 3-pt jump shot from 24 ft,78,85
+3,1:17.0,Defensive rebound by E. Gordon,,78,85
+3,1:11.0,E. Gordon makes 2-pt layup from 1 ft (assist by C. Paul),,80,85
+3,1:01.0,,D. Rose misses 2-pt jump shot from 20 ft,80,85
+3,0:57.0,Defensive rebound by E. Gordon,,80,85
+3,0:52.0,Personal foul by J. Okogie (drawn by C. Paul),,80,85
+3,0:52.0,C. Paul makes free throw 1 of 2,,81,85
+3,0:52.0,,J. Teague enters the game for J. Okogie,81,85
+3,0:52.0,C. Paul misses free throw 2 of 2,,81,85
+3,0:51.0,,Defensive rebound by A. Tolliver,81,85
+3,0:36.0,,Shooting foul by C. Paul (drawn by L. Deng),81,85
+3,0:36.0,,L. Deng makes free throw 1 of 2,81,86
+3,0:36.0,,L. Deng makes free throw 2 of 2,81,87
+3,0:31.0,I. Shumpert misses 3-pt jump shot from 25 ft,,81,87
+3,0:28.0,,Defensive rebound by A. Tolliver,81,87
+3,0:10.0,,D. Rose misses 2-pt jump shot from 8 ft,81,87
+3,0:07.0,Defensive rebound by C. Paul,,81,87
+3,0:04.0,E. Gordon makes 3-pt jump shot from 24 ft (assist by C. Paul),,84,87
+4,11:50.0,,J. Teague makes 2-pt layup from 1 ft,84,89
+4,11:32.0,C. Paul makes 3-pt jump shot from 25 ft (assist by K. Faried),,87,89
+4,11:17.0,,T. Gibson misses 2-pt jump shot from 6 ft,87,89
+4,11:14.0,Defensive rebound by C. Paul,,87,89
+4,10:55.0,J. Harden makes 2-pt jump shot from 11 ft,,89,89
+4,10:38.0,,J. Teague misses 2-pt layup from 2 ft,89,89
+4,10:36.0,Defensive rebound by E. Gordon,,89,89
+4,10:22.0,E. Gordon misses 3-pt jump shot from 26 ft,,89,89
+4,10:20.0,Offensive rebound by Team,,89,89
+4,10:11.0,J. Harden misses 2-pt jump shot from 15 ft,,89,89
+4,10:07.0,,Defensive rebound by A. Tolliver,89,89
+4,10:02.0,,I. Canaan makes 3-pt jump shot from 23 ft (assist by J. Teague),89,92
+4,9:49.0,Personal foul by T. Gibson (drawn by C. Paul),,89,92
+4,9:46.0,K. Faried makes 2-pt dunk from 1 ft (assist by J. Harden),,91,92
+4,9:32.0,,L. Deng makes 3-pt jump shot from 23 ft (assist by J. Teague),91,95
+4,9:09.0,E. Gordon makes 3-pt jump shot from 24 ft (assist by J. Harden),,94,95
+4,8:52.0,,A. Tolliver misses 3-pt jump shot from 25 ft,94,95
+4,8:51.0,Defensive rebound by Team,,94,95
+4,8:44.0,J. Harden misses 3-pt jump shot from 26 ft,,94,95
+4,8:40.0,,Defensive rebound by T. Gibson,94,95
+4,8:30.0,,L. Deng misses 2-pt jump shot from 12 ft,94,95
+4,8:30.0,,Offensive rebound by Team,94,95
+4,8:20.0,,J. Teague misses 2-pt layup from 6 ft,94,95
+4,8:19.0,,Offensive rebound by T. Gibson,94,95
+4,8:19.0,,T. Gibson misses 2-pt layup from 1 ft,94,95
+4,8:19.0,,Offensive rebound by Team,94,95
+4,8:19.0,Loose ball foul by C. Paul (drawn by T. Gibson),,94,95
+4,8:19.0,P. Tucker enters the game for G. Green,,94,95
+4,8:19.0,,K. Towns enters the game for A. Tolliver,94,95
+4,8:12.0,,K. Towns makes 3-pt jump shot from 26 ft (assist by J. Teague),94,98
+4,7:46.0,J. Harden misses 3-pt jump shot from 27 ft,,94,98
+4,7:43.0,,Defensive rebound by I. Canaan,94,98
+4,7:31.0,,K. Towns makes 2-pt jump shot from 12 ft (assist by J. Teague),94,100
+4,7:30.0,Houston full timeout,,94,100
+4,7:14.0,Shooting foul by K. Towns (drawn by C. Paul),,94,100
+4,7:14.0,C. Paul makes free throw 1 of 3,,95,100
+4,7:14.0,C. Paul makes free throw 2 of 3,,96,100
+4,7:14.0,C. Paul makes free throw 3 of 3,,97,100
+4,6:56.0,,L. Deng misses 3-pt jump shot from 23 ft,97,100
+4,6:53.0,Defensive rebound by Team,,97,100
+4,6:53.0,,Violation by Team (kicked ball),97,100
+4,6:33.0,C. Paul misses 3-pt jump shot from 25 ft,,97,100
+4,6:30.0,Offensive rebound by P. Tucker,,97,100
+4,6:29.0,E. Gordon misses 3-pt jump shot from 27 ft,,97,100
+4,6:29.0,,Defensive rebound by L. Deng,97,100
+4,6:10.0,,Personal foul by J. Harden (drawn by K. Towns),97,100
+4,6:10.0,G. Green enters the game for C. Paul,,97,100
+4,6:10.0,,D. Rose enters the game for I. Canaan,97,100
+4,6:10.0,,D. Šarić enters the game for T. Gibson,97,100
+4,6:01.0,,D. Šarić makes 3-pt jump shot from 25 ft (assist by J. Teague),97,103
+4,5:35.0,G. Green makes 3-pt jump shot from 24 ft (assist by J. Harden),,100,103
+4,5:13.0,,Personal foul by P. Tucker (drawn by K. Towns),100,103
+4,5:13.0,,J. Okogie enters the game for L. Deng,100,103
+4,5:02.0,,J. Teague makes 2-pt jump shot from 9 ft,100,105
+4,5:02.0,Violation by Team (def goaltending),,100,105
+4,4:46.0,K. Faried makes 2-pt dunk from 1 ft (assist by J. Harden),,102,105
+4,4:36.0,,Minnesota full timeout,102,105
+4,4:29.0,,J. Okogie makes 3-pt jump shot from 24 ft (assist by J. Teague),102,108
+4,4:10.0,Houston full timeout,,102,108
+4,4:10.0,C. Paul enters the game for E. Gordon,,102,108
+4,4:01.0,Turnover by J. Harden (lost ball; steal by D. Šarić),,102,108
+4,3:47.0,,J. Teague makes 2-pt jump shot from 17 ft,102,110
+4,3:29.0,Turnover by G. Green (traveling),,102,110
+4,3:16.0,,D. Šarić misses 2-pt jump shot from 17 ft,102,110
+4,3:11.0,Defensive rebound by P. Tucker,,102,110
+4,3:00.0,J. Harden makes 3-pt jump shot from 26 ft (assist by C. Paul),,105,110
+4,2:38.0,,J. Teague makes 2-pt jump shot from 11 ft,105,112
+4,2:23.0,J. Harden makes 3-pt jump shot from 25 ft,,108,112
+4,2:01.0,,J. Teague makes 3-pt jump shot from 25 ft,108,115
+4,1:52.0,J. Harden makes 3-pt jump shot from 25 ft,,111,115
+4,1:52.0,E. Gordon enters the game for K. Faried,,111,115
+4,1:52.0,I. Shumpert enters the game for G. Green,,111,115
+4,1:52.0,,L. Deng enters the game for D. Šarić,111,115
+4,1:30.0,,J. Okogie makes 2-pt dunk from 1 ft (assist by K. Towns),111,117
+4,1:21.0,J. Harden misses 3-pt jump shot from 27 ft,,111,117
+4,1:20.0,,Defensive rebound by Team,111,117
+4,1:08.0,,K. Towns makes 2-pt layup from 1 ft (assist by J. Teague),111,119
+4,1:08.0,Houston full timeout,,111,119
+4,0:55.0,J. Harden misses 3-pt jump shot from 27 ft,,111,119
+4,0:53.0,Offensive rebound by Team,,111,119
+4,0:48.0,C. Paul misses 3-pt jump shot from 23 ft,,111,119
+4,0:45.0,,Defensive rebound by J. Teague,111,119
+4,0:37.0,,Turnover by L. Deng (bad pass),111,119
+4,0:33.0,Turnover by J. Harden (out of bounds lost ball),,111,119
+4,0:22.0,,J. Okogie misses 3-pt jump shot from 24 ft,111,119
+4,0:19.0,,Offensive rebound by L. Deng,111,119
+4,0:07.0,,J. Teague makes 2-pt jump shot from 8 ft,111,121
+4,0:00.0,J. Harden misses 3-pt jump shot from 27 ft,,111,121
+4,0:00.0,Offensive rebound by Team,,111,121

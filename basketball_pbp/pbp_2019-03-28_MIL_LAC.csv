@@ -1,0 +1,463 @@
+QUARTER,TIME_REMAINING,LA CLIPPERS_ACTION,MILWAUKEE_ACTION,LA CLIPPERS_SCORE,MILWAUKEE_SCORE
+1,11:42.0,,B. Lopez makes 3-pt jump shot from 24 ft (assist by E. Bledsoe),0,3
+1,11:27.0,L. Shamet makes 3-pt jump shot from 24 ft (assist by G. Temple),,3,3
+1,11:14.0,,Personal foul by S. Gilgeous-Alexander (drawn by E. Bledsoe),3,3
+1,11:08.0,,Offensive foul by G. Antetokounmpo (drawn by L. Shamet),3,3
+1,11:08.0,,Turnover by G. Antetokounmpo (offensive foul),3,3
+1,10:57.0,S. Gilgeous-Alexander makes 2-pt jump shot from 14 ft,,5,3
+1,10:45.0,,S. Brown misses 3-pt jump shot from 26 ft,5,3
+1,10:42.0,Defensive rebound by G. Temple,,5,3
+1,10:37.0,G. Temple misses 2-pt jump shot from 15 ft,,5,3
+1,10:34.0,,Defensive rebound by K. Middleton,5,3
+1,10:26.0,,K. Middleton makes 2-pt jump shot from 11 ft,5,5
+1,10:17.0,Personal foul by K. Middleton (drawn by D. Gallinari),,5,5
+1,10:12.0,D. Gallinari makes 3-pt jump shot from 27 ft (assist by G. Temple),,8,5
+1,9:51.0,,G. Antetokounmpo makes 2-pt layup from 3 ft,8,7
+1,9:37.0,D. Gallinari misses 2-pt jump shot from 16 ft,,8,7
+1,9:33.0,,Defensive rebound by B. Lopez,8,7
+1,9:28.0,,G. Antetokounmpo makes 3-pt jump shot from 24 ft,8,10
+1,9:15.0,S. Gilgeous-Alexander misses 2-pt jump shot from 17 ft,,8,10
+1,9:12.0,,Defensive rebound by B. Lopez,8,10
+1,9:02.0,,E. Bledsoe misses 2-pt layup from 3 ft,8,10
+1,8:59.0,Defensive rebound by S. Gilgeous-Alexander,,8,10
+1,8:48.0,S. Gilgeous-Alexander misses 2-pt layup from 3 ft,,8,10
+1,8:45.0,,Defensive rebound by B. Lopez,8,10
+1,8:38.0,,K. Middleton makes 3-pt jump shot from 26 ft (assist by S. Brown),8,13
+1,8:15.0,I. Zubac makes 2-pt jump shot from 19 ft,,10,13
+1,7:52.0,,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by E. Bledsoe),10,15
+1,7:28.0,S. Gilgeous-Alexander makes 3-pt jump shot from 26 ft (assist by I. Zubac),,13,15
+1,7:13.0,,K. Middleton misses 2-pt jump shot from 11 ft,13,15
+1,7:10.0,Defensive rebound by I. Zubac,,13,15
+1,7:05.0,I. Zubac misses 2-pt dunk from 3 ft (block by S. Brown),,13,15
+1,7:00.0,,Defensive rebound by K. Middleton,13,15
+1,6:59.0,,E. Bledsoe misses 3-pt jump shot from 27 ft,13,15
+1,6:56.0,Defensive rebound by D. Gallinari,,13,15
+1,6:53.0,L. Shamet makes 3-pt jump shot from 27 ft (assist by D. Gallinari),,16,15
+1,6:53.0,,Milwaukee full timeout,16,15
+1,6:53.0,,P. Connaughton enters the game for K. Middleton,16,15
+1,6:32.0,,S. Brown makes 2-pt layup from 2 ft (assist by E. Bledsoe),16,17
+1,6:20.0,Def 3 sec tech foul by Team,,16,17
+1,6:20.0,D. Gallinari makes technical free throw,,17,17
+1,6:20.0,,K. Middleton enters the game for S. Brown,17,17
+1,6:09.0,G. Temple misses 2-pt jump shot from 7 ft,,17,17
+1,6:06.0,,Defensive rebound by G. Antetokounmpo,17,17
+1,5:50.0,,G. Antetokounmpo misses 3-pt jump shot from 27 ft,17,17
+1,5:45.0,Defensive rebound by D. Gallinari,,17,17
+1,5:44.0,Shooting foul by B. Lopez (drawn by D. Gallinari),,17,17
+1,5:44.0,D. Gallinari makes free throw 1 of 2,,18,17
+1,5:44.0,,G. Hill enters the game for E. Bledsoe,18,17
+1,5:44.0,D. Gallinari makes free throw 2 of 2,,19,17
+1,5:29.0,,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by K. Middleton),19,19
+1,5:12.0,I. Zubac makes 2-pt dunk from 1 ft (assist by L. Shamet),,21,19
+1,4:58.0,,Turnover by K. Middleton (bad pass; steal by I. Zubac),21,19
+1,4:53.0,L. Shamet misses 2-pt layup at rim (block by G. Antetokounmpo),,21,19
+1,4:49.0,,Defensive rebound by G. Antetokounmpo,21,19
+1,4:47.0,,K. Middleton makes 2-pt dunk from 1 ft (assist by G. Antetokounmpo),21,21
+1,4:38.0,I. Zubac makes 2-pt layup from 1 ft (assist by S. Gilgeous-Alexander),,23,21
+1,4:19.0,,K. Middleton misses 3-pt jump shot from 26 ft,23,21
+1,4:16.0,Defensive rebound by D. Gallinari,,23,21
+1,4:12.0,L. Shamet misses 2-pt jump shot from 12 ft,,23,21
+1,4:08.0,,Defensive rebound by G. Antetokounmpo,23,21
+1,4:03.0,,G. Antetokounmpo misses 3-pt jump shot from 27 ft,23,21
+1,3:59.0,Defensive rebound by I. Zubac,,23,21
+1,3:56.0,Turnover by S. Gilgeous-Alexander (out of bounds lost ball),,23,21
+1,3:56.0,J. Green enters the game for D. Gallinari,,23,21
+1,3:56.0,M. Harrell enters the game for I. Zubac,,23,21
+1,3:56.0,,E. İlyasova enters the game for G. Antetokounmpo,23,21
+1,3:56.0,,D. Wilson enters the game for B. Lopez,23,21
+1,3:34.0,,K. Middleton misses 2-pt layup from 4 ft,23,21
+1,3:34.0,Defensive rebound by Team,,23,21
+1,3:34.0,LA Clippers full timeout,,23,21
+1,3:11.0,M. Harrell misses 2-pt hook shot from 7 ft,,23,21
+1,3:07.0,Offensive rebound by J. Green,,23,21
+1,3:07.0,J. Green misses 2-pt layup from 1 ft,,23,21
+1,3:06.0,Offensive rebound by S. Gilgeous-Alexander,,23,21
+1,2:59.0,M. Harrell makes 2-pt jump shot from 19 ft (assist by L. Shamet),,25,21
+1,2:37.0,,D. Wilson makes 3-pt jump shot from 28 ft,25,24
+1,2:20.0,Personal foul by E. İlyasova (drawn by M. Harrell),,25,24
+1,2:20.0,W. Chandler enters the game for L. Shamet,,25,24
+1,2:20.0,J. Robinson enters the game for G. Temple,,25,24
+1,2:06.0,J. Green misses 2-pt hook shot from 5 ft,,25,24
+1,2:04.0,,Defensive rebound by K. Middleton,25,24
+1,1:54.0,,K. Middleton makes 2-pt jump shot from 21 ft,25,26
+1,1:30.0,M. Harrell misses 2-pt hook shot from 6 ft,,25,26
+1,1:29.0,,Defensive rebound by Team,25,26
+1,1:29.0,T. Wallace enters the game for S. Gilgeous-Alexander,,25,26
+1,1:29.0,,G. Antetokounmpo enters the game for P. Connaughton,25,26
+1,1:29.0,,E. Bledsoe enters the game for K. Middleton,25,26
+1,1:16.0,,D. Wilson misses 3-pt jump shot from 29 ft,25,26
+1,1:12.0,Defensive rebound by T. Wallace,,25,26
+1,1:09.0,J. Green misses 2-pt jump shot from 19 ft,,25,26
+1,1:06.0,,Defensive rebound by G. Antetokounmpo,25,26
+1,1:02.0,,Shooting foul by W. Chandler (drawn by G. Antetokounmpo),25,26
+1,1:02.0,,G. Antetokounmpo makes free throw 1 of 2,25,27
+1,1:02.0,,G. Antetokounmpo makes free throw 2 of 2,25,28
+1,0:50.0,Turnover by M. Harrell (lost ball; steal by G. Hill),,25,28
+1,0:39.0,,G. Hill misses 3-pt jump shot from 27 ft,25,28
+1,0:36.0,Defensive rebound by J. Green,,25,28
+1,0:25.0,W. Chandler misses 3-pt jump shot from 26 ft,,25,28
+1,0:21.0,,Defensive rebound by G. Hill,25,28
+1,0:00.0,,E. Bledsoe misses 3-pt jump shot from 27 ft,25,28
+1,0:00.0,,Offensive rebound by Team,25,28
+2,11:46.0,Shooting foul by E. İlyasova (drawn by M. Harrell),,25,28
+2,11:46.0,M. Harrell misses free throw 1 of 2,,25,28
+2,11:46.0,Offensive rebound by Team,,25,28
+2,11:46.0,M. Harrell misses free throw 2 of 2,,25,28
+2,11:43.0,,Defensive rebound by G. Antetokounmpo,25,28
+2,11:25.0,,E. İlyasova misses 3-pt jump shot from 26 ft,25,28
+2,11:21.0,Defensive rebound by M. Harrell,,25,28
+2,11:09.0,W. Chandler misses 2-pt jump shot from 14 ft,,25,28
+2,11:05.0,,Defensive rebound by E. Bledsoe,25,28
+2,11:00.0,,G. Antetokounmpo makes 2-pt dunk from 2 ft (assist by E. Bledsoe),25,30
+2,11:00.0,,Shooting foul by W. Chandler (drawn by G. Antetokounmpo),25,30
+2,11:00.0,,S. Brown enters the game for G. Hill,25,30
+2,11:00.0,,P. Connaughton enters the game for D. Wilson,25,30
+2,11:00.0,,G. Antetokounmpo makes free throw 1 of 1,25,31
+2,10:42.0,T. Wallace makes 2-pt jump shot from 8 ft,,27,31
+2,10:31.0,,S. Brown makes 3-pt jump shot from 25 ft (assist by E. Bledsoe),27,34
+2,10:12.0,Turnover by M. Harrell (bad pass),,27,34
+2,10:06.0,,Personal foul by J. Robinson (drawn by E. Bledsoe),27,34
+2,9:57.0,,E. Bledsoe makes 3-pt jump shot from 27 ft,27,37
+2,9:52.0,LA Clippers full timeout,,27,37
+2,9:52.0,,B. Lopez enters the game for E. İlyasova,27,37
+2,9:32.0,J. Green misses 3-pt jump shot from 27 ft,,27,37
+2,9:30.0,,Defensive rebound by P. Connaughton,27,37
+2,9:25.0,,Turnover by E. Bledsoe (lost ball; steal by T. Wallace),27,37
+2,9:20.0,M. Harrell makes 2-pt layup from 1 ft (assist by T. Wallace),,29,37
+2,9:02.0,,S. Brown misses 3-pt jump shot from 26 ft,29,37
+2,8:59.0,Defensive rebound by M. Harrell,,29,37
+2,8:50.0,J. Robinson makes 3-pt jump shot from 28 ft (assist by M. Harrell),,32,37
+2,8:34.0,,Shooting foul by T. Wallace (drawn by G. Antetokounmpo),32,37
+2,8:34.0,,G. Antetokounmpo makes free throw 1 of 2,32,38
+2,8:34.0,G. Temple enters the game for W. Chandler,,32,38
+2,8:34.0,,G. Antetokounmpo makes free throw 2 of 2,32,39
+2,8:25.0,T. Wallace misses 2-pt jump shot from 13 ft,,32,39
+2,8:22.0,,Defensive rebound by B. Lopez,32,39
+2,8:13.0,,Personal foul by J. Green (drawn by G. Antetokounmpo),32,39
+2,8:07.0,,G. Antetokounmpo misses 2-pt layup from 1 ft,32,39
+2,8:03.0,Defensive rebound by J. Robinson,,32,39
+2,7:52.0,J. Green misses 3-pt jump shot from 27 ft,,32,39
+2,7:49.0,,Defensive rebound by E. Bledsoe,32,39
+2,7:49.0,D. Gallinari enters the game for J. Green,,32,39
+2,7:49.0,S. Gilgeous-Alexander enters the game for T. Wallace,,32,39
+2,7:49.0,,G. Hill enters the game for G. Antetokounmpo,32,39
+2,7:49.0,,E. İlyasova enters the game for E. Bledsoe,32,39
+2,7:36.0,,S. Brown makes 3-pt jump shot from 25 ft (assist by G. Hill),32,42
+2,7:21.0,M. Harrell makes 2-pt layup from 1 ft (assist by D. Gallinari),,34,42
+2,7:12.0,,Shooting foul by M. Harrell (drawn by B. Lopez),34,42
+2,7:12.0,,B. Lopez makes free throw 1 of 2,34,43
+2,7:12.0,L. Shamet enters the game for J. Robinson,,34,43
+2,7:12.0,,B. Lopez misses free throw 2 of 2,34,43
+2,7:10.0,Defensive rebound by G. Temple,,34,43
+2,7:02.0,Personal foul by S. Brown (drawn by D. Gallinari),,34,43
+2,6:50.0,S. Gilgeous-Alexander misses 2-pt jump shot from 12 ft,,34,43
+2,6:44.0,Offensive rebound by M. Harrell,,34,43
+2,6:44.0,M. Harrell makes 2-pt layup from 1 ft,,36,43
+2,6:36.0,,G. Hill makes 2-pt layup from 2 ft (assist by B. Lopez),36,45
+2,6:23.0,D. Gallinari misses 3-pt jump shot from 28 ft,,36,45
+2,6:21.0,,Defensive rebound by P. Connaughton,36,45
+2,6:11.0,,Personal foul by L. Shamet (drawn by E. İlyasova),36,45
+2,6:11.0,,E. İlyasova makes free throw 1 of 2,36,46
+2,6:11.0,,K. Middleton enters the game for S. Brown,36,46
+2,6:11.0,,E. İlyasova makes free throw 2 of 2,36,47
+2,6:05.0,Personal foul by E. İlyasova (drawn by M. Harrell),,36,47
+2,5:57.0,S. Gilgeous-Alexander misses 3-pt jump shot from 24 ft,,36,47
+2,5:54.0,,Defensive rebound by G. Hill,36,47
+2,5:41.0,,E. İlyasova misses 2-pt jump shot from 5 ft,36,47
+2,5:38.0,Defensive rebound by S. Gilgeous-Alexander,,36,47
+2,5:35.0,S. Gilgeous-Alexander misses 2-pt jump shot from 16 ft,,36,47
+2,5:31.0,,Defensive rebound by P. Connaughton,36,47
+2,5:24.0,,P. Connaughton makes 2-pt layup from 2 ft (assist by K. Middleton),36,49
+2,5:01.0,M. Harrell misses 2-pt hook shot from 5 ft,,36,49
+2,4:58.0,,Defensive rebound by K. Middleton,36,49
+2,4:53.0,,K. Middleton makes 2-pt jump shot from 13 ft,36,51
+2,4:52.0,LA Clippers full timeout,,36,51
+2,4:52.0,I. Zubac enters the game for M. Harrell,,36,51
+2,4:52.0,,G. Antetokounmpo enters the game for E. İlyasova,36,51
+2,4:42.0,Personal foul by K. Middleton (drawn by D. Gallinari),,36,51
+2,4:29.0,I. Zubac misses 2-pt dunk from 2 ft (block by B. Lopez),,36,51
+2,4:24.0,,Defensive rebound by P. Connaughton,36,51
+2,4:20.0,,G. Hill misses 2-pt layup from 2 ft,36,51
+2,4:17.0,Defensive rebound by D. Gallinari,,36,51
+2,4:12.0,D. Gallinari misses 2-pt jump shot from 14 ft,,36,51
+2,4:09.0,,Defensive rebound by B. Lopez,36,51
+2,3:53.0,,G. Antetokounmpo makes 2-pt layup from 2 ft (assist by K. Middleton),36,53
+2,3:53.0,,Shooting foul by I. Zubac (drawn by G. Antetokounmpo),36,53
+2,3:53.0,,E. Bledsoe enters the game for P. Connaughton,36,53
+2,3:53.0,,G. Antetokounmpo makes free throw 1 of 1,36,54
+2,3:46.0,Personal foul by G. Antetokounmpo (drawn by S. Gilgeous-Alexander),,36,54
+2,3:46.0,S. Gilgeous-Alexander misses free throw 1 of 2,,36,54
+2,3:46.0,Offensive rebound by Team,,36,54
+2,3:46.0,S. Gilgeous-Alexander makes free throw 2 of 2,,37,54
+2,3:23.0,,G. Antetokounmpo misses 3-pt jump shot from 26 ft,37,54
+2,3:20.0,Defensive rebound by I. Zubac,,37,54
+2,3:18.0,Turnover by L. Shamet (bad pass; steal by K. Middleton),,37,54
+2,3:10.0,,K. Middleton makes 2-pt layup from 1 ft (assist by E. Bledsoe),37,56
+2,2:57.0,L. Shamet misses 2-pt layup from 1 ft,,37,56
+2,2:54.0,,Defensive rebound by B. Lopez,37,56
+2,2:53.0,,Personal foul by G. Temple (drawn by G. Antetokounmpo),37,56
+2,2:53.0,,G. Antetokounmpo makes free throw 1 of 2,37,57
+2,2:53.0,J. Green enters the game for I. Zubac,,37,57
+2,2:53.0,,S. Brown enters the game for B. Lopez,37,57
+2,2:53.0,,G. Antetokounmpo makes free throw 2 of 2,37,58
+2,2:40.0,J. Green makes 2-pt layup from 1 ft (assist by D. Gallinari),,39,58
+2,2:22.0,,G. Antetokounmpo misses 2-pt hook shot from 8 ft,39,58
+2,2:19.0,Defensive rebound by D. Gallinari,,39,58
+2,2:14.0,D. Gallinari misses 3-pt jump shot from 26 ft,,39,58
+2,2:11.0,,Defensive rebound by E. Bledsoe,39,58
+2,2:11.0,,P. Connaughton enters the game for G. Hill,39,58
+2,1:57.0,,K. Middleton makes 2-pt jump shot from 4 ft,39,60
+2,1:38.0,J. Green makes 3-pt jump shot from 23 ft (assist by L. Shamet),,42,60
+2,1:15.0,,S. Brown makes 2-pt layup from 2 ft (assist by G. Antetokounmpo),42,62
+2,1:09.0,Shooting foul by S. Brown (drawn by S. Gilgeous-Alexander),,42,62
+2,1:09.0,S. Gilgeous-Alexander makes free throw 1 of 2,,43,62
+2,1:09.0,S. Gilgeous-Alexander makes free throw 2 of 2,,44,62
+2,0:53.0,,E. Bledsoe misses 2-pt layup from 1 ft (block by S. Gilgeous-Alexander),44,62
+2,0:50.0,Defensive rebound by D. Gallinari,,44,62
+2,0:46.0,Shooting foul by S. Brown (drawn by D. Gallinari),,44,62
+2,0:46.0,D. Gallinari makes free throw 1 of 2,,45,62
+2,0:46.0,D. Gallinari makes free throw 2 of 2,,46,62
+2,0:28.0,,E. Bledsoe makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),46,65
+2,0:07.0,G. Temple misses 3-pt jump shot from 24 ft,,46,65
+2,0:04.0,,Defensive rebound by P. Connaughton,46,65
+2,0:01.0,,G. Antetokounmpo makes 2-pt dunk from 2 ft,46,67
+3,11:42.0,D. Gallinari misses 2-pt jump shot from 18 ft,,46,67
+3,11:39.0,,Defensive rebound by G. Antetokounmpo,46,67
+3,11:34.0,,Turnover by E. Bledsoe (bad pass; steal by S. Gilgeous-Alexander),46,67
+3,11:27.0,S. Gilgeous-Alexander makes 2-pt jump shot from 8 ft,,48,67
+3,11:17.0,,B. Lopez misses 3-pt jump shot from 28 ft,48,67
+3,11:17.0,Defensive rebound by S. Gilgeous-Alexander,,48,67
+3,11:12.0,S. Gilgeous-Alexander makes 2-pt jump shot from 16 ft (assist by D. Gallinari),,50,67
+3,10:52.0,,B. Lopez misses 2-pt layup from 3 ft,50,67
+3,10:49.0,Defensive rebound by D. Gallinari,,50,67
+3,10:48.0,Shooting foul by B. Lopez (drawn by D. Gallinari),,50,67
+3,10:48.0,D. Gallinari makes free throw 1 of 2,,51,67
+3,10:48.0,D. Gallinari makes free throw 2 of 2,,52,67
+3,10:27.0,,Shooting foul by I. Zubac (drawn by B. Lopez),52,67
+3,10:27.0,,B. Lopez misses free throw 1 of 2,52,67
+3,10:27.0,,Offensive rebound by Team,52,67
+3,10:27.0,,B. Lopez makes free throw 2 of 2,52,68
+3,10:12.0,I. Zubac makes 2-pt dunk from 3 ft (assist by S. Gilgeous-Alexander),,54,68
+3,10:12.0,,Milwaukee full timeout,54,68
+3,10:00.0,,B. Lopez makes 2-pt dunk from 1 ft (assist by K. Middleton),54,70
+3,9:40.0,S. Gilgeous-Alexander makes 2-pt layup from 2 ft,,56,70
+3,9:28.0,,K. Middleton makes 3-pt jump shot from 26 ft (assist by B. Lopez),56,73
+3,9:20.0,Personal foul by K. Middleton (drawn by D. Gallinari),,56,73
+3,9:14.0,Offensive foul by I. Zubac (drawn by K. Middleton),,56,73
+3,9:14.0,Turnover by I. Zubac (offensive foul),,56,73
+3,8:55.0,,S. Brown misses 2-pt layup from 1 ft (block by S. Gilgeous-Alexander),56,73
+3,8:52.0,Defensive rebound by S. Gilgeous-Alexander,,56,73
+3,8:49.0,S. Gilgeous-Alexander misses 2-pt jump shot from 20 ft,,56,73
+3,8:46.0,,Defensive rebound by B. Lopez,56,73
+3,8:27.0,,G. Antetokounmpo misses 3-pt jump shot from 27 ft,56,73
+3,8:26.0,,Offensive rebound by Team,56,73
+3,8:26.0,,Turnover by Team (shot clock),56,73
+3,8:05.0,D. Gallinari makes 2-pt jump shot from 12 ft,,58,73
+3,7:53.0,,Turnover by K. Middleton (lost ball; steal by G. Temple),58,73
+3,7:51.0,L. Shamet makes 3-pt jump shot from 26 ft,,61,73
+3,7:51.0,Shooting foul by G. Antetokounmpo (drawn by L. Shamet),,61,73
+3,7:51.0,,P. Connaughton enters the game for K. Middleton,61,73
+3,7:51.0,L. Shamet makes free throw 1 of 1,,62,73
+3,7:29.0,,S. Brown makes 2-pt layup from 3 ft (assist by G. Antetokounmpo),62,75
+3,7:19.0,D. Gallinari misses 3-pt jump shot from 28 ft,,62,75
+3,7:17.0,,Defensive rebound by E. Bledsoe,62,75
+3,7:10.0,,Shooting foul by L. Shamet (drawn by G. Antetokounmpo),62,75
+3,7:10.0,,G. Antetokounmpo makes free throw 1 of 2,62,76
+3,7:10.0,,K. Middleton enters the game for S. Brown,62,76
+3,7:10.0,,G. Antetokounmpo makes free throw 2 of 2,62,77
+3,6:51.0,D. Gallinari makes 2-pt layup from 2 ft (assist by G. Temple),,64,77
+3,6:41.0,,P. Connaughton misses 3-pt jump shot from 26 ft,64,77
+3,6:38.0,Defensive rebound by S. Gilgeous-Alexander,,64,77
+3,6:31.0,G. Temple misses 3-pt jump shot from 25 ft,,64,77
+3,6:28.0,,Defensive rebound by K. Middleton,64,77
+3,6:20.0,,B. Lopez misses 3-pt jump shot from 27 ft,64,77
+3,6:20.0,Defensive rebound by G. Temple,,64,77
+3,6:14.0,G. Temple misses 2-pt layup from 2 ft,,64,77
+3,6:12.0,Offensive rebound by I. Zubac,,64,77
+3,6:12.0,I. Zubac makes 2-pt dunk at rim,,66,77
+3,5:47.0,,E. Bledsoe misses 2-pt layup from 1 ft,66,77
+3,5:45.0,Defensive rebound by D. Gallinari,,66,77
+3,5:40.0,Turnover by D. Gallinari (bad pass; steal by E. Bledsoe),,66,77
+3,5:34.0,,G. Antetokounmpo makes 2-pt dunk from 1 ft (assist by E. Bledsoe),66,79
+3,5:16.0,Turnover by S. Gilgeous-Alexander (bad pass; steal by P. Connaughton),,66,79
+3,5:06.0,,G. Antetokounmpo misses 2-pt hook shot from 8 ft,66,79
+3,5:03.0,Defensive rebound by I. Zubac,,66,79
+3,4:56.0,L. Shamet makes 3-pt jump shot from 30 ft (assist by G. Temple),,69,79
+3,4:37.0,,K. Middleton makes 2-pt jump shot from 18 ft,69,81
+3,4:24.0,S. Gilgeous-Alexander misses 2-pt jump shot from 10 ft,,69,81
+3,4:24.0,Offensive rebound by I. Zubac,,69,81
+3,4:22.0,I. Zubac misses 2-pt layup at rim,,69,81
+3,4:20.0,,Defensive rebound by G. Antetokounmpo,69,81
+3,4:18.0,,Shooting foul by L. Shamet (drawn by E. Bledsoe),69,81
+3,4:18.0,,E. Bledsoe makes free throw 1 of 2,69,82
+3,4:18.0,M. Harrell enters the game for I. Zubac,,69,82
+3,4:18.0,,G. Hill enters the game for G. Antetokounmpo,69,82
+3,4:18.0,,E. İlyasova enters the game for P. Connaughton,69,82
+3,4:18.0,,D. Wilson enters the game for B. Lopez,69,82
+3,4:18.0,,E. Bledsoe makes free throw 2 of 2,69,83
+3,4:10.0,S. Gilgeous-Alexander makes 2-pt layup from 1 ft,,71,83
+3,3:59.0,,E. Bledsoe misses 2-pt layup from 3 ft,71,83
+3,3:54.0,,Offensive rebound by E. Bledsoe,71,83
+3,3:54.0,,E. Bledsoe makes 2-pt layup from 1 ft,71,85
+3,3:44.0,L. Shamet misses 3-pt jump shot from 27 ft,,71,85
+3,3:41.0,,Defensive rebound by D. Wilson,71,85
+3,3:39.0,,Turnover by E. Bledsoe (lost ball; steal by D. Gallinari),71,85
+3,3:37.0,Personal foul by E. Bledsoe (drawn by D. Gallinari),,71,85
+3,3:37.0,J. Green enters the game for D. Gallinari,,71,85
+3,3:37.0,,P. Connaughton enters the game for E. Bledsoe,71,85
+3,3:13.0,J. Green misses 3-pt jump shot from 28 ft,,71,85
+3,3:09.0,Offensive rebound by G. Temple,,71,85
+3,2:58.0,J. Green misses 2-pt layup from 2 ft,,71,85
+3,2:55.0,,Defensive rebound by K. Middleton,71,85
+3,2:51.0,,P. Connaughton makes 3-pt jump shot from 30 ft (assist by K. Middleton),71,88
+3,2:49.0,LA Clippers full timeout,,71,88
+3,2:35.0,Turnover by M. Harrell (out of bounds lost ball),,71,88
+3,2:35.0,J. Robinson enters the game for G. Temple,,71,88
+3,2:18.0,,K. Middleton makes 2-pt jump shot from 13 ft,71,90
+3,2:03.0,J. Green makes 3-pt jump shot from 26 ft (assist by M. Harrell),,74,90
+3,1:50.0,,K. Middleton makes 2-pt jump shot from 11 ft,74,92
+3,1:43.0,J. Robinson misses 3-pt jump shot from 26 ft,,74,92
+3,1:40.0,,Defensive rebound by E. İlyasova,74,92
+3,1:36.0,,K. Middleton misses 3-pt jump shot from 26 ft,74,92
+3,1:32.0,Defensive rebound by J. Green,,74,92
+3,1:26.0,S. Gilgeous-Alexander makes 2-pt layup from 2 ft,,76,92
+3,1:26.0,Shooting foul by G. Hill (drawn by S. Gilgeous-Alexander),,76,92
+3,1:26.0,G. Temple enters the game for L. Shamet,,76,92
+3,1:26.0,S. Gilgeous-Alexander makes free throw 1 of 1,,77,92
+3,1:19.0,,K. Middleton makes 3-pt jump shot from 24 ft (assist by E. İlyasova),77,95
+3,1:19.0,,Shooting foul by G. Temple (drawn by K. Middleton),77,95
+3,1:19.0,,G. Antetokounmpo enters the game for E. İlyasova,77,95
+3,1:19.0,,K. Middleton makes free throw 1 of 1,77,96
+3,0:59.0,J. Robinson misses 3-pt jump shot from 27 ft,,77,96
+3,0:55.0,,Defensive rebound by G. Antetokounmpo,77,96
+3,0:50.0,,Shooting foul by J. Green (drawn by G. Antetokounmpo),77,96
+3,0:50.0,,G. Antetokounmpo misses free throw 1 of 2,77,96
+3,0:50.0,,Offensive rebound by Team,77,96
+3,0:50.0,W. Chandler enters the game for S. Gilgeous-Alexander,,77,96
+3,0:50.0,,E. İlyasova enters the game for K. Middleton,77,96
+3,0:50.0,,G. Antetokounmpo makes free throw 2 of 2,77,97
+3,0:34.0,M. Harrell misses 2-pt layup from 2 ft (block by E. İlyasova),,77,97
+3,0:34.0,,Defensive rebound by D. Wilson,77,97
+3,0:23.0,,G. Antetokounmpo makes 3-pt jump shot from 27 ft (assist by G. Hill),77,100
+3,0:04.0,M. Harrell misses 2-pt jump shot from 17 ft,,77,100
+3,0:00.0,,Defensive rebound by D. Wilson,77,100
+4,11:38.0,,S. Brown makes 3-pt jump shot from 26 ft (assist by G. Antetokounmpo),77,103
+4,11:22.0,J. Green misses 3-pt jump shot from 27 ft,,77,103
+4,11:20.0,,Defensive rebound by E. İlyasova,77,103
+4,11:13.0,,D. Wilson misses 3-pt jump shot from 24 ft,77,103
+4,11:07.0,Defensive rebound by J. Robinson,,77,103
+4,11:06.0,J. Robinson makes 2-pt jump shot from 13 ft,,79,103
+4,11:06.0,Shooting foul by S. Brown (drawn by J. Robinson),,79,103
+4,11:06.0,J. Robinson makes free throw 1 of 1,,80,103
+4,10:46.0,,D. Wilson misses 2-pt hook shot from 4 ft,80,103
+4,10:42.0,Defensive rebound by M. Harrell,,80,103
+4,10:35.0,Turnover by G. Temple (bad pass; steal by G. Antetokounmpo),,80,103
+4,10:30.0,,G. Antetokounmpo misses 2-pt dunk from 2 ft,80,103
+4,10:26.0,Defensive rebound by G. Temple,,80,103
+4,10:23.0,M. Harrell makes 2-pt layup from 3 ft,,82,103
+4,10:06.0,,Turnover by E. İlyasova (bad pass; steal by J. Robinson),82,103
+4,10:01.0,Turnover by J. Robinson (bad pass),,82,103
+4,9:43.0,,G. Hill misses 3-pt jump shot from 26 ft,82,103
+4,9:41.0,Defensive rebound by W. Chandler,,82,103
+4,9:37.0,W. Chandler makes 3-pt jump shot from 27 ft,,85,103
+4,9:27.0,,Shooting foul by J. Green (drawn by G. Antetokounmpo),85,103
+4,9:27.0,,G. Antetokounmpo makes free throw 1 of 2,85,104
+4,9:27.0,,E. Bledsoe enters the game for G. Hill,85,104
+4,9:27.0,,P. Connaughton enters the game for E. İlyasova,85,104
+4,9:27.0,,B. Lopez enters the game for D. Wilson,85,104
+4,9:27.0,,G. Antetokounmpo misses free throw 2 of 2,85,104
+4,9:23.0,Defensive rebound by J. Green,,85,104
+4,9:13.0,M. Harrell makes 2-pt dunk from 1 ft (assist by J. Robinson),,87,104
+4,8:56.0,,B. Lopez makes 2-pt jump shot from 7 ft,87,106
+4,8:43.0,M. Harrell misses 2-pt jump shot from 4 ft,,87,106
+4,8:43.0,Offensive rebound by M. Harrell,,87,106
+4,8:43.0,Shooting foul by S. Brown (drawn by M. Harrell),,87,106
+4,8:43.0,M. Harrell makes free throw 1 of 2,,88,106
+4,8:43.0,M. Harrell misses free throw 2 of 2,,88,106
+4,8:40.0,,Defensive rebound by G. Antetokounmpo,88,106
+4,8:18.0,,S. Brown misses 3-pt jump shot from 26 ft,88,106
+4,8:14.0,Defensive rebound by J. Green,,88,106
+4,8:04.0,W. Chandler makes 3-pt jump shot from 28 ft (assist by M. Harrell),,91,106
+4,7:52.0,,G. Antetokounmpo makes 2-pt dunk from 2 ft,91,108
+4,7:46.0,Personal take foul by E. Bledsoe (drawn by G. Temple),,91,108
+4,7:46.0,,Milwaukee full timeout,91,108
+4,7:46.0,S. Thornwell enters the game for M. Harrell,,91,108
+4,7:46.0,,E. İlyasova enters the game for G. Antetokounmpo,91,108
+4,7:46.0,,K. Middleton enters the game for S. Brown,91,108
+4,7:36.0,J. Green makes 3-pt jump shot from 27 ft (assist by G. Temple),,94,108
+4,7:20.0,,B. Lopez misses 3-pt jump shot from 23 ft,94,108
+4,7:16.0,Defensive rebound by S. Thornwell,,94,108
+4,7:15.0,Shooting foul by B. Lopez (drawn by S. Thornwell),,94,108
+4,7:15.0,S. Thornwell makes free throw 1 of 2,,95,108
+4,7:15.0,S. Thornwell misses free throw 2 of 2,,95,108
+4,7:12.0,,Defensive rebound by B. Lopez,95,108
+4,6:58.0,,K. Middleton misses 2-pt jump shot from 16 ft,95,108
+4,6:55.0,Defensive rebound by W. Chandler,,95,108
+4,6:50.0,J. Green makes 3-pt jump shot from 28 ft (assist by W. Chandler),,98,108
+4,6:31.0,,K. Middleton makes 2-pt jump shot from 12 ft,98,110
+4,6:16.0,W. Chandler makes 3-pt jump shot from 29 ft (assist by J. Green),,101,110
+4,5:55.0,,Shooting foul by S. Thornwell (drawn by K. Middleton),101,110
+4,5:55.0,,K. Middleton makes free throw 1 of 2,101,111
+4,5:55.0,,K. Middleton makes free throw 2 of 2,101,112
+4,5:35.0,J. Green misses 2-pt layup from 2 ft,,101,112
+4,5:29.0,Offensive rebound by J. Green,,101,112
+4,5:29.0,J. Green makes 2-pt layup at rim,,103,112
+4,5:15.0,,Shooting foul by J. Robinson (drawn by P. Connaughton),103,112
+4,5:15.0,,P. Connaughton makes free throw 1 of 2,103,113
+4,5:15.0,,P. Connaughton misses free throw 2 of 2,103,113
+4,5:11.0,Defensive rebound by J. Green,,103,113
+4,4:59.0,G. Temple misses 3-pt jump shot from 28 ft,,103,113
+4,4:55.0,,Defensive rebound by K. Middleton,103,113
+4,4:39.0,,B. Lopez makes 3-pt jump shot from 27 ft (assist by E. Bledsoe),103,116
+4,4:39.0,LA Clippers full timeout,,103,116
+4,4:39.0,S. Gilgeous-Alexander enters the game for G. Temple,,103,116
+4,4:22.0,Offensive foul by S. Gilgeous-Alexander (drawn by E. Bledsoe),,103,116
+4,4:22.0,Turnover by S. Gilgeous-Alexander (offensive foul),,103,116
+4,4:22.0,L. Shamet enters the game for S. Thornwell,,103,116
+4,4:13.0,,E. Bledsoe makes 2-pt dunk from 2 ft,103,118
+4,4:12.0,LA Clippers full timeout,,103,118
+4,4:07.0,L. Shamet misses 3-pt jump shot from 28 ft,,103,118
+4,4:03.0,,Defensive rebound by E. Bledsoe,103,118
+4,3:58.0,,K. Middleton misses 2-pt layup from 3 ft (block by J. Robinson),103,118
+4,3:57.0,,Offensive rebound by K. Middleton,103,118
+4,3:56.0,,K. Middleton misses 2-pt layup from 2 ft,103,118
+4,3:54.0,,Offensive rebound by K. Middleton,103,118
+4,3:53.0,,K. Middleton makes 2-pt layup from 1 ft,103,120
+4,3:31.0,W. Chandler makes 3-pt jump shot from 27 ft (assist by J. Green),,106,120
+4,3:17.0,,K. Middleton misses 3-pt jump shot from 28 ft,106,120
+4,3:13.0,Defensive rebound by J. Green,,106,120
+4,3:10.0,J. Green misses 2-pt layup from 2 ft,,106,120
+4,3:07.0,,Defensive rebound by E. Bledsoe,106,120
+4,2:48.0,,E. Bledsoe makes 3-pt jump shot from 26 ft,106,123
+4,2:37.0,S. Gilgeous-Alexander makes 2-pt layup from 2 ft,,108,123
+4,2:18.0,,Personal foul by J. Green (drawn by E. Bledsoe),108,123
+4,2:18.0,S. Thornwell enters the game for S. Gilgeous-Alexander,,108,123
+4,2:18.0,T. Wallace enters the game for J. Green,,108,123
+4,2:18.0,,S. Brown enters the game for E. Bledsoe,108,123
+4,2:18.0,,G. Hill enters the game for P. Connaughton,108,123
+4,2:18.0,,D. Wilson enters the game for E. İlyasova,108,123
+4,2:07.0,,K. Middleton misses 2-pt jump shot from 15 ft,108,123
+4,2:04.0,Defensive rebound by L. Shamet,,108,123
+4,2:02.0,W. Chandler makes 3-pt jump shot from 26 ft (assist by L. Shamet),,111,123
+4,1:47.0,,K. Middleton makes 2-pt layup from 1 ft (assist by G. Hill),111,125
+4,1:37.0,J. Robinson makes 3-pt jump shot from 28 ft (assist by S. Thornwell),,114,125
+4,1:26.0,,K. Middleton makes 3-pt jump shot from 28 ft,114,128
+4,1:12.0,T. Wallace misses 2-pt hook shot from 5 ft,,114,128
+4,1:10.0,,Defensive rebound by B. Lopez,114,128
+4,1:10.0,,Milwaukee full timeout,114,128
+4,1:10.0,Á. Delgado enters the game for W. Chandler,,114,128
+4,1:10.0,J. Motley enters the game for L. Shamet,,114,128
+4,1:10.0,,B. Colson enters the game for G. Hill,114,128
+4,1:10.0,,P. Connaughton enters the game for B. Lopez,114,128
+4,1:10.0,,T. Frazier enters the game for K. Middleton,114,128
+4,1:03.0,,Turnover by T. Frazier (bad pass; steal by S. Thornwell),114,128
+4,1:02.0,,Clear path foul by S. Thornwell,114,128
+4,1:02.0,,E. İlyasova enters the game for S. Brown,114,128
+4,1:02.0,S. Thornwell makes clear path free throw 1 of 2,,115,128
+4,1:02.0,S. Thornwell makes clear path free throw 2 of 2,,116,128
+4,0:51.0,Á. Delgado misses 2-pt layup from 4 ft (block by E. İlyasova),,116,128
+4,0:46.0,,Defensive rebound by B. Colson,116,128
+4,0:34.0,,T. Frazier misses 2-pt hook shot from 1 ft,116,128
+4,0:31.0,Defensive rebound by J. Motley,,116,128
+4,0:24.0,T. Wallace makes 2-pt hook shot from 10 ft (assist by J. Motley),,118,128
+4,0:00.0,,Turnover by Team (shot clock),118,128

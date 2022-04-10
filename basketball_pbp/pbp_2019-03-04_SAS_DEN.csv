@@ -1,0 +1,417 @@
+QUARTER,TIME_REMAINING,DENVER_ACTION,SAN ANTONIO_ACTION,DENVER_SCORE,SAN ANTONIO_SCORE
+1,11:39.0,J. Murray misses 3-pt jump shot from 25 ft,,0,0
+1,11:35.0,,Defensive rebound by J. Poeltl,0,0
+1,11:17.0,,L. Aldridge misses 2-pt jump shot from 17 ft,0,0
+1,11:13.0,,Offensive rebound by D. White,0,0
+1,11:06.0,,L. Aldridge makes 3-pt jump shot from 28 ft (assist by D. White),0,3
+1,10:51.0,P. Millsap misses 3-pt jump shot from 27 ft,,0,3
+1,10:48.0,,Defensive rebound by D. DeRozan,0,3
+1,10:42.0,,D. DeRozan makes 2-pt layup from 3 ft,0,5
+1,10:26.0,Turnover by W. Barton (bad pass; steal by D. White),,0,5
+1,10:18.0,,D. DeRozan makes 2-pt layup from 4 ft,0,7
+1,10:06.0,N. Jokić misses 2-pt layup from 4 ft,,0,7
+1,10:03.0,,Defensive rebound by L. Aldridge,0,7
+1,9:56.0,,L. Aldridge misses 2-pt jump shot from 18 ft,0,7
+1,9:50.0,Defensive rebound by P. Millsap,,0,7
+1,9:47.0,W. Barton misses 3-pt jump shot from 26 ft,,0,7
+1,9:44.0,,Defensive rebound by B. Forbes,0,7
+1,9:36.0,,Turnover by B. Forbes (lost ball; steal by P. Millsap),0,7
+1,9:33.0,W. Barton makes 2-pt dunk from 3 ft (assist by G. Harris),,2,7
+1,9:10.0,,D. White makes 2-pt jump shot from 19 ft (assist by J. Poeltl),2,9
+1,8:53.0,N. Jokić makes 2-pt jump shot from 7 ft (assist by J. Murray),,4,9
+1,8:31.0,,D. White misses 3-pt jump shot from 25 ft,4,9
+1,8:29.0,Defensive rebound by W. Barton,,4,9
+1,8:20.0,J. Murray makes 3-pt jump shot from 26 ft (assist by N. Jokić),,7,9
+1,8:00.0,,B. Forbes makes 2-pt jump shot from 13 ft (assist by D. DeRozan),7,11
+1,7:47.0,Turnover by J. Murray (bad pass; steal by D. DeRozan),,7,11
+1,7:42.0,,D. DeRozan makes 2-pt layup from 4 ft,7,13
+1,7:42.0,Denver full timeout,,7,13
+1,7:30.0,N. Jokić makes 2-pt jump shot from 6 ft (assist by J. Murray),,9,13
+1,7:12.0,,D. White makes 2-pt layup from 5 ft (assist by D. DeRozan),9,15
+1,6:59.0,Personal foul by J. Poeltl (drawn by N. Jokić),,9,15
+1,6:50.0,G. Harris misses 2-pt layup from 5 ft,,9,15
+1,6:48.0,,Defensive rebound by D. White,9,15
+1,6:42.0,,Shooting foul by J. Murray (drawn by D. White),9,15
+1,6:42.0,,D. White makes free throw 1 of 2,9,16
+1,6:42.0,,D. White makes free throw 2 of 2,9,17
+1,6:32.0,Shooting foul by J. Poeltl (drawn by J. Murray),,9,17
+1,6:32.0,J. Murray makes free throw 1 of 2,,10,17
+1,6:32.0,,R. Gay enters the game for J. Poeltl,10,17
+1,6:32.0,J. Murray makes free throw 2 of 2,,11,17
+1,6:15.0,,L. Aldridge makes 2-pt jump shot from 8 ft (assist by R. Gay),11,19
+1,5:57.0,J. Murray misses 3-pt jump shot from 25 ft,,11,19
+1,5:54.0,,Defensive rebound by R. Gay,11,19
+1,5:50.0,,L. Aldridge makes 2-pt layup from 3 ft (assist by D. DeRozan),11,21
+1,5:38.0,Turnover by J. Murray (bad pass),,11,21
+1,5:38.0,M. Beasley enters the game for G. Harris,,11,21
+1,5:38.0,M. Plumlee enters the game for P. Millsap,,11,21
+1,5:26.0,,L. Aldridge makes 2-pt dunk from 2 ft,11,23
+1,5:11.0,J. Murray misses 2-pt layup from 4 ft,,11,23
+1,5:08.0,,Defensive rebound by R. Gay,11,23
+1,4:53.0,,R. Gay misses 3-pt jump shot from 25 ft,11,23
+1,4:50.0,Defensive rebound by N. Jokić,,11,23
+1,4:38.0,W. Barton makes 2-pt jump shot from 7 ft (assist by M. Plumlee),,13,23
+1,4:38.0,,San Antonio full timeout,13,23
+1,4:38.0,M. Morris enters the game for J. Murray,,13,23
+1,4:38.0,,M. Belinelli enters the game for B. Forbes,13,23
+1,4:38.0,,P. Mills enters the game for D. White,13,23
+1,4:16.0,,R. Gay misses 3-pt jump shot from 23 ft,13,23
+1,4:12.0,Defensive rebound by N. Jokić,,13,23
+1,4:07.0,W. Barton misses 2-pt layup from 6 ft,,13,23
+1,4:05.0,,Defensive rebound by R. Gay,13,23
+1,3:56.0,,L. Aldridge misses 2-pt layup from 3 ft,13,23
+1,3:54.0,Defensive rebound by N. Jokić,,13,23
+1,3:41.0,M. Morris misses 2-pt jump shot from 8 ft,,13,23
+1,3:37.0,Offensive rebound by M. Plumlee,,13,23
+1,3:35.0,W. Barton misses 3-pt jump shot from 26 ft,,13,23
+1,3:33.0,,Defensive rebound by M. Belinelli,13,23
+1,3:25.0,,D. DeRozan makes 2-pt jump shot from 7 ft,13,25
+1,3:14.0,Turnover by W. Barton (lost ball; steal by M. Belinelli),,13,25
+1,3:10.0,,M. Belinelli misses 3-pt jump shot from 26 ft,13,25
+1,3:06.0,Defensive rebound by M. Plumlee,,13,25
+1,2:55.0,M. Beasley makes 2-pt jump shot from 12 ft,,15,25
+1,2:37.0,,D. DeRozan misses 2-pt jump shot from 17 ft,15,25
+1,2:34.0,Defensive rebound by M. Plumlee,,15,25
+1,2:10.0,M. Beasley misses 3-pt jump shot from 25 ft,,15,25
+1,2:10.0,Offensive rebound by N. Jokić,,15,25
+1,2:06.0,N. Jokić makes 2-pt layup at rim,,17,25
+1,1:55.0,,P. Mills makes 3-pt jump shot from 26 ft (assist by D. DeRozan),17,28
+1,1:39.0,W. Barton misses 3-pt jump shot from 26 ft,,17,28
+1,1:36.0,,Defensive rebound by M. Belinelli,17,28
+1,1:24.0,,Shooting foul by M. Plumlee (drawn by L. Aldridge),17,28
+1,1:24.0,,L. Aldridge makes free throw 1 of 2,17,29
+1,1:24.0,P. Millsap enters the game for W. Barton,,17,29
+1,1:24.0,I. Thomas enters the game for N. Jokić,,17,29
+1,1:24.0,,D. Bertāns enters the game for D. DeRozan,17,29
+1,1:24.0,,L. Aldridge makes free throw 2 of 2,17,30
+1,1:04.0,M. Morris misses 2-pt jump shot from 2 ft,,17,30
+1,1:02.0,,Defensive rebound by D. Bertāns,17,30
+1,0:55.0,,R. Gay misses 2-pt hook shot from 4 ft,17,30
+1,0:51.0,,Offensive rebound by R. Gay,17,30
+1,0:51.0,,R. Gay makes 2-pt layup from 1 ft,17,32
+1,0:42.0,P. Millsap misses 2-pt layup from 7 ft,,17,32
+1,0:42.0,,Defensive rebound by Team,17,32
+1,0:42.0,Loose ball foul by M. Plumlee (drawn by R. Gay),,17,32
+1,0:42.0,,R. Gay makes free throw 1 of 2,17,33
+1,0:42.0,,D. Eubanks enters the game for L. Aldridge,17,33
+1,0:42.0,,R. Gay makes free throw 2 of 2,17,34
+1,0:35.0,I. Thomas misses 3-pt jump shot from 26 ft,,17,34
+1,0:32.0,,Defensive rebound by D. Bertāns,17,34
+1,0:17.0,,Personal foul by P. Millsap (drawn by D. Eubanks),17,34
+1,0:17.0,,D. Eubanks makes free throw 1 of 2,17,35
+1,0:17.0,,D. Eubanks makes free throw 2 of 2,17,36
+1,0:05.0,Personal take foul by M. Belinelli (drawn by M. Morris),,17,36
+1,0:00.0,M. Morris misses 2-pt layup from 4 ft (block by D. Eubanks),,17,36
+1,0:00.0,,Defensive rebound by R. Gay,17,36
+2,11:40.0,,M. Belinelli misses 2-pt jump shot from 6 ft,17,36
+2,11:38.0,Defensive rebound by N. Jokić,,17,36
+2,11:22.0,T. Craig misses 3-pt jump shot from 28 ft,,17,36
+2,11:18.0,,Defensive rebound by D. Bertāns,17,36
+2,11:01.0,,M. Belinelli makes 2-pt jump shot from 20 ft (assist by D. Eubanks),17,38
+2,10:44.0,M. Beasley makes 2-pt jump shot from 9 ft,,19,38
+2,10:35.0,,D. Bertāns misses 2-pt jump shot from 16 ft,19,38
+2,10:32.0,,Offensive rebound by Team,19,38
+2,10:32.0,,B. Forbes enters the game for R. Gay,19,38
+2,10:23.0,,P. Mills misses 3-pt jump shot from 24 ft,19,38
+2,10:19.0,Defensive rebound by M. Beasley,,19,38
+2,10:14.0,I. Thomas makes 2-pt layup from 3 ft (assist by M. Morris),,21,38
+2,9:48.0,,B. Forbes misses 2-pt jump shot from 19 ft,21,38
+2,9:44.0,Defensive rebound by M. Morris,,21,38
+2,9:41.0,Turnover by M. Morris (lost ball; steal by P. Mills),,21,38
+2,9:37.0,,P. Mills makes 2-pt layup from 6 ft,21,40
+2,9:30.0,I. Thomas makes 3-pt jump shot from 26 ft (assist by M. Beasley),,24,40
+2,9:12.0,,B. Forbes makes 2-pt jump shot from 19 ft (assist by D. Eubanks),24,42
+2,8:55.0,I. Thomas misses 2-pt jump shot from 9 ft,,24,42
+2,8:47.0,Offensive rebound by I. Thomas,,24,42
+2,8:47.0,I. Thomas misses 2-pt layup at rim,,24,42
+2,8:46.0,Offensive rebound by N. Jokić,,24,42
+2,8:45.0,N. Jokić misses 2-pt layup at rim,,24,42
+2,8:45.0,Offensive rebound by N. Jokić,,24,42
+2,8:44.0,N. Jokić makes 2-pt layup at rim,,26,42
+2,8:43.0,,San Antonio full timeout,26,42
+2,8:43.0,,D. DeRozan enters the game for M. Belinelli,26,42
+2,8:43.0,,J. Poeltl enters the game for D. Eubanks,26,42
+2,8:43.0,,D. White enters the game for P. Mills,26,42
+2,8:24.0,,Turnover by B. Forbes (bad pass; steal by M. Morris),26,42
+2,8:22.0,M. Beasley makes 2-pt layup from 5 ft,,28,42
+2,8:07.0,,J. Poeltl makes 2-pt layup from 3 ft (assist by D. White),28,44
+2,7:45.0,M. Beasley misses 3-pt jump shot from 25 ft,,28,44
+2,7:42.0,,Defensive rebound by D. Bertāns,28,44
+2,7:33.0,,D. Bertāns misses 2-pt jump shot from 12 ft,28,44
+2,7:30.0,,Offensive rebound by D. Bertāns,28,44
+2,7:26.0,,Turnover by D. DeRozan (bad pass; steal by I. Thomas),28,44
+2,7:26.0,Personal foul by D. DeRozan (drawn by N. Jokić),,28,44
+2,7:14.0,I. Thomas misses 3-pt jump shot from 26 ft,,28,44
+2,7:11.0,,Defensive rebound by B. Forbes,28,44
+2,6:55.0,,D. DeRozan misses 2-pt jump shot from 12 ft (block by T. Craig),28,44
+2,6:54.0,Defensive rebound by I. Thomas,,28,44
+2,6:54.0,Turnover by I. Thomas (bad pass; steal by J. Poeltl),,28,44
+2,6:43.0,,Turnover by D. DeRozan (bad pass; steal by M. Beasley),28,44
+2,6:40.0,M. Beasley misses 2-pt layup from 4 ft (block by D. White),,28,44
+2,6:40.0,Offensive rebound by Team,,28,44
+2,6:40.0,,L. Aldridge enters the game for D. Bertāns,28,44
+2,6:40.0,,M. Belinelli enters the game for J. Poeltl,28,44
+2,6:34.0,I. Thomas makes 2-pt jump shot from 13 ft,,30,44
+2,6:17.0,,L. Aldridge makes 2-pt jump shot from 13 ft (assist by D. White),30,46
+2,6:00.0,N. Jokić makes 2-pt jump shot from 4 ft (assist by M. Beasley),,32,46
+2,5:40.0,,L. Aldridge makes 2-pt jump shot from 18 ft (assist by D. White),32,48
+2,5:23.0,I. Thomas misses 2-pt layup from 5 ft (block by D. DeRozan),,32,48
+2,5:18.0,T. Craig makes 2-pt layup at rim,,34,48
+2,5:18.0,Offensive rebound by T. Craig,,34,48
+2,5:08.0,,Personal foul by M. Morris (drawn by D. White),34,48
+2,5:08.0,W. Barton enters the game for M. Beasley,,34,48
+2,5:08.0,G. Harris enters the game for N. Jokić,,34,48
+2,5:08.0,P. Millsap enters the game for M. Morris,,34,48
+2,5:08.0,J. Murray enters the game for I. Thomas,,34,48
+2,5:08.0,,R. Gay enters the game for B. Forbes,34,48
+2,4:59.0,,D. DeRozan misses 2-pt jump shot from 7 ft,34,48
+2,4:59.0,,Offensive rebound by Team,34,48
+2,4:59.0,,D. DeRozan misses 2-pt layup from 6 ft,34,48
+2,4:54.0,Defensive rebound by P. Millsap,,34,48
+2,4:44.0,P. Millsap misses 2-pt jump shot from 9 ft,,34,48
+2,4:41.0,,Defensive rebound by L. Aldridge,34,48
+2,4:34.0,,D. DeRozan misses 2-pt layup from 6 ft,34,48
+2,4:34.0,Defensive rebound by Team,,34,48
+2,4:34.0,,Technical foul by D. DeRozan,34,48
+2,4:34.0,J. Murray makes technical free throw,,35,48
+2,4:14.0,P. Millsap makes 2-pt jump shot from 8 ft,,37,48
+2,4:04.0,,Offensive foul by L. Aldridge (drawn by P. Millsap),37,48
+2,4:04.0,,Turnover by L. Aldridge (offensive foul),37,48
+2,3:55.0,J. Murray misses 2-pt jump shot from 18 ft,,37,48
+2,3:52.0,,Defensive rebound by D. DeRozan,37,48
+2,3:43.0,,D. White misses 3-pt jump shot from 27 ft,37,48
+2,3:40.0,Defensive rebound by P. Millsap,,37,48
+2,3:31.0,T. Craig misses 3-pt jump shot from 26 ft,,37,48
+2,3:30.0,Offensive rebound by Team,,37,48
+2,3:30.0,,Loose ball foul by R. Gay (drawn by P. Millsap),37,48
+2,3:25.0,G. Harris misses 3-pt jump shot from 26 ft,,37,48
+2,3:21.0,,Defensive rebound by D. DeRozan,37,48
+2,3:13.0,,D. DeRozan makes 2-pt layup from 2 ft,37,50
+2,3:13.0,,Shooting foul by P. Millsap (drawn by D. DeRozan),37,50
+2,3:13.0,N. Jokić enters the game for T. Craig,,37,50
+2,3:13.0,,D. DeRozan makes free throw 1 of 1,37,51
+2,3:02.0,G. Harris makes 2-pt jump shot from 8 ft (assist by J. Murray),,39,51
+2,2:47.0,,R. Gay makes 2-pt jump shot from 11 ft (assist by D. White),39,53
+2,2:36.0,J. Murray misses 2-pt jump shot from 19 ft,,39,53
+2,2:36.0,,Defensive rebound by D. DeRozan,39,53
+2,2:30.0,,Personal foul by J. Murray (drawn by D. DeRozan),39,53
+2,2:30.0,Denver full timeout,,39,53
+2,2:24.0,,L. Aldridge makes 2-pt layup from 2 ft (assist by D. White),39,55
+2,2:02.0,N. Jokić makes 2-pt layup from 6 ft (assist by J. Murray),,41,55
+2,1:40.0,,D. White misses 2-pt layup from 5 ft (block by W. Barton),41,55
+2,1:36.0,Defensive rebound by J. Murray,,41,55
+2,1:25.0,W. Barton makes 2-pt jump shot from 11 ft (assist by N. Jokić),,43,55
+2,1:03.0,,L. Aldridge misses 2-pt jump shot from 12 ft,43,55
+2,1:01.0,Defensive rebound by J. Murray,,43,55
+2,0:55.0,N. Jokić makes 2-pt hook shot from 4 ft (assist by J. Murray),,45,55
+2,0:41.0,,M. Belinelli makes 3-pt jump shot from 25 ft (assist by D. DeRozan),45,58
+2,0:32.0,G. Harris makes 3-pt jump shot from 26 ft (assist by J. Murray),,48,58
+2,0:12.0,,L. Aldridge misses 2-pt layup from 5 ft,48,58
+2,0:10.0,Defensive rebound by P. Millsap,,48,58
+2,0:06.0,Personal take foul by R. Gay (drawn by W. Barton),,48,58
+2,0:06.0,T. Craig enters the game for P. Millsap,,48,58
+2,0:02.0,J. Murray misses 2-pt layup from 4 ft,,48,58
+2,0:00.0,N. Jokić misses 2-pt layup from 2 ft,,48,58
+2,0:00.0,,Defensive rebound by L. Aldridge,48,58
+2,0:01.0,Offensive rebound by N. Jokić,,48,58
+3,11:49.0,,Personal foul by W. Barton (drawn by L. Aldridge),48,58
+3,11:36.0,,L. Aldridge misses 3-pt jump shot from 25 ft,48,58
+3,11:34.0,Defensive rebound by W. Barton,,48,58
+3,11:26.0,J. Murray makes 3-pt jump shot from 25 ft (assist by N. Jokić),,51,58
+3,11:13.0,,L. Aldridge makes 2-pt jump shot from 19 ft (assist by D. DeRozan),51,60
+3,10:52.0,J. Murray misses 3-pt jump shot from 26 ft,,51,60
+3,10:52.0,,Defensive rebound by Team,51,60
+3,10:34.0,,L. Aldridge misses 2-pt jump shot from 10 ft,51,60
+3,10:31.0,Defensive rebound by W. Barton,,51,60
+3,10:18.0,G. Harris misses 2-pt jump shot from 14 ft,,51,60
+3,10:15.0,,Defensive rebound by L. Aldridge,51,60
+3,10:08.0,,J. Poeltl makes 2-pt jump shot from 4 ft (assist by D. White),51,62
+3,9:51.0,W. Barton makes 3-pt jump shot from 24 ft (assist by N. Jokić),,54,62
+3,9:28.0,,D. White makes 2-pt layup from 4 ft,54,64
+3,9:13.0,N. Jokić makes 3-pt jump shot from 27 ft (assist by J. Murray),,57,64
+3,8:56.0,,Offensive foul by L. Aldridge (drawn by P. Millsap),57,64
+3,8:56.0,,Turnover by L. Aldridge (offensive foul),57,64
+3,8:45.0,P. Millsap misses 2-pt layup from 5 ft,,57,64
+3,8:42.0,,Defensive rebound by L. Aldridge,57,64
+3,8:26.0,,B. Forbes misses 3-pt jump shot from 26 ft,57,64
+3,8:24.0,Defensive rebound by N. Jokić,,57,64
+3,8:08.0,J. Murray makes 2-pt jump shot from 8 ft,,59,64
+3,8:08.0,,San Antonio full timeout,59,64
+3,8:08.0,,M. Belinelli enters the game for B. Forbes,59,64
+3,7:50.0,,D. DeRozan makes 2-pt jump shot from 13 ft (assist by L. Aldridge),59,66
+3,7:32.0,N. Jokić misses 2-pt jump shot from 5 ft,,59,66
+3,7:29.0,,Defensive rebound by L. Aldridge,59,66
+3,7:15.0,,D. White misses 3-pt jump shot from 26 ft,59,66
+3,7:11.0,Defensive rebound by W. Barton,,59,66
+3,7:07.0,Offensive foul by N. Jokić (drawn by J. Poeltl),,59,66
+3,7:07.0,Turnover by N. Jokić (offensive foul),,59,66
+3,7:07.0,,R. Gay enters the game for J. Poeltl,59,66
+3,6:50.0,,D. White misses 2-pt jump shot from 10 ft,59,66
+3,6:47.0,Defensive rebound by P. Millsap,,59,66
+3,6:39.0,N. Jokić makes 2-pt jump shot from 7 ft,,61,66
+3,6:18.0,,R. Gay misses 2-pt jump shot from 14 ft,61,66
+3,6:17.0,,Offensive rebound by L. Aldridge,61,66
+3,6:17.0,,Shooting foul by P. Millsap (drawn by L. Aldridge),61,66
+3,6:17.0,,L. Aldridge misses free throw 1 of 2,61,66
+3,6:17.0,,Offensive rebound by Team,61,66
+3,6:17.0,,L. Aldridge makes free throw 2 of 2,61,67
+3,6:06.0,G. Harris makes 3-pt jump shot from 27 ft (assist by N. Jokić),,64,67
+3,5:47.0,,M. Belinelli makes 3-pt jump shot from 27 ft (assist by R. Gay),64,70
+3,5:34.0,Turnover by J. Murray (bad pass; steal by D. DeRozan),,64,70
+3,5:29.0,,R. Gay makes 2-pt layup from 6 ft (assist by D. White),64,72
+3,5:29.0,Denver full timeout,,64,72
+3,5:29.0,M. Beasley enters the game for G. Harris,,64,72
+3,5:29.0,M. Plumlee enters the game for P. Millsap,,64,72
+3,5:08.0,M. Beasley makes 3-pt jump shot from 26 ft (assist by M. Plumlee),,67,72
+3,4:48.0,,R. Gay makes 3-pt jump shot from 25 ft (assist by D. DeRozan),67,75
+3,4:34.0,W. Barton misses 3-pt jump shot from 27 ft,,67,75
+3,4:33.0,Offensive rebound by Team,,67,75
+3,4:33.0,,Loose ball foul by R. Gay (drawn by M. Plumlee),67,75
+3,4:33.0,,P. Mills enters the game for D. White,67,75
+3,4:27.0,J. Murray misses 2-pt layup from 5 ft,,67,75
+3,4:25.0,,Defensive rebound by R. Gay,67,75
+3,4:17.0,,P. Mills makes 3-pt jump shot from 23 ft (assist by R. Gay),67,78
+3,4:03.0,Personal foul by D. DeRozan (drawn by M. Beasley),,67,78
+3,4:03.0,M. Morris enters the game for J. Murray,,67,78
+3,3:57.0,M. Beasley misses 3-pt jump shot from 26 ft,,67,78
+3,3:53.0,,Defensive rebound by M. Belinelli,67,78
+3,3:44.0,,R. Gay misses 3-pt jump shot from 26 ft,67,78
+3,3:44.0,,Offensive rebound by Team,67,78
+3,3:35.0,,L. Aldridge misses 2-pt jump shot from 11 ft,67,78
+3,3:32.0,Defensive rebound by N. Jokić,,67,78
+3,3:23.0,Turnover by N. Jokić (bad pass),,67,78
+3,3:23.0,I. Thomas enters the game for W. Barton,,67,78
+3,3:07.0,,Shooting foul by M. Beasley (drawn by D. DeRozan),67,78
+3,3:07.0,,D. DeRozan makes free throw 1 of 2,67,79
+3,3:07.0,P. Millsap enters the game for N. Jokić,,67,79
+3,3:07.0,,J. Poeltl enters the game for L. Aldridge,67,79
+3,3:07.0,,D. DeRozan misses free throw 2 of 2,67,79
+3,3:03.0,Defensive rebound by P. Millsap,,67,79
+3,2:52.0,M. Morris makes 2-pt jump shot from 10 ft (assist by M. Beasley),,69,79
+3,2:36.0,,M. Belinelli misses 3-pt jump shot from 26 ft,69,79
+3,2:32.0,Defensive rebound by M. Beasley,,69,79
+3,2:24.0,P. Millsap misses 2-pt jump shot from 9 ft (block by R. Gay),,69,79
+3,2:19.0,,Defensive rebound by J. Poeltl,69,79
+3,2:07.0,,D. DeRozan makes 2-pt jump shot from 16 ft,69,81
+3,1:53.0,Turnover by M. Plumlee (bad pass; steal by D. DeRozan),,69,81
+3,1:45.0,,P. Mills misses 3-pt jump shot from 23 ft,69,81
+3,1:41.0,Defensive rebound by P. Millsap,,69,81
+3,1:28.0,M. Morris misses 3-pt jump shot from 26 ft,,69,81
+3,1:25.0,,Defensive rebound by P. Mills,69,81
+3,1:06.0,,J. Poeltl makes 2-pt layup from 2 ft (assist by R. Gay),69,83
+3,1:06.0,Denver full timeout,,69,83
+3,0:54.0,I. Thomas misses 3-pt jump shot from 26 ft,,69,83
+3,0:51.0,,Defensive rebound by R. Gay,69,83
+3,0:37.0,,D. DeRozan makes 2-pt jump shot from 11 ft,69,85
+3,0:30.0,,Violation by Team (kicked ball),69,85
+3,0:24.0,M. Plumlee misses 2-pt hook shot from 7 ft,,69,85
+3,0:22.0,,Defensive rebound by D. DeRozan,69,85
+3,0:10.0,,Personal take foul by M. Beasley (drawn by D. DeRozan),69,85
+3,0:10.0,T. Craig enters the game for P. Millsap,,69,85
+3,0:00.0,,P. Mills misses 3-pt jump shot from 26 ft,69,85
+3,0:00.0,,Offensive rebound by Team,69,85
+4,11:44.0,M. Morris misses 2-pt jump shot from 19 ft,,69,85
+4,11:40.0,Offensive rebound by M. Plumlee,,69,85
+4,11:26.0,I. Thomas misses 2-pt layup from 5 ft (block by D. White),,69,85
+4,11:26.0,Offensive rebound by Team,,69,85
+4,11:26.0,Turnover by Team (shot clock),,69,85
+4,11:04.0,,Shooting foul by T. Craig (drawn by R. Gay),69,85
+4,11:04.0,,R. Gay makes free throw 1 of 2,69,86
+4,11:04.0,,R. Gay makes free throw 2 of 2,69,87
+4,10:51.0,M. Beasley makes 3-pt jump shot from 27 ft (assist by M. Plumlee),,72,87
+4,10:30.0,,R. Gay misses 2-pt jump shot from 5 ft (block by M. Plumlee),72,87
+4,10:26.0,Defensive rebound by T. Craig,,72,87
+4,10:21.0,M. Morris makes 2-pt jump shot from 4 ft (assist by I. Thomas),,74,87
+4,10:03.0,,D. White makes 3-pt jump shot from 26 ft (assist by P. Mills),74,90
+4,9:50.0,M. Morris misses 2-pt layup from 4 ft (block by R. Gay),,74,90
+4,9:47.0,,Defensive rebound by R. Gay,74,90
+4,9:30.0,,D. White misses 2-pt layup from 3 ft,74,90
+4,9:26.0,,J. Poeltl misses 2-pt layup at rim,74,90
+4,9:26.0,,Offensive rebound by J. Poeltl,74,90
+4,9:25.0,Defensive rebound by M. Beasley,,74,90
+4,9:22.0,I. Thomas misses 3-pt jump shot from 26 ft,,74,90
+4,9:18.0,,Defensive rebound by R. Gay,74,90
+4,9:10.0,,Shooting foul by M. Plumlee (drawn by R. Gay),74,90
+4,9:10.0,,R. Gay misses free throw 1 of 2,74,90
+4,9:10.0,,Offensive rebound by Team,74,90
+4,9:10.0,,L. Aldridge enters the game for P. Mills,74,90
+4,9:10.0,,M. Belinelli enters the game for J. Poeltl,74,90
+4,9:10.0,,R. Gay makes free throw 2 of 2,74,91
+4,9:04.0,M. Beasley misses 3-pt jump shot from 26 ft,,74,91
+4,9:00.0,,Defensive rebound by D. White,74,91
+4,8:51.0,,Offensive foul by L. Aldridge (drawn by I. Thomas),74,91
+4,8:51.0,,Turnover by L. Aldridge (offensive foul),74,91
+4,8:51.0,N. Jokić enters the game for M. Plumlee,,74,91
+4,8:51.0,,B. Forbes enters the game for R. Gay,74,91
+4,8:36.0,M. Beasley makes 2-pt jump shot from 6 ft,,76,91
+4,8:36.0,Shooting foul by B. Forbes (drawn by M. Beasley),,76,91
+4,8:36.0,G. Harris enters the game for M. Morris,,76,91
+4,8:36.0,M. Beasley makes free throw 1 of 1,,77,91
+4,8:16.0,,L. Aldridge makes 2-pt jump shot from 12 ft,77,93
+4,8:06.0,T. Craig makes 3-pt jump shot from 27 ft (assist by I. Thomas),,80,93
+4,7:53.0,,D. Bertāns makes 2-pt jump shot from 7 ft (assist by D. White),80,95
+4,7:53.0,Denver full timeout,,80,95
+4,7:53.0,W. Barton enters the game for M. Beasley,,80,95
+4,7:53.0,P. Millsap enters the game for T. Craig,,80,95
+4,7:53.0,J. Murray enters the game for I. Thomas,,80,95
+4,7:32.0,G. Harris misses 3-pt jump shot from 28 ft,,80,95
+4,7:29.0,,Defensive rebound by L. Aldridge,80,95
+4,7:14.0,,B. Forbes makes 3-pt jump shot from 25 ft (assist by L. Aldridge),80,98
+4,7:01.0,N. Jokić makes 3-pt jump shot from 26 ft,,83,98
+4,6:42.0,,M. Belinelli misses 3-pt jump shot from 24 ft,83,98
+4,6:39.0,Defensive rebound by W. Barton,,83,98
+4,6:29.0,P. Millsap makes 3-pt jump shot from 27 ft (assist by W. Barton),,86,98
+4,6:08.0,,Turnover by L. Aldridge (bad pass),86,98
+4,6:08.0,,D. DeRozan enters the game for M. Belinelli,86,98
+4,6:00.0,Offensive foul by J. Murray (drawn by D. White),,86,98
+4,6:00.0,Turnover by J. Murray (offensive foul),,86,98
+4,5:46.0,,D. DeRozan makes 2-pt layup from 3 ft,86,100
+4,5:32.0,J. Murray makes 2-pt jump shot from 10 ft,,88,100
+4,5:10.0,,D. White misses 2-pt jump shot from 3 ft,88,100
+4,5:07.0,Defensive rebound by G. Harris,,88,100
+4,5:03.0,P. Millsap misses 3-pt jump shot from 27 ft,,88,100
+4,5:01.0,,Defensive rebound by D. White,88,100
+4,4:42.0,,Turnover by D. DeRozan (lost ball; steal by J. Murray),88,100
+4,4:38.0,G. Harris misses 2-pt layup from 4 ft (block by D. White),,88,100
+4,4:34.0,,Defensive rebound by B. Forbes,88,100
+4,4:31.0,,San Antonio full timeout,88,100
+4,4:31.0,,R. Gay enters the game for B. Forbes,88,100
+4,4:27.0,,D. DeRozan makes 2-pt layup from 4 ft (assist by D. Bertāns),88,102
+4,4:08.0,J. Murray makes 3-pt jump shot from 26 ft (assist by P. Millsap),,91,102
+4,3:41.0,,D. Bertāns misses 3-pt jump shot from 31 ft,91,102
+4,3:39.0,Defensive rebound by P. Millsap,,91,102
+4,3:22.0,J. Murray makes 3-pt jump shot from 24 ft (assist by N. Jokić),,94,102
+4,2:57.0,,D. White misses 3-pt jump shot from 26 ft,94,102
+4,2:55.0,Defensive rebound by P. Millsap,,94,102
+4,2:48.0,J. Murray misses 2-pt jump shot from 15 ft,,94,102
+4,2:45.0,,Defensive rebound by L. Aldridge,94,102
+4,2:31.0,,D. DeRozan makes 2-pt jump shot from 6 ft,94,104
+4,2:14.0,J. Murray makes 3-pt jump shot from 23 ft (assist by P. Millsap),,97,104
+4,1:52.0,,D. DeRozan misses 2-pt jump shot from 16 ft,97,104
+4,1:48.0,Defensive rebound by P. Millsap,,97,104
+4,1:41.0,W. Barton makes 3-pt jump shot from 26 ft (assist by J. Murray),,100,104
+4,1:30.0,,Personal foul by N. Jokić (drawn by L. Aldridge),100,104
+4,1:30.0,,B. Forbes enters the game for D. Bertāns,100,104
+4,1:20.0,,D. White misses 3-pt jump shot from 26 ft,100,104
+4,1:16.0,,Offensive rebound by D. DeRozan,100,104
+4,1:05.0,,D. DeRozan misses 2-pt jump shot from 19 ft,100,104
+4,0:57.0,Defensive rebound by G. Harris,,100,104
+4,0:49.0,J. Murray makes 3-pt jump shot from 28 ft,,103,104
+4,0:29.0,,D. DeRozan misses 2-pt layup from 4 ft,103,104
+4,0:27.0,Defensive rebound by P. Millsap,,103,104
+4,0:16.0,J. Murray misses 3-pt jump shot from 27 ft,,103,104
+4,0:14.0,Offensive rebound by Team,,103,104
+4,0:14.0,,P. Mills enters the game for B. Forbes,103,104
+4,0:11.0,J. Murray misses 2-pt jump shot from 9 ft,,103,104
+4,0:08.0,Offensive rebound by Team,,103,104
+4,0:08.0,Denver full timeout,,103,104
+4,0:04.0,Turnover by N. Jokić (bad pass; steal by R. Gay),,103,104
+4,0:04.0,,Personal foul by P. Millsap (drawn by R. Gay),103,104
+4,0:04.0,,R. Gay misses free throw 1 of 2,103,104
+4,0:04.0,,Offensive rebound by Team,103,104
+4,0:04.0,,R. Gay misses free throw 2 of 2,103,104
+4,0:03.0,Defensive rebound by W. Barton,,103,104
+4,0:03.0,Denver full timeout,,103,104
+4,0:02.0,Personal take foul by P. Mills (drawn by G. Harris),,103,104
+4,0:00.0,G. Harris misses 2-pt jump shot from 20 ft,,103,104
+4,0:00.0,Offensive rebound by Team,,103,104

@@ -1,0 +1,456 @@
+QUARTER,TIME_REMAINING,LA CLIPPERS_ACTION,SAN ANTONIO_ACTION,LA CLIPPERS_SCORE,SAN ANTONIO_SCORE
+1,11:46.0,,D. DeRozan misses 2-pt jump shot from 21 ft,0,0
+1,11:43.0,Defensive rebound by T. Harris,,0,0
+1,11:34.0,M. Harrell makes 2-pt hook shot from 6 ft (assist by A. Bradley),,2,0
+1,11:20.0,,B. Forbes misses 3-pt jump shot from 26 ft,2,0
+1,11:16.0,Defensive rebound by P. Beverley,,2,0
+1,11:09.0,M. Harrell makes 2-pt dunk from 2 ft (assist by P. Beverley),,4,0
+1,10:47.0,,L. Aldridge makes 2-pt jump shot from 17 ft (assist by B. Forbes),4,2
+1,10:32.0,Personal foul by R. Gay (drawn by S. Gilgeous-Alexander),,4,2
+1,10:19.0,A. Bradley misses 2-pt jump shot from 16 ft,,4,2
+1,10:15.0,,Defensive rebound by R. Gay,4,2
+1,10:03.0,,R. Gay makes 2-pt layup from 5 ft (assist by L. Aldridge),4,4
+1,9:53.0,Personal foul by D. DeRozan (drawn by S. Gilgeous-Alexander),,4,4
+1,9:49.0,S. Gilgeous-Alexander misses 2-pt jump shot from 8 ft,,4,4
+1,9:46.0,,Defensive rebound by B. Forbes,4,4
+1,9:42.0,,Turnover by B. Forbes (bad pass; steal by T. Harris),4,4
+1,9:37.0,T. Harris makes 2-pt layup from 6 ft,,6,4
+1,9:30.0,,Personal foul by P. Beverley (drawn by D. White),6,4
+1,9:21.0,,Turnover by D. DeRozan (bad pass),6,4
+1,9:07.0,M. Harrell makes 2-pt dunk from 3 ft (assist by A. Bradley),,8,4
+1,8:51.0,,Turnover by R. Gay (bad pass),8,4
+1,8:27.0,P. Beverley misses 3-pt jump shot from 26 ft,,8,4
+1,8:24.0,,Defensive rebound by D. White,8,4
+1,8:18.0,,D. DeRozan makes 2-pt jump shot from 18 ft (assist by D. White),8,6
+1,8:02.0,A. Bradley makes 3-pt jump shot from 24 ft (assist by S. Gilgeous-Alexander),,11,6
+1,7:54.0,,Personal foul by M. Harrell (drawn by L. Aldridge),11,6
+1,7:42.0,,L. Aldridge misses 2-pt jump shot from 16 ft,11,6
+1,7:40.0,Defensive rebound by T. Harris,,11,6
+1,7:37.0,T. Harris misses 2-pt layup from 5 ft,,11,6
+1,7:37.0,Offensive rebound by M. Harrell,,11,6
+1,7:37.0,Shooting foul by D. White (drawn by M. Harrell),,11,6
+1,7:37.0,M. Harrell makes free throw 1 of 2,,12,6
+1,7:37.0,,San Antonio full timeout,12,6
+1,7:37.0,M. Harrell makes free throw 2 of 2,,13,6
+1,7:24.0,,D. DeRozan makes 2-pt jump shot from 19 ft (assist by L. Aldridge),13,8
+1,7:08.0,T. Harris makes 2-pt jump shot from 10 ft,,15,8
+1,6:54.0,,D. DeRozan misses 2-pt jump shot from 20 ft,15,8
+1,6:54.0,Defensive rebound by A. Bradley,,15,8
+1,6:45.0,P. Beverley makes 2-pt jump shot from 10 ft,,17,8
+1,6:33.0,,R. Gay makes 3-pt jump shot from 23 ft (assist by D. DeRozan),17,11
+1,6:20.0,T. Harris misses 3-pt jump shot from 24 ft,,17,11
+1,6:18.0,,Defensive rebound by Team,17,11
+1,6:18.0,,M. Belinelli enters the game for L. Aldridge,17,11
+1,6:18.0,,D. Bertāns enters the game for B. Forbes,17,11
+1,6:18.0,,P. Mills enters the game for R. Gay,17,11
+1,6:18.0,,J. Poeltl enters the game for D. White,17,11
+1,6:07.0,,Personal foul by S. Gilgeous-Alexander (drawn by P. Mills),17,11
+1,6:03.0,,D. DeRozan misses 2-pt jump shot from 10 ft,17,11
+1,5:59.0,Defensive rebound by P. Beverley,,17,11
+1,5:53.0,Turnover by A. Bradley (bad pass; steal by P. Mills),,17,11
+1,5:46.0,,D. Bertāns makes 3-pt jump shot from 23 ft (assist by M. Belinelli),17,14
+1,5:30.0,A. Bradley makes 3-pt jump shot from 24 ft (assist by T. Harris),,20,14
+1,5:14.0,,D. DeRozan makes 2-pt jump shot from 17 ft,20,16
+1,5:04.0,Turnover by S. Gilgeous-Alexander (bad pass; steal by D. DeRozan),,20,16
+1,4:48.0,,M. Belinelli makes 3-pt jump shot from 26 ft (assist by J. Poeltl),20,19
+1,4:46.0,LA Clippers full timeout,,20,19
+1,4:31.0,P. Beverley makes 3-pt jump shot from 28 ft (assist by A. Bradley),,23,19
+1,4:31.0,J. Motley enters the game for P. Beverley,,23,19
+1,4:31.0,T. Wallace enters the game for M. Harrell,,23,19
+1,4:31.0,,B. Forbes enters the game for D. DeRozan,23,19
+1,4:11.0,,P. Mills makes 2-pt layup from 4 ft (assist by D. Bertāns),23,21
+1,3:59.0,J. Motley misses 2-pt jump shot from 6 ft,,23,21
+1,3:57.0,,Defensive rebound by D. Bertāns,23,21
+1,3:49.0,,P. Mills misses 2-pt jump shot from 9 ft,23,21
+1,3:46.0,Defensive rebound by J. Motley,,23,21
+1,3:38.0,Turnover by J. Motley (lost ball; steal by B. Forbes),,23,21
+1,3:25.0,,B. Forbes makes 3-pt jump shot from 26 ft (assist by J. Poeltl),23,24
+1,3:11.0,S. Gilgeous-Alexander makes 2-pt jump shot from 18 ft,,25,24
+1,2:54.0,,B. Forbes misses 3-pt jump shot from 26 ft,25,24
+1,2:54.0,Defensive rebound by T. Harris,,25,24
+1,2:31.0,A. Bradley makes 2-pt jump shot from 19 ft,,27,24
+1,2:08.0,,Shooting foul by J. Motley (drawn by J. Poeltl),27,24
+1,2:08.0,,J. Poeltl misses free throw 1 of 2,27,24
+1,2:08.0,,Offensive rebound by Team,27,24
+1,2:08.0,P. Beverley enters the game for A. Bradley,,27,24
+1,2:08.0,,J. Poeltl misses free throw 2 of 2,27,24
+1,2:05.0,Defensive rebound by J. Motley,,27,24
+1,1:57.0,T. Harris makes 2-pt layup from 6 ft,,29,24
+1,1:57.0,Shooting foul by J. Poeltl (drawn by T. Harris),,29,24
+1,1:57.0,T. Harris misses free throw 1 of 1,,29,24
+1,1:55.0,,Defensive rebound by D. Bertāns,29,24
+1,1:39.0,,M. Belinelli misses 3-pt jump shot from 24 ft,29,24
+1,1:39.0,Defensive rebound by Team,,29,24
+1,1:39.0,,Loose ball foul by J. Poeltl (drawn by P. Beverley),29,24
+1,1:39.0,P. Beverley makes free throw 1 of 2,,30,24
+1,1:39.0,S. Thornwell enters the game for S. Gilgeous-Alexander,,30,24
+1,1:39.0,P. Beverley misses free throw 2 of 2,,30,24
+1,1:36.0,,Defensive rebound by M. Belinelli,30,24
+1,1:28.0,,P. Mills misses 2-pt layup from 6 ft,30,24
+1,1:26.0,Defensive rebound by P. Beverley,,30,24
+1,1:22.0,T. Harris makes 2-pt layup from 4 ft,,32,24
+1,1:08.0,,Turnover by B. Forbes (bad pass; steal by T. Wallace),32,24
+1,1:06.0,J. Motley makes 2-pt layup from 5 ft (assist by P. Beverley),,34,24
+1,1:06.0,Shooting foul by M. Belinelli (drawn by J. Motley),,34,24
+1,1:06.0,J. Motley makes free throw 1 of 1,,35,24
+1,0:57.0,,P. Mills makes 2-pt jump shot from 20 ft,35,26
+1,0:42.0,P. Beverley misses 3-pt jump shot from 27 ft,,35,26
+1,0:39.0,Offensive rebound by Team,,35,26
+1,0:33.0,T. Harris makes 3-pt jump shot from 23 ft (assist by P. Beverley),,38,26
+1,0:16.0,,Shooting foul by J. Motley (drawn by J. Poeltl),38,26
+1,0:16.0,,J. Poeltl misses free throw 1 of 2,38,26
+1,0:16.0,,Offensive rebound by Team,38,26
+1,0:16.0,S. Gilgeous-Alexander enters the game for J. Motley,,38,26
+1,0:16.0,J. Robinson enters the game for S. Thornwell,,38,26
+1,0:16.0,,J. Poeltl misses free throw 2 of 2,38,26
+1,0:13.0,Defensive rebound by T. Wallace,,38,26
+1,0:01.0,J. Robinson misses 3-pt jump shot from 26 ft,,38,26
+1,0:01.0,,Defensive rebound by J. Poeltl,38,26
+2,11:45.0,J. Motley makes 2-pt dunk from 2 ft (assist by T. Harris),,40,26
+2,11:30.0,,D. DeRozan misses 2-pt jump shot from 9 ft,40,26
+2,11:28.0,Defensive rebound by J. Motley,,40,26
+2,11:19.0,P. Beverley makes 3-pt jump shot from 26 ft (assist by T. Harris),,43,26
+2,11:16.0,,San Antonio full timeout,43,26
+2,11:16.0,M. Harrell enters the game for T. Harris,,43,26
+2,11:16.0,,D. Bertāns enters the game for D. DeRozan,43,26
+2,11:04.0,,Turnover by D. White (bad pass; steal by J. Motley),43,26
+2,10:59.0,J. Motley makes 2-pt layup from 5 ft,,45,26
+2,10:53.0,,Shooting foul by M. Harrell (drawn by D. White),45,26
+2,10:53.0,,D. White misses free throw 1 of 2,45,26
+2,10:53.0,,Offensive rebound by Team,45,26
+2,10:53.0,,D. White makes free throw 2 of 2,45,27
+2,10:34.0,Shooting foul by D. Bertāns (drawn by T. Wallace),,45,27
+2,10:34.0,T. Wallace misses free throw 1 of 2,,45,27
+2,10:34.0,Offensive rebound by Team,,45,27
+2,10:34.0,T. Wallace makes free throw 2 of 2,,46,27
+2,10:23.0,,Shooting foul by T. Wallace (drawn by M. Belinelli),46,27
+2,10:23.0,,M. Belinelli makes free throw 1 of 2,46,28
+2,10:23.0,,M. Belinelli makes free throw 2 of 2,46,29
+2,10:11.0,Turnover by J. Motley (traveling),,46,29
+2,9:59.0,,R. Gay makes 2-pt layup from 4 ft,46,31
+2,9:40.0,T. Wallace misses 2-pt layup from 5 ft,,46,31
+2,9:37.0,,Defensive rebound by R. Gay,46,31
+2,9:30.0,,M. Belinelli makes 3-pt jump shot from 25 ft (assist by D. White),46,34
+2,9:30.0,LA Clippers full timeout,,46,34
+2,9:30.0,A. Bradley enters the game for P. Beverley,,46,34
+2,9:30.0,S. Gilgeous-Alexander enters the game for T. Wallace,,46,34
+2,9:14.0,J. Robinson misses 2-pt layup from 6 ft (block by D. Bertāns),,46,34
+2,9:14.0,,Defensive rebound by M. Belinelli,46,34
+2,9:00.0,,L. Aldridge makes 2-pt layup from 7 ft,46,36
+2,9:00.0,,Shooting foul by M. Harrell (drawn by L. Aldridge),46,36
+2,9:00.0,,L. Aldridge makes free throw 1 of 1,46,37
+2,8:48.0,Turnover by J. Motley (out of bounds lost ball),,46,37
+2,8:48.0,M. Gortat enters the game for M. Harrell,,46,37
+2,8:48.0,T. Harris enters the game for J. Robinson,,46,37
+2,8:33.0,,L. Aldridge misses 2-pt jump shot from 11 ft,46,37
+2,8:29.0,Defensive rebound by S. Gilgeous-Alexander,,46,37
+2,8:26.0,T. Harris makes 2-pt layup from 5 ft (assist by S. Gilgeous-Alexander),,48,37
+2,8:26.0,Shooting foul by D. Bertāns (drawn by T. Harris),,48,37
+2,8:26.0,P. Beverley enters the game for J. Motley,,48,37
+2,8:26.0,,B. Forbes enters the game for M. Belinelli,48,37
+2,8:26.0,T. Harris makes free throw 1 of 1,,49,37
+2,8:16.0,,R. Gay makes 2-pt jump shot from 19 ft,49,39
+2,8:06.0,S. Gilgeous-Alexander misses 2-pt jump shot from 13 ft,,49,39
+2,8:06.0,,Defensive rebound by L. Aldridge,49,39
+2,7:48.0,,L. Aldridge misses 2-pt jump shot from 12 ft,49,39
+2,7:42.0,Defensive rebound by M. Gortat,,49,39
+2,7:31.0,S. Gilgeous-Alexander misses 2-pt jump shot from 15 ft (block by R. Gay),,49,39
+2,7:27.0,,Defensive rebound by L. Aldridge,49,39
+2,7:16.0,,R. Gay misses 2-pt jump shot from 9 ft,49,39
+2,7:13.0,Defensive rebound by P. Beverley,,49,39
+2,7:09.0,Shooting foul by B. Forbes (drawn by M. Gortat),,49,39
+2,7:09.0,M. Gortat misses free throw 1 of 2,,49,39
+2,7:09.0,Offensive rebound by Team,,49,39
+2,7:09.0,,D. Cunningham enters the game for D. Bertāns,49,39
+2,7:09.0,,D. DeRozan enters the game for R. Gay,49,39
+2,7:09.0,M. Gortat makes free throw 2 of 2,,50,39
+2,6:44.0,,D. DeRozan misses 2-pt jump shot from 14 ft,50,39
+2,6:42.0,Defensive rebound by T. Harris,,50,39
+2,6:37.0,A. Bradley misses 2-pt layup from 5 ft,,50,39
+2,6:34.0,,Defensive rebound by D. DeRozan,50,39
+2,6:33.0,,San Antonio full timeout,50,39
+2,6:19.0,,Shooting foul by T. Harris (drawn by L. Aldridge),50,39
+2,6:19.0,,L. Aldridge misses free throw 1 of 2,50,39
+2,6:19.0,,Offensive rebound by Team,50,39
+2,6:19.0,,L. Aldridge makes free throw 2 of 2,50,40
+2,6:02.0,A. Bradley misses 3-pt jump shot from 25 ft (block by D. DeRozan),,50,40
+2,5:57.0,,Defensive rebound by D. DeRozan,50,40
+2,5:53.0,,B. Forbes misses 3-pt jump shot from 28 ft,50,40
+2,5:48.0,,Offensive rebound by L. Aldridge,50,40
+2,5:48.0,,L. Aldridge makes 2-pt layup from 1 ft,50,42
+2,5:37.0,P. Beverley misses 2-pt jump shot from 8 ft,,50,42
+2,5:37.0,Offensive rebound by Team,,50,42
+2,5:37.0,,Loose ball foul by D. Cunningham (drawn by M. Gortat),50,42
+2,5:23.0,A. Bradley makes 2-pt jump shot from 20 ft (assist by T. Harris),,52,42
+2,5:08.0,,D. White misses 2-pt jump shot from 9 ft,52,42
+2,5:05.0,Defensive rebound by P. Beverley,,52,42
+2,4:54.0,M. Gortat makes 2-pt hook shot from 8 ft (assist by S. Gilgeous-Alexander),,54,42
+2,4:36.0,,D. DeRozan misses 2-pt layup from 3 ft,54,42
+2,4:33.0,Defensive rebound by P. Beverley,,54,42
+2,4:25.0,A. Bradley makes 2-pt layup from 3 ft (assist by M. Gortat),,56,42
+2,4:04.0,,D. White makes 3-pt jump shot from 25 ft (assist by B. Forbes),56,45
+2,3:43.0,M. Gortat misses 2-pt layup from 2 ft,,56,45
+2,3:40.0,,Defensive rebound by L. Aldridge,56,45
+2,3:34.0,,L. Aldridge misses 2-pt layup from 3 ft,56,45
+2,3:31.0,Defensive rebound by M. Gortat,,56,45
+2,3:27.0,S. Gilgeous-Alexander misses 2-pt layup from 5 ft (block by D. Cunningham),,56,45
+2,3:27.0,,Defensive rebound by B. Forbes,56,45
+2,3:15.0,,D. White makes 2-pt jump shot from 6 ft (assist by D. Cunningham),56,47
+2,2:55.0,S. Gilgeous-Alexander misses 2-pt jump shot from 16 ft,,56,47
+2,2:53.0,,Defensive rebound by D. DeRozan,56,47
+2,2:39.0,,L. Aldridge makes 2-pt hook shot from 1 ft,56,49
+2,2:20.0,T. Harris misses 2-pt layup from 3 ft,,56,49
+2,2:17.0,,Defensive rebound by L. Aldridge,56,49
+2,2:10.0,,Offensive foul by D. DeRozan (drawn by P. Beverley),56,49
+2,2:10.0,,Turnover by D. DeRozan (offensive foul),56,49
+2,2:10.0,J. Motley enters the game for M. Gortat,,56,49
+2,2:10.0,,P. Mills enters the game for L. Aldridge,56,49
+2,2:10.0,,J. Poeltl enters the game for B. Forbes,56,49
+2,2:03.0,Personal foul by J. Poeltl (drawn by J. Motley),,56,49
+2,2:03.0,J. Motley misses free throw 1 of 2,,56,49
+2,2:03.0,Offensive rebound by Team,,56,49
+2,2:03.0,,P. Gasol enters the game for D. Cunningham,56,49
+2,2:03.0,,R. Gay enters the game for J. Poeltl,56,49
+2,2:03.0,J. Motley makes free throw 2 of 2,,57,49
+2,1:42.0,,R. Gay makes 2-pt jump shot from 11 ft (assist by D. DeRozan),57,51
+2,1:22.0,S. Gilgeous-Alexander misses 3-pt jump shot from 23 ft,,57,51
+2,1:19.0,,Defensive rebound by P. Mills,57,51
+2,1:16.0,,D. White misses 2-pt layup from 1 ft,57,51
+2,1:14.0,Defensive rebound by S. Gilgeous-Alexander,,57,51
+2,1:11.0,S. Gilgeous-Alexander misses 2-pt jump shot from 11 ft,,57,51
+2,1:07.0,,Defensive rebound by P. Mills,57,51
+2,0:53.0,,D. White misses 3-pt jump shot from 26 ft,57,51
+2,0:50.0,Defensive rebound by A. Bradley,,57,51
+2,0:46.0,Shooting foul by D. White (drawn by J. Motley),,57,51
+2,0:46.0,J. Motley misses free throw 1 of 2,,57,51
+2,0:46.0,Offensive rebound by Team,,57,51
+2,0:46.0,S. Thornwell enters the game for S. Gilgeous-Alexander,,57,51
+2,0:46.0,,M. Belinelli enters the game for D. White,57,51
+2,0:46.0,J. Motley misses free throw 2 of 2,,57,51
+2,0:44.0,,Defensive rebound by P. Gasol,57,51
+2,0:29.0,,R. Gay makes 2-pt jump shot from 8 ft (assist by M. Belinelli),57,53
+2,0:11.0,A. Bradley makes 3-pt jump shot from 25 ft (assist by P. Beverley),,60,53
+2,0:03.0,,D. DeRozan misses 2-pt jump shot from 3 ft,60,53
+2,0:00.0,,Offensive rebound by Team,60,53
+3,11:49.0,S. Gilgeous-Alexander misses 2-pt jump shot from 9 ft,,60,53
+3,11:46.0,,Defensive rebound by D. DeRozan,60,53
+3,11:39.0,,D. DeRozan misses 2-pt jump shot from 17 ft,60,53
+3,11:37.0,Defensive rebound by S. Gilgeous-Alexander,,60,53
+3,11:17.0,T. Harris misses 2-pt layup from 9 ft,,60,53
+3,11:14.0,,Defensive rebound by R. Gay,60,53
+3,11:05.0,,L. Aldridge makes 2-pt jump shot from 18 ft (assist by D. DeRozan),60,55
+3,10:52.0,M. Harrell misses 2-pt layup from 7 ft (block by L. Aldridge),,60,55
+3,10:52.0,Offensive rebound by Team,,60,55
+3,10:52.0,Violation by Team (delay of game),,60,55
+3,10:43.0,Turnover by S. Gilgeous-Alexander (step out of bounds),,60,55
+3,10:24.0,,L. Aldridge makes 2-pt jump shot from 14 ft,60,57
+3,9:59.0,S. Gilgeous-Alexander misses 2-pt jump shot from 11 ft,,60,57
+3,9:55.0,,Defensive rebound by D. DeRozan,60,57
+3,9:49.0,,Turnover by D. DeRozan (lost ball; steal by P. Beverley),60,57
+3,9:44.0,T. Harris misses 2-pt layup from 5 ft,,60,57
+3,9:40.0,,Defensive rebound by R. Gay,60,57
+3,9:38.0,,Offensive foul by R. Gay (drawn by P. Beverley),60,57
+3,9:38.0,,Turnover by R. Gay (offensive foul),60,57
+3,9:30.0,T. Harris misses 3-pt jump shot from 27 ft,,60,57
+3,9:27.0,,Defensive rebound by D. DeRozan,60,57
+3,9:14.0,,L. Aldridge misses 2-pt jump shot from 11 ft,60,57
+3,9:11.0,Defensive rebound by A. Bradley,,60,57
+3,8:49.0,A. Bradley misses 2-pt layup from 5 ft (block by L. Aldridge),,60,57
+3,8:49.0,Offensive rebound by Team,,60,57
+3,8:49.0,Turnover by Team (shot clock),,60,57
+3,8:34.0,,Turnover by L. Aldridge (out of bounds lost ball),60,57
+3,8:34.0,S. Thornwell enters the game for S. Gilgeous-Alexander,,60,57
+3,8:24.0,A. Bradley misses 2-pt layup from 11 ft,,60,57
+3,8:20.0,,Defensive rebound by R. Gay,60,57
+3,8:09.0,,Turnover by D. DeRozan (bad pass; steal by P. Beverley),60,57
+3,8:09.0,Personal foul by R. Gay (drawn by P. Beverley),,60,57
+3,7:52.0,Shooting foul by D. White (drawn by M. Harrell),,60,57
+3,7:52.0,M. Harrell makes free throw 1 of 2,,61,57
+3,7:52.0,M. Harrell makes free throw 2 of 2,,62,57
+3,7:32.0,,L. Aldridge misses 2-pt jump shot from 10 ft,62,57
+3,7:30.0,Defensive rebound by A. Bradley,,62,57
+3,7:16.0,P. Beverley makes 3-pt jump shot from 27 ft (assist by T. Harris),,65,57
+3,7:15.0,,San Antonio full timeout,65,57
+3,7:02.0,,Personal foul by S. Thornwell (drawn by L. Aldridge),65,57
+3,6:51.0,,D. White misses 2-pt jump shot from 18 ft (block by P. Beverley),65,57
+3,6:48.0,Defensive rebound by P. Beverley,,65,57
+3,6:48.0,Shooting foul by B. Forbes (drawn by S. Thornwell),,65,57
+3,6:48.0,S. Thornwell misses free throw 1 of 2,,65,57
+3,6:48.0,Offensive rebound by Team,,65,57
+3,6:48.0,,M. Belinelli enters the game for B. Forbes,65,57
+3,6:48.0,,P. Mills enters the game for D. White,65,57
+3,6:48.0,S. Thornwell makes free throw 2 of 2,,66,57
+3,6:28.0,,D. DeRozan misses 2-pt jump shot from 18 ft,66,57
+3,6:24.0,Defensive rebound by T. Harris,,66,57
+3,6:19.0,M. Harrell makes 2-pt layup from 4 ft (assist by T. Harris),,68,57
+3,6:01.0,,Shooting foul by M. Harrell (drawn by L. Aldridge),68,57
+3,6:01.0,,L. Aldridge makes free throw 1 of 2,68,58
+3,6:01.0,J. Motley enters the game for M. Harrell,,68,58
+3,6:01.0,,D. Bertāns enters the game for R. Gay,68,58
+3,6:01.0,,L. Aldridge misses free throw 2 of 2,68,58
+3,5:58.0,Defensive rebound by T. Harris,,68,58
+3,5:49.0,A. Bradley misses 2-pt jump shot from 17 ft,,68,58
+3,5:46.0,,Defensive rebound by L. Aldridge,68,58
+3,5:34.0,,D. DeRozan makes 2-pt layup from 4 ft,68,60
+3,5:15.0,T. Harris misses 2-pt jump shot from 18 ft,,68,60
+3,5:13.0,,Defensive rebound by D. Bertāns,68,60
+3,5:03.0,,Turnover by P. Mills (bad pass; steal by P. Beverley),68,60
+3,5:03.0,Personal foul by D. Bertāns (drawn by P. Beverley),,68,60
+3,5:03.0,LA Clippers full timeout,,68,60
+3,5:03.0,,J. Poeltl enters the game for L. Aldridge,68,60
+3,4:48.0,J. Motley misses 2-pt layup from 9 ft,,68,60
+3,4:45.0,,Defensive rebound by J. Poeltl,68,60
+3,4:37.0,,M. Belinelli misses 3-pt jump shot from 27 ft,68,60
+3,4:34.0,Defensive rebound by P. Beverley,,68,60
+3,4:32.0,Turnover by P. Beverley (bad pass; steal by D. Bertāns),,68,60
+3,4:32.0,,Turnover by D. Bertāns (bad pass),68,60
+3,4:22.0,S. Thornwell misses 2-pt jump shot from 9 ft,,68,60
+3,4:16.0,Offensive rebound by T. Harris,,68,60
+3,4:16.0,T. Harris makes 2-pt layup from 1 ft,,70,60
+3,3:59.0,,M. Belinelli makes 2-pt jump shot from 11 ft (assist by P. Mills),70,62
+3,3:38.0,T. Harris makes 2-pt layup from 7 ft (assist by P. Beverley),,72,62
+3,3:38.0,Shooting foul by D. DeRozan (drawn by T. Harris),,72,62
+3,3:38.0,,R. Gay enters the game for D. DeRozan,72,62
+3,3:38.0,T. Harris misses free throw 1 of 1,,72,62
+3,3:36.0,,Defensive rebound by R. Gay,72,62
+3,3:24.0,,M. Belinelli makes 2-pt jump shot from 22 ft (assist by P. Mills),72,64
+3,3:06.0,P. Beverley misses 3-pt jump shot from 26 ft,,72,64
+3,3:06.0,,Defensive rebound by R. Gay,72,64
+3,3:06.0,S. Gilgeous-Alexander enters the game for A. Bradley,,72,64
+3,2:45.0,,D. Bertāns makes 3-pt jump shot from 26 ft (assist by R. Gay),72,67
+3,2:31.0,S. Gilgeous-Alexander makes 3-pt jump shot from 26 ft (assist by T. Harris),,75,67
+3,2:19.0,,R. Gay makes 2-pt hook shot from 5 ft,75,69
+3,2:05.0,Offensive foul by S. Gilgeous-Alexander (drawn by P. Mills),,75,69
+3,2:05.0,Turnover by S. Gilgeous-Alexander (offensive foul),,75,69
+3,1:48.0,,D. Bertāns misses 2-pt jump shot from 9 ft,75,69
+3,1:45.0,,Offensive rebound by P. Mills,75,69
+3,1:42.0,,M. Belinelli misses 3-pt jump shot from 26 ft,75,69
+3,1:39.0,Defensive rebound by P. Beverley,,75,69
+3,1:33.0,S. Thornwell makes 3-pt jump shot from 23 ft (assist by T. Harris),,78,69
+3,1:15.0,,D. Bertāns misses 3-pt jump shot from 27 ft,78,69
+3,1:12.0,Defensive rebound by P. Beverley,,78,69
+3,1:03.0,Turnover by J. Motley (bad pass),,78,69
+3,0:50.0,,Personal foul by S. Thornwell (drawn by D. Bertāns),78,69
+3,0:50.0,A. Bradley enters the game for P. Beverley,,78,69
+3,0:50.0,J. Robinson enters the game for S. Thornwell,,78,69
+3,0:43.0,,M. Belinelli misses 3-pt jump shot from 25 ft,78,69
+3,0:40.0,,Offensive rebound by J. Poeltl,78,69
+3,0:33.0,,Personal foul by A. Bradley (drawn by P. Mills),78,69
+3,0:33.0,,P. Mills makes free throw 1 of 2,78,70
+3,0:33.0,,D. White enters the game for D. Bertāns,78,70
+3,0:33.0,,P. Mills makes free throw 2 of 2,78,71
+3,0:13.0,J. Motley makes 2-pt dunk from 4 ft (assist by J. Robinson),,80,71
+3,0:02.0,,J. Poeltl misses 2-pt layup from 4 ft,80,71
+3,0:02.0,,Offensive rebound by J. Poeltl,80,71
+3,0:00.0,,J. Poeltl makes 2-pt layup at rim,80,73
+4,11:35.0,,R. Gay misses 2-pt jump shot from 18 ft,80,73
+4,11:32.0,Defensive rebound by J. Motley,,80,73
+4,11:15.0,M. Harrell makes 2-pt layup from 7 ft,,82,73
+4,10:59.0,,D. White makes 2-pt hook shot from 7 ft,82,75
+4,10:47.0,S. Gilgeous-Alexander misses 2-pt jump shot from 10 ft,,82,75
+4,10:45.0,,Defensive rebound by R. Gay,82,75
+4,10:37.0,,Personal foul by J. Robinson (drawn by M. Belinelli),82,75
+4,10:37.0,,L. Aldridge enters the game for J. Poeltl,82,75
+4,10:30.0,,Turnover by P. Mills (bad pass; steal by M. Harrell),82,75
+4,10:24.0,M. Harrell makes 2-pt layup from 3 ft,,84,75
+4,10:13.0,,L. Aldridge makes 2-pt jump shot from 19 ft (assist by M. Belinelli),84,77
+4,9:49.0,A. Bradley misses 2-pt jump shot from 20 ft (block by P. Mills),,84,77
+4,9:45.0,,Defensive rebound by L. Aldridge,84,77
+4,9:40.0,,R. Gay makes 2-pt layup from 4 ft,84,79
+4,9:39.0,LA Clippers full timeout,,84,79
+4,9:39.0,P. Beverley enters the game for J. Motley,,84,79
+4,9:39.0,T. Harris enters the game for J. Robinson,,84,79
+4,9:39.0,,D. DeRozan enters the game for R. Gay,84,79
+4,9:39.0,,B. Forbes enters the game for P. Mills,84,79
+4,9:23.0,M. Harrell misses 2-pt layup from 4 ft,,84,79
+4,9:21.0,,Defensive rebound by D. White,84,79
+4,9:00.0,,B. Forbes misses 2-pt jump shot from 5 ft,84,79
+4,8:58.0,Defensive rebound by M. Harrell,,84,79
+4,8:45.0,M. Harrell misses 2-pt jump shot from 6 ft,,84,79
+4,8:43.0,,Defensive rebound by D. DeRozan,84,79
+4,8:35.0,,D. DeRozan misses 2-pt jump shot from 16 ft,84,79
+4,8:33.0,Defensive rebound by P. Beverley,,84,79
+4,8:16.0,T. Harris makes 2-pt jump shot from 3 ft,,86,79
+4,7:56.0,,D. DeRozan misses 2-pt jump shot from 9 ft,86,79
+4,7:54.0,Defensive rebound by M. Harrell,,86,79
+4,7:46.0,S. Gilgeous-Alexander makes 2-pt jump shot from 15 ft,,88,79
+4,7:24.0,,Turnover by D. White (bad pass; steal by A. Bradley),88,79
+4,7:20.0,Turnover by A. Bradley (bad pass; steal by D. White),,88,79
+4,7:15.0,,D. DeRozan misses 2-pt layup from 8 ft (block by T. Harris),88,79
+4,7:13.0,,Offensive rebound by D. White,88,79
+4,7:11.0,,Turnover by D. White (bad pass; steal by T. Harris),88,79
+4,7:08.0,M. Harrell misses 2-pt layup from 5 ft,,88,79
+4,7:05.0,,Defensive rebound by M. Belinelli,88,79
+4,7:02.0,,L. Aldridge makes 2-pt layup from 5 ft (assist by D. White),88,81
+4,6:39.0,Personal foul by D. White (drawn by S. Gilgeous-Alexander),,88,81
+4,6:39.0,,D. Bertāns enters the game for M. Belinelli,88,81
+4,6:36.0,Shooting foul by D. White (drawn by S. Gilgeous-Alexander),,88,81
+4,6:36.0,P. Beverley misses free throw 1 of 2,,88,81
+4,6:36.0,Offensive rebound by Team,,88,81
+4,6:36.0,P. Beverley makes free throw 2 of 2,,89,81
+4,6:32.0,,Offensive foul by B. Forbes (drawn by S. Gilgeous-Alexander),89,81
+4,6:32.0,,Turnover by B. Forbes (offensive foul),89,81
+4,6:15.0,T. Harris makes 2-pt jump shot from 11 ft,,91,81
+4,6:15.0,,San Antonio full timeout,91,81
+4,5:54.0,,D. White misses 2-pt layup from 2 ft,91,81
+4,5:50.0,,Offensive rebound by L. Aldridge,91,81
+4,5:50.0,,L. Aldridge makes 2-pt layup at rim,91,83
+4,5:38.0,Turnover by M. Harrell (bad pass; steal by D. White),,91,83
+4,5:32.0,,D. Bertāns misses 2-pt layup from 6 ft,91,83
+4,5:26.0,,Offensive rebound by L. Aldridge,91,83
+4,5:26.0,,L. Aldridge misses 2-pt layup at rim,91,83
+4,5:26.0,Defensive rebound by T. Harris,,91,83
+4,5:19.0,T. Harris makes 3-pt jump shot from 26 ft (assist by A. Bradley),,94,83
+4,5:02.0,,L. Aldridge misses 2-pt jump shot from 17 ft,94,83
+4,5:00.0,Defensive rebound by T. Harris,,94,83
+4,4:41.0,M. Harrell misses 2-pt layup from 6 ft (block by D. White),,94,83
+4,4:38.0,,Defensive rebound by D. White,94,83
+4,4:38.0,,Personal take foul by P. Beverley (drawn by D. White),94,83
+4,4:38.0,,R. Gay enters the game for D. DeRozan,94,83
+4,4:38.0,,P. Mills enters the game for B. Forbes,94,83
+4,4:23.0,,P. Mills misses 2-pt layup from 4 ft,94,83
+4,4:18.0,,Offensive rebound by L. Aldridge,94,83
+4,4:18.0,,L. Aldridge makes 2-pt dunk at rim,94,85
+4,4:05.0,A. Bradley misses 3-pt jump shot from 26 ft,,94,85
+4,4:01.0,,Defensive rebound by L. Aldridge,94,85
+4,3:52.0,,Turnover by D. White (bad pass; steal by T. Harris),94,85
+4,3:51.0,LA Clippers full timeout,,94,85
+4,3:51.0,,M. Belinelli enters the game for P. Mills,94,85
+4,3:39.0,T. Harris misses 2-pt jump shot from 20 ft,,94,85
+4,3:35.0,Offensive rebound by M. Harrell,,94,85
+4,3:35.0,M. Harrell makes 2-pt layup from 1 ft,,96,85
+4,3:15.0,,L. Aldridge makes 2-pt hook shot from 6 ft,96,87
+4,3:01.0,P. Beverley makes 3-pt jump shot from 26 ft (assist by T. Harris),,99,87
+4,2:44.0,,R. Gay misses 2-pt jump shot from 13 ft,99,87
+4,2:42.0,Defensive rebound by A. Bradley,,99,87
+4,2:25.0,Personal foul by R. Gay (drawn by M. Harrell),,99,87
+4,2:14.0,T. Harris makes 2-pt jump shot from 18 ft,,101,87
+4,2:03.0,,R. Gay makes 2-pt dunk from 7 ft (assist by D. White),101,89
+4,1:50.0,S. Gilgeous-Alexander misses 2-pt layup from 5 ft,,101,89
+4,1:49.0,Offensive rebound by S. Gilgeous-Alexander,,101,89
+4,1:49.0,Personal foul by M. Belinelli (drawn by S. Gilgeous-Alexander),,101,89
+4,1:39.0,M. Harrell misses 2-pt jump shot from 17 ft,,101,89
+4,1:35.0,,Defensive rebound by D. White,101,89
+4,1:32.0,,Personal foul by A. Bradley (drawn by L. Aldridge),101,89
+4,1:27.0,,L. Aldridge makes 3-pt jump shot from 27 ft,101,92
+4,1:06.0,S. Gilgeous-Alexander misses 2-pt jump shot from 13 ft,,101,92
+4,1:03.0,,Defensive rebound by D. Bertāns,101,92
+4,1:00.0,,D. Bertāns misses 3-pt jump shot from 28 ft,101,92
+4,0:57.0,,Offensive rebound by L. Aldridge,101,92
+4,0:56.0,,Turnover by L. Aldridge (lost ball; steal by P. Beverley),101,92
+4,0:37.0,A. Bradley misses 3-pt jump shot from 24 ft,,101,92
+4,0:34.0,,Defensive rebound by L. Aldridge,101,92
+4,0:33.0,,Personal foul by S. Gilgeous-Alexander (drawn by D. White),101,92
+4,0:33.0,,D. White makes free throw 1 of 2,101,93
+4,0:33.0,,San Antonio full timeout,101,93
+4,0:33.0,,B. Forbes enters the game for D. Bertāns,101,93
+4,0:33.0,,P. Mills enters the game for R. Gay,101,93
+4,0:33.0,,D. White misses free throw 2 of 2,101,93
+4,0:31.0,,Offensive rebound by L. Aldridge,101,93
+4,0:31.0,,L. Aldridge makes 2-pt layup from 4 ft,101,95
+4,0:21.0,Personal take foul by B. Forbes (drawn by P. Beverley),,101,95
+4,0:21.0,P. Beverley makes free throw 1 of 2,,102,95
+4,0:21.0,,D. Bertāns enters the game for L. Aldridge,102,95
+4,0:21.0,P. Beverley makes free throw 2 of 2,,103,95
+4,0:14.0,,M. Belinelli misses 3-pt jump shot from 27 ft,103,95
+4,0:11.0,Defensive rebound by P. Beverley,,103,95

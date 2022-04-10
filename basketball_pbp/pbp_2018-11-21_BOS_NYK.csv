@@ -1,0 +1,481 @@
+QUARTER,TIME_REMAINING,NEW YORK_ACTION,BOSTON_ACTION,NEW YORK_SCORE,BOSTON_SCORE
+1,11:47.0,,K. Irving misses 3-pt jump shot from 25 ft,0,0
+1,11:46.0,Defensive rebound by Team,,0,0
+1,11:27.0,T. Hardaway misses 2-pt jump shot from 5 ft (block by J. Brown),,0,0
+1,11:24.0,,Defensive rebound by A. Horford,0,0
+1,11:16.0,,A. Baynes misses 3-pt jump shot from 25 ft,0,0
+1,11:14.0,Defensive rebound by N. Vonleh,,0,0
+1,11:00.0,N. Vonleh makes 3-pt jump shot from 27 ft (assist by T. Hardaway),,3,0
+1,10:47.0,,J. Tatum misses 2-pt jump shot from 18 ft,3,0
+1,10:43.0,Defensive rebound by N. Vonleh,,3,0
+1,10:33.0,N. Vonleh misses 2-pt layup from 3 ft (block by A. Baynes),,3,0
+1,10:30.0,Offensive rebound by N. Vonleh,,3,0
+1,10:28.0,M. Hezonja misses 3-pt jump shot from 24 ft,,3,0
+1,10:27.0,Offensive rebound by E. Freedom,,3,0
+1,10:26.0,Shooting foul by A. Baynes (drawn by N. Vonleh),,3,0
+1,10:26.0,N. Vonleh makes free throw 1 of 2,,4,0
+1,10:26.0,N. Vonleh makes free throw 2 of 2,,5,0
+1,10:15.0,,Shooting foul by E. Mudiay (drawn by J. Tatum),5,0
+1,10:15.0,,J. Tatum makes free throw 1 of 2,5,1
+1,10:15.0,,J. Tatum makes free throw 2 of 2,5,2
+1,10:06.0,M. Hezonja makes 3-pt jump shot from 23 ft (assist by E. Mudiay),,8,2
+1,9:56.0,,K. Irving makes 2-pt jump shot from 11 ft,8,4
+1,9:35.0,T. Hardaway misses 3-pt jump shot from 26 ft,,8,4
+1,9:33.0,,Defensive rebound by K. Irving,8,4
+1,9:24.0,,A. Horford makes 2-pt layup from 3 ft (assist by A. Baynes),8,6
+1,9:06.0,N. Vonleh makes 2-pt layup from 5 ft,,10,6
+1,8:53.0,,K. Irving misses 2-pt layup from 2 ft,10,6
+1,8:51.0,Defensive rebound by E. Freedom,,10,6
+1,8:46.0,M. Hezonja misses 3-pt jump shot from 27 ft,,10,6
+1,8:43.0,,Defensive rebound by J. Brown,10,6
+1,8:40.0,,J. Brown misses 2-pt layup from 4 ft,10,6
+1,8:38.0,Defensive rebound by T. Hardaway,,10,6
+1,8:30.0,M. Hezonja misses 3-pt jump shot from 24 ft,,10,6
+1,8:30.0,Offensive rebound by Team,,10,6
+1,8:30.0,,Loose ball foul by A. Baynes (drawn by E. Freedom),10,6
+1,8:22.0,E. Mudiay makes 3-pt jump shot from 26 ft (assist by N. Vonleh),,13,6
+1,7:59.0,,K. Irving misses 2-pt layup from 6 ft,13,6
+1,7:57.0,Defensive rebound by M. Hezonja,,13,6
+1,7:46.0,M. Hezonja misses 2-pt layup from 4 ft (block by A. Baynes),,13,6
+1,7:45.0,,Defensive rebound by K. Irving,13,6
+1,7:42.0,,J. Tatum makes 2-pt layup from 4 ft (assist by K. Irving),13,8
+1,7:36.0,E. Mudiay misses 3-pt jump shot from 27 ft,,13,8
+1,7:35.0,Offensive rebound by Team,,13,8
+1,7:25.0,E. Freedom misses 2-pt jump shot from 7 ft (block by A. Horford),,13,8
+1,7:24.0,,Defensive rebound by A. Baynes,13,8
+1,7:15.0,,A. Horford makes 2-pt jump shot from 15 ft (assist by K. Irving),13,10
+1,6:59.0,Turnover by E. Mudiay (bad pass; steal by J. Brown),,13,10
+1,6:56.0,,Shooting foul by M. Hezonja (drawn by J. Brown),13,10
+1,6:56.0,,Boston full timeout,13,10
+1,6:56.0,,J. Brown misses free throw 1 of 2,13,10
+1,6:56.0,,Offensive rebound by Team,13,10
+1,6:56.0,,J. Brown makes free throw 2 of 2,13,11
+1,6:40.0,M. Hezonja misses 3-pt jump shot from 23 ft,,13,11
+1,6:39.0,,Defensive rebound by A. Horford,13,11
+1,6:33.0,,Turnover by K. Irving (bad pass; steal by M. Hezonja),13,11
+1,6:19.0,Turnover by T. Hardaway (bad pass),,13,11
+1,6:08.0,,Turnover by J. Brown (bad pass),13,11
+1,6:08.0,F. Ntilikina enters the game for M. Hezonja,,13,11
+1,6:08.0,,G. Hayward enters the game for J. Brown,13,11
+1,6:08.0,,M. Morris enters the game for A. Horford,13,11
+1,5:58.0,T. Hardaway misses 3-pt jump shot from 27 ft,,13,11
+1,5:55.0,Offensive rebound by E. Freedom,,13,11
+1,5:54.0,E. Freedom misses 2-pt hook shot from 7 ft,,13,11
+1,5:53.0,,Defensive rebound by M. Morris,13,11
+1,5:46.0,,K. Irving misses 3-pt jump shot from 24 ft,13,11
+1,5:45.0,Defensive rebound by N. Vonleh,,13,11
+1,5:29.0,E. Freedom makes 2-pt layup from 2 ft (assist by T. Hardaway),,15,11
+1,5:16.0,,J. Tatum misses 2-pt jump shot from 15 ft,15,11
+1,5:14.0,Defensive rebound by T. Hardaway,,15,11
+1,5:06.0,E. Freedom misses 2-pt hook shot from 3 ft,,15,11
+1,5:04.0,,Defensive rebound by J. Tatum,15,11
+1,4:54.0,,G. Hayward misses 3-pt jump shot from 24 ft,15,11
+1,4:52.0,Defensive rebound by Team,,15,11
+1,4:52.0,T. Burke enters the game for E. Mudiay,,15,11
+1,4:34.0,N. Vonleh misses 2-pt jump shot from 17 ft,,15,11
+1,4:33.0,,Defensive rebound by M. Morris,15,11
+1,4:22.0,,K. Irving misses 2-pt layup from 4 ft,15,11
+1,4:21.0,Defensive rebound by T. Burke,,15,11
+1,4:14.0,T. Hardaway makes 3-pt jump shot from 26 ft (assist by T. Burke),,18,11
+1,3:55.0,,G. Hayward makes 2-pt layup from 4 ft (assist by M. Morris),18,13
+1,3:44.0,T. Hardaway misses 2-pt jump shot from 11 ft,,18,13
+1,3:42.0,,Defensive rebound by G. Hayward,18,13
+1,3:33.0,,Shooting foul by F. Ntilikina (drawn by J. Tatum),18,13
+1,3:33.0,,J. Tatum misses free throw 1 of 2,18,13
+1,3:33.0,,Offensive rebound by Team,18,13
+1,3:33.0,K. Knox enters the game for E. Freedom,,18,13
+1,3:33.0,,A. Horford enters the game for A. Baynes,18,13
+1,3:33.0,,T. Rozier enters the game for K. Irving,18,13
+1,3:33.0,,J. Tatum makes free throw 2 of 2,18,14
+1,3:20.0,F. Ntilikina makes 2-pt layup from 2 ft (assist by T. Burke),,20,14
+1,2:58.0,,A. Horford misses 2-pt jump shot from 10 ft,20,14
+1,2:56.0,Defensive rebound by N. Vonleh,,20,14
+1,2:40.0,T. Burke makes 2-pt jump shot from 20 ft,,22,14
+1,2:19.0,,T. Rozier misses 2-pt jump shot from 10 ft,22,14
+1,2:18.0,Defensive rebound by T. Burke,,22,14
+1,2:10.0,T. Burke makes 3-pt jump shot from 27 ft,,25,14
+1,1:51.0,,G. Hayward misses 3-pt jump shot from 25 ft,25,14
+1,1:49.0,Defensive rebound by K. Knox,,25,14
+1,1:46.0,Shooting foul by M. Morris (drawn by K. Knox),,25,14
+1,1:46.0,New York full timeout,,25,14
+1,1:46.0,,M. Smart enters the game for J. Tatum,25,14
+1,1:46.0,K. Knox makes free throw 1 of 2,,26,14
+1,1:46.0,K. Knox misses free throw 2 of 2,,26,14
+1,1:46.0,,Defensive rebound by A. Horford,26,14
+1,1:38.0,,Offensive foul by T. Rozier (drawn by K. Knox),26,14
+1,1:38.0,,Turnover by T. Rozier (offensive foul),26,14
+1,1:19.0,T. Burke misses 3-pt jump shot from 28 ft,,26,14
+1,1:17.0,,Defensive rebound by G. Hayward,26,14
+1,0:59.0,,M. Morris makes 2-pt layup from 3 ft (assist by A. Horford),26,16
+1,0:49.0,T. Hardaway misses 2-pt jump shot from 18 ft,,26,16
+1,0:47.0,,Defensive rebound by G. Hayward,26,16
+1,0:34.0,,M. Morris makes 2-pt jump shot from 9 ft,26,18
+1,0:13.0,T. Burke misses 2-pt layup from 4 ft (block by A. Horford),,26,18
+1,0:12.0,Offensive rebound by Team,,26,18
+1,0:09.0,T. Burke misses 2-pt jump shot from 13 ft,,26,18
+1,0:07.0,,Defensive rebound by G. Hayward,26,18
+2,11:47.0,K. Knox misses 2-pt hook shot from 10 ft (block by A. Horford),,26,18
+2,11:46.0,Offensive rebound by M. Robinson,,26,18
+2,11:44.0,M. Robinson makes 2-pt layup from 3 ft,,28,18
+2,11:28.0,,A. Horford misses 2-pt hook shot from 7 ft,28,18
+2,11:28.0,,Offensive rebound by M. Smart,28,18
+2,11:24.0,,M. Morris misses 3-pt jump shot from 25 ft,28,18
+2,11:22.0,,Offensive rebound by A. Horford,28,18
+2,11:16.0,,A. Horford makes 2-pt hook shot from 7 ft (assist by M. Morris),28,20
+2,11:03.0,Turnover by T. Burke (bad pass; steal by M. Smart),,28,20
+2,10:56.0,,G. Hayward makes 2-pt layup from 6 ft (assist by M. Smart),28,22
+2,10:44.0,M. Robinson makes 2-pt dunk from 3 ft (assist by A. Trier),,30,22
+2,10:29.0,,Personal foul by F. Ntilikina (drawn by A. Horford),30,22
+2,10:23.0,,Shooting foul by K. Knox (drawn by M. Morris),30,22
+2,10:23.0,,M. Morris makes free throw 1 of 2,30,23
+2,10:23.0,,M. Morris makes free throw 2 of 2,30,24
+2,10:02.0,M. Robinson makes 2-pt dunk from 5 ft (assist by A. Trier),,32,24
+2,9:46.0,,M. Morris misses 2-pt layup from 2 ft (block by M. Robinson),32,24
+2,9:45.0,Defensive rebound by T. Burke,,32,24
+2,9:42.0,Turnover by A. Trier (lost ball),,32,24
+2,9:27.0,,Turnover by G. Hayward (bad pass; steal by T. Burke),32,24
+2,9:24.0,A. Trier makes 2-pt layup from 5 ft (assist by T. Burke),,34,24
+2,9:13.0,,G. Hayward misses 3-pt jump shot from 25 ft,34,24
+2,9:13.0,Defensive rebound by K. Knox,,34,24
+2,9:05.0,K. Knox makes 2-pt jump shot from 21 ft,,36,24
+2,8:53.0,,Personal foul by M. Robinson (drawn by A. Horford),36,24
+2,8:53.0,,J. Brown enters the game for G. Hayward,36,24
+2,8:44.0,,Offensive foul by J. Brown (drawn by F. Ntilikina),36,24
+2,8:44.0,,Turnover by J. Brown (offensive foul),36,24
+2,8:25.0,F. Ntilikina misses 2-pt jump shot from 10 ft,,36,24
+2,8:23.0,,Defensive rebound by M. Morris,36,24
+2,8:13.0,,J. Brown misses 3-pt jump shot from 23 ft,36,24
+2,8:11.0,Defensive rebound by A. Trier,,36,24
+2,8:08.0,Shooting foul by M. Smart (drawn by K. Knox),,36,24
+2,8:08.0,K. Knox makes free throw 1 of 2,,37,24
+2,8:08.0,N. Vonleh enters the game for M. Robinson,,37,24
+2,8:08.0,,D. Theis enters the game for A. Horford,37,24
+2,8:08.0,K. Knox makes free throw 2 of 2,,38,24
+2,8:01.0,,M. Morris misses 3-pt jump shot from 25 ft,38,24
+2,8:00.0,Defensive rebound by N. Vonleh,,38,24
+2,7:51.0,T. Burke makes 2-pt jump shot from 17 ft,,40,24
+2,7:50.0,,Boston full timeout,40,24
+2,7:50.0,T. Hardaway enters the game for F. Ntilikina,,40,24
+2,7:50.0,,K. Irving enters the game for M. Morris,40,24
+2,7:34.0,,M. Smart makes 2-pt layup from 2 ft,40,26
+2,7:22.0,K. Knox misses 2-pt layup from 4 ft (block by D. Theis),,40,26
+2,7:22.0,,Defensive rebound by D. Theis,40,26
+2,7:16.0,,Turnover by K. Irving (bad pass),40,26
+2,7:03.0,T. Burke makes 3-pt jump shot from 28 ft (assist by T. Hardaway),,43,26
+2,6:38.0,,M. Smart misses 2-pt layup from 5 ft (block by N. Vonleh),43,26
+2,6:37.0,Defensive rebound by K. Knox,,43,26
+2,6:37.0,,J. Tatum enters the game for T. Rozier,43,26
+2,6:26.0,Shooting foul by D. Theis (drawn by A. Trier),,43,26
+2,6:26.0,A. Trier makes free throw 1 of 2,,44,26
+2,6:26.0,A. Trier misses free throw 2 of 2,,44,26
+2,6:24.0,,Defensive rebound by M. Smart,44,26
+2,6:13.0,,D. Theis misses 2-pt jump shot from 10 ft,44,26
+2,6:11.0,,Offensive rebound by J. Brown,44,26
+2,6:11.0,,J. Brown misses 2-pt layup from 1 ft,44,26
+2,6:10.0,Defensive rebound by T. Burke,,44,26
+2,6:00.0,T. Hardaway makes 2-pt jump shot from 21 ft (assist by T. Burke),,46,26
+2,5:45.0,,J. Brown misses 3-pt jump shot from 24 ft,46,26
+2,5:44.0,,Offensive rebound by M. Smart,46,26
+2,5:42.0,,Shooting foul by N. Vonleh (drawn by M. Smart),46,26
+2,5:42.0,,M. Smart misses free throw 1 of 2,46,26
+2,5:42.0,,Offensive rebound by Team,46,26
+2,5:42.0,,M. Smart misses free throw 2 of 2,46,26
+2,5:42.0,,Offensive rebound by D. Theis,46,26
+2,5:37.0,,J. Tatum makes 3-pt jump shot from 26 ft (assist by K. Irving),46,29
+2,5:26.0,Turnover by T. Burke (bad pass; steal by K. Irving),,46,29
+2,5:22.0,,D. Theis misses 2-pt layup from 5 ft (block by N. Vonleh),46,29
+2,5:21.0,,Offensive rebound by J. Tatum,46,29
+2,5:18.0,,M. Smart misses 3-pt jump shot from 28 ft,46,29
+2,5:17.0,Defensive rebound by K. Knox,,46,29
+2,4:59.0,T. Burke makes 3-pt jump shot from 28 ft (assist by N. Vonleh),,49,29
+2,4:43.0,,J. Tatum misses 2-pt jump shot from 11 ft,49,29
+2,4:41.0,Defensive rebound by N. Vonleh,,49,29
+2,4:29.0,T. Burke makes 2-pt layup from 4 ft,,51,29
+2,4:29.0,Shooting foul by D. Theis (drawn by T. Burke),,51,29
+2,4:29.0,E. Freedom enters the game for K. Knox,,51,29
+2,4:29.0,E. Mudiay enters the game for A. Trier,,51,29
+2,4:29.0,,G. Hayward enters the game for J. Brown,51,29
+2,4:29.0,,A. Horford enters the game for M. Smart,51,29
+2,4:29.0,,M. Morris enters the game for D. Theis,51,29
+2,4:29.0,T. Burke makes free throw 1 of 1,,52,29
+2,4:18.0,,K. Irving makes 2-pt jump shot from 19 ft (assist by G. Hayward),52,31
+2,4:00.0,N. Vonleh makes 3-pt jump shot from 27 ft (assist by E. Mudiay),,55,31
+2,3:46.0,,K. Irving misses 3-pt jump shot from 23 ft,55,31
+2,3:44.0,Defensive rebound by T. Burke,,55,31
+2,3:34.0,E. Freedom makes 2-pt layup from 3 ft (assist by T. Burke),,57,31
+2,3:24.0,,Personal foul by T. Hardaway (drawn by G. Hayward),57,31
+2,3:24.0,,G. Hayward makes free throw 1 of 2,57,32
+2,3:24.0,,G. Hayward makes free throw 2 of 2,57,33
+2,3:13.0,T. Burke makes 2-pt jump shot from 15 ft,,59,33
+2,2:55.0,,G. Hayward makes 2-pt jump shot from 9 ft,59,35
+2,2:44.0,E. Freedom misses 2-pt hook shot from 8 ft,,59,35
+2,2:42.0,,Defensive rebound by G. Hayward,59,35
+2,2:35.0,,J. Tatum misses 2-pt layup from 5 ft,59,35
+2,2:34.0,,Offensive rebound by J. Tatum,59,35
+2,2:32.0,,Shooting foul by E. Freedom (drawn by J. Tatum),59,35
+2,2:32.0,New York full timeout,,59,35
+2,2:32.0,,J. Tatum makes free throw 1 of 2,59,36
+2,2:32.0,,J. Tatum misses free throw 2 of 2,59,36
+2,2:30.0,,Offensive rebound by M. Morris,59,36
+2,2:18.0,,K. Irving makes 2-pt jump shot from 11 ft (assist by A. Horford),59,38
+2,1:52.0,T. Burke misses 2-pt jump shot from 16 ft,,59,38
+2,1:51.0,Offensive rebound by E. Freedom,,59,38
+2,1:49.0,E. Freedom makes 2-pt layup from 2 ft,,61,38
+2,1:35.0,,A. Horford makes 2-pt jump shot from 19 ft (assist by G. Hayward),61,40
+2,1:35.0,,Away from play foul by T. Hardaway (drawn by G. Hayward),61,40
+2,1:35.0,,G. Hayward makes free throw 1 of 1,61,41
+2,1:35.0,A. Trier enters the game for T. Burke,,61,41
+2,1:25.0,T. Hardaway misses 2-pt jump shot from 12 ft,,61,41
+2,1:24.0,Offensive rebound by E. Freedom,,61,41
+2,1:24.0,Shooting foul by J. Tatum (drawn by E. Freedom),,61,41
+2,1:24.0,E. Freedom makes free throw 1 of 2,,62,41
+2,1:24.0,E. Freedom makes free throw 2 of 2,,63,41
+2,1:13.0,,G. Hayward makes 2-pt jump shot from 7 ft (assist by K. Irving),63,43
+2,1:02.0,Turnover by T. Hardaway (lost ball; steal by G. Hayward),,63,43
+2,0:59.0,,J. Tatum makes 2-pt dunk from 1 ft (assist by K. Irving),63,45
+2,0:45.0,Turnover by E. Freedom (lost ball; steal by A. Horford),,63,45
+2,0:45.0,,Personal foul by A. Trier (drawn by G. Hayward),63,45
+2,0:45.0,,G. Hayward makes free throw 1 of 2,63,46
+2,0:45.0,,G. Hayward makes free throw 2 of 2,63,47
+2,0:28.0,T. Hardaway misses 2-pt layup from 6 ft,,63,47
+2,0:27.0,Offensive rebound by E. Freedom,,63,47
+2,0:27.0,E. Freedom makes 2-pt layup from 2 ft,,65,47
+2,0:10.0,,A. Horford makes 2-pt dunk from 2 ft (assist by K. Irving),65,49
+2,0:00.0,E. Mudiay misses 2-pt jump shot from 11 ft,,65,49
+2,0:00.0,,Defensive rebound by J. Tatum,65,49
+3,11:41.0,E. Mudiay misses 3-pt jump shot from 25 ft,,65,49
+3,11:37.0,,Defensive rebound by J. Tatum,65,49
+3,11:31.0,,K. Irving misses 2-pt jump shot from 12 ft,65,49
+3,11:29.0,Defensive rebound by N. Vonleh,,65,49
+3,11:16.0,Turnover by T. Hardaway (bad pass; steal by M. Morris),,65,49
+3,11:07.0,,J. Tatum misses 2-pt jump shot from 14 ft,65,49
+3,11:06.0,Defensive rebound by E. Mudiay,,65,49
+3,10:57.0,T. Hardaway misses 3-pt jump shot from 25 ft,,65,49
+3,10:55.0,,Defensive rebound by J. Tatum,65,49
+3,10:50.0,,Personal foul by T. Hardaway (drawn by J. Tatum),65,49
+3,10:50.0,,J. Brown enters the game for J. Tatum,65,49
+3,10:43.0,,G. Hayward misses 2-pt jump shot from 20 ft,65,49
+3,10:40.0,,Offensive rebound by A. Horford,65,49
+3,10:32.0,,J. Brown misses 3-pt jump shot from 27 ft,65,49
+3,10:30.0,Defensive rebound by E. Mudiay,,65,49
+3,10:12.0,E. Mudiay misses 2-pt layup from 2 ft,,65,49
+3,10:10.0,,Defensive rebound by G. Hayward,65,49
+3,9:57.0,,G. Hayward misses 3-pt jump shot from 23 ft,65,49
+3,9:54.0,,Offensive rebound by Team,65,49
+3,9:46.0,,K. Irving makes 3-pt jump shot from 24 ft (assist by A. Horford),65,52
+3,9:31.0,M. Hezonja misses 3-pt jump shot from 25 ft,,65,52
+3,9:30.0,,Defensive rebound by J. Brown,65,52
+3,9:19.0,,J. Brown makes 2-pt layup from 2 ft (assist by K. Irving),65,54
+3,9:18.0,New York full timeout,,65,54
+3,9:05.0,T. Hardaway misses 2-pt jump shot from 14 ft,,65,54
+3,9:04.0,Offensive rebound by E. Freedom,,65,54
+3,9:04.0,E. Freedom misses 2-pt layup from 1 ft,,65,54
+3,9:02.0,,Defensive rebound by A. Horford,65,54
+3,8:46.0,,Offensive foul by M. Morris (drawn by E. Mudiay),65,54
+3,8:46.0,,Turnover by M. Morris (offensive foul),65,54
+3,8:46.0,,Violation by Team (delay of game),65,54
+3,8:31.0,Turnover by T. Hardaway (bad pass),,65,54
+3,8:11.0,,K. Irving misses 2-pt jump shot from 10 ft,65,54
+3,8:09.0,Defensive rebound by E. Freedom,,65,54
+3,7:59.0,N. Vonleh misses 2-pt hook shot from 2 ft,,65,54
+3,7:58.0,Offensive rebound by N. Vonleh,,65,54
+3,7:58.0,N. Vonleh makes 2-pt layup from 1 ft,,67,54
+3,7:45.0,,G. Hayward misses 3-pt jump shot from 27 ft,67,54
+3,7:45.0,Defensive rebound by N. Vonleh,,67,54
+3,7:22.0,T. Hardaway makes 2-pt layup from 5 ft,,69,54
+3,7:22.0,Shooting foul by G. Hayward (drawn by T. Hardaway),,69,54
+3,7:22.0,T. Hardaway makes free throw 1 of 1,,70,54
+3,7:07.0,,K. Irving misses 3-pt jump shot from 26 ft,70,54
+3,7:05.0,Defensive rebound by M. Hezonja,,70,54
+3,6:49.0,T. Hardaway misses 2-pt jump shot from 8 ft,,70,54
+3,6:47.0,,Defensive rebound by M. Morris,70,54
+3,6:36.0,,J. Brown makes 2-pt layup from 1 ft (assist by K. Irving),70,56
+3,6:13.0,N. Vonleh makes 2-pt hook shot from 4 ft,,72,56
+3,5:56.0,,K. Irving makes 2-pt jump shot from 22 ft (assist by M. Morris),72,58
+3,5:37.0,T. Hardaway misses 2-pt layup from 4 ft (block by J. Brown),,72,58
+3,5:34.0,,Defensive rebound by M. Morris,72,58
+3,5:22.0,,J. Brown misses 2-pt layup from 4 ft,72,58
+3,5:20.0,Defensive rebound by E. Freedom,,72,58
+3,5:06.0,E. Freedom misses 2-pt layup from 1 ft,,72,58
+3,5:04.0,,Defensive rebound by M. Morris,72,58
+3,4:58.0,,M. Morris makes 2-pt layup from 3 ft,72,60
+3,4:50.0,New York full timeout,,72,60
+3,4:50.0,T. Burke enters the game for M. Hezonja,,72,60
+3,4:50.0,F. Ntilikina enters the game for E. Mudiay,,72,60
+3,4:50.0,,A. Baynes enters the game for G. Hayward,72,60
+3,4:50.0,,M. Smart enters the game for A. Horford,72,60
+3,4:49.0,Turnover by F. Ntilikina (bad pass; steal by K. Irving),,72,60
+3,4:46.0,,K. Irving makes 2-pt layup from 4 ft,72,62
+3,4:32.0,T. Hardaway makes 3-pt jump shot from 24 ft (assist by E. Freedom),,75,62
+3,4:26.0,,M. Morris makes 3-pt jump shot from 27 ft (assist by K. Irving),75,65
+3,4:01.0,N. Vonleh makes 2-pt jump shot from 17 ft (assist by T. Burke),,77,65
+3,3:45.0,Loose ball foul by E. Freedom (drawn by A. Baynes),,77,65
+3,3:45.0,K. Knox enters the game for N. Vonleh,,77,65
+3,3:34.0,,M. Morris misses 2-pt jump shot from 7 ft,77,65
+3,3:32.0,Defensive rebound by E. Freedom,,77,65
+3,3:23.0,F. Ntilikina misses 3-pt jump shot from 25 ft,,77,65
+3,3:21.0,,Defensive rebound by J. Brown,77,65
+3,3:15.0,,J. Brown makes 2-pt layup from 2 ft,77,67
+3,3:04.0,Shooting foul by M. Morris (drawn by T. Burke),,77,67
+3,3:04.0,T. Burke makes free throw 1 of 2,,78,67
+3,3:04.0,A. Trier enters the game for T. Hardaway,,78,67
+3,3:04.0,,J. Tatum enters the game for M. Morris,78,67
+3,3:04.0,T. Burke makes free throw 2 of 2,,79,67
+3,2:54.0,,K. Irving misses 2-pt jump shot from 21 ft,79,67
+3,2:53.0,Defensive rebound by K. Knox,,79,67
+3,2:38.0,T. Burke misses 2-pt jump shot from 19 ft,,79,67
+3,2:32.0,,Defensive rebound by M. Smart,79,67
+3,2:27.0,,J. Brown makes 2-pt dunk from 3 ft (assist by K. Irving),79,69
+3,2:19.0,Offensive foul by T. Burke (drawn by K. Irving),,79,69
+3,2:19.0,Turnover by T. Burke (offensive foul),,79,69
+3,2:19.0,M. Robinson enters the game for E. Freedom,,79,69
+3,2:08.0,,K. Irving misses 2-pt jump shot from 11 ft,79,69
+3,2:05.0,Defensive rebound by M. Robinson,,79,69
+3,1:57.0,A. Trier misses 3-pt jump shot from 23 ft,,79,69
+3,1:55.0,,Defensive rebound by J. Tatum,79,69
+3,1:41.0,,A. Baynes misses 3-pt jump shot from 23 ft,79,69
+3,1:39.0,Defensive rebound by T. Burke,,79,69
+3,1:32.0,Personal foul by J. Brown (drawn by T. Burke),,79,69
+3,1:32.0,,A. Horford enters the game for A. Baynes,79,69
+3,1:32.0,,T. Rozier enters the game for K. Irving,79,69
+3,1:19.0,A. Trier makes 2-pt layup from 3 ft (assist by T. Burke),,81,69
+3,0:55.0,,T. Rozier misses 2-pt layup from 5 ft (block by M. Robinson),81,69
+3,0:54.0,,Offensive rebound by M. Smart,81,69
+3,0:53.0,,M. Smart misses 3-pt jump shot from 24 ft,81,69
+3,0:52.0,Defensive rebound by Team,,81,69
+3,0:39.0,Offensive foul by K. Knox (drawn by T. Rozier),,81,69
+3,0:39.0,Turnover by K. Knox (offensive foul),,81,69
+3,0:30.0,,T. Rozier misses 2-pt layup from 4 ft (block by M. Robinson),81,69
+3,0:30.0,,Offensive rebound by Team,81,69
+3,0:23.0,,T. Rozier misses 3-pt jump shot from 28 ft,81,69
+3,0:20.0,Defensive rebound by K. Knox,,81,69
+3,0:00.0,A. Trier makes 3-pt jump shot from 25 ft (assist by T. Burke),,84,69
+4,11:45.0,,J. Tatum misses 2-pt layup from 5 ft (block by M. Robinson),84,69
+4,11:44.0,,Offensive rebound by Team,84,69
+4,11:40.0,,Turnover by M. Smart (lost ball; steal by T. Burke),84,69
+4,11:24.0,F. Ntilikina misses 3-pt jump shot from 23 ft,,84,69
+4,11:23.0,,Defensive rebound by T. Rozier,84,69
+4,11:11.0,,Shooting foul by M. Robinson (drawn by J. Brown),84,69
+4,11:11.0,,J. Brown misses free throw 1 of 2,84,69
+4,11:11.0,,Offensive rebound by Team,84,69
+4,11:11.0,,J. Brown makes free throw 2 of 2,84,70
+4,10:56.0,K. Knox makes 3-pt jump shot from 23 ft (assist by A. Trier),,87,70
+4,10:41.0,,J. Tatum misses 2-pt layup from 5 ft,87,70
+4,10:41.0,Defensive rebound by M. Robinson,,87,70
+4,10:41.0,Personal foul by J. Tatum (drawn by M. Robinson),,87,70
+4,10:41.0,,G. Hayward enters the game for J. Brown,87,70
+4,10:41.0,,K. Irving enters the game for J. Tatum,87,70
+4,10:26.0,K. Knox makes 3-pt jump shot from 25 ft (assist by T. Burke),,90,70
+4,10:08.0,,A. Horford misses 2-pt hook shot from 5 ft (block by M. Robinson),90,70
+4,10:08.0,,Offensive rebound by A. Horford,90,70
+4,10:08.0,,Shooting foul by F. Ntilikina (drawn by A. Horford),90,70
+4,10:08.0,,A. Horford makes free throw 1 of 2,90,71
+4,10:08.0,,A. Horford misses free throw 2 of 2,90,71
+4,10:06.0,Defensive rebound by K. Knox,,90,71
+4,9:52.0,F. Ntilikina makes 2-pt jump shot from 20 ft,,92,71
+4,9:40.0,,G. Hayward makes 3-pt jump shot from 26 ft (assist by K. Irving),92,74
+4,9:25.0,T. Burke misses 2-pt jump shot from 16 ft,,92,74
+4,9:23.0,,Defensive rebound by G. Hayward,92,74
+4,9:11.0,,A. Horford makes 3-pt jump shot from 27 ft (assist by M. Smart),92,77
+4,8:51.0,Offensive foul by A. Trier (drawn by K. Irving),,92,77
+4,8:51.0,Turnover by A. Trier (offensive foul),,92,77
+4,8:51.0,T. Hardaway enters the game for A. Trier,,92,77
+4,8:37.0,,K. Irving misses 3-pt jump shot from 26 ft,92,77
+4,8:35.0,Defensive rebound by M. Robinson,,92,77
+4,8:21.0,T. Hardaway makes 2-pt jump shot from 20 ft (assist by T. Burke),,94,77
+4,8:00.0,,K. Irving makes 2-pt layup from 2 ft (assist by M. Smart),94,79
+4,7:34.0,Turnover by T. Hardaway (lost ball; steal by K. Irving),,94,79
+4,7:34.0,Clear path foul by K. Irving,,94,79
+4,7:34.0,,K. Irving makes clear path free throw 1 of 2,94,80
+4,7:34.0,,K. Irving makes clear path free throw 2 of 2,94,81
+4,7:25.0,,A. Horford makes 3-pt jump shot from 25 ft (assist by M. Smart),94,84
+4,7:09.0,T. Burke makes 2-pt jump shot from 19 ft,,96,84
+4,7:01.0,,K. Irving misses 3-pt jump shot from 27 ft,96,84
+4,6:59.0,Defensive rebound by K. Knox,,96,84
+4,6:42.0,Turnover by T. Hardaway (lost ball; steal by G. Hayward),,96,84
+4,6:40.0,,A. Horford misses 2-pt layup from 6 ft (block by K. Knox),96,84
+4,6:39.0,Defensive rebound by Team,,96,84
+4,6:39.0,,Boston full timeout,96,84
+4,6:39.0,,J. Brown enters the game for A. Horford,96,84
+4,6:39.0,,M. Morris enters the game for T. Rozier,96,84
+4,6:39.0,,J. Tatum enters the game for M. Smart,96,84
+4,6:27.0,F. Ntilikina makes 2-pt layup from 2 ft,,98,84
+4,6:19.0,,J. Tatum misses 2-pt layup from 3 ft (block by M. Robinson),98,84
+4,6:18.0,,Offensive rebound by J. Tatum,98,84
+4,6:17.0,,Shooting foul by M. Robinson (drawn by J. Tatum),98,84
+4,6:17.0,,J. Tatum makes free throw 1 of 2,98,85
+4,6:17.0,,J. Tatum misses free throw 2 of 2,98,85
+4,6:17.0,Defensive rebound by K. Knox,,98,85
+4,6:01.0,T. Hardaway makes 3-pt jump shot from 26 ft,,101,85
+4,5:46.0,,M. Morris misses 2-pt jump shot from 11 ft,101,85
+4,5:45.0,Defensive rebound by T. Hardaway,,101,85
+4,5:29.0,T. Burke misses 2-pt jump shot from 13 ft,,101,85
+4,5:27.0,,Defensive rebound by J. Brown,101,85
+4,5:10.0,,M. Morris makes 2-pt jump shot from 10 ft,101,87
+4,4:53.0,M. Robinson makes 2-pt layup from 2 ft (assist by T. Hardaway),,103,87
+4,4:51.0,,Boston full timeout,103,87
+4,4:40.0,,M. Morris misses 3-pt jump shot from 27 ft,103,87
+4,4:39.0,,Offensive rebound by K. Irving,103,87
+4,4:37.0,,J. Tatum makes 2-pt layup from 3 ft (assist by K. Irving),103,89
+4,4:37.0,,Shooting foul by K. Knox (drawn by J. Tatum),103,89
+4,4:37.0,,J. Tatum makes free throw 1 of 1,103,90
+4,4:18.0,T. Hardaway makes 3-pt jump shot from 26 ft (assist by T. Burke),,106,90
+4,3:58.0,,K. Irving makes 3-pt jump shot from 28 ft (assist by G. Hayward),106,93
+4,3:43.0,T. Burke misses 2-pt layup from 5 ft (block by K. Irving),,106,93
+4,3:41.0,,Defensive rebound by K. Irving,106,93
+4,3:34.0,,G. Hayward misses 2-pt jump shot from 7 ft,106,93
+4,3:34.0,,Offensive rebound by Team,106,93
+4,3:34.0,Loose ball foul by F. Ntilikina (drawn by M. Morris),,106,93
+4,3:34.0,,M. Morris makes free throw 1 of 2,106,94
+4,3:34.0,,A. Horford enters the game for J. Brown,106,94
+4,3:34.0,,M. Morris makes free throw 2 of 2,106,95
+4,3:34.0,New York full timeout,,106,95
+4,3:20.0,T. Hardaway makes 2-pt jump shot from 15 ft (assist by F. Ntilikina),,108,95
+4,2:58.0,,G. Hayward misses 2-pt layup from 3 ft,108,95
+4,2:57.0,,Offensive rebound by K. Irving,108,95
+4,2:57.0,,K. Irving misses 2-pt layup from 3 ft,108,95
+4,2:56.0,,Offensive rebound by K. Irving,108,95
+4,2:51.0,,M. Morris makes 3-pt jump shot from 27 ft (assist by A. Horford),108,98
+4,2:28.0,T. Burke makes 2-pt jump shot from 21 ft,,110,98
+4,2:18.0,,M. Morris makes 3-pt jump shot from 26 ft (assist by K. Irving),110,101
+4,1:58.0,Personal foul by K. Irving (drawn by M. Robinson),,110,101
+4,1:58.0,N. Vonleh enters the game for M. Robinson,,110,101
+4,1:53.0,Turnover by F. Ntilikina (traveling),,110,101
+4,1:35.0,,K. Irving makes 2-pt jump shot from 6 ft (assist by M. Morris),110,103
+4,1:15.0,T. Burke misses 3-pt jump shot from 25 ft,,110,103
+4,1:12.0,,Defensive rebound by M. Morris,110,103
+4,1:05.0,,G. Hayward makes 3-pt jump shot from 26 ft (assist by A. Horford),110,106
+4,1:05.0,New York full timeout,,110,106
+4,1:05.0,E. Mudiay enters the game for K. Knox,,110,106
+4,0:50.0,T. Burke makes 2-pt jump shot from 20 ft (assist by N. Vonleh),,112,106
+4,0:41.0,,K. Irving misses 2-pt layup from 5 ft (block by N. Vonleh),112,106
+4,0:40.0,,Offensive rebound by Team,112,106
+4,0:40.0,Loose ball foul by T. Burke (drawn by A. Horford),,112,106
+4,0:40.0,,A. Horford makes free throw 1 of 2,112,107
+4,0:40.0,E. Freedom enters the game for E. Mudiay,,112,107
+4,0:40.0,,M. Smart enters the game for K. Irving,112,107
+4,0:40.0,,A. Horford makes free throw 2 of 2,112,108
+4,0:40.0,New York full timeout,,112,108
+4,0:40.0,E. Mudiay enters the game for E. Freedom,,112,108
+4,0:40.0,,J. Brown enters the game for A. Horford,112,108
+4,0:36.0,Turnover by T. Hardaway (lost ball; steal by J. Brown),,112,108
+4,0:34.0,,Shooting foul by E. Mudiay (drawn by J. Brown),112,108
+4,0:34.0,E. Freedom enters the game for E. Mudiay,,112,108
+4,0:34.0,,A. Horford enters the game for M. Morris,112,108
+4,0:34.0,,Technical foul by J. Brown,112,108
+4,0:34.0,T. Hardaway misses technical free throw,,112,108
+4,0:34.0,,Defensive rebound by Team,112,108
+4,0:34.0,,J. Brown makes free throw 1 of 2,112,109
+4,0:34.0,,J. Brown misses free throw 2 of 2,112,109
+4,0:30.0,Defensive rebound by T. Hardaway,,112,109
+4,0:12.0,T. Burke makes 3-pt jump shot from 25 ft,,115,109
+4,0:12.0,,Boston full timeout,115,109
+4,0:12.0,E. Mudiay enters the game for T. Burke,,115,109
+4,0:12.0,M. Robinson enters the game for E. Freedom,,115,109
+4,0:12.0,,K. Irving enters the game for J. Brown,115,109
+4,0:12.0,,M. Morris enters the game for M. Smart,115,109
+4,0:08.0,,K. Irving misses 3-pt jump shot from 27 ft (block by E. Mudiay),115,109
+4,0:07.0,Defensive rebound by F. Ntilikina,,115,109
+4,0:05.0,Personal foul by M. Morris (drawn by E. Mudiay),,115,109
+4,0:05.0,E. Mudiay makes free throw 1 of 2,,116,109
+4,0:05.0,E. Mudiay makes free throw 2 of 2,,117,109

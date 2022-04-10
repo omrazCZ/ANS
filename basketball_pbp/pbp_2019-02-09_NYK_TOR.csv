@@ -1,0 +1,468 @@
+QUARTER,TIME_REMAINING,TORONTO_ACTION,NEW YORK_ACTION,TORONTO_SCORE,NEW YORK_SCORE
+1,11:41.0,,D. Dotson misses 3-pt jump shot from 24 ft,0,0
+1,11:40.0,Defensive rebound by S. Ibaka,,0,0
+1,11:19.0,K. Leonard makes 3-pt jump shot from 25 ft (assist by S. Ibaka),,3,0
+1,10:58.0,,Shooting foul by P. Siakam (drawn by D. Jordan),3,0
+1,10:58.0,,D. Jordan makes free throw 1 of 2,3,1
+1,10:58.0,,D. Jordan misses free throw 2 of 2,3,1
+1,10:56.0,Defensive rebound by S. Ibaka,,3,1
+1,10:44.0,K. Leonard misses 2-pt jump shot from 12 ft,,3,1
+1,10:42.0,,Defensive rebound by K. Knox,3,1
+1,10:38.0,,D. Dotson misses 2-pt layup from 1 ft (block by D. Green),3,1
+1,10:37.0,,Offensive rebound by Team,3,1
+1,10:31.0,,D. Dotson misses 3-pt jump shot from 25 ft,3,1
+1,10:28.0,,Offensive rebound by K. Knox,3,1
+1,10:21.0,,D. Smith misses 2-pt jump shot from 19 ft,3,1
+1,10:19.0,Defensive rebound by Team,,3,1
+1,10:07.0,D. Green misses 2-pt layup from 2 ft,,3,1
+1,10:04.0,,Defensive rebound by D. Dotson,3,1
+1,10:01.0,,K. Knox makes 3-pt jump shot from 26 ft (assist by D. Smith),3,4
+1,9:37.0,D. Green misses 2-pt jump shot from 16 ft,,3,4
+1,9:36.0,,Defensive rebound by M. Hezonja,3,4
+1,9:30.0,,Turnover by M. Hezonja (bad pass; steal by K. Leonard),3,4
+1,9:23.0,K. Lowry misses 3-pt jump shot from 26 ft,,3,4
+1,9:21.0,,Defensive rebound by M. Hezonja,3,4
+1,9:05.0,,D. Jordan makes 2-pt dunk from 2 ft (assist by D. Smith),3,6
+1,8:58.0,P. Siakam misses 2-pt layup at rim,,3,6
+1,8:56.0,,Defensive rebound by M. Hezonja,3,6
+1,8:54.0,,D. Dotson makes 2-pt layup from 1 ft (assist by M. Hezonja),3,8
+1,8:41.0,Personal foul by D. Dotson (drawn by S. Ibaka),,3,8
+1,8:26.0,S. Ibaka misses 2-pt jump shot from 22 ft,,3,8
+1,8:24.0,,Defensive rebound by M. Hezonja,3,8
+1,8:12.0,,D. Smith makes 2-pt layup from 2 ft,3,10
+1,8:00.0,K. Leonard misses 2-pt jump shot from 15 ft,,3,10
+1,7:58.0,,Defensive rebound by D. Jordan,3,10
+1,7:50.0,,Offensive foul by D. Dotson (drawn by K. Lowry),3,10
+1,7:50.0,,Turnover by D. Dotson (offensive foul),3,10
+1,7:50.0,,A. Trier enters the game for D. Dotson,3,10
+1,7:38.0,Turnover by S. Ibaka (bad pass; steal by D. Smith),,3,10
+1,7:34.0,,D. Jordan makes 2-pt dunk from 1 ft (assist by D. Smith),3,12
+1,7:24.0,K. Leonard misses 2-pt layup at rim,,3,12
+1,7:22.0,,Defensive rebound by D. Jordan,3,12
+1,7:17.0,,K. Knox misses 3-pt jump shot from 25 ft,3,12
+1,7:11.0,,Offensive rebound by M. Hezonja,3,12
+1,7:09.0,,K. Knox misses 2-pt layup at rim,3,12
+1,7:08.0,,D. Jordan makes 2-pt dunk from 1 ft,3,14
+1,7:08.0,,Offensive rebound by D. Jordan,3,14
+1,7:08.0,Toronto full timeout,,3,14
+1,6:55.0,P. Siakam misses 2-pt layup from 1 ft (block by D. Jordan),,3,14
+1,6:55.0,Offensive rebound by Team,,3,14
+1,6:51.0,Turnover by K. Lowry (bad pass; steal by K. Knox),,3,14
+1,6:42.0,,Turnover by M. Hezonja (traveling),3,14
+1,6:28.0,K. Lowry makes 2-pt jump shot from 20 ft (assist by S. Ibaka),,5,14
+1,6:13.0,,A. Trier makes 3-pt jump shot from 23 ft (assist by D. Smith),5,17
+1,6:01.0,D. Green makes 3-pt jump shot from 23 ft (assist by K. Leonard),,8,17
+1,5:45.0,,A. Trier misses 3-pt jump shot from 27 ft,8,17
+1,5:42.0,Defensive rebound by P. Siakam,,8,17
+1,5:37.0,S. Ibaka makes 2-pt dunk from 1 ft (assist by P. Siakam),,10,17
+1,5:20.0,,M. Hezonja makes 2-pt jump shot from 16 ft,10,19
+1,5:09.0,Offensive foul by S. Ibaka (drawn by D. Smith),,10,19
+1,5:09.0,Turnover by S. Ibaka (offensive foul),,10,19
+1,5:09.0,,M. Robinson enters the game for D. Jordan,10,19
+1,4:51.0,,D. Smith misses 2-pt jump shot from 18 ft,10,19
+1,4:48.0,Defensive rebound by S. Ibaka,,10,19
+1,4:43.0,Shooting foul by M. Hezonja (drawn by K. Leonard),,10,19
+1,4:43.0,K. Leonard makes free throw 1 of 2,,11,19
+1,4:43.0,K. Leonard misses free throw 2 of 2,,11,19
+1,4:40.0,,Defensive rebound by M. Hezonja,11,19
+1,4:19.0,,Turnover by D. Smith (bad pass; steal by S. Ibaka),11,19
+1,4:18.0,Personal foul by D. Smith (drawn by K. Lowry),,11,19
+1,4:04.0,P. Siakam makes 2-pt layup from 5 ft,,13,19
+1,3:57.0,,New York full timeout,13,19
+1,3:49.0,,K. Knox misses 2-pt layup at rim,13,19
+1,3:47.0,Defensive rebound by K. Leonard,,13,19
+1,3:39.0,Personal foul by D. Smith (drawn by K. Lowry),,13,19
+1,3:39.0,,K. Allen enters the game for D. Smith,13,19
+1,3:30.0,P. Siakam misses 2-pt layup from 2 ft,,13,19
+1,3:30.0,Offensive rebound by S. Ibaka,,13,19
+1,3:30.0,Shooting foul by M. Robinson (drawn by S. Ibaka),,13,19
+1,3:30.0,F. VanVleet enters the game for K. Lowry,,13,19
+1,3:30.0,,N. Vonleh enters the game for M. Hezonja,13,19
+1,3:30.0,S. Ibaka makes free throw 1 of 2,,14,19
+1,3:30.0,S. Ibaka misses free throw 2 of 2,,14,19
+1,3:27.0,,Defensive rebound by K. Allen,14,19
+1,3:15.0,,M. Robinson makes 2-pt dunk at rim (assist by K. Allen),14,21
+1,3:00.0,P. Siakam misses 2-pt jump shot from 13 ft,,14,21
+1,3:00.0,Offensive rebound by D. Green,,14,21
+1,2:57.0,D. Green makes 2-pt layup at rim,,16,21
+1,2:38.0,,N. Vonleh makes 2-pt dunk from 1 ft,16,23
+1,2:20.0,Personal foul by K. Allen (drawn by F. VanVleet),,16,23
+1,2:20.0,F. VanVleet makes free throw 1 of 2,,17,23
+1,2:20.0,O. Anunoby enters the game for D. Green,,17,23
+1,2:20.0,M. Gasol enters the game for S. Ibaka,,17,23
+1,2:20.0,N. Powell enters the game for K. Leonard,,17,23
+1,2:20.0,F. VanVleet makes free throw 2 of 2,,18,23
+1,2:06.0,,K. Allen misses 2-pt jump shot from 9 ft,18,23
+1,2:03.0,Defensive rebound by O. Anunoby,,18,23
+1,1:58.0,Turnover by O. Anunoby (lost ball; steal by K. Allen),,18,23
+1,1:54.0,,A. Trier misses 3-pt jump shot from 23 ft,18,23
+1,1:52.0,Defensive rebound by O. Anunoby,,18,23
+1,1:43.0,P. Siakam makes 2-pt layup from 3 ft (assist by F. VanVleet),,20,23
+1,1:24.0,,Turnover by K. Knox (bad pass; steal by M. Gasol),20,23
+1,1:21.0,Shooting foul by M. Robinson (drawn by P. Siakam),,20,23
+1,1:21.0,P. Siakam makes free throw 1 of 2,,21,23
+1,1:21.0,P. Siakam makes free throw 2 of 2,,22,23
+1,0:58.0,,K. Allen misses 3-pt jump shot from 28 ft,22,23
+1,0:56.0,Defensive rebound by M. Gasol,,22,23
+1,0:46.0,N. Powell makes 3-pt jump shot from 23 ft (assist by F. VanVleet),,25,23
+1,0:30.0,,Personal foul by N. Powell (drawn by A. Trier),25,23
+1,0:30.0,P. McCaw enters the game for P. Siakam,,25,23
+1,0:20.0,,K. Knox misses 3-pt jump shot from 25 ft,25,23
+1,0:16.0,Defensive rebound by M. Gasol,,25,23
+1,0:02.0,F. VanVleet misses 3-pt jump shot from 25 ft,,25,23
+1,0:00.0,,Defensive rebound by N. Vonleh,25,23
+2,11:46.0,N. Powell misses 3-pt jump shot from 25 ft,,25,23
+2,11:43.0,,Defensive rebound by K. Allen,25,23
+2,11:39.0,,K. Allen misses 2-pt layup from 1 ft,25,23
+2,11:36.0,,Offensive rebound by M. Robinson,25,23
+2,11:36.0,,M. Robinson makes 2-pt dunk from 1 ft,25,25
+2,11:11.0,M. Gasol makes 2-pt hook shot from 5 ft (assist by N. Powell),,27,25
+2,10:50.0,,N. Vonleh misses 2-pt hook shot from 6 ft,27,25
+2,10:47.0,Defensive rebound by M. Gasol,,27,25
+2,10:37.0,O. Anunoby misses 2-pt hook shot from 7 ft,,27,25
+2,10:35.0,,Defensive rebound by N. Vonleh,27,25
+2,10:24.0,,Personal foul by P. McCaw (drawn by N. Vonleh),27,25
+2,10:19.0,,K. Allen misses 2-pt jump shot from 17 ft,27,25
+2,10:16.0,Defensive rebound by N. Powell,,27,25
+2,10:10.0,N. Powell misses 2-pt jump shot from 2 ft (block by M. Robinson),,27,25
+2,10:07.0,Offensive rebound by P. McCaw,,27,25
+2,10:03.0,N. Powell misses 3-pt jump shot from 23 ft,,27,25
+2,10:01.0,,Defensive rebound by K. Allen,27,25
+2,9:54.0,,A. Trier makes 2-pt layup from 1 ft,27,27
+2,9:46.0,N. Powell misses 2-pt layup from 2 ft (block by M. Robinson),,27,27
+2,9:43.0,,Defensive rebound by N. Vonleh,27,27
+2,9:36.0,,N. Vonleh makes 3-pt jump shot from 25 ft (assist by K. Knox),27,30
+2,9:23.0,F. VanVleet misses 2-pt layup at rim,,27,30
+2,9:20.0,,Defensive rebound by A. Trier,27,30
+2,9:16.0,,M. Robinson misses 2-pt dunk from 1 ft,27,30
+2,9:14.0,Defensive rebound by P. McCaw,,27,30
+2,9:09.0,F. VanVleet makes 3-pt jump shot from 26 ft (assist by N. Powell),,30,30
+2,8:50.0,,K. Knox misses 2-pt jump shot from 18 ft,30,30
+2,8:46.0,Defensive rebound by M. Gasol,,30,30
+2,8:41.0,N. Powell misses 3-pt jump shot from 25 ft,,30,30
+2,8:39.0,,Defensive rebound by A. Trier,30,30
+2,8:21.0,,K. Knox makes 2-pt jump shot from 12 ft (assist by K. Allen),30,32
+2,7:57.0,M. Gasol makes 2-pt jump shot from 15 ft (assist by N. Powell),,32,32
+2,7:51.0,,New York full timeout,32,32
+2,7:51.0,K. Lowry enters the game for N. Powell,,32,32
+2,7:51.0,,D. Jordan enters the game for K. Allen,32,32
+2,7:51.0,,D. Smith enters the game for M. Robinson,32,32
+2,7:44.0,,K. Knox misses 2-pt layup from 11 ft (block by P. McCaw),32,32
+2,7:41.0,Defensive rebound by O. Anunoby,,32,32
+2,7:27.0,Turnover by F. VanVleet (offensive foul),,32,32
+2,7:27.0,Offensive foul by F. VanVleet (drawn by N. Vonleh),,32,32
+2,7:27.0,,D. Dotson enters the game for K. Knox,32,32
+2,7:13.0,,Turnover by D. Dotson (bad pass; steal by P. McCaw),32,32
+2,7:11.0,Shooting foul by A. Trier (drawn by P. McCaw),,32,32
+2,7:11.0,P. McCaw makes free throw 1 of 2,,33,32
+2,7:11.0,K. Leonard enters the game for O. Anunoby,,33,32
+2,7:11.0,P. McCaw makes free throw 2 of 2,,34,32
+2,6:50.0,,Offensive foul by A. Trier (drawn by K. Lowry),34,32
+2,6:50.0,,Turnover by A. Trier (offensive foul),34,32
+2,6:50.0,D. Green enters the game for P. McCaw,,34,32
+2,6:36.0,M. Gasol misses 2-pt hook shot from 10 ft,,34,32
+2,6:34.0,,Defensive rebound by D. Smith,34,32
+2,6:31.0,,Shooting foul by K. Lowry (drawn by D. Jordan),34,32
+2,6:31.0,,D. Jordan misses free throw 1 of 2,34,32
+2,6:31.0,,Offensive rebound by Team,34,32
+2,6:31.0,,M. Hezonja enters the game for A. Trier,34,32
+2,6:31.0,,D. Jordan makes free throw 2 of 2,34,33
+2,6:16.0,M. Gasol misses 2-pt jump shot from 12 ft,,34,33
+2,6:11.0,,Defensive rebound by D. Jordan,34,33
+2,6:06.0,,D. Smith misses 2-pt jump shot from 6 ft,34,33
+2,6:02.0,Defensive rebound by M. Gasol,,34,33
+2,6:01.0,Turnover by M. Gasol (bad pass; steal by M. Hezonja),,34,33
+2,6:01.0,,Turnover by M. Hezonja (back court),34,33
+2,6:01.0,S. Ibaka enters the game for M. Gasol,,34,33
+2,6:01.0,P. Siakam enters the game for F. VanVleet,,34,33
+2,5:48.0,K. Leonard makes 2-pt layup from 2 ft (assist by S. Ibaka),,36,33
+2,5:34.0,,D. Smith misses 2-pt layup from 1 ft,36,33
+2,5:34.0,Defensive rebound by P. Siakam,,36,33
+2,5:27.0,S. Ibaka misses 3-pt jump shot from 24 ft,,36,33
+2,5:24.0,,Defensive rebound by D. Dotson,36,33
+2,5:17.0,,D. Dotson makes 2-pt jump shot from 20 ft,36,35
+2,5:01.0,K. Leonard misses 2-pt jump shot from 7 ft,,36,35
+2,4:59.0,,Defensive rebound by D. Jordan,36,35
+2,4:39.0,,D. Smith misses 2-pt jump shot from 16 ft (block by K. Lowry),36,35
+2,4:36.0,,Offensive rebound by D. Smith,36,35
+2,4:36.0,,D. Smith misses 3-pt jump shot from 27 ft,36,35
+2,4:36.0,,Offensive rebound by Team,36,35
+2,4:36.0,,Turnover by Team (shot clock),36,35
+2,4:25.0,Personal foul by N. Vonleh (drawn by S. Ibaka),,36,35
+2,4:25.0,,K. Knox enters the game for N. Vonleh,36,35
+2,4:10.0,S. Ibaka misses 2-pt jump shot from 17 ft,,36,35
+2,4:07.0,,Defensive rebound by D. Jordan,36,35
+2,3:56.0,,D. Smith misses 3-pt jump shot from 27 ft,36,35
+2,3:53.0,,Offensive rebound by D. Jordan,36,35
+2,3:51.0,,K. Knox misses 2-pt jump shot from 17 ft,36,35
+2,3:49.0,,Offensive rebound by D. Jordan,36,35
+2,3:48.0,,D. Smith makes 3-pt jump shot from 26 ft (assist by D. Jordan),36,38
+2,3:34.0,Toronto full timeout,,36,38
+2,3:25.0,Turnover by K. Leonard (lost ball; steal by K. Knox),,36,38
+2,3:19.0,,D. Smith misses 3-pt jump shot from 24 ft,36,38
+2,3:16.0,Defensive rebound by K. Leonard,,36,38
+2,3:12.0,Turnover by K. Leonard (lost ball; steal by D. Smith),,36,38
+2,3:08.0,,Turnover by D. Jordan (out of bounds lost ball),36,38
+2,3:03.0,Personal foul by M. Hezonja (drawn by S. Ibaka),,36,38
+2,2:54.0,K. Leonard misses 3-pt jump shot from 26 ft,,36,38
+2,2:50.0,,Defensive rebound by D. Smith,36,38
+2,2:39.0,,K. Knox misses 3-pt jump shot from 23 ft,36,38
+2,2:36.0,Defensive rebound by P. Siakam,,36,38
+2,2:26.0,S. Ibaka makes 2-pt layup from 1 ft (assist by K. Lowry),,38,38
+2,1:59.0,,D. Jordan misses 2-pt layup from 2 ft,38,38
+2,1:58.0,Defensive rebound by S. Ibaka,,38,38
+2,1:50.0,D. Green misses 3-pt jump shot from 24 ft,,38,38
+2,1:46.0,Offensive rebound by S. Ibaka,,38,38
+2,1:45.0,S. Ibaka makes 2-pt layup from 2 ft,,40,38
+2,1:27.0,,Shooting foul by P. Siakam (drawn by K. Knox),40,38
+2,1:27.0,,K. Knox makes free throw 1 of 2,40,39
+2,1:27.0,,K. Knox makes free throw 2 of 2,40,40
+2,1:14.0,P. Siakam misses 3-pt jump shot from 23 ft,,40,40
+2,1:10.0,,Defensive rebound by D. Jordan,40,40
+2,0:58.0,,D. Dotson misses 2-pt layup from 1 ft,40,40
+2,0:56.0,Defensive rebound by D. Green,,40,40
+2,0:51.0,P. Siakam makes 2-pt layup from 2 ft (assist by K. Leonard),,42,40
+2,0:51.0,Shooting foul by K. Knox (drawn by P. Siakam),,42,40
+2,0:51.0,P. Siakam makes free throw 1 of 1,,43,40
+2,0:40.0,,D. Jordan makes 2-pt dunk from 1 ft (assist by K. Knox),43,42
+2,0:31.0,K. Lowry makes 3-pt jump shot from 32 ft,,46,42
+2,0:12.0,,D. Smith misses 2-pt layup from 1 ft,46,42
+2,0:11.0,,Offensive rebound by D. Jordan,46,42
+2,0:10.0,,D. Jordan misses 2-pt hook shot from 1 ft,46,42
+2,0:08.0,Defensive rebound by S. Ibaka,,46,42
+2,0:04.0,P. Siakam misses 3-pt jump shot from 22 ft,,46,42
+2,0:00.0,,Defensive rebound by D. Jordan,46,42
+3,12:00.0,,Technical foul by D. Jordan,46,42
+3,12:00.0,K. Leonard makes technical free throw,,47,42
+3,11:44.0,K. Leonard makes 2-pt layup from 1 ft (assist by K. Lowry),,49,42
+3,11:30.0,,D. Dotson misses 2-pt jump shot from 15 ft,49,42
+3,11:26.0,Defensive rebound by K. Leonard,,49,42
+3,11:20.0,S. Ibaka makes 2-pt dunk from 1 ft (assist by K. Leonard),,51,42
+3,11:04.0,,Turnover by D. Jordan (lost ball; steal by K. Lowry),51,42
+3,11:03.0,Shooting foul by K. Knox (drawn by P. Siakam),,51,42
+3,11:03.0,P. Siakam makes free throw 1 of 2,,52,42
+3,11:03.0,P. Siakam misses free throw 2 of 2,,52,42
+3,10:59.0,,Defensive rebound by D. Jordan,52,42
+3,10:48.0,,D. Smith misses 2-pt layup from 2 ft,52,42
+3,10:46.0,Defensive rebound by S. Ibaka,,52,42
+3,10:35.0,S. Ibaka misses 2-pt jump shot from 20 ft,,52,42
+3,10:33.0,,Defensive rebound by M. Hezonja,52,42
+3,10:25.0,,K. Knox misses 3-pt jump shot from 25 ft,52,42
+3,10:21.0,,Offensive rebound by D. Jordan,52,42
+3,10:08.0,,K. Knox makes 2-pt jump shot from 9 ft (assist by D. Jordan),52,44
+3,9:56.0,Personal foul by M. Hezonja (drawn by K. Leonard),,52,44
+3,9:43.0,S. Ibaka makes 2-pt jump shot from 20 ft (assist by K. Lowry),,54,44
+3,9:29.0,,D. Smith misses 2-pt layup from 2 ft,54,44
+3,9:27.0,Defensive rebound by D. Green,,54,44
+3,9:23.0,K. Leonard misses 2-pt layup from 2 ft,,54,44
+3,9:19.0,P. Siakam misses 2-pt layup from 1 ft,,54,44
+3,9:19.0,Offensive rebound by P. Siakam,,54,44
+3,9:18.0,,Defensive rebound by D. Jordan,54,44
+3,9:17.0,,Turnover by D. Jordan (lost ball; steal by K. Lowry),54,44
+3,9:15.0,K. Leonard misses 3-pt jump shot from 26 ft,,54,44
+3,9:13.0,Offensive rebound by K. Lowry,,54,44
+3,9:11.0,Turnover by K. Lowry (bad pass; steal by D. Smith),,54,44
+3,9:06.0,,D. Smith makes 2-pt layup from 1 ft,54,46
+3,8:47.0,K. Lowry makes 3-pt jump shot from 29 ft (assist by S. Ibaka),,57,46
+3,8:27.0,,D. Dotson misses 2-pt layup from 1 ft,57,46
+3,8:25.0,Defensive rebound by P. Siakam,,57,46
+3,8:23.0,K. Leonard makes 2-pt layup from 1 ft (assist by P. Siakam),,59,46
+3,8:22.0,,New York full timeout,59,46
+3,8:22.0,,K. Allen enters the game for D. Jordan,59,46
+3,8:22.0,,M. Robinson enters the game for D. Smith,59,46
+3,8:00.0,,Personal foul by K. Leonard (drawn by D. Dotson),59,46
+3,7:50.0,,K. Allen makes 2-pt jump shot from 11 ft,59,48
+3,7:30.0,P. Siakam misses 2-pt layup from 3 ft (block by M. Robinson),,59,48
+3,7:30.0,Offensive rebound by Team,,59,48
+3,7:24.0,P. Siakam misses 3-pt jump shot from 23 ft,,59,48
+3,7:20.0,,Defensive rebound by M. Hezonja,59,48
+3,7:10.0,,K. Knox makes 2-pt layup from 2 ft (assist by M. Hezonja),59,50
+3,7:01.0,K. Lowry misses 2-pt layup from 1 ft,,59,50
+3,6:59.0,,Defensive rebound by M. Robinson,59,50
+3,6:48.0,,K. Knox misses 3-pt jump shot from 26 ft,59,50
+3,6:44.0,Defensive rebound by K. Leonard,,59,50
+3,6:39.0,K. Lowry makes 3-pt jump shot from 27 ft (assist by K. Leonard),,62,50
+3,6:22.0,,M. Robinson misses 2-pt hook shot from 4 ft,62,50
+3,6:20.0,Defensive rebound by S. Ibaka,,62,50
+3,6:12.0,S. Ibaka misses 2-pt jump shot from 13 ft,,62,50
+3,6:08.0,,Defensive rebound by M. Hezonja,62,50
+3,6:03.0,,M. Hezonja makes 2-pt layup from 1 ft,62,52
+3,5:39.0,Shooting foul by M. Hezonja (drawn by S. Ibaka),,62,52
+3,5:39.0,S. Ibaka makes free throw 1 of 2,,63,52
+3,5:39.0,F. VanVleet enters the game for D. Green,,63,52
+3,5:39.0,,N. Vonleh enters the game for M. Hezonja,63,52
+3,5:39.0,S. Ibaka makes free throw 2 of 2,,64,52
+3,5:26.0,,D. Dotson misses 2-pt jump shot from 12 ft,64,52
+3,5:24.0,,Offensive rebound by Team,64,52
+3,5:11.0,,K. Allen makes 3-pt jump shot from 25 ft (assist by D. Dotson),64,55
+3,4:53.0,Turnover by F. VanVleet (bad pass; steal by D. Dotson),,64,55
+3,4:48.0,,K. Knox makes 3-pt jump shot from 23 ft (assist by D. Dotson),64,58
+3,4:33.0,K. Lowry makes 3-pt jump shot from 27 ft (assist by K. Leonard),,67,58
+3,4:22.0,,K. Allen misses 2-pt jump shot from 16 ft,67,58
+3,4:20.0,Defensive rebound by K. Lowry,,67,58
+3,4:16.0,K. Lowry misses 3-pt jump shot from 26 ft,,67,58
+3,4:13.0,,Defensive rebound by Team,67,58
+3,4:13.0,,A. Trier enters the game for D. Dotson,67,58
+3,3:55.0,,K. Knox makes 3-pt jump shot from 26 ft (assist by K. Allen),67,61
+3,3:53.0,Toronto full timeout,,67,61
+3,3:53.0,O. Anunoby enters the game for S. Ibaka,,67,61
+3,3:53.0,M. Gasol enters the game for K. Leonard,,67,61
+3,3:53.0,N. Powell enters the game for P. Siakam,,67,61
+3,3:29.0,N. Powell misses 3-pt jump shot from 26 ft,,67,61
+3,3:26.0,Offensive rebound by K. Lowry,,67,61
+3,3:23.0,F. VanVleet misses 3-pt jump shot from 26 ft,,67,61
+3,3:20.0,Offensive rebound by K. Lowry,,67,61
+3,3:16.0,Turnover by F. VanVleet (traveling),,67,61
+3,2:56.0,,N. Vonleh makes 2-pt hook shot from 9 ft,67,63
+3,2:36.0,M. Gasol misses 2-pt jump shot from 12 ft,,67,63
+3,2:36.0,Offensive rebound by M. Gasol,,67,63
+3,2:31.0,N. Powell makes 3-pt jump shot from 26 ft (assist by F. VanVleet),,70,63
+3,2:04.0,,M. Robinson makes 2-pt layup from 1 ft (assist by K. Allen),70,65
+3,1:51.0,N. Powell misses 2-pt layup from 1 ft,,70,65
+3,1:47.0,,Defensive rebound by M. Robinson,70,65
+3,1:46.0,,Offensive rebound by Team,70,65
+3,1:46.0,,A. Trier misses 2-pt layup from 5 ft (block by K. Lowry),70,65
+3,1:46.0,P. McCaw enters the game for K. Lowry,,70,65
+3,1:39.0,,Turnover by K. Knox (lost ball; steal by M. Gasol),70,65
+3,1:27.0,N. Powell misses 3-pt jump shot from 26 ft,,70,65
+3,1:24.0,,Defensive rebound by N. Vonleh,70,65
+3,1:11.0,,K. Knox misses 2-pt jump shot from 12 ft,70,65
+3,1:11.0,,Offensive rebound by M. Robinson,70,65
+3,1:06.0,,K. Knox misses 2-pt layup from 2 ft,70,65
+3,1:04.0,,Offensive rebound by M. Robinson,70,65
+3,1:03.0,,M. Robinson makes 2-pt layup from 1 ft,70,67
+3,0:50.0,O. Anunoby misses 3-pt jump shot from 23 ft,,70,67
+3,0:50.0,,Defensive rebound by Team,70,67
+3,0:40.0,,Offensive foul by K. Knox (drawn by M. Gasol),70,67
+3,0:40.0,,Turnover by K. Knox (offensive foul),70,67
+3,0:33.0,Shooting foul by N. Vonleh (drawn by M. Gasol),,70,67
+3,0:33.0,M. Gasol makes free throw 1 of 2,,71,67
+3,0:33.0,M. Gasol misses free throw 2 of 2,,71,67
+3,0:31.0,,Defensive rebound by M. Robinson,71,67
+3,0:12.0,,A. Trier misses 2-pt jump shot from 15 ft,71,67
+3,0:09.0,,Offensive rebound by M. Robinson,71,67
+3,0:09.0,,M. Robinson makes 2-pt layup from 2 ft,71,69
+3,0:00.0,N. Powell makes 3-pt jump shot from 26 ft (assist by F. VanVleet),,74,69
+4,11:44.0,,N. Vonleh makes 2-pt hook shot from 6 ft,74,71
+4,11:20.0,P. McCaw makes 2-pt jump shot from 18 ft,,76,71
+4,10:54.0,,M. Robinson makes 2-pt layup from 1 ft (assist by K. Allen),76,73
+4,10:35.0,M. Gasol makes 2-pt jump shot from 16 ft (assist by F. VanVleet),,78,73
+4,10:15.0,,A. Trier makes 2-pt layup from 1 ft (assist by K. Allen),78,75
+4,10:00.0,N. Powell misses 3-pt jump shot from 24 ft,,78,75
+4,9:56.0,,Defensive rebound by N. Vonleh,78,75
+4,9:41.0,,K. Allen makes 3-pt jump shot from 25 ft (assist by D. Smith),78,78
+4,9:25.0,Shooting foul by K. Allen (drawn by O. Anunoby),,78,78
+4,9:25.0,O. Anunoby makes free throw 1 of 2,,79,78
+4,9:25.0,O. Anunoby makes free throw 2 of 2,,80,78
+4,9:12.0,,Shooting foul by P. McCaw (drawn by D. Smith),80,78
+4,9:12.0,,D. Smith misses free throw 1 of 2,80,78
+4,9:12.0,,Offensive rebound by Team,80,78
+4,9:12.0,,D. Smith makes free throw 2 of 2,80,79
+4,8:57.0,N. Powell makes 2-pt jump shot from 8 ft (assist by M. Gasol),,82,79
+4,8:57.0,Shooting foul by M. Robinson (drawn by N. Powell),,82,79
+4,8:57.0,N. Powell makes free throw 1 of 1,,83,79
+4,8:40.0,,Shooting foul by O. Anunoby (drawn by D. Smith),83,79
+4,8:40.0,,D. Smith makes free throw 1 of 2,83,80
+4,8:40.0,,D. Smith makes free throw 2 of 2,83,81
+4,8:23.0,Turnover by M. Gasol (bad pass; steal by K. Allen),,83,81
+4,8:18.0,,K. Allen makes 2-pt layup from 1 ft,83,83
+4,8:12.0,N. Powell makes 2-pt layup at rim (assist by F. VanVleet),,85,83
+4,7:44.0,,N. Vonleh misses 2-pt jump shot from 9 ft,85,83
+4,7:41.0,Defensive rebound by F. VanVleet,,85,83
+4,7:31.0,F. VanVleet misses 2-pt layup from 1 ft,,85,83
+4,7:29.0,,Defensive rebound by A. Trier,85,83
+4,7:20.0,,M. Robinson makes 2-pt layup from 1 ft (assist by N. Vonleh),85,85
+4,7:20.0,,Shooting foul by M. Gasol (drawn by M. Robinson),85,85
+4,7:20.0,K. Lowry enters the game for F. VanVleet,,85,85
+4,7:20.0,,M. Robinson makes free throw 1 of 1,85,86
+4,7:20.0,P. Siakam enters the game for O. Anunoby,,85,86
+4,7:20.0,,D. Jordan enters the game for K. Allen,85,86
+4,7:20.0,,K. Knox enters the game for M. Robinson,85,86
+4,7:03.0,K. Lowry makes 3-pt jump shot from 26 ft,,88,86
+4,6:47.0,,Shooting foul by K. Lowry (drawn by D. Jordan),88,86
+4,6:47.0,,New York full timeout,88,86
+4,6:47.0,D. Green enters the game for P. McCaw,,88,86
+4,6:47.0,K. Leonard enters the game for N. Powell,,88,86
+4,6:47.0,,K. Allen enters the game for D. Smith,88,86
+4,6:47.0,,D. Jordan misses free throw 1 of 2,88,86
+4,6:47.0,,Offensive rebound by Team,88,86
+4,6:47.0,,D. Jordan misses free throw 2 of 2,88,86
+4,6:45.0,Defensive rebound by K. Leonard,,88,86
+4,6:29.0,Personal foul by A. Trier (drawn by P. Siakam),,88,86
+4,6:21.0,D. Green makes 3-pt jump shot from 26 ft (assist by K. Leonard),,91,86
+4,5:57.0,,Shooting foul by K. Lowry (drawn by K. Allen),91,86
+4,5:57.0,,K. Allen makes free throw 1 of 2,91,87
+4,5:57.0,,K. Allen makes free throw 2 of 2,91,88
+4,5:41.0,M. Gasol misses 2-pt jump shot from 15 ft,,91,88
+4,5:38.0,,Defensive rebound by A. Trier,91,88
+4,5:24.0,,D. Jordan misses 2-pt hook shot from 6 ft (block by M. Gasol),91,88
+4,5:24.0,,Offensive rebound by Team,91,88
+4,5:24.0,S. Ibaka enters the game for M. Gasol,,91,88
+4,5:24.0,,D. Smith enters the game for A. Trier,91,88
+4,5:16.0,,Turnover by D. Jordan (lost ball; steal by P. Siakam),91,88
+4,5:10.0,K. Leonard misses 3-pt jump shot from 25 ft,,91,88
+4,5:06.0,,Defensive rebound by K. Allen,91,88
+4,5:00.0,,K. Allen makes 2-pt jump shot from 13 ft,91,90
+4,4:46.0,Personal foul by K. Allen (drawn by K. Lowry),,91,90
+4,4:40.0,K. Leonard misses 2-pt jump shot from 19 ft,,91,90
+4,4:37.0,,Defensive rebound by K. Knox,91,90
+4,4:30.0,,K. Knox misses 2-pt jump shot from 15 ft,91,90
+4,4:27.0,Defensive rebound by S. Ibaka,,91,90
+4,4:22.0,D. Green makes 3-pt jump shot from 25 ft (assist by K. Lowry),,94,90
+4,3:57.0,,K. Allen misses 2-pt jump shot from 8 ft,94,90
+4,3:55.0,Defensive rebound by P. Siakam,,94,90
+4,3:52.0,D. Green misses 3-pt jump shot from 25 ft,,94,90
+4,3:48.0,Offensive rebound by P. Siakam,,94,90
+4,3:45.0,K. Leonard misses 3-pt jump shot from 27 ft,,94,90
+4,3:44.0,,Defensive rebound by Team,94,90
+4,3:44.0,Loose ball foul by K. Lowry (drawn by K. Allen),,94,90
+4,3:44.0,,M. Hezonja enters the game for N. Vonleh,94,90
+4,3:44.0,,K. Allen misses free throw 1 of 2,94,90
+4,3:44.0,,Offensive rebound by Team,94,90
+4,3:44.0,,K. Allen misses free throw 2 of 2,94,90
+4,3:39.0,Defensive rebound by P. Siakam,,94,90
+4,3:28.0,D. Green makes 3-pt jump shot from 23 ft (assist by K. Lowry),,97,90
+4,3:27.0,,New York full timeout,97,90
+4,3:07.0,,D. Smith makes 2-pt layup from 1 ft,97,92
+4,2:45.0,K. Leonard misses 2-pt jump shot from 19 ft,,97,92
+4,2:42.0,,Defensive rebound by D. Smith,97,92
+4,2:26.0,,Shooting foul by S. Ibaka (drawn by D. Smith),97,92
+4,2:26.0,,D. Smith misses free throw 1 of 2,97,92
+4,2:26.0,,Offensive rebound by Team,97,92
+4,2:26.0,,D. Smith makes free throw 2 of 2,97,93
+4,2:17.0,Personal foul by M. Hezonja (drawn by K. Lowry),,97,93
+4,2:17.0,K. Lowry makes free throw 1 of 2,,98,93
+4,2:17.0,K. Lowry makes free throw 2 of 2,,99,93
+4,2:06.0,,K. Knox misses 2-pt layup from 5 ft,99,93
+4,2:05.0,,Offensive rebound by D. Jordan,99,93
+4,2:04.0,,D. Jordan misses 2-pt layup from 2 ft,99,93
+4,2:02.0,,Offensive rebound by K. Knox,99,93
+4,1:59.0,,K. Knox makes 3-pt jump shot from 23 ft (assist by D. Smith),99,96
+4,1:43.0,K. Lowry misses 2-pt jump shot from 20 ft,,99,96
+4,1:41.0,,Defensive rebound by D. Jordan,99,96
+4,1:31.0,,M. Hezonja misses 2-pt jump shot from 18 ft,99,96
+4,1:27.0,Defensive rebound by S. Ibaka,,99,96
+4,1:18.0,P. Siakam misses 2-pt hook shot from 8 ft,,99,96
+4,1:18.0,,Defensive rebound by D. Jordan,99,96
+4,1:06.0,,New York full timeout,99,96
+4,1:06.0,,D. Smith misses 2-pt jump shot from 22 ft,99,96
+4,0:50.0,Defensive rebound by D. Green,,99,96
+4,0:36.0,Shooting foul by D. Jordan (drawn by S. Ibaka),,99,96
+4,0:36.0,S. Ibaka makes free throw 1 of 2,,100,96
+4,0:36.0,S. Ibaka makes free throw 2 of 2,,101,96
+4,0:36.0,,New York full timeout,101,96
+4,0:30.0,,M. Hezonja misses 3-pt jump shot from 25 ft,101,96
+4,0:27.0,Defensive rebound by S. Ibaka,,101,96
+4,0:23.0,Personal take foul by D. Smith (drawn by K. Lowry),,101,96
+4,0:23.0,K. Lowry misses free throw 1 of 2,,101,96
+4,0:23.0,Offensive rebound by Team,,101,96
+4,0:23.0,K. Lowry makes free throw 2 of 2,,102,96
+4,0:14.0,,D. Smith misses 2-pt layup from 2 ft,102,96
+4,0:13.0,,Offensive rebound by D. Jordan,102,96
+4,0:11.0,,M. Hezonja makes 3-pt jump shot from 26 ft (assist by D. Jordan),102,99
+4,0:11.0,Toronto full timeout,,102,99
+4,0:08.0,Personal take foul by K. Allen (drawn by K. Lowry),,102,99
+4,0:08.0,K. Lowry makes free throw 1 of 2,,103,99
+4,0:08.0,K. Lowry makes free throw 2 of 2,,104,99
+4,0:04.0,,M. Hezonja misses 3-pt jump shot from 27 ft,104,99
+4,0:00.0,Defensive rebound by S. Ibaka,,104,99

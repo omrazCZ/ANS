@@ -1,0 +1,437 @@
+QUARTER,TIME_REMAINING,MINNESOTA_ACTION,GOLDEN STATE_ACTION,MINNESOTA_SCORE,GOLDEN STATE_SCORE
+1,11:46.0,,D. Jones makes 2-pt dunk from 1 ft (assist by S. Curry),0,2
+1,11:26.0,T. Gibson makes 3-pt jump shot from 23 ft (assist by J. Butler),,3,2
+1,11:16.0,,Personal foul by T. Jones (drawn by S. Curry),3,2
+1,11:12.0,,S. Curry makes 2-pt layup from 3 ft (assist by D. Green),3,4
+1,10:55.0,T. Gibson misses 3-pt jump shot from 26 ft,,3,4
+1,10:53.0,,Defensive rebound by K. Durant,3,4
+1,10:44.0,,K. Durant makes 2-pt layup from 1 ft,3,6
+1,10:31.0,A. Wiggins misses 2-pt jump shot from 18 ft,,3,6
+1,10:30.0,,Defensive rebound by D. Green,3,6
+1,10:21.0,,K. Thompson misses 3-pt jump shot from 23 ft,3,6
+1,10:19.0,Defensive rebound by T. Jones,,3,6
+1,10:13.0,J. Butler misses 2-pt jump shot from 17 ft,,3,6
+1,10:12.0,,Defensive rebound by K. Durant,3,6
+1,10:01.0,,K. Durant makes 2-pt layup from 2 ft,3,8
+1,9:45.0,A. Wiggins makes 3-pt jump shot from 28 ft (assist by T. Gibson),,6,8
+1,9:35.0,,K. Thompson makes 2-pt jump shot from 17 ft (assist by D. Green),6,10
+1,9:21.0,A. Wiggins misses 3-pt jump shot from 26 ft,,6,10
+1,9:19.0,,Defensive rebound by D. Green,6,10
+1,9:13.0,,K. Thompson makes 3-pt jump shot from 33 ft (assist by D. Green),6,13
+1,8:50.0,T. Jones misses 3-pt jump shot from 25 ft,,6,13
+1,8:49.0,,Defensive rebound by Team,6,13
+1,8:40.0,,Turnover by K. Thompson (traveling),6,13
+1,8:24.0,J. Butler makes 2-pt hook shot from 4 ft,,8,13
+1,8:14.0,,Personal foul by J. Butler (drawn by D. Green),8,13
+1,8:14.0,,S. Curry makes 3-pt jump shot from 26 ft (assist by D. Green),8,16
+1,8:00.0,Minnesota full timeout,,8,16
+1,7:38.0,J. Butler misses 3-pt jump shot from 25 ft,,8,16
+1,7:36.0,,Defensive rebound by K. Durant,8,16
+1,7:26.0,,K. Durant makes 3-pt jump shot from 27 ft (assist by D. Green),8,19
+1,7:06.0,T. Jones makes 3-pt jump shot from 23 ft (assist by K. Towns),,11,19
+1,6:51.0,,S. Curry misses 2-pt layup from 2 ft,11,19
+1,6:50.0,,Offensive rebound by D. Jones,11,19
+1,6:50.0,,Shooting foul by A. Wiggins (drawn by D. Jones),11,19
+1,6:50.0,,D. Jones makes free throw 1 of 2,11,20
+1,6:50.0,,D. Jones makes free throw 2 of 2,11,21
+1,6:34.0,J. Butler makes 2-pt jump shot from 11 ft,,13,21
+1,6:22.0,,K. Durant makes 2-pt jump shot from 12 ft,13,23
+1,6:04.0,K. Towns misses 3-pt jump shot from 29 ft,,13,23
+1,6:02.0,,Defensive rebound by D. Green,13,23
+1,5:45.0,,D. Jones makes 2-pt dunk from 1 ft (assist by D. Green),13,25
+1,5:25.0,A. Wiggins makes 2-pt layup from 2 ft (assist by T. Gibson),,15,25
+1,5:22.0,,Turnover by S. Curry (bad pass),15,25
+1,5:06.0,T. Gibson makes 3-pt jump shot from 22 ft (assist by J. Butler),,18,25
+1,4:45.0,,D. Green misses 3-pt jump shot from 26 ft,18,25
+1,4:43.0,,Offensive rebound by Team,18,25
+1,4:43.0,D. Rose enters the game for J. Butler,,18,25
+1,4:43.0,,K. Looney enters the game for D. Jones,18,25
+1,4:40.0,,K. Durant makes 2-pt jump shot from 20 ft (assist by D. Green),18,27
+1,4:25.0,A. Wiggins misses 2-pt jump shot from 19 ft,,18,27
+1,4:24.0,,Defensive rebound by S. Curry,18,27
+1,4:19.0,,K. Durant makes 2-pt dunk from 1 ft (assist by S. Curry),18,29
+1,4:19.0,J. Okogie enters the game for T. Jones,,18,29
+1,4:19.0,,J. Jerebko enters the game for D. Green,18,29
+1,4:19.0,,A. McKinnie enters the game for K. Thompson,18,29
+1,4:01.0,K. Towns makes 2-pt jump shot from 8 ft,,20,29
+1,3:37.0,,S. Curry misses 3-pt jump shot from 28 ft,20,29
+1,3:35.0,Defensive rebound by A. Wiggins,,20,29
+1,3:23.0,A. Wiggins misses 2-pt layup from 7 ft,,20,29
+1,3:22.0,,Defensive rebound by K. Durant,20,29
+1,3:16.0,,J. Jerebko misses 3-pt jump shot from 26 ft,20,29
+1,3:14.0,,Offensive rebound by A. McKinnie,20,29
+1,3:10.0,,S. Curry misses 3-pt jump shot from 27 ft,20,29
+1,3:08.0,Defensive rebound by K. Towns,,20,29
+1,3:03.0,D. Rose makes 3-pt jump shot from 27 ft,,23,29
+1,2:42.0,,A. McKinnie makes 3-pt jump shot from 24 ft (assist by S. Curry),23,32
+1,2:31.0,T. Gibson makes 2-pt hook shot from 4 ft (assist by D. Rose),,25,32
+1,2:22.0,,K. Durant misses 2-pt jump shot from 9 ft,25,32
+1,2:20.0,,Offensive rebound by J. Jerebko,25,32
+1,2:20.0,,J. Jerebko misses 2-pt layup from 2 ft,25,32
+1,2:19.0,Defensive rebound by K. Towns,,25,32
+1,2:13.0,J. Okogie misses 2-pt jump shot from 8 ft (block by S. Curry),,25,32
+1,2:12.0,,Defensive rebound by K. Looney,25,32
+1,2:10.0,,K. Durant misses 2-pt jump shot from 6 ft (block by A. Wiggins),25,32
+1,2:10.0,,Offensive rebound by Team,25,32
+1,2:10.0,A. Tolliver enters the game for T. Gibson,,25,32
+1,2:10.0,,A. Iguodala enters the game for K. Durant,25,32
+1,2:03.0,,A. Iguodala misses 3-pt jump shot from 25 ft,25,32
+1,2:01.0,,Offensive rebound by K. Looney,25,32
+1,2:01.0,G. Dieng enters the game for K. Towns,,25,32
+1,1:53.0,,J. Jerebko makes 2-pt layup from 1 ft (assist by A. Iguodala),25,34
+1,1:48.0,J. Okogie makes 2-pt layup from 2 ft (assist by D. Rose),,27,34
+1,1:48.0,Shooting foul by A. Iguodala (drawn by J. Okogie),,27,34
+1,1:48.0,J. Okogie makes free throw 1 of 1,,28,34
+1,1:35.0,,S. Curry makes 2-pt jump shot from 19 ft,28,36
+1,1:21.0,Personal foul by A. McKinnie (drawn by J. Okogie),,28,36
+1,1:21.0,J. Okogie makes free throw 1 of 2,,29,36
+1,1:21.0,J. Okogie makes free throw 2 of 2,,30,36
+1,1:09.0,,A. Iguodala misses 2-pt jump shot from 16 ft,30,36
+1,1:08.0,,Offensive rebound by A. McKinnie,30,36
+1,1:04.0,,A. McKinnie misses 2-pt layup from 3 ft,30,36
+1,1:03.0,,Offensive rebound by K. Looney,30,36
+1,1:01.0,,K. Looney misses 2-pt layup from 1 ft,30,36
+1,1:00.0,Defensive rebound by G. Dieng,,30,36
+1,0:51.0,A. Wiggins makes 2-pt jump shot from 16 ft,,32,36
+1,0:44.0,,S. Curry misses 2-pt layup from 1 ft,32,36
+1,0:43.0,Defensive rebound by G. Dieng,,32,36
+1,0:27.0,A. Tolliver misses 3-pt jump shot from 22 ft,,32,36
+1,0:25.0,Offensive rebound by G. Dieng,,32,36
+1,0:12.0,A. Wiggins misses 2-pt jump shot from 12 ft,,32,36
+1,0:11.0,,Defensive rebound by K. Looney,32,36
+1,0:02.0,,S. Curry misses 2-pt jump shot from 19 ft,32,36
+1,0:00.0,Defensive rebound by J. Okogie,,32,36
+2,11:48.0,Personal foul by K. Thompson (drawn by G. Dieng),,32,36
+2,11:35.0,G. Dieng misses 3-pt jump shot from 28 ft,,32,36
+2,11:33.0,,Defensive rebound by A. McKinnie,32,36
+2,11:21.0,,J. Jerebko misses 2-pt jump shot from 18 ft,32,36
+2,11:20.0,Defensive rebound by G. Dieng,,32,36
+2,11:06.0,Personal foul by A. McKinnie (drawn by G. Dieng),,32,36
+2,11:01.0,G. Dieng misses 2-pt layup from 5 ft (block by D. Green),,32,36
+2,11:00.0,Offensive rebound by Team,,32,36
+2,10:53.0,T. Jones misses 2-pt jump shot from 5 ft,,32,36
+2,10:52.0,,Defensive rebound by A. McKinnie,32,36
+2,10:49.0,,Shooting foul by G. Dieng (drawn by D. Green),32,36
+2,10:49.0,,D. Green misses free throw 1 of 2,32,36
+2,10:49.0,,Offensive rebound by Team,32,36
+2,10:49.0,,D. Green makes free throw 2 of 2,32,37
+2,10:36.0,A. Tolliver misses 3-pt jump shot from 22 ft (block by D. Green),,32,37
+2,10:34.0,,Defensive rebound by J. Jerebko,32,37
+2,10:31.0,,Turnover by J. Jerebko (out of bounds lost ball),32,37
+2,10:21.0,T. Jones misses 3-pt jump shot from 25 ft,,32,37
+2,10:19.0,,Defensive rebound by A. Iguodala,32,37
+2,10:15.0,,J. Jerebko makes 2-pt layup from 2 ft (assist by A. Iguodala),32,39
+2,10:15.0,,Shooting foul by A. Tolliver (drawn by J. Jerebko),32,39
+2,10:15.0,,J. Jerebko makes free throw 1 of 1,32,40
+2,9:55.0,Shooting foul by D. Green (drawn by J. Okogie),,32,40
+2,9:55.0,J. Okogie makes free throw 1 of 2,,33,40
+2,9:55.0,J. Okogie makes free throw 2 of 2,,34,40
+2,9:44.0,,K. Thompson makes 2-pt jump shot from 18 ft (assist by J. Jerebko),34,42
+2,9:19.0,J. Butler makes 2-pt layup from 3 ft,,36,42
+2,9:05.0,,Shooting foul by G. Dieng (drawn by J. Jerebko),36,42
+2,9:05.0,,J. Jerebko makes free throw 1 of 2,36,43
+2,9:05.0,,J. Jerebko makes free throw 2 of 2,36,44
+2,8:51.0,J. Okogie makes 2-pt jump shot from 10 ft (assist by T. Jones),,38,44
+2,8:40.0,,A. Iguodala misses 2-pt jump shot from 21 ft,38,44
+2,8:39.0,,Offensive rebound by D. Green,38,44
+2,8:34.0,,Turnover by A. Iguodala (bad pass; steal by J. Okogie),38,44
+2,8:25.0,J. Okogie makes 3-pt jump shot from 26 ft (assist by G. Dieng),,41,44
+2,8:14.0,,K. Thompson misses 2-pt jump shot from 19 ft,41,44
+2,8:13.0,Defensive rebound by G. Dieng,,41,44
+2,8:01.0,J. Butler makes 2-pt jump shot from 9 ft,,43,44
+2,8:00.0,,Golden State full timeout,43,44
+2,8:00.0,K. Towns enters the game for G. Dieng,,43,44
+2,8:00.0,,K. Durant enters the game for J. Jerebko,43,44
+2,8:00.0,,D. Jones enters the game for A. McKinnie,43,44
+2,7:42.0,,K. Thompson misses 3-pt jump shot from 27 ft,43,44
+2,7:40.0,Defensive rebound by A. Tolliver,,43,44
+2,7:21.0,J. Butler misses 3-pt jump shot from 26 ft,,43,44
+2,7:19.0,,Defensive rebound by K. Thompson,43,44
+2,7:07.0,,Turnover by K. Durant (lost ball; steal by A. Tolliver),43,44
+2,6:48.0,K. Towns makes 3-pt jump shot from 25 ft (assist by J. Butler),,46,44
+2,6:30.0,,K. Thompson makes 3-pt jump shot from 25 ft (assist by D. Green),46,47
+2,6:15.0,T. Jones misses 3-pt jump shot from 23 ft,,46,47
+2,6:13.0,,Defensive rebound by D. Jones,46,47
+2,6:13.0,A. Wiggins enters the game for J. Okogie,,46,47
+2,6:13.0,,S. Curry enters the game for D. Green,46,47
+2,6:13.0,,K. Looney enters the game for K. Thompson,46,47
+2,5:57.0,,A. Iguodala misses 3-pt jump shot from 26 ft,46,47
+2,5:55.0,Defensive rebound by K. Towns,,46,47
+2,5:37.0,A. Tolliver misses 3-pt jump shot from 23 ft,,46,47
+2,5:35.0,,Defensive rebound by D. Jones,46,47
+2,5:25.0,,K. Durant misses 2-pt jump shot from 19 ft,46,47
+2,5:24.0,Defensive rebound by K. Towns,,46,47
+2,5:10.0,J. Butler makes 2-pt hook shot from 7 ft (assist by A. Tolliver),,48,47
+2,4:50.0,,D. Jones misses 2-pt layup from 2 ft,48,47
+2,4:49.0,Defensive rebound by K. Towns,,48,47
+2,4:32.0,J. Butler misses 3-pt jump shot from 26 ft,,48,47
+2,4:30.0,,Defensive rebound by D. Jones,48,47
+2,4:23.0,,K. Durant makes 3-pt jump shot from 27 ft (assist by S. Curry),48,50
+2,4:00.0,J. Butler makes 2-pt jump shot from 10 ft,,50,50
+2,3:42.0,,K. Durant makes 2-pt jump shot from 12 ft (assist by S. Curry),50,52
+2,3:30.0,K. Towns makes 3-pt jump shot from 26 ft (assist by T. Jones),,53,52
+2,3:20.0,,S. Curry makes 2-pt layup from 2 ft,53,54
+2,2:59.0,A. Wiggins misses 2-pt jump shot from 18 ft,,53,54
+2,2:58.0,Offensive rebound by K. Towns,,53,54
+2,2:54.0,Turnover by K. Towns (bad pass; steal by A. Iguodala),,53,54
+2,2:54.0,,Shooting foul by J. Butler (drawn by K. Durant),53,54
+2,2:54.0,Minnesota full timeout,,53,54
+2,2:54.0,T. Gibson enters the game for A. Tolliver,,53,54
+2,2:54.0,,A. McKinnie enters the game for A. Iguodala,53,54
+2,2:54.0,,K. Thompson enters the game for D. Jones,53,54
+2,2:54.0,,K. Durant makes free throw 1 of 2,53,55
+2,2:54.0,,K. Durant makes free throw 2 of 2,53,56
+2,2:34.0,A. Wiggins misses 2-pt jump shot from 12 ft,,53,56
+2,2:33.0,,Defensive rebound by K. Durant,53,56
+2,2:28.0,,S. Curry makes 3-pt jump shot from 29 ft (assist by K. Durant),53,59
+2,2:14.0,Shooting foul by K. Thompson (drawn by J. Butler),,53,59
+2,2:14.0,J. Butler misses free throw 1 of 2,,53,59
+2,2:14.0,Offensive rebound by Team,,53,59
+2,2:14.0,J. Butler makes free throw 2 of 2,,54,59
+2,1:59.0,,K. Durant misses 2-pt jump shot from 19 ft,54,59
+2,1:58.0,Defensive rebound by A. Wiggins,,54,59
+2,1:42.0,K. Towns makes 2-pt hook shot from 9 ft (assist by J. Butler),,56,59
+2,1:28.0,,Personal foul by T. Gibson (drawn by S. Curry),56,59
+2,1:28.0,,S. Curry makes free throw 1 of 2,56,60
+2,1:28.0,,S. Curry makes free throw 2 of 2,56,61
+2,1:05.0,T. Jones misses 2-pt jump shot from 9 ft,,56,61
+2,1:04.0,,Defensive rebound by K. Looney,56,61
+2,0:57.0,,Turnover by S. Curry (out of bounds lost ball),56,61
+2,0:43.0,J. Butler misses 3-pt jump shot from 26 ft,,56,61
+2,0:41.0,,Defensive rebound by S. Curry,56,61
+2,0:34.0,,Turnover by K. Durant (bad pass),56,61
+2,0:26.0,T. Gibson makes 2-pt layup from 2 ft (assist by T. Jones),,58,61
+2,0:06.0,,K. Thompson misses 2-pt jump shot from 13 ft,58,61
+2,0:05.0,,Offensive rebound by S. Curry,58,61
+2,0:04.0,,S. Curry misses 2-pt jump shot from 6 ft,58,61
+2,0:03.0,Defensive rebound by K. Towns,,58,61
+2,0:00.0,J. Butler misses 3-pt jump shot from 44 ft,,58,61
+2,0:00.0,Offensive rebound by Team,,58,61
+3,11:44.0,Personal foul by D. Green (drawn by K. Towns),,58,61
+3,11:35.0,K. Towns misses 3-pt jump shot from 27 ft,,58,61
+3,11:33.0,,Defensive rebound by S. Curry,58,61
+3,11:27.0,,Personal foul by T. Jones (drawn by D. Green),58,61
+3,11:22.0,,S. Curry misses 3-pt jump shot from 27 ft,58,61
+3,11:20.0,Defensive rebound by A. Wiggins,,58,61
+3,11:16.0,A. Wiggins misses 2-pt layup from 5 ft (block by K. Durant),,58,61
+3,11:15.0,Offensive rebound by Team,,58,61
+3,11:04.0,J. Butler makes 2-pt jump shot from 18 ft,,60,61
+3,10:49.0,,K. Durant makes 3-pt jump shot from 27 ft,60,64
+3,10:33.0,A. Wiggins misses 3-pt jump shot from 23 ft,,60,64
+3,10:31.0,,Defensive rebound by S. Curry,60,64
+3,10:29.0,,Shooting foul by J. Butler (drawn by K. Durant),60,64
+3,10:29.0,,K. Durant misses free throw 1 of 2,60,64
+3,10:29.0,,Offensive rebound by Team,60,64
+3,10:29.0,,K. Durant makes free throw 2 of 2,60,65
+3,10:10.0,A. Wiggins makes 3-pt jump shot from 27 ft (assist by T. Gibson),,63,65
+3,9:57.0,,K. Durant misses 2-pt jump shot from 18 ft,63,65
+3,9:56.0,Defensive rebound by K. Towns,,63,65
+3,9:47.0,T. Gibson misses 2-pt jump shot from 19 ft,,63,65
+3,9:46.0,,Defensive rebound by K. Durant,63,65
+3,9:33.0,,S. Curry makes 2-pt jump shot from 18 ft (assist by D. Green),63,67
+3,9:17.0,T. Gibson makes 2-pt dunk from 1 ft (assist by T. Jones),,65,67
+3,9:10.0,,Personal foul by T. Gibson (drawn by D. Jones),65,67
+3,9:03.0,,D. Green misses 2-pt layup from 3 ft,65,67
+3,9:02.0,,Offensive rebound by D. Green,65,67
+3,9:02.0,,D. Green makes 2-pt layup at rim,65,69
+3,8:49.0,A. Wiggins makes 3-pt jump shot from 24 ft (assist by T. Jones),,68,69
+3,8:47.0,Minnesota full timeout,,68,69
+3,8:34.0,,Turnover by K. Thompson (lost ball; steal by A. Wiggins),68,69
+3,8:25.0,J. Butler misses 2-pt layup from 3 ft,,68,69
+3,8:24.0,,Defensive rebound by K. Durant,68,69
+3,8:18.0,,K. Durant misses 3-pt jump shot from 25 ft,68,69
+3,8:16.0,Defensive rebound by A. Wiggins,,68,69
+3,8:00.0,A. Wiggins makes 2-pt jump shot from 17 ft (assist by J. Butler),,70,69
+3,7:48.0,,K. Thompson misses 2-pt jump shot from 12 ft,70,69
+3,7:46.0,Defensive rebound by Team,,70,69
+3,7:46.0,,J. Bell enters the game for D. Jones,70,69
+3,7:31.0,T. Gibson misses 3-pt jump shot from 23 ft,,70,69
+3,7:29.0,,Defensive rebound by S. Curry,70,69
+3,7:24.0,,Turnover by S. Curry (lost ball; steal by K. Towns),70,69
+3,7:14.0,K. Towns misses 3-pt jump shot from 26 ft,,70,69
+3,7:12.0,,Defensive rebound by D. Green,70,69
+3,7:04.0,,K. Thompson makes 2-pt jump shot from 11 ft (assist by D. Green),70,71
+3,6:41.0,A. Wiggins makes 3-pt jump shot from 27 ft,,73,71
+3,6:34.0,,K. Thompson misses 3-pt jump shot from 31 ft,73,71
+3,6:32.0,Defensive rebound by T. Jones,,73,71
+3,6:26.0,A. Wiggins misses 3-pt jump shot from 29 ft,,73,71
+3,6:23.0,,Defensive rebound by Team,73,71
+3,6:12.0,,Turnover by D. Green (bad pass; steal by K. Towns),73,71
+3,5:57.0,K. Towns misses 2-pt jump shot from 5 ft,,73,71
+3,5:56.0,Offensive rebound by T. Gibson,,73,71
+3,5:56.0,T. Gibson misses 2-pt layup from 2 ft,,73,71
+3,5:54.0,,Defensive rebound by K. Thompson,73,71
+3,5:51.0,,S. Curry misses 3-pt jump shot from 26 ft,73,71
+3,5:49.0,Defensive rebound by J. Butler,,73,71
+3,5:36.0,T. Jones misses 3-pt jump shot from 27 ft,,73,71
+3,5:34.0,,Defensive rebound by K. Durant,73,71
+3,5:27.0,,Turnover by K. Durant (bad pass; steal by T. Jones),73,71
+3,5:21.0,A. Wiggins makes 2-pt layup from 2 ft (assist by T. Jones),,75,71
+3,5:11.0,,D. Green makes 2-pt dunk from 1 ft (assist by S. Curry),75,73
+3,4:54.0,K. Towns misses 3-pt jump shot from 27 ft,,75,73
+3,4:52.0,,Defensive rebound by S. Curry,75,73
+3,4:43.0,,Turnover by D. Green (bad pass; steal by A. Wiggins),75,73
+3,4:38.0,J. Butler misses 2-pt jump shot from 6 ft (block by S. Curry),,75,73
+3,4:37.0,Offensive rebound by J. Butler,,75,73
+3,4:37.0,Personal foul by S. Curry (drawn by A. Wiggins),,75,73
+3,4:37.0,,K. Looney enters the game for D. Green,75,73
+3,4:24.0,J. Butler misses 2-pt layup from 2 ft,,75,73
+3,4:23.0,,Defensive rebound by J. Bell,75,73
+3,4:18.0,,Shooting foul by T. Gibson (drawn by K. Looney),75,73
+3,4:18.0,,K. Looney makes free throw 1 of 2,75,74
+3,4:18.0,J. Okogie enters the game for J. Butler,,75,74
+3,4:18.0,A. Tolliver enters the game for T. Gibson,,75,74
+3,4:18.0,,K. Looney misses free throw 2 of 2,75,74
+3,4:17.0,Defensive rebound by Team,,75,74
+3,4:17.0,,A. McKinnie enters the game for K. Thompson,75,74
+3,4:05.0,A. Wiggins misses 2-pt jump shot from 6 ft (block by J. Bell),,75,74
+3,4:04.0,Offensive rebound by T. Jones,,75,74
+3,3:55.0,A. Tolliver makes 3-pt jump shot from 27 ft (assist by T. Jones),,78,74
+3,3:47.0,,K. Durant misses 2-pt jump shot from 13 ft,78,74
+3,3:46.0,Defensive rebound by K. Towns,,78,74
+3,3:40.0,Personal foul by S. Curry (drawn by T. Jones),,78,74
+3,3:40.0,Minnesota full timeout,,78,74
+3,3:31.0,J. Okogie misses 2-pt layup from 4 ft (block by K. Looney),,78,74
+3,3:29.0,,Defensive rebound by K. Durant,78,74
+3,3:14.0,,S. Curry makes 2-pt layup from 2 ft,78,76
+3,3:03.0,K. Towns misses 2-pt jump shot from 18 ft,,78,76
+3,3:02.0,,Defensive rebound by A. McKinnie,78,76
+3,2:51.0,,S. Curry misses 2-pt jump shot from 5 ft (block by K. Towns),78,76
+3,2:50.0,Defensive rebound by J. Okogie,,78,76
+3,2:43.0,J. Okogie misses 2-pt jump shot from 5 ft,,78,76
+3,2:42.0,,Defensive rebound by K. Looney,78,76
+3,2:40.0,,Offensive foul by K. Durant (drawn by T. Jones),78,76
+3,2:40.0,,Turnover by K. Durant (offensive foul),78,76
+3,2:27.0,K. Towns makes 2-pt hook shot from 7 ft (assist by T. Jones),,80,76
+3,2:08.0,,Personal foul by A. Tolliver (drawn by K. Durant),80,76
+3,2:08.0,,K. Durant makes free throw 1 of 2,80,77
+3,2:08.0,,K. Durant makes free throw 2 of 2,80,78
+3,1:54.0,Shooting foul by K. Durant (drawn by K. Towns),,80,78
+3,1:54.0,A. Tolliver misses free throw 1 of 3,,80,78
+3,1:54.0,Offensive rebound by Team,,80,78
+3,1:54.0,,A. Iguodala enters the game for J. Bell,80,78
+3,1:54.0,,J. Jerebko enters the game for K. Durant,80,78
+3,1:54.0,A. Tolliver makes free throw 2 of 3,,81,78
+3,1:54.0,A. Tolliver makes free throw 3 of 3,,82,78
+3,1:44.0,,S. Curry makes 3-pt jump shot from 25 ft,82,81
+3,1:24.0,Shooting foul by A. McKinnie (drawn by J. Okogie),,82,81
+3,1:24.0,J. Okogie makes free throw 1 of 2,,83,81
+3,1:24.0,G. Dieng enters the game for K. Towns,,83,81
+3,1:24.0,J. Okogie misses free throw 2 of 2,,83,81
+3,1:22.0,,Defensive rebound by A. McKinnie,83,81
+3,1:11.0,,S. Curry misses 3-pt jump shot from 29 ft,83,81
+3,1:09.0,,Offensive rebound by A. McKinnie,83,81
+3,1:07.0,,S. Curry misses 3-pt jump shot from 27 ft,83,81
+3,1:05.0,Defensive rebound by J. Okogie,,83,81
+3,0:45.0,J. Okogie makes 2-pt jump shot from 21 ft (assist by A. Tolliver),,85,81
+3,0:30.0,,Shooting foul by A. Tolliver (drawn by A. Iguodala),85,81
+3,0:30.0,,A. Iguodala misses free throw 1 of 2,85,81
+3,0:30.0,,Offensive rebound by Team,85,81
+3,0:30.0,,A. Iguodala misses free throw 2 of 2,85,81
+3,0:29.0,Defensive rebound by G. Dieng,,85,81
+3,0:09.0,A. Wiggins misses 2-pt jump shot from 16 ft (block by K. Looney),,85,81
+3,0:08.0,,Defensive rebound by S. Curry,85,81
+3,0:03.0,,S. Curry makes 2-pt layup from 3 ft,85,83
+3,0:01.0,T. Jones makes 2-pt layup from 2 ft (assist by J. Okogie),,87,83
+4,11:42.0,,K. Thompson makes 2-pt jump shot from 17 ft (assist by A. Iguodala),87,85
+4,11:28.0,J. Butler makes 2-pt dunk from 1 ft (assist by A. Tolliver),,89,85
+4,11:09.0,,K. Thompson makes 3-pt jump shot from 26 ft (assist by D. Green),89,88
+4,10:51.0,J. Butler misses 2-pt layup from 2 ft,,89,88
+4,10:50.0,,Defensive rebound by D. Green,89,88
+4,10:47.0,,K. Thompson misses 3-pt jump shot from 25 ft,89,88
+4,10:45.0,Defensive rebound by J. Okogie,,89,88
+4,10:28.0,J. Butler misses 3-pt jump shot from 26 ft,,89,88
+4,10:26.0,,Defensive rebound by A. Iguodala,89,88
+4,10:19.0,,K. Thompson makes 3-pt jump shot from 26 ft (assist by A. Iguodala),89,91
+4,10:17.0,Minnesota full timeout,,89,91
+4,9:54.0,J. Nunnally misses 3-pt jump shot from 27 ft,,89,91
+4,9:52.0,,Defensive rebound by D. Green,89,91
+4,9:44.0,,Offensive foul by D. Green (drawn by J. Okogie),89,91
+4,9:44.0,,Turnover by D. Green (offensive foul),89,91
+4,9:21.0,J. Butler misses 3-pt jump shot from 27 ft,,89,91
+4,9:19.0,,Defensive rebound by J. Jerebko,89,91
+4,9:03.0,,A. Iguodala misses 2-pt hook shot from 5 ft (block by G. Dieng),89,91
+4,9:01.0,,Offensive rebound by J. Jerebko,89,91
+4,8:58.0,,J. Jerebko misses 3-pt jump shot from 27 ft,89,91
+4,8:56.0,Defensive rebound by J. Okogie,,89,91
+4,8:42.0,J. Nunnally misses 3-pt jump shot from 23 ft,,89,91
+4,8:41.0,,Defensive rebound by Team,89,91
+4,8:41.0,T. Jones enters the game for J. Nunnally,,89,91
+4,8:31.0,,D. Green misses 3-pt jump shot from 23 ft,89,91
+4,8:29.0,,Offensive rebound by A. Iguodala,89,91
+4,8:12.0,,J. Jerebko misses 2-pt layup from 3 ft (block by A. Tolliver),89,91
+4,8:11.0,Defensive rebound by G. Dieng,,89,91
+4,8:06.0,Turnover by J. Okogie (step out of bounds),,89,91
+4,8:06.0,,Golden State full timeout,89,91
+4,8:06.0,,K. Durant enters the game for J. Jerebko,89,91
+4,7:55.0,,D. Green makes 2-pt layup from 2 ft (assist by A. Iguodala),89,93
+4,7:38.0,G. Dieng misses 2-pt jump shot from 20 ft,,89,93
+4,7:37.0,,Defensive rebound by K. Thompson,89,93
+4,7:22.0,,D. Green makes 2-pt layup from 3 ft (assist by A. Iguodala),89,95
+4,7:22.0,Violation by Team (def goaltending),,89,95
+4,7:13.0,A. Tolliver misses 3-pt jump shot from 27 ft,,89,95
+4,7:11.0,Offensive rebound by T. Jones,,89,95
+4,7:03.0,J. Okogie misses 2-pt layup from 3 ft,,89,95
+4,7:02.0,Offensive rebound by J. Butler,,89,95
+4,7:00.0,J. Butler makes 2-pt jump shot from 10 ft,,91,95
+4,6:48.0,,K. Thompson makes 2-pt layup from 3 ft (assist by A. Iguodala),91,97
+4,6:48.0,K. Towns enters the game for G. Dieng,,91,97
+4,6:48.0,A. Wiggins enters the game for J. Okogie,,91,97
+4,6:27.0,J. Butler makes 2-pt jump shot from 15 ft,,93,97
+4,6:03.0,,A. Iguodala makes 2-pt dunk from 2 ft (assist by K. Thompson),93,99
+4,5:45.0,Turnover by A. Wiggins (lost ball; steal by A. Iguodala),,93,99
+4,5:41.0,,A. McKinnie makes 2-pt dunk from 2 ft (assist by A. Iguodala),93,101
+4,5:26.0,K. Towns misses 2-pt hook shot from 15 ft,,93,101
+4,5:25.0,,Defensive rebound by K. Thompson,93,101
+4,5:20.0,,Shooting foul by A. Tolliver (drawn by K. Durant),93,101
+4,5:20.0,,K. Durant makes free throw 1 of 2,93,102
+4,5:20.0,J. Okogie enters the game for A. Tolliver,,93,102
+4,5:20.0,,S. Curry enters the game for A. Iguodala,93,102
+4,5:20.0,,K. Durant makes free throw 2 of 2,93,103
+4,4:58.0,J. Butler misses 3-pt jump shot from 26 ft,,93,103
+4,4:56.0,,Defensive rebound by A. McKinnie,93,103
+4,4:46.0,,A. McKinnie makes 3-pt jump shot from 22 ft (assist by K. Durant),93,106
+4,4:25.0,Personal foul by A. McKinnie (drawn by T. Jones),,93,106
+4,4:17.0,J. Okogie misses 2-pt layup from 7 ft (block by D. Green),,93,106
+4,4:16.0,Offensive rebound by Team,,93,106
+4,4:16.0,,Golden State full timeout,93,106
+4,4:08.0,A. Wiggins misses 3-pt jump shot from 27 ft,,93,106
+4,4:06.0,,Defensive rebound by K. Durant,93,106
+4,3:57.0,,K. Thompson misses 3-pt jump shot from 25 ft,93,106
+4,3:55.0,Defensive rebound by K. Towns,,93,106
+4,3:43.0,T. Jones misses 2-pt jump shot from 21 ft,,93,106
+4,3:42.0,,Defensive rebound by Team,93,106
+4,3:42.0,T. Gibson enters the game for J. Butler,,93,106
+4,3:31.0,,S. Curry misses 3-pt jump shot from 23 ft,93,106
+4,3:29.0,Defensive rebound by T. Gibson,,93,106
+4,3:13.0,K. Towns misses 2-pt jump shot from 11 ft,,93,106
+4,3:12.0,Offensive rebound by T. Gibson,,93,106
+4,3:06.0,T. Gibson misses 2-pt hook shot from 10 ft,,93,106
+4,3:05.0,,Defensive rebound by K. Durant,93,106
+4,2:54.0,,K. Durant makes 2-pt jump shot from 11 ft,93,108
+4,2:43.0,T. Jones makes 3-pt jump shot from 27 ft,,96,108
+4,2:30.0,,K. Durant makes 2-pt layup from 2 ft (assist by S. Curry),96,110
+4,2:30.0,,Shooting foul by A. Wiggins (drawn by K. Durant),96,110
+4,2:30.0,,K. Durant makes free throw 1 of 1,96,111
+4,2:22.0,Shooting foul by A. McKinnie (drawn by K. Towns),,96,111
+4,2:22.0,K. Towns makes free throw 1 of 2,,97,111
+4,2:22.0,K. Towns misses free throw 2 of 2,,97,111
+4,2:20.0,,Defensive rebound by K. Durant,97,111
+4,2:10.0,,Turnover by S. Curry (lost ball; steal by T. Jones),97,111
+4,2:10.0,Personal foul by S. Curry (drawn by J. Okogie),,97,111
+4,1:58.0,Turnover by K. Towns (lost ball; steal by D. Green),,97,111
+4,1:45.0,,K. Durant misses 3-pt jump shot from 30 ft,97,111
+4,1:43.0,Defensive rebound by T. Jones,,97,111
+4,1:38.0,A. Wiggins makes 2-pt layup from 1 ft (assist by T. Jones),,99,111
+4,1:27.0,,S. Curry makes 3-pt jump shot from 25 ft,99,114
+4,1:14.0,J. Okogie misses 3-pt jump shot from 25 ft,,99,114
+4,1:12.0,,Defensive rebound by D. Green,99,114
+4,1:09.0,,Turnover by D. Green (bad pass),99,114
+4,1:01.0,A. Wiggins misses 3-pt jump shot from 27 ft,,99,114
+4,0:58.0,,Defensive rebound by S. Curry,99,114
+4,0:44.0,,S. Curry makes 2-pt layup from 2 ft (assist by K. Durant),99,116
+4,0:36.0,T. Jones misses 3-pt jump shot from 28 ft,,99,116
+4,0:34.0,,Defensive rebound by K. Durant,99,116
+4,0:16.0,,S. Curry misses 3-pt jump shot from 26 ft,99,116
+4,0:14.0,Defensive rebound by K. Towns,,99,116
+4,0:00.0,Turnover by J. Okogie (out of bounds lost ball),,99,116

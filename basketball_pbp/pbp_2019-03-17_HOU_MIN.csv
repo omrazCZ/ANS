@@ -1,0 +1,460 @@
+QUARTER,TIME_REMAINING,MINNESOTA_ACTION,HOUSTON_ACTION,MINNESOTA_SCORE,HOUSTON_SCORE
+1,11:43.0,D. Šarić misses 2-pt jump shot from 20 ft,,0,0
+1,11:40.0,,Defensive rebound by P. Tucker,0,0
+1,11:32.0,,J. Harden misses 2-pt jump shot from 14 ft,0,0
+1,11:30.0,Defensive rebound by T. Jones,,0,0
+1,11:13.0,K. Towns misses 3-pt jump shot from 27 ft,,0,0
+1,11:10.0,,Defensive rebound by C. Capela,0,0
+1,11:02.0,,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),0,2
+1,10:46.0,D. Šarić makes 2-pt layup from 3 ft (assist by K. Towns),,2,2
+1,10:29.0,,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),2,4
+1,10:09.0,D. Šarić misses 2-pt hook shot from 5 ft,,2,4
+1,10:06.0,Offensive rebound by D. Šarić,,2,4
+1,10:05.0,D. Šarić makes 2-pt jump shot from 5 ft,,4,4
+1,9:46.0,,E. Gordon misses 3-pt jump shot from 26 ft,4,4
+1,9:42.0,Defensive rebound by D. Šarić,,4,4
+1,9:36.0,J. Okogie misses 3-pt jump shot from 26 ft,,4,4
+1,9:34.0,Offensive rebound by D. Šarić,,4,4
+1,9:34.0,Turnover by D. Šarić (bad pass),,4,4
+1,9:27.0,,P. Tucker makes 3-pt jump shot from 27 ft (assist by C. Paul),4,7
+1,9:07.0,T. Jones misses 2-pt jump shot from 13 ft,,4,7
+1,9:06.0,,Defensive rebound by J. Harden,4,7
+1,9:05.0,,Turnover by J. Harden (lost ball; steal by D. Šarić),4,7
+1,9:02.0,K. Towns misses 2-pt jump shot from 6 ft,,4,7
+1,9:00.0,Offensive rebound by J. Okogie,,4,7
+1,8:58.0,J. Okogie makes 2-pt jump shot from 14 ft,,6,7
+1,8:50.0,,C. Capela makes 2-pt layup from 2 ft (assist by J. Harden),6,9
+1,8:36.0,A. Wiggins makes 2-pt layup from 2 ft (assist by K. Towns),,8,9
+1,8:18.0,,J. Harden makes 3-pt jump shot from 26 ft (assist by C. Paul),8,12
+1,8:06.0,Personal foul by J. Harden (drawn by D. Šarić),,8,12
+1,7:57.0,A. Wiggins misses 3-pt jump shot from 25 ft,,8,12
+1,7:55.0,,Defensive rebound by C. Capela,8,12
+1,7:44.0,,P. Tucker misses 3-pt jump shot from 24 ft,8,12
+1,7:42.0,Defensive rebound by T. Jones,,8,12
+1,7:38.0,J. Okogie makes 2-pt layup from 2 ft (assist by A. Wiggins),,10,12
+1,7:22.0,,E. Gordon misses 3-pt jump shot from 24 ft,10,12
+1,7:20.0,Defensive rebound by K. Towns,,10,12
+1,7:12.0,T. Jones misses 3-pt jump shot from 27 ft,,10,12
+1,7:11.0,,Defensive rebound by C. Paul,10,12
+1,7:03.0,,Turnover by P. Tucker (bad pass; steal by A. Wiggins),10,12
+1,6:53.0,Shooting foul by P. Tucker (drawn by K. Towns),,10,12
+1,6:53.0,,Houston full timeout,10,12
+1,6:53.0,,D. House enters the game for E. Gordon,10,12
+1,6:53.0,,I. Shumpert enters the game for C. Paul,10,12
+1,6:53.0,K. Towns misses free throw 1 of 2,,10,12
+1,6:53.0,Offensive rebound by Team,,10,12
+1,6:53.0,K. Towns makes free throw 2 of 2,,11,12
+1,6:39.0,,D. House misses 3-pt jump shot from 22 ft,11,12
+1,6:37.0,Defensive rebound by T. Jones,,11,12
+1,6:34.0,A. Wiggins makes 2-pt layup from 1 ft (assist by T. Jones),,13,12
+1,6:21.0,Violation by Team (kicked ball),,13,12
+1,6:06.0,,J. Harden misses 3-pt jump shot from 29 ft,13,12
+1,6:04.0,,Offensive rebound by C. Capela,13,12
+1,5:57.0,,J. Harden misses 2-pt jump shot from 1 ft,13,12
+1,5:53.0,,Offensive rebound by C. Capela,13,12
+1,5:53.0,,C. Capela misses 2-pt layup from 1 ft,13,12
+1,5:53.0,,Offensive rebound by C. Capela,13,12
+1,5:45.0,,J. Harden misses 3-pt jump shot from 24 ft,13,12
+1,5:41.0,,Offensive rebound by D. House,13,12
+1,5:39.0,,C. Capela makes 2-pt layup from 2 ft (assist by D. House),13,14
+1,5:39.0,Minnesota full timeout,,13,14
+1,5:28.0,A. Wiggins misses 2-pt jump shot from 19 ft,,13,14
+1,5:25.0,Offensive rebound by D. Šarić,,13,14
+1,5:19.0,J. Okogie misses 3-pt jump shot from 24 ft,,13,14
+1,5:17.0,Offensive rebound by J. Okogie,,13,14
+1,5:14.0,Turnover by J. Okogie (bad pass; steal by P. Tucker),,13,14
+1,4:49.0,,I. Shumpert misses 3-pt jump shot from 26 ft,13,14
+1,4:46.0,Defensive rebound by D. Šarić,,13,14
+1,4:39.0,A. Wiggins makes 2-pt jump shot from 22 ft,,15,14
+1,4:33.0,,Shooting foul by K. Towns (drawn by D. House),15,14
+1,4:33.0,,D. House misses free throw 1 of 2,15,14
+1,4:33.0,,Offensive rebound by Team,15,14
+1,4:33.0,K. Bates-Diop enters the game for D. Šarić,,15,14
+1,4:33.0,T. Gibson enters the game for A. Wiggins,,15,14
+1,4:33.0,,G. Green enters the game for P. Tucker,15,14
+1,4:33.0,,D. House makes free throw 2 of 2,15,15
+1,4:19.0,K. Towns makes 2-pt dunk from 2 ft (assist by T. Jones),,17,15
+1,4:03.0,,J. Harden misses 2-pt layup from 9 ft (block by T. Gibson),17,15
+1,4:03.0,,Offensive rebound by Team,17,15
+1,4:03.0,,N. Hilário enters the game for C. Capela,17,15
+1,4:00.0,,J. Harden misses 2-pt layup from 2 ft (block by K. Towns),17,15
+1,3:56.0,Defensive rebound by T. Gibson,,17,15
+1,3:47.0,K. Towns makes 2-pt jump shot from 8 ft,,19,15
+1,3:40.0,,D. House makes 2-pt layup from 3 ft (assist by J. Harden),19,17
+1,3:23.0,K. Towns misses 2-pt jump shot from 12 ft,,19,17
+1,3:21.0,,Defensive rebound by N. Hilário,19,17
+1,3:12.0,,J. Harden makes 2-pt jump shot from 4 ft,19,19
+1,3:02.0,K. Towns makes 3-pt jump shot from 26 ft (assist by K. Bates-Diop),,22,19
+1,2:51.0,,N. Hilário misses 2-pt layup from 6 ft (block by K. Towns),22,19
+1,2:48.0,Defensive rebound by T. Jones,,22,19
+1,2:26.0,K. Bates-Diop makes 3-pt jump shot from 30 ft (assist by T. Jones),,25,19
+1,2:07.0,,J. Harden makes 3-pt jump shot from 25 ft,25,22
+1,1:51.0,Def 3 sec tech foul by Team,,25,22
+1,1:51.0,K. Towns makes technical free throw,,26,22
+1,1:51.0,C. Reynolds enters the game for J. Okogie,,26,22
+1,1:51.0,,C. Paul enters the game for J. Harden,26,22
+1,1:41.0,C. Reynolds misses 3-pt jump shot from 28 ft,,26,22
+1,1:39.0,Offensive rebound by T. Gibson,,26,22
+1,1:35.0,K. Towns misses 2-pt layup from 4 ft,,26,22
+1,1:35.0,Offensive rebound by K. Towns,,26,22
+1,1:33.0,K. Towns misses 2-pt layup from 2 ft,,26,22
+1,1:33.0,,Defensive rebound by I. Shumpert,26,22
+1,1:22.0,,G. Green misses 3-pt jump shot from 22 ft,26,22
+1,1:20.0,Defensive rebound by T. Gibson,,26,22
+1,1:04.0,Shooting foul by D. House (drawn by K. Towns),,26,22
+1,1:04.0,K. Towns makes free throw 1 of 2,,27,22
+1,1:04.0,K. Towns makes free throw 2 of 2,,28,22
+1,0:47.0,,C. Paul makes 2-pt jump shot from 18 ft,28,24
+1,0:34.0,K. Towns makes 2-pt hook shot from 10 ft,,30,24
+1,0:14.0,,I. Shumpert makes 2-pt layup from 2 ft (assist by D. House),30,26
+1,0:14.0,Violation by Team (def goaltending),,30,26
+1,0:00.0,K. Towns misses 3-pt jump shot from 26 ft,,30,26
+1,0:00.0,Offensive rebound by Team,,30,26
+2,11:47.0,,C. Paul misses 2-pt jump shot from 11 ft,30,26
+2,11:45.0,Defensive rebound by A. Wiggins,,30,26
+2,11:32.0,A. Wiggins misses 2-pt jump shot from 17 ft,,30,26
+2,11:30.0,,Defensive rebound by D. House,30,26
+2,11:18.0,,N. Hilário misses 2-pt jump shot from 11 ft,30,26
+2,11:16.0,Defensive rebound by J. Bayless,,30,26
+2,11:05.0,A. Wiggins makes 2-pt layup from 2 ft (assist by J. Bayless),,32,26
+2,10:51.0,,E. Gordon misses 2-pt layup from 1 ft (block by A. Wiggins),32,26
+2,10:49.0,Defensive rebound by A. Wiggins,,32,26
+2,10:45.0,Turnover by J. Bayless (bad pass; steal by N. Hilário),,32,26
+2,10:28.0,,E. Gordon misses 3-pt jump shot from 23 ft,32,26
+2,10:26.0,Defensive rebound by C. Reynolds,,32,26
+2,10:10.0,T. Gibson misses 2-pt hook shot from 9 ft,,32,26
+2,10:08.0,,Defensive rebound by D. House,32,26
+2,9:54.0,,G. Green misses 2-pt layup from 1 ft,32,26
+2,9:52.0,Defensive rebound by T. Gibson,,32,26
+2,9:32.0,A. Tolliver misses 2-pt jump shot from 12 ft,,32,26
+2,9:30.0,Offensive rebound by T. Gibson,,32,26
+2,9:30.0,T. Gibson makes 2-pt dunk from 2 ft,,34,26
+2,9:10.0,,G. Green misses 3-pt jump shot from 25 ft,34,26
+2,9:08.0,Defensive rebound by J. Bayless,,34,26
+2,8:58.0,A. Wiggins misses 3-pt jump shot from 27 ft,,34,26
+2,8:55.0,,Defensive rebound by G. Green,34,26
+2,8:49.0,,C. Paul makes 3-pt jump shot from 26 ft,34,29
+2,8:37.0,Personal foul by N. Hilário (drawn by T. Gibson),,34,29
+2,8:37.0,,C. Capela enters the game for N. Hilário,34,29
+2,8:28.0,Turnover by A. Wiggins (lost ball; steal by G. Green),,34,29
+2,8:22.0,,Personal foul by J. Bayless (drawn by C. Capela),34,29
+2,8:11.0,,D. House makes 2-pt layup from 1 ft (assist by C. Paul),34,31
+2,7:55.0,Turnover by A. Wiggins (lost ball; steal by G. Green),,34,31
+2,7:49.0,,G. Green misses 3-pt jump shot from 25 ft,34,31
+2,7:47.0,Defensive rebound by A. Wiggins,,34,31
+2,7:33.0,Shooting foul by G. Green (drawn by T. Gibson),,34,31
+2,7:33.0,,Houston full timeout,34,31
+2,7:33.0,J. Okogie enters the game for C. Reynolds,,34,31
+2,7:33.0,,J. Harden enters the game for G. Green,34,31
+2,7:33.0,,I. Shumpert enters the game for D. House,34,31
+2,7:33.0,,P. Tucker enters the game for C. Paul,34,31
+2,7:33.0,T. Gibson misses free throw 1 of 2,,34,31
+2,7:33.0,Offensive rebound by Team,,34,31
+2,7:33.0,T. Gibson makes free throw 2 of 2,,35,31
+2,7:23.0,,J. Harden misses 3-pt jump shot from 26 ft,35,31
+2,7:23.0,Defensive rebound by Team,,35,31
+2,7:02.0,T. Gibson makes 2-pt jump shot from 13 ft (assist by J. Okogie),,37,31
+2,6:50.0,,I. Shumpert misses 3-pt jump shot from 23 ft,37,31
+2,6:49.0,Defensive rebound by T. Gibson,,37,31
+2,6:38.0,A. Wiggins misses 2-pt jump shot from 22 ft,,37,31
+2,6:35.0,,Defensive rebound by I. Shumpert,37,31
+2,6:28.0,,P. Tucker makes 3-pt jump shot from 23 ft (assist by I. Shumpert),37,34
+2,6:08.0,J. Bayless makes 2-pt layup from 1 ft (assist by T. Gibson),,39,34
+2,5:56.0,,E. Gordon makes 3-pt jump shot from 28 ft (assist by C. Capela),39,37
+2,5:36.0,T. Gibson misses 2-pt hook shot from 7 ft (block by C. Capela),,39,37
+2,5:33.0,Offensive rebound by T. Gibson,,39,37
+2,5:32.0,T. Gibson misses 2-pt layup from 1 ft,,39,37
+2,5:31.0,Offensive rebound by J. Bayless,,39,37
+2,5:23.0,Offensive foul by J. Okogie (drawn by C. Capela),,39,37
+2,5:23.0,Turnover by J. Okogie (offensive foul),,39,37
+2,5:23.0,T. Jones enters the game for J. Bayless,,39,37
+2,5:23.0,D. Šarić enters the game for T. Gibson,,39,37
+2,5:23.0,K. Towns enters the game for A. Tolliver,,39,37
+2,5:13.0,,E. Gordon misses 3-pt jump shot from 24 ft,39,37
+2,5:11.0,Defensive rebound by K. Towns,,39,37
+2,5:07.0,Personal foul by P. Tucker (drawn by D. Šarić),,39,37
+2,4:56.0,K. Towns misses 2-pt jump shot from 18 ft,,39,37
+2,4:54.0,,Defensive rebound by C. Capela,39,37
+2,4:45.0,,J. Harden makes 2-pt jump shot from 6 ft,39,39
+2,4:38.0,Minnesota full timeout,,39,39
+2,4:38.0,,C. Paul enters the game for E. Gordon,39,39
+2,4:20.0,J. Okogie makes 2-pt jump shot from 15 ft,,41,39
+2,4:04.0,,Offensive foul by J. Harden (drawn by J. Okogie),41,39
+2,4:04.0,,Turnover by J. Harden (offensive foul),41,39
+2,3:50.0,A. Wiggins makes 3-pt jump shot from 28 ft (assist by K. Towns),,44,39
+2,3:37.0,,J. Harden makes 2-pt jump shot from 12 ft,44,41
+2,3:23.0,J. Okogie makes 2-pt dunk from 2 ft (assist by T. Jones),,46,41
+2,3:04.0,,J. Harden misses 2-pt jump shot from 8 ft,46,41
+2,3:03.0,Defensive rebound by K. Towns,,46,41
+2,2:55.0,K. Towns misses 3-pt jump shot from 26 ft,,46,41
+2,2:53.0,,Defensive rebound by C. Paul,46,41
+2,2:47.0,,C. Paul makes 3-pt jump shot from 26 ft,46,44
+2,2:33.0,D. Šarić makes 2-pt layup from 2 ft (assist by K. Towns),,48,44
+2,2:20.0,,J. Harden misses 2-pt layup from 1 ft,48,44
+2,2:19.0,Defensive rebound by Team,,48,44
+2,2:19.0,,Loose ball foul by C. Capela (drawn by D. Šarić),48,44
+2,1:55.0,A. Wiggins misses 3-pt jump shot from 26 ft,,48,44
+2,1:53.0,,Defensive rebound by C. Paul,48,44
+2,1:49.0,,P. Tucker misses 3-pt jump shot from 26 ft,48,44
+2,1:48.0,Defensive rebound by J. Okogie,,48,44
+2,1:48.0,Personal foul by P. Tucker (drawn by J. Okogie),,48,44
+2,1:48.0,J. Okogie misses free throw 1 of 2,,48,44
+2,1:48.0,Offensive rebound by Team,,48,44
+2,1:48.0,,D. House enters the game for P. Tucker,48,44
+2,1:48.0,J. Okogie makes free throw 2 of 2,,49,44
+2,1:33.0,,I. Shumpert misses 2-pt layup from 2 ft,49,44
+2,1:32.0,,Offensive rebound by C. Capela,49,44
+2,1:32.0,,C. Capela makes 2-pt layup from 1 ft,49,46
+2,1:32.0,,Shooting foul by D. Šarić (drawn by C. Capela),49,46
+2,1:32.0,,C. Capela makes free throw 1 of 1,49,47
+2,1:20.0,D. Šarić misses 3-pt jump shot from 26 ft,,49,47
+2,1:18.0,,Defensive rebound by C. Capela,49,47
+2,1:12.0,,C. Capela misses 2-pt layup from 2 ft,49,47
+2,1:08.0,,Offensive rebound by C. Capela,49,47
+2,1:08.0,,C. Capela misses 2-pt layup from 1 ft,49,47
+2,1:08.0,Defensive rebound by K. Towns,,49,47
+2,0:54.0,T. Jones misses 3-pt jump shot from 28 ft,,49,47
+2,0:49.0,,Defensive rebound by I. Shumpert,49,47
+2,0:40.0,,J. Harden misses 3-pt jump shot from 26 ft,49,47
+2,0:37.0,Defensive rebound by D. Šarić,,49,47
+2,0:33.0,Personal foul by I. Shumpert (drawn by T. Jones),,49,47
+2,0:33.0,T. Jones misses free throw 1 of 2,,49,47
+2,0:33.0,Offensive rebound by Team,,49,47
+2,0:33.0,T. Jones misses free throw 2 of 2,,49,47
+2,0:33.0,,Defensive rebound by C. Capela,49,47
+2,0:25.0,,I. Shumpert makes 3-pt jump shot from 27 ft (assist by J. Harden),49,50
+2,0:03.0,Turnover by K. Towns (lost ball; steal by I. Shumpert),,49,50
+3,11:47.0,,P. Tucker makes 2-pt layup from 2 ft (assist by E. Gordon),49,52
+3,11:26.0,Turnover by K. Towns (bad pass),,49,52
+3,11:09.0,,E. Gordon makes 3-pt jump shot from 27 ft (assist by C. Paul),49,55
+3,10:52.0,D. Šarić misses 2-pt layup at rim (block by E. Gordon),,49,55
+3,10:52.0,Offensive rebound by Team,,49,55
+3,10:50.0,K. Towns makes 2-pt jump shot from 15 ft (assist by A. Wiggins),,51,55
+3,10:41.0,,E. Gordon makes 3-pt jump shot from 27 ft (assist by J. Harden),51,58
+3,10:41.0,Minnesota full timeout,,51,58
+3,10:22.0,T. Jones misses 3-pt jump shot from 27 ft,,51,58
+3,10:21.0,Offensive rebound by D. Šarić,,51,58
+3,10:21.0,Shooting foul by C. Paul (drawn by D. Šarić),,51,58
+3,10:21.0,D. Šarić makes free throw 1 of 2,,52,58
+3,10:21.0,D. Šarić makes free throw 2 of 2,,53,58
+3,10:08.0,,E. Gordon misses 3-pt jump shot from 28 ft,53,58
+3,10:06.0,Defensive rebound by K. Towns,,53,58
+3,9:50.0,A. Wiggins makes 3-pt jump shot from 26 ft (assist by K. Towns),,56,58
+3,9:23.0,,J. Harden makes 3-pt jump shot from 27 ft (assist by C. Paul),56,61
+3,9:10.0,Personal foul by J. Harden (drawn by A. Wiggins),,56,61
+3,9:07.0,K. Towns misses 2-pt layup from 2 ft (block by C. Capela),,56,61
+3,9:05.0,,Defensive rebound by C. Paul,56,61
+3,8:59.0,,C. Paul makes 3-pt jump shot from 27 ft,56,64
+3,8:50.0,Personal foul by P. Tucker (drawn by K. Towns),,56,64
+3,8:40.0,J. Okogie misses 3-pt jump shot from 23 ft,,56,64
+3,8:37.0,,Defensive rebound by C. Capela,56,64
+3,8:20.0,,J. Harden misses 3-pt jump shot from 27 ft,56,64
+3,8:18.0,Defensive rebound by J. Okogie,,56,64
+3,8:02.0,K. Towns makes 2-pt jump shot from 1 ft,,58,64
+3,7:46.0,,C. Paul makes 3-pt jump shot from 28 ft,58,67
+3,7:28.0,Turnover by D. Šarić (bad pass; steal by C. Paul),,58,67
+3,7:14.0,,C. Paul makes 3-pt jump shot from 23 ft,58,70
+3,7:13.0,Minnesota full timeout,,58,70
+3,7:13.0,T. Gibson enters the game for D. Šarić,,58,70
+3,7:13.0,,D. House enters the game for P. Tucker,58,70
+3,7:00.0,T. Jones misses 2-pt jump shot from 12 ft,,58,70
+3,6:58.0,,Defensive rebound by D. House,58,70
+3,6:56.0,Clear path foul by C. Capela,,58,70
+3,6:56.0,,C. Capela makes clear path free throw 1 of 2,58,71
+3,6:56.0,,C. Capela makes clear path free throw 2 of 2,58,72
+3,6:48.0,,C. Paul makes 3-pt jump shot from 26 ft (assist by J. Harden),58,75
+3,6:36.0,Personal foul by C. Paul (drawn by T. Jones),,58,75
+3,6:36.0,,I. Shumpert enters the game for C. Paul,58,75
+3,6:25.0,K. Towns makes 2-pt hook shot from 6 ft,,60,75
+3,6:15.0,,J. Harden misses 2-pt jump shot from 9 ft,60,75
+3,6:13.0,Defensive rebound by A. Wiggins,,60,75
+3,6:07.0,A. Wiggins misses 2-pt jump shot from 1 ft,,60,75
+3,6:07.0,,Defensive rebound by D. House,60,75
+3,5:57.0,,E. Gordon misses 3-pt jump shot from 26 ft,60,75
+3,5:54.0,Defensive rebound by J. Okogie,,60,75
+3,5:45.0,J. Okogie misses 2-pt layup from 2 ft,,60,75
+3,5:43.0,,Defensive rebound by J. Harden,60,75
+3,5:38.0,,D. House makes 3-pt jump shot from 23 ft (assist by E. Gordon),60,78
+3,5:12.0,A. Wiggins misses 2-pt layup from 1 ft,,60,78
+3,5:09.0,Offensive rebound by T. Gibson,,60,78
+3,5:09.0,T. Gibson makes 2-pt layup from 1 ft,,62,78
+3,4:45.0,,J. Harden misses 3-pt jump shot from 27 ft,62,78
+3,4:44.0,,Offensive rebound by Team,62,78
+3,4:44.0,K. Bates-Diop enters the game for K. Towns,,62,78
+3,4:44.0,A. Tolliver enters the game for A. Wiggins,,62,78
+3,4:44.0,,G. Green enters the game for E. Gordon,62,78
+3,4:36.0,,C. Capela makes 2-pt dunk from 1 ft (assist by J. Harden),62,80
+3,4:18.0,J. Okogie makes 3-pt jump shot from 27 ft (assist by T. Jones),,65,80
+3,4:18.0,J. Bayless enters the game for T. Jones,,65,80
+3,4:18.0,,N. Hilário enters the game for C. Capela,65,80
+3,3:57.0,,J. Harden makes 3-pt jump shot from 26 ft (assist by N. Hilário),65,83
+3,3:40.0,J. Bayless makes 2-pt jump shot from 20 ft (assist by J. Okogie),,67,83
+3,3:28.0,,J. Harden makes 2-pt layup from 3 ft,67,85
+3,3:15.0,A. Tolliver makes 3-pt jump shot from 26 ft (assist by J. Bayless),,70,85
+3,3:05.0,,Offensive foul by D. House (drawn by J. Okogie),70,85
+3,3:05.0,,Turnover by D. House (offensive foul),70,85
+3,2:51.0,J. Bayless misses 3-pt jump shot from 26 ft,,70,85
+3,2:49.0,,Defensive rebound by G. Green,70,85
+3,2:42.0,,D. House makes 3-pt jump shot from 27 ft (assist by I. Shumpert),70,88
+3,2:19.0,T. Gibson makes 2-pt layup at rim,,72,88
+3,2:19.0,Shooting foul by N. Hilário (drawn by T. Gibson),,72,88
+3,2:19.0,C. Reynolds enters the game for J. Okogie,,72,88
+3,2:19.0,T. Gibson makes free throw 1 of 1,,73,88
+3,2:07.0,,J. Harden misses 3-pt jump shot from 27 ft,73,88
+3,2:06.0,Defensive rebound by A. Tolliver,,73,88
+3,1:55.0,C. Reynolds misses 3-pt jump shot from 23 ft,,73,88
+3,1:55.0,Offensive rebound by Team,,73,88
+3,1:55.0,,Loose ball foul by N. Hilário (drawn by T. Gibson),73,88
+3,1:55.0,T. Gibson misses free throw 1 of 2,,73,88
+3,1:55.0,Offensive rebound by Team,,73,88
+3,1:55.0,,C. Paul enters the game for J. Harden,73,88
+3,1:55.0,T. Gibson makes free throw 2 of 2,,74,88
+3,1:48.0,,G. Green misses 3-pt jump shot from 26 ft,74,88
+3,1:47.0,Defensive rebound by K. Bates-Diop,,74,88
+3,1:35.0,A. Tolliver misses 3-pt jump shot from 26 ft,,74,88
+3,1:35.0,Offensive rebound by Team,,74,88
+3,1:35.0,,Loose ball foul by N. Hilário (drawn by T. Gibson),74,88
+3,1:35.0,T. Gibson makes free throw 1 of 2,,75,88
+3,1:35.0,T. Gibson makes free throw 2 of 2,,76,88
+3,1:26.0,,Personal foul by T. Gibson (drawn by N. Hilário),76,88
+3,1:12.0,,N. Hilário makes 2-pt hook shot from 9 ft (assist by C. Paul),76,90
+3,0:53.0,Personal foul by I. Shumpert (drawn by T. Gibson),,76,90
+3,0:53.0,T. Gibson makes free throw 1 of 2,,77,90
+3,0:53.0,T. Gibson makes free throw 2 of 2,,78,90
+3,0:36.0,,C. Paul misses 3-pt jump shot from 28 ft,78,90
+3,0:34.0,Defensive rebound by T. Gibson,,78,90
+3,0:26.0,K. Bates-Diop misses 3-pt jump shot from 23 ft,,78,90
+3,0:25.0,,Defensive rebound by C. Paul,78,90
+3,0:02.0,,Shooting foul by K. Bates-Diop (drawn by C. Paul),78,90
+3,0:02.0,,C. Paul makes free throw 1 of 3,78,91
+3,0:02.0,,C. Paul makes free throw 2 of 3,78,92
+3,0:02.0,,C. Paul makes free throw 3 of 3,78,93
+3,0:01.0,Turnover by T. Gibson (bad pass; steal by G. Green),,78,93
+3,0:00.0,,G. Green misses 3-pt jump shot from 26 ft,78,93
+3,0:00.0,,Offensive rebound by Team,78,93
+4,11:40.0,K. Bates-Diop makes 2-pt jump shot from 10 ft,,80,93
+4,11:25.0,,Shooting foul by A. Tolliver (drawn by D. House),80,93
+4,11:25.0,,D. House makes free throw 1 of 2,80,94
+4,11:25.0,,D. House misses free throw 2 of 2,80,94
+4,11:25.0,Defensive rebound by K. Bates-Diop,,80,94
+4,11:12.0,Offensive foul by T. Gibson (drawn by I. Shumpert),,80,94
+4,11:12.0,Turnover by T. Gibson (offensive foul),,80,94
+4,10:51.0,,C. Paul misses 2-pt jump shot from 11 ft,80,94
+4,10:50.0,,Offensive rebound by Team,80,94
+4,10:47.0,,G. Green misses 2-pt jump shot from 20 ft,80,94
+4,10:45.0,,Offensive rebound by I. Shumpert,80,94
+4,10:32.0,,C. Paul misses 2-pt jump shot from 14 ft,80,94
+4,10:31.0,,Offensive rebound by N. Hilário,80,94
+4,10:22.0,,Turnover by C. Paul (bad pass; steal by K. Bates-Diop),80,94
+4,10:19.0,Turnover by K. Bates-Diop (lost ball; steal by I. Shumpert),,80,94
+4,10:15.0,,G. Green misses 3-pt jump shot from 26 ft,80,94
+4,10:12.0,,Offensive rebound by D. House,80,94
+4,10:11.0,,Turnover by D. House (bad pass),80,94
+4,10:11.0,,E. Gordon enters the game for G. Green,80,94
+4,9:55.0,J. Bayless makes 2-pt layup from 3 ft,,82,94
+4,9:44.0,,E. Gordon misses 3-pt jump shot from 23 ft,82,94
+4,9:42.0,Defensive rebound by A. Tolliver,,82,94
+4,9:30.0,J. Bayless misses 2-pt jump shot from 19 ft,,82,94
+4,9:29.0,,Defensive rebound by D. House,82,94
+4,9:22.0,,I. Shumpert makes 2-pt jump shot from 20 ft (assist by C. Paul),82,96
+4,9:10.0,A. Tolliver misses 3-pt jump shot from 29 ft,,82,96
+4,9:08.0,,Defensive rebound by I. Shumpert,82,96
+4,8:54.0,,N. Hilário misses 2-pt jump shot from 19 ft,82,96
+4,8:53.0,Defensive rebound by T. Gibson,,82,96
+4,8:46.0,Minnesota full timeout,,82,96
+4,8:46.0,D. Šarić enters the game for T. Gibson,,82,96
+4,8:46.0,K. Towns enters the game for C. Reynolds,,82,96
+4,8:46.0,A. Wiggins enters the game for A. Tolliver,,82,96
+4,8:46.0,,C. Capela enters the game for N. Hilário,82,96
+4,8:46.0,,P. Tucker enters the game for I. Shumpert,82,96
+4,8:38.0,A. Wiggins misses 2-pt jump shot from 21 ft,,82,96
+4,8:36.0,,Defensive rebound by C. Paul,82,96
+4,8:30.0,,C. Capela makes 2-pt layup from 1 ft (assist by C. Paul),82,98
+4,8:16.0,K. Towns misses 2-pt jump shot from 12 ft,,82,98
+4,8:15.0,,Defensive rebound by P. Tucker,82,98
+4,8:07.0,,Shooting foul by J. Bayless (drawn by C. Capela),82,98
+4,8:07.0,,C. Capela misses free throw 1 of 2,82,98
+4,8:07.0,,Offensive rebound by Team,82,98
+4,8:07.0,,C. Capela makes free throw 2 of 2,82,99
+4,7:53.0,K. Bates-Diop makes 2-pt layup from 2 ft (assist by K. Towns),,84,99
+4,7:31.0,,C. Capela makes 2-pt jump shot from 3 ft (assist by C. Paul),84,101
+4,7:11.0,K. Towns misses 2-pt hook shot from 8 ft,,84,101
+4,7:09.0,,Defensive rebound by C. Paul,84,101
+4,7:09.0,,Personal foul by K. Towns (drawn by C. Capela),84,101
+4,7:09.0,T. Jones enters the game for K. Bates-Diop,,84,101
+4,7:09.0,J. Okogie enters the game for J. Bayless,,84,101
+4,7:09.0,,J. Harden enters the game for D. House,84,101
+4,7:01.0,,E. Gordon makes 3-pt jump shot from 23 ft (assist by C. Paul),84,104
+4,6:49.0,A. Wiggins misses 2-pt jump shot from 14 ft,,84,104
+4,6:48.0,,Defensive rebound by Team,84,104
+4,6:39.0,,C. Paul makes 2-pt jump shot from 13 ft,84,106
+4,6:24.0,Personal foul by C. Capela (drawn by K. Towns),,84,106
+4,6:24.0,,I. Shumpert enters the game for C. Paul,84,106
+4,6:10.0,Turnover by K. Towns (lost ball; steal by J. Harden),,84,106
+4,5:55.0,,I. Shumpert misses 3-pt jump shot from 26 ft,84,106
+4,5:52.0,,Offensive rebound by C. Capela,84,106
+4,5:40.0,,Turnover by Team (shot clock),84,106
+4,5:24.0,Personal foul by C. Capela (drawn by K. Towns),,84,106
+4,5:20.0,A. Wiggins misses 2-pt layup from 3 ft,,84,106
+4,5:18.0,,Defensive rebound by E. Gordon,84,106
+4,5:03.0,,J. Harden misses 3-pt jump shot from 28 ft,84,106
+4,5:01.0,Defensive rebound by D. Šarić,,84,106
+4,4:55.0,T. Jones misses 2-pt jump shot from 9 ft,,84,106
+4,4:55.0,Offensive rebound by Team,,84,106
+4,4:55.0,,Loose ball foul by J. Harden (drawn by K. Towns),84,106
+4,4:46.0,K. Towns misses 2-pt jump shot from 4 ft,,84,106
+4,4:44.0,Offensive rebound by K. Towns,,84,106
+4,4:43.0,K. Towns misses 2-pt layup from 4 ft,,84,106
+4,4:42.0,Offensive rebound by K. Towns,,84,106
+4,4:41.0,K. Towns misses 2-pt layup from 1 ft,,84,106
+4,4:39.0,Offensive rebound by K. Towns,,84,106
+4,4:38.0,Personal foul by I. Shumpert (drawn by J. Okogie),,84,106
+4,4:25.0,K. Towns makes 3-pt jump shot from 25 ft (assist by J. Okogie),,87,106
+4,4:20.0,,Turnover by J. Harden (bad pass; steal by J. Okogie),87,106
+4,4:14.0,Offensive foul by K. Towns (drawn by C. Capela),,87,106
+4,4:14.0,Turnover by K. Towns (offensive foul),,87,106
+4,4:14.0,,Houston full timeout,87,106
+4,4:14.0,,G. Green enters the game for E. Gordon,87,106
+4,4:04.0,,J. Harden misses 2-pt jump shot from 10 ft,87,106
+4,4:02.0,Defensive rebound by K. Towns,,87,106
+4,3:58.0,Shooting foul by I. Shumpert (drawn by J. Okogie),,87,106
+4,3:58.0,J. Okogie misses free throw 1 of 2,,87,106
+4,3:58.0,Offensive rebound by Team,,87,106
+4,3:58.0,G. Dieng enters the game for K. Towns,,87,106
+4,3:58.0,J. Okogie makes free throw 2 of 2,,88,106
+4,3:49.0,,G. Green makes 2-pt layup from 3 ft (assist by J. Harden),88,108
+4,3:30.0,J. Okogie misses 2-pt layup from 1 ft,,88,108
+4,3:29.0,,Defensive rebound by C. Capela,88,108
+4,3:16.0,,G. Green makes 3-pt jump shot from 23 ft (assist by J. Harden),88,111
+4,3:08.0,Minnesota full timeout,,88,111
+4,3:08.0,K. Bates-Diop enters the game for T. Jones,,88,111
+4,3:08.0,C. Reynolds enters the game for D. Šarić,,88,111
+4,3:08.0,J. Terrell enters the game for A. Wiggins,,88,111
+4,3:08.0,,G. Clark enters the game for C. Capela,88,111
+4,3:08.0,,N. Hilário enters the game for J. Harden,88,111
+4,3:08.0,,D. House enters the game for P. Tucker,88,111
+4,2:49.0,K. Bates-Diop misses 3-pt jump shot from 26 ft,,88,111
+4,2:48.0,,Defensive rebound by G. Clark,88,111
+4,2:35.0,,Shooting foul by C. Reynolds (drawn by G. Green),88,111
+4,2:35.0,,G. Green makes free throw 1 of 2,88,112
+4,2:35.0,,G. Green misses free throw 2 of 2,88,112
+4,2:35.0,Defensive rebound by G. Dieng,,88,112
+4,2:22.0,J. Okogie makes 3-pt jump shot from 27 ft (assist by G. Dieng),,91,112
+4,2:10.0,,Turnover by N. Hilário (palming),91,112
+4,2:00.0,J. Okogie makes 3-pt jump shot from 26 ft (assist by G. Dieng),,94,112
+4,1:35.0,,N. Hilário misses 2-pt hook shot from 9 ft,94,112
+4,1:33.0,Defensive rebound by G. Dieng,,94,112
+4,1:20.0,G. Dieng makes 3-pt jump shot from 24 ft,,97,112
+4,1:11.0,,G. Green makes 3-pt jump shot from 27 ft (assist by I. Shumpert),97,115
+4,1:00.0,J. Terrell misses 3-pt jump shot from 25 ft,,97,115
+4,0:58.0,,Defensive rebound by I. Shumpert,97,115
+4,0:55.0,,Turnover by I. Shumpert (lost ball; steal by G. Dieng),97,115
+4,0:55.0,G. Dieng makes 2-pt dunk from 3 ft,,99,115
+4,0:55.0,Shooting foul by I. Shumpert (drawn by G. Dieng),,99,115
+4,0:55.0,G. Dieng makes free throw 1 of 1,,100,115
+4,0:40.0,,G. Green misses 3-pt jump shot from 27 ft,100,115
+4,0:39.0,Defensive rebound by C. Reynolds,,100,115
+4,0:31.0,J. Okogie makes 2-pt dunk from 1 ft,,102,115
+4,0:14.0,,D. House makes 2-pt layup from 2 ft,102,117
+4,0:06.0,J. Okogie misses 3-pt jump shot from 25 ft,,102,117
+4,0:04.0,,Defensive rebound by N. Hilário,102,117

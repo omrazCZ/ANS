@@ -1,0 +1,453 @@
+QUARTER,TIME_REMAINING,DENVER_ACTION,LA LAKERS_ACTION,DENVER_SCORE,LA LAKERS_SCORE
+1,11:40.0,W. Barton makes 3-pt jump shot from 26 ft (assist by G. Harris),,3,0
+1,11:16.0,,L. James misses 2-pt jump shot from 6 ft,3,0
+1,11:15.0,Defensive rebound by N. Jokić,,3,0
+1,11:03.0,W. Barton makes 3-pt jump shot from 24 ft (assist by J. Murray),,6,0
+1,10:37.0,,J. McGee makes 2-pt dunk from 2 ft (assist by R. Rondo),6,2
+1,10:15.0,J. Murray misses 3-pt jump shot from 27 ft,,6,2
+1,10:11.0,,Defensive rebound by J. Hart,6,2
+1,9:57.0,,Turnover by L. James (bad pass; steal by N. Jokić),6,2
+1,9:52.0,P. Millsap misses 2-pt layup from 2 ft,,6,2
+1,9:49.0,,Defensive rebound by R. Rondo,6,2
+1,9:45.0,,Shooting foul by W. Barton (drawn by L. James),6,2
+1,9:45.0,,L. James misses free throw 1 of 2,6,2
+1,9:45.0,,Offensive rebound by Team,6,2
+1,9:45.0,,L. James misses free throw 2 of 2,6,2
+1,9:43.0,Defensive rebound by N. Jokić,,6,2
+1,9:33.0,G. Harris makes 2-pt layup from 1 ft (assist by J. Murray),,8,2
+1,9:19.0,,J. McGee makes 2-pt dunk from 1 ft (assist by L. James),8,4
+1,9:08.0,W. Barton makes 2-pt layup from 2 ft (assist by J. Murray),,10,4
+1,9:02.0,,Shooting foul by P. Millsap (drawn by L. James),10,4
+1,9:02.0,,L. James misses free throw 1 of 2,10,4
+1,9:02.0,,Offensive rebound by Team,10,4
+1,9:02.0,,L. James misses free throw 2 of 2,10,4
+1,9:00.0,Defensive rebound by J. Murray,,10,4
+1,8:52.0,W. Barton misses 3-pt jump shot from 27 ft,,10,4
+1,8:48.0,,Defensive rebound by J. McGee,10,4
+1,8:41.0,,L. James makes 3-pt jump shot from 26 ft,10,7
+1,8:28.0,Turnover by J. Murray (bad pass),,10,7
+1,8:22.0,,L. James makes 3-pt jump shot from 28 ft,10,10
+1,8:06.0,Shooting foul by J. McGee (drawn by N. Jokić),,10,10
+1,8:06.0,N. Jokić misses free throw 1 of 2,,10,10
+1,8:06.0,Offensive rebound by Team,,10,10
+1,8:06.0,N. Jokić makes free throw 2 of 2,,11,10
+1,7:55.0,,L. James misses 3-pt jump shot from 27 ft,11,10
+1,7:51.0,Defensive rebound by J. Murray,,11,10
+1,7:44.0,J. Murray makes 3-pt jump shot from 26 ft (assist by W. Barton),,14,10
+1,7:15.0,,J. Hart misses 3-pt jump shot from 24 ft,14,10
+1,7:13.0,Defensive rebound by J. Murray,,14,10
+1,7:09.0,J. Murray makes 2-pt jump shot from 7 ft,,16,10
+1,7:02.0,,LA Lakers full timeout,16,10
+1,7:02.0,,L. Stephenson enters the game for J. Hart,16,10
+1,6:51.0,,J. McGee makes 2-pt dunk from 2 ft (assist by R. Rondo),16,12
+1,6:34.0,J. Murray makes 2-pt jump shot from 14 ft (assist by N. Jokić),,18,12
+1,6:23.0,,L. Stephenson makes 3-pt jump shot from 24 ft (assist by R. Rondo),18,15
+1,6:06.0,N. Jokić makes 2-pt layup from 2 ft (assist by G. Harris),,20,15
+1,5:50.0,,R. Bullock makes 2-pt jump shot from 21 ft (assist by R. Rondo),20,17
+1,5:31.0,P. Millsap makes 2-pt jump shot from 11 ft (assist by J. Murray),,22,17
+1,5:20.0,,L. James misses 2-pt jump shot from 11 ft,22,17
+1,5:17.0,Defensive rebound by W. Barton,,22,17
+1,5:15.0,G. Harris makes 2-pt layup from 1 ft (assist by W. Barton),,24,17
+1,5:04.0,,L. Stephenson misses 3-pt jump shot from 25 ft,24,17
+1,5:01.0,Defensive rebound by J. Murray,,24,17
+1,4:58.0,J. Murray misses 3-pt jump shot from 27 ft,,24,17
+1,4:56.0,,Defensive rebound by L. James,24,17
+1,4:50.0,,L. James misses 3-pt jump shot from 27 ft,24,17
+1,4:47.0,Defensive rebound by N. Jokić,,24,17
+1,4:47.0,Shooting foul by R. Bullock (drawn by P. Millsap),,24,17
+1,4:47.0,P. Millsap makes free throw 1 of 2,,25,17
+1,4:47.0,M. Beasley enters the game for G. Harris,,25,17
+1,4:47.0,,M. Muscala enters the game for L. James,25,17
+1,4:47.0,,M. Wagner enters the game for J. McGee,25,17
+1,4:47.0,P. Millsap makes free throw 2 of 2,,26,17
+1,4:34.0,,L. Stephenson misses 2-pt layup from 2 ft,26,17
+1,4:32.0,Defensive rebound by N. Jokić,,26,17
+1,4:29.0,W. Barton makes 3-pt jump shot from 27 ft (assist by N. Jokić),,29,17
+1,4:28.0,,LA Lakers full timeout,29,17
+1,4:28.0,M. Plumlee enters the game for P. Millsap,,29,17
+1,4:13.0,,M. Muscala misses 3-pt jump shot from 24 ft,29,17
+1,4:10.0,Defensive rebound by J. Murray,,29,17
+1,4:01.0,M. Beasley misses 3-pt jump shot from 26 ft,,29,17
+1,3:57.0,Offensive rebound by N. Jokić,,29,17
+1,3:55.0,W. Barton makes 3-pt jump shot from 27 ft (assist by N. Jokić),,32,17
+1,3:44.0,,M. Wagner makes 3-pt jump shot from 26 ft (assist by R. Rondo),32,20
+1,3:29.0,Personal foul by M. Wagner (drawn by N. Jokić),,32,20
+1,3:29.0,,J. Hart enters the game for R. Bullock,32,20
+1,3:20.0,W. Barton misses 2-pt layup from 2 ft,,32,20
+1,3:18.0,,Defensive rebound by R. Rondo,32,20
+1,3:11.0,,Offensive foul by R. Rondo (drawn by J. Murray),32,20
+1,3:11.0,,Turnover by R. Rondo (offensive foul),32,20
+1,3:11.0,P. Millsap enters the game for N. Jokić,,32,20
+1,3:11.0,M. Morris enters the game for J. Murray,,32,20
+1,2:56.0,M. Beasley misses 2-pt jump shot from 6 ft (block by M. Wagner),,32,20
+1,2:54.0,,Defensive rebound by M. Muscala,32,20
+1,2:50.0,,R. Rondo makes 2-pt layup from 2 ft,32,22
+1,2:37.0,M. Plumlee makes 2-pt layup from 2 ft (assist by M. Morris),,34,22
+1,2:37.0,Shooting foul by M. Wagner (drawn by M. Plumlee),,34,22
+1,2:37.0,I. Thomas enters the game for W. Barton,,34,22
+1,2:37.0,M. Plumlee makes free throw 1 of 1,,35,22
+1,2:18.0,,M. Wagner misses 2-pt dunk from 3 ft,35,22
+1,2:17.0,Defensive rebound by P. Millsap,,35,22
+1,2:11.0,Shooting foul by J. Hart (drawn by I. Thomas),,35,22
+1,2:11.0,I. Thomas misses free throw 1 of 2,,35,22
+1,2:11.0,Offensive rebound by Team,,35,22
+1,2:11.0,I. Thomas misses free throw 2 of 2,,35,22
+1,2:09.0,,Defensive rebound by R. Rondo,35,22
+1,2:02.0,,M. Wagner makes 3-pt jump shot from 25 ft (assist by R. Rondo),35,25
+1,1:59.0,Denver full timeout,,35,25
+1,1:44.0,M. Morris misses 2-pt jump shot from 22 ft,,35,25
+1,1:41.0,Offensive rebound by P. Millsap,,35,25
+1,1:41.0,P. Millsap makes 2-pt dunk from 1 ft,,37,25
+1,1:25.0,,Turnover by M. Wagner (bad pass),37,25
+1,1:05.0,M. Plumlee makes 2-pt hook shot from 3 ft,,39,25
+1,0:50.0,,M. Muscala misses 3-pt jump shot from 27 ft,39,25
+1,0:47.0,Defensive rebound by M. Beasley,,39,25
+1,0:40.0,P. Millsap misses 2-pt jump shot from 2 ft,,39,25
+1,0:38.0,Offensive rebound by P. Millsap,,39,25
+1,0:38.0,P. Millsap makes 2-pt layup at rim,,41,25
+1,0:26.0,,Turnover by R. Rondo (bad pass; steal by I. Thomas),41,25
+1,0:23.0,M. Beasley makes 2-pt dunk at rim (assist by I. Thomas),,43,25
+1,0:02.0,,R. Rondo misses 3-pt jump shot from 28 ft,43,25
+1,0:01.0,Defensive rebound by M. Beasley,,43,25
+1,0:00.0,M. Plumlee misses 2-pt jump shot from 5 ft,,43,25
+1,0:00.0,Offensive rebound by Team,,43,25
+2,11:47.0,,A. Caruso misses 3-pt jump shot from 26 ft,43,25
+2,11:44.0,Defensive rebound by M. Plumlee,,43,25
+2,11:29.0,I. Thomas makes 2-pt layup from 2 ft,,45,25
+2,11:18.0,,Personal foul by M. Morris (drawn by A. Caruso),45,25
+2,11:07.0,,L. James makes 2-pt jump shot from 12 ft,45,27
+2,10:58.0,Turnover by M. Morris (bad pass; steal by L. James),,45,27
+2,10:53.0,,J. Hart makes 2-pt dunk from 2 ft (assist by M. Wagner),45,29
+2,10:27.0,I. Thomas misses 3-pt jump shot from 27 ft,,45,29
+2,10:26.0,,Defensive rebound by R. Bullock,45,29
+2,10:20.0,,Turnover by L. James (bad pass),45,29
+2,9:54.0,I. Thomas makes 2-pt jump shot from 9 ft (assist by M. Plumlee),,47,29
+2,9:40.0,,L. James misses 3-pt jump shot from 25 ft,47,29
+2,9:37.0,Defensive rebound by I. Thomas,,47,29
+2,9:21.0,M. Plumlee misses 2-pt layup from 4 ft,,47,29
+2,9:19.0,,Defensive rebound by L. James,47,29
+2,9:16.0,,M. Wagner misses 3-pt jump shot from 25 ft,47,29
+2,9:11.0,Defensive rebound by M. Beasley,,47,29
+2,9:11.0,T. Craig enters the game for P. Millsap,,47,29
+2,9:11.0,,J. McGee enters the game for M. Wagner,47,29
+2,8:58.0,T. Craig misses 2-pt jump shot from 7 ft,,47,29
+2,8:55.0,Offensive rebound by M. Plumlee,,47,29
+2,8:54.0,M. Plumlee misses 2-pt layup from 2 ft (block by J. McGee),,47,29
+2,8:54.0,Offensive rebound by M. Beasley,,47,29
+2,8:48.0,M. Morris makes 3-pt jump shot from 29 ft (assist by M. Beasley),,50,29
+2,8:38.0,,J. McGee makes 2-pt hook shot from 6 ft (assist by L. James),50,31
+2,8:19.0,M. Beasley makes 3-pt jump shot from 24 ft (assist by M. Morris),,53,31
+2,7:56.0,,R. Bullock misses 2-pt jump shot from 6 ft,53,31
+2,7:52.0,Defensive rebound by M. Plumlee,,53,31
+2,7:48.0,I. Thomas misses 3-pt jump shot from 24 ft,,53,31
+2,7:45.0,,Defensive rebound by J. McGee,53,31
+2,7:40.0,,L. James makes 2-pt layup from 2 ft (assist by J. Hart),53,33
+2,7:26.0,M. Morris makes 2-pt layup from 2 ft (assist by M. Plumlee),,55,33
+2,7:17.0,,A. Caruso makes 2-pt layup from 3 ft (assist by L. James),55,35
+2,7:04.0,T. Craig misses 3-pt jump shot from 24 ft,,55,35
+2,7:01.0,,Defensive rebound by A. Caruso,55,35
+2,6:58.0,,Personal foul by T. Craig (drawn by L. James),55,35
+2,6:58.0,,LA Lakers full timeout,55,35
+2,6:58.0,N. Jokić enters the game for M. Plumlee,,55,35
+2,6:58.0,,K. Caldwell-Pope enters the game for R. Bullock,55,35
+2,6:58.0,,R. Rondo enters the game for J. Hart,55,35
+2,6:43.0,,L. James makes 2-pt jump shot from 19 ft,55,37
+2,6:24.0,M. Beasley misses 3-pt jump shot from 27 ft,,55,37
+2,6:20.0,Offensive rebound by N. Jokić,,55,37
+2,6:12.0,M. Beasley misses 2-pt jump shot from 9 ft,,55,37
+2,6:08.0,,Defensive rebound by L. James,55,37
+2,6:02.0,,A. Caruso misses 2-pt jump shot from 18 ft,55,37
+2,5:59.0,Defensive rebound by M. Morris,,55,37
+2,5:48.0,T. Craig misses 3-pt jump shot from 27 ft,,55,37
+2,5:44.0,,Defensive rebound by A. Caruso,55,37
+2,5:38.0,,L. James makes 2-pt layup from 1 ft (assist by R. Rondo),55,39
+2,5:38.0,,Shooting foul by T. Craig (drawn by L. James),55,39
+2,5:38.0,W. Barton enters the game for M. Beasley,,55,39
+2,5:38.0,G. Harris enters the game for T. Craig,,55,39
+2,5:38.0,P. Millsap enters the game for M. Morris,,55,39
+2,5:38.0,J. Murray enters the game for I. Thomas,,55,39
+2,5:38.0,,L. James makes free throw 1 of 1,55,40
+2,5:24.0,W. Barton misses 2-pt jump shot from 13 ft (block by R. Rondo),,55,40
+2,5:20.0,Offensive rebound by P. Millsap,,55,40
+2,5:13.0,J. Murray misses 2-pt jump shot from 17 ft,,55,40
+2,5:10.0,,Defensive rebound by L. James,55,40
+2,4:55.0,,L. James makes 2-pt layup at rim,55,42
+2,4:55.0,Denver full timeout,,55,42
+2,4:32.0,J. Murray makes 2-pt jump shot from 18 ft,,57,42
+2,4:32.0,,L. Stephenson enters the game for L. James,57,42
+2,4:13.0,,L. Stephenson misses 3-pt jump shot from 26 ft,57,42
+2,4:12.0,Defensive rebound by Team,,57,42
+2,3:58.0,P. Millsap makes 2-pt jump shot from 10 ft (assist by N. Jokić),,59,42
+2,3:40.0,,A. Caruso makes 3-pt jump shot from 23 ft (assist by R. Rondo),59,45
+2,3:15.0,N. Jokić misses 3-pt jump shot from 27 ft,,59,45
+2,3:13.0,,Defensive rebound by R. Rondo,59,45
+2,2:59.0,,L. Stephenson misses 3-pt jump shot from 27 ft,59,45
+2,2:57.0,Defensive rebound by N. Jokić,,59,45
+2,2:50.0,W. Barton makes 2-pt jump shot from 3 ft (assist by N. Jokić),,61,45
+2,2:37.0,,K. Caldwell-Pope misses 2-pt jump shot from 7 ft,61,45
+2,2:36.0,,Offensive rebound by Team,61,45
+2,2:21.0,,K. Caldwell-Pope misses 3-pt jump shot from 24 ft,61,45
+2,2:20.0,Defensive rebound by G. Harris,,61,45
+2,2:20.0,Personal foul by A. Caruso (drawn by G. Harris),,61,45
+2,2:08.0,P. Millsap makes 2-pt hook shot from 7 ft,,63,45
+2,1:55.0,Violation by Team (kicked ball),,63,45
+2,1:55.0,,J. Hart enters the game for L. Stephenson,63,45
+2,1:49.0,,J. McGee makes 2-pt dunk from 1 ft (assist by A. Caruso),63,47
+2,1:49.0,,Shooting foul by P. Millsap (drawn by J. McGee),63,47
+2,1:49.0,,J. McGee misses free throw 1 of 1,63,47
+2,1:45.0,Defensive rebound by N. Jokić,,63,47
+2,1:33.0,W. Barton misses 3-pt jump shot from 26 ft,,63,47
+2,1:31.0,,Defensive rebound by K. Caldwell-Pope,63,47
+2,1:25.0,,J. McGee misses 2-pt layup from 1 ft,63,47
+2,1:25.0,Defensive rebound by Team,,63,47
+2,1:25.0,,Loose ball foul by K. Caldwell-Pope (drawn by W. Barton),63,47
+2,1:17.0,Turnover by N. Jokić (bad pass),,63,47
+2,1:05.0,,R. Rondo misses 3-pt jump shot from 25 ft,63,47
+2,1:01.0,,Offensive rebound by J. Hart,63,47
+2,0:57.0,,A. Caruso makes 2-pt jump shot from 12 ft,63,49
+2,0:47.0,J. Murray misses 2-pt layup from 3 ft,,63,49
+2,0:45.0,Offensive rebound by W. Barton,,63,49
+2,0:43.0,N. Jokić makes 2-pt layup from 2 ft (assist by W. Barton),,65,49
+2,0:28.0,,A. Caruso misses 3-pt jump shot from 26 ft,65,49
+2,0:26.0,Defensive rebound by N. Jokić,,65,49
+2,0:04.0,P. Millsap misses 2-pt jump shot from 4 ft,,65,49
+2,0:04.0,Offensive rebound by N. Jokić,,65,49
+2,0:03.0,Shooting foul by K. Caldwell-Pope (drawn by N. Jokić),,65,49
+2,0:03.0,N. Jokić misses free throw 1 of 2,,65,49
+2,0:03.0,Offensive rebound by Team,,65,49
+2,0:03.0,M. Beasley enters the game for P. Millsap,,65,49
+2,0:03.0,N. Jokić makes free throw 2 of 2,,66,49
+2,0:01.0,,R. Rondo misses 2-pt layup from 1 ft,66,49
+2,0:00.0,,Offensive rebound by Team,66,49
+3,11:44.0,,J. McGee makes 2-pt layup from 2 ft (assist by R. Rondo),66,51
+3,11:20.0,J. Murray misses 2-pt jump shot from 6 ft,,66,51
+3,11:15.0,Offensive rebound by G. Harris,,66,51
+3,11:13.0,W. Barton misses 3-pt jump shot from 27 ft,,66,51
+3,11:10.0,Offensive rebound by P. Millsap,,66,51
+3,11:08.0,J. Murray makes 3-pt jump shot from 27 ft (assist by P. Millsap),,69,51
+3,10:45.0,,R. Bullock misses 3-pt jump shot from 25 ft,69,51
+3,10:43.0,Defensive rebound by W. Barton,,69,51
+3,10:32.0,P. Millsap misses 3-pt jump shot from 25 ft,,69,51
+3,10:29.0,Offensive rebound by G. Harris,,69,51
+3,10:28.0,W. Barton makes 3-pt jump shot from 26 ft (assist by G. Harris),,72,51
+3,10:11.0,,Def 3 sec tech foul by Team,72,51
+3,10:11.0,,R. Bullock misses technical free throw,72,51
+3,10:11.0,,Offensive rebound by Team,72,51
+3,10:03.0,,J. McGee makes 2-pt layup from 1 ft (assist by R. Rondo),72,53
+3,9:46.0,G. Harris misses 3-pt jump shot from 28 ft,,72,53
+3,9:43.0,,Defensive rebound by J. McGee,72,53
+3,9:33.0,,R. Bullock misses 3-pt jump shot from 30 ft,72,53
+3,9:28.0,Defensive rebound by J. Murray,,72,53
+3,9:24.0,G. Harris misses 3-pt jump shot from 26 ft,,72,53
+3,9:21.0,,Defensive rebound by J. McGee,72,53
+3,9:02.0,,L. James misses 2-pt jump shot from 5 ft,72,53
+3,8:59.0,Defensive rebound by N. Jokić,,72,53
+3,8:49.0,P. Millsap misses 3-pt jump shot from 27 ft,,72,53
+3,8:46.0,,Defensive rebound by J. McGee,72,53
+3,8:40.0,,J. McGee misses 2-pt jump shot from 5 ft,72,53
+3,8:35.0,Defensive rebound by N. Jokić,,72,53
+3,8:30.0,G. Harris makes 2-pt layup from 2 ft,,74,53
+3,8:30.0,,Violation by Team (def goaltending),74,53
+3,8:08.0,,L. James misses 3-pt jump shot from 26 ft,74,53
+3,8:05.0,Defensive rebound by N. Jokić,,74,53
+3,8:01.0,P. Millsap makes 2-pt jump shot from 3 ft (assist by N. Jokić),,76,53
+3,7:53.0,,Turnover by J. McGee (bad pass; steal by G. Harris),76,53
+3,7:49.0,J. Murray misses 3-pt jump shot from 27 ft,,76,53
+3,7:47.0,,Defensive rebound by J. McGee,76,53
+3,7:38.0,,J. McGee makes 2-pt dunk from 1 ft (assist by L. James),76,55
+3,7:26.0,Turnover by N. Jokić (lost ball; steal by J. McGee),,76,55
+3,7:22.0,,L. James makes 2-pt layup from 2 ft,76,57
+3,7:21.0,Denver full timeout,,76,57
+3,7:21.0,,M. Wagner enters the game for J. McGee,76,57
+3,7:04.0,W. Barton misses 3-pt jump shot from 25 ft,,76,57
+3,6:59.0,,Defensive rebound by M. Wagner,76,57
+3,6:51.0,,J. Hart makes 3-pt jump shot from 27 ft (assist by L. James),76,60
+3,6:34.0,J. Murray misses 3-pt jump shot from 28 ft,,76,60
+3,6:30.0,Offensive rebound by P. Millsap,,76,60
+3,6:30.0,P. Millsap misses 2-pt layup from 2 ft (block by L. James),,76,60
+3,6:30.0,,Defensive rebound by R. Bullock,76,60
+3,6:27.0,,Technical foul by,76,60
+3,6:27.0,,R. Bullock misses technical free throw,76,60
+3,6:27.0,,Offensive rebound by Team,76,60
+3,6:18.0,,M. Wagner makes 2-pt layup from 2 ft (assist by L. James),76,62
+3,6:04.0,Shooting foul by L. James (drawn by N. Jokić),,76,62
+3,6:04.0,N. Jokić makes free throw 1 of 2,,77,62
+3,6:04.0,N. Jokić makes free throw 2 of 2,,78,62
+3,5:49.0,,L. James misses 2-pt layup from 3 ft,78,62
+3,5:49.0,Defensive rebound by J. Murray,,78,62
+3,5:31.0,J. Murray misses 3-pt jump shot from 26 ft,,78,62
+3,5:27.0,,Defensive rebound by R. Rondo,78,62
+3,5:19.0,,Personal foul by N. Jokić (drawn by L. James),78,62
+3,5:19.0,,A. Caruso enters the game for R. Bullock,78,62
+3,5:10.0,,L. James makes 2-pt layup from 2 ft,78,64
+3,4:54.0,G. Harris makes 2-pt layup from 2 ft,,80,64
+3,4:36.0,,Turnover by A. Caruso (bad pass; steal by N. Jokić),80,64
+3,4:30.0,G. Harris misses 2-pt layup from 2 ft,,80,64
+3,4:27.0,,Defensive rebound by A. Caruso,80,64
+3,4:17.0,,R. Rondo misses 3-pt jump shot from 26 ft,80,64
+3,4:17.0,,Offensive rebound by Team,80,64
+3,4:17.0,Loose ball foul by G. Harris (drawn by J. Hart),,80,64
+3,4:17.0,M. Beasley enters the game for G. Harris,,80,64
+3,4:17.0,M. Plumlee enters the game for P. Millsap,,80,64
+3,4:17.0,,J. Williams enters the game for L. James,80,64
+3,4:07.0,,M. Wagner makes 2-pt layup from 3 ft,80,66
+3,4:07.0,,Shooting foul by M. Plumlee (drawn by M. Wagner),80,66
+3,4:07.0,,M. Wagner makes free throw 1 of 1,80,67
+3,3:56.0,Personal foul by A. Caruso (drawn by N. Jokić),,80,67
+3,3:42.0,M. Beasley makes 3-pt jump shot from 25 ft (assist by M. Plumlee),,83,67
+3,3:23.0,,A. Caruso misses 3-pt jump shot from 23 ft,83,67
+3,3:20.0,,Offensive rebound by R. Rondo,83,67
+3,3:12.0,,A. Caruso makes 2-pt layup from 1 ft,83,69
+3,3:12.0,Denver full timeout,,83,69
+3,3:12.0,M. Morris enters the game for W. Barton,,83,69
+3,3:12.0,I. Thomas enters the game for J. Murray,,83,69
+3,2:54.0,M. Beasley misses 3-pt jump shot from 26 ft,,83,69
+3,2:51.0,,Defensive rebound by J. Hart,83,69
+3,2:35.0,,J. Williams makes 2-pt hook shot from 5 ft (assist by R. Rondo),83,71
+3,2:14.0,Turnover by M. Beasley (bad pass; steal by R. Rondo),,83,71
+3,2:11.0,,Shooting foul by M. Plumlee (drawn by J. Hart),83,71
+3,2:11.0,,J. Hart makes free throw 1 of 2,83,72
+3,2:11.0,,J. Hart makes free throw 2 of 2,83,73
+3,2:01.0,Personal foul by J. Williams (drawn by I. Thomas),,83,73
+3,2:01.0,P. Millsap enters the game for N. Jokić,,83,73
+3,1:51.0,Turnover by M. Plumlee (step out of bounds),,83,73
+3,1:39.0,,Personal foul by P. Millsap (drawn by J. Williams),83,73
+3,1:39.0,,J. Williams misses free throw 1 of 2,83,73
+3,1:39.0,,Offensive rebound by Team,83,73
+3,1:39.0,,J. Williams makes free throw 2 of 2,83,74
+3,1:21.0,M. Morris misses 3-pt jump shot from 25 ft,,83,74
+3,1:20.0,,Defensive rebound by R. Rondo,83,74
+3,1:20.0,,Personal foul by M. Plumlee (drawn by J. Williams),83,74
+3,1:20.0,,J. Williams makes free throw 1 of 2,83,75
+3,1:20.0,,J. Williams misses free throw 2 of 2,83,75
+3,1:18.0,,Offensive rebound by M. Wagner,83,75
+3,1:17.0,,M. Wagner misses 2-pt layup from 1 ft (block by P. Millsap),83,75
+3,1:13.0,Defensive rebound by I. Thomas,,83,75
+3,1:09.0,Personal foul by J. Williams (drawn by M. Plumlee),,83,75
+3,1:03.0,M. Plumlee makes 2-pt dunk from 1 ft (assist by M. Morris),,85,75
+3,0:48.0,,R. Rondo makes 2-pt jump shot from 2 ft,85,77
+3,0:29.0,I. Thomas misses 3-pt jump shot from 28 ft,,85,77
+3,0:29.0,,Defensive rebound by M. Wagner,85,77
+3,0:23.0,,J. Hart misses 2-pt layup from 3 ft (block by M. Plumlee),85,77
+3,0:23.0,,Offensive rebound by Team,85,77
+3,0:05.0,,R. Rondo misses 2-pt jump shot from 2 ft,85,77
+3,0:03.0,,Offensive rebound by A. Caruso,85,77
+3,0:02.0,,M. Wagner misses 3-pt jump shot from 27 ft,85,77
+3,0:02.0,,Offensive rebound by J. Williams,85,77
+3,0:01.0,,J. Williams misses 2-pt layup at rim,85,77
+3,0:01.0,Defensive rebound by M. Plumlee,,85,77
+4,11:49.0,M. Plumlee makes 2-pt dunk from 2 ft (assist by M. Morris),,87,77
+4,11:36.0,,Shooting foul by I. Thomas (drawn by A. Caruso),87,77
+4,11:36.0,,A. Caruso makes free throw 1 of 2,87,78
+4,11:36.0,,A. Caruso makes free throw 2 of 2,87,79
+4,11:17.0,M. Beasley misses 3-pt jump shot from 27 ft,,87,79
+4,11:15.0,,Defensive rebound by L. James,87,79
+4,11:06.0,,J. Williams makes 2-pt layup from 2 ft (assist by M. Wagner),87,81
+4,10:49.0,Personal foul by J. Williams (drawn by M. Plumlee),,87,81
+4,10:34.0,M. Morris misses 2-pt hook shot from 6 ft,,87,81
+4,10:32.0,,Defensive rebound by J. Hart,87,81
+4,10:26.0,,L. James makes 2-pt layup from 2 ft (assist by J. Hart),87,83
+4,10:26.0,,Shooting foul by P. Millsap (drawn by L. James),87,83
+4,10:26.0,N. Jokić enters the game for M. Morris,,87,83
+4,10:26.0,J. Murray enters the game for M. Plumlee,,87,83
+4,10:26.0,,L. James misses free throw 1 of 1,87,83
+4,10:22.0,Defensive rebound by M. Beasley,,87,83
+4,10:07.0,M. Beasley misses 3-pt jump shot from 23 ft,,87,83
+4,10:06.0,,Defensive rebound by A. Caruso,87,83
+4,10:00.0,,A. Caruso makes 2-pt layup from 1 ft (assist by L. James),87,85
+4,10:00.0,Denver full timeout,,87,85
+4,10:00.0,W. Barton enters the game for M. Beasley,,87,85
+4,10:00.0,G. Harris enters the game for I. Thomas,,87,85
+4,9:40.0,N. Jokić misses 2-pt jump shot from 8 ft,,87,85
+4,9:38.0,Offensive rebound by P. Millsap,,87,85
+4,9:36.0,P. Millsap makes 2-pt layup from 2 ft,,89,85
+4,9:36.0,Technical foul by P. Millsap,,89,85
+4,9:36.0,,J. Hart misses technical free throw,89,85
+4,9:36.0,,Offensive rebound by Team,89,85
+4,9:21.0,,Offensive foul by M. Wagner (drawn by N. Jokić),89,85
+4,9:21.0,,Turnover by M. Wagner (offensive foul),89,85
+4,9:11.0,Personal foul by L. James (drawn by N. Jokić),,89,85
+4,8:59.0,P. Millsap misses 3-pt jump shot from 27 ft,,89,85
+4,8:56.0,Offensive rebound by G. Harris,,89,85
+4,8:49.0,P. Millsap misses 2-pt jump shot from 13 ft,,89,85
+4,8:45.0,Offensive rebound by G. Harris,,89,85
+4,8:37.0,J. Murray misses 3-pt jump shot from 27 ft,,89,85
+4,8:33.0,,Defensive rebound by L. James,89,85
+4,8:30.0,,Shooting foul by J. Murray (drawn by L. James),89,85
+4,8:30.0,,L. James makes free throw 1 of 2,89,86
+4,8:30.0,,L. James makes free throw 2 of 2,89,87
+4,8:24.0,Personal foul by J. Williams (drawn by N. Jokić),,89,87
+4,8:12.0,J. Murray misses 2-pt jump shot from 16 ft,,89,87
+4,8:11.0,,Defensive rebound by J. Hart,89,87
+4,8:02.0,,L. James misses 3-pt jump shot from 27 ft,89,87
+4,7:59.0,Defensive rebound by J. Murray,,89,87
+4,7:42.0,W. Barton misses 3-pt jump shot from 22 ft,,89,87
+4,7:40.0,,Defensive rebound by A. Caruso,89,87
+4,7:37.0,,J. Hart misses 2-pt layup from 2 ft,89,87
+4,7:37.0,Defensive rebound by Team,,89,87
+4,7:37.0,,Loose ball foul by L. James (drawn by W. Barton),89,87
+4,7:32.0,G. Harris makes 3-pt jump shot from 23 ft (assist by P. Millsap),,92,87
+4,7:31.0,,LA Lakers full timeout,92,87
+4,7:18.0,,L. James makes 2-pt dunk from 3 ft (assist by A. Caruso),92,89
+4,6:52.0,G. Harris makes 3-pt jump shot from 24 ft (assist by N. Jokić),,95,89
+4,6:27.0,,J. Williams makes 2-pt hook shot from 3 ft (assist by A. Caruso),95,91
+4,6:01.0,J. Murray misses 2-pt jump shot from 13 ft,,95,91
+4,5:59.0,Offensive rebound by N. Jokić,,95,91
+4,5:49.0,G. Harris makes 2-pt layup from 2 ft,,97,91
+4,5:49.0,Shooting foul by A. Caruso (drawn by G. Harris),,97,91
+4,5:49.0,,R. Rondo enters the game for J. Hart,97,91
+4,5:49.0,G. Harris makes free throw 1 of 1,,98,91
+4,5:28.0,,M. Wagner misses 3-pt jump shot from 27 ft,98,91
+4,5:23.0,Defensive rebound by G. Harris,,98,91
+4,5:06.0,G. Harris makes 2-pt layup from 2 ft (assist by W. Barton),,100,91
+4,5:06.0,,LA Lakers full timeout,100,91
+4,5:06.0,,J. Hart enters the game for L. James,100,91
+4,4:46.0,,M. Wagner misses 2-pt hook shot from 8 ft,100,91
+4,4:44.0,Defensive rebound by N. Jokić,,100,91
+4,4:28.0,N. Jokić makes 2-pt hook shot from 2 ft (assist by G. Harris),,102,91
+4,4:12.0,,A. Caruso misses 2-pt jump shot from 16 ft,102,91
+4,4:08.0,Defensive rebound by N. Jokić,,102,91
+4,3:59.0,Turnover by W. Barton (bad pass; steal by R. Rondo),,102,91
+4,3:55.0,,J. Hart misses 2-pt layup from 2 ft (block by W. Barton),102,91
+4,3:51.0,Defensive rebound by W. Barton,,102,91
+4,3:48.0,Personal foul by J. Hart (drawn by W. Barton),,102,91
+4,3:48.0,W. Barton makes free throw 1 of 2,,103,91
+4,3:48.0,,L. James enters the game for J. Williams,103,91
+4,3:48.0,W. Barton makes free throw 2 of 2,,104,91
+4,3:25.0,,L. James makes 2-pt dunk from 2 ft,104,93
+4,3:07.0,Turnover by J. Murray (bad pass; steal by M. Wagner),,104,93
+4,3:05.0,,Turnover by M. Wagner (bad pass; steal by N. Jokić),104,93
+4,2:58.0,J. Murray makes 2-pt dunk from 1 ft (assist by W. Barton),,106,93
+4,2:35.0,,L. James makes 2-pt layup from 2 ft,106,95
+4,2:22.0,Personal foul by M. Wagner (drawn by N. Jokić),,106,95
+4,2:22.0,N. Jokić makes free throw 1 of 2,,107,95
+4,2:22.0,N. Jokić makes free throw 2 of 2,,108,95
+4,2:21.0,,Turnover by L. James (out of bounds lost ball),108,95
+4,2:19.0,W. Barton makes 2-pt jump shot from 2 ft (assist by N. Jokić),,110,95
+4,2:19.0,Shooting foul by L. James (drawn by W. Barton),,110,95
+4,2:19.0,W. Barton misses free throw 1 of 1,,110,95
+4,2:16.0,,Defensive rebound by L. James,110,95
+4,2:13.0,,Turnover by L. James (traveling),110,95
+4,2:13.0,,I. Bonga enters the game for L. James,110,95
+4,2:13.0,,J. Williams enters the game for R. Rondo,110,95
+4,2:00.0,W. Barton misses 3-pt jump shot from 25 ft,,110,95
+4,1:56.0,Offensive rebound by P. Millsap,,110,95
+4,1:47.0,J. Murray misses 2-pt jump shot from 9 ft,,110,95
+4,1:44.0,,Defensive rebound by I. Bonga,110,95
+4,1:38.0,,A. Caruso makes 2-pt layup from 3 ft (assist by I. Bonga),110,97
+4,1:26.0,J. Murray makes 3-pt jump shot from 27 ft,,113,97
+4,1:11.0,,M. Wagner misses 3-pt jump shot from 27 ft,113,97
+4,1:08.0,Defensive rebound by N. Jokić,,113,97
+4,0:50.0,J. Murray makes 2-pt layup from 2 ft (assist by P. Millsap),,115,97
+4,0:48.0,,Personal take foul by G. Harris (drawn by A. Caruso),115,97
+4,0:48.0,T. Craig enters the game for W. Barton,,115,97
+4,0:48.0,J. Hernangómez enters the game for G. Harris,,115,97
+4,0:48.0,M. Morris enters the game for N. Jokić,,115,97
+4,0:48.0,J. Vanderbilt enters the game for P. Millsap,,115,97
+4,0:48.0,T. Welsh enters the game for J. Murray,,115,97
+4,0:39.0,,Turnover by I. Bonga (lost ball; steal by T. Craig),115,97
+4,0:19.0,T. Welsh misses 2-pt hook shot from 16 ft,,115,97
+4,0:15.0,,Defensive rebound by J. Williams,115,97
+4,0:05.0,,Shooting foul by J. Hernangómez (drawn by I. Bonga),115,97
+4,0:05.0,,I. Bonga makes free throw 1 of 2,115,98
+4,0:05.0,,I. Bonga makes free throw 2 of 2,115,99

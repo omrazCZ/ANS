@@ -1,0 +1,461 @@
+QUARTER,TIME_REMAINING,GOLDEN STATE_ACTION,PORTLAND_ACTION,GOLDEN STATE_SCORE,PORTLAND_SCORE
+1,11:40.0,,M. Harkless misses 2-pt layup from 3 ft,0,0
+1,11:40.0,Defensive rebound by Team,,0,0
+1,11:40.0,,Loose ball foul by M. Leonard (drawn by D. Green),0,0
+1,11:25.0,S. Curry misses 2-pt jump shot from 11 ft,,0,0
+1,11:23.0,,Defensive rebound by A. Aminu,0,0
+1,11:17.0,,Personal foul by D. Jones (drawn by D. Lillard),0,0
+1,11:13.0,,D. Lillard makes 3-pt jump shot from 27 ft (assist by M. Leonard),0,3
+1,10:57.0,K. Thompson misses 3-pt jump shot from 23 ft,,0,3
+1,10:55.0,,Defensive rebound by A. Aminu,0,3
+1,10:48.0,,C. McCollum misses 3-pt jump shot from 27 ft,0,3
+1,10:43.0,Defensive rebound by S. Curry,,0,3
+1,10:33.0,D. Green makes 2-pt layup from 4 ft (assist by A. Iguodala),,2,3
+1,10:17.0,,C. McCollum makes 3-pt jump shot from 25 ft (assist by D. Lillard),2,6
+1,10:06.0,D. Green misses 2-pt jump shot from 8 ft (block by M. Harkless),,2,6
+1,10:06.0,Offensive rebound by Team,,2,6
+1,10:01.0,Turnover by K. Thompson (bad pass; steal by M. Harkless),,2,6
+1,9:45.0,,M. Harkless misses 2-pt layup from 2 ft (block by D. Green),2,6
+1,9:45.0,,Offensive rebound by M. Harkless,2,6
+1,9:45.0,,Shooting foul by D. Jones (drawn by M. Harkless),2,6
+1,9:45.0,,M. Harkless makes free throw 1 of 2,2,7
+1,9:45.0,,M. Harkless misses free throw 2 of 2,2,7
+1,9:42.0,Defensive rebound by D. Green,,2,7
+1,9:27.0,A. Iguodala misses 2-pt jump shot from 17 ft,,2,7
+1,9:25.0,,Defensive rebound by M. Leonard,2,7
+1,9:22.0,,D. Lillard misses 3-pt jump shot from 33 ft,2,7
+1,9:19.0,Defensive rebound by S. Curry,,2,7
+1,9:15.0,Turnover by S. Curry (bad pass),,2,7
+1,8:58.0,,Turnover by D. Lillard (bad pass; steal by A. Iguodala),2,7
+1,8:55.0,K. Thompson makes 3-pt jump shot from 27 ft (assist by A. Iguodala),,5,7
+1,8:43.0,,Shooting foul by D. Jones (drawn by C. McCollum),5,7
+1,8:43.0,,C. McCollum makes free throw 1 of 3,5,8
+1,8:43.0,,C. McCollum makes free throw 2 of 3,5,9
+1,8:43.0,K. Looney enters the game for D. Jones,,5,9
+1,8:43.0,,C. McCollum makes free throw 3 of 3,5,10
+1,8:32.0,K. Thompson misses 2-pt jump shot from 20 ft,,5,10
+1,8:31.0,,Defensive rebound by Team,5,10
+1,8:20.0,Violation by Team (kicked ball),,5,10
+1,8:10.0,,A. Aminu makes 2-pt jump shot from 11 ft (assist by C. McCollum),5,12
+1,7:59.0,Golden State full timeout,,5,12
+1,7:51.0,A. Iguodala misses 3-pt jump shot from 23 ft,,5,12
+1,7:48.0,,Defensive rebound by M. Harkless,5,12
+1,7:41.0,,Turnover by D. Lillard (bad pass),5,12
+1,7:31.0,A. Iguodala misses 3-pt jump shot from 26 ft,,5,12
+1,7:29.0,,Defensive rebound by D. Lillard,5,12
+1,7:20.0,,A. Aminu misses 3-pt jump shot from 23 ft,5,12
+1,7:16.0,Defensive rebound by A. Iguodala,,5,12
+1,7:12.0,,Violation by Team (kicked ball),5,12
+1,7:01.0,S. Curry misses 3-pt jump shot from 26 ft,,5,12
+1,6:58.0,,Defensive rebound by A. Aminu,5,12
+1,6:48.0,,M. Leonard makes 3-pt jump shot from 25 ft (assist by A. Aminu),5,15
+1,6:41.0,D. Green makes 2-pt jump shot from 2 ft,,7,15
+1,6:41.0,,Violation by Team (def goaltending),7,15
+1,6:41.0,Shooting foul by C. McCollum (drawn by D. Green),,7,15
+1,6:41.0,D. Green makes free throw 1 of 1,,8,15
+1,6:22.0,,M. Leonard makes 2-pt hook shot from 4 ft (assist by C. McCollum),8,17
+1,6:10.0,S. Curry misses 2-pt layup from 5 ft,,8,17
+1,6:10.0,,Defensive rebound by A. Aminu,8,17
+1,6:06.0,,Turnover by A. Aminu (bad pass; steal by K. Thompson),8,17
+1,6:00.0,K. Thompson makes 2-pt layup from 1 ft,,10,17
+1,5:53.0,,Shooting foul by A. Iguodala (drawn by D. Lillard),10,17
+1,5:53.0,,D. Lillard makes free throw 1 of 2,10,18
+1,5:53.0,,R. Hood enters the game for A. Aminu,10,18
+1,5:53.0,,D. Lillard makes free throw 2 of 2,10,19
+1,5:41.0,S. Curry misses 3-pt jump shot from 26 ft,,10,19
+1,5:36.0,Offensive rebound by K. Thompson,,10,19
+1,5:36.0,K. Thompson makes 2-pt layup at rim,,12,19
+1,5:28.0,,Personal foul by K. Thompson (drawn by D. Lillard),12,19
+1,5:28.0,,D. Lillard misses free throw 1 of 2,12,19
+1,5:28.0,,Offensive rebound by Team,12,19
+1,5:28.0,,D. Lillard makes free throw 2 of 2,12,20
+1,5:14.0,K. Thompson makes 2-pt jump shot from 17 ft (assist by D. Green),,14,20
+1,4:52.0,,R. Hood misses 2-pt jump shot from 15 ft,14,20
+1,4:50.0,Defensive rebound by D. Green,,14,20
+1,4:50.0,A. McKinnie enters the game for A. Iguodala,,14,20
+1,4:40.0,S. Curry makes 3-pt jump shot from 26 ft (assist by K. Thompson),,17,20
+1,4:20.0,,Shooting foul by D. Green (drawn by M. Harkless),17,20
+1,4:20.0,,M. Harkless misses free throw 1 of 2,17,20
+1,4:20.0,,Offensive rebound by Team,17,20
+1,4:20.0,,M. Harkless makes free throw 2 of 2,17,21
+1,4:08.0,Turnover by S. Curry (bad pass; steal by M. Harkless),,17,21
+1,4:04.0,,M. Harkless makes 2-pt layup at rim (assist by D. Lillard),17,23
+1,3:57.0,D. Green misses 2-pt layup from 5 ft,,17,23
+1,3:54.0,,Defensive rebound by M. Harkless,17,23
+1,3:48.0,,R. Hood makes 2-pt jump shot from 10 ft (assist by C. McCollum),17,25
+1,3:35.0,S. Curry makes 2-pt jump shot from 20 ft,,19,25
+1,3:19.0,,Personal foul by K. Thompson (drawn by D. Lillard),19,25
+1,3:19.0,,D. Lillard makes free throw 1 of 2,19,26
+1,3:19.0,S. Livingston enters the game for K. Thompson,,19,26
+1,3:19.0,,D. Lillard makes free throw 2 of 2,19,27
+1,3:05.0,Shooting foul by M. Harkless (drawn by S. Livingston),,19,27
+1,3:05.0,,Portland full timeout,19,27
+1,3:05.0,,Z. Collins enters the game for M. Harkless,19,27
+1,3:05.0,,S. Curry enters the game for C. McCollum,19,27
+1,3:05.0,S. Livingston makes free throw 1 of 2,,20,27
+1,3:05.0,S. Livingston makes free throw 2 of 2,,21,27
+1,2:49.0,,Z. Collins misses 2-pt layup from 7 ft,21,27
+1,2:46.0,Defensive rebound by D. Green,,21,27
+1,2:36.0,S. Curry misses 3-pt jump shot from 25 ft,,21,27
+1,2:35.0,Offensive rebound by K. Looney,,21,27
+1,2:23.0,D. Green misses 2-pt jump shot from 16 ft,,21,27
+1,2:19.0,Offensive rebound by A. McKinnie,,21,27
+1,2:12.0,S. Curry makes 2-pt jump shot from 12 ft (assist by S. Livingston),,23,27
+1,1:48.0,,M. Leonard misses 3-pt jump shot from 25 ft,23,27
+1,1:44.0,Defensive rebound by A. McKinnie,,23,27
+1,1:36.0,S. Livingston makes 2-pt jump shot from 8 ft (assist by D. Green),,25,27
+1,1:16.0,,D. Lillard misses 2-pt jump shot from 20 ft,25,27
+1,1:14.0,Defensive rebound by S. Curry,,25,27
+1,1:03.0,Personal foul by S. Curry (drawn by D. Green),,25,27
+1,0:53.0,S. Livingston misses 2-pt jump shot from 16 ft,,25,27
+1,0:51.0,,Defensive rebound by D. Lillard,25,27
+1,0:34.0,,M. Leonard misses 3-pt jump shot from 24 ft,25,27
+1,0:31.0,,Offensive rebound by Z. Collins,25,27
+1,0:29.0,,Z. Collins makes 2-pt jump shot from 1 ft,25,29
+1,0:10.0,Personal foul by Z. Collins (drawn by S. Curry),,25,29
+1,0:10.0,S. Curry makes free throw 1 of 2,,26,29
+1,0:10.0,J. Bell enters the game for D. Green,,26,29
+1,0:10.0,S. Curry makes free throw 2 of 2,,27,29
+1,0:01.0,,Turnover by D. Lillard (lost ball; steal by S. Livingston),27,29
+1,0:00.0,S. Curry misses 3-pt jump shot from 42 ft,,27,29
+1,0:00.0,Offensive rebound by Team,,27,29
+2,11:40.0,K. Thompson misses 2-pt layup from 1 ft (block by Z. Collins),,27,29
+2,11:40.0,Offensive rebound by Team,,27,29
+2,11:35.0,J. Bell makes 2-pt jump shot from 11 ft (assist by K. Thompson),,29,29
+2,11:13.0,,Flagrant foul type 1 by J. Jerebko (drawn by Z. Collins),29,29
+2,11:13.0,,Z. Collins misses flagrant free throw 1 of 2,29,29
+2,11:13.0,,Offensive rebound by Team,29,29
+2,11:13.0,,Z. Collins makes flagrant free throw 2 of 2,29,30
+2,11:02.0,,Shooting foul by J. Bell (drawn by R. Hood),29,30
+2,11:02.0,,R. Hood makes free throw 1 of 2,29,31
+2,11:02.0,,R. Hood misses free throw 2 of 2,29,31
+2,10:59.0,Defensive rebound by K. Thompson,,29,31
+2,10:43.0,Turnover by K. Thompson (bad pass; steal by R. Hood),,29,31
+2,10:36.0,,E. Freedom makes 2-pt layup at rim (assist by Z. Collins),29,33
+2,10:24.0,Personal foul by R. Hood (drawn by K. Thompson),,29,33
+2,10:17.0,,Violation by Team (kicked ball),29,33
+2,10:10.0,Shooting foul by Z. Collins (drawn by K. Thompson),,29,33
+2,10:10.0,K. Thompson makes free throw 1 of 2,,30,33
+2,10:10.0,K. Thompson misses free throw 2 of 2,,30,33
+2,10:08.0,,Defensive rebound by Z. Collins,30,33
+2,9:59.0,,S. Curry makes 2-pt jump shot from 19 ft,30,35
+2,9:39.0,S. Livingston makes 2-pt jump shot from 18 ft (assist by J. Jerebko),,32,35
+2,9:26.0,,Personal foul by Q. Cook (drawn by Z. Collins),32,35
+2,9:13.0,,E. Turner makes 2-pt jump shot from 12 ft,32,37
+2,9:00.0,J. Bell misses 2-pt layup from 2 ft,,32,37
+2,8:58.0,,Defensive rebound by E. Turner,32,37
+2,8:52.0,,E. Freedom misses 2-pt layup from 1 ft,32,37
+2,8:48.0,,Offensive rebound by E. Freedom,32,37
+2,8:48.0,,E. Freedom makes 2-pt layup from 1 ft,32,39
+2,8:45.0,Golden State full timeout,,32,39
+2,8:45.0,A. Bogut enters the game for J. Bell,,32,39
+2,8:45.0,,C. McCollum enters the game for R. Hood,32,39
+2,8:39.0,J. Jerebko misses 2-pt jump shot from 7 ft,,32,39
+2,8:36.0,,Defensive rebound by E. Turner,32,39
+2,8:30.0,,Shooting foul by S. Livingston (drawn by C. McCollum),32,39
+2,8:30.0,,C. McCollum makes free throw 1 of 2,32,40
+2,8:30.0,,C. McCollum makes free throw 2 of 2,32,41
+2,8:14.0,Q. Cook misses 2-pt jump shot from 16 ft,,32,41
+2,8:11.0,Offensive rebound by A. Bogut,,32,41
+2,8:06.0,K. Thompson misses 2-pt jump shot from 18 ft,,32,41
+2,8:03.0,,Defensive rebound by Z. Collins,32,41
+2,7:55.0,,C. McCollum misses 3-pt jump shot from 25 ft,32,41
+2,7:54.0,,Offensive rebound by Team,32,41
+2,7:54.0,Loose ball foul by A. Bogut (drawn by E. Freedom),,32,41
+2,7:54.0,,E. Freedom misses free throw 1 of 2,32,41
+2,7:54.0,,Offensive rebound by Team,32,41
+2,7:54.0,D. Green enters the game for J. Jerebko,,32,41
+2,7:54.0,,E. Freedom makes free throw 2 of 2,32,42
+2,7:44.0,K. Thompson misses 3-pt jump shot from 26 ft,,32,42
+2,7:41.0,,Defensive rebound by E. Freedom,32,42
+2,7:33.0,,E. Turner makes 3-pt jump shot from 23 ft (assist by C. McCollum),32,45
+2,7:23.0,D. Green misses 2-pt jump shot from 11 ft,,32,45
+2,7:21.0,,Defensive rebound by E. Freedom,32,45
+2,7:13.0,,Turnover by C. McCollum (lost ball; steal by K. Thompson),32,45
+2,7:09.0,Q. Cook makes 2-pt layup from 2 ft (assist by K. Thompson),,34,45
+2,6:51.0,,C. McCollum misses 3-pt jump shot from 24 ft,34,45
+2,6:45.0,,Offensive rebound by E. Freedom,34,45
+2,6:45.0,,E. Freedom misses 2-pt layup from 1 ft,34,45
+2,6:44.0,Defensive rebound by A. Bogut,,34,45
+2,6:39.0,K. Thompson misses 3-pt jump shot from 25 ft,,34,45
+2,6:36.0,,Defensive rebound by E. Freedom,34,45
+2,6:24.0,,E. Freedom misses 2-pt jump shot from 14 ft,34,45
+2,6:19.0,,Offensive rebound by Z. Collins,34,45
+2,6:19.0,,Z. Collins misses 2-pt layup from 1 ft,34,45
+2,6:19.0,,Offensive rebound by Z. Collins,34,45
+2,6:16.0,,E. Freedom makes 2-pt layup from 1 ft (assist by Z. Collins),34,47
+2,6:08.0,Golden State full timeout,,34,47
+2,6:08.0,S. Curry enters the game for A. Bogut,,34,47
+2,6:08.0,A. Iguodala enters the game for Q. Cook,,34,47
+2,6:08.0,K. Looney enters the game for S. Livingston,,34,47
+2,6:08.0,A. McKinnie enters the game for K. Thompson,,34,47
+2,6:08.0,,M. Harkless enters the game for Z. Collins,34,47
+2,6:08.0,,M. Leonard enters the game for E. Freedom,34,47
+2,6:08.0,,D. Lillard enters the game for E. Turner,34,47
+2,5:55.0,K. Looney misses 2-pt jump shot from 13 ft,,34,47
+2,5:51.0,,Defensive rebound by D. Lillard,34,47
+2,5:48.0,,Turnover by D. Lillard (bad pass; steal by D. Green),34,47
+2,5:44.0,S. Curry makes 3-pt jump shot from 26 ft (assist by D. Green),,37,47
+2,5:24.0,,M. Leonard makes 3-pt jump shot from 25 ft (assist by M. Harkless),37,50
+2,5:13.0,S. Curry misses 2-pt jump shot from 11 ft (block by M. Harkless),,37,50
+2,5:10.0,,Defensive rebound by C. McCollum,37,50
+2,5:07.0,,S. Curry misses 3-pt jump shot from 26 ft,37,50
+2,5:07.0,Defensive rebound by Team,,37,50
+2,5:07.0,,Loose ball foul by M. Leonard (drawn by A. Iguodala),37,50
+2,4:51.0,S. Curry misses 3-pt jump shot from 26 ft,,37,50
+2,4:48.0,,Defensive rebound by S. Curry,37,50
+2,4:44.0,,S. Curry misses 3-pt jump shot from 29 ft,37,50
+2,4:41.0,Defensive rebound by K. Looney,,37,50
+2,4:39.0,Personal take foul by M. Leonard (drawn by S. Curry),,37,50
+2,4:39.0,K. Thompson enters the game for A. McKinnie,,37,50
+2,4:27.0,D. Green misses 2-pt hook shot from 7 ft,,37,50
+2,4:26.0,,Defensive rebound by Team,37,50
+2,4:14.0,Violation by Team (kicked ball),,37,50
+2,4:01.0,,M. Leonard makes 2-pt hook shot from 11 ft (assist by D. Lillard),37,52
+2,3:51.0,D. Green makes 2-pt layup from 1 ft (assist by S. Curry),,39,52
+2,3:41.0,,D. Lillard misses 2-pt layup from 1 ft,39,52
+2,3:39.0,Defensive rebound by A. Iguodala,,39,52
+2,3:36.0,Shooting foul by S. Curry (drawn by D. Green),,39,52
+2,3:36.0,D. Green misses free throw 1 of 2,,39,52
+2,3:36.0,Offensive rebound by Team,,39,52
+2,3:36.0,D. Green makes free throw 2 of 2,,40,52
+2,3:19.0,,C. McCollum misses 2-pt jump shot from 6 ft,40,52
+2,3:15.0,Defensive rebound by D. Green,,40,52
+2,3:14.0,A. Iguodala makes 2-pt dunk from 1 ft (assist by D. Green),,42,52
+2,3:14.0,,Portland full timeout,42,52
+2,3:03.0,,D. Lillard makes 2-pt jump shot from 21 ft,42,54
+2,2:47.0,Turnover by K. Looney (bad pass; steal by D. Lillard),,42,54
+2,2:44.0,,M. Leonard makes 2-pt dunk at rim (assist by D. Lillard),42,56
+2,2:44.0,,Shooting foul by D. Green (drawn by M. Leonard),42,56
+2,2:44.0,,M. Leonard makes free throw 1 of 1,42,57
+2,2:32.0,Turnover by S. Curry (bad pass; steal by S. Curry),,42,57
+2,2:28.0,,S. Curry makes 3-pt jump shot from 27 ft,42,60
+2,2:13.0,D. Green makes 2-pt layup from 2 ft,,44,60
+2,2:03.0,,D. Lillard misses 2-pt layup from 2 ft (block by K. Thompson),44,60
+2,2:01.0,Defensive rebound by D. Green,,44,60
+2,2:00.0,S. Curry makes 3-pt jump shot from 26 ft (assist by D. Green),,47,60
+2,1:30.0,,C. McCollum makes 2-pt jump shot from 18 ft,47,62
+2,1:19.0,K. Looney makes 2-pt layup from 2 ft (assist by K. Thompson),,49,62
+2,0:57.0,,M. Harkless makes 2-pt dunk from 1 ft (assist by M. Leonard),49,64
+2,0:54.0,Shooting foul by D. Lillard (drawn by D. Green),,49,64
+2,0:54.0,D. Green makes free throw 1 of 2,,50,64
+2,0:54.0,,Z. Collins enters the game for M. Leonard,50,64
+2,0:54.0,D. Green makes free throw 2 of 2,,51,64
+2,0:35.0,,C. McCollum misses 2-pt jump shot from 8 ft,51,64
+2,0:33.0,Defensive rebound by A. Iguodala,,51,64
+2,0:27.0,K. Thompson misses 2-pt jump shot from 15 ft,,51,64
+2,0:25.0,,Defensive rebound by D. Lillard,51,64
+2,0:07.0,,C. McCollum misses 2-pt jump shot from 13 ft,51,64
+2,0:03.0,,Offensive rebound by Z. Collins,51,64
+2,0:03.0,,Z. Collins misses 2-pt layup from 1 ft,51,64
+2,0:03.0,,Offensive rebound by C. McCollum,51,64
+2,0:01.0,,C. McCollum makes 2-pt layup from 1 ft,51,66
+2,0:00.0,D. Green makes 2-pt jump shot from 8 ft,,53,66
+3,11:47.0,Turnover by D. Green (palming),,53,66
+3,11:31.0,,Turnover by D. Lillard (bad pass; steal by D. Green),53,66
+3,11:27.0,S. Curry misses 3-pt jump shot from 25 ft,,53,66
+3,11:24.0,,Defensive rebound by A. Aminu,53,66
+3,11:19.0,,Personal foul by S. Curry (drawn by D. Lillard),53,66
+3,11:13.0,,C. McCollum misses 3-pt jump shot from 25 ft,53,66
+3,11:10.0,Defensive rebound by A. Iguodala,,53,66
+3,11:01.0,Personal foul by C. McCollum (drawn by S. Curry),,53,66
+3,11:01.0,Away from play foul by C. McCollum (drawn by K. Thompson),,53,66
+3,11:01.0,K. Thompson makes free throw 1 of 1,,54,66
+3,10:56.0,S. Curry misses 2-pt jump shot from 14 ft,,54,66
+3,10:52.0,,Defensive rebound by A. Aminu,54,66
+3,10:38.0,,Personal foul by A. Iguodala (drawn by A. Aminu),54,66
+3,10:23.0,,C. McCollum misses 3-pt jump shot from 34 ft,54,66
+3,10:20.0,Defensive rebound by A. Iguodala,,54,66
+3,10:15.0,Turnover by D. Green (bad pass; steal by D. Lillard),,54,66
+3,10:08.0,,C. McCollum makes 2-pt jump shot from 15 ft (assist by A. Aminu),54,68
+3,9:46.0,K. Thompson misses 3-pt jump shot from 26 ft,,54,68
+3,9:44.0,Offensive rebound by D. Green,,54,68
+3,9:41.0,J. Bell makes 2-pt layup from 2 ft (assist by D. Green),,56,68
+3,9:24.0,,D. Lillard misses 3-pt jump shot from 32 ft,56,68
+3,9:22.0,Defensive rebound by Team,,56,68
+3,9:07.0,S. Curry makes 3-pt jump shot from 25 ft (assist by J. Bell),,59,68
+3,9:07.0,Shooting foul by M. Leonard (drawn by S. Curry),,59,68
+3,9:07.0,,Portland full timeout,59,68
+3,9:07.0,S. Curry misses free throw 1 of 1,,59,68
+3,9:04.0,,Defensive rebound by M. Leonard,59,68
+3,8:51.0,,D. Lillard makes 2-pt jump shot from 7 ft,59,70
+3,8:27.0,A. Iguodala misses 3-pt jump shot from 26 ft,,59,70
+3,8:24.0,,Defensive rebound by D. Lillard,59,70
+3,8:08.0,,M. Leonard makes 3-pt jump shot from 26 ft (assist by M. Harkless),59,73
+3,7:50.0,Shooting foul by D. Lillard (drawn by D. Green),,59,73
+3,7:50.0,D. Green makes free throw 1 of 2,,60,73
+3,7:50.0,A. McKinnie enters the game for A. Iguodala,,60,73
+3,7:50.0,D. Green makes free throw 2 of 2,,61,73
+3,7:28.0,,M. Harkless misses 3-pt jump shot from 23 ft,61,73
+3,7:24.0,Defensive rebound by K. Thompson,,61,73
+3,7:16.0,K. Thompson makes 2-pt layup from 1 ft (assist by D. Green),,63,73
+3,6:54.0,,M. Leonard misses 3-pt jump shot from 25 ft,63,73
+3,6:54.0,Defensive rebound by D. Green,,63,73
+3,6:45.0,D. Green makes 2-pt layup from 1 ft (assist by J. Bell),,65,73
+3,6:17.0,,M. Leonard misses 2-pt jump shot from 11 ft,65,73
+3,6:15.0,Defensive rebound by A. McKinnie,,65,73
+3,5:58.0,K. Thompson misses 2-pt jump shot from 11 ft,,65,73
+3,5:56.0,,Defensive rebound by A. Aminu,65,73
+3,5:45.0,,D. Lillard misses 3-pt jump shot from 27 ft,65,73
+3,5:43.0,Defensive rebound by D. Green,,65,73
+3,5:41.0,J. Bell misses 2-pt dunk from 1 ft,,65,73
+3,5:38.0,,Defensive rebound by M. Leonard,65,73
+3,5:35.0,,Shooting foul by S. Curry (drawn by C. McCollum),65,73
+3,5:35.0,,C. McCollum makes free throw 1 of 2,65,74
+3,5:35.0,,Z. Collins enters the game for A. Aminu,65,74
+3,5:35.0,,R. Hood enters the game for M. Harkless,65,74
+3,5:35.0,Golden State full timeout,,65,74
+3,5:35.0,,C. McCollum misses free throw 2 of 2,65,74
+3,5:33.0,Defensive rebound by J. Bell,,65,74
+3,5:20.0,K. Thompson makes 2-pt jump shot from 13 ft (assist by D. Green),,67,74
+3,5:03.0,,Personal foul by S. Curry (drawn by C. McCollum),67,74
+3,4:51.0,,C. McCollum makes 2-pt jump shot from 13 ft (assist by M. Leonard),67,76
+3,4:42.0,K. Thompson misses 2-pt jump shot from 13 ft,,67,76
+3,4:40.0,,Defensive rebound by D. Lillard,67,76
+3,4:31.0,,R. Hood misses 3-pt jump shot from 24 ft,67,76
+3,4:28.0,Defensive rebound by J. Bell,,67,76
+3,4:18.0,K. Thompson makes 2-pt jump shot from 16 ft,,69,76
+3,4:00.0,,D. Lillard misses 2-pt jump shot from 13 ft,69,76
+3,3:57.0,Defensive rebound by D. Green,,69,76
+3,3:53.0,J. Bell makes 2-pt dunk from 2 ft (assist by D. Green),,71,76
+3,3:24.0,,C. McCollum misses 2-pt jump shot from 7 ft,71,76
+3,3:22.0,Defensive rebound by D. Green,,71,76
+3,3:18.0,Shooting foul by Z. Collins (drawn by S. Curry),,71,76
+3,3:18.0,S. Curry makes free throw 1 of 2,,72,76
+3,3:18.0,S. Livingston enters the game for J. Bell,,72,76
+3,3:18.0,K. Looney enters the game for K. Thompson,,72,76
+3,3:18.0,,S. Curry enters the game for M. Leonard,72,76
+3,3:18.0,,E. Freedom enters the game for C. McCollum,72,76
+3,3:18.0,S. Curry makes free throw 2 of 2,,73,76
+3,2:54.0,,E. Freedom misses 2-pt layup from 2 ft (block by K. Looney),73,76
+3,2:52.0,,Offensive rebound by S. Curry,73,76
+3,2:45.0,,Turnover by S. Curry (bad pass; steal by D. Green),73,76
+3,2:42.0,Turnover by S. Curry (traveling),,73,76
+3,2:34.0,,Offensive foul by Z. Collins (drawn by S. Curry),73,76
+3,2:34.0,,Turnover by Z. Collins (offensive foul),73,76
+3,2:22.0,S. Curry misses 3-pt jump shot from 27 ft,,73,76
+3,2:18.0,Offensive rebound by A. McKinnie,,73,76
+3,2:16.0,A. McKinnie makes 2-pt layup from 1 ft (assist by S. Curry),,75,76
+3,2:03.0,,D. Lillard misses 2-pt layup from 2 ft,75,76
+3,2:01.0,Defensive rebound by A. McKinnie,,75,76
+3,1:54.0,K. Looney makes 2-pt layup from 1 ft (assist by D. Green),,77,76
+3,1:54.0,,Portland full timeout,77,76
+3,1:54.0,,E. Turner enters the game for E. Freedom,77,76
+3,1:39.0,,E. Turner makes 2-pt jump shot from 13 ft,77,78
+3,1:17.0,S. Curry misses 2-pt layup at rim,,77,78
+3,1:15.0,,Defensive rebound by S. Curry,77,78
+3,0:56.0,,Shooting foul by D. Green (drawn by E. Turner),77,78
+3,0:56.0,,E. Turner makes free throw 1 of 2,77,79
+3,0:56.0,,E. Turner misses free throw 2 of 2,77,79
+3,0:55.0,Defensive rebound by D. Green,,77,79
+3,0:44.0,S. Curry makes 3-pt jump shot from 25 ft (assist by D. Green),,80,79
+3,0:32.0,,Turnover by E. Turner (bad pass; steal by A. McKinnie),80,79
+3,0:29.0,Personal foul by R. Hood (drawn by S. Curry),,80,79
+3,0:29.0,S. Curry makes free throw 1 of 2,,81,79
+3,0:29.0,J. Bell enters the game for D. Green,,81,79
+3,0:29.0,S. Curry makes free throw 2 of 2,,82,79
+3,0:12.0,,Z. Collins misses 2-pt dunk from 2 ft (block by J. Bell),82,79
+3,0:08.0,Defensive rebound by S. Curry,,82,79
+4,11:47.0,,S. Curry misses 2-pt jump shot from 13 ft,82,79
+4,11:45.0,Defensive rebound by J. Jerebko,,82,79
+4,11:28.0,Turnover by K. Thompson (step out of bounds),,82,79
+4,11:12.0,,Z. Collins makes 3-pt jump shot from 26 ft (assist by C. McCollum),82,82
+4,10:44.0,K. Thompson makes 2-pt jump shot from 11 ft,,84,82
+4,10:30.0,,C. McCollum misses 2-pt layup from 1 ft,84,82
+4,10:28.0,Defensive rebound by Q. Cook,,84,82
+4,10:08.0,Turnover by K. Thompson (lost ball; steal by C. McCollum),,84,82
+4,10:06.0,,Shooting foul by Q. Cook (drawn by C. McCollum),84,82
+4,10:06.0,,C. McCollum misses free throw 1 of 2,84,82
+4,10:06.0,,Offensive rebound by Team,84,82
+4,10:06.0,,C. McCollum misses free throw 2 of 2,84,82
+4,10:04.0,Defensive rebound by K. Thompson,,84,82
+4,9:48.0,K. Thompson misses 2-pt jump shot from 13 ft,,84,82
+4,9:46.0,,Defensive rebound by Z. Collins,84,82
+4,9:39.0,,Personal foul by S. Livingston (drawn by Z. Collins),84,82
+4,9:39.0,,M. Leonard enters the game for R. Hood,84,82
+4,9:39.0,,D. Lillard enters the game for E. Turner,84,82
+4,9:28.0,,Personal foul by K. Looney (drawn by C. McCollum),84,82
+4,9:18.0,,D. Lillard misses 2-pt layup from 2 ft,84,82
+4,9:16.0,Defensive rebound by J. Jerebko,,84,82
+4,9:03.0,Q. Cook makes 2-pt layup from 1 ft,,86,82
+4,8:50.0,,D. Lillard misses 2-pt layup from 1 ft,86,82
+4,8:48.0,Defensive rebound by J. Jerebko,,86,82
+4,8:42.0,Personal foul by D. Lillard (drawn by K. Looney),,86,82
+4,8:36.0,Q. Cook makes 2-pt jump shot from 14 ft,,88,82
+4,8:35.0,,Portland full timeout,88,82
+4,8:14.0,,D. Lillard misses 3-pt jump shot from 29 ft,88,82
+4,8:10.0,Defensive rebound by K. Thompson,,88,82
+4,7:51.0,K. Thompson misses 2-pt jump shot from 17 ft,,88,82
+4,7:48.0,,Defensive rebound by Z. Collins,88,82
+4,7:37.0,,M. Leonard misses 3-pt jump shot from 26 ft,88,82
+4,7:34.0,Defensive rebound by K. Looney,,88,82
+4,7:26.0,J. Jerebko makes 2-pt jump shot from 14 ft (assist by K. Looney),,90,82
+4,7:10.0,,C. McCollum makes 2-pt layup from 1 ft (assist by M. Leonard),90,84
+4,7:09.0,Golden State full timeout,,90,84
+4,7:09.0,J. Bell enters the game for Q. Cook,,90,84
+4,7:09.0,S. Curry enters the game for J. Jerebko,,90,84
+4,7:09.0,D. Green enters the game for S. Livingston,,90,84
+4,7:09.0,A. McKinnie enters the game for K. Looney,,90,84
+4,7:09.0,,E. Turner enters the game for Z. Collins,90,84
+4,6:45.0,D. Green misses 3-pt jump shot from 35 ft,,90,84
+4,6:45.0,Offensive rebound by Team,,90,84
+4,6:45.0,Turnover by Team (shot clock),,90,84
+4,6:31.0,,D. Lillard misses 3-pt jump shot from 28 ft,90,84
+4,6:30.0,,Offensive rebound by Team,90,84
+4,6:30.0,Loose ball foul by J. Bell (drawn by M. Leonard),,90,84
+4,6:21.0,,Shooting foul by J. Bell (drawn by C. McCollum),90,84
+4,6:21.0,,C. McCollum makes free throw 1 of 3,90,85
+4,6:21.0,,C. McCollum misses free throw 2 of 3,90,85
+4,6:21.0,,Offensive rebound by Team,90,85
+4,6:21.0,,C. McCollum misses free throw 3 of 3,90,85
+4,6:19.0,Defensive rebound by A. McKinnie,,90,85
+4,6:16.0,Turnover by A. McKinnie (lost ball; steal by C. McCollum),,90,85
+4,6:10.0,,C. McCollum misses 3-pt jump shot from 24 ft,90,85
+4,6:08.0,Defensive rebound by D. Green,,90,85
+4,6:03.0,S. Curry makes 2-pt layup from 1 ft,,92,85
+4,5:50.0,,Turnover by E. Turner (bad pass; steal by D. Green),92,85
+4,5:34.0,A. McKinnie makes 3-pt jump shot from 22 ft (assist by K. Thompson),,95,85
+4,5:07.0,,M. Leonard misses 2-pt hook shot from 12 ft,95,85
+4,5:01.0,,Offensive rebound by E. Turner,95,85
+4,5:01.0,,E. Turner makes 2-pt layup at rim,95,87
+4,4:51.0,S. Curry makes 3-pt jump shot from 28 ft,,98,87
+4,4:31.0,,E. Turner makes 2-pt layup from 2 ft (assist by D. Lillard),98,89
+4,4:18.0,S. Curry makes 2-pt layup from 1 ft,,100,89
+4,4:18.0,,Portland full timeout,100,89
+4,4:18.0,K. Looney enters the game for J. Bell,,100,89
+4,4:18.0,,M. Harkless enters the game for M. Leonard,100,89
+4,4:07.0,,D. Lillard makes 3-pt jump shot from 27 ft (assist by E. Turner),100,92
+4,3:52.0,S. Curry misses 3-pt jump shot from 27 ft,,100,92
+4,3:49.0,,Defensive rebound by C. McCollum,100,92
+4,3:46.0,,D. Lillard misses 3-pt jump shot from 32 ft,100,92
+4,3:45.0,Defensive rebound by Team,,100,92
+4,3:45.0,,Loose ball foul by C. McCollum (drawn by S. Curry),100,92
+4,3:26.0,K. Looney makes 2-pt layup from 1 ft (assist by S. Curry),,102,92
+4,3:17.0,,C. McCollum misses 3-pt jump shot from 26 ft,102,92
+4,3:14.0,Defensive rebound by S. Curry,,102,92
+4,3:02.0,S. Curry makes 2-pt layup from 1 ft,,104,92
+4,2:49.0,,D. Lillard makes 3-pt jump shot from 26 ft,104,95
+4,2:27.0,S. Curry misses 3-pt jump shot from 23 ft,,104,95
+4,2:23.0,Offensive rebound by A. McKinnie,,104,95
+4,2:21.0,Personal foul by S. Curry (drawn by D. Green),,104,95
+4,2:12.0,K. Looney makes 2-pt dunk at rim (assist by D. Green),,106,95
+4,1:58.0,,S. Curry misses 3-pt jump shot from 26 ft,106,95
+4,1:54.0,Defensive rebound by A. McKinnie,,106,95
+4,1:33.0,Turnover by S. Curry (lost ball; steal by E. Turner),,106,95
+4,1:29.0,,E. Turner misses 2-pt layup from 1 ft (block by K. Thompson),106,95
+4,1:26.0,Defensive rebound by S. Curry,,106,95
+4,1:12.0,S. Curry misses 3-pt jump shot from 34 ft,,106,95
+4,1:12.0,,Defensive rebound by Team,106,95
+4,1:05.0,,Shooting foul by K. Thompson (drawn by D. Lillard),106,95
+4,1:05.0,,D. Lillard makes free throw 1 of 2,106,96
+4,1:05.0,,D. Lillard misses free throw 2 of 2,106,96
+4,1:03.0,Defensive rebound by D. Green,,106,96
+4,0:55.0,Shooting foul by M. Harkless (drawn by D. Green),,106,96
+4,0:55.0,D. Green makes free throw 1 of 2,,107,96
+4,0:55.0,D. Green makes free throw 2 of 2,,108,96
+4,0:46.0,,C. McCollum makes 3-pt jump shot from 26 ft (assist by D. Lillard),108,99
+4,0:28.0,Personal take foul by S. Curry (drawn by S. Curry),,108,99
+4,0:28.0,S. Curry makes free throw 1 of 2,,109,99
+4,0:28.0,S. Curry makes free throw 2 of 2,,110,99
+4,0:20.0,,C. McCollum misses 3-pt jump shot from 29 ft,110,99
+4,0:17.0,Defensive rebound by A. McKinnie,,110,99

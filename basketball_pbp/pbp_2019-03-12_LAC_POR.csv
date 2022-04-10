@@ -1,0 +1,492 @@
+QUARTER,TIME_REMAINING,PORTLAND_ACTION,LA CLIPPERS_ACTION,PORTLAND_SCORE,LA CLIPPERS_SCORE
+1,11:37.0,D. Lillard makes 3-pt jump shot from 25 ft,,3,0
+1,11:20.0,,Turnover by J. Green (lost ball; steal by A. Aminu),3,0
+1,11:11.0,C. McCollum misses 2-pt jump shot from 19 ft,,3,0
+1,11:11.0,,Defensive rebound by I. Zubac,3,0
+1,11:11.0,,LA Clippers full timeout,3,0
+1,10:52.0,,S. Gilgeous-Alexander makes 2-pt layup from 2 ft (assist by L. Shamet),3,2
+1,10:24.0,A. Aminu misses 3-pt jump shot from 23 ft,,3,2
+1,10:18.0,Offensive rebound by J. Nurkić,,3,2
+1,10:18.0,J. Nurkić misses 2-pt layup from 1 ft,,3,2
+1,10:18.0,,Defensive rebound by P. Beverley,3,2
+1,10:16.0,,Turnover by S. Gilgeous-Alexander (bad pass),3,2
+1,10:04.0,Shooting foul by P. Beverley (drawn by C. McCollum),,3,2
+1,10:04.0,C. McCollum makes free throw 1 of 2,,4,2
+1,10:04.0,C. McCollum makes free throw 2 of 2,,5,2
+1,9:50.0,,S. Gilgeous-Alexander makes 2-pt jump shot from 7 ft,5,4
+1,9:35.0,D. Lillard makes 2-pt layup from 1 ft (assist by C. McCollum),,7,4
+1,9:15.0,,Personal foul by M. Harkless (drawn by S. Gilgeous-Alexander),7,4
+1,9:06.0,,L. Shamet makes 2-pt jump shot from 12 ft (assist by P. Beverley),7,6
+1,8:46.0,Turnover by J. Nurkić (lost ball; steal by J. Green),,7,6
+1,8:41.0,,S. Gilgeous-Alexander makes 3-pt jump shot from 25 ft (assist by L. Shamet),7,9
+1,8:27.0,C. McCollum misses 3-pt jump shot from 24 ft,,7,9
+1,8:24.0,,Defensive rebound by I. Zubac,7,9
+1,8:09.0,,I. Zubac misses 2-pt layup from 2 ft (block by A. Aminu),7,9
+1,8:06.0,,Offensive rebound by I. Zubac,7,9
+1,8:05.0,,I. Zubac misses 2-pt layup from 1 ft,7,9
+1,8:05.0,,Offensive rebound by I. Zubac,7,9
+1,8:02.0,,Turnover by Team (shot clock),7,9
+1,7:50.0,M. Harkless makes 2-pt hook shot from 5 ft (assist by D. Lillard),,9,9
+1,7:40.0,,Turnover by I. Zubac (bad pass; steal by C. McCollum),9,9
+1,7:22.0,Shooting foul by I. Zubac (drawn by J. Nurkić),,9,9
+1,7:22.0,J. Nurkić misses free throw 1 of 2,,9,9
+1,7:22.0,Offensive rebound by Team,,9,9
+1,7:22.0,J. Nurkić makes free throw 2 of 2,,10,9
+1,7:03.0,,S. Gilgeous-Alexander makes 2-pt jump shot from 14 ft,10,11
+1,6:52.0,J. Nurkić makes 2-pt hook shot from 8 ft (assist by D. Lillard),,12,11
+1,6:43.0,,I. Zubac makes 2-pt jump shot from 18 ft (assist by P. Beverley),12,13
+1,6:33.0,Turnover by D. Lillard (lost ball; steal by S. Gilgeous-Alexander),,12,13
+1,6:29.0,,Turnover by S. Gilgeous-Alexander (bad pass; steal by D. Lillard),12,13
+1,6:14.0,J. Nurkić misses 2-pt dunk from 1 ft,,12,13
+1,6:11.0,,Defensive rebound by J. Green,12,13
+1,5:59.0,,I. Zubac misses 2-pt jump shot from 14 ft,12,13
+1,5:57.0,Defensive rebound by C. McCollum,,12,13
+1,5:44.0,C. McCollum misses 2-pt jump shot from 6 ft,,12,13
+1,5:42.0,,Defensive rebound by I. Zubac,12,13
+1,5:37.0,,L. Shamet makes 3-pt jump shot from 25 ft (assist by P. Beverley),12,16
+1,5:12.0,C. McCollum misses 3-pt jump shot from 26 ft,,12,16
+1,5:09.0,,Defensive rebound by I. Zubac,12,16
+1,5:00.0,,L. Shamet misses 2-pt layup from 2 ft,12,16
+1,5:00.0,,Offensive rebound by I. Zubac,12,16
+1,5:00.0,,I. Zubac misses 2-pt layup at rim,12,16
+1,5:00.0,Defensive rebound by Team,,12,16
+1,5:00.0,E. Freedom enters the game for M. Harkless,,12,16
+1,5:00.0,J. Layman enters the game for J. Nurkić,,12,16
+1,4:47.0,D. Lillard misses 3-pt jump shot from 26 ft,,12,16
+1,4:43.0,,Defensive rebound by J. Green,12,16
+1,4:32.0,,J. Green misses 2-pt jump shot from 18 ft,12,16
+1,4:28.0,Defensive rebound by J. Layman,,12,16
+1,4:23.0,Turnover by E. Freedom (out of bounds lost ball),,12,16
+1,4:23.0,,M. Harrell enters the game for S. Gilgeous-Alexander,12,16
+1,4:23.0,,L. Williams enters the game for I. Zubac,12,16
+1,4:08.0,,J. Green makes 3-pt jump shot from 24 ft (assist by P. Beverley),12,19
+1,4:07.0,Portland full timeout,,12,19
+1,3:52.0,A. Aminu misses 3-pt jump shot from 24 ft,,12,19
+1,3:48.0,Offensive rebound by E. Freedom,,12,19
+1,3:44.0,E. Freedom makes 2-pt hook shot from 3 ft (assist by D. Lillard),,14,19
+1,3:27.0,,L. Shamet misses 3-pt jump shot from 26 ft,14,19
+1,3:25.0,Defensive rebound by E. Freedom,,14,19
+1,3:19.0,C. McCollum misses 3-pt jump shot from 25 ft,,14,19
+1,3:16.0,,Defensive rebound by J. Green,14,19
+1,3:09.0,,M. Harrell misses 2-pt layup from 4 ft,14,19
+1,3:05.0,,Offensive rebound by M. Harrell,14,19
+1,3:05.0,,M. Harrell misses 2-pt layup at rim,14,19
+1,3:05.0,,Offensive rebound by J. Green,14,19
+1,3:02.0,,J. Green makes 2-pt layup at rim,14,21
+1,2:48.0,J. Layman makes 2-pt layup from 2 ft (assist by D. Lillard),,16,21
+1,2:22.0,,M. Harrell makes 2-pt layup from 3 ft (assist by P. Beverley),16,23
+1,2:12.0,Personal foul by L. Shamet (drawn by D. Lillard),,16,23
+1,2:12.0,Z. Collins enters the game for A. Aminu,,16,23
+1,2:12.0,S. Curry enters the game for C. McCollum,,16,23
+1,2:12.0,,G. Temple enters the game for L. Shamet,16,23
+1,1:58.0,Z. Collins misses 2-pt jump shot from 8 ft,,16,23
+1,1:55.0,Offensive rebound by E. Freedom,,16,23
+1,1:54.0,E. Freedom makes 2-pt layup from 1 ft,,18,23
+1,1:42.0,,Turnover by M. Harrell (bad pass; steal by D. Lillard),18,23
+1,1:39.0,D. Lillard makes 2-pt layup from 1 ft,,20,23
+1,1:26.0,,L. Williams makes 2-pt jump shot from 15 ft,20,25
+1,1:12.0,S. Curry makes 3-pt jump shot from 24 ft (assist by D. Lillard),,23,25
+1,1:02.0,,Turnover by L. Williams (bad pass; steal by E. Freedom),23,25
+1,0:42.0,E. Freedom misses 2-pt layup from 1 ft,,23,25
+1,0:40.0,,Defensive rebound by P. Beverley,23,25
+1,0:37.0,,G. Temple makes 3-pt jump shot from 25 ft (assist by P. Beverley),23,28
+1,0:31.0,Z. Collins misses 3-pt jump shot from 25 ft,,23,28
+1,0:30.0,,Defensive rebound by Team,23,28
+1,0:30.0,Loose ball foul by E. Freedom (drawn by M. Harrell),,23,28
+1,0:30.0,,W. Chandler enters the game for P. Beverley,23,28
+1,0:30.0,,T. Wallace enters the game for J. Green,23,28
+1,0:23.0,,Personal foul by D. Lillard (drawn by L. Williams),23,28
+1,0:23.0,,L. Williams makes free throw 1 of 2,23,29
+1,0:23.0,,L. Williams makes free throw 2 of 2,23,30
+1,0:08.0,Personal foul by G. Temple (drawn by D. Lillard),,23,30
+1,0:08.0,C. McCollum enters the game for Z. Collins,,23,30
+1,0:08.0,,S. Thornwell enters the game for L. Williams,23,30
+1,0:02.0,S. Curry misses 3-pt jump shot from 24 ft,,23,30
+1,0:00.0,,Defensive rebound by W. Chandler,23,30
+2,11:43.0,,L. Williams misses 2-pt jump shot from 19 ft,23,30
+2,11:41.0,Defensive rebound by E. Freedom,,23,30
+2,11:26.0,E. Freedom misses 3-pt jump shot from 24 ft,,23,30
+2,11:22.0,,Defensive rebound by W. Chandler,23,30
+2,11:05.0,,W. Chandler misses 3-pt jump shot from 24 ft,23,30
+2,11:03.0,Defensive rebound by E. Turner,,23,30
+2,10:55.0,J. Layman misses 2-pt layup from 2 ft,,23,30
+2,10:55.0,Offensive rebound by Team,,23,30
+2,10:52.0,E. Freedom misses 2-pt jump shot from 15 ft,,23,30
+2,10:49.0,,Defensive rebound by W. Chandler,23,30
+2,10:39.0,,M. Harrell misses 2-pt layup from 3 ft (block by E. Freedom),23,30
+2,10:36.0,Defensive rebound by E. Freedom,,23,30
+2,10:27.0,Z. Collins makes 2-pt layup from 2 ft (assist by E. Turner),,25,30
+2,10:12.0,,L. Williams makes 2-pt jump shot from 7 ft (assist by M. Harrell),25,32
+2,9:51.0,E. Turner makes 2-pt jump shot from 19 ft,,27,32
+2,9:39.0,,L. Williams misses 2-pt jump shot from 5 ft,27,32
+2,9:36.0,Defensive rebound by Z. Collins,,27,32
+2,9:24.0,E. Freedom makes 2-pt layup from 3 ft (assist by S. Curry),,29,32
+2,9:08.0,,W. Chandler makes 3-pt jump shot from 27 ft (assist by L. Williams),29,35
+2,8:47.0,S. Curry misses 3-pt jump shot from 25 ft,,29,35
+2,8:45.0,,Defensive rebound by T. Wallace,29,35
+2,8:42.0,,G. Temple misses 2-pt layup at rim,29,35
+2,8:38.0,Defensive rebound by J. Layman,,29,35
+2,8:36.0,S. Curry makes 3-pt jump shot from 23 ft (assist by J. Layman),,32,35
+2,8:36.0,Shooting foul by M. Harrell (drawn by S. Curry),,32,35
+2,8:36.0,,S. Gilgeous-Alexander enters the game for T. Wallace,32,35
+2,8:36.0,S. Curry misses free throw 1 of 1,,32,35
+2,8:34.0,,Defensive rebound by M. Harrell,32,35
+2,8:28.0,,Personal foul by E. Turner (drawn by L. Williams),32,35
+2,8:23.0,,L. Williams misses 2-pt jump shot from 17 ft,32,35
+2,8:21.0,Defensive rebound by E. Turner,,32,35
+2,8:15.0,J. Layman misses 3-pt jump shot from 25 ft,,32,35
+2,8:13.0,,Defensive rebound by Team,32,35
+2,8:01.0,,M. Harrell misses 2-pt jump shot from 12 ft,32,35
+2,7:59.0,Defensive rebound by Z. Collins,,32,35
+2,7:41.0,S. Curry misses 2-pt layup from 3 ft,,32,35
+2,7:41.0,,Defensive rebound by Team,32,35
+2,7:41.0,Loose ball foul by E. Freedom (drawn by M. Harrell),,32,35
+2,7:26.0,,L. Williams misses 2-pt jump shot from 6 ft,32,35
+2,7:22.0,,Offensive rebound by W. Chandler,32,35
+2,7:22.0,C. McCollum enters the game for J. Layman,,32,35
+2,7:15.0,,M. Harrell makes 3-pt jump shot from 26 ft (assist by L. Williams),32,38
+2,6:57.0,Shooting foul by W. Chandler (drawn by E. Freedom),,32,38
+2,6:57.0,,LA Clippers full timeout,32,38
+2,6:57.0,M. Harkless enters the game for E. Turner,,32,38
+2,6:57.0,,P. Beverley enters the game for G. Temple,32,38
+2,6:57.0,E. Freedom makes free throw 1 of 2,,33,38
+2,6:57.0,E. Freedom misses free throw 2 of 2,,33,38
+2,6:53.0,,Defensive rebound by M. Harrell,33,38
+2,6:46.0,,L. Williams misses 2-pt jump shot from 18 ft,33,38
+2,6:43.0,Defensive rebound by Z. Collins,,33,38
+2,6:27.0,E. Freedom makes 2-pt hook shot from 5 ft,,35,38
+2,6:07.0,,P. Beverley misses 2-pt jump shot from 11 ft,35,38
+2,6:04.0,,Offensive rebound by P. Beverley,35,38
+2,5:58.0,,W. Chandler makes 3-pt jump shot from 23 ft (assist by S. Gilgeous-Alexander),35,41
+2,5:39.0,Z. Collins misses 3-pt jump shot from 25 ft,,35,41
+2,5:37.0,Offensive rebound by E. Freedom,,35,41
+2,5:37.0,E. Freedom misses 2-pt layup from 1 ft,,35,41
+2,5:37.0,Offensive rebound by M. Harkless,,35,41
+2,5:37.0,Shooting foul by S. Gilgeous-Alexander (drawn by M. Harkless),,35,41
+2,5:37.0,Portland full timeout,,35,41
+2,5:37.0,A. Aminu enters the game for Z. Collins,,35,41
+2,5:37.0,D. Lillard enters the game for S. Curry,,35,41
+2,5:37.0,J. Nurkić enters the game for E. Freedom,,35,41
+2,5:37.0,,J. Green enters the game for W. Chandler,35,41
+2,5:37.0,,L. Shamet enters the game for M. Harrell,35,41
+2,5:37.0,,I. Zubac enters the game for L. Williams,35,41
+2,5:37.0,M. Harkless misses free throw 1 of 2,,35,41
+2,5:37.0,Offensive rebound by Team,,35,41
+2,5:37.0,M. Harkless misses free throw 2 of 2,,35,41
+2,5:33.0,Offensive rebound by A. Aminu,,35,41
+2,5:32.0,Personal foul by J. Green (drawn by A. Aminu),,35,41
+2,5:22.0,A. Aminu misses 2-pt jump shot from 18 ft,,35,41
+2,5:18.0,,Defensive rebound by J. Green,35,41
+2,5:11.0,,Shooting foul by D. Lillard (drawn by P. Beverley),35,41
+2,5:11.0,,P. Beverley makes free throw 1 of 2,35,42
+2,5:11.0,,P. Beverley makes free throw 2 of 2,35,43
+2,4:56.0,C. McCollum misses 3-pt jump shot from 24 ft,,35,43
+2,4:53.0,,Defensive rebound by J. Green,35,43
+2,4:48.0,,S. Gilgeous-Alexander misses 2-pt layup from 2 ft,35,43
+2,4:48.0,,Offensive rebound by I. Zubac,35,43
+2,4:44.0,,I. Zubac misses 2-pt layup at rim,35,43
+2,4:43.0,,Offensive rebound by I. Zubac,35,43
+2,4:43.0,,I. Zubac misses 2-pt layup at rim (block by M. Harkless),35,43
+2,4:43.0,Defensive rebound by D. Lillard,,35,43
+2,4:39.0,D. Lillard misses 2-pt jump shot from 12 ft,,35,43
+2,4:39.0,Offensive rebound by Team,,35,43
+2,4:31.0,J. Nurkić misses 2-pt hook shot from 7 ft,,35,43
+2,4:31.0,Offensive rebound by J. Nurkić,,35,43
+2,4:26.0,J. Nurkić misses 2-pt layup from 8 ft,,35,43
+2,4:26.0,Offensive rebound by M. Harkless,,35,43
+2,4:23.0,M. Harkless makes 2-pt layup from 1 ft,,37,43
+2,4:01.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 11 ft,37,43
+2,4:00.0,,Offensive rebound by Team,37,43
+2,3:56.0,,L. Shamet misses 3-pt jump shot from 24 ft,37,43
+2,3:54.0,Defensive rebound by J. Nurkić,,37,43
+2,3:47.0,J. Nurkić makes 2-pt layup from 2 ft (assist by D. Lillard),,39,43
+2,3:29.0,,P. Beverley makes 2-pt layup from 3 ft (assist by I. Zubac),39,45
+2,3:21.0,M. Harkless makes 2-pt layup from 1 ft (assist by C. McCollum),,41,45
+2,3:13.0,,Turnover by S. Gilgeous-Alexander (traveling),41,45
+2,2:53.0,D. Lillard makes 2-pt jump shot from 13 ft,,43,45
+2,2:34.0,,S. Gilgeous-Alexander misses 2-pt layup from 3 ft,43,45
+2,2:29.0,,Offensive rebound by I. Zubac,43,45
+2,2:29.0,,I. Zubac misses 2-pt layup at rim,43,45
+2,2:28.0,,I. Zubac makes 2-pt layup at rim,43,47
+2,2:28.0,,Offensive rebound by I. Zubac,43,47
+2,2:20.0,Shooting foul by J. Green (drawn by J. Nurkić),,43,47
+2,2:20.0,J. Nurkić makes free throw 1 of 2,,44,47
+2,2:20.0,J. Nurkić makes free throw 2 of 2,,45,47
+2,1:59.0,,P. Beverley misses 2-pt layup from 3 ft,45,47
+2,1:57.0,Defensive rebound by D. Lillard,,45,47
+2,1:53.0,Turnover by D. Lillard (bad pass),,45,47
+2,1:53.0,,L. Williams enters the game for S. Gilgeous-Alexander,45,47
+2,1:33.0,,Shooting foul by J. Nurkić (drawn by I. Zubac),45,47
+2,1:33.0,,I. Zubac makes free throw 1 of 2,45,48
+2,1:33.0,,I. Zubac makes free throw 2 of 2,45,49
+2,1:19.0,D. Lillard misses 2-pt layup from 1 ft,,45,49
+2,1:10.0,Offensive rebound by J. Nurkić,,45,49
+2,1:10.0,J. Nurkić misses 2-pt layup from 1 ft,,45,49
+2,1:08.0,,Defensive rebound by J. Green,45,49
+2,1:07.0,,P. Beverley misses 2-pt layup from 2 ft (block by M. Harkless),45,49
+2,1:04.0,Defensive rebound by A. Aminu,,45,49
+2,1:02.0,C. McCollum misses 2-pt jump shot from 19 ft,,45,49
+2,0:59.0,,Defensive rebound by J. Green,45,49
+2,0:52.0,,L. Williams makes 2-pt layup from 2 ft,45,51
+2,0:32.0,A. Aminu makes 2-pt hook shot from 7 ft,,47,51
+2,0:16.0,,Personal foul by M. Harkless (drawn by L. Williams),47,51
+2,0:16.0,,Offensive rebound by Team,47,51
+2,0:16.0,,L. Williams misses free throw 1 of 2,47,51
+2,0:16.0,S. Curry enters the game for A. Aminu,,47,51
+2,0:16.0,,L. Williams makes free throw 2 of 2,47,52
+2,0:02.0,C. McCollum makes 3-pt jump shot from 24 ft (assist by M. Harkless),,50,52
+2,0:00.0,,I. Zubac misses 2-pt layup from 2 ft,50,52
+2,0:00.0,,Offensive rebound by I. Zubac,50,52
+3,11:46.0,,L. Shamet makes 3-pt jump shot from 24 ft (assist by S. Gilgeous-Alexander),50,55
+3,11:29.0,C. McCollum makes 2-pt jump shot from 7 ft (assist by D. Lillard),,52,55
+3,11:08.0,,J. Green misses 2-pt jump shot from 16 ft,52,55
+3,11:05.0,Defensive rebound by D. Lillard,,52,55
+3,10:57.0,J. Nurkić makes 2-pt dunk from 1 ft (assist by D. Lillard),,54,55
+3,10:38.0,,L. Shamet makes 3-pt jump shot from 25 ft (assist by I. Zubac),54,58
+3,10:17.0,D. Lillard makes 2-pt layup from 2 ft,,56,58
+3,10:00.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 19 ft,56,58
+3,9:56.0,Defensive rebound by C. McCollum,,56,58
+3,9:49.0,Turnover by J. Nurkić (bad pass; steal by S. Gilgeous-Alexander),,56,58
+3,9:36.0,,I. Zubac makes 2-pt hook shot from 4 ft (assist by P. Beverley),56,60
+3,9:23.0,D. Lillard makes 3-pt jump shot from 26 ft (assist by J. Nurkić),,59,60
+3,9:08.0,,I. Zubac makes 2-pt layup from 2 ft (assist by S. Gilgeous-Alexander),59,62
+3,8:57.0,A. Aminu makes 2-pt dunk from 1 ft (assist by J. Nurkić),,61,62
+3,8:48.0,,Shooting foul by A. Aminu (drawn by S. Gilgeous-Alexander),61,62
+3,8:48.0,,S. Gilgeous-Alexander makes free throw 1 of 2,61,63
+3,8:48.0,,S. Gilgeous-Alexander misses free throw 2 of 2,61,63
+3,8:46.0,Defensive rebound by A. Aminu,,61,63
+3,8:37.0,D. Lillard misses 2-pt layup from 1 ft,,61,63
+3,8:35.0,,Defensive rebound by J. Green,61,63
+3,8:26.0,,S. Gilgeous-Alexander makes 2-pt jump shot from 6 ft,61,65
+3,8:16.0,Turnover by J. Nurkić (bad pass),,61,65
+3,8:07.0,,L. Shamet misses 3-pt jump shot from 26 ft,61,65
+3,8:05.0,Defensive rebound by J. Nurkić,,61,65
+3,7:56.0,M. Harkless misses 3-pt jump shot from 24 ft,,61,65
+3,7:53.0,Offensive rebound by J. Nurkić,,61,65
+3,7:53.0,J. Nurkić makes 2-pt layup at rim,,63,65
+3,7:53.0,Shooting foul by I. Zubac (drawn by J. Nurkić),,63,65
+3,7:53.0,J. Nurkić makes free throw 1 of 1,,64,65
+3,7:45.0,,Personal foul by C. McCollum (drawn by L. Shamet),64,65
+3,7:34.0,,I. Zubac misses 2-pt hook shot from 3 ft,64,65
+3,7:30.0,Defensive rebound by A. Aminu,,64,65
+3,7:22.0,J. Nurkić makes 2-pt layup from 1 ft (assist by D. Lillard),,66,65
+3,6:55.0,,I. Zubac misses 2-pt jump shot from 18 ft,66,65
+3,6:52.0,Defensive rebound by A. Aminu,,66,65
+3,6:45.0,C. McCollum makes 2-pt jump shot from 8 ft (assist by M. Harkless),,68,65
+3,6:39.0,,LA Clippers full timeout,68,65
+3,6:39.0,,M. Harrell enters the game for I. Zubac,68,65
+3,6:22.0,,P. Beverley misses 2-pt jump shot from 8 ft,68,65
+3,6:20.0,,Offensive rebound by M. Harrell,68,65
+3,6:16.0,,S. Gilgeous-Alexander makes 2-pt layup from 2 ft (assist by M. Harrell),68,67
+3,5:59.0,Def 3 sec tech foul by Team,,68,67
+3,5:59.0,,L. Williams enters the game for L. Shamet,68,67
+3,5:59.0,D. Lillard makes technical free throw,,69,67
+3,5:52.0,C. McCollum misses 3-pt jump shot from 26 ft,,69,67
+3,5:48.0,Offensive rebound by J. Nurkić,,69,67
+3,5:48.0,J. Nurkić misses 2-pt layup from 2 ft,,69,67
+3,5:48.0,Offensive rebound by M. Harkless,,69,67
+3,5:44.0,M. Harkless misses 2-pt layup at rim,,69,67
+3,5:43.0,,Defensive rebound by S. Gilgeous-Alexander,69,67
+3,5:34.0,,Shooting foul by A. Aminu (drawn by M. Harrell),69,67
+3,5:34.0,,Offensive rebound by Team,69,67
+3,5:34.0,,M. Harrell misses free throw 1 of 2,69,67
+3,5:34.0,,M. Harrell makes free throw 2 of 2,69,68
+3,5:13.0,C. McCollum makes 3-pt jump shot from 25 ft (assist by M. Harkless),,72,68
+3,4:59.0,,Turnover by L. Williams (bad pass; steal by A. Aminu),72,68
+3,4:55.0,D. Lillard makes 3-pt jump shot from 25 ft (assist by C. McCollum),,75,68
+3,4:53.0,,LA Clippers full timeout,75,68
+3,4:36.0,,L. Williams misses 2-pt jump shot from 5 ft,75,68
+3,4:32.0,,Offensive rebound by M. Harrell,75,68
+3,4:32.0,,M. Harrell makes 2-pt layup from 1 ft,75,70
+3,4:15.0,A. Aminu misses 2-pt layup from 2 ft (block by M. Harrell),,75,70
+3,4:14.0,Offensive rebound by J. Nurkić,,75,70
+3,4:14.0,J. Nurkić misses 2-pt layup from 2 ft,,75,70
+3,4:14.0,Offensive rebound by J. Nurkić,,75,70
+3,4:14.0,Shooting foul by S. Gilgeous-Alexander (drawn by J. Nurkić),,75,70
+3,4:14.0,J. Nurkić makes free throw 1 of 2,,76,70
+3,4:14.0,,G. Temple enters the game for S. Gilgeous-Alexander,76,70
+3,4:14.0,J. Nurkić makes free throw 2 of 2,,77,70
+3,4:06.0,,G. Temple misses 2-pt jump shot from 7 ft,77,70
+3,4:04.0,,Offensive rebound by M. Harrell,77,70
+3,4:02.0,,M. Harrell misses 2-pt layup from 1 ft (block by M. Harkless),77,70
+3,4:02.0,,Offensive rebound by M. Harrell,77,70
+3,3:55.0,,M. Harrell makes 2-pt dunk from 1 ft,77,72
+3,3:40.0,J. Nurkić makes 2-pt layup from 2 ft (assist by C. McCollum),,79,72
+3,3:39.0,Violation by Team (delay of game),,79,72
+3,3:32.0,,Shooting foul by J. Nurkić (drawn by M. Harrell),79,72
+3,3:32.0,,Offensive rebound by Team,79,72
+3,3:32.0,,M. Harrell misses free throw 1 of 2,79,72
+3,3:32.0,S. Curry enters the game for M. Harkless,,79,72
+3,3:32.0,E. Freedom enters the game for C. McCollum,,79,72
+3,3:32.0,J. Layman enters the game for J. Nurkić,,79,72
+3,3:32.0,,W. Chandler enters the game for J. Green,79,72
+3,3:32.0,,M. Harrell makes free throw 2 of 2,79,73
+3,3:17.0,Turnover by J. Layman (bad pass; steal by P. Beverley),,79,73
+3,3:12.0,,G. Temple makes 2-pt layup from 1 ft,79,75
+3,2:51.0,J. Layman misses 2-pt layup from 1 ft (block by M. Harrell),,79,75
+3,2:51.0,Offensive rebound by Team,,79,75
+3,2:46.0,D. Lillard misses 3-pt jump shot from 25 ft,,79,75
+3,2:44.0,Offensive rebound by Team,,79,75
+3,2:31.0,D. Lillard makes 2-pt layup from 2 ft (assist by E. Freedom),,81,75
+3,2:22.0,,Offensive foul by M. Harrell (drawn by D. Lillard),81,75
+3,2:22.0,,Turnover by M. Harrell (offensive foul),81,75
+3,2:22.0,,T. Wallace enters the game for P. Beverley,81,75
+3,2:14.0,Personal foul by M. Harrell (drawn by S. Curry),,81,75
+3,2:14.0,Z. Collins enters the game for A. Aminu,,81,75
+3,2:04.0,Turnover by E. Freedom (bad pass; steal by G. Temple),,81,75
+3,2:04.0,,Personal foul by Z. Collins (drawn by L. Williams),81,75
+3,2:04.0,,L. Williams makes free throw 1 of 2,81,76
+3,2:04.0,,L. Williams makes free throw 2 of 2,81,77
+3,1:46.0,Turnover by J. Layman (lost ball; steal by L. Williams),,81,77
+3,1:35.0,,M. Harrell misses 2-pt jump shot from 7 ft,81,77
+3,1:34.0,,Offensive rebound by M. Harrell,81,77
+3,1:34.0,,M. Harrell misses 2-pt layup from 1 ft,81,77
+3,1:34.0,,Offensive rebound by M. Harrell,81,77
+3,1:34.0,,M. Harrell makes 2-pt layup from 1 ft,81,79
+3,1:34.0,Portland full timeout,,81,79
+3,1:13.0,E. Freedom misses 2-pt layup from 1 ft (block by M. Harrell),,81,79
+3,1:12.0,,Defensive rebound by Team,81,79
+3,1:04.0,,Personal foul by S. Curry (drawn by L. Williams),81,79
+3,1:04.0,,L. Williams makes free throw 1 of 2,81,80
+3,1:04.0,,L. Williams misses free throw 2 of 2,81,80
+3,1:00.0,Defensive rebound by J. Layman,,81,80
+3,0:55.0,J. Layman makes 2-pt layup from 2 ft (assist by E. Freedom),,83,80
+3,0:42.0,,L. Williams makes 2-pt jump shot from 15 ft (assist by M. Harrell),83,82
+3,0:28.0,J. Layman makes 2-pt layup from 2 ft (assist by E. Freedom),,85,82
+3,0:18.0,,T. Wallace misses 2-pt jump shot from 8 ft,85,82
+3,0:17.0,,Offensive rebound by M. Harrell,85,82
+3,0:17.0,,Shooting foul by E. Freedom (drawn by M. Harrell),85,82
+3,0:17.0,,M. Harrell makes free throw 1 of 2,85,83
+3,0:17.0,C. McCollum enters the game for Z. Collins,,85,83
+3,0:17.0,,S. Thornwell enters the game for L. Williams,85,83
+3,0:17.0,,M. Harrell makes free throw 2 of 2,85,84
+3,0:04.0,Personal foul by G. Temple (drawn by D. Lillard),,85,84
+3,0:02.0,Turnover by D. Lillard (bad pass; steal by W. Chandler),,85,84
+4,11:51.0,Personal foul by G. Temple (drawn by C. McCollum),,85,84
+4,11:37.0,E. Turner misses 2-pt jump shot from 13 ft,,85,84
+4,11:33.0,,Defensive rebound by G. Temple,85,84
+4,11:19.0,,Turnover by L. Williams (bad pass; steal by S. Curry),85,84
+4,11:07.0,S. Curry makes 2-pt jump shot from 19 ft,,87,84
+4,10:49.0,,M. Harrell makes 2-pt layup from 5 ft,87,86
+4,10:28.0,S. Curry misses 2-pt jump shot from 7 ft,,87,86
+4,10:27.0,Offensive rebound by E. Freedom,,87,86
+4,10:27.0,E. Freedom misses 2-pt layup from 2 ft,,87,86
+4,10:26.0,Offensive rebound by E. Freedom,,87,86
+4,10:26.0,E. Freedom makes 2-pt layup from 1 ft,,89,86
+4,10:26.0,Shooting foul by G. Temple (drawn by E. Freedom),,89,86
+4,10:26.0,E. Freedom makes free throw 1 of 1,,90,86
+4,10:15.0,,L. Williams misses 2-pt jump shot from 19 ft,90,86
+4,10:11.0,,Offensive rebound by W. Chandler,90,86
+4,10:04.0,,Shooting foul by E. Freedom (drawn by L. Williams),90,86
+4,10:04.0,,L. Williams makes free throw 1 of 2,90,87
+4,10:04.0,,S. Gilgeous-Alexander enters the game for T. Wallace,90,87
+4,10:04.0,,L. Williams makes free throw 2 of 2,90,88
+4,9:50.0,C. McCollum makes 2-pt jump shot from 8 ft,,92,88
+4,9:33.0,,L. Williams makes 2-pt layup from 2 ft,92,90
+4,9:23.0,C. McCollum makes 3-pt jump shot from 26 ft,,95,90
+4,9:13.0,,M. Harrell makes 2-pt layup from 1 ft (assist by L. Williams),95,92
+4,8:56.0,J. Layman misses 3-pt jump shot from 25 ft,,95,92
+4,8:53.0,,Defensive rebound by G. Temple,95,92
+4,8:50.0,,G. Temple makes 2-pt jump shot from 9 ft,95,94
+4,8:50.0,,Shooting foul by C. McCollum (drawn by G. Temple),95,94
+4,8:50.0,,G. Temple misses free throw 1 of 1,95,94
+4,8:47.0,Defensive rebound by J. Layman,,95,94
+4,8:37.0,Shooting foul by W. Chandler (drawn by E. Freedom),,95,94
+4,8:37.0,E. Freedom makes free throw 1 of 2,,96,94
+4,8:37.0,,L. Shamet enters the game for G. Temple,96,94
+4,8:37.0,E. Freedom makes free throw 2 of 2,,97,94
+4,8:27.0,,Personal foul by C. McCollum (drawn by L. Williams),97,94
+4,8:21.0,,L. Williams misses 2-pt jump shot from 18 ft,97,94
+4,8:19.0,Defensive rebound by S. Curry,,97,94
+4,8:19.0,Turnover by S. Curry (out of bounds lost ball),,97,94
+4,8:06.0,,W. Chandler misses 2-pt hook shot from 7 ft,97,94
+4,8:04.0,Defensive rebound by E. Freedom,,97,94
+4,7:58.0,C. McCollum makes 2-pt jump shot from 8 ft,,99,94
+4,7:58.0,Shooting foul by S. Gilgeous-Alexander (drawn by C. McCollum),,99,94
+4,7:58.0,C. McCollum misses free throw 1 of 1,,99,94
+4,7:55.0,Offensive rebound by C. McCollum,,99,94
+4,7:53.0,S. Curry misses 3-pt jump shot from 25 ft,,99,94
+4,7:49.0,Offensive rebound by C. McCollum,,99,94
+4,7:44.0,C. McCollum makes 2-pt jump shot from 16 ft,,101,94
+4,7:26.0,,M. Harrell makes 2-pt dunk from 2 ft (assist by S. Gilgeous-Alexander),101,96
+4,7:04.0,C. McCollum makes 3-pt jump shot from 26 ft,,104,96
+4,6:54.0,,L. Williams misses 2-pt jump shot from 2 ft,104,96
+4,6:49.0,,Offensive rebound by S. Gilgeous-Alexander,104,96
+4,6:47.0,,Shooting foul by C. McCollum (drawn by M. Harrell),104,96
+4,6:47.0,,LA Clippers full timeout,104,96
+4,6:47.0,M. Harkless enters the game for S. Curry,,104,96
+4,6:47.0,D. Lillard enters the game for E. Freedom,,104,96
+4,6:47.0,J. Nurkić enters the game for E. Turner,,104,96
+4,6:47.0,,P. Beverley enters the game for W. Chandler,104,96
+4,6:47.0,,J. Green enters the game for S. Gilgeous-Alexander,104,96
+4,6:47.0,,M. Harrell misses free throw 1 of 2,104,96
+4,6:47.0,,Offensive rebound by Team,104,96
+4,6:47.0,,M. Harrell makes free throw 2 of 2,104,97
+4,6:28.0,C. McCollum makes 3-pt jump shot from 26 ft,,107,97
+4,6:04.0,,J. Green misses 3-pt jump shot from 23 ft,107,97
+4,6:02.0,Defensive rebound by J. Nurkić,,107,97
+4,5:40.0,C. McCollum makes 3-pt jump shot from 25 ft (assist by D. Lillard),,110,97
+4,5:17.0,,P. Beverley misses 2-pt layup from 1 ft,110,97
+4,5:12.0,,J. Green makes 2-pt layup from 1 ft,110,99
+4,5:12.0,,Offensive rebound by J. Green,110,99
+4,4:54.0,Shooting foul by P. Beverley (drawn by C. McCollum),,110,99
+4,4:54.0,C. McCollum makes free throw 1 of 3,,111,99
+4,4:54.0,C. McCollum makes free throw 2 of 3,,112,99
+4,4:54.0,C. McCollum makes free throw 3 of 3,,113,99
+4,4:46.0,,L. Williams misses 2-pt jump shot from 9 ft,113,99
+4,4:42.0,,Offensive rebound by L. Williams,113,99
+4,4:41.0,,L. Williams misses 2-pt jump shot from 6 ft,113,99
+4,4:40.0,Defensive rebound by J. Nurkić,,113,99
+4,4:34.0,J. Layman makes 3-pt jump shot from 24 ft (assist by D. Lillard),,116,99
+4,4:33.0,,LA Clippers full timeout,116,99
+4,4:19.0,,L. Shamet misses 2-pt jump shot from 14 ft,116,99
+4,4:16.0,Defensive rebound by M. Harkless,,116,99
+4,3:55.0,C. McCollum misses 2-pt jump shot from 16 ft,,116,99
+4,3:52.0,,Defensive rebound by M. Harrell,116,99
+4,3:44.0,,Turnover by L. Williams (bad pass; steal by C. McCollum),116,99
+4,3:39.0,D. Lillard misses 3-pt jump shot from 25 ft,,116,99
+4,3:37.0,,Defensive rebound by Team,116,99
+4,3:37.0,,W. Chandler enters the game for M. Harrell,116,99
+4,3:37.0,,S. Gilgeous-Alexander enters the game for L. Shamet,116,99
+4,3:37.0,,I. Zubac enters the game for L. Williams,116,99
+4,3:20.0,,W. Chandler misses 3-pt jump shot from 25 ft,116,99
+4,3:13.0,,Offensive rebound by J. Green,116,99
+4,3:13.0,,J. Green makes 2-pt layup from 1 ft,116,101
+4,2:53.0,J. Nurkić misses 2-pt hook shot from 6 ft,,116,101
+4,2:53.0,Offensive rebound by Team,,116,101
+4,2:53.0,,T. Wallace enters the game for P. Beverley,116,101
+4,2:51.0,C. McCollum makes 2-pt layup from 2 ft (assist by D. Lillard),,118,101
+4,2:40.0,,S. Gilgeous-Alexander misses 2-pt jump shot from 8 ft,118,101
+4,2:40.0,Defensive rebound by J. Nurkić,,118,101
+4,2:31.0,Shooting foul by J. Green (drawn by J. Nurkić),,118,101
+4,2:31.0,J. Nurkić makes free throw 1 of 2,,119,101
+4,2:31.0,S. Curry enters the game for M. Harkless,,119,101
+4,2:31.0,S. Labissière enters the game for D. Lillard,,119,101
+4,2:31.0,G. Trent enters the game for C. McCollum,,119,101
+4,2:31.0,J. Nurkić makes free throw 2 of 2,,120,101
+4,2:30.0,,Personal take foul by J. Nurkić (drawn by S. Gilgeous-Alexander),120,101
+4,2:30.0,,Offensive rebound by Team,120,101
+4,2:30.0,,S. Gilgeous-Alexander misses free throw 1 of 2,120,101
+4,2:30.0,Z. Collins enters the game for J. Nurkić,,120,101
+4,2:30.0,,S. Gilgeous-Alexander makes free throw 2 of 2,120,102
+4,2:15.0,G. Trent misses 2-pt jump shot from 18 ft,,120,102
+4,2:13.0,,Defensive rebound by I. Zubac,120,102
+4,2:06.0,,T. Wallace misses 2-pt jump shot from 16 ft,120,102
+4,2:04.0,Defensive rebound by Team,,120,102
+4,2:04.0,,S. Thornwell enters the game for S. Gilgeous-Alexander,120,102
+4,1:48.0,Personal foul by J. Green (drawn by Z. Collins),,120,102
+4,1:48.0,Z. Collins makes free throw 1 of 2,,121,102
+4,1:48.0,Z. Collins misses free throw 2 of 2,,121,102
+4,1:44.0,,Defensive rebound by I. Zubac,121,102
+4,1:29.0,,T. Wallace misses 2-pt hook shot from 7 ft,121,102
+4,1:25.0,,Offensive rebound by I. Zubac,121,102
+4,1:25.0,,I. Zubac misses 2-pt layup from 1 ft,121,102
+4,1:25.0,Defensive rebound by G. Trent,,121,102
+4,1:19.0,G. Trent makes 2-pt jump shot from 17 ft,,123,102
+4,1:02.0,,S. Thornwell misses 2-pt jump shot from 7 ft,123,102
+4,1:02.0,Defensive rebound by Z. Collins,,123,102
+4,0:49.0,S. Curry makes 2-pt jump shot from 19 ft,,125,102
+4,0:35.0,,J. Green misses 2-pt jump shot from 21 ft,125,102
+4,0:34.0,Defensive rebound by S. Curry,,125,102
+4,0:31.0,Turnover by S. Labissière (traveling),,125,102
+4,0:23.0,,T. Wallace makes 2-pt hook shot from 7 ft,125,104

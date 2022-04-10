@@ -1,0 +1,435 @@
+QUARTER,TIME_REMAINING,CHARLOTTE_ACTION,TORONTO_ACTION,CHARLOTTE_SCORE,TORONTO_SCORE
+1,11:42.0,,K. Lowry makes 3-pt jump shot from 28 ft (assist by D. Green),0,3
+1,11:26.0,C. Zeller misses 2-pt layup from 3 ft,,0,3
+1,11:24.0,,Defensive rebound by D. Green,0,3
+1,11:11.0,,S. Ibaka misses 3-pt jump shot from 27 ft,0,3
+1,11:09.0,,Offensive rebound by P. Siakam,0,3
+1,11:07.0,,K. Lowry misses 3-pt jump shot from 27 ft,0,3
+1,11:04.0,Defensive rebound by J. Lamb,,0,3
+1,10:55.0,M. Williams misses 2-pt layup from 2 ft (block by S. Ibaka),,0,3
+1,10:52.0,,Defensive rebound by K. Leonard,0,3
+1,10:48.0,,K. Leonard makes 3-pt jump shot from 27 ft,0,6
+1,10:29.0,K. Walker makes 2-pt jump shot from 12 ft,,2,6
+1,10:14.0,,K. Leonard makes 2-pt jump shot from 12 ft (assist by K. Lowry),2,8
+1,9:56.0,C. Zeller makes 2-pt hook shot from 4 ft (assist by K. Walker),,4,8
+1,9:46.0,,P. Siakam makes 2-pt dunk from 1 ft (assist by K. Lowry),4,10
+1,9:44.0,Charlotte full timeout,,4,10
+1,9:26.0,J. Lamb misses 2-pt jump shot from 10 ft,,4,10
+1,9:23.0,,Defensive rebound by D. Green,4,10
+1,9:10.0,,S. Ibaka makes 2-pt hook shot from 4 ft (assist by D. Green),4,12
+1,8:49.0,J. Lamb makes 2-pt jump shot from 17 ft (assist by N. Batum),,6,12
+1,8:28.0,,S. Ibaka misses 3-pt jump shot from 26 ft,6,12
+1,8:25.0,Defensive rebound by J. Lamb,,6,12
+1,8:11.0,M. Williams misses 2-pt hook shot from 9 ft,,6,12
+1,8:07.0,,Defensive rebound by K. Leonard,6,12
+1,7:48.0,,Turnover by P. Siakam (lost ball; steal by M. Williams),6,12
+1,7:43.0,Personal foul by P. Siakam (drawn by K. Walker),,6,12
+1,7:35.0,K. Walker misses 2-pt layup from 5 ft,,6,12
+1,7:32.0,Offensive rebound by C. Zeller,,6,12
+1,7:29.0,J. Lamb misses 2-pt jump shot from 21 ft,,6,12
+1,7:26.0,,Defensive rebound by S. Ibaka,6,12
+1,7:23.0,,K. Lowry makes 2-pt layup from 3 ft,6,14
+1,7:23.0,,Shooting foul by N. Batum (drawn by K. Lowry),6,14
+1,7:23.0,,K. Lowry makes free throw 1 of 1,6,15
+1,7:14.0,K. Walker misses 3-pt jump shot from 25 ft,,6,15
+1,7:12.0,Offensive rebound by C. Zeller,,6,15
+1,7:10.0,N. Batum misses 3-pt jump shot from 23 ft,,6,15
+1,7:09.0,Offensive rebound by Team,,6,15
+1,7:09.0,,Loose ball foul by P. Siakam (drawn by J. Lamb),6,15
+1,6:57.0,J. Lamb misses 2-pt hook shot from 4 ft,,6,15
+1,6:55.0,,Defensive rebound by D. Green,6,15
+1,6:44.0,,K. Lowry misses 3-pt jump shot from 26 ft,6,15
+1,6:41.0,Defensive rebound by M. Williams,,6,15
+1,6:31.0,Shooting foul by K. Lowry (drawn by J. Lamb),,6,15
+1,6:31.0,J. Lamb makes free throw 1 of 2,,7,15
+1,6:31.0,J. Lamb makes free throw 2 of 2,,8,15
+1,6:20.0,,K. Leonard makes 2-pt jump shot from 16 ft (assist by K. Lowry),8,17
+1,5:56.0,M. Williams makes 2-pt dunk from 2 ft (assist by K. Walker),,10,17
+1,5:44.0,,D. Green makes 3-pt jump shot from 26 ft (assist by K. Lowry),10,20
+1,5:31.0,N. Batum makes 2-pt jump shot from 16 ft (assist by K. Walker),,12,20
+1,5:18.0,,S. Ibaka misses 2-pt jump shot from 10 ft,12,20
+1,5:15.0,Defensive rebound by C. Zeller,,12,20
+1,5:06.0,J. Lamb makes 2-pt layup from 4 ft,,14,20
+1,4:59.0,,Personal foul by K. Walker (drawn by D. Green),14,20
+1,4:59.0,M. Kidd-Gilchrist enters the game for J. Lamb,,14,20
+1,4:59.0,M. Monk enters the game for M. Williams,,14,20
+1,4:59.0,,O. Anunoby enters the game for P. Siakam,14,20
+1,4:47.0,,S. Ibaka makes 2-pt dunk from 1 ft (assist by K. Lowry),14,22
+1,4:33.0,K. Walker makes 2-pt layup at rim,,16,22
+1,4:22.0,,Personal foul by C. Zeller (drawn by K. Leonard),16,22
+1,4:11.0,,S. Ibaka misses 2-pt jump shot from 8 ft,16,22
+1,4:08.0,Defensive rebound by N. Batum,,16,22
+1,4:01.0,K. Walker misses 3-pt jump shot from 26 ft (block by O. Anunoby),,16,22
+1,3:58.0,,Defensive rebound by O. Anunoby,16,22
+1,3:56.0,,D. Green misses 3-pt jump shot from 27 ft,16,22
+1,3:53.0,,Offensive rebound by O. Anunoby,16,22
+1,3:51.0,,O. Anunoby misses 2-pt layup from 1 ft (block by C. Zeller),16,22
+1,3:48.0,Defensive rebound by K. Walker,,16,22
+1,3:45.0,Turnover by C. Zeller (3 sec),,16,22
+1,3:45.0,,Toronto full timeout,16,22
+1,3:45.0,W. Hernangómez enters the game for K. Walker,,16,22
+1,3:45.0,T. Parker enters the game for C. Zeller,,16,22
+1,3:45.0,,J. Valančiūnas enters the game for S. Ibaka,16,22
+1,3:28.0,,K. Leonard misses 3-pt jump shot from 26 ft,16,22
+1,3:26.0,Defensive rebound by W. Hernangómez,,16,22
+1,3:08.0,M. Monk misses 2-pt jump shot from 16 ft,,16,22
+1,3:05.0,,Defensive rebound by J. Valančiūnas,16,22
+1,2:56.0,,D. Green misses 3-pt jump shot from 23 ft,16,22
+1,2:52.0,,Offensive rebound by J. Valančiūnas,16,22
+1,2:50.0,,O. Anunoby makes 3-pt jump shot from 25 ft (assist by J. Valančiūnas),16,25
+1,2:37.0,N. Batum misses 3-pt jump shot from 24 ft,,16,25
+1,2:32.0,Offensive rebound by M. Kidd-Gilchrist,,16,25
+1,2:32.0,M. Kidd-Gilchrist misses 2-pt layup from 1 ft,,16,25
+1,2:31.0,Offensive rebound by W. Hernangómez,,16,25
+1,2:24.0,T. Parker misses 2-pt jump shot from 18 ft,,16,25
+1,2:21.0,,Defensive rebound by D. Green,16,25
+1,2:14.0,,K. Leonard misses 2-pt hook shot from 5 ft,16,25
+1,2:11.0,Defensive rebound by M. Kidd-Gilchrist,,16,25
+1,2:01.0,W. Hernangómez misses 2-pt layup from 6 ft (block by J. Valančiūnas),,16,25
+1,1:59.0,Offensive rebound by M. Kidd-Gilchrist,,16,25
+1,1:58.0,M. Kidd-Gilchrist makes 2-pt layup from 1 ft,,18,25
+1,1:52.0,,Shooting foul by M. Monk (drawn by K. Lowry),18,25
+1,1:52.0,,K. Lowry makes free throw 1 of 2,18,26
+1,1:52.0,M. Bridges enters the game for N. Batum,,18,26
+1,1:52.0,,C. Miles enters the game for D. Green,18,26
+1,1:52.0,,N. Powell enters the game for K. Leonard,18,26
+1,1:52.0,,K. Lowry makes free throw 2 of 2,18,27
+1,1:41.0,W. Hernangómez makes 2-pt dunk from 1 ft (assist by M. Monk),,20,27
+1,1:28.0,,Turnover by O. Anunoby (bad pass),20,27
+1,1:28.0,,F. VanVleet enters the game for K. Lowry,20,27
+1,1:12.0,M. Kidd-Gilchrist makes 2-pt jump shot from 20 ft (assist by T. Parker),,22,27
+1,0:58.0,,N. Powell misses 2-pt jump shot from 6 ft,22,27
+1,0:56.0,,Offensive rebound by J. Valančiūnas,22,27
+1,0:56.0,,J. Valančiūnas makes 2-pt layup at rim,22,29
+1,0:40.0,T. Parker misses 2-pt jump shot from 12 ft,,22,29
+1,0:37.0,,Defensive rebound by C. Miles,22,29
+1,0:31.0,,C. Miles misses 3-pt jump shot from 28 ft,22,29
+1,0:30.0,,Offensive rebound by Team,22,29
+1,0:30.0,Loose ball foul by M. Kidd-Gilchrist (drawn by J. Valančiūnas),,22,29
+1,0:30.0,,J. Valančiūnas makes free throw 1 of 2,22,30
+1,0:30.0,M. Williams enters the game for M. Kidd-Gilchrist,,22,30
+1,0:30.0,,J. Valančiūnas makes free throw 2 of 2,22,31
+1,0:11.0,M. Bridges misses 3-pt jump shot from 26 ft (block by C. Miles),,22,31
+1,0:07.0,,Defensive rebound by N. Powell,22,31
+1,0:03.0,,F. VanVleet misses 2-pt layup from 2 ft,22,31
+1,0:01.0,Defensive rebound by W. Hernangómez,,22,31
+1,0:00.0,Turnover by W. Hernangómez (bad pass; steal by C. Miles),,22,31
+1,0:00.0,,C. Miles misses 3-pt jump shot from 27 ft,22,31
+1,0:00.0,,Offensive rebound by Team,22,31
+2,11:39.0,M. Monk misses 3-pt jump shot from 23 ft,,22,31
+2,11:36.0,,Defensive rebound by N. Powell,22,31
+2,11:30.0,,Shooting foul by M. Kidd-Gilchrist (drawn by C. Miles),22,31
+2,11:30.0,,C. Miles makes free throw 1 of 2,22,32
+2,11:30.0,,C. Miles makes free throw 2 of 2,22,33
+2,11:17.0,M. Kidd-Gilchrist misses 2-pt hook shot from 11 ft,,22,33
+2,11:16.0,Offensive rebound by Team,,22,33
+2,11:12.0,W. Hernangómez misses 2-pt jump shot from 11 ft,,22,33
+2,11:09.0,,Defensive rebound by O. Anunoby,22,33
+2,11:00.0,,J. Valančiūnas makes 2-pt layup from 3 ft,22,35
+2,10:49.0,T. Parker makes 2-pt jump shot from 10 ft,,24,35
+2,10:36.0,,N. Powell misses 3-pt jump shot from 23 ft,24,35
+2,10:33.0,Defensive rebound by M. Monk,,24,35
+2,10:18.0,W. Hernangómez makes 3-pt jump shot from 23 ft (assist by T. Parker),,27,35
+2,9:58.0,,F. VanVleet misses 3-pt jump shot from 26 ft,27,35
+2,9:56.0,,Offensive rebound by Team,27,35
+2,9:56.0,N. Batum enters the game for M. Kidd-Gilchrist,,27,35
+2,9:44.0,,F. VanVleet misses 2-pt layup from 2 ft (block by M. Monk),27,35
+2,9:41.0,Defensive rebound by M. Bridges,,27,35
+2,9:35.0,M. Monk makes 3-pt jump shot from 26 ft (assist by M. Bridges),,30,35
+2,9:26.0,,Personal foul by M. Bridges (drawn by F. VanVleet),30,35
+2,9:26.0,K. Walker enters the game for T. Parker,,30,35
+2,9:16.0,,N. Powell makes 2-pt dunk from 1 ft,30,37
+2,8:59.0,Shooting foul by C. Miles (drawn by W. Hernangómez),,30,37
+2,8:59.0,W. Hernangómez makes free throw 1 of 2,,31,37
+2,8:59.0,W. Hernangómez makes free throw 2 of 2,,32,37
+2,8:36.0,,N. Powell misses 3-pt jump shot from 27 ft,32,37
+2,8:32.0,Defensive rebound by W. Hernangómez,,32,37
+2,8:25.0,K. Walker makes 2-pt jump shot from 6 ft,,34,37
+2,8:10.0,,J. Valančiūnas makes 2-pt jump shot from 10 ft (assist by F. VanVleet),34,39
+2,7:55.0,M. Bridges makes 2-pt dunk from 1 ft (assist by K. Walker),,36,39
+2,7:51.0,,Toronto full timeout,36,39
+2,7:51.0,,K. Leonard enters the game for N. Powell,36,39
+2,7:37.0,,K. Leonard makes 2-pt jump shot from 13 ft,36,41
+2,7:17.0,K. Walker misses 3-pt jump shot from 26 ft,,36,41
+2,7:16.0,,Defensive rebound by J. Valančiūnas,36,41
+2,7:04.0,,Shooting foul by K. Walker (drawn by J. Valančiūnas),36,41
+2,7:04.0,,J. Valančiūnas misses free throw 1 of 2,36,41
+2,7:04.0,,Offensive rebound by Team,36,41
+2,7:04.0,,K. Lowry enters the game for F. VanVleet,36,41
+2,7:04.0,,J. Valančiūnas makes free throw 2 of 2,36,42
+2,6:53.0,M. Monk misses 3-pt jump shot from 29 ft,,36,42
+2,6:51.0,,Defensive rebound by J. Valančiūnas,36,42
+2,6:43.0,,K. Lowry makes 2-pt jump shot from 17 ft (assist by J. Valančiūnas),36,44
+2,6:22.0,K. Walker misses 2-pt layup from 3 ft,,36,44
+2,6:20.0,Offensive rebound by M. Monk,,36,44
+2,6:16.0,Turnover by M. Monk (bad pass; steal by J. Valančiūnas),,36,44
+2,6:11.0,,C. Miles makes 3-pt jump shot from 27 ft (assist by K. Lowry),36,47
+2,6:09.0,Charlotte full timeout,,36,47
+2,6:09.0,M. Kidd-Gilchrist enters the game for M. Bridges,,36,47
+2,6:09.0,J. Lamb enters the game for W. Hernangómez,,36,47
+2,6:09.0,M. Williams enters the game for M. Monk,,36,47
+2,6:09.0,,D. Green enters the game for O. Anunoby,36,47
+2,6:09.0,,S. Ibaka enters the game for J. Valančiūnas,36,47
+2,5:54.0,M. Kidd-Gilchrist misses 2-pt hook shot from 9 ft,,36,47
+2,5:52.0,Offensive rebound by M. Williams,,36,47
+2,5:50.0,N. Batum makes 3-pt jump shot from 24 ft (assist by M. Williams),,39,47
+2,5:31.0,,D. Green makes 2-pt jump shot from 7 ft (assist by C. Miles),39,49
+2,5:04.0,K. Walker makes 2-pt layup from 1 ft,,41,49
+2,4:55.0,,Offensive foul by S. Ibaka (drawn by M. Kidd-Gilchrist),41,49
+2,4:55.0,,Turnover by S. Ibaka (offensive foul),41,49
+2,4:55.0,,P. Siakam enters the game for C. Miles,41,49
+2,4:42.0,J. Lamb misses 3-pt jump shot from 27 ft,,41,49
+2,4:39.0,,Defensive rebound by S. Ibaka,41,49
+2,4:29.0,,Offensive foul by P. Siakam (drawn by K. Walker),41,49
+2,4:29.0,,Turnover by P. Siakam (offensive foul),41,49
+2,4:16.0,M. Kidd-Gilchrist misses 2-pt jump shot from 14 ft,,41,49
+2,4:14.0,,Defensive rebound by S. Ibaka,41,49
+2,4:08.0,,K. Leonard makes 3-pt jump shot from 26 ft,41,52
+2,3:45.0,K. Walker misses 2-pt jump shot from 14 ft,,41,52
+2,3:45.0,Offensive rebound by J. Lamb,,41,52
+2,3:45.0,Shooting foul by D. Green (drawn by J. Lamb),,41,52
+2,3:45.0,J. Lamb makes free throw 1 of 2,,42,52
+2,3:45.0,J. Lamb misses free throw 2 of 2,,42,52
+2,3:43.0,,Defensive rebound by K. Leonard,42,52
+2,3:35.0,,K. Lowry misses 2-pt layup from 6 ft (block by J. Lamb),42,52
+2,3:31.0,Defensive rebound by J. Lamb,,42,52
+2,3:29.0,Turnover by K. Walker (lost ball; steal by D. Green),,42,52
+2,3:25.0,,D. Green makes 3-pt jump shot from 26 ft (assist by K. Leonard),42,55
+2,3:07.0,N. Batum misses 3-pt jump shot from 25 ft,,42,55
+2,3:05.0,,Defensive rebound by P. Siakam,42,55
+2,3:00.0,,Offensive foul by D. Green (drawn by K. Walker),42,55
+2,3:00.0,,Turnover by D. Green (offensive foul),42,55
+2,3:00.0,M. Monk enters the game for M. Kidd-Gilchrist,,42,55
+2,2:35.0,M. Monk misses 2-pt hook shot from 3 ft,,42,55
+2,2:33.0,,Defensive rebound by S. Ibaka,42,55
+2,2:24.0,,K. Lowry misses 3-pt jump shot from 26 ft,42,55
+2,2:21.0,Defensive rebound by K. Walker,,42,55
+2,2:12.0,M. Williams misses 3-pt jump shot from 28 ft,,42,55
+2,2:11.0,Offensive rebound by Team,,42,55
+2,2:11.0,,F. VanVleet enters the game for P. Siakam,42,55
+2,2:08.0,Personal foul by F. VanVleet (drawn by N. Batum),,42,55
+2,1:57.0,J. Lamb misses 2-pt layup from 4 ft,,42,55
+2,1:54.0,Offensive rebound by N. Batum,,42,55
+2,1:54.0,N. Batum misses 2-pt layup from 2 ft,,42,55
+2,1:51.0,,Defensive rebound by S. Ibaka,42,55
+2,1:46.0,,S. Ibaka makes 2-pt layup from 1 ft (assist by F. VanVleet),42,57
+2,1:33.0,K. Walker makes 3-pt jump shot from 25 ft,,45,57
+2,1:18.0,,F. VanVleet makes 2-pt layup from 2 ft,45,59
+2,0:58.0,M. Monk misses 2-pt jump shot from 17 ft,,45,59
+2,0:56.0,,Defensive rebound by K. Lowry,45,59
+2,0:52.0,,K. Leonard makes 3-pt jump shot from 26 ft (assist by K. Lowry),45,62
+2,0:39.0,K. Walker makes 2-pt layup from 1 ft,,47,62
+2,0:30.0,,K. Leonard misses 3-pt jump shot from 26 ft,47,62
+2,0:27.0,Defensive rebound by N. Batum,,47,62
+2,0:06.0,J. Lamb misses 3-pt jump shot from 30 ft,,47,62
+2,0:03.0,,Defensive rebound by K. Leonard,47,62
+2,0:00.0,,F. VanVleet misses 3-pt jump shot from 25 ft,47,62
+2,0:00.0,,Offensive rebound by Team,47,62
+3,12:00.0,Violation by Team (delay of game),,47,62
+3,12:00.0,,Violation by Team (delay of game),47,62
+3,11:37.0,Turnover by J. Lamb (lost ball; steal by K. Lowry),,47,62
+3,11:22.0,,D. Green makes 3-pt jump shot from 24 ft (assist by K. Lowry),47,65
+3,11:09.0,K. Walker makes 2-pt jump shot from 18 ft,,49,65
+3,10:54.0,,Offensive foul by S. Ibaka (drawn by K. Walker),49,65
+3,10:54.0,,Turnover by S. Ibaka (offensive foul),49,65
+3,10:44.0,M. Williams misses 3-pt jump shot from 26 ft,,49,65
+3,10:41.0,,Defensive rebound by S. Ibaka,49,65
+3,10:27.0,,P. Siakam misses 3-pt jump shot from 24 ft,49,65
+3,10:24.0,Defensive rebound by C. Zeller,,49,65
+3,10:11.0,J. Lamb misses 3-pt jump shot from 25 ft,,49,65
+3,10:07.0,,Defensive rebound by D. Green,49,65
+3,10:05.0,,Shooting foul by J. Lamb (drawn by S. Ibaka),49,65
+3,10:05.0,,S. Ibaka misses free throw 1 of 2,49,65
+3,10:05.0,,Offensive rebound by Team,49,65
+3,10:05.0,,S. Ibaka makes free throw 2 of 2,49,66
+3,9:46.0,K. Walker misses 2-pt layup from 2 ft (block by D. Green),,49,66
+3,9:45.0,,Defensive rebound by P. Siakam,49,66
+3,9:45.0,,Personal foul by M. Williams (drawn by P. Siakam),49,66
+3,9:28.0,,D. Green makes 3-pt jump shot from 24 ft (assist by K. Leonard),49,69
+3,9:08.0,J. Lamb makes 2-pt layup from 1 ft (assist by C. Zeller),,51,69
+3,8:47.0,,S. Ibaka makes 2-pt hook shot from 3 ft (assist by K. Lowry),51,71
+3,8:31.0,N. Batum makes 3-pt jump shot from 26 ft (assist by C. Zeller),,54,71
+3,8:22.0,,K. Leonard misses 2-pt jump shot from 19 ft,54,71
+3,8:19.0,Defensive rebound by C. Zeller,,54,71
+3,8:13.0,N. Batum makes 3-pt jump shot from 23 ft (assist by K. Walker),,57,71
+3,7:48.0,,S. Ibaka makes 2-pt hook shot from 3 ft (assist by K. Lowry),57,73
+3,7:31.0,K. Walker makes 2-pt layup from 2 ft,,59,73
+3,7:31.0,Shooting foul by S. Ibaka (drawn by K. Walker),,59,73
+3,7:31.0,K. Walker makes free throw 1 of 1,,60,73
+3,7:16.0,,D. Green makes 2-pt layup from 2 ft (assist by K. Lowry),60,75
+3,7:04.0,M. Williams makes 2-pt layup from 2 ft (assist by C. Zeller),,62,75
+3,6:48.0,,Turnover by S. Ibaka (3 sec),62,75
+3,6:48.0,,Toronto full timeout,62,75
+3,6:24.0,J. Lamb misses 2-pt layup from 4 ft (block by K. Lowry),,62,75
+3,6:24.0,Offensive rebound by N. Batum,,62,75
+3,6:24.0,Shooting foul by K. Leonard (drawn by N. Batum),,62,75
+3,6:24.0,N. Batum makes free throw 1 of 2,,63,75
+3,6:24.0,N. Batum makes free throw 2 of 2,,64,75
+3,6:05.0,,K. Leonard makes 2-pt jump shot from 15 ft,64,77
+3,5:48.0,Shooting foul by K. Lowry (drawn by J. Lamb),,64,77
+3,5:48.0,J. Lamb makes free throw 1 of 2,,65,77
+3,5:48.0,J. Lamb makes free throw 2 of 2,,66,77
+3,5:32.0,,Turnover by K. Lowry (bad pass; steal by K. Walker),66,77
+3,5:28.0,J. Lamb misses 2-pt layup from 2 ft (block by D. Green),,66,77
+3,5:25.0,,Defensive rebound by P. Siakam,66,77
+3,5:19.0,,S. Ibaka makes 2-pt layup from 2 ft (assist by P. Siakam),66,79
+3,5:07.0,K. Walker misses 3-pt jump shot from 26 ft,,66,79
+3,5:05.0,,Defensive rebound by P. Siakam,66,79
+3,5:01.0,,K. Lowry makes 3-pt jump shot from 26 ft (assist by P. Siakam),66,82
+3,4:59.0,Charlotte full timeout,,66,82
+3,4:59.0,W. Hernangómez enters the game for J. Lamb,,66,82
+3,4:59.0,M. Kidd-Gilchrist enters the game for M. Williams,,66,82
+3,4:59.0,M. Monk enters the game for C. Zeller,,66,82
+3,4:31.0,K. Walker misses 2-pt layup from 2 ft,,66,82
+3,4:28.0,Offensive rebound by W. Hernangómez,,66,82
+3,4:28.0,W. Hernangómez makes 2-pt layup at rim,,68,82
+3,4:11.0,,K. Leonard makes 3-pt jump shot from 26 ft (assist by S. Ibaka),68,85
+3,3:56.0,Turnover by N. Batum (lost ball; steal by K. Lowry),,68,85
+3,3:53.0,,K. Leonard makes 2-pt dunk from 1 ft (assist by K. Lowry),68,87
+3,3:38.0,Turnover by W. Hernangómez (lost ball; steal by K. Leonard),,68,87
+3,3:33.0,,P. Siakam makes 2-pt layup from 1 ft (assist by K. Lowry),68,89
+3,3:18.0,M. Kidd-Gilchrist misses 2-pt layup from 3 ft,,68,89
+3,3:15.0,,Defensive rebound by S. Ibaka,68,89
+3,3:07.0,,P. Siakam misses 2-pt layup from 3 ft,68,89
+3,3:03.0,Defensive rebound by K. Walker,,68,89
+3,2:57.0,K. Walker misses 2-pt layup from 1 ft,,68,89
+3,2:55.0,,Defensive rebound by D. Green,68,89
+3,2:39.0,,S. Ibaka makes 2-pt hook shot from 4 ft (assist by K. Leonard),68,91
+3,2:22.0,M. Monk makes 3-pt jump shot from 26 ft (assist by M. Kidd-Gilchrist),,71,91
+3,2:11.0,,S. Ibaka misses 3-pt jump shot from 27 ft,71,91
+3,2:07.0,Defensive rebound by N. Batum,,71,91
+3,2:02.0,M. Monk misses 3-pt jump shot from 23 ft,,71,91
+3,2:00.0,,Defensive rebound by S. Ibaka,71,91
+3,1:59.0,,Turnover by S. Ibaka (bad pass; steal by M. Kidd-Gilchrist),71,91
+3,1:59.0,Personal foul by K. Leonard (drawn by N. Batum),,71,91
+3,1:59.0,M. Bridges enters the game for N. Batum,,71,91
+3,1:59.0,T. Parker enters the game for K. Walker,,71,91
+3,1:59.0,,O. Anunoby enters the game for S. Ibaka,71,91
+3,1:59.0,,J. Valančiūnas enters the game for K. Lowry,71,91
+3,1:59.0,,F. VanVleet enters the game for P. Siakam,71,91
+3,1:59.0,Turnover by M. Bridges (bad pass; steal by J. Valančiūnas),,71,91
+3,1:53.0,,Turnover by K. Leonard (lost ball),71,91
+3,1:53.0,,C. Miles enters the game for D. Green,71,91
+3,1:53.0,,N. Powell enters the game for K. Leonard,71,91
+3,1:37.0,M. Monk misses 2-pt jump shot from 7 ft,,71,91
+3,1:34.0,,Defensive rebound by J. Valančiūnas,71,91
+3,1:23.0,,J. Valančiūnas makes 2-pt dunk from 1 ft (assist by C. Miles),71,93
+3,1:08.0,T. Parker misses 2-pt layup from 1 ft,,71,93
+3,1:04.0,Offensive rebound by M. Kidd-Gilchrist,,71,93
+3,1:04.0,M. Kidd-Gilchrist makes 2-pt layup at rim,,73,93
+3,0:59.0,,F. VanVleet makes 2-pt layup from 1 ft,73,95
+3,0:48.0,W. Hernangómez makes 2-pt dunk from 1 ft,,75,95
+3,0:33.0,,F. VanVleet misses 2-pt layup from 2 ft (block by M. Monk),75,95
+3,0:33.0,,Offensive rebound by Team,75,95
+3,0:31.0,,Turnover by F. VanVleet (bad pass; steal by W. Hernangómez),75,95
+3,0:28.0,M. Bridges makes 2-pt dunk from 1 ft,,77,95
+3,0:16.0,,Shooting foul by M. Kidd-Gilchrist (drawn by N. Powell),77,95
+3,0:16.0,,N. Powell makes free throw 1 of 2,77,96
+3,0:16.0,,N. Powell makes free throw 2 of 2,77,97
+3,0:02.0,M. Monk makes 2-pt jump shot from 18 ft,,79,97
+4,11:45.0,,J. Valančiūnas misses 2-pt hook shot from 4 ft,79,97
+4,11:42.0,Defensive rebound by M. Kidd-Gilchrist,,79,97
+4,11:25.0,Turnover by M. Monk (bad pass; steal by F. VanVleet),,79,97
+4,11:21.0,,C. Miles misses 3-pt jump shot from 26 ft,79,97
+4,11:19.0,Defensive rebound by T. Parker,,79,97
+4,11:13.0,Turnover by T. Parker (bad pass; steal by N. Powell),,79,97
+4,11:09.0,,N. Powell makes 2-pt dunk from 1 ft (assist by O. Anunoby),79,99
+4,10:56.0,M. Monk misses 2-pt jump shot from 19 ft,,79,99
+4,10:53.0,,Defensive rebound by N. Powell,79,99
+4,10:41.0,,J. Valančiūnas makes 2-pt hook shot from 2 ft (assist by C. Miles),79,101
+4,10:40.0,Charlotte full timeout,,79,101
+4,10:40.0,N. Batum enters the game for M. Kidd-Gilchrist,,79,101
+4,10:40.0,K. Walker enters the game for M. Monk,,79,101
+4,10:29.0,Personal foul by N. Powell (drawn by W. Hernangómez),,79,101
+4,10:21.0,N. Batum misses 2-pt jump shot from 13 ft,,79,101
+4,10:19.0,,Defensive rebound by J. Valančiūnas,79,101
+4,10:13.0,,F. VanVleet makes 2-pt layup from 2 ft (assist by N. Powell),79,103
+4,10:01.0,K. Walker makes 2-pt jump shot from 16 ft,,81,103
+4,9:48.0,,Offensive foul by N. Powell (drawn by W. Hernangómez),81,103
+4,9:48.0,,Turnover by N. Powell (offensive foul),81,103
+4,9:40.0,K. Walker makes 3-pt jump shot from 26 ft (assist by W. Hernangómez),,84,103
+4,9:17.0,,Turnover by C. Miles (lost ball; steal by M. Bridges),84,103
+4,9:15.0,Personal foul by N. Powell (drawn by K. Walker),,84,103
+4,9:01.0,Turnover by N. Batum (lost ball),,84,103
+4,9:01.0,Loose ball foul by N. Batum (drawn by N. Powell),,84,103
+4,8:51.0,,J. Valančiūnas makes 2-pt dunk from 1 ft (assist by F. VanVleet),84,105
+4,8:36.0,K. Walker makes 2-pt jump shot from 4 ft,,86,105
+4,8:36.0,Shooting foul by J. Valančiūnas (drawn by K. Walker),,86,105
+4,8:36.0,B. Biyombo enters the game for W. Hernangómez,,86,105
+4,8:36.0,K. Walker makes free throw 1 of 1,,87,105
+4,8:26.0,,O. Anunoby misses 3-pt jump shot from 23 ft,87,105
+4,8:23.0,Defensive rebound by B. Biyombo,,87,105
+4,8:11.0,B. Biyombo misses 2-pt hook shot from 5 ft (block by J. Valančiūnas),,87,105
+4,8:07.0,Offensive rebound by B. Biyombo,,87,105
+4,8:05.0,Shooting foul by J. Valančiūnas (drawn by B. Biyombo),,87,105
+4,8:05.0,B. Biyombo makes free throw 1 of 2,,88,105
+4,8:05.0,,K. Lowry enters the game for N. Powell,88,105
+4,8:05.0,B. Biyombo misses free throw 2 of 2,,88,105
+4,8:03.0,,Defensive rebound by J. Valančiūnas,88,105
+4,7:41.0,,O. Anunoby misses 3-pt jump shot from 26 ft,88,105
+4,7:38.0,Defensive rebound by M. Bridges,,88,105
+4,7:32.0,T. Parker makes 2-pt jump shot from 16 ft,,90,105
+4,7:08.0,,J. Valančiūnas makes 2-pt layup from 1 ft (assist by K. Lowry),90,107
+4,6:55.0,T. Parker misses 2-pt hook shot from 12 ft,,90,107
+4,6:53.0,,Defensive rebound by J. Valančiūnas,90,107
+4,6:51.0,,C. Miles makes 2-pt jump shot from 10 ft,90,109
+4,6:51.0,,Shooting foul by M. Bridges (drawn by C. Miles),90,109
+4,6:51.0,,K. Leonard enters the game for O. Anunoby,90,109
+4,6:51.0,,C. Miles makes free throw 1 of 1,90,110
+4,6:46.0,Personal foul by F. VanVleet (drawn by T. Parker),,90,110
+4,6:46.0,T. Parker makes free throw 1 of 2,,91,110
+4,6:46.0,,O. Anunoby enters the game for C. Miles,91,110
+4,6:46.0,T. Parker makes free throw 2 of 2,,92,110
+4,6:30.0,,K. Lowry makes 3-pt jump shot from 26 ft (assist by F. VanVleet),92,113
+4,6:16.0,Turnover by T. Parker (bad pass; steal by K. Leonard),,92,113
+4,6:11.0,,K. Leonard misses 3-pt jump shot from 26 ft,92,113
+4,6:07.0,Defensive rebound by K. Walker,,92,113
+4,6:01.0,T. Parker misses 2-pt jump shot from 19 ft,,92,113
+4,5:59.0,,Defensive rebound by O. Anunoby,92,113
+4,5:36.0,,Turnover by Team (shot clock),92,113
+4,5:36.0,D. Graham enters the game for T. Parker,,92,113
+4,5:26.0,K. Walker misses 3-pt jump shot from 26 ft,,92,113
+4,5:23.0,,Defensive rebound by K. Lowry,92,113
+4,5:17.0,,O. Anunoby misses 2-pt dunk from 1 ft (block by B. Biyombo),92,113
+4,5:15.0,Defensive rebound by K. Walker,,92,113
+4,5:12.0,N. Batum misses 3-pt jump shot from 25 ft,,92,113
+4,5:08.0,,Defensive rebound by J. Valančiūnas,92,113
+4,4:50.0,,F. VanVleet makes 2-pt layup from 1 ft,92,115
+4,4:48.0,Charlotte full timeout,,92,115
+4,4:48.0,F. Kaminsky enters the game for N. Batum,,92,115
+4,4:48.0,J. Lamb enters the game for M. Bridges,,92,115
+4,4:48.0,M. Monk enters the game for K. Walker,,92,115
+4,4:27.0,F. Kaminsky misses 3-pt jump shot from 23 ft,,92,115
+4,4:25.0,Offensive rebound by B. Biyombo,,92,115
+4,4:18.0,F. Kaminsky makes 2-pt hook shot from 5 ft (assist by M. Monk),,94,115
+4,3:53.0,,Turnover by Team (shot clock),94,115
+4,3:53.0,,L. Brown enters the game for K. Leonard,94,115
+4,3:53.0,,G. Monroe enters the game for K. Lowry,94,115
+4,3:53.0,,N. Powell enters the game for J. Valančiūnas,94,115
+4,3:53.0,,M. Richardson enters the game for F. VanVleet,94,115
+4,3:42.0,B. Biyombo makes 2-pt dunk from 1 ft (assist by D. Graham),,96,115
+4,3:32.0,,O. Anunoby misses 3-pt jump shot from 27 ft,96,115
+4,3:29.0,,Offensive rebound by G. Monroe,96,115
+4,3:26.0,,M. Richardson misses 3-pt jump shot from 28 ft,96,115
+4,3:22.0,Defensive rebound by F. Kaminsky,,96,115
+4,3:19.0,Personal foul by M. Richardson (drawn by B. Biyombo),,96,115
+4,3:19.0,B. Biyombo misses free throw 1 of 2,,96,115
+4,3:19.0,Offensive rebound by Team,,96,115
+4,3:19.0,B. Biyombo makes free throw 2 of 2,,97,115
+4,3:00.0,,M. Richardson makes 3-pt jump shot from 24 ft (assist by G. Monroe),97,118
+4,2:34.0,J. Lamb makes 3-pt jump shot from 24 ft,,100,118
+4,2:12.0,,N. Powell makes 3-pt jump shot from 26 ft (assist by L. Brown),100,121
+4,1:59.0,J. Lamb makes 2-pt jump shot from 16 ft (assist by B. Biyombo),,102,121
+4,1:50.0,,G. Monroe makes 2-pt layup from 1 ft,102,123
+4,1:50.0,M. Bridges enters the game for J. Lamb,,102,123
+4,1:30.0,F. Kaminsky misses 2-pt jump shot from 14 ft,,102,123
+4,1:29.0,,Defensive rebound by G. Monroe,102,123
+4,1:25.0,,O. Anunoby makes 2-pt dunk from 1 ft (assist by L. Brown),102,125
+4,1:08.0,B. Biyombo misses 2-pt jump shot from 17 ft,,102,125
+4,1:06.0,,Defensive rebound by N. Powell,102,125
+4,1:04.0,,Personal foul by D. Graham (drawn by L. Brown),102,125
+4,0:55.0,,L. Brown makes 2-pt jump shot from 19 ft,102,127
+4,0:43.0,M. Monk makes 2-pt jump shot from 10 ft (assist by M. Bridges),,104,127
+4,0:32.0,,N. Powell misses 3-pt jump shot from 26 ft,104,127
+4,0:29.0,Defensive rebound by M. Bridges,,104,127
+4,0:18.0,M. Bridges makes 2-pt dunk from 1 ft (assist by M. Monk),,106,127

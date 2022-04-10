@@ -1,0 +1,481 @@
+QUARTER,TIME_REMAINING,DALLAS_ACTION,MINNESOTA_ACTION,DALLAS_SCORE,MINNESOTA_SCORE
+1,11:52.0,,Turnover by J. Teague (bad pass),0,0
+1,11:35.0,L. Dončić misses 3-pt jump shot from 25 ft,,0,0
+1,11:32.0,,Defensive rebound by Team,0,0
+1,11:13.0,,A. Wiggins misses 2-pt layup from 4 ft,0,0
+1,11:10.0,,Offensive rebound by A. Wiggins,0,0
+1,11:08.0,,J. Teague misses 3-pt jump shot from 28 ft,0,0
+1,11:08.0,,Offensive rebound by T. Gibson,0,0
+1,11:04.0,,T. Gibson misses 2-pt layup from 2 ft,0,0
+1,11:02.0,,Offensive rebound by K. Towns,0,0
+1,11:01.0,,K. Towns misses 2-pt layup from 1 ft (block by M. Kleber),0,0
+1,10:59.0,Defensive rebound by L. Dončić,,0,0
+1,10:55.0,L. Dončić makes 2-pt layup from 1 ft,,2,0
+1,10:49.0,,Shooting foul by L. Dončić (drawn by J. Okogie),2,0
+1,10:49.0,,J. Okogie makes free throw 1 of 2,2,1
+1,10:49.0,,J. Okogie misses free throw 2 of 2,2,1
+1,10:45.0,,Offensive rebound by J. Okogie,2,1
+1,10:38.0,,T. Gibson misses 2-pt jump shot from 15 ft,2,1
+1,10:35.0,Defensive rebound by L. Dončić,,2,1
+1,10:26.0,H. Barnes makes 3-pt jump shot from 25 ft (assist by W. Matthews),,5,1
+1,10:16.0,,J. Teague misses 2-pt jump shot from 16 ft,5,1
+1,10:13.0,,Offensive rebound by T. Gibson,5,1
+1,10:11.0,,T. Gibson makes 2-pt hook shot from 6 ft,5,3
+1,9:58.0,Turnover by H. Barnes (bad pass; steal by A. Wiggins),,5,3
+1,9:42.0,,K. Towns makes 2-pt hook shot from 9 ft,5,5
+1,9:24.0,M. Kleber makes 3-pt jump shot from 23 ft (assist by L. Dončić),,8,5
+1,9:08.0,,A. Wiggins misses 2-pt jump shot from 4 ft,8,5
+1,9:06.0,Defensive rebound by D. Jordan,,8,5
+1,8:56.0,W. Matthews makes 2-pt layup from 1 ft (assist by L. Dončić),,10,5
+1,8:47.0,,J. Teague misses 2-pt jump shot from 8 ft,10,5
+1,8:45.0,,Offensive rebound by J. Teague,10,5
+1,8:43.0,,J. Teague misses 3-pt jump shot from 22 ft,10,5
+1,8:40.0,,Offensive rebound by T. Gibson,10,5
+1,8:39.0,,T. Gibson makes 2-pt layup from 1 ft,10,7
+1,8:17.0,H. Barnes misses 3-pt jump shot from 25 ft,,10,7
+1,8:14.0,,Defensive rebound by T. Gibson,10,7
+1,7:56.0,,K. Towns makes 2-pt jump shot from 5 ft (assist by J. Okogie),10,9
+1,7:42.0,L. Dončić misses 2-pt jump shot from 6 ft,,10,9
+1,7:42.0,Offensive rebound by L. Dončić,,10,9
+1,7:40.0,Shooting foul by K. Towns (drawn by L. Dončić),,10,9
+1,7:40.0,L. Dončić makes free throw 1 of 2,,11,9
+1,7:40.0,L. Dončić misses free throw 2 of 2,,11,9
+1,7:39.0,,Defensive rebound by Team,11,9
+1,7:17.0,,K. Towns makes 2-pt hook shot from 8 ft,11,11
+1,7:17.0,,Shooting foul by W. Matthews (drawn by K. Towns),11,11
+1,7:17.0,,K. Towns makes free throw 1 of 1,11,12
+1,7:02.0,L. Dončić makes 2-pt layup from 1 ft,,13,12
+1,6:52.0,,J. Okogie makes 2-pt jump shot from 7 ft (assist by J. Teague),13,14
+1,6:51.0,,Violation by Team (delay of game),13,14
+1,6:39.0,L. Dončić misses 3-pt jump shot from 28 ft,,13,14
+1,6:37.0,,Defensive rebound by K. Towns,13,14
+1,6:31.0,,J. Teague makes 2-pt jump shot from 14 ft,13,16
+1,6:30.0,Dallas full timeout,,13,16
+1,6:30.0,J. Barea enters the game for L. Dončić,,13,16
+1,6:30.0,,D. Rose enters the game for J. Okogie,13,16
+1,6:18.0,W. Matthews misses 2-pt jump shot from 10 ft,,13,16
+1,6:15.0,,Defensive rebound by K. Towns,13,16
+1,6:11.0,,T. Gibson makes 2-pt layup from 1 ft (assist by A. Wiggins),13,18
+1,5:56.0,H. Barnes misses 2-pt jump shot from 16 ft,,13,18
+1,5:54.0,,Defensive rebound by T. Gibson,13,18
+1,5:46.0,,D. Rose misses 2-pt jump shot from 12 ft,13,18
+1,5:43.0,Defensive rebound by M. Kleber,,13,18
+1,5:35.0,J. Barea misses 2-pt layup from 1 ft (block by A. Wiggins),,13,18
+1,5:32.0,,Defensive rebound by K. Towns,13,18
+1,5:29.0,,K. Towns makes 2-pt dunk from 1 ft (assist by D. Rose),13,20
+1,5:13.0,Personal foul by A. Wiggins (drawn by H. Barnes),,13,20
+1,5:13.0,,D. Šarić enters the game for T. Gibson,13,20
+1,5:04.0,W. Matthews misses 3-pt jump shot from 24 ft,,13,20
+1,5:00.0,,Defensive rebound by K. Towns,13,20
+1,4:52.0,,D. Šarić misses 2-pt jump shot from 19 ft,13,20
+1,4:50.0,Defensive rebound by D. Jordan,,13,20
+1,4:40.0,J. Barea makes 2-pt layup from 1 ft,,15,20
+1,4:29.0,,K. Towns misses 2-pt layup from 4 ft,15,20
+1,4:28.0,,Offensive rebound by K. Towns,15,20
+1,4:27.0,,K. Towns misses 2-pt layup from 2 ft,15,20
+1,4:27.0,Defensive rebound by D. Jordan,,15,20
+1,4:03.0,J. Barea misses 2-pt jump shot from 13 ft,,15,20
+1,4:02.0,Offensive rebound by D. Jordan,,15,20
+1,4:00.0,D. Jordan makes 2-pt layup from 2 ft,,17,20
+1,3:47.0,,D. Šarić misses 3-pt jump shot from 25 ft,17,20
+1,3:44.0,,Offensive rebound by K. Towns,17,20
+1,3:43.0,,K. Towns makes 2-pt dunk from 1 ft,17,22
+1,3:24.0,W. Matthews misses 2-pt jump shot from 7 ft (block by K. Towns),,17,22
+1,3:24.0,Offensive rebound by Team,,17,22
+1,3:24.0,D. Finney-Smith enters the game for M. Kleber,,17,22
+1,3:24.0,,T. Jones enters the game for J. Teague,17,22
+1,3:24.0,,J. Okogie enters the game for A. Wiggins,17,22
+1,3:21.0,H. Barnes misses 2-pt jump shot from 6 ft,,17,22
+1,3:19.0,Offensive rebound by H. Barnes,,17,22
+1,3:19.0,H. Barnes makes 2-pt layup at rim,,19,22
+1,3:12.0,,Minnesota full timeout,19,22
+1,3:12.0,L. Dončić enters the game for H. Barnes,,19,22
+1,3:12.0,D. Nowitzki enters the game for D. Jordan,,19,22
+1,3:12.0,D. Powell enters the game for W. Matthews,,19,22
+1,3:12.0,,G. Dieng enters the game for K. Towns,19,22
+1,3:03.0,,D. Rose misses 2-pt layup from 3 ft,19,22
+1,3:00.0,Defensive rebound by D. Finney-Smith,,19,22
+1,2:50.0,D. Powell makes 2-pt layup from 2 ft (assist by L. Dončić),,21,22
+1,2:50.0,Shooting foul by J. Okogie (drawn by D. Powell),,21,22
+1,2:50.0,D. Powell makes free throw 1 of 1,,22,22
+1,2:35.0,,D. Šarić misses 2-pt layup from 4 ft,22,22
+1,2:33.0,,Offensive rebound by T. Jones,22,22
+1,2:23.0,,D. Rose misses 2-pt jump shot from 5 ft,22,22
+1,2:21.0,Defensive rebound by D. Nowitzki,,22,22
+1,2:09.0,L. Dončić misses 3-pt jump shot from 26 ft,,22,22
+1,2:06.0,,Defensive rebound by D. Rose,22,22
+1,1:56.0,,T. Jones misses 2-pt jump shot from 12 ft,22,22
+1,1:54.0,,Offensive rebound by G. Dieng,22,22
+1,1:49.0,,T. Jones misses 2-pt layup from 1 ft,22,22
+1,1:47.0,Defensive rebound by D. Finney-Smith,,22,22
+1,1:45.0,Shooting foul by G. Dieng (drawn by L. Dončić),,22,22
+1,1:45.0,L. Dončić makes free throw 1 of 2,,23,22
+1,1:45.0,L. Dončić makes free throw 2 of 2,,24,22
+1,1:31.0,,Shooting foul by D. Powell (drawn by D. Rose),24,22
+1,1:31.0,,D. Rose makes free throw 1 of 2,24,23
+1,1:31.0,,D. Rose makes free throw 2 of 2,24,24
+1,1:23.0,Personal foul by J. Okogie (drawn by L. Dončić),,24,24
+1,1:23.0,L. Dončić makes free throw 1 of 2,,25,24
+1,1:23.0,,A. Wiggins enters the game for J. Okogie,25,24
+1,1:23.0,L. Dončić misses free throw 2 of 2,,25,24
+1,1:20.0,,Defensive rebound by G. Dieng,25,24
+1,1:10.0,,D. Šarić misses 3-pt jump shot from 25 ft,25,24
+1,1:07.0,Defensive rebound by J. Barea,,25,24
+1,1:00.0,D. Nowitzki misses 3-pt jump shot from 24 ft,,25,24
+1,0:58.0,,Defensive rebound by D. Šarić,25,24
+1,0:52.0,,G. Dieng misses 2-pt layup from 4 ft,25,24
+1,0:51.0,Defensive rebound by D. Nowitzki,,25,24
+1,0:35.0,L. Dončić makes 3-pt jump shot from 26 ft,,28,24
+1,0:29.0,,T. Jones makes 2-pt jump shot from 4 ft,28,26
+1,0:17.0,Turnover by D. Powell (out of bounds lost ball),,28,26
+1,0:03.0,,A. Wiggins misses 2-pt jump shot from 17 ft,28,26
+1,0:01.0,Defensive rebound by D. Finney-Smith,,28,26
+1,0:00.0,D. Finney-Smith misses 3-pt jump shot from 58 ft,,28,26
+1,0:00.0,Offensive rebound by Team,,28,26
+2,11:47.0,L. Dončić makes 2-pt layup from 1 ft (assist by J. Barea),,30,26
+2,11:28.0,,A. Wiggins misses 2-pt jump shot from 16 ft,30,26
+2,11:26.0,,Offensive rebound by G. Dieng,30,26
+2,11:24.0,,Turnover by G. Dieng (lost ball; steal by L. Dončić),30,26
+2,11:14.0,J. Barea misses 2-pt layup from 4 ft (block by G. Dieng),,30,26
+2,11:11.0,Offensive rebound by D. Powell,,30,26
+2,11:06.0,D. Finney-Smith misses 3-pt jump shot from 23 ft,,30,26
+2,11:03.0,,Defensive rebound by G. Dieng,30,26
+2,10:56.0,,A. Wiggins makes 3-pt jump shot from 25 ft (assist by T. Jones),30,29
+2,10:40.0,D. Powell makes 2-pt dunk at rim (assist by J. Barea),,32,29
+2,10:25.0,,Shooting foul by D. Nowitzki (drawn by A. Wiggins),32,29
+2,10:25.0,,A. Wiggins makes free throw 1 of 2,32,30
+2,10:25.0,,A. Wiggins makes free throw 2 of 2,32,31
+2,10:18.0,Personal foul by T. Jones (drawn by L. Dončić),,32,31
+2,10:11.0,J. Barea misses 3-pt jump shot from 24 ft,,32,31
+2,10:07.0,Offensive rebound by J. Barea,,32,31
+2,10:01.0,D. Powell makes 2-pt dunk from 1 ft (assist by J. Barea),,34,31
+2,9:51.0,,G. Dieng makes 2-pt dunk from 1 ft (assist by T. Jones),34,33
+2,9:38.0,J. Barea makes 2-pt layup at rim,,36,33
+2,9:31.0,,Turnover by A. Wiggins (lost ball; steal by L. Dončić),36,33
+2,9:28.0,J. Barea makes 2-pt layup at rim (assist by L. Dončić),,38,33
+2,9:28.0,,Minnesota full timeout,38,33
+2,9:28.0,,K. Towns enters the game for G. Dieng,38,33
+2,9:15.0,,K. Towns misses 3-pt jump shot from 25 ft,38,33
+2,9:14.0,Defensive rebound by D. Powell,,38,33
+2,9:00.0,D. Powell makes 2-pt dunk at rim (assist by L. Dončić),,40,33
+2,8:40.0,,A. Wiggins misses 3-pt jump shot from 25 ft,40,33
+2,8:37.0,Defensive rebound by L. Dončić,,40,33
+2,8:27.0,J. Barea makes 2-pt layup from 1 ft,,42,33
+2,8:27.0,Shooting foul by D. Šarić (drawn by J. Barea),,42,33
+2,8:27.0,J. Brunson enters the game for L. Dončić,,42,33
+2,8:27.0,,T. Gibson enters the game for D. Šarić,42,33
+2,8:27.0,J. Barea makes free throw 1 of 1,,43,33
+2,8:13.0,,A. Wiggins misses 2-pt layup from 2 ft (block by D. Powell),43,33
+2,8:12.0,,Offensive rebound by Team,43,33
+2,8:08.0,,A. Wiggins makes 2-pt jump shot from 8 ft,43,35
+2,7:54.0,D. Nowitzki misses 3-pt jump shot from 26 ft,,43,35
+2,7:52.0,,Defensive rebound by Team,43,35
+2,7:49.0,,Personal foul by D. Nowitzki (drawn by K. Towns),43,35
+2,7:49.0,M. Kleber enters the game for J. Barea,,43,35
+2,7:49.0,W. Matthews enters the game for D. Nowitzki,,43,35
+2,7:49.0,,J. Teague enters the game for T. Jones,43,35
+2,7:42.0,,A. Wiggins misses 2-pt layup from 2 ft (block by D. Finney-Smith),43,35
+2,7:42.0,Defensive rebound by D. Finney-Smith,,43,35
+2,7:21.0,D. Finney-Smith misses 2-pt jump shot from 9 ft (block by K. Towns),,43,35
+2,7:20.0,,Defensive rebound by T. Gibson,43,35
+2,7:08.0,,A. Wiggins misses 2-pt jump shot from 13 ft,43,35
+2,7:06.0,Defensive rebound by Team,,43,35
+2,6:47.0,M. Kleber makes 3-pt jump shot from 24 ft (assist by W. Matthews),,46,35
+2,6:39.0,,Personal foul by J. Brunson (drawn by J. Teague),46,35
+2,6:39.0,H. Barnes enters the game for D. Finney-Smith,,46,35
+2,6:39.0,D. Jordan enters the game for D. Powell,,46,35
+2,6:39.0,,J. Okogie enters the game for A. Tolliver,46,35
+2,6:29.0,,K. Towns makes 2-pt dunk from 1 ft (assist by J. Teague),46,37
+2,6:14.0,W. Matthews makes 2-pt layup from 3 ft,,48,37
+2,5:57.0,,J. Okogie misses 3-pt jump shot from 26 ft,48,37
+2,5:54.0,Defensive rebound by D. Jordan,,48,37
+2,5:34.0,H. Barnes misses 2-pt jump shot from 11 ft,,48,37
+2,5:30.0,,Defensive rebound by J. Teague,48,37
+2,5:28.0,,Turnover by J. Teague (bad pass),48,37
+2,5:12.0,J. Brunson makes 3-pt jump shot from 24 ft,,51,37
+2,5:00.0,,Turnover by J. Teague (bad pass; steal by J. Brunson),51,37
+2,4:56.0,J. Brunson misses 2-pt jump shot from 9 ft (block by J. Teague),,51,37
+2,4:55.0,Offensive rebound by Team,,51,37
+2,4:49.0,W. Matthews misses 3-pt jump shot from 28 ft,,51,37
+2,4:45.0,,Defensive rebound by A. Wiggins,51,37
+2,4:40.0,,A. Wiggins makes 2-pt jump shot from 23 ft,51,39
+2,4:38.0,Dallas full timeout,,51,39
+2,4:19.0,H. Barnes misses 2-pt jump shot from 8 ft,,51,39
+2,4:18.0,Offensive rebound by D. Jordan,,51,39
+2,4:18.0,D. Jordan misses 2-pt layup from 1 ft,,51,39
+2,4:15.0,,Defensive rebound by Team,51,39
+2,3:54.0,,T. Gibson misses 2-pt layup from 3 ft,51,39
+2,3:54.0,,Offensive rebound by Team,51,39
+2,3:54.0,Loose ball foul by H. Barnes (drawn by T. Gibson),,51,39
+2,3:42.0,,Shooting foul by M. Kleber (drawn by K. Towns),51,39
+2,3:42.0,,K. Towns makes free throw 1 of 2,51,40
+2,3:42.0,L. Dončić enters the game for W. Matthews,,51,40
+2,3:42.0,,D. Rose enters the game for J. Okogie,51,40
+2,3:42.0,,K. Towns makes free throw 2 of 2,51,41
+2,3:29.0,H. Barnes makes 2-pt dunk from 1 ft (assist by J. Brunson),,53,41
+2,3:19.0,,J. Teague misses 3-pt jump shot from 25 ft,53,41
+2,3:19.0,Defensive rebound by Team,,53,41
+2,3:11.0,Turnover by D. Jordan (bad pass),,53,41
+2,2:54.0,,T. Gibson misses 3-pt jump shot from 23 ft,53,41
+2,2:51.0,Defensive rebound by L. Dončić,,53,41
+2,2:50.0,Personal foul by T. Gibson (drawn by D. Jordan),,53,41
+2,2:47.0,Turnover by D. Jordan (lost ball; steal by J. Teague),,53,41
+2,2:43.0,,J. Teague makes 2-pt dunk from 1 ft,53,43
+2,2:28.0,L. Dončić misses 2-pt jump shot from 6 ft (block by K. Towns),,53,43
+2,2:26.0,,Defensive rebound by K. Towns,53,43
+2,2:25.0,Violation by Team (kicked ball),,53,43
+2,2:20.0,,D. Rose makes 2-pt jump shot from 14 ft,53,45
+2,2:03.0,J. Brunson makes 3-pt jump shot from 23 ft (assist by L. Dončić),,56,45
+2,1:51.0,,J. Teague misses 2-pt jump shot from 13 ft,56,45
+2,1:49.0,Defensive rebound by L. Dončić,,56,45
+2,1:38.0,L. Dončić misses 3-pt jump shot from 26 ft,,56,45
+2,1:37.0,,Defensive rebound by T. Gibson,56,45
+2,1:25.0,,K. Towns misses 2-pt jump shot from 8 ft,56,45
+2,1:23.0,Defensive rebound by H. Barnes,,56,45
+2,1:18.0,Personal foul by K. Towns (drawn by D. Jordan),,56,45
+2,1:09.0,M. Kleber makes 3-pt jump shot from 22 ft (assist by L. Dončić),,59,45
+2,0:56.0,,T. Gibson misses 2-pt layup from 5 ft (block by M. Kleber),59,45
+2,0:54.0,Defensive rebound by M. Kleber,,59,45
+2,0:49.0,Shooting foul by A. Wiggins (drawn by D. Jordan),,59,45
+2,0:49.0,D. Jordan misses free throw 1 of 2,,59,45
+2,0:49.0,Offensive rebound by Team,,59,45
+2,0:49.0,D. Jordan misses free throw 2 of 2,,59,45
+2,0:47.0,,Defensive rebound by T. Gibson,59,45
+2,0:43.0,,A. Wiggins makes 2-pt dunk from 1 ft (assist by J. Teague),59,47
+2,0:30.0,L. Dončić makes 2-pt layup from 1 ft,,61,47
+2,0:24.0,,D. Rose makes 3-pt jump shot from 25 ft,61,50
+2,0:02.0,M. Kleber misses 3-pt jump shot from 23 ft,,61,50
+2,0:01.0,Offensive rebound by L. Dončić,,61,50
+2,0:00.0,L. Dončić misses 2-pt layup from 2 ft,,61,50
+2,0:00.0,Offensive rebound by Team,,61,50
+3,11:53.0,Personal foul by J. Teague (drawn by L. Dončić),,61,50
+3,11:44.0,D. Jordan makes 2-pt dunk from 1 ft (assist by W. Matthews),,63,50
+3,11:17.0,,J. Teague misses 2-pt jump shot from 13 ft,63,50
+3,11:15.0,Defensive rebound by D. Jordan,,63,50
+3,11:04.0,H. Barnes misses 3-pt jump shot from 22 ft,,63,50
+3,11:02.0,Offensive rebound by D. Jordan,,63,50
+3,11:02.0,D. Jordan misses 2-pt dunk at rim,,63,50
+3,10:57.0,,Defensive rebound by K. Towns,63,50
+3,10:54.0,,Turnover by J. Okogie (back court),63,50
+3,10:41.0,W. Matthews misses 2-pt jump shot from 17 ft,,63,50
+3,10:38.0,,Defensive rebound by T. Gibson,63,50
+3,10:32.0,,J. Okogie makes 3-pt jump shot from 24 ft (assist by T. Gibson),63,53
+3,10:18.0,L. Dončić misses 3-pt jump shot from 26 ft,,63,53
+3,10:15.0,,Defensive rebound by T. Gibson,63,53
+3,10:06.0,,K. Towns makes 3-pt jump shot from 27 ft (assist by J. Teague),63,56
+3,10:05.0,Dallas full timeout,,63,56
+3,9:45.0,H. Barnes misses 2-pt jump shot from 8 ft,,63,56
+3,9:43.0,,Defensive rebound by J. Okogie,63,56
+3,9:39.0,,J. Okogie makes 3-pt jump shot from 25 ft,63,59
+3,9:20.0,W. Matthews misses 3-pt jump shot from 25 ft,,63,59
+3,9:16.0,,Defensive rebound by K. Towns,63,59
+3,9:08.0,,T. Gibson makes 2-pt layup from 1 ft (assist by J. Teague),63,61
+3,8:50.0,Turnover by D. Jordan (bad pass; steal by J. Teague),,63,61
+3,8:47.0,,J. Teague makes 2-pt dunk at rim,63,63
+3,8:47.0,Dallas full timeout,,63,63
+3,8:31.0,Shooting foul by K. Towns (drawn by L. Dončić),,63,63
+3,8:31.0,L. Dončić misses free throw 1 of 2,,63,63
+3,8:31.0,Offensive rebound by Team,,63,63
+3,8:31.0,L. Dončić makes free throw 2 of 2,,64,63
+3,8:17.0,,T. Gibson misses 2-pt jump shot from 12 ft,64,63
+3,8:15.0,Defensive rebound by D. Jordan,,64,63
+3,8:10.0,Shooting foul by K. Towns (drawn by M. Kleber),,64,63
+3,8:10.0,M. Kleber makes free throw 1 of 2,,65,63
+3,8:10.0,,G. Dieng enters the game for K. Towns,65,63
+3,8:10.0,M. Kleber makes free throw 2 of 2,,66,63
+3,7:59.0,,A. Wiggins misses 2-pt jump shot from 13 ft,66,63
+3,7:57.0,Defensive rebound by D. Jordan,,66,63
+3,7:43.0,L. Dončić misses 2-pt jump shot from 8 ft,,66,63
+3,7:41.0,Offensive rebound by D. Jordan,,66,63
+3,7:41.0,D. Jordan makes 2-pt layup at rim,,68,63
+3,7:31.0,,J. Teague makes 2-pt layup from 2 ft,68,65
+3,7:06.0,D. Jordan makes 2-pt dunk from 2 ft (assist by W. Matthews),,70,65
+3,7:06.0,Shooting foul by G. Dieng (drawn by D. Jordan),,70,65
+3,7:06.0,,D. Rose enters the game for J. Okogie,70,65
+3,7:06.0,D. Jordan misses free throw 1 of 1,,70,65
+3,7:03.0,,Defensive rebound by T. Gibson,70,65
+3,6:56.0,,Turnover by J. Teague (lost ball; steal by D. Jordan),70,65
+3,6:47.0,H. Barnes makes 3-pt jump shot from 25 ft (assist by L. Dončić),,73,65
+3,6:35.0,,Personal foul by L. Dončić (drawn by G. Dieng),73,65
+3,6:31.0,,D. Rose misses 2-pt jump shot from 16 ft,73,65
+3,6:28.0,Defensive rebound by D. Jordan,,73,65
+3,6:09.0,H. Barnes misses 2-pt jump shot from 15 ft,,73,65
+3,6:07.0,,Defensive rebound by A. Wiggins,73,65
+3,6:03.0,,A. Wiggins misses 2-pt jump shot from 17 ft,73,65
+3,6:00.0,Defensive rebound by D. Jordan,,73,65
+3,5:40.0,W. Matthews misses 2-pt jump shot from 4 ft (block by J. Teague),,73,65
+3,5:38.0,,Defensive rebound by T. Gibson,73,65
+3,5:38.0,,Personal foul by M. Kleber (drawn by A. Wiggins),73,65
+3,5:38.0,J. Barea enters the game for L. Dončić,,73,65
+3,5:38.0,,T. Jones enters the game for T. Gibson,73,65
+3,5:38.0,,D. Šarić enters the game for J. Teague,73,65
+3,5:18.0,,D. Rose misses 2-pt jump shot from 9 ft,73,65
+3,5:16.0,Defensive rebound by D. Jordan,,73,65
+3,5:06.0,H. Barnes misses 2-pt jump shot from 3 ft (block by A. Wiggins),,73,65
+3,5:05.0,Offensive rebound by Team,,73,65
+3,5:05.0,D. Finney-Smith enters the game for M. Kleber,,73,65
+3,4:57.0,Shooting foul by A. Wiggins (drawn by H. Barnes),,73,65
+3,4:57.0,H. Barnes makes free throw 1 of 2,,74,65
+3,4:57.0,,J. Okogie enters the game for A. Wiggins,74,65
+3,4:57.0,H. Barnes makes free throw 2 of 2,,75,65
+3,4:42.0,,G. Dieng makes 3-pt jump shot from 24 ft (assist by T. Jones),75,68
+3,4:22.0,H. Barnes makes 2-pt layup from 3 ft,,77,68
+3,4:08.0,,Turnover by D. Šarić (offensive foul),77,68
+3,4:08.0,,Offensive foul by D. Šarić (drawn by J. Barea),77,68
+3,4:08.0,D. Nowitzki enters the game for H. Barnes,,77,68
+3,4:08.0,D. Powell enters the game for D. Jordan,,77,68
+3,3:56.0,J. Barea makes 2-pt jump shot from 14 ft,,79,68
+3,3:38.0,,D. Rose misses 3-pt jump shot from 25 ft,79,68
+3,3:35.0,,Offensive rebound by D. Šarić,79,68
+3,3:34.0,,J. Okogie misses 3-pt jump shot from 25 ft,79,68
+3,3:29.0,Defensive rebound by D. Nowitzki,,79,68
+3,3:18.0,J. Barea misses 2-pt jump shot from 17 ft,,79,68
+3,3:16.0,,Defensive rebound by G. Dieng,79,68
+3,3:03.0,,J. Okogie makes 3-pt jump shot from 23 ft (assist by D. Šarić),79,71
+3,2:43.0,J. Barea misses 3-pt jump shot from 25 ft,,79,71
+3,2:40.0,,Defensive rebound by D. Šarić,79,71
+3,2:28.0,,D. Rose makes 2-pt layup from 1 ft (assist by G. Dieng),79,73
+3,2:11.0,Turnover by W. Matthews (bad pass; steal by J. Okogie),,79,73
+3,2:08.0,,Personal foul by D. Finney-Smith (drawn by T. Jones),79,73
+3,2:08.0,L. Dončić enters the game for W. Matthews,,79,73
+3,2:06.0,,D. Rose misses 2-pt layup from 5 ft (block by D. Finney-Smith),79,73
+3,2:05.0,,Offensive rebound by Team,79,73
+3,1:58.0,,D. Rose makes 3-pt jump shot from 26 ft (assist by T. Jones),79,76
+3,1:32.0,L. Dončić misses 3-pt jump shot from 22 ft,,79,76
+3,1:29.0,Offensive rebound by D. Powell,,79,76
+3,1:28.0,D. Nowitzki misses 3-pt jump shot from 25 ft,,79,76
+3,1:24.0,,Defensive rebound by T. Jones,79,76
+3,1:20.0,,Turnover by T. Jones (bad pass; steal by D. Finney-Smith),79,76
+3,1:09.0,D. Powell makes 2-pt layup from 3 ft (assist by J. Barea),,81,76
+3,0:52.0,,D. Šarić misses 3-pt jump shot from 25 ft,81,76
+3,0:50.0,Defensive rebound by D. Nowitzki,,81,76
+3,0:31.0,Shooting foul by D. Šarić (drawn by L. Dončić),,81,76
+3,0:31.0,L. Dončić makes free throw 1 of 2,,82,76
+3,0:31.0,M. Kleber enters the game for D. Nowitzki,,82,76
+3,0:31.0,L. Dončić makes free throw 2 of 2,,83,76
+3,0:22.0,,G. Dieng misses 2-pt hook shot from 11 ft,83,76
+3,0:20.0,Defensive rebound by M. Kleber,,83,76
+3,0:20.0,Personal foul by G. Dieng (drawn by M. Kleber),,83,76
+3,0:20.0,M. Kleber makes free throw 1 of 2,,84,76
+3,0:20.0,W. Matthews enters the game for J. Barea,,84,76
+3,0:20.0,,K. Towns enters the game for G. Dieng,84,76
+3,0:20.0,M. Kleber makes free throw 2 of 2,,85,76
+3,0:06.0,,Personal foul by D. Finney-Smith (drawn by D. Rose),85,76
+3,0:02.0,,D. Rose makes 2-pt jump shot from 18 ft (assist by T. Jones),85,78
+3,0:00.0,W. Matthews misses 3-pt jump shot from 51 ft,,85,78
+3,0:00.0,Offensive rebound by Team,,85,78
+4,11:50.0,,G. Dieng makes 2-pt jump shot from 20 ft (assist by T. Jones),85,80
+4,11:29.0,D. Nowitzki misses 3-pt jump shot from 25 ft,,85,80
+4,11:26.0,,Defensive rebound by G. Dieng,85,80
+4,11:11.0,,J. Okogie makes 3-pt jump shot from 24 ft (assist by D. Rose),85,83
+4,10:52.0,L. Dončić makes 2-pt jump shot from 19 ft,,87,83
+4,10:36.0,,J. Okogie misses 2-pt layup from 2 ft,87,83
+4,10:34.0,Defensive rebound by L. Dončić,,87,83
+4,10:27.0,L. Dončić misses 3-pt jump shot from 25 ft,,87,83
+4,10:24.0,,Defensive rebound by G. Dieng,87,83
+4,10:12.0,,Turnover by D. Rose (lost ball; steal by D. Nowitzki),87,83
+4,10:07.0,D. Finney-Smith makes 2-pt layup from 2 ft (assist by J. Barea),,89,83
+4,9:50.0,,G. Dieng misses 2-pt layup from 2 ft (block by D. Nowitzki),89,83
+4,9:49.0,,Offensive rebound by Team,89,83
+4,9:49.0,H. Barnes enters the game for D. Nowitzki,,89,83
+4,9:49.0,,A. Wiggins enters the game for J. Okogie,89,83
+4,9:42.0,,D. Rose makes 2-pt jump shot from 21 ft,89,85
+4,9:24.0,D. Powell makes 2-pt dunk from 1 ft (assist by J. Barea),,91,85
+4,9:04.0,,A. Wiggins makes 2-pt layup from 1 ft,91,87
+4,8:48.0,J. Barea makes 3-pt jump shot from 25 ft (assist by L. Dončić),,94,87
+4,8:39.0,,Shooting foul by J. Barea (drawn by T. Jones),94,87
+4,8:39.0,,T. Jones makes free throw 1 of 2,94,88
+4,8:39.0,,T. Gibson enters the game for G. Dieng,94,88
+4,8:39.0,,T. Jones misses free throw 2 of 2,94,88
+4,8:39.0,Defensive rebound by J. Barea,,94,88
+4,8:29.0,D. Powell makes 2-pt dunk from 1 ft (assist by J. Barea),,96,88
+4,8:21.0,,A. Wiggins makes 2-pt jump shot from 19 ft (assist by T. Jones),96,90
+4,8:03.0,H. Barnes makes 3-pt jump shot from 26 ft (assist by L. Dončić),,99,90
+4,7:57.0,,Minnesota full timeout,99,90
+4,7:57.0,J. Brunson enters the game for L. Dončić,,99,90
+4,7:57.0,,J. Teague enters the game for D. Rose,99,90
+4,7:57.0,,K. Towns enters the game for D. Šarić,99,90
+4,7:47.0,,K. Towns makes 2-pt layup from 1 ft,99,92
+4,7:37.0,D. Powell misses 3-pt jump shot from 25 ft,,99,92
+4,7:33.0,,Defensive rebound by A. Wiggins,99,92
+4,7:19.0,,K. Towns misses 2-pt layup from 5 ft (block by D. Powell),99,92
+4,7:17.0,,Offensive rebound by Team,99,92
+4,7:08.0,,K. Towns misses 2-pt jump shot from 13 ft,99,92
+4,7:05.0,Defensive rebound by J. Barea,,99,92
+4,6:56.0,J. Barea misses 3-pt jump shot from 26 ft,,99,92
+4,6:55.0,,Defensive rebound by J. Teague,99,92
+4,6:43.0,,Turnover by A. Wiggins (out of bounds lost ball),99,92
+4,6:43.0,,Technical foul by T. Gibson,99,92
+4,6:43.0,H. Barnes makes technical free throw,,100,92
+4,6:28.0,J. Barea makes 2-pt layup from 2 ft (assist by J. Brunson),,102,92
+4,6:25.0,,Personal take foul by J. Brunson (drawn by T. Jones),102,92
+4,6:25.0,Dallas full timeout,,102,92
+4,6:25.0,L. Dončić enters the game for J. Barea,,102,92
+4,6:25.0,D. Jordan enters the game for D. Finney-Smith,,102,92
+4,6:25.0,M. Kleber enters the game for D. Powell,,102,92
+4,6:25.0,,D. Rose enters the game for T. Jones,102,92
+4,6:14.0,,K. Towns misses 2-pt hook shot from 5 ft,102,92
+4,6:12.0,,Offensive rebound by T. Gibson,102,92
+4,6:11.0,,T. Gibson misses 2-pt layup from 2 ft,102,92
+4,6:09.0,,Offensive rebound by A. Wiggins,102,92
+4,6:07.0,,D. Rose makes 3-pt jump shot from 25 ft (assist by A. Wiggins),102,95
+4,5:50.0,H. Barnes makes 3-pt jump shot from 25 ft (assist by L. Dončić),,105,95
+4,5:34.0,,J. Teague makes 2-pt jump shot from 10 ft (assist by K. Towns),105,97
+4,5:11.0,H. Barnes misses 2-pt jump shot from 18 ft,,105,97
+4,5:07.0,,Defensive rebound by D. Rose,105,97
+4,5:02.0,,A. Wiggins makes 2-pt jump shot from 7 ft (assist by D. Rose),105,99
+4,4:42.0,L. Dončić makes 2-pt jump shot from 22 ft,,107,99
+4,4:32.0,,Shooting foul by M. Kleber (drawn by K. Towns),107,99
+4,4:32.0,,K. Towns makes free throw 1 of 2,107,100
+4,4:32.0,,K. Towns makes free throw 2 of 2,107,101
+4,4:16.0,L. Dončić misses 2-pt layup from 5 ft,,107,101
+4,4:14.0,,Defensive rebound by A. Wiggins,107,101
+4,4:04.0,,K. Towns makes 2-pt jump shot from 15 ft (assist by A. Wiggins),107,103
+4,3:45.0,H. Barnes misses 3-pt jump shot from 26 ft,,107,103
+4,3:42.0,Offensive rebound by D. Jordan,,107,103
+4,3:41.0,D. Jordan misses 2-pt jump shot from 4 ft (block by K. Towns),,107,103
+4,3:39.0,,Defensive rebound by D. Rose,107,103
+4,3:39.0,,Personal foul by H. Barnes (drawn by K. Towns),107,103
+4,3:39.0,,Minnesota full timeout,107,103
+4,3:26.0,,D. Rose makes 2-pt jump shot from 12 ft (assist by K. Towns),107,105
+4,3:01.0,L. Dončić misses 2-pt jump shot from 11 ft (block by D. Rose),,107,105
+4,2:59.0,,Defensive rebound by K. Towns,107,105
+4,2:47.0,,K. Towns makes 2-pt layup from 1 ft (assist by D. Rose),107,107
+4,2:45.0,Dallas full timeout,,107,107
+4,2:37.0,J. Brunson makes 3-pt jump shot from 22 ft (assist by L. Dončić),,110,107
+4,2:13.0,,K. Towns makes 2-pt hook shot from 7 ft,110,109
+4,1:55.0,H. Barnes misses 2-pt jump shot from 18 ft,,110,109
+4,1:53.0,,Defensive rebound by T. Gibson,110,109
+4,1:41.0,,K. Towns makes 2-pt hook shot from 8 ft (assist by J. Teague),110,111
+4,1:28.0,L. Dončić makes 2-pt jump shot from 9 ft,,112,111
+4,1:08.0,,J. Teague makes 2-pt jump shot from 6 ft (assist by D. Rose),112,113
+4,0:57.0,L. Dončić makes 2-pt dunk from 1 ft,,114,113
+4,0:36.0,,J. Teague misses 2-pt jump shot from 10 ft,114,113
+4,0:35.0,,Offensive rebound by T. Gibson,114,113
+4,0:35.0,,T. Gibson makes 2-pt layup from 1 ft,114,115
+4,0:35.0,Dallas full timeout,,114,115
+4,0:35.0,,J. Okogie enters the game for D. Rose,114,115
+4,0:33.0,Turnover by L. Dončić (bad pass; steal by T. Gibson),,114,115
+4,0:30.0,,Turnover by J. Okogie (bad pass; steal by D. Jordan),114,115
+4,0:23.0,L. Dončić makes 3-pt jump shot from 28 ft,,117,115
+4,0:22.0,,Minnesota full timeout,117,115
+4,0:22.0,D. Finney-Smith enters the game for J. Brunson,,117,115
+4,0:22.0,,D. Rose enters the game for T. Gibson,117,115
+4,0:22.0,,D. Šarić enters the game for J. Okogie,117,115
+4,0:10.0,,Turnover by D. Rose (bad pass),117,115
+4,0:10.0,,Loose ball foul by K. Towns (drawn by H. Barnes),117,115
+4,0:10.0,J. Brunson enters the game for D. Jordan,,117,115
+4,0:10.0,,G. Dieng enters the game for D. Rose,117,115
+4,0:10.0,,T. Gibson enters the game for D. Šarić,117,115
+4,0:10.0,,J. Okogie enters the game for K. Towns,117,115
+4,0:07.0,Personal take foul by J. Okogie (drawn by H. Barnes),,117,115
+4,0:07.0,H. Barnes makes free throw 1 of 2,,118,115
+4,0:07.0,,K. Towns enters the game for G. Dieng,118,115
+4,0:07.0,H. Barnes makes free throw 2 of 2,,119,115
+4,0:07.0,,Minnesota full timeout,119,115
+4,0:07.0,,D. Rose enters the game for T. Gibson,119,115
+4,0:07.0,,D. Šarić enters the game for J. Okogie,119,115
+4,0:02.0,,K. Towns misses 3-pt jump shot from 25 ft,119,115
+4,0:00.0,,Offensive rebound by D. Šarić,119,115
+4,0:00.0,,D. Rose misses 3-pt jump shot from 25 ft,119,115
+4,0:00.0,,Offensive rebound by Team,119,115

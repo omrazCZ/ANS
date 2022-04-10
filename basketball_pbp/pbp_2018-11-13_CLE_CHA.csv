@@ -1,0 +1,440 @@
+QUARTER,TIME_REMAINING,CHARLOTTE_ACTION,CLEVELAND_ACTION,CHARLOTTE_SCORE,CLEVELAND_SCORE
+1,11:44.0,,R. Hood makes 2-pt jump shot from 20 ft (assist by T. Thompson),0,2
+1,11:27.0,K. Walker misses 2-pt jump shot from 13 ft,,0,2
+1,11:23.0,,Defensive rebound by T. Thompson,0,2
+1,11:16.0,,J. Smith misses 2-pt jump shot from 15 ft,0,2
+1,11:14.0,Defensive rebound by K. Walker,,0,2
+1,11:08.0,N. Batum misses 3-pt jump shot from 25 ft,,0,2
+1,11:04.0,Offensive rebound by C. Zeller,,0,2
+1,11:02.0,N. Batum makes 2-pt layup from 2 ft (assist by C. Zeller),,2,2
+1,10:42.0,,R. Hood misses 2-pt jump shot from 15 ft,2,2
+1,10:38.0,Defensive rebound by K. Walker,,2,2
+1,10:31.0,K. Walker misses 2-pt layup from 1 ft,,2,2
+1,10:29.0,,Defensive rebound by T. Thompson,2,2
+1,10:26.0,,C. Sexton misses 2-pt jump shot from 20 ft,2,2
+1,10:22.0,,Offensive rebound by C. Sexton,2,2
+1,10:21.0,,C. Sexton makes 2-pt layup from 1 ft,2,4
+1,10:03.0,,Violation by Team (kicked ball),2,4
+1,9:56.0,J. Lamb makes 2-pt jump shot from 20 ft (assist by C. Zeller),,4,4
+1,9:34.0,,T. Thompson misses 2-pt layup from 1 ft,4,4
+1,9:32.0,Defensive rebound by J. Lamb,,4,4
+1,9:29.0,M. Williams makes 3-pt jump shot from 23 ft (assist by N. Batum),,7,4
+1,9:14.0,,C. Sexton makes 2-pt jump shot from 14 ft (assist by J. Smith),7,6
+1,9:01.0,N. Batum misses 2-pt layup from 1 ft,,7,6
+1,8:58.0,,Defensive rebound by T. Thompson,7,6
+1,8:55.0,,J. Smith makes 3-pt jump shot from 23 ft (assist by C. Sexton),7,9
+1,8:32.0,N. Batum makes 2-pt jump shot from 22 ft (assist by C. Zeller),,9,9
+1,8:13.0,,Shooting foul by C. Zeller (drawn by T. Thompson),9,9
+1,8:13.0,,T. Thompson makes free throw 1 of 2,9,10
+1,8:13.0,,T. Thompson misses free throw 2 of 2,9,10
+1,8:09.0,,Offensive rebound by L. Nance,9,10
+1,8:05.0,,R. Hood misses 2-pt jump shot from 5 ft,9,10
+1,8:02.0,Defensive rebound by J. Lamb,,9,10
+1,7:52.0,K. Walker misses 3-pt jump shot from 26 ft,,9,10
+1,7:48.0,,Defensive rebound by R. Hood,9,10
+1,7:38.0,,J. Smith misses 2-pt jump shot from 2 ft,9,10
+1,7:30.0,,Offensive rebound by T. Thompson,9,10
+1,7:30.0,,T. Thompson makes 2-pt layup from 1 ft,9,12
+1,7:23.0,Personal foul by C. Sexton (drawn by C. Zeller),,9,12
+1,7:18.0,K. Walker misses 3-pt jump shot from 26 ft,,9,12
+1,7:16.0,,Defensive rebound by L. Nance,9,12
+1,7:06.0,,J. Smith makes 2-pt jump shot from 18 ft,9,14
+1,6:52.0,M. Williams misses 3-pt jump shot from 25 ft,,9,14
+1,6:49.0,,Defensive rebound by L. Nance,9,14
+1,6:47.0,,J. Smith misses 3-pt jump shot from 26 ft,9,14
+1,6:42.0,,Offensive rebound by C. Sexton,9,14
+1,6:41.0,,C. Sexton misses 2-pt layup from 1 ft,9,14
+1,6:38.0,,Offensive rebound by T. Thompson,9,14
+1,6:37.0,,T. Thompson makes 2-pt hook shot from 1 ft,9,16
+1,6:37.0,Charlotte full timeout,,9,16
+1,6:37.0,W. Hernangómez enters the game for C. Zeller,,9,16
+1,6:17.0,K. Walker misses 3-pt jump shot from 26 ft,,9,16
+1,6:14.0,,Defensive rebound by L. Nance,9,16
+1,6:00.0,,R. Hood makes 2-pt layup from 1 ft,9,18
+1,6:00.0,Violation by Team (def goaltending),,9,18
+1,5:45.0,J. Lamb misses 2-pt jump shot from 16 ft,,9,18
+1,5:42.0,Offensive rebound by N. Batum,,9,18
+1,5:42.0,N. Batum misses 2-pt layup at rim,,9,18
+1,5:42.0,Offensive rebound by N. Batum,,9,18
+1,5:42.0,N. Batum misses 2-pt layup at rim,,9,18
+1,5:42.0,Offensive rebound by Team,,9,18
+1,5:33.0,J. Lamb makes 2-pt jump shot from 4 ft (assist by N. Batum),,11,18
+1,5:19.0,,J. Smith misses 3-pt jump shot from 25 ft,11,18
+1,5:17.0,Defensive rebound by W. Hernangómez,,11,18
+1,5:12.0,N. Batum misses 3-pt jump shot from 25 ft,,11,18
+1,5:09.0,,Defensive rebound by T. Thompson,11,18
+1,4:53.0,,L. Nance makes 3-pt jump shot from 25 ft (assist by R. Hood),11,21
+1,4:33.0,N. Batum makes 2-pt jump shot from 6 ft,,13,21
+1,4:21.0,,C. Sexton makes 3-pt jump shot from 26 ft,13,24
+1,4:06.0,J. Lamb makes 2-pt hook shot from 1 ft (assist by K. Walker),,15,24
+1,3:54.0,,J. Smith makes 2-pt jump shot from 16 ft,15,26
+1,3:40.0,W. Hernangómez misses 2-pt layup from 3 ft (block by J. Smith),,15,26
+1,3:40.0,Offensive rebound by Team,,15,26
+1,3:40.0,M. Bridges enters the game for J. Lamb,,15,26
+1,3:40.0,M. Monk enters the game for K. Walker,,15,26
+1,3:40.0,T. Parker enters the game for M. Williams,,15,26
+1,3:40.0,,J. Clarkson enters the game for J. Smith,15,26
+1,3:40.0,,D. Nwaba enters the game for T. Thompson,15,26
+1,3:33.0,N. Batum misses 2-pt layup from 3 ft,,15,26
+1,3:29.0,Offensive rebound by W. Hernangómez,,15,26
+1,3:29.0,W. Hernangómez misses 2-pt layup at rim,,15,26
+1,3:29.0,,Defensive rebound by R. Hood,15,26
+1,3:24.0,,D. Nwaba makes 2-pt dunk from 1 ft (assist by R. Hood),15,28
+1,3:03.0,M. Monk makes 2-pt jump shot from 19 ft,,17,28
+1,2:53.0,,Personal foul by W. Hernangómez (drawn by L. Nance),17,28
+1,2:53.0,,Cleveland full timeout,17,28
+1,2:53.0,D. Bacon enters the game for N. Batum,,17,28
+1,2:53.0,,A. Harrison enters the game for C. Sexton,17,28
+1,2:46.0,,R. Hood misses 2-pt layup from 1 ft,17,28
+1,2:43.0,,Offensive rebound by L. Nance,17,28
+1,2:36.0,,J. Clarkson misses 2-pt jump shot from 17 ft,17,28
+1,2:33.0,Defensive rebound by M. Bridges,,17,28
+1,2:15.0,W. Hernangómez misses 2-pt jump shot from 17 ft,,17,28
+1,2:11.0,,Defensive rebound by D. Nwaba,17,28
+1,2:03.0,,D. Nwaba makes 3-pt jump shot from 25 ft (assist by J. Clarkson),17,31
+1,1:43.0,W. Hernangómez makes 2-pt hook shot from 14 ft,,19,31
+1,1:20.0,,R. Hood makes 3-pt jump shot from 23 ft,19,34
+1,1:10.0,Personal foul by A. Harrison (drawn by T. Parker),,19,34
+1,1:10.0,,J. Smith enters the game for R. Hood,19,34
+1,1:10.0,,A. Žižić enters the game for L. Nance,19,34
+1,1:08.0,Personal foul by D. Nwaba (drawn by M. Bridges),,19,34
+1,1:08.0,M. Bridges makes free throw 1 of 2,,20,34
+1,1:08.0,M. Bridges makes free throw 2 of 2,,21,34
+1,0:58.0,,J. Clarkson makes 2-pt jump shot from 18 ft,21,36
+1,0:45.0,T. Parker makes 2-pt layup from 2 ft,,23,36
+1,0:34.0,,Turnover by J. Clarkson (bad pass; steal by W. Hernangómez),23,36
+1,0:23.0,M. Bridges misses 3-pt jump shot from 23 ft,,23,36
+1,0:22.0,,Defensive rebound by Team,23,36
+1,0:02.0,,D. Nwaba makes 2-pt layup at rim (assist by A. Harrison),23,38
+1,0:00.0,M. Monk misses 3-pt jump shot from 43 ft,,23,38
+1,0:00.0,Offensive rebound by Team,,23,38
+2,11:41.0,T. Parker misses 3-pt jump shot from 26 ft,,23,38
+2,11:39.0,Offensive rebound by M. Bridges,,23,38
+2,11:37.0,M. Monk misses 3-pt jump shot from 26 ft,,23,38
+2,11:35.0,,Defensive rebound by A. Harrison,23,38
+2,11:24.0,,A. Harrison misses 3-pt jump shot from 25 ft,23,38
+2,11:22.0,Defensive rebound by D. Bacon,,23,38
+2,11:13.0,M. Williams misses 3-pt jump shot from 26 ft,,23,38
+2,11:10.0,,Defensive rebound by A. Žižić,23,38
+2,11:01.0,,J. Clarkson makes 2-pt jump shot from 16 ft,23,40
+2,10:52.0,Personal foul by A. Harrison (drawn by M. Williams),,23,40
+2,10:52.0,K. Walker enters the game for D. Bacon,,23,40
+2,10:43.0,T. Parker makes 2-pt layup from 1 ft,,25,40
+2,10:23.0,,Turnover by A. Žižić (lost ball; steal by M. Williams),25,40
+2,10:19.0,Shooting foul by A. Harrison (drawn by T. Parker),,25,40
+2,10:19.0,T. Parker makes free throw 1 of 2,,26,40
+2,10:19.0,,C. Sexton enters the game for A. Harrison,26,40
+2,10:19.0,T. Parker misses free throw 2 of 2,,26,40
+2,10:16.0,,Defensive rebound by A. Žižić,26,40
+2,10:01.0,,Turnover by A. Žižić (lost ball; steal by M. Williams),26,40
+2,10:00.0,M. Monk makes 2-pt dunk from 2 ft (assist by M. Williams),,28,40
+2,10:00.0,,Cleveland full timeout,28,40
+2,10:00.0,N. Batum enters the game for M. Bridges,,28,40
+2,10:00.0,,T. Thompson enters the game for A. Žižić,28,40
+2,9:35.0,,J. Clarkson makes 2-pt jump shot from 4 ft (assist by C. Sexton),28,42
+2,9:23.0,T. Parker misses 2-pt layup from 2 ft,,28,42
+2,9:21.0,,Defensive rebound by T. Thompson,28,42
+2,9:18.0,,Turnover by C. Sexton (bad pass; steal by K. Walker),28,42
+2,9:15.0,T. Parker makes 2-pt layup from 1 ft (assist by K. Walker),,30,42
+2,9:15.0,K. Walker makes free throw 1 of 1,,31,42
+2,9:15.0,Away from play foul by T. Thompson (drawn by K. Walker),,31,42
+2,8:52.0,,C. Sexton misses 2-pt jump shot from 22 ft,31,42
+2,8:49.0,,Offensive rebound by Team,31,42
+2,8:46.0,,D. Nwaba makes 2-pt dunk from 1 ft (assist by J. Smith),31,44
+2,8:32.0,T. Parker misses 2-pt jump shot from 21 ft,,31,44
+2,8:29.0,,Defensive rebound by D. Nwaba,31,44
+2,8:24.0,,T. Thompson makes 2-pt layup from 1 ft (assist by D. Nwaba),31,46
+2,8:15.0,M. Monk misses 3-pt jump shot from 28 ft,,31,46
+2,8:11.0,Offensive rebound by N. Batum,,31,46
+2,8:09.0,T. Parker misses 3-pt jump shot from 26 ft,,31,46
+2,8:08.0,,Defensive rebound by Team,31,46
+2,8:08.0,J. Lamb enters the game for T. Parker,,31,46
+2,7:55.0,,Shooting foul by M. Williams (drawn by J. Clarkson),31,46
+2,7:55.0,,J. Clarkson makes free throw 1 of 2,31,47
+2,7:55.0,C. Zeller enters the game for M. Williams,,31,47
+2,7:55.0,,J. Clarkson makes free throw 2 of 2,31,48
+2,7:37.0,C. Zeller makes 2-pt layup from 1 ft (assist by M. Monk),,33,48
+2,7:26.0,,C. Sexton misses 2-pt jump shot from 14 ft,33,48
+2,7:23.0,,Offensive rebound by T. Thompson,33,48
+2,7:22.0,,Turnover by T. Thompson (bad pass; steal by J. Lamb),33,48
+2,7:17.0,Turnover by M. Monk (lost ball; steal by J. Smith),,33,48
+2,7:13.0,,C. Sexton makes 2-pt layup at rim (assist by J. Smith),33,50
+2,6:59.0,C. Zeller misses 2-pt layup from 2 ft,,33,50
+2,6:57.0,,Defensive rebound by T. Thompson,33,50
+2,6:49.0,,J. Clarkson misses 2-pt layup from 2 ft,33,50
+2,6:45.0,Defensive rebound by M. Monk,,33,50
+2,6:38.0,K. Walker misses 2-pt jump shot from 13 ft,,33,50
+2,6:34.0,,Defensive rebound by T. Thompson,33,50
+2,6:24.0,,C. Sexton makes 3-pt jump shot from 26 ft (assist by J. Smith),33,53
+2,6:23.0,Charlotte full timeout,,33,53
+2,6:23.0,D. Bacon enters the game for M. Monk,,33,53
+2,6:23.0,,R. Hood enters the game for J. Clarkson,33,53
+2,6:23.0,,L. Nance enters the game for D. Nwaba,33,53
+2,6:12.0,Shooting foul by C. Sexton (drawn by K. Walker),,33,53
+2,6:12.0,K. Walker misses free throw 1 of 2,,33,53
+2,6:12.0,Offensive rebound by Team,,33,53
+2,6:12.0,K. Walker misses free throw 2 of 2,,33,53
+2,6:09.0,,Defensive rebound by J. Smith,33,53
+2,5:59.0,,J. Smith misses 2-pt jump shot from 20 ft,33,53
+2,5:54.0,,Offensive rebound by T. Thompson,33,53
+2,5:52.0,,Turnover by T. Thompson (lost ball; steal by J. Lamb),33,53
+2,5:48.0,C. Zeller makes 2-pt layup from 2 ft (assist by K. Walker),,35,53
+2,5:48.0,Shooting foul by R. Hood (drawn by C. Zeller),,35,53
+2,5:48.0,C. Zeller makes free throw 1 of 1,,36,53
+2,5:37.0,,L. Nance misses 2-pt jump shot from 1 ft,36,53
+2,5:34.0,Defensive rebound by J. Lamb,,36,53
+2,5:31.0,J. Lamb misses 3-pt jump shot from 26 ft,,36,53
+2,5:31.0,Offensive rebound by N. Batum,,36,53
+2,5:24.0,K. Walker makes 2-pt jump shot from 19 ft (assist by J. Lamb),,38,53
+2,5:04.0,,R. Hood makes 2-pt jump shot from 19 ft (assist by T. Thompson),38,55
+2,4:48.0,N. Batum misses 3-pt jump shot from 25 ft,,38,55
+2,4:45.0,,Defensive rebound by C. Sexton,38,55
+2,4:42.0,,Turnover by C. Sexton (bad pass; steal by C. Zeller),38,55
+2,4:36.0,J. Lamb makes 2-pt layup from 2 ft,,40,55
+2,4:09.0,,R. Hood makes 3-pt jump shot from 23 ft,40,58
+2,3:48.0,K. Walker misses 2-pt jump shot from 8 ft,,40,58
+2,3:45.0,,Defensive rebound by L. Nance,40,58
+2,3:41.0,,T. Thompson makes 2-pt layup from 1 ft (assist by L. Nance),40,60
+2,3:31.0,K. Walker misses 3-pt jump shot from 25 ft,,40,60
+2,3:27.0,,Defensive rebound by C. Sexton,40,60
+2,3:10.0,,R. Hood misses 3-pt jump shot from 25 ft,40,60
+2,3:06.0,Defensive rebound by D. Bacon,,40,60
+2,2:53.0,J. Lamb misses 2-pt layup from 1 ft,,40,60
+2,2:50.0,,Defensive rebound by T. Thompson,40,60
+2,2:46.0,,J. Smith misses 2-pt jump shot from 18 ft,40,60
+2,2:44.0,,Offensive rebound by T. Thompson,40,60
+2,2:39.0,,Turnover by J. Smith (bad pass; steal by C. Zeller),40,60
+2,2:33.0,J. Lamb misses 3-pt jump shot from 26 ft,,40,60
+2,2:32.0,Offensive rebound by Team,,40,60
+2,2:32.0,,Loose ball foul by L. Nance (drawn by C. Zeller),40,60
+2,2:32.0,C. Zeller makes free throw 1 of 2,,41,60
+2,2:32.0,M. Williams enters the game for D. Bacon,,41,60
+2,2:32.0,,J. Clarkson enters the game for C. Sexton,41,60
+2,2:32.0,C. Zeller makes free throw 2 of 2,,42,60
+2,2:19.0,,J. Clarkson makes 3-pt jump shot from 23 ft (assist by T. Thompson),42,63
+2,1:55.0,M. Williams makes 2-pt jump shot from 10 ft (assist by N. Batum),,44,63
+2,1:36.0,,J. Clarkson misses 3-pt jump shot from 25 ft,44,63
+2,1:32.0,Defensive rebound by J. Lamb,,44,63
+2,1:25.0,J. Lamb makes 2-pt layup from 1 ft,,46,63
+2,1:25.0,Shooting foul by T. Thompson (drawn by J. Lamb),,46,63
+2,1:25.0,J. Lamb makes free throw 1 of 1,,47,63
+2,1:03.0,,R. Hood makes 2-pt jump shot from 13 ft,47,65
+2,0:56.0,Personal foul by R. Hood (drawn by J. Lamb),,47,65
+2,0:56.0,J. Lamb makes free throw 1 of 2,,48,65
+2,0:56.0,M. Bridges enters the game for C. Zeller,,48,65
+2,0:56.0,,D. Nwaba enters the game for T. Thompson,48,65
+2,0:56.0,J. Lamb makes free throw 2 of 2,,49,65
+2,0:35.0,,Turnover by R. Hood (lost ball; steal by J. Lamb),49,65
+2,0:32.0,Shooting foul by J. Smith (drawn by J. Lamb),,49,65
+2,0:32.0,J. Lamb makes free throw 1 of 2,,50,65
+2,0:32.0,J. Lamb makes free throw 2 of 2,,51,65
+2,0:09.0,,J. Clarkson makes 2-pt jump shot from 6 ft,51,67
+2,0:02.0,J. Lamb misses 3-pt jump shot from 25 ft,,51,67
+2,0:00.0,,Defensive rebound by J. Clarkson,51,67
+3,11:49.0,Turnover by N. Batum (traveling),,51,67
+3,11:39.0,,Offensive foul by T. Thompson (drawn by J. Lamb),51,67
+3,11:39.0,,Turnover by T. Thompson (offensive foul),51,67
+3,11:33.0,,Violation by Team (kicked ball),51,67
+3,11:31.0,K. Walker misses 3-pt jump shot from 25 ft,,51,67
+3,11:28.0,,Defensive rebound by T. Thompson,51,67
+3,11:20.0,,C. Sexton misses 2-pt jump shot from 17 ft,51,67
+3,11:19.0,Defensive rebound by Team,,51,67
+3,11:10.0,M. Williams misses 3-pt jump shot from 27 ft,,51,67
+3,11:06.0,,Defensive rebound by T. Thompson,51,67
+3,10:55.0,,Turnover by L. Nance (off goaltending),51,67
+3,10:45.0,M. Williams misses 3-pt jump shot from 24 ft,,51,67
+3,10:45.0,,Defensive rebound by J. Smith,51,67
+3,10:45.0,,Personal foul by N. Batum (drawn by J. Smith),51,67
+3,10:30.0,,Offensive foul by C. Sexton (drawn by N. Batum),51,67
+3,10:30.0,,Turnover by C. Sexton (offensive foul),51,67
+3,10:20.0,K. Walker misses 2-pt layup from 2 ft (block by L. Nance),,51,67
+3,10:16.0,,Defensive rebound by T. Thompson,51,67
+3,10:11.0,,L. Nance misses 3-pt jump shot from 23 ft,51,67
+3,10:08.0,Defensive rebound by K. Walker,,51,67
+3,9:54.0,Personal foul by R. Hood (drawn by J. Lamb),,51,67
+3,9:46.0,K. Walker misses 2-pt jump shot from 18 ft,,51,67
+3,9:44.0,,Defensive rebound by L. Nance,51,67
+3,9:27.0,,R. Hood misses 2-pt jump shot from 13 ft,51,67
+3,9:22.0,,T. Thompson makes 2-pt layup at rim,51,69
+3,9:22.0,,Offensive rebound by T. Thompson,51,69
+3,9:10.0,C. Zeller makes 2-pt jump shot from 7 ft,,53,69
+3,8:55.0,,Turnover by T. Thompson (bad pass; steal by K. Walker),53,69
+3,8:47.0,K. Walker misses 2-pt layup from 3 ft,,53,69
+3,8:45.0,Offensive rebound by N. Batum,,53,69
+3,8:45.0,N. Batum makes 3-pt jump shot from 24 ft (assist by C. Zeller),,56,69
+3,8:45.0,,Cleveland full timeout,56,69
+3,8:26.0,,R. Hood makes 2-pt jump shot from 2 ft (assist by T. Thompson),56,71
+3,8:16.0,M. Williams makes 3-pt jump shot from 23 ft (assist by K. Walker),,59,71
+3,7:50.0,,C. Sexton misses 2-pt jump shot from 20 ft,59,71
+3,7:50.0,,Offensive rebound by T. Thompson,59,71
+3,7:50.0,,Personal foul by N. Batum (drawn by T. Thompson),59,71
+3,7:36.0,,C. Sexton makes 2-pt layup from 1 ft,59,73
+3,7:15.0,J. Lamb misses 2-pt layup from 2 ft,,59,73
+3,7:13.0,Offensive rebound by C. Zeller,,59,73
+3,7:03.0,J. Lamb makes 2-pt layup from 1 ft,,61,73
+3,6:49.0,,C. Sexton misses 2-pt jump shot from 20 ft,61,73
+3,6:46.0,Defensive rebound by K. Walker,,61,73
+3,6:44.0,Shooting foul by R. Hood (drawn by K. Walker),,61,73
+3,6:44.0,K. Walker makes free throw 1 of 2,,62,73
+3,6:44.0,,J. Clarkson enters the game for R. Hood,62,73
+3,6:44.0,K. Walker misses free throw 2 of 2,,62,73
+3,6:42.0,,Defensive rebound by L. Nance,62,73
+3,6:32.0,,J. Smith makes 3-pt jump shot from 27 ft (assist by C. Sexton),62,76
+3,6:31.0,Charlotte full timeout,,62,76
+3,6:31.0,B. Biyombo enters the game for C. Zeller,,62,76
+3,6:16.0,Turnover by J. Lamb (traveling),,62,76
+3,6:06.0,,J. Smith misses 3-pt jump shot from 25 ft,62,76
+3,6:04.0,Defensive rebound by J. Lamb,,62,76
+3,5:56.0,J. Lamb makes 2-pt jump shot from 14 ft,,64,76
+3,5:56.0,M. Monk enters the game for N. Batum,,64,76
+3,5:29.0,,Turnover by Team (shot clock),64,76
+3,5:21.0,M. Williams misses 3-pt jump shot from 28 ft,,64,76
+3,5:17.0,,Defensive rebound by J. Clarkson,64,76
+3,5:10.0,,J. Clarkson makes 2-pt jump shot from 20 ft,64,78
+3,4:55.0,J. Lamb makes 3-pt jump shot from 24 ft (assist by M. Williams),,67,78
+3,4:33.0,,Turnover by J. Clarkson (bad pass; steal by M. Williams),67,78
+3,4:33.0,,Violation by Team (kicked ball),67,78
+3,4:33.0,M. Bridges enters the game for M. Williams,,67,78
+3,4:33.0,,D. Nwaba enters the game for L. Nance,67,78
+3,4:24.0,K. Walker misses 2-pt jump shot from 20 ft,,67,78
+3,4:20.0,,Defensive rebound by T. Thompson,67,78
+3,4:07.0,,Shooting foul by J. Lamb (drawn by D. Nwaba),67,78
+3,4:07.0,,D. Nwaba makes free throw 1 of 2,67,79
+3,4:07.0,,D. Nwaba makes free throw 2 of 2,67,80
+3,3:52.0,J. Lamb misses 2-pt jump shot from 13 ft,,67,80
+3,3:50.0,,Defensive rebound by D. Nwaba,67,80
+3,3:40.0,,Turnover by C. Sexton (bad pass; steal by M. Monk),67,80
+3,3:36.0,M. Monk misses 2-pt layup from 2 ft (block by J. Clarkson),,67,80
+3,3:31.0,,Defensive rebound by T. Thompson,67,80
+3,3:25.0,,J. Clarkson misses 3-pt jump shot from 26 ft,67,80
+3,3:21.0,Defensive rebound by B. Biyombo,,67,80
+3,3:11.0,M. Monk misses 3-pt jump shot from 27 ft,,67,80
+3,3:07.0,,Defensive rebound by J. Clarkson,67,80
+3,2:50.0,,Shooting foul by B. Biyombo (drawn by J. Clarkson),67,80
+3,2:50.0,,J. Clarkson makes free throw 1 of 2,67,81
+3,2:50.0,T. Parker enters the game for K. Walker,,67,81
+3,2:50.0,,A. Harrison enters the game for C. Sexton,67,81
+3,2:50.0,,J. Clarkson makes free throw 2 of 2,67,82
+3,2:32.0,T. Parker misses 3-pt jump shot from 26 ft,,67,82
+3,2:28.0,,Defensive rebound by J. Smith,67,82
+3,2:12.0,,D. Nwaba misses 2-pt layup from 2 ft (block by B. Biyombo),67,82
+3,2:09.0,,Offensive rebound by T. Thompson,67,82
+3,2:05.0,,J. Smith makes 3-pt jump shot from 25 ft (assist by T. Thompson),67,85
+3,1:49.0,M. Monk makes 2-pt jump shot from 18 ft (assist by T. Parker),,69,85
+3,1:21.0,,D. Nwaba makes 3-pt jump shot from 25 ft (assist by J. Clarkson),69,88
+3,1:11.0,Personal foul by D. Nwaba (drawn by M. Monk),,69,88
+3,1:11.0,,L. Nance enters the game for T. Thompson,69,88
+3,0:57.0,J. Lamb misses 2-pt hook shot from 8 ft,,69,88
+3,0:56.0,,Defensive rebound by Team,69,88
+3,0:39.0,,Offensive foul by J. Clarkson (drawn by B. Biyombo),69,88
+3,0:39.0,,Turnover by J. Clarkson (offensive foul),69,88
+3,0:36.0,M. Monk misses 3-pt jump shot from 25 ft,,69,88
+3,0:32.0,,Defensive rebound by A. Harrison,69,88
+3,0:16.0,,A. Harrison misses 3-pt jump shot from 28 ft,69,88
+3,0:13.0,Defensive rebound by B. Biyombo,,69,88
+3,0:01.0,M. Monk misses 2-pt jump shot from 9 ft,,69,88
+3,0:00.0,,Defensive rebound by D. Nwaba,69,88
+4,11:40.0,,L. Nance misses 2-pt hook shot from 5 ft (block by M. Williams),69,88
+4,11:37.0,Defensive rebound by D. Bacon,,69,88
+4,11:28.0,M. Monk misses 3-pt jump shot from 26 ft,,69,88
+4,11:25.0,,Defensive rebound by J. Clarkson,69,88
+4,11:13.0,,A. Harrison misses 2-pt layup from 1 ft (block by T. Parker),69,88
+4,11:13.0,Defensive rebound by Team,,69,88
+4,11:13.0,,R. Hood enters the game for J. Smith,69,88
+4,10:59.0,T. Parker makes 2-pt jump shot from 15 ft (assist by K. Walker),,71,88
+4,10:35.0,,J. Clarkson misses 2-pt jump shot from 12 ft,71,88
+4,10:33.0,Defensive rebound by T. Parker,,71,88
+4,10:24.0,Personal foul by L. Nance (drawn by K. Walker),,71,88
+4,10:11.0,D. Bacon makes 2-pt jump shot from 11 ft (assist by K. Walker),,73,88
+4,9:54.0,,Personal foul by D. Bacon (drawn by L. Nance),73,88
+4,9:46.0,,Turnover by J. Clarkson (bad pass),73,88
+4,9:38.0,K. Walker makes 3-pt jump shot from 26 ft,,76,88
+4,9:37.0,,Cleveland full timeout,76,88
+4,9:37.0,,C. Sexton enters the game for A. Harrison,76,88
+4,9:37.0,,J. Smith enters the game for R. Hood,76,88
+4,9:17.0,,C. Sexton misses 2-pt jump shot from 5 ft (block by K. Walker),76,88
+4,9:14.0,Defensive rebound by M. Monk,,76,88
+4,9:08.0,M. Monk misses 3-pt jump shot from 27 ft,,76,88
+4,9:04.0,Offensive rebound by T. Parker,,76,88
+4,8:58.0,D. Bacon misses 3-pt jump shot from 26 ft,,76,88
+4,8:54.0,,Defensive rebound by C. Sexton,76,88
+4,8:47.0,,C. Sexton misses 2-pt jump shot from 21 ft,76,88
+4,8:44.0,Defensive rebound by T. Parker,,76,88
+4,8:28.0,M. Monk misses 3-pt jump shot from 24 ft,,76,88
+4,8:23.0,,Defensive rebound by L. Nance,76,88
+4,8:09.0,,J. Clarkson makes 2-pt jump shot from 12 ft,76,90
+4,8:00.0,Turnover by D. Bacon (traveling),,76,90
+4,8:00.0,N. Batum enters the game for D. Bacon,,76,90
+4,8:00.0,J. Lamb enters the game for M. Monk,,76,90
+4,7:36.0,,J. Clarkson misses 3-pt jump shot from 27 ft,76,90
+4,7:33.0,,Offensive rebound by D. Nwaba,76,90
+4,7:31.0,,D. Nwaba misses 2-pt layup from 3 ft,76,90
+4,7:31.0,Defensive rebound by M. Williams,,76,90
+4,7:17.0,Turnover by J. Lamb (lost ball; steal by C. Sexton),,76,90
+4,7:11.0,,C. Sexton misses 2-pt dunk at rim,76,90
+4,7:07.0,Defensive rebound by T. Parker,,76,90
+4,6:58.0,T. Parker misses 2-pt jump shot from 18 ft,,76,90
+4,6:55.0,,Defensive rebound by L. Nance,76,90
+4,6:36.0,,J. Clarkson makes 2-pt layup from 2 ft,76,92
+4,6:35.0,Charlotte full timeout,,76,92
+4,6:35.0,Technical foul by J. Lamb,,76,92
+4,6:35.0,D. Graham enters the game for T. Parker,,76,92
+4,6:35.0,,J. Clarkson makes technical free throw,76,93
+4,6:27.0,K. Walker misses 3-pt jump shot from 29 ft,,76,93
+4,6:23.0,,Defensive rebound by L. Nance,76,93
+4,6:02.0,,J. Clarkson makes 2-pt jump shot from 6 ft,76,95
+4,5:56.0,Offensive foul by N. Batum (drawn by C. Sexton),,76,95
+4,5:56.0,Turnover by N. Batum (offensive foul),,76,95
+4,5:35.0,,J. Smith misses 3-pt jump shot from 26 ft,76,95
+4,5:32.0,Defensive rebound by M. Williams,,76,95
+4,5:18.0,Turnover by K. Walker (bad pass; steal by D. Nwaba),,76,95
+4,5:15.0,,D. Nwaba makes 2-pt layup from 1 ft,76,97
+4,5:15.0,,Shooting foul by J. Lamb (drawn by D. Nwaba),76,97
+4,5:15.0,,D. Nwaba misses free throw 1 of 1,76,97
+4,5:15.0,Defensive rebound by J. Lamb,,76,97
+4,5:05.0,N. Batum makes 2-pt layup from 1 ft (assist by J. Lamb),,78,97
+4,4:50.0,,C. Sexton misses 2-pt layup from 1 ft,78,97
+4,4:44.0,,Offensive rebound by L. Nance,78,97
+4,4:44.0,,L. Nance makes 2-pt dunk at rim,78,99
+4,4:36.0,Turnover by J. Lamb (lost ball; steal by L. Nance),,78,99
+4,4:32.0,,C. Sexton makes 2-pt layup from 2 ft (assist by J. Smith),78,101
+4,4:31.0,Charlotte full timeout,,78,101
+4,4:31.0,D. Bacon enters the game for N. Batum,,78,101
+4,4:31.0,M. Bridges enters the game for J. Lamb,,78,101
+4,4:31.0,F. Kaminsky enters the game for K. Walker,,78,101
+4,4:31.0,M. Monk enters the game for M. Williams,,78,101
+4,4:31.0,,R. Hood enters the game for J. Smith,78,101
+4,4:11.0,M. Bridges misses 2-pt jump shot from 23 ft,,78,101
+4,4:08.0,,Defensive rebound by J. Clarkson,78,101
+4,3:56.0,Violation by Team (kicked ball),,78,101
+4,3:49.0,,L. Nance makes 2-pt dunk from 2 ft (assist by C. Sexton),78,103
+4,3:33.0,F. Kaminsky makes 3-pt jump shot from 25 ft (assist by M. Monk),,81,103
+4,3:11.0,,D. Nwaba makes 2-pt jump shot from 6 ft,81,105
+4,3:01.0,Shooting foul by D. Nwaba (drawn by F. Kaminsky),,81,105
+4,3:01.0,F. Kaminsky makes free throw 1 of 2,,82,105
+4,3:01.0,,C. Frye enters the game for J. Clarkson,82,105
+4,3:01.0,,A. Harrison enters the game for L. Nance,82,105
+4,3:01.0,,A. Žižić enters the game for C. Sexton,82,105
+4,3:01.0,F. Kaminsky makes free throw 2 of 2,,83,105
+4,2:48.0,,Turnover by A. Žižić (3 sec),83,105
+4,2:37.0,D. Bacon misses 2-pt jump shot from 15 ft,,83,105
+4,2:35.0,,Defensive rebound by C. Frye,83,105
+4,2:16.0,,C. Frye makes 3-pt jump shot from 26 ft (assist by A. Harrison),83,108
+4,2:05.0,M. Bridges makes 3-pt jump shot from 25 ft (assist by F. Kaminsky),,86,108
+4,1:49.0,,Turnover by A. Harrison (traveling),86,108
+4,1:39.0,M. Bridges misses 3-pt jump shot from 27 ft,,86,108
+4,1:37.0,Offensive rebound by F. Kaminsky,,86,108
+4,1:33.0,D. Bacon makes 3-pt jump shot from 25 ft (assist by D. Graham),,89,108
+4,1:20.0,,Shooting foul by M. Bridges (drawn by A. Harrison),89,108
+4,1:20.0,,A. Harrison makes free throw 1 of 2,89,109
+4,1:20.0,,A. Harrison makes free throw 2 of 2,89,110
+4,1:09.0,Turnover by F. Kaminsky (bad pass; steal by C. Frye),,89,110
+4,0:55.0,,A. Žižić misses 2-pt hook shot from 11 ft,89,110
+4,0:52.0,Defensive rebound by F. Kaminsky,,89,110
+4,0:49.0,D. Graham misses 3-pt jump shot from 27 ft,,89,110
+4,0:46.0,,Defensive rebound by C. Frye,89,110
+4,0:26.0,,C. Frye makes 3-pt jump shot from 30 ft (assist by D. Nwaba),89,113
+4,0:14.0,D. Graham misses 3-pt jump shot from 27 ft,,89,113
+4,0:09.0,Offensive rebound by F. Kaminsky,,89,113
+4,0:09.0,F. Kaminsky misses 2-pt layup from 1 ft,,89,113
+4,0:08.0,,Defensive rebound by A. Žižić,89,113
