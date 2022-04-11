@@ -1,29 +1,32 @@
-J. Embiid,D. Šarić,R. Covington,M. Fultz,D. Šarić,8
-A. Johnson,J. Redick,R. Covington,M. Fultz,D. Šarić,0
-A. Johnson,J. Redick,R. Covington,M. Fultz,D. Šarić,2
-A. Johnson,J. Redick,T. McConnell,M. Fultz,D. Šarić,1
-J. Embiid,J. Redick,T. McConnell,M. Fultz,D. Šarić,3
-J. Embiid,J. Redick,T. McConnell,D. Šarić,D. Šarić,7
-J. Embiid,J. Redick,T. McConnell,B. Simmons,D. Šarić,0
-J. Embiid,L. Shamet,R. Covington,B. Simmons,D. Šarić,7
-A. Johnson,L. Shamet,R. Covington,B. Simmons,D. Šarić,6
-J. Embiid,J. Redick,R. Covington,B. Simmons,D. Šarić,6
-J. Embiid,J. Redick,R. Covington,B. Simmons,D. Šarić,7
-J. Embiid,J. Redick,R. Covington,B. Simmons,T. McConnell,7
-J. Embiid,J. Redick,R. Covington,B. Simmons,T. McConnell,3
-A. Johnson,J. Redick,R. Covington,B. Simmons,T. McConnell,2
-A. Johnson,L. Shamet,R. Covington,B. Simmons,T. McConnell,0
-A. Johnson,L. Shamet,M. Fultz,D. Šarić,T. McConnell,1
-A. Johnson,L. Shamet,M. Fultz,D. Šarić,T. McConnell,5
-J. Embiid,L. Shamet,M. Fultz,D. Šarić,T. McConnell,1
-J. Embiid,L. Shamet,M. Fultz,R. Covington,T. McConnell,1
-J. Embiid,J. Redick,M. Fultz,R. Covington,T. McConnell,3
-J. Embiid,J. Redick,M. Fultz,R. Covington,D. Šarić,2
-J. Embiid,J. Redick,M. Fultz,R. Covington,D. Šarić,2
-J. Embiid,J. Redick,M. Fultz,R. Covington,D. Šarić,7
-J. Embiid,J. Redick,M. Fultz,L. Shamet,D. Šarić,2
-J. Embiid,J. Redick,M. Fultz,T. McConnell,D. Šarić,1
-J. Embiid,L. Shamet,M. Fultz,T. McConnell,D. Šarić,1
-J. Embiid,J. Redick,M. Fultz,R. Covington,D. Šarić,2
-A. Johnson,F. Korkmaz,M. Fultz,J. Bolden,T. McConnell,0
-A. Johnson,F. Korkmaz,M. Fultz,J. Bolden,T. McConnell,0
+J. Embiid,D. Šarić,R. Covington,M. Fultz,E,8
+A. Johnson,J. Redick,R. Covington,M. Fultz,E,0
+A. Johnson,J. Redick,R. Covington,M. Fultz,E,2
+A. Johnson,J. Redick,T. McConnell,M. Fultz,E,1
+J. Embiid,J. Redick,T. McConnell,M. Fultz,E,3
+J. Embiid,J. Redick,T. McConnell,D. Šarić,E,0
+D. Šarić,T. McConnell,J. Redick,J. Embiid,E,7
+B. Simmons,T. McConnell,J. Redick,J. Embiid,E,0
+B. Simmons,R. Covington,L. Shamet,J. Embiid,E,7
+B. Simmons,R. Covington,L. Shamet,A. Johnson,E,6
+B. Simmons,R. Covington,J. Redick,J. Embiid,E,6
+B. Simmons,R. Covington,J. Redick,J. Embiid,E,0
+D. Šarić,J. Embiid,J. Redick,R. Covington,B. Simmons,7
+T. McConnell,J. Embiid,J. Redick,R. Covington,B. Simmons,7
+T. McConnell,J. Embiid,J. Redick,R. Covington,B. Simmons,3
+T. McConnell,A. Johnson,J. Redick,R. Covington,B. Simmons,2
+T. McConnell,A. Johnson,L. Shamet,R. Covington,B. Simmons,0
+T. McConnell,A. Johnson,L. Shamet,M. Fultz,D. Šarić,1
+T. McConnell,A. Johnson,L. Shamet,M. Fultz,D. Šarić,5
+T. McConnell,J. Embiid,L. Shamet,M. Fultz,D. Šarić,1
+T. McConnell,J. Embiid,L. Shamet,M. Fultz,R. Covington,0
+L. Shamet,T. McConnell,R. Covington,J. Embiid,B. Simmons,1
+J. Redick,T. McConnell,R. Covington,J. Embiid,B. Simmons,3
+J. Redick,D. Šarić,R. Covington,J. Embiid,B. Simmons,2
+J. Redick,D. Šarić,R. Covington,J. Embiid,B. Simmons,2
+J. Redick,D. Šarić,R. Covington,J. Embiid,B. Simmons,7
+J. Redick,D. Šarić,L. Shamet,J. Embiid,B. Simmons,2
+J. Redick,D. Šarić,T. McConnell,J. Embiid,B. Simmons,1
+L. Shamet,D. Šarić,T. McConnell,J. Embiid,B. Simmons,1
+J. Redick,D. Šarić,R. Covington,J. Embiid,B. Simmons,2
+F. Korkmaz,T. McConnell,J. Bolden,A. Johnson,B. Simmons,0
+F. Korkmaz,T. McConnell,J. Bolden,A. Johnson,L. Shamet,0
