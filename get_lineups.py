@@ -67,8 +67,8 @@ for i in range(data.shape[0]):
         if cur_line[1] == last_change:
             if last_team == 'Home':
                 home_lineups[-1] = copy(new_lineup)
-            else:
-                home_lineups.append(new_lineup)
+            #else:
+            #    home_lineups.append(new_lineup)
         else:
             away_lineups.append(copy(away_lineups[-1]))
             
@@ -108,8 +108,8 @@ for i in range(data.shape[0]):
         if cur_line[1] == last_change:
             if last_team == 'Away':
                 away_lineups[-1] = copy(new_lineup)
-            else:
-                away_lineups.append(new_lineup)
+            #else:
+            #    away_lineups.append(new_lineup)
         else:
             home_lineups.append(copy(home_lineups[-1]))
 
@@ -141,12 +141,20 @@ for i in range(len(home_lineups)):
 for i in range(len(away_lineups)):
     away_lineups[i].append(away_score[i])
 
-with open('lineups/lineups_' + game.split('pbp_')[1] + '_home.csv', 'w', newline='') as csvfile:
-    writer = csv.writer(csvfile)
-    writer.writerows(home_lineups)
+home_final = []
+away_final = []
+for i in range(len(home_lineups)):
+    home_final.append(copy(home_lineups[:6]))
 
-with open('lineups/lineups_' + game.split('pbp_')[1] + '_away.csv', 'w', newline='') as csvfile:
+for i in range(len(away_lineups)):
+    away_final.append(copy(away_lineups[:6]))
+
+with open('lineups/lineups_' + game.split('pbp_')[1] + '_home.csv', 'w', newline='', encoding='utf-8') as csvfile:
     writer = csv.writer(csvfile)
-    writer.writerows(away_lineups)
+    writer.writerows(home_final)
+
+with open('lineups/lineups_' + game.split('pbp_')[1] + '_away.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    writer = csv.writer(csvfile)
+    writer.writerows(away_final)
 
 print("Done")
