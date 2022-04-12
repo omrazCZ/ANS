@@ -1,0 +1,35 @@
+C. Hutchison,W. Carter,C. Payne,Z. LaVine,J. Holiday,10
+C. Hutchison,W. Carter,C. Payne,Z. LaVine,J. Holiday,2
+J. Parker,W. Carter,C. Payne,Z. LaVine,J. Holiday,2
+J. Parker,W. Carter,C. Payne,Z. LaVine,J. Holiday,5
+J. Parker,R. Arcidiacono,C. Felício,Z. LaVine,J. Holiday,3
+J. Parker,R. Arcidiacono,C. Felício,A. Blakeney,J. Holiday,0
+C. Hutchison,R. Arcidiacono,C. Felício,J. Parker,A. Blakeney,0
+C. Hutchison,R. Arcidiacono,C. Felício,J. Parker,A. Blakeney,2
+S. Harrison,R. Arcidiacono,C. Felício,J. Parker,A. Blakeney,8
+S. Harrison,R. Arcidiacono,C. Felício,J. Parker,A. Blakeney,0
+S. Harrison,W. Carter,Z. LaVine,J. Parker,A. Blakeney,0
+J. Holiday,W. Carter,Z. LaVine,C. Payne,A. Blakeney,3
+J. Holiday,W. Carter,Z. LaVine,C. Payne,R. Arcidiacono,0
+J. Holiday,W. Carter,Z. LaVine,C. Payne,R. Arcidiacono,0
+J. Holiday,W. Carter,Z. LaVine,C. Payne,J. Parker,0
+J. Holiday,W. Carter,Z. LaVine,C. Payne,J. Parker,0
+J. Holiday,C. Felício,Z. LaVine,C. Payne,J. Parker,1
+J. Holiday,C. Felício,Z. LaVine,R. Arcidiacono,J. Parker,1
+J. Holiday,C. Felício,Z. LaVine,R. Arcidiacono,J. Parker,0
+C. Payne,J. Holiday,W. Carter,Z. LaVine,C. Hutchison,14
+C. Payne,J. Holiday,W. Carter,Z. LaVine,C. Hutchison,1
+R. Arcidiacono,J. Holiday,W. Carter,Z. LaVine,C. Hutchison,0
+R. Arcidiacono,J. Parker,W. Carter,Z. LaVine,C. Hutchison,4
+R. Arcidiacono,J. Parker,C. Felício,Z. LaVine,C. Hutchison,6
+R. Arcidiacono,J. Parker,C. Felício,J. Holiday,C. Hutchison,5
+R. Arcidiacono,J. Parker,C. Felício,J. Holiday,A. Blakeney,0
+A. Blakeney,J. Parker,R. Arcidiacono,J. Holiday,E,5
+A. Blakeney,J. Parker,R. Arcidiacono,J. Holiday,E,8
+A. Blakeney,J. Parker,R. Arcidiacono,J. Holiday,E,0
+Z. LaVine,J. Parker,R. Arcidiacono,J. Holiday,E,9
+Z. LaVine,J. Parker,R. Arcidiacono,J. Holiday,E,3
+Z. LaVine,J. Parker,R. Arcidiacono,J. Holiday,E,2
+Z. LaVine,J. Parker,R. Arcidiacono,J. Holiday,E,2
+Z. LaVine,J. Parker,R. Arcidiacono,J. Holiday,E,0
+Z. LaVine,J. Parker,R. Arcidiacono,J. Holiday,E,1

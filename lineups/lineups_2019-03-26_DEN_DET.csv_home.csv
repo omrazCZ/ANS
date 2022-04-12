@@ -1,0 +1,29 @@
+A. Drummond,W. Ellington,R. Jackson,B. Brown,B. Griffin,3
+L. Kennard,T. Maker,I. Smith,B. Brown,B. Griffin,2
+L. Kennard,T. Maker,I. Smith,L. Galloway,Z. Pachulia,2
+L. Kennard,T. Maker,I. Smith,L. Galloway,Z. Pachulia,0
+L. Kennard,T. Maker,I. Smith,L. Galloway,Z. Pachulia,0
+L. Galloway,T. Maker,I. Smith,L. Kennard,A. Drummond,6
+W. Ellington,B. Griffin,R. Jackson,L. Kennard,A. Drummond,8
+W. Ellington,B. Griffin,R. Jackson,L. Kennard,A. Drummond,5
+W. Ellington,B. Griffin,R. Jackson,L. Kennard,A. Drummond,2
+W. Ellington,B. Griffin,R. Jackson,L. Galloway,A. Drummond,1
+W. Ellington,B. Griffin,R. Jackson,L. Galloway,A. Drummond,2
+W. Ellington,B. Griffin,R. Jackson,L. Galloway,A. Drummond,4
+W. Ellington,B. Griffin,R. Jackson,L. Galloway,T. Maker,2
+W. Ellington,B. Griffin,R. Jackson,L. Galloway,T. Maker,0
+W. Ellington,B. Griffin,R. Jackson,L. Galloway,T. Maker,1
+B. Brown,B. Griffin,R. Jackson,L. Galloway,T. Maker,0
+A. Drummond,W. Ellington,R. Jackson,B. Brown,B. Griffin,3
+T. Maker,W. Ellington,R. Jackson,B. Brown,B. Griffin,2
+T. Maker,L. Kennard,R. Jackson,B. Brown,B. Griffin,5
+T. Maker,L. Kennard,I. Smith,B. Brown,B. Griffin,5
+T. Maker,L. Kennard,I. Smith,L. Galloway,B. Griffin,4
+T. Maker,L. Kennard,I. Smith,L. Galloway,J. Leuer,3
+T. Maker,L. Kennard,I. Smith,L. Galloway,J. Leuer,0
+L. Galloway,I. Smith,A. Drummond,B. Griffin,E,6
+L. Galloway,I. Smith,A. Drummond,B. Griffin,E,0
+W. Ellington,R. Jackson,A. Drummond,B. Griffin,E,0
+W. Ellington,R. Jackson,A. Drummond,B. Griffin,E,7
+W. Ellington,R. Jackson,A. Drummond,B. Griffin,E,19
+W. Ellington,R. Jackson,L. Galloway,B. Griffin,E,0

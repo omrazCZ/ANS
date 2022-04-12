@@ -1,0 +1,34 @@
+J. Butler,T. Gibson,J. Teague,K. Towns,A. Wiggins,7
+J. Butler,T. Gibson,J. Teague,K. Towns,A. Wiggins,1
+J. Butler,T. Gibson,J. Teague,K. Towns,A. Wiggins,0
+D. Rose,T. Gibson,J. Teague,K. Towns,A. Wiggins,6
+D. Rose,G. Dieng,T. Jones,K. Towns,A. Wiggins,7
+D. Rose,G. Dieng,T. Jones,A. Tolliver,A. Wiggins,2
+D. Rose,G. Dieng,T. Jones,A. Tolliver,A. Wiggins,0
+T. Jones,G. Dieng,D. Rose,J. Butler,E,4
+T. Jones,G. Dieng,D. Rose,J. Butler,E,2
+T. Jones,G. Dieng,D. Rose,J. Butler,E,3
+J. Teague,G. Dieng,D. Rose,J. Butler,E,0
+J. Teague,K. Towns,A. Wiggins,J. Butler,E,4
+J. Teague,K. Towns,A. Wiggins,J. Butler,E,5
+J. Teague,K. Towns,A. Wiggins,D. Rose,E,3
+J. Teague,K. Towns,A. Wiggins,D. Rose,E,2
+J. Teague,G. Dieng,A. Wiggins,D. Rose,E,4
+J. Teague,G. Dieng,A. Wiggins,D. Rose,E,0
+K. Towns,J. Butler,J. Teague,T. Gibson,A. Wiggins,11
+K. Towns,J. Butler,J. Teague,T. Gibson,A. Wiggins,5
+G. Dieng,J. Butler,J. Teague,T. Gibson,A. Wiggins,0
+G. Dieng,J. Butler,J. Teague,T. Gibson,A. Wiggins,4
+G. Dieng,D. Rose,J. Teague,T. Gibson,A. Wiggins,1
+G. Dieng,D. Rose,J. Teague,T. Gibson,A. Wiggins,4
+G. Dieng,D. Rose,T. Jones,T. Gibson,A. Wiggins,1
+G. Dieng,D. Rose,T. Jones,T. Gibson,A. Wiggins,0
+G. Dieng,T. Jones,D. Rose,A. Tolliver,J. Butler,10
+G. Dieng,T. Jones,D. Rose,A. Tolliver,J. Butler,4
+K. Towns,T. Jones,D. Rose,A. Tolliver,J. Butler,0
+K. Towns,J. Teague,A. Wiggins,A. Tolliver,J. Butler,0
+K. Towns,J. Teague,A. Wiggins,T. Gibson,J. Butler,2
+K. Towns,J. Teague,A. Wiggins,T. Gibson,D. Rose,0
+K. Towns,J. Teague,A. Wiggins,T. Gibson,D. Rose,0
+G. Dieng,J. Teague,A. Wiggins,T. Gibson,D. Rose,2
+J. Butler,J. Teague,A. Wiggins,T. Gibson,D. Rose,14

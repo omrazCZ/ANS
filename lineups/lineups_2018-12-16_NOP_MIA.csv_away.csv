@@ -1,0 +1,30 @@
+T. Frazier,J. Randle,J. Holiday,S. Hill,A. Davis,6
+T. Frazier,J. Randle,J. Holiday,S. Hill,A. Davis,1
+D. Miller,E. Moore,J. Holiday,S. Hill,A. Davis,5
+D. Miller,E. Moore,J. Holiday,S. Hill,A. Davis,1
+D. Miller,E. Moore,A. Harrison,S. Hill,A. Davis,7
+D. Miller,E. Moore,A. Harrison,C. Diallo,A. Davis,0
+A. Harrison,E. Moore,C. Diallo,J. Randle,D. Miller,10
+J. Holiday,E. Moore,C. Diallo,J. Randle,D. Miller,3
+J. Holiday,F. Jackson,C. Diallo,J. Randle,D. Miller,0
+J. Holiday,F. Jackson,S. Hill,J. Randle,D. Miller,5
+J. Holiday,F. Jackson,S. Hill,J. Randle,D. Miller,0
+J. Holiday,F. Jackson,S. Hill,A. Davis,D. Miller,4
+J. Holiday,F. Jackson,S. Hill,A. Davis,E. Moore,0
+J. Holiday,J. Randle,S. Hill,A. Davis,E. Moore,7
+J. Holiday,J. Randle,S. Hill,A. Davis,E. Moore,0
+J. Holiday,J. Randle,S. Hill,A. Davis,E. Moore,2
+J. Holiday,J. Randle,S. Hill,A. Davis,E. Moore,0
+S. Hill,T. Frazier,J. Randle,J. Holiday,J,2
+E. Moore,T. Frazier,J. Randle,J. Holiday,J,7
+E. Moore,T. Frazier,J. Randle,J. Holiday,J,6
+E. Moore,D. Miller,J. Randle,J. Holiday,J,3
+E. Moore,D. Miller,S. Hill,J. Holiday,J,2
+E. Moore,D. Miller,S. Hill,A. Harrison,J,0
+S. Hill,J. Randle,J. Holiday,E. Moore,D. Miller,5
+A. Davis,J. Randle,J. Holiday,E. Moore,D. Miller,2
+A. Davis,J. Randle,J. Holiday,E. Moore,D. Miller,0
+A. Davis,A. Harrison,J. Holiday,E. Moore,D. Miller,14
+A. Davis,A. Harrison,J. Holiday,E. Moore,D. Miller,4
+A. Davis,A. Harrison,J. Holiday,E. Moore,D. Miller,0
+A. Davis,A. Harrison,F. Jackson,E. Moore,D. Miller,0

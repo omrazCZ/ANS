@@ -1,0 +1,31 @@
+M. Bridges,D. Melton,D. Ayton,D. Bender,D. Booker,21
+M. Bridges,D. Melton,D. Ayton,D. Bender,D. Booker,2
+R. Holmes,E. Okobo,D. Ayton,D. Bender,D. Booker,2
+R. Holmes,E. Okobo,M. Bridges,D. Bender,D. Booker,2
+R. Holmes,E. Okobo,M. Bridges,R. Spalding,D. Booker,0
+R. Holmes,E. Okobo,M. Bridges,R. Spalding,D. Booker,2
+R. Holmes,E. Okobo,T. Daniels,R. Spalding,D. Booker,0
+R. Holmes,E. Okobo,T. Daniels,R. Spalding,D. Melton,0
+J. Fredette,E. Okobo,R. Spalding,D. Ayton,T. Daniels,4
+J. Fredette,E. Okobo,R. Spalding,D. Ayton,T. Daniels,0
+D. Bender,D. Booker,D. Melton,D. Ayton,T. Daniels,7
+D. Bender,D. Booker,D. Melton,R. Holmes,T. Daniels,4
+D. Bender,D. Booker,D. Melton,R. Holmes,M. Bridges,1
+D. Bender,D. Booker,D. Melton,R. Holmes,M. Bridges,3
+D. Bender,D. Booker,T. Daniels,D. Ayton,M. Bridges,0
+D. Ayton,D. Booker,D. Melton,D. Bender,M. Bridges,12
+D. Ayton,D. Booker,D. Melton,D. Bender,M. Bridges,0
+R. Holmes,D. Booker,D. Melton,D. Bender,M. Bridges,2
+R. Holmes,T. Daniels,E. Okobo,D. Bender,M. Bridges,3
+R. Holmes,T. Daniels,E. Okobo,R. Spalding,M. Bridges,2
+R. Holmes,T. Daniels,E. Okobo,R. Spalding,M. Bridges,6
+R. Holmes,T. Daniels,E. Okobo,R. Spalding,D. Booker,2
+R. Holmes,T. Daniels,E. Okobo,R. Spalding,D. Booker,0
+R. Holmes,T. Daniels,E. Okobo,M. Bridges,D. Booker,0
+T. Daniels,R. Holmes,E. Okobo,D. Booker,E,6
+T. Daniels,R. Holmes,E. Okobo,D. Booker,E,2
+D. Ayton,M. Bridges,D. Melton,D. Booker,E,2
+D. Ayton,M. Bridges,D. Melton,D. Booker,E,4
+D. Ayton,M. Bridges,D. Melton,D. Booker,E,3
+D. Ayton,M. Bridges,T. Daniels,D. Booker,E,3
+D. Ayton,M. Bridges,T. Daniels,D. Booker,E,8
