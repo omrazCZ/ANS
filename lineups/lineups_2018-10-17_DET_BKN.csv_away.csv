@@ -1,33 +1,33 @@
-B. Brown,L. Kennard,A. Drummond,R. Jackson,B. Griffin,2
-L. Galloway,L. Kennard,A. Drummond,R. Jackson,B. Griffin,6
-L. Galloway,G. Robinson,A. Drummond,R. Jackson,B. Griffin,3
-L. Galloway,G. Robinson,A. Drummond,R. Jackson,B. Griffin,3
-L. Galloway,G. Robinson,A. Drummond,R. Jackson,B. Griffin,3
-L. Galloway,G. Robinson,Z. Pachulia,I. Smith,B. Griffin,0
-Z. Lofton,L. Galloway,Z. Pachulia,G. Robinson,I. Smith,15
-R. Jackson,L. Galloway,Z. Pachulia,G. Robinson,I. Smith,5
-R. Jackson,B. Brown,Z. Pachulia,G. Robinson,I. Smith,2
-R. Jackson,B. Brown,A. Drummond,B. Griffin,I. Smith,2
-R. Jackson,B. Brown,A. Drummond,B. Griffin,I. Smith,0
-R. Jackson,B. Brown,A. Drummond,B. Griffin,I. Smith,8
-R. Jackson,L. Galloway,A. Drummond,B. Griffin,I. Smith,0
-A. Drummond,L. Kennard,B. Brown,B. Griffin,R. Jackson,18
-Z. Pachulia,L. Kennard,B. Brown,B. Griffin,R. Jackson,6
-Z. Pachulia,L. Galloway,B. Brown,B. Griffin,R. Jackson,1
-Z. Pachulia,L. Galloway,I. Smith,B. Griffin,R. Jackson,2
-Z. Pachulia,L. Galloway,I. Smith,B. Griffin,R. Jackson,2
-Z. Pachulia,L. Galloway,I. Smith,G. Robinson,R. Jackson,0
-Z. Pachulia,L. Galloway,I. Smith,G. Robinson,L. Kennard,1
-Z. Pachulia,L. Galloway,I. Smith,G. Robinson,L. Kennard,1
-B. Griffin,L. Galloway,I. Smith,G. Robinson,L. Kennard,0
-B. Griffin,L. Galloway,I. Smith,G. Robinson,B. Brown,2
-B. Griffin,L. Galloway,I. Smith,G. Robinson,B. Brown,0
-B. Brown,G. Robinson,I. Smith,A. Drummond,J,6
-L. Kennard,G. Robinson,I. Smith,A. Drummond,J,0
-L. Kennard,B. Griffin,R. Jackson,A. Drummond,J,3
-L. Kennard,B. Griffin,R. Jackson,A. Drummond,J,0
-I. Smith,B. Griffin,R. Jackson,A. Drummond,J,4
-I. Smith,B. Griffin,R. Jackson,A. Drummond,J,6
-G. Robinson,B. Griffin,R. Jackson,A. Drummond,J,0
-G. Robinson,B. Griffin,R. Jackson,I. Smith,J,1
-G. Robinson,B. Griffin,R. Jackson,I. Smith,J,1
+J. Dudley,J. Harris,J. Allen,C. LeVert,D. Russell,10
+J. Dudley,J. Harris,J. Allen,C. LeVert,D. Russell,5
+S. Dinwiddie,T. Graham,J. Allen,C. LeVert,D. Russell,3
+S. Dinwiddie,T. Graham,E. Davis,C. LeVert,D. Russell,2
+S. Dinwiddie,T. Graham,E. Davis,J. Harris,R. Kurucs,9
+S. Dinwiddie,T. Graham,E. Davis,J. Harris,R. Kurucs,0
+E. Davis,R. Kurucs,S. Dinwiddie,J. Harris,J. Dudley,8
+J. Allen,C. LeVert,S. Dinwiddie,J. Harris,J. Dudley,2
+J. Allen,C. LeVert,D. Russell,J. Harris,J. Dudley,2
+J. Allen,C. LeVert,D. Russell,S. Dinwiddie,J. Dudley,1
+J. Allen,C. LeVert,D. Russell,S. Dinwiddie,T. Graham,1
+J. Allen,C. LeVert,D. Russell,S. Dinwiddie,J. Dudley,5
+J. Allen,C. LeVert,D. Russell,S. Dinwiddie,J. Dudley,0
+J. Dudley,D. Russell,J. Allen,J. Harris,C. LeVert,11
+J. Dudley,D. Russell,J. Allen,J. Harris,C. LeVert,1
+S. Dinwiddie,T. Graham,J. Allen,J. Harris,C. LeVert,3
+S. Dinwiddie,T. Graham,J. Allen,J. Harris,C. LeVert,0
+S. Dinwiddie,T. Graham,E. Davis,J. Harris,C. LeVert,4
+S. Dinwiddie,T. Graham,E. Davis,R. Kurucs,C. LeVert,1
+S. Dinwiddie,D. Russell,E. Davis,R. Kurucs,C. LeVert,2
+S. Dinwiddie,D. Russell,E. Davis,R. Kurucs,J. Harris,4
+S. Dinwiddie,D. Russell,E. Davis,R. Kurucs,J. Harris,2
+S. Dinwiddie,D. Russell,E. Davis,R. Kurucs,J. Harris,0
+S. Dinwiddie,C. LeVert,E. Davis,J. Allen,J. Harris,0
+S. Dinwiddie,E. Davis,J. Harris,T. Graham,J. Dudley,6
+S. Dinwiddie,E. Davis,J. Harris,T. Graham,J. Dudley,3
+C. LeVert,J. Allen,J. Harris,T. Graham,J. Dudley,2
+C. LeVert,J. Allen,S. Dinwiddie,T. Graham,J. Dudley,1
+C. LeVert,J. Allen,S. Dinwiddie,T. Graham,J. Dudley,6
+C. LeVert,J. Allen,S. Dinwiddie,J. Harris,J. Dudley,6
+C. LeVert,T. Graham,S. Dinwiddie,J. Harris,J. Dudley,0
+C. LeVert,T. Graham,S. Dinwiddie,J. Harris,J. Dudley,0
+C. LeVert,T. Graham,S. Dinwiddie,J. Harris,J. Dudley,0

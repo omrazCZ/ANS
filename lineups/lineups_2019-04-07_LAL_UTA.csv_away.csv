@@ -1,29 +1,29 @@
-J. Jones,J. McGee,M. Muscala,A. Caruso,K. Caldwell-Pope,10
-I. Bonga,J. McGee,M. Muscala,A. Caruso,K. Caldwell-Pope,11
-I. Bonga,J. Williams,M. Muscala,A. Caruso,K. Caldwell-Pope,4
-I. Bonga,J. Williams,M. Wagner,A. Caruso,K. Caldwell-Pope,0
-I. Bonga,J. Williams,M. Wagner,A. Caruso,K. Caldwell-Pope,4
-I. Bonga,J. Williams,M. Wagner,A. Caruso,K. Caldwell-Pope,2
-I. Bonga,J. Williams,M. Muscala,A. Caruso,K. Caldwell-Pope,0
-K. Caldwell-Pope,A. Caruso,M. Muscala,J. Williams,J. Jones,3
-I. Bonga,A. Caruso,M. Muscala,J. Williams,J. Jones,2
-I. Bonga,A. Caruso,M. Muscala,J. Williams,J. Jones,2
-I. Bonga,K. Caldwell-Pope,M. Wagner,J. Williams,J. Jones,3
-I. Bonga,K. Caldwell-Pope,M. Wagner,J. McGee,J. Jones,0
-A. Caruso,K. Caldwell-Pope,M. Wagner,J. McGee,J. Jones,0
-A. Caruso,I. Bonga,M. Muscala,J. McGee,J. Jones,6
-A. Caruso,I. Bonga,M. Muscala,J. Williams,K. Caldwell-Pope,0
-J. McGee,M. Muscala,K. Caldwell-Pope,A. Caruso,J. Jones,18
-J. Williams,M. Muscala,K. Caldwell-Pope,A. Caruso,J. Jones,5
-J. Williams,M. Wagner,K. Caldwell-Pope,A. Caruso,J. Jones,3
-J. Williams,M. Wagner,K. Caldwell-Pope,A. Caruso,J. Jones,5
-J. Williams,M. Wagner,I. Bonga,A. Caruso,J. Jones,0
-M. Wagner,J. Williams,M. Muscala,K. Caldwell-Pope,J,11
-M. Wagner,J. Williams,M. Muscala,K. Caldwell-Pope,J,0
-A. Caruso,J. Williams,M. Muscala,K. Caldwell-Pope,J,1
-A. Caruso,J. Williams,M. Muscala,K. Caldwell-Pope,J,0
-A. Caruso,J. McGee,M. Muscala,K. Caldwell-Pope,J,3
-A. Caruso,J. McGee,M. Muscala,K. Caldwell-Pope,J,6
-A. Caruso,J. McGee,M. Muscala,K. Caldwell-Pope,J,7
-A. Caruso,J. McGee,M. Muscala,K. Caldwell-Pope,J,6
-A. Caruso,J. McGee,J. Williams,K. Caldwell-Pope,J,1
+T. Sefolosha,J. Ingles,R. Gobert,R. O'Neale,D. Mitchell,7
+J. Crowder,J. Ingles,R. Gobert,R. O'Neale,D. Mitchell,7
+J. Crowder,G. Allen,R. Gobert,R. O'Neale,D. Mitchell,2
+J. Crowder,G. Allen,R. Gobert,R. O'Neale,D. Mitchell,1
+J. Crowder,G. Allen,G. Niang,E. Udoh,D. Mitchell,3
+J. Crowder,G. Allen,G. Niang,E. Udoh,J. Ingles,5
+J. Crowder,G. Allen,G. Niang,E. Udoh,J. Ingles,0
+J. Crowder,G. Allen,J. Ingles,E. Udoh,G. Niang,4
+J. Crowder,G. Allen,J. Ingles,E. Udoh,G. Niang,2
+T. Sefolosha,G. Allen,J. Ingles,E. Udoh,G. Niang,3
+T. Sefolosha,G. Allen,J. Ingles,E. Udoh,G. Niang,0
+T. Sefolosha,R. Gobert,D. Mitchell,R. O'Neale,G. Niang,4
+T. Sefolosha,R. Gobert,D. Mitchell,R. O'Neale,G. Niang,3
+T. Sefolosha,R. Gobert,D. Mitchell,R. O'Neale,G. Niang,8
+J. Ingles,R. Gobert,D. Mitchell,R. O'Neale,J. Crowder,0
+J. Ingles,T. Sefolosha,R. Gobert,D. Mitchell,R. O'Neale,24
+G. Niang,T. Sefolosha,R. Gobert,D. Mitchell,R. O'Neale,5
+G. Niang,J. Crowder,R. Gobert,D. Mitchell,R. O'Neale,0
+G. Niang,J. Crowder,G. Allen,J. Ingles,E. Udoh,3
+G. Niang,J. Crowder,G. Allen,J. Ingles,E. Udoh,0
+G. Niang,E. Udoh,J. Crowder,J. Ingles,G. Allen,4
+R. Gobert,D. Mitchell,J. Crowder,J. Ingles,G. Allen,2
+R. Gobert,D. Mitchell,J. Crowder,J. Ingles,G. Allen,0
+R. Gobert,D. Mitchell,R. O'Neale,T. Sefolosha,G. Allen,0
+R. Gobert,D. Mitchell,R. O'Neale,T. Sefolosha,G. Niang,4
+R. Gobert,D. Mitchell,J. Ingles,T. Sefolosha,G. Niang,3
+R. Gobert,D. Mitchell,J. Ingles,J. Crowder,G. Niang,3
+R. Gobert,D. Mitchell,J. Ingles,J. Crowder,R. O'Neale,10
+R. Gobert,D. Mitchell,J. Ingles,J. Crowder,R. O'Neale,2

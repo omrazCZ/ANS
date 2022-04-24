@@ -1,37 +1,37 @@
-T. Ferguson,S. Adams,R. Westbrook,J. Grant,P. George,10
-T. Ferguson,S. Adams,R. Westbrook,J. Grant,P. George,0
-T. Ferguson,S. Adams,R. Westbrook,J. Grant,P. George,5
-D. Schröder,S. Adams,R. Westbrook,J. Grant,P. George,4
-D. Schröder,S. Adams,R. Westbrook,J. Grant,P. George,1
-D. Schröder,S. Adams,R. Westbrook,J. Grant,P. George,9
-D. Schröder,Á. Abrines,N. Noel,J. Grant,P. George,1
-D. Schröder,Á. Abrines,N. Noel,P. Patterson,P. George,0
-D. Schröder,N. Noel,H. Diallo,Á. Abrines,P. Patterson,7
-D. Schröder,N. Noel,H. Diallo,Á. Abrines,P. Patterson,0
-D. Schröder,N. Noel,H. Diallo,Á. Abrines,P. Patterson,4
-R. Westbrook,N. Noel,H. Diallo,Á. Abrines,P. Patterson,0
-R. Westbrook,N. Noel,H. Diallo,Á. Abrines,P. Patterson,2
-R. Westbrook,S. Adams,H. Diallo,Á. Abrines,P. Patterson,0
-R. Westbrook,S. Adams,T. Ferguson,Á. Abrines,P. Patterson,0
-R. Westbrook,S. Adams,T. Ferguson,P. George,P. Patterson,0
-R. Westbrook,S. Adams,T. Ferguson,P. George,J. Grant,3
-R. Westbrook,S. Adams,D. Schröder,P. George,J. Grant,0
-R. Westbrook,S. Adams,D. Schröder,P. George,J. Grant,2
-R. Westbrook,S. Adams,D. Schröder,P. George,J. Grant,5
-R. Westbrook,S. Adams,D. Schröder,P. George,J. Grant,0
-T. Ferguson,S. Adams,J. Grant,R. Westbrook,P. George,20
-T. Ferguson,S. Adams,J. Grant,R. Westbrook,P. George,1
-T. Ferguson,S. Adams,J. Grant,R. Westbrook,P. George,3
-D. Schröder,S. Adams,J. Grant,R. Westbrook,P. George,5
-D. Schröder,S. Adams,J. Grant,R. Westbrook,P. George,7
-D. Schröder,S. Adams,J. Grant,R. Westbrook,P. George,3
-D. Schröder,S. Adams,J. Grant,R. Westbrook,P. George,6
-D. Schröder,S. Adams,J. Grant,R. Westbrook,P. George,1
-D. Schröder,N. Noel,J. Grant,R. Westbrook,P. George,0
-H. Diallo,D. Schröder,N. Noel,Á. Abrines,J,7
-H. Diallo,D. Schröder,N. Noel,Á. Abrines,J,3
-R. Westbrook,D. Schröder,N. Noel,Á. Abrines,J,0
-R. Westbrook,D. Schröder,N. Noel,Á. Abrines,J,5
-R. Westbrook,D. Schröder,N. Noel,Á. Abrines,J,8
-R. Westbrook,D. Burton,N. Noel,Á. Abrines,J,0
-A. Nader,D. Burton,N. Noel,Á. Abrines,J,0
+D. Favors,J. Ingles,R. Gobert,R. Rubio,D. Mitchell,8
+J. Crowder,K. Korver,R. Gobert,R. Rubio,D. Mitchell,0
+J. Crowder,K. Korver,D. Favors,R. Rubio,D. Mitchell,0
+J. Crowder,K. Korver,D. Favors,R. Rubio,D. Mitchell,2
+J. Crowder,K. Korver,D. Favors,J. Ingles,D. Mitchell,0
+J. Crowder,K. Korver,D. Favors,J. Ingles,R. Neto,7
+J. Crowder,K. Korver,D. Favors,J. Ingles,R. Neto,2
+J. Crowder,K. Korver,D. Favors,J. Ingles,D. Mitchell,0
+J. Crowder,J. Ingles,R. Neto,K. Korver,R. Gobert,6
+D. Mitchell,R. O'Neale,T. Sefolosha,K. Korver,R. Gobert,0
+D. Mitchell,R. O'Neale,T. Sefolosha,R. Neto,R. Gobert,0
+D. Mitchell,R. Rubio,T. Sefolosha,K. Korver,R. Gobert,1
+D. Mitchell,R. Rubio,T. Sefolosha,K. Korver,D. Favors,0
+D. Mitchell,R. Rubio,T. Sefolosha,K. Korver,D. Favors,1
+D. Mitchell,R. Rubio,T. Sefolosha,K. Korver,D. Favors,1
+D. Mitchell,R. Rubio,T. Sefolosha,J. Ingles,D. Favors,3
+R. O'Neale,R. Rubio,T. Sefolosha,J. Ingles,D. Favors,3
+R. O'Neale,R. Rubio,T. Sefolosha,J. Ingles,D. Favors,4
+R. O'Neale,R. Rubio,R. Gobert,J. Ingles,J. Crowder,0
+D. Mitchell,R. Neto,R. Gobert,J. Ingles,J. Crowder,6
+K. Korver,R. Neto,R. Gobert,J. Ingles,J. Crowder,0
+R. Gobert,D. Mitchell,J. Ingles,D. Favors,R. Rubio,14
+J. Crowder,D. Mitchell,J. Ingles,D. Favors,R. Rubio,0
+J. Crowder,R. O'Neale,J. Ingles,D. Favors,R. Rubio,7
+J. Crowder,R. O'Neale,J. Ingles,D. Favors,R. Rubio,0
+J. Crowder,R. O'Neale,D. Mitchell,D. Favors,R. Rubio,2
+J. Crowder,R. O'Neale,D. Mitchell,R. Gobert,R. Rubio,0
+J. Crowder,R. O'Neale,D. Mitchell,R. Gobert,R. Neto,7
+J. Crowder,R. O'Neale,D. Mitchell,D. Favors,R. Neto,0
+J. Crowder,R. O'Neale,D. Mitchell,D. Favors,R. Neto,0
+D. Favors,D. Mitchell,T. Sefolosha,K. Korver,R. Neto,7
+D. Exum,E. Udoh,T. Sefolosha,K. Korver,R. Neto,10
+D. Exum,E. Udoh,G. Niang,K. Korver,R. Neto,3
+D. Exum,E. Udoh,G. Niang,R. O'Neale,R. Neto,4
+D. Exum,E. Udoh,G. Niang,R. O'Neale,T. Sefolosha,10
+D. Exum,E. Udoh,G. Niang,R. O'Neale,T. Sefolosha,0
+D. Exum,E. Udoh,G. Niang,R. O'Neale,T. Sefolosha,5

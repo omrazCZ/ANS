@@ -1,33 +1,33 @@
-J. Redick,M. Scott,B. Simmons,J. Embiid,T. Harris,5
-J. Redick,M. Scott,B. Simmons,J. Embiid,T. Harris,2
-J. Redick,M. Scott,B. Simmons,J. Embiid,T. Harris,4
-J. Bolden,T. McConnell,S. Milton,J. Embiid,T. Harris,5
-J. Bolden,T. McConnell,S. Milton,J. Embiid,T. Harris,2
-J. Bolden,B. Simmons,Z. Smith,B. Marjanović,J. Redick,3
-J. Bolden,B. Simmons,Z. Smith,B. Marjanović,J. Redick,0
-B. Marjanović,B. Simmons,Z. Smith,S. Milton,M. Scott,5
-J. Embiid,B. Simmons,Z. Smith,S. Milton,M. Scott,6
-J. Embiid,B. Simmons,Z. Smith,S. Milton,M. Scott,0
-J. Embiid,T. Harris,T. McConnell,S. Milton,M. Scott,6
-J. Embiid,T. Harris,T. McConnell,J. Bolden,J. Redick,4
-J. Embiid,Z. Smith,T. McConnell,J. Bolden,J. Redick,3
-J. Embiid,Z. Smith,B. Simmons,J. Bolden,J. Redick,6
-J. Embiid,Z. Smith,B. Simmons,J. Bolden,J. Redick,0
-M. Scott,Z. Smith,B. Simmons,J. Bolden,J. Redick,0
-J. Embiid,J. Redick,M. Scott,B. Simmons,T. Harris,21
-J. Bolden,J. Redick,M. Scott,B. Simmons,T. Harris,0
-J. Bolden,J. Embiid,T. McConnell,S. Milton,T. Harris,0
-J. Bolden,J. Embiid,T. McConnell,S. Milton,T. Harris,6
-J. Bolden,M. Scott,T. McConnell,S. Milton,T. Harris,0
-J. Bolden,M. Scott,B. Simmons,S. Milton,T. Harris,0
-J. Bolden,M. Scott,B. Simmons,S. Milton,Z. Smith,5
-J. Bolden,M. Scott,B. Simmons,J. Redick,Z. Smith,0
-J. Redick,Z. Smith,J. Embiid,M. Scott,J,11
-S. Milton,Z. Smith,J. Embiid,M. Scott,J,8
-S. Milton,T. Harris,J. Embiid,M. Scott,J,2
-J. Redick,T. Harris,J. Bolden,M. Scott,J,5
-J. Redick,T. Harris,J. Embiid,M. Scott,J,5
-J. Redick,T. Harris,J. Embiid,M. Scott,J,1
-J. Redick,T. Harris,J. Embiid,M. Scott,J,3
-J. Redick,T. Harris,J. Embiid,M. Scott,J,4
-J. Redick,T. Harris,J. Embiid,M. Scott,J,0
+E. Bledsoe,G. Antetokounmpo,K. Middleton,S. Brown,B. Lopez,13
+G. Hill,G. Antetokounmpo,K. Middleton,S. Brown,B. Lopez,1
+G. Hill,P. Connaughton,K. Middleton,S. Brown,B. Lopez,2
+G. Hill,P. Connaughton,G. Antetokounmpo,S. Brown,B. Lopez,6
+G. Hill,P. Connaughton,G. Antetokounmpo,E. İlyasova,D. Wilson,0
+G. Hill,P. Connaughton,G. Antetokounmpo,E. İlyasova,D. Wilson,3
+K. Middleton,P. Connaughton,T. Frazier,E. İlyasova,D. Wilson,0
+P. Connaughton,T. Frazier,E. İlyasova,K. Middleton,G. Antetokounmpo,5
+P. Connaughton,T. Frazier,E. İlyasova,K. Middleton,G. Antetokounmpo,4
+S. Brown,G. Hill,B. Lopez,D. Wilson,G. Antetokounmpo,2
+S. Brown,G. Hill,B. Lopez,D. Wilson,P. Connaughton,4
+S. Brown,G. Hill,B. Lopez,G. Antetokounmpo,P. Connaughton,6
+S. Brown,E. İlyasova,B. Lopez,G. Antetokounmpo,P. Connaughton,1
+G. Hill,E. İlyasova,B. Lopez,G. Antetokounmpo,P. Connaughton,3
+G. Hill,E. İlyasova,D. Wilson,G. Antetokounmpo,P. Connaughton,1
+G. Hill,E. İlyasova,D. Wilson,S. Brown,P. Connaughton,0
+G. Antetokounmpo,K. Middleton,G. Hill,S. Brown,B. Lopez,14
+P. Connaughton,K. Middleton,G. Hill,S. Brown,B. Lopez,2
+P. Connaughton,G. Antetokounmpo,G. Hill,S. Brown,B. Lopez,1
+P. Connaughton,G. Antetokounmpo,T. Frazier,S. Brown,B. Lopez,1
+P. Connaughton,G. Antetokounmpo,T. Frazier,E. İlyasova,D. Wilson,4
+P. Connaughton,G. Antetokounmpo,T. Frazier,E. İlyasova,D. Wilson,1
+P. Connaughton,G. Antetokounmpo,T. Frazier,E. İlyasova,D. Wilson,5
+P. Connaughton,K. Middleton,T. Frazier,E. İlyasova,D. Wilson,0
+D. Wilson,E. İlyasova,K. Middleton,G. Hill,S. Brown,12
+G. Antetokounmpo,E. İlyasova,K. Middleton,G. Hill,S. Brown,7
+G. Antetokounmpo,P. Connaughton,B. Lopez,G. Hill,S. Brown,5
+G. Antetokounmpo,P. Connaughton,B. Lopez,G. Hill,S. Brown,6
+G. Antetokounmpo,P. Connaughton,B. Lopez,G. Hill,S. Brown,2
+G. Antetokounmpo,E. İlyasova,B. Lopez,K. Middleton,S. Brown,1
+G. Antetokounmpo,P. Connaughton,B. Lopez,K. Middleton,G. Hill,1
+G. Antetokounmpo,S. Brown,B. Lopez,K. Middleton,G. Hill,14
+G. Antetokounmpo,S. Brown,B. Lopez,P. Connaughton,G. Hill,1

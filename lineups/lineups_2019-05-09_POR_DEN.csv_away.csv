@@ -1,26 +1,26 @@
-M. Harkless,A. Aminu,C. McCollum,D. Lillard,E. Freedom,14
-R. Hood,A. Aminu,C. McCollum,D. Lillard,E. Freedom,0
-R. Hood,A. Aminu,C. McCollum,D. Lillard,E. Freedom,2
-R. Hood,Z. Collins,C. McCollum,D. Lillard,E. Freedom,2
-R. Hood,Z. Collins,S. Curry,D. Lillard,E. Freedom,8
-R. Hood,E. Turner,S. Curry,D. Lillard,E. Freedom,0
-E. Turner,Z. Collins,S. Curry,R. Hood,C. McCollum,11
-E. Turner,Z. Collins,S. Curry,R. Hood,C. McCollum,6
-E. Freedom,Z. Collins,S. Curry,R. Hood,C. McCollum,0
-E. Freedom,D. Lillard,S. Curry,R. Hood,C. McCollum,8
-E. Freedom,D. Lillard,Z. Collins,R. Hood,C. McCollum,6
-E. Freedom,D. Lillard,Z. Collins,S. Curry,C. McCollum,0
-A. Aminu,M. Harkless,C. McCollum,E. Freedom,D. Lillard,18
-A. Aminu,M. Harkless,C. McCollum,E. Freedom,D. Lillard,4
-Z. Collins,R. Hood,C. McCollum,E. Freedom,D. Lillard,4
-Z. Collins,R. Hood,S. Curry,E. Freedom,D. Lillard,2
-Z. Collins,R. Hood,S. Curry,E. Freedom,D. Lillard,1
-Z. Collins,R. Hood,S. Curry,E. Turner,D. Lillard,0
-S. Curry,C. McCollum,Z. Collins,R. Hood,J,8
-S. Curry,C. McCollum,Z. Collins,R. Hood,J,2
-S. Curry,C. McCollum,Z. Collins,R. Hood,J,8
-D. Lillard,C. McCollum,Z. Collins,R. Hood,J,4
-D. Lillard,C. McCollum,Z. Collins,R. Hood,J,5
-D. Lillard,C. McCollum,Z. Collins,R. Hood,J,0
-D. Lillard,C. McCollum,Z. Collins,R. Hood,J,0
-D. Lillard,C. McCollum,Z. Collins,R. Hood,J,6
+T. Craig,P. Millsap,N. Jokić,G. Harris,J. Murray,22
+T. Craig,P. Millsap,N. Jokić,G. Harris,J. Murray,2
+W. Barton,P. Millsap,N. Jokić,G. Harris,J. Murray,1
+W. Barton,P. Millsap,N. Jokić,G. Harris,J. Murray,0
+W. Barton,M. Plumlee,N. Jokić,G. Harris,J. Murray,7
+W. Barton,M. Beasley,N. Jokić,G. Harris,J. Murray,0
+M. Morris,M. Beasley,P. Millsap,M. Plumlee,W. Barton,6
+J. Murray,M. Beasley,P. Millsap,M. Plumlee,W. Barton,7
+J. Murray,T. Craig,G. Harris,N. Jokić,W. Barton,0
+J. Murray,T. Craig,G. Harris,N. Jokić,W. Barton,2
+J. Murray,T. Craig,G. Harris,N. Jokić,P. Millsap,5
+J. Murray,T. Craig,G. Harris,N. Jokić,P. Millsap,0
+T. Craig,N. Jokić,P. Millsap,G. Harris,J. Murray,19
+W. Barton,N. Jokić,P. Millsap,G. Harris,J. Murray,5
+W. Barton,N. Jokić,P. Millsap,G. Harris,J. Murray,2
+W. Barton,N. Jokić,P. Millsap,G. Harris,J. Murray,0
+W. Barton,M. Plumlee,P. Millsap,G. Harris,J. Murray,0
+W. Barton,M. Plumlee,M. Beasley,G. Harris,J. Murray,0
+M. Beasley,M. Plumlee,P. Millsap,W. Barton,J. Murray,7
+G. Harris,N. Jokić,P. Millsap,W. Barton,J. Murray,2
+G. Harris,N. Jokić,T. Craig,W. Barton,J. Murray,3
+G. Harris,N. Jokić,T. Craig,P. Millsap,J. Murray,6
+G. Harris,N. Jokić,W. Barton,P. Millsap,J. Murray,6
+G. Harris,T. Craig,W. Barton,P. Millsap,J. Murray,1
+G. Harris,N. Jokić,W. Barton,P. Millsap,J. Murray,0
+G. Harris,M. Beasley,W. Barton,P. Millsap,J. Murray,5

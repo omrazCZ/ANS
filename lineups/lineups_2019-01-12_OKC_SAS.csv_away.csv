@@ -1,34 +1,34 @@
-J. Grant,T. Ferguson,R. Westbrook,S. Adams,P. George,5
-J. Grant,T. Ferguson,R. Westbrook,S. Adams,P. George,3
-J. Grant,T. Ferguson,R. Westbrook,S. Adams,P. George,1
-D. Schröder,T. Ferguson,R. Westbrook,S. Adams,P. George,1
-D. Schröder,T. Ferguson,R. Westbrook,S. Adams,P. George,9
-D. Schröder,J. Grant,A. Nader,S. Adams,P. George,1
-D. Schröder,J. Grant,A. Nader,P. Patterson,P. George,0
-D. Schröder,J. Grant,A. Nader,H. Diallo,P. Patterson,10
-D. Schröder,J. Grant,A. Nader,H. Diallo,P. Patterson,4
-R. Westbrook,J. Grant,A. Nader,H. Diallo,P. Patterson,1
-R. Westbrook,S. Adams,A. Nader,H. Diallo,P. Patterson,2
-R. Westbrook,S. Adams,P. George,H. Diallo,P. Patterson,0
-R. Westbrook,S. Adams,P. George,T. Ferguson,P. Patterson,6
-R. Westbrook,S. Adams,P. George,T. Ferguson,J. Grant,0
-J. Grant,R. Westbrook,S. Adams,P. George,J,21
-J. Grant,R. Westbrook,S. Adams,P. George,J,2
-J. Grant,R. Westbrook,S. Adams,P. George,J,3
-D. Schröder,R. Westbrook,S. Adams,P. George,J,4
-D. Schröder,R. Westbrook,S. Adams,P. George,J,1
-D. Schröder,A. Nader,S. Adams,P. George,J,5
-D. Schröder,A. Nader,S. Adams,P. George,J,4
-D. Schröder,A. Nader,P. Patterson,P. George,J,0
-D. Schröder,A. Nader,P. Patterson,P. George,J,0
-J. Grant,H. Diallo,A. Nader,D. Schröder,P. Patterson,13
-J. Grant,H. Diallo,A. Nader,D. Schröder,P. Patterson,4
-S. Adams,H. Diallo,A. Nader,D. Schröder,P. Patterson,3
-S. Adams,R. Westbrook,A. Nader,D. Schröder,P. Patterson,4
-S. Adams,R. Westbrook,P. George,D. Schröder,P. Patterson,2
-S. Adams,R. Westbrook,P. George,D. Schröder,P. Patterson,3
-S. Adams,R. Westbrook,P. George,D. Schröder,P. Patterson,4
-S. Adams,R. Westbrook,P. George,D. Schröder,P. Patterson,3
-J. Grant,R. Westbrook,P. George,D. Schröder,P. Patterson,1
-J. Grant,T. Ferguson,H. Diallo,D. Schröder,P. Patterson,2
-J. Grant,T. Ferguson,H. Diallo,T. Luwawu-Cabarrot,P. Patterson,0
+P. Gasol,D. White,B. Forbes,L. Aldridge,D. DeRozan,7
+D. Bertāns,D. White,B. Forbes,L. Aldridge,D. DeRozan,3
+D. Bertāns,P. Mills,B. Forbes,L. Aldridge,D. DeRozan,0
+D. Bertāns,P. Mills,B. Forbes,L. Aldridge,D. DeRozan,0
+D. Bertāns,P. Mills,M. Belinelli,L. Aldridge,D. DeRozan,12
+D. Bertāns,P. Mills,M. Belinelli,J. Poeltl,D. White,3
+P. Gasol,P. Mills,M. Belinelli,J. Poeltl,D. White,0
+P. Mills,M. Belinelli,P. Gasol,J. Poeltl,D. White,12
+B. Forbes,M. Belinelli,P. Gasol,J. Poeltl,D. White,2
+B. Forbes,D. Bertāns,D. DeRozan,J. Poeltl,D. White,4
+B. Forbes,D. Bertāns,D. DeRozan,L. Aldridge,D. White,5
+B. Forbes,D. Bertāns,D. DeRozan,L. Aldridge,D. White,0
+B. Forbes,D. Bertāns,D. DeRozan,L. Aldridge,D. White,2
+B. Forbes,D. Bertāns,D. DeRozan,L. Aldridge,D. White,0
+P. Gasol,B. Forbes,D. White,D. DeRozan,L. Aldridge,13
+D. Bertāns,B. Forbes,D. White,D. DeRozan,L. Aldridge,1
+D. Bertāns,M. Belinelli,P. Mills,D. DeRozan,L. Aldridge,4
+D. Bertāns,M. Belinelli,P. Mills,D. DeRozan,L. Aldridge,2
+D. Bertāns,M. Belinelli,P. Mills,B. Forbes,L. Aldridge,5
+D. Bertāns,M. Belinelli,P. Mills,B. Forbes,L. Aldridge,0
+D. Bertāns,M. Belinelli,P. Mills,B. Forbes,J. Poeltl,5
+D. Bertāns,M. Belinelli,P. Mills,B. Forbes,J. Poeltl,0
+D. Bertāns,M. Belinelli,D. DeRozan,B. Forbes,J. Poeltl,0
+B. Forbes,J. Poeltl,D. Bertāns,D. DeRozan,M. Belinelli,7
+L. Aldridge,D. White,D. Bertāns,D. DeRozan,M. Belinelli,3
+L. Aldridge,D. White,D. Bertāns,D. DeRozan,M. Belinelli,4
+L. Aldridge,D. White,J. Poeltl,D. DeRozan,M. Belinelli,4
+L. Aldridge,D. White,J. Poeltl,D. DeRozan,M. Belinelli,2
+L. Aldridge,D. White,J. Poeltl,P. Mills,M. Belinelli,0
+L. Aldridge,D. White,J. Poeltl,P. Mills,D. DeRozan,0
+D. Bertāns,Q. Pondexter,J. Poeltl,D. Eubanks,D. Cunningham,4
+D. Bertāns,Q. Pondexter,J. Poeltl,D. Eubanks,D. Cunningham,0
+D. Bertāns,Q. Pondexter,J. Poeltl,D. Eubanks,D. Cunningham,5
+D. Bertāns,Q. Pondexter,J. Poeltl,D. Eubanks,D. Cunningham,3

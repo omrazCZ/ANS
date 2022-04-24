@@ -1,30 +1,30 @@
-J. Richardson,R. McGruder,H. Whiteside,J. Johnson,J. Winslow,10
-D. Wade,R. McGruder,H. Whiteside,J. Johnson,J. Winslow,2
-D. Wade,R. McGruder,H. Whiteside,J. Johnson,J. Winslow,5
-D. Wade,B. Adebayo,T. Johnson,J. Johnson,J. Winslow,1
-D. Wade,B. Adebayo,T. Johnson,K. Olynyk,J. Winslow,3
-D. Wade,B. Adebayo,T. Johnson,K. Olynyk,J. Richardson,0
-D. Wade,B. Adebayo,J. Richardson,T. Johnson,K. Olynyk,14
-D. Wade,B. Adebayo,J. Richardson,T. Johnson,K. Olynyk,5
-D. Jones,B. Adebayo,J. Richardson,T. Johnson,K. Olynyk,2
-D. Jones,B. Adebayo,J. Richardson,T. Johnson,K. Olynyk,2
-D. Jones,H. Whiteside,J. Winslow,T. Johnson,K. Olynyk,2
-D. Jones,H. Whiteside,J. Winslow,R. McGruder,K. Olynyk,0
-D. Jones,H. Whiteside,J. Winslow,R. McGruder,K. Olynyk,3
-D. Jones,H. Whiteside,J. Winslow,R. McGruder,K. Olynyk,5
-J. Johnson,H. Whiteside,J. Winslow,R. McGruder,J. Richardson,0
-J. Johnson,H. Whiteside,J. Winslow,D. Wade,J. Richardson,0
-J. Johnson,B. Adebayo,J. Winslow,D. Wade,J. Richardson,0
-J. Richardson,J. Johnson,T. Johnson,H. Whiteside,R. McGruder,14
-J. Richardson,J. Johnson,T. Johnson,H. Whiteside,R. McGruder,2
-D. Wade,J. Johnson,T. Johnson,H. Whiteside,R. McGruder,2
-D. Wade,K. Olynyk,T. Johnson,H. Whiteside,R. McGruder,5
-D. Wade,K. Olynyk,B. Adebayo,J. Richardson,R. McGruder,1
-D. Wade,K. Olynyk,B. Adebayo,J. Richardson,D. Jones,0
-D. Wade,D. Jones,K. Olynyk,J. Richardson,E,11
-D. Wade,D. Jones,K. Olynyk,J. Richardson,E,0
-T. Johnson,D. Jones,K. Olynyk,J. Richardson,E,0
-T. Johnson,D. Jones,K. Olynyk,J. Richardson,E,9
-D. Wade,D. Jones,K. Olynyk,J. Richardson,E,2
-D. Wade,T. Johnson,K. Olynyk,J. Richardson,E,0
-D. Wade,K. Olynyk,D. Jones,J. Richardson,E,2
+T. Frazier,J. Randle,J. Holiday,S. Hill,A. Davis,6
+T. Frazier,J. Randle,J. Holiday,S. Hill,A. Davis,1
+D. Miller,E. Moore,J. Holiday,S. Hill,A. Davis,5
+D. Miller,E. Moore,J. Holiday,S. Hill,A. Davis,1
+D. Miller,E. Moore,A. Harrison,S. Hill,A. Davis,7
+D. Miller,E. Moore,A. Harrison,C. Diallo,A. Davis,0
+A. Harrison,E. Moore,C. Diallo,J. Randle,D. Miller,10
+J. Holiday,E. Moore,C. Diallo,J. Randle,D. Miller,3
+J. Holiday,F. Jackson,C. Diallo,J. Randle,D. Miller,0
+J. Holiday,F. Jackson,S. Hill,J. Randle,D. Miller,5
+J. Holiday,F. Jackson,S. Hill,J. Randle,D. Miller,0
+J. Holiday,F. Jackson,S. Hill,A. Davis,D. Miller,4
+J. Holiday,F. Jackson,S. Hill,A. Davis,E. Moore,0
+J. Holiday,J. Randle,S. Hill,A. Davis,E. Moore,7
+J. Holiday,J. Randle,S. Hill,A. Davis,E. Moore,0
+J. Holiday,J. Randle,S. Hill,A. Davis,E. Moore,2
+J. Holiday,J. Randle,S. Hill,A. Davis,E. Moore,0
+S. Hill,T. Frazier,J. Randle,J. Holiday,A. Davis,2
+E. Moore,T. Frazier,J. Randle,J. Holiday,A. Davis,7
+E. Moore,T. Frazier,J. Randle,J. Holiday,A. Davis,6
+E. Moore,D. Miller,J. Randle,J. Holiday,A. Davis,3
+E. Moore,D. Miller,S. Hill,J. Holiday,A. Davis,2
+E. Moore,D. Miller,S. Hill,A. Harrison,A. Davis,0
+S. Hill,J. Randle,J. Holiday,D. Miller,E. Moore,5
+A. Davis,J. Randle,J. Holiday,D. Miller,E. Moore,2
+A. Davis,J. Randle,J. Holiday,D. Miller,E. Moore,0
+A. Davis,A. Harrison,J. Holiday,D. Miller,E. Moore,14
+A. Davis,A. Harrison,J. Holiday,D. Miller,E. Moore,4
+A. Davis,A. Harrison,J. Holiday,D. Miller,E. Moore,0
+A. Davis,A. Harrison,F. Jackson,D. Miller,E. Moore,0

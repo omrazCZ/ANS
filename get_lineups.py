@@ -16,6 +16,19 @@ else:
 pbp_dir = 'basketball_pbp'
 games = listdir(pbp_dir)
 
+plyr_actions_1 = [' misses ', ' makes ']
+plyr_actions_2 = ['Defensive rebound by ', 'Offensive rebound by ', 'Turnover by ', 'assist by ']
+
+def get_name(pbp_str):
+    for x in plyr_actions_2:
+        if x in pbp_str:
+            try:
+                plyr = pbp_str.split(x)[1].replace(")", "")
+                plyr = plyr.split(" ")[0] + " " + plyr.split(" ")[1]
+                return plyr
+            except:
+                return -1
+
 for game in games:
 
     data = pd.read_csv(join(pbp_dir, game))
@@ -49,8 +62,6 @@ for game in games:
     # To collect names of players that weren't swapped in whole quarter
     potential_home = []
     potential_away = []
-    plyr_actions_1 = [' misses ', ' makes ']
-    plyr_actions_2 = ['Defensive rebound by ', 'Turnover by ', 'drawn by ', 'assit by ']
 
     # Go through pbp and extract important info
     for i in range(data.shape[0]):
@@ -241,7 +252,7 @@ for game in games:
             
             last_change = cur_line[1]
             last_team = 'Away'
-
+        
         if isinstance(cur_line[2], str):
             if ' misses ' in cur_line[2]:
                 plyr = cur_line[2].split(' misses ')[0]
@@ -250,6 +261,11 @@ for game in games:
             elif ' makes ' in cur_line[2]:
                 plyr = cur_line[2].split(' makes ')[0]
                 if not any(plyr in l for l in hl[q]):
+                    potential_home.append(plyr)
+            
+            elif any(x in cur_line[2] for x in plyr_actions_2) and 'Team' not in cur_line[2]:
+                plyr = get_name(cur_line[2])
+                if not any(plyr in l for l in hl[q]) and plyr != -1:
                     potential_home.append(plyr)
         
         if isinstance(cur_line[3], str):
@@ -260,6 +276,11 @@ for game in games:
             elif ' makes ' in cur_line[3]:
                 plyr = cur_line[3].split(' makes ')[0]
                 if not any(plyr in l for l in al[q]):
+                    potential_away.append(plyr)
+
+            elif any(x in cur_line[3] for x in plyr_actions_2) and 'Team' not in cur_line[3]:
+                plyr = get_name(cur_line[3])
+                if not any(plyr in l for l in al[q]) and plyr != -1:
                     potential_away.append(plyr)
 
     potential_home = list(set(potential_home))
@@ -305,11 +326,11 @@ for game in games:
     for i in range(len(away_lineups)):
         away_final.append(copy(away_lineups[i][:6]))'''
 
-    with open('lineups/lineups_' + game.split('pbp_')[1] + '_home.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    with open('lineups/lineups_' + game.split('pbp_')[1] + '_away.csv', 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerows(home_final)
 
-    with open('lineups/lineups_' + game.split('pbp_')[1] + '_away.csv', 'w', newline='', encoding='utf-8') as csvfile:
+    with open('lineups/lineups_' + game.split('pbp_')[1] + '_home.csv', 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
         writer.writerows(away_final)
 

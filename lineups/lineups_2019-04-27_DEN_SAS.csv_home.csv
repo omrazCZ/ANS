@@ -1,32 +1,32 @@
-J. Poeltl,D. White,B. Forbes,L. Aldridge,D. DeRozan,2
-R. Gay,D. White,B. Forbes,L. Aldridge,D. DeRozan,0
-R. Gay,P. Mills,B. Forbes,L. Aldridge,D. DeRozan,2
-R. Gay,P. Mills,M. Belinelli,L. Aldridge,D. DeRozan,0
-R. Gay,P. Mills,M. Belinelli,L. Aldridge,D. DeRozan,0
-R. Gay,P. Mills,M. Belinelli,J. Poeltl,D. DeRozan,6
-R. Gay,P. Mills,M. Belinelli,J. Poeltl,D. White,1
-R. Gay,P. Mills,M. Belinelli,J. Poeltl,D. White,0
-R. Gay,P. Mills,D. White,M. Belinelli,J. Poeltl,5
-L. Aldridge,B. Forbes,D. White,M. Belinelli,J. Poeltl,0
-L. Aldridge,B. Forbes,P. Mills,M. Belinelli,J. Poeltl,0
-L. Aldridge,B. Forbes,D. White,D. DeRozan,J. Poeltl,0
-L. Aldridge,B. Forbes,D. White,D. DeRozan,J. Poeltl,2
-L. Aldridge,B. Forbes,D. White,D. DeRozan,R. Gay,0
-L. Aldridge,B. Forbes,D. White,D. DeRozan,R. Gay,5
-L. Aldridge,B. Forbes,D. White,D. DeRozan,R. Gay,2
-L. Aldridge,B. Forbes,D. White,D. DeRozan,R. Gay,5
-L. Aldridge,B. Forbes,D. White,D. DeRozan,R. Gay,4
-L. Aldridge,B. Forbes,D. White,D. DeRozan,R. Gay,0
-J. Poeltl,D. White,L. Aldridge,B. Forbes,D. DeRozan,4
-R. Gay,D. White,L. Aldridge,B. Forbes,D. DeRozan,1
-R. Gay,P. Mills,L. Aldridge,B. Forbes,D. DeRozan,16
-R. Gay,P. Mills,M. Belinelli,J. Poeltl,D. DeRozan,4
-R. Gay,P. Mills,M. Belinelli,J. Poeltl,D. DeRozan,2
-R. Gay,P. Mills,D. White,J. Poeltl,D. DeRozan,0
-R. Gay,P. Mills,D. White,J. Poeltl,M. Belinelli,0
-R. Gay,M. Belinelli,L. Aldridge,B. Forbes,E,0
-D. DeRozan,M. Belinelli,L. Aldridge,B. Forbes,E,3
-D. DeRozan,M. Belinelli,L. Aldridge,B. Forbes,E,6
-D. DeRozan,R. Gay,L. Aldridge,B. Forbes,E,3
-D. DeRozan,R. Gay,L. Aldridge,B. Forbes,E,3
-D. DeRozan,R. Gay,L. Aldridge,B. Forbes,E,10
+T. Craig,P. Millsap,J. Murray,G. Harris,N. Jokić,9
+T. Craig,P. Millsap,J. Murray,G. Harris,N. Jokić,2
+T. Craig,P. Millsap,J. Murray,G. Harris,N. Jokić,4
+T. Craig,P. Millsap,J. Murray,G. Harris,N. Jokić,1
+M. Beasley,P. Millsap,J. Murray,G. Harris,N. Jokić,0
+M. Beasley,P. Millsap,J. Murray,G. Harris,N. Jokić,5
+M. Beasley,T. Craig,M. Morris,G. Harris,N. Jokić,0
+M. Beasley,W. Barton,M. Morris,M. Plumlee,N. Jokić,0
+P. Millsap,M. Beasley,M. Morris,W. Barton,M. Plumlee,2
+P. Millsap,M. Beasley,M. Morris,W. Barton,M. Plumlee,0
+P. Millsap,M. Beasley,M. Morris,W. Barton,M. Plumlee,6
+P. Millsap,M. Beasley,M. Morris,W. Barton,M. Plumlee,0
+N. Jokić,M. Beasley,M. Morris,W. Barton,M. Plumlee,0
+N. Jokić,G. Harris,M. Morris,W. Barton,M. Plumlee,2
+N. Jokić,G. Harris,J. Murray,W. Barton,M. Plumlee,2
+N. Jokić,G. Harris,J. Murray,T. Craig,P. Millsap,2
+N. Jokić,G. Harris,J. Murray,M. Beasley,P. Millsap,6
+N. Jokić,G. Harris,M. Morris,M. Beasley,P. Millsap,3
+M. Plumlee,G. Harris,M. Morris,M. Beasley,P. Millsap,0
+P. Millsap,J. Murray,N. Jokić,G. Harris,T. Craig,9
+P. Millsap,J. Murray,N. Jokić,G. Harris,T. Craig,0
+P. Millsap,J. Murray,N. Jokić,G. Harris,T. Craig,16
+P. Millsap,J. Murray,N. Jokić,G. Harris,T. Craig,2
+M. Morris,M. Plumlee,N. Jokić,G. Harris,T. Craig,0
+M. Morris,M. Beasley,N. Jokić,G. Harris,T. Craig,1
+M. Morris,M. Beasley,M. Plumlee,G. Harris,T. Craig,0
+M. Plumlee,M. Morris,W. Barton,M. Beasley,N. Jokić,2
+M. Plumlee,M. Morris,W. Barton,M. Beasley,N. Jokić,0
+G. Harris,M. Morris,W. Barton,M. Beasley,N. Jokić,6
+G. Harris,J. Murray,W. Barton,M. Beasley,N. Jokić,2
+G. Harris,J. Murray,P. Millsap,M. Beasley,N. Jokić,1
+G. Harris,J. Murray,P. Millsap,T. Craig,N. Jokić,7

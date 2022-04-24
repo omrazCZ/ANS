@@ -1,32 +1,32 @@
-P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,16
-P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,0
-P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,5
-P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,3
-S. Gilgeous-Alexander,M. Gortat,D. Gallinari,A. Bradley,T. Harris,0
-S. Gilgeous-Alexander,M. Harrell,D. Gallinari,A. Bradley,T. Harris,0
-S. Gilgeous-Alexander,M. Harrell,L. Williams,A. Bradley,T. Harris,0
-S. Gilgeous-Alexander,M. Harrell,L. Williams,L. Mbah a Moute,T. Harris,0
-S. Gilgeous-Alexander,M. Harrell,L. Williams,L. Mbah a Moute,M. Scott,0
-M. Scott,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,7
-M. Scott,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,3
-B. Marjanović,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,0
-B. Marjanović,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,0
-B. Marjanović,D. Gallinari,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,0
-B. Marjanović,D. Gallinari,P. Beverley,T. Harris,L. Williams,1
-B. Marjanović,D. Gallinari,P. Beverley,T. Harris,A. Bradley,0
-M. Gortat,D. Gallinari,P. Beverley,T. Harris,A. Bradley,1
-M. Gortat,D. Gallinari,P. Beverley,T. Harris,A. Bradley,3
-M. Gortat,D. Gallinari,P. Beverley,T. Harris,A. Bradley,0
-T. Harris,M. Gortat,P. Beverley,D. Gallinari,A. Bradley,21
-L. Williams,M. Gortat,P. Beverley,D. Gallinari,A. Bradley,1
-L. Williams,M. Harrell,P. Beverley,D. Gallinari,A. Bradley,1
-L. Williams,M. Harrell,P. Beverley,D. Gallinari,A. Bradley,5
-L. Williams,M. Harrell,S. Gilgeous-Alexander,D. Gallinari,A. Bradley,2
-L. Williams,M. Harrell,S. Gilgeous-Alexander,T. Harris,A. Bradley,0
-L. Williams,B. Marjanović,S. Gilgeous-Alexander,T. Harris,A. Bradley,0
-S. Gilgeous-Alexander,L. Williams,L. Mbah a Moute,B. Marjanović,T. Harris,14
-S. Gilgeous-Alexander,L. Williams,L. Mbah a Moute,B. Marjanović,T. Harris,0
-S. Gilgeous-Alexander,L. Williams,L. Mbah a Moute,B. Marjanović,T. Harris,20
-S. Gilgeous-Alexander,L. Williams,L. Mbah a Moute,B. Marjanović,T. Harris,2
-S. Gilgeous-Alexander,L. Williams,L. Mbah a Moute,B. Marjanović,T. Harris,2
-S. Gilgeous-Alexander,L. Williams,L. Mbah a Moute,B. Marjanović,T. Harris,1
+P. Patterson,S. Adams,T. Ferguson,D. Schröder,P. George,4
+J. Grant,S. Adams,T. Ferguson,D. Schröder,P. George,1
+J. Grant,N. Noel,T. Ferguson,D. Schröder,P. George,2
+J. Grant,N. Noel,Á. Abrines,D. Schröder,P. George,3
+J. Grant,N. Noel,Á. Abrines,D. Schröder,P. George,1
+J. Grant,N. Noel,Á. Abrines,D. Schröder,P. George,0
+J. Grant,N. Noel,Á. Abrines,D. Schröder,P. George,2
+J. Grant,N. Noel,Á. Abrines,R. Felton,P. George,3
+J. Grant,N. Noel,Á. Abrines,R. Felton,P. George,0
+N. Noel,R. Felton,H. Diallo,Á. Abrines,J. Grant,4
+S. Adams,R. Felton,H. Diallo,Á. Abrines,J. Grant,2
+S. Adams,R. Felton,H. Diallo,Á. Abrines,J. Grant,3
+S. Adams,D. Schröder,H. Diallo,Á. Abrines,J. Grant,2
+S. Adams,D. Schröder,H. Diallo,Á. Abrines,J. Grant,3
+S. Adams,D. Schröder,T. Ferguson,Á. Abrines,J. Grant,0
+S. Adams,D. Schröder,T. Ferguson,P. George,J. Grant,2
+S. Adams,R. Felton,T. Ferguson,P. George,J. Grant,3
+S. Adams,R. Felton,T. Ferguson,P. George,P. Patterson,0
+S. Adams,R. Felton,Á. Abrines,P. George,P. Patterson,0
+P. Patterson,S. Adams,T. Ferguson,D. Schröder,P. George,30
+J. Grant,S. Adams,T. Ferguson,D. Schröder,P. George,0
+J. Grant,S. Adams,T. Ferguson,D. Schröder,P. George,1
+J. Grant,Á. Abrines,N. Noel,D. Schröder,P. George,5
+J. Grant,Á. Abrines,N. Noel,R. Felton,P. George,3
+J. Grant,Á. Abrines,N. Noel,R. Felton,P. George,2
+P. Patterson,Á. Abrines,N. Noel,R. Felton,P. George,0
+R. Felton,P. Patterson,H. Diallo,S. Adams,Á. Abrines,11
+J. Grant,D. Schröder,H. Diallo,S. Adams,Á. Abrines,0
+J. Grant,D. Schröder,P. George,S. Adams,Á. Abrines,5
+J. Grant,D. Schröder,T. Ferguson,S. Adams,Á. Abrines,0
+D. Burton,D. Schröder,T. Ferguson,S. Adams,Á. Abrines,0
+D. Burton,D. Schröder,T. Ferguson,N. Noel,Á. Abrines,0

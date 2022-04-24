@@ -1,31 +1,31 @@
-J. Holiday,N. Mirotić,E. Moore,A. Davis,E. Payton,11
-J. Holiday,N. Mirotić,E. Moore,A. Davis,E. Payton,2
-J. Holiday,N. Mirotić,E. Moore,A. Davis,E. Payton,0
-J. Holiday,N. Mirotić,E. Moore,A. Davis,E. Payton,12
-D. Miller,J. Randle,E. Moore,A. Davis,E. Payton,4
-D. Miller,J. Randle,S. Hill,A. Davis,E. Payton,3
-D. Miller,J. Randle,S. Hill,I. Clark,N. Mirotić,0
-I. Clark,D. Miller,J. Randle,N. Mirotić,J. Holiday,11
-I. Clark,D. Miller,J. Randle,N. Mirotić,J. Holiday,0
-I. Clark,D. Miller,J. Randle,N. Mirotić,J. Holiday,3
-A. Davis,E. Moore,E. Payton,N. Mirotić,J. Holiday,4
-A. Davis,E. Moore,E. Payton,N. Mirotić,J. Holiday,2
-A. Davis,E. Moore,E. Payton,N. Mirotić,J. Holiday,2
-A. Davis,E. Moore,E. Payton,J. Randle,J. Holiday,9
-A. Davis,E. Moore,E. Payton,N. Mirotić,J. Holiday,0
-N. Mirotić,E. Payton,E. Moore,J. Holiday,A. Davis,25
-N. Mirotić,E. Payton,E. Moore,J. Holiday,A. Davis,4
-J. Randle,E. Payton,E. Moore,J. Holiday,A. Davis,1
-J. Randle,E. Payton,E. Moore,J. Holiday,A. Davis,1
-J. Randle,D. Miller,E. Moore,J. Holiday,A. Davis,3
-J. Randle,D. Miller,S. Hill,J. Holiday,A. Davis,0
-J. Randle,D. Miller,S. Hill,I. Clark,A. Davis,3
-J. Randle,D. Miller,S. Hill,I. Clark,N. Mirotić,0
-J. Randle,N. Mirotić,I. Clark,D. Miller,J,18
-J. Randle,N. Mirotić,I. Clark,D. Miller,J,0
-J. Randle,N. Mirotić,I. Clark,D. Miller,J,10
-J. Randle,N. Mirotić,I. Clark,D. Miller,J,0
-J. Okafor,N. Mirotić,I. Clark,D. Miller,J,2
-J. Okafor,F. Jackson,I. Clark,D. Miller,J,0
-J. Okafor,F. Jackson,I. Clark,D. Miller,J,6
-J. Okafor,F. Jackson,C. Diallo,T. Frazier,J,13
+N. Bjelica,Y. Ferrell,W. Cauley-Stein,D. Fox,B. Hield,9
+M. Bagley,Y. Ferrell,W. Cauley-Stein,D. Fox,B. Hield,2
+M. Bagley,I. Shumpert,W. Cauley-Stein,D. Fox,B. Hield,0
+M. Bagley,I. Shumpert,H. Giles,D. Fox,B. Hield,8
+M. Bagley,I. Shumpert,H. Giles,D. Fox,B. Hield,3
+M. Bagley,I. Shumpert,H. Giles,J. Jackson,F. Mason,1
+M. Bagley,I. Shumpert,H. Giles,J. Jackson,F. Mason,0
+F. Mason,H. Giles,J. Jackson,W. Cauley-Stein,Y. Ferrell,14
+D. Fox,H. Giles,J. Jackson,W. Cauley-Stein,Y. Ferrell,1
+D. Fox,N. Bjelica,J. Jackson,W. Cauley-Stein,Y. Ferrell,5
+D. Fox,N. Bjelica,J. Jackson,W. Cauley-Stein,Y. Ferrell,7
+D. Fox,N. Bjelica,B. Hield,W. Cauley-Stein,Y. Ferrell,0
+D. Fox,M. Bagley,B. Hield,W. Cauley-Stein,Y. Ferrell,2
+D. Fox,M. Bagley,B. Hield,W. Cauley-Stein,Y. Ferrell,4
+D. Fox,M. Bagley,B. Hield,S. Labissière,Y. Ferrell,0
+N. Bjelica,Y. Ferrell,W. Cauley-Stein,D. Fox,B. Hield,21
+M. Bagley,Y. Ferrell,W. Cauley-Stein,D. Fox,B. Hield,0
+M. Bagley,I. Shumpert,W. Cauley-Stein,D. Fox,B. Hield,5
+M. Bagley,I. Shumpert,H. Giles,D. Fox,B. Hield,0
+M. Bagley,I. Shumpert,H. Giles,F. Mason,B. Hield,0
+M. Bagley,I. Shumpert,H. Giles,F. Mason,J. Jackson,0
+M. Bagley,I. Shumpert,H. Giles,F. Mason,J. Jackson,0
+M. Bagley,I. Shumpert,H. Giles,F. Mason,J. Jackson,0
+I. Shumpert,H. Giles,F. Mason,M. Bagley,J. Jackson,10
+B. Hield,H. Giles,F. Mason,M. Bagley,J. Jackson,2
+B. Hield,W. Cauley-Stein,F. Mason,M. Bagley,J. Jackson,6
+B. Hield,W. Cauley-Stein,D. Fox,M. Bagley,J. Jackson,2
+B. Hield,W. Cauley-Stein,D. Fox,M. Bagley,J. Jackson,4
+B. McLemore,W. Cauley-Stein,D. Fox,S. Labissière,J. Jackson,1
+B. McLemore,W. Cauley-Stein,F. Mason,S. Labissière,J. Jackson,5
+B. McLemore,M. Bagley,F. Mason,S. Labissière,I. Shumpert,17

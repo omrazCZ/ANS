@@ -1,33 +1,33 @@
-J. Ennis,E. Gordon,C. Capela,P. Tucker,J. Harden,19
-G. Clark,E. Gordon,C. Capela,P. Tucker,J. Harden,5
-G. Clark,E. Gordon,C. Capela,P. Tucker,J. Harden,3
-G. Clark,D. House,C. Capela,P. Tucker,J. Harden,3
-G. Clark,D. House,C. Capela,P. Tucker,J. Harden,2
-G. Clark,D. House,M. Chriss,P. Tucker,J. Harden,0
-G. Clark,D. House,M. Chriss,J. Ennis,J. Harden,2
-E. Gordon,D. House,M. Chriss,J. Ennis,J. Harden,0
-G. Clark,C. Capela,M. Carter-Williams,E. Gordon,J. Ennis,9
-P. Tucker,C. Capela,M. Carter-Williams,E. Gordon,J. Ennis,0
-P. Tucker,M. Chriss,M. Carter-Williams,E. Gordon,J. Ennis,0
-P. Tucker,M. Chriss,M. Carter-Williams,E. Gordon,J. Ennis,2
-P. Tucker,J. Harden,C. Capela,E. Gordon,J. Ennis,1
-P. Tucker,J. Harden,C. Capela,E. Gordon,J. Ennis,1
-P. Tucker,J. Harden,C. Capela,E. Gordon,J. Ennis,3
-P. Tucker,J. Harden,G. Clark,E. Gordon,J. Ennis,9
-P. Tucker,J. Harden,G. Clark,D. House,J. Ennis,0
-P. Tucker,J. Harden,C. Capela,E. Gordon,J. Ennis,0
-C. Capela,J. Ennis,E. Gordon,J. Harden,E,22
-I. Hartenstein,D. House,E. Gordon,J. Harden,E,3
-I. Hartenstein,D. House,E. Gordon,J. Harden,E,1
-I. Hartenstein,D. House,E. Gordon,J. Harden,E,0
-I. Hartenstein,D. House,G. Clark,J. Harden,E,3
-I. Hartenstein,D. House,G. Clark,J. Harden,E,10
-I. Hartenstein,D. House,E. Gordon,J. Harden,E,0
-D. House,G. Clark,J. Ennis,C. Capela,E. Gordon,5
-J. Harden,G. Clark,J. Ennis,C. Capela,E. Gordon,2
-J. Harden,G. Clark,J. Ennis,C. Capela,E. Gordon,0
-J. Harden,D. House,P. Tucker,C. Capela,E. Gordon,7
-J. Harden,D. House,P. Tucker,C. Capela,E. Gordon,8
-J. Harden,J. Ennis,P. Tucker,C. Capela,E. Gordon,1
-J. Harden,D. House,P. Tucker,C. Capela,E. Gordon,4
-J. Harden,D. House,P. Tucker,G. Clark,E. Gordon,6
+T. Bryant,O. Porter,K. Oubre,J. Wall,B. Beal,10
+T. Bryant,O. Porter,K. Oubre,J. Wall,B. Beal,0
+M. Morris,O. Porter,K. Oubre,J. Wall,B. Beal,0
+M. Morris,O. Porter,K. Oubre,J. Wall,B. Beal,4
+M. Morris,J. Green,K. Oubre,J. Wall,B. Beal,3
+M. Morris,J. Green,K. Oubre,J. Wall,B. Beal,2
+M. Morris,J. Green,A. Rivers,T. Satoranský,B. Beal,5
+M. Morris,J. Green,A. Rivers,T. Satoranský,B. Beal,0
+A. Rivers,J. Green,T. Satoranský,M. Morris,O. Porter,12
+A. Rivers,J. Green,T. Satoranský,M. Morris,O. Porter,0
+A. Rivers,J. Green,T. Satoranský,M. Morris,O. Porter,2
+J. Wall,J. Green,T. Satoranský,M. Morris,O. Porter,2
+J. Wall,J. Green,T. Satoranský,M. Morris,O. Porter,0
+J. Wall,B. Beal,T. Satoranský,M. Morris,O. Porter,5
+J. Wall,B. Beal,K. Oubre,M. Morris,O. Porter,2
+J. Wall,B. Beal,K. Oubre,M. Morris,O. Porter,8
+J. Wall,B. Beal,T. Satoranský,M. Morris,O. Porter,4
+J. Wall,B. Beal,T. Satoranský,M. Morris,O. Porter,0
+T. Bryant,K. Oubre,O. Porter,J. Wall,B. Beal,24
+T. Bryant,K. Oubre,O. Porter,J. Wall,B. Beal,2
+M. Morris,K. Oubre,O. Porter,J. Wall,B. Beal,2
+M. Morris,J. Green,O. Porter,J. Wall,B. Beal,0
+M. Morris,J. Green,A. Rivers,J. Wall,B. Beal,0
+M. Morris,J. Green,A. Rivers,T. Satoranský,B. Beal,6
+M. Morris,J. Green,A. Rivers,T. Satoranský,O. Porter,0
+T. Satoranský,A. Rivers,B. Beal,J. Green,M. Morris,10
+T. Satoranský,A. Rivers,B. Beal,J. Green,M. Morris,3
+J. Wall,A. Rivers,B. Beal,J. Green,M. Morris,0
+J. Wall,A. Rivers,B. Beal,J. Green,M. Morris,6
+J. Wall,O. Porter,B. Beal,J. Green,M. Morris,5
+J. Wall,O. Porter,B. Beal,J. Green,M. Morris,4
+J. Wall,O. Porter,B. Beal,J. Green,M. Morris,4
+J. Wall,O. Porter,B. Beal,J. Green,M. Morris,10

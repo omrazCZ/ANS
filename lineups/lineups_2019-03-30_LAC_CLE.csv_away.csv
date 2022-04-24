@@ -1,30 +1,30 @@
-L. Shamet,I. Zubac,P. Beverley,S. Gilgeous-Alexander,J. Green,16
-L. Shamet,I. Zubac,P. Beverley,S. Gilgeous-Alexander,J. Green,2
-L. Shamet,I. Zubac,P. Beverley,S. Gilgeous-Alexander,J. Green,1
-L. Shamet,I. Zubac,P. Beverley,S. Gilgeous-Alexander,J. Green,0
-M. Harrell,L. Williams,P. Beverley,S. Gilgeous-Alexander,J. Green,4
-M. Harrell,L. Williams,W. Chandler,G. Temple,T. Wallace,0
-M. Harrell,L. Williams,W. Chandler,G. Temple,T. Wallace,6
-J. Green,S. Thornwell,W. Chandler,G. Temple,T. Wallace,0
-T. Wallace,M. Harrell,G. Temple,L. Williams,W. Chandler,0
-T. Wallace,M. Harrell,G. Temple,L. Williams,W. Chandler,3
-L. Shamet,M. Harrell,G. Temple,L. Williams,W. Chandler,6
-L. Shamet,M. Harrell,G. Temple,L. Williams,W. Chandler,5
-L. Shamet,P. Beverley,S. Gilgeous-Alexander,I. Zubac,W. Chandler,2
-L. Shamet,P. Beverley,S. Gilgeous-Alexander,I. Zubac,J. Green,5
-L. Shamet,P. Beverley,S. Gilgeous-Alexander,I. Zubac,J. Green,4
-L. Shamet,P. Beverley,S. Gilgeous-Alexander,M. Harrell,J. Green,0
-I. Zubac,P. Beverley,J. Green,L. Shamet,S. Gilgeous-Alexander,16
-I. Zubac,P. Beverley,J. Green,L. Shamet,S. Gilgeous-Alexander,13
-M. Harrell,P. Beverley,J. Green,L. Shamet,S. Gilgeous-Alexander,0
-M. Harrell,P. Beverley,J. Green,L. Shamet,S. Gilgeous-Alexander,0
-M. Harrell,L. Williams,J. Green,L. Shamet,S. Gilgeous-Alexander,2
-M. Harrell,L. Williams,W. Chandler,L. Shamet,S. Gilgeous-Alexander,3
-M. Harrell,L. Williams,W. Chandler,G. Temple,S. Gilgeous-Alexander,0
-M. Harrell,G. Temple,L. Williams,J. Robinson,J,13
-M. Harrell,G. Temple,L. Williams,J. Robinson,J,7
-M. Harrell,G. Temple,L. Williams,J. Robinson,J,4
-M. Harrell,G. Temple,L. Williams,J. Robinson,J,4
-M. Harrell,G. Temple,L. Williams,J. Robinson,J,5
-J. Motley,S. Thornwell,T. Wallace,J. Robinson,J,0
-J. Motley,S. Thornwell,T. Wallace,J. Robinson,J,11
+D. Nwaba,B. Knight,T. Thompson,C. Osman,C. Sexton,11
+L. Nance,B. Knight,T. Thompson,C. Osman,C. Sexton,0
+L. Nance,J. Clarkson,T. Thompson,C. Osman,C. Sexton,2
+L. Nance,J. Clarkson,M. Chriss,C. Osman,C. Sexton,1
+L. Nance,J. Clarkson,M. Chriss,C. Osman,C. Sexton,8
+L. Nance,J. Clarkson,M. Chriss,C. Osman,C. Sexton,0
+L. Nance,J. Clarkson,N. Stauskas,A. Žižić,C. Sexton,7
+L. Nance,J. Clarkson,N. Stauskas,A. Žižić,C. Sexton,0
+A. Žižić,L. Nance,N. Stauskas,J. Clarkson,B. Knight,0
+T. Thompson,L. Nance,N. Stauskas,J. Clarkson,B. Knight,2
+T. Thompson,L. Nance,N. Stauskas,J. Clarkson,B. Knight,4
+T. Thompson,D. Nwaba,C. Osman,J. Clarkson,B. Knight,4
+T. Thompson,D. Nwaba,C. Osman,C. Sexton,B. Knight,3
+T. Thompson,D. Nwaba,C. Osman,C. Sexton,B. Knight,6
+L. Nance,D. Nwaba,C. Osman,C. Sexton,B. Knight,2
+L. Nance,D. Nwaba,C. Osman,C. Sexton,B. Knight,0
+D. Nwaba,B. Knight,T. Thompson,C. Sexton,C. Osman,2
+L. Nance,B. Knight,T. Thompson,C. Sexton,C. Osman,9
+L. Nance,J. Clarkson,T. Thompson,C. Sexton,C. Osman,7
+L. Nance,J. Clarkson,M. Chriss,C. Sexton,C. Osman,0
+L. Nance,J. Clarkson,M. Chriss,C. Sexton,C. Osman,1
+L. Nance,J. Clarkson,M. Chriss,C. Sexton,C. Osman,12
+L. Nance,J. Clarkson,M. Chriss,C. Sexton,C. Osman,0
+M. Chriss,D. Nwaba,J. Clarkson,L. Nance,C. Sexton,9
+T. Thompson,D. Nwaba,J. Clarkson,L. Nance,C. Sexton,0
+T. Thompson,C. Osman,J. Clarkson,L. Nance,C. Sexton,2
+T. Thompson,C. Osman,B. Knight,L. Nance,C. Sexton,4
+T. Thompson,C. Osman,B. Knight,D. Nwaba,C. Sexton,3
+A. Žižić,D. Adel,B. Knight,D. Nwaba,C. Sexton,2
+A. Žižić,D. Adel,B. Knight,D. Nwaba,N. Stauskas,7

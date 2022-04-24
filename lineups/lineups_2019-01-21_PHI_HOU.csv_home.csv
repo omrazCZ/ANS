@@ -1,26 +1,26 @@
-N. Hilário,E. Gordon,A. Rivers,P. Tucker,J. Harden,12
-K. Faried,E. Gordon,A. Rivers,P. Tucker,J. Harden,2
-K. Faried,J. Ennis,G. Green,P. Tucker,J. Harden,7
-K. Faried,J. Ennis,G. Green,P. Tucker,J. Harden,3
-K. Faried,J. Ennis,G. Green,E. Gordon,J. Harden,0
-K. Faried,J. Ennis,G. Green,E. Gordon,A. Rivers,1
-N. Hilário,J. Ennis,G. Green,E. Gordon,A. Rivers,0
-N. Hilário,J. Ennis,A. Rivers,E. Gordon,G. Green,5
-K. Faried,J. Ennis,A. Rivers,E. Gordon,G. Green,0
-K. Faried,J. Ennis,A. Rivers,E. Gordon,G. Green,2
-K. Faried,J. Harden,P. Tucker,E. Gordon,G. Green,0
-K. Faried,J. Harden,P. Tucker,E. Gordon,G. Green,2
-K. Faried,J. Harden,P. Tucker,A. Rivers,G. Green,8
-G. Clark,J. Harden,P. Tucker,A. Rivers,G. Green,0
-G. Clark,J. Harden,P. Tucker,A. Rivers,E. Gordon,0
-J. Ennis,J. Harden,P. Tucker,A. Rivers,E. Gordon,0
-J. Ennis,A. Rivers,E. Gordon,J. Harden,E,10
-K. Faried,G. Green,E. Gordon,J. Harden,E,1
-K. Faried,G. Green,E. Gordon,J. Harden,E,7
-K. Faried,G. Green,A. Rivers,J. Harden,E,0
-K. Faried,J. Ennis,A. Rivers,J. Harden,E,3
-K. Faried,J. Ennis,A. Rivers,J. Harden,E,0
-E. Gordon,K. Faried,G. Clark,V. Edwards,G. Green,3
-E. Gordon,K. Faried,G. Clark,V. Edwards,G. Green,0
-J. Ennis,K. Faried,G. Clark,V. Edwards,G. Green,7
-J. Ennis,M. Chriss,G. Clark,V. Edwards,G. Green,20
+C. Brewer,J. Embiid,J. Redick,W. Chandler,B. Simmons,10
+J. Bolden,T. McConnell,L. Shamet,W. Chandler,B. Simmons,1
+J. Bolden,T. McConnell,L. Shamet,W. Chandler,B. Simmons,9
+J. Embiid,T. McConnell,M. Muscala,F. Korkmaz,J. Redick,0
+J. Embiid,T. McConnell,M. Muscala,F. Korkmaz,J. Redick,4
+J. Embiid,T. McConnell,M. Muscala,F. Korkmaz,J. Redick,4
+J. Embiid,T. McConnell,M. Muscala,F. Korkmaz,J. Redick,0
+T. McConnell,M. Muscala,L. Shamet,J. Embiid,W. Chandler,8
+T. McConnell,M. Muscala,L. Shamet,J. Embiid,W. Chandler,0
+B. Simmons,M. Muscala,L. Shamet,J. Embiid,W. Chandler,3
+B. Simmons,C. Brewer,J. Redick,J. Embiid,W. Chandler,1
+B. Simmons,C. Brewer,J. Redick,J. Bolden,W. Chandler,4
+B. Simmons,C. Brewer,J. Redick,J. Bolden,W. Chandler,7
+B. Simmons,C. Brewer,J. Redick,J. Bolden,W. Chandler,5
+B. Simmons,C. Brewer,J. Redick,J. Embiid,M. Muscala,3
+B. Simmons,C. Brewer,J. Redick,J. Embiid,M. Muscala,0
+C. Brewer,J. Embiid,J. Redick,W. Chandler,B. Simmons,18
+C. Brewer,J. Embiid,J. Redick,W. Chandler,B. Simmons,2
+J. Bolden,T. McConnell,L. Shamet,W. Chandler,B. Simmons,3
+J. Bolden,T. McConnell,L. Shamet,W. Chandler,B. Simmons,5
+J. Embiid,T. McConnell,J. Redick,W. Chandler,B. Simmons,2
+J. Embiid,T. McConnell,J. Redick,C. Brewer,M. Muscala,0
+J. Embiid,J. Redick,T. McConnell,M. Muscala,C. Brewer,7
+J. Bolden,J. Redick,T. McConnell,M. Muscala,C. Brewer,0
+A. Johnson,L. Shamet,T. McConnell,M. Muscala,C. Brewer,4
+A. Johnson,L. Shamet,F. Korkmaz,M. Muscala,C. Brewer,21

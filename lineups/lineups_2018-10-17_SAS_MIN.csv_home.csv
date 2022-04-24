@@ -1,34 +1,34 @@
-J. Butler,T. Gibson,J. Teague,K. Towns,A. Wiggins,7
-J. Butler,T. Gibson,J. Teague,K. Towns,A. Wiggins,1
-J. Butler,T. Gibson,J. Teague,K. Towns,A. Wiggins,0
-D. Rose,T. Gibson,J. Teague,K. Towns,A. Wiggins,6
-D. Rose,G. Dieng,T. Jones,K. Towns,A. Wiggins,7
-D. Rose,G. Dieng,T. Jones,A. Tolliver,A. Wiggins,2
-D. Rose,G. Dieng,T. Jones,A. Tolliver,A. Wiggins,0
-T. Jones,G. Dieng,D. Rose,J. Butler,E,4
-T. Jones,G. Dieng,D. Rose,J. Butler,E,2
-T. Jones,G. Dieng,D. Rose,J. Butler,E,3
-J. Teague,G. Dieng,D. Rose,J. Butler,E,0
-J. Teague,K. Towns,A. Wiggins,J. Butler,E,4
-J. Teague,K. Towns,A. Wiggins,J. Butler,E,5
-J. Teague,K. Towns,A. Wiggins,D. Rose,E,3
-J. Teague,K. Towns,A. Wiggins,D. Rose,E,2
-J. Teague,G. Dieng,A. Wiggins,D. Rose,E,4
-J. Teague,G. Dieng,A. Wiggins,D. Rose,E,0
-K. Towns,J. Butler,J. Teague,T. Gibson,A. Wiggins,11
-K. Towns,J. Butler,J. Teague,T. Gibson,A. Wiggins,5
-G. Dieng,J. Butler,J. Teague,T. Gibson,A. Wiggins,0
-G. Dieng,J. Butler,J. Teague,T. Gibson,A. Wiggins,4
-G. Dieng,D. Rose,J. Teague,T. Gibson,A. Wiggins,1
-G. Dieng,D. Rose,J. Teague,T. Gibson,A. Wiggins,4
-G. Dieng,D. Rose,T. Jones,T. Gibson,A. Wiggins,1
-G. Dieng,D. Rose,T. Jones,T. Gibson,A. Wiggins,0
-G. Dieng,T. Jones,D. Rose,A. Tolliver,J. Butler,10
-G. Dieng,T. Jones,D. Rose,A. Tolliver,J. Butler,4
-K. Towns,T. Jones,D. Rose,A. Tolliver,J. Butler,0
-K. Towns,J. Teague,A. Wiggins,A. Tolliver,J. Butler,0
-K. Towns,J. Teague,A. Wiggins,T. Gibson,J. Butler,2
-K. Towns,J. Teague,A. Wiggins,T. Gibson,D. Rose,0
-K. Towns,J. Teague,A. Wiggins,T. Gibson,D. Rose,0
-G. Dieng,J. Teague,A. Wiggins,T. Gibson,D. Rose,2
-J. Butler,J. Teague,A. Wiggins,T. Gibson,D. Rose,14
+J. Poeltl,B. Forbes,R. Gay,D. DeRozan,L. Aldridge,12
+P. Gasol,B. Forbes,R. Gay,D. DeRozan,L. Aldridge,2
+P. Gasol,P. Mills,R. Gay,D. DeRozan,L. Aldridge,3
+P. Gasol,P. Mills,M. Belinelli,D. DeRozan,L. Aldridge,5
+P. Gasol,P. Mills,M. Belinelli,R. Gay,L. Aldridge,4
+P. Gasol,P. Mills,M. Belinelli,R. Gay,D. Cunningham,4
+L. Aldridge,P. Mills,M. Belinelli,R. Gay,D. Cunningham,0
+M. Belinelli,D. Cunningham,P. Gasol,B. Forbes,D. Bertāns,1
+D. DeRozan,D. Cunningham,P. Gasol,B. Forbes,D. Bertāns,0
+D. DeRozan,L. Aldridge,M. Belinelli,B. Forbes,D. Bertāns,9
+D. DeRozan,L. Aldridge,M. Belinelli,P. Mills,D. Bertāns,2
+D. DeRozan,L. Aldridge,M. Belinelli,P. Mills,R. Gay,2
+D. DeRozan,L. Aldridge,D. Bertāns,P. Mills,R. Gay,2
+D. DeRozan,L. Aldridge,D. Bertāns,P. Mills,R. Gay,1
+D. DeRozan,L. Aldridge,D. Bertāns,P. Mills,B. Forbes,3
+D. DeRozan,L. Aldridge,P. Gasol,P. Mills,B. Forbes,6
+D. DeRozan,L. Aldridge,D. Cunningham,P. Mills,B. Forbes,0
+R. Gay,J. Poeltl,B. Forbes,L. Aldridge,D. DeRozan,6
+M. Belinelli,P. Gasol,B. Forbes,L. Aldridge,D. DeRozan,3
+M. Belinelli,P. Gasol,B. Forbes,L. Aldridge,D. DeRozan,2
+M. Belinelli,P. Gasol,P. Mills,L. Aldridge,D. DeRozan,2
+M. Belinelli,P. Gasol,P. Mills,L. Aldridge,D. DeRozan,0
+M. Belinelli,P. Gasol,P. Mills,D. Cunningham,D. DeRozan,6
+M. Belinelli,P. Gasol,P. Mills,L. Aldridge,D. DeRozan,0
+B. Forbes,P. Gasol,P. Mills,L. Aldridge,R. Gay,0
+P. Gasol,P. Mills,B. Forbes,R. Gay,L. Aldridge,11
+D. Bertāns,D. DeRozan,B. Forbes,R. Gay,L. Aldridge,2
+D. Bertāns,D. DeRozan,B. Forbes,R. Gay,L. Aldridge,2
+D. Bertāns,D. DeRozan,M. Belinelli,P. Mills,L. Aldridge,3
+D. Bertāns,D. DeRozan,M. Belinelli,P. Mills,L. Aldridge,3
+D. Bertāns,D. DeRozan,M. Belinelli,P. Mills,L. Aldridge,3
+D. Bertāns,D. DeRozan,B. Forbes,P. Mills,L. Aldridge,0
+D. Bertāns,D. DeRozan,B. Forbes,P. Mills,L. Aldridge,3
+D. Bertāns,D. DeRozan,B. Forbes,P. Mills,L. Aldridge,10

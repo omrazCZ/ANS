@@ -1,29 +1,29 @@
-A. Drummond,W. Ellington,R. Jackson,B. Brown,B. Griffin,3
-L. Kennard,T. Maker,I. Smith,B. Brown,B. Griffin,2
-L. Kennard,T. Maker,I. Smith,L. Galloway,Z. Pachulia,2
-L. Kennard,T. Maker,I. Smith,L. Galloway,Z. Pachulia,0
-L. Kennard,T. Maker,I. Smith,L. Galloway,Z. Pachulia,0
-L. Galloway,T. Maker,I. Smith,L. Kennard,A. Drummond,6
-W. Ellington,B. Griffin,R. Jackson,L. Kennard,A. Drummond,8
-W. Ellington,B. Griffin,R. Jackson,L. Kennard,A. Drummond,5
-W. Ellington,B. Griffin,R. Jackson,L. Kennard,A. Drummond,2
-W. Ellington,B. Griffin,R. Jackson,L. Galloway,A. Drummond,1
-W. Ellington,B. Griffin,R. Jackson,L. Galloway,A. Drummond,2
-W. Ellington,B. Griffin,R. Jackson,L. Galloway,A. Drummond,4
-W. Ellington,B. Griffin,R. Jackson,L. Galloway,T. Maker,2
-W. Ellington,B. Griffin,R. Jackson,L. Galloway,T. Maker,0
-W. Ellington,B. Griffin,R. Jackson,L. Galloway,T. Maker,1
-B. Brown,B. Griffin,R. Jackson,L. Galloway,T. Maker,0
-A. Drummond,W. Ellington,R. Jackson,B. Brown,B. Griffin,3
-T. Maker,W. Ellington,R. Jackson,B. Brown,B. Griffin,2
-T. Maker,L. Kennard,R. Jackson,B. Brown,B. Griffin,5
-T. Maker,L. Kennard,I. Smith,B. Brown,B. Griffin,5
-T. Maker,L. Kennard,I. Smith,L. Galloway,B. Griffin,4
-T. Maker,L. Kennard,I. Smith,L. Galloway,J. Leuer,3
-T. Maker,L. Kennard,I. Smith,L. Galloway,J. Leuer,0
-L. Galloway,I. Smith,A. Drummond,B. Griffin,E,6
-L. Galloway,I. Smith,A. Drummond,B. Griffin,E,0
-W. Ellington,R. Jackson,A. Drummond,B. Griffin,E,0
-W. Ellington,R. Jackson,A. Drummond,B. Griffin,E,7
-W. Ellington,R. Jackson,A. Drummond,B. Griffin,E,19
-W. Ellington,R. Jackson,L. Galloway,B. Griffin,E,0
+P. Millsap,J. Murray,W. Barton,G. Harris,N. Jokić,11
+P. Millsap,J. Murray,W. Barton,G. Harris,N. Jokić,2
+M. Morris,M. Plumlee,W. Barton,G. Harris,N. Jokić,5
+M. Morris,M. Plumlee,T. Craig,G. Harris,N. Jokić,1
+M. Morris,M. Plumlee,T. Craig,P. Millsap,J. Murray,0
+P. Millsap,J. Murray,T. Craig,M. Morris,M. Plumlee,16
+P. Millsap,J. Murray,T. Craig,M. Morris,M. Plumlee,7
+G. Harris,N. Jokić,T. Craig,M. Morris,M. Plumlee,0
+G. Harris,N. Jokić,W. Barton,M. Morris,M. Plumlee,0
+G. Harris,N. Jokić,W. Barton,M. Morris,M. Plumlee,0
+G. Harris,N. Jokić,W. Barton,J. Murray,M. Plumlee,2
+G. Harris,N. Jokić,W. Barton,J. Murray,P. Millsap,7
+G. Harris,N. Jokić,W. Barton,J. Murray,P. Millsap,8
+G. Harris,M. Plumlee,W. Barton,J. Murray,P. Millsap,1
+G. Harris,N. Jokić,W. Barton,J. Murray,P. Millsap,2
+G. Harris,N. Jokić,W. Barton,J. Murray,P. Millsap,0
+P. Millsap,J. Murray,G. Harris,N. Jokić,W. Barton,5
+P. Millsap,J. Murray,G. Harris,N. Jokić,W. Barton,0
+P. Millsap,J. Murray,G. Harris,N. Jokić,W. Barton,3
+M. Morris,M. Plumlee,G. Harris,N. Jokić,W. Barton,3
+M. Morris,M. Plumlee,G. Harris,N. Jokić,W. Barton,0
+M. Morris,M. Plumlee,T. Craig,P. Millsap,W. Barton,4
+M. Morris,M. Plumlee,T. Craig,P. Millsap,J. Murray,0
+T. Craig,M. Plumlee,M. Morris,P. Millsap,J. Murray,4
+G. Harris,M. Plumlee,M. Morris,P. Millsap,J. Murray,4
+G. Harris,M. Plumlee,M. Morris,P. Millsap,J. Murray,0
+G. Harris,N. Jokić,M. Morris,P. Millsap,J. Murray,0
+G. Harris,N. Jokić,W. Barton,P. Millsap,J. Murray,8
+G. Harris,T. Craig,W. Barton,P. Millsap,J. Murray,2

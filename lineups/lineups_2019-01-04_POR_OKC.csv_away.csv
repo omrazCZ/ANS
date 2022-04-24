@@ -1,26 +1,26 @@
-M. Harkless,C. McCollum,A. Aminu,J. Nurkić,D. Lillard,18
-E. Turner,C. McCollum,A. Aminu,J. Nurkić,D. Lillard,4
-E. Turner,S. Curry,A. Aminu,J. Nurkić,D. Lillard,4
-E. Turner,S. Curry,A. Aminu,J. Nurkić,D. Lillard,2
-E. Turner,S. Curry,Z. Collins,M. Leonard,D. Lillard,0
-S. Curry,J. Layman,M. Leonard,E. Turner,Z. Collins,19
-S. Curry,J. Layman,M. Leonard,E. Turner,Z. Collins,0
-C. McCollum,J. Layman,M. Leonard,E. Turner,Z. Collins,1
-C. McCollum,M. Harkless,D. Lillard,J. Nurkić,Z. Collins,1
-C. McCollum,M. Harkless,D. Lillard,J. Nurkić,A. Aminu,9
-C. McCollum,M. Harkless,D. Lillard,J. Nurkić,A. Aminu,4
-C. McCollum,M. Harkless,D. Lillard,J. Nurkić,A. Aminu,0
-M. Harkless,J. Nurkić,C. McCollum,D. Lillard,A. Aminu,12
-M. Harkless,J. Nurkić,C. McCollum,D. Lillard,A. Aminu,0
-E. Turner,J. Nurkić,C. McCollum,D. Lillard,A. Aminu,4
-E. Turner,M. Leonard,C. McCollum,D. Lillard,A. Aminu,2
-E. Turner,M. Leonard,S. Curry,D. Lillard,A. Aminu,7
-E. Turner,M. Leonard,S. Curry,D. Lillard,A. Aminu,0
-E. Turner,J. Nurkić,S. Curry,D. Lillard,A. Aminu,0
-S. Curry,J. Layman,M. Leonard,E. Turner,Z. Collins,3
-S. Curry,J. Layman,M. Leonard,E. Turner,Z. Collins,1
-C. McCollum,J. Layman,M. Leonard,E. Turner,Z. Collins,4
-C. McCollum,M. Harkless,D. Lillard,J. Nurkić,Z. Collins,0
-C. McCollum,M. Harkless,D. Lillard,J. Nurkić,A. Aminu,4
-C. McCollum,M. Harkless,D. Lillard,J. Nurkić,A. Aminu,8
-C. McCollum,M. Leonard,D. Lillard,E. Turner,A. Aminu,2
+T. Ferguson,R. Westbrook,S. Adams,J. Grant,P. George,15
+D. Schröder,R. Westbrook,S. Adams,J. Grant,P. George,3
+D. Schröder,R. Westbrook,S. Adams,J. Grant,P. George,5
+D. Schröder,A. Nader,S. Adams,J. Grant,P. George,0
+D. Schröder,A. Nader,N. Noel,P. Patterson,P. George,0
+H. Diallo,A. Nader,N. Noel,D. Schröder,P. Patterson,18
+T. Ferguson,R. Westbrook,N. Noel,D. Schröder,P. Patterson,0
+T. Ferguson,R. Westbrook,S. Adams,P. George,P. Patterson,3
+T. Ferguson,R. Westbrook,S. Adams,P. George,J. Grant,2
+T. Ferguson,R. Westbrook,S. Adams,P. George,J. Grant,3
+D. Schröder,R. Westbrook,S. Adams,P. George,J. Grant,7
+D. Schröder,T. Ferguson,S. Adams,P. George,J. Grant,0
+J. Grant,S. Adams,R. Westbrook,P. George,E,12
+D. Schröder,S. Adams,R. Westbrook,P. George,E,1
+D. Schröder,S. Adams,R. Westbrook,P. George,E,5
+D. Schröder,S. Adams,R. Westbrook,P. George,E,4
+D. Schröder,S. Adams,R. Westbrook,P. George,E,9
+D. Schröder,N. Noel,R. Westbrook,P. George,E,6
+D. Schröder,N. Noel,A. Nader,P. George,E,0
+H. Diallo,A. Nader,N. Noel,P. Patterson,D. Schröder,2
+R. Westbrook,A. Nader,N. Noel,P. Patterson,D. Schröder,4
+R. Westbrook,A. Nader,N. Noel,P. Patterson,D. Schröder,2
+R. Westbrook,S. Adams,T. Ferguson,P. George,J. Grant,2
+R. Westbrook,S. Adams,T. Ferguson,P. George,J. Grant,4
+R. Westbrook,S. Adams,D. Schröder,P. George,J. Grant,4
+R. Westbrook,S. Adams,D. Schröder,P. George,J. Grant,0

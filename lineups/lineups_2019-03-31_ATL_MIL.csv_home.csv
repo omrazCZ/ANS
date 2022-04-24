@@ -1,28 +1,28 @@
-S. Brown,B. Lopez,D. Wilson,T. Frazier,B. Colson,22
-P. Connaughton,G. Hill,E. İlyasova,T. Frazier,B. Colson,7
-P. Connaughton,G. Hill,E. İlyasova,T. Frazier,B. Colson,10
-P. Connaughton,G. Hill,E. İlyasova,T. Frazier,B. Colson,1
-P. Connaughton,S. Brown,D. Wilson,T. Frazier,B. Colson,0
-S. Brown,B. Colson,B. Lopez,D. Wilson,T. Frazier,7
-S. Brown,B. Colson,B. Lopez,D. Wilson,T. Frazier,1
-G. Hill,B. Colson,B. Lopez,D. Wilson,T. Frazier,7
-G. Hill,P. Connaughton,E. İlyasova,D. Wilson,T. Frazier,2
-G. Hill,P. Connaughton,E. İlyasova,B. Colson,T. Frazier,5
-S. Brown,P. Connaughton,E. İlyasova,B. Colson,T. Frazier,3
-S. Brown,P. Connaughton,E. İlyasova,B. Colson,T. Frazier,0
-S. Brown,G. Hill,D. Wilson,B. Colson,T. Frazier,0
-S. Brown,B. Lopez,D. Wilson,B. Colson,T. Frazier,16
-P. Connaughton,G. Hill,E. İlyasova,B. Colson,T. Frazier,4
-P. Connaughton,G. Hill,E. İlyasova,B. Colson,T. Frazier,2
-P. Connaughton,G. Hill,E. İlyasova,B. Colson,T. Frazier,5
-P. Connaughton,G. Hill,E. İlyasova,D. Wilson,T. Frazier,2
-P. Connaughton,S. Brown,B. Colson,D. Wilson,T. Frazier,0
-S. Brown,D. Wilson,B. Colson,B. Lopez,E,11
-P. Connaughton,G. Hill,B. Colson,B. Lopez,E,6
-P. Connaughton,G. Hill,E. İlyasova,D. Wilson,E,3
-P. Connaughton,G. Hill,E. İlyasova,D. Wilson,E,0
-S. Brown,G. Hill,E. İlyasova,D. Wilson,E,2
-S. Brown,B. Colson,P. Connaughton,B. Lopez,E,4
-S. Brown,G. Hill,P. Connaughton,B. Lopez,E,0
-S. Brown,D. Wilson,P. Connaughton,B. Lopez,E,2
-S. Brown,G. Hill,P. Connaughton,B. Lopez,E,13
+J. Anderson,A. Len,K. Huerter,J. Collins,T. Young,9
+K. Bazemore,V. Carter,K. Huerter,J. Collins,T. Young,0
+K. Bazemore,V. Carter,D. Bembry,J. Collins,T. Young,11
+K. Bazemore,V. Carter,D. Bembry,J. Adams,D. Davis,0
+K. Bazemore,V. Carter,D. Bembry,J. Adams,D. Davis,0
+D. Davis,D. Bembry,V. Carter,J. Adams,K. Huerter,10
+A. Len,D. Bembry,V. Carter,J. Adams,K. Huerter,9
+A. Len,J. Anderson,J. Collins,J. Adams,K. Huerter,11
+A. Len,J. Anderson,J. Collins,T. Young,K. Huerter,2
+A. Len,J. Anderson,J. Collins,T. Young,K. Huerter,6
+A. Len,J. Anderson,J. Collins,T. Young,K. Bazemore,3
+D. Davis,J. Anderson,J. Collins,T. Young,K. Bazemore,2
+D. Davis,J. Anderson,J. Collins,T. Young,K. Bazemore,0
+J. Anderson,J. Collins,A. Len,T. Young,K. Huerter,18
+J. Anderson,J. Collins,A. Len,T. Young,K. Huerter,8
+J. Adams,K. Bazemore,V. Carter,D. Davis,K. Huerter,3
+J. Adams,K. Bazemore,V. Carter,D. Davis,D. Bembry,4
+J. Adams,K. Bazemore,V. Carter,D. Davis,D. Bembry,0
+J. Adams,K. Bazemore,V. Carter,D. Davis,D. Bembry,0
+J. Adams,V. Carter,K. Huerter,K. Bazemore,D. Davis,6
+J. Collins,T. Young,K. Huerter,K. Bazemore,D. Davis,2
+J. Collins,T. Young,K. Huerter,K. Bazemore,D. Davis,5
+J. Collins,T. Young,J. Anderson,K. Bazemore,D. Davis,2
+J. Collins,T. Young,J. Anderson,K. Bazemore,D. Davis,2
+J. Collins,T. Young,J. Anderson,D. Bembry,A. Len,2
+J. Collins,T. Young,J. Anderson,D. Bembry,A. Len,3
+J. Collins,T. Young,J. Anderson,D. Bembry,A. Len,1
+J. Collins,T. Young,J. Anderson,D. Bembry,A. Len,17
