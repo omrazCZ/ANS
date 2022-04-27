@@ -1,0 +1,117 @@
+---
+title: "Sports Network"
+output: html_document
+---
+
+## Packages
+
+```{r message=FALSE, warning=FALSE}
+library(dplyr)
+library(tidygraph)
+library(ggraph)
+library(tidyverse)
+library(sna)
+library(igraph)
+library(visNetwork)
+library(networkD3)
+```
+
+## Import network data
+
+The dataset has two dataframes that we can use to get the information about nodes and the information about edges. We rename the columns of the matchup dataframe to fit the edges definition and we have an id to the lineup dataframe to refer to lineup players by their node id.
+
+The original dataset of matchups has lineups numbered from zero, but tidygraph (and most packages in R) have indices that start in 1. For that we add 1 to the entries of the edges table and also to lineup dable.
+```{r message=FALSE, warning=FALSE}
+lineup <- read_csv("lineups.csv")
+lineup$id <- lineup$id +1 
+names(lineup) <- c('id','label','team')
+matchups <- read_csv("matchups.csv")
+matchup <- matchups[,c("home_players","away_players","type","weight","home_team","away_team")]
+names(matchup) <- c('from','to','weight','score',"home_team","away_team")
+matchup$to <- matchup$to+1
+matchup$from <- matchup$from+1
+matchup$weight <- matchup$weight+2
+
+```
+
+
+## Create network
+
+Now both dataframes are ready to build a graph. With the function tbl_graph, we can use both dataframes, telling it to build an directed network with the parameter directed set to TRUE:
+```{r}
+basenet <- tbl_graph(nodes = lineup, edges = matchup, directed = T,node_key = "label")
+basenet
+```
+As you can see, the result has a nodes part with the name of lineup players and their node id. The edges have endpoints in the columns "to" and "from" and a weight column that gives the results of the matchups.
+
+## Network analysis
+
+```{r}
+basenet %>% activate(nodes) %>%  as_tibble() %>%
+  group_by(team)%>%
+  summarise(count = n() ) %>% arrange(count) -> n_lineups
+
+n_lineups
+```
+
+
+
+## Network plots
+
+Now we can plot this network. (Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.) Then we find that the network is too large to plot. Thus we tried to plot a subset of network.
+
+```{r pressure, echo=FALSE, warning=FALSE}
+# plot(basenet)
+basenet  %>% activate(edges) %>% filter(home_team %in% c("POR","CHA") & away_team %in% c("POR","CHA")) %>% activate(nodes) %>% filter(!node_is_isolated()) %>%
+  ggraph(layout = 'fr') + 
+  geom_node_point(aes(color = team),size=5)  + 
+  geom_node_text(aes(label=id))+
+  geom_edge_fan(alpha = .7, aes(linetype = factor(weight)), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
+  labs(linetype = "score") +
+  theme_graph()
+```
+### Only filterring on nodes will not work since there are too many isolated nodes.
+
+```{r warning=FALSE}
+basenet  %>% activate(nodes) %>% filter(team %in% c("POR","CHA")) %>% 
+  ggraph(layout = "fr") + 
+  geom_node_point(aes(color = team),size=5)  +
+  geom_node_text(aes(label=id))+
+  geom_edge_link(alpha = .7, aes(linetype = factor(weight)), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
+  theme_graph()
+```
+
+
+
+```{r warning=FALSE}
+induced_subgraph(
+  basenet,
+  vids = c(lineup$id[lineup$team %in% c("POR","CHA")]),
+  impl = c("auto")
+) %>%
+  ggraph(layout = 'fr') + 
+  geom_node_point(aes(color = team),size=5)  + 
+  #geom_node_text(aes(label=players)) +
+  geom_edge_link(alpha = .7,aes(linetype = factor(weight)), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
+  scale_linetype_manual(values=c( "dotted","solid","long dash" )) +
+  theme_graph()
+```
+
+
+### But we can also choose a subgraph and then filter the nonisolated nodes. In this way, we don't need to filter the edges.
+
+```{r warning=FALSE}
+subgraph <- to_subgraph(basenet, team %in% c("POR","CHA"), subset_by = "nodes")$subgraph 
+subgraph %>% activate(nodes) %>% filter(!node_is_isolated()) %>% ggraph(layout = 'fr') + 
+  geom_node_point(aes(color = team),size=5)  + 
+  geom_node_text(aes(label=id)) +
+  geom_edge_fan(alpha = .7,aes(linetype = factor(weight)), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
+  scale_linetype_manual(values=c( "dotted","solid","long dash" )) +
+  theme_graph()
+```
+
+
+```{r warning=FALSE}
+visNetwork(nodes = ,edges = )
+```
+
