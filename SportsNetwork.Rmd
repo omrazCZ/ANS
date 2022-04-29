@@ -14,6 +14,7 @@ library(sna)
 library(igraph)
 library(visNetwork)
 library(networkD3)
+library(caret)
 ```
 
 ## Import network data
@@ -25,13 +26,18 @@ The original dataset of matchups has lineups numbered from zero, but tidygraph (
 lineup <- read_csv("lineups.csv")
 lineup$id <- lineup$id +1 
 names(lineup) <- c('id','label','team')
+
 matchups <- read_csv("matchups.csv")
 matchup <- matchups[,c("home_players","away_players","type","weight","home_team","away_team")]
 names(matchup) <- c('from','to','weight','score',"home_team","away_team")
 matchup$to <- matchup$to+1
 matchup$from <- matchup$from+1
-matchup$weight <- matchup$weight+2
+matchup <- matchup[!(matchup$weight==0),]
+matchup$weight <- factor(matchup$weight)
 
+print(paste("# Lineups: ",nrow(lineup)))
+print(paste("# Matchups: ",nrow(matchups)))
+print(paste("# Matchups after filtering: ",nrow(matchup),"(differences:",nrow(matchups)-nrow(matchup),")"))
 ```
 
 
@@ -46,6 +52,7 @@ As you can see, the result has a nodes part with the name of lineup players and 
 
 ## Network analysis
 
+We can group the nodes by team to see how the lineups distribute over teams.
 ```{r}
 basenet %>% activate(nodes) %>%  as_tibble() %>%
   group_by(team)%>%
@@ -53,6 +60,253 @@ basenet %>% activate(nodes) %>%  as_tibble() %>%
 
 n_lineups
 ```
+
+
+Furthermore, we can calculate the degree centrality of each node. Since we have 4 cases for each node: positive in edge, positive out edge, negative in edge, negative in edge, the degree will also have 4 versions corresponding to each case.  
+```{r warning=FALSE}
+ pdegree <- basenet %>% 
+  activate(edges) %>% filter(weight == 1) %>%
+  activate(nodes) %>%
+  mutate(
+    Pin = centrality_degree(mode = "in"),
+    Pout = centrality_degree(mode = "out")
+  )  %>%
+  as_tibble()
+
+ndegree <- basenet %>% activate(edges) %>% filter(weight == -1) %>%
+  activate(nodes) %>%
+  mutate(
+    Nin = centrality_degree(mode = "in"),
+    Nout = centrality_degree(mode = "out"),
+#   degree = centrality_degree(mode = "all")
+  ) %>%
+  as_tibble()
+
+new_lineup <- inner_join(pdegree,ndegree,by=c("id","label","team"))
+```
+
+Total in/out degree for each node is as follows:
+```{r}
+basenet %>% 
+  activate(nodes) %>%
+  mutate(
+    in_degree = centrality_degree(mode = "in"),
+    out_degree = centrality_degree(mode = "out"),
+    degree = centrality_degree(mode = "all")
+  ) %>%
+  as_tibble()
+```
+Shortest path between each pair of nodes:
+Could try different ways to get shortest path
+```{r warning=FALSE}
+distances(
+  basenet,
+  v = V(basenet)[id==1], 
+  to=V(basenet)[id==3],
+  mode = "all",
+  weights = NULL,
+  algorithm = "automatic"
+)
+```
+
+
+
+
+An example to calculate shortest path.
+```{r}
+el <- matrix(ncol=3, byrow=TRUE,
+             c(1,3,1,2,4,1,3,4,1) )
+g2 <- add_edges(make_empty_graph(4), t(el[,1:2]), weight=el[,3])
+plot(g2)
+distances(g2,v=1, to=2,mode="in") #from 2 all pointed to 1
+distances(g2,v=1, to=2,mode="out") #from 1 all pointed to 2
+distances(g2,v=1, to=2,mode="all") #direction of edges ignored
+```
+
+
+
+
+Define a dataframe to store ISM features. 
+```{r warning=FALSE}
+
+pairs <- matchup %>% distinct(from, to, .keep_all = F)
+edge_centric <- data.frame(node1=numeric(), node2=numeric(),
+                           Pin_Pout=numeric(), Pin_Nout=numeric(), Nin_Pout=numeric(), Nin_Nout=numeric(),
+                           Pin_Pin=numeric(), Pin_Nin=numeric(), Nin_Pin=numeric(), Nin_Nin=numeric(),
+                           Pout_Pin=numeric(), Pout_Nin=numeric(), Nout_Pin=numeric(), Nout_Nin=numeric(),
+                           Pout_Pout=numeric(), Pout_Nout=numeric(), Nout_Pout=numeric(), Nout_Nout=numeric(),
+                           stringsAsFactors=FALSE) 
+
+```
+
+
+```{r}
+# input
+name_list <- names(edge_centric)[3:18] 
+
+# mapping
+map <- c(
+  "Pin_Pout" = c(1,1), "Pin_Nout" = c(1,-1), "Nin_Pout" = c(-1,1), "Nin_Nout" = c(-1,-1),
+  "Pin_Pin"= c(1,1),    "Pin_Nin"= c(1,-1),    "Nin_Pin"= c(-1,1),  "Nin_Nin"= c(-1,-1),   
+  "Pout_Pin"= c(1,1),   "Pout_Nin"= c(1,-1),   "Nout_Pin"= c(-1,1),  "Nout_Nin"= c(-1,-1),
+  "Pout_Pout"= c(1,1),  "Pout_Nout"= c(1,-1),  "Nout_Pout"= c(-1,1), "Nout_Nout"= c(-1,-1)
+  )
+
+ map[paste(name_list[1],1,sep="")] 
+ map[paste(name_list[1],2,sep="")]
+```
+
+Here is function of calculating ISM metrics
+```{r warning=FALSE}
+Inout <- function(lineup = new_lineup, matchup, source, target, names){
+    act1 <- strsplit(names, split = "_")[[1]][1]
+    act2 <- strsplit(names, split = "_")[[1]][2]
+    
+  
+    temp_net <- tbl_graph(nodes = lineup, edges = matchup, directed = T,node_key = "label")
+    # LSP: length of shortest paths
+    LSP <- distances(temp_net, v=V(temp_net)[id==source], to=V(temp_net)[id==target], mode="out")
+    
+    if (LSP == Inf){
+      LSP <- distances(temp_net, v=V(temp_net)[id==source], to=V(temp_net)[id==target], mode="all")
+    }
+    
+ #   edge_centric[t+1,names] <<- LSP
+    edge_centric[t,names] <<- lineup[lineup$id == i,act1] * lineup[lineup$id == j,act2] / (LSP*LSP)
+    
+}
+
+
+
+InInOutOut <- function(lineup = new_lineup, matchup, source, target, names){
+    act1 <- strsplit(names, split = "_")[[1]][1]
+    act2 <- strsplit(names, split = "_")[[1]][2]
+    temp_net <- tbl_graph(nodes = lineup, edges = matchup, directed = T,node_key = "label")
+    LSP <- distances(temp_net, v=V(temp_net)[id==source], to=V(temp_net)[id==target], mode="all")
+ #   edge_centric[t+1,names] <<- LSP
+    edge_centric[t,names] <<- lineup[lineup$id == i,act1] * lineup[lineup$id == j,act2] / (LSP*LSP)
+    
+}
+
+
+
+```
+
+
+
+Now we calculate the ISM metrics for each pair of nodes in 16 network views. (take ~ 2h)
+```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
+t= 1
+  
+for (row in c(1:nrow(pairs))){
+    i <- pairs$from[[row]]
+    edge_centric[row,"node1"] <- i 
+    j <- pairs$to[[row]]
+    edge_centric[row,"node2"] <- j 
+    # edge_centric[row,"class"] = "ISM"
+    # edge_centric[t+1,"node1"] = i
+    # edge_centric[t+1,"node2"] = j
+    # edge_centric[t+1,"class"] = "LSP"
+    
+    for (k in c(1:16)){
+      weight1<- map[paste(name_list[k],1,sep="")] 
+      weight2 <- map[paste(name_list[k],2,sep="")]
+      
+      if (k %in% c(1:4)){
+        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$from==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        Inout(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k])
+    }
+      else if (k %in% c(5:8)){
+        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        InInOutOut(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k])
+    }
+    
+      else if (k %in% c(9:12)){
+        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        Inout(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k])
+    }
+    
+      else {
+        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$from==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        Inout(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k])
+      }
+    }
+    
+    print(t)
+    t <- t+1
+    #t = t+2
+  
+} 
+
+# write.csv(edge_centric,"edge_centric.csv", row.names = T)
+```
+
+
+Special cases: how to deal with the edges between i & j when filtering edges. Now if there is a positive edge pointing from A to B, then "NinPin" will still keep that edge.
+
+
+Now we group multiple edges between two nodes which have the same direction by summing up the scores.  
+```{r warning=FALSE}
+edge_centric <- read.csv("edge_centric.csv",header = T)
+
+distinct_matchup <- matchup %>% 
+  group_by(from, to) %>%                            # multiple group columns
+  summarise(score = sum(score)) %>%
+  mutate(result = sign(score)) %>% ungroup()
+
+print(nrow(distinct_matchup))
+print(nrow(edge_centric))
+```
+
+
+
+
+
+
+## Model -- Logistic Regression
+```{r warning=FALSE}
+# Data
+data <-  distinct_matchup %>% inner_join(edge_centric,by=c("from"="node1","to"="node2"))
+data$result <- ifelse(data$result==1,"win","loss")
+# Inspect the data
+sample_n(data, 3)
+```
+
+
+```{r warning=FALSE}
+# Split the data into training and test set
+#set.seed(123)
+training.samples <- data$result %>% 
+  createDataPartition(p = 0.9, list = FALSE)
+train.data  <- data[training.samples, ]
+test.data <- data[-training.samples, ]
+
+# Fit the model
+model <- glm( factor(result) ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout,
+              data = train.data, family = binomial)
+# Summarize the model
+summary(model)
+# Make predictions
+probabilities <- model %>% predict(test.data, type = "response")
+predicted.classes <- ifelse(probabilities > 0.5, "win", "loss")
+# Model accuracy
+mean(predicted.classes == test.data$result)
+```
+
+
+```{r warning=FALSE}
+train.data %>%
+  mutate(prob = ifelse(result == "win", 1, 0)) %>%
+  ggplot(aes(Pout_Pin,prob)) +
+  geom_point(alpha = 0.2) +
+  geom_smooth(method = "glm", method.args = list(family = "binomial")) +
+  labs(
+    title = "Logistic Regression Model", 
+    x = "Feature",
+    y = "Probability of win"
+    )
+```
+
 
 
 
@@ -66,7 +320,7 @@ basenet  %>% activate(edges) %>% filter(home_team %in% c("POR","CHA") & away_tea
   ggraph(layout = 'fr') + 
   geom_node_point(aes(color = team),size=5)  + 
   geom_node_text(aes(label=id))+
-  geom_edge_fan(alpha = .7, aes(linetype = factor(weight)), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
+  geom_edge_fan(alpha = .7, aes(linetype = weight), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
   labs(linetype = "score") +
   theme_graph()
 ```
@@ -77,7 +331,7 @@ basenet  %>% activate(nodes) %>% filter(team %in% c("POR","CHA")) %>%
   ggraph(layout = "fr") + 
   geom_node_point(aes(color = team),size=5)  +
   geom_node_text(aes(label=id))+
-  geom_edge_link(alpha = .7, aes(linetype = factor(weight)), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
+  geom_edge_link(alpha = .7, aes(linetype = weight), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
   theme_graph()
 ```
 
@@ -92,7 +346,7 @@ induced_subgraph(
   ggraph(layout = 'fr') + 
   geom_node_point(aes(color = team),size=5)  + 
   #geom_node_text(aes(label=players)) +
-  geom_edge_link(alpha = .7,aes(linetype = factor(weight)), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
+  geom_edge_link(alpha = .7,aes(linetype = weight), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
   scale_linetype_manual(values=c( "dotted","solid","long dash" )) +
   theme_graph()
 ```
@@ -105,7 +359,7 @@ subgraph <- to_subgraph(basenet, team %in% c("POR","CHA"), subset_by = "nodes")$
 subgraph %>% activate(nodes) %>% filter(!node_is_isolated()) %>% ggraph(layout = 'fr') + 
   geom_node_point(aes(color = team),size=5)  + 
   geom_node_text(aes(label=id)) +
-  geom_edge_fan(alpha = .7,aes(linetype = factor(weight)), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
+  geom_edge_fan(alpha = .7,aes(linetype = weight), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
   scale_linetype_manual(values=c( "dotted","solid","long dash" )) +
   theme_graph()
 ```
