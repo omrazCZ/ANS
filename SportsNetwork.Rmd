@@ -157,15 +157,15 @@ map <- c(
  map[paste(name_list[1],2,sep="")]
 ```
 
-Here is function of calculating ISM metrics
+Here is a function for calculating ISM metrics
 ```{r warning=FALSE}
-Inout <- function(lineup = new_lineup, matchup, source, target, names){
+Inout <- function(lineup = new_lineup, matchup, source, target, names, t=row){
     act1 <- strsplit(names, split = "_")[[1]][1]
     act2 <- strsplit(names, split = "_")[[1]][2]
     
   
     temp_net <- tbl_graph(nodes = lineup, edges = matchup, directed = T,node_key = "label")
-    # LSP: length of shortest paths
+    # LSP: length of shortest path
     LSP <- distances(temp_net, v=V(temp_net)[id==source], to=V(temp_net)[id==target], mode="out")
     
     if (LSP == Inf){
@@ -179,7 +179,7 @@ Inout <- function(lineup = new_lineup, matchup, source, target, names){
 
 
 
-InInOutOut <- function(lineup = new_lineup, matchup, source, target, names){
+InInOutOut <- function(lineup = new_lineup, matchup, source, target, names, t=row){
     act1 <- strsplit(names, split = "_")[[1]][1]
     act2 <- strsplit(names, split = "_")[[1]][2]
     temp_net <- tbl_graph(nodes = lineup, edges = matchup, directed = T,node_key = "label")
@@ -191,56 +191,7 @@ InInOutOut <- function(lineup = new_lineup, matchup, source, target, names){
 
 ```
 
-Now we calculate the ISM metrics for each pair of nodes in 16 network views. (take ~ 2h)
-```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
-t= 1
-  
-for (row in c(1:nrow(pairs))){ # row <- 1
-  if (row %% 1000 == 0){
-    print(i)
-  }
-  
-    i <- pairs$from[[row]]
-    edge_centric[row,"node1"] <- i 
-    j <- pairs$to[[row]]
-    edge_centric[row,"node2"] <- j 
-    # edge_centric[row,"class"] = "ISM"
-    # edge_centric[t+1,"node1"] = i
-    # edge_centric[t+1,"node2"] = j
-    # edge_centric[t+1,"class"] = "LSP"
-    
-    for (k in c(1:16)){
-      weight1<- map[paste(name_list[k],1,sep="")] 
-      weight2 <- map[paste(name_list[k],2,sep="")]
-      
-      if (k %in% c(1:4)){
-        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$from==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        Inout(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k])
-    }
-      else if (k %in% c(5:8)){
-        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        InInOutOut(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k])
-    }
-    
-      else if (k %in% c(9:12)){
-        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        Inout(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k])
-    }
-    
-      else {
-        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$from==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        Inout(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k])
-      }
-    }
-    
-    print(t)
-    t <- t+1
-    #t = t+2
-  
-} 
-
-# write.csv(edge_centric,"edge_centric.csv", row.names = T)
-```
+Now we calculate the ISM metrics for each pair of nodes in 16 network views. (takes ~ 2h)
 
 Compile the functions.
 Then run compiled version.
@@ -248,48 +199,57 @@ Then run compiled version.
 InoutC <- cmpfun(Inout)
 InInOutOutC <- cmpfun(InInOutOut)
 
-  
-for (row in c(1:nrow(pairs))){ # row <- 1
-  if (row %% 100 == 0){
-    print(row)
-  }
-  
-    i <- pairs$from[[row]]
-    edge_centric[row,"node1"] <- i 
-    j <- pairs$to[[row]]
-    edge_centric[row,"node2"] <- j 
-    # edge_centric[row,"class"] = "ISM"
-    # edge_centric[t+1,"node1"] = i
-    # edge_centric[t+1,"node2"] = j
-    # edge_centric[t+1,"class"] = "LSP"
-    
-    for (k in c(1:16)){
-      weight1<- map[paste(name_list[k],1,sep="")] 
-      weight2 <- map[paste(name_list[k],2,sep="")]
-      
-      if (k %in% c(1:4)){
-        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$from==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        Inout(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k])
-    }
-      else if (k %in% c(5:8)){
-        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        InInOutOut(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k])
-    }
-    
-      else if (k %in% c(9:12)){
-        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        Inout(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k])
-    }
-    
-      else {
-        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$from==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        Inout(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k])
+getFeatures <- function(){
+  for (row in c(1:nrow(pairs))){ # row <- 1 start 15:00
+      if (row %% 100 == 0){
+        print(row)
       }
-    }
-  
-} 
+    
+      i <- pairs$from[[row]]
+      edge_centric[row,"node1"] <- i 
+      j <- pairs$to[[row]]
+      edge_centric[row,"node2"] <- j 
+      # edge_centric[row,"class"] = "ISM"
+      # edge_centric[row,"node1"] = i
+      # edge_centric[row,"node2"] = j
+      # edge_centric[row,"class"] = "LSP"
+      
+      for (k in c(1:4)){
+        weight1 <- map[paste(name_list[k],1,sep="")] 
+        weight2 <- map[paste(name_list[k],2,sep="")]
+        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        InoutC(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k], t=row)
+      }
+      
+      for (k in c(5:8)){
+        weight1 <- map[paste(name_list[k],1,sep="")] 
+        weight2 <- map[paste(name_list[k],2,sep="")]
+        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        InoutC(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k], t=row)
+      }
+      
+      for (k in c(9:12)){
+        weight1 <- map[paste(name_list[k],1,sep="")] 
+        weight2 <- map[paste(name_list[k],2,sep="")]
+        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        InInOutOutC(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k], t=row)
+      }
+      
+      for (k in c(13:16)){
+        weight1 <- map[paste(name_list[k],1,sep="")] 
+        weight2 <- map[paste(name_list[k],2,sep="")]
+        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        InInOutOutC(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k], t=row)
+      }
+      
+  }
+}
 
-# write.csv(edge_centric,"edge_centric.csv", row.names = T)
+getFeaturesC <- cmpfun(getFeatures)
+
+getFeaturesC()
+
+write.csv(edge_centric,"edge_centric.csv", row.names = F)
 ```
 
 Special cases: how to deal with the edges between i & j when filtering edges. Now if there is a positive edge pointing from A to B, then "NinPin" will still keep that edge.
@@ -357,8 +317,51 @@ train.data %>%
     )
 ```
 
+## SVM Model
+```{r}
+set.seed(1)
+library(e1071)
 
+trainDataScaled[-3] = scale(train.data[-3])
+testDataScaled[-3] = scale(test.data[-3])
 
+classifier = svm(formula = result ~ .,
+                 data = trainDataScaled,
+                 type = 'C-classification',
+                 kernel = 'linear') # TODO: try different kernels
+
+y_pred = predict(classifier, newdata = testDataScaled[-3])
+mean(y_pred == testDataScaled$result)
+
+```
+
+## Light GBM
+```{r}
+set.seed(1)
+library(Matrix)
+library(MLmetrics)
+library(lightgbm)
+
+trainDataScaled[-3] = scale(train.data[-3])
+testDataScaled[-3] = scale(test.data[-3])
+
+varnames = setdiff(colnames(trainDataScaled), c("id", "target"))
+
+train_sparse = Matrix(as.matrix(data[!is.na(target), varnames, with=F]), sparse=TRUE)
+test_sparse  = Matrix(as.matrix(data[is.na(target) , varnames, with=F]), sparse=TRUE)
+
+y_train  = data[!is.na(target),target]
+test_ids = data[is.na(target) ,id]
+
+classifier = svm(formula = result ~ .,
+                 data = trainDataScaled,
+                 type = 'C-classification',
+                 kernel = 'linear') # TODO: try different kernels
+
+y_pred = predict(classifier, newdata = testDataScaled[-3])
+mean(y_pred == testDataScaled$result)
+
+```
 
 ## Network plots
 
