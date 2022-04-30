@@ -29,8 +29,8 @@ lineup$id <- lineup$id +1
 names(lineup) <- c('id','label','team')
 
 matchups <- read_csv("matchups.csv")
-matchup <- matchups[,c("home_players","away_players","type","weight","home_team","away_team")]
-names(matchup) <- c('from','to','weight','score',"home_team","away_team")
+matchup <- matchups[,c("home_players","away_players","type","weight","home_team","away_team","time")]
+names(matchup) <- c('from','to','weight','score',"home_team","away_team","time")
 matchup$to <- matchup$to+1
 matchup$from <- matchup$from+1
 matchup <- matchup[!(matchup$weight==0),]
@@ -257,7 +257,7 @@ Special cases: how to deal with the edges between i & j when filtering edges. No
 
 Now we group multiple edges between two nodes which have the same direction by summing up the scores.  
 ```{r warning=FALSE}
-edge_centric <- read.csv("edge_centric.csv",header = T)
+edge_centric <- read.csv("edge_centric.csv")
 
 distinct_matchup <- matchup %>% 
   group_by(from, to) %>%                            # multiple group columns
@@ -285,7 +285,7 @@ sample_n(data, 3)
 
 ```{r warning=FALSE}
 # Split the data into training and test set
-#set.seed(123)
+set.seed(1)
 training.samples <- data$result %>% 
   createDataPartition(p = 0.9, list = FALSE)
 train.data  <- data[training.samples, ]
@@ -321,6 +321,11 @@ train.data %>%
 ```{r}
 set.seed(1)
 library(e1071)
+
+trainDataScaled <- train.data
+testDataScaled <- test.data
+
+trainDataScaled[c(5:20)] <- scale(trainDataScaled[c(5:20)])
 
 trainDataScaled[-3] = scale(train.data[-3])
 testDataScaled[-3] = scale(test.data[-3])
