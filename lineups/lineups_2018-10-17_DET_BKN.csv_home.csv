@@ -1,33 +1,33 @@
-B. Brown,L. Kennard,A. Drummond,R. Jackson,B. Griffin,2
-L. Galloway,L. Kennard,A. Drummond,R. Jackson,B. Griffin,6
-L. Galloway,G. Robinson,A. Drummond,R. Jackson,B. Griffin,3
-L. Galloway,G. Robinson,A. Drummond,R. Jackson,B. Griffin,3
-L. Galloway,G. Robinson,A. Drummond,R. Jackson,B. Griffin,3
-L. Galloway,G. Robinson,Z. Pachulia,I. Smith,B. Griffin,0
-Z. Lofton,L. Galloway,Z. Pachulia,G. Robinson,I. Smith,15
-R. Jackson,L. Galloway,Z. Pachulia,G. Robinson,I. Smith,5
-R. Jackson,B. Brown,Z. Pachulia,G. Robinson,I. Smith,2
-R. Jackson,B. Brown,A. Drummond,B. Griffin,I. Smith,2
-R. Jackson,B. Brown,A. Drummond,B. Griffin,I. Smith,0
-R. Jackson,B. Brown,A. Drummond,B. Griffin,I. Smith,8
-R. Jackson,L. Galloway,A. Drummond,B. Griffin,I. Smith,0
-A. Drummond,L. Kennard,B. Brown,B. Griffin,R. Jackson,18
-Z. Pachulia,L. Kennard,B. Brown,B. Griffin,R. Jackson,6
-Z. Pachulia,L. Galloway,B. Brown,B. Griffin,R. Jackson,1
-Z. Pachulia,L. Galloway,I. Smith,B. Griffin,R. Jackson,2
-Z. Pachulia,L. Galloway,I. Smith,B. Griffin,R. Jackson,2
-Z. Pachulia,L. Galloway,I. Smith,G. Robinson,R. Jackson,0
-Z. Pachulia,L. Galloway,I. Smith,G. Robinson,L. Kennard,1
-Z. Pachulia,L. Galloway,I. Smith,G. Robinson,L. Kennard,1
-B. Griffin,L. Galloway,I. Smith,G. Robinson,L. Kennard,0
-B. Griffin,L. Galloway,I. Smith,G. Robinson,B. Brown,2
-B. Griffin,L. Galloway,I. Smith,G. Robinson,B. Brown,0
-B. Brown,G. Robinson,I. Smith,A. Drummond,J,6
-L. Kennard,G. Robinson,I. Smith,A. Drummond,J,0
-L. Kennard,B. Griffin,R. Jackson,A. Drummond,J,3
-L. Kennard,B. Griffin,R. Jackson,A. Drummond,J,0
-I. Smith,B. Griffin,R. Jackson,A. Drummond,J,4
-I. Smith,B. Griffin,R. Jackson,A. Drummond,J,6
-G. Robinson,B. Griffin,R. Jackson,A. Drummond,J,0
-G. Robinson,B. Griffin,R. Jackson,I. Smith,J,1
-G. Robinson,B. Griffin,R. Jackson,I. Smith,J,1
+B. Brown,L. Kennard,A. Drummond,R. Jackson,B. Griffin,2,237
+L. Galloway,L. Kennard,A. Drummond,R. Jackson,B. Griffin,6,175
+L. Galloway,G. Robinson,A. Drummond,R. Jackson,B. Griffin,3,43
+L. Galloway,G. Robinson,A. Drummond,R. Jackson,B. Griffin,3,75
+L. Galloway,G. Robinson,A. Drummond,R. Jackson,B. Griffin,3,115
+L. Galloway,G. Robinson,Z. Pachulia,I. Smith,B. Griffin,7,75
+Z. Lofton,L. Galloway,Z. Pachulia,G. Robinson,I. Smith,8,216
+R. Jackson,L. Galloway,Z. Pachulia,G. Robinson,I. Smith,5,89
+R. Jackson,B. Brown,Z. Pachulia,G. Robinson,I. Smith,2,92
+R. Jackson,B. Brown,A. Drummond,B. Griffin,I. Smith,2,26
+R. Jackson,B. Brown,A. Drummond,B. Griffin,I. Smith,0,37
+R. Jackson,B. Brown,A. Drummond,B. Griffin,I. Smith,8,172
+R. Jackson,L. Galloway,A. Drummond,B. Griffin,I. Smith,2,88
+A. Drummond,L. Kennard,B. Brown,B. Griffin,R. Jackson,16,251
+Z. Pachulia,L. Kennard,B. Brown,B. Griffin,R. Jackson,6,85
+Z. Pachulia,L. Galloway,B. Brown,B. Griffin,R. Jackson,1,47
+Z. Pachulia,L. Galloway,I. Smith,B. Griffin,R. Jackson,2,33
+Z. Pachulia,L. Galloway,I. Smith,B. Griffin,R. Jackson,2,82
+Z. Pachulia,L. Galloway,I. Smith,G. Robinson,R. Jackson,0,5
+Z. Pachulia,L. Galloway,I. Smith,G. Robinson,L. Kennard,1,53
+Z. Pachulia,L. Galloway,I. Smith,G. Robinson,L. Kennard,1,92
+B. Griffin,L. Galloway,I. Smith,G. Robinson,L. Kennard,0,49
+B. Griffin,L. Galloway,I. Smith,G. Robinson,B. Brown,2,23
+B. Griffin,L. Galloway,I. Smith,G. Robinson,B. Brown,1,0
+B. Brown,G. Robinson,I. Smith,A. Drummond,J,5,162
+L. Kennard,G. Robinson,I. Smith,A. Drummond,J,0,100
+L. Kennard,B. Griffin,R. Jackson,A. Drummond,J,3,103
+L. Kennard,B. Griffin,R. Jackson,A. Drummond,J,0,16
+I. Smith,B. Griffin,R. Jackson,A. Drummond,J,4,137
+I. Smith,B. Griffin,R. Jackson,A. Drummond,J,6,187
+G. Robinson,B. Griffin,R. Jackson,A. Drummond,J,0,8
+G. Robinson,B. Griffin,R. Jackson,I. Smith,J,1,1
+G. Robinson,B. Griffin,R. Jackson,I. Smith,J,1,6

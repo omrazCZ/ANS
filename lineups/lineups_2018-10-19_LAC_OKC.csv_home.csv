@@ -1,32 +1,32 @@
-P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,16
-P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,0
-P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,5
-P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,3
-S. Gilgeous-Alexander,M. Gortat,D. Gallinari,A. Bradley,T. Harris,0
-S. Gilgeous-Alexander,M. Harrell,D. Gallinari,A. Bradley,T. Harris,0
-S. Gilgeous-Alexander,M. Harrell,L. Williams,A. Bradley,T. Harris,0
-S. Gilgeous-Alexander,M. Harrell,L. Williams,L. Mbah a Moute,T. Harris,0
-S. Gilgeous-Alexander,M. Harrell,L. Williams,L. Mbah a Moute,M. Scott,0
-M. Scott,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,7
-M. Scott,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,3
-B. Marjanović,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,0
-B. Marjanović,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,0
-B. Marjanović,D. Gallinari,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,0
-B. Marjanović,D. Gallinari,P. Beverley,T. Harris,L. Williams,1
-B. Marjanović,D. Gallinari,P. Beverley,T. Harris,A. Bradley,0
-M. Gortat,D. Gallinari,P. Beverley,T. Harris,A. Bradley,1
-M. Gortat,D. Gallinari,P. Beverley,T. Harris,A. Bradley,3
-M. Gortat,D. Gallinari,P. Beverley,T. Harris,A. Bradley,0
-T. Harris,M. Gortat,P. Beverley,D. Gallinari,A. Bradley,21
-L. Williams,M. Gortat,P. Beverley,D. Gallinari,A. Bradley,1
-L. Williams,M. Harrell,P. Beverley,D. Gallinari,A. Bradley,1
-L. Williams,M. Harrell,P. Beverley,D. Gallinari,A. Bradley,5
-L. Williams,M. Harrell,S. Gilgeous-Alexander,D. Gallinari,A. Bradley,2
-L. Williams,M. Harrell,S. Gilgeous-Alexander,T. Harris,A. Bradley,0
-L. Williams,B. Marjanović,S. Gilgeous-Alexander,T. Harris,A. Bradley,0
-L. Mbah,L. Mbah a Moute,T. Harris,B. Marjanović,L. Williams,14
-L. Mbah,L. Mbah a Moute,T. Harris,B. Marjanović,L. Williams,0
-L. Mbah,L. Mbah a Moute,T. Harris,B. Marjanović,L. Williams,20
-L. Mbah,L. Mbah a Moute,T. Harris,B. Marjanović,L. Williams,2
-L. Mbah,L. Mbah a Moute,T. Harris,B. Marjanović,L. Williams,2
-L. Mbah,L. Mbah a Moute,T. Harris,B. Marjanović,L. Williams,1
+P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,16,310
+P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,0,11
+P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,5,67
+P. Beverley,M. Gortat,D. Gallinari,A. Bradley,T. Harris,3,118
+S. Gilgeous-Alexander,M. Gortat,D. Gallinari,A. Bradley,T. Harris,0,10
+S. Gilgeous-Alexander,M. Harrell,D. Gallinari,A. Bradley,T. Harris,0,29
+S. Gilgeous-Alexander,M. Harrell,L. Williams,A. Bradley,T. Harris,0,37
+S. Gilgeous-Alexander,M. Harrell,L. Williams,L. Mbah a Moute,T. Harris,0,42
+S. Gilgeous-Alexander,M. Harrell,L. Williams,L. Mbah a Moute,M. Scott,3,96
+M. Scott,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,4,96
+M. Scott,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,3,69
+B. Marjanović,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,0,25
+B. Marjanović,M. Harrell,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,0,72
+B. Marjanović,D. Gallinari,S. Gilgeous-Alexander,L. Mbah a Moute,L. Williams,0,20
+B. Marjanović,D. Gallinari,P. Beverley,T. Harris,L. Williams,1,8
+B. Marjanović,D. Gallinari,P. Beverley,T. Harris,A. Bradley,0,83
+M. Gortat,D. Gallinari,P. Beverley,T. Harris,A. Bradley,1,63
+M. Gortat,D. Gallinari,P. Beverley,T. Harris,A. Bradley,3,40
+M. Gortat,D. Gallinari,P. Beverley,T. Harris,A. Bradley,9,244
+T. Harris,M. Gortat,P. Beverley,D. Gallinari,A. Bradley,12,312
+L. Williams,M. Gortat,P. Beverley,D. Gallinari,A. Bradley,1,53
+L. Williams,M. Harrell,P. Beverley,D. Gallinari,A. Bradley,1,15
+L. Williams,M. Harrell,P. Beverley,D. Gallinari,A. Bradley,5,160
+L. Williams,M. Harrell,S. Gilgeous-Alexander,D. Gallinari,A. Bradley,2,49
+L. Williams,M. Harrell,S. Gilgeous-Alexander,T. Harris,A. Bradley,0,94
+L. Williams,B. Marjanović,S. Gilgeous-Alexander,T. Harris,A. Bradley,2,37
+T. Harris,B. Marjanović,L. Mbah,L. Mbah a Moute,L. Williams,12,224
+T. Harris,B. Marjanović,L. Mbah,L. Mbah a Moute,L. Williams,0,6
+T. Harris,B. Marjanović,L. Mbah,L. Mbah a Moute,L. Williams,20,417
+T. Harris,B. Marjanović,L. Mbah,L. Mbah a Moute,L. Williams,2,18
+T. Harris,B. Marjanović,L. Mbah,L. Mbah a Moute,L. Williams,2,9
+T. Harris,B. Marjanović,L. Mbah,L. Mbah a Moute,L. Williams,1,46

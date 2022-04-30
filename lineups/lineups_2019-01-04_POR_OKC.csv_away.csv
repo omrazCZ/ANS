@@ -1,26 +1,26 @@
-T. Ferguson,R. Westbrook,S. Adams,J. Grant,P. George,15
-D. Schröder,R. Westbrook,S. Adams,J. Grant,P. George,3
-D. Schröder,R. Westbrook,S. Adams,J. Grant,P. George,5
-D. Schröder,A. Nader,S. Adams,J. Grant,P. George,0
-D. Schröder,A. Nader,N. Noel,P. Patterson,P. George,0
-H. Diallo,A. Nader,N. Noel,D. Schröder,P. Patterson,18
-T. Ferguson,R. Westbrook,N. Noel,D. Schröder,P. Patterson,0
-T. Ferguson,R. Westbrook,S. Adams,P. George,P. Patterson,3
-T. Ferguson,R. Westbrook,S. Adams,P. George,J. Grant,2
-T. Ferguson,R. Westbrook,S. Adams,P. George,J. Grant,3
-D. Schröder,R. Westbrook,S. Adams,P. George,J. Grant,7
-D. Schröder,T. Ferguson,S. Adams,P. George,J. Grant,0
-J. Grant,S. Adams,R. Westbrook,P. George,E,12
-D. Schröder,S. Adams,R. Westbrook,P. George,E,1
-D. Schröder,S. Adams,R. Westbrook,P. George,E,5
-D. Schröder,S. Adams,R. Westbrook,P. George,E,4
-D. Schröder,S. Adams,R. Westbrook,P. George,E,9
-D. Schröder,N. Noel,R. Westbrook,P. George,E,6
-D. Schröder,N. Noel,A. Nader,P. George,E,0
-H. Diallo,A. Nader,N. Noel,P. Patterson,D. Schröder,2
-R. Westbrook,A. Nader,N. Noel,P. Patterson,D. Schröder,4
-R. Westbrook,A. Nader,N. Noel,P. Patterson,D. Schröder,2
-R. Westbrook,S. Adams,T. Ferguson,P. George,J. Grant,2
-R. Westbrook,S. Adams,T. Ferguson,P. George,J. Grant,4
-R. Westbrook,S. Adams,D. Schröder,P. George,J. Grant,4
-R. Westbrook,S. Adams,D. Schröder,P. George,J. Grant,0
+T. Ferguson,R. Westbrook,S. Adams,J. Grant,P. George,15,409
+D. Schröder,R. Westbrook,S. Adams,J. Grant,P. George,3,91
+D. Schröder,R. Westbrook,S. Adams,J. Grant,P. George,5,57
+D. Schröder,A. Nader,S. Adams,J. Grant,P. George,0,76
+D. Schröder,A. Nader,N. Noel,P. Patterson,P. George,5,87
+H. Diallo,A. Nader,N. Noel,D. Schröder,P. Patterson,13,318
+T. Ferguson,R. Westbrook,N. Noel,D. Schröder,P. Patterson,0,36
+T. Ferguson,R. Westbrook,S. Adams,P. George,P. Patterson,3,65
+T. Ferguson,R. Westbrook,S. Adams,P. George,J. Grant,2,20
+T. Ferguson,R. Westbrook,S. Adams,P. George,J. Grant,3,114
+D. Schröder,R. Westbrook,S. Adams,P. George,J. Grant,7,161
+D. Schröder,T. Ferguson,S. Adams,P. George,J. Grant,1,6
+J. Grant,S. Adams,R. Westbrook,P. George,E,11,326
+D. Schröder,S. Adams,R. Westbrook,P. George,E,1,16
+D. Schröder,S. Adams,R. Westbrook,P. George,E,5,112
+D. Schröder,S. Adams,R. Westbrook,P. George,E,4,49
+D. Schröder,S. Adams,R. Westbrook,P. George,E,9,130
+D. Schröder,N. Noel,R. Westbrook,P. George,E,6,55
+D. Schröder,N. Noel,A. Nader,P. George,E,0,32
+H. Diallo,A. Nader,N. Noel,P. Patterson,D. Schröder,2,132
+R. Westbrook,A. Nader,N. Noel,P. Patterson,D. Schröder,4,40
+R. Westbrook,A. Nader,N. Noel,P. Patterson,D. Schröder,2,150
+R. Westbrook,S. Adams,T. Ferguson,P. George,J. Grant,2,64
+R. Westbrook,S. Adams,T. Ferguson,P. George,J. Grant,4,171
+R. Westbrook,S. Adams,D. Schröder,P. George,J. Grant,4,159
+R. Westbrook,S. Adams,D. Schröder,P. George,J. Grant,0,4

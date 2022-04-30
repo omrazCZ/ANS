@@ -6,6 +6,7 @@ output: html_document
 ## Packages
 
 ```{r message=FALSE, warning=FALSE}
+library(compiler)
 library(dplyr)
 library(tidygraph)
 library(ggraph)
@@ -188,17 +189,17 @@ InInOutOut <- function(lineup = new_lineup, matchup, source, target, names){
     
 }
 
-
-
 ```
-
-
 
 Now we calculate the ISM metrics for each pair of nodes in 16 network views. (take ~ 2h)
 ```{r message=FALSE, warning=FALSE, include=FALSE, paged.print=FALSE}
 t= 1
   
-for (row in c(1:nrow(pairs))){
+for (row in c(1:nrow(pairs))){ # row <- 1
+  if (row %% 1000 == 0){
+    print(i)
+  }
+  
     i <- pairs$from[[row]]
     edge_centric[row,"node1"] <- i 
     j <- pairs$to[[row]]
@@ -241,6 +242,55 @@ for (row in c(1:nrow(pairs))){
 # write.csv(edge_centric,"edge_centric.csv", row.names = T)
 ```
 
+Compile the functions.
+Then run compiled version.
+```{r}
+InoutC <- cmpfun(Inout)
+InInOutOutC <- cmpfun(InInOutOut)
+
+  
+for (row in c(1:nrow(pairs))){ # row <- 1
+  if (row %% 100 == 0){
+    print(row)
+  }
+  
+    i <- pairs$from[[row]]
+    edge_centric[row,"node1"] <- i 
+    j <- pairs$to[[row]]
+    edge_centric[row,"node2"] <- j 
+    # edge_centric[row,"class"] = "ISM"
+    # edge_centric[t+1,"node1"] = i
+    # edge_centric[t+1,"node2"] = j
+    # edge_centric[t+1,"class"] = "LSP"
+    
+    for (k in c(1:16)){
+      weight1<- map[paste(name_list[k],1,sep="")] 
+      weight2 <- map[paste(name_list[k],2,sep="")]
+      
+      if (k %in% c(1:4)){
+        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$from==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        Inout(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k])
+    }
+      else if (k %in% c(5:8)){
+        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        InInOutOut(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k])
+    }
+    
+      else if (k %in% c(9:12)){
+        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        Inout(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k])
+    }
+    
+      else {
+        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$from==j &   matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+        Inout(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k])
+      }
+    }
+  
+} 
+
+# write.csv(edge_centric,"edge_centric.csv", row.names = T)
+```
 
 Special cases: how to deal with the edges between i & j when filtering edges. Now if there is a positive edge pointing from A to B, then "NinPin" will still keep that edge.
 

@@ -13,6 +13,12 @@ else:
     game = 'basketball_pbp/pbp_2018-10-16_BOS_PHI.csv'
 '''
 
+def get_time(start, end):
+    time = 0
+    time += (int(start.split(':')[0]) - int(end.split(':')[0])) * 60
+    time += int(start.split(':')[1].split('.')[0]) - int(end.split(':')[1].split('.')[0])
+    return time
+
 pbp_dir = 'basketball_pbp'
 games = listdir(pbp_dir)
 
@@ -43,17 +49,10 @@ for game in games:
     hl = [[copy(start_home)],[copy(start_home)],[copy(start_home)],[copy(start_home)]]
     al = [[copy(start_away)],[copy(start_away)],[copy(start_away)],[copy(start_away)]]
 
-    home_lineups1 = [copy(start_home)]
-    away_lineups1 = [copy(start_away)]
-    home_lineups2 = [copy(start_home)]
-    away_lineups2 = [copy(start_away)]
-    home_lineups3 = [copy(start_home)]
-    away_lineups3 = [copy(start_away)]
-    home_lineups4 = [copy(start_home)]
-    away_lineups4 = [copy(start_away)]
-
     home_score = [0]
     away_score = [0]
+
+    times = [0]
 
     last_change = '12:0.0'
     last_team = None
@@ -96,12 +95,18 @@ for game in games:
             potential_home = []
             potential_away = []
 
+            last_line = data.iloc[i - 1]
+
+            home_score[-1] = last_line[-2] - sum(home_score[:-1])
+            away_score[-1] = last_line[-1] - sum(away_score[:-1])
+            times[-1] = get_time(last_change, '0:00.0')
+
+            home_score.append(0)
+            away_score.append(0)
+            times.append(0)
+
             q = int(cur_line[0]) - 1
             last_change = '12:00'
-
-            last_line = data.iloc[i - 1]
-            home_score.append(last_line[-2] - sum(home_score[:-1]))
-            away_score.append(last_line[-1] - sum(away_score[:-1]))
 
         if isinstance(cur_line[2], str) and 'enters' in cur_line[2]:
             #print('Home Lineup change')
@@ -110,19 +115,6 @@ for game in games:
             leaving_player = cur_line[2].split(' enters the game for ')[1]
 
             potential_home = [p for p in potential_home if p is not joining_player]
-            
-            '''old_lineup = copy(home_lineups[-1])
-            # If old_player is starter
-            if leaving_player not in home_lineups[-1]:
-                for j in range(5):
-                    if start_home[j] in home_lineups[-1]:
-                        new_lineup = old_lineup
-                        for k in range(len(home_lineups)):
-                            home_lineups[k][j] = leaving_player
-                        new_lineup[j] = joining_player
-                        break
-            else:
-                new_lineup = [i if i != leaving_player else joining_player for i in old_lineup]'''
             
             old_l = copy(hl[q][-1])
             # If old_player is starter
@@ -149,31 +141,14 @@ for game in games:
                 # Get score of previous lineup
                 home_score[-1] = cur_line[-2] - sum(home_score[:-1])
                 away_score[-1] = cur_line[-1] - sum(away_score[:-1])
+                times[-1] = get_time(last_change, cur_line[1])
 
                 home_score.append(0)
                 away_score.append(0)
+                times.append(0)
 
                 # Add new lineup
                 hl[q].append(new_lineup)
-
-            '''# 2 player changes at once
-            if cur_line[1] == last_change:
-                if last_team == 'Home':
-                    home_lineups[-1] = copy(new_lineup)
-                #else:
-                #    home_lineups.append(new_lineup)
-            else:
-                away_lineups.append(copy(away_lineups[-1]))
-                
-                # Get score of previous lineup
-                home_score[-1] = cur_line[-2] - sum(home_score[:-1])
-                away_score[-1] = cur_line[-1] - sum(away_score[:-1])
-
-                home_score.append(0)
-                away_score.append(0)
-
-                # Add new lineup
-                home_lineups.append(new_lineup)'''
 
             last_change = cur_line[1]
             last_team = 'Home'
@@ -185,19 +160,6 @@ for game in games:
             leaving_player = cur_line[3].split(' enters the game for ')[1]        
 
             potential_away = [p for p in potential_away if p is not joining_player]
-
-            '''old_lineup = copy(away_lineups[-1])
-            # If old_player is starter
-            if leaving_player not in away_lineups[-1]:
-                for j in range(5):
-                    if start_away[j] in away_lineups[-1]:
-                        new_lineup = old_lineup
-                        for k in range(len(away_lineups)):
-                            away_lineups[k][j] = leaving_player
-                        new_lineup[j] = joining_player
-                        break
-            else:
-                new_lineup = [i if i != leaving_player else joining_player for i in old_lineup]'''
 
             old_l = copy(al[q][-1])
             # If old_player is starter
@@ -224,31 +186,14 @@ for game in games:
                 # Get score of previous lineup
                 home_score[-1] = cur_line[-2] - sum(home_score[:-1])
                 away_score[-1] = cur_line[-1] - sum(away_score[:-1])
+                times[-1] = get_time(last_change, cur_line[1])
 
                 home_score.append(0)
                 away_score.append(0)
+                times.append(0)
 
                 # Add new lineup
                 al[q].append(new_lineup)
-
-            '''# 2 player changes at once
-            if cur_line[1] == last_change:
-                if last_team == 'Away':
-                    away_lineups[-1] = copy(new_lineup)
-                #else:
-                #    away_lineups.append(new_lineup)
-            else:
-                home_lineups.append(copy(home_lineups[-1]))
-
-                # Get score of previous lineup
-                home_score[-1] = cur_line[-2] - sum(home_score[:-1])
-                away_score[-1] = cur_line[-1] - sum(away_score[:-1])
-
-                home_score.append(0)
-                away_score.append(0)
-                
-                # Add new lineup
-                away_lineups.append(new_lineup)'''
             
             last_change = cur_line[1]
             last_team = 'Away'
@@ -306,6 +251,7 @@ for game in games:
     last_line = data.iloc[-1]
     home_score[-1] = last_line[-2] - sum(home_score[:-1])
     away_score[-1] = last_line[-1] - sum(away_score[:-1])
+    times[-1] = get_time(last_change, '0:00.0')
 
     # COLLECT NON-CHANGED PLAYER NAMES
 
@@ -314,17 +260,11 @@ for game in games:
 
     for i in range(len(home_final)):
         home_final[i].append(home_score[i])
+        home_final[i].append(times[i])
 
     for i in range(len(away_final)):
         away_final[i].append(away_score[i])
-
-    '''home_final = []
-    away_final = []
-    for i in range(len(home_lineups)):
-        home_final.append(copy(home_lineups[i][:6]))
-
-    for i in range(len(away_lineups)):
-        away_final.append(copy(away_lineups[i][:6]))'''
+        away_final[i].append(times[i])
 
     with open('lineups/lineups_' + game.split('pbp_')[1] + '_away.csv', 'w', newline='', encoding='utf-8') as csvfile:
         writer = csv.writer(csvfile)
