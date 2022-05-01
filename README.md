@@ -1,5 +1,7 @@
 # Sports Network Analysis
-Predicting performance of basketball teams
+
+## Task
+Predict performance of basketball matchups between two lineups from Home team and Away team, respectively. 
 
 The dataset can be found at https://www.kaggle.com/datasets/wyattowalsh/basketball as part of a Kaggle Challenge. We provide the data tables transformed into csv files.
 
@@ -13,3 +15,7 @@ Some of the files are too large, therefore we provide a script convert_data.py t
 Basketball lineup data can be fetched using the basketball_reference_scraper library with the script
 
 basketball_reference_api.py
+
+
+
+## Result
