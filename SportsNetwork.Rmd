@@ -276,7 +276,7 @@ print(nrow(edge_centric))
 ## Model -- Logistic Regression
 ```{r warning=FALSE}
 # Data
-data <-  distinct_matchup %>% inner_join(edge_centric,by=c("from"="node1","to"="node2"))
+data <- edge_centric %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
 data$result <- ifelse(data$result==1,"win","loss")
 # Inspect the data
 sample_n(data, 3)
@@ -332,8 +332,8 @@ library(e1071)
 trainDataScaled <- train.data
 testDataScaled <- test.data
 
-trainDataScaled[c(5:20)] <- scale(trainDataScaled[c(5:20)])
-testDataScaled[c(5:20)] <- scale(testDataScaled[c(5:20)])
+trainDataScaled[c(3:18)] <- scale(trainDataScaled[c(3:18)])
+testDataScaled[c(3:18)] <- scale(testDataScaled[c(3:18)])
 
 trainDataScaled$result <- ifelse(trainDataScaled$result=="win", 1, 0)
 testDataScaled$result <- ifelse(testDataScaled$result=="win", 1, 0)
@@ -440,7 +440,7 @@ mean(y_pred == testDataScaled$result)
 ```{r}
 library("randomForest")
 
-model <- randomForest(result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=trainDataScaled, maxnodes = 5, ntree = 10)
+model <- randomForest(result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=trainDataScaled, type="classification", maxnodes = 5, ntree = 10)
 ```
 
 ## Network plots
