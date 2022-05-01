@@ -457,7 +457,7 @@ basenet  %>% activate(edges) %>% filter(home_team %in% c("POR","CHA") & away_tea
   labs(linetype = "score") +
   theme_graph()
 ```
-### Only filterring on nodes will not work since there are too many isolated nodes.
+ Only filterring on nodes will not work since there are too many isolated nodes.
 
 ```{r warning=FALSE}
 basenet  %>% activate(nodes) %>% filter(team %in% c("POR","CHA")) %>% 
@@ -485,7 +485,7 @@ induced_subgraph(
 ```
 
 
-### But we can also choose a subgraph and then filter the nonisolated nodes. In this way, we don't need to filter the edges.
+ But we can also choose a subgraph and then filter the nonisolated nodes. In this way, we don't need to filter the edges.
 
 ```{r warning=FALSE}
 subgraph <- to_subgraph(basenet, team %in% c("POR","CHA"), subset_by = "nodes")$subgraph 
