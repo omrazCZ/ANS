@@ -59,7 +59,7 @@ Example plots of lineups from two opposing team and their matchups can be seen u
 ## Models
 We try out common Machine Learning models with ISM network features to predict the results of matchups(given the edge and its direction): Logistic Regression(paper's method), SVM, Gaussian processes, Light GBM, Random forests, Ensemble, etc. 
 
-To generate the ISM features for each distinct pair of nodes, we calculated the positive(negative) inout) degree for each node and found the length of shortest path in view of 16 networks.
+To generate the ISM features for each distinct pair of nodes, we calculated the positive(negative) in(out) degree for each node and found the length of shortest path in view of 16 networks.
 
 Also, we group by edges that have the same direction by summing up all the scores and take the sign as the final result for that pair of nodes.  
 
