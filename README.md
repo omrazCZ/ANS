@@ -16,6 +16,42 @@ Basketball lineup data can be fetched using the basketball_reference_scraper lib
 
 basketball_reference_api.py
 
+## User Guide
 
+... How to generate data ...
 
-## Result
+To run our models the SportsNetwork.Rmd file can be used directly. 
+
+Note: The cell labeled 'ISM Metrics' takes a long time to recompute and may be skipped.
+
+## Results
+
+Logistic regression
+
+Accuracy: 0.86
+
+SVM (linear kernel)
+
+Accuracy: 0.88
+
+SVM (polynomial kernel)
+
+Accuracy: 0.53
+
+SVM (RBF kernel)
+
+Accuracy: 0.97
+
+SVM (sigmoid kernel)
+
+Accuracy: 0.69
+
+### In progress
+
+Random forrests
+
+Ensemble classifiers
+
+Light GBM
+
+Additional input parameters (e.g. matchup duration), or weighing of the ISM metric.

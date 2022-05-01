@@ -177,8 +177,7 @@ Inout <- function(lineup = new_lineup, matchup, source, target, names, t=row){
     
 }
 
-
-
+# More efficient version of InOut (we know that we must disregard the direction of edges in this case)
 InInOutOut <- function(lineup = new_lineup, matchup, source, target, names, t=row){
     act1 <- strsplit(names, split = "_")[[1]][1]
     act2 <- strsplit(names, split = "_")[[1]][2]
@@ -191,11 +190,16 @@ InInOutOut <- function(lineup = new_lineup, matchup, source, target, names, t=ro
 
 ```
 
-Now we calculate the ISM metrics for each pair of nodes in 16 network views. (takes ~ 2h)
 
-Compile the functions.
-Then run compiled version.
+ISM Metrics
 ```{r}
+# Now we calculate the ISM metrics for each pair of nodes in 16 network views. (takes ~ 2h)
+# May be skipped.
+
+#Compile the functions.
+#Then run compiled version.
+
+
 InoutC <- cmpfun(Inout)
 InInOutOutC <- cmpfun(InInOutOut)
 
@@ -249,7 +253,7 @@ InInOutOutC <- cmpfun(InInOutOut)
 
 #getFeaturesC()
 
-write.csv(edge_centric,"edge_centric.csv", row.names = F)
+write.csv(edge_centric, "edge_centric.csv", row.names = F)
 ```
 
 Special cases: how to deal with the edges between i & j when filtering edges. Now if there is a positive edge pointing from A to B, then "NinPin" will still keep that edge.
@@ -281,15 +285,18 @@ data$result <- ifelse(data$result==1,"win","loss")
 # Inspect the data
 sample_n(data, 3)
 ```
+
 Train/test split
 ```{r}
 # Split the data into training and test set
+
 set.seed(1)
 training.samples <- data$result %>% 
   createDataPartition(p = 0.9, list = FALSE)
 train.data  <- data[training.samples, ]
 test.data <- data[-training.samples, ]
 
+# The first 80% of matchups will be used for training, rest for testing (since we want to predict future results)
 trainPrecentage <- 0.8
 train.data <- data[1:floor(0.8*nrow(data)),]
 test.data <- data[(floor(0.8*nrow(data))+1):nrow(data),]
@@ -332,6 +339,7 @@ library(e1071)
 trainDataScaled <- train.data
 testDataScaled <- test.data
 
+# Scale data into uniform interval
 trainDataScaled[c(3:18)] <- scale(trainDataScaled[c(3:18)])
 testDataScaled[c(3:18)] <- scale(testDataScaled[c(3:18)])
 
@@ -341,12 +349,14 @@ testDataScaled$result <- ifelse(testDataScaled$result=="win", 1, 0)
 trainDataScaled <- replace(trainDataScaled, is.na(trainDataScaled), 0)
 testDataScaled <- replace(testDataScaled, is.na(testDataScaled), 0)
 
+# Fit the model
 classifier = svm(formula = result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout,
                  data = trainDataScaled,
                  type = 'C-classification',
                  kernel = 'linear') # TODO: try different kernels
 
 y_pred = predict(classifier, newdata = testDataScaled)
+# Get the accuracy
 mean(y_pred == testDataScaled$result)
 
 ```
@@ -371,7 +381,7 @@ for (i in kernels){
   print(mean(y_pred == testDataScaled$result))
 }
 ```
-## Gaussian processes
+## Gaussian processes - In progress
 ```{r}
 library(mlegp)
 library(caTools) 
@@ -388,6 +398,17 @@ print("Gaussian Process Accuracy: ")
 print(mean(y_pred == testDataScaled$result))
 
 ```
+
+```{r}
+res <- (y_pred == testDataScaled$result)
+
+write.csv(res, "res.csv", row.names = F)
+
+
+
+```
+
+
 Try different kernels # TODO later, takes too long
 ```{r}
 gpKernels = c("rbfdot", "vanilladot", "tanhdot", "laplacedot", "besseldot")
@@ -407,7 +428,7 @@ summary(model)
 
 
 
-## Light GBM
+## Light GBM - In progress
 ```{r}
 set.seed(1)
 library(Matrix)
@@ -435,7 +456,7 @@ mean(y_pred == testDataScaled$result)
 
 ```
 
-## Random Forrests, Ensemble
+## Random Forrests, Ensemble - In progress
 
 ```{r}
 library("randomForest")
