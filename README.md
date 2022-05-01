@@ -91,9 +91,13 @@ SVM (sigmoid kernel)
 Accuracy: 0.69
 
 ### In progress
+
 Random forrests
+
 Ensemble classifiers
+
 Light GBM
+
 Additional input parameters (e.g. matchup duration), or weighing of the ISM metric.
 
 
