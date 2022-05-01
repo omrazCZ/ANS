@@ -281,9 +281,8 @@ data$result <- ifelse(data$result==1,"win","loss")
 # Inspect the data
 sample_n(data, 3)
 ```
-
-
-```{r warning=FALSE}
+Train/test split
+```{r}
 # Split the data into training and test set
 set.seed(1)
 training.samples <- data$result %>% 
@@ -291,7 +290,15 @@ training.samples <- data$result %>%
 train.data  <- data[training.samples, ]
 test.data <- data[-training.samples, ]
 
+trainPrecentage <- 0.8
+train.data <- data[1:floor(0.8*nrow(data)),]
+test.data <- data[(floor(0.8*nrow(data))+1):nrow(data),]
+```
+
+Logistic regression (paper's approach)
+```{r warning=FALSE}
 # Fit the model
+set.seed(1)
 model <- glm( factor(result) ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout,
               data = train.data, family = binomial)
 # Summarize the model
@@ -328,10 +335,13 @@ testDataScaled <- test.data
 trainDataScaled[c(5:20)] <- scale(trainDataScaled[c(5:20)])
 testDataScaled[c(5:20)] <- scale(testDataScaled[c(5:20)])
 
+trainDataScaled$result <- ifelse(trainDataScaled$result=="win", 1, 0)
+testDataScaled$result <- ifelse(testDataScaled$result=="win", 1, 0)
+
 trainDataScaled <- replace(trainDataScaled, is.na(trainDataScaled), 0)
 testDataScaled <- replace(testDataScaled, is.na(testDataScaled), 0)
 
-classifier = svm(formula = result ~ .,
+classifier = svm(formula = result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout,
                  data = trainDataScaled,
                  type = 'C-classification',
                  kernel = 'linear') # TODO: try different kernels
@@ -340,6 +350,62 @@ y_pred = predict(classifier, newdata = testDataScaled)
 mean(y_pred == testDataScaled$result)
 
 ```
+
+Try different kernels
+Sigmoid seems to perform best.
+```{r}
+kernels = c('linear', 'polynomial', 'radial', 'sigmoid')
+for (i in kernels){
+  set.seed(1)
+  
+  print(i)
+  
+  classifier = svm(formula = result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout,
+                 data = trainDataScaled,
+                 type = 'C-classification',
+                 kernel = i)
+
+  y_pred = predict(classifier, newdata = testDataScaled)
+  
+  print("Accuracy: ")
+  print(mean(y_pred == testDataScaled$result))
+}
+```
+## Gaussian processes
+```{r}
+library(mlegp)
+library(caTools) 
+library(caret)  
+library(kernlab)
+
+set.seed(1)
+model <- gausspr(result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=trainDataScaled, kernel="vanilladot")
+summary(model)
+
+y_pred = predict(model, testDataScaled)
+  
+print("Gaussian Process Accuracy: ")
+print(mean(y_pred == testDataScaled$result))
+
+```
+Try different kernels # TODO later, takes too long
+```{r}
+gpKernels = c("rbfdot", "vanilladot", "tanhdot", "laplacedot", "besseldot")
+
+for (i in gpKernels){
+  set.seed(1)
+  
+  model <- gausspr(result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=trainDataScaled, kernel=i)
+summary(model)
+
+  y_pred = predict(model, testDataScaled)
+  
+  print("Gaussian Process Accuracy: ")
+  print(mean(y_pred == testDataScaled$result))
+}
+```
+
+
 
 ## Light GBM
 ```{r}
@@ -367,6 +433,14 @@ classifier = svm(formula = result ~ .,
 y_pred = predict(classifier, newdata = testDataScaled[-3])
 mean(y_pred == testDataScaled$result)
 
+```
+
+## Random Forrests, Ensemble
+
+```{r}
+library("randomForest")
+
+model <- randomForest(result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=trainDataScaled, maxnodes = 5, ntree = 10)
 ```
 
 ## Network plots
@@ -406,7 +480,7 @@ induced_subgraph(
   geom_node_point(aes(color = team),size=5)  + 
   #geom_node_text(aes(label=players)) +
   geom_edge_link(alpha = .7,aes(linetype = weight), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
-  scale_linetype_manual(values=c( "dotted","solid","long dash" )) +
+  scale_linetype_manual(values=c("dotted","solid","long dash")) +
   theme_graph()
 ```
 
