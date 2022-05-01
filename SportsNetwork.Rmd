@@ -276,7 +276,7 @@ print(nrow(edge_centric))
 ## Model -- Logistic Regression
 ```{r warning=FALSE}
 # Data
-data <-  distinct_matchup %>% inner_join(edge_centric,by=c("from"="node1","to"="node2"))
+data <-  edge_centric %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
 data$result <- ifelse(data$result==1,"win","loss")
 # Inspect the data
 sample_n(data, 3)
