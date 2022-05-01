@@ -199,7 +199,7 @@ Then run compiled version.
 InoutC <- cmpfun(Inout)
 InInOutOutC <- cmpfun(InInOutOut)
 
-getFeatures <- function(){
+#getFeatures <- function(){
   for (row in c(1:nrow(pairs))){ # row <- 1 start 15:00
       if (row %% 100 == 0){
         print(row)
@@ -243,11 +243,11 @@ getFeatures <- function(){
       }
       
   }
-}
+#}
 
-getFeaturesC <- cmpfun(getFeatures)
+#getFeaturesC <- cmpfun(getFeatures)
 
-getFeaturesC()
+#getFeaturesC()
 
 write.csv(edge_centric,"edge_centric.csv", row.names = F)
 ```
@@ -326,16 +326,17 @@ trainDataScaled <- train.data
 testDataScaled <- test.data
 
 trainDataScaled[c(5:20)] <- scale(trainDataScaled[c(5:20)])
+testDataScaled[c(5:20)] <- scale(testDataScaled[c(5:20)])
 
-trainDataScaled[-3] = scale(train.data[-3])
-testDataScaled[-3] = scale(test.data[-3])
+trainDataScaled <- replace(trainDataScaled, is.na(trainDataScaled), 0)
+testDataScaled <- replace(testDataScaled, is.na(testDataScaled), 0)
 
 classifier = svm(formula = result ~ .,
                  data = trainDataScaled,
                  type = 'C-classification',
                  kernel = 'linear') # TODO: try different kernels
 
-y_pred = predict(classifier, newdata = testDataScaled[-3])
+y_pred = predict(classifier, newdata = testDataScaled)
 mean(y_pred == testDataScaled$result)
 
 ```
