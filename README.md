@@ -92,7 +92,7 @@ Accuracy: 0.69
 
 ### In progress
 
-Random forrests
+Random forests
 
 Ensemble classifiers
 
