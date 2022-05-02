@@ -5,7 +5,7 @@
 Predict the results of basketball matchups between two lineups from the Home team and Away team, respectively. 
 
 ## Introduction 
-Our work can be summarized into four parts: _Data Collection, Data Cleaning, Network analysis_ and _Buildnig models_. And we also provide a summary of results in _Results_ section.
+Our work can be summarized into four parts: _Data Collection, Data Cleaning, Network analysis_ and _Building models_. And we also provide a summary of results in _Results_ section.
 
 
 ## Collect data
