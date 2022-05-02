@@ -2,10 +2,10 @@
 
 
 ## Task
-Predict the results of basketball matchups between two lineups from Home team and Away team, respectively. 
+Predict the results of basketball matchups between two lineups from the Home team and Away team, respectively. 
 
 ## Introduction 
-Our work can be summarized into four parts: _Collect data, Clean data, Network analysis_ and _Build models_. And we also provide the summary of results in _Result_ section.
+Our work can be summarized into four parts: _Data Collection, Data Cleaning, Network analysis_ and _Buildnig models_. And we also provide a summary of results in _Results_ section.
 
 
 ## Collect data
@@ -36,7 +36,7 @@ FNext step, lineups and matchups are extracted using the script:
 ```get_lineups.py```
 
 
-The Play-By-Play and lineups per-game data are put in _basketball_pbp_ and _lineups_ folder, respectively. Lineups from Hometeam and Awayteam are separated.
+The Play-By-Play and lineups per-game data are put in _basketball_pbp_ and _lineups_ folder, respectively. Lineups from the Hometeam and Awayteam are separated.
 
 ## Clean data
 The lineups and matchups data are cleaned using the script:
@@ -48,7 +48,7 @@ The outputs are two csv files: "lineups.csv" and "matchup.csv". Lineups provide 
 
 ## Network Analysis
 
-We build a directed network from the cleaned matchups and lineups data. In this network, nodes are distinct lineups and edges are matchups, which always start from Hometeam and point to Awayteam. Notice that there could be multiple edges between two nodes with the same direction. We drops the edges corresponding to a _tie_ result since it will include additional bias if treating them as either win or loss.  
+We build a directed network from the cleaned matchups and lineups data. In this network, nodes are distinct lineups and edges are matchups, which always start from the Hometeam and point to Awayteam. Notice that there could be multiple edges between two nodes with the same direction. Furthermore we drop the edges corresponding to a _tie_ result since it will include additional bias if we treat them as either win or loss.  
 
 The code is in R Markdown file: 
 
@@ -57,11 +57,11 @@ The code is in R Markdown file:
 Example plots of lineups from two opposing team and their matchups can be seen under the section _Network plots_.
 
 ## Models
-We try out common Machine Learning models with ISM network features to predict the results of matchups(given the edge and its direction): Logistic Regression(paper's method), SVM, Gaussian processes, Light GBM, Random forests, Ensemble, etc. 
+We tried out common Machine Learning models with ISM network features to predict the results of matchups(given the edge and its direction): Logistic Regression(paper's method), SVM, Gaussian processes, Light GBM, Random forests, Ensemble, etc. 
 
-To generate the ISM features for each distinct pair of nodes, we calculated the positive(negative) in(out) degree for each node and found the length of shortest path in view of 16 networks.
+To generate the ISM features for each distinct pair of nodes, we calculated the positive(negative) in(out) degree for each node and found the length of shortest path in the view of 16 networks.
 
-Also, we group by edges that have the same direction by summing up all the scores and take the sign as the final result for that pair of nodes.  
+Also, we group by edges that have the same direction (simply summing up all the scores) and take the sign as the final result for that pair of nodes.  
 
 The features are then used as input to the models.
 
@@ -71,9 +71,9 @@ The code is in R Markdown file:
 
 Note: The cell labeled 'ISM Metrics' takes a long time to recompute and may be skipped.
 
-The generated features are put in the csv file: "edge_centric.csv".
+The generated features are stored in the csv file: "edge_centric.csv".
 
-## Result
+## Results
 
 Logistic regression
 Accuracy: 0.86
@@ -103,7 +103,7 @@ Additional input parameters (e.g. matchup duration), or weighing of the ISM metr
 
 
 ## Other data 
-The folder "basketball_data"(The dataset can be found at https://www.kaggle.com/datasets/wyattowalsh/basketball as part of a Kaggle Challenge. We provide the data tables transformed into csv files.), "english-premier-league_zip", "soccer_data"(Soccer dataset available at https://www.kaggle.com/datasets/hugomathien/soccer as part of a challenge.) are sports data that we collected but didn't use here, which can be saved for future research. 
+The folder "basketball_data"(The dataset can be found at https://www.kaggle.com/datasets/wyattowalsh/basketball as part of a Kaggle Challenge. We provide the data tables transformed into csv files.), "english-premier-league_zip", "soccer_data"(Soccer dataset available at https://www.kaggle.com/datasets/hugomathien/soccer as part of a challenge.) are sports data that we collected but did not use here, they can be saved for future research. 
 
 Some of the files are too large, therefore we provide a script convert_data.py to generate them localy (assuming you have dowloaded the sqlite files from Kaggle). E.g.
 
