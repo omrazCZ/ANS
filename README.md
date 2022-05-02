@@ -32,7 +32,7 @@ Basketball season schedule, Play-By-Play data can be fetched using the _basketba
 
 ```basketball_reference_api.py```
 
-FNext step, lineups and matchups are extracted using the script:
+Next step, lineups and matchups are extracted using the script:
 ```get_lineups.py```
 
 
