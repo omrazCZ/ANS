@@ -34,6 +34,11 @@ names(matchup) <- c('from','to','weight','score',"home_team","away_team","time")
 matchup$to <- matchup$to+1
 matchup$from <- matchup$from+1
 matchup <- matchup[!(matchup$weight==0),]
+
+
+#consider time effect
+matchup$score_adjusted <- matchup$score/matchup$time 
+
 matchup$weight <- factor(matchup$weight)
 
 print(paste("# Lineups: ",nrow(lineup)))
@@ -263,10 +268,20 @@ Now we group multiple edges between two nodes which have the same direction by s
 ```{r warning=FALSE}
 edge_centric <- read.csv("edge_centric.csv")
 
+
+# group by absolute scores
+#distinct_matchup <- matchup %>% 
+#  group_by(from, to) %>%                            
+#  summarise(score = sum(score)) %>%
+#  mutate(result = sign(score)) %>% ungroup()
+
+
+# group by absolute scores
 distinct_matchup <- matchup %>% 
-  group_by(from, to) %>%                            # multiple group columns
-  summarise(score = sum(score)) %>%
-  mutate(result = sign(score)) %>% ungroup()
+  group_by(from, to) %>%                            
+  summarise(score_adjusted = sum(score_adjusted)) %>%
+  mutate(result = sign(score_adjusted)) %>% ungroup()
+
 
 print(nrow(distinct_matchup))
 print(nrow(edge_centric))
