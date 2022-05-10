@@ -206,6 +206,11 @@ DistsDir$node2 <- edge_centric$node2
 
 print(nrow(DistsDir))
 for (row in c(1:nrow(DistsDir))){
+  
+  if (row %% 100 == 0){
+    print(row)
+  }
+  
   i <- pairs$from[[row]]
   j <- pairs$to[[row]]
   
@@ -257,6 +262,68 @@ for (row in c(1:nrow(DistsDir))){
 write.csv(DistsDir, "DistsDir.csv", row.names = F)
 
 ```
+
+```{r}
+# Repeat for undirected paths
+DistsUndir <- data.frame(matrix(NA, nrow = nrow(edge_centric), ncol = 18))
+colnames(DistsUndir) <- colnames(edge_centric)
+DistsUndir$node1 <- edge_centric$node1
+DistsUndir$node2 <- edge_centric$node2
+
+print(nrow(DistsUndir))
+for (row in c(1:nrow(DistsUndir))){
+  
+  if (row %% 100 == 0){
+    print(row)
+  }
+  
+  i <- pairs$from[[row]]
+  j <- pairs$to[[row]]
+  
+  for (k in c(1:4)){
+    weight1 <- map[paste(name_list[k],1,sep="")] 
+    weight2 <- map[paste(name_list[k],2,sep="")]
+    temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
+    LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
+    DistsUndir[row, name_list[k]] <- LSP
+  }
+  
+  for (k in c(5:8)){
+    weight1 <- map[paste(name_list[k],1,sep="")] 
+    weight2 <- map[paste(name_list[k],2,sep="")]
+    temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
+    LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
+    DistsUndir[row, name_list[k]] <- LSP
+  }
+  
+  for (k in c(9:12)){
+    weight1 <- map[paste(name_list[k],1,sep="")] 
+    weight2 <- map[paste(name_list[k],2,sep="")]
+    temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
+    LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
+    DistsUndir[row, name_list[k]] <- LSP
+  }
+  
+  for (k in c(13:16)){
+    weight1 <- map[paste(name_list[k],1,sep="")] 
+    weight2 <- map[paste(name_list[k],2,sep="")]
+    temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
+    LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
+    DistsUndir[row, name_list[k]] <- LSP
+  }
+
+  
+}
+
+write.csv(DistsUndir, "DistsUndir.csv", row.names = F)
+
+```
+
+
 ```{r}
 # Repeat for always undiercted edges
 
