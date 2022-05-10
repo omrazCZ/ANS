@@ -179,6 +179,7 @@ Inout <- function(lineup = new_lineup, matchup, source, target, names, t=row){
     
  #   edge_centric[t+1,names] <<- LSP
     edge_centric[t,names] <<- lineup[lineup$id == i,act1] * lineup[lineup$id == j,act2] / (LSP*LSP)
+    print(LSP)
     
 }
 
@@ -190,8 +191,74 @@ InInOutOut <- function(lineup = new_lineup, matchup, source, target, names, t=ro
     LSP <- distances(temp_net, v=V(temp_net)[id==source], to=V(temp_net)[id==target], mode="all")
  #   edge_centric[t+1,names] <<- LSP
     edge_centric[t,names] <<- lineup[lineup$id == i,act1] * lineup[lineup$id == j,act2] / (LSP*LSP)
+    print(LSP)
     
 }
+
+```
+
+```{r}
+# Calculate shortest (directed) paths
+DistsDir <- data.frame(matrix(NA, nrow = nrow(edge_centric), ncol = 18))
+colnames(DistsDir) <- colnames(edge_centric)
+DistsDir$node1 <- edge_centric$node1
+DistsDir$node2 <- edge_centric$node2
+
+print(nrow(DistsDir))
+for (row in c(1:nrow(DistsDir))){
+  i <- pairs$from[[row]]
+  j <- pairs$to[[row]]
+  
+  for (k in c(1:4)){
+    weight1 <- map[paste(name_list[k],1,sep="")] 
+    weight2 <- map[paste(name_list[k],2,sep="")]
+    temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
+    LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="in")
+    if (LSP == Inf){
+      LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
+    }
+    DistsDir[row, name_list[k]] <- LSP
+  }
+  
+  for (k in c(5:8)){
+    weight1 <- map[paste(name_list[k],1,sep="")] 
+    weight2 <- map[paste(name_list[k],2,sep="")]
+    temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
+    LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
+    DistsDir[row, name_list[k]] <- LSP
+  }
+  
+  for (k in c(9:12)){
+    weight1 <- map[paste(name_list[k],1,sep="")] 
+    weight2 <- map[paste(name_list[k],2,sep="")]
+    temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
+    LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="out")
+    if (LSP == Inf){
+      LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
+    }
+    DistsDir[row, name_list[k]] <- LSP
+  }
+  
+  for (k in c(13:16)){
+    weight1 <- map[paste(name_list[k],1,sep="")] 
+    weight2 <- map[paste(name_list[k],2,sep="")]
+    temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
+    LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
+    DistsDir[row, name_list[k]] <- LSP
+  }
+
+  
+}
+
+write.csv(DistsDir, "DistsDir.csv", row.names = F)
+
+```
+```{r}
+# Repeat for always undiercted edges
 
 ```
 
@@ -209,7 +276,7 @@ InoutC <- cmpfun(Inout)
 InInOutOutC <- cmpfun(InInOutOut)
 
 #getFeatures <- function(){
-  for (row in c(1:nrow(pairs))){ # row <- 1 start 15:00
+  for (row in c(1:nrow(pairs))){ # row <- 1
       if (row %% 100 == 0){
         print(row)
       }
@@ -234,14 +301,14 @@ InInOutOutC <- cmpfun(InInOutOut)
         weight1 <- map[paste(name_list[k],1,sep="")] 
         weight2 <- map[paste(name_list[k],2,sep="")]
         temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        InoutC(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k], t=row)
+        InInOutOutC(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k], t=row)
       }
       
       for (k in c(9:12)){
         weight1 <- map[paste(name_list[k],1,sep="")] 
         weight2 <- map[paste(name_list[k],2,sep="")]
         temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        InInOutOutC(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k], t=row)
+        InoutC(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k], t=row)
       }
       
       for (k in c(13:16)){
