@@ -1,0 +1,241 @@
+----
+title: "Preferential Attachment Analysis"
+output: html_document
+---
+
+## Packages
+
+```{r message=FALSE, warning=FALSE}
+library(compiler)
+library(dplyr)
+library(tidygraph)
+library(ggraph)
+library(tidyverse)
+library(sna)
+library(igraph)
+library(visNetwork)
+library(networkD3)
+library(caret)
+library(zeallot)
+```
+
+## Import network data
+
+The dataset has two dataframes that we can use to get the information about nodes and the information about edges. We rename the columns of the matchup dataframe to fit the edges definition and we have an id to the lineup dataframe to refer to lineup players by their node id.
+
+The original dataset of matchups has lineups numbered from zero, but tidygraph (and most packages in R) have indices that start in 1. For that we add 1 to the entries of the edges table and also to lineup dable.
+
+```{r message=FALSE, warning=FALSE}
+lineup <- read_csv("lineups.csv")
+lineup$id <- lineup$id +1 
+names(lineup) <- c('id','label','team')
+
+matchups <- read_csv("matchups.csv")
+matchup <- matchups[,c("home_players","away_players","type","weight","home_team","away_team","time")]
+names(matchup) <- c('from','to','weight','score',"home_team","away_team","time")
+matchup$to <- matchup$to+1
+matchup$from <- matchup$from+1
+matchup <- matchup[!(matchup$weight==0),]
+
+
+#consider time effect
+matchup$score_adjusted <- matchup$score/matchup$time 
+
+matchup$weight <- factor(matchup$weight)
+
+matchup$RowID <- seq.int(nrow(matchup))
+
+
+print(paste("# Lineups: ",nrow(lineup)))
+print(paste("# Matchups: ",nrow(matchups)))
+print(paste("# Matchups after filtering: ",nrow(matchup),"(differences:",nrow(matchups)-nrow(matchup),")"))
+```
+
+
+
+## Preferential Attachment for Home/away team lineups
+
+### Home team lineups analysis
+
+Order matchup by id of Home team lineup and treat time steps as the times that a lineup showed up as a home team. For example, if lineup A showed up as Home team at the first time, we treat this matchup as happened at t_0. The the second time corresponds to t_1.  
+
+```{r message=FALSE, warning=FALSE}
+# pre-analysis
+home_matchup <- matchup[order(matchup$from),] %>% 
+  group_by(from) %>% 
+  mutate(time_step = 1:n()) %>% ungroup()
+head(home_matchup)
+
+# Histgram of counts
+hist(count(home_matchup,from)[count(home_matchup,from)$n>1,]$n,xlim=c(0,50),freq = T,main="Histgram of counts",xlab="counts",breaks=150)
+count(home_matchup,from) %>%  ggplot(aes(x = from, y = n)) + geom_col()
+```
+
+Add positive outdegree at each time_step for each home lineups. Save results to RData.
+```{r message=FALSE, warning=FALSE}
+home_counts <- count(home_matchup,from)
+home_matchup_degree <- home_matchup[0,] %>% add_column(deg_pout = NA)
+
+for (i in c(1:nrow(home_counts))) {
+  id <- home_counts$from[[i]]
+  temp <-  home_matchup[home_matchup$from == id, ] %>% add_column(deg_pout = NA)
+  temp$weight <- as.numeric(temp$weight)
+  temp$weight[temp$weight == 1] <- 0
+  temp$weight[temp$weight == 2] <- 1
+  for (j in c(1:nrow(temp))){
+    temp[j,"deg_pout"] <- sum(temp$weight[1:j])
+  }
+  home_matchup_degree <- rbind(home_matchup_degree,temp)
+}
+
+save(home_matchup_degree, file = "RData/home_matchup_degree.RData")
+```
+
+Calculate the probability of a home lineup win at current time step if they have positive outdegree = past_deg. 
+```{r message=FALSE, warning=FALSE}
+load("RData/home_matchup_degree.RData")
+attraction_home <- function(past, now, past_deg,now_deg){
+    data <- home_matchup_degree %>% 
+      inner_join(home_matchup_degree %>% filter(time_step==past) %>%select(from)) %>%
+      inner_join(home_matchup_degree %>% filter(time_step==now) %>% select(from)) %>%
+      filter(time_step == past | time_step == now)
+    
+    data_denominator <- data %>% filter(deg_pout ==past_deg & time_step==past)
+    data_numerator <- data %>% filter(deg_pout== now_deg & time_step==now) %>%
+        inner_join(data_denominator %>% select(from))
+
+    return(list(nrow(data_numerator),nrow(data_denominator)))
+}
+```
+
+
+Combine the results in a dataframe.
+```{r message=FALSE, warning=FALSE}
+home_counts <- count(home_matchup_degree,from) # count number of time steps for each node
+home_win_prob <- data.frame(past_deg=as.numeric(), now_deg = as.numeric(), win_prob = as.numeric(), n1 =as.numeric(), n2 = as.numeric(), stringsAsFactors=FALSE)
+
+
+for (i in c(1:(max(home_matchup_degree$deg_pout)-1))){
+    home_win_prob[i, "past_deg"] <- i
+    home_win_prob[i, "now_deg"] <- i+1
+    n1 <- 0
+    n2 <- 0
+    deg1 <- home_win_prob$past_deg[[i]]
+    deg2 <- home_win_prob$now_deg[[i]]
+    for (j in c(2:max(home_counts$n))){
+        c(a,b) %<-% attraction_home(past = j-1, now = j, past_deg = i,now_deg = i+1)
+        n1 <- n1 + a
+        n2 <- n2 + b
+      }
+    home_win_prob[i,"win_prob"] <- n1/n2
+    home_win_prob[i,"n1"] <- n1
+    home_win_prob[i,"n2"] <- n2
+}
+
+save(home_win_prob, file = "RData/home_win_prob.RData")
+```
+
+
+```{r message=FALSE, warning=FALSE}
+load("RData/home_win_prob.RData")
+
+
+reg_home <- lm(win_prob ~ past_deg, data = home_win_prob[home_win_prob$n2>70,])
+summary(reg_home)
+
+plot(x=home_win_prob$past_deg,y=home_win_prob$win_prob,main = "Probability of winning with home lineups",xlab = "Past wins", ylab = "Odds of winning")+abline(v=home_win_prob$past_deg[home_win_prob$n2<70][1],col="blue")+abline(reg_home,col="red",lwd=3, lty=2)
+```
+
+
+
+### Away team lineups analysis
+
+Order matchup by id of Away team lineup and treat time steps as the times that a lineup showed up as an away team. For example, if lineup A showed up as away team at the first time, we treat this matchup as happened at t_0. The the second time corresponds to t_1.  
+
+
+```{r message=FALSE, warning=FALSE}
+# pre-analysis
+away_matchup <- matchup[order(matchup$to),] %>% 
+  group_by(to) %>% 
+  mutate(time_step = 1:n()) %>% ungroup()
+head(away_matchup)
+
+count(away_matchup,to) %>%  ggplot(aes(x = to, y = n)) + geom_col()
+```
+
+
+Add positive indegree at each time_step for each away lineups. Save results to RData.
+```{r message=FALSE, warning=FALSE}
+away_counts <- count(away_matchup,to)
+away_matchup_degree <- away_matchup[0,] %>% add_column(deg_pin = NA)
+
+for (i in c(1:nrow(away_counts))) {
+  id <- away_counts$to[[i]]
+  temp <-  away_matchup[away_matchup$to == id, ] %>% add_column(deg_pin = NA)
+  temp$weight <- as.numeric(temp$weight)
+  temp$weight[temp$weight == 1] <- 1
+  temp$weight[temp$weight == 2] <- 0
+  for (j in c(1:nrow(temp))){
+    temp[j,"deg_pin"] <- sum(temp$weight[1:j])
+  }
+  away_matchup_degree <- rbind(away_matchup_degree,temp)
+}
+
+save(away_matchup_degree, file = "RData/away_matchup_degree.RData")
+```
+
+Calculate the probability of an away lineup win at current time step if they have positive indegree = past_deg. 
+```{r message=FALSE, warning=FALSE}
+load("RData/away_matchup_degree.RData")
+attraction_away <- function(past, now, past_deg,now_deg){
+    data <- away_matchup_degree %>% 
+      inner_join(away_matchup_degree %>% filter(time_step==past) %>%select(to)) %>%
+      inner_join(away_matchup_degree %>% filter(time_step==now) %>% select(to)) %>%
+      filter(time_step == past | time_step == now)
+    
+    data_denominator <- data %>% filter(deg_pin ==past_deg & time_step==past)
+    data_numerator <- data %>% filter(deg_pin== now_deg & time_step==now) %>%
+        inner_join(data_denominator %>% select(to))
+
+    return(list(nrow(data_numerator),nrow(data_denominator)))
+}
+```
+
+
+Combine the results in a dataframe.
+```{r message=FALSE, warning=FALSE}
+away_counts <- count(away_matchup_degree,to) # count number of time steps for each node
+away_win_prob <- data.frame(past_deg=as.numeric(), now_deg = as.numeric(), win_prob = as.numeric(),n1 =as.numeric(), n2 = as.numeric(),  stringsAsFactors=FALSE)
+
+
+for (i in c(1:(max(away_matchup_degree$deg_pin)-1))){
+    away_win_prob[i, "past_deg"] <- i
+    away_win_prob[i, "now_deg"] <- i+1
+    n1 <- 0
+    n2 <- 0
+    deg1 <- away_win_prob$past_deg[[i]]
+    deg2 <- away_win_prob$now_deg[[i]]
+    for (j in c(2:max(away_counts$n))){
+        c(a,b) %<-% attraction_away(past = j-1, now = j, past_deg = i,now_deg = i+1)
+        n1 <- n1 + a
+        n2 <- n2 + b
+      }
+    away_win_prob[i,"win_prob"] <- n1/n2
+    away_win_prob[i,"n1"] <- n1
+    away_win_prob[i,"n2"] <- n2
+}
+
+save(away_win_prob, file = "RData/away_win_prob.RData")
+```
+
+
+Regression analysis
+```{r message=FALSE, warning=FALSE}
+load("RData/away_win_prob.RData")
+
+reg_away <- lm(win_prob ~ past_deg, data = away_win_prob[away_win_prob$n2>70,])
+summary(reg_away)
+
+plot(x=away_win_prob$past_deg,y=away_win_prob$win_prob,main = "Probability of winning with away lineups",xlab = "Past wins", ylab = "Odds of winning")+abline(v=away_win_prob$past_deg[away_win_prob$n2<70][1],col="blue")+abline(reg_away,col="red",lwd=3, lty=2)
+```
+
