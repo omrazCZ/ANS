@@ -108,3 +108,15 @@ The folder "basketball_data"(The dataset can be found at https://www.kaggle.com/
 Some of the files are too large, therefore we provide a script convert_data.py to generate them localy (assuming you have dowloaded the sqlite files from Kaggle). E.g.
 
 ```python convert_data.py archive/database.sqlite soccer_data```
+
+
+## Tests
+
+Some tests:
+
+```math
+SE = \frac{\sigma}{\sqrt{n}}
+```
+
+more text
+
