@@ -324,12 +324,6 @@ write.csv(DistsUndir, "DistsUndir.csv", row.names = F)
 ```
 
 
-```{r}
-# Repeat for always undiercted edges
-
-```
-
-
 ISM Metrics
 ```{r}
 # Now we calculate the ISM metrics for each pair of nodes in 16 network views. (takes ~ 2h)
@@ -398,6 +392,36 @@ write.csv(edge_centric, "edge_centric.csv", row.names = F)
 Special cases: how to deal with the edges between i & j when filtering edges. Now if there is a positive edge pointing from A to B, then "NinPin" will still keep that edge.
 
 
+```{r}
+# alternative edge centric
+edge_centric <- read.csv("edge_centric.csv")
+
+DistsUndir <- read.csv("DistsUndir.csv")
+DistsDir <- read.csv("DistsDir.csv")
+edge_centric_dir <- edge_centric
+edge_centric_undir <- edge_centric
+
+for (row in c(1:nrow(edge_centric))){# row<-1
+  if (row %% 1000 == 0){
+        print(row)
+  }
+  
+  i <- edge_centric_dir$node1[row]
+  j <- edge_centric_dir$node2[row]
+  for (col in c(3:18)) {# col <- 3
+    act1 <- strsplit(colnames(edge_centric_dir[col]), split = "_")[[1]][1]
+    act2 <- strsplit(colnames(edge_centric_dir[col]), split = "_")[[1]][2]
+    edge_centric_dir[row,col] <- new_lineup[new_lineup$id == i,][[act1]] * new_lineup[new_lineup$id == j,][[act2]] / (DistsDir[row,col]**2)
+    edge_centric_undir[row,col] <- new_lineup[new_lineup$id == i,][[act1]] * new_lineup[new_lineup$id == j,][[act2]] / (DistsUndir[row,col]**2)
+
+  }
+}
+
+write.csv(edge_centric_undir, "edge_centric_undir.csv", row.names = F)
+write.csv(edge_centric_dir, "edge_centric_dir.csv", row.names = F)
+```
+
+
 Now we group multiple edges between two nodes which have the same direction by summing up the scores.  
 ```{r warning=FALSE}
 edge_centric <- read.csv("edge_centric.csv")
@@ -430,6 +454,7 @@ print(nrow(edge_centric))
 ```{r warning=FALSE}
 # Data
 data <- edge_centric %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
+#data <- edge_centric_undir %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
 data$result <- ifelse(data$result==1,"win","loss")
 # Inspect the data
 sample_n(data, 3)
