@@ -51,7 +51,8 @@ print(paste("# Matchups after filtering: ",nrow(matchup),"(differences:",nrow(ma
 
 Now both dataframes are ready to build a graph. With the function tbl_graph, we can use both dataframes, telling it to build an directed network with the parameter directed set to TRUE:
 ```{r}
-basenet <- tbl_graph(nodes = lineup, edges = matchup, directed = T,node_key = "label")
+matchup_plot <- matchup
+basenet <- tbl_graph(nodes = lineup, edges = matchup_plot, directed = T,node_key = "label")
 basenet
 ```
 As you can see, the result has a nodes part with the name of lineup players and their node id. The edges have endpoints in the columns "to" and "from" and a weight column that gives the results of the matchups.
@@ -121,8 +122,12 @@ distances(
 An example to calculate shortest path.
 ```{r}
 el <- matrix(ncol=3, byrow=TRUE,
-             c(1,3,1,2,4,1,3,4,1) )
+             c(2,1,1,2,4,1,1,3,-1,3,4,-1) )
+print(el)
 g2 <- add_edges(make_empty_graph(4), t(el[,1:2]), weight=el[,3])
+vertex_attr(g2) <- list(name = LETTERS[1:4],
+                        color = rep("yellow", gorder(g2)))
+vertex_attr(g2, "label") <- V(g2)$name
 plot(g2)
 distances(g2,v=1, to=2,mode="in") #from 2 all pointed to 1
 distances(g2,v=1, to=2,mode="out") #from 1 all pointed to 2
@@ -652,7 +657,7 @@ basenet  %>% activate(edges) %>% filter(home_team %in% c("POR","CHA") & away_tea
   labs(linetype = "score") +
   theme_graph()
 ```
- Only filterring on nodes will not work since there are too many isolated nodes.
+ Only filtering on nodes will not work since there are too many isolated nodes.
 
 ```{r warning=FALSE}
 basenet  %>% activate(nodes) %>% filter(team %in% c("POR","CHA")) %>% 
@@ -683,13 +688,13 @@ induced_subgraph(
  But we can also choose a subgraph and then filter the nonisolated nodes. In this way, we don't need to filter the edges.
 
 ```{r warning=FALSE}
-subgraph <- to_subgraph(basenet, team %in% c("POR","CHA"), subset_by = "nodes")$subgraph 
+subgraph <- to_subgraph(basenet, team %in% c("POR","CHA"), subset_by = "nodes")$subgraph  %>% activate(edges) %>% mutate(edgetype=as.factor(-1*as.numeric(as.character(weight))))
 subgraph %>% activate(nodes) %>% filter(!node_is_isolated()) %>% ggraph(layout = 'fr') + 
   geom_node_point(aes(color = team),size=5)  + 
   geom_node_text(aes(label=id)) +
-  geom_edge_fan(alpha = .7,aes(linetype = weight), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
-  scale_linetype_manual(values=c( "dotted","solid","long dash" )) +
-  theme_graph()
+  geom_edge_fan2(alpha = .7,aes(linetype = edgetype), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
+  theme_graph()+
+  guides(edge_linetype = guide_legend(title="weight",label=F)) 
 ```
 
 

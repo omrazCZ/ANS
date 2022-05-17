@@ -15,7 +15,6 @@ library(sna)
 library(igraph)
 library(visNetwork)
 library(networkD3)
-library(caret)
 library(zeallot)
 ```
 
