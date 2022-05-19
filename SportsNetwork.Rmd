@@ -210,7 +210,7 @@ DistsDir$node1 <- edge_centric$node1
 DistsDir$node2 <- edge_centric$node2
 
 print(nrow(DistsDir))
-for (row in c(1:nrow(DistsDir))){
+for (row in c(1:nrow(DistsDir))){#row <- 1
   
   if (row %% 100 == 0){
     print(row)
@@ -560,7 +560,7 @@ for (i in kernels){
   print(mean(y_pred == testDataScaled$result))
 }
 ```
-## Gaussian processes - In progress
+## Gaussian processes - Computationally infeasible
 ```{r}
 library(mlegp)
 library(caTools) 
@@ -606,41 +606,27 @@ summary(model)
 ```
 
 
-
-## Light GBM - In progress
-```{r}
-set.seed(1)
-library(Matrix)
-library(MLmetrics)
-library(lightgbm)
-
-trainDataScaled[-3] = scale(train.data[-3])
-testDataScaled[-3] = scale(test.data[-3])
-
-varnames = setdiff(colnames(trainDataScaled), c("id", "target"))
-
-train_sparse = Matrix(as.matrix(data[!is.na(target), varnames, with=F]), sparse=TRUE)
-test_sparse  = Matrix(as.matrix(data[is.na(target) , varnames, with=F]), sparse=TRUE)
-
-y_train  = data[!is.na(target),target]
-test_ids = data[is.na(target) ,id]
-
-classifier = svm(formula = result ~ .,
-                 data = trainDataScaled,
-                 type = 'C-classification',
-                 kernel = 'linear') # TODO: try different kernels
-
-y_pred = predict(classifier, newdata = testDataScaled[-3])
-mean(y_pred == testDataScaled$result)
-
-```
-
 ## Random Forrests, Ensemble - In progress
 
 ```{r}
 library("randomForest")
 
-model <- randomForest(result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=trainDataScaled, type="classification", maxnodes = 5, ntree = 10)
+# Separate features and target
+X_train <- trainDataScaled %>% 
+  select(Pin_Pout,Pin_Nout,Nin_Pout,Nin_Nout,Pin_Pin,Pin_Nin,Nin_Pin,Nin_Nin,Pout_Pin,Pout_Nin,Nout_Pin,Nout_Nin,Pout_Pout,Pout_Nout,Nout_Pout,Nout_Nout)
+y_train <- as.factor(trainDataScaled$result)
+
+X_test <- testDataScaled %>% 
+  select(Pin_Pout,Pin_Nout,Nin_Pout,Nin_Nout,Pin_Pin,Pin_Nin,Nin_Pin,Nin_Nin,Pout_Pin,Pout_Nin,Nout_Pin,Nout_Nin,Pout_Pout,Pout_Nout,Nout_Pout,Nout_Nout)
+y_test <- as.factor(testDataScaled$result)
+
+# Train the model 
+model <- randomForest(x = X_train, y = y_train, maxnodes = 10, ntree = 10)
+
+predictions <- predict(model, X_test)
+print("Random Forrest Accuracy: ")
+print(mean(predictions == y_test))
+
 ```
 
 ## Network plots
