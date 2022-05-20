@@ -104,7 +104,7 @@ basenet %>%
   as_tibble()
 ```
 Shortest path between each pair of nodes:
-Could try different ways to get shortest path
+Use undirected edges in this case (later experiment with directed edges)
 ```{r warning=FALSE}
 distances(
   basenet,
@@ -146,7 +146,7 @@ edge_centric <- data.frame(node1=numeric(), node2=numeric(),
                            Pin_Pin=numeric(), Pin_Nin=numeric(), Nin_Pin=numeric(), Nin_Nin=numeric(),
                            Pout_Pin=numeric(), Pout_Nin=numeric(), Nout_Pin=numeric(), Nout_Nin=numeric(),
                            Pout_Pout=numeric(), Pout_Nout=numeric(), Nout_Pout=numeric(), Nout_Nout=numeric(),
-                           stringsAsFactors=FALSE) 
+                           stringsAsFactors=FALSE)
 
 ```
 
@@ -560,11 +560,12 @@ for (i in kernels){
   print(mean(y_pred == testDataScaled$result))
 }
 ```
+
+
 ## Gaussian processes - Computationally infeasible
 ```{r}
 library(mlegp)
 library(caTools) 
-library(caret)  
 library(kernlab)
 
 set.seed(1)
