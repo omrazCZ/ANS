@@ -568,14 +568,29 @@ library(mlegp)
 library(caTools) 
 library(kernlab)
 
+# Separate features and target
+X_train <- trainDataScaled %>% 
+  select(Pin_Pout,Pin_Nout,Nin_Pout,Nin_Nout,Pin_Pin,Pin_Nin,Nin_Pin,Nin_Nin,Pout_Pin,Pout_Nin,Nout_Pin,Nout_Nin,Pout_Pout,Pout_Nout,Nout_Pout,Nout_Nout)
+y_train <- as.factor(trainDataScaled$result)
+X_small <- X_train[1:1000,]
+y_small <- y_train[1:1000]
+y_small <- as.factor(y_small)
+
+X_test <- testDataScaled %>% 
+  select(Pin_Pout,Pin_Nout,Nin_Pout,Nin_Nout,Pin_Pin,Pin_Nin,Nin_Pin,Nin_Nin,Pout_Pin,Pout_Nin,Nout_Pin,Nout_Nin,Pout_Pout,Pout_Nout,Nout_Pout,Nout_Nout)
+y_test <- as.factor(testDataScaled$result)
+
 set.seed(1)
-model <- gausspr(result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=trainDataScaled, kernel="vanilladot")
+GPData <- trainDataScaled
+GPData$result <- as.factor(GPData$result)
+#model <- gausspr(x=X_small, y=y_small, kernel="vanilladot")
+model <- gausspr(formula = result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=GPData, kernel="vanilladot")
 summary(model)
 
-y_pred = predict(model, testDataScaled)
+y_pred = predict(model, X_small)
   
 print("Gaussian Process Accuracy: ")
-print(mean(y_pred == testDataScaled$result))
+print(mean(y_pred == y_test))
 
 ```
 
@@ -584,14 +599,12 @@ res <- (y_pred == testDataScaled$result)
 
 write.csv(res, "res.csv", row.names = F)
 
-
-
 ```
 
 
 Try different kernels # TODO later, takes too long
 ```{r}
-gpKernels = c("rbfdot", "vanilladot", "tanhdot", "laplacedot", "besseldot")
+gpKernels = c("rbfdot", "anovadot", "laplacedot")
 
 for (i in gpKernels){
   set.seed(1)
@@ -601,6 +614,8 @@ summary(model)
 
   y_pred = predict(model, testDataScaled)
   
+  print("Kernel:")
+  print(i)
   print("Gaussian Process Accuracy: ")
   print(mean(y_pred == testDataScaled$result))
 }
