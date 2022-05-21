@@ -204,7 +204,7 @@ InInOutOut <- function(lineup = new_lineup, matchup, source, target, names, t=ro
 
 ```{r}
 # Calculate shortest (directed) paths
-DistsDir <- data.frame(matrix(NA, nrow = nrow(edge_centric), ncol = 18))
+DistsDir <- data.frame(matrix(NA, nrow = nrow(pairs), ncol = 18))
 colnames(DistsDir) <- colnames(edge_centric)
 DistsDir$node1 <- edge_centric$node1
 DistsDir$node2 <- edge_centric$node2
@@ -270,7 +270,7 @@ write.csv(DistsDir, "DistsDir.csv", row.names = F)
 
 ```{r}
 # Repeat for undirected paths
-DistsUndir <- data.frame(matrix(NA, nrow = nrow(edge_centric), ncol = 18))
+DistsUndir <- data.frame(matrix(NA, nrow = nrow(pairs), ncol = 18))
 colnames(DistsUndir) <- colnames(edge_centric)
 DistsUndir$node1 <- edge_centric$node1
 DistsUndir$node2 <- edge_centric$node2
@@ -430,7 +430,8 @@ write.csv(edge_centric_dir, "edge_centric_dir.csv", row.names = F)
 Now we group multiple edges between two nodes which have the same direction by summing up the scores.  
 ```{r warning=FALSE}
 edge_centric <- read.csv("edge_centric.csv")
-
+edge_centric_dir <- read.csv("edge_centric_dir.csv")
+edge_centric_undir <- read.csv("edge_centric_undir.csv")
 
 # group by absolute scores
 #distinct_matchup <- matchup %>% 
@@ -583,8 +584,8 @@ y_test <- as.factor(testDataScaled$result)
 set.seed(1)
 GPData <- trainDataScaled
 GPData$result <- as.factor(GPData$result)
-#model <- gausspr(x=X_small, y=y_small, kernel="vanilladot")
-model <- gausspr(formula = result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=GPData, kernel="vanilladot")
+#model <- gausspr(x=X_small, y=y_small, kernel="rbfdot")
+model <- gausspr(formula = result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=GPData, kernel="rbfdot")
 summary(model)
 
 y_pred = predict(model, X_small)
