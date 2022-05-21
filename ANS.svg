@@ -21,9 +21,9 @@
      inkscape:pageopacity="0.0"
      inkscape:pagecheckerboard="0"
      showgrid="false"
-     inkscape:zoom="1"
-     inkscape:cx="132.5"
-     inkscape:cy="322"
+     inkscape:zoom="2.2952612"
+     inkscape:cx="660.70913"
+     inkscape:cy="322.62124"
      inkscape:window-width="1920"
      inkscape:window-height="1001"
      inkscape:window-x="-9"
@@ -209,4 +209,129 @@
      style="fill:#ff0000;stroke-width:0.185644"
      d="m 153.57364,473.47127 -0.69616,-0.36752 v -2.67475 -2.67476 l 0.53917,-0.38392 c 1.09364,-0.77874 2.5486,-0.29416 3.10337,1.0336 0.39114,0.93614 0.33115,3.09098 -0.11014,3.95598 -0.43224,0.84726 -1.19758,1.49858 -1.74742,1.48709 -0.21596,-0.005 -0.70593,-0.17358 -1.08882,-0.37572 z"
      id="path1548" />
+  <ellipse
+     style="fill:#ffffff"
+     id="path771"
+     cx="470.5"
+     cy="76"
+     rx="14.5"
+     ry="20" />
+  <circle
+     style="fill:#2ad4ff"
+     id="path1004"
+     cx="657.5"
+     cy="216.5"
+     r="27.5" />
+  <circle
+     style="fill:#2ad4ff"
+     id="path1004-6"
+     cx="657"
+     cy="303"
+     r="27.5" />
+  <circle
+     style="fill:#2ad4ff"
+     id="path1004-7"
+     cx="657"
+     cy="381"
+     r="27.5" />
+  <circle
+     style="fill:#ff0000"
+     id="path1004-2"
+     cx="507"
+     cy="219"
+     r="27.5" />
+  <circle
+     style="fill:#ff0000"
+     id="path1004-2-7"
+     cx="508"
+     cy="303"
+     r="27.5" />
+  <circle
+     style="fill:#ff0000"
+     id="path1004-2-4"
+     cx="506"
+     cy="379"
+     r="27.5" />
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="468"
+     y="451"
+     id="text4005"><tspan
+       sodipodi:role="line"
+       id="tspan4003"
+       x="468"
+       y="451"
+       style="font-size:26.6667px">Home</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:26.6667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="622"
+     y="452"
+     id="text6931"><tspan
+       sodipodi:role="line"
+       id="tspan6929"
+       x="622"
+       y="452"
+       style="font-size:26.6667px">Away</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif"
+     x="492"
+     y="228"
+     id="text15813"><tspan
+       sodipodi:role="line"
+       x="492"
+       y="228"
+       id="tspan16137">h1</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif"
+     x="642.9707"
+     y="311.11719"
+     id="text15813-55"><tspan
+       sodipodi:role="line"
+       x="642.9707"
+       y="311.11719"
+       id="tspan16137-58">a2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif"
+     x="641.9707"
+     y="388.11719"
+     id="text15813-6"><tspan
+       sodipodi:role="line"
+       x="641.9707"
+       y="388.11719"
+       id="tspan16137-7">a3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif"
+     x="493.9707"
+     y="313.11719"
+     id="text15813-5"><tspan
+       sodipodi:role="line"
+       x="493.9707"
+       y="313.11719"
+       id="tspan16137-5">h2</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif"
+     x="489.9707"
+     y="388.11719"
+     id="text15813-7"><tspan
+       sodipodi:role="line"
+       x="489.9707"
+       y="388.11719"
+       id="tspan16137-1">h3</tspan></text>
+  <text
+     xml:space="preserve"
+     style="font-size:24px;line-height:1.25;font-family:sans-serif"
+     x="642.9707"
+     y="226.11719"
+     id="text15813-2"><tspan
+       sodipodi:role="line"
+       x="642.9707"
+       y="226.11719"
+       id="tspan16137-0">a1</tspan></text>
 </svg>
