@@ -15,7 +15,6 @@ library(sna)
 library(igraph)
 library(visNetwork)
 library(networkD3)
-library(caret)
 ```
 
 ## Import network data
@@ -44,29 +43,35 @@ matchup$weight <- factor(matchup$weight)
 print(paste("# Lineups: ",nrow(lineup)))
 print(paste("# Matchups: ",nrow(matchups)))
 print(paste("# Matchups after filtering: ",nrow(matchup),"(differences:",nrow(matchups)-nrow(matchup),")"))
+
+
 ```
 
+
+Train-test sets split
+
+```{r message=FALSE, warning=FALSE}
+pairs <- matchup %>% distinct(from, to, .keep_all = F)
+print(paste("pairs: ", nrow(pairs)))
+
+train_pairs <- pairs[1:floor(0.8*nrow(pairs)),,] %>% mutate(pair = mapply(c, from, to, SIMPLIFY  = F))
+print(paste("train pairs: ",nrow(train_pairs)))
+
+matchup <- matchup %>% mutate(pair = mapply(c, from, to, SIMPLIFY  = F))
+matchup$split <- list(matchup$pair)[[1]] %in% list(train_pairs$pair)[[1]]
+print(paste("train edges: ", sum(matchup$split)))
+
+matchup_train <- matchup[matchup$split,]
+```
 
 ## Create network
 
 Now both dataframes are ready to build a graph. With the function tbl_graph, we can use both dataframes, telling it to build an directed network with the parameter directed set to TRUE:
 ```{r}
-matchup_plot <- matchup
-basenet <- tbl_graph(nodes = lineup, edges = matchup_plot, directed = T,node_key = "label")
+basenet <- tbl_graph(nodes = lineup, edges = matchup_train, directed = T,node_key = "label")
 basenet
 ```
 As you can see, the result has a nodes part with the name of lineup players and their node id. The edges have endpoints in the columns "to" and "from" and a weight column that gives the results of the matchups.
-
-## Network analysis
-
-We can group the nodes by team to see how the lineups distribute over teams.
-```{r}
-basenet %>% activate(nodes) %>%  as_tibble() %>%
-  group_by(team)%>%
-  summarise(count = n() ) %>% arrange(count) -> n_lineups
-
-n_lineups
-```
 
 
 Furthermore, we can calculate the degree centrality of each node. Since we have 4 cases for each node: positive in edge, positive out edge, negative in edge, negative in edge, the degree will also have 4 versions corresponding to each case.  
@@ -104,7 +109,7 @@ basenet %>%
   as_tibble()
 ```
 Shortest path between each pair of nodes:
-Use undirected edges in this case (later experiment with directed edges)
+Could try different ways to get shortest path
 ```{r warning=FALSE}
 distances(
   basenet,
@@ -140,13 +145,12 @@ distances(g2,v=1, to=2,mode="all") #direction of edges ignored
 Define a dataframe to store ISM features. 
 ```{r warning=FALSE}
 
-pairs <- matchup %>% distinct(from, to, .keep_all = F)
 edge_centric <- data.frame(node1=numeric(), node2=numeric(),
                            Pin_Pout=numeric(), Pin_Nout=numeric(), Nin_Pout=numeric(), Nin_Nout=numeric(),
                            Pin_Pin=numeric(), Pin_Nin=numeric(), Nin_Pin=numeric(), Nin_Nin=numeric(),
                            Pout_Pin=numeric(), Pout_Nin=numeric(), Nout_Pin=numeric(), Nout_Nin=numeric(),
                            Pout_Pout=numeric(), Pout_Nout=numeric(), Nout_Pout=numeric(), Nout_Nout=numeric(),
-                           stringsAsFactors=FALSE)
+                           stringsAsFactors=FALSE) 
 
 ```
 
@@ -167,47 +171,13 @@ map <- c(
  map[paste(name_list[1],2,sep="")]
 ```
 
-Here is a function for calculating ISM metrics
-```{r warning=FALSE}
-Inout <- function(lineup = new_lineup, matchup, source, target, names, t=row){
-    act1 <- strsplit(names, split = "_")[[1]][1]
-    act2 <- strsplit(names, split = "_")[[1]][2]
-    
-  
-    temp_net <- tbl_graph(nodes = lineup, edges = matchup, directed = T,node_key = "label")
-    # LSP: length of shortest path
-    LSP <- distances(temp_net, v=V(temp_net)[id==source], to=V(temp_net)[id==target], mode="out")
-    
-    if (LSP == Inf){
-      LSP <- distances(temp_net, v=V(temp_net)[id==source], to=V(temp_net)[id==target], mode="all")
-    }
-    
- #   edge_centric[t+1,names] <<- LSP
-    edge_centric[t,names] <<- lineup[lineup$id == i,act1] * lineup[lineup$id == j,act2] / (LSP*LSP)
-    print(LSP)
-    
-}
-
-# More efficient version of InOut (we know that we must disregard the direction of edges in this case)
-InInOutOut <- function(lineup = new_lineup, matchup, source, target, names, t=row){
-    act1 <- strsplit(names, split = "_")[[1]][1]
-    act2 <- strsplit(names, split = "_")[[1]][2]
-    temp_net <- tbl_graph(nodes = lineup, edges = matchup, directed = T,node_key = "label")
-    LSP <- distances(temp_net, v=V(temp_net)[id==source], to=V(temp_net)[id==target], mode="all")
- #   edge_centric[t+1,names] <<- LSP
-    edge_centric[t,names] <<- lineup[lineup$id == i,act1] * lineup[lineup$id == j,act2] / (LSP*LSP)
-    print(LSP)
-    
-}
-
-```
 
 ```{r}
 # Calculate shortest (directed) paths
 DistsDir <- data.frame(matrix(NA, nrow = nrow(pairs), ncol = 18))
 colnames(DistsDir) <- colnames(edge_centric)
-DistsDir$node1 <- edge_centric$node1
-DistsDir$node2 <- edge_centric$node2
+DistsDir$node1 <- pairs$from
+DistsDir$node2 <- pairs$to
 
 print(nrow(DistsDir))
 for (row in c(1:nrow(DistsDir))){#row <- 1
@@ -222,7 +192,7 @@ for (row in c(1:nrow(DistsDir))){#row <- 1
   for (k in c(1:4)){
     weight1 <- map[paste(name_list[k],1,sep="")] 
     weight2 <- map[paste(name_list[k],2,sep="")]
-    temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_edge <- matchup_train[((matchup_train$to==i & matchup_train$weight==weight1 ) | (matchup_train$from==j & matchup_train$weight==weight2) | (matchup_train$from != i & matchup_train$from != j & matchup_train$to != i & matchup_train$to != j)),]
     temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
     LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="in")
     if (LSP == Inf){
@@ -234,7 +204,7 @@ for (row in c(1:nrow(DistsDir))){#row <- 1
   for (k in c(5:8)){
     weight1 <- map[paste(name_list[k],1,sep="")] 
     weight2 <- map[paste(name_list[k],2,sep="")]
-    temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_edge <- matchup_train[((matchup_train$to==i & matchup_train$weight==weight1 ) | (matchup_train$to==j & matchup_train$weight==weight2) | (matchup_train$from != i & matchup_train$from != j & matchup_train$to != i & matchup_train$to != j)),]
     temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
     LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
     DistsDir[row, name_list[k]] <- LSP
@@ -243,7 +213,7 @@ for (row in c(1:nrow(DistsDir))){#row <- 1
   for (k in c(9:12)){
     weight1 <- map[paste(name_list[k],1,sep="")] 
     weight2 <- map[paste(name_list[k],2,sep="")]
-    temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_edge <- matchup_train[((matchup_train$from==i & matchup_train$weight==weight1 ) | (matchup_train$to==j & matchup_train$weight==weight2) | (matchup_train$from != i & matchup_train$from != j & matchup_train$to != i & matchup_train$to != j)),]
     temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
     LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="out")
     if (LSP == Inf){
@@ -255,7 +225,7 @@ for (row in c(1:nrow(DistsDir))){#row <- 1
   for (k in c(13:16)){
     weight1 <- map[paste(name_list[k],1,sep="")] 
     weight2 <- map[paste(name_list[k],2,sep="")]
-    temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_edge <- matchup_train[((matchup_train$from==i & matchup_train$weight==weight1 ) | (matchup_train$from==j & matchup_train$weight==weight2) | (matchup_train$from != i & matchup_train$from != j & matchup_train$to != i & matchup_train$to != j)),]
     temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
     LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
     DistsDir[row, name_list[k]] <- LSP
@@ -264,7 +234,7 @@ for (row in c(1:nrow(DistsDir))){#row <- 1
   
 }
 
-write.csv(DistsDir, "DistsDir.csv", row.names = F)
+write.csv(DistsDir, "new_results/Time_Series_DistsDir.csv", row.names = F)
 
 ```
 
@@ -272,8 +242,8 @@ write.csv(DistsDir, "DistsDir.csv", row.names = F)
 # Repeat for undirected paths
 DistsUndir <- data.frame(matrix(NA, nrow = nrow(pairs), ncol = 18))
 colnames(DistsUndir) <- colnames(edge_centric)
-DistsUndir$node1 <- edge_centric$node1
-DistsUndir$node2 <- edge_centric$node2
+DistsUndir$node1 <- pairs$from
+DistsUndir$node2 <- pairs$to
 
 print(nrow(DistsUndir))
 for (row in c(1:nrow(DistsUndir))){
@@ -288,7 +258,7 @@ for (row in c(1:nrow(DistsUndir))){
   for (k in c(1:4)){
     weight1 <- map[paste(name_list[k],1,sep="")] 
     weight2 <- map[paste(name_list[k],2,sep="")]
-    temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_edge <- matchup_train[((matchup_train$to==i & matchup_train$weight==weight1 ) | (matchup_train$from==j & matchup_train$weight==weight2) | (matchup_train$from != i & matchup_train$from != j & matchup_train$to != i & matchup_train$to != j)),]
     temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
     LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
     DistsUndir[row, name_list[k]] <- LSP
@@ -297,7 +267,7 @@ for (row in c(1:nrow(DistsUndir))){
   for (k in c(5:8)){
     weight1 <- map[paste(name_list[k],1,sep="")] 
     weight2 <- map[paste(name_list[k],2,sep="")]
-    temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_edge <- matchup_train[((matchup_train$to==i & matchup_train$weight==weight1 ) | (matchup_train$to==j & matchup_train$weight==weight2) | (matchup_train$from != i & matchup_train$from != j & matchup_train$to != i & matchup_train$to != j)),]
     temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
     LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
     DistsUndir[row, name_list[k]] <- LSP
@@ -306,7 +276,7 @@ for (row in c(1:nrow(DistsUndir))){
   for (k in c(9:12)){
     weight1 <- map[paste(name_list[k],1,sep="")] 
     weight2 <- map[paste(name_list[k],2,sep="")]
-    temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_edge <- matchup_train[((matchup_train$from==i & matchup_train$weight==weight1 ) | (matchup_train$to==j & matchup_train$weight==weight2) | (matchup_train$from != i & matchup_train$from != j & matchup_train$to != i & matchup_train$to != j)),]
     temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
     LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
     DistsUndir[row, name_list[k]] <- LSP
@@ -315,7 +285,7 @@ for (row in c(1:nrow(DistsUndir))){
   for (k in c(13:16)){
     weight1 <- map[paste(name_list[k],1,sep="")] 
     weight2 <- map[paste(name_list[k],2,sep="")]
-    temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
+    temp_edge <- matchup_train[((matchup_train$from==i & matchup_train$weight==weight1 ) | (matchup_train$from==j & matchup_train$weight==weight2) | (matchup_train$from != i & matchup_train$from != j & matchup_train$to != i & matchup_train$to != j)),]
     temp_net <- tbl_graph(nodes = new_lineup, edges = temp_edge, directed = T,node_key = "label")
     LSP <- distances(temp_net, v=V(temp_net)[id==i], to=V(temp_net)[id==j], mode="all")
     DistsUndir[row, name_list[k]] <- LSP
@@ -324,96 +294,38 @@ for (row in c(1:nrow(DistsUndir))){
   
 }
 
-write.csv(DistsUndir, "DistsUndir.csv", row.names = F)
+write.csv(DistsUndir, "new_results/Time_Series_DistsUndir.csv", row.names = F)
 
 ```
 
-
-ISM Metrics
-```{r}
-# Now we calculate the ISM metrics for each pair of nodes in 16 network views. (takes ~ 2h)
-# May be skipped.
-
-#Compile the functions.
-#Then run compiled version.
-
-
-InoutC <- cmpfun(Inout)
-InInOutOutC <- cmpfun(InInOutOut)
-
-#getFeatures <- function(){
-  for (row in c(1:nrow(pairs))){ # row <- 1
-      if (row %% 100 == 0){
-        print(row)
-      }
-    
-      i <- pairs$from[[row]]
-      edge_centric[row,"node1"] <- i 
-      j <- pairs$to[[row]]
-      edge_centric[row,"node2"] <- j 
-      # edge_centric[row,"class"] = "ISM"
-      # edge_centric[row,"node1"] = i
-      # edge_centric[row,"node2"] = j
-      # edge_centric[row,"class"] = "LSP"
-      
-      for (k in c(1:4)){
-        weight1 <- map[paste(name_list[k],1,sep="")] 
-        weight2 <- map[paste(name_list[k],2,sep="")]
-        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        InoutC(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k], t=row)
-      }
-      
-      for (k in c(5:8)){
-        weight1 <- map[paste(name_list[k],1,sep="")] 
-        weight2 <- map[paste(name_list[k],2,sep="")]
-        temp_edge <- matchup[((matchup$to==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        InInOutOutC(lineup = new_lineup,matchup = temp_edge,source = j,target = i,names = name_list[k], t=row)
-      }
-      
-      for (k in c(9:12)){
-        weight1 <- map[paste(name_list[k],1,sep="")] 
-        weight2 <- map[paste(name_list[k],2,sep="")]
-        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$to==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        InoutC(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k], t=row)
-      }
-      
-      for (k in c(13:16)){
-        weight1 <- map[paste(name_list[k],1,sep="")] 
-        weight2 <- map[paste(name_list[k],2,sep="")]
-        temp_edge <- matchup[((matchup$from==i & matchup$weight==weight1 ) | (matchup$from==j & matchup$weight==weight2) | (matchup$from != i & matchup$from != j & matchup$to != i & matchup$to != j)),]
-        InInOutOutC(lineup = new_lineup,matchup = temp_edge,source = i,target = j,names = name_list[k], t=row)
-      }
-      
-  }
-#}
-
-#getFeaturesC <- cmpfun(getFeatures)
-
-#getFeaturesC()
-
-write.csv(edge_centric, "edge_centric.csv", row.names = F)
-```
 
 Special cases: how to deal with the edges between i & j when filtering edges. Now if there is a positive edge pointing from A to B, then "NinPin" will still keep that edge.
 
 
 ```{r}
 # alternative edge centric
-edge_centric <- read.csv("edge_centric.csv")
 
-DistsUndir <- read.csv("DistsUndir.csv")
-DistsDir <- read.csv("DistsDir.csv")
-edge_centric_dir <- edge_centric
-edge_centric_undir <- edge_centric
+DistsUndir <- read.csv("new_results/Time_Series_DistsUndir.csv")
+DistsDir <- read.csv("new_results/Time_Series_DistsDir.csv")
 
-for (row in c(1:nrow(edge_centric))){# row<-1
+edge_centric_dir <- data.frame(matrix(NA, nrow = nrow(pairs), ncol = 18))
+colnames(edge_centric_dir) <- colnames(edge_centric)
+edge_centric_dir$node1 <- pairs$from
+edge_centric_dir$node2 <- pairs$to
+
+edge_centric_undir <- data.frame(matrix(NA, nrow = nrow(pairs), ncol = 18))
+colnames(edge_centric_undir) <- colnames(edge_centric)
+edge_centric_undir$node1 <- pairs$from
+edge_centric_undir$node2 <- pairs$to
+
+for (row in c(1:nrow(pairs))){
   if (row %% 1000 == 0){
         print(row)
   }
   
   i <- edge_centric_dir$node1[row]
   j <- edge_centric_dir$node2[row]
-  for (col in c(3:18)) {# col <- 3
+  for (col in c(3:18)) {
     act1 <- strsplit(colnames(edge_centric_dir[col]), split = "_")[[1]][1]
     act2 <- strsplit(colnames(edge_centric_dir[col]), split = "_")[[1]][2]
     edge_centric_dir[row,col] <- new_lineup[new_lineup$id == i,][[act1]] * new_lineup[new_lineup$id == j,][[act2]] / (DistsDir[row,col]**2)
@@ -422,16 +334,28 @@ for (row in c(1:nrow(edge_centric))){# row<-1
   }
 }
 
-write.csv(edge_centric_undir, "edge_centric_undir.csv", row.names = F)
-write.csv(edge_centric_dir, "edge_centric_dir.csv", row.names = F)
+write.csv(edge_centric_dir, "new_results/Time_Series_edge_centric_dir_quadratic.csv", row.names = F)
+write.csv(edge_centric_undir, "new_results/Time_Series_edge_centric_undir_quadratic.csv", row.names = F)
+
+#write.csv(edge_centric_dir, "new_results/Time_Series_edge_centric_dir_linear.csv", row.names = F)
+#write.csv(edge_centric_undir, "new_results/Time_Series_edge_centric_undir_linear.csv", row.names = F)
 ```
 
 
+
+
+# Model
+
 Now we group multiple edges between two nodes which have the same direction by summing up the scores.  
 ```{r warning=FALSE}
-edge_centric <- read.csv("edge_centric.csv")
-edge_centric_dir <- read.csv("edge_centric_dir.csv")
-edge_centric_undir <- read.csv("edge_centric_undir.csv")
+#edge_centric_dir <- read.csv("new_results/Time_Series_edge_centric_dir_quadratic.csv")
+#edge_centric_undir <- read.csv("new_results/Time_Series_edge_centric_undir_quadratic.csv")
+
+edge_centric_dir <- read.csv("new_results/Time_Series_edge_centric_dir_linear.csv")
+edge_centric_undir <- read.csv("new_results/Time_Series_edge_centric_undir_linear.csv")
+
+print(nrow(edge_centric_dir))
+print(nrow(edge_centric_undir))
 
 # group by absolute scores
 #distinct_matchup <- matchup %>% 
@@ -439,50 +363,40 @@ edge_centric_undir <- read.csv("edge_centric_undir.csv")
 #  summarise(score = sum(score)) %>%
 #  mutate(result = sign(score)) %>% ungroup()
 
-
 # group by adjusted scores
 distinct_matchup <- matchup %>% 
   group_by(from, to) %>%                            
   summarise(score_adjusted = sum(score_adjusted)) %>%
   mutate(result = sign(score_adjusted)) %>% ungroup()
-
-
-print(nrow(distinct_matchup))
-print(nrow(edge_centric))
 ```
 
-
-
-
-
-
-## Model -- Logistic Regression
-```{r warning=FALSE}
+```{r message=FALSE, warning=FALSE}
 # Data
-data <- edge_centric %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
-#data <- edge_centric_undir %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
+#data <- edge_centric_dir %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
+data <- edge_centric_undir %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
 data$result <- ifelse(data$result==1,"win","loss")
 # Inspect the data
 sample_n(data, 3)
 ```
 
+
 Train/test split
 ```{r}
 # Split the data into training and test set
 
-set.seed(1)
-training.samples <- data$result %>% 
-  createDataPartition(p = 0.9, list = FALSE)
-train.data  <- data[training.samples, ]
-test.data <- data[-training.samples, ]
+#set.seed(1)
+#training.samples <- data$result %>%   createDataPartition(p = 0.8, list = FALSE)
+#train.data  <- data[training.samples, ]
+#test.data <- data[-training.samples, ]
 
 # The first 80% of matchups will be used for training, rest for testing (since we want to predict future results)
 trainPrecentage <- 0.8
-train.data <- data[1:floor(0.8*nrow(data)),]
-test.data <- data[(floor(0.8*nrow(data))+1):nrow(data),]
+train.data <- data[1:floor(trainPrecentage*nrow(data)),]
+test.data <- data[(floor(trainPrecentage*nrow(data))+1):nrow(data),]
 ```
 
-Logistic regression (paper's approach)
+
+## Model -- Logistic regression (paper's approach)
 ```{r warning=FALSE}
 # Fit the model
 set.seed(1)
@@ -529,16 +443,6 @@ testDataScaled$result <- ifelse(testDataScaled$result=="win", 1, 0)
 trainDataScaled <- replace(trainDataScaled, is.na(trainDataScaled), 0)
 testDataScaled <- replace(testDataScaled, is.na(testDataScaled), 0)
 
-# Fit the model
-classifier = svm(formula = result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout,
-                 data = trainDataScaled,
-                 type = 'C-classification',
-                 kernel = 'linear') # TODO: try different kernels
-
-y_pred = predict(classifier, newdata = testDataScaled)
-# Get the accuracy
-mean(y_pred == testDataScaled$result)
-
 ```
 
 Try different kernels
@@ -561,37 +465,21 @@ for (i in kernels){
   print(mean(y_pred == testDataScaled$result))
 }
 ```
-
-
 ## Gaussian processes - Computationally infeasible
 ```{r}
 library(mlegp)
 library(caTools) 
+library(caret)  
 library(kernlab)
 
-# Separate features and target
-X_train <- trainDataScaled %>% 
-  select(Pin_Pout,Pin_Nout,Nin_Pout,Nin_Nout,Pin_Pin,Pin_Nin,Nin_Pin,Nin_Nin,Pout_Pin,Pout_Nin,Nout_Pin,Nout_Nin,Pout_Pout,Pout_Nout,Nout_Pout,Nout_Nout)
-y_train <- as.factor(trainDataScaled$result)
-X_small <- X_train[1:1000,]
-y_small <- y_train[1:1000]
-y_small <- as.factor(y_small)
-
-X_test <- testDataScaled %>% 
-  select(Pin_Pout,Pin_Nout,Nin_Pout,Nin_Nout,Pin_Pin,Pin_Nin,Nin_Pin,Nin_Nin,Pout_Pin,Pout_Nin,Nout_Pin,Nout_Nin,Pout_Pout,Pout_Nout,Nout_Pout,Nout_Nout)
-y_test <- as.factor(testDataScaled$result)
-
 set.seed(1)
-GPData <- trainDataScaled
-GPData$result <- as.factor(GPData$result)
-#model <- gausspr(x=X_small, y=y_small, kernel="rbfdot")
-model <- gausspr(formula = result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=GPData, kernel="rbfdot")
+model <- gausspr(result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=trainDataScaled, kernel="vanilladot")
 summary(model)
 
-y_pred = predict(model, X_small)
+y_pred = predict(model, testDataScaled)
   
 print("Gaussian Process Accuracy: ")
-print(mean(y_pred == y_test))
+print(mean(y_pred == testDataScaled$result))
 
 ```
 
@@ -600,12 +488,14 @@ res <- (y_pred == testDataScaled$result)
 
 write.csv(res, "res.csv", row.names = F)
 
+
+
 ```
 
 
 Try different kernels # TODO later, takes too long
 ```{r}
-gpKernels = c("rbfdot", "anovadot", "laplacedot")
+gpKernels = c("rbfdot", "vanilladot", "tanhdot", "laplacedot", "besseldot")
 
 for (i in gpKernels){
   set.seed(1)
@@ -615,8 +505,6 @@ summary(model)
 
   y_pred = predict(model, testDataScaled)
   
-  print("Kernel:")
-  print(i)
   print("Gaussian Process Accuracy: ")
   print(mean(y_pred == testDataScaled$result))
 }
@@ -645,63 +533,3 @@ print("Random Forrest Accuracy: ")
 print(mean(predictions == y_test))
 
 ```
-
-## Network plots
-
-Now we can plot this network. (Note that the `echo = FALSE` parameter was added to the code chunk to prevent printing of the R code that generated the plot.) Then we find that the network is too large to plot. Thus we tried to plot a subset of network.
-
-```{r pressure, echo=FALSE, warning=FALSE}
-# plot(basenet)
-basenet  %>% activate(edges) %>% filter(home_team %in% c("POR","CHA") & away_team %in% c("POR","CHA")) %>% activate(nodes) %>% filter(!node_is_isolated()) %>%
-  ggraph(layout = 'fr') + 
-  geom_node_point(aes(color = team),size=5)  + 
-  geom_node_text(aes(label=id))+
-  geom_edge_fan(alpha = .7, aes(linetype = weight), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
-  labs(linetype = "score") +
-  theme_graph()
-```
- Only filtering on nodes will not work since there are too many isolated nodes.
-
-```{r warning=FALSE}
-basenet  %>% activate(nodes) %>% filter(team %in% c("POR","CHA")) %>% 
-  ggraph(layout = "fr") + 
-  geom_node_point(aes(color = team),size=5)  +
-  geom_node_text(aes(label=id))+
-  geom_edge_link(alpha = .7, aes(linetype = weight), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
-  theme_graph()
-```
-
-
-
-```{r warning=FALSE}
-induced_subgraph(
-  basenet,
-  vids = c(lineup$id[lineup$team %in% c("POR","CHA")]),
-  impl = c("auto")
-) %>%
-  ggraph(layout = 'fr') + 
-  geom_node_point(aes(color = team),size=5)  + 
-  #geom_node_text(aes(label=players)) +
-  geom_edge_link(alpha = .7,aes(linetype = weight), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
-  scale_linetype_manual(values=c("dotted","solid","long dash")) +
-  theme_graph()
-```
-
-
- But we can also choose a subgraph and then filter the nonisolated nodes. In this way, we don't need to filter the edges.
-
-```{r warning=FALSE}
-subgraph <- to_subgraph(basenet, team %in% c("POR","CHA"), subset_by = "nodes")$subgraph  %>% activate(edges) %>% mutate(edgetype=as.factor(-1*as.numeric(as.character(weight))))
-subgraph %>% activate(nodes) %>% filter(!node_is_isolated()) %>% ggraph(layout = 'fr') + 
-  geom_node_point(aes(color = team),size=5)  + 
-  geom_node_text(aes(label=id)) +
-  geom_edge_fan2(alpha = .7,aes(linetype = edgetype), arrow=arrow(length = unit(4,"mm")), end_cap = circle(2, 'mm'))  +  
-  theme_graph()+
-  guides(edge_linetype = guide_legend(title="weight",label=F)) 
-```
-
-
-```{r warning=FALSE}
-visNetwork(nodes = ,edges = )
-```
-
