@@ -69,7 +69,11 @@ The code is in R Markdown file:
 
 ```SportsNetwork.Rmd```
 
-Note: The cell labeled 'ISM Metrics' takes a long time to recompute and may be skipped.
+Note: The computation of (un)directed shortest paths takes a long time to recompute
+
+You can skip this and continue with the provided csv.
+
+Please resume with the cell labeled 'Edge centric generation'.
 
 The generated features are stored in the csv file: "edge_centric.csv".
 
