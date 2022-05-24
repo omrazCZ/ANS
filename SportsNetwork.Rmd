@@ -303,7 +303,7 @@ Special cases: how to deal with the edges between i & j when filtering edges. No
 ```{r Edge centric generation}
 # Generate edge centric
 
-penalization <- 2 # Change this to 1 for linear penalization
+penalization <- 1 # Change this to 1 for linear penalization
 
 DistsUndir <- read.csv("results/Time_Series_DistsUndir.csv")
 DistsDir <- read.csv("results/Time_Series_DistsDir.csv")
@@ -334,11 +334,11 @@ for (row in c(1:nrow(pairs))){
   }
 }
 
-write.csv(edge_centric_dir, "results/Time_Series_edge_centric_dir_quadratic.csv", row.names = F)
-write.csv(edge_centric_undir, "results/Time_Series_edge_centric_undir_quadratic.csv", row.names = F)
+#write.csv(edge_centric_dir, "results/Time_Series_edge_centric_dir_quadratic.csv", row.names = F)
+#write.csv(edge_centric_undir, "results/Time_Series_edge_centric_undir_quadratic.csv", row.names = F)
 
-#write.csv(edge_centric_dir, "results/Time_Series_edge_centric_dir_linear.csv", row.names = F)
-#write.csv(edge_centric_undir, "results/Time_Series_edge_centric_undir_linear.csv", row.names = F)
+write.csv(edge_centric_dir, "results/Time_Series_edge_centric_dir_linear.csv", row.names = F)
+write.csv(edge_centric_undir, "results/Time_Series_edge_centric_undir_linear.csv", row.names = F)
 ```
 
 
