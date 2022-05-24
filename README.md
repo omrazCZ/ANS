@@ -47,7 +47,7 @@ The outputs are two csv files: `lineups.csv` and `matchups.csv`. Lineups provide
 
 ## Network Analysis
 
-We build a directed network from the cleaned matchups and lineups data. In this network, nodes are distinct lineups and edges are the matchups, which always start from the Home team and point to the Away team. Notice that there could be multiple edges between two nodes with the same direction. Furthermore we drop the edges corresponding to a _tie_ result since it would include additional bias if we treat them as either win or loss.  
+We build a directed network from the cleaned matchups and lineups data. In this network, nodes are distinct lineups and edges are the matchups, which always start from the Home team and point to the Away team. Notice that there could be multiple edges between two nodes with the same direction. Furthermore, we drop the edges corresponding to a _tie_ result since it would include additional bias if we treat them as either win or loss.  
 
 The code is in the R Markdown file: 
 
@@ -73,7 +73,7 @@ Note: The computation of (un)directed shortest paths takes a long time to recomp
 
 You can skip this step and continue with the provided csv files in the `results` folder.
 
-Please resume with the cell labeled 'Edge centric generation'.
+Please resume with the cell labelled 'Edge centric generation'.
 
 ## Results
 
@@ -90,7 +90,7 @@ SVM (polynomial kernel)
 Accuracy: 0.53
 
 SVM (RBF kernel)
-Accuracy: 0.95 **(most successfull)**
+Accuracy: 0.95 **(most successful)**
 
 SVM (sigmoid kernel)
 Accuracy: 0.70
@@ -106,6 +106,6 @@ Add additional input parameters (e.g. plus/minus points, rebounds, etc.).
 ## Other data 
 The folder `basketball_data` contains a dataset that was part of a Kaggle challenge (can be found at https://www.kaggle.com/datasets/wyattowalsh/basketball). We provide the data tables transformed into csv files. The folders `english-premier-league_zip` and `soccer_data` contain sports data that we collected but did not use here, they can be saved for future research. (The soccer dataset is available at https://www.kaggle.com/datasets/hugomathien/soccer).
 
-Some of the files are too large, therefore we provide a script `convert_data.py` to generate them localy (assuming you have dowloaded the sqlite files from Kaggle). E.g.:
+Some of the files are too large, therefore we provide a script `convert_data.py` to generate them locally (assuming you have downloaded the sqlite files from Kaggle). E.g.:
 
 ```python convert_data.py archive/database.sqlite soccer_data```
