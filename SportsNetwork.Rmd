@@ -235,6 +235,8 @@ for (row in c(1:nrow(DistsDir))){#row <- 1
 write.csv(DistsDir, "results/Time_Series_DistsDir.csv", row.names = F)
 
 ```
+
+
 ```{r}
 # Repeat for undirected paths
 DistsUndir <- data.frame(matrix(NA, nrow = nrow(pairs), ncol = 18))
@@ -582,7 +584,7 @@ induced_subgraph(
 ```
 
 
- But we can also choose a subgraph and then filter the nonisolated nodes. In this way, we don't need to filter the edges.
+ But we can also choose a subgraph and then filter the non-isolated nodes. In this way, we don't need to filter the edges.
 
 ```{r warning=FALSE}
 subgraph <- to_subgraph(basenet, team %in% c("POR","CHA"), subset_by = "nodes")$subgraph  %>% activate(edges) %>% mutate(edgetype=as.factor(-1*as.numeric(as.character(weight))))
