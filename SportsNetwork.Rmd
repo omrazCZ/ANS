@@ -365,8 +365,8 @@ print(nrow(edge_centric_dir))
 ## Model -- Logistic Regression
 ```{r warning=FALSE}
 # Data
-data <- edge_centric_dir %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
-#data <- edge_centric_undir %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
+#data <- edge_centric_dir %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
+data <- edge_centric_undir %>% inner_join(distinct_matchup,by=c("node1"="from","node2"="to"))
 data$result <- ifelse(data$result==1,"win","loss")
 # Inspect the data
 sample_n(data, 3)
@@ -472,8 +472,8 @@ library(kernlab)
 X_train <- trainDataScaled %>% 
   select(Pin_Pout,Pin_Nout,Nin_Pout,Nin_Nout,Pin_Pin,Pin_Nin,Nin_Pin,Nin_Nin,Pout_Pin,Pout_Nin,Nout_Pin,Nout_Nin,Pout_Pout,Pout_Nout,Nout_Pout,Nout_Nout)
 y_train <- as.factor(trainDataScaled$result)
-X_small <- X_train[1:1000,]
-y_small <- y_train[1:1000]
+X_small <- X_train[1:100,]
+y_small <- y_train[1:100]
 y_small <- as.factor(y_small)
 
 X_test <- testDataScaled %>% 
@@ -483,9 +483,8 @@ y_test <- as.factor(testDataScaled$result)
 set.seed(1)
 GPData <- trainDataScaled
 GPData$result <- as.factor(GPData$result)
-#model <- gausspr(x=X_small, y=y_small, kernel="rbfdot")
-model <- gausspr(formula = result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=GPData, kernel="rbfdot")
-summary(model)
+#model <- gausspr(x=X_small, y=y_small, kernel="rbfdot") # Training on a tiny dataset (less memory intensive, but poor accuracy)
+model <- gausspr(x=X_train, y=y_train, kernel="rbfdot")
 
 y_pred = predict(model, X_small)
   
@@ -502,8 +501,8 @@ gpKernels = c("rbfdot", "anovadot", "laplacedot")
 for (i in gpKernels){
   set.seed(1)
   
-  model <- gausspr(result ~ Pin_Pout+Pin_Nout+Nin_Pout+Nin_Nout+Pin_Pin+Pin_Nin+Nin_Pin+Nin_Nin+Pout_Pin+Pout_Nin+Nout_Pin+Nout_Nin+Pout_Pout+Pout_Nout+Nout_Pout+Nout_Nout, data=trainDataScaled, kernel=i)
-summary(model)
+  model <- gausspr(x=X_train, y=y_train, kernel=i)
+  summary(model)
 
   y_pred = predict(model, testDataScaled)
   
@@ -519,6 +518,8 @@ summary(model)
 
 ```{r}
 library("randomForest")
+
+set.seed(1)
 
 # Separate features and target
 X_train <- trainDataScaled %>% 
