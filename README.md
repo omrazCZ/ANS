@@ -99,7 +99,7 @@ Random forests
 Accuracy: 0.85
 
 
-# Preferential Attachment Analysis
+## Preferential Attachment Analysis
 
 Regression analysis on the odds of winning given the number of past wins for both home lineups and away lineups proves that there is no evidence showing that the lineups that have won many times more likely to win. 
 
@@ -112,7 +112,7 @@ Note: The computation of odds of winning given the number of past wins takes a l
 You can skip this step and continue with the provided RData files in the `RData` folder.
 
 
-# Future Work
+## Future Work
 
 Add additional input parameters (e.g. plus/minus points, rebounds, etc.).
 
