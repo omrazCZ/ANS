@@ -43,7 +43,7 @@ The lineups and matchups data are cleaned using the script:
 
 ```generate_network_data.py```
 
-The outputs are two csv files: `lineups.csv` and `matchups.csv`. Lineups provide all the distinct lineups with unique id and the team name. Matchups provide players' names, team name, lineups' id, matchup time, points scored for both teams and their differences as _weight_. The results of matchups as _type_(+1 for a Home team win, -1 for a Home team loss, 0 for tie). 
+The outputs are two csv files: `lineups.csv` and `matchups.csv`. Lineups provide all the distinct lineups with unique id and the team name. Matchups provide players' names, team name, lineups' id, matchup time, points scored for both teams and their differences as _weight_. The results of matchups are the sign of _weight_ named as _type_(+1 for a Home team win, -1 for a Home team loss, 0 for tie). 
 
 ## Network Analysis
 
@@ -57,11 +57,11 @@ Example plots of lineups from two opposing team and their matchups can be seen u
 
 ## Models
 
-We tried out several common Machine Learning models with the ISM network features to predict the results of matchups (given the edge and its direction): Logistic Regression (paper's method), SVMs (with different kernels), Gaussian processes, Random forests, etc. 
+We tried out several common Machine Learning models with the ISM network features to predict the results of matchups (given a lineup of Home team and a lineup of Away team): Logistic Regression (paper's method), SVMs (with different kernels), Gaussian processes, Random forests, etc. 
 
-To generate the ISM features for each distinct pair of nodes, we calculated the positive (negative) in (out) degree for each node and found the length of shortest path in the view of 16 networks.
+To generate the ISM features for each distinct pair of nodes, we calculated the positive (negative) in (out) degree for each node and found the length of shortest path(directed path/undirected path) in the view of 16 networks.
 
-Also, we group together edges that have the same direction (simply summing up all their scores) and take the sign as the final result for that pair of nodes.  
+Also, we group together edges that have the same direction (by summing up all their time-adjusted scores) and take the sign as the final result for that pair of nodes.  
 
 The features are then used as input to the models.
 
@@ -97,6 +97,20 @@ Accuracy: 0.70
 
 Random forests
 Accuracy: 0.85
+
+
+# Preferential Attachment Analysis
+
+Regression analysis on the odds of winning given the number of past wins for both home lineups and away lineups proves that there is no evidence showing that the lineups that have won many times more likely to win. 
+
+The code is in the R Markdown file: 
+
+```Preferential Attachment Analysis.Rmd```
+
+Note: The computation of odds of winning given the number of past wins takes a long time to recompute.
+
+You can skip this step and continue with the provided RData files in the `RData` folder.
+
 
 # Future Work
 
