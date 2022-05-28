@@ -1,4 +1,4 @@
-# Sports Network Analysis - Basketball 
+# Sports Network Analysis - Basketball Team Composition
 
 
 ## Task
